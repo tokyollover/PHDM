@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "notebooklm": {
+      "command": "node",
+      "args": [
+        "${workspaceFolder}/servers/notebooklm-mcp/dist/index.js"
+      ],
+      "env": {
+        "NOTEBOOKLM_COOKIE": "${env:NOTEBOOKLM_COOKIE}"
+      },
+      "description": "NotebookLM MCP Server - Zero-hallucination answers from your NotebookLM notebooks"
+    }
+  }
+}
