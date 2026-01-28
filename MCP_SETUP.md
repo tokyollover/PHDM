@@ -127,13 +127,11 @@ setx NOTEBOOKLM_COOKIE "votre_cookie_ici"
 
 #### Option 2 : Fichier .env local (Pour le développement)
 
-Créez un fichier `.env` à la racine du projet :
+Créez un fichier `.env` à la racine du projet (déjà configuré dans `.gitignore`) :
 
 ```bash
 NOTEBOOKLM_COOKIE=votre_cookie_ici
 ```
-
-⚠️ **Important** : Ajoutez `.env` à votre `.gitignore` pour ne pas committer vos cookies !
 
 ### Comment Obtenir votre Cookie NotebookLM
 
@@ -325,8 +323,8 @@ Pour les questions sur ce projet PHDM :
 
 ⚠️ **Important** :
 
-1. **Ne commitez JAMAIS** votre cookie `NOTEBOOKLM_COOKIE` dans Git
-2. Ajoutez `.env` à votre `.gitignore`
+1. **Ne committez JAMAIS** votre cookie `NOTEBOOKLM_COOKIE` dans Git
+2. Le fichier `.env` est déjà configuré dans `.gitignore` pour éviter de le committer accidentellement
 3. Les cookies expirent - vous devrez les renouveler périodiquement
 4. N'utilisez que des notebooks contenant des informations non sensibles
 
