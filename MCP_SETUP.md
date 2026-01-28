@@ -48,26 +48,24 @@ git --version   # N'importe quelle version récente
 
 ## 📥 Installation
 
-### Étape 1 : Exécuter le script d'installation
+### Étape 1 : Installation avec Docker (Recommandé)
 
-Le projet inclut un script automatisé qui :
-1. Clone le dépôt notebooklm-mcp dans `servers/notebooklm-mcp`
-2. Installe toutes les dépendances npm
-3. Compile le projet TypeScript
+Cette version utilise Docker pour encapsuler le navigateur et ses dépendances, évitant les conflits avec votre système.
 
+1. Le dépôt a été cloné dans `servers/roomi-notebooklm-mcp`.
+2. L'image Docker `roomi-notebooklm-mcp` a été construite localement.
+
+Si vous devez reconstruire l'image manuellement :
 ```bash
-# Depuis la racine du projet PHDM
-chmod +x setup_mcp.sh
-./setup_mcp.sh
+cd servers/roomi-notebooklm-mcp
+docker build -t roomi-notebooklm-mcp .
 ```
 
 ### Étape 2 : Vérifier l'installation
 
-Après l'exécution du script, vérifiez que le serveur est installé :
-
+Vérifiez que l'image existe :
 ```bash
-ls -la servers/notebooklm-mcp/
-# Vous devriez voir un dossier 'dist' avec les fichiers compilés
+docker images | grep roomi-notebooklm-mcp
 ```
 
 ---
@@ -76,28 +74,46 @@ ls -la servers/notebooklm-mcp/
 
 ### Configuration VS Code
 
-Le fichier `.vscode/mcp.json` a été créé automatiquement avec la configuration suivante :
+Le fichier `.vscode/mcp.json` a été configuré pour utiliser la version **Docker** du serveur, ce qui garantit une isolation et une stabilité maximales.
 
 ```json
 {
   "mcpServers": {
     "notebooklm": {
-      "command": "node",
+      "command": "docker",
       "args": [
-        "${workspaceFolder}/servers/notebooklm-mcp/dist/index.js"
+        "run",
+        "-i", 
+        "--rm", 
+        "--init",
+        "-e", "NOTEBOOKLM_COOKIE=${env:NOTEBOOKLM_COOKIE}",
+        "-v", "notebooklm-data:/data",
+        "-p", "6080:6080",
+        "roomi-notebooklm-mcp", 
+        "bash", 
+        "-c", 
+        "/app/scripts/start-vnc.sh > /dev/stderr 2>&1 & sleep 5 && exec node dist/index.js"
       ],
-      "env": {
-        "NOTEBOOKLM_COOKIE": "${env:NOTEBOOKLM_COOKIE}"
-      },
-      "description": "NotebookLM MCP Server - Zero-hallucination answers from your NotebookLM notebooks"
+      "description": "NotebookLM MCP Server (Docker)"
     }
   }
 }
 ```
 
-### Configuration de la Variable d'Environnement
+### Authentification (CRITIQUE)
 
-Le serveur NotebookLM nécessite un cookie d'authentification pour accéder à vos notebooks.
+Le serveur tournant dans un conteneur Docker, vous ne verrez pas de fenêtre de navigateur s'ouvrir sur votre écran principal. **Vous devez utiliser l'interface VNC incluse :**
+
+1. Demandez à Copilot de s'authentifier : *"Connecte-moi à NotebookLM"* (ou utilisez l'outil `setup_auth`).
+2. Ouvrez votre navigateur à l'adresse : **[http://localhost:6080/vnc.html](http://localhost:6080/vnc.html)**
+3. Cliquez sur **Connect**.
+4. Connectez-vous à votre compte Google dans la fenêtre Chrome virtuelle.
+
+Une fois connecté, la session est sauvegardée dans le volume Docker `notebooklm-data` et persistera entre les redémarrages.
+
+### Configuration de la Variable d'Environnement (Optionnel)
+
+Bien que l'authentification visuelle soit recommandée, vous pouvez aussi...
 
 #### Option 1 : Variable d'environnement système (Recommandé)
 

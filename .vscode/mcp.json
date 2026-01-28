@@ -1,14 +1,33 @@
 {
-  "mcpServers": {
-    "notebooklm": {
-      "command": "node",
+    "servers": {
+    "playwright": {
+      "command": "docker",
       "args": [
-        "${workspaceFolder}/servers/notebooklm-mcp/dist/index.js"
+          "run",
+          "-i",
+          "--rm",
+          "--init",
+          "--pull=always",
+          "mcr.microsoft.com/playwright/mcp@sha256:48cfafeaaf213c618fff8d2e311f33b170dd1eab87a351260cdb9c24a785fc50"
+      ]
+    },
+    "notebooklm": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i", 
+        "--rm",
+        "--init",
+        "-e", "NOTEBOOKLM_COOKIE=${env:NOTEBOOKLM_COOKIE}",
+        "-e", "DATA_DIR=/data",
+        "-v", "${workspaceFolder}/data:/data",
+        "-p", "6080:6080",
+        "roomi-notebooklm-mcp", 
+        "bash", 
+        "-c", 
+        "/app/scripts/start-vnc.sh > /dev/stderr 2>&1 & sleep 5 && exec node dist/index.js"
       ],
-      "env": {
-        "NOTEBOOKLM_COOKIE": "${env:NOTEBOOKLM_COOKIE}"
-      },
-      "description": "NotebookLM MCP Server - Zero-hallucination answers from your NotebookLM notebooks"
+      "description": "NotebookLM MCP Server (Docker) - Zero-hallucination answers from your NotebookLM notebooks"
     }
   }
 }
