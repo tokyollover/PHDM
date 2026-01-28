@@ -1,86 +1,83 @@
 #!/bin/bash
 
-# Setup script for NotebookLM MCP Server
-# This script clones the notebooklm-mcp repository, installs dependencies, and builds the server
+# Setup script for NotebookLM MCP Server (Docker Version)
+# This script prepares the environment, builds the Docker image, and sets up data directories.
 
 set -e  # Exit on error
 
 echo "=========================================="
-echo "NotebookLM MCP Server Setup"
+echo "NotebookLM MCP Server Setup (Docker)"
 echo "=========================================="
 
-# Define the target directory
-TARGET_DIR="servers/notebooklm-mcp"
-REPO_URL="https://github.com/PleasePrompto/notebooklm-mcp.git"
+# Configuration
+TARGET_DIR="servers/roomi-notebooklm-mcp"
+REPO_URL="https://github.com/roomi-fields/notebooklm-mcp.git"
+IMAGE_NAME="roomi-notebooklm-mcp"
+DATA_DIR="data"
 
-# Check if Node.js is installed
-if ! command -v node &> /dev/null; then
-    echo "❌ Error: Node.js is not installed. Please install Node.js first."
+# 1. Check Prerequisites
+echo "🔍 Checking prerequisites..."
+
+if ! command -v docker &> /dev/null; then
+    echo "❌ Error: Docker is not installed or not in PATH."
     exit 1
 fi
+echo "✓ Docker is available"
 
-echo "✓ Node.js version: $(node --version)"
-echo "✓ npm version: $(npm --version)"
+# 2. Prepare Data Directory (Persistence)
+echo "📁 Setting up data directory..."
+if [ ! -d "$DATA_DIR" ]; then
+    mkdir -p "$DATA_DIR"
+    echo "✓ Created $DATA_DIR"
+fi
+
+# Set permissions for the container user (UID 999 is typical for node/notebooklm user in container)
+# We use 777 to avoid permission issues with bind mounts in various environments (DevContainers, Linux, etc.)
+chmod 777 "$DATA_DIR"
+echo "✓ Permissions set for $DATA_DIR"
 echo ""
 
-# Create servers directory if it doesn't exist
-echo "📁 Creating servers directory..."
+# 3. Clone Repository
+echo "📥 Cloning repository..."
 mkdir -p servers
 
-# Check if target directory already exists
 if [ -d "$TARGET_DIR" ]; then
     echo "⚠️  Directory $TARGET_DIR already exists."
-    read -p "Do you want to remove it and clone fresh? (y/n) " -n 1 -r
-    echo
-    if [[ $REPLY =~ ^[Yy]$ ]]; then
-        echo "🗑️  Removing existing directory..."
-        rm -rf "$TARGET_DIR"
-    else
-        echo "❌ Setup cancelled."
-        exit 1
-    fi
-fi
-
-# Clone the repository
-echo "📥 Cloning notebooklm-mcp repository..."
-git clone "$REPO_URL" "$TARGET_DIR"
-echo "✓ Repository cloned successfully"
-echo ""
-
-# Navigate to the cloned directory
-cd "$TARGET_DIR"
-
-# Install dependencies
-echo "📦 Installing dependencies..."
-npm install
-echo "✓ Dependencies installed successfully"
-echo ""
-
-# Build the project
-echo "🔨 Building the project..."
-npm run build
-echo "✓ Project built successfully"
-echo ""
-
-# Verify the installation
-echo "Verifying installation..."
-if [ -f "dist/index.js" ]; then
-    echo "✓ Build output found at dist/index.js"
+    # We update it instead of removing to save time if valid
+    echo "🔄 Updating existing repository..."
+    cd "$TARGET_DIR"
+    git pull
+    cd - > /dev/null
 else
-    echo "⚠️  Warning: Build output not found at expected location"
+    git clone "$REPO_URL" "$TARGET_DIR"
+    echo "✓ Cloned $REPO_URL"
 fi
 echo ""
 
-# Return to original directory
-cd - > /dev/null
+# 4. Build Docker Image
+echo "🐳 Building Docker image '$IMAGE_NAME'..."
+echo "⏳ This may take a few minutes..."
 
+cd "$TARGET_DIR"
+docker build -t "$IMAGE_NAME" .
+
+if [ $? -eq 0 ]; then
+    echo "✓ Docker image built successfully"
+else
+    echo "❌ Docker build failed"
+    exit 1
+fi
+cd - > /dev/null
+echo ""
+
+# 5. Final Instructions
 echo "=========================================="
 echo "✅ Setup completed successfully!"
 echo "=========================================="
 echo ""
 echo "Next steps:"
-echo "1. Configure .vscode/mcp.json (see documentation)"
-echo "2. Set NOTEBOOKLM_COOKIE environment variable"
-echo "3. Restart your IDE to load the MCP server"
+echo "1. Ensure .env contains your NOTEBOOKLM_COOKIE (optional if using VNC auth)"
+echo "2. Restart VS Code or Reload Window to start the MCP server"
+echo "3. Authenticate via VNC: http://localhost:6080/vnc.html"
 echo ""
-echo "For detailed instructions, see MCP_SETUP.md"
+echo "For usage instructions, open NOTEBOOKLM_TOOLS_GUIDE.md"
