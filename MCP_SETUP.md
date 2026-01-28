@@ -67,7 +67,7 @@ Après l'exécution du script, vérifiez que le serveur est installé :
 
 ```bash
 ls -la servers/notebooklm-mcp/
-# Vous devriez voir un dossier 'build' avec les fichiers compilés
+# Vous devriez voir un dossier 'dist' avec les fichiers compilés
 ```
 
 ---
@@ -84,7 +84,7 @@ Le fichier `.vscode/mcp.json` a été créé automatiquement avec la configurati
     "notebooklm": {
       "command": "node",
       "args": [
-        "${workspaceFolder}/servers/notebooklm-mcp/build/index.js"
+        "${workspaceFolder}/servers/notebooklm-mcp/dist/index.js"
       ],
       "env": {
         "NOTEBOOKLM_COOKIE": "${env:NOTEBOOKLM_COOKIE}"
@@ -207,9 +207,9 @@ Voici la doc dans NotebookLM : https://notebooklm.google.com/notebook/abc123"
 **Problème** : VS Code ne trouve pas le serveur
 
 **Solutions** :
-1. Vérifiez que le build existe : `ls servers/notebooklm-mcp/build/index.js`
+1. Vérifiez que le build existe : `ls servers/notebooklm-mcp/dist/index.js`
 2. Si absent, relancez le build : `cd servers/notebooklm-mcp && npm run build`
-3. Vérifiez les permissions : `chmod +x servers/notebooklm-mcp/build/index.js`
+3. Vérifiez les permissions : `chmod +x servers/notebooklm-mcp/dist/index.js`
 
 ### Erreur d'authentification
 

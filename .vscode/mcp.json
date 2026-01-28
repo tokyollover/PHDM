@@ -3,7 +3,7 @@
     "notebooklm": {
       "command": "node",
       "args": [
-        "${workspaceFolder}/servers/notebooklm-mcp/build/index.js"
+        "${workspaceFolder}/servers/notebooklm-mcp/dist/index.js"
       ],
       "env": {
         "NOTEBOOKLM_COOKIE": "${env:NOTEBOOKLM_COOKIE}"

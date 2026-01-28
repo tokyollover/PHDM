@@ -62,6 +62,15 @@ npm run build
 echo "✓ Project built successfully"
 echo ""
 
+# Verify the installation
+echo "Verifying installation..."
+if [ -f "dist/index.js" ]; then
+    echo "✓ Build output found at dist/index.js"
+else
+    echo "⚠️  Warning: Build output not found at expected location"
+fi
+echo ""
+
 # Return to original directory
 cd - > /dev/null
 
