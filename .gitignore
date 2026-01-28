@@ -1,0 +1,41 @@
+# Environment variables - NEVER commit sensitive data
+.env
+.env.local
+.env.*.local
+
+# NotebookLM MCP Server directory
+servers/
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+build/
+dist/
+*.js
+*.js.map
+!setup_mcp.sh
+
+# IDE
+.vscode/*
+!.vscode/mcp.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
