@@ -20,7 +20,7 @@
         "--init",
         "-e", "NOTEBOOKLM_COOKIE=${env:NOTEBOOKLM_COOKIE}",
         "-e", "DATA_DIR=/data",
-        "-v", "${workspaceFolder}/data:/data",
+        "-v", "${workspaceFolder}/ALL/ALLNBLM:/data",
         "-p", "6080:6080",
         "roomi-notebooklm-mcp", 
         "bash", 

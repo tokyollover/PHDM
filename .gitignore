@@ -38,4 +38,15 @@ logs/
 tmp/
 temp/
 *.tmp
-data/
+
+# NotebookLM data (session data, browser profiles)
+ALL/ALLNBLM/browser_state/
+ALL/ALLNBLM/chrome_profile/
+ALL/ALLNBLM/chrome_profile_instances/
+
+# Keep structure but ignore large data files
+ALL/ALLPDF/*.pdf
+ALL/ALLPDF_OCR/*.pdf
+ALL/ALLMD/**/*.md
+!ALL/ALLMD/.gitkeep
+!ALL/*/.gitkeep

@@ -23,24 +23,40 @@ Pour les analyses, utilise le format suivant :
 
 ## Gestion des Livrables (Workflow Rigueur)
 
+### Structure des Données du Projet
+
+```
+ALL/
+├── ALLPDF/           # PDFs originaux collectés (chargés depuis Drive via MFEGSN_Colab.ipynb)
+├── ALLPDF_OCR/       # PDFs après traitement OCR (généré par MFEGSN_Colab.ipynb)
+├── ALLMD/            # Fichiers Markdown convertis (généré par MFEGSN_Colab.ipynb)
+├── ALLNBLM/          # Données NotebookLM (library.json, browser_state, chrome_profile)
+│   └── [NomNotebook]/    # Contexte documentaire extrait (sources_context.md, textes OCR)
+└── Deliverables/     # Contenus produits lors de la Recherche (.md, .html, .csv...)
+    └── [NomNotebook]/    # Analyses produites (thèse/antithèse/preuves)
+```
+
+> **Note** : `ALLNBLM/[Notebook]/` stocke le **contexte brut** (input), tandis que `Deliverables/[Notebook]/` stocke les **analyses produites** (output).
+
 ### Protocole pour chaque session de recherche approfondie sur un notebook :
 
 1. **Initialisation (Outil : `create_directory`)** :
-   - Vérifie si le dossier `Deliverables/[NomDuNotebook]` existe.
+   - Vérifie si le dossier `ALL/ALLNBLM/[NomDuNotebook]` existe.
    - Si non, crée-le avec `create_directory`.
 
 2. **Inventaire des Sources (Outils : `list_content`, `create_file`)** :
    - Exécute `list_content` sur le notebook actif pour récupérer la liste exhaustive des documents.
-   - Formate cette liste en Markdown clair (Titre, Type, Auteur si disponible).
-   - Sauvegarde le résultat dans `Deliverables/[NomDuNotebook]/sources_context.md`.
+   - Formate cette liste en Markdown clair (Titre, Type, Auteur, date, résumé, méthodologie, résultats, conclusion ...).
+   - Sauvegarde le résultat dans `ALL/ALLNBLM/[NomDuNotebook]/sources_context.md`.
    - *Pourquoi ?* Pour figer le périmètre documentaire de l'analyse (traçabilité).
+   - Sauvegarder le texte detecté par notebooklm dans chaque document listé dans un fichier dédié dans `ALL/ALLNBLM/[NomDuNotebook]/[NomDuDocument].md` afin de faciliter les recherches ultérieures.
 
 3. **Production d'Analyse (Outils : `ask_question`, `create_file`)** :
    - Pour les questions de recherche, utilise `ask_question`.
    - Structure la réponse (Thèse/Antithèse/Preuves/Conclusion).
    - *Avant* de répondre à l'utilisateur, sauvegarde cette analyse complète dans :
-     `Deliverables/[NomDuNotebook]/[YYYY-MM-DD]_[Sujet_KebabCase].md`
-   - *Exemple* : `Deliverables/histoire-diplomatie-maroc/2026-01-28_doctrine-makhzen.md`.
+     `ALL/Deliverables/[NomDuNotebook]/[YYYY-MM-DD]_[Sujet_KebabCase].md`
+   - *Exemple* : `ALL/Deliverables/histoire-diplomatie-maroc/2026-01-28_doctrine-makhzen.md`.
 
 4. **Clôture/Synthèse (Outil : `save_chat_to_note`)** :
    - En fin de session, propose de sauvegarder le fil de discussion complet dans le notebook via `save_chat_to_note`.

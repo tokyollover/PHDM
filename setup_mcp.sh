@@ -13,7 +13,7 @@ echo "=========================================="
 TARGET_DIR="servers/roomi-notebooklm-mcp"
 REPO_URL="https://github.com/roomi-fields/notebooklm-mcp.git"
 IMAGE_NAME="roomi-notebooklm-mcp"
-DATA_DIR="data"
+DATA_DIR="ALL/ALLNBLM"
 
 # 1. Check Prerequisites
 echo "🔍 Checking prerequisites..."
