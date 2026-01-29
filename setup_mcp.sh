@@ -54,6 +54,26 @@ else
 fi
 echo ""
 
+# 3.5 Build Application (Required for Dockerfile which copies dist/)
+echo "🔨 Building application locally..."
+cd "$TARGET_DIR"
+
+# Install dependencies
+echo "  - Installing dependencies..."
+npm install 
+
+# Build
+echo "  - Compiling TypeScript..."
+npm run build
+
+if [ $? -ne 0 ]; then
+    echo "❌ Local build failed"
+    exit 1
+fi
+cd - > /dev/null
+echo "✓ Application built successfully"
+echo ""
+
 # 4. Build Docker Image
 echo "🐳 Building Docker image '$IMAGE_NAME'..."
 echo "⏳ This may take a few minutes..."
