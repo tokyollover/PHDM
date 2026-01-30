@@ -1,0 +1,84 @@
+# Force et Droit : Les Fondations de la Diplomatie Moderne du Maroc Alaouite (XVIIe-XVIIIe siècles)
+
+Au cœur d'une histoire souvent réduite aux rivalités impériales du XIXe siècle, la pratique diplomatique du Maroc précolonial demeure une facette méconnue et pourtant essentielle de son histoire étatique. Loin de l'image d'un empire isolé, l'État chérifien, dès la consolidation de la dynastie alaouite au XVIIe siècle, a développé une politique étrangère complexe, articulant avec pragmatisme la puissance militaire et la négociation juridique. Cette approche lui a permis de s'insérer dans le jeu des puissances européennes en tant qu'acteur souverain, bien avant l'ère des protectorats. L'analyse de cette période fondatrice révèle un modèle diplomatique singulier, reposant sur des concepts clés qu'il convient de définir.
+
+* **L'État Chérifien** : La singularité du pouvoir marocain repose sur une double légitimité. D'une part, une légitimité religieuse incontestée, fondée sur l'ascendance prophétique de la dynastie (qualifiée de « chaîne d'or »), qui lui confère une autorité spirituelle dépassant ses frontières politiques. D'autre part, une légitimité politique, forgée dans la conquête, l'unification du territoire et l'établissement d'un appareil étatique centralisé, incarnant la fusion du temporel et du spirituel.
+* **La diplomatie de la force articulée à la diplomatie du droit** : La politique étrangère alaouite de cette période oscille entre deux pôles complémentaires. La *diplomatie de la force* s'appuie sur la puissance militaire (le  *glaive* ) comme principal outil de négociation et de reconnaissance. La guerre, la sécurisation des frontières et les reconquêtes territoriales sont alors les premiers actes diplomatiques. En contrepoint, la *diplomatie du droit* privilégie la négociation juridique, la formalisation des relations par des traités ( *instrumentum* ) et l'échange d'ambassades, adoptant ainsi les codes du concert européen naissant.
+
+Ces fondements nous amènent à la problématique centrale de notre étude : *Comment la dynastie alaouite, de sa consolidation à la fin du XVIIIe siècle, a-t-elle élaboré un modèle diplomatique singulier, articulant les instruments traditionnels de puissance fondés sur la légitimité chérifienne et l'appropriation des pratiques juridico-diplomatiques du concert européen ?*
+
+Pour y répondre, nous examinerons dans un premier temps comment la souveraineté chérifienne s'est affirmée par la force face à ses rivaux, avant d'analyser, dans un second temps, l'émergence d'une diplomatie de la négociation qui a permis l'insertion du Maroc dans le jeu international de l'époque.
+
+---
+
+## I. La Souveraineté par le Glaive : L'Affirmation de l'État Chérifien face à ses Rivaux (XVIIe - milieu XVIIIe siècle)
+
+La condition préalable à toute politique étrangère est la construction d'une souveraineté interne et la sécurisation des frontières. Durant la période fondatrice de la dynastie alaouite, l'acte militaire constitue le principal vecteur des relations extérieures, que ce soit pour unifier le territoire, repousser les menaces régionales ou affirmer son indépendance face aux puissances européennes. La guerre n'est pas seulement un moyen de conquête ; elle est le premier langage diplomatique par lequel le nouvel État chérifien se fait reconnaître et impose le respect de son intégrité territoriale.
+
+### A. La guerre comme premier acte diplomatique
+
+Les premières campagnes militaires de la dynastie, qu'elles visent à soumettre des rivaux internes comme la Zâouya d'Eddila ou à repousser des menaces externes, sont des actes fondateurs de la souveraineté. L'action militaire n'est pas séparée de la négociation ; elle en est l'instrument le plus direct.
+
+L'échange épistolaire entre Moulay Mhammed ben Echchérif et le Pacha d'Alger illustre parfaitement cette proto-diplomatie. Confronté aux incursions marocaines sur Oujda et Tlemcen, le pacha turc adresse une missive où se mêlent reconnaissance de la légitimité chérifienne (« le petit fils de notre Maître 'Ali ») et revendications territoriales précises :
+
+« Les Oulad Talha, les Heddaj, et les Kherådj avaient toujours payé à cette capitale le kharâdj, qu'il fût pesant ou léger [...] Mais quand s'est élevée sur nous l'aurore de ton soleil fortuné, tous ceux qui étaient près de nous se sont éloignés. »
+
+Cette correspondance constitue une véritable négociation frontalière où la menace militaire latente soutient les arguments de légitimité historique. Le mélange rhétorique de déférence envers la lignée du Prophète et de fermes revendications territoriales est caractéristique de la diplomatie pré-moderne entre puissances musulmanes rivales, où la légitimité de l'autre est reconnue même lorsque les intérêts s'affrontent.
+
+Sous le règne de Moulay Ismail, cette affirmation de la souveraineté par la force atteint son apogée. Les reconquêtes de **Tanger** en 1095 H (1684 G.), évacuée par les Anglais après un long siège, et d'**El'arèïch** en 1101 H (1689 G.), reprise aux Espagnols, ne sont pas de simples victoires militaires. Elles constituent des actes signifiant une affirmation de la souveraineté territoriale non négociable face aux puissances européennes, démontrant que l'État chérifien possède désormais les moyens militaires de faire respecter son intégrité.
+
+### B. La légitimité chérifienne comme capital stratégique
+
+L'ascendance chérifienne, méticuleusement documentée et universellement reconnue comme une « noblesse indiscutable », est mobilisée comme un levier de puissance géopolitique. Ce capital symbolique confère aux souverains alaouites une autorité qui dépasse leurs frontières.
+
+L'appel des oulémas de Grenade à Moulay 'Ali Echchérif en est un exemple frappant. Sollicité pour mener la *guerre sainte* en Andalousie, le souverain devient le point de ralliement des musulmans de la région. Les savants de Fès relaient cet appel, arguant que « la guerre sainte (...) est plus méritoire pour les gens du Magrib que le pèlerinage ». Cet épisode démontre comment la légitimité religieuse sert de justification à une politique d'intervention extérieure et renforce le prestige du sultan dans le monde musulman, le positionnant comme un défenseur de la foi.
+
+Toutefois, ce capital stratégique ne devient pleinement opérationnel sur la scène internationale qu'avec la consolidation d'un puissant appareil militaire sous Moulay Ismail. La création de l'armée des  **'Abids** , un corps permanent et loyal de plusieurs dizaines de milliers de soldats noirs, transforme radicalement le calcul diplomatique. En affranchissant le pouvoir central de la dépendance envers les allégeances tribales fluctuantes, le Sultan se dote d'un instrument fiable au service de la  *raison d'État* . Cette force militaire crédibilise sa politique de puissance, lui permettant non seulement de défendre son territoire, mais aussi de fixer les termes de l'engagement avec les puissances européennes. La menace d'une action corsaire ou d'une intervention terrestre devient un arrière-plan crédible à toute négociation, faisant de l'armée le garant ultime des traités à venir.
+
+Cette souveraineté, forgée et garantie par le glaive, devint ainsi le socle indispensable sur lequel la génération suivante de sultans allait édifier une architecture diplomatique fondée non plus seulement sur la coercition, mais sur la négociation et le droit.
+
+---
+
+## II. L'Ère des Négociateurs : L'Insertion du Maroc dans le Jeu Diplomatique Européen (milieu XVIIIe - fin XVIIIe siècle)
+
+Si la première période de la dynastie alaouite fut celle de l'affirmation de la souveraineté par la force, le règne de Sidi Mohammed ben 'Abdallah (1757-1790) marque un tournant décisif. Conscient des nouvelles réalités géopolitiques et économiques, ce sultan systématise le recours aux instruments juridiques et diplomatiques pour réguler les relations du Maroc, principalement avec l'Europe. Cette période voit l'émergence du traité comme outil de souveraineté et de l'ambassade comme théâtre de la reconnaissance internationale, ancrant durablement le Maroc dans un système de relations codifiées.
+
+### A. Le traité, instrument de souveraineté et de commerce
+
+La politique d'ouverture de Sidi Mohammed ben 'Abdallah repose sur une vision stratégique claire, visant à moderniser l'économie du royaume et à sécuriser ses relations extérieures. Son action diplomatique est indissociable d'un vaste programme de consolidation interne :
+
+* **Développer les infrastructures portuaires et urbaines** : La fondation emblématique d'Eşşouéïra (Essaouira) s'inscrit dans un effort national de construction de mosquées,  *mdersas* , forts ( *sqalas* ) et batteries dans de nombreuses villes, dont Anfa (Casablanca), Fdala, Rabat, Salé, El'aréïch ou Tanger.
+* **Construire une marine nationale** : Le sultan s'est activement occupé des « bateaux corsaires », allant jusqu'à posséder une flotte de 20 grands vaisseaux et 30 frégates, lui conférant un pouvoir de négociation tangible sur les mers.
+* **Rechercher activement des relations commerciales** : La conclusion de nombreux traités de paix et de commerce avec les puissances européennes témoigne de sa volonté de s'intégrer dans les circuits économiques internationaux de manière régulée et profitable.
+
+Les traités conclus durant cette période révèlent la capacité du Maroc à négocier des accords complexes et à se positionner comme un partenaire international autonome.
+
+| Nation contractante                  | Nature de l'accord                                                                                                                                               | Analyse de la portée                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Danemark**                   | Traité de paix et de sécurité (20 articles) incluant des obligations annuelles de la part du Danemark (matériel stratégique ou une somme de 25.000 douros). | L'accord illustre une forme de relation internationale reconnue dans le système méditerranéen de l'époque. Le Maroc utilise sa flotte corsaire comme un instrument de puissance étatique pour extraire un tribut, démontrant sa capacité à imposer ses conditions aux puissances maritimes européennes.                             |
+| **"Estados"**(Provinces-Unies) | Traité de paix et de sécurité (22 articles) avec des clauses sur l'établissement de consuls et la réciprocité des avantages.                               | Cet accord formalise des relations diplomatiques permanentes sur la base des normes européennes de réciprocité. La reconnaissance du droit d'établir des consulats mutuels inscrit le Maroc dans un cadre juridique d'égal à égal avec une grande puissance commerciale.                                                              |
+| **Portugal**                   | Traité de paix et de sécurité (22 articles).                                                                                                                  | La conclusion de cet accord avec une ancienne puissance occupante symbolise la pleine reconnaissance de la souveraineté marocaine. C'est le point d'aboutissement de la "diplomatie de la force" : les reconquêtes militaires du siècle précédent ont rendu possible cette normalisation diplomatique sur des bases plus équilibrées. |
+
+La formalisation juridique de ces relations était d'une importance capitale, comme l'illustre la controverse autour du traité de paix négocié par l'ambassadeur Ahmed Elġazzal avec l'Espagne. Selon un récit, le texte original stipulait une paix « sur mer et non sur terre » ( *bahran la berran* ). Les Espagnols auraient altéré le document en transformant le `la` (non) en `oua` (et), pour obtenir une paix « sur mer et sur terre » ( *bahran oua berran* ). Indépendamment de la véracité de l'anecdote, elle met en lumière la conscience aiguë des deux parties de l'importance cruciale de chaque terme dans l'acte juridique ( *Instrumentum* ), dont la rédaction pouvait avoir des conséquences diplomatiques et stratégiques majeures.
+
+### B. L'ambassade, théâtre de la reconnaissance internationale
+
+Au-delà des traités, l'échange d'ambassades devient un outil privilégié pour affirmer le statut du Maroc sur la scène internationale. La mission diplomatique menée par Ahmed Elġazzal en Espagne en offre une étude de cas exemplaire.
+
+* **Déclencheur :** Le sultan Sidi Mohammed ben 'Abdallah est ému par les lettres de captifs musulmans détenus en Espagne. Dans un geste de bonne volonté, il écrit au roi d'Espagne, l'invitant à traiter les savants et religieux musulmans avec les mêmes égards que ceux accordés par le Maroc aux religieux chrétiens captifs.
+* **Objectif :** La démarche initiale, fondée sur des arguments humanitaires et de réciprocité, vise à négocier la libération des captifs. La réponse espagnole dépasse cet objectif : en demandant l'envoi d'une ambassade officielle, le roi d'Espagne cherche à « consacrer aux yeux des nations européennes ces bonnes relations », utilisant la reconnaissance du Maroc pour rehausser son propre prestige.
+* **Déroulement :** L'échange de cadeaux précieux et la mise en scène de la réception de l'ambassadeur marocain suivent les codes stricts du protocole européen. Les craintes exprimées par Elġazzal concernant le respect de ces usages par ses compagnons montrent sa parfaite connaissance des enjeux protocolaires des cours européennes.
+
+Cette ambassade constitue un acte de reconnaissance mutuelle entre deux souverains, où chacun utilise l'autre pour renforcer son propre statut. Il s'agit d'une illustration parfaite de la nature performative de la diplomatie de l'Ancien Régime, où le respect du protocole, l'échange de présents et la réception publique ne sont pas de simples courtoisies mais la substance même de la reconnaissance internationale. La mission d'Elġazzal fut une performance réussie sur la scène européenne, démontrant la capacité du Maroc à maîtriser les codes de ce théâtre diplomatique.
+
+Cette période de diplomatie active ancre ainsi durablement le Maroc dans un système de relations internationales juridiquement codifié, préparant le terrain pour les défis du siècle suivant.
+
+---
+
+## Conclusion
+
+L'analyse de la diplomatie alaouite aux XVIIe et XVIIIe siècles révèle une trajectoire remarquable, évoluant d'une phase initiale d'affirmation de la souveraineté par la force vers une ère de participation active et juridiquement formalisée au concert des nations. La première étape, incarnée par les règnes de Moulay Mhammed et surtout de Moulay Ismail, a consisté à forger l'État par le glaive, en unifiant le territoire, en repoussant les menaces et en consolidant une autorité fondée sur la double légitimité chérifienne et la puissance d'une armée centralisée. Cette souveraineté, une fois établie et respectée, a permis la transition vers une seconde phase, magistralement conduite par Sidi Mohammed ben 'Abdallah, qui a privilégié la diplomatie du droit, utilisant les traités et les ambassades pour insérer le Maroc dans les réseaux politiques et commerciaux de son temps.
+
+En réponse à notre problématique, il apparaît que la dynastie alaouite a su élaborer un modèle diplomatique hybride et pragmatique. Loin d'adopter passivement les normes européennes, elle a réalisé une synthèse originale entre ses propres traditions de pouvoir — la centralité de la légitimité chérifienne, la guerre sainte comme levier d'action — et les outils du droit des gens européen naissant. Cette synthèse a permis au Maroc de négocier son statut, de défendre son intégrité territoriale et de participer au jeu international non pas comme un sujet, mais comme un acteur souverain et reconnu.
+
+Cette insertion réussie soulève une question paradoxale qui préfigure les drames du siècle suivant : en maîtrisant les instruments juridiques du concert européen, l'État chérifien s'assurait-il une reconnaissance pérenne entre égaux, ou s'engageait-il, sans le savoir, dans une logique juridique qui se retournerait contre lui sous la pression d'un impérialisme européen dont la puissance n'était plus contenue par le droit, mais justifiée par lui ?

@@ -1,6 +1,37 @@
 {
-  "notebooks": [],
-  "active_notebook_id": null,
-  "last_modified": "2026-01-29T18:52:08.280Z",
+  "notebooks": [
+    {
+      "id": "moroccan-diplomatic-history",
+      "url": "https://notebooklm.google.com/notebook/488d3adb-93d4-4550-bc94-f30b678fea3c",
+      "name": "moroccan-diplomatic-history",
+      "description": "Explores Moroccan dynasties and diplomatic history through archival texts. Analyzes political relations, social structures, and colonial impact.",
+      "topics": [
+        "morocco",
+        "diplomacy",
+        "alaouite-dynasty",
+        "colonialism",
+        "negotiating",
+        "chronicling",
+        "historiography",
+        "foreign-policy",
+        "research"
+      ],
+      "content_types": [
+        "documentation"
+      ],
+      "use_cases": [
+        "morocco",
+        "diplomacy",
+        "alaouite-dynasty"
+      ],
+      "added_at": "2026-01-29T23:48:10.119Z",
+      "last_used": "2026-01-30T00:58:50.960Z",
+      "use_count": 3,
+      "tags": [],
+      "auto_generated": true
+    }
+  ],
+  "active_notebook_id": "moroccan-diplomatic-history",
+  "last_modified": "2026-01-30T00:58:50.960Z",
   "version": "1.0.0"
 }
