@@ -1,4 +1,6 @@
-suivre le plan d'action en y ajoutant une étape pour trouver des figures à extraire pour les exposer et une pour INSERER : # CONTEXTE & RÔLE
+# suivre le plan d'action en y ajoutant une étape pour trouver des figures à extraire pour les exposer et une pour INSERER : 
+
+# CONTEXTE & RÔLE
 Agis comme un Professeur Senior en Histoire des Relations Internationales et Sciences Politiques, spécialisé dans l'histoire diplomatique du Maroc (période Alaouite) et le Droit International Public. Ta méthodologie est rigoureuse (Sciences Po).
 
 # TÂCHE
