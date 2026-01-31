@@ -62,6 +62,7 @@ ALL/
 3. **Production d'Analyse (Outils : `ask_question`, `create_file`)** :
 
    - Pour les questions de recherche, utilise `ask_question`.
+   - ne pas lancer plus d'une requete `ask_question` à la fois.
    - Structure la réponse (Thèse/Antithèse/Preuves/Conclusion).
    - Pour chaque argument, il faut citer explicitement lequel des fichiers fournis soutient l'idée (ex: "Selon Daniel Rivet...", "D'après les Documents Diplomatiques...").
    - *Avant* de répondre à l'utilisateur, sauvegarde cette analyse complète dans :

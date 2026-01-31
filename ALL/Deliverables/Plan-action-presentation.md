@@ -21,7 +21,7 @@
 
 ## 📚 Phase 1 : Exploration du Corpus (Jour 1)
 
-### 1.1 Prompts de Contextualisation Générale
+### 1.1 Prompts de Contextualisation Générale OK
 
 ```
 🤖 PROMPT COPILOT #1 - Vue d'ensemble historiographique
@@ -47,7 +47,7 @@ rupture observe-t-on dans :
 - Les alliances internationales
 - Les méthodes de négociation
 - La reconnaissance par les puissances européennes
-Cite les sources primaires (Kitab Al-Istiqsa, Chroniques alaouites)."
+Cite les sources
 ```
 
 ```
@@ -75,7 +75,7 @@ pour répondre à : [COLLER LE PROMPT]
 
 ---
 
-## 🔬 Phase 2 : Recherche Thématique Approfondie (Jour 2-3)
+## 🔬 Phase 2 : Recherche Thématique Approfondie (Jour 2-3) OK
 
 ### 2.1 Axe 1 - Fondements et Légitimité (Partie I)
 
@@ -84,30 +84,28 @@ pour répondre à : [COLLER LE PROMPT]
 ──────────────────────────────────────────────────────────
 "Analyse comment la légitimité religieuse et politique des 
 sultans alaouites (descendance chérifienne, bay'a) a influencé 
-leurs pratiques diplomatiques face aux puissances chrétiennes.
-Exemples de sultans : Moulay Ismaïl, Sidi Mohammed ben Abdallah.
-Cite les Chroniques alaouites et le Kitab Al-Istiqsa."
+leurs pratiques diplomatiques face aux puissances étrangéres, cite les sources."
 ```
 
 ```
 🤖 PROMPT COPILOT #5 - Les instruments diplomatiques
 ────────────────────────────────────────────────────
 "Inventorie les types d'accords diplomatiques mentionnés dans 
-le corpus pour la période 1666-1912 :
+le corpus pour la période 1631-1912 :
 - Accords solennels (المعاهدات الرسمية) avec effets juridiques
 - Accords non solennels (Gentlemen's agreements)
 - Notes diplomatiques
 - Échanges épistolaires royaux
-Pour chaque type, donne un exemple daté avec les parties prenantes."
+Pour chaque type, donne un exemple daté avec les parties prenantes. Cite les sources et indique les figures"
 ```
 
 ```
-🤖 PROMPT COPILOT #6 - La reconnaissance américaine (1777)
+ 🤖 PROMPT COPILOT #6 - La reconnaissance américaine (1777)
 ──────────────────────────────────────────────────────────
 "Détaille les circonstances et la portée de la reconnaissance 
 du Maroc par les États-Unis en 1777. Comment cet événement 
 illustre-t-il la capacité diplomatique de l'État chérifien ?
-Quelles sont les implications pour la thèse de la continuité étatique ?"
+Quelles sont les implications pour la thèse de la continuité étatique ?  Cite les sources et indique les figures"
 ```
 
 ### 2.2 Axe 2 - Pratiques et Résistance (Partie II)
@@ -116,22 +114,22 @@ Quelles sont les implications pour la thèse de la continuité étatique ?"
 🤖 PROMPT COPILOT #7 - Diplomatie maritime et résistance
 ────────────────────────────────────────────────────────
 "Analyse la 'diplomatie maritime' marocaine face aux puissances 
-occidentales entre 1666 et 1900. Comment le Maroc a-t-il utilisé :
-- La course (piraterie légale)
+occidentales entre 1666 et 1912. Comment le Maroc a-t-il utilisé :
+- La piraterie légale
 - Les traités commerciaux
 - Les négociations de captifs
-comme instruments de politique étrangère ?"
+comme instruments de politique étrangère ?  Cite les sources et indique les figures/illustrations"
 ```
 
 ```
 🤖 PROMPT COPILOT #8 - Crises et négociations
 ─────────────────────────────────────────────
-"Identifie les principales crises diplomatiques marocaines 
+"Identifie les principales crises diplomatiques marocaines aprés 1631 et 
 avant 1912 et analyse les méthodes de résolution :
 - Guerre de l'Espagne avec le Maroc (1859-1860)
 - Conférence d'Algésiras (1906)
 - Crise d'Agadir (1911)
-Quelles constantes dans l'approche diplomatique marocaine ?"
+Quelles constantes dans l'approche diplomatique marocaine ?  Cite les sources et indique les figures/illustrations"
 ```
 
 ```
@@ -140,7 +138,7 @@ Quelles constantes dans l'approche diplomatique marocaine ?"
 "Comment le traité de protectorat de 1912 s'inscrit-il dans 
 la tradition des accords bilatéraux marocains ? Le corpus 
 confirme-t-il que le protectorat présuppose un État souverain 
-(et non un territoire à coloniser) ?"
+(et non un territoire à coloniser) ?  Cite les sources et indique les figures et les graphiques/illustrations"
 ```
 
 ---
@@ -214,7 +212,7 @@ confirme-t-il que le protectorat présuppose un État souverain
 
 ---
 
-## 🎨 Phase 4 : Enrichissement et Illustrations (Jour 5)
+## 🎨 Phase 4 : Enrichissement et Illustrations (Jour 5) à faire directement sur NotebookLM
 
 ### 4.1 Génération de Contenu Multimédia
 
@@ -224,8 +222,8 @@ confirme-t-il que le protectorat présuppose un État souverain
 @workspace Utilise l'outil mcp_notebooklm_generate_content avec :
 - content_type="report"
 - custom_instructions="Génère un briefing document de 2000-3000 mots 
-  sur les pratiques diplomatiques alaouites 1666-1912, structuré 
-  selon : 1) Fondements de légitimité, 2) Instruments diplomatiques, 
+  sur les pratiques diplomatiques alaouites avant le protectorat, structuré 
+  selon un plan bipartite qui traite les points suivants : 1) Fondements de légitimité, 2) Instruments diplomatiques, 
   3) Crises majeures, 4) Bilan historiographique"
 ```
 
@@ -233,7 +231,7 @@ confirme-t-il que le protectorat présuppose un État souverain
 🤖 PROMPT COPILOT #12 - Frise chronologique
 ───────────────────────────────────────────
 "Génère une frise chronologique des événements diplomatiques 
-majeurs de la dynastie alaouite (1666-1912) avec :
+majeurs de la dynastie alaouite (1631-1912) avec :
 - Date
 - Événement
 - Parties prenantes
@@ -268,7 +266,7 @@ ma présentation."
 présentation sur 'Les Fondations de la Diplomatie Alaouite 
 (1666-1912)' incluant :
 - Une accroche (citation ou fait marquant)
-- La contextualisation historique
+- La contextualisation historique et conceptuelle
 - Une problématique claire
 - L'annonce du plan bipartite
 Style : académique, éviter la narration, privilégier l'explication."
@@ -329,9 +327,9 @@ non sourcées ou controversées."
 
 ## 📊 Checklist de Progression
 
-- [ ] Phase 1 : Exploration générale (3 prompts)
-- [ ] Phase 2 : Recherche thématique (6 prompts)
-- [ ] Phase 3 : Structuration du plan
+- [X] Phase 1 : Exploration générale (3 prompts)
+- [X] Phase 2 : Recherche thématique (6 prompts)
+- [X] Phase 3 : Structuration du plan
 - [ ] Phase 4 : Enrichissement (illustrations, frise)
 - [ ] Phase 5 : Rédaction introduction/conclusion
 - [ ] Phase 6 : Validation et bibliographie
