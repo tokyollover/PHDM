@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tokyollover/PHDM/blob/PHDMWNB/Colab.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tokyollover/PHDM/blob/PHDMWNB/ColabV1.ipynb)
+
 Ce projet est conçu pour transformer votre environnement de développement en un outil avancé d'analyse de contenu pour les Sciences Politiques et la Data Science. Il combine l'intelligence de GitHub Copilot avec la base de connaissances vérifiée de Google NotebookLM via le protocole MCP (Model Context Protocol).
 
 ## 🎯 Objectif
