@@ -1,0 +1,6 @@
+{
+  "accounts": [],
+  "rotationStrategy": "least_used",
+  "keepAliveIntervalHours": 12,
+  "autoLoginEnabled": true
+}

@@ -143,7 +143,7 @@ confirme-t-il que le protectorat présuppose un État souverain
 
 ---
 
-## 📐 Phase 3 : Structuration du Plan Bipartite (Jour 4)
+## 📐 Phase 3 : Structuration du Plan Bipartite OK
 
 ### 3.1 Proposition de Plan (Titres Attractifs)
 
@@ -244,8 +244,8 @@ majeurs de la dynastie alaouite (1631-1912) avec :
 ```
 🤖 PROMPT COPILOT #13 - Documents visuels
 ─────────────────────────────────────────
-"Identifie dans le corpus des références à :
-- Fac-similés de traités
+"Ajoute aux [PLACEHOLDER_s] les nom des fichiers pour extraire les images, Identifie dans le corpus des références à :
+- Fac-similés de traités et correspondances diplomatiques
 - Cartes historiques
 - Portraits de diplomates/sultans
 - Sceaux et signatures
