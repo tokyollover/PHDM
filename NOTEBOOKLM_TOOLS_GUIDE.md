@@ -1,8 +1,8 @@
-# Guide Complet des Outils NotebookLM MCP (27 Outils)
+# Guide Complet des Outils NotebookLM MCP (29 Outils)
 
-Ce guide détaille l'utilisation de chacun des 27 outils disponibles dans le serveur MCP NotebookLM (version Docker).
+Ce guide détaille l'utilisation de chacun des 29 outils disponibles dans le serveur MCP NotebookLM (version Docker).
 
-## Table des Matières avec les 27 Outils
+## Table des Matières avec les 29 Outils
 
 ### 🔹 Recherche & Interaction (1)
 1. **[ask_question](#1-ask_question)** — Poser des questions à vos notebooks (RAG)
@@ -31,17 +31,19 @@ Ce guide détaille l'utilisation de chacun des 27 outils disponibles dans le ser
 18. **[de_auth](#18-de_auth)** — Déconnexion sécurisée
 19. **[cleanup_data](#19-cleanup_data)** — Nettoyage complet des données
 
-### 🔹 Gestion de Contenu & Sources (4)
+### 🔹 Gestion de Contenu & Sources (6)
 20. **[add_source](#20-add_source)** — Ajouter des fichiers/URLs/Vidéos
 21. **[delete_source](#21-delete_source)** — Supprimer une source
 22. **[list_content](#22-list_content)** — Voir le contenu d'un notebook
 23. **[generate_content](#23-generate_content)** — Créer Podcats, PDFs, Vidéos...
 24. **[download_content](#24-download_content)** — Télécharger les fichiers générés
+25. **[get_source_text](#25-get_source_text)** — Extraire le texte complet d'une source
+26. **[export_all_sources](#26-export_all_sources)** — Exporter toutes les sources en fichiers locaux
 
 ### 🔹 Notes & Annotations (3)
-25. **[create_note](#25-create_note)** — Créer une note markdown
-26. **[save_chat_to_note](#26-save_chat_to_note)** — Sauvegarder la conversation en note
-27. **[convert_note_to_source](#27-convert_note_to_source)** — Transformer une note en source RAG
+27. **[create_note](#27-create_note)** — Créer une note markdown
+28. **[save_chat_to_note](#28-save_chat_to_note)** — Sauvegarder la conversation en note
+29. **[convert_note_to_source](#29-convert_note_to_source)** — Transformer une note en source RAG
 
 ---
 
@@ -194,21 +196,45 @@ Récupère le fichier généré (ex: le MP3 du podcast ou le MP4 de la vidéo) s
 
 - **Usage** : "Télécharge le podcast que tu viens de créer"
 
+### 25. `get_source_text`
+Extrait le texte complet d'une source individuelle du notebook.
+
+- **Usage** : "Extrais le texte du document 'Traité de Fès'"
+- **Paramètres** :
+  - `source_name` : Nom de la source à extraire
+  - `source_id` : Ou ID de la source (alternatif)
+- **Retour** : Texte complet, nombre de caractères, titre de la source
+- **Astuce** : Utile pour un accès ciblé sans exporter tout le notebook
+
+### 26. `export_all_sources`
+Exporte le texte de TOUTES les sources d'un notebook vers des fichiers locaux.
+
+- **Usage** : "Exporte toutes les sources vers ALL/ALLNBLM/mon-notebook"
+- **Paramètres** :
+  - `output_dir` : Répertoire de destination (obligatoire)
+  - `notebook_url` ou `notebook_id` : Notebook cible (ou utilise l'actif)
+  - `format` : "markdown" (défaut) ou "text"
+- **Retour** : Liste des fichiers créés, résumé de l'export, erreurs éventuelles
+- **Fichiers générés** :
+  - Un fichier `.md` par source avec le texte complet
+  - Un fichier `_sources_export_summary.md` avec le résumé de l'opération
+- **Astuce** : Permet de figer le périmètre documentaire pour des recherches locales
+
 ---
 
 ## 🗒️ Notes & Annotations
 
-### 25. `create_note`
+### 27. `create_note`
 Ajoute une note textuelle dans le panneau "Notes" de NotebookLM.
 
 - **Usage** : "Crée une note appelée 'Idées Clés' avec ce résumé..."
 
-### 26. `save_chat_to_note`
+### 28. `save_chat_to_note`
 Sauvegarde toute votre conversation actuelle dans une note pour ne pas la perdre.
 
 - **Usage** : "Sauvegarde notre discussion dans une note"
 
-### 27. `convert_note_to_source`
+### 29. `convert_note_to_source`
 Magique : transforme une note (vos idées) en une SOURCE officielle du notebook.
 Cela permet à l'IA de répondre en utilisant VOS notes comme base de connaissance.
 

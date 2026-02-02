@@ -61,6 +61,7 @@ import type {
   SaveChatToNoteResult,
   NoteToSourceResult,
   SourceTextResult,
+  ExportAllSourcesResult,
 } from '../content/types.js';
 
 /**
@@ -1137,6 +1138,51 @@ User: "Yes" → call remove_notebook`,
             description: 'Session ID to reuse an existing session',
           },
         },
+      },
+    },
+    {
+      name: 'export_all_sources',
+      description:
+        'Export the full text content of ALL sources in a NotebookLM notebook to local markdown files.\n\n' +
+        'This tool automates the complete extraction workflow:\n' +
+        '1. Lists all sources in the notebook\n' +
+        '2. Extracts text content from each source\n' +
+        '3. Saves each source as a markdown file with metadata\n' +
+        '4. Creates a summary file with export statistics\n\n' +
+        'Use cases:\n' +
+        '- Create local backups of all source texts\n' +
+        '- Enable offline analysis of notebook content\n' +
+        '- Archive source texts for research documentation\n' +
+        '- Feed sources to other processing pipelines\n\n' +
+        'Output structure:\n' +
+        '```\n' +
+        'output_dir/\n' +
+        '├── _sources_export_summary.md\n' +
+        '├── Document_1.md\n' +
+        '├── Document_2.md\n' +
+        '└── ...\n' +
+        '```\n\n' +
+        'Note: Large notebooks may take several minutes. Each source extraction ' +
+        'includes a delay to avoid rate limiting.',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          output_dir: {
+            type: 'string',
+            description:
+              'Local directory path to save the extracted texts (e.g., ALL/ALLNBLM/MonNotebook). ' +
+              'Will be created if it does not exist.',
+          },
+          notebook_url: {
+            type: 'string',
+            description: 'Notebook URL. If not provided, uses the active notebook.',
+          },
+          session_id: {
+            type: 'string',
+            description: 'Session ID to reuse an existing session',
+          },
+        },
+        required: ['output_dir'],
       },
     },
     // ========================================================================
@@ -3071,6 +3117,83 @@ export class ToolHandlers {
     } catch (error) {
       const errorMessage = error instanceof Error ? error.message : String(error);
       log.error(`❌ [TOOL] get_source_text failed: ${errorMessage}`);
+      return {
+        success: false,
+        error: errorMessage,
+      };
+    }
+  }
+
+  /**
+   * Handle export_all_sources tool
+   *
+   * Exports all sources from a NotebookLM notebook to local markdown files.
+   * Creates one file per source plus a summary file.
+   */
+  async handleExportAllSources(args: {
+    output_dir: string;
+    notebook_url?: string;
+    session_id?: string;
+  }): Promise<ToolResult<ExportAllSourcesResult>> {
+    const { output_dir, notebook_url, session_id } = args;
+
+    log.info(`🔧 [TOOL] export_all_sources called`);
+    log.info(`  Output directory: ${output_dir}`);
+
+    try {
+      // Validate output_dir
+      if (!output_dir || output_dir.trim().length === 0) {
+        return {
+          success: false,
+          error: 'output_dir is required',
+        };
+      }
+
+      // Resolve notebook URL
+      const resolvedNotebookUrl =
+        notebook_url || this.library.getActiveNotebook()?.url || CONFIG.notebookUrl;
+      if (!resolvedNotebookUrl) {
+        return {
+          success: false,
+          error: 'No notebook URL provided and no active notebook set',
+        };
+      }
+
+      // Get or create session
+      const session = await this.sessionManager.getOrCreateSession(session_id, resolvedNotebookUrl);
+      const page = session.getPage();
+
+      if (!page) {
+        return {
+          success: false,
+          error: 'Could not access browser page - session may not be initialized',
+        };
+      }
+
+      // Create content manager
+      const contentManager = new ContentManager(page);
+
+      // Export all sources
+      const result = await contentManager.exportAllSources({
+        outputDir: output_dir,
+      });
+
+      if (result.success) {
+        log.success(
+          `✅ [TOOL] export_all_sources completed: ${result.exportedCount}/${result.totalSources} sources exported`
+        );
+      } else {
+        log.error(`❌ [TOOL] export_all_sources failed: ${result.error}`);
+      }
+
+      return {
+        success: result.success,
+        data: result,
+        error: result.error,
+      };
+    } catch (error) {
+      const errorMessage = error instanceof Error ? error.message : String(error);
+      log.error(`❌ [TOOL] export_all_sources failed: ${errorMessage}`);
       return {
         success: false,
         error: errorMessage,

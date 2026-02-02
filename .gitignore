@@ -3,9 +3,6 @@
 .env.local
 .env.*.local
 
-# NotebookLM MCP Server directory
-servers/
-
 # Node modules
 node_modules/
 npm-debug.log*
@@ -15,8 +12,6 @@ yarn-error.log*
 # Build artifacts
 build/
 dist/
-servers/**/*.js
-servers/**/*.js.map
 
 # IDE
 .vscode/*
@@ -44,9 +39,5 @@ ALL/ALLNBLM/browser_state/
 ALL/ALLNBLM/chrome_profile/
 ALL/ALLNBLM/chrome_profile_instances/
 
-# Keep structure but ignore large data files
-ALL/ALLPDF/*.pdf
-ALL/ALLPDF_OCR/*.pdf
-ALL/ALLMD/**/*.md
-!ALL/ALLMD/.gitkeep
-!ALL/*/.gitkeep
+# Security
+*.key

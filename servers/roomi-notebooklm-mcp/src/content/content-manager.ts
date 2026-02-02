@@ -64,8 +64,11 @@ import type {
   NoteToSourceResult,
   SourceTextInput,
   SourceTextResult,
+  ExportAllSourcesInput,
+  ExportAllSourcesResult,
 } from './types.js';
 import { ContentGenerator } from './content-generator.js';
+import { promises as fsPromises } from 'fs';
 
 // Note: UI selectors are defined inline in methods for better maintainability
 // as NotebookLM's UI may change frequently
@@ -4338,6 +4341,15 @@ export class ContentManager {
       await sourceElement.click();
       await randomDelay(1000, 1500);
 
+      // Debug: Take screenshot after clicking
+      const debugScreenshotPath = path.join(process.env.DATA_DIR || '/data', 'debug-source-click.png');
+      try {
+        await this.page.screenshot({ path: debugScreenshotPath, fullPage: false });
+        log.info(`  📸 Debug screenshot saved: ${debugScreenshotPath}`);
+      } catch (e) {
+        log.warning(`  ⚠️ Could not save debug screenshot: ${e}`);
+      }
+
       // Wait for the source viewer to load
       const viewerLoaded = await this.waitForSourceViewer();
       if (!viewerLoaded) {
@@ -4439,166 +4451,544 @@ export class ContentManager {
 
   /**
    * Extract text content from the source viewer
+   * Uses multiple strategies to find and extract text from NotebookLM's source viewer
    */
   private async extractSourceTextContent(): Promise<string | null> {
     let textContent = '';
 
-    // Method 1: Look for specific source text containers
-    const textContainerSelectors = [
-      // Source text content areas
-      '.source-text-content',
-      '.source-content',
-      '.source-viewer-content',
-      '[class*="source-text"]',
-      '[class*="sourceText"]',
-      '[class*="source-content"]',
-      '[class*="document-text"]',
-      // PDF text layer
-      '.textLayer',
-      '[class*="text-layer"]',
-      // Scrollable content areas
-      '.source-scroll-container',
-      '[class*="scroll-content"]',
-      // Main content container
-      '[class*="viewer"] [class*="content"]',
-      '[class*="reader"] [class*="content"]',
-      // Right panel content
-      '[class*="right-panel"] .content',
-      '[class*="detail-panel"] .content',
-      // Article/document body
-      'article',
-      '[role="article"]',
-      '[class*="article"]',
-      // Generic text areas
-      '.content-body',
-      '.text-content',
-      '[class*="text-body"]',
-    ];
-
-    for (const selector of textContainerSelectors) {
-      try {
-        const el = this.page.locator(selector).first();
-        if (await el.isVisible({ timeout: 500 })) {
-          const content = await el.textContent();
-          if (content && content.trim().length > 100) {
-            log.info(`  📝 Found text content via: ${selector}`);
-            textContent = content.trim();
-            break;
+    // Debug: Log what elements are present on the page
+    try {
+      const debugInfo = await this.page.evaluate(`
+        (() => {
+          const elements = {
+            sourceViewer: !!document.querySelector('source-viewer'),
+            scrollContainer: !!document.querySelector('source-viewer .scroll-container'),
+            sourceDetail: !!document.querySelector('source-detail'),
+            sourceSidebar: !!document.querySelector('.source-sidebar'),
+            matSidenav: !!document.querySelector('mat-sidenav'),
+            pdfViewer: !!document.querySelector('[class*="pdf"]'),
+            documentContent: !!document.querySelector('[class*="document-content"]'),
+          };
+          
+          // Get all source-viewer related elements
+          const allSourceViewerEls = document.querySelectorAll('[class*="source"]');
+          elements.sourceRelatedCount = allSourceViewerEls.length;
+          
+          // Get first source-viewer's HTML structure (truncated)
+          const sv = document.querySelector('source-viewer');
+          if (sv) {
+            elements.sourceViewerChildren = Array.from(sv.children).map(c => c.tagName + '.' + c.className).slice(0, 5);
           }
-        }
-      } catch {
-        continue;
-      }
+          
+          return JSON.stringify(elements);
+        })()
+      `) as string;
+      log.info(`  🔎 Page elements: ${debugInfo}`);
+    } catch (e) {
+      log.warning(`  ⚠️ Debug info failed: ${e}`);
     }
 
-    // Method 2: If not found, try to get all paragraphs/spans in visible area
+    // Strategy 1: Direct extraction from source-viewer .scroll-container (NotebookLM's actual structure)
+    log.info(`  🔍 Trying source-viewer scroll-container extraction...`);
+    try {
+      textContent = await this.page.evaluate(`
+        (() => {
+          // NotebookLM stores source text in source-viewer > .scroll-container
+          const scrollContainer = document.querySelector('source-viewer .scroll-container') ||
+                                  document.querySelector('.source-viewer .scroll-container') ||
+                                  document.querySelector('[class*="source-viewer"] .scroll-container') ||
+                                  document.querySelector('[class*="source-viewer"] [class*="scroll-container"]');
+          
+          if (scrollContainer) {
+            // Get all text content from the scroll container
+            return scrollContainer.textContent || '';
+          }
+          
+          // Fallback: try source-viewer directly
+          const sourceViewer = document.querySelector('source-viewer') ||
+                               document.querySelector('.source-viewer') ||
+                               document.querySelector('[class*="source-viewer"]');
+          
+          if (sourceViewer) {
+            return sourceViewer.textContent || '';
+          }
+          
+          return '';
+        })()
+      `) as string;
+
+      if (textContent && textContent.trim().length > 100) {
+        textContent = textContent.trim();
+        log.info(`  📝 Extracted ${textContent.length} chars from source-viewer scroll-container`);
+      } else {
+        textContent = '';
+      }
+    } catch (error) {
+      log.warning(`  ⚠️ Source-viewer extraction failed: ${error}`);
+    }
+
+    // Strategy 2: Use JavaScript evaluation to find all text in the source viewer panel
     if (!textContent) {
-      log.info(`  🔍 Trying paragraph extraction...`);
+      log.info(`  🔍 Trying JavaScript-based extraction...`);
       try {
-        const paragraphs = await this.page.locator('p, span.text, div.text, .passage').all();
-        const texts: string[] = [];
-        
-        for (const p of paragraphs) {
-          try {
-            if (await p.isVisible({ timeout: 100 })) {
-              const text = await p.textContent();
-              if (text && text.trim().length > 20) {
-                texts.push(text.trim());
-              }
-            }
-          } catch {
-            continue;
-          }
-        }
-        
-        if (texts.length > 0) {
-          textContent = texts.join('\n\n');
-          log.info(`  📝 Extracted ${texts.length} paragraphs`);
-        }
-      } catch (error) {
-        log.warning(`  ⚠️ Paragraph extraction failed: ${error}`);
-      }
-    }
+      textContent = await this.page.evaluate(`
+        (() => {
+          // NotebookLM source viewer selectors - the right panel where source content appears
+          const viewerSelectors = [
+            'source-viewer',
+            'source-content-viewer', 
+            'mat-sidenav-content',
+            '.source-viewer-container',
+            '[class*="source-viewer"]',
+            '[class*="source-content"]',
+            '[class*="document-viewer"]',
+            '[class*="right-panel"]',
+            '[class*="detail-panel"]',
+            '[class*="content-panel"]',
+            '[data-source-content]',
+            '[data-document-content]',
+            '[class*="scroll-container"]',
+            '[class*="scrollable"]',
+            'cdk-virtual-scroll-viewport',
+          ];
 
-    // Method 3: Look for passages (NotebookLM's RAG chunks)
-    if (!textContent || textContent.length < 100) {
-      log.info(`  🔍 Trying passage extraction...`);
-      try {
-        const passageSelectors = [
-          '[class*="passage"]',
-          '[class*="chunk"]',
-          '[class*="segment"]',
-          '[data-type="passage"]',
-          '.citation-content',
-          '[class*="citation"]',
-        ];
-
-        for (const selector of passageSelectors) {
-          const passages = await this.page.locator(selector).all();
-          if (passages.length > 0) {
-            const passageTexts: string[] = [];
-            for (const passage of passages) {
-              try {
-                const text = await passage.textContent();
-                if (text && text.trim().length > 10) {
-                  passageTexts.push(text.trim());
-                }
-              } catch {
-                continue;
-              }
-            }
-            if (passageTexts.length > 0) {
-              textContent = passageTexts.join('\n\n---\n\n');
-              log.info(`  📝 Extracted ${passageTexts.length} passages via: ${selector}`);
+          let contentEl = null;
+          for (const selector of viewerSelectors) {
+            const el = document.querySelector(selector);
+            if (el && el.textContent && el.textContent.trim().length > 200) {
+              contentEl = el;
               break;
             }
           }
+
+          if (!contentEl) {
+            // Fallback: Find the largest text container that's not the left panel
+            const allContainers = document.querySelectorAll('div, section, article, main');
+            let maxLength = 0;
+            
+            for (const container of allContainers) {
+              const rect = container.getBoundingClientRect();
+              // Look for elements in the right side of the page (source viewer area)
+              if (rect.left > window.innerWidth * 0.3 && rect.width > 200) {
+                const text = container.textContent || '';
+                // Exclude UI elements
+                const isUIElement = container.classList?.toString().includes('tab') ||
+                                    container.classList?.toString().includes('nav') ||
+                                    container.classList?.toString().includes('toolbar');
+                if (!isUIElement && text.length > maxLength) {
+                  maxLength = text.length;
+                  contentEl = container;
+                }
+              }
+            }
+          }
+
+          if (contentEl) {
+            // Extract text while preserving paragraph structure
+            const walker = document.createTreeWalker(
+              contentEl,
+              NodeFilter.SHOW_TEXT,
+              {
+                acceptNode: function(node) {
+                  const parent = node.parentElement;
+                  if (!parent) return NodeFilter.FILTER_REJECT;
+                  const style = window.getComputedStyle(parent);
+                  if (style.display === 'none' || style.visibility === 'hidden') {
+                    return NodeFilter.FILTER_REJECT;
+                  }
+                  return NodeFilter.FILTER_ACCEPT;
+                }
+              }
+            );
+
+            const texts = [];
+            let node;
+            while ((node = walker.nextNode())) {
+              const text = node.textContent?.trim();
+              if (text && text.length > 0) {
+                texts.push(text);
+              }
+            }
+            
+            return texts.join(' ');
+          }
+
+          return '';
+        })()
+      `) as string;
+
+      if (textContent && textContent.length > 100) {
+        log.info(`  📝 Extracted ${textContent.length} chars via JavaScript evaluation`);
+      } else {
+        textContent = '';
+      }
+    } catch (error) {
+      log.warning(`  ⚠️ JavaScript extraction failed: ${error}`);
+    }
+    }
+
+    // Strategy 3: Look for specific source text containers with known selectors
+    if (!textContent) {
+      log.info(`  🔍 Trying container selector extraction...`);
+      const textContainerSelectors = [
+        // NotebookLM specific patterns observed
+        '.source-detail-content',
+        '.mat-mdc-dialog-content',
+        '.source-text-container',
+        'source-detail',
+        // PDF viewer patterns
+        '.pdf-viewer-container',
+        '.textLayer',
+        // Generic content patterns
+        '[class*="source-text"]',
+        '[class*="source-content"]',
+        '[class*="document-text"]',
+        '[class*="document-content"]',
+        'article',
+        '[role="article"]',
+      ];
+
+      for (const selector of textContainerSelectors) {
+        try {
+          const el = this.page.locator(selector).first();
+          if (await el.isVisible({ timeout: 500 })) {
+            const content = await el.textContent();
+            if (content && content.trim().length > 100) {
+              log.info(`  📝 Found text content via: ${selector}`);
+              textContent = content.trim();
+              break;
+            }
+          }
+        } catch {
+          continue;
         }
-      } catch (error) {
-        log.warning(`  ⚠️ Passage extraction failed: ${error}`);
       }
     }
 
-    // Method 4: Full page text extraction as last resort
-    if (!textContent || textContent.length < 50) {
-      log.info(`  🔍 Trying full content extraction...`);
+    // Strategy 3: Try to scroll and capture all visible passages
+    if (!textContent || textContent.length < 100) {
+      log.info(`  🔍 Trying scroll-based extraction...`);
       try {
-        // Look for the main content panel (usually on the right side)
-        const mainContentSelectors = [
-          'main',
-          '[role="main"]',
-          '.main-content',
-          '[class*="main-content"]',
-          '#main',
-        ];
-
-        for (const selector of mainContentSelectors) {
-          try {
-            const main = this.page.locator(selector).first();
-            if (await main.isVisible({ timeout: 500 })) {
-              const content = await main.textContent();
-              if (content && content.trim().length > textContent.length) {
-                textContent = content.trim();
-                log.info(`  📝 Extracted from main content: ${selector}`);
+        // Scroll through the source viewer to load all content
+        const allTexts: string[] = [];
+        
+        // Find any scrollable container in the right area
+        const scrollContainer = await this.page.evaluate(`
+          (() => {
+            const containers = document.querySelectorAll('[class*="scroll"], [style*="overflow"]');
+            for (const c of containers) {
+              const rect = c.getBoundingClientRect();
+              if (rect.left > window.innerWidth * 0.3 && rect.height > 200) {
+                return true;
               }
             }
-          } catch {
-            continue;
+            return false;
+          })()
+        `) as boolean;
+
+        if (scrollContainer) {
+          // Perform scrolling to capture content
+          for (let i = 0; i < 5; i++) {
+            await this.page.evaluate(`
+              (() => {
+                const scrollables = document.querySelectorAll('[class*="scroll"], [style*="overflow"]');
+                for (const el of scrollables) {
+                  const rect = el.getBoundingClientRect();
+                  if (rect.left > window.innerWidth * 0.3) {
+                    el.scrollTop += 500;
+                  }
+                }
+              })()
+            `);
+            
+            await randomDelay(200, 300);
+            
+            // Capture visible text
+            const visibleText = await this.page.evaluate(`
+              (() => {
+                const textNodes = document.querySelectorAll('p, span, div');
+                const texts = [];
+                for (const node of textNodes) {
+                  const rect = node.getBoundingClientRect();
+                  if (rect.left > window.innerWidth * 0.3 && 
+                      rect.top > 0 && rect.bottom < window.innerHeight) {
+                    const text = node.textContent?.trim();
+                    if (text && text.length > 20 && !text.includes('Sources') && !text.includes('Discussion')) {
+                      texts.push(text);
+                    }
+                  }
+                }
+                return texts.join('\\n');
+              })()
+            `) as string;
+            
+            if (visibleText) {
+              allTexts.push(visibleText);
+            }
+          }
+          
+          if (allTexts.length > 0) {
+            // Deduplicate and combine
+            const uniqueTexts = [...new Set(allTexts.join('\n').split('\n'))];
+            textContent = uniqueTexts.filter(t => t.length > 10).join('\n\n');
+            log.info(`  📝 Extracted via scrolling: ${textContent.length} chars`);
           }
         }
       } catch (error) {
-        log.warning(`  ⚠️ Full content extraction failed: ${error}`);
+        log.warning(`  ⚠️ Scroll extraction failed: ${error}`);
+      }
+    }
+
+    // Strategy 4: Last resort - get all text from visible area
+    if (!textContent || textContent.length < 50) {
+      log.info(`  🔍 Trying full page text extraction...`);
+      try {
+        textContent = await this.page.evaluate(`
+          (() => {
+            // Get all text from the right 60% of the page
+            const texts = [];
+            const walker = document.createTreeWalker(
+              document.body,
+              NodeFilter.SHOW_TEXT,
+              null
+            );
+            
+            let node;
+            while ((node = walker.nextNode())) {
+              const parent = node.parentElement;
+              if (!parent) continue;
+              
+              const rect = parent.getBoundingClientRect();
+              // Only get text from the right side (source viewer area)
+              if (rect.left > window.innerWidth * 0.35 && rect.width > 50) {
+                const text = node.textContent?.trim();
+                if (text && text.length > 5) {
+                  texts.push(text);
+                }
+              }
+            }
+            
+            return texts.join(' ');
+          })()
+        `) as string;
+        
+        if (textContent && textContent.length > 50) {
+          log.info(`  📝 Extracted full page text: ${textContent.length} chars`);
+        }
+      } catch (error) {
+        log.warning(`  ⚠️ Full page extraction failed: ${error}`);
       }
     }
 
     // Clean up the text content
     if (textContent) {
-      // Remove excessive whitespace
-      textContent = textContent.replace(/\s+/g, ' ').replace(/\n\s*\n/g, '\n\n').trim();
-      // Remove UI elements text that might have been captured
-      textContent = textContent.replace(/(Sources|Discussion|Studio|Select all|Sélectionner tout)\s*/gi, '');
+      // Remove excessive whitespace while preserving paragraph breaks
+      textContent = textContent
+        .replace(/[ \t]+/g, ' ')  // Collapse horizontal whitespace
+        .replace(/\n\s*\n\s*\n/g, '\n\n')  // Limit to double line breaks
+        .trim();
+      
+      // Remove common UI elements text that might have been captured
+      const uiPatterns = [
+        /^(Sources|Discussion|Studio|Chat|Notes)\s*/gim,
+        /Select all|Sélectionner tout/gi,
+        /Add source|Ajouter une source/gi,
+        /^\d+ sources?$/gim,
+      ];
+      
+      for (const pattern of uiPatterns) {
+        textContent = textContent.replace(pattern, '');
+      }
+      
+      textContent = textContent.trim();
     }
 
-    return textContent || null;
+    return textContent && textContent.length > 50 ? textContent : null;
+  }
+
+  // ============================================================================
+  // Export All Sources
+  // ============================================================================
+
+  /**
+   * Export all sources from the current notebook to local markdown files
+   *
+   * This method:
+   * 1. Lists all sources in the notebook
+   * 2. Extracts text content from each source
+   * 3. Saves each source as a markdown file
+   * 4. Creates a summary file with the inventory
+   *
+   * @param input - Export configuration with output directory
+   * @returns ExportAllSourcesResult with details of exported files
+   */
+  async exportAllSources(input: ExportAllSourcesInput): Promise<ExportAllSourcesResult> {
+    let { outputDir } = input;
+
+    // Handle paths for Docker container environment
+    // If path contains '/workspaces/' or similar host paths, convert to /data relative path
+    // The container only has write access to /data (which is mounted from host)
+    const dataDir = process.env.DATA_DIR || '/data';
+    
+    if (outputDir.includes('/workspaces/')) {
+      // Extract the notebook folder name from the path
+      // e.g., /workspaces/PHDM/ALL/ALLNBLM/moroccan-diplomatic-history -> moroccan-diplomatic-history
+      const parts = outputDir.split('/');
+      const notebookFolder = parts[parts.length - 1] || 'export';
+      outputDir = path.join(dataDir, notebookFolder);
+      log.info(`  📂 Path converted for Docker: ${input.outputDir} -> ${outputDir}`);
+    } else if (!outputDir.startsWith('/')) {
+      // Relative path - make it relative to data directory
+      outputDir = path.join(dataDir, outputDir);
+      log.info(`  📂 Relative path resolved: ${input.outputDir} -> ${outputDir}`);
+    }
+
+    log.info(`📦 Exporting all sources to: ${outputDir}`);
+
+    const result: ExportAllSourcesResult = {
+      success: false,
+      exportedCount: 0,
+      failedCount: 0,
+      totalSources: 0,
+      files: [],
+      errors: [],
+    };
+
+    try {
+      // 1. List all sources
+      log.info(`  📋 Listing sources...`);
+      const sources = await this.listSources();
+      result.totalSources = sources.length;
+
+      if (sources.length === 0) {
+        log.warning(`  ⚠️ No sources found in the notebook`);
+        result.success = true;
+        return result;
+      }
+
+      log.info(`  📚 Found ${sources.length} sources to export`);
+
+      // 2. Create output directory
+      await fsPromises.mkdir(outputDir, { recursive: true });
+      log.info(`  📁 Output directory ready: ${outputDir}`);
+
+      // 3. Export each source
+      for (let i = 0; i < sources.length; i++) {
+        const source = sources[i];
+        const sourceName = source.name || `source-${source.id}`;
+        const progress = `[${i + 1}/${sources.length}]`;
+
+        log.info(`  ${progress} Extracting: ${sourceName.substring(0, 50)}...`);
+
+        try {
+          // Get source text
+          const sourceText = await this.getSourceText({
+            sourceId: source.id,
+            sourceName: sourceName,
+          });
+
+          if (sourceText.success && sourceText.textContent) {
+            // Sanitize filename - remove invalid characters and limit length
+            const safeFileName = sourceName
+              .replace(/[<>:"/\\|?*\x00-\x1F]/g, '_')
+              .replace(/\s+/g, '_')
+              .replace(/_+/g, '_')
+              .substring(0, 100)
+              .replace(/^_+|_+$/g, '');
+
+            const filePath = path.join(outputDir, `${safeFileName}.md`);
+
+            // Create markdown content with metadata header
+            const markdownContent = `# ${sourceName}
+
+> **Source exportée depuis NotebookLM**
+> - **Date d'export**: ${new Date().toISOString()}
+> - **ID source**: ${source.id}
+> - **Caractères**: ${sourceText.characterCount || 'N/A'}
+> - **Passages estimés**: ${sourceText.passageCount || 'N/A'}
+
+---
+
+${sourceText.textContent}
+`;
+
+            await fsPromises.writeFile(filePath, markdownContent, 'utf-8');
+
+            result.files.push({
+              sourceName,
+              filePath,
+              characterCount: sourceText.characterCount || 0,
+            });
+            result.exportedCount++;
+
+            log.success(`  ${progress} ✅ Exported: ${safeFileName}.md (${sourceText.characterCount} chars)`);
+          } else {
+            throw new Error(sourceText.error || 'No text content extracted');
+          }
+
+          // Small delay between sources to avoid rate limiting
+          if (i < sources.length - 1) {
+            await randomDelay(1500, 2500);
+          }
+
+        } catch (error) {
+          const errorMsg = error instanceof Error ? error.message : String(error);
+          result.errors.push({ sourceName, error: errorMsg });
+          result.failedCount++;
+          log.error(`  ${progress} ❌ Failed: ${sourceName} - ${errorMsg}`);
+        }
+      }
+
+      // 4. Create summary file
+      const summaryPath = path.join(outputDir, '_sources_export_summary.md');
+      const summaryContent = `# Export des Sources NotebookLM
+
+> **Date d'export**: ${new Date().toISOString()}
+> **Répertoire**: ${outputDir}
+
+## Résumé
+
+| Métrique | Valeur |
+|----------|--------|
+| Total sources | ${result.totalSources} |
+| Exportées avec succès | ${result.exportedCount} |
+| Échecs | ${result.failedCount} |
+| Taux de succès | ${Math.round((result.exportedCount / result.totalSources) * 100)}% |
+
+## Sources Exportées
+
+${result.files.length > 0 ? result.files.map((f, i) => 
+  `${i + 1}. **${f.sourceName}**\n   - Fichier: \`${path.basename(f.filePath)}\`\n   - Caractères: ${f.characterCount.toLocaleString()}`
+).join('\n\n') : '_Aucune source exportée_'}
+
+${result.errors.length > 0 ? `
+## Erreurs d'Export
+
+${result.errors.map((e, i) => 
+  `${i + 1}. **${e.sourceName}**\n   - Erreur: ${e.error}`
+).join('\n\n')}
+` : ''}
+
+---
+_Généré par NotebookLM MCP Server_
+`;
+
+      await fsPromises.writeFile(summaryPath, summaryContent, 'utf-8');
+      result.summaryPath = summaryPath;
+
+      result.success = result.exportedCount > 0;
+
+      log.success(`📦 Export terminé: ${result.exportedCount}/${result.totalSources} sources exportées`);
+      if (result.failedCount > 0) {
+        log.warning(`  ⚠️ ${result.failedCount} sources ont échoué`);
+      }
+
+    } catch (error) {
+      const errorMsg = error instanceof Error ? error.message : String(error);
+      log.error(`❌ Export all sources failed: ${errorMsg}`);
+      result.error = errorMsg;
+    }
+
+    return result;
   }
 }

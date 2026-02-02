@@ -789,6 +789,33 @@ app.get('/content/sources/text', async (req: Request, res: Response) => {
   }
 });
 
+// Export all sources from notebook to local files
+app.post('/content/sources/export', async (req: Request, res: Response) => {
+  try {
+    const { output_dir, notebook_url, session_id } = req.body;
+
+    if (!output_dir) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required field: output_dir',
+      });
+    }
+
+    const result = await toolHandlers.handleExportAllSources({
+      output_dir,
+      notebook_url,
+      session_id,
+    });
+
+    res.json(result);
+  } catch (error) {
+    res.status(500).json({
+      success: false,
+      error: error instanceof Error ? error.message : String(error),
+    });
+  }
+});
+
 // Generate content (audio_overview, presentation, report, data_table, infographic, and video are supported)
 app.post('/content/generate', async (req: Request, res: Response) => {
   try {

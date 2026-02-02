@@ -41,6 +41,9 @@ Voici comment cibler un notebook spécifique pour vos analyses :
    * auto_discover_notebook URL([https://notebooklm.google.com/notebook/488d3adb-93d4-4550-bc94-f30b678fea3c])
    * *"Quels sont mes notebooks ?"* (pour voir la liste locale)
    * *Utilise le notebook 'histoire-diplomatie-maroc' pour cette session Quelles sont les thèses principales sur la diplomatie alaouite dans ce corpus ?* (pour charger le contexte avec `select_notebook`)
+
+   * Récupère la liste des sources via list_content → Pour chaque source → get_source_text et Sauvegarder dans ALL/ALLNBLM/[Notebook]/
+
 2. **Mener l'Enquête** :
 
    * Posez votre question théorique : *"Analyse l'évolution du concept de souveraineté dans ce corpus."*

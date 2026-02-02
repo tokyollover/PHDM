@@ -584,6 +584,16 @@ class NotebookLMMCPServer {
             );
             break;
 
+          case 'export_all_sources':
+            result = await this.toolHandlers.handleExportAllSources(
+              args as {
+                output_dir: string;
+                notebook_url?: string;
+                session_id?: string;
+              }
+            );
+            break;
+
           default:
             log.error(`❌ [MCP] Unknown tool: ${name}`);
             return {

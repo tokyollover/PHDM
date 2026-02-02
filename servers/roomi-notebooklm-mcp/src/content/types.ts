@@ -382,3 +382,58 @@ export interface SourceTextResult {
   /** Error message if failed */
   error?: string;
 }
+
+// ============================================================================
+// Export All Sources Types
+// ============================================================================
+
+/**
+ * Input for exporting all sources from a notebook
+ */
+export interface ExportAllSourcesInput {
+  /** Directory path where to save the extracted texts */
+  outputDir: string;
+}
+
+/**
+ * Individual exported file info
+ */
+export interface ExportedFileInfo {
+  /** Original source name */
+  sourceName: string;
+  /** Local file path where saved */
+  filePath: string;
+  /** Number of characters in the text */
+  characterCount: number;
+}
+
+/**
+ * Export error info
+ */
+export interface ExportErrorInfo {
+  /** Source name that failed */
+  sourceName: string;
+  /** Error message */
+  error: string;
+}
+
+/**
+ * Result of exporting all sources from a notebook
+ */
+export interface ExportAllSourcesResult {
+  success: boolean;
+  /** Number of successfully exported sources */
+  exportedCount: number;
+  /** Number of failed exports */
+  failedCount: number;
+  /** Total sources in notebook */
+  totalSources: number;
+  /** List of exported files with details */
+  files: ExportedFileInfo[];
+  /** List of errors for failed exports */
+  errors: ExportErrorInfo[];
+  /** Path to the summary file */
+  summaryPath?: string;
+  /** Error message if complete failure */
+  error?: string;
+}
