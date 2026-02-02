@@ -2,6 +2,7 @@
 
 # Setup script for NotebookLM MCP Server (Docker Version)
 # This script prepares the environment, builds the Docker image, and sets up data directories.
+# The MCP server source code is now embedded in servers/roomi-notebooklm-mcp (no git clone needed).
 
 set -e  # Exit on error
 
@@ -11,7 +12,6 @@ echo "=========================================="
 
 # Configuration
 TARGET_DIR="servers/roomi-notebooklm-mcp"
-REPO_URL="https://github.com/roomi-fields/notebooklm-mcp.git"
 IMAGE_NAME="roomi-notebooklm-mcp"
 DATA_DIR="ALL/ALLNBLM"
 
@@ -37,25 +37,24 @@ chmod 777 "$DATA_DIR"
 echo "✓ Permissions set for $DATA_DIR"
 echo ""
 
-# 3. Clone Repository
-echo "📥 Cloning repository..."
-mkdir -p servers
-
-if [ -d "$TARGET_DIR" ]; then
-    echo "⚠️  Directory $TARGET_DIR already exists."
-    # We update it instead of removing to save time if valid
-    echo "🔄 Updating existing repository..."
-    cd "$TARGET_DIR"
-    git pull
-    cd - > /dev/null
-else
-    git clone "$REPO_URL" "$TARGET_DIR"
-    echo "✓ Cloned $REPO_URL"
+# 3. Verify source code exists (embedded in repo, no git clone needed)
+echo "📂 Verifying MCP server source code..."
+if [ ! -d "$TARGET_DIR" ]; then
+    echo "❌ Error: MCP server source code not found at $TARGET_DIR"
+    echo "   The source code should be embedded in the repository."
+    exit 1
 fi
+
+if [ ! -f "$TARGET_DIR/package.json" ]; then
+    echo "❌ Error: Invalid MCP server directory - package.json not found"
+    exit 1
+fi
+
+echo "✓ MCP server source code found at $TARGET_DIR"
 echo ""
 
-# 3.5 Build Application (Required for Dockerfile which copies dist/)
-echo "🔨 Building application locally..."
+# 4. Build Application
+echo "🔨 Building application..."
 cd "$TARGET_DIR"
 
 # Install dependencies
@@ -67,14 +66,14 @@ echo "  - Compiling TypeScript..."
 npm run build
 
 if [ $? -ne 0 ]; then
-    echo "❌ Local build failed"
+    echo "❌ Build failed"
     exit 1
 fi
 cd - > /dev/null
 echo "✓ Application built successfully"
 echo ""
 
-# 4. Build Docker Image
+# 5. Build Docker Image
 echo "🐳 Building Docker image '$IMAGE_NAME'..."
 echo "⏳ This may take a few minutes..."
 
@@ -90,10 +89,17 @@ fi
 cd - > /dev/null
 echo ""
 
-# 5. Final Instructions
+# 6. Final Instructions
 echo "=========================================="
 echo "✅ Setup completed successfully!"
 echo "=========================================="
+echo ""
+echo "Available MCP tools include:"
+echo "  - ask_question: Query NotebookLM with session support"
+echo "  - get_source_text: Extract full text from sources"
+echo "  - list_content: List sources and generated content"
+echo "  - add_source: Add documents to notebook"
+echo "  - generate_content: Create audio, video, presentations..."
 echo ""
 echo "Next steps:"
 echo "1. Ensure .env contains your NOTEBOOKLM_COOKIE (optional if using VNC auth)"
