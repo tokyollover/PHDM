@@ -1,0 +1,20869 @@
+# DOCUMENTS DIPLOMATIQUES - Affaires_du_Maroc.pdf
+
+MINISTÈRE
+
+
+DE L'EUROPE
+
+
+ET DES AFFAIRES
+
+
+ÉTRANGÈRES
+
+
+Liberté
+Egalité
+Fraternité
+
+
+Bibliothèque diplomatique numérique
+
+
+BDN: un site des Archives diplomatiques
+
+
+Affaires du Maroc, 1901-
+1905 / Ministère des affaires
+
+
+étrangères
+
+
+Source bibliotheque-numerique.diplomatie.gouv.fr / Ministère des Affaires étrangères
+
+
+MINISTÈRE
+
+
+DE L'EUROPE
+
+
+ET DES AFFAIRES
+ÉTRANGÈRES
+
+
+Liberté
+Egalité
+Fraternité
+
+
+Bibliothèque diplomatique numérique
+
+
+BDN: un site des Archives diplomatiques
+
+
+France. Ministère des affaires étrangères (1588-2007). Auteur du
+texte. Affaires du Maroc, 1901-1905 / Ministère des affaires
+étrangères. 1905.
+
+
+La Bibliothèque diplomatique numérique (BDN), bibliothèque numérique des Archives diplomatiques au MEAE, a
+été réalisée à partir des outils développés par la Bibliothèque nationale de France (BnF) pour sa bibliothèque
+numérique Gallica. Hébergée par la BnF, elle donne accès à :
+
+
+• des articles originaux de médiation culturelle et des reproductions numériques d'œuvres provenant des
+collections des Archives diplomatiques. Ces contenus sont considérés, en vertu du code des relations entre le public
+et l'administration, comme étant des informations publiques et leur réutilisation s'inscrit dans le cadre des
+dispositions prévues aux articles L. 321-1 à L. 327-1 de ce code. Dès lors :
+
+
+- la réutilisation non commerciale de ces contenus est libre et gratuite dans le respect de la législation en vigueur
+et du maintien de la mention de source (pour les articles: << Archives diplomatiques, Bibliothèque diplomatique
+numérique »; pour les œuvres: << Source: Ministère des Affaires étrangères  )
+
+
+- la réutilisation commerciale de ces contenus est payante, conformément aux textes en vigueur. L'utilisateur est
+invité à s'informer auprès des Archives diplomatiques des conditions de leur réutilisation
+
+
+• des reproductions numériques d'œuvres provenant des collections de la BnF. Celles-ci sont signalées par la
+mention <<< Source: Bibliothèque nationale de France ». Ces contenus sont considérés, en vertu du code des relations
+entre le public et l'administration, comme étant des informations publiques et leur réutilisation s'inscrit dans le
+cadre des dispositions prévues aux articles L. 321-1 à L. 327-1 de ce code. Dès lors :
+
+
+- la réutilisation non commerciale de ces contenus est libre et gratuite dans le respect de la législation en vigueur
+et du maintien de la mention de source
+
+
+la réutilisation commerciale de ces contenus est payante et fait l'objet d'une licence, conformément aux textes
+en vigueur (en savoir plus).
+
+
+• des reproductions numériques d'œuvres provenant des collections d'autresbibliothèques ou institutions
+partenaires de la BnF. Celles-ci sont signalées par la mention << Source : [Intitulé du partenaire]  . L'utilisateur est
+invité à s'informer auprès de ces établissements des conditions de leur réutilisation.
+
+
+MINISTÈRE DES AFFAIRES ÉTRANGÈRES
+
+
+・ハー
+
+
+DOCUMENTS DIPLOMATIQUES
+
+
+AFFAIRES DU MAROC
+
+
+1901-1905
+
+
+SCIENCES
+
+
+PARIS
+
+
+IMPRIMERIE NATIONALE
+
+
+MDCCCCV
+
+
+MINISTÈRE DES AFFAIRÈS ÉTRANGÈRES
+
+
+DOCUMENTS DIPLOMATIQUES
+
+
+AFFAIRES DU MAROC
+
+
+1901-1905
+
+
+MINISTÈRE DES AFFAIRES ÉTRANGÈRES
+
+
+DOCUMENTS DIPLOMATIQUES
+
+
+AFFAIRES DU MAROC
+
+
+1901-1905
+
+
+SCIENCES
+
+
+PARIS
+
+
+IMPRIMERIE NATIONALE
+
+
+MDCCCCV
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+TABLE DES MATIÈRES.
+
+
+B.
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+VIII
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+IX
+
+
+|  |  |  |  |  |  |
+
+| --- | --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |  |
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XI
+
+
+C
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XII
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XIII
+
+
+C.
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XIV
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XV
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XVI
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+XVII
+
+
+MINISTÈRE DES AFFAIRES ÉTRANGÈRES.
+
+
+DOCUMENTS DIPLOMATIQUES.
+
+
+AFFAIRES DU MAROC.
+
+
+1901.
+
+
+N° 1.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,.
+
+
+à M. RÉVOIL, Ministre de la République française à Tanger.
+
+
+Paris, le 3 mars 1901.
+
+
+Comme vous l'aurez appris, le poste de Timmimoun a été attaqué par un millier
+de Beraber venus du Tafilelt et qui, après un combat sanglant, ont été mis en fuite.
+Nos troupes ont donc été, sur notre territoire, l'objet d'une agression de la part de
+pillards nomades qui avaient formé leur colonne en pays marocain et à qui la com-
+plaisance de certaines autorités locales paraît ne pas avoir manqué.
+
+
+D'autre part, le Gouvernement de l'Algérie signale que les gens du Makhzen au-
+raient fait une tournée parmi des tribus dont le traité de 1845 n'a pas réglé l'allé-
+geance et qui sont restées ainsi dans une situation indéfinie.
+
+
+Que la faute en soit imputable au Gouvernement marocain ou à quelques-uns de
+ses agents, il est trop certain que, du côté du Maroc, on n'a pas observé une attitude
+propre à assurer la tranquillité dans ces territoires. Nous sommes ainsi amenés mal-
+gré nous à envisager dès à présent le cas où, les inquiétudes créées par cet état de
+choses venant à s'aggraver, nos autorités militaires se verraient dans la nécessité d'in-
+tervenir auprès de ces tribus à l'égard desquelles, en raison de leur situation indécise,
+nous nous sommes jusqu'à ce jour abstenus de toute intervention.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+1
+
+
+2
+
+
+Vous voudrez bien, sous la forme que vous jugerez convenable, donner au
+Makhzen des indications dans ce sens.
+
+
+Pour votre information personnelle, je continue de juger hautement désirable
+que la conduite du Maroc nous permette de rester fidèles à l'attitude expectante que
+nous avons adoptée. Mais dans le cas où la force des choses obligerait le Gouverne-
+ment de la République à laisser aux autorités militaires la latitude, qu'elles réclament,
+de faire notamment une pointe sur Kenadsa, il importerait que le Makhzen ne pût
+être surpris par l'événement ni se méprendre sur le caractère d'une manifestation
+d'où serait écartée toute pensée agressive.
+
+
+DELCASSÉ.
+
+
+N° 2.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 23 mars 1901.
+
+
+J'ai l'honneur de communiquer ci-joint à Votre Excellence le texte de la note de
+protestation que, conformément à ses instructions, j'ai adressée au Représentant du
+Sultan à Tanger, et que, d'autre part, j'ai fait remettre à Si Abdelkerim ben
+Sliman, Ministre des Affaires étrangères du Sultan.
+
+
+Je viens, en outre, de prescrire au docteur Linarès de compléter la protestation
+renfermée dans la note susvisée par les remontrances les plus énergiques au sujet de
+la complicité désormais établie des autorités marocaines dans ce soulèvement. Je l'ai
+prié de ne pas laisser ignorer dès à présent au Secrétaire des Affaires étrangères que
+la liquidation des responsabilités, chaque jour plus lourdes, encourues par le
+Makhzen, sera d'autant plus onéreuse pour lui qu'a été grande la modération dont
+ a fait preuve le Gouvernement français jusqu'à ce jour.
+
+
+ANNEXE.
+
+
+RÉVOIL.
+
+
+M. RÉVOIL, MINISTRE DE LA RÉPUBLIQUE FRANÇAISE,
+
+
+à SI MOHAMMED TORRES, Représentant de Sa Majesté Chérifienne à Tanger,
+et à SI ABDELKERIM BEN SLIMAN, Secrétaire des Affaires étrangères de Sa
+Majesté Chérifienne à Marrakech.
+
+
+Tanger, le 18 mars 1901.
+
+
+Au cours des opérations qu'il a été amené à faire dans une région qu'il avait déclarée
+
+
+3
+
+
+depuis longtemps et à bon droit faire partie du territoire algérien, le Gouvernement de la
+République s'est appliqué avec le plus grand soin à marquer sa ferme volonté de respecter
+tous les droits du Gouvernement Chérifien. Même pour éviter tout acte qui pût éveiller la
+moindre inquiétude chez ce Gouvernement pour ses propres possessions, les Autorités fran-
+çaises, malgré les multiples attaques dirigées contre nos troupes, sans que celles-ci eussent
+jamais pris l'offensive, n'ont pas voulu, comme elles en auraient eu le droit, d'après le traité
+de 1845, poursuivre les agresseurs qui se réfugiaient, après leurs attaques, sur le territoire
+marocain.
+
+
+Tenant compte des assurances que nous lui avons données, Sa Majesté Chérifienne nous
+a déclaré qu'Elle réprouvait ces coups de main, et que les ordres les plus énergiques avaient
+été donnés aux tribus limitrophes de ces régions de ne pas attaquer nos territoires. Dans cet
+esprit, le qaïd Elmadani Elglaoui a été nommé gouverneur de Tafilelt, de Mdâghra et 'des
+populations qui en dépendent, pour surveiller certaines tribus et détourner leurs regards
+du projet qu'elles auraient conçu.
+
+
+Cette mesure a été considérée par le Gouvernement de la République comme une marque
+du souci qui animait le Makhzen de sauvegarder les engagements découlant des traités qui
+existent entre les deux pays.
+
+
+Malheureusement, les événements qui se sont produits depuis l'époque où le Makhzen
+nous a fait parvenir cette déclaration, nous ont apporté la preuve que les instructions chéri-
+fiennes n'ont pas été écoutées, et que ses représentants ont été impuissants à obtenir des
+fauteurs de troubles l'obéissance aux ordres du Sultan. Les tribus ont continué à venir
+attaquer nos troupes sur notre territoire, sans y avoir jamais été provoquées par des actes
+d'agression contre elles. Ceci s'est passé notamment du côté d'Elmoungâr, à Zebaret ben
+Chandam, à plusieurs reprises à Ezzoubia, et plus au Sud, à Saheła Mterfa où les Bera-
+ber ont assailli nos troupes.
+
+
+Mais un fait plus grave vient de se produire un millier de Beraber venus du Tafilelt,
+et ayant formé leur colonne en pays marocain, sont entrés sur notre territoire et ont atta-
+qué de nuit les troupes françaises dans le poste de Timmimoun.
+
+
+Malgré le juste châtiment que nos troupes leur ont infligé, une nouvelle colonne se prépare
+au Tafilelt et les attaques recommencent dans la région de Djenayen Eddar. Et même cette
+nouvelle nous est parvenue, que les tribus des environs de Téniet Essassi s'apprêtaient à mar-
+cher contre nous.
+
+
+Il est impossible que de tels faits se produisent sans engager directement la responsabilité
+du Makhzen, soit que certains de ses agents aient montré une complaisance coupable envers
+les fauteurs de troubles, soit qu'ils n'aient pas eu le pouvoir de se faire obéir, soit encore
+que leur langage n'ait pas fait suffisamment comprendre aux tribus que le Makhzen réprou-
+vait ces actes comme s'ils étaient commis contre sa propre autorité. Il n'est donc que trop
+certain que l'attitude du Gouvernement chérifien et de ses agents a non seulement été im-
+puissante à réprimer les troubles, mais encore qu'elle a contribué à leur développement.
+
+
+Le Gouvernement de la République appelle une fois de plus l'attention de Sa Majesté
+Chérifienne sur la gravité de cette situation et l'engage énergiquement à envoyer de nouveau
+les ordres les plus formels à ses agents pour surveiller et empêcher la formation de ces
+colonnes de pillards, et prévenir au besoin par la force toute nouvelle tentative d'invasion
+sur notre territoire. Il n'est pas douteux que les paroles que Sa Majesté Chérifienne fera par-
+venir à ses populations seront écoutées le jour où elles représenteront notre présence dans
+la région voisine du Maroc non point comme une menace contre leurs personnes et leurs
+biens et leur pays, mais comme un gage de paix, de sécurité et de prospérité, ainsi que nous
+en avons donné les assurances réitérées au Gouvernement chérifien, et comme l'a toujours
+
+
+1.
+
+
+1
+
+
+1
+
+
+1
+
+
+4
+
+
+prouvé, d'ailleurs, la conduite de nos autorités et de nos soldats, depuis qu'a été conclu le
+traité de 1845.
+
+
+La volonté qu'a le Gouvernement de la République de s'abstenir de tout empiétement sur
+les territoires reconnus au Maroc par ce traité et le désintéressement absolu de ses inten-
+tions se sont trop clairement manifestés pour qu'il soit permis au Gouvernement Chérifien
+de suspecter la sincérité de ses déclarations. Dans ces conditions, le Gouvernement de la
+République estime qu'il pourra, sans crainte de soulever à cet égard aucun malentendu,
+faire tout le nécessaire pour obtenir justice lui-même des agresseurs et assurer, dans la
+limite de nos droits, la sécurité complète de notre territoire.
+
+
+Aucun doute ne doit subsister dans l'esprit du Gouvernement Chérifien sur la résolution
+prise dans ce sens par le Gouvernement de la République. Nous sommes assurés, d'ailleurs,
+qu'après avoir reçu ce loyal avertissement, le Gouvernement Chérifien fera, de son côté, de
+nouveaux efforts pour ramener ces tribus à l'obéissance, et ne pourra qu'approuver les me-
+sures que les circonstances nous contraindraient à prendre pour réprimer, s'ils persistent,
+des troubles dont la prolongation serait tout aussi nuisible à ses intérêts qu'aux nôtres.
+
+
+N° 3.
+
+
+M. PATENÔTRE, Ambassadeur de la République française à Madrid,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Madrid, le 6 avril 1901.
+
+
+Le Ministre d'État me communique un télégramme du Gouvernement militaire
+des îles Zaffarines, annonçant qu'un français, M. Jules Pouzet, venu du Kiss à
+bord de la barque de plaisance la Joven Anna, a été blessé mortellement d'une balle
+dans les eaux du Cap del Agua, au moment où il recueillait un Riffain de la tribu
+des Boucouya, sur lequel ont fait feu les indigènes.
+
+
+PATENÔTRE.
+
+
+N° 4.
+
+
+M. RÉVOIL, Ministre de la République Française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+Tanger, le 25 avril 1901.
+
+
+J'attendais encore les résultats de l'enquète ouverte sur les circonstances de la
+mort de M. Pouzet, lorsque j'ai reçu du représentant du Sultan à Tanger une lettre
+
+
+5
+
+
+relative à ce sujet. Si Mohammed Torrès, reproduisant les renseignements qui lui
+ont été fournis par le Khalifa du Sultan résidant sur la frontière du territoire de
+Mélilla, dit que « des chrétiens d'Oran » ont débarqué avec cinq indigènes Boucouya
+sur la côte de Kebdana, qu'ils ont commencé à lever des plans, que les autorités
+marocaines ont voulu les arrêter, qu'elles n'ont pu saisir que quatre des Boucouya,
+que le cinquième s'est enfui dans la barque des chrétiens. On nous demande la
+livraison de cet individu et la punition des Français qui l'accompagnaient
+
+
+Je me suis borné à répondre que je faisais toutes réserves sur l'exactitude de ce
+récit et sur les mesures qu'on nous demandait de prendre.
+
+
+RÉVOIL.
+
+
+Nº 5.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 27 avril 1901.
+
+
+Le Ministre d'Angleterre m'annonce que le Sultan envoie une Ambassade à Londres
+à l'occasion de l'avènement du Roi. Le personnel de cette mission s'embarquera à
+Mazagan sur un navire de guerre anglais vers le 15 mai.
+
+
+D'autre part, à la date du 16 avril dernier, le Ministre favori d'Abd-el-Aziz,
+El Menebhi, mandait le docteur Linarès chez lui et lui annonçait « que Sa Majesté
+Chérifienne avait décidé l'envoi d'une Ambassade près le Gouvernement de la Répu-
+blique, et qu'après avoir accompli sa mission, ladite Ambassade se rendrait à
+Pétersbourg ».
+
+
+Le docteur Linarès a manifesté son étonnement de ce que le Sultan puisse
+songer, dans les circonstances actuelles, à faire partir une Ambassade pour Paris,
+mais, sur les instances de son interlocuteur, il lui a promis de me demander
+mon avis.
+
+
+N° 6.
+
+
+RÉVOIL.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 mai 1901.
+
+
+Après avoir pris connaissance de tous les renseignements relatifs au meurtre de
+
+
+6
+
+
+M. Pouzet, je considère que le qaïd et le cheikh des Kebdana en sont directement
+responsables. S'ils n'ont pas eu l'intention de tuer notre compatriote, ils n'ignoraient
+pas qu'ils risquaient de l'atteindre en tirant sur l'indigène qui s'était réfugié auprès de
+nos compatriotes. D'autre part, les Boucouya arrêtés étaient notoirement au service
+de M. Say et le qaïd, qui s'est emparé d'eux par la violence, a contrevenu à l'ar-
+ticle 9 de la Convention de Madrid.
+
+
+Je propose donc à Votre Excellence de remettre au Représentant du Sultan un
+résumé des faits, en lui donnant un délai de huit jours pour étudier l'affaire, déjà
+complètement connue de lui. Ce délai expiré, je notifierai les réparations que nous
+exigerions et qui consisteraient dans l'arrestation du qaïd et du cheikh coupables,
+leur incarcération à la qaçbah de Tanger, où ils resteraient jusqu'au terme que nous
+jugerions suffisant, la mise en liberté des quatre indigènes prisonniers, une lettre
+d'excuses du Makhzen, apportée par Torrès à la Légation, enfin une indemnité pécu-
+niaire fixée par nous d'après la situation de fortune de la famille Pouzet. Un de nos
+bâtiments de guerre irait attendre à Mazagan la réponse du Makhzen qui devrait lui
+parvenir dans les dix jours.
+
+
+N° 7.
+
+
+RÉVOIL.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. RÉVOIL, Ministre de la République française à Tanger.
+
+
+5 mai 1901.
+
+
+J'approuve les propositions contenues dans votre télégramme du 2 mai, au sujet
+de la réclamation motivée par le meurtre de M. Pouzet.
+
+
+DELCASSÉ.
+
+
+N° 8.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. RÉVOIL, Ministre de la République française à Tanger.
+
+
+Paris, le 5 mai 1901.
+
+
+En réponse à votre télégramme du 27 avril, j'estime que nous n'avons pas à
+décourager le Makhzen de l'envoi d'une Ambassade à Paris.
+
+
+7
+
+
+Toutefois une décision définitive ne saurait précéder le règlement de l'affaire
+Pouzet.
+
+
+N° 9.
+
+
+DELCASSÉ.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 6 mai 1901.
+
+
+Mon collègue d'Allemagne vient de m'apprendre que l'Ambassade marocaine qui
+va à Londres se rendra également à Berlin,
+
+
+N° 10.
+
+
+RÉVOIL.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. RÉVOIL, Ministre de la République française à Tanger.
+
+
+Paris, le 15 mai 1901.
+
+
+Le Ministre de la marine me fait savoir que le Pothuau et le Du Chayla arriveront
+à Tanger le 16 au soir ou le 17 à la première heure.
+
+
+DELCASSÉ.
+
+
+N° 11.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 mai 1901.
+
+
+Au moment où nous sommes obligés de recourir, vis-à-vis du Makhzen, à des
+moyens de pression pour obtenir réparation de faits qui trahissent une' si complète
+
+
+8
+
+
+méconnaissance de ses devoirs envers les nations civilisées, il n'est peut-être pas inu-
+tile d'examiner rapidement l'état de nos relations avec le Gouvernement marocain et
+de faire en quelque sorte le bilan de sa situation au regard de la France.
+
+
+On peut dire sans exagération qu'à l'heure actuelle le compte du Makhzen avec
+nous est grevé d'un lourd passif.
+
+
+Depuis la dernière ambassade de M. de Monbel à la Cour (avril-juin 1898), nous
+n'avons reçu satisfaction sur aucune affaire de quelque importance. Les réclamations
+que mon prédécesseur avait traitées au cours de son ambassade sont restées en souf-
+france pendant près de trois ans, alors que celles que son collègue d'Allemagne avait
+négociées en même temps et dans les mêmes conditions étaient réglées peu de temps
+après son retour, non, il est vrai, sans le concours d'une démonstration navale.
+
+
+Grâce aux efforts de cette légation, une certaine détente s'était produite récem-
+ment. J'avais pu, après de laborieux pourparlers, arriver à une entente sur les princi-
+pales réclamations laissées en suspens; ce n'avait pas été, cependant, sans éprouver
+une fois de plus le mauvais vouloir du Délégué chérifien commis à cette négocia-
+tion. Les délais convenus pour l'exécution de ce règlement sont écoulés depuis plus
+d'un mois sans que la ratification et les ordres conformes du Makhzen soient encore
+arrivés à Tanger.
+
+
+En ce qui concerne des questions d'un ordre plus spécial, Votre Excellence a cer-
+tainement présents à l'esprit les torts graves que le Gouvernement Chérifien a accu-
+mulés vis-à-vis de la France, dans les affaires du Touat.
+
+
+C'est d'abord, contre nos troupes, cette longue série d'agressions injustifiées que
+les rapports du Gouvernement général de l'Algérie ont successivement signalées. Si
+le Makhzen pouvait, dans une certaine mesure, décliner la responsabilité directe de
+ces incidents, sa complicité manifeste a éclaté dans l'attaque de Timmimoun, préparée
+sous les yeux de Moulay Rechid et d'Elglaoui, non par les seules tribus nomades et
+plus ou moins soumises, mais par des fractions sédentaires de l'entourage même du
+Vice-Roi du Tafilelt.
+
+
+Ce sont ensuite les démarches diplomatiques, d'une si singulière incorrection,
+faites par le Makhzen auprès des divers Gouvernements européens, lors de nos opé-
+rations au Touat, démarches qu'un premier échec n'a pas découragées et qui
+paraissent avoir rencontré aujourd'hui, auprès de quelques Chancelleries, un accueil
+moins réservé.
+
+
+Enfin, jusque dans cette malheureuse affaire Pouzet, sans revenir sur l'exposé
+complet de nos griefs, il n'est pas possible de ne pas relever le carctère inconvenant
+de la démarche du Représentant du Sultan à Tanger, osant demander au Ministre
+de France le châtiment de Français dont l'un était tombé sous les coups d'un fonc-
+tionnaire marocain, et ne trouvant pas depuis lors un mot de regrets à exprimer
+sur cet événement, bien que les renseignements qui lui sont assurément parvenus
+lui en aient fait connaître les détails et le caractère.
+
+
+La mesure était donc vraiment comble et il serait difficile d'imaginer des condi-
+tions dans lesquelles l'attitude énergique prise par le Gouvernement français fût plus
+justifiée et, j'ajouterais, plus opportune.
+
+
+Depuis l'époque déjà éloignée (novembre 1896), où nous avons réglé certaines
+affaires avec le concours du contre-torpilleur, le d'Iberville, les Puissances ne se sont
+
+
+9
+
+
+pas fait faute d'employer, pour le règlement de leurs affaires, le classique procédé
+de la démonstration navale: les Américains en $1,897$, les Allemands, les Anglais et
+les Italiens en 1898; et nous n'aurions certes rien à redouter de la comparaison de
+nos griefs avec les leurs.
+
+
+Aucune des puissances intéressées au Maroc ne s'est d'ailleurs acquis, en ce qui
+regarde le maintien du statu quo, les titres que nous pouvons invoquer et n'a fait au
+respect de ses engagements publics sur ce point les sacrifices que nous consentons
+quotidiennement.
+
+
+A peu près seuls voisins du Maroc sur terre, en contact avec ses populations le long
+d'une frontière d'une étendue considérable, bénéficiaires, depuis 1845, d'un traité
+auquel les tribus marocaines et le Maroc lui-même ont porté de continuelles atteintes,
+non seulement nous n'avons jamais abusé de cette situation, mais encore nous avons
+systématiquement délaissé les occasions les plus légitimes de prendre sur le Gou-
+vernement Chérifien des revanches ou des avantages que d'autres peut-être se seraient
+moins facilement résignés à négliger.
+
+
+Une si constante loyauté, une modération si tenace placent la France, tant au
+regard du Maroc que vis-à-vis des Puissances, dans une situation si forte et si franche,
+qu'elle est en mesure d'affirmer sa politique avec d'autant plus de netteté, le jour où
+le maintien de son prestige et la sauvegarde de ses droits viennent à l'exiger.
+
+
+RÉVOIL.
+
+
+N° 12.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 mai 1901.
+
+
+Samedi 18. Le Pothuau et le Du Chayla ont mouillé hier à la première heure
+dans la rade.
+
+
+A dix heures, j'ai remis à Si Torrès une note relatant les réparations que nous
+exigeons du Makhzen.
+
+
+Je lui ai donné jusqu'à demain matin pour me faire connaître s'il était en mesure
+de nous assurer ces satisfactions, faute de quoi j'adresserais la demande au Makhzen
+lui-même et elle serait portée à Mazagan par nos navires de guerre qui lèveraient
+l'ancre lundi à la première heure.
+
+
+Conformément à l'usage, j'ai eu soin de prévenir mes collègues des motifs de
+notre démarche.
+
+
+Je n'ai pas manqué d'en préciser très nettement l'objet. Mon collègue d'Angleterre
+m'a exprimé avec insistance la conviction que nous obtiendrons promptement satis-
+faction.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+2
+
+
+10
+
+
+Dimanche 19. - Si Mohammed Torrès m'a fait parvenir aujourd'hui, à midi, sa
+réponse qui n'est qu'un accusé de réception, avec toutefois une première expression
+de regrets conçus en des termes d'ailleurs généraux. Il m'informe qu'il continue son
+enquête et que lorsqu'il sera fixé, il saisira le Makhzen.
+
+
+Je viens de répondre à Si Mohammed Torrès que j'étais heureux de constater qu'il
+exprimait, pour la première fois, des sentiments de nature à faciliter le règlement de
+l'affaire, que, dans le même but, j'expédiais, dès demain matin, notre demande au
+Makhzen par nos navires de guerre; j'ajoute que je ne peux retarder cette démarche
+après le long délai passé depuis la première lettre de Si Mohammed Torrès et qui a
+largement suffi pour qu'il fasse l'enquête la plus complète.
+
+
+Le Pothuau et le Du Chayla partiront demain matin. Notre premier drogman,
+M. Fumey, sera à bord du Pothuau et se rendra d'urgence à Marrakech.
+
+
+RÉVOIL.
+
+
+:
+
+
+N° 13.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Ambassadeurs de la République française à Madrid, Vienne, Pé-
+tersbourg, Berlin, Rome et Londres.
+
+
+Paris, le 24 mai 1905.
+
+
+Un de nos compatriotes, M. Pouzet, ayant été dernièrement assassiné sur la côte
+du Riff, comme vous le savez, le Gouvernement de la République a été amené à
+adresser au Gouvernement Chérifien une demande de réparations qu'il a dû appuyer
+par l'envoi dans les eaux marocaines de deux navires de guerre.
+
+
+Il m'a paru utile, pour le cas où l'on vous entretiendrait de ce différend, de vous
+rappeler brièvement les circonstances dans lesquelles il s'est produit.
+
+
+Le 3 avril dernier, M. Jules Pouzet, domicilié à Oran, abordait avec une embar-
+cation de plaisance sur le territoire de la tribu de Kebdana, au Cap de l'eau, non loin
+des îles Zaffarines, en compagnie d'un autre Français, M. Louis Say, et de quelques
+indigènes engagés à leur service. Attaqués à l'improviste sur l'ordre du qaïd, sans que
+rien dans leur attitude pût motiver cette agression, nos compatriotes, qui n'étaient
+même pas armés, se réfugièrent à bord, mais quatre de leurs serviteurs furent cap-
+turés par les Kebdana, et ceux-ci tirèrent sur le bateau plusieurs coups de feu dont
+l'un atteignit mortellement M. Pouzet. Lorsque la nouvelle de cet incident fut parvenue
+à Tanger, le délégué du Sultan dans cette ville, au lieu d'exprimer à notre légation
+les regrets de son gouvernement, présenta lui-même à M. Révoil une plainte contre
+les Français victimes de cet attentat.
+
+
+Nous nous vîmes ainsi dans la nécessité d'exiger du Makhzen des réparations. Si
+Mohammed Torrès n'ayant pas cru pouvoir nous répondre d'une façon satisfaisante,
+M. Révoil, conformément à mes instructions, a fait présenter notre réclamation direc-
+
+
+11
+
+
+tement au Makhzen, et a envoyé, à cet effet, à la cour de Marrakech, M. Fumey,
+premier drogman de notre légation, que les croiseur Pothuau et Du Chayla ont con-
+duit jusqu'à Mazagan, où ils attendront le résultat de sa démarche. Cette procédure
+est identique à celle qui a été, depuis quelques années, employée par les Gouver-
+nements américain, allemand, italien et anglais, pour faire aboutir différentes récla-
+mations; il est à espérer que, dans le cas présent comme dans les précédents, elle
+suffira pour que le Makhzen fasse droit à notre demande.
+
+
+Conformément à l'usage, M. Révoil a pris soin de renseigner tous les Ministres
+étrangers accrédités à Tanger sur l'objet, nettement limité, de nos revendications.
+Vous pourriez, à l'occasion, en indiquer vous-même le caractère précis en vous
+inspirant des renseignements qui précèdent.
+
+
+DELCASSÉ.
+
+
+N° 14.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 1er juin 1901.
+
+
+Le Pothuau est revenu hier à midi de Mazagan avecle Du Chayla. La mission dont
+mon télégramme du 2 mai a entretenu Votre Excellence a été remplie avec un plein
+succès. La procédure d'arrestation et de livraison du qaïd et celle de délivrance et
+de restitution des Boucouya ont été réglées à notre entière satisfaction. Si Abdel-
+kerim ben Sliman arrivera très prochainement à Tanger, où il doit assurer lui-même
+la complète exécution des clauses de l'arrangement.
+
+
+RÉVOIL
+
+
+N° 15.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. RÉVOIL, Ministre de la République française à Tanger.
+
+
+Paris, le 6 juin 1.901.
+
+
+Je vous confirme l'autorisation d'accepter l'ambassade, au moment que vous jugerez
+opportun, et d'agréer Si Abdelkerim comme ambassadeur. J'espère, comme vous,
+que toutes satisfactions nous seront rapidement données.
+
+
+DELCASSÉ.
+
+
+12
+:
+
+
+N° 16.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 10 juin 1901.
+
+
+M. de La Martinière est rentré hier soir à Tanger sur le Du Chayla, ayant
+accompli exactement au Riff la mission dont je l'avais chargé, pour le règlement de
+l'affaire Pouzet.
+
+
+On a suivi rigoureusement la procédure convenue. Le qaïd a été conduit à bord
+du Bachir, la frégate marocaine qui accompagnait notre croiseur, et il y a été immé-
+diatement interné. Peu après, les Boucouya ont été amenés du rivage. M. de La
+Martinière s'est rendu à bord du bateau marocain et là, en présence des quatre Bou-
+couya, il a vérifié l'identité du qaïd, qu'il a fait mettre aux fers, et il a annoncé
+devant lui à nos protégés leur libération définitive. Ramenés à bord du Da Chayla,
+ces malheureux ont été l'objet des plus grands soins. Le départ et le retour du Du
+Chayla et de la frégate marocaine et la nouvelle de la mission qu'ils ont remplie,
+sans avoir provoqué la moindre effervescence, ont produit ici et dans la région la
+plus grande impression.
+
+
+RÉVOIL.
+
+
+N° 17.
+
+
+M. RÉVOIL, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 11 juin 1901.
+
+
+Le représentant du Sultan à Tanger est venu ce matin à la Légation de France
+m'apporter les excuses officielles du Makhzen au sujet du meurtre Pouzet. Il m'a
+annoncé en outre que le Makhzen allait procéder à la nomination du nouveau qaïd
+et me ferait parvenir les lettres chérifiennes qui, en l'accréditant, informeront la
+tribu des causes de la destitution de l'ancien qaïd et infligeront un blâme énergique
+à sa conduite.
+
+
+J'ai délégué notre premier drogman pour m'assurer de l'internement du Qaïd à la
+prison de la qaçba. Le qaid a été amené, devant lui, les fers aux pieds, chez le
+Pacha, et réintégré sous ses yeux dans la prison.
+
+
+L'affaire Pouzet est donc entièrement réglée dans des conditions qui ne me
+paraissent laisser rien à désirer. Le règlement des affaires traitées avec le Gouver-
+
+
+13
+
+
+nement marocain est exécuté et il ne reste plus, à l'heure qu'il est, d'affaire vraiment
+importante qui ne soit terminée, ou en voie de l'être. J'ai, d'ailleurs, la promesse
+formelle de Si Abdelkerim ben Sliman, de se prêter, au cours de son Ambassade, à
+la négociation et à la solution des différends qui pourraient encore subsister, ce que
+sa qualité de Ministre des Affaires étrangères rendra très aisé.
+
+
+RÉVOIL.
+
+
+N° 18.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+au Marquis DE NOAILLES, Ambassadeur de la République française à
+Berlin.
+
+
+Paris, le 23 juin 1901.
+
+
+A ma dernière réception diplomatique, le Prince de Radolin m'a interrogé sur
+l'ambassade marocaine, arrivée à Paris, la veille au soir, et sur l'objet probable de sa
+mission. Je lui ai répondu que, n'ayant pas encore vu les Ambassadeurs, il m'était
+difficile de le renseigner.
+
+
+Il a signalé des articles de journaux où il serait question d'un protectorat de la
+France sur le Maroc.
+
+
+« Si par ce mot de protectorat, ai-je fait observer, on entend que la France, mai-
+tresse de l'Algérie-Tunisie, a et doit conserver au Maroc une situation absolument à
+part, il me semble que c'est l'évidence même. »
+
+
+ Rien de plus juste, a dit le Prince, tout le monde se rend compte de cette situa-
+tion. »
+
+
+DELCASSÉ.
+
+
+N° 19.
+
+
+M. Paul CAMBON, Ambassadeur de la République française à Londres,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Londres, le 4 juillet 1901.
+
+
+Lord Lansdowne m'a remis hier un mémorandum résumant le résultat de ses
+entretiens avec les envoyés du Sultan du Maroc.
+
+
+J'adresse, ci-joint, à Votre Excellence la traduction de ce mémorandum..
+
+
+14
+
+
+H en résulte, comme me l'avait déjà dit le Secrétaire d'État pour les Affaires étran-
+gères, que le Gouvernement britannique n'aurait poursuivi, en cette circonstance,
+aucun avantage particulier et qu'il aurait obtenu des promesses d'améliorations admi-
+nistratives ou économiques dont pourront profiter toutes les Puissances.
+
+
+Ces promesses seront-elles réalisées? Il est impossible de l'assurer et il serait dési-
+rable qu'elles le fussent.
+
+
+En me remettant ce mémorandum, Lord Lansdowne a fait allusion aux inquié-
+tudes que ces bruits de négociations commerciales avaient causées à Paris. « Il paraît,
+m'a-t-il dit, qu'on a interrogé à ce sujet l'Ambassadeur marocain auprès du Gouver-
+nement de la République. »
+
+
+Il a ajouté que le représentant du Sultan lui avait fait part des difficultés que
+rencontrait le Makhzen dans le règlement des questions de frontière.
+
+
+Lord Lansdowne lui aurait répondu qu'il dépendait du Gouvernement marocain
+de se mettre à l'abri de nos réclamations en exerçant une police rigoureuse sur sa
+frontière et en arrêtant les incursions et les déprédations des tribus voisines de nos
+possessions: « Il est tout naturel, lui a-t il dit, que le Gouvernement français veuille
+maintenir l'ordre chez lui et qu'il châtie lui-même ceux de vos sujets qui le troublent,
+si vous ne vous chargez pas de ce soin. »
+
+
+L'Ambassadeur marocain a fait observer qu'il était très difficile d'exercer une auto-
+rité sur des tribus éloignées, et le Secrétaire d'État pour les Affaires étrangères lui a
+répliqué que, malgré cette difficulté, il fallait s'efforcer d'arrêter des désordres pou-
+vant justifier les représailles de la France.
+
+
+J'ai profité de cette occasion pour répéter ce que j'avais dit précédemment à
+Lord Lansdowne de nos intentions désintéressées et de notre volonté bien arrêtée
+de ne pas laisser inquiéter les populations qui nous sont soumises.
+
+
+Enfin l'Ambassadeur marocain a touché, paraît-il, à la question de protection et
+s'est plaint des embarras causés à son Gouvernement par le trop grand nombre des
+protégés européens.
+
+
+J'ai rappelé, sur ce point, au Secrétaire d'État la Convention de Madrid du
+3 juillet 1880 et je lui ai dit que, si elle était exécutée, les abus dont se plaignait le
+Gouvernement marocain disparaîtraient.
+
+
+Toutes ces indications nous permettent de nous rendre assez exactement compte
+du sens et de la portée des vues échangées à Londres entre l'Ambassade marocaine
+et le Gouvernement anglais.
+
+
+::
+
+
+ANNEXE.
+
+
+Paul CAMBON.
+
+
+TRADUCTION.
+
+
+MEMORANDUM ÉNUMÉRANT LES QUESTIONS COMMERCIALES DISCUTÉES
+AVEC L'AMBASSADEUR MAROCAIN.
+
+
+1. L'Ambassadeur marocain a fait connaître qu'il était tout disposé à faire améliorer l'état
+
+
+15
+
+
+actuel des routes au Maroc, à faire construire des ponts sur quelques rivières et à assurer
+l'entretien de ceux qui existent déjà. Il s'est offert pour recommander au Sultan ces travaux
+et lui proposer de les faire entreprendre avec des capitaux et la main-d'œuvre indigènes.
+
+
+2. L'Ambassadeur marocain a accepté, au nom du Sultan, la liberté pour le cabotage
+s'appliquant à tous les navires. Cette concession aura une grande portée spécialement en ce
+qui concerne les grains qui seront, par là, rapidement et économiquement transportés d'un
+port à un autre.
+
+
+3. Il a également consenti, au nom du Sultan, à l'exportation des pommes de terre et des
+tomates moyennant un droit modéré.
+
+
+4. En outre, il a promis d'entreprendre l'amélioration des conditions de plusieurs ports
+dans l'intérêt du commerce, lorsque les renseignements nécessaires seront parvenus. Cette
+mesure comporte l'érection de nouveaux magasins pour la Douane, là où elle sera requise,
+et celle de phares dans les parages où ceux-ci seront jugés nécessaires.
+
+
+N° 20.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. DE LA MARTINIÈRE, Chargé d'affaires de la République française
+à Tanger.
+
+
+Paris, le 20 juillet 1901.
+
+
+Ainsi que vous le savez, le Gouvernement marocain, justement ému des réclama-
+tions que nous avions dû lui adresser pour la responsabilité qu'il avait encourue
+dans les attaques dirigées contre nos confins algériens, nous avait exprimé le désir
+d'arriver à une entente sur les questions relatives à la frontière. Nous n'avons accepté
+cette discussion qu'après avoir obtenu la solution des différentes affaires en suspens
+à Tanger. Elle vient d'aboutir à un accord pour la préparation duquel j'ai mis à
+profit la présence, à Paris, de M. Révoil, Gouverneur général de l'Algérie. Cet arrange-
+ment, dont vous trouverez le texte ci-joint, a pour but de mettre fin aux difficultés
+d'application du traité de 1845, dans les régions situées au Sud du Teniet-Essassi.
+Il nous reconnaît la souveraineté des deux grandes tribus des Doui-Menia et des Oulad-
+Djerir. D'une façon générale; il associe les deux Gouvernements dans la pacification et la
+police des régions dont l'attribution était demeurée incertaine. Les relations de
+l'Algérie et du Maroc en seront améliorées. On peut espérer que les rapports de la
+France et de l'Empire Chérifien bénéficieront encore plus de cet accord qui manifeste
+si évidemment la loyauté de notre politique traditionnelle à l'égard du Makhzen.
+
+
+:
+
+
+DELCASSÉ.
+
+
+16
+
+
+ANNEXE.
+
+
+PROTOCOLE intervenu entre M. Delcassé, Ministre des Affaires étrangères de la République
+française, et Si Abdelkerim ben Sliman, Ministre des Affaires étrangères et Ambassa-
+deur plénipotentiaire de Sa Majesté Chérifienne auprès du Gouvernement de la Répu-
+blique française, portant application et exécution du traité de 1845 dans la région du
+Sud-Ouest algérien.
+
+
+Le Gouvernement français et le Gouvernement chérifien se sont mis d'accord sur les
+stipulations suivantes dans le but de consolider les liens d'amitié existant entre eux et de
+développer leurs bons rapports réciproques, en prenant pour base le respect de l'intégrité de
+l'Empire Chérifien, d'une part, et, d'autre part, l'amélioration de la situation de voisinage
+immédiat, qui existe entre eux, par tous les arrangements particuliers que nécessitera ledit
+voisinage.
+
+
+ARTICLE PREMIER.
+
+
+Les dispositions du traité de paix, de bonne amitié et de délimitation, conclu entre les
+deux Puissances en 1845, sont maintenues, à l'exception des points visés dans les articles
+suivants :
+
+
+ART. 2.
+
+
+Le Makhzen pourra établir des postes de garde et de douane en maçonnerie ou sous une
+autre forme, à l'extrémité des territoires des tribus qui font partie de son Empire, depuis
+le lieu connu sous le nom de Teniet-essassi, jusqu'au qçar de Isch et au territoire de
+Figuig.
+
+
+ART. 3.
+
+
+Les gens des qçour de Figuig et de la tribu des Amour-Sahra continueront à user, comme
+par le passé, de leurs plantations, eaux, champs de culture, pâturages, etc., et, s'ils en pos-
+sèdent au delà de la ligne du chemin de fer du côté de l'Est, ils pourront en user entière-
+ment, comme par le passé, sans qu'il puisse leur être suscité d'obstacle ou d'empêchement.
+
+
+ART. 4.
+
+
+Le Gouvernement marocain pourra établir autant de postes de garde et de douane qu'il
+voudra du côté de l'Empire marocain, au delà de la ligne qui est considérée approximative-
+ment comme la limite de parcours des Doui Menia et des Ouled Djerir et qui va de l'extré-
+mité du territoire de Figuig à Sidi-Eddaher, traverse l'Oued-Elkheroua et atteint, par le lieu
+connu sous le nom d'Elmorra, le confluent de l'Oued-Telzaza et de l'Oued-Guir. Il pourra
+également établir des postes de garde et de douane sur la rive occidentale de l'Oued-Guir,
+du confluent des deux rivières susdites jusqu'à 15 kilomètres au-dessus du qçar d'Igli.
+
+
+De même, le Gouvernement français pourra établir des postes de garde et de douane sur
+la ligne voisine de Djenan-eddar, passant sur le versant oriental du Djebel Bechar et suivant
+cette direction jusqu'à l'Oued-Guir.
+
+
+X
+
+
+17
+ART. 5.
+
+
+La situation des habitants du territoire compris entre les lignes de postes des deux pays
+indiquées ci-dessus est réglée de la façon suivante :
+
+
+Pour ce qui concerne les gens des tribus des Doui-Menia et des Ouled-Djerir, les deux
+Gouvernements nommeront des Commissaires qui se rendront auprès d'elles et leur laisse-
+ront le choix de celui des deux Gouvernements sous l'autorité desquels ils seront placés.
+Ceux qui choisiront l'autorité française seront maintenus dans leur résidence et ceux qui
+choisiront l'autorité marocaine seront transportés de ce territoire à l'endroit que le Gouver-
+nement marocain leur assignera comme résidence dans son Empire, et auront la faculté de
+conserver leurs propriétés et de les faire administrer par des mandataires ou de les vendre à
+qui ils voudront.
+
+
+Les gens fixés sur le territoire susdit et vivant sous la tente, autres que les Doui-Menia
+et les Ouled-Djerir, demeureront sous l'autorité de l'Empire marocain et pourront y con-
+server leur résidence.
+
+
+Les gens des qçour du territoire susdit auront le choix de l'autorité qui les administrera
+et pourront, en tous cas, continuer à habiter sur leur territoire.
+
+
+ART. 6.
+
+
+Tous les gens relevant de l'autorité algérienne qui possèdent des propriétés, plantations,
+eaux, champs, etc. sur le territoire de l'Empire marocain, pourront les administrer à leur
+gré. Il en sera de même pour ceux qui relèvent de l'autorité marocaine et qui possèdent des
+propriétés sur le territoire algérien.
+
+
+ART. 7.
+
+
+Dans le but de maintenir les bonnes relations entre les tribus voisines relevant des deux
+Gouvernements, d'établir la paix et de développer le commerce entre elles, les deux Gou-
+vernements ont stipulé que leurs sujets respectifs pourraient se rendre librement sur le ter-
+ritoire compris entre les postes des deux pays et indiqué dans les articles 4 et 5, pour y
+faire du commerce ou dans tout autre but, et sans qu'on puisse leur réclamer de droits.
+
+
+ART. 8.
+
+
+Les deux Gouvernements ont convenu que les Commissaires indiqués à l'article 5
+fixeraient sur place tous les points de garde et de douane spécifiés, pour le Gouvernement
+marocain, aux articles 2 et 4.
+
+
+ART. 9.
+
+
+Il a été convenu entre les deux Gouvernements que désormais ils ne s'imputeraient pas
+réciproquement la responsabilité des réclamations qui surviendraient à l'avenir entre les
+tribus des deux pays et ne se réclameraient de ce fait aucune indemnité pécuniaire, cela
+dans le but d'éviter les difficultés qui sont soulevées périodiquement à ce sujet entre les deux
+Gouvernements.
+
+
+Chacun des deux Gouvernements désignera annuellement deux Commissaires, l'un pour
+la région du Nord et l'autre pour la région du Sud, pour discuter et régler, au mieux et
+sans retard, les réclamations qui surviendront entre les tribus, et les autorités locales respec-
+tives leur prêteront l'appui nécessaire pour faire rendre justice par les intéressés.
+
+
+Le Commissaire du Makhzen dans le Nord se rendra à Marnia pour étudier et régler les
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+3
+
+
+)
+
+
+18
+
+
+réclamations des tribus marocaines avec le Commissaire du Gouvernement de l'Algérie,
+dans les conditions susénoncées. De même, le Commissaire du Makhzen dans la région du
+Sud se rendra dans la région de Djenan-eddar, pour étudier et régler les réclamations des
+tribus marocaines avec le Commissaire français, dans les conditions susénoncées.
+
+
+De même, le Commissaire du Gouvernement de l'Algérie pour les réclamations des
+tribus algériennes dans la région du Nord se rendra à Oudjda, et le Commissaire pour les
+réclamations de la région du Sud se rendra à Figuig.
+
+
+Écrit à Paris, le 20 juillet 1901, correspondant au 3 Rabi II 1319.
+
+
+DELCASSÉ.
+
+
+ABDELKERIM BEN SLIMAN.
+
+
+:
+
+
+N° 21.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 27 juillet 1901.
+
+
+Les pourparlers que nous poursuivions avec eux ayant heureusement abouti, les
+ambassadeurs marocains se disposent à quitter la France. Vous allez, de votre côté,
+vous rendre à Tanger pour y prendre possession du poste important que vous a
+assigné la confiance du Gouvernement de la République. Bien que les fonctions
+dont vous étiez chargé à la direction des affaires politiques vous aient amené à
+vous pénétrer des principes qui président à notre action dans les affaires marocaines,
+je ne crois pas sans intérêt de les rappeler fici et de résumer la situation, nouvelle
+à certains égards, qui vous permettra de les mettre en pratique avec un surcroît
+d'autorité.
+
+
+Aussi bien, la déclaration que j'ai prononcée devant le Sénat, dans la séance du 5
+de ce mois, si elle ne constitue pas, à proprement parler, un acte diplomatique, n'en
+a pas moins fait connaître, avec une netteté qui a été appréciée dans le pays comme
+au dehors, la ligne de conduite politique que nous entendons suivre à l'égard du
+Maroc. Les instructions que je vous adresse aujourd'hui s'inspirent exactement du
+mème esprit.
+
+
+Je n'ai pas à vous rappeler quelle attitude nous avons observée de tout temps vis-
+à-vis du Gouvernement Chérifien en ce qui touche les oasis sahariennes du Gourara,
+du Touat et du Tidikelt. Sans accepter jamais aucune discussion avec lui sur l'attri-
+bution de ces territoires, que nous étions fondés à considérer comme appartenant à
+notre sphère d'action, nous ne lui avions pas laissé ignorer que nous nous réservions
+de les occuper à notre heure, pour y faire régner l'ordre et la paix. Quand donc,
+pressés par le devoir d'assurer la sécurité du sud algérien, nous nous sommes établis
+enfin dans nos oasis sahariennes, sans vouloir regarder au delà des vallées qui les
+couvrent à l'Ouest; quand surtout nous nous sommes bornés à châtier chez nous, sans
+
+
+19
+
+
+recourir au droit de suite, les agressions dirigées par des Beraber contre nos postes
+de Sahela Metarfa et de Timmimoun, nous avons certainement donné le témoignage
+le plus significatif de notre loyauté et de notre modération en même temps que de
+notre puissance.
+
+
+Le Gouvernement Chérifien paraît s'en être rendu compte. Il a désavoué ces at-
+taques, spontanément et avec force, par la bouche de ses Ambassadeurs. Il s'est en
+outre, abstenu de toute tentative pour soutenir de nouveau, à l'encontre de nos droits
+et de nos actes, les prétentions qu'il émettait précédemment avec persistance sur les
+oasis du Sahara. Mais en même temps que le Makhzen acceptait ainsi les faits accom-
+plis, il se montrait vivement désireux d'en prendre occasion pour nous amener à
+tracer, d'accord avec lui, une ligne précise de démarcation entre notre territoire et
+celui dont nous lui reconnaîtrions par là même la pleine et entière souveraineté. Il appa-
+rut bientôt clairement que l'objet presque unique de l'ambassade envoyée en France
+était d'obtenir la continuation ou même l'achèvement de la ligne frontière que le
+traité de 1845 a arrêtée à une centaine de kilomètres de la Méditerranée.
+
+
+Il ne m'en a pas coûté de répéter au premier Ambassadeur du Sultan le langage que
+j'avais tenu devant le Sénat: je lui ai rappelé que si nous construisions un chemin de
+fer destiné à relier l'Algérie au Sénégal, et si nous nous occupions, pour l'heure, de
+pousser activement ce travail jusqu'à Igli, nous ne songions à engager au delà de
+cette ligne ferrée aucune entreprise nouvelle.
+
+
+En lui confirmant, par cette assurance directe, les résolutions que j'avais déjà pro-
+clamées du haut de la tribune, il ne pouvait d'ailleurs aucunement me convenir de
+me départir des principes posés dans le traité de 1845 et de mettre en oubli les
+diverses raisons, d'ordre géographique et ethnographique, qui nous dissuadent de
+poursuivre au Sud de Teniet-Essassi une délimitation proprement dite. Je me suis
+donc appliqué à faire comprendre à Abdelkerim ben Sliman que des arrangements
+amicaux réglant les relations de voisinage de nostribus respectives constituaient, dans
+cette région, la garantie la plus efficace contre des incidents locaux dont la création
+d'une frontière, au sens précis du mot, accroîtrait probablement la fréquence et
+sûrement la gravité.
+
+
+Dans cet ordre d'idées, M. le Gouverneur général de l'Algérie, après avoir re-
+cueilli, en Algérie même, les avis les plus autorisés, a fourni à mon département un
+précieux ensemble d'indications sur les conditions de voisinage qui lui ont paru le
+plus propre à mettre le Touat à l'abri d'incursions nouvelles et à consolider à peu de
+frais la pacification des régions que va parcourir notre chemin de fer. Sur ces don-
+nées a été établi le protocole que j'ai amené l'Ambassadeur du Sultan à signer avec
+moi, sous la date du 20 juillet. Il a pour caractère essentiel de régler l'application des
+principes inscrits dans le traité de 1845 à ces confins du Sud-Ouest algérien, dont il
+n'y avait pas encore eu lieu, à cette époque loitaïne, d'envisager la condition.
+
+
+Dans le même esprit amical qui a inspiré les dispositions de cet acte, j'ai adressé
+à Abdelkerim ben Sliman une lettre où je lui fais connaître la direction que doit suivre
+le chemin de fer dont nous avons entrepris la construction dans le Sud, sur les confins
+du territoire marocain.
+
+
+Pour résumer le travail diplomatique ainsi accompli, nous avons fait reconnaître
+par le Maroc la légitimité de notre installation dans les Oasis ainsi que dans l'Oued
+
+
+3.
+
+
+20
+
+
+Zousfana et l'Oued Saoura. Nous avons obtenu cet important résultat sans l'acheter
+par aucun abandon des principes qui nous ont toujours détournés de nous donner
+dans ces régions une frontière rigide incompatible avec la nature même des lieux et
+des populations. Nous avons réglé à notre avantage la situation, jusqu'alors indéter-
+minée, des Ouled-Djérir et des Doui-Menia et constitué ainsi à l'Algérie le boulevard
+dont elle déclarait depuis longtemps avoir besoin. Renonçant à user de la voie diplo-
+matique pour le règlement des réclamations qui surviennent entre les tribus, usage
+dont vous connaissez les multiples inconvénients, nous avons réservé ce règlement à
+des organismes spéciaux d'ordre administratif et tout local. Enfin j'ai déjà noté la
+promesse obtenue du Ministre marocain des Affaires étrangères, quant à l'exécution
+des accords qui auraient été conclus par El Menebhi avec d'autres Puissances.
+
+
+Nous avons acquis ces résultats en ménageant toutes les susceptibilités du Gouver-
+nement Chérifien. Nous avons notamment tenu le plus grand compte de la haute
+situation religieuse dont le Chérif est investi et des obligations morales qu'elle lui
+impose envers les populations qui la reconnaissent. A la faveur de ces ménagements,
+je veux espérer que le protocole du 20 juillet sera accueilli à Marrakech comme
+portant la marque évidente des dispositions franchement amicales dont nous sommes
+animés envers l'Empire Chérifien. Il vous appartiendra de mettre en relief ce carac-
+tère.
+
+
+Je n'ai pas manqué, vous le savez, de marquer nettement à Ben Sliman à quelles
+conditions cette amitié pouvait s'affermir encore, se développer et entrainer pour le
+Makhzen tous les avantages que ce dernier en peut attendre. Je lui ai fait comprendre
+quelle est notre force militaire, industrielle, financière et comment elle est
+décuplée, au regard du Maroc, par la situation géographique qui fait de cette région
+une enclave de nos possessions africaines: Dans cette situation unique, d'où découlent
+pour nous des intérêts et des droits hors de pair, nous ne pouvions être pour le
+Makhzen et à son choix que le plus rassurant des amis ou l'ennemi le plus
+redoutable. Il ne pouvait manquer de se rendre compte du scrupule extrême avec
+lequel nous avions toujours observé les traités, comme de la réserve, peut-être ex-
+cessive, que nous avions toujours apportée dans l'exercice du droit de suite. D'autre
+part, et malgré le besoin d'expansion industrielle qui travaille les nations européennes,
+nous ne mettions pas, on le savait, un zèle indiscret à vaincre certaines répugnances
+et à hâter l'heure où le Maroc s'ouvrirait à la civilisation moderne. Mais le jour où
+le Makhzen accepterait enfin l'idée d'entrer progressivement dans des voies nou-
+velles, nous n'en serions que plus fondés à compter qu'il s'adresserait de préférence à
+la grande puissance voisine et amie, toujours prête à lui fournir les ressources dont il
+aurait besoin.
+
+
+Tel est le sens général du langage que vous aurez à votre tour à tenir, le moment
+venu, aux Ministres du Sultan et au Sultan lui-même. Les arrangements qui viennent
+d'intervenir vous donneront des titres décisifs à être écouté avec une créance absolue
+quand vous apporterez à Moulay Abd-el-Aziz l'expression de notre sincère amitié. Vous
+devrez faire sentir au Sultan qu'il dépendra de lui de garder en nous les amis les plus
+sùrs, les plus soucieux de l'intégrité de son pouvoir, les plus capables de la préserver,
+au besoin, de certains dangers. Notre loyauté, comme d'ailleurs notre intérêt, lui sont
+garants que nous n'y porterons pas atteinte. Nous comptons que, de son côté, il
+
+
+21
+
+
+n'admettra pas des entreprises étrangères où nous devrions voir, quant à nous, une
+menace pour l'Algérie, s'il s'aveuglait lui-même au point de n'y pas voir tout d'abord
+une menace plus immédiate encore pour sa propre autorité.
+
+
+La connaissance que vous avez de la situation internationale, en tant qu'elle peut
+intéresser l'évolution des affaires marocaines, vous aidera à régler vos relations avec
+les diverses légations.
+
+
+J'ai à peine besoin de vous rappeler dans quelle intention amicale le Gouvernement
+russe s'est, sur notre demande, fait représenter depuis quelques années au Maroc; je
+ne doute pas que vous ne trouviez auprès de votre collègue de Russie le concours
+empressé qu'il a donné à votre prédécesseur.
+
+
+Nous savons que le Gouvernement italien, en invitant son représentant à Tanger à
+ne pas faire d'opposition au projet français de Lazaret, lui a recommandé, d'une
+manière générale, d'entretenir toujours les meilleures relations avec son collègue de
+France.
+
+
+Le caractère résolument amical de notre politique envers l'Espagne nous com-
+mande d'avoir au Maroc les plus grands égards pour les intérêts particuliers de la
+puissance qui possède les présides et dont les côtes sont en vue de Tanger. Vous vous
+appliquerez donc, en toute occasion, à ménager à la Légation d'Espagne des sujets de
+satisfaction propres à lui faire sentir tout le prix d'une entente cordiale qu'il nous im-
+porte à nous-mêmes de consolider.
+
+
+Si modestes que soient encore, en raison surtout de l'état général du pays, les en-
+treprises industrielles et commerciales, comme aussi les institutions d'enseignement
+ou de charité créées au Maroc par nos compatriotes, je me sens assuré de l'intérêt et
+de la sollicitude dont elles seront l'objet de votre part. Vous apercevez, en effet, les
+raisons d'avenir qui nous engagent à veiller avec le plus grand soin sur tous les élé-
+ments d'influence ou d'action que nous pouvons posséder au Maroc. Vous vous effor-
+cerez de les développer.
+
+
+Je ne terminerai pas sans vous rappeler que, s'il appartient exclusivement au
+Ministre des Affaires étrangères de vous donner des directions, un échange direct
+d'information a été autorisé, comme manifestement utile, entre le Gouvernement
+général de l'Algérie et notre légation au Maroc, pour les affaires qui les concernent
+l'un et l'autre. Je me plais à prévoir avec quel égal respect des règles ainsi posées et
+dans quelle heureuse harmonie vous vous prêterez mutuellement, M. Révoil et vous,
+le concours que réclame le service des grands intérêts nationaux confiés, de part et
+d'autre, à votre vigilance.
+
+
+DELCASSÉ.
+
+
+22
+
+
+N° 22.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 septembre 1901.
+
+
+Je reçois de Si Abdelkerim ben Sliman une lettre dans laquelle le Ministre
+chérifien exprime sa vive reconnaissance et celle du Sultan pour les égards cordiaux
+dont nous avons entouré son Ambassade. Il dit qu'au compte rendu de sa mission, <« Sa
+Majesté a été pénétrée d'une confiance nouvelle, plus grande et plus sûre encore, dans
+la sincérité de l'amitié de la France ». Il ajoute: « J'ai commencé à préparer la Com-
+mission qui doit aller à Alger pour mettre le Protocole à exécution. Elle se rendra
+bientôt à Tanger auprès de vous, afin que de là vous la mettiez vous-même en route
+pour l'Algérie; elle sera présidée par Si Mohammed El Guebbas: c'est le meilleur
+choix que j'aie pu faire ».
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+23
+
+
+1902.
+
+
+N° 23.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+ M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 15 janvier 1902.
+
+
+Je communique à Votre Excellence, à toutes fins utiles, la traduction d'une lettre
+chérifienne adressée par le Sultan aux habitants des qçour de l'oasis de Figuig. Cette
+lettre est conçue en des termes qui répondent, dans la plus large mesure, au désir
+qu'avait exprimé M. le Gouverneur général de l'Algérie, et il y a lieu de nous féliciter
+d'avoir si complètement réussi à augmenter autant qu'à définir les pouvoirs de
+Si Mohammed el Guebbas, chargé de l'application du Protocole.
+
+
+ANNEXE.
+
+
+TRADUCTION.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+LOUANGE  DIEU.
+
+
+A nos serviteurs les gens des oasis de Figuig, Oudaghir, El-abid, Oulad-Sliman, El-
+ma'iz. El-hammam El-fogani, El-hammam Et-tahtani, Zenaga, aux gens de l'oasis de Ich,
+à tous ceux qui se rattachent à vous ou sont compris dans le territoire de votre district,
+et en particulier, aux chérifs, aux docteurs, aux grands et aux notables, que Dieu vous soit
+en aide, etc.
+
+
+Vous n'ignorez pas les troubles et les désordres survenus dans votre contrée entre vous et
+vos voisins de l'Algérie, et les faits que vous exposiez par les lettres qui arrivaient à Notre
+Majesté Chérifienne et par la bouche des notables d'entre vous qui sont venus à Notre Cour
+Chérifienne et y sont demeurés longtemps. Vous savez au prix de quelles difficultés Nous
+avons pris la défense de ce qui vous est sacré et recherché le remède à votre situation auprès
+du Gouvernement français, par l'intermédiaire du Gouverneur général de l'Algérie, l'ami
+
+
+24
+
+
+intelligent et bon conseiller, M. Révoil; vous savez aussi que nous avons fait tous les efforts
+possibles pour assurer la tranquillité à vos familles et protéger votre territoire.
+
+
+Nous étions inspirés par notre compassion pour vous et nous tenions compte de la charge
+que nous ont imposée Dieu et son Prophète de prendre soin de vos affaires en vue de
+rechercher votre avantage et d'écarter de vous le dommage. De cela vous ne savez vous-
+mêmes encore qu'une partie.
+
+
+Enfin Dieu, qu'il soit loué! a bien voulu vous donner des gages de paix, de tranquillité,
+de sécurité pour vos personnes et vos biens et vous assurer la possession entière et l'usage
+complet de vos biens et de vos aisances, à la condition que vous ne cesseriez pas de respecter
+les droits que comportent le voisinage et les bonnes relations commerciales avec vos voisins
+de l'Algérie, que vous suivriez avec eux la voie de la sécurité et du respect de leurs per-
+sonnes, de leurs biens et de tout ce qui se rattache à eux, ainsi que la Loi Sainte et l'usage
+le prescrivent à tous les voisins dans toutes les contrées, principalement en ce qui concerne
+le chemin de fer français établi dans cette région et les fils du télégraphe qui en suit le
+tracé. Tout cela a, d'ailleurs, été exposé verbalement à vos notables qui étaient venus à la
+Cour Chérifienne et qui n'en sont partis qu'après avoir pris l'engagement de se comporter
+en conséquence.
+
+
+Cependant, après que nous avions mis en route notre serviteur intègre, le Tâleb Si
+Mohammed El Guebbas, chef de la commission qui a quitté Notre Cour Chérifienne pour aller
+mettre à exécution sur place, de concert avec le chef de la commission désignée par le
+Gouverneur général de l'Algérie, l'accord intervenu avec le Gouvernement français, et vous
+faire part des avantages qu'il comporte pour vous et des garanties qu'il vous donne contre
+des dommages à votre endroit, pour le présent et pour l'avenir, voilà qu'il est parvenu à
+notre connaissance chérifienne qu'avant l'arrivée de notre délégué, vous avez commis des
+actes qui nous ont angoissés de la crainte que tous les efforts que nous avons déployés par
+intérêt pour vos affaires ne fussent perdus. Vous avez permis en effet aux mauvais sujets et
+aux brigands qui sont adjoints à vous et qui habitent au milieu de vous, qui ne possèdent
+ni terrain de culture ni terre de pacage, de porter une main attentatoire sur vos voisins de
+l'Algérie pour tuer des gens et piller des caravanes, de pousser l'audace jusqu'à couper à.
+maintes reprises les fils du télégraphe, et de se livrer encore à d'autres méfaits qui ne
+peuvent être inspirés que par la grossièreté et la sauvagerie et que seuls commettent les
+fripons qui vivent dans l'eau trouble comme des tortues, qui n'ont à se soucier de
+rien et qui ne redoutent aucune conséquence dans le présent ou dans l'avenir. Il est par-
+venu également à notre connaissance, et cela d'une façon certaine, que le plus actif de
+ceux qui entretiennent les désordres est l'agitateur Bou Amama, assisté de ceux qui lui
+sont adjoints et à qui vous donnez asile au milieu de vous. Sans que vous vous en dou-
+tiez, il ne travaille qu'à vous attirer des malheurs. Vous vous laissez égarer par ses dehors
+de sainteté s'il était sincère dans sa prétendue piété, il se serait éloigné de cette région
+tout entière et se serait retiré chez 'ses frères musulmans qui adorent leur Dieu en atten-
+dant la venue de la vérité, et il aurait suivi les traces de ceux qui n'ont d'autre ambition
+que la demeure dernière et récitent cette parole de Dieu : « Celui qui émigre pour suivre le
+chemin de Dieu trouve sur cette terre de nombreuses compensations et la prospérité ». Une telle
+manière de faire n'est pas considérée comme de mince importance par quiconque est
+dévoué à sa patrie et désire conserver ses biens sacrés: elle ne peut être le fait que d'un
+ignorant ou de quelqu'un qui fait l'ignorant. Le proverbe dit d'ailleurs: «L'insolent qu'on
+ne retient pas doit être considéré comme agissant par ordre.  Aussi, sans le Gouverneur
+général de l'Algérie qui a tenu compte des égards dus à Notre Personne Chérifienne et qui
+a voulu exécuter les engagements que nous avons scellés avec le Gouvernement français,
+
+
+25
+
+
+en vue d'édifier les bases d'une paix durable et de bons rapports entre les deux pays pour
+l'avenir, [il se serait passé des événements qui vous auraient fait vous mordre les doigts
+de repentir.
+
+
+Il résulte de ce qui précéde que votre incurie, votre négligence à réfléchir aux moyens
+de sauvegarder vos intérêts et à contenir les germes de mal qui se trouvent chez vous,
+votre peu d'empressement à suivre les instructions des gouverneurs que nous nommons au
+milieu de vous pour faire rendre justice pour ou contre vous, le désintéressement avec
+lequel vous considérez les intérêts du pays et qui vous entraîne à ne pas le purger des
+perturbateurs et des révoltés, ont été la cause déterminante des incidents qui se sont pro-
+duits dans votre région, car, n'ayant pas apprécié à leur valeur les efforts que nous avons
+déployés pour arriver à porter remède à vos affaires après les événements susdits, com-
+ment auriez-vous pu sauvegarder vos intérêts personnels?
+
+
+Si votre dévouement était parti de votre cœur et avait correspondu à vos déclarations, si
+vous aviez été, pour votre gouverneur et pour vous-mêmes, des auxiliaires, des soutiens et
+des appuis, vous nous auriez épargné, ainsi qu'à vous-mêmes, la plupart des difficultés. En
+effet, le dévouement du Gouvernement ne suffit pas à assurer la paix d'un pays; la paix ne
+peut être entière qu'avec le concours du dévouement des notables de ce pays et de ses prin-
+cipaux personnages, qui savent par quelles portes peut entrer le mal et s'empressent de
+fermer par leurs propres moyens celles qui se sont ouvertes, et qui préviennent en hâte
+de ce qui dépasse leurs forces le Gouvernement qui les aide pour le reste.
+
+
+Mais quand les notables du pays ne sont en aucune façon dévoués à leurs propres intérêts
+et n'en ont pas la moindre connaissance, à quoi peut leur servir le secours de leur Gouver-
+nement, quels que puissent être les efforts de celui-ci? C'est pourquoi nous nous sommes
+empressé de nous conformer aux obligations que nous a dictées Dieu et son Prophète et
+nous avons pris les mesures nécessaires à la conservation de vos choses sacrées, à la sécurité
+de vos familles, au maintien de la paix et aux bonnes relations avec vos voisins, que vous
+en appréciiez ou non la valeur, car Dieu sait surprendre les regards furtifs et connaît ce
+que cachent les cœurs; il suffit que lui seul sache tout cela. Nous avons donc nommé pour
+vous gouverner notre serviteur intègre, le qaid Er-Regrâgui Ed-Doublili que nous avions
+envoyé déjà depuis longtemps pour résider auprès de vous et s'instruire de votre situation
+et de celle de vos voisins. Nous lui avons donné tout ce dont il aura besoin pour faire face
+aux nécessités de ce grand gouvernement que nous avons voulu lui confier et dont l'auto-
+rité s'étend à tous ceux qui habitent les qçour de Figuig et les qçour voisins ou adjacents.
+Nous avons établi pour l'assister un certain nombre de fantassins et de cavaliers. Nous
+lui avons donné l'ordre d'exercer les actes d'administration nécessaires contre le noble et
+l'humble, le fort et le faible, de faire donner satisfaction par qui que ce soit et par qui il
+appartiendra, conformément à la justice et à la vérité, sans porter atteinte aux droits de
+personne et sans partialité, qu'il s'agisse d'affaires entre vous ou avec vos voisins d'Al-
+gérie.
+
+
+Nous lui avons également ordonné de veiller à ce que vos relations commerciales avec vos
+voisins aient lieu sur le tapis de la sécurité, des bons procédés, de punir l'ignorant et l'op-
+presseur, de purger le pays de tous ceux qui tenteraient de troubler la pureté des eaux de
+ces stations, de veiller aux intérêts actuels et futurs du pays et de ses habitants, de porter
+remède en temps opportun à tous ceux de ces lieux qui réclameraient des mesures
+immédiates et de nous faire part des difficultés qu'il ne pourrait résoudre, afin qu'avec
+l'aide de Dieu nous lui donnions les instructions nécessaires. Nous ne lui avons donné
+aucun pouvoir d'imposer à qui que ce soit la moindre rognure d'or.gle. Nous lui avons au
+contraire attribué tout ce qu'il lui faudra en fait de subsistances, de troupes et d'armes,
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+4
+
+
+26
+
+
+ainsi que vous l'exposera notre serviteur, le Taleb Mohammed El Guebbas que nous avons
+envoyé pour régler avec lui toutes les questions se rapportant à son gouvernement et qui
+vous instruira de la conduite que vous devrez tenir à son endroit.
+
+
+Nous vous ordonnons donc d'écouter ses paroles, de lui obéir, de lui prêter votre aide
+et votre appui, de prendre en considération l'importance des fonctions que nous lui avons
+confiées, à titre exceptionnel, pour rompre avec les traditions auxquelles vous êtes habitués
+de la part de vos précédents gouverneurs. Nous vous ordonnons également d'assister le chef
+de notre mission, le Taleb Mohammed El Guebbas, en ce qui concerne le transfert hors de
+votre région et des régions voisines de Bou Amama Echchéïkhi et de tous ceux qui l'en-
+tourent; il sera envoyé dans le pays que vous indiquera ledit chef et où l'intérêt commun
+-aura décidé son envoi, et cela immédiatement, sans retard et sans négligence, par tous les
+moyens possibles, de gré ou de force. Nous vous ordonnons encore de chasser de chez vous
+les mauvais sujets et les brigands échappés de l'Algérie, car il n'y a aucun profit pour vous
+à leur donner asile, et ils ne peuvent qu'attirer sur vous des difficultés et toutes sortes de
+malheurs, dans le présent et dans l'avenir. Nous vous ordonnons de plus d'assister le chef
+de notre mission dans le règlement des réclamations survenues entre vous et vos voisins
+de l'Algérie et dans l'attribution des satisfactions qu'elles comportent, d'une façon immé-
+diate, afin de trancher les différends; d'obéir avec empressement à tout ce que vous pres-
+crira le chef en question touchant vos intérêts que nous l'avons chargé d'examiner et de
+réglementer de façon convenable. Il ne quittera pas votre pays tant qu'il n'aura pas fixé le
+résultat de ses travaux et réglé les mesures nécessaires au maintien de votre tranquillité. Il
+doit vous expliquer tout ce que vous ne comprendriez pas. Nous vous ordonnons de vous
+conformer, après son départ, dans vos relations avec votre gouverneur, à ce que le Taleb
+susdit vous expliquera d'une façon plus détaillée. Peut-être Dieu achèvera-t-il de calmer les
+ennuis venus de vous, débarrassera-t-il le monde du tapage causé par vos actes et main-
+tiendra-t-il la paix et la sécurité dans votre pays. Dieu sait que, par tout cela, nous n'avons
+cherché qu'à vous ouvrir les portes du bonheur et à vous empêcher de vous exposer aux
+traits du mal. Si vous appréciez le prix de ces conseils, vous n'aurez rien à vous reprocher
+aux yeux de votre religion; dans le cas contraire, il conviendrait de recourir à de nouvelles
+mesures. Dieu a dit: Celui qui fait une bonne action la fait pour lui; celui qui en fait une
+mauvaise la fait contre lui. Ton Dieu n'est pas injuste pour ses serviteurs. C'est à lui que revient la
+protection et c'est lui qui conduit dans le droit chemin.
+
+
+Salut.
+
+
+N 24.
+
+
+Le 26 Ramadân 1319.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 18 janvier 1902.
+
+
+Je crois utile d'indiquer à Votre Excellence les conditions dans lesquelles va fonc-
+tionner la Commission franco-marocaine chargée de mettre à exécution le Protocole
+du 20 juillet.
+
+
+27
+
+
+A l'égard de cette partie de la tâche qu'ils doivent accomplir, j'ai rencontré une
+bonne volonté parfaite chez les Délégués chérifiens et le temps d'arrêt survenu dans
+les travaux de la Commission n'est nullement le fait d'objections et d'hésitations de
+leur part. Je tiens à vous en exposer les causes :
+
+
+La question de Figuig s'est posée au seuil méme des opérations dont le pro-
+gramme devait faire l'objet d'un accord entre nous et elle peut se résumer ainsi :
+le terminus de notre voie ferrée du Sud est actuellement à l'Oued el Assi, à environ
+10 kilomètres de l'oasis, sur laquelle on a des vues assez étendues par le col de
+Taghla, et à une quinzaine de kilomètres de notre poste de Djenan-edd. Ce der-
+nier, situé à près de 10 kilomètres de Figuig, est masqué à courte distance par des
+mamelons.
+
+
+D'un autre côté, l'agglomération Figuiguienne est formée de plusieurs qçour, entre
+lesquels s'étendent des jardins, et entièrement entourée d'un mur d'enceinte; à
+quelque distance de ce mur (2 à 4 kilomètres), s'élèvent des crêtes rocheuses
+qui délimitent assez nettement le territoire de l'oasis et s'ouvrent, dans la direction
+de Djenan-edd, par trois cols, dont le plus fréquenté est celui de Zénaga. C'est
+par ces derniers passages que les pillards sortent de l'oasis, pour venir tenter leurs
+coups. de main contre nos postes ou nos administrés. Ils trouvent régulièrement refuge
+et même appui à Figuig.
+
+
+Bou Amama, dont la Zaouïa se trouve au Nord-Ouest du col de Taghla et nette-
+ment séparée de l'oasis, groupe autour de lui nos dissidents et tous les coupeurs de
+routes, recèle le bétail volé et entretient parmi les gens de Figuig les idées d'hosti-
+lité contre nous et d'indépendance vis-à-vis du Makhzen.
+
+
+Il n'est pas douteux que c'est là une situation intolérable qui, quelle que soit
+notre ferme intention de nous maintenir dans une attitude pacifique, n'aurait pas
+tardé à nous acculer à l'alternative d'un recul de nos postes, dont personne n'oserait
+formułer la proposition, ou à un acte d'énergie, auquel il eût bien fallu se résigner.
+
+
+Non seulement la Commission nous offre une occasion exceptionnelle de régler
+cette situation avec le maximum de chances pacifiques, mais elle nous en impose
+l'obligation formelle.
+
+
+L'œuvre de la Commission serait vaine, elle risquerait de se heurter, aussi bien
+au Sud qu'au Nord, aux plus grandes difficultés qui surgiraient avec les tribus, si,
+tout d'abord, et avant tout, l'autorité du Makhzen et les droits que la France tient
+des traités de 1844-1845 et du protocole du 20 juillet 1901 (relations de bon
+voisinage, facilités de circulation, expulsion et suppression du refuge des dissidents,
+installation de commissaires pour régler les réclamations) n'étaient pas définitive-
+ment reconnus et respectés par les gens de Figuig. Il faut donc de toute nécessité que
+la Commission débute par la quadruple opération suivante à effectuer devant Figuig:
+1º Installation d'un qaïd (ou amel) marocain, présenté par le Délégué chérifien
+et pourvu des moyens de se faire respecter par les qçouriens;
+
+
+2º Règlement complet des rapports de bon voisinage, de libre circulation de part
+et d'autre; à cette occasion, établissement, après accord entre les deux missions, de
+postes de garde qui, indiqués par la configuration mème du terrain, délimiteront
+implicitement les zones de juridiction réciproque;
+
+
+4.
+
+
+28
+
+
+3º Nomination et installation des commissaires prévus au protocole;
+
+
+4º Règlement définitif de la question de Bou Amama avec le concours des Délé-
+gués chérifiens.
+
+
+Sur tous ces points, notre accord avec Guebbas a été rapide et complet; mais les
+pouvoirs dont ce dernier a été muni lors de son départ de Marakech étaient notoire-
+ment insuffisants pour lui permettre d'accomplir efficacement cette partie de sa
+tâche, dans laquelle il ne doit, à aucun prix, essuyer d'échec.
+
+
+Après un délai assez long, nous avons été informés, il y a deux jours, par la
+légation, qu'ils avaient été complétés dans un sens conforme à nos vues.
+
+
+Je ne me dissimule certes pas combien l'opération qui s'impose à nous, même
+accomplie dans ces conditions, est laborieuse et délicate, mais je ne saurais trop
+insister sur ce point que nous ne pouvons nous y dérober. Je ferai les plus grands
+efforts pour que cette œuvre reste jusqu'au bout strictement pacifique et pour éviter
+toute manifestation de force, si difficile qu'il soit, d'après les leçons de l'expérience,
+de réduire, avec ces moyens limités, les tribus auxquelles nous avons affaire à une
+soumission ou à une paix durable.
+
+
+Votre Excellence trouvera dans le programme ci-joint un exposé des travaux que
+la Commission aura à accomplir; si son action à Figuig était couronnée de succès,
+le retentissement serait suffisant pour faciliter considérablement sa tâche ultérieure.
+De tout ce qui précède il est aisé de dégager l'orientation qui, à mes yeux,
+semble devoir être désormais donnée à la politique de l'Algérie vis-à-vis du Maroc.
+Jusqu'à ce jour, notre situation résultant de notre contiguïté territoriale sur la
+longue étendue de nos confins de l'Ouest, loin d'être 'pour nous un avantage, n'a
+été qu'une source de difficultés et de détriments pour notre influence. Les prin-
+cipes les plus divergents ont prévalu tour à tour au sujet des rapports à entretenir,
+sur nos frontières, entre le Maroc et nous, mais il paraît bien que les seuls
+bénéficiaires de la situation qui nous est faite par ce voisinage aient été jusqu'à
+ce jour, si paradoxal que cela paraisse, le Maroc d'une part, nos rivaux de l'autre;
+le Maroc, auquel l'Algérie achète chaque année 15 à 20 millions de produits,
+alors qu'elle réussit à peine à lui en vendre un million; nos rivaux, auxquels nos
+incidents et nos réclamations de frontières ont permis d'entretenir à la Cour Chéri-
+fienne des méfiances et des craintes dont notre influence a toujours souffert.
+
+
+L'heure me paraît venue, pour mettre fin à ce double préjudice, d'inaugurer une
+politique de relations cordiales, de franche entente et d'appui réciproque entre le
+Maroc et l'Algérie, dans toute la région de l'Empire Chérifien limitrophe de nos pos-
+sessions. A cet égard, la Commission franco-marocaine peut ouvrir une ère nouvelle
+dans la politique de l'Algérie et, j'ose dire, de la France vis-à-vis du Maroc. Les
+considérations qui précèdent suffisent à démontrer l'avantage de cette politique
+au point de vue de l'accroissement de notre influence et du maintien de nos droits;
+d'autre part, il ne saurait y avoir, à mon avis, au moment où le Makhzen se lance
+assez inconsidérément dans la voie des réformes, de meilleurs témoignages de notre
+exceptionnelle aptitude à l'aider dans cette voie.
+
+
+RÉVOIL.
+
+
+29
+
+
+ANNEXE.
+
+
+Mode d'exécution des deux missions, marocaine et française, chargées de l'application du
+protocole du 20 juillet 1901.
+
+
+Le mode d'exécution exposé ci-après est établi conformément aux indications de M. Révoil,
+Gouverneur général de l'Algérie.
+
+
+I.
+
+
+Avant de commencer les opérations, les mesures nécessaires seront prises pour empêcher
+le retour des complications et incidents qui se sont produits, ces dernières années, dans les
+alentours de Figuig..
+
+
+Les chefs des deux missions s'appliqueront à établir entre les deux pays de bons rapports
+et de bonnes relations, comme le commandent les lois du voisinage.
+
+
+Pour atteindre ce but, les deux missions se transporteront sur un point voisin de Figuig
+Elles camperont l'une à côté de l'autre, à l'endroit le plus convenable et le plus propice aux
+opérations.
+
+
+Le chef de la mission marocaine se mettra, aussitôt après son arrivée, en relations avec les
+gens de Figuig, et un de ses actes les plus importants consistera à mettre en évidence l'auto-
+rité de l'amel désigné par le Makhzen.
+
+
+Dès que cette autorité aura été reconnue, les chefs des deux missions s'entendront avec
+l'amel précité sur les mesures indiquées plus bas, qui ont pour but d'assurer la sécurité, le
+repos, la tranquillité et la liberté de circulation dans les qçour de Figuig, de développer le
+commerce, d'améliorer les rapports et les conditions de voisinage et les traités entre les deux
+pays, entre les gens de Figuig et les centres algériens, en conformité du protocole et des
+traités existants, enfin de garantir l'exécution de l'article 6 du protocole, l'administration
+algérienne déclarant d'ailleurs qu'elle n'a jamais apporté d'obstacle au libre exercice de la
+faculté réservée par cet article.
+
+
+Les chefs des deux missions désigneront les endroits où seront établis les postes de garde
+nécessaires dans les qçour de Figuig.
+
+
+Ils examineront également la conduite à tenir vis-à-vis de Bou Amama et des dissidents
+algériens réfugiés auprès de lui, ou campés dans les qçour de Figuig.
+
+
+Ils désigneront les commissaires qui seront chargés du règlement des litiges, conformé-
+ment à l'article 9 du protocole.
+
+
+Pendant le séjour des deux missions sur les lieux, on commencera le règlement des récla-
+mations présentées par les autorités algériennes aux autorités de Figuig.
+
+
+II.
+
+
+Après avoir terminé les affaires de Figuig, les deux missions suivront et reconnaîtront la
+ligne indiquée à l'article 4 du protocole, ligne qui représente la limite approximative des
+terres de parcours des Doui Menia et des Oulad Djerir.
+
+
+Cette ligne commence à Figuig pour aboutir au confluent de l'oued Telzaza et de l'oued
+
+
+Guir.
+
+
+30
+
+
+En cours de route, seront indiqués les postes de garde et de douane à placer derrière cette
+ligne, à l'Ouest.
+
+
+Seront indiqués aussi les postes de garde et de douane à placer à partir du confluent des
+deux oueds cités plus haut, du côté Quest, en descendant l'oued Guir jusqu'à un point situé
+à 15 kilomètres en deçà d'Igli.
+
+
+Les chefs des deux missions choisiront ensuite le lieu convenable pour convoquer les
+Doui Menia et les Oulad Djerir, auxquels ils adresseront les notifications prévues à l'article 5
+du protocole.
+
+
+L'examen des questions relatives aux mandataires des biens appartenant aux Doui Menia
+et aux Oulad Djerir sera ajourné, si ces mandataires sont étrangers à ces deux tribus, jus-
+qu'au retour des deux missions à Alger, après la fin des opérations entre Igli, Figuig et le
+Teniet-Sassi, la situation desdits mandataires devant être examinée avec M. Révoil, Gouver-
+neur général de l'Algérie.
+
+
+Après avoir fait les notifications mentionnées plus haut, les deux missions reviendront
+par le côté oriental du Djebel Béchar, pour acquiescer au désir exprimé à ce sujet par le
+chef de la mission marocaine.
+
+
+Puis les deux missions passeront par la vallée de l'oued Bou Dib, pour se rendre auprès
+
+
+des gens des qsour et leur faire les notifications prévues au protocole.
+
+
+Les deux missions retourneront ensuite à Djenan-eddar et de là à Figuig.
+
+
+ІІІ.
+
+
+En troisième lieu, les deux missions passeront dans les tribus situées entre les qçour de
+Figuig et le Teniet-Sassi, conformément au protocole.
+
+
+Elles profiteront de leur passage pour établir de bons rapports et de bonnes relations
+entre les autorités des deux côtés, de façon à assurer la sécurité et à développer le commerce
+entre les deux pays, ainsi que le commandent les lois du voisinage et les traités entre les
+deux pays.
+
+
+Elles détermineront l'emplacement des postes prévus à l'article 2 du protocole, en ayant
+soin de les choisir de telle sorte qu'aucune fraction ne puisse échapper à l'autorité du Gouver-
+nement qui administre la tribu.
+
+
+IV.
+
+
+En dernier lieu, après avoir accompli tout ce qui précède et être rentrées à Alger, les deux
+missions se rendront à Marnia et à Oudjda.
+
+
+Les deux chefs de mission désigneront les commissaires chargés de régler les contestations
+conformément à l'article 9 du protocole.
+
+
+Ils rechercheront les moyens d'améliorer les rapports et les relations déjà existants entre
+les deux pays, de manière à assurer le développement du commerce, la sécurité et la tran-
+quillité.
+
+
+31
+
+
+N° 25.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 22 février 1902.
+
+
+De l'enquête ouverte sur la mort des capitaines Gratien et de Cressin, du 1er régi-
+ment. étranger, assassinés, le 19 janvier dernier, dans les contreforts Sud du Djebel
+Beni-Smir, il résulte que les meurtriers seraient trois dissidents des Amour, de l'en-
+tourage de Bou Amama, et sans doute deux Chaamba, également dissidents.
+
+
+RÉVOIL.
+
+
+N° 26.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 15 avril 1902.
+
+
+J'ai l'honneur de communiquer à Votre Excellence la traduction d'une lettre que
+le Ministre chérifien des Affaires étrangères vient de me faire parvenir.
+
+
+Ben Sliman y exprime le désir que le nouvel amel de Figuig et sa suite, et d'autre
+part trois cent dix soldats marocains, avec trois canons, soient admis à s'embarquer
+pour un port algérien, d'où ils gagneraient Figuig par la voie ferrée.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+ANNEXE.
+
+
+SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères du Sultan du Maroc,
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française.
+
+
+Après les compliments d'usage....
+
+
+TRADUCTION.
+
+
+Nous restons fidèles au pacte de votre amitié, pleins de confiance en la noblesse de vos
+intentions, dans l'appui mutuel pour la consolidation et le raffermissement des liens de la
+
+
+32
+
+
+pure amitié existant entre les deux augustes Gouvernements et activement, dévoués à tout ce
+qui peut rendre inaltérable cette amitié et procurer les résultats intéressant ces deux
+Puissances,
+
+
+Nous prions Dieu de nous faire voir et entendre, à ce point de vue, ce qui sera de nature à
+réjouir, grâce au concours de votre bonne entremise.
+
+
+Il nous est parvenu que l'ami commun, le chef de la délégation marocaine, le fequih Si
+Mohammed El Guebbas, avait, par vos soins, télégraphié d'Alger à Si Hadj Mohammed
+Torrès, représentant de Sa Majesté, pour lui demander des nouvelles des instructions du
+Makhzen qu'il pourrait avoir au sujet de la délégation précitée, et ce dernier lui aurait
+répondu qu'il n'avait encore rien reçu.
+
+
+Vous saurez, ô ami, que ce qu'a répondu ce représentant est exact et que les réponses
+qu'attend de Sa Majesté Chérifienne le chef de la mission marocaine ont été suspendues par
+suite d'obstacles qui en ont retardé l'élaboration, non délibérément. Il s'agit de nos fatigues
+inhérentes au voyage de Rabat à Fez et des occupations nécessitées par la préparation de l'in-
+stallation de Sa Majesté à Fez.
+
+
+Nous sommes en train de préparer le règlement de quelques affaires importantes qu'attend
+le chef de la susdite délégation, notamment l'envoi du nouvel amel de Figuig, qui arrivera à
+Tanger deux jours après la date de la présente, s'il plaît à Dieu, pour s'embarquer avec les
+gens de sa suite. Nous sollicitons vos bons offices, vous priant de vous entendre avec Si Hadj
+Mohammed Torrès sur la question de son transfert immédiat et de celui des gens de sa
+suite jusqu'au point du territoire algérien où il conviendra qu'il descende, et de là, par le
+chemin de fer français, jusqu'à Figuig.
+
+
+Parmi les autres questions (dont nous nous occupons) figure l'envoi d'un certain nombre
+de soldats et de trois canons, avec leurs gargousses et leurs servants, qui partiront également
+de Fez, deux jours environ après la date de cette lettre, pour Larache, où les oumanas affrè-
+teront un bâtiment pour assurer le transport de ce contingent par mer, à destination de tel
+point de l'Algérie que vous aurez choisi pour son débarquement, à Oran ou ailleurs.
+
+
+Vous voudrez bien prescrire à votre consul de Larache de veiller, avec les oumanas, à
+l'exécution rapide des préparatifs de l'embarquement de ce contingent et télégraphier qu'il
+soit reçu au lieu où il débarquera et expédié par la voie ferrée à Figuig.
+
+
+Vous savez qu'en tout ceci le but est de fortifier l'autorité du nouvel amel de Figuig, car
+de sa force d'influence dépendra l'établissement de la paix et des bons rapports entre les
+deux États voisins, s'il plaît à Dieu.
+
+
+Nous écrivons en même temps à Si Hadj Mohammed Torrès pour qu'il s'entende avec
+vous sur tout cela.
+
+
+Nous faisons appel à toute votre sollicitude, car Sa Majesté Chérifienne compte sur tous
+pour l'arrangement de toute difficulté et l'aplanissement de tout obstacle, particulièrement
+en de pareilles questions qui ne pourront être parfaitement réglées que par votre concours.
+
+
+De la part de Sa Majeté, nous vous prions également de nous prêter votre excellente aide
+auprès de l'ami commun, le sage et très vénéré, le sûr et ferme soutien, M. Révoil, Gouver-
+neur général de l'Algérie, afin de diriger le fequih, Si Mohammed Guebbas, chef de la délé-
+gation marocaine, de façon à lui aplanir les difficultés et les tracas.
+
+
+Je vous demande en outre cette aide, en vue de ce qui sera de nature à porter les membres
+de la délégation algérienne au désir de l'aplanissement des difficultés, à les amener à aider le
+chef de la commission marocaine dans l'art de faciliter les voies pour arriver aux résultats
+recherchés par les deux augustes Gouvernements, et à vouloir bien enfin éviter tout sujet de
+difficulté, de peine ou de lenteur.
+
+
+Bien que le fequih, Si Mohammed Guebbas, ne fasse que l'éloge de tous, il n'est pas néan-
+
+
+33
+
+
+moins inutile de solliciter de nouveau un complément d'appui de votre part; car les visées
+des hommes politiques peuvent s'inspirer de considérations autres que celles des autorités
+militaires, et l'accord, au sujet des résultats à atteindre, ne sera complet que par votre entre-
+mise auprès de M. le Gouverneur général, afin qu'il porte toute son attention vers ce point de
+vue; d'autant que si vous observez le caractère des tribus du Maroc limitrophes, vous vous
+apercevrez qu'il faut absolument procéder par gradation, progressivement, dans l'art de les
+traiter, en usant de douceur et de bienveillance de votre côté, afin que l'œuvre qui incombe
+aux deux délégations s'accomplisse dans les meilleures conditions et que le chef de la commis-
+sion marocaine puisse se remettre en route pour vaquer, en une autre région, aux autres
+graves devoirs qui sont le complément de son œuvre.
+
+
+J'ai écrit en ce sens à l'ami très vénéré, le Gouverneur général, une lettre que vous trou-
+verez sous ce pli et que vous voudrez bien lui faire parvenir, avec les lettres que vous lui adres-
+serez dans les termes que nous attendons de vous.
+
+
+Nous vous prions, homme serviable, d'aviser télégraphiquement, sur-le-champ, Si Moham-
+med Guebbas de ce qui précède, ne fût-ce que sommairement, afin de le tranquilliser, en
+attendant qu'il reçoive les réponses qui lui parviendront par vos soins.
+
+
+26 hidja 1319-5 avril 1902.
+
+
+N° 27.
+
+
+ABDELKERIM BEN SLIMAN.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 26 avril 1902.
+
+
+La Commission franco-marocaine, chargée de l'application du protocole du
+20 juillet 1901, a exécuté les parties essentielles du programme que je lui avais fixé
+et que Votre Excellence connaît par ma lettre du 18 janvier dernier. Elle a com-
+mencé ses travaux par Figuig, où le chef de la mission marocaine, Si Mohammed
+Guebbas, a installé un nouveau représentant du Makhzen. Une lettre du Sultan, lue
+dans les mosquées des différents qsour de l'oasis, a notifié aux habitants la nécessité
+d'entretenir désormais des relations pacifiques avec les Français et de ne point faire
+cause commune avec nos ennemis tels que Bou Amama; ce marabout a dû quitter
+Figuig sur l'injonction du Gouvernement marocain. La Commission a réglé sur les
+lieux mêmes, tout au moins en principe, les conditions dans lesquelles l'autorité ché-
+rifienne s'exercerait sur cette région, en coopération avec la nôtre. Elle a consacré
+l'accession de notre voie ferrée au point de Beni-Ounif, qui est le mieux placé pour
+assurer le maintien des relations avec l'oasis, son développement économique et la
+police de ses abords, ainsi que le prolongement éventuel de cette ligne vers Kenadsa.
+Elle s'est rendue ensuite dans la vallée du Guir, et elle y a procédé aux significa-
+tions prévues par l'article 5 du Protocole. Les tribus des Doui Menia et des Oulad
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+5
+
+
+34
+
+
+Djerir ont été solennellement prévenues qu'elles ne pouvaient demeurer sur le
+territoire déterminé par l'article 4 qu'à la condition de se soumettre à l'autorité
+française. Elles ont déjà compris la nécessité d'opérer cette soumission. Les gens des
+qçour, à qui on laissait le droit d'opter, ont manifesté le désir de rester sujets du
+Sultan; mais le marabout de Kenadsa, qui est le personnage le plus influent de cette
+région, a sollicité aussitôt la protection de la France.
+
+
+Au cours de cette reconnaissance, les commissaires se sont rendu compte de l'im-
+possibilité d'établir une ligne de démarcation entre les territoires relevant de l'un et
+l'autre Gouvernements. Il leur a paru plus pratique de définir les juridictions respec-
+tives d'où relèveront les différents qsour et les différentes tribus en contact, d'établir
+un régime régulier de police et de sécurité dans ces régions, enfin de préciser les
+conditions nouvelles des relations commerciales, et par suite des relations de voisinage
+entre les deux pays.
+
+
+C'est pour répondre à ces préoccupations communes que les deux commissaires,
+M. le général Cauchemez et Si Mohammed Guebbas, ont signé un accord dont Votre
+Excellence trouvera le texte ci-joint. Cet arrangement, qui sanctionne et développe
+les résultats acquis par le Protocole de juillet 1901, sera très prochainement complété
+par une troisième convention, relative aux marchés de la région frontière.
+
+
+RÉVOIL.
+
+
+ANNEXE.
+
+
+ACCORD intervenu entre les Chefs des deux missions constituant la Commission franco-maro-
+caine, chargée d'assurer les résultats visés dans le Protocole signé à Paris le 20 juillet
+1901.
+
+
+En vue d'obtenir les résultats visés par le Protocole conclu à Paris entre le Ministre des
+Affaires étrangères du Gouvernement chérifien et le Ministre des Affaires étrangères du
+Gouvernement français, au mois de juillet 1901, et pour arriver à établir solidement la
+paix, la sécurité et un mouvement commercial destiné à rendre plus riches et plus peuplées
+les régions limitrophes algériennes et marocaines, le général Gauchemez, chef de la Mission
+française, et le fequih Si Mohammed El Guebbas, premier secrétaire du Ministre de la Guerre
+marocain et chef de la Mission marocaine, après avoir examiné la situation sur les lieux
+mêmes, se sont mis d'accord sur les dispositions ci-après:
+
+
+Ces dispositions complètent les traités d'amitié, de bon voisinage et d'accord réciproque
+conclus en 1844 et 1845, entre les deux Gouvernements, et sont destinés à affermir défini-
+tivement leur entente et le double et mutuel appui qu'ils se prêtent, dans les conditions
+spéciales qui correspondent à leur situation respective, pour assurer la prospérité et le dé-
+veloppement des deux pays.
+
+
+ARTICLE PREMIER.
+
+
+Le Gouvernement chérifien consolidera, par tous les moyens possibles, dans l'étendue
+de son territoire, depuis l'embouchure de l'Oued Kiss (Adjeroud) et le Teniet-Sassi, jusqu'à
+
+
+35
+
+
+Figuig, son autorité makhzenienne, telle qu'elle est établie sur les tribus marocaines depuis
+le traité de 1845. Le Gouvernement français, en raison de son voisinage, lui prêtera son
+appui en cas de besoin.
+
+
+Le Gouvernement français établira son autorité et la paix dans les régions du Sahara, et
+le Gouvernement marocain, son voisin, l'y aidera de tout son pouvoir.
+
+
+ART. 2.
+
+
+En vue de développer les transactions commerciales, chacun des deux Gouvernements
+établira, dans les régions limitrophes, des marchés ainsi que des postes chargés de la per-
+ception des droits qui seront établis pour augmenter les ressources et les moyens d'action des
+deux pays.
+
+
+Les droits, à percevoir dans les postes ci-dessus mentionnés et dans les marchés feront
+l'objet d'un accord commercial annexé aux présentes stipulations.
+
+
+ART. 3.
+
+
+Dans le Tell, les points où seront installés les marchés pour le compte de chacun des
+deux Gouvernements, sont ainsi fixés:
+
+
+Le Gouvernement chérifien établira un marché (souk) à Cherraa, près de l'Oued Kiss,
+dans le pays des Angad, un second à Oudjda, un troisième à la qaçba d'Aïoun Sidi Mellouk
+et un quatrième à Debdou.
+
+
+Un marché mixte sera établi à Ras-El-Aïn, point connu pour appartenir aux Beni-Mathar
+Ahel Ras-El-Aïn, dont il est fait mention à l'article 3 du traité de 1845, comme habitant à
+l'Ouest de la ligne frontière.
+
+
+Le Gouvernement français établira des marchés à Adjeroud d'Algérie, à Marnia et à
+El-Aricha.
+
+
+Dans le Sahara, les deux Gouvernements établiront également des marchés. Un marché
+français sera établi à Aïn-Sefra, un marché marocain à Figuig et des marchés mixtes,
+avec perception de taxes ou droits de marché, le long de la voie ferrée, à Beni-Ounif et à
+Kenadsa.
+
+
+En outre, en raisons des relations commerciales entre Figuig et Duveyrier, le Gouver-
+nement français accepte l'installation d'un bureau de perception mixte en ce dernier point.
+Chaque Gouvernement désignera un contrôleur pour le représenter dans chaque marché
+mixte et dans chaque bureau de perception et pour percevoir les taxes au bénéfice des deux
+Gouvernements.
+
+
+ART. 4.
+
+
+Les points où seront institués des bureaux de perception entre Adjeroud et Teniet-Sassi
+sont les suivants :
+
+
+Pour le Maroc :
+
+
+1º Saïdia d'Adjeroud ou El-Heïmer;
+
+
+2° Oudjda;
+
+
+3º Un point dans la tribu des Mehaïa, en face de Magoura.
+
+
+Pour la France:
+
+
+1° Adjeroud d'Algérie;
+
+
+2° Marnia;
+
+
+3º El-Aricha.
+
+
+36
+
+
+ART. 5.
+
+
+Les Chefs des deux missions ont examiné avec soin la question du régime douanier à
+établir entre le Teniet-Sassi et Figuig, et se sont efforcés de trouver une solution satis-
+saisante.
+
+
+Il leur a paru impossible d'installer des douanes sur la ligne sus-indiquée. Ils sont tombés
+d'accord pour faire estimer la quantité de marchandises qui pénètre annuellement sur le
+territoire marocain entre ces deux points, et la somme qui revient de ce chef au Gouverne-
+ment chérifien. Cette somme sera versée, à la fin de chaque année, à l'agent désigné par le
+Makhzen pour la recevoir.
+
+
+Le Gouvernement français se charge, de son côté, d'asseoir les perceptions qui lui paraîtront
+les plus propres à le récupérer. Par cette clause du présent Arrangement, il entend témoigner
+l'amitié sincère et pure qui existe entre les deux pays et leur intention de s'aider mutuel-
+lement de leur autorité dans ces régions.
+
+
+Toutefois, le représentant du Makhzen à Figuig doit veiller sur les marchandises qui
+pénètreront à Figuig et provenant des régions susvisées. Si ces marchandises ont payé les
+droits de douane et si les caravaniers ont un reçu valable, ils ne seront point inquiétés. Dans
+le cas contraire, ils seront astreints à payer les droits à l'Amin du Makhzen à Figuig, qui en
+informera immédiatement le représentant du Gouvernement français, lequel aura la faculté
+de recevoir ces droits annuellement ou de les recevoir au fur et à mesure en donnant quit-
+tance, ou bien d'en faire abandon au Gouvernement chérifien.
+
+
+ART. 6.
+
+
+De même qu'il a été reconnu impossible d'établir des douanes et des postes de garde dans
+la région comprise entre Teniet-es-Sassi et Figuig, de même les deux Gouvernements re-
+noncent à établir les postes de garde et les douanes prévus à l'article 4 du Protocole de
+Paris susvisé.
+
+
+Le Makhzen installera à Figuig les postes de garde spécifiés ci-après à l'article 8. Il y
+installera également des bureaux pour la perception des droits qui seront indiqués dans
+l'accord commercial susmentionné.
+
+
+ART. 7.
+
+
+Les Chefs des deux missions sont tombés d'accord pour installer des postes de garde
+permanents entre Saïdia d'Adjeroud et Teniet-Sassi, afin d'obtenir la paix, la libre circu-
+lation entre les deux pays, et de prêter main-forte au service des perceptions.
+
+
+Le Gouvernement français installera les siens aux points ci-dessous:
+
+
+1º Adjeroud d'Algérie;
+
+
+2° Marnia;
+
+
+3º El-Aricha.
+
+
+Le Gouvernement marocain installera les siens aux points ci-dessous :
+
+
+1º Saïdia d'Adjeroud;
+
+
+2° Oudjda;
+
+
+3º Un point sur l'Oued Za.
+
+
+37
+
+
+ART. 8.
+
+
+Les postes de garde marocains de Figuig seront placés entre les qsour et les cols, de façon
+à assurer la sécurité et à prêter main-forte aux agents chargés de la perception des droits qui
+seront déterminés dans l'accord commercial précité.
+
+
+Le Gouvernement français assurera la surveillance de la voie ferrée sur les deux côtés,
+dans le Sahara, mais, entre la ligne et les qsour de Figuig, il n'effectuera aucune construc-
+tion militaire.
+
+
+Des méfaits de toute sorte, principalement des assassinats, se produisent fréquemment au
+Djebel des Beni-Smir et dans la région avoisinante où se trouvent campés les Oulad-Abdallalı,
+fraction des Amour placée sous l'autorité marocaine; les Chefs des deux missions ont em-
+ployé leur zèle à rechercher les moyens de mettre un terme à cette succession de crimes, qui
+afflige profondément les deux pays amis, et de ramener la tranquilité dans cette région.
+
+
+Le seul procédé qui leur a paru efficace pour atteindre ce résultat consiste à établir, dans
+le Djebel des Beni-Smir, deux gardes distinctes fournies, l'une par le Gouvernement français
+et l'autre par le Gouvernement marocain.
+
+
+Tout malfaiteur arrêté dans cette région sera jugé conformément aux lois et à la justice
+par l'autorité dont dépend la garde qui aura opéré l'arrestation.
+
+
+Il sera procédé ainsi à l'égard de tous les habitants de la montagne dont il s'agit ou de
+tous ceux qui s'y réfugieraient habituellement.
+
+
+En ce qui concerne les autres, ils seront jugés conformément aux usages et traités existant
+entre les deux pays.
+
+
+ART. 9.
+
+
+Un Khalifa de l'Amel de Figuig sera désigné pour représenter le Gouvernement maro-
+cain dans l'un des trois qsour: Kenadsa, Béchar ou Ouakda.
+
+
+Il sera chargé de prêter main-forte aux autorités algériennes contre les mauvais sujets qui
+se réfugieront dans les qsour.
+
+
+ART. 10.
+
+
+Les Commissaires des deux Gouvernements voisins, prévus dans l'article  du Protocole
+signé à Paris, s'efforceront par tous les moyens en leur pouvoir de solutionner, dans le plus
+bref délai possible, tous les litiges qui surgiraient entre les habitants des deux pays.
+
+
+Les Commissaires français seront:
+
+
+Le capitaine de bureau arabe de Marnia et le capitaine chef des affaires indigènes de
+Djenan-Eddar ou de Beni-Ounif, ou tout autre agent désigné par le Gouvernement
+français.
+
+
+Les Commissaires marocains seront:
+
+
+Le Khalifa de l'Amel de Figuig;
+
+
+Le Khalifa de l'Amel d'Oudjda, ou tout autre agent désigné par le Makhzen.
+
+
+Les Chefs des deux missions apposeront leurs signatures sur le présent accord, qui sera
+dressé en deux expéditiotis, renfermant chacune les deux textes, français et arabe, placés l'un
+à côté de l'autre.
+
+
+L'une de ces expéditions sera envoyée au Gouvernement français et l'autre adressée au
+
+
+38
+
+
+Makhzen chérifien, pour qu'elles soient soumises à l'examen et à l'approbation des Ministres
+des Affaires étrangères des deux pays.
+
+
+Fait à Alger, le vingt avril mil neuf cent deux, correspondant au douze du mois sacré de
+Moharrem, premier mois de l'année 1320 de l'hégire.
+
+
+Signé: CAUCHEMEZ.
+
+
+MOHAMMED EL GUEBBAS.
+
+
+A cet acte a été ajoutée, par accord subséquent, la mention suivante:
+
+
+« Le Gouvernement marocain, après avoir examiné le présent accord, l'a trouvé conforme
+aux nécessités du voisinage. Comme l'établissement des douanes prévues au protocole de
+Paris, pour la perception des droits de douane, est impossible dans les circonstances pré-
+sentes, on a décidé de l'ajourner jusqu'au moment où il sera possible, et de se borner actuel-
+lement à percevoir les droits de marché et de passage dans les postes à ce destinés, ainsi
+qu'il résulte des articles du présent accord. Sous cette réserve, ratification a été donnée le
+16 décembre 1902.
+
+
+N° 28.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 17 mai 1902.
+
+
+Pour faire suite à ma lettre du 26 avril, j'ai l'honneur d'adresser ci-joint à Votre
+Excellence le texte de l'accord qui a été signé, le 7 de ce mois, par M. le Général
+Cauchemez et Si Mohammed Guebbas, en exécution de l'article 2 du protocole du
+20 avril dernier.
+
+
+Sous le même pli je transmets au Département :
+
+
+1º La traduction d'une lettre de Ben Sliman à Si Mohammed Guebbas, qui
+indique les différentes mesures projetées par le Makhzen, en vue de l'application in-
+tégrale des accords et de la pacification de la région frontière;
+
+
+2° La traduction d'une lettre adressée par le Sultan aux tribus marocaines de la
+frontière;
+
+
+3° La traduction de l'extrait d'une lettre du Sultan à Bou Amama;
+
+
+4° La traduction de l'extrait d'une lettre du Sultan à Moulay Rechid, khalifa du
+Sultan au Tafilelt.
+
+
+Ces divers documents nous ont été communiqués officiellement par Si Mohammed
+Guebbas.
+
+
+r
+
+
+RÉVOIL
+
+
+39
+
+
+ANNEXE. I.
+
+
+Exécution de l'article 2 de l'accord intervenu à Alger entre les chefs des deux Missions,
+française et marocaine, le 20 avril 1902, correspondant au 12 məharrem 1320 de
+l'hégire.
+
+
+LOUANGE À DIEU.
+
+
+TRADUCTION.
+
+
+Il n'est en rien dérogé au régime particulier qui a toujours existé pour les relations par
+voie de terre entre l'Algérie et le Maroc, mais en raison des conditions spéciales du voisinage
+de terre existant entre les deux pays, les soussignés ont arrêté les dispositions suivantes, qui
+seront établies en deux expéditions, écrites chacune en français et en arabe et soumises,
+comme l'accord ci-dessus visé, à la ratification des Ministres des Affaires étrangères de la
+France et du Maroc,
+
+
+Le Makhzen maintient sa faculté d'établir:
+
+
+1º Des droits de sortie;
+
+
+2º Des droits de transit.
+
+
+1.
+
+
+D'autre part, le Gouvernement français a déclaré son intention d'appliquer ou de mainte-
+nir, conformément à la législation en vigueur, les droits de statistique et de taxe sanitaire.
+Les droits seront établis suivant les tarifs annexés au présent acte, auxquels les deux Gou-
+vernements déclarent ne pas faire objection et qu'ils s'interdisent de modifier sans un
+accord préalable.
+
+
+II.
+
+
+Indépendamment des droits indiqués à l'article précédent, il peut être perçu des droits de
+place sur les marchés mixtes.
+
+
+Les droits de place ont été fixés par les signataires du présent acte, conformément au
+tableau ci-annexé.
+
+
+A la fin de chaque marché, les droits réalisés seront partagés par moitié entre les agents
+des deux Gouvernements.
+
+
+Les modifications qu'il y aurait lieu d'apporter dans l'avenir aux tarifs de ces marchés
+mixtes seront faites d'un commun accord entre les autorités locales voisines, qui informeront
+leurs Gouvernements respectifs.
+
+
+Dans les marchés autres que les marchés mixtes mentionnés à l'article 3 de l'accord sus-
+indiqué, chaque Gouvernement aura la faculté d'établir les droits qu'il jugera convenables,
+sans toutefois que ces droits puissent dépasser ceux adoptés d'un commun accord pour les
+marchés mixtes du Tell.
+
+
+III.
+
+
+Les marchés algériens mentionnés à l'article 2 de l'accord du 20 avril 1902 dépendront
+exclusivement des autorités françaises. Toutefois le Gouvernement marocain pourra y placer
+un agent pour éviter la contrebande. Lorsque des Marocains arriveront sur un marché algé-
+
+
+40
+
+
+rien avec des marchandises pour lesquelles ils n'auront pas payé les droits, l'agent français les
+contraindra à lui verser ces droits, dont il fera lui-même la remise à l'agent marocain. L'agent
+marocain sera, en outre, chargé d'étudier le mouvement commercial et la marche des cara-
+vanes. Il devra être indigène. Les marchés marocains prévus également à l'article 2 de l'accord
+précité dépendront exclusivement du Gouvernement chérifien. Mais le Gouvernement fran-
+çais pourra y installer un de ses agents, pour les mêmes raisons que ci-dessus. Cet agent
+devra être indigène.
+
+
+IV.
+
+
+Les marchés mixtes seront ouverts aux négociants des deux pays qui y opèreront leurs
+transactions sur le pied d'égalité. Les deux Gouvernements auront conjointement, sur le
+marché, un agent qui procédera au recouvrement des droit spécifiés aux articles 1 et 2.
+
+
+Les perceptions pour le compte des deux Gouvernements seront faites dans un bureau de
+perception unique, par les soins des deux agents qui les constateront sur un registre spécial et
+en donneront quittance sous leur double signature.
+
+
+Les sommes réalisées seront partagées à la fin de chaque marché, et chacun des deux agents
+recevra la part revenant à son Gouvernement; ils se donneront mutuellement quittance.
+
+
+V.
+
+
+Le recouvrement des droits s'effectuera dans tous les bureaux de perception prévus à
+l'article 4 de l'accord du 20 avril 1902, d'après le tarif uniforme ci-annexé.
+
+
+Dans les bureaux de perception mixtes, les droits seront recouvrés dans les mêmes condi-
+tions que dans les marchés mixtes mentionnés à l'article 4.
+
+
+Les agents des deux Gouvernements seront responsables des sommes réalisées, dont le
+partage sera effectué à la fin de chaque mois.
+
+
+VI.
+
+
+Les commissaires institués par le protocole signé à Paris en 1901 (correspondant à
+l'année 1319 de l'hégire), ou leurs délégués, exercent le contrôle de toutes les opérations
+dont les agents de recouvrement des deux pays sont chargés sur les marchés et dans les postes
+de perception.
+
+
+Ces commissaires s'entendent en outre avec les autorités dont ils relèvent sur les mesures
+propres à assurer la sécurité et à faciliter la marche des caravanes qui refieront les marchés
+situés de part et d'autre.
+
+
+VII.
+
+
+Les droits à percevoir sur les marchés ou dans les bureaux de perception mixtes seront
+payés en monnaie française ou hassanienne.
+
+
+Le cours du change de ces deux monnaies sera indiqué au commencement de chaque
+période trimestrielle, d'après une entente entre le Ministre de France et le représentant de
+Sa Majesté chérifienne à Tanger.
+
+
+Le Gouvernement français et le Makhzen, avisés du cours ainsi arrêté, devront assurer
+son application par les agents chargés de la perception des droits.
+
+
+VIII.
+
+
+Les droits mentionnés à l'article 5, dans l'accord du 20 avril, et dont le Gouvernement
+
+
+41
+
+
+français s'est déclaré disposé à tenir compte au Gouvernement marocain, seront évalués au
+bout de la première année, qui commencera le jour où l'accord aura été approuvé. Ils
+seront, aussitôt après, versés au Makhzen. Ces droits seront ensuite l'objet d'évaluations an-
+nuelles..
+
+
+IX.
+
+
+Les postes de garde mentionnés à l'article 7 de l'accord précité pourront, suivant les cir-
+constances, être augmentés par chacun des deux Gouvernements.
+
+
+Ces postes devront exercer une surveillance vigilante et ne laisser passer que les marchan-
+dises dont les détenteurs sont munis de récépissés attestant qu'ils ont acquitté les droits. Ils
+devront agir de concert au mieux des intérêts des deux Gouvernements.
+
+
+ .
+
+
+Les deux Gouvernements pourront, d'un commun accord, apporter aux stipulations ci-
+dessus les modifications qu'ils jugeront utiles.
+
+
+Fait à Alger, le 7 mai 1902, correspondant au 27 moharem de l'année 1320 de
+T'hégire.
+
+
+Suivent les signatures :
+
+
+GAUCHEMEZ.
+
+
+MOHAMMED EL GUEBBAS.
+
+
+A cet acte a été ajoutée, par accord subséquent, la mention suivante :
+
+
+« Le Gouvernement marocain, après avoir examiné le présent accord, l'a trouvé conforme
+aux nécessités du voisinage. Comme l'établissement des douanes prévues au protocole de Paris
+pour la perception des droits de douane est impossible dans les circonstances présentes, on a
+décidé de l'ajourner jusqu'au moment où il sera possible, et de se borner actuellement à
+percevoir les droits de marché et de passage dans les postes à ce destinés, ainsi qu'il résulte
+des articles du présent accord. Sous cette réserve, ratification a été donnée le 16 décembre
+1902.»
+
+
+ANNEXE II.
+
+
+EXTRAIT d'une lettre du Vizir Si Abdelkerim Ben Sliman à Si Mohammed El Guebbas.
+
+
+TRADUCTION.
+
+
+Vos correspondances ont été soumises à Sa Majesté, qui en a pris entièrement connais-
+sance.
+
+
+En ce qui concerne Bou Amama, des instructions chérifiennes sont adressées à Moulay
+Rachid, de même qu'aux tribus qui ont en outre été mises en garde contre les agissements
+des mauvais sujets des Doui Menia et des Oulad Djerir. Vous trouverez ci-joint des copies de
+ces communications.
+
+
+L'Amel choisi pour Figuig est le Caïd Abdesselam El Aoudi. On lui a affecté un interprète
+et on lui a donné El Medjdoub comme Khalifa.
+
+
+DOGUMENTS DIPLOMATIQUES. Maroc.
+
+
+6
+
+
+42
+
+
+L'Amel quittera Fez après-demain, emmenant avec lui ses enfants et les autres membres
+de sa famille. Il se dirige sur Tanger où il s'embarquera pour aller rejoindre son poste. Le
+Ministre de France et le Gouverneur général de l'Algérie ont été mis au courant.
+
+
+L'Amel est lui-même porteur des lettres qui lui confient le commandement de l'ensemble
+des qsour de Figuig, des Amour du Sahara et des Beni Guil.
+
+
+Il a été décidé que la force militaire demandée serait fournie par les Oudaia et les Che-
+rarda, et qu'elle comprendrait 308 hommes avee trois mitrailleuses.
+
+
+Avis a été donné également au Ministre de France et au Gouverneur général de l'Algérie
+que cette troupe quitterait Fez pour Larache, d'où elle gagnerait Figuig par la voie de
+mer.
+
+
+Les anciennes garnisons d'Oudjda et d'Adjeroud sont rappelées et le Makhzen s'occupe de
+les remplacer par des troupes fraîches que vous organiserez.
+
+
+En ce qui concerne le Tafilet, le Caïd El Madani El Glaoui y a été nommé Amel, et
+Sa Majesté Chérifienne l'a mandé auprès d'elle pour le pourvoir des moyens nécessaires. Cet
+Amel va recevoir le commandement d'un corps de quatre mille hommes, composé de sol-
+dats recrutés dans les tribus et que Sa Majesté s'occupe personnellement d'organiser.
+
+
+ANNEXE III.
+
+
+EXTRAIT d'une lettre du Sultan aux Beni-Guil, aux Mehaia, aux Angad, aux Beni-
+Isnassen, aux gens d'Ain-Chair, aux Ait-Atta, Ait-Khebbach et Ait-Izdeg.
+
+
+TRADUCTION.
+
+
+LOUANGE À DIEU.
+
+
+Nous avons eu le souci constant de protéger votre pays et de travailler à vos intérêts
+présents et futurs. Pour vous défendre, vous et vos biens, et surtout pour établir de bonnes
+relations entre vous et vos voisins d'Algérie, nous avons dû faire face à des difficultés consi-
+dérables et supporter des dépenses importantes.
+
+
+Actuellement, de concert avec les autorités algériennes, nous avons arrêté les moyens de
+faire respecter les droits de voisinage et d'asseoir la paix et la tranquillité sur des bases du-
+rables. Notre serviteur très sympathique, le Taleb Si Mohammed El Guebbas, est chargé,
+par nous, d'appliquer les mesures convenues et de régler la situation.
+
+
+Mais voici que nous avons appris que certains individus des Doui Menia et des Oulad Djerir
+cherchaient à détruire cette œuvre de paix et qu'ils s'appuyaient sur le cheikh Bou Amama
+pour poursuivre ce desscin criminel qui entraînerait de terribles malheurs dont ils ne pa-
+raissent pas se douter.
+
+
+Nous vous ordonnons de n'avoir aucune relation avec ces agitateurs et de chasser
+quiconque d'entre eux viendrait chez vous.
+
+
+Bornez-vous à cultiver vos terres et restez dans vos limites, ainsi que vous le dira avec
+plus de détails Si Mohammed El Guebbas.
+
+
+Si Bou Amama arrive chez vous, repoussez-le, car il n'y a aucun avantage, ni pour lui,
+ni pour vous, à ce qu'il séjourne dans votre région. Donnez-lui au contraire le conseil de se
+rendre d'urgence auprès de nous, sous la sauvegarde de Dieu et la nôtre. Comme les gens
+des zaouïas, ses pareils, il sera traité avec considération et respect, et il n'aura lieu que de
+
+
+43
+
+
+se réjouir de ce qui lui arrivera de notre part, par la puissance de Dieu. En venant ici, it
+trouvera le repos en même temps qu'il le donnera aux autres. Nous lui avons donné des
+ordres dans ce sens, et s'il avait la funeste inspiration de ne pas s'y conformer, il ne devrait
+s'en prendre qu'à lui des conséquences.
+
+
+Nous vous ordonnons de faire crier sur tous vos marchés que l'entrée en est interdite à
+tout individu de l'entourage de Bou Amama qui y viendrait, soit pour acheter des grains,
+soit pour toute autre chose. Il convient en effet d'agir avec sévérité à l'égard de Bou Amama
+et de ses gens.
+
+
+Quiconque donnera l'hospitalité à cet homme ou l'aidera à rester dans cette région, qui-
+conque négligera d'exécuter les instructions dont Si Mohammed El Guebbas est porteur,
+quiconque commettra un acte de pillage à l'encontre d'une caravane ou se rendra coupable
+d'une agression à l'égard de musulmans marocains ou de nos voisins algériens, encourra fa
+colère de Dieu et méritera notre châtiment pour avoir contrevenu à nos ordres et s'être
+écarté de la voie du bien.
+
+
+ANNEXE IV.
+
+
+EXTRAIT d'une lettre du Sultan à Bou Amama.
+TRADUCTION.
+
+
+Nous avons appris-que vous vous étiez conformé à notre ordre vous prescrivant de quitter
+Figuig, mais que vous cherchiez à vous fixer chez nos tribus du Sahara.
+
+
+Vous n'avez aucun avantage à séjourner plus longtemps dans ces régions, et je vous ordonne
+de vous rendre auprès de nous, sous la sauvegarde de Dieu et la nôtre. Comme les gens des
+Zaouïas, vos pareils, vous serez traité avec respect et considération et vous n'aurez lieu que de
+vous réjouir de ce qui vous arrivera de notre part.
+
+
+Hâtez-vous donc d'obéir à cet ordre, avant que vous n'ayez à vous repentir, et saisissez
+l'occasion qui vous est offerte avant d'encourir notre blâme.
+
+
+ANNEXE V.
+
+
+EXTRAIT d'une lettre du Sultan à Moulay Rechid.
+
+
+TRADUCTION.
+
+
+LOUANGE  DIEU.
+
+
+Le seul moyen d'assurer la tranquillité et de mettre fin à toute agitation, tant au Tafi-
+let que parmi les tribus qui vivent dans cette région ou dans les espaces avoisinants, con-
+siste à observer le Protocole signé avec la France, à veiller à ce que, dans les tribus Beraber
+ou Arabes, personne ne parle plus de réunir des contingents en vue de tentatives de
+désordre, et à tenir la main à ce qu'aucune agression ne soit dirigée contre les Algériens.
+Certes, vous êtes un de nos meilleurs soutiens, et nous savons que vous ne négligez rien
+
+
+6.
+
+
+44
+
+
+pour réduire à néant les agitateurs et disperser les ignorants qui se groupent dans de mau-
+vaises intentions.
+
+
+Nous vous ordonnons toutefois de redoubler d'ardeur dans ce sens pour faire avorter
+toute tentative des Beraber ou autres, notamment des Ait-Khebbach, et veiller à ce qu'ils
+n'écoutent pas les mauvais sujets des Doui-Ménia et des Oulad Djerir, pas plus que ceux qui,
+comme le Cheikh Bou Amama, encouragent leurs projets insensés.
+
+
+Nous vous adressons une lettre destinée à Bou Amama, que nous convoquons auprès de
+nous. Faites-la lui parvenir par une personne ayant du crédit auprès de lui, de façon à ce
+qu'il ne lui reste plus de prétexte à invoquer.
+
+
+La force militaire demandée vous rejoindra prochainement, s'il plaît à Dieu.
+
+
+N° 29.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 22 juillet 1902.
+
+
+Je viens de faire connaître au Ministre chérifien des Affaires étrangères les condi-
+tions moyennant lesquelles nous nous prêterons à ce que la troupe marocaine destinée
+à tenir garnison à Figuig gagne cette oasis à travers le territoire algérien.
+
+
+J'ai l'honneur de transmettre ci-joint à Votre Excellence copie de la lettre que
+j'ai adressée sur ce sujet à Si Abdelkerim ben Sliman, après m'être assuré qu'elle
+répondait aux intentions du makhzen.
+
+
+ANNEXE.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+
+
+à SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de S. M. Ché-
+rifienne.
+
+
+Compliments d'usage...
+
+
+Tanger, le 21 juillet 1902.
+
+
+Il m'est agréable de vous annoncer que le Gouvernement de la République, désireux de
+faciliter pour sa part l'application du régime convenu pour les confins des deux pays, con-
+sent, súr votre demande, à ce que le détachement de troupes marocaines, réuni à Larache
+et destiné à tenir garnison à Figuig, s'embarque sur un paquebot français pour Oran. De là,
+
+
+45
+
+
+ce détachement sera conduit en chemin de fer à sa destination par les soins des autorités
+françaises d'Algérie.
+
+
+Le représentant du Sultan à Tanger peut, dès maintenant, s'entendre avec une des com-
+pagnies françaises de navigation pour que cette troupe soit transportée de Larache à Oran.
+A son arrivée dans cette ville, elle sera dirigée, par train spécial, vers Figuig, où elle
+tiendra garnison.
+
+
+Pour faciliter les relations de la troupe marocaine avec les autorités françaises et lui prêter
+l'appui dont elle aura besoin au cours de son voyage par mer et par terre, un officier et
+quelques sous-officiers parlant l'arabe seront embarqués sur le paquebot qui viendra chercher
+à Larache le détachement marocain. Ils l'accompagneront jusqu'à destination.
+
+
+Il nous a été exposé que le makhzen chérifien a besoin actuellement de quelques instruc-
+teurs pour instruire les troupes qu'il se propose d'établir à Figuig, Oudjda, Adjeroud, ou sur
+d'autres points de la région frontière, qu'il ne possède pas à présent, parmi ses sujets, de
+personnes aptes à remplir ces fonctions, et qu'il ne saurait convenir d'employer dans ces
+régions des instructeurs étrangers autres que des français. Cela étant, le Gouvernement de
+la République, en vue d'aider le Gouvernement chérifien, accède au désir que ce gouver-
+nement lui a exprimé. Il met à sa disposition les instructeurs dont le Makhzen a besoin en
+ce moment pour l'instruction de ses troupes, sans qu'il y ait lieu de distinguer si ces troupes
+appartiennent à l'infanterie, à l'artillerie, à la cavalerie ou à toute autre arme. Ces instructeurs
+seront choisis parmi ceux qui possèdent la connaissance de la langue arabe. Cependant,
+lorsqu'il sera possible au Makhzen chérifien de faire intruire ses troupes par des instructeurs
+pris parmi ses propres sujets et qui auront acquis toutes les conditions de savoir et d'aptitude,
+il pourra renoncer aux services des instructeurs français.
+
+
+Si Mohammed El Guebbas a exprimé l'avis qu'un millier de soldats réguliers suffiraient
+pour cette région, mais mon Gouvernement n'aura aucune objection à ce que cet effectif
+soit modifié, pourvu qu'il ne dépasse pas le maximum fixé par la Convention de Tanger de
+1844, soit deux mille hommes.
+
+
+Un capitaine, un lieutenant et deux sous-officiers paraissent suffire pour l'instruction de
+ces troupes. Toutefois, si le Makhzen éprouve le besoin d'augmenter ce nombre, on s'enten-
+dra à ce sujet avec le chef de la mission marocaine.
+
+
+Ces instructeurs formeront une section nouvelle et spéciale de la mission militaire fran-
+çaise, section qui s'ajoutera à cette mission sans que ni la portion principale, qui accompagne
+Sa Majesté ni la portion établie à Rabat subissent par suite aucune réduction. La nouvelle
+section, qui sera établie dans la région frontière, sera placée, comme les sections déjà exis-
+tantes, sous le commandement du chef de la mission française.
+
+
+Notre Consul, M. Gaillard, que j'ai chargé de traiter avec vous cette question, vient de
+m'informer qu'il s'est entendu avec Votre Excellence sur tous les points exposés ci-dessus. Je
+vous serais très obligé de me confirmer cette entente par écrit.
+
+
+Puissiez-vous jouir constamment du bonheur, de la paix et de la joie !
+
+
+Fait à Tanger, le 21 juillet 1902.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+46
+
+
+N° 30.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 6 août 1902.
+
+
+Sous la date du 30 juillet dernier, le Ministre des Affaires étrangères du Sultan a
+répondu à ma lettre du 21 juillet, qui indiquait au Makhzen les conditions moyennant
+lesquelles nous nous prêterions à ce que la troupe marocaine destinée à tenir garnison
+à Figuig gagnât cette oasis à travers le territoire français.
+
+
+J'ai l'honneur d'adresser ci-joint à Votre Excellence la traduction de la lettre que
+j'ai reçue de Si Abdelkerim ben Sliman à ce sujet.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+ANNEXE.
+
+
+SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de S. M. Chérifienne,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger.
+TRADUCTION.
+
+
+LOUANGE À DIEU SEUL!
+
+
+A l'ami très cher, très honoré, sage et très respecté, Monsieur Saint-René Taillandier,
+Ministre du Grand Gouvernement français.
+
+
+Après avoir célébré les marques de votre bienveillance et exprimé le vœu que vous soyez
+constamment heureux, je vous dirai que j'ai reçu votre lettre en date du 21 juillet.
+
+
+Vous me faites savoir que le respecté Gouvernement français ami autorise l'embarquement
+des troupes chérifiennes sur un navire français, à Larache; que le représentant du Makhzen
+doit s'entendre avec la compagnie de navigation dont dépendra ce navire, au sujet du trans-
+port à Oran de ces troupes qui, de cette ville, seront dirigées par le chemin de fer français
+vers le lieu de garnison, à Figuig, et que ces troupes seront accompagnées, dans leur voyage
+par mer et par terre, de personnes que vous désignerez à cet effet.
+
+
+Vous ajoutez que le Grand Gouvernement susmentionné, en vue d'aider le Gouverne-
+ment marocain, consent à lui fournir les instructeurs français, connaissant la langue arabe,
+dont le Makhzen a besoin actuellement pour instruire les troupes chérifiennes, à quelque
+arme qu'elles appartiennent, qui seront placées à Oudjda, Figuig, Adjeroud, ou en n'importe
+quel point des régions frontières; car le Makhzen ne possède pas à présent d'éléments
+capables de remplir cette mission et il ne convient pas d'employer, dans ces régions, des
+instructeurs étrangers autres que des Français. Cependant lorsqu'il sera possible au Gouver-
+wement chérifien d'avoir, parmi ses propres sujets, des instructeurs d'une capacité suffisante,
+
+
+47
+
+
+il pourra renoncer aux services des instructeurs français. et ainsi de suite jusqu'à la fin
+de votre lettre.
+
+
+Vous vous en rapportiez, pour les éclaircissements nécessaires, au consul, le sage
+M. Gaillard.
+
+
+J'ai donné connaissance du contenu de votre lettre à notre maître. Il m'a ordonné
+Dieu l'assiste! de vous répondre pour reconnaître la sollicitude que lui a montrée le Grand
+Gouvernement ami, en accordant toutes facilités pour cette œuvre; il m'a chargé de vous
+remercier des résultats dus en la circonstance à votre heureux intermédiaire.
+
+
+Sa Majesté Chérifienne m'a également chargé de vous faire savoir qu'elle approuve la
+décision prise par le chef de la mission marocaine de se borner actuellement à placer
+mille soldats dans les régions sus-indiquées, ce nombre devant être porté à deux mille si les
+circonstances l'exigent.
+
+
+En ce qui concerne les instructeurs, le Gouvernement Chérifien approuve également que
+l'on se contente maintenant d'un capitaine, d'un lieutenant et de deux sous-officiers; cepen-
+dant, si les circonstances voulaient que ce nombre fût augmenté, on s'entendrait à ce sujet
+avec le chef de la mission marocaine. Le Makhzen considère ces instructeurs comme formant
+une section spéciale, en plus de la partie de la mission qui accompagne Sa Majesté Chérifienne
+et de celle qui réside à Rabat. Cette nouvelle section devra être placée sous la direction de
+la mission principale qui accompagne Sa Majesté. Enfin le Makhzen allouera à cette section
+une indemnité annuelle de dix mille francs, qui sera versée par les soins des Oumana des
+régions frontières, s'il plaît à Dieu!
+
+
+Puissiez-vous continuer à jouir du bonheur et de la félicité !
+Fait le 23 Rebia 13.20 (30 juillet 1902).
+
+
+ABDELKERIM BEN SLIMAN.
+
+
+N° 31.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 4 octobre 1902.
+
+
+Je viens de recevoir de Ben Sliman une lettre m'annonçant que le. Makhzen
+accepte les deux accords complémentaires du 20 avril et du 7 mai.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+48
+
+
+N° 32.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 octobre 1902.
+
+
+Le représentant de la Société française des Établissements Gautsch vient de con-
+clure, à Fez, avec le Ministre des finances marocain, düment autorisé à cet effet, un
+emprunt de sept millions et demi de francs. L'intérêt sera de six pour cent. L'amor-
+tissement commencera dès la deuxième année.
+
+
+Les besoins d'argent du Makhzen devaient être très pressants, car le Ministre des
+finances a montré une grande hâte à négocier et à conclure.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 33.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, le 31 octobre 1902.
+
+
+La crise où les imprudences du sultan ont engagé l'Empire Chérifien devient de
+plus en plus sérieuse. Dans la région de Fez et de Meknez, l'agitation persiste; elle
+vient de se manifester, en dernier lieu, près de Taza.
+
+
+Un incident a déterminé l'explosion du mécontentement latent.
+
+
+Quand on vit un des ingénieurs anglais de Fez, chargé d'étudier un tracé de
+route, planter, le long de la piste de Fez à Meknez, de hauts piquets surmontés de
+drapeaux noirs et rouges, les habitants de ces deux villes crurent à la construction
+d'un chemin de fer ou d'une ligne télégraphique; plus ignorants, les Beraber qui
+tiennent la campagne, crurent assister à une prise de possession directe de leur pays
+par l'Angleterre. Les procédés hautains de l'ingénieur aggravèrent encore le malen-
+tendu. Quelques jours après, des cavaliers Beni-Mtir, Guerrouan et Zemmour témoi-
+gnèrent de leur mécontentement en attaquant le souq de Meknez.
+
+
+Le Makhzen se sentit en danger. Il ne pouvait envoyer à Meknez que quelques
+centaines de soldats; assez pour atteindre la ville et renforcer sa garnison, pas assez
+pour rien entreprendre contre les rebelles. Que les autres tribus berbères de la
+région, les Beni Mguild et surtout les Zayan, se joignissent au mouvement et Abd-el-
+Aziz pouvait tout craindre. Son frère aîné Mouley Mohammed, toujours en surveil-
+lance à Meknez, pouvait être délivré par les Beraber et placé par eux à leur tête.
+
+
+49
+
+
+Le Makhzen s'appliqua selon sa méthode traditionnelle à diviser ses adversaires et
+à se ménager certains concours parmi les tribus indépendantes. Il y réussit.
+
+
+Néanmoins la situation reste fort troublée. Les principales tribus de la région de
+Taza, qui sont d'ordinaire ennemies les unes des autres, les Hayaïna, les Riata, les
+Beni Ouaraïn, les Tsoul, les Branès, viennent, à l'instigation d'un agitateur,
+de conclure des alliances qui paraissent dirigées contre le Makhzen. Aux portes
+mêmes de Fez, un fort groupe de cavaliers Beraber a donné une vive alerte à la
+petite mahalla campée autour de la tente chérifienne. Peu de jours après, l'assas-
+sinat d'un missionnaire anglais, M. Cooper, révélait d'une manière tragique l'état
+d'esprit de certains éléments fanatiques si nombreux dans la capitale septentrionale
+de l'Empire.
+
+
+C'est dans ces conditions que le Makhzen s'apprête à quitter Fez, sans attendre
+l'arrivée des contingents demandés à tous les Caïds du pays soumis.
+
+
+D'après des bruits qui circulent, le Sultan doit gagner Rabat presque directement
+sans entrer à Meknèz ou en ne s'y arrêtant que très peu de jours. Tout le monde
+est étonné et inquiet de cette détermination. Avec des effectifs aussi faibles que
+ceux dont il dispose, Abd el Aziz devra se rendre à Rabat sans prendre vis-à-vis
+des tribus rebelles aucune mesure de coercition. Dans ces conditions, le départ du
+Sultan produira une fâcheuse impression et les fauteurs de désordre redoubleront
+d'audace. L'opinion est très répandue dans le pays que, si le Sultan s'éloigne de
+Fez et de Meknèz sans avoir réprimé les tribus rebelles, un soulèvement général
+éclatera derrière lui.
+
+
+L'émotion produite à Fez par l'assassinat de M. Cooper et par le châtiment écla-
+tant de son meurtrier est venue compliquer encore la crise où le Makhzen s'agite.
+Pour la sécurité des Européens et de certains vizirs, il a paru nécessaire de répartir
+1,200 soldats dans les rues de la ville et de prendre diverses mesures de police. On.
+peut se demander avec une certaine crainte si ces précautions seront suffisantes
+quand, dans quelques jours peut-être, le Makhzen aura quitté Fez.
+
+
+Enfin, d'après les plus récentes informations, le mouvement qui a groupé autour
+d'un agitateur les Riata et les autres tribus de la région de Taza paraît prendre une
+sérieuse importance. De quelque côté qu'on la considère, la situation où le Sultan
+s'est placé apparaît donc comme pleine de périls.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 34.
+
+
+M. SAINT-RENÉ-TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 décembre 1902.
+
+
+J'ai déjà renseigné Votre Excellence sur les débuts du mouvement insurrectionnel
+
+
+qui s'est produit dans la région de Taza.
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+7
+
+
+50
+
+
+Les origines de l'instigateur de ce mouvement, connu sous le nom de Bou
+Hamara («l'homme à l'ânesse»), demeurent assez obscures. Il semble toutefois qu'il
+soít originaire du Zerhoun et appartienne à une famille de Chorfa de la tribu des
+Ouled Youssef. Il aurait habité plusieurs années l'Algérie.
+
+
+Proclamé Sultan par la tribu puissante des Riata sous le nom de Moulay Mohammed
+ben El Hassen, qui est précisément celui du frère de Moulay Abd el Aziz en surveil-
+lance à Meknéz, il en est résulté une confusion qui n'a pas peu contribué au
+progrès de son entreprise, en accroissant le nombre de ses partisans dont beaucoup
+ignoraient s'ils acclamaient le prétendant en personne ou seulement son Khalifa. Bou
+Hamara évitait, d'ailleurs, de dévoiler ses prétentions au pouvoir suprême et s'expri-
+mait, à ce sujet, en un langage dont l'ambiguïté calculée ajoutait encore à son pres-
+tige aux yeux d'un peuple crédule.
+
+
+Dans le désarroi qui suivit les premières nouvelles, le Makhzen, au lieu d'orga-
+niser sérieusement l'offensive, envoya en toute hâte un petit détachement dans la
+direction de Taza avec l'ordre de s'emparer du prétendant. Mais celui-ci disposait
+déjà de partisans assez nombreux qui mirent en fuite les soldats de Sa Majesté Ché-
+rifienne. Enhardi par ce succès, Bou Hamara vint camper sous les murs de Taza à la
+tête d'une Mahalla, composée en majeure partie de Riata. Après deux jours de pour-
+parlers, les notables de la ville, cédant à la crainte du pillage plutôt qu'à un mouve-
+ment d'enthousiasme religieux, le reconnurent pour Sultan et la prière fut dite en son
+nom dans la mosquée tandis que le Gouverneur de la ville s'enfuyait à Meknasa.
+
+
+Dès que ces événements furent connus à Fez, une mahalla composée d'environ
+2,000 hommes et placée sous les ordres d'un frère du Sultan, Moulay el Kebir,
+partit dans la direction de la vallée de l'Oued Inaouen. Bou Hamara se porta à la ren-
+contre de la colonne chérifienne. Un premier combat eut lieu le 5, un deuxième
+ le 8; chaque fois les troupes chérifiennes, surprises avant le jour, luttèrent d'abord
+dans une extrême confusion et firent des pertes que l'on dit assez sensibles. Elles
+eurent cependant l'avantage, et l'on assure que Bou Hamara, atteint dans son prestige
+et délaissé du plus grand nombre de ses partisans, dut chercher un refuge dans la
+montagne des Riata. Le Makhzen négocie pour se le faire livrer. Il est douteux qu'il
+y parvienne. Même s'ils effectuent leur soumission, pour se soustraire à une répres-
+sion rigoureuse, il paraît probable que les Riata tiendront à honneur de favoriser
+l'évasion de Bou-Hamara ou de lui ménager dans leurs montagnes une inaccessible
+retraite.
+
+
+En ce qui concerne le caractère de l'insurrection de Taza, M. Gaillard fait observer
+qu'à la différence de la rébellion des Zemmour et des Guerrouan, due surtout à des
+circonstances locales, elle apparaît comme une de ces révoltes religieuses dont tous
+les pays du nord de l'Afrique offrent souvent des exemples. Pourtant, malgré cette
+diversité des causes immédiates, la fréquence des troubles qui agitent le centre et le
+nord du pays, la rapidité avec laquelle ils se multiplient jusqu'aux portes de Tanger et
+de Tetouan permettent de leur attribuer une origine commune, et d'y voir autant de
+symptômes du mécontentement général.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+51
+
+
+N° 35.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 7 décembre 1902.
+
+
+Notre consul à Fez me fait connaître que la Mahalla de Moulay-el-Kébir, envoyée
+pour combattre les Riata et l'agitateur de Taza, vient de subir un très sérieux échec.
+Quand cette nouvelle parvint à la Mahalla chérifienne, ajoute M. Gaillard, le
+Makhzen venait de conclure un arrangement avec les Zemmour et les Guerrouan: ces
+derniers, en effet, se sont engagés à restituer la valeur du bétail qu'ils ont enlevé aux
+habitants de Meknez; ils doivent en outre verser au Trésor chérifien une indemnité
+dont le montant reste à débattre. Le Sultan s'était déjà mis en route pour Rabat où il
+désirait arriver le 5 de ce mois. Les événements de Taza ont modifié ses dispositions
+et la Mahalla a repris la direction de Meknez.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 36.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 18 décembre 1902.
+
+
+Il résulte d'un rapport du chef de notre mission militaire que les troupes maro-
+caines de l'oued Inaouen ont subi une nouvelle défaite.
+
+
+A la nouvelle du premier échec le Sultan, revenant sur ses pas, étáit venu camper,
+le 2, à proximité de Meknez et s'y était arrêté, attendant les événements. Il y apprit,
+le 6, que les troupes opérant vers Taza venaient d'être battues de nouveau. Reparti,
+le 7, pour Fez, il arriva, le 8 au soir, devant sa capitale et rentra, le 9, dans son
+palais.
+
+
+M. Gaillard m'écrit, le 11, qu'à l'instigation de Si Feddoul Gharnit et de Ben
+Sliman, les Oulémas, chérifs et notables de Fez sont décidés à demander au Sultan
+de prolonger son séjour. Ces deux Vizirs voudraient que le Sultan, restant à Fez en
+personne, envoyât sa Mahalla sur l'oued Inaouen, sous les ordres du Ministre de la
+Guerre El Menebhi. Ce dernier tâche de décider son maître à partir lui-même à la
+tête de la Mahalla.
+
+
+L'état moral et matériel des troupės est mauvais elles ont manifesté beaucoup
+de répugnance à attaquer les Guerrouan et les Zemmour. L'affaiblissement du senti-
+ment de respect religieux qui s'attachait au Sultan rend la situation assez sérieuse.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+7
+
+
+52
+
+
+N° 37.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 28 décembre 1902.
+
+
+Notre Vice-Consul à Fez vient de me faire part d'une nouvelle défaite subie par
+les troupes chérifiennes.
+
+
+J'ai l'honneur de vous communiquer ci-joint copie du rapport que j'ai reçu de
+M. Gaillard à ce sujet.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+ANNEXE.
+
+
+M. GAILLARD, Vice-Consul de France à Fez,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française au Maroc.
+
+
+Fez, le 24 décembre 1902.
+
+
+Les colonnes expéditionnaires envoyées vers Taza se sont réunies avant-hier lundi, sur un
+ordre du Makhzen, pour prendre l'offensive..
+
+
+Elles razzièrent d'abord sans trop de résistance quelques douars des Tsoul, et, enhardies
+par ce succès, marchèrent de l'avant dans le désordre accoutumé. Mais leurs adversaires
+avaient eu le temps de se rassembler et Bou Hamara arrivant avec des forces considérables
+engagea le combat. En même temps des cavaliers Riata et Hayaïna, tournant les troupes
+chérifiennes, vinrent se placer entre le camp et elles.
+
+
+La déroute fut alors générale; les soldats du Sultan s'enfuirent en désordre, dans la direc-
+tion de Fez, après avoir essuyé des pertes considérables, et le camp tomba au pouvoir du
+prétendant avec les canons, fusils, munitions et la plupart des bêtes de somme.
+
+
+Depuis ce matin, les soldats rentrent à Fez en désordre, toutes les boutiques sont fermées
+et les négociants retirent leurs marchandises des fondaq. Les portes orientales de Fez sont
+fermées et on commence à prendre des dispositions pour un siège.
+
+
+Les partisans de Bou Hamara se sont beaucoup accrus; il a maintenant pour lui les Riata,
+Tsoul, Branès, Meknessa et de nombreux cavaliers des tribus du Cherg et de l'Angad; les
+Hayaïna vont certainement se joindre à eux. Je ne crois pas pourtant que nous ayons très
+prochainement le prétendant à Fèz. Il possède maintenant des munitions et des tentes, mais
+il a encore à négocier l'adhésion de diverses tribus, notamment du Rif, qui paraît disposé à
+l'aider.
+
+
+La population de Fez est relativement calme.
+
+
+GAILLARD.
+
+
+53
+
+
+1903.
+
+
+N° 38.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 4 janvier 1903.
+
+
+Les nouvelles sont plus favorables à la cause du Sultan. Les tribus victorieuses,
+ayant eu, avant tout, le désir de mettre leur butin en sûreté, ont repris avec Bou Hamara
+le chemin de Taza. D'autre part le Sultan, pour détruire l'opinion très répandue que
+le prétendant était Moulay Mohammed, son frère, a fait venir ce Chérif à Fez et a
+fait annoncer qu'il le désignerait pour être son Khalife dans cette ville, quand lui
+même la quitterait.
+
+
+Cet acte hardi a produit une excellente impression sur la population et les troupes.
+Les tribus les plus voisines de Fez s'étant prononcées contre Bou Hamara, consi-
+déré comme un imposteur, un siège de Fez n'est plus à craindre.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 39.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 5 janvier 1903.
+
+
+Les établissements français avec lesquels M. Gautsch était entré en rapports pour le
+placement de l'emprunt marocain ont été très alarmés par la nouvelle de la situation
+critique du Sultan qu'ils croyaient désespérée. Ils hésitaient à poursuivre l'affaire. J'ai
+
+
+54
+
+
+pu les décider à persévérer dans l'exécution du contrat. Vous aurez à faire valoir
+auprès d'Abd-el-Aziz l'amitié sincère et agissante de la France qui s'est affirmée dans
+une heure difficile.
+
+
+N° 40.
+
+
+DELCASSÉ.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 11 janvier 1903.
+
+
+Bou Hamara fait concentrer des approvisionnements de blé, d'orge et de bestiaux
+au Khmis-El-Gour, marché, situé à quatre heures de Fez environ. Dans très peu de
+jours, l'armée du prétendant menacera donc Fez. Sans doute, elle n'en fera pas le
+siège, mais, selon la tactique indigène, elle pressera par des razzias les tribus des
+environs de donner leur adhésion au futur Sultan, afin d'isoler la ville dans un pays
+hostile. Déjà, tous les comestibles ont renchéri dans des proportions si considérables
+que la misère de la classe pauvre devient inquiétante. Les musulmans eux-mêmes
+craignent que des émeutes et des pillages n'aient lieu en ville au premier prétexte.
+Les troupes dont dispose le sultan sont numériquement suffisantes pour tenir
+l'ennemi en échec, mais on ne peut plus faire fond sur elles.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 41.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 16 janvier 1903.
+
+
+Je reçois de notre Vice-Consul à Fez un intéressant rapport sur l'état actuel de
+l'insurrection et sur le chef de ce mouvement.
+
+
+Votre Excellence trouvera ci-joint copie de ces renseignements.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+55
+
+
+ANNEXE.
+
+
+M. GAILLARD, Vice-Consul à Fez,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de France à Tanger.
+
+
+Fez, le 12 janvier 1903.
+
+
+Après avoir fait quelques mouvements dans la plaine des Hayaïna pour appuyer ses négo-
+ciations avec les tribus, Bou Hamara a de nouveau établi son campement près de Bou Aban,
+emplacement de l'ancienne mahalla de Moulay el Kebir, et l'agitateur vient de sceller son
+alliance avec les Riata en épousant la fille d'un des notables de la tribu. Nous allons donc
+avoir quelques jours de tranquillité.
+
+
+D'après les renseignements fournis par des indigènes que j'ai envoyés à Taza, Bou Hamara,
+de son vrai nom Djilali ben Dris Elyousfi Ezzerhouni, est bien originaire des Ouled Yousef
+ainsi que je vous en ai rendu compte en son temps. Il servit quelqus temps dans l'armée
+aux « tolba mohendisin dont le capitaine Thomas, de notre mission militaire, était alors
+chargé. Entrant ensuite comme secrétaire au service de Mouley Omar, khalifa du Sultan
+à Fez, il y connut le Mnebbih, alors simple cavalier « mechaouri » et fut comme lui empri-
+sonné lors de la mort de Moulay El Hassan. Mis en liberté il y a environ trois ans, il voyagea
+en Algérie puis rentra au Maroc, se faisant passer pour chérif et exerçant dans les tribus
+qu'il parcourait la prestidigitation. L'ascendant que son habileté lui donnait sur les indigènes,
+la chance du Mnebbih et l'impopularité du Makhzen lui suggérèrent l'idée d'assurer sa
+fortune par une révolution.
+
+
+Vous savez comment il sut mettre à profit sa ressemblance avec le frère du sultan Moulay
+M'hammed pour créer une confusion dans l'esprit des indigènes des tribus. Le sceau qu'il
+appose sur ses lettres porte le nom de Moulay Mhammed; cependant, comme il est main-
+tenant avéré que ce prince est à Fez, il n'indique pas clairement son but et déclare qu'il est
+simplement « celui qui fait la guerre sainte au nom de Dieu, ce qui est la formułe du
+mahdi. Parfois il laisse entendre qu'une fois à Fez, on désignera le chérif qui mérite le pou-
+voir. Quel que soit le mécontentement des classes dirigeantes, à Fez, la perspective d'avoir
+pour sultan Djilali ben Dris, qui n'est pas chérif, les enchante peu. Les tribus fidèles se ré-
+servent le plus possible et sont disposées à accepter le fait accompli si le Sültan actuel est
+vaincu. Quant aux tribus rebelles elles sont trop compromises pour reculer.
+
+
+Bou Hamara est d'un abord facile, on vante son administration. Il traite ses adversaires
+avec courtoisie et a fait renvoyer au chérií El Mrani ses négresses qui avaient été capturées
+lors de la prise du camp chérifien. Il aurait déclaré à un rakkas qu'il interrogeait sur la si-
+tuation à Fez je donne ce détail sous toute réserve qu'il ne comprenait pas pourquoi
+les chrétiens partaient, il n'était pas partisan de leur ingérence dans les affaires du Makhzen,
+mais son premier soin serait de veiller à leur sécurité. Il est certain pourtant que l'espoir du
+pillage contribue beaucoup à animer l'enthousiasme des Berbères qui le suivent.
+
+
+Moulay Arafa, oncle du Sultan, et Sidi Mohammed el Mrani sont partis pour Tanger,
+afin de se rendre de là, l'un dans le Rif par Melilla, l'autre à Oudjda. Ils doivent agir sur lse
+tribus pour les "déterminer à attaquer Bou Hamara, mais courent certainement au-devant
+d'un insuccès. Le Rif est acquis à l'agitateur et le Charget l'Angad, qui ne fournissent jamais
+
+
+56
+
+
+de mahalla, ne marcheront pas. Les envoyés du Sultan devront, je crois, se tenir pour
+satisfaits s'ils peuvent seulement décider les tributs de l'Est à rester neutres.
+
+
+En résumé, on se tient des deux côtés sur la défensive, les troupes démoralisées du
+Sultan ne résisteraient pas à une attaque, mais le défaut de cohésion et surtout d'organi-
+sation, la difficulté des ravitaillements empêchent le prétendant de marcher de l'avant. Les
+tribus montagnardes qui le suivent, habiles surtout aux surprises, semblent préférer attendre
+l'ennemi sur leur territoire et craignent les combats en plaine.
+
+
+Ce n'est qu'en négociant et en fomentant des trahisons que le Makhzen pourra localiser
+la révolte et en venir à bout.
+
+
+Il y a lieu de remarquer d'ailleurs que la révolte actuelle et l'hostilité générale contre le
+Makhzen ne trouvent pas leur cause dans le fanatisme. La haine de l'étranger prendra peut-
+être une forme plus tragique dans la crise prochaine, mais ce n'est pas elle non plus qui a
+occasionné le mouvement auquel nous assistons et que certains journaux d'Europe ont
+comparé très faussement à celui des Boxers. La situation est très simple: le peuple trouve
+le Gouvernement pire que de coutume et en rend responsable le Sultan et ses conseillers.
+
+
+GAILLARD.
+
+
+N° 42.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 janvier 1903.
+
+
+Par courrier spécial, envoyé le 21, M. Gaillard m'écrit que Bou Hamara vient de
+prendre brusquement l'offensive: après une marche très rapide il s'est établi entre
+Aïn-El-Tin et Khemis-El-Gour, à quatre heures et demie de Fez. On rapporte à
+M. Gaillard que les insurgés sont fort nombreux. Notre agent ajoute: «Tout le
+monde est persuadé ici que si Bou Hamara avance brusquement, ce qui semble être
+sa tactique, les contingents des tribus déserteront presque tous l'armée du Sultan ».
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 43.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 février 1903.
+
+
+Je reçois de M. Gaillard les renseignements suivants sur un succès remporté, le
+29, contre l'insurrection par les troupes chérifiennes,
+
+
+57
+
+
+Bou Hamara se rapprochant de Fez, s'était établi depuis deux jours au Tlata de
+Nekhila, sur l'oued Inaouen. L'inquiétude régnait de nouveau en ville. Les troupes
+chérifiennes, s'étant rendu compte de la faiblesse des effectifs de l'agitateur, se dispo-
+sèrent à attaquer son camp. Le 29 au matin, après un combat assez vif, Bou Hamara
+s'enfuit avec ses cavaliers vers la montagne des Riata. Les fantassins se dispersèrent.
+Le matériel conquis par lui, le 24 décembre, a été repris par les soldats du Makhzen.
+Bou Hamara a donc subi un revers important, mais il n'a pas été pris.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 44.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 9 février 1903.
+
+
+Les rapports récemment adressés par l'autorité militaire signalent, dans la région
+de la Zousfana, un assez grand nombre de coups de main, dirigés contre nous par
+des gens de l'Ouest, et j'ai l'honneur de vous les énumérer sommairement ci-dessous:
+Le 25 décembre, une petite caravane de gens de Kenadsa allant à Taghit a été
+attaquée et dépouillée à Menouarar (N.-O. de Taghit) par un djich sorti de Béchar.
+Le lendemain, cinq chameaux des mokhaznis de Taghit ont été enlevés à El Morra
+par des voleurs dont les traces ont été suivies jusqu'aux environs de Béchar.
+
+
+Le 10 janvier, un parti de Beni Guill organisé pour tomber sur les Doui Menia
+ralliés était annoncé, et nos indigènes attaqués à coups de fusils perdaient deux
+hommes.
+
+
+Dans la nuit du 10 au 11, un convoi libre de Doui Menia ralliés a été enlevé
+entre Moungar et Zafrani, par un djich de 25 à 30 Oulad Djerir et Doui Menia; ces
+derniers ont relâché les conducteurs, après avoir fait filer leur butin par le Teniet
+Lebbah (Djebel Béchar).
+
+
+Dans la matinée du 14 janvier, à El Aouinet (10 kilomètres de Taghit), quatre
+indigènes de Zaouia Foukania ont été attaqués et dévalisés par sept Ouled Djerir; ce
+fait a eu lieu à 2 ou 3 kilomètres du convoi militaire, qui passait à ce moment.
+
+
+Dans l'après-midi du 18 janvier, un djich d'une quarantaine de Doui Menia non
+soumis et d'Oulad Djerir a enlevé, à Moungar, un troupeau appartenant à des ralliés
+et une partie du troupeau des puisatiers militaires français. En poursuivant les voleurs
+qui se retiraient vers le Djebel Béchar, un légionnaire a eu la main traversée par une
+balle.
+
+
+Enfin le 26, dans l'après-midi, 15 chameaux au pâturage ont été volés au Sud-Est
+de Nakhelat bel Brahmi, tandis que 4 chameaux d'un convoi stationné à Ksar El
+Azoudj étaient enlevés par un djich de six piétons sortis du Djebel Mezarif.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+8
+
+
+58
+
+
+Ces incidents soulignent l'aggravation prévue de la situation dans la Zousfána;
+cette aggravation pourrait sembler en partie imputable aux événements dont le Maroc
+est actuellement le théâtre, et qui sont exploités par certaines personnalités
+remuantes; mais leur fréquence même et la hardiesse dont font preuve leurs
+auteurs montrent que ces faits ne sont que les manifestations inévitables de l'état
+d'anarchie où se trouve cette région, qui constitue aujourd'hui un véritable Bled Siba
+français.
+
+
+La notification du Protocole aux tribus sur lesquelles l'action de notre police était
+reconnue avait fait croire à ces dernières que nous passerions des paroles aux actes,
+et que nous réaliserions l'exécution de ces dispositions; notre longanimité a produit
+un effet tout opposé à celui que nous en attendions, et a créé dans la région entre
+la Zousfana et le Guir une situation dont les dangers vont sans cesse croissants et
+dont le point de départ est caractérisé assez nettement par les paroles d'un qaïd des
+Doui Menia non soumis qui, venu commercer à Taghit, répondait aux ouvertures
+du chef d'annexe, relatives à sa soumission: «Pourquoi nous soumettrions-nous,.
+vous n'êtes pas venus chez nous?».
+
+
+Je crois devoir attirer l'attention de Votre Excellence sur la situation que ces mul-
+tiples incidents créent aux officiers chargés du maintien de l'ordre dans cette région:
+ces derniers se trouvent en effet placés entre le légitime souci d'assurer la protection
+des indigènes, de garder une attitude digne des intérêts dont ils ont la charge, et,
+d'autre part, la nécessité d'observer les instructions que je leur ai renouvelées en
+vue d'éviter toute action ou tout conflit en dehors des vües du Gouvernement.
+
+
+Jusqu'à présent il m'a été possible, à force de sacrifices sans cesse renouvelés
+depuis trois ans, de maintenir cette ligne de conduite; mais je dois faire connaître à
+Votre Excellence que la situation devient chaque jour plus difficile, les récents évé-
+nements en sont la preuve; quelques traces de découragement se glissent parmi le
+personnel, tandis que l'attitude à notre égard des Doui Menia ralliés semble moins
+franche et celle des autres plus agressive, au point de faire craindre pour l'avenir des
+incidents sérieux.
+
+
+Le soin attentif que j'ai mis jusqu'à présent à me conformer à vos ordres et à les
+faire observer par tous me permet de vous rendre compte aujourd'hui, sans que
+cette affirmation puisse paraître excessive, que je crois dangereux pour la tranquillité
+de ces régions et pour notre politique d'amitié avec le Maroc de fermer les yeux
+plus longtemps sur les multiples inconvénients et surtout les dangers d'une prolonga-
+tion des errements actuels.
+
+
+A la suite des opérations de la Commission franco-marocaine (ier trimestre 1902),
+le Gouvernement chérifien nous a reconnu toute liberté d'action au sujet des Doui
+Menia et des Ouled Djerir et, à l'appui de cette déclaration, chaque fois que l'Amel
+de Figuig est saisi de demandes ou de réclamations de la part de ces tribus, il ne
+manque pas de déclarer qu'il n'a pas à s'en occuper et que ces questions ne le regar-
+dent pas, les Doui Menia étant Français du seul fait de leur résidence.
+
+
+Enfin, je ne reviendrai pas sur les conditions particulièrement désavantageuses que
+nous impose la configuration de la vallée de la Zousfana: ce long couloir, dans lequel
+sont nos postes, nos indigènes soumis, par lequel passent nos courriers, nos cara-
+vanes, est bordé de montagnes assez difficiles, mais percées de nombreux passages;
+
+
+59
+
+
+grâce à ces abris et à ces facilités combinés, les coupeurs de route ont beau jeu; notre
+poursuite, forcément restreinte; arrive trop tard, et nous ne pouvons jamais être pré-
+venus, puisque nous nous interdisons d'aller voir ce qui se passe de l'autre côté de la
+muraille qui masque nos vues. Nous sommes réduits, dans ces conditions, à occuper
+tous les points de la vallée avec des forces nombreuses empruntées aux troupes de la
+Guerre, et qui ont le double inconvénient de coûter fort cher et de trop manifester
+notre présence.
+
+
+L'expérience poursuivie, depuis bientôt deux ans, me semble concluante, et je
+me crois autorisé à déclarer à Votre Excellence que, selon mon avis, la solution de la
+sécurité de la Zousfana ne se trouve que dans une plus grande liberté accordée exclu-
+sivement à nos makhzens indigènes de patrouiller sur le versant Quest du Béchar.
+Cela permettrait de réduire les postes dans la Zousfana, qui multiplient nos points
+de vulnérabilité et nous obligeraient à consacrer de nouvelles sommes à une région
+qui en a déjà trop exigé.
+
+
+Je crois devoir me résumer en disant que la situation exige que nous fassions un
+légitime exercice des droits que nous ont conférés l'accord du 20 juillet 1901 et
+son application.
+
+
+N° 45.
+
+
+RÉVOIL.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 12 février 1903.
+
+
+Votre Excellence a bien voulu me confirmer la ratification, par le Gouvernement
+chérifien, des accords complémentaires au protocole du 20 juillet 1901; aussi, je
+me suis préoccupé de la réalisation des clauses de cet arrangement qui réclamaient
+une exécution plus rapide et de la reprise des travaux de la Commission franco-
+marocaine.
+
+
+En même temps, Si Mohammed el Guebbas me faisait connaître qu'il attachait
+une réelle importance à voir régler, le plus tôt possible, la question des troupes
+marocaines de Figuig et d'Oudjda, et celle de leur instruction: il désirerait vive-
+ment voir arriver bientôt dans le premier de ces postes les soldats actuellement
+rassemblés à Larache. Comme, de notre côté, nous n'avons aucun intérêt à
+retarder l'application des accords complémentaires, j'ai prié Guebbas de m'indiquer
+ses intentions au sujet de nos instructeurs militaires, et j'ai l'honneur d'exposer
+ci-dessous à Votre Excellence le résumé des entretiens du Fequih sur cette question.
+Guebbas désire que l'action de nos cadres se limite, au début, au poste de
+Figuig, de manière à ne régler l'installation à Oudjda que lorsque la situation à
+
+
+8.
+
+
+60
+
+
+Figuig sera bien assise cette préoccupation provient évidemment de l'idée de ren-
+forcer le plus tôt possible l'autorité chérifienne au point où elle est le plus mal
+établie.
+
+
+Ensuite, dès que le service fonctionnera normalement, Guebbas est tout disposé à
+faciliter la création de postes annexes, également tenus par des troupes ayant à leur
+tête un instructeur français et destinés à étendre l'autorité des Amels, à assurer la
+sécurité et à faciliter les levées de recrues ou d'impôts.
+
+
+Envisagé de cette façon, le rôle de cette fraction de notre mission militaire paraît
+entièrement conforme au programme d'entente avec le Makhzen et de développe-
+ment des relations et du commerce, qui a été tracé par le Gouvernement.
+
+
+Guebbas tient essentiellement à l'organisation, à côté de la mission d'instruction,
+d'un service médical qui serait dirigé par un médecin militaire français, chargé de
+donner des soins, non seulement aux réguliers marocains, mais encore aux fonc-
+tionnaires chérifiens et aux populations de l'Amalat; une petite infirmerie serait
+ainsi créée à Oudjda et à Figuig (pour ce dernier point, et afin de ne pas augmenter
+les cadres de la mission, le service serait assuré, jusqu'à nouvel ordre, par le
+médecin de Beni Ounif).
+
+
+Je crois inutile d'insister sur les services considérables que peut rendre à notre
+influence dans ces régions un service médical bien organisé et largement appro-
+visionné.
+
+
+N° 46.
+
+
+RÉVOIL.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 20 février 1903.
+
+
+Un télégramme reçu d'Aïn-Sefra annonce qu'une forte troupe de Beraber a enlevé
+jeūdi dernier le douar d'Oulad-Djerra (Ghenanema), campé sur la Hammada; ils ont
+emmené les hommes et les chameaux et ont tué cinq de leurs prisonniers à Foum-el-
+Ousen, à 50 kilomètres au sud-ouest de Beni-Abbès. Je ne puis qu'exprimer la
+crainte d'événements graves, si nous maintenons une attitude passive. Je vous de-
+mande d'exercer librement le droit de suite qui nous est reconnu et de prévoir, quand
+cela sera indispensable, le séjour temporaire de nos goumiers à Tabelbalet.
+
+
+RÉVOIL.
+
+
+61
+
+
+N° 47.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Suite à mon télégramme du 20 février.
+
+
+Alger, le 22 février 1903.
+
+
+Une communication télégraphique d'Oran m'informe que, d'après des rensei-
+gnements fournis par les cavaliers courriers, un convoi libre comprenant une
+centaine d'indigènes des Amour, se rendant à Beni-Abbès, aurait été attaqué jeudi
+matin par une troupe nombreuse de gens de l'Ouest: quatre indigènes Amour ont été
+tués, six blessés, cent cinquante chameaux enlevés. La harka aurait fait filer ses prises
+par Teniet Sebbah (Bechar). Tant que nous nous interdisons volontairement l'accès
+de la vallée de l'oued Bou-Dib et l'exercice des droits de police que le protocole du
+20 juillet nous y confère, nous restons exposés à ces razzias qui sont aussi fâcheuses
+pour notre prestige que pour les intérêts de nos sujets indigènes.
+
+
+RÉVOIL.
+
+
+N° 48.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 3 mars 1903.
+
+
+J'ai l'honneur de porter à la connaissance de Votre Excellence que, d'après des ren-
+seignements recueillis à Figuig et transmis par le chef de l'Annexe de Djenan-edar,
+Bou Amama a levé ses campements de Hattebett Khelil, se dirigeant sur Tanezzara.
+Il aurait envoyé des émissaires aux Doui Menia et Oulad Djerir non ralliés, ainsi
+qu'à toutes les tribus des Beraber, pour leur faire connaître son déplacement.
+
+
+Son fils Tayeb se serait rendu avec quarante cavaliers chez Si Allal pour tenter
+encore une démarche auprès des chefs des Zouaoua Gheraba, en vue de les décider à
+se joindre à lui.
+
+
+Tanezzara se trouve à 75 kilomètres seulement de Figuig, dans la direction d'Aïn
+Chair. Ce n'est sans doute pas sans raisons que l'agitateur se rapproche ainsi de nos
+établissements. Les menées du Prétendant de Taza ne sont probablement pas étran-
+
+
+62
+
+
+gères à ce mouvement et nous devons prévoir une recrudescence de banditisme dans
+la région de la Zousfana.
+
+
+D'ailleurs, les dernières nouvelles "qui me sont parvenues de nos postes du Sud-
+Ouest rapportent que de nombreux méfaits ont été commis de ce côté et représentent
+la situation sous un jour assez sombre.
+
+
+Le Chef de l'Annexe de Taghit, en particulier, signale des vols de plus en plus
+fréquents, commis par des gens de l'Ouest sur le territoire de sa circonscription. Les
+patrouilles envoyées à la poursuite des malfaiteurs sont généralement impuissantes,
+grâce à la proximité des montagnes et des Qçour de Bechar et d'Ouakda, où les bandits
+se réfugient avec leur butin.
+
+
+Le même officier ajoute que, si cette situation se prolonge, il prévoit le moment
+où il ne pourra même plus répondre de la soumission des Doui Menia ralliés, qui ne
+trouvent pas chez nous la protection et la sécurité que nous devions leur assurer.
+
+
+Dans la Saoura, les conséquences de cet état de choses se font également sentir.
+C'est ainsi que dernièrement plusieurs caravanes du Tafilelt, qui venaient aux Beni
+Abbès, auraient été arrêtées sur le Guir par des gens armés, partisans de Bou Amama,
+qui les auraient obligées à rebrousser chemin.
+
+
+Il est incontestable que Bou Amama profite des difficultés suscitées au Gouverne-
+ment chérifien par le Prétendant de Taza pour fomenter des troubles. Il annoncerait
+même ouvertement la chute du Sultan Moulay Abd-el-Aziz et ce bruit rencontre une
+facile créance chez nos voisins. Tous les renseignements qui me parviennent en effet,
+aussi bien de la région d'Oudjda que de celle de Figuig, montrent que les populations
+avec lesquelles nous sommes en contact croient unanimement que c'est le Sultan qui
+a été battu par le Prétendant dans les dernières rencontres.
+
+
+RÉVOIL.
+
+
+N° 49.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 5 mars 1903.
+
+
+Dans un nouveau combat, El Menebhi, venu au secours de son avant-garde, a
+dispersé les partisans du prétendant. Ce dernier s'est retiré dans le djebel Sen-
+hadja.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+63
+
+
+N° 50.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 7 mars 1905.
+
+
+Le Sultan, informé par mes soins du prochain voyage de M. le Président de la
+République en Algérie, a décidé de faire saluer M. Loubet, à son arrivée à Alger,
+par un envoyé spécial. Il a désigné pour cette mission Si Bennasar Ghannam, qui,
+avec Si Mohammed Guebbas, a fait partie de l'Ambassade de Ben Sliman en 1901.
+A la demande de l'envoyé chérifien, je me propose de faire accompagner l'Ambas-
+sade par M. Fumey, premier interprète de ma Légation.
+
+
+N° 51.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 9 mars 1903.
+
+
+Le Président de la République recevra volontiers l'envoyé du Sultan, lors de son
+séjour en Algérie.
+
+
+N° 52.
+
+
+DELCASSÉ.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 24 mars 1903.
+
+
+L'Amel de Figuig présente la situation de l'oasis comme de plus en plus troublée,
+par suite des intrigues de Bou Amama qu'encourage le Prétendant et, à la demande
+
+
+64
+
+
+de Guebbas, l'Administration de l'Algérie réclame d'urgence l'envoi des 310 hommes
+réunis à Larache pour tenir garnison à Figuig.
+
+
+J'attache beaucoup de prix à ce que cette affaire et celle de l'organisation de la
+nouvelle section de notre mission militaire soient réglées le plus tôt qu'il sera possible.
+
+
+N° 53.
+
+
+DELCASSÉ,
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 28 mars 1903.
+
+
+Le croiseur Du Chayla sera le 10 avril à Tanger et transportera la mission maro-
+caine à Alger, où le Président de la République arrivera le 15.
+
+
+DELCASSÉ.
+
+
+N° 54.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 2 avril 1903.
+
+
+De nouveaux renseignements reçus du corps d'armée indiquent qu'un convoi du
+génie a été attaqué à moitié route entre Qcar el Azoudj et Fendi par un djich de
+plus d'une centaine d'hommes. Les deux postes aussitôt prévenus commencèrent
+vigoureusement la poursuite. Nous avons malheureusement à déplorer les pertes
+suivantes: huit tués et six blessés dont le lieutenant Ruffier, du 2º étranger, atteint
+assez légèrement; deux légionnaires disparus, plusieurs chevaux tués ou blessés. Les
+pertes du djich n'ont pu encore ètre précisées; cinq chameaux ont été repris sur
+onze enlevés. Un rapport détaillé est attendu.
+
+
+L'endroit où s'est produite cette attaque montre une fois de plus le danger per-
+manent que constitue pour nos communications la région Moumen-Antar. Ce massif
+s'avance en pointe dans la vallée de la Zousfana et constitue un véritable balcon
+duquel les djichs surveillent tous nos mouvements et fondent sur leur objectif au
+
+
+☐
+☐65 
+
+
+moment opportun; leur coup terminé, ils regagnent la montagne où nous nous
+sommes interdit de les poursuivre. Cette situation durera tant que nous ne contour-
+nerons pas ce massif et ne le couperons pas de ses communications avec l'Ouest. Les
+butins des derniers coups de main ayant tous été dirigés sur Bechar et Ouakda une
+police active et très mobile dans l'oued Bou-Dib pourra seule faire cesser cet état de
+choses.
+
+
+RÉVOIL.
+
+
+N° 55.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 avril 1903.
+
+
+Si Mohammed Torrès a dit hier au premier Drogman de ma légation que Moulay
+el Mrani, se voyant complètement débordé, avait télégraphié de Melilla, pour
+demander qu'on lui envoyât toute la garnison de Tanger. Le délégué du Sultan a
+répondu qu'il ne se croyait pas autorisé à démunir Tanger de sa garnison et que,
+dans l'état troublé du pays, il pouvait moins que jamais y penser.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 56.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 avril 1903.
+
+
+Mon Collègue britannique vient de me confirmer que les banques anglaises Cassel et
+Stern ont consenti au Sultan une avance de même somme que l'emprunt conclu par
+la Société des établissements Gautsch et aux mêmes conditions.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+DOGUMENTS DIPLOMATIQUES. Maroc.
+
+
+9
+
+
+66
+
+
+N° 57.
+
+
+M. RÉVOIL, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, le 6 avril 1903.
+
+
+J'ai l'honneur de vous faire parvenir à toutes fins utiles copie du télégramme que
+M. le Président du Conseil m'a autorisé à adresser au Général commandant le 19º corps
+d'armée.
+
+
+RÉVOIL.
+
+
+Le Gouverneur général de l'Algérie,
+
+
+à M. le Commandant du 19º corps d'armée à Alger.
+
+
+Vous pouvez envoyer sans délai au général Cauchemez des instructions qui autorisent les
+postes qui seraient menacés par des incursions de tribus marocaines ou dissidentes à repousser
+et à poursuivre ces incursions dans le rayon nécessaire à leur défense et à leur protection,
+c'est-à-dire que le Béchar pourrait être contourné et le massif du Moumen fouillé et parcouru
+à condition que ces opérations conservent un caractère exclusif de police, et soient exécutées
+par les effectifs empruntés aux postes, sans que la sécurité du poste soit compromise et sans
+que des dépenses spéciales soient engagées.
+
+
+Je ne saurais trop appeler votre attention sur l'intérêt majeur qu'il y a à conduire ces opé-
+rations avec le soin de ne pas provoquer une levée en masse des tribus du Bled Siba, rendue
+plus à craindre par l'agitation marocaine; il ne faut à aucun prix, surtout dans la situation
+actuelle, paraître engager une question marocaine par le Sud-Ouest.
+
+
+RÉVOIL.
+
+
+N° 58.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères
+
+
+Tanger, le 7 avril 1903.
+
+
+Le Ministre d'Espagne m'annonce, d'après un télégramme de Melilla, que les
+Guelaya ont attaqué hier et cerné la kasbah marocaine de Djenada, que Mouley el
+Mrani s'est réfugié à Melilla et que les troupes espagnoles sont sorties de la ville pour
+garder les limites du préside.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+67
+
+
+N° 59.
+
+
+M. VARNIER, Gouverneur général intérimaire de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 14 avril 1903.
+
+
+Un télégramme reçu d'Oran me rend compte que Moulay-Arafa, oncle du Sultan,
+demande l'autorisation de se réfugier sur notre territoire avec sa suite: 200 hommes,
+60 chevaux, 40 mulets, de préférence aux environs de Nemours, où il pourrait
+s'embarquer pour Tanger. De son côté, l'Amel d'Oudjda demande à s'installer à Mar-
+nia pour y attendre les ordres du Sultan. En transmettant ces indications, le Préfet
+ajoute qu'il a accordé les autorisations sollicitées en imposant seulement le désarme-
+ment à la frontière. En outre, cinquante spahis et deux compagnies de tirailleurs sont
+mis à la disposition du commandant supérieur de Marnia pour assurer le respect de
+notre territoire.
+
+
+N° 60.
+
+
+VARNIER.
+
+
+M. DELGASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Alger, le 16 avril 1903.
+
+
+Le Président de la République a reçu hier l'Ambassadeur du Sultan, ainsi que le
+Chef de la Délégation marocaine en Algérie..
+
+
+Du discours adressé par Si Mohammed Guebbas à M. Loubet, je crois utile
+d'extraire, pour vous le communiquer, le passage suivant qui précise la signification
+de la mission permanente attribuée au délégué du Maghzen:
+
+
+<< J'ai le ferme espoir», a dit Si Mohammed Guebbas, «que grâce au haut intérèt
+que vous lui témoignez et à la sollicitude des Représentants autorisés de votre Gou-
+
+
+9-
+
+
+68
+
+
+vernement, l'entreprise que je suis venu accomplir dans votre grande Colonie ne
+tardera pas à produire les conséquences favorables que nous en attendons.
+
+
+<< Augmenter la prospérité des deux pays voisins, développer et améliorer leurs
+relations, étendre leur commerce par une pénétration réciproque et établir définiti-
+vement la paix et la sécurité dans la région frontière, tel est le but que nous poursui-
+vons et qui ne paraît pas impossible à atteindre entre deux contrées unies naturelle-
+ment par leur position géographique et qui semblent faites pour s'entr'aider et.
+s'accorder.
+
+
+ En se réalisant, ces conditions fortifieront les liens de l'amitié qui existe déjà
+entre nos deux Gouvernements et qui, je n'en doute pas, se raflermira de plus en
+plus, par l'action bienfaisante de Votre Haute Excellence et celle du Sultan, mon
+maître et bienfaiteur, Moulay Abd el Aziz. >>>
+
+
+DELCASSÉ.
+
+
+N° 61.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 avril 1903.
+
+
+Tandis que Moulay Arafa et l'Amel d'Oudjda demandent asile sur notre territoire,
+les 400 défenseurs de la Kasbah Djenada se réfugiaient à Melilla où Moulay el
+Mrani, leur chef, les avait précédés. L'unique navire du Makhzen est allé les prendre
+à Melilla pour les transporter à Larache. Les djebala, le Riff et tout le Nord-Est
+marocain paraissent gagnés à la cause de Bou Hamara. L'attitude des tribus monta-
+gnardes voisines, de Tetouan, à Arzila, inquiète ces villes. Des désordres ont eu
+lieu à Mequinez. La situation du Makhzen s'est donc aggravée.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+69
+
+
+N° 62.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 21 avril 1903.
+
+
+Après les tribus du Riff et de tout le nord-est, plus ou moins insoumises en temps
+ordinaire, les principales tribus de la région comprise entre Tanger, Tétouan et
+Ceuta se dérobent aux autorités constituées et se prononcent pour le Prétendant.
+
+
+D'après une communication de notre agent à Tétouan, les Beni Messaouer et les
+Andjera, dans une réunion tenue le 18, ont proclamé Bou Hamara sous le nom de
+Moulay Mohammed. Sur leur sommation, le gouverneur de Tétouan a supprimé les
+taxes perçues aux portes de la ville. Malgré ces concessions, les habitants craignent
+d'ètre attaqués. Quelques familles se disposeraient à s'embarquer. Autour de Tanger,
+il ne s'est encore produit que quelques cas de brigandage, mais ils sont encouragés
+par une évidente impuissance du Makhzen. Les côtes de l'océan Atlantique et tout le
+Sud-Ouest paraissent devoir rester dans l'obéissance.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 63.
+
+
+M. VARNIER, Gouverneur général intérimaire de l'Algérie,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 26 avrıl 1903.
+
+
+Des télégrammes d'Aïn Sefra annoncent la réunion sur l'oued Talzaza, à 140 kilo-
+mètres au nord d'Igli, d'une harka de Beraber Aït-Khebbach de quatre cents hommes.
+Un autre groupe de mille Beraber se serait réuni, le 17 avril, à la première harka
+qui aurait marché sur le Touat.
+
+
+VARNIER.
+
+
+70
+
+
+N° 64.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 26 avril 1903.
+
+
+Les nouvelles désastreuses reçues, d'une part, de Moulay El Mrani, d'autre part,
+de Moulay Arafa et de l'Amel d'Oudjda, ont beaucoup troublé le Makhzen qui voit
+avec une vive inquiétude l'insurrection entrer en contact avec les possessions fran-
+çaises et espagnoles.
+
+
+J'apprends qu'après plusieurs jours de délibération le Makhzen, ne doutant pas
+de notre assentiment, a décidé d'envoyer immédiatement en Algérie une mission
+spéciale, composée d'un chambellan du Sultan, Si Ahmed Rekina, de Si Abderrahman
+ben Abdessadoq, gouverneur de Fez, et du caïd El Habbassi.
+
+
+Cette mission débarquerait à Nemours ou Oran, gagnerait aussitôt Marnia, s'y
+installerait pour étudier la situation, tâcherait de négocier avec les tribus et de les
+ramener à l'obéissance.
+
+
+Pour faciliter les relations entre les autorités algériennes et ces délégués spéciaux,
+Si Mohammed Guebbas serait invité temporairement à se joindre à eux à Marnia.
+
+
+Les délégués, qui ont dû quitter Fez le 23, doivent se présenter à moi, porteurs
+d'une lettre de Si Abdelkerim, exposant l'objet de leur mission, faisant appel à la
+bienveillance du Gouvernement de la République et invoquant l'article 1º de l'accord
+du 20 avril 1902, par lequel le Gouvernement français s'est engagé à prêter, en cas
+de besoin, son assistance au Gouvernement chérifien, pour l'aider à consolider son
+autorité sur les régions frontières. La pensée du Makhzen paraît être, pour le mo-
+ment, de placer sur l'extrême frontière une délégation formée de personnages assez
+éminents pour représenter utilement aux yeux des tribus marocaines orientales l'au-
+torité souveraine.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+71
+
+
+N° 65.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 1er mai 1903.
+
+
+Je vous autorise à faire savoir au Gouvernement chérifien que nous acceptons de
+l'assister dans son œuvre pacificatrice en accueillant la délégation qu'il se propose
+d'envoyer sur notre territoire.
+
+
+N° 66.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+DELCASSÉ.
+
+
+Alger, le 7 mai 1903.
+
+
+Je suis informé que le Pacha de Saïdia, qaçba marocaine située à embouchure
+du Kiss, vient d'arriver à Nedroma avec sa famille et accompagné de neuf soldats
+réguliers.
+
+
+N° 67.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+JONNART.
+
+
+Alger, le 7 mai 1903.
+
+
+Un rapport qui vient de me parvenir relate les circonstances dans lesquelles le
+légionnaire Mielké, de garde à la redoute Duveyrier, a été assassiné, dans la nuit du
+
+
+☐ ☐72 
+
+
+25 au 26 avril, par un coup de feu tiré à bout portant. Son fusil a été enlevé. Ce
+nouveau crime est imputé à des indigènes réfugiés à Figuig, car une patrouille en-
+voyée dès le lever du soleil a relevé les traces fraîches de deux piétons se dirigeant
+vers Figuig. Les autorités locales réclament que des mesures de répression soient
+appliquées au Qçar Zenaga, centre d'opérations de tous les bandits opérant contre
+nous, dans lequel sont actuellement soignés les blessés de l'affaire du 29 mars à
+Qçar-el-Azoudj.
+
+
+N° 68.
+
+
+JONNART.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSE, Ministre des Affaires étrangères.
+
+
+Alger, le 8 mai 1903.
+
+
+Des renseignements apportés à Taghit par un Doui Menia relâché et transmis par
+exprès à Djenan ed Dar annoncent que le convoi libre, portant les vivres à destina-
+tion de la Zousfana et de la Saoura, a été presque totalement enlevé par une harka
+très nombreuse à Hassi Amara, au nord de Zafrani, sur la rive gauche de la Zous-
+fana, le 5 mai au matin.
+
+
+Les vivres destinés à Qçar-ei-Azoudj, Djedida et Hassi el Mir avaient été seuls
+dirigés par la Zousfana et sont arrivés à destination, protégés par des groupes éche-
+tonnés le long de la vallée, tandis que la plus grande partie du convoi, de son propre
+mouvement, prenait par l'Erg. De notre côté, 25 morts et 15 blessés.
+
+
+La harka comptait environ un millier de cavaliers et fantassins; elle a couché,
+dans la nuit du 5 au 6, entre El Morra et Moungar, allumant ses feux, et sûre, en
+raison de son effectif, de ne pas ètre inquiétée.
+
+
+Le lieutenant de Ganay, envoyé de Taghit, aussitôt la nouvelle connue, avec un
+peloton de Mokhaznis, a trouvé, le 6 au matin, la harka entière réunie à Mezerelt,
+avec les chameaux enlevés. Après un court combat, il dut se retirer sans pertes, pour
+éviter d'ètre tourné. Les autorités expriment certaines inquiétudes, car la harka
+aurait annoncé l'intention d'enlever, au retour, nos petits postes de la Zousfana. En
+outre, les Doui Menia ralliés qui formaient le convoi enlevé et ont subi des pertes
+songeraient à faire défection, disant que nous n'avons rien fait pour dissiper et
+repousser la harka.
+
+
+JONNART.
+
+
+73
+
+
+N° 69.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 13 mai 1903.
+
+
+J'ai l'honneur de vous communiquer ci-après les dernières nouvelles qui me sont
+parvenues sur les événements qui se déroulent au Maroc, ainsi que sur la situation
+dans l'Ouest algérien.
+
+
+Le Prétendant s'est avancé jusqu'à Zeboudja, vers la source de l'oued Kert. Il a
+reçu la soumission des Guélaïa qui l'ont ravitaillé et qui se sont emparés pour son
+compte, le 13 avril, de la casba de Djenada, devant laquelle ils auraient subi des
+pertes assez sérieuses. Les défenseurs, environ 350 fantassins commandés par le
+caïd El Bachir ben Sennah, se seraient réfugiés à Melilla. Ils n'auraient perdu que
+5 hommes.
+
+
+Le Prétendant aurait demandé aux autorités espagnoles de lui livrer El Bachir
+ben Sennah, ainsi que le Chérif Si Mohammed el Merani et l'amin du Sultan réfugiés
+à Melilla: mais le Gouverneur de cette place lui aurait répondu par une fin de non-
+récevoir, en déclarant qu'il enverrait ces personnes à Tanger.
+
+
+Le Prétendant doit se rendre chez les Beni Snassen, dont quelques tribus lui
+auraient déjà adressé leur soumission. Le qaid des Beni Ourimèche, El Hadj
+Mohammed ben Bachir, qui avait réussi à asseoir son autorité parmiles Beni Snassen
+et qui soutenait dans leur pays la cause du Sultan, a éprouvé un échec de la part des
+Beni Bou Zeggou, des Sedjaâ et des Beni Mahiou, qui se sont ralliés au Prétendant
+et se sont installés sur le territoire des Beni Ourimèche, dont ils vident les silos.
+El Hadj Mohammed ben Bachir a dû se réfugier d'abord, avec le qaïd de Saïdia et
+l'amel d'Oudjda, qui lui prêtaient leur appui, dans la casba de Saïdia. L'amel a pu
+regagner Oudjda, dans la nuit du 6 au 7 avril, en empruntant la route qui passe par
+le territoire algérien; quant au qaïd des Beni Ourimèche, ayant appris que le Préten-
+dant avait mis sa tête à prix, il s'est réfugié sur notre territoire, le 10 avril, avec ses
+parents et ses amis, au nombre de 200 environ. Ces indigènes ont été désarmés par
+les soins des autorités de Marnia.
+
+
+Le Prétendant a écrit au qaïd et aux notables d'Oudjda d'arrêter Moulay Arafa et
+de le lui envoyer. Il leur prescrit également de remettre en liberté un ancien qaïd
+des Guelaïa, Hammou ben El Hadi, qui est détenu dans cette ville depuis plusieurs
+années par ordre du Sultan.
+
+
+Moulay Arafa, dont la mission a complètement échoué, s'est réfugié à son tour
+sur notre territoire. Il est arrivé à Marnia, le 13 avril, avec l'amel d'Oudjda et une
+suite de 200 personnes.
+
+
+Avant ces événements, l'amel avait annoncé qu'il viendrait à Tlemcen pour saluer
+le Président de la République. Ensuite, lorsqu'il apprit que le Prétendant assiégeait la
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+10
+
+
+74
+
+
+casba de Djenada et son khalifa celle d'Aïoun Sidi Mellouk, il crut de son devoir de
+rester à son poste et exprima toutes ses excuses de ne pouvoir aller se présenter au
+Chef de l'État français. Cependant, après avoir été contraint de chercher un refuge
+sur notre territoire, et conformément aux ordres reçus de son Gouvernement, il se
+rendit à Tlemcen et fut présenté au Président de la République, le 19 avril...
+
+
+Les notables d'Oudjda rejoignirent l'amel à Tlemcen et firent une démarche auprès
+de lui pour le ramener avec eux dans cette ville. Effectivement, l'amel rentra à
+Oudjda, le 21 avril. Les gens d'Oudjda auraient décidé que, si le Prétendant se pré-
+sentait, ils inviteraient l'amel à demander au Commandant supérieur de Marnia des
+secours sous la protection desquels ils se placeraient en attendant les ordres du
+Sultan. En tout cas ils lutteraient si c'était nécessaire.
+
+
+Tous ces événements produisent une grande agitation dans les tribus marocaines
+voisines de la frontière; mais nos populations du cercle de Marnia restent calmes,
+tout en se tenant en éveil.
+
+
+Dans nos confins du Sud-Ouest, nos administrés sont toujours victimes de
+nombreux méfaits pour lesquels aucune satisfaction ne leur a été accordée jusqu'à ce
+jour.
+
+
+Le 22 mars, 15 indigènes des Beni Guil ont enlevé aux Beni Metharef (Hamian)
+un troupeau de 320 moutons. Un cavalier des Hamian a été tué au cours de la pour-
+suite, qui n'a eu d'ailleurs aucun résultat.
+
+
+A la même date, 11 Beni Guil ont enlevé un troupeau de moutons aux Ouled
+Mansourah (Hamian); 12 cavaliers se sont mis à leur poursuite, les ont rejoints et
+ont obtenu la restitution de leurs animaux, à l'exception de 130 moutons qu'ils ont
+dû abandonner à leurs adversaires.
+
+
+Le 24 mars, des coups de feu ont été échangés entre les tirailleurs qui occupent le
+caravanserail d'El Moungar (Zousfana) et un groupe de 25 rôdeurs qui s'étaient
+embusqués dans les rochers du voisinage.
+
+
+Le 25 mars, 6 Beni Guil ont enlevé 4 chameaux et 5 bœufs aux Ouled Mansourah
+à Kasdir où est campé l'agha de Mécheria. 40 cavaliers des Hamian se sont mis à leur
+poursuite et ont réussi à enlever aux Beni Guil une centaine de chameaux; mais ils
+durent pour cela livrer un combat au cours duquel ils eurent  hommes blessés,
+6 chevaux tués et 3 blessés; on ignore quelles ont été les pertes de leurs adversaires.
+Le 26 mars, 3 chameaux ont été volés à une caravane des Bekakra (Hamian)
+près d'Oudjda.
+
+
+Le 29 mars, un petit convoi du Makhzen a été enlevé entre Qçar el Azoudj et
+Fendi par une soixantaine de fantassins des Beni Guil et des Ouled Djerir. Les déta-
+chements de travailleurs militaires de Fenil et de Qçar el Azoudj se mirent à la pour-
+suite des malfaiteurs, ils s'engagèrent ainsi dans un terrain excessivement difficile où
+ils eurent d'abord quelques avantages; mais, après plusieurs heures de combat, les
+munitions commençant à faire défaut et le jour touchant à sa fin, nos soldats durent
+se replier; ils furent alors poursuivis à leur tour et éprouvèrent des pertes sérieuses :
+3 tirailleurs et 5 légionnaires furent tués, 1 officier, 2 spahis et 2 légionnaires
+blessés. Le djich se retira sur Bechar, puis sur Mougheul, où eut lieu le partage du
+butin consistant en 8 chameaux, 8 fusils modèle 1886 et quelques effets. On ignore
+le chiffre des pertes du djích.
+
+
+75
+
+
+Dans la nuit du 3 au 4 avril, 6 malfaiteurs venant du Maroc ont assailli un douar
+de la tribu du Kef (cercle de Marnia). Les gens du douar les ont repoussés après
+avoir échangé quelques coups de feu sans résultat.
+
+
+Le 26 avril, à 1 heure du matin, le légionnaire qui était en sentinelle sur la
+face ouest de la redoute de Duveyrier a été tué d'un coup de feu et son fusil a été
+enlevé.
+
+
+Dans la nuit du 26 au 27 avril, un djich d'une quinzaine d'hommes a rôdé autour
+de la redoute de Duveyrier. Les sentinelles ont tiré onze coups de feu sans résultat.
+Enfin on signale un rassemblement important d'Oulad Djerir, de Beni Guil et de
+Beraber qui serait concentré à Bechar et se disposerait à opérer dans la Zousfana,
+soit contre un convoi, soit contre des campements, soit mème contre nos postes. Ce
+rassemblement a enlevé un convoi libre à Zafrani, le 5 mai.
+
+
+Ces coups de main répétés montrent que nos voisins de l'Ouest prennent pour de
+la faiblesse nos sentiments de conciliation. Quant à nos administrés, ils ne com-
+prennent pas davantage notre mansuétude. Cette situation pourrait devenir grave à
+un moment donné, et dès à présent, les relations tendues qui existent entre les
+Hamian et les Beni Guil constituent une menace pour la tranquillité de nos confins,
+au sud du Teniet Sassi.
+
+
+N° 70.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 13 mai 1903.
+
+
+La valise vous porte des renseignements détaillés sur des actes d'agression commis à
+la frontière marocaine et notamment sur l'attaque d'un de nos convois près de Taghit
+par une bande nombreuse de pillards marocains. Saisi de la question, le Conseil des
+Ministres a été d'avis qu'il faut réprimer vigoureusement ces actes d'agression et le
+Gouverneur général de l'Algérie doit soumettre au Gouvernement des propositions à
+cet effet. Il est question d'une exécution rapide, non suivie d'occupation, dirigée
+contre le Qçar de Zenaga qui donne asile à tous les malfaiteurs de la région de
+Figuig et d'organiser une police au moyen de détachements mobiles dans le Djebel
+Bechar. Je crois devoir vous aviser de ces projets à titre d'information.
+
+
+DELCASSÉ.
+
+
+10.
+
+
+76
+
+
+N° 71.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à MM. les Ambassadeurs de la République française à Londres et à
+Madrid.
+
+
+Paris, le 15 mai 1903.
+
+
+Une série d'actes d'agression ont été commis ces temps derniers contre nos postes
+à la frontière marocaine et en dernier lieu près de Taghit où une nombreuse bande
+de pillards marocains a enlevé un de nos convois, tuant 25 hommes et en blessant 15.
+Saisi de la question, le Conseil des Ministres a été d'avis qu'il fallait réprimer vigoureu-
+sement ces actes d'agression et le Gouverneur général de l'Algérie va soumettre au
+Gouvernement des propositions à cet effet. Il est question d'une exécution rapide,
+non suivie d'occupation, contre l'un des qçour de Figuig, nommé Zenaga, qui
+donne asile à tous les malfaiteurs de la région, et d'organiser une police au moyen
+de détachements mobiles dans le Djebel Bechar. Nous nous proposons, d'autre part,
+de livrer prochainement passage par notre territoire à un détachement marocain qui
+va tenir garnison à Figuig.
+
+
+Je crois devoir vous aviser de ces projets afin de vous mettre en mesure d'en
+indiquer, en cas de besoin, le caractère purement défensif.
+
+
+DELCASSÉ.
+
+
+N 72.
+
+
+M. SAINT-RENE-TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 mai 1903.
+
+
+Mon télégramme du 26 avril a renseigné Votre Excellence sur l'objet de la mis-
+sion spéciale que le Makhzen, dans sa détresse, a décidé d'envoyer à Melilla d'abord,
+puis à Lalla-Marnia. Le g de ce mois, Si Mohammed Torres est venu me présenter
+les deux principaux personnages de cette délégation, Si Ahmed Er Rekina, chambellan
+du Sultan, et Si Abderrahman ben Abdessadoq, gouverneur de Fez.
+
+
+Si Ahmed Errekina, chef de la mission, m'a remis une lettre de Ben Sliman dont
+jai Phonneur de vous communiquer, ci-joint, la traduction. Le Ministre chérifien des
+
+
+77
+
+
+Affaires étrangères y expose que les délégués sont chargés « de rechercher les dispo-
+sitions utiles en vue d'assurer l'affermissement de la ville d'Oudjda et des points
+voisins, d'y relever les forces du Gouvernement, d'y rétablir le calme». Il
+exprime l'espoir que nous voudrons bien « assister ces commissaires d'avis utiles et
+de conseils fructueux » et que M. le Gouverneur général de l'Algérie ne refusera pas
+de les aider « en leur fournissant le concours des quelques personnes expérimentées
+dont ils pourraient avoir besoin, et en se prêtant à recevoir les forces du Makhzen
+qui se réfugieraient dans quelque poste algérien ». Après avoir invoqué enfin « les
+engagements anciens et récents conclus entre les deux Gouvernements, pour la
+sauvegarde des droits de voisinage», Ben Sliman émet le vœu « que nous étendions
+encore le cercle de notre concours et de notre bienveillance en considération des
+événements actuels ».
+
+
+Le premier interprète de ma Légation m'ayant, en présence des délégués, traduit
+verbalement cette lettre, je n'ai pas manqué de dire à Si Ahmed Er Rekina, comme
+j'y étais autorisé par votre télégramme du 1er de ce mois, que le Gouvernement de la
+République, tout disposé à assister le Gouvernement chérifien dans son œuvre paci-
+ficatrice, accueillerait avec bienveillance les délégués du Makhzen en Algérie,
+où l'appui amical de M. le Gouverneur général ne leur ferait certainement point
+défaut.
+
+
+Il est intéressant que le Makhzen consacre ainsi, en les invoquant le premier, ces
+accords franco-marocains du printemps de 1902. L'article 1er de l'accord du
+20 avril oblige le Gouvernement de la République à prêter en cas de besoin son
+appui au Gouvernement Chérifien pour l'aider à consolider son autorité sur les
+régions frontières.
+
+
+Les griefs que le Sultan peut personnellement nous donner ne doivent pas nous
+faire illusion sur la réalité des choses. Très fort pour agiter un pays où des favoris
+malavisés ont ruiné l'autorité du souverain, Bou Hamara ne paraît guère en situation
+de parvenir lui-même au sultanat. Il semble en avoir le sentiment puisqu'il a jugé bon
+de revêtir une personnalité d'emprunt, recourant ainsi à une feinte dont le succès
+serait bien malaisé à soutenir jusqu'au bout.
+
+
+Ce n'est donc pas à un prochain et simple changement de règne que paraît devoir
+le plus probablement aboutir la crise intérieure qui va toujours s'aggravant. C'est
+plutôt à un état prolongé et de plus en plus accentué, d'anarchie, d'a gitations, de
+petites guerres intestines. Cet état déplorable peut léser et alarmer les diverses puis-
+sances dans la proportion où se sont développés au Maroc les intérêts de leurs
+nationaux; mais il concerne en première ligne et hors de toute proportion la puis-
+sance qui a civilisé et qui gouverne le reste de la Berbérie.
+
+
+Telle est, brièvement résumée, la situation qu'il paraît bon de se rappeler, au
+moment où les délégués spéciaux du Makhzen vont, avec notre autorisation s'in-
+staller à Lalla Marnia et nous demander de les assister dans les tentatives qu'ils pour-
+suivront pour relever dans la région d'Oudjda l'autorité du Sultan.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+78
+ANNEXE.
+
+
+SI ABDELKĖRIM BEN SLIMAN, Ministre des. Affaires étrangères du Sultan,
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger.
+
+
+Compliments d'usage.
+
+
+Fez, 21 avril 1903.
+
+
+Są Majesté Chérifienne, Dieu la glorifie! a décidé d'envoyer le chambellan Si Ahmed Er
+Rekina Et Tetouani et le qaïd Si Abderrahman ben Abdessadoq, accompagnés d'un certain
+nombre de personnes, pour se rendre par mer de Tanger à Nemours, port du territoire de
+l'illustre Gouvernement français, et gagner de là Marnia. Ils sont chargés de rechercher les
+dispositions utiles en vue d'assurer l'affermissement de la ville d'Oúdjda et des points voisins
+qui se trouvent sur la ligne frontière qui sépare le Maroc de l'Algérie, de rétablir les forces
+du Gouvernement chérifien et de les accroître d'un renfort proportionné à la situation afin
+de consolider cette région, d'y rétablir le calme et d'y effacer les traces du trouble et de l'agi-
+tation qui y règnent en ce moment par le fait de ce révolté, de ce perturbateur que vous
+connaissez.
+
+
+Comme cette mission a pour objet de veiller au respect des deux frontières et de pour-
+suivre le maintien de la paix entre les deux pays voisins, Notre Seigneur Dieu le glorifie!
+m'a ordonné de vous faire part du but recherché afin que, justifiant l'espoir mis en vous
+et en votre Gouvernement ami, vous veuilliez bien assister ces commissaires d'avis utiles et
+de conseils fructueux et vous employer à faire donner aux autorités des postes voisins de
+l'Algérie les instructions nécessaires pour qu'elles reçoivent ces envoyés à leur débarquement
+avec les égards attendus de vous, leur conseillent des mesures de nature à les aider à réaliser
+leur mission, leur facilitent les moyens de transporter les armes nécessaires, les aident en
+leur fournissant le concours des quelques personnes expérimentées dont ils pourraient avoir
+besoin et se prêtent à recevoir les renforts du Makzen qui se réfugieraient, en cas de besoin,
+dans un de vos postes, au début, pour échapper aux partisans de l'agitateur, en attendant
+qu'il soit possible d'organiser l'équipement de forces suffisantes pour aller fortifier Qudjda et
+ses environs et commencer à rétablir le bon ordre parmi les tribus du voisinage.
+
+
+Au cas où il y aurait intérêt à ce que notre ami commun Si Mohammed el Guebbas se
+rendît auprès d'eux à Marnia pour qu'ils s'entretinssent avec lui avant d'ordonnancer leurs
+travaux, puisqu'il possède une connaissance toute fraîche des affaires de cette région, je
+vous demanderai de vouloir bien l'assister à cet effet: les résultats attendus de cet entretien
+une fois obtenus, il retournerait à son poste. Les ordres chérifiens à ce sujet lui ont été
+envoyés.
+
+
+Ces deux commissaires ont reçu l'ordre d'aller vous voir, présentés par le représentant
+Si Mohamed Torrès et de se concerter avec vous sur ce qui vient d'être dit. Je sais que je puis
+entièrement compter sur votre appui et votre concours, en raison des engagements anciens
+et récents conclus entre les deux Gouvernements illustres pour la sauvegarde des droits de
+voisinage. J'espère même que vous étendrez encore le cercle de votre concours et de votre
+bienveillance en considération de l'événement actuel qui ne laissera de tranquillité aux deux
+pays dans ces régions que lorsqu'il y aura été mis un terme.
+
+
+ABDEL KERIM BEN SLIMAN (Dieu le favorise!).
+
+
+79
+
+
+N° 73.
+
+
+M. JONNART, Gouverneur général de l'Algemeinderat
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 20 mai 1903.
+
+
+Un indigène, paraissant digne de foi, qui a quitté Kemadsa le 13 mai, a apporté
+à Djenan ed Dar les nouvelles suivantes
+
+
+1.
+
+
+La harka qui a opéré, le 5 mai, contre le convoi libre est encore rassemblée à
+Bechar, renforcée par des contingents venus du haut Guir et des Qçour de Mougheul,
+Boukais et Aïn chaïr. La subsistance de cette harka est assurée par les denrées pro-
+venant de la razzia du 5 mai.
+
+
+Le 15 mai, les chefs de la harka ont dû se rendre à la koubba de Si Mohammed
+ben Bouziane, à Kenadsa, pour sacrifier un chameau. Cette cérémonie terminée, la
+harka devait, d'après l'informateur, faire ses derniers préparatifs et se mettre en route
+pour attaquer Taghit.
+
+
+JONNART.
+
+
+N° 74.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 20 mai 1903.
+
+
+Le commandant d'armes de Beni Ounif rend compte que le soldat de première
+classe Berger (Auguste), du 1er étranger, faisant partie du poste de garde de Beni Ounif,
+a été tué d'un coup de feu à la poitrine, le 18 mai, à 11 heures du soir.
+
+
+JONNART.
+
+
+80
+
+
+N° 75.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 23 mai 1903.
+
+
+Les mesures militaires mentionnées dans mon télégramme du 13 mai ont été
+décidées et seront promptement exécutées. Vous aurez à faire en sorte que l'on ne
+se méprenne pas au Maroc sur leur caractère et leur portée.
+
+
+N° 76.
+
+
+DELCASSÉ.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 23 mai 1903.
+
+
+Les délégués marocains envoyés par lé Makhzen pour restaurer l'autorité chérifienne
+dans la région d'Oudjda doivent s'embarquer aujourd'hui à Melilla pour Nemours.
+J'en ai avisé M. Jonnart.
+
+
+N° 77.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 27 mai 1903.
+
+
+L'Administration militaire organise, avec les goumiers des tribus placées sous
+notre domination, des contre-harkas qui, pendant dix ou quinze jours, battront la
+
+
+81
+
+
+région, vers Aïn-Chaïr, où se trouvent les pillards qui ont enlevé un récent convoi et,
+plus au nord, la région d'où sont parties les dernières agressions. D'autre part, nos
+troupes vont être sensiblement renforcées à Méchéria et à Djenan-ed-Dar, de manière
+à appuyer ces goums.
+
+
+En informant le Gouvernement chérifien des dispositions que nous avons adoptées,
+vous ne manquerez pas de lui donner toutes les assurances nécessaires en ce qui
+concerne notre ferme intention de respecter le traité de 1845, dont les opérations
+qui se préparent ne sont qu'une application; vous ajouterez que la seule protection
+de nos territoires nous oblige à exécuter dans ces régions des mesures de police que
+le Gouvernement chérifien, dans les circonstances présentes, est lui-même incapable
+de prendre.
+
+
+DELCASSÉ.
+
+
+N° 78.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+
+
+Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 mai 1903.
+
+
+J'invite le premier secrétaire de ma Légation, M. Descos, actuellement en mis-
+sion à Fez, à informer Ben Sliman des dispositions que nous avons dû adopter pour
+la protection de nos postes et de nos convois et à en bien marquer le caractère d'après
+les indications contenues notamment dans votre télégramme du 27 de ce mois.
+
+
+Quant aux Représentants des Puissances, le langage que la plupart d'entre eux
+m'ont tenu spontanément au sujet de l'agression dirigée contre nous semble me
+donner toutes facilités pour les empêcher de se méprendre sur le sens et la portée
+de nos actions.
+
+
+N° 79.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Beni-Ounif, le 31 mai 1903.
+
+
+J'ai reçu ce matin, près de Beni-Ounif, la visite de l'Amel ou agent du Gouverne-
+ment marocain de Figuig. Il m'a assuré de la bonne volonté de son Gouvernement
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+11
+
+
+82
+
+
+de faire régner la tranquillité sur la frontière et m'a demandé appui du Gouverne-
+ment français à cet effet.
+
+
+Je l'ai cordialement remercié de sa démarche, mais je lui ai fait observer que,
+jusqu'à présent, le Gouvernement de la République avait été seul à prendre les me-
+sures nécessitées par l'insécurité et que, loin de lui prêter son concours, le
+Makhzen ne lui avait jamais demandé, d'une façon formelle, de l'appuyer à
+Figuig. Je lui ai fait prévoir comme conséquence que nous serions, sans doute,
+amenés prochainement à prendre les dispositions nécessaires pour le retablissement
+de l'ordre.
+
+
+L'Amel a reconnu l'impossibilité où se trouve son Gouvernement de faire respecter
+son autorité dans les oasis de la frontière, particulièrement par les habitants de Ze-
+naga, et il s'est contenté d'exprimer le souhait que les mesures prises par le Gouver-
+nement français fussent aussi limitées que possible.
+
+
+A la suite de cet entretien, j'ai fait, avec lui et sur le désir exprimé par le général
+O'Connor, une excursion au cours de laquelle des coups de feu ont été tirés de
+Zenaga dans notre direction, bien qu'un qaïd de ce qçar fût également venu au
+devant de moi pour me saluer et m'assurer des meilleures dispositions des habi-
+tants.
+
+
+L'Amel m'a fait remarquer alors que je voyais là la preuve de l'impuissance où il
+se trouvait d'empêcher les attentats que nous avions subis ces derniers temps. Il est
+rentré ensuite à Figuig.
+
+
+Une compagnie montée de la légion, qui surveillait les oasis, est restée en arrière
+de nous et a répondu au feu de Zenaga.
+
+
+JONNART.
+
+
+N° 80.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Duveyrier, le 1er juin 1903.
+
+
+Je n'ai pas voulu quitter Beni-Ounif avant la rentrée des deux compagnies de la
+légion attaquée par les qçouriens de Zenaga au moment où, accompagné de l'Amel,
+je quittais le col de Zenaga pour revenir à Beni Ounif. Ces compagnies viennent de
+rentrer après un combat de quatre heures. Pas de tué, dix-sept blessés, dont la
+plupart peu grièvement. Quatre blessés seulement présenteraient une certaine
+gravité.
+
+
+Presque tous les assaillants, dont le nombre était relativement considérable, venant
+de Zenaga, s'y sont retirés après avoir essuyé des pertes très sérieuses.
+
+
+A l'instant m'arrive l'Amel de Figuig, très ému et indigné de cette agression, la
+réprouvant de toutes ses forces, au nom du Gouvernement marocain que les qçouriens
+
+
+83
+
+
+avaient désohonoré, disait-il, à nos yeux, et me promettant de me renseigner sur
+l'état des esprits et les dispositions qui pourraient être concertées pour renouveler
+attaque contre nous.
+
+
+Il m'a promis de me faire connaître les noms des promoteurs du mouvement.
+D'après lui, les notables de Zenaga seraient venus immédiatement pour lui exprimer
+leurs regrets des faits accomplis. Je crois l'Amel de bonne foi, mais j'ai constaté une
+fois de plus qu'il n'a, à Figuig, aucune autorité et ne dispose d'aucun moyen d'assurer
+la sécurité.
+
+
+Il reconnaît lui-même que le qçar de Zenaga est le refuge de tous les pillards et de
+tous les bandits de la région.
+
+
+N° 81.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 1er juin 1903.
+
+
+Je reçois du Gouverneur général de l'Algérie les télégrammes suivants :
+
+
+(Télégrammes des 31 mai et $1^{er}juin.$)
+
+
+Nous voilà donc obligés de faire la besogne qui incombait au Gouvernement ma-
+rocain. Mais dès maintenant nous devons marquer sa responsabilité et poser le prin-
+cipe des réparations politiques et matérielles qu'exigent tant d'agressions et tant de
+meurtres.
+
+
+N° 82.
+
+
+DELGASSÉ.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères, aux Ambassadeurs de la Ré-
+publique française à Londres et Madrid,
+
+
+Paris, le 2 juin 1903.
+
+
+Je reçois du Gouverneur général de l'Algérie les télégrammes suivants (suit le texte
+des télégrammes de M. Jonnart du 31 mai et du 1er juin):
+
+
+Le Gouverneur général, en me rendant compte de l'agression qu'il a lui-même
+
+
+11.
+
+
+84
+
+
+subie à Beni-Ounif le 31 mai dernier, m'a fait savoir le 1er de ce mois que deux sec-
+tions d'artillerie, arrivées à Aïn-Sefra, allaient permettre à nos troupes d'infliger aux
+qçouriens de Zenaga un châtiment devenu plus que jamais indispensable. M. Jonnart
+est en complet accord avec les fonctionnaires marocains de la frontière pour exercer
+cette action qu'ils sont hors d'état d'assurer eux-mêmes.
+
+
+Malgré les difficultés croissantes qui résultent pour le Gouvernement de la répé-
+tition de ces incidents sanglants et de l'impuissance du Makhzen à les empêcher, nos
+résolutions n'ont point changé.
+
+
+N° 83.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+DELCASSÉ.
+
+
+Alger, le 8 juin 1903.
+
+
+Le bombardement de Zenaga a été exécuté ce matin. On avait envoyé l'ordre de
+faire évacuer le qçar par les femmes et les enfants.
+
+
+JONNART.
+
+
+N° 84.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 11 juin 1903.
+
+
+J'ai l'honneur de vous communiquer ci-joint le télégramme que m'adresse de Beni-
+Ounif le Général commandant la division d'Oran :
+
+
+« Les Djemaas des 7 qçour du Figuig m'ont fait connaître, hier au soir, que toute
+ nos conditions étaient acceptées et seraient exécutées aujourd'hui, ce qui a eu lieu.
+ Voici ces conditions: livraison des otages, qui sont déjà en route pour Aïn Sefra.
+ Versement des armes et contribution de guerre. Responsabilité des qçour pour la
+ livraison des coupables. Libre accès des qçour. »
+
+
+Le Général donne dans un second télégramme les renseignements complémentaires
+
+
+85
+
+
+suivants : « Engagements imposés aux qçouriens: 1º bon voisinage; 2º accès des
+ qçour interdit aux fauteurs de troubles; 3º liberté et sécurité pour les Français se
+ rendant dans les qçour; 4º responsabilité des méfaits et livraison des malfaiteurs sur
+« la demande de la France; 5º interdiction de franchir les cols en armes, sans autori
+ sation; 6º obligation de nous aviser des événements importants; 7º acquitter une
+ indemnité de 60,105 francs, livraison des armes de guerre, remise des otages au
+<< nombre de 14 garantissant exécution des engagements. Territoires des qçour limités
+ par les murs extérieurs des palmeraies. En échange la France confirme la liberté, la
+« sécurité, le droit de propriété des qçouriens sur son territoire. Ces engagements ont
+« été revêtus de mon cachet et de la signature des délégués des Djemaas ».
+
+
+JONNART.
+
+
+N° 85.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 18 juin 1903.
+
+
+Si Mohammed Torrès a reçu hier de Rekina le télégramme suivant : « Gens du
+Sultan sont très gênés. Occupez-vous d'obtenir intervention des Français ». Invité par
+Torrès à préciser le sens de l'intervention demandée, Rekina a répondu que le
+prétendant approchait d'Oudjda, qui se trouvait dans une situation critique. Il prie
+donc Torrès de faire une démarche auprès de moi afin que je sollicite un secours de
+troupes françaises suffisant pour protéger la ville. En me communiquant ces télé-
+grammes, le représentant du Sultan m'a demandé si je voulais bien y donner suite.
+Je lui ai dit que je ne me refusais pas à faire part de sa demande au Gouvernement
+de la République, à qui il appartiendrait de prendre une, décision, mais que je ne
+savais pas si Votre Excellence se considérerait comme valablement saisie de la question
+par une simple démarche verbale, alors que l'intervention qui nous est demandée
+paraît dépasser les prévisions de la lettre de Ben Sliman relative à la mission de
+Rekina.
+
+
+Si Mohammed Torrès a manifesté l'espoir qu'en raison de l'urgence le Gouverne-
+ment de la République ne s'arrêterait pas à ces scrupules; il m'a annoncé qu'il allait
+transmettre à Ben Sliman le télégramme de Rekina et lui rendre compte de notre
+entretien.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+86
+
+
+N° 86.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 juin 1903.
+
+
+Si Mohammed Torrès demande qu'un envoi de 500 fusils, 50,000 cartouches,
+50,000 douros et 500 costumes destinés à la mission Rekina soit accueilli à
+Nemours. Votre Excellence jugera sans doute utile de donner au Gouverneur général
+de l'Algérie des instructions dans ce sens.
+
+
+N° 87.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 19 juin 1903.
+
+
+Je réponds à votre télégramme du 18. Vous avez été bien inspiré de dire à
+Si Mohammed Torrès que nous ne pouvions répondre à la demande du Gouverne-
+ment marocain concernant l'occupation éventuelle d'Oudjda avant d'en être saisis par
+écrit. Il importe que, si nous devons être amenés à occuper ce point de l'Empire
+chérifien, aucun doute ne puisse s'élever quant aux conditions dans lesquelles nous
+aurons pris ce parti et que l'on se rende compte que c'est à la demande expresse du
+-Makhzen.
+
+
+DELCASSÉ.
+
+
+87
+
+
+N° 88.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 20 juin 1903.
+
+
+Le Ministre chérifien des Affaires étrangères vient de m'exprimer les regrets du
+Sultan au sujet des attentats commis à notre préjudice par les pillards marocains de la
+région de Figuig et, en particulier, au sujet de l'agression dirigée contre le Gouver-
+neur général de l'Algérie.
+
+
+Voici la traduction intégrale de la lettre, de Ben Sliman.
+
+
+ Votre premier secrétaire, M. Descos, est venu me voir et m'a fait connaître, en votre
+nom, qu'un ramassis de malfaiteurs des tribus voisines de la frontière guettent le passage
+des caravanes du Gouvernement de l'Algérie, leur livrent des attaques, les pillent et les
+tuent; les actes de ce genre ont pris une telle proportion et une si grande gravité que le
+Gouvernement français respecté s'est vu obligé de lever un certain nombre de cavaliers des
+tribus de l'Algérie, sous le commandement d'officiers français, pour effectuer une tournée
+dans les refuges présumés de ces pillards en vue de leur infliger un châtiment sévère de
+nature à détourner leurs pareils de les imiter, surtout après l'attaque audacieusement dirigée
+par ces mauvais sujets sur le convoi de M. le Gouverneur général, du Gouverneur de Figuig
+et de ceux qui les accompagnaient.
+
+
+J'ai vivement regretté tous ces faits et surtout le plus récent dirigé contre le Gouverneur
+général. Quand j'en ai fait part à S. M. chérifienne, elle en a été très émue et péniblement
+affectée, elle l'a vivement regretté. Elle m'a ordonné, Dieu la glorifie! de vous écrire pour
+vous exprimer ses regrets et son trouble, et vous dire que, si ce fait ne s'était pas produit
+dans un moment où son Gouvernement chérifien est entièrement préoccupé de faire dispa-
+raître les vestiges de cet agitateur, comme vous le savez, il aurait pris pour châtier ces mau-
+vais sujets et leurs pareils des mesures de répression qui auraient donné satisfaction. Mais le
+châtiment ne cessera de les menacer jusqu'au jour où il sera possible, avec l'aide de Dieu.
+
+
+Sa Majesté, Dieu la glorifie! m'a ordonné également de vous remercier de ce que l'on ait
+tenu à se borner à se défendre et à empêcher le retour de ces actes déplorables, sans aller
+jusqu'à jeter le trouble chez d'autres par des mesures qui auraient pu faire croire à
+une violation des engagements anciens et récents conclus entre les deux gouvernements
+respectés en vue du maintien de la paix et de l'appui réciproque pour l'établissement de la
+tranquillité, surtout dans un moment comme celui-ci où l'ami a besoin de son ami, le voisin
+de son voisin. Il demande à Dieu que l'œuvre entreprise par tous les moyens amicaux entre
+les deux gouvernements soit menée à bien.
+Signé: ABDELKERIM BEN SLIMAN.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+88
+
+
+N° 89.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 20 juin 1903.
+
+
+Je prends acte de la communication du Makhzen transmise par votre télégramme
+de ce jour.
+
+
+Notre politique n'est pas modifiée et nous entendons limiter les mesures militaires
+aux opérations strictement nécessaires pour assurer l'ordre et la sécurité aux lieu et
+place du Makhzen impuissant.
+
+
+DELGASSÉ.
+
+
+N° 90.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Mustapha-Palais, le 20 juin 1903.
+
+
+Les habitants d'Oudjda menacés par les partisans du Prétendant ont fait demander
+au commandant du cercle de Marnia l'intervention des troupes françaises, proposant en
+échange de se soumettre définitivement à la protection française. J'ai répondu à cet
+agent que mon administration ne pouvait examiner une proposition de ce genre dont
+le Gouvernement français ne saurait être saisi que par le Gouvernement marocain.
+
+
+JONNART.
+
+
+N° 91.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Ambassadeurs de la République française à Londres et Madrid.
+
+
+Paris, le 20 juin 1903.
+
+
+Les tribus qui soutiennent le Prétendant menaçant depuis plusieurs semaines
+
+
+1
+
+
+89
+
+
+Oudjda, dont l'amel a dù se réfugier sur notre territoire, le Makhzen avait envoyé, d'ac-
+cord avec nous, des délégués dans le département d'Oran, afin de négocier avec les
+rebelles. Ces délégués nous ont demandé à plusieurs reprises le concours de contin-
+gents militaires français pour rétablir l'autorité de l'amel à Oudjda. Après nous y être
+refusés, je viens, en présence d'une nouvelle demande présentée par Si Torrès à
+M. Saint-René-Taillandier, de télégraphier à ce dernier que nous ne pourrions l'ac-
+cueillir que si nous en étions saisis par écrit.
+
+
+En vous signalant ces pourparlers, je tiens à vous indiquer nettement le caractère
+de l'action que nous pourrions être éventuellement amenés à exercer.
+
+
+N° 92.
+
+
+DELCASSÉ.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 20 juin 1903.
+
+
+J'ai pris l'avis du Commandant du XIXe corps et du Général commandant la division
+d'Oran au sujet de l'envoi d'armes que le Makhzen se propose de faire à la mission
+marocaine de Marnia. J'estime comme eux que nous n'avons pas d'objections à soulever
+en principe contre cet envoi, bien que, selon toute vraisemblance, il doive demeurer
+inutile. La mission Rekina ne dispose, en effet, d'aucune troupe régulière et il n'est
+pas à prévoir qu'elle puisse recruter des partisans parmi les populations marocaines de
+la frontière, puisque, comme vous le savez par mon télégramme de ce matin, ces
+populations menaçent Oudjda restée fidèle au Sultan. D'autre part, au point de vue
+de la sécurité de notre frontière, cette distribution d'armes, si elle était faite d'une
+façon un peu considérable, pour raitavoir de sérieux inconvénients et j'aurais éventuel-
+lement à demander au Gouvernement l'autorisation d'y parer. Néanmoins, je suis prêt
+à seconder votre désir en facilitant l'envoi dont il s'agit. Je sais que Rekina a demandé
+à Si Torrès d'envoyer à Oudjda les troupes marocaines destinées à Figuig et actuel-
+lement à Oran; je serais d'avis le cas échéant de favoriser ce mouvement pourvu que
+nos officiers instructeurs n'en fissent pas partie.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+JONNART.
+
+
+12
+
+
+90
+
+
+N° 93.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Suite à mon télégramme d'hier.
+
+
+Mustapha-Palais, le 21 juin 1903.
+
+
+La Division d'Oran me transmet le télégramme suivant du commandant du cercle
+de Marnia:
+
+
+ Guebbas est venu demander que le Gouverneur général autorise et prescrive
+envoi immédiat à Marnia des soldats destinés à Figuig, actuellement à Oran, et en
+outre des armes déposées dans cette ville moins sept caisses de fusils avec leur quatorze
+caisses de cartouches. La quantité à envoyer serait donc de dix-huit caisses de fusils et
+trente-six caisses de cartouches. Guebbas insiste vivement et m'a prié d'intervenir
+pour que satisfaction immédiate lui soit accordée, soldats et fusils étant destinés à
+Oudjda dont la situation est très critique, le prétendant menaçant sérieusement cette
+ville. La mission a télégraphié à Si Torrès, mais vu l'urgence, Guebbas prend sur lui
+de faire exécuter cet envoi sans attendre la réponse. >>
+
+
+JONNART.
+
+
+N° 94.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 23 juin 1903.
+
+
+En annonçant au Makhzen de bombardement de Zenaga, le premier secrétaire de
+ma Légation, M. Descos, a eu soin de rappeler les déclarations de Votre Excellence :
+il a communiqué aux Vizirs les paroles prononcées par le Président du Conseil devant
+le Sénat et par le Gouverneur général de l'Algérie à Ain-Sefra. Il a fait ressortir le
+soin qu'avait pris notre Gouvernement, tout en remplissant à Figuig une tâche qui
+eùt incombé au Makhzen, de maintenir intact le principe de la souveraineté chérifienne.
+On s'est montré très satisfait de ces explications et le Sultan a fait prier M. Descos de
+transmettre ses remerciements au Gouvernement de la République.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+91
+
+
+5
+
+
+N° 95.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 23 juin 1903.
+
+
+Si Torrès me prie de rappeler à Votre Excellence la demande transmise par mon
+télégramme du 19 de ce mois et qui ne me paraît pas de nature à soulever de
+difficulté.
+
+
+Il demande en outre que nous permettions aux autorités marocaines de faire passer
+par le territoire algérien, en vue de les embarquer à Nemours pour Tanger, les fau-
+teurs de troubles qu'elles auraient capturés en territoire marocain.
+
+
+Enfin Si Torrès demande que nous permettions l'envoi à Nemours ou à Oran d'une
+nouvelle troupe marocaine qui de là gagnerait Oudjda. Il s'agit d'une troupe qui serait
+en route pour Tanger, mais qui ne serait pas encore très près d'y arriver. Je crois
+que le mieux serait de consentir en principe à cette dernière demande, sauf à ne
+laisser embarquer qu'une troupe régulière, en uniforme, et non un contingent de
+tribus à l'état brut.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 96.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 25 juin 1903.
+
+
+En ce qui concerne le matériel énuméré dans mon télégramme du 19, je n'ai pas
+cru devoir en retarder l'embarquement. J'en avise le Gouverneur général de l'Algérie.
+Ce matériel est destiné à la future garnison d'Oudjda dont l'instruction doit être con-
+fiée à notre mission militaire. Nous sommes certainement décidés à ne pas permettre
+que fusils et munitions soient distribués à des éléments irréguliers et susceptibles de
+compromettre la sécurité de notre frontière. Quant à la demande de Guebbas et
+Rekina tendant à obtenir l'autorisation d'employer immédiatement pour la défense
+d'Oudjda les soldats marocains destinés à Figuig, je n'ai aucune objection à ce que ces
+soldats soient conduits à Marnia. Il est bon que Guebbas se rende compte par lui-
+même de leur état et de leurs dispositions. Il comprendra mieux ainsi les raisons qui
+
+
+12.
+
+
+92
+
+
+nous interdisent d'aventurer nos officiers et nos gradés dans une opération militaire
+confiée à une troupe qu'ils n'ont pu instruire et dont ils ne sauraient encore répondre.
+Mais j'ajoute que, si ces circonstances rendent impossible pour le moment la partici-
+pation de nos gradés, il parait sage, tout en respectant la liberté d'action de Guebbas,
+de lui représenter amicalement que, dans ces conditions, les soldats marocains envoyés
+à Oudjda seraient peut-être trop exposés à la tentation de déserter.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 97.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 25 juin 1903.
+
+
+Je réponds à votre télégramme du 23. Je n'aurai pas d'objection à autoriser le pas-
+sage sur notre territoire de troupes marocaines destinées à secourir Oudjda: mais à
+condition, comme vous le faites observer, qu'il s'agisse de troupes régulièrement con-
+stituées et non de recrues en désordre. Je vous autorise donc, sous cette réserve, à
+répondre affirmativement à la demande que vous a adressée à ce sujet Si Torrès.
+Mais je ne saurais aller au delà et je verrais des inconvénients au point de vue politique,
+en même temps que des difficultés au point de vue des principes généraux de notre
+droit public, à laisser supposer aux autorités chérifiennes qu'il leur sera loisible de
+faire passer sur le territoire oranais, pour les ramener au Maroc, des insurgés capturés
+sur le territoire marocain. Je vous laisse le soin de donner l'explication qui vous pa-
+raitra la plus convenable.
+
+
+DELCASSÉ.
+
+
+N° 98.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ. Ministre des Affaires étrangères.
+
+
+Alger, le 26 juin 1903.
+
+
+J'ai l'honneur de vous faire connaître que la Mission marocaine installée à Marnia
+
+
+93
+
+
+continue ses négociations en vue de ramener les tribus de l'Est marocain à la cause
+du Sultan.
+
+
+Les notables de l'amalat d'Oudja convoqués à Marnia sont tous d'accord pour déclarer
+qu'ils ne peuvent rien faire en faveur de Moulay Abd-el-Aziz, tant que ce dernier
+n'aura pas envoyé une colonne à la Kasba de Messoun ou des troupes à Saïdia. Jusque-
+là, disent-ils, la masse de la population, quoique non opposée au Sultan, mais émue
+de l'inaction du Makhzen et des succès du Prétendant, ne se décidera pas à marcher
+contre ce dernier.
+
+
+Le Prétendant a quitté enfin Selouane. Il serait arrivé à Cherraa avec ses con-
+tingents.
+
+
+Il a envoyé à Oudjda, avec le titre d'amel, un certain El Hadj Mohammed ben Moham-
+med, des Oudaia. Cette nomination a été mal accueillie par les habitants d'Oudjda.
+Ces renseignements, qui semblent indiquer que le Prétendant serait décidé à
+reprendre l'offensive, ont inspiré à Si Ahmed Rekina certaines craintes sous l'empire
+desquelles il a télégraphié à Si Mohammed Torrès, à Tanger, le priant de solliciter un
+envoi de troupes françaises pour protéger la ville.
+
+
+Aux dernières nouvelles, on annonce que le Prétendant ayant écrit aux Mehaia,
+Angad, Messara et Beni Khaled de piller les biens des habitants d'Oudjda et de marcher
+sur cette ville qui avait manifesté en faveur du Sultan, les représentants de ces tribus
+ont décidé de répondre à cet appel. Ils se sont dirigés vers la ville en razziant les ani-
+maux rencontrés. Ils ont tué deux indigènes d'Oudjda et en ont blessé un. Les habi-
+tants ont alors fermé les portes de leur ville, ont emprisonné les gens des tribus rebelles
+qui s'y trouvaient et ont retenu leurs animaux. En présence de ces faits la Mission
+marocaine insiste auprès de son Ministre à Tanger pour que l'intervention des troupes
+françaises s'effectue sans retard. Dautre part, les notables d'Oudjda, qui se trouvaient
+à Marnia au moment de ces évènements, ont déclaré au Commandant supérieur que
+les habitants d'Oudjda, se voyant abandonnés par le Makhzen et menacés par le pré-
+tendant, à qui ils ne veulent pas se soumettre, implorent la protection de la France et
+sont prêts à supporter toutes les conséquences de notre intervention, même l'abandon
+définitif de leur ville aux Français, à condition que l'on agisse sans délai et qu'Oudjda
+reste à jamais et quoi qu'il arrive sous la protection française. Au cas où leur demande
+serait agréée, ils s'engagent à apporter une déclaration dans ce sens signée par toutes
+les notabilités intéressées, sans exception..
+
+
+Nº 99.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+JONNART.
+
+
+Alger, le 27 juin 1903.
+
+
+Comme suite à ma lettre du 26 juin, j'ai l'honneur de vous faire connaître que le
+
+
+94
+
+
+Prétendant est arrivé à Aghbal. Il aurait l'intention d'entrer sous peu à Oudjda. L'effec-
+tif de ses contingents serait actuellement de 300 cavaliers environ et de 250 fan-
+lassins.
+
+
+Cette attitude nettement offensive provoque un mouvement en sa faveur parmi les
+tribus marocaines de la frontière qui montraient un peu d'indécision tant qu'il est
+resté immobile dans son camp de Selouane.
+
+
+D'après des renseignements émanant d'une source sérieuse, il aurait l'intention de
+demander une entrevue au Commandant supérieur de Marnia. J'ai prescrit à cet Offi-
+cier supérieur de refuser les lettres qui lui seraient remises de la part de l'agitateur et
+de n'entrer aucunement en relation avec lui.
+
+
+La population d'Oudjda est fortement impressionnée par l'approche des rebelles.
+Dans les circonstances actuelles, la Mission de Si Ahmed Rekina semble vouée à
+un échec complet, parce que les tribus de la région constatent que le Sultan ne fait
+rien pour s'opposer à la marche du Prétendant. Si Ahmed Rekina se rend hien compte
+lui-même de son impuissance: c'est pour ce motif qu'il a adressé à Si Mohammed
+Torrès des télégrammes pour demander l'intervention de nos troupes.
+
+
+N° 100.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+JONNART.
+
+
+Alger, le 28 juin 1903.
+
+
+Le Prétendant qui s'était porté, la semaine dernière, de Cherraa à Aghbal a quitté
+cette localité, le 26, pour aller camper sous les murs d'Oudjda. Il s'est installé à
+2 kilomètres 'environ au sud-ouest de cette ville, à Sidi-Aïssa, avec de nombreux
+contingents et il paraît s'être rendu maître des sources qui alimentent Oudjda. Toutes
+les tribus de l'Est auraient adhéré à sa cause. Guebbas a déclaré au Commmandant du
+cercle de Marnia que le Makhzen allait envoyer par mer dans l'Amalat d'Oudjda
+2,000 fantassins, dont la moitié serait déjà en route pour Tanger, venant de Fez.
+J'ai fait admettre en franchise cinq cents fusils, cinquante mille cartouches,
+cinq cents uniformes et 50,000 douros adressés par le Gouvernement marocain à la
+Mission de Marnia et parvenus le 26 à Nemours.
+
+
+JONNART.
+
+
+95
+
+
+?
+
+
+N° 101.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 juin 1903.
+
+
+Le Makhzen a décidé qu'il n'y avait pas lieu pour le moment de confirmer les
+demandes faites par Rekina et Si Torrès en vue d'une intervention de nos troupes à
+Oudjda. Ben Sliman s'est déclaré très reconnaissant de l'attitude à la fois bienveillante
+et réservée que j'ai gardée en présence de la démarche de Si Torrès. D'après le langage
+que plusieurs Ministres ont tenu spontanément sur ce sujet au drogman auxiliaire
+de ma Légation, M. Ben Ghabrit, le Makhzen paraît avoir considéré que l'appel fait à
+une intervention armée de l'étranger constituerait aux yeux des tribus soumises un
+aveu d'impuissance qui ne serait pas sans danger.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 102.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 juin 1903.
+
+
+J'ai fait savoir à Si Torrès, sous les réserves indiquées par votre télégramme du 25
+de ce mois, que les troupes marocaines destinées à secourir Oudjda seraient admises
+à passer par notre territoire. Si Torrès m'a dit que cette troupe, qui compterait environ
+800 hommes, arriverait à Tanger nuitamment et qu'elle s'embarquerait sur le paquebot
+français du 8 juillet.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+96
+
+
+N° 103.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 30 juin 1903.
+
+
+D'après les renseignements que me transmet le chef de notre mission militaire à
+Fez, la colonne qui se dirige vers Taza, sous le commandement du Ministre de la
+guerre, El Menebhi, a livrée, le 11 et le 20 de ce mois, deux combats aux tribus de la
+montagne; on a pu apprécier, surtout dans la première de ces deux occasions, l'utilité
+du concours que le sous-lieutenant indigène de notre mission, M. Ben Sedira, fournit
+à l'armée chérifienne. Il est avéré que, le 11, c'est à l'opportune intervention de cet
+officier et à quelques obus bien envoyés par lui que les troupes du Sultan ont dû de
+ne pas subir un désastre et de garder le champ de bataille, alors qu'elles avaient été
+déjà tournées et battues à l'aile droite. Dans le combat du 20, les rebelles qui com-
+prenaient les tribus des Tsoul, des Branès, des Haïaïna et des Çanhadja, sous les
+ordres du Khalifa du Rogui, mirent en déroute l'aile gauche de l'armée chérifienne
+et furent arrêtés à quelques centaines de mètres, par l'artillerie: le sous-lieutenant
+Sedira reçut à ce moment de Menebhi l'ordre de se replier.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 104.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 6 juillet 1903.
+
+
+Le Ministre chérifien des Affaires étrangères vient de m'exprimer le vœu que nous
+prètions un concours discret à la troupe chérifienne chargée d'occuper Oudjda.
+J'ai l'honneur de vous envoyer ci-joint la traduction intégrale de la lettre que j'ai
+reçue de Ben Sliman à ce sujet.
+
+
+Le capitaine Larras me paraîtrait désigné pour donner à Guebbas et à Rekina les
+conseils et l'assistance dont ils ont besoin.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+97
+
+
+ANNEXE.
+
+
+SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères du Sultan,
+à M. SAINT-RENÉ TAILLANDIER, Ministre de France à Tanger.
+
+
+TRADUCTION.
+
+
+Fez, le 1 juillet 1903.
+
+
+Votre premier secrétaire, M. Descos, m'a fait connaître que, grâce à vos efforts et à votre
+active intervention, le Gouvernement français respecté, dont vous avez reçu la réponse,
+consent à appuyer le délégué de S. M. Chérifienne, Si Ahmed Errekina, en ce qui concerne
+les choses qui lui sont indispensables et qui doivent lui faciliter sa mission dans la région
+d'Oudjda et pays circonvoisins; le Gouvernement français veut bien notamment autoriser le
+débarquement au port de Nemours des soldats de Sa Majesté qui y seront transportés par
+mer, et leur envoi à ce délégué par Marnia, et permet également leur passage sur les routes
+de l'intérieur de la partie de la frontière algérienne voisine, dans le cas où, les circonstances
+exigeant que leur débarquement fût effectué au port de Saïdia d'Adjeroud, il ne serait pas
+possible de les conduire à Oudjda par terre en passant par le territoire de S. M. Chéri-
+fienne.
+
+
+J'ai fait part de ce qui précède à S. M. Chérifienne qui m'a ordonné (Dieu la fortifie!) de
+vous écrire pour vous exprimer sa gratitude envers le Gouvernement ami et pour vous
+remercier personnellement de votre amicale intervention et de votre appui en vue du main-
+tien des droits de voisinage.
+
+
+Elle m'a ordonné également de vous demander encore de faire vos efforts pour obtenir
+que M. le Gouverneur général de l'Algérie et les autorités des points voisins de la frontière
+du Maroc reçoivent pour instructions précises de soutenir le délégué Si Ahmed Errekina en
+faisant venir pour lui, moyennant payement, tout ce dont il demandera la venue, comme
+armes, cartouches et même canons et munitions. De même s'il avait besoin de quatre ou
+six artilleurs expérimentés, on voudrait bien les lui fournir pour qu'ils lui prêtent leur con-
+cours pendant la durée de son séjour dans cette région, après quoi, au moment de son
+départ, ils retourneraient à leur lieu de résidence. Mais, à cet égard, il serait désirable que
+ces artilleurs fussent des musulmans d'Algérie instruits dans l'art de l'artillerie et dont le
+costume ressemblât au genre de costume des soldats marocains. Toutefois, s'il est indispen-
+sable que certains d'entre eux soient des Français, je désirerais qu'ils portassent un costume
+de même genre et qu'ils parlassent l'arabe; tout cela pour des raisons que vous connaissez.
+
+
+Je n'ai pas besoin d'attirer votre attention sur l'urgence qu'il y a à accéder immédiatement
+aux demandes que fait Si Ahmed Errekina avant que le moment propice soit passé, et sur
+l'importance qu'il y aura à veiller à ce qu'on ne fasse venir que des armes de bonne qualité
+qui puissent servir de suite et plus tard, à surveiller leur achat, à en fixer le prix, afin que
+toutes les opérations de ce genre soient sérieuses et efficaces.
+
+
+Nous vous remercions d'avance, pleins de gratitude pour les résultats de vos bons procédés
+et la bienveillance de votre Gouvernement respecté.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+ABDELKERIM BEN SLIMAN.
+
+
+13
+
+
+98
+
+
+N° 105.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. JONNART, Gouverneur général de l'Algérie.
+
+
+Paris, le 9 juillet 1903.
+
+
+Je crois utile d'appeler votre attention sur les considérations de politique générale
+pour lesquelles il me semble actuellement désirable de prolonger la mission de
+Guebbas en Algérie et de faciliter les efforts tentés en ce moment par le makhzen
+pour affermir son autorité dans la région voisine de notre frontière.
+
+
+Il n'est pas sans intérêt de rappeler l'inutilité de nos tentatives, depuis un demi-
+siècle, pour faire pénétrer notre influence au Maroc par les frontières de l'Algérie,
+en dépit des avantages qui eussent dû cependant résulter pour nous de notre voi-
+sinage. D'importantes tribus marocaines constituaient entre l'Algérie et le Maroc
+comme un rideau impénétrable. Pour éviter d'aigrir des querelles locales et de
+faire naître à notre frontière une agitation qui pouvait porter ombrage à certaines
+Puissances, après avoir interdit à nos administrés de se faire eux-mêmes justice en cas
+d'agression, nous n'exercions plus nous-mêmes que fort rarement le droit de suite
+résultant du traité de 1845, et nous nous contentions d'exiger, en quelque sorte
+périodiquement, du Gouvernement chérifien des indemnités en faveur de nos tribus
+razziées, sans que la plupart du temps les vrais coupables en supportassent eux-mêmes
+la charge. A la faveur de ce régime, il s'était constitué en fait entre l'Algérie et le
+Maroc proprement dit une espèce de zone indépendante qui nous isolait absolument
+de nos voisins.
+
+
+En concluant avec le Sultan les accords de 1901-1902, le Gouvernement de la
+République a eu surtout en vue de modifier cette situation qui ne pouvait se prolonger
+sans de graves inconvénients pour nous. Si nous mettons avec suite en pratique ła
+politique qui doit en découler, il y a lieu d'espérer que, d'ici peu, nous pourrons
+d'accord avec le Makhzen, établir, à travers les tribus pacifiées, de nombreux points de
+contact avec l'Empire voisin et par là améliorer rapidement nos rapports avec le
+Sultan.
+
+
+La présence de Guebbas en Algérie et le concours que nous accordons actuelle-
+ment aw Sultan pour rétablir son autorité le long de nós confins doivent contribuer à
+atteindre ce résultat.
+
+
+DELCASSÉ.
+
+
+99
+
+
+N° 106.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 9 juillet 1903.
+
+
+Notre Ministre à Tanger m'annonce qu'environ treize cents soldats marocains
+viennent d'être embarqués dans ce port à destination de Nemours. J'ai envoyé des
+instructions pour que ces troupes soient bien accueillies, et que toutes facilités soient
+données en vue de leur passage sur notre territoire et du transport des armes et mu-
+nitions qui les ont précédées à Nemours. J'envoie dans cette ville mon chef de Cabinet
+pour veiller à ce que, conformément à vos vues, le concours des autorités locales soit
+assuré à ces troupes et à la mission marocaine. Je ne négligerai rien pour faciliter les
+opérations projetées qui, si elles sont bien conduites, pourront évidemment avoir
+d'heureux résultats au point de vue de nos relations avec le Gouvernement marocain.
+
+
+JONNART.
+
+
+N° 107.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. JONNART, Gouverneur général de l'Algérie.
+
+
+Paris, le 15 juillet 1903.
+
+
+Le capitaine Larras, qui a fait partie de notre mission militaire au Maroc, part
+ce soir pour Oran, d'où il se mettra sans retard en relations avec Rekina et avec
+Guebbas afin de se concerter avec eux au sujet des préparatifs de l'expédition pro-
+jetée sur Oudjda par les troupes marocaines en ce moment en Algérie. Je vous serai
+obligé de vouloir bien seconder la mission de cet officier et de donner des ordres
+dans ce sens aux autorités civiles et militaires d'Oran.
+
+
+DELCASSÉ.
+
+
+13.
+
+
+100
+
+
+N° 108.
+
+
+M. Jules CAMBON, Ambassadeur de la République française à Madrid,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Madrid, le 15 juillet 1903.
+
+
+Les banques espagnoles qui s'étaient associées en vue d'un emprunt marocain
+viennent de conclure cette affaire. Elles prêtent dix millions de pesetas au Makhzen.
+
+
+J. CAMBON.
+
+
+N° 109.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, le 15 juillet 1903.
+
+
+D'après un télégramme que je reçois du directeur de mon Cabinet, le séjour à
+Nemours et le transport des troupes marocaines à la frontière, n'ont donné lieu à
+aucun incident. Elles passeront ce soir, ou demain matin, sur le territoire marocain
+où elles ont envoyé ce matin un détachement qui a occupé la qaçbah de Saïdia,
+Les Ouled-Mansour, tribu marocaine de la frontière, se joindront, au nombre de
+mille environ, aux forces du Makhzen.
+
+
+JONNART.
+
+
+N° 110.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 juillet 1903.
+
+
+Le capitaine Larras m'a communiqué hier le télégramme suivant adressé par lui
+au Gouvernement général de l'Algérie: «Turki arrivé aujourd'hui avec deux cent
+
+
+101
+
+
+quatre-vingts soldats d'artillerie, trois mitrailleuses, mais sans canons. Guebbas vou-
+drait deux canons pour pouvoir se mettre en route; il y a urgence. Conformément aux
+lettres échangées entre le Makhzen et Légation à Tanger, pourrait-on céder, contre
+remboursement, à Guebbas deux canons de quatre-vingts de montagne, avec deux-
+cents coups environ, et tout le matériel correspondant, caisses, bâts, harnachements,
+mulets pour servir les pièces, dont je prendrai le commandement. Guebbas demande
+indigènes algériens pour encadrer artillerie marocaine. Deux bons gradés, cinq ou
+six hommes de choix, pris parmi les musulmans instruits des batteries d'Algérie,
+suffiraient. >>
+
+
+J'appuie cette demande auprès de Votre Excellence.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 111.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger..
+
+
+Paris, le 4 août 1903.
+
+
+Le Ministre de la Guerre me fait savoir qu'il a, dès le 27 juillet, autorisé par télé
+graphe les autorités militaires de l'Algérie à mettre à la disposition de Guebbas,
+contre remboursement, le matériel d'artillerie, avec le personnel nécessaire, indiqué
+dans votre télégramme du 24 juillet.
+
+
+N° 112.
+
+
+DELCASSÉ.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 11 août 1903.
+
+
+Le capitaine Larras me télégraphie que Rekina, avec les troupes du Makhzen, a
+occupé Oudjda ce matin. Guebbas, le capitaine Larras et la section frontière sont à
+Marnia où se concentrent les approvisionnements des Marocains et où doivent arriver
+demain les deux canons fournis par nous.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+102
+
+
+N° 113.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSĚ, Ministre des Affaires étrangères.
+
+
+Alger, le 14 août 1903.
+
+
+J'ai l'honneur de vous adresser l'exposé de la situation politique des indigènes de
+l'Algérie pendant le mois de juillet 1903:
+
+
+EXTRAIT.
+
+
+Les nomades qui ont échappé par la fuite à nos colonnes continuent la
+
+
+série de leurs méfaits. Les vols des moutons et de chameaux sont fréquents.
+Quelques-uns de ces attentats, dirigés contre des convois ou des courriers, sont
+particulièrement graves.
+
+
+Le 10 juillet, un convoi libre composé de 25 chameaux a été enlevé à 15 kilo-
+mètres à l'est de Ben Zireg où il se rendaït, par un djich de 30 à 40 fantassins. Un
+chamelier indigène a été blessé, ainsi qu'un Espagnol au service de l'entrepreneur.
+
+
+Le 22 juillet, le courrier allant de Beni Ounif à Ben Zireg a été attaqué près de
+Bou Yala. Deux spahis de l'escorte ont été blessés.
+
+
+Le 21 et le 22 juillet, plusieurs troupeaux de chameaux appartenant aux Doui
+Menia ralliés ont été volés soit dans la Zousfana, soit dans l'Erg au sud de Taghit.
+Les 25, 26 et 27 juillet, des patrouilles de Mokhaznis de Beni Ounif et de Taghit
+ont eu plusieurs rencontres avec divers groupes de malfaiteurs qui ont laissé 14 des
+leurs sur le terrain. De notre côté, nous avons eu deux tués et trois blessés.
+
+
+Au Tafilelt, les Beraber ont repris les hostilités contre nous. Ils ont formé une
+harka importante qui a réussi à enlever, le 16 juillet, les chameaux de la compagnie
+du Touat au pâturage près de Hassi Djahber dans l'oued. Saoura, à mi-chemin entre
+Adrar et Ksabi. La section de garde de cette compagnie s'est vaillamment défendue.
+Les Beraber, qui étaient au nombre de 300 environ, n'ont pu débusquer nos hommes
+qu'en incendiant les tamarix derrière lesquels ils s'étaient ralliés. Seize cadavres
+ennemis sont restés sur le terrain. Les traces de sang permettent de supposer que les
+agresseurs ont eu en outre beaucoup de blessés. Nos pertes sont de 19 tués,  blessés,
+1 prisonnier. L'ennemi a enlevé 39 chameaux, 51 mehara et 22 carabines.
+
+
+Le chef de l'annexe de Beni Abbes, avec 45 Mokhaznis, appuyés par 41 meharistes
+de la compagnie du Gourara, a surpris cette harka au retour, le 25 juillet, à Noukhilet
+(40 kilomètres sud-est de Tabelbalet) et lui a livré un combat qui a duré deux heures.
+La harka paraît avoir de nombreux tués et blessés. Elle a eu 40 chameaux tués et
+36 enlevés, dont wa certain nombre provenaient de la compagnie du Touat. De notre
+còté 9 hommes ont été tués et 16 blessés.
+
+
+JONNART.
+
+
+103-
+
+
+N° 114.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 19 août 1903.
+
+
+Annexe de Taghit télégraphie qu'une harka très considérable a attaqué les Beni
+Goumi dans la matinée et la journée du 17. Après avoir feint de se diriger sur Zaouïa
+Foukania, elle s'est jetée par la Hammada sur Ksar Bakhti abandonné et elle l'a brûlé,
+puis sur Ksar Berrebi; mais celui-ci, solidement organisé et défendu par la majeure
+partie des Douï-Ménia soumis et des Qçouriens, a repoussé dans la matinée deux
+assauts et infligé beaucoup de pertes à l'ennemi. Combats très vifs entre Berrebi et
+Taghit et sous les murailles de Taghit. L'attaque furieuse de la harka a été repoussée,
+vraisemblablement avec grandes pertes pour elle. Chez nous, un tirailleur tué, un
+adjudant très grièvement blessé, un tirailleur et deux mokhaznis blessés.
+
+
+JONNART.
+
+
+N° 115.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 21 août 1903.
+
+
+Annexe de Taghit télégraphie que, le 18, à 11 heures du matin, un nouveau
+combat a été livré entre Taghit et Berrebi par un détachement du bataillon d'Afrique,
+le makhzen et les gens de Taghit contre une portion considérable de la harka qui a
+été repoussée après trois heures de combat. Nos pertes se bornent à un Doui Ménia
+et un Qçourien tués, deux mokhaznis et un cavalier courrier blessés. Les pertes de
+l'ennemi doivent être considérables. Le 19 au petit jour, combat très violent sur le
+plateau entre harka marchant sur Taghit et cent tirailleurs, une section de la légion
+et le makhzen, au bout duquel une attaque de toute la harka sur Taghit a eu lieu.
+Violent combat de 4 heures et demie à 8 heures et demie du matin, pendant lequel
+le poste de Taghit a été attaqué de tous côtés. La harka a été refoulée avec pertes qui
+doivent être considérables; à 9 heures et demie, Taghit était complètement dégagé
+et la harka battait en retraite sur son camp entre Berrebi et Bakhti. Nos pertes:
+quatre tirailleurs blessés dont deux grièvement, un légionnaire légèrement blessé.
+L'effectif de la garnison n'a pas permis de poursuivre l'ennemi qui devait être éprouvé
+et démoralisé; on ignore ses intentions ultérieures.
+
+
+JONNART.
+
+
+104
+
+
+N° 116..
+
+
+M. SAINT-RENÉ TAILLANDIER Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 26 août 1903.
+
+
+Le Commissaire marocain vient de décider l'installation immédiate de la section
+frontière à Oudjda. Le service que Votre Excellence m'a permis de lui rendre, par
+l'envoi du capitaine Larras, n'est certainement pas étranger à ce résultat.
+Un second officier est arrivé avant-hier à Oudjda.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 117.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 28 août 1903.
+
+
+La cavalerie de la mahalla de Taza, forte d'environ deux mille hommes, ayant
+essayé, le 22, de se porter à la rencontre du Sultan, a été attaquée par les monta-
+gnards à l'Oued el Hadar et a subi un sérieux échec. Depuis plus de vingt jours, le
+Sultan, arrèté par la résistance des Tsoul, n'a fait aucun progrès dans sa marche vers
+Taza.
+
+
+N° 118.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, le 7 septembre 1903.
+
+
+J'ai l'honneur de vous envoyer ci-dessous une copie d'un télégramme que je reçois
+
+
+i
+
+
+105
+
+
+à l'instant, me donnant des renseignements sur une nouvelle attaque que nous avons
+subie, le 3 septembre, dans l'extrême Sud-Oranais:
+
+
+<< D'après nouvelles provenant de Taghit, le 2ª peloton de la compagnie montée
+ du 2ª étranger a été attaqué près de Moungar. Nous avons eu 37 tués, 47 blessés;
+ capitaine Vauchez tué, lieutenant Selchauhansen blessé.
+
+
+JONNART.
+
+
+N° 119.
+
+
+Le Général ANDRÉ, Ministre de la Guerre,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, e 14 septembre 1903.
+
+
+J'ai l'honneur de vous faire connaître que j'ai reçu de la Société Schneider et Cie,
+du Creusot, une communication d'après laquelle Si Mohammed el Guebbas, délégué
+chérifien, désirait obtenir d'urgence et dans les mêmes conditions que la livraison
+précédente, la cession d'une pièce de 80 de montagne et ses accessoires et mu-
+nitions, pour remplacer le matériel pris aux troupes du Gouvernement marocain par
+les partisans du Prétendant.
+
+
+En raison de l'urgence qu'il y avait à satisfaire à cette demande et me basant sur
+l'adhésion que vous aviez donnée à la requête du même genre que Si Guebbas
+avait présentée antérieurement, j'ai donné tous ordres nécessaires pour que la livrai-
+son du matériel susvisé soit faite immédiatement par la Direction de l'artillerie, à
+Oran, contre remboursement.
+
+
+N° 120.
+
+
+ANDRÉ.
+
+
+M. DESCOS, Chargé d'affaires de France à Tanger,
+
+
+ M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 septembre 1903.
+
+
+Le capitaine Martin, chef de la section frontière de notre mission militaire, télé-
+graphie d'Oudjda, à la date d'hier, que les contingents rebelles se dirigent vers la
+ville. Rekina a prié le capitaine Martin de provoquer la réunion de deux bataillons
+
+
+DOCUMENTS DIPLOMATIQUES. Магос,
+
+
+14
+
+
+106
+
+
+et de 500 cavaliers à la frontière, prêts à intervenir à Oudjdá, sur une demande
+officielle qu'il formulerait le cas échéant. Cette demande a été transmise au com-
+mandant supérieur de Marnia.
+
+
+N° 121.
+
+
+DESCOS.
+
+
+M. JonnaRT, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 19 septembre 1903.
+
+
+Je reçois de Marnia le télégramme suivant du général Delanneau, commandant
+la subdivision de Tlemcen:
+
+
+ Capitaine Martin transmet requête de Rekina de tenir sur frontière deux batail-
+lons d'infanterie et 500 cavaliers prêts à entrer à Oudjda dès qu'il en fera la demande
+officielle. Si cette demande parvient, dois-je occuper Oudjda? >>>
+
+
+Je réponds comme suit:
+
+
+« Le Ministre des Affaires étrangères a seul qualité pour recevoir et examiner une
+demande officielle qui lui serait adressée par le Gouvernement marocain en vue
+d'occuper Oudjda. >>>
+
+
+N° 122.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. DESCOS, Chargé d'affaires de la République française à Tanger.
+
+
+Paris, le 21 septembre 1903.
+
+
+Je réponds à votre télégramme du 19, relatif à la demande d'intervention adressée
+par Rekina aux autorités algériennes.
+
+
+Fidèles à notre ligne de conduite, nous ne pourrions examiner utilement une
+pareille demande que si elle nous était adressée formellement par le Ministre des
+Affaires étrangères du Sultan.
+
+
+DELCASSÉ.
+
+
+107
+
+
+N° 123.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. JONNART, Gouverneur général de l'Algérie.
+
+
+Paris, le 21 septembre 1903.
+
+
+Je ne peux qu'approuver votre réponse au général Delanneau.
+Fidèles à notre ligne de conduite, nous ne pourrions examiner utilement une
+pareille demande que si elle nous était adressée formellement par le Ministre des
+Affaires étrangères du Sultan.
+
+
+N° 124.
+
+
+DELCASSÉ.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 24 septembre 1903.
+
+
+Si Mohammed el Guebbas s'était empressé, dès mon arrivée, de venir me remer-
+cier, au nom de son Gouvernement, du concours que l'administration Algérienne lui
+avait prêté sur la frontière marocaine.
+
+
+J'ai rendu hier sa visite à l'envoyé du Makhzen, qui a renouvelé ses protestations
+de reconnaissance et d'amitié pour notre pays, en insistant particulièrement sur l'obli-
+gation qu'il nous avait pour avoir écarté de la frontière les rebelles qui s'étaient réfu-
+giés sur notre territoire. Gette mesure de police avait été prise en effet par le com-
+mandant supérieur de Marnia, à la suite d'une entente avec Si Guebbas. Les
+partisans du prétendant qui ont passé en Algérie ont été invités à se rendre dans des
+tribus éloignées de la frontière et se sont soumis sans difficulté à ces prescriptions.
+
+
+J'ai donné à entendre à Si Guebbas, sans me départir du ton de cordialité qui a
+marqué cet entretien, que la situation actuelle du Sud-Oranais ne nous laissait pas
+toute la liberté d'esprit nécessaire pour entretenir des relations étroites et suivies
+avec les autorités marocaines de la frontière, les agressions continuelles qui nous
+viennent du côté de l'ouest et que les agents du makhzen sont impuissants à prévenir,
+n'étant pas pour nous encourager à coopérer avec eux dans cette région. Je lui ai
+signalé notamment que nous avions de fortes raisons de croire que les fusils à tir
+rapide, avec lesquels les nomades ont attaqué dernièrement nos colonnes et nos
+
+
+14.
+
+
+108
+
+
+postes, provenaient de l'armement de la ci-devant garnison de Figuig, dont les sol-
+dats se sont dispersés en vendant leur équipement.
+
+
+J'ajoute à ce propos qu'on attire de divers côtés mon attention sur la contrebande
+d'armes qui se fait en grandes quantités par les côtes du Maroc, et que le Gou-
+vernement du Sultan aurait, autant que nous, intérêt à supprimer.
+
+
+J'ai l'honneur de soumettre cette question à votre examen, estimant qu'il serait
+très important à tous égards, d'arriver à une entente à ce sujet avec le makhzen en
+lui offrant, si vous le jugez possible, le concours de notre marine à cet effet.
+
+
+Il serait bon en effet que notre entente avec le Maroc se traduisît par quelques
+mesures profitables aux deux parties. Nos relations avec Si Guebbas sont excellentes,
+et l'agent du Makhzen en Algérie m'a exprimé l'intention d'en témoigner de nouveau
+auprès de son gouvernement; mais, puisqu'il se réfère volontiers aux accords franco-
+marocains, il est permis de remarquer que jusqu'ici nous avons été les seuls à les
+appliquer.
+
+
+N° 125.
+
+
+JONNART.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 1er octobre 1903.
+
+
+Je viens de recevoir seulement les rapports relatifs aux derniers incidents du Sud-
+Oranais et je puis maintenant assigner aux agressions de Taghit et d'El Moungar leur véri-
+table caractère. Il est parfaitement établi que la petite armée qui a assiégé Taghit, du 17
+au 20 août, comprenait, sur 4,000 combattants, 3,000 Beraber et autres habitants du
+Tafilelt. Or, on sait que cette oasis est le pays d'origine de la famille chérifienne;
+elle a actuellement pour gouverneur Moulay Rechid, oncle du Sultan, et le chef même
+de l'expédition, Mostefa el Hanafi, appartient également à la famille impériale. Les
+tribus du Tafilelt, à la différence des tribus des Doui Menia, des Oulad Djerir, des
+Beni Guill, qui nous avoisinent, sont restées attachées par des liens assez étroits à la
+dynastie, sans pourtant payer tribut. Il y a un mois, dans le temps même où elles
+tentaient d'enlever nos postes, elles mettaient 1,500 à 1,800 fantassins à la disposi-
+tion du makhzen. Il est donc tout à fait invraisemblable que le Gouvernement maro-
+cain ait ignoré ce qui se tramait contre nous, d'autant plus que nous-mêmes en étions
+avisés plusieurs semaines avant l'affaire de Taghit. Si Guebbas, qui naguère s'était
+fort ému de l'incident de Zenaga et avait réclamé de nous le châtiment des cou-
+pables, n'a fait aucune mention des derniers événements de la frontière. Quant aux
+motifs de cette agression, on ne saurait plus les chercher dans la disette. La dernière
+récolte, qui a presque totalement manqué dans notre voisinage immédiat, a été
+
+
+109
+
+
+bonne dans le. Tafilelt, et la harka de Mostefa el Hanafi était très bien approvi-
+sionnée. C'est donc uniquement la haine de l'étranger et du chrétien qui a guidé
+nos adversaires; leur déroute devant Taghit, effacée d'ailleurs en partie par la sur-
+prise d'El-Moungar, n'a certainement pas diminué leur fanatisme, et l'on m'annonce
+que de nouvelles harkas des mêmes tribus se préparent dans la région du Guir.
+
+
+Il ne m'appartient pas d'examiner si le fait qu'une véritable guerre sainte est orga-
+nisée contre nous, au su du Sultan, doit influer sur notre attitude à son égard, mais
+j'avais le devoir de vous signaler qu'à mon sens la responsabilité du Gouvernement
+marocain est directement engagée dans les récents incidents.
+
+
+JONNART.
+
+
+N° 126.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 7 octobre 1903.
+
+
+La part prépondérante prise par les tribus du Tafilelt à l'attaque de Taghit
+résulte de tous les rapports de nos postes du Sud-Oranais. Dès le mois de juillet, on
+annonçait de Beni Abbès la formation d'une très forte harka, composée en grande
+partie de gens du Tafilelt sous les ordres de Moulay Amar ben Mostefa el Hanafi
+du Tissimi (Tafilelt). Après les trois jours de combats sous Taghit, une partie de la
+harka s'enfuit vers le Tafilelt; des prisonniers qu'on fit dans cette affaire confir-
+mèrent que leur chef principal était Moulay Mostefa et après lui Ali Ouiidir, chef
+des Aït Atta. Les Aït Khebbache, Aït Aïssa, Aït Saïd, autres tribus de cette oasis,
+avaient pris part à l'expédition. Une caravane, arrivée le 16 septembre à El Aricha,
+a fait savoir également que les gens du Tafilelt (Beraber, Aït Atta, Sebbah) avaient
+envoyé trois mille fantassins devant Taghit. La fidélité des gens du Tafilelt à l'égard
+du Sultan, n'a jamais été contestée; le Gouverneur de cette oasis est depuis long-
+temps Moulay Rechid, grand-oncle d'Abd el Aziz. Quant au chef de la harka, Moulay
+Amar, étant des Cheurfa de Mdaghra, il fait partie de la famille chérifienne.
+
+
+Un des frapports précités signalait l'enthousiasme soulevé dans le Tafilelt par une
+prétendue victoire du Sultan, et Moulay Rechid envoyait au Makhzen, vers la fin
+d'août, un corps de 15 à 1,800 fantassins. Cependant je dois ajouter que naguère
+le même Gouverneur du Tafilelt nous a plus d'une fois avisés indirectement des
+mouvements des harkas qui se dirigeaient sur notre territoire.
+
+
+Le Makhzen pourra, s'il est saisi d'une réclamation, discuter sur tel ou tel point
+de détail, mais rien ne saurait prévaloir contre deux faits incontestables : 1º la harka
+
+
+110
+
+
+a été recrutée principalement au Tafilelt, région qui est restée fidèle au Sultan;
+2º le Makhzen ne nous a pas avisés du rassemblement de cette harka qui, depuis
+plus d'un mois, se préparait contre nous et qu'il ne pouvait ignorer, les nouvelles
+circulant au Maroc aussi rapidement qu'en Algérie et nous-mêmes étant avisés de ces
+mouvements. C'est en cela que consiste la responsabilité du Gouvernement marocain;
+ainsi définie, elle me paraît indubitable.
+
+
+JONNART.
+
+
+N° 127.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 7 octobre 1903.
+
+
+Je crois devoir vous signaler la nécessité d'obtenir du Maroc l'interdiction de
+l'importation et la répression de la contrebande des armes et munitions de guerre.
+Cette mesure, aussi utile au Makhzen qu'à nous-mêmes, compléterait l'ensemble des
+dispositions d'ordre militaire que j'ai soumises à l'examen du Gouvernement en vue
+du rétablissement de la sécurité sur notre frontière. Depuis un an l'importation
+clandestine ou déclarée des armes au Maroc a augmenté dans des proportions
+considérables.
+
+
+N° 128.
+
+
+JONNART.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 20 octobre 1903.
+
+
+J'ai l'honneur de vous adresser l'exposé de la situation politique des indigènes de
+l'Algérie pendant le mois de septembre.
+
+
+(Extrait.)
+
+
+..... Le 26 septembre, une quarantaine d'Amour dissidents ont volé un troupeau
+......
+de moutons près d'Hadjerat Mguil. Un détachement de spahis et de légionnaires,
+
+
+☐ ☐111 
+
+
+envoyé à leur poursuite, eut un engagement avec eux dans le Beni Smir. Les Amour
+réussirent à s'échapper dans la montagne. Un brigadier de spahis a été mortellement
+blessé dans ce combat.
+
+
+N° 129.
+
+
+JONNART.
+
+
+M. DESCOS, Chargé d'affaires de France à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 octobre 1903.
+
+
+Une lettre du Sultan a été lue dans les mosquées de Fez annonçant qu'à cause de
+la mauvaise saison, le Makhzen avait décidé de revenir en ville avec toute la mahalla
+campée à Outa-bou-habane; la mahalla de Taza devait évacuer cette ville et prendre
+la direction d'Oudjda; en cas de besoin, l'expédition serait reprise au printemps contre
+les rebelles.
+
+
+On annonce que la colonne du Sultan s'est déjà mise en marche et, à l'heure
+actuelle, elle est sans doute rentrée à Fez. C'est donc l'échec complet de l'expédition
+chérifienne et l'abandon du pays entre Fez et la Moulouia. Désormais débarrassé de
+toutes les préoccupations du côté de l'Ouest, il va être loisible à Bou-Hamara, s'il le
+juge à propos, de reprendre son action du côté de l'Est.
+
+
+DESCOS
+
+
+N° 130.
+
+
+M. DESCOS, Chargé d'affaires de France à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 31 octobre 1903.
+
+
+Le Sultan est rentré à Fez, mercredi matin, sans incident. Pendant sa retraite,
+l'arrière-garde de la colonne a été constamment assaillie par les rebelles, et la rébel-
+lion paraît s'ètre aussitôt réinstallée dans toute la vallée de l'Oued Inaouen.
+
+
+DESCOS.
+
+
+:
+
+
+112
+
+
+N° 131.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 30 novembre 1903.
+
+
+Le lieutenant Mougin, commandant par intérim de la section frontière de nos
+instructeurs à Oudjda, vient d'aller passer quelques jours au camp de la colonne ché-
+rifienne de Taza. Je crois utile de communiquer ci-joints à Votre Excellence les rensei-
+gnements qu'il m'a adressés au sujet du sous-lieutenant Ben Sedira et des services
+que cet officier indigène a rendus pendant üne longue et pénible campagne à l'armée
+du Sultan.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+ANNEXE.
+
+
+Dès mon arrivée à Aïoun Sidi Mellouk, je suis allé voir les chefs de la colonne. Accom-
+pagné par le sous-lieutenant Ben Sedira, qui vient de faire avec la Mahalla de Taza une
+longue et dure campagne de 7 mois, je me suis rendu chez Si Ahmed el Djai, qui, en pré-
+sence de Si Rekina, n'a pas tari d'éloges au sujet du sous-lieutenant Ben Sedira et des exploits
+de son canon. C'est au cours de cette conversation que Si Rekina m'a prié de commander
+au représentant des établissements Gautsch 500 obus pour canon de 75 millimètres à tir
+rapide Schneider-Canet.
+
+
+Si el Madani el Glaoui nous a reçus admirablement; il n'a cessé d'exprimer sa reconnais-
+sance pour le Gouvernement français qui aidait moralement et matériellement le Makhzen,
+qui prenait part aux malheurs et aux joies du Gouvernement marocain: «Nous ne saurons
+jamais trop de gré à votre Gouvernement, vous êtes nos alliés, nous marchons ensemble et
+l'aide de vous tous ici nous le prouve. Si Ben Sedira nous a sauvés à Taza; ce qu'il a fait
+en petit pour la Mahalla, votre Gouvernement le fera en grand pour le Sultan. >>>
+
+
+Si Ahmed el Harrab et Si el Hamidou Cherradi, qu'on nous dit très hostiles aux Européens,
+reconnaissent cependant qu'on les a beaucoup aidés, et que la présence d'un officier français
+à Taza les a sauvés.
+
+
+Tous les Qaïds rahas ou mias que nous avons rencontrés font l'éloge du sous-lieu-
+tenant Ben Sedira, dont l'influence sur la Mahalla tout entière est indéniable. Son canon
+portait l'effroi partout, et les Riata, après avoir mis la tête de cet officier à prix
+(800 douros), ont proposé de se rallier à la cause du Sultan, si on le leur livrait.
+<< C'est notre sauveur, et, plus jamais nous ne voulons nous séparer de lui, nous disaient
+les Qaïds. >>>
+
+
+Oudjda, le 30 novembre 1903.
+
+
+MOUGIN.
+
+
+113
+
+
+N° 132.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. JONNART, Gouverneur général de l'Algérie.
+
+
+Paris, le 19 décembre 1903.
+
+
+A plusieurs reprises, vous avez bien voulu me communiquer les renseignements
+que vous aviez pu recueillir, au sujet des attaques récemment dirigées par les tribus
+marocaines contre nos postes et convois du Sud-Oranais, renseignements d'où il
+semblait ressortir que le Makhzen n'aurait pas été étranger à l'organisation des harkas
+qui venaient périodiquement assaillir nos troupes dans la région saharienne.
+
+
+Ces informations, et les appréciations personnelles que vous y aviez jointes, ne
+pouvaient manquer de retenir ma plus sérieuse attention.
+
+
+Assurément, l'anarchie où se débat depuis quelques mois l'empire chérifien ne
+nous permettait pas de faire retomber sur le Sultan toute la responsabilité des actes
+dont nous avions eu à souffrir, ces actes ayant été commis par des indigènes qui,
+pour la plupart, échappent en fait à l'autorité impériale. Mais nous étions pleine-
+ment fondés à lui reprocher sa négligence à nous avertir des mouvements qui se
+sont préparés sur son territoire et dont il est difficile d'admettre qu'il n'ait pas eu
+connaissance.
+
+
+Aussi n'avais-je pas hésité à prescrire à notre Chargé d'affaires à Tanger de noti-
+fier au Makhzen nos légitimes griefs et de lui déclarer que nous le tiendrions dés-
+ormais pour responsable de l'ignorance où il nous laisserait des tentatives d'agres-
+sions qui seraient de nouveau tramées contre nous. En même temps, M. Descos
+devait porter à la connaissance du Gouvernement chérifien les mesures d'ordre mi-
+litaire que le Conseil des Ministres avait résolu de prendre, sur le versant occidental
+du Djebel-Bechar, en vue de protéger nos lignes de la Zousfana.
+
+
+Notre représentant vient de me faire connaître le résultat des démarches dont je
+l'avais chargé. Le makhzen a, comme je l'espérais, compris l'importance de l'aver-
+tissement qui lui était donné, et les déclarations faites à notre Vice-Consul à Fez
+par Abdelkerim ben Sliman sont de nature à nous satisfaire. Ainsi que vous le
+verrez par la lecture du rapport, ci-joint en copie, de M. Gaillard, le Makhzen s'en-
+gage, non seulement à faire tous ses efforts pour amener à des sentiments pacifiques
+les tribus voisines de notre territoire, mais aussi à nous prévenir toutes les fois qu'il
+serait instruit de dispositions hostiles, prises malgré lui par ces tribus. En outre, il
+reconnaît la légitimité des mesures de préservation ou de répression auxquelles nous
+sommes obligés de recourir, et il ne s'oppose pas à l'occupation, décidée par nous,
+d'un point situé sur le versant occidental du Béchar, pourvu que nous évitions de pé-
+nétrer dans certains qçour et de prendre des dispositions contraires aux accords de
+1901-1902.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+DELCASSÉ.
+
+
+15
+
+
+114
+
+
+ANNEXE.
+
+
+M. GAILLARD, Vice-Consul de France à Fez,
+
+
+à M. DESCOS, Chargé d'affaires de France au Maroc.
+
+
+Fez, le 34 novembre 1903.
+
+
+J'ai l'honneur de vous faire savoir que j'ai effectué aujourd'hui, auprès de Si Abdelkerim
+Ben Sliman, la démarche que vous m'aviez prescrite au sujet des derniers événements qui se
+sont produits dans le Sud-Oranais.
+
+
+Je n'ai pas manqué d'insister sur la gravité de ces incidents, et je lui ai fait observer que,
+bien que les tribus qui s'en soient rendues coupables échappent en fait à l'autorité de Moulay
+Abd-el-Aziz, la négligence du Makhzen à nous avertir de leurs mouvements engageait, dans
+une certaine mesure, sa responsabilité.
+
+
+Si Abdelkerim, m'interrompant alors, me dit qu'il avait connaissance des événements
+dont je parlais, notamment de l'affaire d'El Moungar et qu'il savait aussi par les journaux les
+commentaires malveillants pour le Makhzen auxquels ils avaient donné lieu, mais qu'il es-
+pérait que ces commentaires n'auraient pu résister à l'examen des personnes au courant des
+affaires du Maroc et du Sahara. Le Gouvernement marocain, surtout dans les circonstances
+actuelles, a trop à redouter toute complication à la frontière pour les créer lui-même. Non
+seulement son autorité effective ne s'exerce pas sur les tribus au sud de Figuig, mais ces tribus
+n'ont aucune communication avec la région de Fez, et certains personnages du Tafilelt, qui
+ont pris part avec les Beraber à l'affaire d'El Moungar, constituent, le fait est notoire, un
+élément de désordre au Tafilelt même, où ils se posent en adversaires de Moulay Abd-el-
+Aziz.
+
+
+« Le Sultan, me dit-il, s'est fort ému de cette situation, et nous allions en écrire à votre Chargé
+d'affaires lorsque vous êtes arrivé à Fez. Je suis chargé par Sa Majesté de vous dire offi-
+ciellement, afin que vous puissiez en rendre compte, que les incidents dont nous venons de
+parler l'ont d'autant plus vivement affectée qu'Elle n'ignore pas combien le bienveillant
+concours de votre Gouvernement lui a été utile dans la région d'Oudjda et qu'Elle en est re-
+connaissante. S'il était en son pouvoir de châtier les tribus qui se sont rendues coupables
+d'agression, Elle le ferait, mais vous savez que cela n'est pas possible. En tout cas, Elle vous
+promet de faire toujours tous ses efforts pour arriver à l'établissement de l'ordre dans les
+régions qui nous occupent. >>>
+
+
+Si Abdelkerim m'assura ensuite que le Makhzen, qui était en campagne au moment de
+l'affaire d'El Moungar, n'en a eu connaissance d'une façon exacte que par les journaux, ce
+qui n'a rien de surprenant, a-t-il ajouté, étant donné le peu de communications, surtout à
+l'heure actuelle, avec le Sud-Est marocain. Les djichs et les rezzous, comme les convois et
+les caravanes, sont l'existence habituelle des tribus nomades de ces régions, et les bruits con-
+cernant leur exécution ou leur préparation ne parviennent souvent à Fez que dénaturés par
+des récits le plus souvent inexacts.
+
+
+Comme j'insistais sur la nécessité qu'il y aurait à ce que nous soyons tenus au courant des
+préparatifs des tribus, lorsque celles-ci se refusent à suivre des directions pacifiques, il me
+déclara que le Makhzen ne manquerait pas de nous en tenir informés, mais il ne l'est lui-
+
+
+115
+
+
+même, d'une façon irrégulière, que par Moulay Rechid, le représentant du Sultan au Ta-
+filelt. Comme les courriers mettent au moins cinq jours pour aller du Tafilelt à Fez et presque
+autant, dans cette saison, pour aller de Fez à Tanger, les informations peuvent ne pas tou-
+jours arriver en temps utile. Il me proposa alors spontanément de faire envoyer à Moulay
+Rechid des ordres chérifiens lui enjoignant d'écrire à l'Amel de Figuig pour le tenir au
+courant de tous les préparatifs hostiles qui seraient dirigés contre nos postes. L'Amel, de
+son côté, recevrait l'ordre d'en aviser le chef du poste de Béni-Ounif. J'approuvai naturel-
+lement cette idée qui rentre dans l'esprit de l'article 1 des accords franco-marocains de
+1901-1902.
+
+
+Je fis également part à Si Abdelkérim de la décision prise de prolonger le chemin de fer
+jusqu'à Ben Zireg et d'occuper un point sur le versant occidental du Béchar; je n'ai pas
+manqué, pour motiver cette mesure, de faire valoir les agressions de plus en plus nom-
+breuses qui sont dirigées contre nos contingents et l'impuissance du Gouvernement maro-
+cain à les réprimer.
+
+
+Le Ministre chérifien des Affaires étrangères s'est borné à me dire qu'il prenait bonne note
+de notre avertissement, qu'il ne voyait pas d'inconvénient à ce que l'on châtiât les Beraber,
+qu'il tenait seulement à ce que, conformément à notre déclaration, nous n'entrions pas dans
+les Qçour et que, d'une façon générale, nous nous arrangions pour ne rien faire qui fùt en
+contradiction avec les accords de 1901-1902, que le Makhzen est de son côté résolu à
+appliquer loyalement.
+
+
+Le Vizir m'a assuré encore, en terminant, que le Makhzen tiendrait le plus grand compte
+de nos conseils et que lui-même était le premier intéressé à la tranquillité au Sahara et dans
+la région frontière. Il m'a également exprimé l'espoir que Si Mohammed El Guebbas serait
+consulté sur toutes les mesures qui ont pour but l'application des accords, objet de sa mis-
+sion.
+
+
+GAILLARD.
+
+
+N° 133.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 20 décembre 1903.
+
+
+Le Gouverneur général de l'Algérie m'informe qu'il a reçu de ses émissaires au
+Tafilelt l'avis qu'une bande importante s'organise à Hadjra Beida (Ouest du Tafilalet)
+à l'instigation des Oulad Djerir et des Beraber. Elle se mettra sans doute en marche,
+après le Ramadan, vers le nouveau poste que nous avons établi près de Béchar. Nos
+postes sont prévenus et prêts à la recevoir.
+
+
+Vous voudrez bien porter ces indications à la connaissance du makhzen, qui ju-
+gera sans doute nécessaire, pour se dégager de toute responsabilité, de marquer net-
+tement sa désapprobation et d'user de tous les moyens en son pouvoir pour empê-
+
+
+15.
+
+
+116
+
+
+cher cette nouvelle agression. Une pareille manifestation serait d'autant plus
+opportune que le bruit s'est répandu parmi les tribus où se forme la harka, que
+le sultan du Maroc verrait d'un bon œil la préparation de ces nouvelles hostilités.
+
+
+DELCASSÉ.
+
+
+N° 134.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 22 décembre 1903.
+
+
+Je réponds à votre télégramme du 20, relatif à la harka signalée par le Gouver-
+neur général de l'Algérie.
+
+
+J'adresse à notre Vice-Consul à Fez des instructions en conséquence.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+117
+
+
+1904.
+
+
+N° 135.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 1er janvier 1904.
+
+
+La crise financière dont souffre le Maroc prend chaque jour un caractère plus
+aigu. Elle préoccupe vivement le commerce, et le Makhzen lui-mème paraît s'en émou-
+voir; il recherche les moyens de suppléer aux emprunts, devenus chaque jour
+plus difficiles à contracter et plus onéreux, mais les expédients auxquels il recourt
+apparaissent de plus en plus comme inefficaces et même dangereux. La dépréciation
+croissante de la nouvelle monnaie d'argent risque de priver le Sultan du bénéfice
+qu'il espérait tirer de son émission, et le trouble qui en résulte dans les transactions
+suscite un mécontentement général de nature à constituer bientôt un élément d'agi-
+tation, même parmi les populations demeurées paisibles jusqu'à ce jour. Enfin, un
+premier essai d'application aux tribus normalement les plus soumises du nouveau sys-
+tème fiscal décrété par le Sultan, le Tertib, a dû être aussitôt abandonné devant la
+résistance menaçante de ces tribus.
+
+
+N° 136.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 21 janvier 1904.
+
+
+J'ai l'honneur de vous adresser l'exposé de la situation politique des indigènes de
+l'Algérie pendant le mois de décembre 1903:
+
+
+(EXTRAIT.)
+
+
+<<Le 17, à 10 heures du soir, des rôdeurs ont tiré deux coups de feu sur le poste
+de Ben Zireg et ont atteint mortellement un spahi qui était en faction. >>>
+
+
+JONNART.
+
+
+118
+
+
+N° 137.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 janvier 1904.
+
+
+Le Makhzen ne paraît pas en voie de sortir des embarras financiers signalés à
+Votre Excellence parma dépêche du 1º de ce mois. Il a réussi, il est vrai, à se procurer les
+sommes nécessaires pour solder les échéances du 1er janvier, y compris celles des trois
+emprunts, mais cela au prix d'un expédient qui atteste son extrême dénuement et
+son désarroi. Il a dù, en effet, contracter auprès d'une maison de Tanger un prèt
+gagé par ses dernières livraisons de monnaie d'argent, acceptées pour la valeur du
+métal argent qu'elles contiennent,
+
+
+La dépréciation de cette monnaie, qui a varié dans ces derniers temps entre 20 et
+30 p. 100 par rapport à la monnaie espagnole, avec laquelle elle se négociait naguère
+au pair, a porté, comme il était facile de le prévoir, le plus grand trouble dans la vie
+économique du pays. Les ouvriers, généralement payés en monnaie marocaine, ont
+vu leurs salaires réduits d'environ un tiers. Les commerçants qui avaient consenti,
+selon les usages du pays, de longs crédits et qui avaient négligé de traiter en mon-
+naie espagnole les affaires à terme, se trouvent avoir vendu leurs marchandises à un
+prix très inférieur au prix d'achat, calculé en or sur les marchés étrangers. Ceux qui
+ont été plus prévoyants n'en éprouvent pas moins un préjudice considérable: le chiffre
+de leurs ventes est en effet réduit par la nécessité où ils se trouvent d'augmenter les
+prix proportionnellement à la baisse de la monnaie qu'ils reçoivent en payement. De
+là des grèves, de violentes et unanimes réclamations du commerce étranger, bref un
+état général de malaise et d'agitation.
+
+
+Pour remédier à cette situation, l'expédient de la frappe étant épuisé pour le mo-
+ment et l'impossibilité de recouvrer tout impôt intérieur étant désormais reconnue,
+le Makhzen n'a d'autre ressource que de recourir à de nouveaux emprunts, fût-ce au
+prix de concessions qui lui ont inspiré jusqu'ici une répugnance insurmontable. Toutes
+autres mesures que pourraient suggérer au Sultan des embarras pécuniaires, qui
+deviennent chaque jour plus aigus, n'auraient pour résultat que de ruiner son auto-
+rité là où elle n'est pas encore ouvertement méconnue. Essai d'application du « Ter-
+tib, comme hier, ou tentative pour faire rendre gorge aux qaïds opulents, comme
+aujourd'hui, sont des procédés également décevants, puisque en l'état actuel des
+choses ils sont irréalisables sans l'emploi de la force, c'est-à-dire sans argent. Et,
+dans cet ordres d'idées, il est malheureusement à craindre que le makhzen soit plus
+près que jamais de se laisser entraîner à des résolutions inconsidérées.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+119
+
+
+N° 138.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 janvier 1904.
+
+
+Ce matin, Bennis, le collaborateur de Si Mohammed Torrès, est venu me com-
+muniquer une lettre par laquelle le Ministre des Finances de Sa Majesté Chérifienne
+lui transmet l'ordre du Sultan d'entrer immédiatement en pourparlers avec le corres-
+pondant à Tanger de la Banque de Paris et des Pays-Bas, en vue de la conclusion
+d'un emprunt auprès de cet établissement. Il m'a, en outre, remis une lettre, à moi
+adressée, revêtue du sceau et du paraphe d'Abd-el-Aziz, et dont voici le paragraphe
+essentiel :
+
+
+« Conformément aux liens d'amitié qui unissent notre Gouvernement à votre
+puissant État, nous avons autorisé notre serviteur à traiter cette question avec le cor-
+ respondant de la Banque de Paris et des Pays-Bas par vos soins et par votre inter-
+« médiaire, jusqu'à ce que l'affaire soit conclue, en raison de l'appui et de la sollicitude
+ que vous apportez dans tout ce qui intéresse nos affaires, en en aplanissant les dif-
+« ficultés, et cela grâce à votre bonne intervention, établie sur les principes de l'amitié
+ et les liens de l'intimité ».
+
+
+La portée de cette lettre est encore accrue par le fait qu'elle émane du Sultan lui-
+mème, contrairement à l'usage que le Makhzen a adopté depuis un certain nombre
+d'années dans ses relations avec les Ministres étrangers. Elle constitue donc la dé-
+marche la plus significative que le Makhzen puisse faire pour obtenir le concours
+du Gouvernement de la République.
+
+
+J'ai assuré Bennis que ce concours ne ferait pas défaut au Gouvernement Maro-
+cain, et je l'ai autorisé à déclarer que Votre Excellence a trop à cœur de faciliter
+au Sultan les moyens de consolider son autorité pour ne pas répondre à son appel.
+Les indications fournies par Bennis ont trait à une importante opération, destinée
+à rembourser les anciens emprunts et entourée de garanties solides, bien que com-
+binée de façon à ménager les sentiments des populations et l'amour-propre du sou-
+verain.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+120
+
+
+N° 139.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 1er février 1904.
+
+
+J'ai l'honneur de vous adresser l'exposé de la situation politique des Territoires du
+Sud pendant le mois de janvier 1904:
+
+
+(EXTRAIT.)
+
+
+«Le 16 janvier, une patrouille de onze cavaliers du Makhzen de Beni Abbès a été
+attaquée à Ben Maoud, au sud-ouest de ce poste, par une troupe de fantassins et
+de méharistes supérieure en nombre et d'origine inconnue. Un des mokhaznis a été
+tué. »
+
+
+JONNART.
+
+
+N° 140.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, 22 février 1904.
+
+
+Bennis vient de me donner connaissance d'une lettre par laquelle le Ministre
+Chérifien des Finances lui exprime toute la satisfaction que le Sultan a éprouvée en
+apprenant que le concours financier des établissements français pouvait être considéré
+comme lui étant désormais assuré. Dans ce document, qui témoigne de la plus vive
+impatience d'aboutir à la conclusion de l'emprunt, Si Abdesselam Ettazi invite
+Bennis, au nom de son souverain, à provoquer immédiatement les propositions des
+banques et émet le vœu que le projet de contrat à soumettre au Sultan soit tel que
+celui-ci puisse le ratifier dès sa réception.
+
+
+La hâte manifestée par Abd-el-Aziz n'est pas la seule preuve que nous ayons de
+l'extrême urgence d'un emprunt. Tout en se fiant à nos assurances, le Sultan est obligé
+de se procurer dès maintenant, à tout prix, les ressources indispensables pour les
+besoins les plus pressants de son Gouvernement. Les nouvelles qui nous parviennent
+de tous les points du Maroc représentent, en effet, les restes des Mahallas Chéri-
+fiennes comme à la veille de se dissoudre par suite des désertions qu'entraîne le non-
+payement de la solde. C'est afin de pouvoir retenir quelques troupes auprès de lui
+que le Sultan, malgré les effets déjà déplorables de la crise monétaire, a demandé la
+livraison à crédit de nouvelles quantités de monnaies d'argent. Recourant à un expé-
+dient plus dangereux encore, il vient d'envoyer dans tous les ports de l'Empire des
+fonctionnaires spéciaux ayant pour mission de faire verser des sommes par les Gou-
+verneurs des tribus les plus prospères et les moins indociles du littoral. Faute de
+
+
+121
+
+
+pouvoir être appuyée par la force, il est vraisemblable que cette tentative n'aboutira
+qu'à ranimer et à généraliser l'agitation, notamment dans la région qui intéresse le
+plus directement les étrangers.
+
+
+N° 141.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+:
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 25 mars 1904.
+
+
+Je crois devoir noter dans la correspondance de l'Ambassade la résolution suivante
+votée, le 20 de ce mois, par les pangermanistes wurtembergeois, réunis à Esslingen :
+<< Plaise au Gouvernement Impérial de mettre à profit la situation actuelle pour déve-
+lopper les intérêts économiques de l'Allemagne au Maroc, notamment par l'envoi
+d'expéditions en vue de recherches et d'études économiques. Comme la plupart de
+nos Colonies sont peu susceptibles d'extension, comme, au contraire, le Maroc peut
+devenir une colonie de peuplement et d'agriculture, en même temps qu'il serait un
+point d'appui des plus précieux pour notre flotte sur une route de navigation des
+plus importantes, il est désirable que le Gouvernement Impérial fasse le nécessaire,
+au cas où le statu quo ne pourrait être maintenu au Maroc, pour s'établir dans la
+région ouest de ce pays, où déjà le négoce allemand occupe une situation considé-
+rable, souvent même prépondérante, et pour que notamment Qualidia et Agadir soient
+occupés, comme précédemment Tsingtau en Chine, afin de démontrer et d'affirmer
+nettement la sphère d'intérêts allemands dans ce pays. >>
+
+
+Les discours qui ont précédé le vote de cet ordre du jour ont mis en lumière les
+avantages d'une colonisation au Maroc et ont énergiquement insisté sur le droit et de
+devoir de l'Allemagne de prendre part au partage du Maroc, s'il venait à s'imposer et
+à s'accomplir.
+
+
+D'autre part, dans sa revue de la politique extérieure de la semaine, la Gazette de
+l'Allemagne du Nord consacre, à propos des négociations franco-anglaises, les lignes
+suivantes à la question du Maroc : « Autant qu'on peut jusqu'à présent s'en rendre
+compte, les intérêts allemands ne pourraient être touchés par les échanges de vues
+relatifs au Maroc. En raison de l'assurance réitérée et donnée officiellement du côté
+français que la France n'a en vue aucune conquête, aucune occupation, mais poursuit
+bien plutôt l'ouverture du Sultanat du nord-ouest africain à la civilisation européenne,
+il y a lieu de croire que les intérêts commerciaux de l'Allemagne au Maroc n'ont
+aucun péril à redouter. A propos de ce problème, il n'y a donc pas lieu, au point
+de vue allemand, d'envisager avec des yeux malveillants l'entente franco-anglaise
+actuellement en œuvre. »
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+BIHOURD.
+
+
+16
+
+
+122
+
+
+N° 142.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 27 mars 1904.
+
+
+Je crois utile de vous rendre compte d'une conversation que j'ai eue avec l'Ambas-
+sadeur d'Allemagne, à ma dernière réception diplomatique. Le prince de Radolin a
+« demandé à me poser une question indiscrète ». Est-il vrai, a-t-il dit, qu'un accord
+ait été signé ou soit sur le point d'être signé entre la France et l'Angleterre? J'ai
+répondu : « rien n'est signé ni sur le point de l'être. Mais nous causons depuis assez
+longtemps avec le Cabinet de Londres pour le règlement amiable des questions qui
+intéressent nos deux pays; l'entente a été reconnue possible, et il est probable qu'elle
+finira par s'établir ». - « On dit qu'il est question de Terre-Neuve? » - « Nous en
+avons parlé en effet..
+« Et du Maroc? >>> << Aussi. Mais vous connaissez déjà notre
+point de vue à ce sujet; et
+j'ai eu l'occasion de vous répéter ce que j'avais dit précé-
+demment à la tribune du
+Sénat et à celle de la Chambre. Nous voulons maintenir au
+Maroc l'état politique et territorial actuel; mais cet état, pour durer, doit manifes-
+tement être soutenu et amélioré. Au seul cours de l'année dernière, le Maroc nous a
+offert, par des agressions répétées, de fortes et légitimes raisons d'intervention.
+J'ai résisté, mais chaque fois avec plus de peine, aux naturelles exigences de ceux
+qui voulaient venger le sang versé et de ceux qui prétendaient aller chercher au
+Maroc même des garanties pour le respect de notre frontière algérienne et pour la
+tranquillité des populations qui l'avoisinent. Nous avons dû renforcer nos postes, en
+créer de nouveaux. D'où des dépenses considérables, que seule l'amélioration de
+l'état de choses au Maroc permettra de réduire. Le Sultan a pu déjà se convaincre de
+l'efficacité de notre aide sur les points où il nous l'a demandée. Il s'agit de la lui con-
+tinuer. Mais elle lui sera donnée de telle sorte que tout le monde en bénéficiera,
+notamment au point de vue des transactions commerciales que ne pourra que favo-
+riser l'établissement de la sécurité, qui est un des premiers besoins du Maroc. Il est
+superflu d'ajouter que, sous quelque forme que nous soyons amenés à prêter assistance
+au Sultan, la liberté commerciale sera rigoureusement et entièrement respectée. >>>
+ Et l'Espagne?» - L'Espagne? J'ai dit naguère à la tribune de la Chambre qu'elle sait
+que nous sommes ses amis et qu'elle n'a à attendre de nous que des procédés ami-
+caux. Ce n'est pas moi qui méconnaîtrai ses intérêts positifs et ses aspirations légi-
+times. >>>
+
+
+Le prince de Radolin a trouvé mes déclarations très naturelles et parfaitement rai-
+sonnables et m'a remercié vivement de les lui avoir faites.
+
+
+Vous pourrez, dans vos conversations avec le Ministre des Affaires étrangères,
+vous inspirer de cet entretien.
+
+
+DELCASSÉ.
+
+
+!
+
+
+123
+N° 143.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Ambassadeurs de la République française à Londres, Saint-
+Pétersbourg, Rome, Vienne, Madrid.
+
+
+Paris, le 28 mars 1904.
+
+
+A titre d'information, je vous communique, ci-joint, le télégramme que j'ai
+adressé à l'Ambassadeur de la République française à Berlin pour lui faire connaître
+l'entretien que je viens d'avoir avec le prince de Radolin, au sujet de nos négociations
+avec l'Angleterre.
+
+
+N° 144.
+
+
+DELCASSÉ
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 7 avril 1904.
+
+
+J'ai l'honneur de vous adresser l'exposé de la situation politique des territoires du
+Sud pendant le mois de mars 1904:
+
+
+(EXTRAIT.)
+
+
+Un courrier, à destination du Sud, a été enlevé le 3 mars à Tafdalt, à 65 kilo-
+mètres au sud de Beni Abbès. Trois cavaliers ont été tués.
+
+
+JONNART.
+
+
+8 avril 1905.
+
+
+Déclaration franco-anglaise concernant l'Égypte
+
+
+et le Maroc.
+
+
+(Le texte a été publié dans un Livre jaune spécial, page 21, avec la correspon-
+dance y relative.)
+
+
+N° 145.
+
+
+M. BIFOURD, Ambassadeur de la République française à Berlin,
+à M. DELCASSÉ, Ministre des Affairės étrangères.
+
+
+Berlin, le 12 avril 1904.
+
+
+On peut dire que la presse allemande se montre, dans ses principaux organes,
+favorable aux arrangements franco-anglais récemment conclus. L'entente entre les
+
+
+16.
+
+
+124
+
+
+deux grands pays lui apparaît comme un nouvel et puissant élément de la paix géné-
+rale, digne à ce titre du bon accueil de l'Allemagne.
+
+
+Les journaux se divisent en deux fractions d'inégale importance, lorsqu'il s'agit d'ap-
+précier le retentissement du rapprochement de l'Angleterre et de la France sur
+l'alliance franco-russe. La plupart d'entre eux semblent s'inspirer de l'attitude de la
+Gazette de l'Allemagne du Nord qui a reproduit sans commentaire une note affirmant
+la sérénité et l'amitié confiante de la Russie en présence de cet événement internatio-
+nal; la Post va même jusqu'à admettre qu'à la faveur de notre entremise la Russie
+elle-même puisse se rapprocher momentanément de l'Angleterre. Mais l'autre groupe
+de journaux ne se fait pas faute d'insinuer que la Russie doit prendre ombrage de l'en-
+tente rétablie entre la France et l'Angleterre: il semble tout naturel, en conclut-on,
+que la Russie tourne ses regards attentifs vers l'Allemagne et se rapproche plus étroi-
+tement de cette voisine.
+
+
+Au point de vue exclusivement allemand, la presse n'a jusqu'à présent arrêté son
+attention particulière que sur celui des arrangements qui concerne le Maroc. Elle
+l'envisage avec un calme dont la Gazette de l'Allemagne du Nord a donné, à deux
+reprises, l'exemple; elle reconnaît que la France s'engageant à maintenir, durant une
+assez longue période, la liberté commerciale et se chargeant de faire régner en ce
+pays l'ordre, la sécurité et la régularité financière, les intérêts commerciaux de l'Alle-
+magne n'ont rien à redouter de la réalisation de nos visées.
+
+
+BIHOURD.
+
+
+N° 146.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 12 avril 1904.
+
+
+Le commandant Fariau, chef de la Mission militaire française au Maroc, doit
+partir prochainement pour Fez afin d'y prendre possession de ses fonctions.
+
+
+J'estime qu'il conviendrait, conformément aux précédents, que cet officier fût
+présenté au Sultan par un membre de la Légation. J'ajoute que la présence auprès
+du Makhzen d'un de nos agents pourrait être utile pour y préparer les esprits à ma
+propre venue qui, si Votre Excellence partage mon sentiment, pourrait suivre de
+près la conclusion de l'emprunt, quand le Makhzen se trouvera débarrassé, grâce à
+l'assistance des capitaux français, de ses besoins et de ses soucis quotidiens.
+
+
+Je me propose de confier cette mission au premier secrétaire de ma Légation,
+le comte de Saint-Aulaire.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+125
+
+
+N° 147.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 16 avril 1904.
+
+
+Je vous prie de me faire connaître si vous avez eu l'occasion d'utiliser mon télé-
+gramme du 27 mars dernier.
+
+
+N° 148.
+
+
+DELCASSÉ.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 16 avril 1904.
+
+
+J'ai l'honneur de porter à votre connaissance que, dans les premiers jours du mois
+de février, il m'était rendu compte qu'un groupe d'environ 80 Chaamba et Oulad
+Djerir de l'entourage de Bou Amama s'était avancé jusqu'aux abords des oasis saha-
+riennes et avait attaqué à Hassi el Azz, au nord de Tabełkoza, une fraction des grandes
+caravanes annuelles du cercle de Géryville à laquelle il avait réussi à enlever 250 ou
+300 chameaux, après avoir tué ou blessé plusieurs des caravaniers.
+
+
+Le 8 février, une patrouille de 30 goumiers et mokhaznis de Beni Ounif, sous
+les ordres du qaïd Mohammed ben Ahmed, des Oulad Amran, rejoignait ce rezzou
+au nord du Grouz et, malgré l'infériorité numérique dans laquelle elle se trouvait,
+n'hésitait pas à l'attaquer.
+
+
+Après une lutte inégale, dans laquelle nos caravaniers firent preuve de beaucoup de
+bravoure et d'énergie, la patrouille rentra à Beni Ounif, ayant perdu 8 morts et
+ramenant  blessés. Elle avait réussi à reprendre au rezzou onze chameaux seule-
+ment.
+
+
+L'ennemi laissait dix morts sur le terrain et emportait une vingtaine de blessés.
+
+
+JONNART.
+
+
+126
+
+
+N° 149.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 17 avril 1904.
+
+
+L'occasion ne m'a pas encore été offerte d'utiliser avec le baron de Richthofen votre
+télégramme du 27 mars. Il n'y a pas eu de réception depuis plus de quinze jours.
+
+
+BIHOURD.
+
+
+N° 150.
+
+
+M. BIHOURD, ambassadeur de la République française, à Berlin.
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 17 avril 1904.
+
+
+J'ai déjà fait parvenir à Votre Excellence, d'après le compte rendu publié dans la
+Gazette de l'Allemagne du Nord, les déclarations faites au Reichstag par le Chancelier
+de l'Empire, relativement à l'accord anglo-français et au Maroc, dans ses deux dis-
+cours des 12 et 14 avril.
+
+
+Les extraits publiés par certains journaux français ne me paraissant pas reproduire
+exactement sur certains points les paroles du comte de Bülow, j'ai cru devoir colla-
+tionner la traduction que j'avais adressée à Votre Excellence avec le texte même du
+compte rendu officiel des débats du Reichstag, qui ne me parvient que le surlende-
+main de la séance. J'ai l'honneur d'adresser ci-jointe à Votre Excellence une traduction
+rectifiée.
+
+
+Un député, le comte de Reventlow, a, dans les explications personnelles qu'il a
+apportées à la fin de la séance du 14 avril, déclaré qu'il avait entendu, dans son dis-
+cours, faire allusion à des négociations poursuivies par le Chancelier avec la France,
+et dans laquelle il aurait été question de la cession à l'Allemagne d'un port marocain
+sur la côte Atlantique.
+
+
+Cette affirmation est restée sans réponse de la part du Gouvernement. La Post,
+qui a rapporté cette allégation dans son numéro d'hier, déclare pouvoir de source
+autorisée la démentir.
+
+
+BIHOURD.
+
+
+ANNEXE.
+
+
+TRADUCTION.
+
+
+EXTRAIT DU COMPTE RENDU OFFICIEL DE LA SÉANCE DU REICHSTAG DU 12 AVRIL 1904.
+Le Comte DE BÜLOW, Chancelier de l'Empire. Le précédent orateur m'a posé sur
+le terrain de la politique extérieure une série de questions générales qui, il me le
+
+
+127
+
+
+concédera lui-même, je crois, sont plus faciles à poser qu'il n'est aisé d'y répondre.
+C'est ainsi qu'il a surtout parlé d'une modification de la situation européenne. Cela
+ne peut se rapporter qu'à l'accord colonial anglo-français, rendu public il y a peu
+de jours. Je dois d'abord faire remarquer à M. Sattler que, ainsi que je l'ai lu,
+les Ministres anglais ne parleront de cette convention que ce soir au Parlement, et
+que les Ministres français ne se sont pas encore expliqués à ce sujet. Il comprendra
+donc certainement que je ne peux m'étendre en détails sur ce traité, car en ma qua-
+lité de Ministre des Affaires étrangères j'ai, lorsque je parle ici de politique extérieure,
+le devoir de ne dire que les choses qui, autant que possible. servent l'intérêt du pays
+et qui, en tout cas, ne peuvent lui nuire.
+
+
+Mais je peux cependant sur ce point répondre à l'orateur que nous n'avons aucune
+raison de supposer que cet accord soit dirigé contre une puissance quelconque. Ce
+qu'il paraît constituer, c'est une tentative de faire disparaître une série de différends
+existant entre la France et l'Angleterre, au moyen d'une entente amiable. Nous n'avons,
+au point de vue des intérêts allemands, rien à y objecter: nous ne saurions, en effet,
+souhaiter une situation tendue entre la France et l'Angleterre qui serait un danger
+pour la paix du monde, dont nous poursuivons sincèrement le maintien. En ce qui
+concerne spécialement le Maroc, qui constitue le point essentiel de cet accord, nous
+sommes intéressés dans ce pays, comme d'ailleurs dans le reste de la Méditerranée,
+principalement au point de vue économique. Nous avons là, avant tout, des intérêts
+commerciaux; aussi avons-nous un intérêt important à ce que le calme et l'ordre
+règnent au Maroc. Nous devons protéger nos intérêts mercantiles au Maroc, et nous
+les protégerons. Nous n'avons aucun sujet de redouter qu'ils puissent y être méconnus
+ou lésés par une puissance quelconque.
+
+
+TRADUCTION.
+
+
+EXTRAIT DU COMPTE RENDU OFFICIEL DE LA SÉANCE DU REICHSTAG DU 14 AVRIL 1904.
+Le Comte DE BÜLOW.
+M. le député Bebel a aussi parlé d'un isolement
+de l'Allemagne. Il paraît redouter que nous ne marchions au-devant d'une solitude
+complète. Je lui réponds que nous nous trouvons en de solides liens d'alliance
+avec deux grandes puissances, en relations amicales avec cinq autres, que nos
+rapports avec la France sont calmes et pacifiques, et, autant que cela dépend de
+nous, le demeureront. Je crois, au reste, que, si nous continuons à tenir notre épée
+affilée, nous n'avons pas tant à redouter l'isolement. L'Allemagne est trop forte pour
+n'ètre pas susceptible d'alliance. Il y a pour nous maintes combinaisons possibles, et
+même si nous devions rester seuls, cela ne serait pas non plus si terrible. Ainsi il n'y
+a pas lieu de se faire des soucis. Je veux maintenant répondre à quelques assertions
+apportées à la tribune, à la fin du débat d'hier, par M. le comte Reventlow.
+
+
+Le comte Reventlow a prétendu que l'accord anglo-français, et spécialement la
+partie fondamentale de cet accord, celle qui se réfère au Maroc, avait été accueillie
+en Allemagne avec un sentiment de confusion et de découragement. Il estime que
+nous n'aurions pas dû souffrir que d'autres puissances s'assurent au Maroc une plus
+grande influence que nous. Cela ne peut signifier autre chose que ceci : nous devons
+nous-même exiger une partie du Maroc. Je voudrais me permettre de poser au comte
+
+
+128
+
+
+Reventlow une simple question. Le comte Reventlow convient certainement avec moi
+que si un grand empire, comme l'empire d'Allemagne, formule une telle exigence,
+il doit nécessairement en poursuivre coûte que coûte la satisfaction. Qu'aurait main-
+tenant à me conseiller M. le comte Reventlow si une exigence de ce genre se heurtait
+à une résistance? Je ne dis pas qu'il est certain qu'elle se heurterait à une résistance,
+je ne dis pas que c'est vraisemblable, je dis seulement que dans des questions aussi
+graves, on ne doit pas perdre de vue aucune éventualité. M. le comte Reventlow me
+donnerait-il le conseil de mettre flamberge au vent?
+
+
+M. le comte Reventlow se tait, et je comprends qu'il se taise. (Hilarité.) Je crois,
+Messieurs, que ce serait légèreté de ma part, et à ma satisfaction, les chefs de
+tous les partis, à l'exception du comte Reventlow, se sont exprimés en ce sens, de
+vouloir sans nécessité lancer pour une telle raison le pays dans une aventure. Je crois
+en outre, Messieurs, que si je le faisais, le comte Reventlow, chez qui la veine critique
+me paraît fortement développée, me reprocherait ma soif d'action exagérée aussi
+vivement qu'il a blâmé ma prétendue peur de l'action.
+
+
+J'estime, Messieurs, que précisément au moment où une guerre enflamme l'Ex-
+trême-Orient, guerre dont actuellement encore on ne peut calculer le contre-coup, au
+moment où en Orient restent encore bien des points obscurs, une politique de calme
+réfléchi et même de réserve est des plus utiles aux intérêts de l'Empire, et je ne me
+laisserai prescrire ni par l'étranger ni par la critique malveillante ou impatiente à l'inté-
+rieur le moment où nous aurons à sortir de cette attitude.
+
+
+Le comte Reventlow a en outre exécuté des variations surle proverbe Duobus litiganti-
+bus tertius gaudet. Je veux négliger la question de savoir si ce proverbe s'applique toujours
+etsi lorsque deux personnes cessent de se disputer, la troisième et la quatrième doivent
+nécessairement être tristes. Mais je voudrais dire au comte Reventlow, qui me paraît
+avoir un penchant pour la diplomatie, que si l'on veut créer «partout » des sur-
+faces de frottement, l'on ne doit pas le crier sur tous les toits. Frédéric le Grand a
+peut-être çà et là exécuté dans la politique un coup d'échec machiavélique, mais il a
+auparavant écrit l'Anti-Machiavel.
+
+
+N° 151.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 18 avril 1904.
+
+
+Si Votre Excellence m'y autorisait, je croirais bon de profiter demain de la récep-
+tion diplomatique pour entretenir M. de Richthofen, sans attendre ses questions, de
+la déclaration anglo-française et particulièrement de la liberté commerciale garantie
+par l'article 4.
+
+
+BIHOURD.
+
+
+129
+
+
+N° 152.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 18 avril 1904.
+
+
+Vous pouvez parfaitement répéter au Secrétaire d'État, dans la forme qui vous
+paraîtra la plus convenable, les déclarations que j'ai faites il y a trois semaines au
+prince Radolin sur les arrangements anglo-français.  ressort avec évidence de la
+lecture de ces arrangements que lord Lansdowne et moi nous nous sommes exclusi-
+vement préoccupés de servir les intérêts de nos deux pays, sans porter atteinte aux
+intérêts existants d'aucune puissance.
+
+
+Nous pouvons le déclarer sans ambages et d'ailleurs sans nous en excuser, parce
+que c'est la vérité et que notre dignité n'en saurait souffrir.
+
+
+DELCASSÉ.
+
+
+N° 153.
+
+
+M BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 21 avril 1904.
+
+
+Dans la discussion engagée au Reichstag sur l'entente anglo-française, le Chance-
+lier a tenu un langage dont Votre Excellence a pu, d'après les extraits que j'ai placés
+sous ses yeux, apprécier toute la correction. Le Comte de Bülow s'est défendu
+d'avoir par sa politique condamné l'Allemagne à l'isolement, il s'est refusé à voir,
+dans les arrangements conclus entre la France et l'Angleterre, une menace contre
+l'Empire ni une atteinte à ses intérêts commerciaux,
+
+
+Je ne pense point que l'on doive s'attacher trop strictement à ces déclarations, si
+l'on veut rechercher l'orientation de la politique allemande au Maroc.
+
+
+J'incline à penser que, dès son retour, l'Empereur imprimera à sa politique plus
+d'activité et de hardiesse. Il y sera poussé par son caractère, par le désir de montrer
+que l'Allemagne n'est ni isolée, ni désarmée. Il tentera donc, j'imagine, d'intervenir
+dans le règlement de la question marocaine, soit indirectement, en influençant les
+dispositions de l'Espagne, soit directement en demandant pour le commerce alle-
+mand le traitement accordé à celui de l'Angleterre.
+
+
+En ce qui concerne les garanties que pourrait réclamer l'Allemagne pour son com-
+merce au Maroc, elles se résument toutes dans la liberté qu'assure l'article 4 de la
+Déclaration du 8 avril. Et c'est pour soutenir cette thèse incontestable que j'ai de-
+mandé à Votre Excellence l'autorisation d'aborder ce sujet avec le Baron de Rich-
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+17
+
+
+130
+
+
+thofen. Des journaux.prétendent: 1º que les effets de la Déclaration sont limités aux
+deux Puissances signataires et que, pour s'en prévaloir, l'Allemagne devrait intervenir
+dans l'accord; 2º qu'en tout cas la liberté commerciale n'est garantie que pour trente
+années et que pareille restriction crée au commerce allemand un préjudice dont il
+devrait d'ores et déjà réclamer la réparation pécuniaire. Je ne négligerai pas de ré-
+pondre à ces allégations, qu'il est bon de ne pas perdre de vue, lorsque je pourrai le
+faire dans des conditions favorables.
+
+
+L'engagement réciproque pris par la France et l'Angleterre n'étant à aucun degré
+privatif, l'égalité de traitement en matières douanière et fiscale ne peut manquer en
+effet de s'étendre à toutes les Puissances en relations d'affaires avec le Maroc.
+
+
+En outre, la clause relative à la durée de la liberté commerciale est incapable d'en-
+gendrer actuellement aucun grief. D'une part la période de liberté de trente années
+est un minimum; elle est susceptible de prolongations successives par une sorte de
+tacite reconduction. On n'est pas admis à tabler dès aujourd'hui sur cet avenir incer-
+tain. D'autre part et en admettant que les mesures fiscales, prises plus tard par le
+Maroc dans sa souveraineté, soient par impossible de nature à ouvrir un droit à une
+réparation, ce droit ne peut découler actuellement d'un préjudice éventuel; il n'est
+pas né.
+
+
+BIHOURD.
+
+
+N° 154.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 avril 1904.
+
+
+M. de Saint-Aulaire, lors de sa mission à Fez, devra entretenir les membres du
+Makhzen de notre récent accord avec l'Angleterre. Les adversaires locaux de notre
+influence s'efforcent d'exciter contre nous le Gouvernement marocain et les popula-
+tions, en exagérant et dénaturant les conséquences prochaines de l'arrangement de
+Londres. Nous devons donc expliquer à Fez que l'accord franco-anglais relatif au
+Maroc est la simple reconnaissance d'un droit que nous tenons de la nature des
+choses que Votre Excellence elle-même a verbalement exposé à Ben Sliman, que le
+Gouvernement de la République et le Makhzen ont commencé d'inscrire dans leurs
+propres accords et qu'enfin nous pratiquons depuis plusieurs années : celui de prêter
+au Mazkhen, selon ses besoins et ses demandes, une assistance amicale, dont il
+éprouve en ce moment même, sur le terrain militaire, la discrétion et la loyauté,
+sur le terrain financier, la puissante efficacité.
+
+
+Si ces idées sont bien conformes aux vues de Votre Excellence, je la prie de m'au-
+toriser à les faire présenter à Fez comme l'expression de sa pensée.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+131
+
+
+N° 155.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 27 avril 1904.
+
+
+J'ai vu hier le baron de Richthofen; je lui ai dit que j'avais apprécié le langage du
+Chancelier lorsqu'il a reconnu, devant le Reichstag, que l'entente franco-anglaise
+n'était dirigée contre aucune Puissance et ne menaçait aucunement les intérêts com-
+merciaux allemands.
+
+
+N° 156.
+
+
+BIHOURD.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ-TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Rome, le 27 avril 1904.
+
+
+Je vous autorise à faire exprimer à Fez, comme étant celles du Gouvernement,
+les vues exposées dans votre télégramme du 24 de ce mois.
+
+
+M. de Saint-Aulaire et M. Gaillard ne devront pas se lasser de répéter que nous
+nous présentons au Maroc comme des amis, voulant sa prospérité parce que la notre
+en dépend. Loin de diminuer l'autorité du Sultan, nous sommes au contraire très
+préoccupés de relever son prestige. C'est en son nom que les agents que nous pouvons
+ètre amenés à mettre à sa disposition exerceront leurs fonctions, s'appliquant soigneu-
+sement, conformément à notre volonté, à ménager les populations, à ne pas froisser
+leurs sentiments, à respecter leurs croyances, leurs habitudės, leur organisation. En
+retour, nous comptons que, comprenant le but de nos efforts, le Makhzen voudra
+sincèrement les seconder; et par là une ère de paix et de prospérité ne tardera pas
+à s'ouvrir pour le Maroc.
+
+
+DELCASSÉ.
+
+
+17.
+
+
+132
+
+
+N° 157.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 6 mai 1904.
+
+
+:
+
+
+J'adresse le télégramme suivant au général commandant la division d'Oran:
+
+
+ Vous m'avez demandé des instructions pour le cas où les troupes de Bou Amama
+
+
+menaceraient Oudjda. Notre ministre à Tanger étant informé de la situation par le
+chef de la section frontière, il ne nous appartient pas d'y aviser tant que la sécurité
+de notre territoire ne sera pas compromise. Sans doute il serait du plus haut intérêt
+pour nous de nous emparer de Bou Amama et de coopérer à cet effet avec les
+troupes du Makhzen, mais il est plus que probable que le marabout demeurerait
+comme toujours insaisissable. Il me semble même qu'il ne serait pas inutile à ce
+point de vue de le laisser s'aventurer jusqu'à Oudjda.
+
+
+« D'une façon générale, il convient de ne pas perdre de vue que, à moins d'instruc-
+tions formelles du Gouvernement, nous n'avons à nous préoccuper dans l'affaire de la
+frontière que d'assurer notre propre sécurité. »
+
+
+JONNART.
+
+
+N° 158.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 17 mai 1904.
+
+
+L'article 9 du protocole du 20 juillet 1901 stipule qu'à l'avenir nous n'aurons
+plus à présenter de revendications périodiques au Makhzen, dans le but d'obtenir des
+indemnités pour ceux de nos administrés qui seraient victimes de méfaits commis
+par leurs voisins de l'Ouest, ces affaires devant être traitées désormais par les com-
+missaires désignés à cet effet, par les deux Gouvernements.
+
+
+Un certain nombre de réclamations, antérieures à la signature de cet accord, ne
+sont pas encore réglées. Le montant des indemnités auxquelles elles donneraient droit
+s'élève à 400,317 francs.
+
+
+D'autre part, l'insécurité s'est encore accrue dans ces derniers temps, à la faveur
+des troubles qui agitent l'Empire chérifien. De nombreux coups de main dirigés contre
+nos tribus ou contre des Européens n'ont reçu aucune sanction. Les réclamations
+adressées régulièrement aux autorités marocaines d'Oudjda et de Figuig sont jusqu'à
+présent demeurées lettre morte.
+
+
+133
+
+
+Il m'a paru intéressant de faire établir des relevés des îndemnités dues pour des
+attentats commis dans la région d'Oudjda, postérieurement à la date du 20 juillet
+1901, et des revendications présentées au Commissaire marocain de Figuig par le
+Commissaire français de Beni-Ounif, depuis l'installation de ces deux fonctionnaires
+et restées sans réponse.
+
+
+Le total des sommes figurant sur ces deux états se monte à 11,015 francs pour
+le premier et à 805,341 francs pour le second.
+
+
+JONNART.
+
+
+N° 159.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 mai 1904.
+
+
+Comme j'y avais été autorisé par Votre Excellence, j'ai adressé au Ministre des
+Affaires étrangères du Sultan une lettre dans laquelle je me suis attaché à faire
+ressortir la véritable signification de l'accord franco-anglais, en ce qui touche le
+Maroc. Les renseignements que M. de Saint-Aulaire m'a fait récemment parvenir
+sur les dispositions de la Cour de Fez me donnent lieu d'espérer que ces explica-
+tions seront accueillies avec faveur. Il était urgent d'éclairer sur nos intentions le
+Sultan qu'on s'efforce d'indisposer contre nous par des traductions d'articles de jour-
+naux français ou européens soigneusement choisis.
+
+
+SAINT-RENÉ TAILLANDIER...
+
+
+ANNEXE.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+
+
+à SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de S. M. Ché-
+rifienne.
+
+
+Tanger, le 18 mai 1904.
+
+
+J'ai appris que l'accord récemment intervenu entre les gouvernements français et
+anglais, sous la forme d'une déclaration concernant l'Égypte et le Maroc, était interprété
+par certaines personnes d'une manière qui pourrait inspirer des inquiétudes au gouverne-
+ment chérifien. Peut-être même certaine traduction inexacte, dont j'ai eu connaissance,
+vous sera-t-elle parvenue.
+
+
+134
+
+
+Je ne veux pas tarder à prévenir à ce sujet un malentendu qui pourrait diminuer l'amitié
+nécessaire entre les deux pays voisins.
+
+
+Vous connaissez la similitude de nos intérêts dans cette région frontière peuplée de tribus
+de même langue et de mêmes mœurs, et où nous avons, vous et nous, les mêmes ennemis.
+Je n'ai pas besoin non plus, d'insister sur l'intérêt fondamental qu'a la France à l'indépendance
+et à la souveraineté de l'empire marocain qui est contigu à ses possessions africaines. Cette
+indépendance et cette souveraineté, seule notre nation est en mesure de veiller à ce que rien
+ne puisse les compromettre. Notre intérêt de voisins et notre devoir d'amis nous  portent
+également.
+
+
+C'est pour ce motif que le Gouvernement de la République a suivi d'un œil attentif les
+troubles survenus récemment dans l'empire chérifién et que son aide, en cette circonstance,
+n'a pas fait défaut au Makhzen. Indépendamment des obstacles que ces désordres opposent au
+commerce, la diminution de sécurité qui en est le résultat pour les résidents européens
+pourrait entraîner pour l'empire marocain les conséquences les plus graves. D'ailleurs les
+troubles et l'agitation survenus dans les tribus marocaines ont leur répercussion sur les
+nôtres. Nous avons donc le devoir de nous en préoccuper.
+
+
+Si notre amitié nous porte à désirer un makhzen assez puissant pour maintenir chez lui
+l'ordre qui doit régner dans tout état organisé, notre intérêt nous fait une obligation de lui
+en montrer les voies et de lui prêter l'aide nécessaire. La déclaration franco-anglaise constate
+cet état de fait, et d'ailleurs elle débute par cette affirmation que le Gouvernement français
+n'a pas l'intention de changer l'état politique du Maroc.
+
+
+Le Gouvernement marocain n'a donc pas à s'en alarmer et, pour éviter toute interpréta-
+tion erronée, je vous adresse une copie de cette déclaration, accompagnée d'une traduc-
+tion authentique. Vous y verrez la souveraineté de l'État marocain garantie dans des condi-
+tions qui lui assurent l'avenir.
+
+
+Je vous prie de porter ce qui précède à la connaissance de S. M. chérifienne et de lui
+dire que si, sur quelques points, il s'élevait dans son esprit des doutes ou des préoccu-
+pations, le secrétaire de ma légation, M. de Saint-Aulaire, est autorisé à lui donner, ainsi
+qu'à vous, toutes les explications utiles.
+
+
+Je suis persuadé, d'ailleurs, que Sa Majesté, ainsi que son Gouvernement, comprend la
+pressante nécessité de réformes progressives qui, en respectant les coutumes et en tenant
+compte des traditions, en un mot sans froisser en rien les sentiments des populations, aug-
+mentent l'autorité du Gouvernement chérifien dans toute l'étendue de l'empire et lui per-
+mettent de la consolider efficacement dans notre voisinage. C'est pour ces différentes réformes,
+ainsi que pour les entreprises nouvelles que le Gouvernement chérifien pourrait être disposé
+à étudier, que le Gouvernement de la République s'appliquera à lui prêter son concours
+dans les conditions les plus favorables aux intérêts communs des deux pays.
+
+
+Car, je vous le répète, aujourd'hui et dans tout l'avenir, comme hier, nous nous présen-
+tons au Makhzen en amis, voulant sa prospérité parce que la nôtre, celle de notre Algérie,
+en dépend. Loin de vouloir aucunement diminuer l'autorité de S. M. le Sultan, nous
+nous préoccupons au contraire de l'accroître. En retour, le Gouvernement de la République
+compte que le Makhzen, comprenant le caractère véritable de ses intentions, s'y associera
+avec une amicale confiance. Et, par là, s'ouvrira pour l'empire chérifien un avenir de pros-
+périté et de paix.
+
+
+135
+
+
+N° 160.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 mai 1904.
+
+
+Un des principaux notables de la colonie étrangère, M. Perdicaris, de nationalité
+américaine, et son beau-fils, M. Varley, sujet britannique, ont été enlevés hier soir,
+par le brigand Raissouli, dans leur maison de campagne, située à trois quarts d'heure
+de la ville. Raissouli a, le même soir, écrit à Si Torrès qu'il exigeait, comme première
+condition, le rappel en ville d'une mahalla qui, sous le commandement du Pacha de
+Tanger, tient la campagne dans les environs. Cette condition préalablement réalisée,
+il ferait connaître ses intentions définitives. Sur une démarche du Ministre d'Angle-
+terre et du Consul général des États-Unis, Si Torrès a envoyé au Pacha de Tanger
+l'ordre de rentrer en ville avec sa mahalla. Il ne voit d'autre moyen de sauver les
+captifs que de subir toutes les conditions du chef de bande. Cet incident produit ici
+dans tous les milieux une vive émotion. Il apporte une justification de plus à la décla-
+ration franco-anglaise. Les commentaires qu'il provoque dans la colonie européenne
+font sentir qu'une de nos premières préoccupations devra être de proposer au Makhzen,
+dès que cela sera possible, des mesures propres à assurer la sécurité autour de la ville
+et sur la côte.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 161.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 28 mai 1904.
+
+
+Avec l'assentiment du Consul général des États-Unis, le Ministre d'Angleterre m'a
+fait connaître les conditions mises par Raissouli à la libération de ses deux captifs;
+les voici :
+
+
+Renvoi à Fez de la mahalla qui tient la campagne à proximité de Tanger;
+Destitution du Pacha de Tanger;
+
+
+Emprisonnement de divers personnages coupables d'avoir autrefois sévi contre
+Raissouli et les siens;
+
+
+Délivrance d'un assez grand nombre de prisonniers détenus dans les prisons du
+Makhzen;
+
+
+Versement à Raissouli d'un indemnité de 350,000 pesetas, imposée à la famille
+du Pacha Abdessadoq, dont les biens seraient vendus jusqu'à concurrence de cette
+somme;
+
+
+136
+
+
+Autonomie de deux villages de la région de Tanger, qui seraient soustraits à l'impôt
+et placés sous l'autorité de Raissouli;
+
+
+Raissouli exige, en outre, que les Représentants anglais et américain lui garan-
+tissent l'acceptation de ces conditions.
+
+
+Les deux chérifs d'Ouezzan, Moulay Ali et Moulay Ahmed, que j'avais priés d'in-
+tervenir, à la demande de mes collègues, se sont rendus auprès de Raissouli et
+ont vainement essayé de l'amener à réduire ses exigences. Il a déclaré qu'il les aug-
+menterait, si l'on tardait à les accepter et qu'en fin de compte il tuerait ses captifs.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 162.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 30 mai 1904.
+
+
+L'Assemblée coloniale allemande réunie à Stettin, le 27 de ce mois, a voté à
+l'unanimité l'adresse suivante au Chancelier de l'Empire:
+
+
+ En présence de la situation inattendue que l'arrangement franco-anglais crée au
+Maroc, l'Assemblée coloniałe juge nécessaire que le Gouvernement Impérial entre-
+prenne des démarches pour obtenir ce qui suit: 1º Tant que durera au Maroc l'état
+de choses présent, la liberté commerciale sera garantie dans toute sa plénitude, et les
+droits politiques et économiques des sujets allemands y résidant devront être sauve-
+gardés de façon expresse; 2º au cas où le statu quo serait modifié en faveur de la
+France, l'Empire allemand devrait recevoir des compensations au moins égales à
+l'accroissement de la puissance française, compensations correspondant à la fois à
+l'importance de ses intérèts économiques dans le pays, aux besoins qu'a sa flotte de
+points d'appui maritimes et aux besoins d'expansion de sa population. »
+
+
+Le comte Pfeil, qui s'était chargé de faire le rapport sur la question, a dit que
+l'Empire avait encore la possibilité de mettre la main sur une terre où l'Allemand
+pouvait prospérer, qu'il fallait diriger vers le Maroc les 32,000 émigrants qui vont
+chercher fortune aux Etats-Unis tous les ans, que ces émigrants trouveraient là un
+climat et des conditions de production appropriés à leur activité, qu'enfin, au point
+de vue politique, le Maroc était à l'heure présente le seul point d'appui dont pour-
+rait se servir la marine allemande pour maintenir, au cas de complications internatio-
+nales, le libre passage entre l'Atlantique et le Canal de Suez.
+
+
+Les journaux annoncent qu'une manifestation analogue, organisée par les Panger-
+manistes, aura lieu prochainement à Lübeck:
+
+
+BIHOURD.
+
+
+137
+
+
+N° 163.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 30 mai 1904.
+
+
+Le Ministre d'Angleterre m'a exprimé le désir que M. de Saint-Aulaire fût
+invité à appuyer les démarches que l'agent anglais à Fez doit faire auprès du
+Makhzen, en vue de la libération des deux prisonniers de Raissouli. J'ai donné suite
+à cette demande, en recommandant à M. de Saint-Aulaire de motiver ses instances
+par l'amitié même que nous portons au Gouvernement chérifien et aussi de ne pas se
+laisser entraîner dans une discussion sur les mesures propres à amener le résultat
+souhaité, mesures dont les deux Puissances intéressées entendent laisser au Makhzen
+la responsabilité.
+
+
+N° 164.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. DELGASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française
+à Tanger.
+
+
+Paris, le 31 mai 1904.
+
+
+J'approuve les instructions que vous avez données à M. de Saint-Aulaire.
+L'Ambassadeur des États-Unis est venu hier me demander nos bons offices dans.
+l'Affaire Raissouli. Je lui ai dit que nous avions, dès la première heure, fait appel à
+l'entremise des chérifs d'Ouezzan, que leurs efforts n'avaient pas abouti, mais que
+nous agissions en outre à Tanger et à Fez.
+
+
+DELCASSÉ.
+
+
+N° 165.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 juin 1904.
+
+
+Les prisonniers de Raissouli sont traités avec une certaine humanité. La présence
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+18
+
+
+138
+
+
+auprès d'eux du chérif d'Ouezzan, Moulay Ali, est une garantie sérieuse. Il est peu
+vraisemblable que Raissouli en vienne à les tuer, tant qu'il ne se verra pas menacé
+et qu'il conservera l'espoir de faire accepter ses conditions. Elles ne sont pas maté-
+riellement inexécutables, mais elles sont le renversement de l'ordre public puisqu'elles
+tendent à faire punir des fonctionnaires fidèles de destitution, d'emprisonnement,
+de confiscation et, d'autre part, à récompenser une bande de brigands par l'attribution
+d'une sorte de petit fief. Les Gouvernements britannique et américain se sont
+bornés à signifier au Makhzen que si les captifs n'étaient pas promptement libérés,
+ils l'en rendraient responsable.
+
+
+D'ici à très peu de jours, le Makhzen, aura mis Si Torrès en mesure de répondre
+à Raissouli. Le plus probable est que cette réponse sera un acquiescement complet.
+On espère que, dans ce cas, les captifs seront aussitôt libérés. Il est possible, toute-
+fois, que Raissouli ne se fie pas à la seule promesse du Makhzen et que, faute d'une
+autre garantie ou pour toute autre cause, il augmente encore ses prétentions. La
+situation de M. Perdicaris et de M. Varley deviendrait alors plus critique.
+
+
+En vue de cette éventualité, j'ai appelé l'attention de Moulay Ali sur le prix que nous
+attachons au salut des deux captifs et sur le grand honneur qu'il y aurait pour lui
+à l'assurer, en restant auprès d'eux aussi longtemps qu'il sera nécessaire.
+
+
+Les tribus sont calmes; mais quand elles auront vu le sultan subir toutes les exi-
+gences de Raissouli, elles apprendront que l'enlèvement d'un Européen est pour elles
+le plus puissant des moyens de pression. Cette idée vient déjà de se faire jour dans
+un conciliabule tenu entre plusieurs tribus.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 166.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 3 juin 1904.
+
+
+La manifestation de la Société Coloniale allemande au sujet du Maroc, dont ma
+lettre en date du 30 mai dernier a donné connaissance à Votre Excellence, a été
+bientôt suivie d'une résolution encore plus catégorique, votée à l'unanimité par
+l'Union pangermanique, dont la réunion annuelle avait lieu ces jours-ci à Lübeck.
+D'après cette résolution, dont le comte Pfeil s'est encore fait le promoteur, l'Assem-
+blée réclame, au nom des intérêts politiques et économiques de l'Allemagne, l'ac-
+quisition de la côte atlantique du Maroc; elle se déclare blessée de l'humi-
+liation subie par l'Empire, qui n'a pas été consulté au moment des négociations
+franco-anglaises; elle somme le Gouvernement de saisir l'occasion qui lui est offerte
+
+
+139
+
+
+de faire prévaloir les prétentions allemandes et de prendre pied solidement dans
+l'Empire du Makhzen.
+
+
+D'autre part, l'Export affirme, d'après des correspondances qu'il se fait envoyer
+du Maroc, que les Marocains refusent les marchandises françaises et que le senti-
+ment antifrançais augmente chaque jour parmi eux. Les négociants allemands doivent
+tirer parti de cette situation, former une union et augmenter leurs relations avec le
+Maroc pendant les trente années de liberté commerciale qu'ils ont devant eux. Le
+Gouvernement Impérial se trouvera ainsi obligé d'intervenir en faveur des intérêts
+allemands.
+
+
+Tout en notant les diverses manifestations dont je viens de parler, il importe de
+ne pas en exagérer la portée. La presse sérieuse a eu soin de rappeler la réalité des
+faits; le « Courrier de la Bourse», parlant de la résolution de l'Union pangermanique,
+déclare que c'est un devoir patriotique de signaler la légèreté et l'insouciance de ces
+manières d'agir.
+
+
+Quant à la déclaration beaucoup plus importante de la Société Coloniale, elle a
+été discutée avec soin par la Gazette nalionale, qui donne un tableau du commerce
+respectif des Puissances avec le Maroc et montre que les échanges de l'Angleterre, qui
+n'a réclamé ni territoires ni ports, sont sept fois plus considérables que ceux de
+l'Allemagne. « Pour une importation de 2 à 3 millions de marks, même si elle devait
+se doubler ou se tripler, l'Allemagne ne peut pas entrer en conflit avec la France. »
+La même note est donnée par la Gazette de la Croix: Les Gouvernements devront
+veiller à ce que leurs droits soient respectés au Maroc, dit-elle en résumé; quant à
+l'avenir, c'est-à-dire à ce qui se passera dans trente ans, il est un peu tôt pour y
+penser.
+
+
+N° 167.
+
+
+ BIHOURD.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 6 juin 1904.
+
+
+Ben Sliman a dit à M. de Saint-Aulaire que le Makhzen, après délibération, a
+décidé d'accepter les conditions suivantes :
+
+
+1º Révocation et remplacement du Pacha de Tanger;
+
+
+2º Versement d'une rançon de 350,000 pesetas;
+
+
+3º Retrait de la Mahalla de Tanger;
+
+
+4º Mise en liberté de certains prisonniers détenus à Tanger;
+
+
+5º Nomination de Raissouli comme gouverneur des villages dont il a demandé
+l'autonomie;
+
+
+18.
+
+
+140
+
+
+6° Promesse de relâcher, aussitôt après la libération de MM. Perdicaris et Varley,
+les rebelles qui ont été emprisonnés à la suite de l'attaque de Tétouan;
+
+
+7º Promesse d'emprisonner, sous les mêmes conditions préalables, les gens dont
+Raissouli demande l'arrestation.
+
+
+N° 168.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 11 juin 1904.
+
+
+La question qui s'impose d'urgence est celle de la sécurité publique dans Tanger
+et ses environs immédiats. C'est une question de simple police locale.
+
+
+Ma conviction, fondée sur celle des hommes les plus familiarisés avec le pays, est que
+la meilleure solution de cette question consiste: 1º à faire augmenter les pouvoirs et
+la responsabilité du Pacha; 2º à faire introduire dans la police et la garnison de
+Tanger un certain nombre d'éléments algériens, choisis parmi les meilleurs.
+
+
+Je viens d'écrire en ce sens au Ministre des Affaires étrangères du Sultan, et j'ai
+chargé M. de Saint-Aulaire d'insister auprès du Makhzen sur la nécessité de remédier
+à une situation qui menace tous les intérêts étrangers.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N°169.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Représentants diplomatiques de la République française, à Berlin,
+Berne, Bruxelles, Londres, Madrid, Rome, Saint-Péterbourg,
+Vienne, Washington.
+
+
+Paris, le 16 juin 1904.
+
+
+Le consortium des Banques françaises m'annonce que le contrat d'emprunt de
+62 millions et demi, qu'il négociait avec le Gouvernement marocain et qui est gagé
+sur les douanes de tous les ports du Maroc, a été signé à Fez, le 12 de ce mois.
+
+
+DELCASSÉ.
+
+
+141
+
+
+N° 170.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 18 juin 1904.
+
+
+M. de Saint-Aulaire me fait connaître que les négociations qui se poursuivaient
+depuis près de trois mois entre le mandataire des banques françaises et le Makhzen
+ont abouti à un accord. Le 1er juin, par un firman spécial adressé à ses Ministres des
+Affaires étrangères et des Financės, le Sultan les autorisait à signer le contrat. Il res-
+tait encore quelques points en discussion, sur lesquels l'entente a pu s'établir et,
+le 12 juin, les signatures étaient échangées, sous réserve toutefois de ratification par
+le consortium des établissements français.
+
+
+Je me bornerai à retracer ici les grandes lignes de l'opération. Il s'agissait, ainsi
+que vous en a informé ma correspondance et notamment une lettre du 29 janvier
+dernier, de fournir au Gouvernement chérifien les ressources nécessaires pour parer
+à ses besoins les plus pressants. Le montant de l'emprunt s'élève à 62 millions et demi,
+produisant un intérèt de 5 p. o/o et pris ferme à 80 p. o/o par le groupe français.
+L'amortissement sera effectué en 36 années.
+
+
+Les fonds réalisés serviront en premier lieu à rembourser les emprunts antérieurs
+que le Trésor chérifien a conclus à des intérêts de 6 p. o/o, sans compter les commis-
+sions de banque.
+
+
+La garantie de l'emprunt porte sur la totalité du revenu des douanes de l'Empire.
+Un prélèvement de 60 p. o/o sera opéré sur les recettes pour le service de l'emprunt,
+mais jusqu'à concurrence seulement des semestrialités d'intérêt, de la prime d'amor-
+tissement et des frais de perception, lesquels sont arbitrés à 150,000 francs par an.
+
+
+Les banques françaises désigneront un représentant, en qualité de délégué des
+porteurs de titres, qui installera des agents dans chacun des ports de l'Empire. Le
+délégué des porteurs, de concert avec le Commissaire impérial marocain, opérera
+les achats de change afin de convertir en francs les fonds perçus en monnaies maro-
+caines. La comptabilité de l'emprunt sera tenue par la Banque de Paris et des Pays-
+Bas, qui préside le comité des banques syndiquées.
+
+
+A la demande expresse du Sultan, les agents chargés du service de l'emprunt
+dans les douanes chérifiennes ne devront être ni des commerçants, ni des agents
+attachés à des consulats, mais des fonctionnaires spécialement affectés à ce service.
+
+
+Ils devront, en outre, conformément aux vues personnelles de Sa Majesté,. exercer
+un contrôle sur la gestion des Oumana, qui restent chargés d'appliquer les tarifs
+douaniers et de les percevoir.
+
+
+Le Makhzen s'engage à veiller sur la sécurité des agents de l'emprunt, lesquels
+seront placés sous la protection de la Légation de France, et à faciliter leur installa-
+tion dans les ports.
+
+
+142
+
+
+Le mandataire de la Banque de Paris à Fez avait sollicité, au nom du consortium
+français, la concession d'une banque d'État. Cette affaire a paru au Makhzen
+engagée prématurément et, comme elle pouvait être considérée comme présentant un
+caractère politique, il a décidé qu'elle serait traitée, non avec le représentant du
+Syndicat des Banques, mais avec le Ministre de France. Si Abdesselam Tazi a d'ail-
+leurs confirmé les intentions du Gouvernement chérifien dans une lettre qu'il m'a
+adressée et dans laquelle il s'exprime ainsi qu'il suit, au sujet de la Banque d'État :
+
+
+« Nous avons répondu au Délégué des Banques que, s'il désire cette création, la
+« demande en sera faite par votre intermédiaire, et vous êtes juge du moment
+« opportun pour la formuler. »
+
+
+Je crois superflu d'insister sur l'intérêt considérable que présente l'engagement pris
+par le Makhzen à ce sujet.
+
+
+Un autre point fort important, mis en discussion par le délégué des banques, a
+trait au droit de préférence que le consortium français réclame en matière d'emprunt,
+de frappe de monnaies, d'achats ou de ventes d'or et d'argent. Ce droit a été
+expressément reconnu par le contrat aux établissements français syndiqués.
+
+
+Dans ces conditions, il importe que le consortium procède sans retard à la rati-
+fication pure et simple du contrat, qui a été transmis directement à la Banque de
+Paris par son mandataire.
+
+
+Votre Excellence trouvera, en annexe à ce rapport, copie intégrale du contrat.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+ANNEXES.
+
+
+I.
+
+
+FIRMAN de Sa Majesté l'Empereur du Maroc autorisant l'emprunt.
+
+
+LOUANGE À DIEU SEUL!
+
+
+Empreinte du cachet du Sultan portant l'inscription suivante: Abdelaziz ben Elhassan,
+Dieu est son protecteur et son maître.
+
+
+Le présent Firman, élevé par Dieu, prescrit ce qui suit :
+
+
+Nous ordonnons à nos deux serviteurs dévoués, le Taleb Sı ABDELKERIM BEN SLIMAN,
+chargé des Affaires extérieures de notre Gouvernement Chérifien, et l'amin, le Taleb Si Mo-
+HAMMED BEN ABDELKERIM ETTAZI, chargé de ses Finances, de conclure, pour le compte du
+Trésor chérifien (que Dieu le rende abondant!) un Emprunt de 62,500,000 francs
+avec la Banque de Paris et des Pays-Bas, Société anonyme dont le siège est à Paris, rue
+d'Antin, nº 3, agissant en son nom et au nom des autres Banques dont les noms sont indi-
+qués dans le Contrat selon la règle commerciale, c'est-à-dire du 5 p. o/o par an et suivant la
+garantie spécifiée à l'article 11 du contrat qui mentionne, en outre, le mode du versement
+du montant de l'Emprunt et de son amortissement et qui est revêtu de la signature les deux
+
+
+143
+
+
+serviteurs susdits, de celle du fondé de pouvoirs et délégué des Banques, Georges Zangarus-
+siano, et enfin celle du Consul français à Fez et de son cachet.
+
+
+Nous ratifions, en conséquence, ce qui précède dans la forme susindiquée.
+
+
+Salut, le 16 Rébêï I 1322, correspondant au 1 juin 1904.
+
+
+Fait en duplicata.
+Pour traduction certifiée conforme.
+
+
+Fez; le 1 juin-1904.
+
+
+(Paraphe du Sultan.)
+
+
+L'Interprète de la Légation de France,
+
+
+Π. Contrat.
+
+
+LOUANGE  DIEU!
+
+
+ENTRE LES SOUSSIGNÉS:
+
+
+A. BENGHABRIT.
+
+
+Il a été dit et arrêté ce qui suit :
+
+
+Le Gouvernement Impérial du Maroc a décidé la création d'un emprunt du Gouvernement
+Impérial du Maroc, gagé sur le produit des droits de douanes de tous les ports de l'Empire,
+existants ou à créer. Ces droits comprennent toutes les taxes à payer, à l'entrée ou à la sortie
+de toutes valeurs ou marchandises.
+
+
+Les Banques, de seconde part, s'engagent, dans les proportions qui seront ci-après indi-
+quées, à prendre ledit Em prunt aux conditions suivantes :
+
+
+ARTICLE PREMIER. Le montant nominal de l'Emprunt est fixé à 62,500,000 francs
+(soixante-deux millions cinq cent mille francs).
+
+
+Cet Emprunt constitue un engagement direct du Trésor du Gouvernement Impérial du
+Maroc.
+
+
+11 recevra la dénomination de :
+
+
+Emprunt 5 p. 0/0 19 04 gagé par le produit des Douanes des ports de l'Empire du Maroc.
+
+
+ART. 2. Cet Emprunt sera représenté par 125,000 obligations au porteur de 500,000 fr.
+chacune.
+
+
+ART. 3. Ces obligations recevront un intérêt annuel de 5 p. o/o du montant nominal
+(500 fr.), payable en deux parties égales contre des coupons semestriels aux échéances des
+1 janvier, 1 juillet de chaque année.
+
+
+L'échéance du premier coupon est fixée au 1 janvier 1905.
+
+
+Chaque coupon est payable à raison de 12 fr. 50 à Paris, aux caisses des Banques con-
+tractantes.
+
+
+ART. 4. L'amortissement de cet Emprunt se fera en 35 années, lesquelles commenceront
+à courir à partir du 1 juillet 1906, pour prendre fin le 1 juillet 1941; il y sera procédé
+par tirages au sort semestriels suivant un tableau imprimé au verso des titres, qui compor
+tera 70 semestrialités égales, comprenant l'intérêt et l'amortissement.
+
+
+144
+
+
+Les tirages auront lieu à Paris, par les soins de la Banque de Paris et des Pays-Bas, chaque
+
+
+semestre, deux mois avant l'échéance des coupons.
+Le 1 tirage aura lieu vers le 1 novembre 1906.
+
+
+ART. 5. Les obligations sorties aux tirages seront payées en même temps que le coupon
+venant à échéance postérieurement au tirage à Paris, aux Caisses des Banques contractantes.
+Le premier remboursement aura lieule 1 janvier 1907, et le dernier le juillet 1941.
+Les listes des numéros sortis aux tirages seront publiées par les soins de la Banque de
+Paris et des Pays-Bas et aux frais des Banques contractantes dans deux journaux de Paris et
+un journal de Tanger.
+
+
+Toute obligation dont le numéro est sorti et qui sera présentée au remboursement devra
+être munie de tous les coupons non échus à la date fixée pour le remboursement; dans le
+cas où il en manquerait un ou plusieurs, leur montant serait déduit du capital à payer au
+porteur.
+
+
+ART. 6. Les coupons payés et les titres amortis seront annulés par les soins de la Banque
+de Paris et des Pays-Bas et tenus à la disposition du Gouvernement Impérial du Maroc.
+
+
+ART. 7. Le Gouvernement Impérial du Maroc s'interdit de rembourser le présent Em-
+prunt et d'en augmenter l'amortissement avant un délai de 15 ans à compter du premier
+remboursement d'obligations amorties, soit avant le 1 janvier 1922. A l'expiration de ce
+délai, il aura le droit, s'il le juge convenable, de rembourser ledit Emprunt en totalité, ou
+d'en augmenter l'amortissement, en en donnant avis par écrit à la Banque de Paris et des
+Pays-Bas, trois mois à l'avance.
+
+
+ART. 8. Les titres du présent Emprunt, confectionnés par les soins de la Banque de Paris
+et des Pays-Bas conformément à l'Obligation générale annexée au présent contrat.
+
+
+Les frais de confection de titres et de timbre seront à la charge des Banques contractantes.
+
+
+ART. 9. Les titres et les coupons de l'Emprunt seront exempts de tous impôts, taxes,
+droits ou redevances quelconques, de quelque nature que ce soit, prévus ou à prévoir, au.
+profit du Gouvernement Impérial du Maroc, celui-ci s'obligeant à payer net, en francs de
+France, le service de l'Emprunt, en tout temps, sans diminution et sans excuse.
+
+
+ART. 10. Les coupons qui n'auraient pas été présentés à l'encaissement dans un délai de
+cinq ans à partir de leur échéance seront prescrits en faveur du Gouvernement Impérial du
+Maroc.
+
+
+De même seront prescrites en faveur du Gouvernement Impérial du Maroc, les obli-
+gations amorties qui ne seront pas présentées à l'encaissement après un délai de trente ans.
+En cas de perte, de vol ou de destruction des titres du présent emprunt, la Banque de
+Paris et des Pays-Bas est autorisée à procéder aux frais des banques contractantės au rem-
+placement de ces titres, après qu'il lui aura été fourni des garanties et des preuves jugées par
+elle satisfaisantes de leur disparition et des droits des réclamants.
+
+
+ART. 11. Le présent emprunt est garanti spécialement et irrévocablement par préférence
+et priorité à tous autres emprunts par la totalité du produit des droits de douanes, tant à
+l'entrée qu'à la sortie de tous les ports de l'Empire existant ou à créer.
+
+
+Le produit des droits de douanes servira jusqu'à due concurrence à assurer le service des
+obligations en intérêts, amortissement et frais de change; il sera, en outre, affecté au paye-
+
+
+!
+
+
+145
+
+
+ment de la somme de 75,000 francs (soixante-quinze mille francs) que le Gouvernement
+Impérial du Maroc s'engage à verser semestriellement à la Banque de Paris et des Pays-Bas,
+ainsi qu'il sera dit à l'article 23 ci-après.
+
+
+Ce service devant être assuré par semestre, chaque semestrialité comprendra :
+
+
+1º Le montant des intérêts semestriels;
+
+
+2º La somme représentant l'amortissement semestriel, lorsque l'amortissement aura com-
+mencé à fonctionner;
+
+
+3º La somme de 75,000 francs (soixante-quinze mille francs), indiquée plus haut;
+4° Les frais de change.
+
+
+Dans le cas où le produit des douanes des ports chérifiens serait insuffisant pour effectuer
+le service du présent emprunt, le Gouvernement Impérial du Maroc s'engage à compléter le
+service par la totalité de ses autres ressources.
+
+
+Le Ministre des finances du Gouvernement Impérial du Maroc, interrogé, déclare que le
+produit des droits de douanes encaissés pendant les quatre dernières années de 1318,
+1319, 1320 et 1321, correspondant à 1900, 1901, 1902 et 1903, s'est élevé à la somme
+de 48,946,670 pesetas, se décomposant comme suit :
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+ART. 12. A l'effet d'assurer le fonctionnement de cette garantie, tous les droits que com-
+portent les titres de l'emprunt, tels qu'ils résultent du présent contrat, seront exercés, au
+nom et pour le compte des porteurs par un représentant desdits porteurs qui sera designé
+par les banques contractantes dans les conditions qu'elles détermineront.
+
+
+Le représentant des porteurs de titres aura la faculté de transmettre ses pouvoirs en tout
+ou en partie au délégué européen qui sera spécialement chargé de ce service, sans pouvoir
+s'adonner au commerce au Maroc, et qu'il devra nommer dans chacun des ports, et de
+prendre le personnel nécessaire, dont le nombre ne devra pas dépasser quatre dans chaque
+port, pour l'accomplissement de sa mission.
+
+
+It nommera ses délégués et agents et les révoquera; ceux-ci devront se conformer à tous
+les ordres du représentant et n'auront à connaître d'autre autorité que la sienne.
+
+
+Tous documents relatifs à la gestion des droits afférents au présent Emprunt devront être
+signés par le Représentant des Porteurs de Titres avec faculté pour lui de déléguer ses pouvoirs
+en tout ou en partie.
+
+
+Le Gouvernement Impérial du Maroc prendra les mesures nécessaires pour assurer la sécu-
+rité du Représentant des Porteurs de Titres, de ses Délégués et de son personnel, des locaux
+occupés par eux et la conservation des valeurs, livres et papiers.
+
+
+Le Représentant des Porteurs de Titres et ses Délégués ou Agents seront placés, en raison
+de leurs fonctions, sous la protection de la Légation de France au Maroc.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+19
+
+
+146
+
+
+ART. 13. Le Gouvernement Impérial du Maroc désignera un Commissaire spécial qui
+servira d'intermédiaire entre lui et le Représentant des Porteurs de Titres. Ce Commissaire
+résidera à Tanger. Il recevia valablement pour le compte du Gouvernement toutes com-
+munications relatives au service de l'Emprunt et toutes notifications qui s'y rapporteront.
+
+
+Il est dès à présent tenu de transmettre aux Oumana des différentes Douanes les ordres
+correspondant à ceux donnés par le Représentant des Porteurs de Titres à ses Délégués,
+après entente entre eux.
+
+
+Les traitements et frais du Commissaire du Gouvernement Impérial du Maroc seront à la
+charge de celui-ci.
+
+
+ART. 14. Les droits de douane devront être toujours payés en espèces d'or et d'argent
+ayant cours au Maroc.
+
+
+L'assiette, les bases, le tarif et le mode de perception des droits de Douane affectés au
+présent Emprunt, ainsi qu'en général toutes les lois, règlements et autres dispositions con-
+cernant ces droits, fixés par les traités, et actuellement en vigueur, continueront à être res-
+pectés, et, en cas de modifications, d'accord avec les Puissances, ces modifications seront
+notifiées par le Gouvernement Impérial du Maroc au Représentant des Porteurs de Titres,
+pour qu'il en prenne note.
+
+
+Un exemplaire de ces lois, règlements et autres dispositions sera annexé au présent
+contrat.
+
+
+ART. 15. Le Gouvernement Impérial du Maroc prendra toutes les mesures nécessaires
+pour que la fraude en vue d'éviter ou de modifier le payement des droits de douanes, ou leur
+perception, ne puisse pas s'exercer.
+
+
+Toute fraude constatée par l'un des Délégués sera immédiatement signalée par écrit aux
+Oumanas du port et au Représentant des Porteurs de Titres à Tanger. Celui-ci en informera
+le Commissaire du Gouvernement qui devra prendre les mesures nécessaires, tant vis-à-vis
+du délinquant pour faire acquitter les droits de douanes et amendes en faveur du Gouverne-
+ment Impérial du Maroc, qu'envers les Oumana pour empêcher le retour de ces fraudes.
+
+
+Dans le cas de fraudes réitérées, et si les réclamations du Représentant des Porteurs de
+Titres restaient sans effet, celui-ci aura le droit, deux mois après notification au Gouverne-
+ment Impérial du Maroc, de réclamer la destitution des Oumanas ou des employés cou-
+pables.
+
+
+ART. 16. L'encaissement des droits de douanes affectés au présent Emprunt s'opérera par
+les soins des fonctionnaires du Gouvernement Impérial du Maroc.
+
+
+Le Représentant des Porteurs de Titres nommera auprès de chacune des douanes un
+Délégué qui, ainsi que le Représentant des Porteurs de l'Emprunt lui-même, aura le droit
+de contrôle et d'enquête pour tout ce qui concerne les affaires de la Douane auprès de la-
+quelle il sera accrédité, et auquel devra être remis journellement l'état des encaissements, à
+l'entrée et à la sortie, opérés par les fonctionnaires du Gouvernement Impérial du Maroc.
+
+
+ART. 17. Ainsi qu'il a été dit à l'article 11, le produit des Douanes est affecté en totalité
+eť par privilège au service du présent Emprunt.
+
+
+Toutefois la moyenne annuelle des droits de Douanes encaissés pendant les quatre der-
+nières années s'étant élevée, d'après les déclarations du Ministre des Finances du Gouver-
+nement Impérial du Maroc relatées au même article, à douze millions de pesetas, et dépas-
+sant le montant nécessaire au service de l'Emprunt, une partie seulement de ces droits sera
+prélevée journellement pour faire face au service de l'Emprunt, l'autre partie restant à la
+
+
+147
+
+
+disposition du Gouvernement Impérial du Maroc, sauf les cas prévus aux articles suivants.
+En conséquence, et en prenant pour base le chiffre moyen de douze millions de pesetas
+résultant des déclarations du Ministre des Finances du Gouvernement Impérial du Maroc,
+le Représentant des Porteurs de Titres fera encaisser journellement, dans chaque port, par
+ses Délégués, 60 p. 100 (soixante pour cent) du produit des Douanes, cette proportion étant
+fixée quelle que soit l'importance de ce produit.
+
+
+Mais, si le produit total des Douanes pendant deux années consécutives subissait une
+diminution et se trouvait être inférieur à douze millions de pesetas, moyenne annuelle prise.
+comme base, la part des recettes que le Représentant des Porteurs de Titres fera encaisser
+journellement dans chaque port sera augmentée dans une proportion telle que cette part
+représente toujours l'équivalent de 60 p. 100 de douze millions de pesetas, et ce, jusqu'à ce
+que le montant total du produit annuel des Douanes ait atteint de nouveau douze millions
+de pesetas.
+
+
+ART. 18. Le Représentant des Porteurs de Titres transmettra à la Banque de Paris et des
+Pays-Bas, d'une manière régulière et continue, les remises provenant de la conversion en
+francs des fonds qu'il aura encaissés.
+
+
+Chaque quinze jours, il adressera au Gouvernement Impérial du Maroc un état de ces.
+remises indiquant le prix auquel elles auront été effectuées.
+
+
+ART. 19. Les achats de change à Tanger seront effectués journellement, pour le compte
+du Gouvernement Impérial du Maroc, au înieux de ses intérêts, après entente entre le Repré-
+ sentant des Porteurs de titres et le Commissaire du Makhzen.
+
+
+En cas de désaccord entre eux, le Représentant des Porteurs de Titres aura le droit, après
+avoir prévenu par écrit le Commissaire du Makhzen, de faire l'achat du change lui-même,
+et d'envoyer copie de sadite lettre au Ministre des Finances.
+
+
+Quant aux achats de change dans les autres ports du Maroc, ils se feront, quand cela sera
+possible, après entente entre les délégués du Représentant des Porteurs de Titres et l'Admi-
+nistrateur de la Douane que le Gouvernement Impérial du Maroc désignera.
+
+
+En cas de désaccord entre eux, le Délégué susdit, après avoir prévenu l'Administrateur de
+la Douane, aura le droit de faire l'achat de change lui-même et donnera avis au Représentant
+des Porteurs de Titres à Tanger, pour que celui-ci porte le fait à la connaissance du Com-
+missaire du Makhzen.
+
+
+ART. 20. Lorsque la totalité des deux semestrialités correspondant à une année sera par-
+venue aux mains de la Banque de Paris et des Pays-Bas avant l'expiration de l'année, le
+Représentant des Porteurs de Titres, après en avoir avisé le Commissaire du Makhzen,
+donnera à ses Délégués dans chaque port l'ordre de suspendre les encaissements jusqu'au
+début du premier semestre de l'année suivante.
+
+
+Les encaissements par les Délégués reprendront sur la base indiquée à l'article 17 à partir
+du début du premier semestre de l'année suivante.
+
+
+ART. 21. Au cas où deux mois avant chaque échéance semestrielle le total des encaisse-
+ments effectués et reçus par le Représentant des Porteurs de Titres à Tanger, par application
+de la perception limitée prévue à l'article 17, n'atteindrait pas le montant de la semestrialité
+correspondant à cette échéance, le Représentant des Porteurs de Titres en avisera le Commis-
+saire du Makhzen qui devra parfaire la semestrialité dans un délai de quinze jours à partir de
+cette notification, et ce au moyen des autres ressources du Gouvernement Impérial du Maroc
+et notamment au moyen du solde du produit des Douanes qui restera disponible au Gou-
+
+
+19.
+
+
+148
+
+
+vernement Impérial du Maroc. Ce versement complémentaire devra être fait entre les mains
+du Représentant des Porteurs de Titres de façon à ce que la Banque de Paris et des Pays-Bas
+soit détentrice à Paris, en francs, de la somme représentant chaque semestrialité un mois au
+moins avant chaque échéance.
+
+
+Afin d'assurer l'exactitude du payement des semestrialités, le Gouvernement Impérial du
+Maroc consent d'ores et déjà à constituer une réserve entre les mains de la Banque de Paris
+et des Pays-Bas de 2,000,000 de francs (deux millions de francs) qui restera déposée entre
+les mains de ladite Banque jusqu'au remboursement intégral de l'Emprunt.
+
+
+Dans le cas où le montant intégral d'une semestrialité ne serait pas entre ses mains un mois
+avant l'échéance semestrielle, la Banque de Paris et des Pays-Bas, en attendant le versement
+complémentaire que le Gouvernement impérial du Maroc s'est engagé à effectuer, ainsi qu'il
+a été dit plus haut, aura le droit d'opérer sur cette réserve, sans aucun préavis, un prélève-
+ment suffisant pour compléter la provision nécessaire à la semestrialité..
+
+
+Toutefois ce prélèvement ne modifie en rien l'obligation du Gouvernement impérial du
+Maroc de parfaire chaque semestrialité au moyen de toutes ses ressources en cas d'insuffi-
+sance du produit des Douanes affecté au service de l'Emprunt.
+
+
+Dans le cas où la réserve viendrait à être entamée, elle devra être reconstituée au plus vite
+par le Gouvernement impérial du Maroc par ses ressources propres.
+
+
+Dans le cas où, à l'échéance des semestrialités, le Gouvernement impérial du Maroc n'au-
+rait pas reconstitué cette réserve, le Représentant des Porteurs de titres en avisera le Com-
+missaire du Makhzen, et ils donneront ordre, le premier à ses Délégués et le second aux
+Oumana dans chaque port, d'augmenter le quantum de la perception qui doit être payé
+chaque jour par les fonctionnaires du Gouvernement impérial du Maroc, de façon que, dans
+le délai de deux mois maximum, cette réserve soit reconstituée.
+
+
+ART. 22. La Banque de Paris et des Pays-Bas portera, dans un compte intitulé « Service
+de l'Emprunt » au crédit du Gouvernement impérial du Maroc, les remises qui lui seront
+faites par le Représentant des Porteurs de titres pour le service de l'Emprunt, sans aucune
+bonification d'intérêts.
+
+
+ART. 23. Les Banques contractantes prendront à leur charge:
+
+
+1º Les frais de confection des titres provisoires et définitifs du présent Emprunt et le
+renouvellement de feuilles de coupons;
+
+
+2º Les droits de timbre acquittés sur les titres dans les pays où il aura été décidé de faire
+l'émission;
+
+
+3º Les commissions à payer pour le payement des coupons et des titres amortis;
+
+
+4º Les frais de correspondance télégraphique ou postale, d'annonces de payement des
+coupons ou de titres amortis;
+
+
+5º Les traitements du Représentant des Porteurs de titres et de ses Délégués ou Agents;
+
+
+6° Les frais, risques et assurance pour la transmission des fonds provenant des encaisse-
+ments effectués dans chaque port;
+
+
+7º Et, en général, tous les frais que nécessiterait le service de l'Emprunt, sauf ceux de
+change ainsi qu'il est dit à l'article 19 ci-dessus.
+
+
+En compensation de ces charges, les banques contractantes auront droit:
+
+
+1º Aux intérêts produits par les sommes provenant des remises faites jusqu'à leur utilisa-
+
+
+tion à l'échéance semestrielle suivante, ainsi qu'il a été dit à l'article 22 ci-dessus;
+
+
+149
+
+
+2º Aux intérêts produits par le dépôt restant entre les mains de la Banque de Paris et des
+Pays-Bas de la somme de 2,000,000 de francs (deux millions de francs) retenue sur le pro-
+duit de l'Emprunt ainsi qu'il est dit à l'article 21.
+
+
+Elles recevront, en outre, semestriellement la somme de 75,000 francs (soixante quinze
+mille francs) comprise dans la semestrialité définie à l'article 11.
+
+
+ART. 24. Aux conditions ci-dessus, les Banques contractantes de seconde part s'engagent
+à prendre ferme 62,500,000 francs (soixante-deux millions cinq cent mille francs) nominal
+du présent Emprunt, soit 125,000 (cent vingt cinq mille) obligations de 500 francs (cinq
+cents francs) au prix de 80 p. o/o (quatre-vingts pour cent), soit pour la somme totale de
+50,000,000 de francs (cinquante millions de francs).
+
+
+Cet engagement est pris par les banques de seconde part dans les proportions suivantes,
+savoir:
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+0/0
+
+
+ART. 25. Le produit effectif de cette prise ferme sera affecté :
+
+
+1º A rembourser les trois emprunts français, anglais et espagnol y compris les intérêts dus
+à la date de ce remboursement, lesdits emprunts s'élevant en principal à 22,500,000 francs
+(vingt-deux millions cinq cent mille francs).
+
+
+2º A constituer une réserve de 2,000,000 francs (deux millions de francs) dont l'affec-
+tation et l'emploi sont déterminés par l'article 21.
+
+
+Le solde sera porté au crédit d'un compte qui sera ouvert au nom du Gouvernement
+impérial du Maroc, chez la Banque de Paris et des Pays-Bas, à Paris, sans bonification
+d'intérêts.
+
+
+ART. 26. Il est entendu que sur ladite somme de 50,000,000 francs (cinquante millions
+de francs), une première partie de 40,000,000 francs (quarante millions de francs), ne
+deviendra disponible aux fins des affectations indiquées à l'article 25 que dix jours après que
+la Banque de Paris et des Pays-Bas aura fait savoir au Gouvernement Impérial du Maroc,
+par l'entremise de la Légation de France à Tanger, que le contrat est devenu définitif, con-
+formément aux prescriptions de l'article 35.
+
+
+Quant au solde de 10,000,000 de francs (dix millions de francs), le Gouvernement Im-
+périal du Maroc n'en disposera qu'après que le contrat sera devenu définitif, comme cela est
+indiqué ci-dessus, et de la façon suivante :
+
+
+Cette somme sera divisée en quatre parties, chacune de 2,500,000 francs (deux millions
+
+
+150
+
+
+cinq cent mille francs), la première partie sera tirée deux mois après que les 40,000,000 de
+francs deviendront disponibles et les autres parties chacune avec un intervalle de deux mois
+entre chaque prélèvement.
+
+
+ART. 27: Les Banques contractantes se réservent la faculté d'émettre en souscription
+publique le montant de l'emprunt, soit 62,500,000 francs, divisé en 125,000 obligations;
+et ce, aux époques, clauses et conditions qui leur conviendront.
+
+
+ART. 28. En conformité de l'article 25, la Banque de Paris et des Pays-Bas est d'ores et
+déjà chargée par le Gouvernement Impériał du Maroc de rembourser les trois emprunts
+français, anglais et espagnol d'ensemble 22,500,000 franes et d'en recevoir bonne et valable
+quittance.
+
+
+Le Gouvernement Chérifien s'oblige en outre à faire aux prêteurs de ces trois emprunts la
+notification nécessaire au sujet du remboursement par la Banque de Paris et des Pays-Bas.
+
+
+ART. 29. Le Gouvernement Impérial du Maroc pourra disposer des sommes figurant à
+son credit au moyen de chèques tirés par le Ministre des Finances sur la caisse de la Banque
+de Paris et des Pays-Bas à Paris, et visés par le représentant des Porteurs de titres à Tanger
+qui devra en avoir reçu avis.
+
+
+ART. 30. Dans le cas où l'un des délégués du représentant des Porteurs de titres n'aurait
+pas été mis, chaque fois qu'il y aura eu des encaissements, en possession des sommes quoti-
+diennes lui revenant dans la proportion de la recette des douanes prévue aux articles ci-dessus;
+de même s'il n'avait pas été donné satisfaction au représentant des Porteurs de titres sur les
+réclamations qu'il aurait pu faire relativement à l'inexécution des engagements contenus dans
+le contrat, le représentant des Porteurs de titres aura le droit de prendre en mains la per-
+ception des droits de douanes affectés au service de l'emprunt, après qu'il aura porté le cas
+devant le Ministre de France à Tanger, qui, après échange de vues avec le représentant du
+Sultan à Tanger, décideront, dans le délai d'un mois quelles mesures il faudra prendre
+pour la sauvegarde des intérêts des Porteurs de titres. Le Makhzen sera informé de cette
+décision.
+
+
+ART. 31. Les sommes restant disponibles sur la réserve mentionnée à l'article 21 seront
+imputées sur la dernière semestrialité de l'Emprunt.
+
+
+ART. 32. Le Ministre des Finances déclare, au nom du Gouvernement Impérial du
+Maroc, que, par suite du remboursement des trois emprunts ci-dessus spécifiés, français,
+anglais et espagnol, dont le montant global est de 22,500,000 francs, les produits des
+douanes de l'Empire seront libres et peuvent être affectés au service du présent emprunt.
+
+
+Quant au solde du produit des douanes restant disponible pour le Gouvernement Chérifien
+après prélèvement de la proportion que le représentant des porteurs de titres et ses délégués
+doivent faire encaisser pour le service de l'emprunt, il ne pourra, sans entente préalable avec
+les banques contractantes sur le quantum qu'il convient de donner sur le solde susdit, être
+affecté à la garantie d'aucun autre emprunt.
+
+
+Tous ordres de payement que le Gouvernement Impérial du Maroc pourrait donner à ses
+fonctionnaires sur le solde disponible sur le produit des douanes ne pourront être considérés
+à un titre quelconque comme un privilège sur le produit des douanes disponible, ni primer
+le service du présent Emprunt qui reste garanti jusqu'à la fin par le produit des douanes.
+
+
+151
+
+
+ART. 33. Si le Gouvernement Impérial du Maroc désire contracter un emprunt, ou
+acheter ou vendre des titres, il en fera part aux banques contractantes ainsi qu'à d'autres et à
+conditions et prix égaux, la préférence sera accordée aux banques contractantes.
+
+
+De même, s'il désire frapper des monnaies à l'étranger, en dehors de son Empire, il en
+fera aussi part aux banques contractantes comme à d'autres, et, à conditions et prix égaux,
+la préférence sera accordée aux banques contractantes. Cependant les contrats conclus
+pour la frappe de monnaies, et actuellement en cours, continueront leur effet jusqu'à leur
+expiration.
+
+
+De même, si le Gouvernement désirait faire des achats ou des ventes d'or et d'argent, il
+en fera aussi part aux banques contractantes et à d'autres pour connaître leurs prix et
+conditions, et le Gouvernement Impérial du Maroc décidera comme il lui conviendra.
+
+
+ART. 34. Le présent contrat sera soumis à la ratification des banques contractantes. IH
+sera ensuite notifié par le Gouvernement Impérial du Maroc au Gouvernement de la Répu-
+blique Française, en la personne du Ministre de France à Tanger, où il sera enregistré à
+la Légation de France.
+
+
+Cette formalité sera remplie dès que le contrat ratifié sera parvenu entre les mains du
+Makhzen.
+
+
+ART. 35. Le présent contrat ne deviendra définitif qu'après :
+
+
+1° Que justification aura été faite à la Banque de Paris et des Pays-Bas que les formalités
+prévues pour rendre cè contrat définitif ont été remplies à son entière satisfaction, et spécia-
+lement en ce qui concerne la notification prévue aux prêteurs des emprunts français, anglais
+et espagnol;
+
+
+Et 2º Que le représentant des porteurs de titres aura fait savoir à la Banque de Paris et
+des Pays-Bas que ses délégués accrédités auprès des divers bureaux de douanes ont pris
+possession de leur service.
+
+
+Toutefois si, même après l'accomplissement des formalités indiquées ci-dessus, et jusqu'à
+la date que les Banques contractantes fixeront pour l'émission, il survenait des événements
+d'une gravité particulière qui rendraient toute émission impossible, lesdites Banques contrac-
+tantes se réservent le droit de différer l'exécution du présent contrat jusqu'à ce que les
+conditions générales des marchés financiers leur permettent de procéder à ladite émission.
+Cependant, lorsque le produit de l'emprunt aura été porté au crédit du Gouvernement
+Impérial du Maroc, conformément aux termes du contrat, article 26, le Gouvernement
+Impérial du Maroc pourra en disposer quand il voudra et sans obstacle.
+
+
+ART. 36. La Banque de Paris et des Pays-Bas, spécialement déléguée par les Banques con-
+tractantes, est chargée du service de l'emprunt pour la durée de celui-ci, et centralisera
+toutes les opérations s'y rattachant. Elle est, en outre, chargée par les autres Banques con-
+tractantes de les représenter auprès du Gouvernement Impérial du Maroc pour tout ce qui
+concerne le présent contrat. En conséquence, toutes notifications du Gouvernement Impérial
+du Maroc y relatives seront valablement faites à la Banque de Paris et des Pays-Bas. Celle-ci
+aura également qualité pour faire au Gouvernement Impérial du Maroc toutes notifications
+utiles.
+
+
+ART. 37. La nomination du représentant des porteurs de titres par les Banques contrac-
+tantes sera notifiée au Gouvernement Français, quila notifiera à son tour au Gouvernement
+
+
+152
+
+
+Impérial du Maroc, par l'entremise du Ministre de France à Tanger. Le Gouvernement
+Impérial du Maroc donnera acte de cette notification.
+
+
+Mention de ce qui précède sera imprimée sur les titres et sur les prospectus d'émission.
+Toutes les notifications que le représentant des porteurs de titre aura à faire au Gouver-
+nement Impérial du Maroc devront être faites par l'entremise de la Légation de France à
+Tanger.
+
+
+ART. 38. Le présent contrat est fait en quatre exemplaires, en français et en arabe, sans
+frais ni droits d'aucune sorte.
+
+
+Fait dans la capitale de FEZ, le 12 juin 1904, correspondant au 27 Rabeï-Oue 1322.
+
+
+Signé:
+
+
+SI MOHAMMED ETTAZI,
+
+
+Ministre des Finances de S. M. Chérifienne.
+
+
+SI ABDELKERIM BEN SLIMAN,
+
+
+Ministre des Affaires Étrangères de S. M. Chérifienne.
+
+
+G. ZANGARUSSIANO,
+
+
+Fondé de Pouvoirs de la Banque de Paris.
+
+
+N° 171.
+
+
+M. JUSSERAND, Ambassadeur de la République française à Washington,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Washington, le 20 juin 1904.
+
+
+M. Hay m'a prié d'exprimer à Votre Excellence ses sentiments pour tout ce que
+nous avons fait au Maroc à l'occasion de l'affaire Perdicaris; la bonne amitié de la
+France pour les États-Unis s'est manifestée ainsi une fois de plus. Il m'a renouvelé
+l'assurance que si, par hasard, les événements subséquents venaient à rendre néces-
+saire d'envisager une action plus sérieuse au Maroc, ce ne serait pas sans un échange
+préalable de vues avec nous.
+
+
+JUSSERAND.
+
+
+153
+
+
+N° 172.
+
+
+M. Jules CAMBON, Ambassadeur de la République française à Madrid,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Madrid, le 21 juin 1904.
+
+
+La réunion des porteurs de l'emprunt marocain a eu lieu aujourd'hui à la Banque
+d'Espagne. Un peu plus de neuf millions sur dix étaient représentés. On peut con-
+sidérer que le reste des souscripteurs se rangera à l'avis de la majorité. Celle-ci a
+accepté le remboursement anticipé de l'emprunt et la participation offerte par la
+Banque de Paris et des Pays-Bas.
+
+
+Jules CAMBON.
+
+
+N° 173.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 23 juin 1904.
+
+
+Vous avez bien voulu me consulter sur la proposition du Gouvernement Maro-
+cain tendant à nommer Si Mohammed el-Hadjoui, amin d'Oudjda, en qualité de
+suppléant de Si Guebbas comme chef de la délégation marocaine en Algérie, avec
+résidence provisoire à Oudjda, et à autoriser les membres de la Mission restés à
+Alger à regagner le Maroc.
+
+
+Cette combinaison me paraît, comme vous le pensiez, tout à fait satisfaisante. La
+présence à Oudjda du chef de la Mission marocaine est propre à faciliter la solution
+des affaires qui intéressent particulièrement cette région, notamment celle de la
+route de la frontière à Oudjda, celle du bureau de poste à créer dans cette ville, et
+celle de l'établissement des droits de marché prévus par le protocole. Il importera
+tout d'abord à cet effet de faire agréer par le Makhzen le choix, comme Commissaire
+français, du Commandant supérieur de Marnia.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+JONNART.
+
+
+20
+
+
+154
+
+
+N° 174.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 25 juin 1904.
+
+
+MM. Perdicaris et Varley, mis en liberté hier dans les conditions convenues entre
+Raissouli et le Makhzen, sont rentrés à Tanger, la nuit dernière, sous la sauvegarde
+des chérifs d'Ouazzan, Moulay Ali et Moulay Ahmed.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 175.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 27 juin 1904.
+
+
+Le chérif d'Ouezzan, Moulay Ali, qui est venu me rendre compte de la mission
+de sauvegarde qu'il a remplie, à notre demande, auprès des deux captifs, m'a apporté,
+quant aux dispositions de Raissouli, des indications alarmantes. Raissouli s'est montré
+très irrité d'avoir à renoncer aux garanties étrangères qu'il avait en vue et faute
+desquelles plusieurs avantages obtenus par lui deviennent illusoires; d'où le désir de
+compléter ces avantages, tout en se vengeant de la déception éprouvée. Raissouli,
+parlant à Moulay Ali, a menacé nominativement plusieurs personnes de nationalité
+anglaise, entre autres le consul d'Angleterre. Moulay Ali prévoit en outre que le succès
+de Raissouli lui suscitera des imitateurs. La question de la sécurité à Tanger s'im-
+pose donc plus que jamais à l'attention de tous.
+
+
+Je viens de recevoir la réponse de Ben Sliman à ma lettre à ce sujet; notre con-
+cours y est accepté en principe, pourvu qu'il s'exerce dans la mesure où le Makhzen
+le sollicitera et qui pourra croître progressivement. En même temps, Ben Sliman
+a déclaré au comte de Saint-Aulaire que le Sultan, pénétré de la sagesse de nos con-
+seils, avait décidé de mettre la garnison de Tanger sur un meilleur pied, de la pour-
+voir de quelques pièces d'artillerie et de confier au Lieutenant Sedira l'instruction des
+artilleurs.
+
+
+Je vais adresser à Ben Sliman une lettre où, prenant acte de sa réponse et de la
+
+
+155
+
+
+déclaration faite par lui au nom du Sultan, je lui représenterai l'extrême insuffisance
+des dispositions prises et l'urgence de faire avec notre aide un effort plus sérieux.
+M. de Saint-Aulaire recevra en même temps des instructions l'invitant à commenter
+ma lettre et à faire sentir à Ben Sliman l'intérêt essentiel qu'aurait le Makhzen à
+s'assurer en cette circonstance tout l'honneur d'une initiative devenue indispensable.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 176.
+
+
+Le Général HORACE PORTER, Ambassadeur des États-Unis, à Paris,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, le 27 juin 1904.
+
+
+Je reçois de l'honorable M. Hay, Secrétaire d'État de mon Gouvernement, l'ordre
+d'exprimer à Votre Excellence les remerciements du Président des Etats-Unis pour
+le bienveillant concours que son Gouvernement a trouvé auprès de celui de la Ré-
+publique dans l'affaire Perdicaris.
+
+
+Il m'a été agréable de faire connaître à M. Hay que, dès l'origine, Votre Excellence
+s'est activement employée à faire libérer cet Américain, et je suis heureux de con-
+stater que c'est, en grande partie, grâce à ses efforts, que ce résultat a été obtenu.
+
+
+Général HORACE PORTER.
+
+
+N° 177.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 1er juillet 1904.
+
+
+Votre Excellence a bien voulu approuver les termes de la lettre que j'ai adressée
+à Ben Sliman pour lui commenter la déclaration franco-anglaise dont je lui ai en
+même temps communiqué une traduction authentique.
+
+
+Ben Sliman, par ordre du Sultan, vient de répondre à cette communication en
+des termes qui constituent une acceptation implicite de la Déclaration du 8 avril.
+
+
+20.
+
+
+156
+
+
+Après avoir paraphrasé ma lettre de manière à prendre acte des assurances qui s'y
+trouvent contenues, Ben Sliman, de la part de son Souverain, constate le caractère
+bienveillant de notre attitude et de nos conseils et nous remercie de nos efforts
+amicaux passés et à venir. Aucune réserve n'est formulée.
+
+
+J'ai l'honneur d'adresser ci-joint à Votre Excellence la traduction de ce document.
+
+
+ANNEXE.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+TRADUCTION.
+
+
+SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de Sa Majesté Chéri-
+fienne,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger.
+
+
+Compliments d'usage.
+
+
+Fez, le 4 Rabei-2 1313 (18 juin 1904).
+
+
+J'ai bien reçu, par l'intermédiaire de votre Secrétaire, l'intelligent et honoré Comte de
+Saint-Aulaire, votre lettre amicale relative aux bruits qui vous sont parvenus et qui vous
+semblaient de nature à émouvoir le Gouvernement Chérifien à propos de l'accord conclu
+entre le Gouvernement Français et celui de la Grande-Bretagne touchant le Maroc et l'Égypte.
+Il vous était revenu, en effet, qu'une traduction inexacte avait été faite de certains des
+articles de cette Convention. Vous aviez donc exposé les causes et les considérations qui
+avaient poussé votre Gouvernement respectable à se préoccuper d'installer la paix et la tran-
+quillité, par l'intermédiaire du Makhzen, dans le Territoire marocain et particulièrement
+sur la frontière en raison de la similitude des intérêts qui incitent les deux Gouvernements
+voisins à se procurer des avantages réciproques et à écarter les difficultés communes. Vous
+avez de même exposé les dispositions favorables dont le Gouvernement Français est animé
+pour concourir à l'établissement de réformes appropriées à ce pays, accomplies d'une manière
+progressive, conformément aux besoins du Makhzen Chérifien et à ses demandes et sous une
+forme qui ne compromettrait en rien la liberté de l'Empire, son indépendance ni les cou-
+tumes de ses sujets, dans le présent ni dans l'avenir, et cela conformément aux déclarations
+contenues dans certains des articles de la Convention en question. Vous ajoutiez que vous
+vous en remettiez à votre intelligent Secrétaire, le Comte de Saint-Aulaire, du soin de
+commenter les articles de l'accord qui pourraient présenter quelque difficulté ou quelque
+cause d'appréhension, etc.
+
+
+J'ai porté votre lettre à la connaissance de Sa Majesté Chérifienne, Dieu l'assiste! qui s'en
+est pénétrée et a tiré profit de tout ce que vous avez exposé explicitement et implicitement.
+Elle m'a ordonné, Dieu la glorifie! de vous répondre qu'elle ne mettait pas en doute vos
+sentiments favorables ni ceux du Gouvernement ami, pas plus que l'humanité de ses pro-
+cédés ni la sincérité de ses conseils. Le témoignage récent de vos bons offices confirme ce qui
+précède l'impression en est encore vive dans nos esprits;
+votre lettre est un argument
+de plus en faveur du raffermissement de cette conviction et un témoignage de vos bonnes
+intentions, conformes au désir des deux Pays. Cela est d'ailleurs confirmé par les entretiens
+que nous avons eus avec votre Secrétaire pour éclaircir les points difficiles de l'accord et
+
+
+157
+
+
+expliquer ce que ses termes, pris d'une façon générale, pourraient présenter d'ambigu et de
+contraire à son objet.
+
+
+J'ai répété tout cela à Sa Majesté Chérifienne et je vous exprime en son nom les remercie-
+ments les plus dignes de vos heureux efforts passés et présents qui, nous l'espérons, serviront
+de ligne de conduite pour nos relations futures en vue des résultats à obtenir.
+
+
+ABDELKERIM BEN SLIMAN, que Dieu le protège!
+
+
+N° 178.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 juillet 1904.
+
+
+Avant la libération de MM. Perdicaris et Varley, les Européens habitant la
+plage de Tanger avaient, par une pétition, manifesté au Corps diplomatique de vives
+inquiétudes quant à la sureté de leur quartier. Une nouvelle pétition, exclusivement
+anglaise et adressée à Lord Lansdowne, circule en ville depuis deux jours. Les signa-
+taires y exposent que l'attitude des indigènes à l'égard des Chrétiens a beaucoup
+changé depuis quelques temps par suite de l'impunité des méfaits commis par des
+Maures contre des étrangers. Ils expriment l'opinion que la vie et les biens des sujets
+anglais ne sont plus en sûreté à Tanger et n'y seraient pas aussi longtemps que les
+Autorités marocaines n'auraient pas prouvé qu'elles ont la volonté et le pouvoir de
+punir les actes illégaux commis contre les Chrétiens. Ils demandent une protection
+contre la population d'un pays où règnent l'illégalité et le désordre. La proximité de
+Gibraltar ne leur paraissant pas une garantie suffisante, ils concluent à ce qu'une partie
+de la flotte anglaise de la Méditerranée vienne stationner devant Tanger.
+
+
+D'autre part, le Ministre d'Italie agissant comme doyen du Corps diplomatique, à
+l'instigation de plusieurs de ses collègues, a fait hier une démarche auprès de Si Torrès
+pour lui signaler les raisons qui justifient l'inquiétude générale.
+
+
+Le Consul général des États-Unis, en m'apprtoant ses remerciements pour nos bons
+offices dans l'affaire Perdicaris, a ajouté que son Gouvernement, n'ayant pas ici de
+mission d'ordre général, avait considéré comme terminé le rôle de la Marine amé-
+ricaine; il m'a, en même temps, demandé si nous ne comptions pas prendre des dispo-
+sitions pour le rétablissement de la sécurité. La plupart de mes collègues, y compris
+celui d'Allemagne, me posent à titre personnel des questions analogues, et je leur ai
+déjà dit que nous étudiions activement les moyens d'utiliser à cet effet, avec l'assenti-
+ment du Makhzen, les ressources spéciales que nous assure la possession de l'Algérie.
+Cette indication générale rencontre le meilleur accueil: mais, en mettant tout au
+mieux, la formation du corps de police projeté et la réorganisation du bataillon de
+Tanger vont demander un certain temps. Je dois donc insister auprès de Votre
+
+
+☐ ☐158 
+
+
+Excellence sur l'urgence de manifester à tous les yeux par l'envoi de nos navires que,
+sous la pression des circonstances, nous nous mettons en devoir de veiller à la tran-
+quillité de Tanger.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 179.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 juillet 1904.
+
+
+A la demande de M. le Gouverneur général de l'Algérie et en exécution de l'ar-
+ticle 9 du protocole de 1901, je viens de notifier au Makhzen la nomination du
+Commandant Ropert aux fonctions de Commissaire français pour l'examen des récla-
+mations de frontière dans la région Nord.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 180.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Mustapha Palais, le 19 juillet 1904.
+
+
+La garnison de Figuig, n'ayant pas reçu de solde depuis plus de deux mois, a
+abandonné l'oasis et cherché asile à Beni Ounif. Le capitaine Berriau, chef de l'an-
+nexe, est intervenu en conciliation entre l'amel et ses soldats et a décidé les déser-
+teurs à rentrer à Figuig, sous condition d'être payés d'ici quelques jours.
+
+
+JONNART.
+
+
+159
+
+
+N° 181.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 juillet 1904.
+
+
+Conformément à l'article 12 du contrat de l'emprunt, M. Regnault, Consul gé-
+néral de France en mission et délégué des porteurs de titres de l'Emprunt marocain,
+vient d'installer le nouveau service financier dans les divers ports.
+
+
+L'opération s'est effectuée très rapidement et sans incident fâcheux.
+
+
+Les instructions du Ministre des Finances chérifien, adressées aux Oumanas et aux
+Gouverneurs, leur prescrivaient de reconnaître dans chaque douane les agents des
+banques et de faciliter leur mission, en se conformant aux termes du contrat du 12 juin
+1904. Ces instructions ont été généralement suivies, et aujourd'hui le premier
+résulat de la mission confiée à M. Regnault se trouve atteint par l'installation de son
+personnel, qui partout a pris possession du service. Dans chaque port, les agents ont
+été admis en effet à encaisser la part des recettes douanières affectée à l'emprunt.
+
+
+Cependant diverses questions restent à résoudre, notamment celles qui ont trait à
+l'exercice du droit de contrôle et d'enquête, confié aux agents de l'Emprunt marocain
+à la demande formelle de Sa Majesté Chérifienne. Ce droit implique la présence des
+agents à toutes les opérations douanières et, par conséquent, leur installation dans les
+locaux de la douane. D'autre part, les Gouverneurs des ports doivent, en vertu des
+ordres spéciaux qu'ils ont reçus du Makhzen, faciliter aux agents de l'Emprunt la
+location de maisons à des prix raisonnables. Sur ces divers points, nos Consuls ne
+manqueront pas de rappeler aux Autorités marocaines les instructions vizirielles s'ils
+tardaient à les mettre à exécution.
+
+
+Enfin je noterai ici les impressions que rapporte M. Regnault sur l'effet produit
+dans l'opinion indigène par ses visites et l'arrivée de ses agents. Un grand concours
+de population s'est pressé partout sur les pas de nos compatriotes, manifestant
+surtout de la curiosité. Des bruits inquiétants avaient été mis en circulation. On
+avait parlé de soldats qui devaient débarquer pour protéger et, au besoin, appuyer
+par la force les agents français chargés des perceptions. On fut surpris de constater
+qu'il n'en était rien et que ceux-ci étaient venus et circulaient sans escorte. Ainsi s'est
+accomplie très rapidement et de la manière la plus pacifique, conformément aux vues
+de Votre Excellence, l'installation du nouveau service financier dans les Douanes
+marocaines.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+160
+
+
+N° 182.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 26 juillet 1904.
+
+
+Demain appareillent pour Tanger 'le croiseur-cuirassé Kléber et le croiseur de
+3º classe Galilée. En demandant ces bateaux au Conseil des Ministres, j'ai dit qu'ils
+doivent, par leur présence, rassurer la population inquiète et affirmer notre nouvelle
+situation. Rien n'est plus loin de notre pensée, de notre politique et de nos intérêts
+que de rechercher l'occasion d'un coup de force.
+
+
+Le Commandant de cette force navale a pour instructions de se conformer à vos
+directions.
+
+
+DELCASSÉ.
+
+
+N° 183.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 juillet 1904.
+
+
+Muni de la lettre que j'ai adressée à Ben Sliman sur la nécessité de faire un
+sérieux effort pour remedier à l'insécurité de Tanger, M. de Saint-Aulaire s'est
+appliqué à convaincre le Makhzen. Sous la pression unanime de ses Vizirs, le Sultan
+a consenti aux dispositions suivantes: un officier français du grade de capitaine sera
+chargé de présider à la réorganisation de la garnison de Tanger, où le Lieutenant
+algérien Sédira est déjà chargé de former une section d'artillerie. Trois sous-officiers
+algériens seront adjoints au Capitaine français. Ben Sliman a déclaré que ce chiffre
+réduit d'instructeurs n'a rien de définitif et que l'intention du Makhzen de s'avancer
+progressivement dans la voie que nous lui avons indiquée demeure entière. Votre
+Excellence trouvera ci-joint la traduction de la lettre que j'ai reçue de Ben Sliman à
+ce sujet.
+
+
+Le Gouverneur de Tanger sera invité, m'écrit M. de Saint-Aulaire, à échanger ses
+vues avec le Capitaine français sur l'organisation nouvelle de la garnison et de la po-
+lice de Tanger. Il accueillera les suggestions de cet officier, quand-il croira pouvoir le
+faire, sans en référer à Fez. Dans le cas contraire, il en saisira le Makhzen. De son côté,
+
+
+161
+
+
+le Capitaine français devra me soumettre les solutions qu'il proposera. Si je les agrée,
+le Makhzen promet de tenir le plus grand compte de mes indications.
+
+
+ANNEXE.
+
+
+SAINT-RENÉ TAILLANDIER
+
+
+TRADUCTION.
+
+
+SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de Sa Majesté Chéri-
+fienne,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française, à Tanger.
+
+
+J'ai reçu votre lettre en réponse à ce que je vous avais écrit le 6 Rebi-2 dernier et aux
+déclarations verbales que j'avais faites à votre Secrétaire, l'ami intelligent, le Comte de
+Saint-Aulaire; nous vous avions informé des résolutions de Sa Majesté Chérifienne de
+prendre toutes les dispositions possibles en vue d'assurer la sécurité complète à Tanger,
+après la libération de l'Américain Perdicaris et de son gendre Varley; nous vous avons
+informé également de tout ce qui serait l'objet de nos entretiens avec votre Délégué.
+Celui-ci nous a déclaré qu'il était nécessaire de se håter de ramener d'une façon définitive la
+tranquillité dans les esprits des habitants de Tanger et de sa banlieue; de rassurer les Euro-
+péens et de détourner leurs regards de ce qui pourrait porter atteinte au prestige du
+Makhzen; et qu'il fallait, pour cela, adopter les mesures nécessaires que vous avez pris
+l'initiative d'indiquer; qu'il était impossible de compter sur les contingents de secours que le
+Makhzen avait fait venir de Casablanca, et cela en raison des indications que vous nous
+avez données sur l'état de ces troupes et sur la situation de Tanger, en ce moment critique
+et plus troublée que jamais; que l'acceptation des conditions posées par le chef des bri-
+gands, tout en augmentant sa force parmi les fauteurs de troubles, engage ses pareils à
+commettre ouvertement les mêmes attentats; enfin, que s'il se produisait le moindre acci
+dent, fût-il même secondaire, il serait à craindre qu'on ne pût remédier que difficilement à
+ses conséquences. Vous me demandiez de porter ce qui précède à la connaissance de Sa
+Majesté Chérifienne en même temps que vous avez chargé votre Secrétaire de lui transmettre
+un supplément d'explications à ce sujet et de l'engager à prendre les mesures que compor-
+tait la gravité de cette question, avant que votre Gouvernement puissant ne se trouvât con-
+traint à assumer la tâche qu'il désirait laisser à l'initiative de Sa Majesté.
+
+
+J'ai pris bonne note de votre lettre, que j'ai portée à la connaissance de notre Maître
+(Dieu le fortifie!). Sa Majesté s'est pénétrée des explications bienfaisantes et amicales que
+vous lui avez données ainsi que des explications complémentaires dont vous avez chargé
+pour nous votre Secrétaire. Ce dernier n'a pas manqué de fournir, avec les explications dé-
+sirées, les preuves de votre préoccupation touchant les intérêts du Gouvernement Chérifien
+et de votre désir de sauvegarder son prestige. Sa Majesté a pris tout cela en haute considé-
+ration et s'est résolue à de nouvelles déterminations. Elle m'a ordonné de vous répondre,
+en premier lieu, que toutes les déclarations que vous aviez faites précédemment à ce sujet
+étaient inspirées par la plus grande sincérité. Elle a vu dans votre dernière lettre, ainsi que
+dans les entretiens que je viens d'avoir avec votre Secrétaire, un nouveau gage de cette sin-
+cérié de vos conseils, de la loyauté de votre amitié, de la pureté de vos intentions. Sa Ma-
+jesté sait que le mobile le plus puissant de votre insistance particulière dans cette question-
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+21
+
+
+162
+
+
+c'est la communauté des intérêts que possèdent les Gouvernements des deux pays voisins et
+aussi la communauté des préjudices qu'ils peuvent subir. Sa Majesté vous en remercie beau-
+coup. Elle souscrit aux mesures que vous avez indiquées concernant l'organisation de la gar-
+nison de Tanger et les services qu'elle doit rendre et qui ne peuvent être obtenus sans le
+concours d'officiers ayant mission de discipliner et d'instruire cette garnison. Elle autorise
+l'envoi à Tanger du capitaine français qui se trouve actuellement ici, en plus de Si-Abder-
+rahman-Ben-Sedira, et l'adjonction de trois des instructeurs musulmans algériens qui sont
+à Oudjda. Ces officiers seront secondés par l'énergie bien connue du nouveau Gouverneur
+de Tanger et ses qualités de commandement; les ordres qu'il a reçus de leur prêter son
+concours, dans l'œuvre de dresser la garnison à la discipline, auront pour résultat de ras-
+surer l'opinion parmi les habitants de Tanger et de sa banlieue et de coupert court, avec
+l'aide de Dieu, aux propos suscités par les agissements des fauteurs de troubles. Et même,
+s'il est besoin de quelques nouveaux instructeurs, il y sera pourvu dans un autre moment et
+progressivement, s'il plaît à Dieu, en tenant compte des intérêts du moment et des circon-
+stances; surtout avec le concours de votre sincérité et de vos heureux efforts, dont les évé-
+nements passés et présents nous ont donné la preuve évidente et dont les manifestations ne
+cessent de s'affirmer. Votre Secrétaire a pu se rendre compte de la confiance du Makhzen à
+votre égard; les témoignages qu'il vous en donnera peuvent vous rassurer. J'espère que Dieu
+facilitera aux deux Gouvernements les moyens de se convaincre de leurs intentions amicales
+réciproques par des actes heureux dont tous pourront être témoins et qui édifieront pour
+les deux États le phare de la joie durant les jours et les nuits.
+
+
+Fez, le 12 Djoumadi 1-(25 juillet 1904).
+
+
+ABDELKERIM DEN SLIMAN, que Dieu le protège!
+
+
+N° 184.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 30 juillet 1904.
+
+
+Si Abdesselam Tazi, Ministre des finances de Sa Majesté Chérifienne, m'écrit pour
+me prier de remercier Votre Excellence du concours que le Gouvernement a prêté au
+Makhzen en aplanissant toutes les difficultés relatives à l'emprunt. Il se montre égale-
+ment reconnaissant de l'aide que lui a donnée le Comte de Saint-Aulaire, alors en
+mission à Fez, ainsi que l'interprète auxiliaire de la légation, M. Ben Ghabrit.
+
+
+M. de Saint-Aulaire s'est employé, sur les instances réitérées de Tazi, à faire régler
+dans un sens favorable aux vues du Gouvernement Chérifien la question des achats
+de change et à ne pas les laisser à la seule décision du représentant des banques. En
+outre notre Agent, a accordé au Makhzen ses bons offices dans la rédaction des
+formules relatives à la garantie de l'emprunt et aux sanctions prévues en cas d'inexécu-
+tion du contrat.
+
+
+5
+
+
+163
+
+
+Tazi continue sa lettre par les considérations suivantes :
+
+
+<< Je suis certain, ô ami de bon conseil! que vous avez pu vous rendre compte que
+le Makhzen n'a rien négligé pour faciliter les choses et donner son adhésion au projet
+d'emprunt, et qu'il a fait tout ce qui avait été indiqué, quelle qu'en fût l'importance.
+En définitive, sans la présence de votre Délégué et du Fequih à Fez, et sans l'aide
+qu'ils nous ont apportée dans la revision et la rédaction claire et définitive du contrat,
+les pourparlers avec les délégués des banques eussent échoué. Comme l'affaire est ter-
+minée dans les meilleures conditions, Dieu soit loué! grâce à votre bienveillance qui
+est le résultat d'une amitié sincère et grande, nous prions Votre Excellence de nous
+continuer son concours et sa bienveillance à ce sujet, dans le présent comme dans
+l'avenir, afin que les clauses du contrat soient strictement exécutées dans tous les ports
+de l'Empire et afin d'éviter toute irrégularité dans les détails. »
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 185.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 27 août 1904.
+
+
+J'estime, comme Votre Excellence, très désirable que le Makhzen donne suite le
+plus tôt possible aux intentions qu'il a manifestées en ce qui concerne la police de
+la frontière. Après les déclarations satisfaisantes des divers Vizirs sur ce sujet, le
+Sultan lui-même, dans un entretien avec M. de Saint-Aulaire, a émis le vœu que le
+rétablissement de l'ordre sur la frontière avec notre concours soit mis au premier
+rang des affaires que j'aurai à traiter avec lui lorsque, comme il l'a demandé en
+même temps, je me rendrai en ambassade à Fez.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+21.
+
+
+164
+
+
+N° 186.
+
+
+Le Comte DE SAINT-AULAIRE, Chargé d'Affaires de la République française
+
+
+à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 30 septembre 1904.
+
+
+Invité par le Makhzen à hâter autant que possible, d'accord avec la Légation, le
+départ du nouveau détachement de Figuig, le Pacha de Tanger sollicite instamment
+notre réponse à la demande qui nous a été adressée à ce sujet.
+
+
+Ce fonctionnaire devant être chargé de pourvoir, à l'avenir, à la solde de cette
+troupe, je lui ai signalé la nécessité d'en assurer le payement régulier. Il m'a spon-
+tanément déclaré que les fonds que le Makhzen doit mettre à sa disposition, à cet
+effet, seront expédiés chaque mois à Figuig par l'entremise de la Légation.
+
+
+SAINT-AULAIRE.
+
+
+N° 187.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Ambassadeurs de la République française à Saint-Pétersbourg,
+Berlin, Vienne, Rome, Washington.
+
+
+Paris, le 6 octobre 1904.
+
+
+Les Gouvernements de Paris et de Madrid viennent de signer, au sujet des intérêts
+de la France et de l'Espagne au Maroc, la déclaration suivante :
+
+
+ Le Gouvernement de la République française et le Gouvernement de S. M. le Roi
+d'Espagne s'étant mis d'accord pour fixer l'étendue des droits et la garantie des
+intérêts qui résultent pour la France de ses possessions algériennes et pour l'Espagne
+de ses possessions sur la côte du Maroc, et le Gouvernement de S. M. le Roi d'Espagne
+ayant en conséquence donné son adhésion à la Déclaration franco-anglaise du 8 avril
+1904, relative au Maroc et à l'Égypte, dont communication lui avait été faite par le
+Gouvernement de la République française, déclarent qu'ils demeurent fermement
+attachés à l'intégrité de l'Empire Marocain sous la souveraineté du Sultan. »
+
+
+Cette Déclaration devant être publiée demain soir, veuillez en donner au préalable
+connaissance au Gouvernement près duquel vous êtes accrédité.
+
+
+DELCASSÉ.
+
+
+165
+
+
+N° 188.
+
+
+Le Comte DE SAINT-AULAIRE, Chargé d'Affaires de la République française
+
+
+à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 23 septembre 1904.
+
+
+Le Représentant du Sultan vient de prier cette Légation de faciliter le transport
+de Tanger à Figuig par la voie d'Oran d'un détachement de 100 hommes.
+
+
+Votre Excellence estimera sans doute que nous avons tout intérêt à accueillir cette
+demande qui ne paraît pas nous exposer au retour des incidents qui ont marqué, l'an
+dernier, le passage à Oran des soldats marocains et motivé certaines plaintes de la
+part de l'Administration algérienne. Le Makhzena, en effet, donné des ordres pour
+que ce détachement soit recruté dans des conditions de nature à en garantir la disci-
+pline et la bonne tenue. En outre, il ne ferait que traverser Oran, tandis que, l'an
+dernier, les soldats marocains ont dû y séjourner, en attendant la fin des opérations
+de police alors en cours d'exécution dans la région de Figuig.
+
+
+Selon un précédent établi à l'occasion de la première demande de ce genre, nous
+pourrions faire accompagner ce détachement par un officier français qui devrait alors
+se rendre le plus tôt possible à Tanger où l'embarquement aura lieu. Cette mesure
+serait la meilleure sauvegarde contre tout incident.
+
+
+Ben Sliman exprime en même temps le désir que l'Administration algérienne
+facilite le retour à Tanger, par la voie d'Oran, de l'Amel de Figuig ainsi que de sa
+famille et de quelques hommes qui sont encore auprès de lui. En attendant qu'un
+successeur soit donné à ce fonctionnaire, rappelé à Fez, son Khalifa sera chargé de
+représenter le Makhzen à Figuig.
+
+
+SAINT-AULAIRE.
+
+
+N° 189.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 7 octobre 1904.
+
+
+Conformément aux instructions contenues dans votre télégramme d'hier, je viens
+de faire connaître au Baron de Richthofen notre accord avec l'Espagne au sujet du
+Maroc. Il m'a demandé si j'étais en mesure de prévoir la portée de cet accord au
+
+
+166
+
+
+point de vue des intérêts commerciaux de l'Allemagne, qui le préoccupent particuliè-
+rement. Je lui ai répondu que la Déclaration franco-anglaise du 8 avril dernier offrait
+toutes garanties sur ce point, et que l'adhésion de l'Espagne ne pouvait les modifier.
+
+
+N° 190.
+
+
+BIHOURD.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 8 octobre 1904.
+
+
+Vous avez eu parfaitement raison de dire que l'adhésion de l'Espagne à la Déclara-
+tion franco-anglaise du 8 avril ne peut modifier les garanties que cette Déclaration
+offre à la liberté commerciale. Ces garanties sont et demeureront intactes: vous
+pouvez l'affirmer.
+
+
+N° 191.
+
+
+DELCASSÉ.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française, à Berlin.
+
+
+Paris, le 12 octobre 1904.
+
+
+Les déclarations que j'ai faites au Prince Radolin en mars dernier, et dont je vous
+ai donné connaissance, ont mis le Gouvernement Allemand au courant de nos inten-
+tions en ce qui concerne le Maroc. Il a eu dès ce moment l'assurance qu'au point
+de vue des transactions commerciales tout le monde bénéficierait du nouvel ordre de
+choses qui allait s'établir, et que la liberté du commerce serait rigoureusement et
+entièrement respectée. La publication de la Déclaration du 8 avril n'a pu que le con-
+vaincre que ses intérêts commerciaux, loin d'être atteints par notre accord avec l'Angle-
+terre, trouveraient au contraire dans cet arrangement de sérieuses garanties. Il s'en
+est d'ailleurs si bien rendu compte, qu'il a demandé à l'Angleterre de lui assurer en
+Égypte les avantages commerciaux que nous avons stipulés pour nous et qui sont
+exactement les mêmes que ceux dont l'Allemagne pourra bénéficier au Maroc.
+
+
+Notre accord avec l'Espagne est conçu dans le même esprit. En obtenant l'adhésion
+
+
+167
+
+
+du Gouvernement Espagnol au principe de liberté commerciale inscrit dans la Décla-
+ration du 8 avril, nous avons encore augmenté les garanties dont jouira au Maroc le
+commerce international. C'est ce que vous pouvez déclarer à M. de Richthofen
+avec la plus grande netteté.
+
+
+DELCASSÉ.
+
+
+N° 192.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 14 octobre 1904.
+
+
+Suivant les instructions de Votre Excellence, j'ai porté à la connaissance du Baron
+de Richthofen le texte de la Déclaration franco-espagnole relative au Maroc. Le Secré-
+taire d'État m'a marqué l'intérêt exclusivement économique que l'Allemagne attachait
+aux affaires marocaines. Je lui ai immédiatement répliqué que la Déclaration franco-
+anglaise du 8 avril dernier stipulait la liberté commerciale et que la Déclaration
+franco-espagnole ne pouvait, selon moi, modifier les garanties déjà offertes au com-
+merce international. Votre Excellence ayant bien voulu approuver mon langage, je
+n'ai pas manqué, lors de la réception diplomatique suivante, de renouveler mes
+assurances en les fortifiant de votre autorité.
+
+
+BIHOURD.
+
+
+N° 193.
+
+
+M. JONNART, Gouverneur général. de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+!
+
+
+Alger, le 18 octobre 1904.
+
+
+L'état d'anarchie qui règne actuellement dans l'amalat d'Oudjda a amené le Repré-
+sentant du Sultan dans cette ville à solliciter pour les Mehaia et les Angad l'autori-
+sation d'envoyer leurs troupeaux sur notre territoire. Cette demande ne pouvait, en
+tout état de cause, être accueillie en raison de l'insuffisance des pâturages sur nos
+confins. Mais, étant donnée la panique extrême qui s'est produite dans la région
+d'Oudjda de forts groupes ont traversé la frontière. Le premier comprend 246 tentes,
+
+
+168
+
+
+soit 69 Mehaia, 139 Angad, 14 Beni Snassen, 15 Beni Yala, 9 Beni Oukil. Le
+second comprend 337 tentes, soit 174 Mehaia et Oulad Moulai Hacheur, Chorfa
+apparentés avec le Sultan, 163 Angad. Je n'ai pas cru devoir les faire refouler en
+territoire marocain, car ils auraient probablement, en présence de notre attitude,
+rejoint le Rogui et Bou-Amama, imploré leur pardon et leur secours et grossi le
+nombre des pillards qui tiennent constamment nos troupes en éveil. Ces groupes
+marocains ont été provisoirement autorisés à s'installer, le premier chez les Beni
+Ouassin, le second chez les Beni Bou Saïd. En même temps, un autre groupe
+de 80 tentes des Mehaia s'installait entre El-Aricha et Magoura.
+
+
+Mais il s'agit là d'une solution toute provisoire, et il est certain que la présence
+de ces Marocains sur notre frontière peut devenir une cause de conflits et de sérieux
+ennuis.
+
+
+N° 194.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 18 octobre 1904.
+
+
+Le Gouverneur général de l'Algérie m'informe qu'à la suite de la panique pro-
+voquée dans la région d'Oudjda par la présence des bandes du prétendant de Bou-
+Amama, deux forts groupes appartenant aux tribus marocaines des Angad et des
+Mehaïa ont passé la frontière avec leurs troupeaux. Les Autorités algériennes ont cru
+devoir autoriser provisoirement ces groupes à s'installer sur nos confins, dans la
+crainte que, s'ils étaient refoulés au Maroc, ils n'aillent implorer le pardon du Rogui
+et grossir le nombre de ses adhérents.
+
+
+M. Jonnart me prie de lui faire connaître si, malgré cette considération, il doit
+ faire reconduire ces réfugiés et leurs troupeaux à la frontière ou rechercher s'il est
+possible de les installer assez loin de cette frontière . En ce dernier cas, le Makhzen
+devrait nous tenir compte des dépenses et indemnités afférentes au séjour des Maro-
+cains sur notre territoire.
+
+
+Je vous serais obligé de me faire connaître votre sentiment à ce sujet.
+
+
+DELCASSÉ.
+
+
+169
+
+
+N° 195.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 20 octobre 1904.
+
+
+Je crois que nous ne pourrions faire reconduire à la frontière les Marocains réfu-
+giés et leurs troupeaux sans aller à l'encontre de nos procédés traditionnels et de nos
+promesses d'assistance amicale.
+
+
+Le cas actuel a de nombreux précédents. En 1899, notamment, par suite des
+troubles qui agitaient alors l'amalat d'Oudjda, les Mehaïa nous demandèrent refuge.
+Si je suis bien informé, le Gouverneur général accueillit leur requète moyennant un
+droit de pacage.
+
+
+Quant au lieu où il conviendrait d'installer les réfugiés, le Gouverneur général de
+l'Algérie en est évidemment le meilleur juge. Je me permettrai seulement d'exprimer
+le vœu qu'il soit possible de trouver un campement qui ne soit pas trop éloigné de
+la frontière. Peut-être pourrait-on, comme en 1899, établir les réfugiés à l'abri des
+smalas de Sidi Medjahed et Chahba.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 196.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 23 octobre 1904.
+
+
+Je reconnais, avec notre Ministre à Tanger, les inconvénients qu'il y aurait à re-
+fouler sur territoire marocain les tribus de l'amalat d'Oudjda actuellement réfugiées
+en deçà de notre frontière. Je vais m'efforcer de les cantonner dans une région où
+leur présence ne sera pas trop préjudiciable à nos sujets algériens, mais qui ne pourra
+sans doute pas être très voisine de la frontière. Les précédents invoqués par M. Saint-
+René Taillandier ne me paraissent pas s'appliquer très exactement à la situation
+actuelle, en raison du nombre considérable des réfugiés et du ressentiment qui règne
+parmi nos tribus de la frontière après les trop nombreuses agressions qu'elles ont eu
+à subir de leurs voisins de l'Ouest dans ces dernières années.
+
+
+D'autre part, la rétribution qui peut être exigée de ces Marocains ne couvrira cer-
+tainement pas le dommage causé par leur installation sur les terrains de parcours qui
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+22
+
+
+170
+
+
+dans toutes les régions de l'Algérie sont déjà insuffisants pour nos tribus. Je ne puis
+donc considérer comme sans importance cette nouvelle et fâcheuse conséquence de
+l'insécurité, que le Makhzen est impuissant à faire cesser sur notre frontière et j'insiste
+pour que l'attention du Gouvernement Chérifien soit attirée sur cet état de choses.
+
+
+JONNART.
+
+
+N° 197.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 24 octobre 1904.
+
+
+J'ai donné connaissance au Gouverneur général de l'Algérie de vos suggestions
+relatives au traitement à appliquer aux Marocains réfugiés sur notre territoire. M. Jon-
+nart me fait savoir qu'il reconnaît avec vous les inconvénients de refouler ces tribus
+sur le sol marocain et qu'il s'efforcera de les cantonner aux mieux des intérêts de ses
+administrés. Il me fait remarquer toutefois que la situation actuelle offre quelque
+différence avec celle de 1899, en raison du nombre des réfugiés et de l'état d'esprit
+de nos tribus algériennes qui se ressent des agressions dont elles ont été l'objet de la
+part de leurs voisins de l'Ouest pendant ces dernières années. La présence de ces
+réfugiés sur des terrains de parcours déjà insuffisants pour nos tribus sera, en outre,
+la cause de dommages que la rétribution prévue par vous compenserait difficilement.
+En terminant, M. Jonnart insiste pour que l'attention du Gouvernement Chérifien
+soit attirée sur le fâcheux effet produit par cet exode qu'il considère « comme une
+conséquence de l'insécurité existant dans la région frontière du Maroc  ».
+
+
+Il vous appartiendra de signaler au Makhzen l'importance du service que le Gou-
+verneur général de l'Algérie va s'efforcer de rendre aux tribus qui nous ont demandé
+asile.
+
+
+N° 198.
+
+
+DELCASSÉ.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 octobre 1904.
+
+
+La ville de Larache se trouve menacée par les indigènes du Sahel. D'après un
+rapport du Vice-Consul anglais que me communique Sir A. Nicholson, les gens du
+
+
+171
+
+
+Sahel tirent des coups de fusil sur la ville et sur un bateau de commerce alle-
+mand mouillé dans le fleuve. Les colons européens de Larache réfugiés à l'Agence
+consulaire de Belgique, qui a paru le lieu le plus sûr, réclament de l'aide. J'ai aussitôt
+averti le Commandant du Kléber, le priant d'envoyer le Linois à Larache.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 199.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 29 octobre 1904.
+
+
+Le Linois va partir à une heure pour Larache, où il doit arriver cet après-midi.
+Sir A. Nicholson ne m'a pas caché qu'à défaut du Linois, la Diana serait partie pour
+Larache; la venue du Linois paraît d'ailleurs devoir réconforter les habitants de la
+ville. Au besoin, notre croiseur offrirait un refuge aux personnes qui voudraient la
+quitter.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 200.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 31 octobre 1904.
+
+
+Les troubles de Larache ont le mème caractère que ceux qui se sont produits, à
+la faveur d'une anarchie croissante, sur tant de points du pays. C'est une querelle
+intestine entre deux groupes de populations. A tort ou à raison, le Pacha de Larache
+a accusé la tribu du Sahel d'avoir dérobé un troupeau appartenant aux habitants de
+la ville. Par suite, il a interdit l'accès de la ville aux gens du Sahel qui, à leur tour,
+ont interdit leur territoire aux gens de Larache et coupé ainsi les communications
+régulières par terre, entre ce port et Tanger; l'embouchure du Loukkos sépare les
+deux partis. Dans l'après-midi du 28, les gens du Sahel ont, de la rive droite du
+fleuve, dirigé une fusillade nourrie sur la ville qui a riposté à coups de canon. Un
+
+
+22.
+
+
+172
+
+
+petit navire de commerce allemand, la Nord-See, qui se trouvait sur le fleuve exposé
+à la fusillade, a réussi, la nuit suivante, à gagner la rade. Pendant l'attaque du 28,
+les Européens, réunis à l'Agence consulaire de Belgique, ont adressé à leurs ministres
+respectifs un appel qui, parvenu d'abord à la Légation d'Angleterre, m'a déterminé à
+envoyer immédiatement le Linois à Larache, comme Votre Excellence le sait par mes
+télégrammes du 29.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 201.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Aïn-Sefra, le 6 novembre 1904.
+
+
+Ainsi que je vous l'ai fait connaître, j'ai donné les ordres nécessaires pour l'instal-
+lation sur notre territoire des 680 tentes marocaines (plus de 3,000 personnes) qui
+s'y étaient réfugiées. Les emplacements assignés n'ont pu être choisis trop près de
+la frontière, en raison de la pénurie des pâturages et des difficultés qui pourraient en
+résulter avec nos tribus. 150 tentes des Mahaïa d'El-Hadj Miloud et une centaine de
+tentes des Angad n'ont pas voulu se conformer à ces prescriptions, préférant repasser la
+frontière. Devant l'impossibilité de les faire revenir sur leur détermination, j'ai donné
+les ordres nécessaires pour faciliter cette émigration en évitant toute complication
+et, pour aider au mouvement, j'ai fait connaître à l'autorité locale que j'étais disposé
+à les exempter de toute taxe pendant le séjour fait sur notre territoire, si cette con-
+cession paraissait nécessaire.
+
+
+JONNART.
+
+
+N° 202.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 14 novembre 1904.
+
+
+Par lettre du 17 mai dernier, je vous ai exposé la situation faite à un grand
+nombre de nos administrés depuis que le protocole du 20 juillet 1901 a supprimé
+le système des revendications que nous avions coutume de présenter périodiquement
+
+
+173
+
+
+au Makhzen marocain pour obtenir le règlement des méfaits commis au préjudice
+de nos sujets par des indigènes marocains.
+
+
+Des commissaires ont été désignés, en exécution de l'article 9 de ce protocole,
+pour examiner les réclamations intervenues. Comme je vous l'ai fait connaître, les
+fonctionnaires délégués à cet effet par le Gouvernement Chérifien n'ont réglé aucune
+des affaires qui leur ont été soumises.
+
+
+La liste de ces revendications est longue et importante. Quelques-uns des faits qui
+y sont mentionnés sont déjà très anciens, et il paraît désirable que le règlement n'en
+soit pas différé plus longtemps.
+
+
+J'ajoute que l'état d'anarchie et d'insécurité qui existe de l'autre côté de notre
+frontière nous oblige à maintenir en permanence, sur un certain nombre de points,
+des goums fournis par nos tribus, ce qui est pour elles une charge extrêmement
+lourde, les meilleurs cavaliers de chaque tribu avec leurs chevaux étant enlevés à
+leur famille et à leurs affaires pour un service qui ne comporte aucune rémunération.
+Plusieurs chefs de tribus n'ont pas hésité à me déclarer que, si cette situation devait
+se prolonger longtemps encore, ce serait pour eux et leurs gens la ruine. Aussi
+insistent-ils avec plus de vivacité que jamais pour obtenir, comme autrefois, des
+indemnités pour les dommages que, dans de nombreux cas, les sujets marocains
+n'auraient pu leur faire subir, si le service de l'État ne les avait retenus loin de
+chez eux.
+
+
+Il est certain que le service des goums pourrait être singulièrement allégé, si nous
+avions à la frontière une plus grande liberté de mouvement, et si quelques postes
+mixtes pouvaient être installés aux croisements des grandes routes suivies par les.
+caravanes. Mais, en l'état, je ne prévois pas quand il me sera possible de soustraire
+nos tribus oranaises aux réquisitions qui les privent de l'élite des chefs de famille,
+et c'est pourquoi j'ai le devoir, Monsieur le Ministre, de les recommander à votre
+sollicitude et de signaler à l'attention bienveillante de M. Saint-René Taillandier des
+revendications dont la légitimité me paraît hors de conteste.
+
+
+1
+
+
+N° 203.
+
+
+JONNART.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 18 novembre 1904.
+
+
+J'ai l'honneur de porter à votre connaissance que M. le Général commandant la
+Division d'Oran m'a transmis, au sujet des 102 soldats marocains arrivés à Figuig,
+le 10 octobre dernier, divers renseignements d'après lesquels cette nouvelle garnison
+ne répondrait pas aux espérances qu'on a pu fonder sur elle.
+
+
+174
+
+
+Composé d'un certain nombre de jeunes gens, dont quelques-uns n'ont pas plus
+de 14 ans, et de quelques vieillards, ce détachement n'aurait aucune aptitude guer-
+rière. Les hommes qui en font partie passent leur temps dans le qçar d'Oudaghir,
+au café maure ou sur le banc de pierre le mieux exposé au soleil.
+
+
+Non seulement cette troupe ne connaît et ne connaîtra jamais la région de Figuig,
+mais elle en partira sans avoir même visité l'oasis où elle ne se sent pas assez en
+sûreté; enfin elle ne restera sans doute pas longtemps constituée, car on y signale
+déjà quelques désertions.
+
+
+Le général Herson, qui m'accompagnait pendant le voyage que j'ai récemment
+accompli dans le Sud-Oranais, a pu, comme je l'ai fait moi-même, se rendre compte
+du peu de valeur de la nouvelle garnison de Figuig qui se désorganisera probable-
+ment aussi vite que celle qui l'a précédée, si elle ne reçoit pas une solde régulière.
+En tout cas, elle n'offre aucune garantie au point de vue de la police et de la sécurité
+de la région, ni même de l'oasis de Figuig.
+
+
+Au dernier moment, je reçois du Général commandant la Subdivision d'Aïn-Sefra
+communication d'un télégramme du Commissaire français à Beni Ounif ainsi conçu :
+
+
+<<<Quarante-deux soldats de l'Amel de Figuig sont venus au bureau se plaindre de
+manquer de tout. J'ai avisé l'Amel. J'ai gardé soldats en attendant réponse et je leur
+ai donné à manger pour ce soir. »
+
+
+L'incident ne confirme que trop bien ces prévisions pessimistes.
+
+
+N° 204.
+
+
+JONNART.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+1
+
+
+Alger, le 26 novembre 1904.
+
+
+Pour faire suite à ma communication du 18 novembre, j'ai l'honneur de porter à
+votre connaissance que les 42 soldats marocains de Figuig qui étaient venus à Beni
+Ounif sont rentrés dans leur garnison le lendemain.
+
+
+D'après les renseignements fournis par le Commissaire français à Beni Ounif, ce
+retour ne s'est pas effectué sans difficultés: les soldats prétendaient n'avoir pas de
+quoi vivre et être insuffisamment payés; ils ajoutaient que le Gouvernement français,
+qui avait provoqué leur envoi à Figuig, avait le devoir d'assurer leur subsistance.
+
+
+L'Amel a assuré au Commissaire français que ces doléances étaient exagérées, pré-
+tendant qu'il n'avait manqué à ces soldats que la solde d'une journée du mois écoulé.
+
+
+175
+
+
+La faute, selon l'Amel, incomberait à ses chefs de Tanger qui ne lui auraient pas
+expédié une somme suffisante pour payer le mois complet.
+
+
+Sur ces entrefaites, l'Amel a reçu un nouvel envoi de 4,800 pesetas. L'arrivée de
+ces fonds a beaucoup contribué à décider les soldats à retourner à Figuig.
+
+
+JONNART.
+
+
+N° 205.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 30 novembre 1904.
+
+
+Le nouveau Commissaire marocain en résidence à Oudjda, Si Mohammed El-
+Hadjoui, désireux d'entrer en relations avec moi dès son entrée en fonctions, est
+venu faire un séjour à Alger où il est resté une dizaine de jours.
+
+
+Les entretiens que j'ai eus avec ce fonctionnaire du Makhzen n'ont pas détruit la
+bonne impression qu'avait produite sur moi, dès l'abord, la personnalité d'El-Hadjoui;
+mais je dois reconnaître que nos pourparlers ne semblent pas devoir aboutir à des
+résultats pratiques.
+
+
+Le Délégué chérifien, malgré ses bonnes dispositions personnelles, se retranche
+derrière l'insuffisance de ses pouvoirs quand il s'agit de répondre à nos demandes, et,
+comme il n'a certainement pas entrepris ce voyage sans recevoir d'instructions du
+Makhzen, on est tenté d'en induire qu'il lui avait été recommandé de ne céder sur
+aucun point.
+
+
+Je me suis efforcé de faire ressortir auprès du Délégué chérifien l'intérêt qu'il y
+aurait, pour les deux Gouvernements, à faciliter par un abaissement de tarif les
+échanges par la voie de terre, dont le développement compenserait bien vite, et au
+delà, le sacrifice initial à consentir sur les droits payés actuellement à Oudjda. Si El-
+Hadjoui s'est engagé à appuyer auprès de son Gouvernement notre réclamation rela--
+tive à l'application des tarifs prévus par les Protocoles de 1902; mais la lettre qu'il a
+écrite à ce sujet à Si Guebbas, et qu'il a communiquée à notre interprète, n'est qu'un
+exposé du différend et ne conclut qu'à l'envoi d'une prompte réponse.
+
+
+L'envoyé marocain m'a saisi à son tour d'un certain nombre de demandes tendant
+toutes à une intervention indirecte dans les troubles actuels du Maroc, savoir: auto-
+risation éventuelle pour la mahalla de Saïdia de passer par notre territoire pour se
+rendre à Oudjda; surveillance de certains insurgés qui se seraient réfugiés sur nos
+confins; remise des déserteurs aux Autorités chérifiennes; interdiction pour les sujets
+marocains d'entrer en Algérie sans un passeport remis par le Makhzen.
+
+
+J'ai accordé en principe, conformément aux précédents de l'année dernière, l'auto-
+risation de passage demandée pour la mahalla, qui en a profité. J'ai promis de
+
+
+176
+
+
+surveiller les insurgés qui me seraient signalés comme ayant trouvé asile sur notre
+territoire.
+
+
+Sur la question des déserteurs et sur celle des passeports, j'ai dû me déclarer
+dans l'impossibilité d'accéder à ces demandes, à moins d'instructions formelles du
+Gouvernement.
+
+
+J'ajoute que toute restriction qui serait apportée, sur les indications du Makhzen,
+à l'immigration des Marocains en Algérie pourrait devenir non seulement très
+fâcheuse pour notre prestige, mais désastreuse pour les intérêts économiques de
+l'Oranie qui a un besoin absolu de la main-d'œuvre marocaine.
+
+
+JONNART.
+
+
+N° 206.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 1er décembre 1904.
+
+
+Comme suite à ma lettre en date du 18 novembre, j'ai l'honneur de vous envoyer
+ci-joint copie d'un rapport du Commissaire français à Beni-Ounif, au sujet du déta-
+chement marocain de Figuig.
+
+
+Je crois devoir vous signaler, à titre d'indication intéressante des dispositions de
+cette troupe à notre égard, le propos des déserteurs d'après lesquels le Gouverne-
+ment français, ayant provoqué leur envoi dans l'oasis et les ayant fait accompagner
+depuis Tanger par un officier français, devait veiller à leur entretien et à leur bien-
+ètre.
+
+
+Il convient de remarquer également l'inaction complète que la nouvelle garnison
+observe non seulement en ce qui concerne la surveillance des régions avoisinant
+l'oasis, mais même quant à la police des Qçour.
+
+
+JONNART.
+
+
+ANNEXE.
+
+
+Le Lieutenant PARIEL, Chef de l'annexe de Beni-Ounif, Commissaire français à
+
+
+Figuig,
+
+
+à M. le Général commandant la Subdivision à Aïn-Sefra.
+
+
+Aïn-Sefra, le 26 novembre 1904.
+
+
+J'ai l'honneur d'appeler votre attention sur deux incidents récents qui se sont produits à
+Figuig.
+
+
+177
+
+
+Lors de la venue à Beni-Ounif de 42 soldats de l'Amel, j'ai écrit à ce fonctionnaire en lui
+demandant de venir lui-même ou d'envoyer quelqu'un assez influent pour engager ces soldats
+à rejoindre leur poste. Il me répondit qu'il n'avait auprès de lui personne pouvant remplir
+cette mission, et m'envoya son interprète. Celui-ci, qui ne se faisait d'ailleurs aucune illusion,
+n'obtint rien des soldats et dut rentrer tout seul.
+
+
+Les askar me répétèrent, ce qu'ils m'avaient dit la veille, qu'ils ne considéraient pas leur
+départ d'Oudaghir comme une désertion, mais qu'il estimaient que nous devions leur four-
+nir les moyens d'existence qu'on ne leur donnait pas à Figuig. « C'est votre Gouvernement
+qui nous a fait prendre à Tanger par un de vos officiers pour nous conduire ici, me dirent-
+ils en propres termes, c'est à vous à veiller à ce qu'on nous donne tout ce qui nous
+revient. >>>
+
+
+Heureusement pour la solution du conflit, la solde arriva. Mais mon intervention pour la
+remise de cette somme à l'amel n'échappa pas aux soldats et les confirma dans leur idée que
+c'était nous qui avions la charge de leur entretien. Cette idée était bien faite pour enlever à
+l'amel, s'il lui en était resté encore un peu, toute autorité sur sa faible garnison.
+
+
+Cette poignée de soldats n'a jusqu'à présent rendu aucun service, et je la crois incapable
+d'en rendre jamais. Enfermée dans la casbah d'Oudaghir, n'en sortant que pour commettre
+des déprédations dans les jardins de Figuig, elle n'a jamais essayé de faire la police à l'inté-
+rieur des Qçour ou d'intervenir pour empêcher les querelles des çoffs de s'envenimer. Elle
+ne s'est pas occupée davantage de ce qui se passait dans les environs les plus immédiats.
+
+
+Le 10 novembre, tout le monde parlait à Figuig d'un djich important qui se trouvait tout
+à proximité de la palmeraie. Cette proximité même m'avait fait croire ce bruit dénué de fon-
+dement. Mes renseignements se précisèrent dès le lendemain, et j'appris qu'effectivement un
+parti d'environ 120 dissidents de l'entourage de Bou-Amama, tous bien armés, s'étaient jetés
+dans la montagne.
+
+
+Je vous en ai aussitôt rendu compte et j'ai en même temps envoyé des reconnaissances
+pour suivre les traces de ces malfaiteurs.
+
+
+Grâce aux mesures prises, le djich semble s'être dispersé et je viens d'apprendre qu'une
+partie des gens qui le composaient rentrait à ses campements, à la zaouïa du vieil agitateur.
+Mais en cette circonstance, que je cite parce qu'elle est la plus récente, comme en une foule
+d'autres, la garnison de Figuig n'a rien fait. Elle n'a pas de chef, et je la crois peu disposée à
+obéir, si on lui en donnait un.
+
+
+La police marocaine à Figuig et dans ses environs est donc une simple fiction.
+
+
+PARIEL.
+
+
+N° 207.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 12 décembre 1904.
+
+
+Votre Excellence m'a confié la mission d'obtenir à Fez l'adoption de mesures qui
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+23
+
+
+178
+
+
+nous garantissent que l'ordre renaîtra là où nous avons un intérêt pressant à le voir
+renaître. Pour la région frontière, nous avons à demander que le Makhzen se mette
+en état d'y donner en Algérie les satisfactions indispensables en y rétablissant la
+sécurité avec notre aide et en y poursuivant avec nous, par l'entremise d'une nouvelle
+Commission franço-marocaine, l'application du régime ébauché dans les accords de
+1901 et 1902.
+
+
+Pour les ports, une nécessité non moins urgente nous force à demander que le
+commerce y reçoive les satisfactions qu'il réclame instammment: amélioration du
+service des ports, progrès de la sécurité dans les villes et dans leurs environs im-
+médiats. En vue du rétablissement de la sécurité partout où elle est le plus nécessaire,
+nous avons à faire poser les bases d'une organisation de police.
+
+
+Comme instrument financier de ces divers progrès, nous avons à obtenir la
+création d'une Banque d'État marocaine.
+
+
+Dans la voie ainsi tracée, jusqu'où pourrons-nous nous avancer, durant la cam-
+pagne qui s'ouvre? Il est difficile de le prévoir, car la versatilité du Makhzen, les
+excitations dont il est l'objet et les obstacles que des abus invétérés opposent à tout
+progrès nous obligent à envisager comme possible et même probable le cas où nos
+conseils seraient impuissants à faire accepter au Sultan le minimum de réformes que
+réclame l'état présent du Maroc.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 208.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangèrės,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 15 décembre 1904.
+
+
+Bien que votre correspondance m'ait permis de constater que toute votre ätten-
+tion est déjà retenue par les négociations que vous allez bientôt engager avec la Cour
+de Fez, il m'a semblé nécessaire, au moment de votre départ, de résumer, pour
+votre direction générale, les diverses questions que vous devrez vous efforcer de
+résoudre pendant votre séjour dans la capitale chérifienne.
+
+
+Il paraît inutile de vous indiquer par avance l'ordre dans lequel vous aurez à
+aborder avec le Makhzen l'examen du programme de relèvement militaire, écono-
+mique et financier du Maroc, dont la France, à la suite de ses accords avec l'Angle-
+terre et l'Espagne, est en situation aujourd'hui de conseiller et de faciliter l'adoption.
+Il me suffira de vous exposer rapidement ce programme, qui a d'ailleurs fait l'objet de
+divers entretiens que j'ai eus avec vous pendant votre récent séjour à Paris. J'ai eu,
+en outre, l'occasion depuis lors d'indiquer devant la Chambre des députés, dans
+la séance du 10 novembre, et tout dernièrement encore devant le Sénat, les vues
+
+
+179
+
+
+dont doit s'inspirer désormais notre politique à l'égard de l'Empire chérifien. Notre
+tâche, ai-je dit, consiste, dans notre propre intérêt, à servir l'intérêt du Maroc;
+pour notre propre tranquillité, à l'aider à établir chez lui la sécurité et le bon ordre;
+pour notre propre prospérité, à lui fournir les moyens de tirer parti des ressources
+dont il abonde, de sorte que, continuant à vivre de sa propre vie, ayant gardé ses
+coutumes, ses lois, ses chefs sous le Sultan dont l'autorité se sera fortifiée et
+étendue, il ne connaisse notre puissance qu'aux bienfaits qui l'auront accompagnée ».
+
+
+Une des conditions essentielles du succès de cette politique toute pacifique doit
+ètre une étroite union entre les deux Gouvernements, union basée sur la confiance
+d'un côté et, de l'autre, faite d'esprit de suite, de loyauté et de ménagements, sans
+excepter cependant la fermeté qui pourra être parfois nécessaire. En favorisant la
+conclusion d'un emprunt, qui a écarté pour un temps de cruels embarras financiers
+et a permis au Maroc de se libérer vis-à-vis de ses créanciers étrangers; en prêtant le
+concours de nos officiers pour la réorganisation des garnisons de Tanger et d'Oudjda;
+en autorisant le sous-lieutenant Sedira à faire partie de la colonne envoyée contre le
+prétendant; ou bien encore en laissant passer à plusieurs reprises des contingents
+marocains sur notre territoire, nous avons depuis deux ans donné déjà au Sultan
+maintes occasions d'apprécier les heureux effets de notre amicale collaboration. Vous
+ne manquerez pas de les rappeler, et l'on peut espérer que Sa Majesté se rendra
+ainsi compte qu'il est de son intérêt de recourir de plus en plus à l'aide de la France
+pour l'affermissement, pour l'extension de son autorité comme pour l'amélioration
+des services de son Etat.
+
+
+En vue de l'accomplissement de l'œuvre que nous voulons poursuivre, de concert
+avec le Maroc, le premier progrès à réaliser est de rétablir l'ordre dans l'Empire. Le
+but principal de vos efforts doit donc être de faire sentir au Makhzen l'importance
+qu'il y a à assurer sans retard la sécurité des biens et des personnes et à mettre fin à
+un état d'anarchie de nature à entraver le développement de la richesse publique,
+aussi bien qu'à tarir les ressources du Trésor chérifien. L'expérience de ces dernières
+années a prouvé que le Makhzen était incapable d'obtenir ce résultat par ses propres
+forces. Nous sommes tout disposés à lui donner l'appui dont il a besoin et dont il a,
+sur plusieurs points déjà, pu apprécier le caractère bienfaisant. Il ne s'agirait plus
+que d'élargir les bases des arrangements particuliers précédemment intervenus pour
+réorganiser ses forces de police et d'étendre à d'autres parties du territoire chérifien
+le système dont ces accords se sont inspirés. Il importe d'abord d'assurer la tranquil-
+lité là surtout où, comme à Tanger, la population indigène se trouve immédiatement
+en contact avec l'élément européen et de prévenir ainsi des incidents de nature à
+entraîner des complications d'ordre international. C'est donc surtout à la périphérie
+que nous devrons, dans la plupart des cas, inaugurer au Maroc la constitution, sous
+la direction et le contrôle de nos officiers, de forces de police chérifiennes destinées
+à rassurer les résidents étrangers.
+
+
+En me faisant connaître, sous la date du 29 juillet dernier, les propositions du
+Makhzen relatives à la garnison de Tanger, vous ajoutiez que le chiffre réduit d'in-
+structeurs alors proposé par Ben Sliman « n'avait rien de définitif et que son intention
+d'avancer progressivement dans la voie que nous lui avions indiquée demeurait
+entière ». Les assurances que vous avait ainsi données le ministre d'Abd el Aziz vous
+
+
+23.
+
+
+180
+
+
+fourniront un précieux argument pour obtenir du Gouvernement Chérifien le com-
+plément des premières dispositions prises. Vous envisagiez comme moyen d'exécution
+une certaine quantité d'engagements dans la garnison de Tanger, au titre marocain,
+d'officiers et d'hommes de troupes empruntés à nos tirailleurs algériens, ainsi que la
+création d'un corps de police de sûreté marocaine, dont le noyau serait fourni par des
+agents musulmans d'élite de notre police indigène d'Algérie, sous la direction d'un chef
+et d'un brigadier français. Je ne saurais trop vous engager à faire tous vos efforts pour
+que les mêmes garanties d'ordre public et de sécurité soient réunies dans les ports et
+partout où il vous semblerait possible et pratique d'en rechercher l'application en
+tenant compte des circonstances locales.
+
+
+Par votre télégramme du 27 août dernier, vous m'avez fait savoir que le Sultan
+lui-même avait émis le vœu que le rétablissement de l'ordre dans la région frontière
+de l'Algérie fût mis au premier rang des affaires que vous auriez à traiter avec lui au
+cours de votre mission à Fez. Les troubles dont la région d'Oudjda est actuellement
+le théâtre, et qui ont entraîné l'exode sur notre territoire de nombreux Marocains, ne
+peuvent être plus longtemps tolérés sans compromettre gravement les intérêts de nos
+sujets algériens et constituent une menace et un danger permanent pour les tribus
+avoisinant la frontière. Là aussi, le Makhzen s'est déjà rendu compte de la nécessité
+de faire appel à notre concours. La lettre que vous a adressée Ben Sliman, le 30 ju'l-
+let 1902, pour arrêter les bases d'après lesquelles serait constituée la section frontière
+de notre mission militaire, prévoyait le cas où les circonstances exigeraient que le
+nombre des instructeurs désignés pour en faire partie fût augmenté. Puisque le prin-
+cipe de notre collaboration nécessaire est admis par le Makhzen et qu'elle est même
+désiréc, vous ne manquerez pas d'invoquer l'entente déjà établie pour en étendre le
+bénéfice aux divers points de la frontière où la présence de forces régulières est mani-
+nifestement désirable. Vous signalerez, en termes pressants, aux ministres du Sultan
+l'intérêt qui s'attache à ce que la solde des troupes chérifiennes, en général, lorsqu'elles
+sont placées sous la direction de nos officiers et notamment de celles de la région
+frontière, soit répartie par les soins de nos instructeurs dans des conditions de régu-
+larité qui préviendraient les désertions et les désordres dont la Mahalla chérifienne de
+Figuig nous a récemment encore offert un exemple.
+
+
+Le rôle dévolu dans ces diverses combinaisons à notre mission militaire devrait,
+selon toute vraisemblance, ètre assez important. C'est à elle qu'incomberait la tâche
+particulièrement délicate de préparer, avec l'unité de méthode et de vues désirables,
+les cadres que nous mettrions à la disposition du Sultan. Il importe, en conséquence,
+qu'au cours de ces pourparlers vous fassiez, dans une large mesure, appel aux
+conseils éclairés du Commandant Fariau.
+
+
+L'état d'anarchie qui se perpétue dans les territoires marocains voisins de l'Oranie
+risque, par sa persistance même, d'empècher complètement la mise à exécution des
+accords de 1901 et 1902 qui, sur ce point, sont jusqu'ici demeurés à peu près
+lettre morte. Ce fait n'est d'ailleurs pas contredit par le Gouvernement Marocain, et.
+dans des circonstances récentes, Ben Sliman a rappelé les événements qui ont com-
+promis l'exécution des accords franco-marocains et déclaré que le Makhzen est
+« résolu de les appliquer intégralement le plus tôt possible ».
+
+
+Si, dans la région de Figuig et du Bechar, nous occupons à peu près les positions
+
+
+181
+
+
+nécessaires à l'œuvre de sécurité poursuivie dans l'intérêt commun, au nord de
+Figuig tout est encore à faire, ou à peu près, pour mettre à exécution le régime
+prévu par l'accord du 20 juillet 1901, et en vertu duquel les deux Gouvernements
+devaient instituer chacun deux Commissaires de frontière, l'un pour la région Nord,
+l'autre pour la région Sud, afin d'étudier et de régler sur place les réclamations et les
+questions d'indemnités entre tribus. Le Gouvernement de la République a désigné le
+Commandant Ropert comme Commissaire français pour la région Nord, et cette
+nomination a été notifiée dans le courant de cet été au Makhzen. Dans la région Sud,
+notre Commissaire est le Chef des affaires indigènes à Beni Ounif. Les Commissaires
+marocains doivent être le Khalifa de l'Amel d'Oudjda et le Khalifa de l'Amel de
+Figuig. Mais, en l'état actuel des choses, il est impossible que ces Agents exercent
+efficacement leurs fonctions.
+
+
+Comme vous le savez, l'accord du 20 avril 1902 stipule d'une manière générale
+(art. 1) que le Gouvernement français prêtéra son appui au Makhzen pour conso-
+lider son autorité telle qu'elle est établie depuis le traité de 1845. C'est de l'esprit
+de cette stipulation que s'inspirent toutes nos offres de services actuelles.
+
+
+Ce même arrangement prévoit, vous vous en souvenez, l'installation de marchés
+et de postes de perception de droits le long de la frontière. Des marchés marocains
+doivent être établis à Cherraa, près de l'oued Kiss, dans le pays des Angad; un
+second à Oudjda, un troisième à la Kasba d'Aïoun Sidi Mellouk, un quatrième à
+Debdou et un autre à Figuig. Des marchés mixtes sont prévus à Ras el Aïn des Beni
+Mathar, Beni Ounif et Kenadsa. Des marchés français doivent être installés à Adje-
+roud, Marnia, El-Aricha et Aïn-Sefra.
+
+
+Entre Adjeroud et Teniet-Essassi, on a décidé l'établissement de bureaux de per-
+ception, pour le Maroc, à Saïdia d'Adjeroud ou El-Heimer, à Oudjda et à un point
+dans la tribu des Mehaya; pour la France, à Adjeroud d'Algérie, à Marnia et à El-
+Aricha. D'autre part, un bureau de perception mixte est prévu comme devant être
+installé  Duveyrier.
+
+
+Pour assurer la paix et la libre circulation entre les deux pays et afin de prêter
+main forte au service des perceptions, des postes de garde permanents doivent être
+créés pour la France à Adjeroud d'Algérie, à Marnia et à El-Aricha; pour le Maroc,
+à Saïdia d'Adjeroud, à Oudjda, à un point sur l'oued Za et à Figuig. Deux gardes
+distinctes, fournies, l'une par le Gouvernement français, l'autre par le Gouverne-.
+ment marocain, doivent être organisées pour assurer en commun la police du Djebel
+Beni Smir.
+
+
+Enfin il reste encore à faire fonctionner tout le régime des taxes (pour le Maroc,
+droits de sortie et droits de transit; pour la France, droits de statistique et de taxe
+sanitaire) et le régime des droits de place sur les marchés prévus par l'accord du
+7 mai 1902. A Oudjda même, où l'autorité du Sultan est depuis longtemps reconnue,
+il a été impossible jusqu'ici d'obtenir l'application régulière de ces tarifs et une lettre
+de M. le Gouverneur général de l'Algérie, en date du 30 novembre dernier, dont
+vous avez reçu communication, a fait savoir que M. Jonnart n'a pu obtenir du
+nouveau Délégué marocain envoyé à Oudjda, Si Mohammed El-Hadjoui, aucun en-
+gagement permettant d'espérer une amélioration de la présente situation.
+
+
+Il est de toute nécessité que vous poursuiviez auprès du Makhzen l'exécution d'ar-
+rangements solennellement conclus, et suivis de promesses réitérées.
+
+
+182
+
+
+La nécessité des mesures que je viens d'indiquer devrait être d'autant plus évi-
+dente aux yeux du Sultan qu'elles auront pour conséquence d'assurer la rentrée des
+taxes et des impôts, si désirable pour la prospérité de l'Empire, et une augmentation
+des recettes douanières dont une partie se trouve affectée au service de l'emprunt.
+Vous ne sauriez trop faire remarquer au Makhzen que la continuation des troubles qui
+ont gagné à peu près tout le pays serait de nature à diminuer la valeur du gage qui a
+été consenti à ses prêteurs et constituerait pour l'avenir une gène sérieuse, au cas où le
+Maroc voudrait avoir de nouveau recours à notre crédit.
+
+
+Dès à présent, la création d'une banque d'État, dont le principe a été discuté au
+cours des négociations engagées à Fez par le représentant des banques, serait en
+mesure de rendre de très appréciables services au Makhzen. Une institution de cette
+nature pourrait être chargée du service de trésorerie du Gouvernement chérifien.
+Cette banque d'État contribuerait également, dans toute la mesure possible, à
+mettre en œuvre les moyens financiers de nature à remédier à la dépréciation
+actuelle de la monnaie marocaine et à modifier les cours désastreux du change qui
+en résultent. Vous vous souvenez que, sur nos conseils, lors de la conclusion de
+l'emprunt, l'envoyé des banques avait consenti à ne pas insister à Fez pour la
+création immédiate de cette banque d'État. Dans une lettre qui vous a été adressée,
+le 5 juin 1904, par le Cheikh Tazi, le Ministre chérifien admettait que cette de-
+mande pút lui ètre présentée, par votre entremise, après la conclusion de l'em-
+prunt, et étudiée par le Makhzen.
+
+
+On peut prévoir que le Makhzen sera bientôt saisi de propositions fermes à ce sujet.
+Il y aurait, en conséquence, avantage à ce que vous prépariez, en vue de cette éven-
+tualité, les éléments des pourparlers auxquels donnera lieu cette importante question
+et à ce que, lors de vos premiers entretiens avec Cheikh Tazi, vous procédiez avec
+lui à un échange de vues préliminaires.
+
+
+La construction d'une route carrossable entre Marnia et Oudjda est instamment
+demandée par M. le Gouverneur général de l'Algérie. L'accomplissement des travaux
+auxquels elle donnerait lieu aurait déjà l'heureux effet d'accoutumer les populations
+à l'idée de plus vastes entreprises. Il en serait de même de l'établissement d'une
+ligne télégraphique entre Marnia et Oudjda. Ces propositions méritent d'être sérieuse-
+ment appuyées auprès du Makhzen. Elles pourront donner lieu à un intéressant
+échange de vues sur l'utilité de doter l'Empire d'un réseau télégraphique qui mettrait
+Fez en communication avec Tanger et relierait la capitale des Chérifs avec les prin-
+cipales villes de la còte.
+
+
+Ainsi que je vous l'ai fait remarquer en esquissant le programme de réorganisation
+de la police, les points où semble le plus aisément pouvoir s'exercer tout d'abord
+une action réformatrice sont ceux où les populations sont depuis plus longtemps en
+contact avec les Européens, par exemple les villes du littoral. Ce sont les voies natu-
+relles d'accès par lesquelles s'infiltrent dans l'intérieur du pays les idées de progrès
+et de civilisation. Nous devons, en conséquence, porter nos prémiers efforts à l'amé-
+lioration des ports et au développement des entreprises qui s'y rattachent.
+
+
+Vous savez, d'autre part, que la Chambre des députés, dans sa séance du 36 no-
+vembre, a voté un crédit destiné à être employé en œuvres humanitaires et philan-
+thropiques au Maroc. Tout permet de compter en outre que ce vote sera bientôt ratifié
+
+
+183
+
+
+par le Sénat. Vous m'avez déjà fait part de vos propositions au sujet de l'emploi de
+cette somme dont une notable partie doit être consacrée à l'assistance médicale. La
+création de dispensaires dans les villes de la côte et la fondation de cliniques dans les
+marchés mixtes et les marchés marocains prévus dans les accords de 1902 seront des
+mesures bienfaisantes. Vous jugerez sans doute utile d'en faire ressortir les avantages
+aux yeux du Makhzen et de vous assurer qu'il n'en prendra pas ombrage. La diffusion
+de notre langue rentre également dans notre programme. Je crois superflu d'insister
+sur ces mesures, dont le détail n'est pas encore définitivement arrêté, m'en remettant
+à vous du soin de faire prochainement à Fez telles démarches qui vous paraîtraient
+nécessaires pour en faciliter l'application.
+
+
+Enfin je mentionne ici pour mémoire la question du règlement des indemnités
+algériennes réclamées par nos tribus depuis plusieurs années, pour les vols et les
+agressions dont elles ont été victimes. Vous connaissez l'importance de nos griefs
+dont ma correspondance précédente vous a déjà entretenu.
+
+
+J'ai pleine confiance en vous pour assurer le succès de l'œuvre que vous poursuivez
+avec tant de zèle et de clairvoyance depuis votre nomination au poste de Tanger. Je
+me plais à espérer que le Sultan et ses Ministres se rendront aux conseils de la rai-
+son que vous ne manquerez pas de leur faire entendre. Nous ne demandons qu'à
+accomplir, avec la collaboration du Makhzen, la tâche qui s'impose à nous et qui doit
+profiter également au Maroc et à l'intérêt général.
+
+
+DELCASSÉ.
+
+
+N° 209.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 décembre 1904.
+
+
+J'ai reçu aujourd'hui une lettre signée de Si Mohammed Torrès et de Mokri.
+Après avoir rappelé le mauvais état où se trouvent les finances chérifiennes par suite
+des dépenses qu'entraîne la lutte contre la rébellion, et après avoir signalé la nécessité
+qui s'impose au Makhzen d'accroître ses revenus et d'alléger ses charges, la lettre
+conclut en ces termes : « Des mesures ont été effectivement prises pour réduire un
+certain nombre de dépenses conformément aux exigences de la situation.
+
+
+« C'est ainsi que Sa Majesté Chérifienne a décidé de congédier les instructeurs
+étrangers en fonctions à la Cour chérifienne et à Rabat et de renoncer à leurs services
+en les autorisant à partir, pour réaliser l'économie de la somme affectée à leur solde
+et couper court aux préjugés qui ont cours actuellement parmi les sujets. Nous vous
+prions donc d'informer les instructeurs dont il s'agit des décisions de Sa Majesté Chéri-
+fienne et de les inviter à s'y conformer dans un délai d'un mois à partir de cette
+date. >>>
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+184
+
+
+N° 210.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 décembre 1904.
+
+
+Par suite d'un effacement de plus en plus marqué des autorités locales, la situation
+empire progressivement dans les environs de Tanger. Le Makhzen en est venu à y
+chercher un appui sur Raissouli, qui perd d'ailleurs son influence et qui est tenu en
+échec par son ancien lieutenant. Les tribus et fractions de tribus, n'étant plus suffi-
+samment contenues par l'autorité du Makhzen, se livrent les unes contre les autres
+à des actes d'hostilité où se satisfont l'esprit de clan et le génie batailleurs-propres à la
+race berbère. Hier deux de ces groupes en sont venus aux mains dans le faubourg
+même de Tanger, et le parti le plus faible a un moment envahi la cour d'un de nos
+compatriotes. Dans la campagne environnante, les meurtres deviennent fréquents. Je
+suis allé hier faire entendre au Pacha le plus sérieux langage. J'y étais d'autant plus
+autorisé que je l'avais fait prévenir dès la veille des intentions des perturbateurs. J'ai
+fait un énergique appel, au sentiment de sa responsabilité personnelle. Il m'a répondu
+par de solennelles promesses. J'en attends l'effet sans beaucoup de confiance, car ce
+fonctionnaire, par l'excès de ses persécutions, a gravement compromis son autorité
+sur ses subordonnés.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 211.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 décembre 1904.
+
+
+Je prie Votre Excellence de m'autoriser à adresser à Ben Sliman une lettre où je
+déclarerai: qu'après avoir pris connaissance de la lettre de Si Torrès et de Mokri,
+où il a vu un manque éclatant à la parole que la France a reçue du Sultan et qu'elle
+retient, mon Gouvernement m'a invité à différer jusqu'à nouvel ordre mon départ
+pour Fez. J'ajouterai que j'ai ordre de rappeler immédiatement à Tanger les membres
+de notre Mission militaire, notre Vice-Consul, nos compatriotes, et que le Makhzen
+sera tenu de tous dommages qu'ils auraient à subir jusqu'au terme de leur voyage de
+retour.
+
+
+185
+
+
+En même temps, j'inviterai notre Vice-Consul à remettre et à commenter cette lettre.
+Il devra quitter Fez avec tous nos compatriotes dans un délai de dix jours. J'inviterai
+le chef de notre Mission militaire à quitter Fez avec son personnel dans le même
+délai.
+
+
+N° 212.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. DELGASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 20 décembre 1904.
+
+
+Vous pouvez envoyer à Ben Sliman la lettre rédigée suivant les indications de votre
+télégramme d'hier et la faire remettre et commenter par M. Gaillard.
+
+
+Si le Makhzen revient sur sa décision, le but que vous proposiez sera atteint.
+Dans ce cas, M. Gaillard devra suspendre son départ et celui de la Mission et il ne
+vous restera qu'à vous assurer de la sincérité des dispositions du Makhzen pour vous
+rendre vous-même à Fez. Mon sentiment est que, seul, le représentant de la France a
+l'autorité nécessaire pour ramener le Gouvernement marocain au sens de la réalité.
+
+
+DELCASSÉ.
+
+
+N° 213.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 24 décembre 1904.
+
+
+Voici le texte intégral de la lettre que j'ai adressée, le 21, à Ben Sliman :
+
+
+ J'ai reçu le 17 décembre courant, sous les signatures de Si Mohammed Torrès
+et de Si Mohammed El Mokri, une lettre où ils m'annoncent, en alléguant des
+raisons d'économies et d'autres prétextes, «que Sa Majesté Chérifienne a décidé de
+<< congédier les instructeurs étrangers en service à la Cour chérifienne et à Rabat ». Je
+suis prié par la même lettre d'informer les instructeurs dont il s'agit de cette décision
+et de les inviter à s'y conformer dans le délai d'un mois.
+
+
+« J'ai porté cette communication à la connaissance du Gouvernement de la République.
+Il en a été très surpris. Sans la mesure indiquée par un Acte international qui vous a
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+24
+
+
+186
+
+
+été notifié, la France a assumé la tâche d'aider le Makhzen à améliorer au Maroc,
+par des réformes progressives, un état de choses funeste à tous les intérêts. La
+manière dont elle a commencé à prêter au Sultan, en maintes circonstances, son appui
+et son concours bienveillant, témoigne assez de ses intentions amicales et du souci
+qu'elle a d'accomplir son œuvre par les moyens les plus propres à propager aux yeux
+de tous le prestige et l'autorité du Souverain de ce pays. Tout son désir est que le
+concours sincère du Makhzen la mette en mesure de poursuivre cette œuvre dans le
+même esprit amical. Mais si ce concours lui faisait défaut, elle saurait accomplir à elle
+seule la tâche qui lui incombe.
+
+
+« Dans ces conditions, et puisque Sa Majesté le Sultan, trompé par de dangereux
+conseillers sur le véritable état et les besoins de son Empire, a accueilli la pensée
+d'éloigner de sa Cour chérifienne les officiers français mis à sa disposition en vue de
+la réorganisation de son armée, réforme particulièrement indispensable entre celles
+dont la nécessité a été reconnue, le Gouvernement de la République se voit à regret
+forcé d'adopter des dispositions en conséquence. Il m'invite à différer jusqu'à nouvel
+ordre l'accomplissement de la mission dont il m'avait chargé auprès du Chérif, et
+qui avait pour objet l'extension d'une entente amicale sur les réformes à effectuer
+pour le bien des deux parties, notamment en matière économique, financière et
+militaire.
+
+
+<< En conséquence il a décidé le rappel de notre Consul, des membres de notre
+Mission militaire et des Français résidant à Fez, qui devront partir dans un délai de
+dix jours.
+
+
+« Il me donne l'ordre de vous en aviser et d'ajouter que le Makhzen sera tenu de
+tout dommage qu'auraient à subir, jusqu'au terme de leur voyage de retour, les
+Français qui se trouvent dans l'intérieur du pays. »
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 214.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Paris, le 27 décembre 1904.
+
+
+J'ai l'honneur de porter à votre connaissance que, le 8 décembre, 47 soldats
+marocains de la garnison de Figuig sont venus au bureau des affaires indigènes de
+Beni-Ounif pour présenter leurs doléances au Commissaire français.
+
+
+Dix d'entre eux étaient porteurs de leurs fusils modèle 1874.
+
+
+Ils ont déclaré qu'ils ne voulaient pas continuer à servir dans les conditions
+
+
+187
+
+
+actuelles. Leur solde est payée en monnaie hassanienne qui subit un change élevé,
+et ils la trouvent insuffisante.
+
+
+L'Amel, saisi de cet incident par le Commissaire français, a répondu qu'il ne pou-
+vait rien pour améliorer la situation dont les soldats se plaignent.
+
+
+Après d'assez longs pourparlers, ces soldats ont cependant consenti à regagner
+Oudaghir.
+
+
+Ils ont raconté, avant leur départ de Beni-Ounif, que douze de leurs camarades
+avaient déserté en emportant leurs armes, le 3 ou le 4 décembre, et s'étaient dirigés
+vers Oudjda.
+
+
+L'impression du Commissaire français est que l'Amel parait de plus en plus inca-
+pable de se faire obéir de ses soldats.
+
+
+JONNART.
+
+
+N° 215.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 30 décembre 1904.
+
+
+Ben Sliman a rendu compte au Sultan de ma lettre relative au renvoi de notre
+Mission militaire. Le Sultan a mandé notre Consul. Il a chargé avec beaucoup d'in-
+sistance M. Gaillard de me dire «que l'on était prêt à Fez à accueillir tous nos
+conseils et à accepter toutes les réformes, et que l'on retirerait toutes les démarches
+qui avaient pu nous froisser ». M. Gaillard a répondu respectueusement qu'il me ren-
+drait compte. Notre agent a été ensuite au Conseil des Vizirs. Ils lui ont tous parlé
+dans le même sens que le Sultan et avec la plus grande insistance. M. Gaillard me
+fait savoir que le Makhzen m'adresse une lettre qui a dû partir de Fez le 26 au soir.
+Un duplicata doit lui en être remis, pour que la transmission en soit plus sûre.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+24
+
+
+189
+
+
+1905.
+
+
+N° 216.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 janvier 1905.
+
+
+Voici la traduction intégrale de la réponse de Ben Sliman :
+
+
+« J'ai bien reçu votre lettre datée du 21 décembre de cette année, par laquelle vous
+me faites savoir que nos représentants, Si Mohammed Torrès et Si Mohammed el Mokri,
+vous avaient écrit, le 7 de ce mois, pour vous faire connaître la décision prise par
+Sa Majesté Chérifienne de congédier les instructeurs étrangers à la Cour chérifienne et
+à Rabat, pour certaines raisons, entre autres par mesure d'économie. Les signataires
+de cette lettre vous auraient en outre demandé de faire exécuter la décision chéri-
+fienne dans un délai d'un mois. Vous ajoutiez que vous aviez porté la lettre en ques-
+tion à la connaissance de votre Gouvernement qui s'en était d'autant plus étonné
+qu'il avait, en cette circonstance, fait preuve de sollicitude et qu'il continuait à se
+préoccuper des moyens d'assister le Gouvernement chérifien pour tout ce qui lui sera
+nécessaire dans l'entreprise des réformes progressives. Vous nous faites savoir enfin
+que, puisque l'attitude du Makhzen chérifien ne vous a pas paru répondre à la vôtre,
+notamment en raison du renvoi de vos instructeurs, le Gouvernement français avait
+été amené à prendre les mesures qu'il jugeait nécessaires et que vous avez indiquées
+dans votre lettre, à savoir de retarder votre ambassade à la Cour chérifienne, de rap-
+peler à Tanger votre Mission militaire, votre Consul et tous les Français, etc.
+
+
+« J'ai porté votre lettre à la connaissance de notre Maître (Dieu l'assiste!) qui s'en
+est pénétré et en a pris bonne note.
+
+
+« Aussitôt que Sa Majesté en a eu pris connaissance, Elle s'en est beaucoup émue.
+Elle a manifesté un regret qu'on ne pourrait dépeindre, en raison de la façon inexacte
+dont ses instructions vous ont été transmises. Mon auguste Maître m'a ordonné de
+vous dire que le sens de ses instructions était de se mettre en rapport et de s'entre-
+tenir avec vous, au sujet de tous les Européens employés au Makhzen, Français ou
+autres, car il semblait au Makhzen que cette mesure était en ce moment opportune
+et ne doutait pas que vous lui prêteriez votre appui pour tout ce qui lui serait avan-
+
+
+190
+
+
+tageux dans cette circonstance et dans d'autres, de façon que, si la mesure projetée
+rencontrait votre approbation, vous pussiez aider à sa réalisation et, dans le cas
+contraire, pour que vous nous fissiez part de vos suggestions, afin que Sa Majesté
+Chérifienne se rendît compte de ce qui aurait paru utile. Non seulement, Sa Majesté
+Chérifienne n'avait pas autorisé les signataires de cette lettre à vous en écrire, bien
+plus, mais Elle ne leur avait pas dit de fixer le délai d'un mois.
+
+
+« La preuve de la sincérité des intentions amicales de Sa Majesté à l'égard du Gou-
+vernement français réside dans les déclarations que nous avons faites verbalement
+ces jours derniers à votre intelligent consul M. Gaillard au nom de Sa Majesté Chéri-
+ſienne, déclarations par lesquelles Sa Majestése montrait fermement attachée à maintenir
+les liens de bonnes relations existant avec le Gouvernement français et à démentir les
+informations qui vous seraient parvenues et qui seraient en désaccord avec ces prin-
+cipes. Sa Majesté Chérifienne s'apprête à recevoir votre ambassade avec toutes les marques
+de bon accueil et de considération; il n'est pas douteux que votre Consul vous ait
+écrit à ce sujet. Pour vous donner une preuve de plus des préoccupations de Sa Ma-
+jesté et du trouble qu'a apporté, dans son esprit, le malentendu actuel, sachez, ô
+ami, qu'Elle a envoyé chercher votre Consul aujourd'hui et qu'Elle s'est entretenue
+verbalement avec lui en lui exposant la réalité des faits et en lui donnant de nouvelles
+assurances sur le soin avec lequel Elle veillerait à l'entretien des rapports amicaux
+entre les deux Gouvernements tout en écartant les appréhensions et les doutes, en
+réalité sans fondement, qui se seraient présentés à l'esprit du Gouvernement français.
+ Sa Majesté a beaucoup insisté auprès de votre Consul pour lui recommander de
+vous écrire afin de vous mettre au courant de l'incident. De même Elle a insisté
+auprès de lui pour l'empêcher de partir, lui, la Mission militaire et les autres Français.
+« Elle m'a aussi ordonné de vous faire savoir que, bien que les deux délégués dont
+il s'agit vous aient fait part de cette question, Sa Majesté, comptant sur votre amitié
+et les efforts que vous déployez pour le bien des deux Gouvernements, pensait que
+vous n'auriez pas porté cette information à la connaissance de votre Gouvernement
+avant de nous avoir écrit à ce sujet et de recevoir notre réponse.
+
+
+«Sa Majesté Chérifienne a éprouvé une grande peine à la suite des conséquences
+de ce malentendu survenu entre les deux Gouvernements, malentendu assez grand pour
+que le Gouvernement français ait adressé à son ami le Gouvernement chérifien un
+langage qui n'avait jamais été tenu dans ce sens entre les deux pays.
+
+
+«En effet, il n'y a pas de procédé plus pénible que celui consistant dans un ordre
+de rappel de votre Consul, de la Mission militaire et de vos ressortissants dans des
+conditions telles qu'il en serait résulté, vous ne l'ignorez pas, une effervescence
+parmi la population et d'autres suites encore. En conséquence, Sa Majesté Chéri-
+fienne espère que votre heureuse intervention apportera à cette situation un remède
+prompt et qui aura pour objet de maintenir intactes les relations de pure amitié qui
+unissent les deux pays, d'effacer les traces du malentendu actuel, de faire en sorte
+que cet incident n'ait pas de conséquence, de hâter votre ambassade à la Cour ché-
+rifienne où vous serez reçu avec le meilleur accueil et toutes les marques de considé-
+ration, et de maintenir dans leurs fonctions les employés français.
+
+
+ A votre arrivée à Fez qui s'effectuera, j'espère, dans les meilleures conditions,
+vous serez clairement édifié sur la situation et les intentions du Makhzen, et par là
+
+
+191
+
+
+vous vous convaincrez davantage des désirs et des vues favorables que Sa Majesté
+Chérifienne entretient à l'égard du Gouvernement français.
+
+
+<< Puis ce qui sera reconnu utile, on s'y conformera de toutes façons. Je vous ai
+écrit deux autres lettres analogues, expédiées par courriers spéciaux, l'une par voie
+de terre et la seconde voie Larache par mer; une troisième lettre a été remise à
+votre Consul pour vous ètre transmise, et cela en prévision d'accidents de route.
+
+
+<< Veuillez, ô ami, nous faire parvenir d'urgence votre réponse qui, nous l'espé-
+rons, sera favorable, grâce à votre heureuse intervention et au succès qui ne man-
+quera pas de couronner vos démarches, comme nous l'attendons de vous. Vivez dans
+la tranquillité et la joie. »
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 217.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 4 janvier 1905.
+
+
+Le lieutenant Mougin, chef intérimaire de la section de nos instructeurs à Oudjda,
+me télégraphie ce qui suit, sous la date du 3: «La trop grande confiance du
+Makhzen en Bou Amama a eu pour résultat la défaite la plus complète qu'aient
+éprouvée les troupes chérifiennes dans la région. Ce matin, la mahalla au complet
+s'est portée sur le camp de Bou Hamara; elle était aux prises avec les rebelles
+lorsque les contingents de Bou Amama l'ont prise à revers. L'échec du Makhzen est
+complet; les troupes ont dû battre en retraite sur Oudjda après avoir essuyé des pertes
+considérables. Morts et blessés sont nombreux, les prisonniers seraient aussi en grand
+nombre, s'ils n'avaient pas été relâchés pour la plupart, après avoir été dépouillés de
+leurs armes et de leurs vètements. J'avais offert le concours personnel de la section
+frontière à Abdessadoq et à Hadjoui qui m'ont répondu  que nous n'étions ici que
+des invités. >>>
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+192
+
+
+N° 218.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Le 6 janvier 1905.
+
+
+Le Délégué chérifien El Hadjoui m'a demandé l'autorisation d'envoyer dans la région
+du Chott Gharbi, au sud du Téniet Sassi, 60 tentes de Sedjaa et Angad avec 88 trou-
+peaux de moutons et 10 de chameaux, en invoquant ce motif que les troupeaux res-
+serrés entre Oudjda et Marnia dépérissent faute de pâturages.
+
+
+Sur l'avis favorable des généraux Liautey et Herson, malgré les inconvénients et les
+conflits possibles à prévoir, j'ai accordé l'autorisation sollicitée sous la seule réserve que
+ces Marocains payeront les mêmes taxes que ceux auxquels nous avons déjà accordé
+asile et se soumettront à toutes les mesures de police et de sécurité qui seront pres-
+crites par les autorités françaises.
+
+
+Peut-être jugerez-vous opportun de porter à la connaissance de notre Ministre à
+Tanger cette autorisation qui témoigne des bonnes dispositions des autorités algé-
+riennes à l'égard du Gouvernement marocain.
+
+
+N° 219.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française
+à Tanger.
+
+
+Je réponds à votre télégramme du 4:
+
+
+Paris, le 8 janvier 1905.
+
+
+Vous ne manquerez pas de relever auprès du Makhzen la réponse d'Abdessadoq
+et d'El Hadjoui à l'offre du concours du lieutenant Mougin. Si la défaite complète de
+leurs troupes a été le châtiment de leur sotte présomption, elle est aussi une leçon
+qui ne doit pas être perdue. Il faut convaincre le Makhzen que ses troupes ne
+l'emporteront sur celles du Rogui que par la supériorité de l'instruction et de l'ar-
+mement.
+
+
+DELCASSÉ.
+
+
+193
+
+
+N° 220..
+
+
+Le Comte DE CHÉRISEY, Chargé des affaires de la Légation de la République
+
+
+française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 11 janvier 1905.
+
+
+Le Du Chayla, portant M. Saint-René Taillandier et le personnel de sa mission, a
+levé l'ancre à destination de Larache.
+
+
+N° 221.
+
+
+CHÉRISEY.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 24 janvier 1905.
+
+
+La tranquillité relative qui règne dans le Sud oranais depuis quelque temps, grâce
+à l'activité infatigable du général commandant la subdivision d'Aïn-Sefra, a pu dé-
+tourner l'attention du public de ces régions et accréditer l'opinion que la sécurité y
+était définitivement assurée, mais le Gouvernement ne saurait évidemment partager
+cette illusion.
+
+
+Je crois devoir en effet vous signaler l'extrait suivant d'un rapport du général
+Lyautey, relatif aux derniers incidents survenus sur la frontière :
+
+
+<<« Un notable de Zenaga a reçu d'un chérif du Tafilalet une lettre disant que
+Moulay Rechid avait réuni les notables des Beraber et leur avait fait connaître que
+le sultan Moulay Abdel Aziz était résolu à faire des représentations au Gouvernement
+français au sujet de ses agissements dans le Sahara et que, si satisfaction ne lui est pas
+donnée, il nous déclarera la guerre.
+
+
+<< Or, nos agissements dans le Sahara consistent uniquement dans les mesures que
+nous avons prises et dans la mobilité que nous avons donnée à nos postes, depuis un
+an, pour assurer à nos communications, à nos convois, à nos caravanes, une sécurité
+qui, précédemment, était constamment troublée par des incursions venues du Tafi-
+lalet, de Bou Amama et; en général, de toute la zone marocaine limitrophe.
+
+
+« En ce qui concerne Bou Amama, auteur incontesté de la plupart des agressions
+contre nous, comme il est établi en deçà de la zone frontière délimitée, nous ne
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+25
+
+
+194
+
+
+pouvons rien contre lui. Le Makhzen, de son côté, tout en négociant vraisembla-
+blement avec lui, se déclare incapable d'agir efficacement contre le Marabout. Mais
+lui, par contre, pent impunément organiser des rezzous et les lancer en plein cœur
+de notre territoire contre nos convois et nos caravanes.
+
+
+<< Le dernier rezzou qui est venu razzier, le 13 décembre, 400 chameaux et 1,000
+moutons aux Oulad Ziad, au sud de Géryville, et a attaqué un de nos détachements,
+à Hassi Ouchen, était exclusivement composé de Chaamba et d'Oulad Djerir de l'en-
+tourage immédiat de Bou Amama, auxquels s'étaient joints quelques gens d'Aïn-
+Chaïr. Nous avons pu donner à ce rezzou une chasse sérieuse, lui reprendre une
+partie de ses prises, lui tuer du monde, mais le reste n'en est pas moins rentré chez
+Bou-Amama qui, d'après tous les renseignements, se proposait d'envoyer à son se-
+cours et n'a cessé de manifester la plus vive appréhension sur son sort. Et cependant
+le Marabout reste indemne à l'abri de la frontière marocaine puisque nous ne
+pouvons pénétrer dans cette zone sans protestations du Makhzen et que ce même
+Makhzen y tolère, sans qu'on ait aucun recours sur lui, la présence de notre ennemi
+invétéré et l'organisation de telles agressions contre nous. Il importe même de
+remarquer que Bou Amama n'hésite pas à se dégarnir de la plus grande partie de
+son monde et de ses meilleurs guerriers, ce qui est la meilleure preuve qu'il se sait
+absolument en sécurité à l'abri de la frontière, et assuré que le Makhzen ne tentera
+rien contre lui.
+
+
+« Il en est de même du djich composé de piétons de Bou Amama qui, le 21 dé-
+cembre, a attaqué, au sud du Teniet Sassi, un convoi, a enlevé les animaux et les
+bagages, tué un israélite et rentra impunément chez l'agitateur, à l'abri de la fron-
+tière.
+
+
+« Il en est de mème encore du djich composé de 43 cavaliers, sous les ordres de
+Si Smaïn, propre neveu de Bou Amama, qui, dans la nuit du 20 au 21 décembre, a
+franchi la frontière au nord de Magoura, près de Missouin, attaqué nos indigènes des
+Oulad Sidi Chadli et est ensuite rentré chez le Marabout toujours à l'abri de la fron-
+tière. >>>
+
+
+Le général Lyautey conclut de ces constatations que ses efforts pour le maintien de
+la sécurité seront toujours paralysés tant qu'il ne trouvera de l'autre côté de la fron-
+tière aucune aide, même contre les ennemis du Makhzen qui sont en même temps
+les nôtres.
+
+
+Je ne saurais donc trop appeler de mes vœux la fin de cet état de choses et la
+constitution sous le contrôle de la France d'une organisation quelconque qui nous
+permettra de prendre d'urgence, d'accord avec nos voisins, les mesures de sécurité
+commandées par chaque incident.
+
+
+JONNART.
+
+
+195
+
+
+N° 222.
+
+
+Le Comte DE CHÉRISEY, Chargé des affaires de la Légation de la République
+
+
+française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 31 janvier 1905.
+
+
+Je reçois du chef de notre section frontière le télégramme suivant : « Oudjda,
+29 janvier. Aujourd'hui Bou Hamara et Bou Amama se sont portés à l'attaque
+d'Oudjda. La mahalla est sortie, l'ennemi a été repoussé; seule la pluie a mis fin à
+la poursuite. Tout le personnel de la section frontière, sur la demande des autorités
+chérifiennes, est sorti avec un canon et est resté pendant toute l'action à côté
+d'Ahmed Ben Karroum, chef de la mahalla».
+
+
+CHÉRISEY.
+
+
+N° 223.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 3 février 1905.
+
+
+Votre Excellence a bien voulu m'adresser copie d'un rapport de M. le Gouverneur
+général de l'Algérie relatif à l'état de désorganisation de la garnison de Figuig.
+
+
+Bien que, sur mes instances, cette petite troupe ait été constituée avec un soin
+relatif, ainsi que j'ai eu l'occasion d'en faire part à M. Jonnart, je ne suis pas surpris
+d'apprendre que l'événement dément les assurances données par les autorités maro-
+caines sur sa solidité. L'insuffisance de la solde, par suite de la dépréciation de la
+monnaie hassani, suffirait, en dehors de causes plus générales, à expliquer les faits
+signalés par M. le Gouverneur général de l'Algérie.
+
+
+S'il ne nous est pas possible de contester au Makhzen le droit de tenir garnison sur
+un point marocain de la région frontière, nous sommes en droit de demander,
+d'exiger au besoin, que les garnisons marocaines établies dans notre voisinage nous
+donnent des garanties sérieuses de discipline et de solidité. Je suis donc d'accord
+avec M. Jonnart pour penser que nous ne devons pas nous prèter au renouvellement,
+dans les mêmes conditions, d'une expérience sans profit pour le prestige chérifien,
+mais non sans inconvénients pour nos propres intérèts.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+25.
+
+
+196
+
+
+N° 224.
+
+
+Le Comte DE CHÉRISEY, Chargé d'affaires de la République française
+
+
+à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 11 février 1905.
+
+
+Je crois devoir rendre compte à Votre Excellence des déclarations que m'a faites
+mon collègue allemand, au cours d'un récent entretien sur l'attitude de l'Allemagne
+dans les affaires marocaines.
+
+
+ Après l'accord franco-anglais, m'a dit M. de Kühlmann, nous supposions que le
+Gouvernement français attendrait, pour nous mettre au courant d'une situation nou-
+velle, que l'entente franco-espagnole, prévue dans l'arrangement du 8 avril, fût effec-
+tuée. Mais aujourd'hui tout étant définitivement conclu, et les ratifications parlemen-
+taires étant intervenues, nous nous sommes aperçus qu'on nous tenait à l'écart
+systématiquement. Nous avons donc fixé notre attitude en conséquence. N'allez pas
+croire que je me sois tracé une ligne de conduite de ma propre initiative. En présence
+des interprétations contradictoires de nos journaux, j'ai cru devoir solliciter de mon
+Gouvernement des instructions formelles. Et c'est alors que le Comte de Bülow m'a
+fait savoir que le Gouvernement Impérial ignorait tout des accords intervenus au sujet
+du Maroc et ne se reconnaissait comme lié en aucune manière relativement à cette
+question ».
+
+
+N° 225.
+
+
+CHÉRISEY.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Berlin, le 14 février 1905.
+
+
+Notre chargé d'affaires à Tanger me rapporte que, dans un entretien qu'il a eu avec
+le Chargé d'affaires d'Allemagne, celui-ci a déclaré à M. de Chérisey qu'en présence
+des interprétations contradictoires des journaux allemands sur l'attitude de l'Alle-
+magne relativement aux accords franco-anglais et franco-espagnol, il avait sollicité
+de son gouvernement des instructions formelles. Le Comte de Bülow aurait répondu
+⚫ que le Gouvernement Impérial ignorait tout des accords intervenus au sujet du
+Maroc ».
+
+
+Ces propos de M. de Kühlmann m'obligent à rappeler les faits.
+
+
+197
+
+
+Dès le 23 mars, plus de deux semaines avant la signature de l'accord du 8 avril,
+répondant à une question du prince de Radolin, question « indiscrète peut-être  ,
+avait dit l'Ambassadeur d'Allemagne, non seulement je n'ai fait aucun mystère des
+négociations en cours, mais je lui ai même révélé les dispositions essentielles de
+l'arrangement visant le Maroc assistance de la France au Sultan notamment pour
+l'établissement de la sécurité; liberté commerciale, reconnaissance de la situation et
+des intérêts de l'Espagne. Je vous ai envoyé le résumé de mon entretien avec le
+Prince de Radolin. De sorte que, lorsque l'arrangement a été publié, le Gouvernement.
+Impérial a pu constater l'absolue exactitude des renseignements que j'avais donnés à
+son ambassadeur et qu'il a été ainsi seul à connaître avec notre allié, avant le 8 avril.
+
+
+Quant à l'accord franco-espagnol, il me suffit de rappeler que, conformément
+encore aux règles de parfaite courtoisie que j'ai observées invariablement depuis
+bientôt sept ans, je vous ai chargé de le porter à la connaissance du Gouvernement
+Impérial avant que le texte en fût publié et que vous vous êtes aussitôt acquitté de
+cette mission.
+
+
+Par votre lettre du 14 octobre, vous m'avez fait savoir que le Ministre des Affaires
+étrangères allemand vous avait même, à cette occasion, marqué l'intérèt exclusivement
+économique que l'Allemagne attachait aux affaires marocaines. Vous lui avez répliqué
+que la Déclaration franco-anglaise du 8 avril stipulait la liberté commerciale et que la
+Déclaration franco-espagnole ne pouvait modifier les garanties ainsi offertes au com-
+merce international. A la réception diplomatique suivante, vous n'avez pas manqué
+de faire connaître au baron de Richthofen que ces assurances avaient reçu mon entière
+approbation.
+
+
+En faisant part au Ministre des Affaires étrangères du langage tenu par le Chargé
+d'affaires allemand à Tanger à M. de Chérisey, je vous serai obligé de lui rappeler,
+dans la forme que vous jugerez la plus convenable, et ma conversation du 23 mars
+avec le Prince de Radolin et votre propre communication du 7 octobre, relative à
+notre accord avec l'Espagne.
+
+
+DELCASSÉ.
+
+
+N° 226.
+
+
+M. BIHOURD, Ambassadeur de la République française, à Berlin,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 15 février 1905.
+
+
+J'ai cru ne pas devoir attendre la prochaine réception diplomatique pour faire
+auprès du baron de Richthofen la démarche dont Votre Excellence m'avait chargé
+par son télégramme d'hier. Je me suis présenté ce matin au Ministère des Affaires
+étrangères. Le Secrétaire d'itat se trouvait déjà, et devait, m'a assuré son secrétaire,
+
+
+198
+
+
+demeurer toute la journée au Reichstag, où le retiennent les débats sur les nouveaux
+traités de commerce. Je me suis adressé au Sous-Secrétaire d'État.
+
+
+Je lui ai dit la surprise de Votre Excellence en apprenant que le Gouvernement
+Impérial, d'après l'affirmation de M. de Kühlmann, ignorait tout des accords interve-
+nus, au sujet du Maroc, entre la France, d'une part, et, de l'autre, l'Angleterre et l'Es-
+pagne. Je lui ai rappelé la conversation de Votre Excellence avec le prince de Radolin,
+le 23 mars dernier, et ma visite au baron de Richthofen, le 7 octobre, pour lui
+communiquer, avant qu'ils fussent portés à la connaissance du public, les termes de
+l'entente franco-espagnole. Je n'ai pas manqué d'insister sur la netteté avec laquelle
+j'avais, à deux reprises, donné au Secrétaire d'État l'assurance que le Gouvernement
+Impérial bénéficierait naturellement de la liberté commerciale garantie par l'accord
+du 8 avril et confirmée par la déclaration du 6 octobre. J'ai ajouté que, dans ces
+conditions, je ne pouvais fournir à Votre Excellence une explication du langage de
+M. de Külhmann et que force m'était de chercher quelque lumière auprès du Secré-
+taire d'État aux Affaires étrangères.
+
+
+M. de Mühlberg m'a répondu qu'il ne connaissait que par ma démarche actuelle
+les paroles attribuées au chargé d'affaires à Tanger et qu'il allait l'interroger par la
+voie télégraphique. Il s'est demandé si le propos de M. de Kühlmann ne devait pas
+ètre interprété dans ce sens que le Gouvernement Impérial, étant étranger aux deux
+accords visés plus haut, ne se croyait en aucune façon lié par eux. Je n'avais pas
+à contredire à cette interprétation, qui traduisait évidemment la pensée officielle,
+d'autant plus que j'avais été amené à indiquer, en passant, que le Gouvernement de la
+République avait fait connaître à celui de l'Empire les deux accords, sans être astreint
+bien entendu à une notification, et que sur ce point je n'avais pas provoqué de contes-
+tation.
+
+
+Mon entretien avec M. de Mühlberg atteste l'exactitude de la déclaration de M. de
+Külhmann. Le Gouvernement Impérial ne prétendra pas, il est vrai, ignorer tout des
+accords, il s'agit de l'ignorance absolue des actes eux-mêmes, mais il donnera à cette
+première phrase le sens de la seconde: «Le Gouvernement ne se reconnaît comme
+lié en aucune manière relativement à cette question. »
+
+
+BIHOURD.
+
+
+N° 227.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+
+
+à Féz,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 15 février 1905.
+
+
+Dans les entretiens que j'ai cus jusqu'ici avec le Sultan, j'ai longuement appelé son
+attention sur la situation intérieure de son Empire. Je lui ai démontré la nécessité qui
+
+
+199
+
+
+s'imposait à lui de sauvegarder à tout prix les intérêts français et européens si
+gravement compromis. J'ai indiqué notre préférence pour des méthodes qui assure-
+raient, en même temps, avec le respect absolu des traditions religieuses, le relèvement
+du prestige et de l'autorité du Sultan. Mais j'ai conclu que certainement le Gouverne-
+ment de la République ne se contenterait pas, dans les questions qui l'intéressent, de
+promesses dépourvues de garanties.
+
+
+Le Sultan m'a demandé de lui préciser au plus tôt nos propositions relatives à la
+réorganisation des troupes de police, se réservant d'apprécier, avec l'aide de ses vizirs
+et de certains délégués spécialement choisis en dehors du Makhzen, dans quelle
+mesure il pourrait y adhérer sans manquer au devoir primordial qui lui incombe de
+préserver de toute atteinte la religion du pays et les coutumes qui s'en inspirent.
+Je lui ai donc indiqué les grandes lignes du projet concerté entre le Chef de notre
+Mission militaire et moi.
+
+
+Quand j'eus terminé cet exposé, le Sultan me dit en propres termes : « La plus
+grande partie des réformes que vous venez d'expliquer sont acceptables et réalisables
+dans un avenir très prochain. Mais quelques-unes sont difficiles à accepter. J'en réserve
+la discussion à mon Makhzen.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 228.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 23 février 1905.
+
+
+Les fêtes de l'Aïd el Kebir ont retardé l'ouverture des négociations officielles rela-
+tives à notre programme de réformes. Ces négociations ont commencé hier, 22 fé-
+vrier, dans des conditions très exceptionnelles déterminées par le Sultan lui-mème.
+C'est devant tous les membres du Makhzen, accompagnés chacun d'un secrétaire et
+réunis chez le Grand Vizir, Si Feddoul Gharnit, que j'ai renouvelé l'exposé général
+que j'avais déjà présenté au Sultan et qui forme la préface de nos propositions de
+réformes. Quinze délégués spéciaux, choisis par le Sultan dans les villes principales
+de l'Empire et dans Fez même, assistaient également à cette réunion, mais sans être
+autorisés à y prendre la parole. L'idée d'admettre à notre conférence, comme audi-
+teurs muets, ces délégués spéciaux appartient en propre à Abd el Aziz. Dans un de
+mes entretiens avec lui, j'avais écarté l'idée de négocier avec tous autres que ses
+Ministres. Sous cette réserve, je ne m'étais pas refusé à exposer, s'il le jugeait utile,
+devant des délégués de son choix, la pensée du Gouvernement de la République, me
+bornant à le mettre en garde contre les inconvénients qui pourraient résulter de l'in-
+
+
+200
+
+
+trusion dans ces débats de personnes étrangères au maniement des affaires publiques.
+Le Sultan m'avait répondu que, dans l'intérêt des réformes, il voyait plus d'avantages
+que d'inconvénients à ce que les délégués m'entendissent: ses choix n'avaient porté
+que sur des hommes exempts d'hostilité contre l'esprit de réforme; mon langage
+ferait tomber bien des préventions. Si, d'ailleurs, des résistances déraisonnables se
+produisaient, il se réservait de les faire céder.
+
+
+Par une anomalie qui semble indiquer que le Sultan veut garder pour lui-même le
+premier rôle dans les négociations, ce n'est ni le Ministre des Affaires étrangères, ni le
+Grand Vizir, mais le Qaïd Mechouar qui a porté la parole dans notre réunion d'hier.
+Il s'est borné à constater, en quelques paroles courtoises, qu'une réunion aussi excep-
+tionnelle était un signe manifeste de l'attention que le Gouvernement chérifien s'ap-
+prètait à donner aux conseils amicaux de la France. Prenant à mon tour la parole,
+j'ai développé les vues générales que j'ai déjà résumées à Votre Excellence dans mon
+télégramme du 15. J'ai été écouté par tous les membres du Makhzen et les délégués
+avec une attention extrême.
+
+
+N° 229.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 10 mars 1905.
+
+
+J'ai eu des entretiens prolongés avec le Şultan le 4, le 5 et le 7. J'ai parlé, le 6 et
+le 9. devant le Conseil des Vizirs et les quinze délégués. Au cours de ces cinq séances,
+j'ai poursuivi et terminé, d'abord devant le Sultan, puis devant le Medjliss, sans
+entrer d'ailleurs dans des détails techniques, l'exposé général de nos conseils et de
+nos propositions. J'ai montré quelle était l'épreuve où la patience de l'Algérie était
+mise par le voisinage d'une région perpétuellement troublée. J'ai étudié les différentes
+questions administratives, économiques, financières dont la situation présente impo-
+sait l'étude et la solution au Makhzen. J'ai passé en revue les moyens qu'aurait le
+Gouvernement chérifien d'accroître certains de ses revenus et de s'en créer de nou-
+veaux, avec les réformes qui rétabliraient la sécurité et donneraient satisfaction aux
+plaintes du commerce. Sur ma suggestion, le Sultan m'a demandé de faire établir par
+M. Regnault: 1º une note sur les conditions dans lesquelles la délégation des porteurs
+pourrait exercer effectivement le droit de contrôle douanier inscrit au contrat d'em-
+prunt; 2º un projet de firman chérifien organisant la répression de la fraude en
+matière douanière. J'ai recommandé instamment l'adoption d'un plan d'ensemble
+tendant à améliorer dans tous les ports et suivant la mesure actuellement nécessaire,
+
+
+201
+
+
+les services de batellerie et de magasinage, sous l'autorité et au profit du Makhzen.
+J'ai expliqué la nécessité de relever et de stabiliser la valeur de la monnaie maro-
+caine, par la création d'une banque d'État où le Makhzen trouverait en outre des
+avances lui permettant de pourvoir aux plus pressantes réformes, ce qui le mettrait à
+même d'éviter un nouvel emprunt et de garder la jouissance du 40 p. o/o des recettes
+douanières. En matière administrative, j'ai indiqué que l'anarchie gouvernementale
+avait abouti à créer, dans les villes de la côte, un régime intolérable pour les Euro-
+péens et qu'il était urgent d'y remédier par un meilleur choix des Gouverneurs et par
+l'organisation d'un service de police indigène.
+
+
+D'après mes renseignements, cet exposé, qui dissipait de dangereuses légendes, a
+produit sur la majorité des délégués 'une impression favorable; mais si les délégués
+ont à émettre une opinion, elle leur sera dictée par le Makhzen et c'est au sein
+même du Makhzen qu'il existe une coalition d'intérêts personnels contre toute limi-
+tation des abus.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 230.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des affaires étrangères.
+
+
+Fez, le 18 mars 1905.
+
+
+Je viens d'entretenir le Conseil de l'ensemble des questions relatives à la région
+frontière. Le Sultan m'avait fait exprimer son désir de me voir aborder ce sujet dès
+maintenant. Il trouvait préférable, m'a déclaré Ben Sliman, qu'il en fût ainsi, afın
+que, sur une matière en étroit rapport avec les autres chapitres de notre programme,
+je pusse préciser les idées jusqu'ici très confuses de la plupart des vizirs et des délé-
+gués avant d'entreprendre l'examen plus détaillé de ce programme.
+
+
+J'ai montré que la contiguïté de nos possessions et de l'Empire chérifien nous place
+vis-à-vis de ce dernier dans une situation unique, à tel point que les Puissances plus
+particulièrement intéressées, après nous, aux affaires du Maroc, nous ont reconnu
+le droit et par là-même imposé le devoir d'y inspirer seuls les réformes nécessaires.
+Retraçant ensuite l'historique des relations franco-marocaines dans ces dernières an-
+nées, notamment depuis le début de l'insurrection, j'ai fait ressortir le prix du con-
+cours que nous n'avons cessé de préter au Makhzen, la bienveillance et la loyauté
+que nous avons apportées dans l'application d'accords que le Gouvernement marocain,
+tout en en profitant largement, est impuissant à exécuter de son côté.
+
+
+Après avoir insisté sur l'anomalie qu'offre une frontière qui sépare deux régions
+dont l'une s'organise chaque jour davantage, grâce à nos efforts et nos sacrifices,
+tandis que, dans l'autre, s'aggrave un état d'anarchie dommageable pour notre com-
+
+
+DOCUMENTS DIPLOMATIQUES, Maroc.
+
+
+26
+
+
+202
+
+
+merce, et dangereux pour notre sécurité, j'ai énuméré les attentats qui se multiplient
+sur nos confins, sans que rien soit fait pour les réparer et en prévenir le retour. On
+devait donc comprendre les impatiences et les exigences de l'Algérie en présence d'une
+pareille situation.
+
+
+J'ai énoncé le montant des indemnités que demande le Gouvernement général de
+l'Algérie pour le règlement de ses réclamations.
+
+
+Je n'ai pas crú devoir aborder dès maintenant l'étude des dispositions à prendre
+pour remédier à l'état de choses actuel.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 231.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELGASSÉ, Ministre des affaires étrangères.
+
+
+Berlin, le 22 mars 1905.
+
+
+La visite de l'Empereur à Tanger et les commentaires qu'elle provoque permettent
+de définir la politique allemande au regard de la question marocaine.
+
+
+On ne saurait prendre à la lettre l'affirmation que la Chancellerie impériale ignore
+les accords intervenus entre la France, d'une part, l'Angleterre et l'Espagne, de l'autre.
+Je n'insisterai pas sur ce point.
+
+
+C'est parce que la déclaration du 8 avril 1904 n'a pas été notifiée par le Cabinet
+de Paris - ni, du reste, par celui de Londres et qu'aucune adhésion n'y a été
+donnée à Berlin, que le Gouvernement Impérial prétend ne pas la connaître offi-
+ciellement et n'ètre lié par elle en aucune façon. Cette thèse, énoncée par le Chargé
+d'affaires allemand à Tanger, esquissée discrètement par M. de Mühlberg, est nette-
+inent posée et soutenue ici dans la presse; la Chancellerie impériale, en dépit de
+mon interrogation, s'est abstenue jusqu'ici de la démentir.
+
+
+Feignant d'ignorer les vues de la France au Maroc, l'Allemagne a plus de liberté
+pour exposer les siennes. Certains journaux prétent au Gouvernement de la Répu-
+blique des projets incompatibles avec les termes mesurés de nos accords et appuient
+sur ces affirmations les récriminations allemandes. Les prétentions de l'Allemagne se
+ramènent jusqu'à présent à ces deux termes: maintien de l'égalité de traitement sur
+le terrain économique, sauvegarde de l'indépendance du Sultan. Sur ces deux points
+les exigences allemandes ne paraissent pas se heurter aux bases de notre politique au
+Maroc. L'accord du 8 avril 1904 établit le principe de la liberté commerciale mais
+avec un tempérament précisé par l'article IV in fine; or, il semble bien que l'industrie,
+aussi bien que la finance allemandes, aient l'ambition de faire, au Maroc, concurrence
+aux nôtres, qu'il s'agisse d'emprunts ou de travaux publics.
+
+
+L'article IV susvisé règle la situation économique de l'Égypte au même titre que
+
+
+203
+
+
+celle du Maroc; or, j'ai lieu de croire qu'il n'en a été tiré aucun grief dans les dis-
+cussions très vives qui, le printemps dernier, ont précédé l'acquiescement de l'Alle-
+magne au décret relatif aux finances égyptiennes. C'est bien cette préoccupation
+économique qui explique l'intérêt manifesté pour l'indépendance de Moulay Abd el
+Aziz. On soutient que notre pénétration pacifique est inconciliable avec le respect de
+la pleine souveraineté dů Sultan et on nous somme d'expliquer cette contradiction.
+On combat notre influence, non pas dans la crainte d'une conquête territoriale dont
+on sait les difficultés et les périls, mais par peur d'entraves que nous apporterions
+aux entreprises industrielles ou financières des Allemands. Et à l'appui de ces inquié-
+tudes on invoque l'action économique de la France en Tunisie, sans faire allusion à
+l'assentiment général que notre œuvre a recueilli.
+
+
+On peut donc discerner nettement les points sur lesquels le Gouvernement Impé-
+rial se propose de faire peser ses exigences. Est-ce à dire qu'il attaquera l'accord
+anglo-français? La logique le lui interdirait, puisque sa tactique paraît consister à
+ignorer la déclaration du 8 avril 1904; probablement il préférera, n'en tenant aucun
+compte, adopter au Maroc une attitude en opposition avec le rôle que nous enten-
+dons y jouer. La visite de Guillaume II à Tanger atteste la pensée de ne reconnaître
+à la France aucune situation prépondérante au Maroc.
+
+
+Il me paraît hors de doute que le Gouvernement Impérial a l'intention de profiter
+des circonstances pour donner satisfaction aux intérêts et à l'amour-propre de l'Alle-
+magne. Ces circonstances sont particulièrement favorables. Depuis une année environ,
+l'opinion publique est en éveil à propos des affaires marocaines; les commerçants
+allemands ont eu le loisir d'exposer leurs revendications et de les exagérer; les
+partis politiques ont reproché au Chancelier d'imposer à l'Allemagne une attitude
+effacée; les revers et les troubles de la Russie ont accru l'impatience des aspirations
+allemandes, car la presse proclame sans ambages que dans les combats de Mand-
+chourie la double alliance a reçu une profonde blessure, et Bebel déclare au
+Reichstag qu'à chaque mois de prolongation de la guerre en Extrême-Orient corres-
+pond une année de recul pour la réorganisation de l'armée russe et pour le concours
+utile qu'elle pourrait apporter à l'armée française en guerre contre l'Allemagne. On
+s'explique que dans ces conjonctures la diplomatie impériale puisse rêver d'obtenir
+quelques avantages dans la question marocaine.
+
+
+Que demandera-t-elle? Bien évidemment l'égalité économique, et si elle finit par
+reconnaître que la mission d'ordre et de paix que notre voisinage nous fait un devoir
+de remplir au Maroc nous impose l'obligation, avec le droit corrélatif d'y exercer
+une surveillance, elle ne manquera pas toutefois de mettre quelque prix à son acquies-
+cement.
+
+
+La persistance du baron de Richthofen à laisser sans réponse la question que je lui
+avais posée à propos du langage de M. de Kühlmann, les réticences parlementaires du
+comte de Bülow affirmant que l'heure n'est pas propice aux déclarations sur les
+affaires marocaines, certains articles de journaux mettant la France en demeure de
+dévoiler ses plans, tout donne à supposer que la Chancellerie allemande ne veut pas
+en ce moment prendre l'initiative d'une conversation avec la France sur les affaires
+marocaines. Devons-nous mettre fin à ce silence en demandant au baron de Rich-
+thofen de formuler une réponse à notre interrogation? C'est là un point sur lequel
+
+
+26.
+
+
+204
+
+
+Votre Excellence pourra utilement arrêter son attention après la visite de l'Empereur
+à Tanger, car cet incident prètera vraisemblablement à quelque réflexion, tout au
+moins par le caractère que s'évertueront à lui communiquer les divers adversaires
+de l'influence française au Maroc. Sans vouloir négliger les enseignements que nous
+réserve cet avenir très prochain, j'incline à penser que nous aurons, malgré tout,
+intérêt à sortir, par quelques explications directes, d'une situation que les polémiques
+de presse - et nos journaux sérieux méritent des éloges ne réussissent pas à dé-
+nouer. Certaines feuilles allemandes espèrent que le prince de Radolin, à son retour
+de Monaco, recevra de Votre Excellence des assurances apaisantes. Je souhaite que
+l'Ambassadeur d'Allemagne les sollicite et je verrais tout avantage à ce qu'elles lui
+soient données par écrit de façon à prévenir toute équivoque.
+
+
+Il me paraît en effet nécessaire de préciser, par un échange de notes, la portée, en
+ce qui concerne les intérèts commerciaux et industriels de l'Allemagne, des deux
+accords franco-anglais et franco-espagnol. Jusque là nous demeurons sous la menace,
+assez clairement formulée par la presse allemande, de quelque fâcheuse surprise.
+
+
+BIHOURD.
+
+
+N° 232.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+
+
+à Fez,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 24 mars 1905.
+
+
+Depuis que j'ai terminé l'exposé de nos vues sur les maux les plus pressants du
+Maroc et les remèdes qu'ils réclament, le Makhzen et les délégués tiennent, en
+dehors de moi, des conférences fréquentes en vue d'arrêter le sens des réponses qui
+me seront faites.
+
+
+Pour prévenir des malentendus et de fausses démarches, j'ai cru devoir préciser
+devant Ben Sliman les points suivants :
+
+
+1º Il est loisible au Gouvernement marocain de prendre l'avis des délégués. Mais
+ce Gouvernement, à qui seul nous nous adressons, a seul qualité pour nous répondre.
+D'ailleurs les délégués, désignés par lui-même, n'ont évidemment ni caractère repré-
+sentatif, ni indépendance;
+
+
+2º La seule réponse satisfaisante est d'ouvrir avec moi, sans plus de retards, une
+discussion sur nos divers projets;
+
+
+3º Autorisé par le Gouvernement de la République à négocier, sous la réserve de
+sa ratification, j'ai besoin d'avoir en face de moi des négociateurs munis des mêmes
+pouvoirs;
+
+
+205
+
+
+4° La présence des délégués dans les discussions qui vont s'ouvrir ne serait ni
+utile ni conforme aux usages. Sur un désir que le Sultan m'a exprimé lui-même et
+qu'il motivait par l'intérêt même de nos réformes, j'ai consenti à faire, en présence
+de ces délégués, un exposé général de nos vues. Il s'agit maintenant de passer à la
+discussion et une négociation ne peut avoir d'autres témoins que les négociateurs
+mêmes.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 233.
+
+
+Le Comte DE CHÉRISEY, Chargé des affaires de la Légation de la République
+française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 31 mars 1905.
+
+
+L'Empereur d'Allemagne qui avait fait annoncer son débarquement pour
+7 heures 30, n'est arrivé en rade qu'à 9 heures.
+
+
+Il a débarqué vers 11 heures 30, en grande pompe, accompagné d'une cinquan-
+taine de personnes de son entourage. Il s'est rendu directement à la légation d'Alle-
+magne d'où il est reparti moins de deux heures après pour rentrer à bord.
+
+
+C'est au cours de sa visite à la légation d'Allemagne que Sa Majesté a reçu succes-
+sivement les représentants des Puissances.
+
+
+L'envoyé du Sultan, le chérif Moulay Abdelmalek qui, après une longue attente,
+avait reçu et harangué le Souverain au débarquement, l'a accompagné à la légation
+d'Allemagne et l'a reconduit ensuite jusqu'à la mer.
+
+
+CHÉRISEY.
+
+
+N° 234.
+
+
+Le Comte DE CHÉRISEY, Chargé des affaires de la Légation de la République
+française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 2 avril 1905.
+
+
+L'Empereur d'Allemagne, en répondant aux compliments de bienvenue de l'oncle
+du Sultan, Moulay Abdelmalek, a prononcé les paroles suivantes : « C'est au Sultan,
+
+
+206
+
+
+« en sa qualité de souverain indépendant, que je fais aujourd'hui ma visite. J'espère
+que, sous la souveraineté du Sultan, un Maroc libre restera ouvert à la concurrence
+ pacifique de toutes les nations, sans monopole et sans annexion, sur le pied d'une
+« égalité absolue. Ma visite à Tanger a eu pour but de faire savoir que je suis décidé
+« à faire tout ce qui est en mon pouvoir pour sauvegarder efficacement les intérêts de
+ l'Allemagne au Maroc, puisque je considère le Sultan comme souverain absolument
+« libre. C'est avec lui que je veux m'entendre sur les moyens propres à sauvegarder
+« ces intérêts. Quant aux réformes que le Sultan a l'intention de faire, il me semble
+« qu'il faut procéder avec beaucoup de précaution, en tenant compte des sentiments
+<< religieux de la population pour que l'ordre public ne soit pas troublé. »
+
+
+N° 235.
+
+
+CHÉRISEY.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 5 avril 1905.
+
+
+Trois journaux de ce matin préconisent un accord entre toutes les Puissances
+signataires de la Convention de Madrid de 1880 pour le règlement de la question
+marocaine.
+
+
+N° 236.
+
+
+BIHOURD.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Ambassadeurs de la République française à Saint-Pétersbourg,
+Madrid, Vienne, Londres et Rome.
+
+
+Paris, le 7 avril 1905.
+
+
+Je crois utile de vous mettre en mesure de rectifier, dans vos conversations, les
+assertions erronées répandues par la presse allemande et d'après lesquelles le Cabinet
+de Berlin n'aurait pas été mis au courant de nos intentions et de nos accords en ce
+qui concerne le Maroc; je vous rappelerai donc les faits suivants :
+
+
+C'est le 23 mars 1904, dix-sept jours avant la signature, que j'ai fait connaître au
+prince de Radolin les dispositions essentielles de l'accord franco-anglais visant le Maroc,
+
+
+207
+
+
+à savoir: assistance de la France au Sultan, notamment pour l'établissement de la
+sécurité; respect de la liberté commerciale; reconnaissance de la situation et des
+intérêts de l'Espagne 
+
+
+En télégraphiant à M. Bihourd un résumé de mon entretien avec l'Ambassadeur
+d'Allemagne, je l'invitais à s'en inspirer dans sa conversation avec le Ministre des
+Affaires étrangères. Le Gouvernement Impérial, qui, dès la publication de l'accord,
+a pu constater l'exactitude absolue des renseignements que j'avais donnés à son
+Représentant, a donc été, à ce point de vue, l'objet d'un traitement de faveur.
+
+
+Quant à l'accord franco-espagnol, qui stipule l'adhésion de l'Espagne à l'accord
+franco-anglais, j'en ai fait communiquer le texte au Gouvernement allemand avant
+la publication; ma confidence au prince de Radolin et la communication de
+M. Bihourd à M. de Richthofen n'ont provoqué, de la part de l'Allemagne, ni pro-
+testation, ni demande d'explications.
+
+
+DELCASSÉ.
+
+
+N° 237.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+
+
+à Fez,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 9 avril 1905.
+
+
+En réponse aux allégations dont la presse allemande s'est armée contre nous,
+Votre Excellence peut affirmer, de la façon la plus catégorique, que, ni auprès du
+Sultan, ni auprès du Makhzen, je n'ai jamais invoqué un prétendu mandat européen.
+Si j'ai signalé au Makhzen le danger de mécontenter le commerce universel par la
+mauvaise organisation de ses ports, je n'ai fondé notre droit de donner des conseils
+au Gouvernement chérifien que sur notre situation propre, récemment consacrée par
+des accords conclus avec les Puissances les plus voisines du Maroc et les plus intéres-
+sées dans les affaires de ce pays.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+208
+
+
+N° 238.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 9 avril 1905.
+
+
+J'ai tout lieu de croire qu'on a suggéré ou que l'on va suggérer au Sultan l'idée
+de provoquer une Conférence internationale pour régler la question marocaine.
+C'est demander au Sultan de se mettre lui-même en tutelle.
+
+
+En y réfléchissant, le Sultan reconnaîtra que la France a, plus que tout autre,
+intérêt à voir le Maroc tranquille et prospère sous l'autorité obéie du Souverain. Nous
+ne pouvons pas concevoir que, sortant de la voie des accords où il est entré depuis
+plusieurs années, il se décide à prendre une attitude qui nous obligerait à ne consi-
+dérer que le droit strict comme base de nos rapports avec lui.
+
+
+DELCASSÉ.
+
+
+N° 239.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 11 avril 1905.
+
+
+La discussion s'est ouverte, le 5, sur notre projet de réforme des troupes de
+police.
+
+
+Ben Sliman m'a dit que le Sultan consentait à la création de corps de troupes
+réformées selon nos méthodes à Tanger, Rabat et Casablanca. D'autre part, le
+Makhzen a proposé spontanément l'application de la réforme à Oudjda.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+209
+
+
+N° 240.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 11 avril 1905.
+
+
+J'ai l'honneur de porter à votre connaissance que le Prétendant a reçu de nouveaux
+renforts des tribus de la rive gauche de la Moulouia et que le bruit s'accrédite de
+plus en plus qu'il se porterait prochainement sur Oudjda, avec l'aide de Bou Amama.
+Cependant le Makhzen persiste dans son inaction.
+
+
+Cette situation n'est pas sans inconvénients pour nous, car notre frontière est à
+tout instant menacée ou violée par des bandes de pillards.
+
+
+Le 13 mars, un djich de 52 hommes, dont 38 Chaamba de l'entourage de Bou
+Amama, pénétra dans la forêt des Beni Bou Saïd, du cercle de Marnia. Des bergers,
+l'ayant aperçu, donnèrent l'éveil et le qaïd de la tribu du Khemis fit organiser une
+battue dans la forêt; mais les malfaiteurs, dès qu'ils s'étaient vus découverts, étaient
+rentrés au Maroc.
+
+
+Le 20 mars, un djich de 10 fantassins, que l'on suppose être de l'entourage de
+Bou Amama, s'empara d'un troupeau de 400 moutons qui était au pâturage à Ras
+Rouban, à la limite du cercle de Marnia. Les deux bergers de ce troupeau, laissés
+en liberté après avoir été complètement dépouillés de leurs vêtements, allèrent pré-
+venir aussitôt les gens de leur douar. Les cavaliers du goum des Beni Bou Saïd se
+lancèrent à la poursuite des ravisseurs. Ceux-ci, rejoints près du Djebel Ouezzeń, au
+sud-ouest de Ras Asfour, se refugièrent dans la montagne, abandonnant les moutons
+pris, après un échange de coups de feu sans résultat de part et d'autre.
+
+
+Il est permis de prévoir que des incidents de cette nature se produiront encore;
+car, dans l'état actuel, les malfaiteurs ont beau jeu, puisque, d'une part, nous nous
+abstenons d'exercer le droit de suite au nord du Teniet Sassi et que, de l'autre, le
+Makhzen ne fait rien pour disperser les bandes rassemblées autour du Prétendant et
+de Bou Amama.
+
+
+La situation pourrait s'aggraver du fait que les contingents du rogui, comme les
+bandes de pillards, et ces deux éléments se confondent, complètent chaque jour leurs
+approvisionnements d'armes et de munitions. La contrebande leur en procure de
+grandes quantités et le Makhzen lui-même contribue indirectement à leur en fournir.
+Tantôt, en effet, les partisans du rogui s'emparent des armes des troupes chérifiennes
+dans les combats, tantôt ils en font tout simplement acheter à Oudjda par des inter-
+médiaires.
+
+
+D'après les renseignements fournis à Marnia, ce sont les Beni Snassen qui se
+chargent ordinairement de ces commissions, ce qui leur est facile puisqu'ils ont libre
+accès à Oudjda, où la vente est constante; ils apportent armes et munitions sur les
+marchés d'Arbal et de Nakhla où de nouveaux acheteurs les acquièrent pour les
+porter ensuite chez les Kebdana et les vendre aux représentants du rogui.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+27
+
+
+210
+
+
+De notre côté nous avons, jusqu'à ce jour, favorisé le transit sur notre territoire
+des armes et des munitions que le Gouvernement chérifien envoie à Oudjda. Il en est
+passé ainsi par Marnia, de grandes quantités dépuis le début des hostilités. Il y a peu
+de jours encore, 50 caisses de fusils et 287 caisses de cartouches ont été débarquées
+à Nemours. Elles sont destinées, paraît-il, aux contingents des Beni Snassen.
+
+
+Ce n'est pas sans une certaine appréhension que je vois armer aussi sérieusement
+les tribus voisines de notre frontière, tribus essentiellement versatiles et qui fournissent
+alternativement des appoints à l'un et à l'autre des partis en présence.
+
+
+En résumé, il m'a paru nécessaire de prendre des mesures en vue de prévenir
+toute violation de frontière, en inspirant le respect aux bandes marocaines et en
+montrant en même temps à nos troupes qu'elles seraient soutenues d'une façon
+efficace en cas de besoin.
+
+
+J'ai approuvé, en conséquence, la proposition que M. le général Servière m'avait
+adressée, d'envoyer à Tlemcen une batterie montée de 75 qui serait prête à appuyer,
+si cela devenait utile, l'action défensive de nos détachements stationnés à la frontière.
+
+
+N° 241.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française
+en mission à Fez.
+
+
+Paris, le 11 avril 1904.
+
+
+Une nouvelle attaque contre Oudjda a été repoussée et la ville sauvée grâce à l'in-
+tervention décisive de l'artillerie commandée par le lieutenant Mougin.
+
+
+Vous ne manquerez pas de faire valoir ce nouveau service, qui témoigne une fois
+de plus de la nécessité et de l'efficacité de notre concours.
+
+
+DELCASSÉ.
+
+
+N° 242.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 13 avril 1905.
+
+
+Je viens d'avoir un entretien avec le Sultan lui-mème au sujet de la réforme des
+troupes de police.
+
+
+211
+
+
+Moulay Abd el Aziz m'a déclaré que le Makhzen se réserverait de renoncer, en
+telle ou telle ville, aux services de nos instructeurs, mais à la condition qu'il y
+installerait une troupe réformée par ses propres moyens, quant au recrutement, à la
+solde et à la discipline, et offrant ainsi les garanties nécessaires pour le maintien de
+l'ordre et de la sécurité. J'ai accepté en principe cette clause.
+
+
+La réforme sera étendue à Larache.
+
+
+Il reste à mettre par écrit et à signer l'ensemble des conditions convenues.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 243.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 14 avril 1905.
+
+
+A la suite du dîner qui m'a été offert hier par le prince de Radolin, nous avons
+parlé de l'affaire marocaine :
+
+
+« Je ne réussis pas, lui ai-je dit, à m'expliquer, par les motifs qui en sont donnés,
+la polémique des journaux au sujet du Maroc. Comment, par exemple, s'arrêter à
+cette assertion que l'Allemagne n'a rien su des accords de l'an dernier? Ne vous
+souvenez-vous pas de la conversation que nous avons eue le 23 mars 1904? Ce
+jour-là, répondant à ce que vous appeliez une question indiscrète, non seulement
+je n'ai pas fait mystère de nos négociations avec le Gouvernement britannique, mais
+je vous ai même révélé les principales dispositions de l'arrangement visant le Maroc,
+à savoir: assistance de la France au Sultan, notamment pour l'établissement de la.
+sécurité, ce qui favoriserait les opérations du commerce; respect absolu et rigoureux
+de la liberté commerciale; reconnaissance de la situation et des intérêts de l'Espagne. »
+
+
+« Je le reconnais, a dit le prince, et je l'ai rapporté à Berlin. Mais les journaux
+ont parlé, à ce propos, d'une communication officielle. »
+
+
+J'ai repris:
+
+
+« Je ne pouvais vous communiquer officiellement ce qui n'existait pas encore. Mais
+c'était une confidence que je vous faisais, une preuve de confiance que je vous don-
+nais.
+
+
+ .
+
+
+«Et dont je vous sais grand gré, a interrompu le prince, comme des procédés
+que vous m'avez toujours témoignés. »
+
+
+J'ai continué
+
+
+ Si bien que, lorsque l'accord a été signé à Londres, le 8 avril, le Gouvernement
+
+
+27.
+
+
+212
+
+
+Impérial a pu constater l'exactitude parfaite des renseignements que je vous avais
+donnés dix-sept jours auparavant. Ces renseignements il a été seul à les connaître,
+avec notre allié, avant la conclusion de l'accord; il a donc été à même de présenter
+ses observations et ses desiderata. Dans ces conditions, l'idée ne m'est même pas
+venue de lui faire remettre un texte qui, publié immédiatement après sa signature à
+Londres, était déjà connu du monde entier. Et pourquoi aurai-je répugné à cette
+remise? Rappelez-vous ce qui s'est passé à propos de l'accord franco-espagnol. Les
+vacances et votre éloignement de Paris ne m'ayant pas permis, dans cette circon-
+stance, de vous manifester la même courtoisie, n'ai-je pas pris soin, aussitôt que
+l'accord a été signé à Paris et avant toute publication, de le faire porter officielle-
+ment à la connaissance de votre Gouvernement par l'Ambassadeur de la République à
+Berlin? Je me souviens que, lors de cette communication, M. de Richthofen ayant
+demandé quelle était la portée du nouvel arrangement au point de vue de la liberté
+commerciale, qui le préoccupait exclusivement, M. Bihourd rappela que l'accord
+franco-anglais stipulait expressément la liberté commerciale et que l'adhésion ex-
+presse de l'Espagne audit accord ne pouvait rien enlever, tout au contraire, aux
+garanties assurées aux nations qui font du commerce au Maroc, et sur la demande
+que lui en fit M. de Richthofen, notre ambassadeur lui laissa le texte dont il venait
+de lui donner lecture. Enfin, j'ai entendu alléguer un prétendu mandat de l'Europe
+que le Ministre de France au Maroc aurait invoqué à Fez, Or, M. Saint-René Tail-
+landier dément formellement cette allégation que j'avais jugée invraisemblable.
+
+
+En résumé notre politique n'a pas varié; notre attitude est aussi nette que nos
+déclarations. Je suis obligé pourtant de constater la polémique dont je vous parlais
+tout à l'heure. Et je suis ainsi amené à vous poser cette question: y aurait-il vrai-
+ment, malgré tout, un malentendu? Dans ce cas, vous savez, par ma récente décla-
+ration à la Chambre, et je vous répète que je suis tout prêt à le dissiper. »
+
+
+Le prince de Radolin m'a dit qu'il allait transmettre ma question à Berlin, n'ayant
+pas d'instructions pour y répondre.
+
+
+Je vous prie de donner lecture de ce récit à la Wilhemstrasse, en y ajoutant les
+explications que vous jugerez convenables.
+
+
+DELCASSÉ.
+
+
+N° 244.
+
+
+Le Comte DE CHERISEY, Chargé des affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 avril 1905.
+
+
+Il vient de se produire à Tanger un fait d'assez sérieux intérêt local qui, dans les
+
+
+213
+
+
+circonstances que nous traversons, ne paraît pas avoir beaucoup retenu l'attention
+générale.
+
+
+Depuis quelques jours, le chérif Raissouli remplit ouvertement les fonctions de
+Gouverneur de la province du Fahs: la juridiction du Pacha de Tanger se trouve,
+de ce fait, réduite aux limites de l'enceinte de la ville.
+
+
+Le frère du nouveau Qaïd, qui est, paraît-il, son khalifa, tient ses assises et rend
+la justice sur le grand marché, à quelques pas des murs de Tanger.
+
+
+En l'absence de toute notification officielle, on pouvait être tenté d'attribuer cette
+situation de fait à l'état général d'anarchie du pays. J'ai été amené, pour ma part, à
+rechercher des éclaircissements dans les conditions suivantes: la Légation de France
+ayant engagé plusieurs affaires avec le Pacha de la ville concernant des ressortissants
+établis en dehors des murs, le Pacha a refusé de continuer à s'en occuper, sous pré-
+texte qu'elles avaient cessé d'être de son ressort.
+
+
+Hier, Raissouli a fait donner l'ordre aux soldats marocains qui gardent mon habi-
+tation d'avoir à se retirer, affirmant que lui seul prendrait dorénavant la responsabi-
+lité d'assurer l'ordre et la sécurité.
+
+
+J'ai cru nécessaire de demander des explications au représentant du Sultan. Celui-
+ci m'a répondu qu'il attendait une lettre de Fez pour notifier officiellement aux
+Légations la nomination du Qaïd Raissouli, mais que, d'ores et déjà, nous pouvions
+considérer ce Chérif comme le véritable Gouverneur de la province du Fahs. Si
+Abdallah ben Saïd à qui je me plaignais de ce que Raissouli s'était permis de perce-
+voir une taxe sur deux sujets algériens, m'a offert aussitôt son intervention pour
+obtenir la restitution de cette taxe arbitraire. Il a ajouté qu'il fallait excuser le nouveau
+Gouverneur de ses procédés un peu brutaux, en alléguant que « ce montagnard n'était
+pas encore initié à nos usages ».
+
+
+On n'est pas d'accord sur les motifs qui ont pu engager le Makhzen à charger du
+rétablissement de l'ordre celui qu'on nommait hier encore un illustre bandit.
+
+
+Quoi qu'il en soit, les mèmes hommes qui ont procédé, l'été dernier, à l'enlève-
+ment de MM. Perdicaris et Varley, sont aujourd'hui désignés pour maintenir l'ordre
+dans la banlieue de Tanger et dans les quartiers où se trouvent la plupart des Léga-
+tions et des habitations européennes. Jusqu'à présent, la sécurité n'a pas à en souffrir;
+mais, s'il est à penser qu'elle ne sera ni mieux ni plus mal assurée que par le passé,
+on peut s'attendre cependant à quelques incidents locaux, provoqués par le règlement
+d'affaires intéressant les ressortissants européens.
+
+
+J'ai tenu, en conséquence, à faire observer au représentant du Sultan ce que cette
+situation avait de vraiment étrange et j'ai appelé sa particulière attention sur les
+responsabilités qui incombaient au Makhzen en la circonstance.
+
+
+CHÉRISEY.
+
+
+214
+
+
+N° 245.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 18 avril 1905.
+
+
+Voici le résumé de l'entretien que je viens d'avoir avec le Sous-Secrétaire d'État
+des Affaires étrangères :
+
+
+J'ai commencé par exposer que j'étais chargé de rechercher si un malentendu
+n'existait pas entre nos pays au sujet de la question marocaine et de renouveler en ce
+cas les assurances que Votre Excellence avait données au Prince de Radolin, à la fin
+de sa récente conversation. J'ai donné lecture du résumé de cette conversation. M. de
+Mühlberg m'a écouté très attentivement et m'a prié de lui remettre le texte que
+j'avais entre les mains.
+
+
+M. de Mühlberg m'a ensuite exposé les inquiétudes qu'avait éprouvées, son Gou-
+vernement en apprenant que notre Ministre à Fez avait parlé au Sultan « au nom
+des étrangers  .
+
+
+BIHOURD,
+
+
+N° 246.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Berlin, le 25 avril 1905.
+
+
+:
+
+
+J'ai adressé hier au Sous-Secrétaire d'État le texte de la dernière conversation
+de Votre Excellence avec le Prince de Radolin. Je viens en outre de lui offrir verbale-
+ment le texte de l'entretien que vous avez eu, le 23 mars 1904, avec le Représen-
+tant de l'Empereur sur la même question. Il a décliné cette offre comme superflue, en
+alléguant que ledit entretien avait été jadis complètement rapporté par l'Ambassadeur
+d'Allemagne à Paris.
+
+
+BIHOURD.
+
+
+215
+
+
+N° 247.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 26 avril 1905.
+
+
+Le projet de réforme des troupes de police a été rédigé complètement. Toutefois
+le Makhzen a émis depuis lors la prétention de modifier, d'une façon inacceptable
+pour nous, la clause résolutoire mentionnée dans mon télégramme du 13. Je me suis
+refusé à revenir sur la formule déjà arrêtée. Ben Sliman vient aujourd'hui de me
+dire que le Makhzen demandait à faire garantir par les Puissances l'exécution de
+l'engagement que nous prendrions de retirer nos instructeurs lorsque le Gouverne-
+ment marocain serait à même d'assurer l'ordre sans leur concours. J'ai répondu que
+cette prétention était inadmissible et que la signature de la France ne saurait être
+cautionnée.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 248.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+à M. DELCASSÉ, Ministre dės Affaires étrangères.
+
+
+Berlin, le 28 avril 1905.
+
+
+Le Gouvernement impérial ne se hâte pas de répondre à la question que succes-
+sivement Votre Excellence à Paris et moi à Berlin nous lui avons nettement posée.
+Ce silence cadre bien avec la politique que le Chancelier a proclamé au Reichstag et
+l'Empereur à Tanger.
+
+
+En adoptant cette attitude, elle a tenu d'abord à donner une éclatante satisfaction
+à l'amour-propre national, ensuite à apaiser, par un dédommagement les plaintes de
+l'industrie et du commerce, qui se disent sacrifiés dans les récents traités de com-
+merce. A cette situation clairement définie correspond, dans les rapports de la
+France avec sa puissante voisine de l'Est, une crise délicate et périlleuse.
+
+
+Les conseillers belliqueux ne font sans doute pas défaut dans l'entourage du Sou-
+verain; ils ne manquent certainement pas de prétendre que la Double-Alliance a reçu
+en Mandchourie une atteinte grave. Dans ces conjonctures, ils ont beau jeu à signaler
+l'heure présente comme propice à une lutte armée contre la France.
+
+
+Dans cet état de choses, quelles voies s'ouvrent à notre diplomatie? N'avons-nous
+pas la ressource des négociations?
+
+
+216
+
+
+Les négociations directes nous semblent en ce moment impossibles car les décla-
+rations officielles les repoussent ou imposent à notre initiative des conditions difficile-
+ment acceptables; mais la voie indirecte ne nous est pas fermée.
+
+
+L'idée d'une conférence a été lancée, elle est encore, en dépit du mauvais accueil
+qu'elle a rencontré auprès des principaux cabinets, opiniâtrément défendue par la
+Chancellerie impériale qui cependant recommande plutôt un échange de vues entre
+les Puissances signataires de la Conférence de Madrid en 1880. Pouvons-nous
+reprendre l'idée à notre compte. Je penche vers l'affirmative, car, s'il nous est réfusé
+d'engager une conversation directe avec l'Allemagne et si nous voulons éviter la pro-
+longation de ce tête-à-tête silencieux, force nous est bien de provoquer une conver-
+sation générale.
+
+
+D'une façon générale, mes impressions m'inclineraient plutôt à prévoir que l'Em-
+pereur maintiendra d'autant plus fixement l'orientation de sa politique que celle-ci
+paraîtra plus ardemment battue en brèche. Il est possible qu'en rentrant la semaine
+prochaine en Allemagne, il prenne, à Carlsruhe ou ailleurs, la parole pour donner son
+sentiment sur la situation. Il est probable cependant que, grâce aux relations con-
+stantes qu'il n'a cessé, durant son éloignement, d'entretenir avec le Comte de Bülow,
+il n'éprouvera pas le besoin de définir de nouveau des vues que les commentaires
+abondants de la presse officieuse ont mises en pleine lumière.
+
+
+BIHOURD.
+
+
+N° 249.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+aux Ambassadeurs de la République française à Saint-Pétersbourg,
+Londres, Rome, Vienne et Madrid.
+
+
+Paris, le 30 avril 1905.
+
+
+L'Ambassadeur de la République à Berlin a remis au Sous-Secrétaire d'État de
+l'Empire le texte de ma conversation du 13 avril avec l'Ambassadeur d'Allemagne,
+au sujet du Maroc. Il lui a offert en même temps le texte de l'entretien, que j'avais eu,
+le 23 mars 1904, avec le Prince de Radolin. M. de Mühlberg a décliné l'offre comme
+superflue,  cet entretien ayant été jadis complètement rapporté par l'Ambassadeur
+d'Allemagne à Paris ».
+
+
+Vous apprécierez toute l'importance de cette déclaration en la rapprochant des
+griefs invoqués tout d'abord et d'après lesquels l'Allemagne aurait été tenue dans
+l'ignorance de l'accord franco-anglais.
+
+
+DELCASSÉ.
+
+
+217
+
+
+N° 250.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 1er mai 1905.
+
+
+La division d'Oran me rend compte que 45 tentes de Marocains fidèles au
+Makhzen se sont réfugiées en Algérie, dans le cercle de Marnia, pour échapper aux
+déprédations du Rogui. Ces tentes, qui viennent d'être installées sur le territoire des
+Beni Bou Saïd, en un point assez éloigné de la frontière, augmentent encore le
+nombre des sujets du Sultan auxquels nous donnons asile, non sans détriment pour
+nos populations de l'Ouest. On me signale, en effet, que les Rezaïnas sont absolument
+privés de pâturages par la sécheresse et que l'administration aura grand peine à faire
+admettre leurs troupeaux sur les parcours des tribus voisines.
+
+
+JONNART.
+
+
+N° 251.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française
+en mission à Fez.
+
+
+Paris, le 3 mai 1905.
+
+
+J'approuve votre langage. Vous déclarerez catégoriquement à Ben Sliman qu'il ne
+peut pas plus y avoir de Puissances intermédiaires entre le Gouvernement français et
+le Gouvernement marocain qu'il n'y a de pays intermédiaire entre le Maroc et la
+France algérienne. Seule la France est limitrophe du Maroc. Le Makhzen connaît les
+obligations qui découlent pour lui de ce voisinage et qu'il n'a pas remplies. Il ne
+peut davantage nier les griefs qu'il nous a fournis et que, soit impuissance, soit mau-
+vaise volonté, il nous fournit tous les jours.
+
+
+DELCASSÉ.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+28
+
+
+218
+
+
+N 252.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 3 mai 1905.
+
+
+L'attaque d'Oudjda par le Prétendant, prévue déjà depuis quelque temps, s'est
+produite dans la matinée du  avril.
+
+
+Dès le vendredi 7, le Makhzen d'Oudjda, averti, avait fait distribuer aux troupes
+chérifiennes des cartouches et des armes.
+
+
+Lc 8, une fausse alerte avait provoqué une sortie de la garnison d'Oudjda.
+Dans la nuit du 8 au 9, les contingents du Rogui vinrent occuper les hauteurs du
+Djebel Semmara, à l'ouest d'Oudjda et la place fut attaquée, le matin, sur trois
+côtés.
+
+
+Voici en quels termes a été racontée cette affaire par un indigène qui combattait
+dans les rangs des assaillants:
+
+
+« A six heures du matin, les troupes ont quitté le camp pour marcher à l'ennemi.
+«Elles étaient rangées en bataille sur une longue ligne. Les contingents de Bou
+« Amama occupaient l'aile droite (le marabout n'a pas marché lui-même); c'est de
+« ce côté que l'on s'est le mieux battu; renforcés des Zekkara et des Beni Yala, les
+ Oulad Sidi Cheikh et Chaamba dissidents ont atteint le camp ennemi.
+
+
+« Le Prétendant occupait le centre avec ses troupes régulières et les contingents
+
+
+« d'au delà de la Moulouia; il s'est porté sur le Semmara.
+
+
+«Enfin, l'aile gauche, composée de la majeure partie de la cavalerie, Sedja,
+«Angad, Mehaia, Bou Zeggou devait tourner l'ennemi, mais elle n'a pas poussé son
+<< altaque à fond et s'est repliée après un léger combat.
+
+
+ Le prétendant se tenait sur un monticule, en forme de pain de sucre, qui sur-
+ plombe Oudjda (Semmara Srira) du côté ouest; il a essuyéle feu de l'artillerie dirigé
+« de ce côté. Le premier coup a été court et le second long. Au cinquième, un obus
+« a éclaté au milieu du groupe, blessant deux hommes. A ce moment l'infanterie de
+<< Semmara s'était portée sur Oudjda et avait occupé l'Oued Atchane.
+
+
+« Un autre projectile a éclaté tout près du prétendant, le couvrant lui-même de
+« poussière; enfin, par un hasard providentiel, un obus est venu tomber à ses pieds et
+ s'est enfoncé dans le sol sans faire explosion.
+
+
+« Voyant cela, le Rogui a jugé prudent de battre en retraite; il était temps, car un
+« nouvel obus venait blesser trois hommes au point même que le prétendant avait
+« quitté. »
+
+
+JONNART.
+
+
+219
+
+
+N° 253.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 3 mai 1905.
+
+
+J'ai eu l'honneur de vous signaler quelques violations de frontière commises par
+des bandes marocaines de la région d'Oudjda. Je vous ai fait part en même temps
+des graves inconvénients que pourrait présenter, au point de vue de la sécurité de
+notre territoire, la distribution d'armes faite par le Makhzen à des tribus turbulentes
+et versatiles, telles que les Beni Snassen.
+
+
+D'accord avec le général Servière, je pense que la ituation actuelle nécessite
+certaines précautions.
+
+
+Jusqu'à présent j'ai autorisé, chaque fois que le Makhzen m'en a fait la demande,
+le passage par le territoire algérien des colis d'armes et de munitions adressés aux
+autorités marocaines d'Oudjda; mais j'estime qu'il conviendrait de limiter ces auto-
+risations, en raison du danger qui peut en résulter.
+
+
+Je vous serai très obligé de vouloir bien me faire connaître si vous partagez cette
+manière de voir.
+
+
+N° 254.
+
+
+JONNART.
+
+
+M. DELCASSÉ, Ministre des Affaires étrangères,
+
+
+à M. JONNART, Gouverneur général de l'Algérie.
+
+
+Paris, le 10 mai 1905.
+
+
+A la date du 3 mai, vous avez appelé mon attention sur les inconvénients que
+pouvait présenter, au point de vue de la sécurité de notre territoire, la distribution
+d'armes faite par le Makhzen à des tribus peu sûres, et vous m'avez demandé s'il ne
+conviendrait pas de limiter, en raison du danger qui peut en résulter, les autorisations
+accordées au Gouvernement marocain de faire passer par le territoire algérien des
+colis d'armes et de munitions adressées aux autorités d'Oudjda.
+
+
+Je ne puis que partager votre manière de voir à ce sujet, et je m'en remets. à vous du
+soin d'apprécier dans quelle mesure nous pouvons, sans inconvénient; accorder aux
+envois du Makhzen des facilités de transit.
+
+
+DELCASSÉ.
+
+
+28.
+
+
+220
+
+
+N° 255.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 11 mai 1905.
+
+
+Le Makhzen n'est pas revenu sur la question de la garantie internationale.
+Il vient de se prêter' de nouveau à des pourparlers qui ont porté sur nos proposi-
+tions de réformes économiques. J'ai cru nécessaire de préciser ainsi nos projets, afin
+de prévenir toute fausse interprétation de notre politique,
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 256.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 11 mai 1905.
+
+
+La rapide tournée que je viens d'effectuer jusqu'à Marnia m'a confirmé dans l'im-
+pression qui se dégageait des nombreux rapports des autorités de cette région, et m'a
+fait voir plus clairement les inconvénients qui résultent pour nous de l'insécurité
+régnant dans l'empire voisin. L'année agricole sera plus mauvaise encore au Maroc
+qu'en Algérie et le brigandage ne peut manquer de s'accroître autour d'Oudjda en
+même temps que l'agitation insurectionnelle qui se prolonge grâce à l'inertie du
+Makhzen. Il paraît certain que les troupes chérifiennes pourraient facilement, même
+sans notre aide, réduire le Rogui et les quelques centaines d'hommes qui l'entourent
+d'ordinaire, si les chefs de la Mehalla se montraient plus énergiques et plus honnêtes
+et n'avaient pas intérêt à retarder la fin de la guerre civile qui sera le moment de la
+reddition de leurs comptes. Les soldats du Sultan, privés de leur solde, qui paraît
+cependant être régulièrement fournié par le Gouvernement marocain, vivent d'expé-
+dients, coupent les oliviers pour faire du charbon, ruinent et affament tout le pays en-
+vironnant. Tous ces désordres retentissent sur nos confins où, pour éviter les incursions
+des bandits, nous sommes forcés d'exercer une surveillance incessante. Ne pouvant
+employer exclusivement, pour raisons budgétaires et autres, les troupes régulières
+au service de patrouille qui s'exécute de jour et de nuit sur la frontière, nous sommes
+obligés de demander à nos tribus des sacrifices inusités. Tandis que normalement nos
+
+
+221
+
+
+goums ne sont levés que pour quelques semaines en vue d'un service exceptionnel,
+les goumiers de Marnia sont maintenus sous les armes, enlevés à leurs travaux et à
+leurs familles depuis près de trois ans, sans autre rétribution qu'une ration de vivres
+pour eux et pour leurs chevaux. D'une façon générale, l'insécurité de la région
+d'Oudjda à son contre-coup très sensible sur la prospérité de nos populations de
+l'Ouest.
+
+
+JONNART.
+
+
+N° 257.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 13 mai 1905.
+
+
+J'ai vu hier Ben Sliman. Je lui ai fait les déclarations dont votre télégramme du 3
+de ce mois m'indiquait les termes mêmes.
+
+
+Le Ministre d'Allemagne, qui vient d'arriver à Fez, a été reçu ce matin en audience
+solennelle par le Sultan.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 258.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 20 mai 1905.
+
+
+Ben Sliman m'a entretenu de quelques exigences de détails, que le chef de la
+section frontière d'Oudjda aurait formulées et que le Makhzen juge excessives. Le
+Sultan, m'a dit Ben Sliman, d'après une note écrite sous la dictée d'Abd el Aziz, s'en
+montre d'autant plus surpris que «l'instruction donnée aux troupes d'Oudjda n'a
+jamais produit aucun résultat ».
+
+
+J'ai relevé comme il convenait le reproche fait à nos instructeurs de n'obtenir aucun
+résultat, alors que tout l'effort du Makhzen tend à paralyser leur bonne volonté.
+Cependant, ai-je ajouté, ce n'en est pas moins leur dévouement qui a sauvé récem-
+ment la ville d'Oudjda et la mehalla chérifienne et mon Gouvernement s'étonners
+d'apprendre que, non seulement nous n'avons pas reçu de moindre mot de remercie-
+
+
+222
+
+
+ment pour ce service, mais encore que les officiers qui l'ont rendu et que le Makhzen
+néglige mème de payer selon ses engagements, ne sont l'objet que de ses plaintes.
+Ben Sliman, qui est depuis longtemps édifié sur cette situation, n'a rien répliqué.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 259.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 23 mai 1905.
+
+
+Il y a trois jours un djich important composé de Chaamba et autres gens de Bou
+Amama est venu enlcer des troupeaux dans l'annexe d'El Aricha. Les animaux ont
+été repris, non loin de la frontière, par les tribus intéressées mais plusieurs de nos
+indigènes ont été tués ou blessés. Je vous signale ce fait qui montre l'audace crois-
+sante des pillards et nous fait craindre une recrudescence d'insécurité dans ces pa-
+rages. Malgré la vigilance déployée par nos autorités militaires, le banditisme maro-
+cain, encouragé par la misère, la mauvaise récolte et par l'inertie du Makhzen,
+débordera sans doute, de plus en plus, sur notre territoire.
+
+
+JONNART.
+
+
+N° 260.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 24 mai 1905.
+
+
+On m'annonce que le délégué chérifien à Qudjda se proposerait de provoquer une
+protestation officielle du Gouvernement marocain contre l'appui que prêterait l'ad-
+ministration algérienne aux insurgés marocains en leur permettant l'accès du terri-
+toire français. Je ne vous signale cette intention que comme une indication de l'état
+d'esprit des fonctionnaires du Makhzen auxquels les événements récents de Tanger et
+de Fez ont inspiré une audace, je puis dire même une insolence véritable, à notre
+égard. Je n'ai pas à revenir sur la question de l'admission des Marocains sur notre
+
+
+223
+
+
+territoire au sujet de laquelle je me suis expliqué très nettement. J'ajoute que les
+partisans du Rogui et de Bou Amama n'ont jamais pénétré chez nous en armes que
+pour venir razzier nos tribus et je ne suppose pas que le Makhzen prétexte de ces
+incidents pour justifier éventuellement sa réclamation. Il perd de vue que les services
+que nous rendons constamment aux représentants du Sultan à Oudjda et, ces jours
+derniers encore, en admettant en franchise les caisses de munitions et les caisses
+d'argent destinées aux troupes chérifiennes et en leur laissant traverser notre terri-
+toire, ne font qu'aviver les rancunes du Prétendant et de ses partisans contre nous et
+nous valent d'incessantes représailles.
+
+
+JONNART.
+
+
+N° 261.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez.
+
+
+à. M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 27 mai 1905.
+
+
+Dans une séance tenue aujourd'hui, les notables ont émis l'avis qu'avant d'accepter
+les propositions françaises le Makhzen devra s'assurer si elles ont l'assentiment des
+Puissances. Saisi de cet avis, le Sultan l'a ratifié.
+
+
+Il est donc à prévoir que des lettres tendant à provoquer la réunion d'une confé-
+rence internationale vont être adressées immédiatement aux représentants des Puis-
+sances.
+
+
+N° 262.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 27 mai 1905.
+
+
+J'ai recu de Ben Sliman, à une heure avancée de la soirée, une lettre dont voici la
+traduction:
+
+
+« Nous avons fait connaître à Sa Majesté Chérifienne la réponse du Gouvernement
+ français à celle que nous vous fîmes précédemment et qui portait que le peuple
+
+
+224
+
+
+ avait décidé d'attendre, pour ratifier la réforme militaire, que les Puissances signa-
+« taires de la Convention de Madrid aient été associées à la discussion de ce projet.
+ Vous nous avez dit que votre Gouvernement en a déduit que le Makhzen veut
+ méconnaître les droits du voisinage, quoiqu'il ne puisse pas plus y avoir de puis-
+« sance intermédiaire entre la France et le Maroc qu'il n'y a de territoire intermé-
+< diaire entre ces deux pays. Nous avons également fait connaître à Sa Majesté ce que
+« vous nous aviez dit précédemment, savoir que la réponse du Makhzen dénotait un
+ manque de confiance à l'égard de la France.
+Le Sultan a pris connaissance de
+ tout cela et m'a chargé de vous répondre :
+
+
+ 1º Qu'il n'ignore pas le voisinage de l'Algérie et qu'il n'a cessé d'entretenir de
+<< bons rapports avec le Gouvernement français, d'avoir confiance en lui et de respecter
+« les droits de voisinage.
+Seulement lorsqu'il a soumis aux notables de ce pays ce
+« qui a eu lieu avec vous, ils m'ont demandé de ne consentir à aucune réforme mili-
+<< taire ou autre dans ce pays, par une seule d'entre les Puissances étrangères, si ce
+« n'est après la réunion d'une conférence internationale à Tanger à laquelle prendraient
+part les Ministres des Puissances signataires de la Convention de Madrid et les
+« délégués du Makhzen, qui seraient chargés de négocier la façon dont auraient lieu
+ les réformes nécessitées par la situation et de donner à cet effet leurs avis de
+« manière à satisfaire à l'opinion publique.
+
+
+<< Le Sultan ne peut être en opposition avec le peuple, car celui-ci a le droit de
+« ne pas se désintéresser d'une question de la plus haute importance. Nulle Puissance
+« ne saurait négliger cette question; d'autant plus que vous nous avez déclaré, à plu-
+« sieurs reprises, que les Puissances attachent un grand prix à l'exécution de ces
+« réformes, qui touchent leurs droits. Toutefois, une pareille demande n'a rien qui
+ modifie la sincérité de l'amitié entre les deux Gouvernement amis, dans le chemin
+a de la justice. En conséquence, un ordre chérifien a prescrit au représentant du
+ Sultan à Tanger de demander aux Puissances, par l'intermédiaire de leurs Ministres,
+« la réunion d'une conférence à Tanger entre ces Ministres et les délégués du
+« Makhzen, afin de traiter sur les propositions faites par le Makhzen en ce qui con-
+« cerne les réformes appropriées à la situation présente de l'Empire.»
+
+
+23 rebi el aoual 1323.
+
+
+Signé: ABDELKERIM BEN SLIMAN.
+
+
+J'ai à peine besoin de faire remarquer que cette lettre fausse complètement sur
+plusieurs points le langage que j'ai tenu et celui qui m'a été tenu.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+225
+
+
+N° 263.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Je reçois du Makhzen une lettre dont voici la traduction:
+
+
+Feż, le 30 mai 1905.
+
+
+« Sa Majesté Chérifienne m'a ordonné de demander à toutes les Puissances la réu-
+nion à Tanger d'une conférence composée de leurs Ministres et de délégués du
+Makhzen, afin de s'entretenir du mode des réformes qu'Elle se propose d'introduire et
+qui seraient appropriées à la situation présente de son Empire chérifien et de la ma-
+nière de parer aux frais de ces réformes. En conséquence, nous vous prions d'in-
+former votre Gouvernement ami de ce qui précède et de la demande du Makhzen
+tendant à ce que vous soyez autorisé à prendre part à ladite conférence dans le but
+précité. Nous vous prions également de nous faire connaître la réponse qu'il vous
+aura adressée. >>>
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 264.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Alger, le 31 mai 1905.
+
+
+Le commandant du cercle de Marnia me télégraphie ce qui suit, le 30 mai:
+<<« Une caravane de quatorze indigènes algériens a été attaquée et pillée complè-
+tement hier matin à Aïn Berrahmoun près Aourirt (Maroc) par trente fantassins du
+Makhzen qui lui ont tué un homme et ont blessé quatre. On ignore le sort de ceux
+qui ont pris la fuite. »
+
+
+Je me suis empressé d'inviter le commandant Pein à saisir les autorités marocaines
+de la frontière d'une réclamation contre ces actes de violence et de pillage.
+
+
+JONNART.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+29
+
+
+226
+
+
+N° 265.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Fez,
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Fez, le 2 juin 1905.
+
+
+J'ai l'honneur de communiquer sous ce pli à Votre Excellence, à titre d'information,
+une copie du projet de réforme des troupes de police, dans la forme qu'il avait
+revêtue au moment où les pourparlers sur cette matière ont été interrompus par suite
+de la prétention que le Mahkzen a émise de faire garantir par les Puissances l'exé-
+cution des engagements que nous nous disposions à prendre. Toutes ces stipulations
+ont été libellées par le Mahkzen lui-même qui a tenu à marquer ainsi de son
+empreinte celles de nos idées qu'il a déclaré accepter.
+
+
+J'ajoute qu'en me faisant part de cette acceptation, le Ministre chérifien des
+Affaires étrangères m'a plusieurs fois redit qu'elle avait un caractère officiel. Je n'ai
+pas manqué de lui rappeler ce langage quand, avec la facilité singulière qu'à le
+Makhzen à se dédire, il m'en a tenu un tout contraire le 26 avril. J'ai d'ailleurs entre
+les mains un texte arabe du projet, émanant du Makhzen lui-même. C'est un témoin
+qui permettrait difficilement au Makhzen de soutenir qu'il n'avait pas accepté le
+principe de la réforme militaire et même ses dispositions fondamentales.
+
+
+Il était convenu avec Ben Sliman que ce projet serait complété par un règlement,
+d'un caractère plus technique, sur le texte duquel le Ministre chérifien de la Guerre
+et le Chef de la mission militaire française auraient d'abord à s'entendre.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+PROJET DE RÉFORME DE LA POLICE.
+
+
+TRADUCTION.
+
+
+Conditions dans lesquelles sera effectuée la réorganisation militaire à Oudjda, Tanger,
+Larache, Rabat, Casablanca et dans la capitale chérifienne :
+
+
+Le principe initial sur lequel sera fondée la réforme, sur tous les points précités, est le
+maintien des cadres militaires, établis par le Makhzen, dans leur organisation actuelle et
+sans qu'aucune modification y soit apporté.
+
+
+La réforme militaire à Oudjda portera sur trois tabors.
+
+
+1º 1 d'infanterie composé de 10 mia conventionnels, à raison de 48 hommes par mia,
+au total 480 hommes; plus le qaïds Reha, son khalifa, 10 qaïd mia, 40 moqaddems, 1 amin
+et son khalifa. En tout, entre gradés et soldats, 534.
+
+
+227
+
+
+2º 1 tabor de cavalerie, composé de 4 mia conventionnels à raison de 48 hommes par
+mia, au total 192 hommes; plus 1 qaïd Réha,  khalifa, 4 qaïds mia, 16 moqaddems
+1 amin et 1 khalifa de l'amin. En tout, entre gradés et soldats, 216.
+
+
+3° 1
+tabor d'artillerie composé de 3 mia, à raison de 48 hommes par mia, au total
+144 hommes; plus  qaïd Réla,  khalifa, 3 qaïds mia, 12 moqaddems, 1 amin et 1 kha-
+lifa de l'amin. En tout, 163 hommes.
+
+
+Les 3 tabors précités formeront un total de 913 hommes..
+
+
+Les instructeurs qui seront chargés de la réorganisation de ces troupes sont les instructeurs
+actuellement en fonctions à Oudjda, c'est-à-dire: 1 capitaine, 1 officier français et 7 sergents,
+au total 9; il leur sera adjoint 2 officiers français; 1 officier musulman, 8 sergents, au total
+11, ce qui forme un total de 20.
+
+
+On prendra dans la garnison de Tanger les soldats aptes au service militaire pour les
+envoyer à Oudjda; on y ajoutera ce qui manquera pour la formation des 3 tabors; et, s'il est
+possible de compléter les 3 tabors précités par des engagements volontaires, il y sera pro-
+cédé de cette manière.
+
+
+La réforme à Tanger comprendra l'institution de 3 tabors: 1 tabor d'infanterie, 1 de
+cavalerie et 1 d'artillerie; l'effectif de chacun de ces tabors, en hommes et en gradés, est
+semblable à celui qui a été indiqué pour les tabors d'Oudjda, soit un total de 913, entre
+soldats et gradés.
+
+
+Quant aux instructeurs qui seront chargés de la réorganisation de ces tabors, ce seront
+ceux actuellement en fonctions à Tanger, c'est-à-dire un capitaine français, un officier
+musulman et 3 sergents; au total 5; il leur sera adjoint 2 officiers français et 7 sergents; au
+total g, en tout 14.
+
+
+On prendra dans la garnison de Tanger les soldats aptes au service militaire pour les
+envoyer à Oudjda, après qu'un contingent de 50 hommes, destinés à les remplacer aura été
+expédié de Fez. S'il est possible de procéder, à Tanger, à des engagements volontaires
+jusqu'à concurrence de l'effectif des 3 tabors, il sera fait ainsi, afin de constituer les 3 tabors
+qui doivent tenir garnison à Tanger.
+
+
+En ce qui concerne la réforme à Larache, lorsque la réorganisation militaire aura été
+réalisée à Tanger, on prendra dans cette dernière ville 4 mía d'infanterie complètement
+instruits qui seront envoyés à Larache avec leurs instructeurs, dont le nombre sera calculé
+suivant la proportion admise pour Tanger. Quant aux instructeurs qui auront été envoyés à
+Larache avec les 4 mia, aucun d'eux ne sera remplacé à Tanger mais on se bornera au
+nombre restant des instructeurs français ou algériens. Lorsqu'il se trouvera parmi les soldats
+réorganisés à Tanger des sujets d'élite capables de remplacer les instructeurs envoyés à
+Larache, ils prendront la place de ces derniers à Tanger.
+
+
+En ce qui concerne la réforme à Rabat, il y sera constitué 2 tahors:
+
+
+1º 1 tabor d'infanterie composé de 6 mia conventionnels comprenant un nombre
+d'hommes et de gradés égal à celui qui a été déterminé pour les mia conventionnels institués
+sur les points précités; ce qui fait en tout 322 hommes;
+
+
+2º 1 tabor d'artillerie composé de 3 mia conventionels dont l'effectif total en hommes et
+en gradés sera de 163; total des 2 tabors: 485 hommes. Aux anciens instructeurs qui sont
+1 capitaine français et 3 sergents, en tout 4, seront adjoints 1 officier français et 3 sergents,
+en tout 8.
+
+
+Pour Casablanca, la réforme portera sur deux tabors: 1 d'infanterie, composé de 6 mia
+conventionnels dont l'effectif réel, entre soldats et gradés, sera de 322 hommes, et 1 tabor
+de cavalerie composé de 4 mia conventionnels dont l'effectif sera, entre gradés et soldats de
+
+
+29.
+
+
+-228
+
+
+216 hommes. Il y aura comme instructeurs 2 officiers français, l'un pour l'infanterie et
+l'autre pour la cavalerie, 1 officier musulman et 5 sergents, en tout 8.
+
+
+En ce qui concerne la capitale, les instructeurs français qui s'y trouvent actuellement
+seront chargés de réorganiser les effectifs présents des tribus dont l'instruction leur a tou-
+jours été confiée. Ces instructeurs sont deux officiers français et deux sergents et le comman-
+dant qui est leur chef et celui de tous les instructeurs français institués sur les points de
+l'empire chérifien, indiqués au présent accord, et qui est l'intermédiaire entre eux et le chef
+des Askars fortunés (le Ministre de la Guerre). Il sera adjoint à ces instructeurs deux sergents
+seulement.
+
+
+Quant aux règles du contrôle qui sera exercé par le chef des instructeurs sur chacun des
+des points où les réformes auront lieu, il appartiendra aux chefs de section d'intervenir dans
+le choix des soldats aptes au service militaire, après examen par le médecin de la section. II.
+est entendu que ce médecin ne sera pas un fonctionnaire du Makhzen. Tout soldat, entrant
+au service, sera inscrit sur un registre avec son nom, son signalement, son lieu d'origine et
+son numéro; une copie du registre sera remise au ministre de la guerre ou à son représen-
+tant et une autre au chef des instructeurs. Quiconque parmi ces soldats aura déserté sera
+inscrit sur un registre spécial avec son nom, son signalement et son numéro. Le représentant
+du ministre de la guerre en donnera avis à son chef afin que des ordres chérifiens soient
+envoyés en vue de rechercher le déserteur sur-le-champ jusqu'à ce qu'il soit retrouvé et
+ramené à son poste, si son retour est possible: cela pour empècher les désertions.
+
+
+De même l'instructeur français fera connaître le nom du déserteur à son chef résidant à
+la capitale chérifienne, afin que celui-ci en donne avis au Makhzen dans la crainte qu'il n'en
+soit pas averti par ses propres fonctionnaires.
+
+
+Dans tous les cas, le tabor sera passé en revue tous les trois mois; s'il est complet, cela
+sera parfait; si quelqu'un manque, il sera immédiatement remplacé. Les instructeurs veil-
+leront à ce que chaque homme reçoive régulièrement sa solde, qui lui sera remise par
+l'amin du Makhzen en présence de l'officier.
+
+
+Le chef de section, dans chaque ville où il y aura des instructeurs français, jouira de la
+considération et du respect des troupes.
+
+
+Le qaïd Reha ou le représentant du ministre de la guerre s'entendra avec lui au sujet de
+l'avancement des hommes qui se seront distingués dans l'accomplissement de leur service
+ou au sujet de la punition qu'auront méritée ceux qui auront commis une infraction. L'exé-
+cution de ce qui précède sera assurée par les soins du qaïd Reha ou du représentant du
+ministre de la guerre, sauf en ce qui concerne la capitale chérifienne. Ces dispositions auront
+pour effet de faire naître l'émulation parmi les troupes en les encourageant à obtenir un
+avancement mérité et à éviter les infractions aux règlements de la réforme.
+
+
+Quant à la tenue des instructeurs français, elle sera semblable au costume musulman,
+avec le turban, le pantalon bouffant, la veste et le sélham. Cette tenue devra être portée en
+garnison et en campagne. En garnison, les officiers pourront porter les insignes de leur
+grade, leurs galons, ils peuvent porter également des bottes; en campagne, ils quitteront les
+insignes de leurs grades et ils remplaceront les bottes par des belra beldia.
+
+
+Si le délégué du Makhzen à Oudjda ou sur tout autre point de la région frontière autorise
+un des instructeurs français ou algériens, s'y trouvant, à sortir avec les forces du Makhzen
+pour combattre une bande de rebelles dans cette région et que cet officier soit tué ou blessé
+au cours du combat, il ne sera réclamé de ce chef au Makhzen, ni le prix du sang ni in-
+demnité.
+
+
+Tout ce qui a été exposé dans les paragraphes relatifs aux forces militaires instituées sur
+les points précités est basé sur l'accord suivant :
+
+
+229
+
+
+Dès que le Makhzen chérifien aura envoyé dans un des points précités, à n'importe quel
+moment, une force égale en nombre à celle qui s'y trouve déjà organisée, présentant les
+mêmes garanties au point de vue de la discipline et du payement de la solde et capable d'y
+assurer la sécurité, que cette force soit composée d'askars ou d'autres éléments, tous les
+instructeurs français ou algériens se retireront sans qu'il y ait matière à discussion, qu'il
+s'agisse d'anciens ou de nouveaux instructeurs, de ceux qui seront établis dans les ports pré-
+cités ou de ceux qui seront établis dans la capitale. Ces retraits auront lieu après que le
+Makhzen aura avisé le ministre du Gouvernement français respecté du point où sera envoyée
+la force militaire précitée, afin qu'il autorise les instructeurs à se retirer à bref délai, à l'instar
+des autres instructeurs étrangers. Lorsque la sécurité sera rétablie sur un des points dont il
+s'agit, il appartiendra au Makhzen d'augmenter ou de diminuer le nombre de ceux qui s'y
+trouveront, quand il lui plaira.
+
+
+N° 266.
+
+
+Le Comte DE CHÉRISEY, Chargé des affaires de la Légation de la République
+française à Tanger,
+
+
+à M. DELGASSÉ, Ministre des Affaires étrangères.
+
+
+Tanger, le 4 juin 1905.
+
+
+Les représentants des Puissances au Maroc ont reçu hier une lettre circulaire du
+Makhzen demandant la réunion à Tanger d'une conférence internationale « composée
+desdits représentants et de délégués du Makhzen». Cette conférence aurait pour but
+<< d'arriver à une entente sur les réformes que Sa Majesté Chérifienne a décidé d'intro-
+duire dans son Empire et d'examiner les moyens de se procurer les ressources néces-
+saires à leur application ». Les trois ministres se trouvant à Fez ont dû recevoir direc-
+tement la circulaire, qui est signée de Si Torrès, présentement à la Cour Chérifienne.
+Mon collègue d'Angleterre l'a reçue comme représentant du Danemark et mon col-
+lègue d'Allemagne a dû en avoir deux exemplaires en tant que représentant de la
+Hollande et de la Suède et Norvège.
+
+
+CHÉRISEY.
+
+
+230
+
+
+N° 267.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+aux Représentants diplomatiques de la République française à Berlin,
+Londres, Madrid, Rome, Saint-Pétersbourg, Vienne, Washington,
+Bruxelles, Copenhague, La Haye, Lisbonne, Stockholm et Tanger.
+
+
+Paris, le 8 juin 1905.
+
+
+Le 6 de ce mois, le chargé d'affaires d'Allemagne à Paris est venu donner lecture
+au directeur politique de mon département d'une note appuyant le projet de confé-
+rence présenté par le Gouvernement chérifien en vue des réformes qu'il y aurait lieu
+d'introduire au Maroc. M. de Flotow a laissé copie de la première partie de cette note
+qui contient des considérations générales sur la Convention de 1880. Vous en trou-
+verez le texte ci-joint. Une seconde partie de la note nous visait directement et se
+référait à notre prétendue intention de mettre la main sur les affaires intérieures et
+extérieures du Maroc, aux mêmes fins qu'à Tunis. Le Chargé d'affaires d'Allemagne
+s'est borné à en donner lecture. La note allemande constate d'ailleurs qu'on ne
+connaît pas les propositions françaises  mais qu'on croit savcir qu'elles ont bien la
+portée qu'elle indique.
+
+
+Cette supposition est inexacte. Nous avons présenté au Sultan un plan de réformes
+pour améliorer l'état intérieur de son empire et avant tout pour y établir la sécurité,
+mais nous ne lui avons demandé de remettre entre nos mains ni la direction des
+affaires intérieures du Maroc, ni la représentation de ses intérêts au dehors. Vous
+voudrez bien en faire la remarque, si vous avez l'occasion de vous entretenir de la
+note allemande avec les membres du Gouvernement auprès duquel vous êtes accré-
+dité ou avec vos collègues. Vous vous bornerez d'ailleurs pour le moment à rétablir
+les faits.
+
+
+ROUVIER.
+
+
+ANNEXE.
+
+
+D'après un rapport télégraphique de la Légation impériale à Tanger, le Gouvernement du
+Maroc a invité les Puissances signataires de la Convention de Madrid à une Conférence à
+Tanger pour y délibérer sur les réformes projetées par S. M. Chérifienne qui seraient à
+introduire au Maroc, ainsi que sur les moyens nécessaires pour leur accomplissement. Le
+Gouvernement Impérial, conformément à ses déclarations antérieures, est d'avis qu'une Con-
+férence serait le meilleur moyen pour effectuer l'introduction de ces réformes. Vu qu'elles
+ne pourraient être introduites efficacement qu'avec l'appui des Puissances signataires, la
+possibilité de leur mise en pratique est restreinte par les articles de la Convention de
+Madrid, tout spécialement par l'article 17, d'après lequel le droit de traitement comme
+
+
+231
+
+
+nation la plus favorisée revient à chaque Puissance signataire au Maroc et qu'un traitement
+plus favorable ne pourrait être concédé à aucune Puissance. Les réformes projetées ne pour-
+raient donc être exécutées qu'avec le consentement de toutes les Puissances signataires.
+
+
+C'est dans ces conditions que le Gouvernement Impérial a accepté l'invitation du Maroc.
+En cas que la Conférence échoue par suite du refus de quelques Puissances signataires,
+il en résulterait que l'état actuel des choses comme il est établi par les traités serait maintenu
+sans modification et cela même si quelques États signataires déclaraient qu'ils consentaient
+aux réformes proposées par le Maroc ou qu'ils s'en désintéressaient. Car, d'après ce qui vient
+d'être dit, l'opposition d'une seule Puissance signataire suffirait pour rendre invalide la con-
+cession de n'importe quels droits spéciaux, qui seraient incompatibles avec le droit de la
+nation la plus favorisée, concédé dans le temps aux autres Puissances signataires.
+
+
+Mais, à part cette manière de voir, le Gouvernement Impérial croit devoir juger utile la
+réunion de la Conférence parce que, indépendamment de la question de droit, la concession
+de certains droits privilégiés pourrait porter atteinte aux intérêts politiques et commerciaux
+des Puissances signataires et que, dans ces circonstances, la Conférence pourrait offrir un
+moyen d'obtenir une entente.
+
+
+N° 268.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en
+mission à Fez.
+
+
+Paris, le 10 juin 1905.
+
+
+Vous avez connaissance des faux renseignements qui se sont répandus au sujet de.
+votre action à Fez et dont le Gouvernement allemand a fait état. Vous savez, d'une
+part, qu'il a été dit que nous avions menacé le Sultan d'occuper militairement ses
+États et que, d'autre part, il est allégué, dans la communication allemande du 6 de
+ce mois aux Puissances, que nous avions manifesté l'intention de prendre en main la
+direction des affaires intérieures et extérieures du Maroc, aux mêmes fins qu'à Tunis.
+Je vous prie de m'adresser d'urgence votre réponse à ces allégations.
+Pour ne point compliquer la négociation que nous poursuivons avec le Gouverne-
+ment allemand, j'estime qu'il convient de suspendre toute action particulière à Feż.
+Je compte m'en expliquer incessamment avec l'Ambassadeur d'Allemagne.
+
+
+ROUVIER.
+
+
+232
+
+
+N° 269.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 11 juin 1905.
+
+
+J'ai eu hier un entretien avec le Prince de Radolin au sujet des affaires maro-
+caines.
+
+
+« Nous avons promis au Sultan, m'a-t-il dit, de maintenir son indépendance; de
+même nous lui avons dit que les réformes devraient être réglées par voie de confé-
+rence internationale. Si les Puissances refusent cette conférence, il faudra rester dans
+le statu quo. Il vous appartient de voir, a-t-il ajouté, si, pour une question de forme,
+il faut risquer de ne pas améliorer les relations entre la France et l'Allemagne. >>
+
+
+J'ai répondu : « Je vous ai toujours déclaré que je n'inclinais pas à l'idée d'une Con-
+férence. La réflexion n'a pas modifié mon opinion. Mais admettons pour un instant
+que nous en acceptions le principe. On ne saurait envisager cette idée qu'à la condi-
+tion de prévoir un accord préalable entre nous. Or, si nous nous sommes mis préala-
+blement d'accord, on ne voit plus la raison d'être d'une Conférence. Elle apparaît
+même alors comme une complication plutôt que comme une solution. On peut craindre
+qu'une conférence qui n'aboutirait pas ne crée une situation plus mauvaise qu'avant.
+
+
+« Vous avez promis, dites-vous, au Sultan de maintenir son indépendance. Nous
+entendons de notre côté, et nous l'avons prouvé, ne pas porter atteinte à sa souverai-
+neté ni à l'intégrité de ses États. Mais rien ne peut faire que les 1,200 kilomètres de
+frontière commune que nous avons avec le Maroc ne nous donnent une situation qui
+nous rend, plus que d'autres, intéressés au maintien de l'ordre dans ce pays.
+
+
+« Il semble, d'après vos déclarations, que vous entendiez faire échec à toutes nos
+propositions, quelles qu'elles soient. Nous ne pouvons cependant accepter de nous
+rendre à une Conférence où toutes nos propositions seraient combattues par vous.
+Donc avant de pousser plus loin la conversation, il est nécessaire de savoir comment
+l'Allemagne envisage les réformes. »
+
+
+A la fin de cet entretien, le Prince de Radolin m'a répété : « Nous tenons pour la
+Conférence. Si ellen'a pas lieu, c'est le statu quo et il faut que vous sachiez que nous
+sommes derrière le Maroc. »
+
+
+ROUVIER.
+
+
+233
+
+
+N° 270.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 15 juin 1905.
+
+
+A aucun moment de ma mission, ni directement, ni indirectement, je n'ai rien
+formulé qui ressemble à un ultimatum. Non seulement il est inexact que j'aie rien fait
+qui ressemble à un pareil acte, mais il est inexact que le bruit en ait couru à Fez.
+Quant à la communication allemande du 6 de ce mois, elle appelle de notre part
+une rectification tout aussi catégorique. Mon langage n'a jamais indiqué ni laissé
+entendre que nous ayons l'intention de prendre en main la direction des affaires
+intérieures ou extérieures du Maroc. M'inspirant de la déclaration franco-anglaise,
+j'ai seulement essayé de faire comprendre et agréer, dans l'intérêt du pouvoir ché-
+rifien, de la sécurité publique et du commerce général, les très modestes réformes
+que nous jugions réalisables dès maintenant en ce qui touche la police et les matières
+économique et financière. Conformément aux obligations que nous impose l'article 4,
+paragraphe 4, de la déclaration du 8 avril, j'ai signalé au Makhzen les avantages de
+l'unité de plan et de méthode en matière de travaux publics et la nécessité de faire
+prévaloir toujours, dans les entreprises d'intérêt général, les droits et les intérêts de
+l'État chérifien sur les intérêts particuliers.
+
+
+Je n'ai adressé au Makhzen, depuis mon arrivée à Fez, aucune communication écrite
+au sujet de mes négociations avec lui. M. Regnault a développé au représentant du
+Ministre des Finances chérifien des notes techniques, contenant l'exposé de proposi-
+tions économiques et financières et relatives notamment à la question des magasins
+généraux, à la répression de la contrebande et des fraudes en douane, au contrôle des
+opérations douanières, aux améliorations des ports, à la création d'une banque d'État
+marocaine.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+ANNEXE.
+
+
+Je reproduis ci-dessous les quelques considérations que j'ai énoncées devant Ben Sliman
+et ses auxiliaires comme préface de l'exposé technique et détaillé que M. Regnault a présenté
+ensuite de notre programme économique:
+
+
+Les raisons pour lesquelles nous conseillons au Makhzen de procéder à certaines réformes
+économiques ont déjà été exposées devant lui. Actuellement tout concourt à augmenter les
+difficultés et l'insécurité des opérations commerciales; mauvaise organisation de l'embarque-
+ment et du débarquement des marchandises, absence de moyens de communication sur la
+30
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+234
+
+
+côte, insuffisance des installations dans les ports, crise monétaire déterminée par des frappes
+inconsidérées. De là une situation qui devient chaque jour plus intolérable pour le com-
+merce général et qui motive des doléances de plus en plus pressantes. Il est de l'intérêt du
+Makhzen de montrer qu'il est capable d'y remédier avec notre aide, s'il ne veut pas mécon-
+tenter tout le monde et décourager ceux qui ont encore confiance dans sa sagesse.
+
+
+La France, plus que toute autre puissance, souffre de cette situation. Son commerce et
+celui de l'Algérie représentent des intérêts supérieurs à ceux de toute autre puissance.
+
+
+Elle se préoccupe surtout des moyens de ramener au Maroc, avec la prospérité, l'ordre à
+défaut duquel le voisinage de ce pays est un danger perpétuel pour l'Algérie. Pour atteindre
+ce but, elle se préoccupe aussi des moyens d'augmenter les ressources du Trésor chérifien,
+afin que le Makhzen soit mis à même de rétablir progressivement son autorité.
+
+
+Ce sont là des titres qui autorisent la France à donner au Makhzen des conseils en pa-
+reille matière, et qui doivent engager celui-ci à tenir grand compte de ses conseils. Ils sont
+dictés par l'intérêt commun des deux pays. Moins que toute autre puissance la France peut
+être tentée de ne rechercher dans ces réformes que des bénéfices pour ses compatriotes sans
+se préoccuper du contre-coup qui peut en résulter sur l'ordre public. Plus que toute autre
+puissance, la France est amenée, par la nature même des choses, à subordonner les in-
+térêts de ses compatriotes aux intérêts supérieurs de l'ordre dont seule, avec le Maroc lui-
+même et à titre de voisine, elle se préoccupe avant tout.
+
+
+C'est pourquoi la France demande, même lorsqu'il s'agit de ses compatriotes, que le
+Makhzen veille à ne pas prendre d'engagement contraire à l'intérêt général, qui est le sien
+comme le nôtre.
+
+
+Ges principes ne sont pas nouveaux; la France ne manque pas de s'y conformer quand
+quelque mesure nouvelle apparaît comme le seul remède aux maux présents. C'est ainsi que,
+l'année dernière, au moment de l'emprunt, elle est intervenue pour empêcher une société
+particulière d'exiger la concession du droit de fonder une banque, considérant qu'une pareille
+institution ne doit être établie que sur des bases conformes à l'intérêt général. Le Makhzen
+a d'ailleurs reconnu le caractère amical de notre intervention à ce sujet, en constatant que,
+en effet, une question de ce genre ne pouvait être traitée qu'entre lui et le Ministre de
+France.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 271.
+
+
+Note remise par le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Paris, le 16 juin 1905.
+
+
+Nous ne pouvons entrer avec la France en délibérations sur le programme et sur
+les buts de la Conférence qu'après que le Gouvernement de la République aura
+accepté d'une manière formelle l'invitation à la Conférence.
+
+
+Nous sommes toujours d'avis que dans ce cas la Conférence aura lieu. Car, même
+
+
+235
+
+
+si l'Angleterre déclinait définitivement l'invitation, cela ne serait pas une raison pour
+faire échouer la Conférence, puisque l'Angleterre a renoncé en faveur de la France à
+ses intérêts au Maroc et que l'Angleterre serait de cette façon, pour ainsi dire, repré-
+sentée également à la Conférence.
+
+
+Nous sommes, de plus, d'avis que la Conférence rentrerait dans l'intérêt mème
+de la France, car elle faciliterait au Maroc de satisfaire aux désirs justifiés de la
+France, qui dans ce cas obtiendraient la sanction de l'Europe ainsi que les réformes
+reconnues comme nécessaires.
+
+
+Dans le cas où la Conférence n'aurait pas lieu, nous serions obligés, en tenant
+compte des assurances données au Sultan ainsi que de notre opinion publique, à
+persister dans notre avis qu'il ne devrait pas être porté atteinte à l'indépendance du
+Sultan en contradiction aux conventions en vigueur.
+
+
+Le Gouvernement Impérial estime que la réorganisation de l'armée et de la police
+devrait se faire de telle manière que, comme M. Rouvier l'a bien fait remarquer, la
+Conférence donnât un mandat en vue de l'exécution des réformes nécessaires. Ce
+mandat devrait naturellement revenir à la France seule, tant qu'il s'agit des dis-
+tricts avoisinant la frontière algérienne, procédé qui, d'après l'opinion énoncée par
+M. Rouvier, satisferait au désir principal de la France.
+
+
+Par contre, il n'y aurait pas de raisons pour lesquelles le mandat devrait être
+donné à la France pour les endroits plus éloignés, particulièrement pour les places
+situées à l'Océan Atlantique. Il serait plutôt convenable que la réorganisation de
+l'armée et de la police, tant qu'elle serait nécessaire, se fît dans les différents districts
+par les différentes puissances.
+
+
+La réforme des finances doit être traitée d'une manière internationale de telle
+façon que la banque du Maroc ne soit pas fondée exclusivement par des banques des
+différentes Puissances. Les fonds pour cette banque seraient à verser à parties égales
+par les Puissances, et l'administration de la banque serait à exercer par les divers
+États d'une manière autant que possible égale. Mais, dans tout ce qui précède, il ne
+s'agit nullement de propositions faites par l'Allemagne. Cela ne peut être que la
+simple déduction du principe de l'acceptation de l'invitation à la Conférence.
+
+
+N° 272.
+
+
+NOTE remise par M. ROUVIER, Président du Conseil, Ministre des Affaires
+étrangères,
+
+
+à S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris.
+
+
+21 juin 1905.
+
+
+Par deux communications adressées, l'une à Fez, au Ministre, l'autre, à Tanger, au
+Chargé d'affaires de France, le Gouvernement de la République a été saisi d'une pro-
+
+
+30.
+
+
+236
+
+
+position du Gouvernement marocain tendant à la réunion à Tanger d'une Conférence
+composée des Ministrės des Puissances signataires de la Convention de Madrid et des
+délégués du Makhzen en vue de s'entretenir: 1º du mode de réformes que S. M. Ché-
+rifienne se propose d'introduire dans son empire et qui seraient appropriées à sa
+situation présente; 2º de la manière de pourvoir aux frais de ces réformes.
+
+
+Le Gouvernement Impérial saisi de la même proposition a fait connaître au Gou-
+vernement de la République, par une note remise le 6 juin 1905, que la Conférence
+lui paraissait être le meilleur moyen de préparer ces réformes qui ne pouvaient s'ef-
+fectuer qu'avec le consentement de toutes les Puissances signataires de la Convention
+de Madrid. Le Gouvernement Impérial estime que la mise en pratique de ces réformes
+est subordonnée au respect des articles de ladite Convention et notamment de l'ar-
+ticle 17 qui, d'après lui, accorderait à chacun des signataires le traitement le plus
+favorable et interdirait conséquemment l'attribution de tout privilège à l'un quel-
+conque d'entre eux. Cette communication a été complétée par des observations ver-
+bales sur lesquelles nous aurons à revenir.
+
+
+Après nous avoir fait connaître ses vues, le Gouvernement Impérial sollicite les
+nôtres dans le mème sens et nous demande de nous rendre à la Conférence. Cette
+démarche nous inspire les observations suivantes :
+
+
+Les termes de l'adhésion donnée par le Gouvernement Impérial à la proposition
+marocaine en modifient le caractère d'une manière assez sensible. Le Gouvernement
+Chérifien se borne à demander aux Puissances un conseil relatif à l'exercice de ces
+droits souverains. Aux yeux du Gouvernement Impérial, la Conférence n'a pas seule-
+ment pour objet de préparer des réformes, mais encore de garantir aux Puissances les
+droits qu'elles tiennent de la Convention de 1880. Cette différence entre les propo-
+sitions du Gouvernement Chérifien et les vues du Gouvernement Impérial a amené le
+Gouvernement de la République à se demander, en ce qui concerne les réformes, si
+le meilleur moyen de les réaliser était de les soumettre à une Conférence où l'una-
+nimité des Puissances représentées serait nécessaire à la validité d'une décision quel-
+conque, alors que certaines d'entre elles ont au Maroc des intérêts extrêmement
+faibles; et d'autre part, si l'on ne porterait pas atteinte aux droits souverains du Sul-
+tan par les conditions restrictives qu'on mettrait à leur exercice. Ces considérations
+n'ayant pas pu échapper au Gouvernement Impérial, son adhésion à la Conférence
+semble bien avoir eu pour principal objet la sauvegarde des droits et des intérèts des
+Puissances menacées, selon lui, par la situation exclusive ou privilégiée que la France
+aurait cherché à obtenir au Maroc.
+
+
+La note remise le 6 juin et surtout les observations qui l'ont appuyée confirment
+cette impression, mais elle semble reposer sur un malentendu.
+
+
+Ce malentendu s'explique par le fait, d'ailleurs non contesté, que nos propositions
+au Makhzen sont encore inconnues du Gouvernement Impérial. Quant à nos inten-
+tions dont nous sommes très sûrs, il n'en est pas de même, et nous les avons mises
+plusieurs fois déjà en pleine lumière; nous sommes prêts néanmoins à les exposer à
+nouveau dans les termes les plus explicites.
+
+
+Nos propositions au Gouvernement Chérifien n'ont ni la portée, ni le caractère qui
+leur ont été assignés. Nous n'avons tenté d'obtenir du Sultan ni la direction des affaires
+
+
+237
+
+
+intérieures et extérieures de son empire, ni la mainmise sur son système militaire.
+Nous n'avons nullement cherché à introduire au Maroc un régime analogue à celui
+qui n'a été d'ailleurs appliqué dans la Régence de Tunis qu'avec le consentement de
+l'Allemagne. L'assimilation faite entre les deux situations n'est pas exacte; mais, à
+supposer qu'elle le fût, à supposer même que, contrairement à notre sentiment, la
+Convention de 1880 visât d'autres points que l'exercice du droit de protection, on
+ne pourrait pas en tirer la conséquence que les intérêts économiques des Puissances
+seraient appelés à en souffrir.
+
+
+En effet, les modifications apportées à certaines parties du statut tunisien ont
+laissé intacts les traités antérieurement signés par le Gouvernement Beylical. Au
+Maroc, le Gouvernement Chérifien a souscrit, en 1890, des engagements envers l'Alle-
+magne qui donnent au commerce allemand les garanties les plus complètes; il n'est
+jamais venu à notre pensée que ces engagements pussent n'être pas respectés.
+
+
+Nos propositions au Gouvernement Chérifien respectent donc les principes et sau-
+vegardent les intérêts qui ont éveillé les préoccupations du Gouvernement mpérial.
+Ni la souveraineté du Sultan, ni l'intégrité de son territoire, ni la situation des Puis-
+sances, telle qu'elle résulte des traités, ne peuvent être altérées.
+
+
+La France s'est bornée à demander qu'on voulût bien reconnaitre que sa situation
+de pays limitrophe du Maroc, ayant avec lui une grande étendue de frontières com-
+munes, rend légitime le souci particulier qu'elle prend du maintien de l'ordre dans
+l'Empire, de la bonne administration du pays et de sa prospérité. Les propositions
+qu'elle a faites n'ont pas d'autre but, et si ce but est atteint, toutes les Puissances
+sont appelées à en tirer avantage; la civilisation générale en profitera. En prenant en
+main cette cause, la France s'est inspirée des intérêts, qu'elle regarde comme soli-
+daires, de toutes les Puissances civilisées. Les accords qu'elle a déjà conclus avec
+certaines d'entre elles sont venus de là.
+
+
+L'un, daté du 8 avril 1904, a été signé avec l'Angleterre; il porte expressément
+que le Gouvernement de la République n'a pas l'intention de changer l'état politique
+du Maroc. Le Gouvernement Impérial en trouvera ci-joint le texte. Un autre est daté
+du 6 octobre dernier; il a été signé avec l'Espagne et a été notifié aussitôt au Gouver-
+nement Impérial par l'Ambassadeur de la République à Berlin. Il vise, pour les
+confirmer formellement, les déclarations contenues dans le premier.
+
+
+S'il n'y a pas eu jusqu'ici une entente semblable avec le Gouvernement allemand,
+il résulte des déclarations mêmes de ce dernier que ses principes, loin d'être en
+opposition avec ceux du Gouvernement de la République, sont avec eux en parfaite
+harmonie. Les deux Gouvernements ne peuvent différer que sur la meilleure manière
+d'en assurer l'application. Le Gouvernement Impérial croit la trouver dans la Confé-
+rence; un accord direct serait à nos yeux un procédé plus simple et destiné à aboutir
+à un résultat plus prompt et plus sûr. Le Gouvernement Impérial ne saurait mécon-
+naître les inconvénients qu'il y aurait pour lui comme pour nous à se rendre à une
+Conférence sans accord préalable, accord qui ne saurait porter atteinte à ceux qui
+ont été conclus antérieurement et qui, eux-mêmes, n'en ont porté aucune aux inté-
+rêts auxquels le Gouvernement Impérial donne sa sollicitude.
+
+
+Dans l'état actuel des choses, une réponse définitive à la question qui nous a été
+posée serait encore de notre part insuffisamment éclairée. Le Gouvernement de la
+
+
+238
+
+
+République est vivement frappé de cette double considération que la Conférence
+pourrait être dangereuse, si elle n'est pas précédée d'une entente, et inutile, si elle la
+suit. Mais il ne l'écarte pas de parti pris. Quelles que soient ses préférences, il tient
+compte, dans un haut intérêt de conciliation, de celles qui lui ont été exprimées.
+Il désire seulement savoir quels sont, dans la pensée du Gouvernement Impérial, les
+points précis qui seraient traités à la Conférence et les solutions qu'il proposerait
+d'y apporter. Si la Conférence doit avoir lieu, cet échange de vues serait évidemment
+le plus sûr moyen d'assurer le succès de sa tâche et de lui permettre d'y travailler en
+sécurité. Ce serait aussi le plus propre à seconder efficacement les efforts sincères des
+deux cabinets et à amener l'éntente que le Gouvernement de la République juge
+désirable au même degré que le Gouvernement Impérial.
+
+
+N° 273.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 21 juin 1905.
+
+
+Je vous ai adressé dès hier, sous pli recommandé, le texte de notre réponse à la
+Note allemande du 6 de ce mois concernant l'affaire marocaine. Vous voudręz bien
+en porter une copie demain au Baron de Richthofen, en ayant soin d'indiquer que
+cette réponse a été remise aujourd'hui au Prince de Radolin et que vous n'étiez chargé
+d'en donner copie que pour la faire parvenir plus rapidement à la connaissance de la
+Chancellerie impériale.
+
+
+Ce document résume et précise ce que j'ai dit à l'Ambassadeur d'Allemagne dans
+mes divers entretiens avec lui. En le lui remettant, je me suis attaché à faire ressortir
+la netteté de nos déclarations en ce qui concerne tant la souveraineté du Sultan et
+l'intégrité de son territoire que la situation des puissances telle qu'elle résulte des
+traités dans l'état actuel de nos pourparlers avec le Gouvernement allemand, ces
+déclarations, qui concordent entièrement avec les vues qu'il a exposées, constituent
+de notre part des engagements sans contre-partie.
+
+
+Je vous prie de vous exprimer dans le même sens. Vous montrerez en outre que
+nos propositions au Gouvernement Chérifien n'ont ni la portée ni le caractère qui
+leur ont été assignés, et qu'elles n'ont rien de commun avec le régime appliqué à
+Tunis. Enfin, en ce qui concerne la Conférence, vous vous inspirerez des observa-
+tions et des assurances contenues dans le dernier alinéa de notre réponse écrite.
+
+
+ROUVIER.
+
+
+239
+
+
+N° 274.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. JONNART, Gouverneur général de l'Algérie.
+
+
+Paris, le 21 juin 1905.
+
+
+L'Ambassadeur d'Allemagne m'a dit, au cours d'un entretien relatif au Maroc, que,
+d'après des renseignements fournis par un officier allemand qui revient de la fron-
+tière algérienne, on tient pour certain que le Prétendant reçoit d'Algérie des armes,
+des canons Maxim et des munitions. J'ai répondu à l'Ambassadeur que ces allégations
+étaient certainement inexactes. Je n'en crois pas moins devoir vous les signaler, en
+vous priant deme communiquer par le télégraphe vos plus récents renseignements
+sur l'origine réelle des armes, canons et munitions parvenus aux mains du Prétendant.
+
+
+ROUVIER.
+
+
+N° 275.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Alger, le 22 juin 1905.
+
+
+Il est assez difficile de prouver l'inexactitude d'allégations aussi vagues que celles
+qu'a mentionnées le Prince de Radolin et auxquelles vous avez répondu. Je crois
+devoir toutefois affirmer que le Prétendant n'a jamais reçu d'Algérie, ni armes,
+ni munitions, ni canons. Je ne pense pas qu'on ait jamais accusé nos autorités de la
+frontière de favoriser ces expéditions, et elles ne peuvent guère se faire à leur insu en
+raison des difficultés de transport. D'abord l'Algérie ne fabrique pas d'armes de guerre
+et le commerce de ces armes y est interdit. D'autre part, la contrebande des armes
+par les côtes d'Algérie à destination du Maroc est à peu près impossible, l'accès de nos
+rivages étant extrêmement difficile dans la région qui avoisine le Maroc, tandis que,
+tout près, la còte marocaine est très abordable notamment vers le cap de l'Eau.
+On ne voit pas l'intérêt qu'aurait un navire à venir toucher un port algérien pour
+aller ensuite faire la contrebande des armes dans l'Ouest marocain. Il est donc
+évident qu'elles sont envoyées directement au Prétendant des lieux de production et
+de préférence par le Rif. En ce qui concerne les fusils, il est avéré qu'un des moyens
+les plus simples de s'en procurer, pour les gens du Rogui, est d'acheter ces armes aux
+
+
+240
+
+
+soldats du Makhzen qui, n'étant pas soldés régulièrement, n'ont souvent d'autres res-
+sources que de vendre leurs équipements. D'autres armes ont été prises par les troupes
+du Prétendant à la suite de combats heureux. Je rappelle à ce propos que le seul canon
+qui était aux mains des insurgés jusqu'à ces derniers temps avait été pris aux troupes
+du Makhzen, il y a deux ans. En terminant, je ferai remarquer qu'il est étrange de nous
+voir soupçonnés d'armer le Prétendant, alors que, par les services incessants que nous
+avons rendus au Makhzen en laissant passer sur notre territoire les troupes chéri-
+fiennes, les expéditions d'armes, de munitions, de vivres, d'argent destinées à ces
+troupes, nous nous sommes attiré l'hostilité des insurgés et que les armes introduites
+en contrebande ou achetées par eux aux soldats du Sultan sont journellement employées
+contre nos postes et nos caravanes. Notre intérêt évident serait qu'il n'entrât aucune
+arme ni aucune munition au Maroc.
+
+
+JONNART.
+
+
+N° 276.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 23 juin 1905.
+
+
+Je viens d'avoir un long entretien avec le Prince de Bülow. Il m'a dit, en termes
+nets et énergiques, que la Note remise avant-hier par Votre Excellence au Prince de
+Radolin et que le Chancelier aime mieux, m'a-t-il répété, appeler un exposé, était
+pour le Gouvernement Impérial « une surprise et une déception », après les assurances
+que l'Ambassade d'Allemagne à Paris avait été chargée de donner à Votre Excellence
+et l'espoir qu'il nourrissait; il m'a déclaré ne pouvoir accepter la conclusion de la
+note, car il ne saurait examiner en détail les questions qu'aurait à trancher la
+Conférence, sous peine de méconnaître la souveraineté du Sultan et de blesser
+ses susceptibilités. Il m'a répété que le Gouvernement allemand tenait au main-
+tien actuel de l'indépendance du Sultan et de l'intégrité de son Empire, tout en
+étant prêt pour la France à réserver l'avenir. J'ai constaté que nos vues étaient les
+mèmes et que le différend paraissait se concentrer sur le principe de l'acceptation de
+la Conférence. J'ai bien fait remarquer que Votre Excellence, tout en marquant ses
+préférences pour une entente directe, n'avait pas repoussé la Conférence et en avait
+simplement subordonné l'acceptation à un échange de vues nécessaire. J'ai insisté sur
+ce point que le fait de l'adhésion au principe d'une Conférence antérieurement
+repoussé était une satisfaction pour l'Allemagne, qu'il importait toutefois de rendre
+cette adhésion possible pour le Gouvernement de la République en atténuant autant
+que possible par un concert préalable son caractère dangereux, et en tenant compte
+de nos susceptibilités nationales. J'ai mis en lumière l'obligation pour Votre Excel-
+
+
+241
+
+
+lence de ne pas négliger les impressions qui pourraient se faire jour au Parlement.
+Revenant à la note, j'ai montré qu'il ne s'agissait pas d'examen détaillé, mais plutôt
+d'un programme dont les grandes lignes importaient surtout et qui pourrait peut-être
+consister dans la délimitation générale du terrain sur lequel se mouvraient les déli
+bérations.
+
+
+J'ai trouvé le prince de Bülow très courtois, mais il est revenu plusieurs fois à la
+charge pour me signaler la nécessité de ne pas laisser traîner cette question « mau-
+vaise, très mauvaise », et de ne pas s'attarder sur un chemin «bordé de précipice et
+même d'abîmes ».
+
+
+Il m'a recommandé d'être l'interprète énergique de ce sentiment. Il m'a conseillé
+d'éviter dans nos régions algériennes tout ce qui pourrait être considéré comme des
+représailles explicables mais propres à provoquer les réclamations du Sultan et son
+appel à d'autres Puissances. J'ai dit qu'il ne s'agissait de notre part que d'une tolé-
+rance de passage pour les troupes et de transport pour les armes et les munitions,
+et que j'ignorais si elle avait été supprimée ou rétablie par M. Jonnart.
+
+
+Le prince de Bülow a largement marqué son désir du rétablissement de très bonnes
+relations avec la France; il m'a expliqué comment, selon lui, la Conférence conduirait à
+ce but; sans vouloir récriminer ni attaquer personne, il m'a déclaré que « l'Allemagne ne
+pouvait faire aujourd'hui ce qu'elle aurait certainement pu faire il y a un an et », a-t-il
+ajouté, en souriant, « ce qu'elle pourrait peut-être faire dans un an ». Il estime que la
+question marocaine ne saurait être la cause ni le prétexte d'un conflit entre nos deux
+pays: ce conflit ne pourrait venir que d'une cause plus générale.
+
+
+En résumé, le ton du Chancelier était très décidé; il m'a donné à entendre très
+clairement que, si l'Allemagne n'obtenait pas la réunion d'une Conférence, elle pour-
+suivrait sa politique auprès du Sultan et en tirerait peut-être des avantages. L'insis-
+tance du prince de Bülow à recommander une solution prochaine m'a vivement
+frappé; elle est de nature à inspirer de graves inquiétudes et me paraît devoir in-
+fluer sur les décisions de Votre Excellence.
+
+
+Par contre, le Chancelier m'a assuré que, si nous acceptions la Conférence la
+diplomatie impériale adopterait, dans les négociations ultérieures, une attitude
+dont nous aurions lieu d'être satisfaits.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+BIHOURD.
+
+
+31
+
+
+242
+
+
+N° 277.
+
+
+NOTE remise par le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+TRADUCTION.
+
+
+Paris, le 24 juin 1905.
+
+
+Le Gouvernement de la République française, dans un exposé communiqué au Gouver-
+nement Impérial, le 23 juin 1905, a émis l'avis que pour exécuter les réformes qu'il
+avait proposées au Gouvernement marocain, la réunion de la Conférence des Puis-
+sances signataires de la Convention de Madrid dont Sa Majesté chérifienne a pris
+l'initiative ne serait ni nécessaire ni utile.
+
+
+D'après cet exposé, le Gouvernement français, avec ces propositions, n'aspire point
+à obtenir la direction des affaires intérieures ni extérieures, ni de l'armée au Maroc,
+ni ne veut diminuer l'indépendance du Sultan et l'intégrité de son pays ou les droits
+des autres Puissances acquis par des traités. Le Gouvernement Impérial prend acte
+de ces déclarations avec satisfaction et cela d'autant plus, que le Gouvernement du
+Maroc a interprété les propositions françaises dans un autre sens. En outre, le Gou-
+vernement Impérial se range complètement au point de vue du Gouvernement de la
+République, d'après lequel les réformes doivent maintenir l'ordre, la bonne adminis-
+tration et la prospérité économique du pays. Les autres Puissances dont les sujets
+résident au Maroc ou qui sont en relations commerciales avec ce pays ont le même
+intérêt que la France à cet égard. En conséquence, les moyens pour obtenir ce résul-
+tat devraient naturellement être aussi fixés par des délibérations communes. Toute-
+fois, si la France, ainsi qu'elle se le propose, se charge de résoudre ce problème
+toute seule, il est à craindre qu'elle ne soit contrainte par la force des choses à
+prendre de plus en plus les rênes du Gouvernement et à parvenir ainsi peu à peu à
+une position au Maroc à laquelle, d'après ses propres affirmations, elle n'aspire pas.
+
+
+Dans ces conditions, les propositions françaises en ce qui concerne les réformes
+de l'armée, de l'administration intérieure et des finances, que le Gouvernement du
+Maroc a communiquées actuellement au Gouvernement Impérial, porteraient une
+grave atteinte à la souveraineté du Maroc. En outre, le Gouvernement Impérial ne
+peut partager l'avis de l'exposé que les autres Puissances profiteraient au mème degré
+des avantages économiques de ces réformes, car ces avantages reviendraient, notam-
+ment, en ce qui concerne les concessions, en première ligne à la puissance réfor-
+matrice. Les propositions économiques que la France a faites, d'après une commu-
+nication du Maroc, prouvent ce fait.
+
+
+Une telle position exceptionnelle d'une seule Puissance signataire n'est pas com-
+patible avec les dispositions de la Convention de Madrid. C'est surtout l'article 17
+de cette Convention qui s'y oppose, d'après lequel chaque Puissance signataire jouit
+du droit de la nation la plus favorisée, de sorte qu'un traitement privilégié ne peut
+
+
+243-
+
+
+être accordé à aucune Puissance. Le Gouvernement Impérial ne peut pas abandonner
+l'opinion que ce droit de la mation la plus favorisée ne se rapporte pas, comme il
+paraît être conçu, dans l'exposé français, exclusivement au droit de protection ou
+éventuellement aussi aux intérêts économiques, mais à l'influence entière que les
+Puisssances signataires réclament au Maroc. Cela résulte non seulement du texte de
+l'article, qui est rédigé en termes tout à fait généraux, mais aussi des circonstances
+qui ont suscité la Conférence de Madrid ainsi que l'admission de l'article précité.
+
+
+D'après cela, la mise à exécution des réformes au Maroc, du moins autant que la
+concession de droits spéciaux en faveur de certaines Puissances signataires y est néces-
+saire, implique le consentement des autres Puissances. Mais un pareil consentement
+pourrait être obtenu le plus facilement à une Conférence, qui, tout à fait indépen-
+damment des considérations légitimes qui la recommandent également, serait propre
+à effectuer une entente entre les intérêts politiques et commerciaux des Puissances
+signataires. En plus, la Conférence faciliterait essentiellement au Sultan, dont le con-
+sentement représente la condition la plus importante, pour la mise en pratique des
+réformes, d'accepter les propositions, parce qu'en ce cas, les réformes seraient sanc-
+tionnées par toutes les Puissances adhérentes. Si l'exposé français affirme que la
+France est appelée en premier lieu à la mise en exécution des réformes en vue de la
+proximité de l'Algérie et de l'étendue de la frontière commune, on ne saurait nier
+que la France a un intérêt très légitime à maintenir l'ordre dans les territoires avoisi-
+nants à la frontière. Par contre, elle ne pourra revendiquer d'exclure de prime abord
+d'autres Puissances de la participation à la mise en pratique des réformes. Les réformes
+dont on tomberait d'accord à la Conférence, garantissant d'une façon plus efficace
+l'indépendance du Sultan, seraient aussi conformes aux intentions desquelles le Sultan
+s'est inspiré lors de l'invitation à la Conférence. Le Gouvernement Impérial a accepté
+en ce sens l'invitation, et ce sens n'est changé en rien par le fait qu'il se réserve à lui-
+mème la protection de ses droits acquis par les traités. Il ne considère pas, ainsi que
+l'exposé français le déduit, comme but, ou même comme but principal de la Confé-
+rence, de garantir une fois de plus les droits des Puissances signataires de la Conven-
+tion de Madrid; mais il est néanmoins d'avis, que si ces droits acquis par les traités
+devaient être restreints, cela ne pourrait se faire que par une résolution unanime de
+toutes les Puissances. D'accord avec ce qui précède, le Sultan a donné à entendre
+ailleurs qu'il faisait dépendre la mise en exécution des réformes de la résolution una-
+nime des Puissances signataires.
+
+
+Avant que le Gouvernement français prenne une décision définitive concernant la
+question de la Conférence du Maroc, il désire connaître les vues du Gouvernement
+impérial ayant trait aux questions spéciales qui y seraient traitées, ainsi que ses vues
+sur leur solution.
+
+
+D'après cela, le Gouvernement Impériał aurait à rédiger un programme complet
+de la Conférence et aurait pour ainsi dire à en devancer les décisions. Il regrette de
+ne pouvoir accéder à ce désir pour des raisons formelles et positives.
+
+
+L'invitation à la Conférence est émanée du Sultan, qui en a désigné comme le but
+la délibération sur les réformes qui conviennent aux circonstances actuelles dans
+l'empire du Chérif et l'établissement des moyens financiers qui y sont nécessaires.
+C'est donc à lui tout d'abord qu'il conviendra de communiquer aux Puissances
+
+
+31.
+
+
+244
+
+
+signataires les détails de ce programme. De plus, tant que la réunion de la Confé-
+rence ne semble pas assurée, l'échange de vues désiré par la France serait inutile,
+car l'accord qui pourrait en résulter n'aurait de l'importance qu'avec le consentement
+de toutes les autres Puissances signataires. Dans ces conditions, l'accord ne pourrait
+se faire que dans la Conférence. Finalement, le Gouvernement Impérial ne se trouve
+actuellement pas à mème de faire des propositions particulières pour le programme
+de la Conférence, parce que les questions respectives doivent d'abord être soumises à
+un examen approfondi. D'autre part, il est à craindre qu'un ajournement de la déci-
+sion ne compromette la réunion de la Conférence et par cela l'œuvre entière des
+réformes.
+
+
+Le Gouvernement Impérial aime à espérer que le Gouvernement de la République
+française voudra bien subordonner ses doutes actuels contre la Conférence aux avan-
+tages durables que la réalisation de l'œuvre des réformes amènerait pour le Maroc
+ainsi que pour la tranquillité du monde.
+
+
+N° 278.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 25 juin 1905.
+
+
+En me remettant un exemplaire de la réponse du Gouvernement Impérial qui
+vous parviendra par l'intermédiaire du Prince de Radolin, le Prince de Bülow a
+voulu me communiquer les instructions envoyées à l'Ambassade d'Allemagne à Paris.
+Le Chancelier m'a tenu, en somme, le même langage qu'avant-hier; je noterai les
+points sur lesquels il est revenu avec insistance:
+
+
+« La Conférence ne tend pas à procurer à la diplomatie allemande une misérable
+satisfaction d'amour-propre ni à porter atteinte à la dignité d'une grande nation, mais
+simplement à sortir d'une situation mauvaise. L'Empereur, après s'être engagé vis-à-vis
+du Sultan, ne saurait l'abandonner, mais l'avenir appartient à qui sait attendre. Il faut
+que l'indépendance du Sultan soit proclamée (le traité proposé par M. Saint-René
+Taillandier au Sultan et communiqué par ce dernier la supprimait en réalité) et
+qu'une organisation soit tentée par l'intervention des Puissances. Si l'expérience
+échoue, comme il est très possible, alors la France pourra assumer le rôle qu'elle
+souhaite ». Le Prince a appuyé sur ce point.
+
+
+Il est urgent d'agir, car le Sultan s'agite, multiplie ses offres à l'Allemagne, ses
+demandes aussi et un incident peut survenir qui rendrait peut-être fatale une situation
+actuellement grave et que conjurerait la présence de diplomates autour d'un tapis vert
+à Tanger.
+
+
+J'ai rappelé que, si Votre Excellence pouvait consentir à accepter la Conférence,
+
+
+245
+
+
+il importait qu'elle le fît dans des conditions qui rassureraient l'opinion publique en
+France. Le Chancelier m'a alors solennellement déclaré que ni lui ni l'Empereur, qui
+avait été consulté, ne consentiraient à ce que la moindre humiliation nous soit réser-
+vée à la Conférence de Tanger. J'ai cherché à savoir si, l'invitation acceptée, la Chan-
+cellerie impériale se prèterait à un échange de vues; je n'ai pas, à cet égard, obtenu
+de réponse formelle. Le Prince de Bülow insistant sur ce fait que le programme était
+tracé par l'invitation même, j'ai fait remarquer que les réformes pouvaient être nom-
+breuses et variées: rien n'empêcherait les invités à la Conférence de se concerter;
+mais je n'ai pu démêler la pensée du Chancelier.
+
+
+Ce qui domine cette longue conversation, c'est, d'une part, la protestation que
+l'Allemagne ne poursuivait pas l'humiliation de la France, qu'elle entendait laisser
+intacte, pour l'avenir, notre position au Maroc et, d'autre part, l'affirmation pressante
+qu'il était indispensable de mettre au plus vite fin au conflit actuel.
+
+
+J'ai, de mon côté, insisté sur cette considération que le Gouvernement Impérial,
+souhaitant comme celui de la République l'existence de bonnes relations entre nos
+deux pays, devait bien se garder actuellement de toutes exigences qui pèseraient sur
+elles et compromettraient leur durée.
+
+
+Je ne saurais, à cette heure, analyser la longue réponse qui sera soumise demain
+sans doute à Votre Excellence. Je me contenterai de signaler le refus catégorique
+d'arrêter, dès à présent, les détails du programme de la Conférence.
+
+
+BIHOURD.
+
+
+N° 279.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 26 juin 1905.
+
+
+Le résumé de la conversation que vous avez eue, hier, avec le Prince de Bülow
+reproduit une parole du Chancelier que je ne m'explique point. C'est celle-ci: «le
+traité proposé par M. Saint-René Taillandier au Sultan et communiqué par ce dernier
+la supprimait en réalité » (il s'agit de l'indépendance du Sultan).
+
+
+A aucun moment nous n'avons proposé de traité au Sultan, et je n'aperçois pas
+quelle serait celle de nos propositions de réformes à laquelle on pourrait attribuer
+un pareil caractère.
+
+
+Quant aux assurances que le Prince de Bülow vous a données sur les dispositions
+que le Gouvernement Impérial apporterait à la Conférence et qui seraient de nature
+à écarter tout froissement, j'en apprécie l'intention. Nous n'aurions pu nous rendre
+à une réunion qui aurait risqué d'aboutir à mettre en cause la dignité de France.
+
+
+ROUVIER.
+
+
+246
+
+
+N°. 280.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Alger, le 26 juin 1905.
+
+
+Je reviens sur le sujet déjà traité dans mon télégramme du 22 de ce mois.
+Il m'est facile de répondre aux accusations d'entente avec le parti de l'insurrection;
+nous n'avons jamais eu de rapports avec les gens du Rogui que ceux résultant des
+relations commerciales ou personnelles existant entre les Algériens de la frontière et
+certains partisans du prétendant, relations que nous n'avions ni obligation, ni possibi-
+lité d'interdire, que nous avons toujours avouées et dont nous n'avons jamais tiré parti
+que pour avoir sur les mouvements du prétendant des renseignements aussi nécessaires
+à notre sécurité qu'à celle du Makhzen. Dernièrement, un Français qui s'intitule
+Chef d'État-Major de l'armée du prétendant, demandait à ètre reçu par le Comman-
+dant du cercle de Marnia et par le Préfet d'Oran pour les entretenir d'affaires impor-
+tantes. Je leur envoyai télégraphiquement les instructions suivantes: « Je vous serai
+obligé d'engager M. Delbrel à ne pas venir en Algérie, en lui donnant à entendre que
+nous pourrions être obligés de lui demander compte du rôle qu'il a joué jusqu'ici
+auprès d'un ennemi de la France», et j'ajoutai pour le Préfet d'Oran : « tous nos efforts
+doivent tendre actuellement à ne pas compliquer la tâche du Gouvernement dans le
+règlement des questions marocaines ». En cette circonstance, comme en toutes autres,
+j'ai traité le Rogui et son entourage comme des ennemis avec lesquels on n'a d'autres
+relations que celles qui peuvent nous aider à les combattre. Le Gouvernement peut
+compter absolument à cet égard sur la prudence et la loyauté du Commandant du
+cercle de Marnia. Cet officier s'est même employé activement dans ces derniers
+temps à détourner les Français, commerçants ou curieux, de se rendre au camp du
+prétendant, et il s'est attiré par là le mécontentement et les réclamations de plus d'un.
+Il est donc impossible de citer à la charge de mon administration le moindre fait de
+connivence avec les insurgés, et je serais porté à m'étonner d'une pareille accusation
+venant du Gouvernement marocain, si elle ne cadrait trop bien avec sa propre poli-
+tique et si l'on ne tenaït compte des circonstances actuelles. Je ne crois pas superflu
+néanmoins de rappeler le rôle véritable que nous avons joué depuis deux ans dans
+la région d'Oudjda. En 1903, la situation du Makhzen était singulièrement plus cri-
+tique que celle dont le Sultan et ses nouveaux conseillers affectent de s'alarmer. Le
+prétendant occupait Oudjda et Taza et menaçait Fez; c'est grâce à nous, à l'autorisa-
+tion que nous avons donnée à ses troupes de passer sur notre territoire, que le Makhzen
+a pu rentrer à Oudjda et, au mème moment, que l'armée du Sultan a repris Taza,
+grâce au concours du Lieutenant Sedira et à la menace que le prétendant sentait du
+côté de la frontière algérienne. Celui-ci ne s'y est pas mépris, car c'est toujours à ses
+gens que nous avons eu affaire, notamment à Guéfait. C'est au Makhzen que l'on
+
+
+:
+
+
+247
+
+
+pourrait à bon droit reprocher de pactiser avec le Rogui. J'ai souvent signalé l'intérèt
+qu'avaient les agents marocains de la frontière à prolonger une situation troublée dont
+ils tiraient bénéfice. C'est presque malgré le Makhzen que nos officiers ont à deux
+reprises, le 9 avril et le 30 mai, sauvé Oudjda du Rogui. C'est sans l'ordre des chefs
+marocains que le Lieutenant Mougin repoussa les assaillants par le feu de son artil-
+lerie dans la première de ces rencontres. Faut-il rappeler, d'autre part, les négociations
+incessantes avec Bou Amama, qui ont abouti dernièrement à détacher de lui son fils à
+qui une réception triomphale a été faite à Oudjda, le 11 mai. Si le rapprochement du
+Makhzen avec le Marabout avait été effectué, c'eût été à nos dépens, car le vieil agi-
+tateur n'aurait pu se maintenir, après avoir abandonné le prétendant, qu'en se portant
+vers le sud où il aurait été mieux en situation pour nous inquiéter. Cet ensemble de
+faits confirmera Votre Excellence dans la conviction que les allégations du Gouver-
+nement marocain sont absolument contraires à la réalité et ne sont qu'une marque
+nouvelle des dispositions agressives dont il est animé à notre endroit. La vérité est
+que son impuissance nous a créé et continue à nous créer des embarras et à nous
+imposer de lourdes dépenses et qu'en récompense des multiples services que nous
+n'avons cessé de lui rendre, non seulement il ne nous a rien donné mais il a ajouté
+bénévolement à nos difficultés partout, sur la frontière, et notamment du côté de
+Figuig et d'Oudjda.
+
+
+JONNART.
+
+
+N° 281.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 29 juin 1905.
+
+
+Le prince de Bülow m'a dit qu'il lui semblait pratiquement difficile d'établir avec le
+Sultan un échange de vues qui reculerait beaucoup l'acceptation de la Conférence.
+
+
+Il m'a renouvelé ses explications antérieures sur la nécessité de la Conférence
+qui n'est plus, je l'ai fait vivement remarquer, discutée en principe, mais qui ne
+saurait être acceptée sans certaines garanties propres à apaiser nos justes suscepti-
+bilités nationales. Je me suis appesanti sur ce point capital. Le Chancelier m'a
+alors donné lecture de la proposition qu'il avait chargé aujourd'hui le prince de Rado-
+lin de remettre à Votre Excellence, et il en a détaché les termes mêmes d'un rap-
+port adressé hier à l'Empereur et exposant les objections de la Chancellerie à
+l'échange préalable de vues que nous réclamons.
+
+
+Le Prince de Bülow m'a redit à plusieurs reprises son désir de voir l'acceptation
+de la Conférence mettre fin aux surprises dangereuses qui peuvent toujours sortir
+d'une situation incertaine et énervante.
+
+
+BIHOURD.
+
+
+248
+
+
+N° 282.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Alger, le 29 juin 1905.
+
+
+A la suite de la réclamation du Makhzen dont vous m'avez saisi, et qui était relative
+à la contrebande d'armes de guerre, j'ai eu l'honneur de vous faire connaître que
+cette contrebande se pratiquait non par la frontière algérienne, mais par le côté
+marocain. Je m'empresse de vous communiquer le télégramme que je reçois du gé-
+néral commandant la division d'Oran et qui confirme le rapport que je vous ai adressé
+hier:
+
+
+<< En réponse à votre dépêche du 14 juin 1905, j'ai l'honneur de vous rendre
+compte que l'enquête à laquelle j'ai fait procéder m'a permis d'établir qu'il ne se
+faisait pas de contrebande d'armes de guerre par la frontière algérienne. C'est bien
+par le Rif, ainsi que je vous en ai déjà rendu compte, que les armes parviennent aux
+rebelles marocains. Un fait récent, la saisie aux îles Zaffarines par les autorités espa-
+gnoles d'une barque remplie de fusils à destination du Maroc, vient de prouver
+l'exactitude de ces renseignements. Enfin, le prix des fusils est infiniment plus élevé
+en Algérie qu'en territoire marocain. Il n'en serait certainement pas ainsi si nos
+commerçants se livraient à la contrebande et si, par suite, il existait chez eux des
+approvisionnements considérables d'armes de guerre ».
+
+
+JONNART.
+
+
+N° 283.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Alger, le 4 juillet 1905.
+
+
+D'après ses informations, le cercle de Marnia me fait connaître que, le 1er juillet,
+vers 2 heures de l'après-midi, les troupes du prétendant, divisées en trois colonnes,
+ont marché sur Oudjda et ont repoussé jusque dans leur camp les contingents de la
+Mahalla sortis au-devant d'eux. L'intervention de l'artillerie commandée par la mis-
+sion française a fait lâcher pied aux Roguistes après plus d'une heure de combat
+à hauteur des premières tentes du camp. Vers 6 heures, le Makhzen a pris offensive
+et a repoussé l'ennemi au delà de Semmara. La nuit a mis fin au combat.
+
+
+JONNART.
+
+
+249
+
+
+N° 284.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 9 juillet 1905.
+
+
+A plusieurs reprises, et notamment les 1er et 8 de ce mois, j'ai dit au Prince de
+Radolin, sans qu'il m'ait laissé pressentir la moindre difficulté, que nous comptions
+que son gouvernement ne ferait pas d'objection à nos vues sur le mandat interna-
+tional que nous demanderons à la Conférence de nous confier en ce qui concerne les
+réformes militaires ou, plus exactement, de police.
+
+
+En ce qui concerne d'autre part l'accord franco-anglais du 8 avril 1904, je vous
+rappelle que, le 1er juillet, le Prince de Radolin m'a donné l'assurance que cet arrange-
+ment était mis hors de cause. Dans notre entretien d'hier, je suis revenu sur ce sujet
+pour faire connaître à l'Ambassadeur mon intention de faire état de cette assurance
+devant la Chambre, à qui je me propose de dire, ai-je ajouté, que le Gouvernement
+allemand ne met pas en cause les accords de la France avec l'Angleterre et l'Es-
+pagne.
+:
+
+
+Le Prince de Radolin m'a répondu que j'en étais absolument libre, la formule « traités
+et arrangement de la France», employée dans les lettres échangées, comprenant évi-
+demment nos accords de 1904 avec l'Angleterre et l'Espagne. Nous n'avons donc pas
+eu à insister pour une précision nouvelle de ces points dans les lettres échangées, et
+j'ai pu ainsi éviter de nouveaux pourparlers qui eussent retardé la conclusion défi-
+nitive de l'entente également désirée par les deux Gouvernements.
+
+
+ROUVIER.
+
+
+N° 285.
+
+
+M. BIHOURD, Ambassadeur de la Républiqüe française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 9 juillet 1905.
+
+
+Dans son entretien d'hier, le Chancelier a de nouveau accentué le contraste entre
+la résistance qu'il croit devoir, avant la Conférence, opposer à nos demandes et la
+facilité avec laquelle il acceptera nos légitimes prétentions, si l'on se fie à ses paroles
+et si la Conférence se réunit.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+BIHOURD.
+
+
+32
+
+
+250
+
+
+N° 286.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+aux Représentants diplomatiques de la République française, à
+Londres, Berlin, Saint-Pétersbourg, Vienne, Rome, Madrid,
+Washington, Bruxelles, La Haye, Copenhague, Stockholm, Lis-
+bonne et Tanger.
+
+
+Paris, le g juillet 1905.
+
+
+J'ai arrêté, de concert avec l'Ambassadeur d'Allemagne, les termes d'un échange de
+lettres et de déclaration déterminant les conditions auxquelles nous consentons à
+accepter de nous rendre à la Conférence proposée par le Sultan du Maroc.
+
+
+Indépendamment des assurances constatées dans les lettres et déclaration à échan-
+ger, l'Ambassadeur d'Allemagne m'a déclaré formellement que le Gouvernement
+Impérial ne met pas en cause l'accord franco-anglais du 8 avril 1904, relatif
+au Maroc.
+
+
+ROUVIER.
+
+
+N° 287.
+
+
+DÉCLARATION faite par le Président du Conseil, Ministre des Affaires étrangères,
+à la séance de la Chambre des Députés, le 10 juillet 1905.
+
+
+La Chambre n'a point oublié que notre Ministre au Maroc avait pour mission, en se ren-
+dant à Fez au mois de janvier dernier, de faire connaître au Sultan, au nom de la France,
+les réformes les plus propres à remédier à la situation troublée de son Empire.
+
+
+Exposées dans leurs grandes lignes et à titre consultatif à une assemblée de notables, exa-
+minées très complètement de concert avec des plénipotentiaires désignés à cet effet, ces projets
+de réforme ne soulevèrent aucune fin de non-recevoir, aucune objection grave. Mais Sa
+Majesté chérifienne, après avoir été mise au courant de ces négociations préliminaires,
+désira prendre l'avis des Puissances étrangères et de les inviter, à cet effet, à se réunir en
+Conférence internationale. L'invitation nous a été adressée le 30 mai.
+
+
+A la date du 6 juillet, le Cabinet de Berlin faisait connaître, par une note au Gouver-
+nement de la République, que la Conférence lui paraissait le meilleur moyen de préparer
+ces réformes.
+
+
+Nous avons répondu que nous n'étions pas opposés, en principe et de parti pris, à l'idée
+de la Conférence; mais qu'il nous paraissait nécessaire, pour y donner utilement notre adhé-
+sion, de nous mettre d'accord avec l'Allemagne sur certainis principes dont nous ne pourrons
+
+
+251
+
+
+nous départir au Maroc. Nous désirions, notamment, acquérir la certitude que le Gouverne-
+ment Impérial appréciait comme nous l'intérêt spécial qu'avait la France, en raison de sa
+situation de pays limitrophe, au maintien de l'ordre dans l'Empire chérifien.
+
+
+Les explications que j'ai échangées avec l'Ambassadeur d'Allemagne à Paris, celles qui
+sont intervenues entre notre représentant à Berlin et le Prince de Bülow, ont amené les deux
+Gouvernements à se donner les assurances réciproques dont les lettres que je vais lire à la
+Chambre ont fixé les termes.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à S. A. S. łe Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris.
+
+
+Paris, le 8 juillet 1905.
+
+
+Le Gouvernement de la République s'est convaincu, par les conversations qui ont eu lieu
+entre les représentants des deux pays tant à Paris qu'à Berlin, que le Gouvernement Impériał
+ne poursuivrait, à la Conférence proposée par le Sultan du Maroc, aucun but qui compromît
+les légitimes intérêts de la France dans ce pays, ou qui fût contraire aux droits de la France
+résultant de ses traités ou arrangements et en harmonie avec les principes suivants :
+
+
+Souveraineté et indépendance du Sultan;
+
+
+Intégrité de son empire;
+
+
+Liberté économique, sans aucune inégalité;
+
+
+Utilité de réformes de police et de réformes financières dont l'introduction serait réglée,
+pour une courte durée, par voie d'accord international;
+
+
+Reconnaissance de la situation faite à la France au Maroc par la contiguïté, sur une
+vaste étendue, de l'Algérie et de l'Empire chérifien, et par les relations particulières qui en
+résultent entre les deux pays limitrophes, ainsi que par l'intérêt spécial qui s'ensuit pour la
+France à ce que l'ordre règne dans l'Empire chérifien.
+
+
+En conséquence, le Gouvernement de la République laisse tomber ses objections pre-
+mières contre la Conférence et accepte de s'y rendre.
+
+
+ROUVIER.
+
+
+S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Paris, le & juillet 1905.
+
+
+Le Gouvernement de la République, acceptant de se rendre à la Conférence proposée par
+le Sultan du Maroc, le Gouvernement Impérial m'a chargé de vous confirmer ses déclarations
+verbales aux termes desquelles il ne poursuivra à la Conférence aucun but qui compromette
+
+
+32.
+
+
+252
+
+
+les légitimes intérêts de la France au Maroc, ou qui soit contraire aux droits de la France
+résultant de ses traités ou arrangements et en harmonie avec les principes suivants :
+
+
+Souveraineté et indépendance du Sultan;
+
+
+Intégrité de son empire;
+
+
+Liberté économique, sans aucune inégalité;
+
+
+Utilité de réformes de police et de réformes financières dont l'introduction serait réglée,
+pour une courte durée, par voie d'accord international;
+
+
+Reconnaissance de la situation faite à la France au Maroc par la contiguïté, sur une vaste
+étendue, de l'Algérie et de l'Empire chérifien, et par les relations particulières qui en ré-
+sultent entre les deux pays limitrophes, ainsi que par l'intérêt spécial qui s'ensuit pour la
+France à ce que l'ordre règne dans l'Empire chérifien.
+
+
+Cet échange de lettres a été suivi de la déclaration suivante :
+
+
+RADOLIN.
+
+
+Le Gouvernement de la République et le Gouvernement allemand conviennent:
+
+
+1º De rappeler à Tanger simultanément leurs missions actuellement à Fez aussitôt que la
+Conférence se sera réunie;
+
+
+2º De faire donner au Sultan du Maroc des conseils par leurs représentants, d'un commun.
+accord, en vue de la fixation du programme qu'il proposera à la Conférence sur les bases
+indiquées dans les lettres échangées sous la date du 8 juillet 1905 entre le Président du
+Conseil, Ministre des Affaires étrangères, et l'Ambassadeur d'Allemagne à Paris.
+
+
+Fait à Paris, le 8 juillet 1905.
+
+
+Signé: ROUVIER,
+RADOLIN.
+
+
+L'entente est donc formelle entre l'Allemagne et nous sur les principes essentiels dont le
+maintien au Maroc a pour la France, Puissance limitrophe, un prix tout particulier. De
+même est reconnu l'intérêt spécial que nous avons à ce titre au maintien de l'ordre dans
+l'Empire chérifien, tout état de trouble au Maroc pouvant avoir une répercussion parmi les
+populations musulmanes sujettes de la France. Enfin, les deux Gouvernements admettent
+également l'utilité d'introduire au Maroc des réformes de police et des réformes financières
+ainsi que nous avions pris l'initiative de le proposer; nous apporterons de concert au Sultan
+des conseils sur le programme à établir en vue de la consultation des Puissances sur les bases
+résultant de nos divers accords.
+
+
+L'accord si désirable qui s'est ainsi réalisé entre les deux Gouvernements laisse intacts les
+arrangements que la France avait précédemment conclus avec d'autres Puissances; à aucun
+moment des négociations la discussion ne s'est portée sur l'accord franco-anglais du 8 avril
+1904 et sur l'accord franco-espagnol du 3 octobre de la même année.
+
+
+La déclaration faite, dans les lettres échangées, au sujet des traités et arrangements de
+la France aussi bien que des assurances formelles que le représentant du Gouvernement
+Impérial m'a apportées spontanément au cours de nos pourparlers et a renouvelées à leur
+issue, ine permettent d'affirmer devant vous que l'Allemagne ne met pas en cause nos accords
+avec l'Angleterre et avec l'Espagne.
+
+
+Pourrait-il d'ailleurs en être autrement? Ces accords n'engagent vis-à-vis de nous que les
+deux Puissances qui les ont signés et réciproquement nous engagent seuls vis-à-vis d'elles.
+Il ne pouvait être question d'en tirer argument contre aucune autre Puissance, de même
+
+
+253
+
+
+qu'aucune autre Puissance ne peut rien objecter aux conditions que l'Angleterre et l'Espagne
+ont consenties pour leur part et dans la plénitude de leur droit.
+
+
+La Chambre se félicitera certainement de l'heureux résultat auquel ont abouti les négo-
+ciations entre la France et l'Allemagne au sujet du Maroc grâce aux sincères efforts de leurs
+Gouvernements.
+
+
+N° 288.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 12 juillet 1905.
+
+
+Le Ministre d'Allemagne est sur le point d'obtenir définitivement pour la maison
+allemande Borgeaud-Reuteman la concession des travaux du port de Tanger. Depuis
+le moment où le Sultan avait fait à ce sujet au Comte de Tattenbach une première
+promesse verbale, les Vizirs lui avaient représenté qu'il se mettait en contradiction
+avec lui-même, s'il se liait par un engagement particulier au sujet du port de
+Tanger, après avoir invité les Puissances à examiner avec le Makhzen les réformes
+que réclame l'intérêt général. Une réponse dans ce sens avait été faite au Comte de
+Tattenbach. Mais vivement pressé par lui, le Sultan lui a renouvelé en dernier lieu sa
+promesse et nous devons nous attendre à ce que, d'un jour à l'autre, elle revête
+une forme écrite. Ce sera, de la part du Makhzen, un nouveau manquement à des
+engagements pris envers nous. L'amélioration des ports fait en effet l'objet d'une
+proposition spéciale soumise, en mai dernier, au Gouvernement marocain avec les
+autres propositions françaises de réformes économiques. Or, par sa lettre du 27 mai,
+Ben Sliman mentionne la décision prise de ne consentir à ratifier quoi que ce
+soit concernant les réformes, militaires ou autres, par les soins d'une Puissance
+étrangère quelconque, avant la réunion d'une Conférence internationale ».
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 289.
+
+
+NOTE remise par M. ROUVIER, Président du Conseil, Ministre des Affaires étran-
+gères, au Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris.
+
+
+20 juillet 1905.
+
+
+Après avoir mûrement examiné la question du programme, les points que nous
+
+
+254
+
+
+avons mis à l'étude en vue d'un projet de programme à proposer d'accord au Sultan,
+sont :
+
+
+1º L'organisation de la police hors de la région frontière, c'est-à-dire hors des
+districts où elle est réglée par un accord Franco-Marocain;
+
+
+2º Les réformes financières en vue d'asseoir et de régulariser le crédit du Maroc
+et de fournir au Gouvernement Marocain les ressources nécessaires à l'entretien des
+forces de police et aux premières améliorations de l'outillage économique.
+
+
+N° 290.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Alger, le 29 juillet 1905.
+
+
+J'ai eu l'honneur de vous exposer qu'à mon avis une certaine partie des armes et
+des munitions actuellement entre les mains des partisans du Rogui provenait du
+Makhzen lui-même, soit que celui-ci eût distribué des armes aux tribus aujourd'hui
+soumises, demain rebelles, soit que les soldats de la mahalla, mal payés, eussent
+vendu leurs armes et leurs munitions.
+
+
+Dans cet ordre d'idées, il m'a paru intéressant de faire dresser un relevé aussi exact
+que possibłe, mais certainement au-dessous de la vérité, des armes et des munitions
+envoyées par le Makhzen à Oudjda, depuis le mois de juillet 1903, soit par les ports
+algériens, soit par Saidia.
+
+
+Cette enquête fait ressortir que 7,795 fusils et 1,539,000 cartouches ont été
+importés à Oudjda par l'une ou l'autre voie. On ne doit donc plus s'étonner que les
+rebelles aient trouvé à Oudjda même un centre d'approvisionnement important pour
+leur ravitaillement en armes et munitions.
+
+
+JONNART.
+
+
+N° 291.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris.
+
+
+Paris, le 29 juillet 1905.
+
+
+Au cours de notre entretien du 20 juillet dernier, j'ai appelé votre attention sur
+les démarches que poursuivait le Comte de Tattenbach à Fez pour faire concéder à
+une maison allemande les travaux du port de Tanger. Je vous ai rappelé que nous
+
+
+255
+
+
+vous avions proposé, au cours des pourparlers qui ont amené les accords du 8 juillet,
+de suspendre toutes négociations particulières avec le Sultan, à dater du moment où
+la Conférence serait acceptée; j'ajoutais que notre Ministre à Fez s'était rangé sponta-
+nément à cette attitude, la seule que comportât la mission commune que nos deux
+représentants ont à remplir auprès du Makhzen. Je vous ai demandé que des instruc-
+tions en ce sens fussent données au Comte de Tattenbach.
+
+
+Sans réponse de vous à ce sujet, je suis avisé aujourd'hui que le Comte de Tatten-
+bach aurait obtenu la signature du contrat accordant à la maison Borgeaud et
+Reuteman les travaux de construction d'un môle et de magasins à Tanger.
+
+
+Il rechercherait, en outre, de semblables avantages pour d'autres ports du Maroc;
+une commande de bateaux, un emprunt, seraient en voie de négociations.
+L'œuvre économique des réformes, dont la Conférence aura à s'occuper, serait
+ainsi, par avance, préjugée pour une large part au bénéfice de l'Allemagne.
+
+
+Le Prince de Bülow, au cours de deux entretiens avec M. Bihourd, avait insisté
+sur ce point qu'entre autres avantages l'acceptation de la Conférence par la France
+aurait celui de mettre fin à une situation incertainė, de prévenir les surprises du
+Gouvernement Chérifien, notamment celle provenant des offres qu'il faisait à l'Alle-
+magne.
+
+
+Me référant à ces déclarations, je ne m'expliquerais. pas que des négociations, si
+peu conformes aux vues qui ont été exprimées par le Chancelier et dont les accords
+du 8 juillet se sont évidemment inspirés, aient pu se conclure et puissent encore se
+poursuivre.
+
+
+ROUVIER.
+
+
+N° 292.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris.
+
+
+Paris, le 31 juillet 1905.
+
+
+Je vous remercie de la communication que vous m'avez fait faire ce matin par
+M. de Lucius, et d'après laquelle votre Gouvernement tient  pour une grande partie
+inexacts et pour le reste très exagérés  les faits signalés par la presse concernant, les
+démarches actuelles du comte de Tattenbach auprès du Makhzen.
+
+
+Les informations que je reçois aujourd'hui du Maroc et qui sont sans doute de
+date plus récente que les renseignements de la Chancellerie de Berlin, ne me donnent
+malheureusement pas d'apaisement: Ce ne seraient plus seulement des travaux de
+port et des commandes de bateaux que le comte de Tattenbach solliciterait avec
+instance, mais aussi la fourniture et l'établissement d'un câble entre Tanger et la Côte
+atlantique.
+
+
+256
+
+
+S'il en était ainsi, c'est bien, comme je le disais hier, l'œuvre économique dont la
+Conférence doit étudier le mode de réalisation qui serait préjugée par avance.
+
+
+Le Gouvernement Impérial considérera certainement, comme moi, que de telles dé-
+marches seraient incompatibles avec l'entente établie entre nous le 8 juillet et qui
+implique pour les deux pays l'obligation d'observer, jusqu'aux décisions de la Confé-
+rence, une réserve à défaut de laquelle ces décisions risqueraient d'être, pour une
+grande part, sans effet.
+
+
+ROUVIER.
+
+
+N° 293.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris.
+
+
+Paris, le 1er août 1905.
+
+
+Je vous adresse, conformément au vœu qu'en a exprimé le Gouvernement Impé-
+rial, un projet de programme des questions à soumettre à la Conférence, projet dont
+les deux Gouvernements pourront, après entente entre eux, proposer l'adoption à
+Sa Majesté chérifienne.
+
+
+Nous nous sommes inspirés, pour fixer les éléments de ce programme, des principes
+posés dans l'accord du 8 juillet dernier; nous avons également tenu compte des
+termes de l'invitation adressée par le Sultan aux Puissances en vue de la réunion
+d'une Conférence.
+
+
+Ni les notables consultés par Sa Majesté chérifienne sur les projets de réformes
+que nous lui avions présentés, ni les plénipotentiaires qu'Elle avait désignés pour les
+discuter, n'ont opposé de sérieuses objections à ces projets. Il n'est donc pas douteux
+qu'en nianifestant le désir de consulter les Puissances sur le mode des réformes qui
+seraient appropriées à la situation de son empire et sur la manière de pourvoir aux
+frais de ces réformes, le Sultan n'ait eu en vue comme nous les mesures à prendre
+tant pour garantir l'ordre et la sécurité de son empire que pour en améliorer la situa-
+tion financière, en régulariser les ressources et en développer la prospérité écono-
+mique.
+
+
+Nous avons intentionnellement condensé les éléments de ce programme sous une
+forme sommaire et éliminé des questions à soumettre à la Conférence les détails et les
+développements dans lesquels étaient entrées nos propositions au Sultan. Sans nous
+départir des intentions que nous vous avons fait connaître dans nos entretiens et spé-
+cialement dans notre note du 6 juillet, en ce qui concerne la part que la France
+compte demander dans l'exécution des réformes, il nous semble que nous devons
+préjuger le moins possible le résultat des travaux de la Conférence. Cette forme de
+rédaction sommaire nous paraît la plus propre à établir l'entente entre nous sur les
+
+
+257
+
+
+conseils à donner au Sultan, à l'amener à les accepter, enfin à assurer l'adhésion dé-
+finitive des Puissances à la Conférence.
+
+
+Toutefois je crois utile de vous faire connaître, à l'appui de nos propositions, les
+vues d'ensemble qui les inspirent et les raisons principales qui les ont déterminées.
+
+
+1º Mesures à prendre pour garantir l'ordre et la sécurité.
+
+
+Il est superflu d'insister sur leur nécessité. Le Gouvernement chérifien a un intérèt
+direct à disposer de forces régulières et permanentes dont l'organisation sérieuse et
+durable et la présence effective sur certains points affermiront son autorité et suffi-
+ront à développer l'aire du pays soumis et de la perception aisée de l'impôt. Cette or-
+ganisation, qui peut être conçue sans porter la moindre atteinte à l'indépendance et
+à la souveraineté du Sultan, devient, d'autre part, chaque jour plus nécessaire si le
+Gouvernement marocain veut assurer les garanties élémentaires auxquelles les étran-
+gers ont droit et qui sont indispensables aux transactions commerciales.
+
+
+a) Comme il serait téméraire d'exiger du premier coup un trop gros effort du
+Gouvernement chérifien, il ne semble pas qu'on doive au début étendre l'organisation
+de ces forces de police au delà des quatre ports de Tanger, Larache, Rabat et Casa-
+blanca; de ces points, elles pourraient d'ailleurs facilement exercer assez avant dans
+l'intérieur une action efficace.
+
+
+Pour les districts frontières voisins de l'Algérie, cette organisation est prévue par
+des accords spéciaux entre la France et le Sultan. C'est une affaire qui est commune
+et exclusive aux deux pays depuis plus d'un demi-siècle, durant lequel la France a
+prodigué les témoignages les moins équivoques de sa loyauté, de sa modération, de
+sa patience et de son esprit de justice.
+
+
+b) Les corps de troupes créés pour la police, et qui tiendront garnison à Tanger,
+Larache, Rabat et Casablanca, doivent ètre marocains, c'est-à-dire avoir un effectif
+et des cadres inférieurs marocains.
+
+
+Le Gouvernement chérifien n'aurait à demander à un concours extérieur que les
+éléments nécessaires à l'instruction de ses troupes, au contrôle de leur administration,
+à l'aide technique que leur commandement et leur discipline comportent. En ce qui
+concerne notamment l'administration, il est à peine besoin d'insister sur la nécessité
+d'assurer la régularité continue de la solde.
+
+
+La participation ainsi limitée d'un concours extérieur ne peut avoir d'autre effet
+que de consolider et de rendre plus effective l'autorité que le Makhzen doit conserver
+sur ses troupes..
+
+
+c) Une des causes, la principale peut-être, des troubles permanents, de l'anarchie
+en quelque sorte constitutionnelle qui désolent le Maroc réside dans le fait que les
+tribus peuvent se procurer des armes sans la moindre difficulté.
+
+
+Pour couper court à cet état de choses, il ne suffit pas d'interdictions édictées par
+un gouvernement hors d'état de leur donner une sanction effective, il faut que la
+surveillance de la contrebande des armes soit confiée à des mains capables de la
+rendre efficace. L'organisation de cette surveillance sera l'une des œuvres les plus
+importantes de la Conférence. Elle peut d'ailleurs étre assurée dans des conditions
+
+
+DOGUMENTS DIPLOMATIQUES. Maroc.
+
+
+33
+
+
+258
+
+
+qui, loin de porter atteinte à l'indépendance ni à la souveraineté du Sultan, en
+deviennent l'une des plus sûres et des plus précieuses garanties.
+
+
+2º Mesures à prendre pour améliorer la situation financière du Maroc.
+
+
+Après s'ètre longtemps défendu de recourir au crédit public, le Makhzen avait
+contracté à l'étranger des engagements dont il s'est récemment libéré au moyen de
+l'emprunt souscrit à un consortium de banques françaises vis-à-vis duquel il s'est lié
+par un contrat. Cet emprunt absorbe une très notable partie des ressources les plus
+régulières du Makhzen. Il n'est pas douteux que le Gouvernement marocain doit, en
+outre, être obéré par des engagements privés de quelque importance. D'autre part,
+l'excès de circulation monétaire, la pénurie des récoltes causent dans le pays un
+trouble qui va s'aggravant. Les conseils que la France avait pris l'initiative de donner
+au Sultan s'étaient bornés aux nécesssités les plus urgentes de la situation financière.
+La Conférence devrait également se contenter d'étudier les mesures qui, dans l'état
+présent, ont le plus de chance d'être réalisables et seraient le plus efficaces.
+
+
+On peut espérer de l'organisation d'une bonne police le retour à une perception
+régulière de l'impôt et un développement dans la prospérité économique du pays.
+partant un double accroissement de ses revenus; mais ce résultat doit être forcément
+escompté pour procurer au Makhzen les moyens de faire face aux dépenses assez
+considérables de la création et de l'entretien de ses troupes régulières de police.
+D'où la nécessité de trouver dans l'organisme financier la garantie et la régularité des
+ressources à affecter au payement de ces dépenses.
+
+
+Ce résultat peut être obtenu sans intervenir dans l'administration fiscale du pays.
+par la création d'une banque d'État pourvue du privilège d'émission qui est la con-
+dition essentielle d'une institution de ce genre. La banque, dont le Gouvernement
+marocain s'était d'ailleurs engagé, au moment de l'emprunt, à étudier l'organisation
+avec le Gouvernement français, exercerait pour le compte et au profit exclusif du
+Trésor chérifien le droit de frapper monnaie. Elle aurait en outre, en matière moné-
+taire, un rôle très utile à remplir sans délai. La frappe excessive de la monnaie chéri-
+fienne coïncidant avec la diminution des exportations, du fait de la pénurie des
+récoltes, a avili la valeur de cette monnaie et en a fait monter le change à un taux
+(175 p. 100 francs) qui aggrave lourdement les charges du Makhzen. La banque
+prendrait les dispositions nécessaires pour assainir la situation monétaire et stabiliser
+le cours de la monnaie chérifienne.
+
+
+D'autre part elle pourrait ètre chargée, à la convenance du Makhzen, des services
+de caisse et de trésorerie.
+
+
+Enfin elle effectuerait au Trésor chérifien les avances dont il aurait besoin, à con-
+dition toutefois qu'elles fussent consacrées à des dépenses destinées à avoir une réper-
+cussion certaine sur la prospérité économique du pays. Dans cette catégorie de dé-
+penses se rangent celles qu'entrainerait l'application des réformes de police et, d'autre
+part, certaines entreprises urgentes ayant pour effet d'assurer une première améliora-
+tion des ports et de l'outillage économique du pays.
+
+
+La banque d'État servirait tout naturellement les intérêts économiques et commer-
+ciaux des diverses nations; et il serait aisé, dans la formation et la représentation de
+son capital, de donner à cette situation une sanction pratique.
+
+
+3º L'œuvre de la Conférence ne devra pas se borner, selon nous, à la détermina-
+
+
+259
+
+
+tion des réformes que je viens d'exposer et des voies et moyens destinés à en mesu-
+rer la réalisation. II sera bon qu'elle fixe en outre et qu'elle fasse accepter par le
+Sultan quelques principes qui garantissent la liberté économique que la France a déjà
+stipulée dans ses arrangements avec d'autres Puissances et sur laquelle nous nous
+sommes aisément mis d'accord lors de l'échange de lettres intervenu entre nous le
+8 juillet dernier.
+
+
+Nous avons dans ce but inséré au paragraphe III du programme les deux plus im-
+portants de ces principes dont la formule est d'ailleurs empruntée aux propositions
+que notre représentant au Maroc avait présentées à Sa Majesté chérifienne.
+
+
+En s'interdisant de concéder aucun des services publics de son empire à des inté-
+rèts particuliers, le Sultan maintiendrait entre les divers concours qui s'offriront à lui
+de l'extérieur une parfaite égalité, tout en ménageant son indépendance et en favo-
+risant la formation d'une administration marocaine destinée à introduire dans le pays
+toute la somme de progrès compatible avec son état social.
+
+
+Le second principe que la Conférence devrait faire prévaloir auprès du Gouverne-
+ment marocain est celui de la mise en adjudication, dans toutes les matières où elle
+est généralement pratiquée en Europe, notamment pour l'exécution des, travaux
+publics et les fournitures d'État. Le Makhzen réaliserait ainsi dans ses entreprises
+toutes les économies résultant du jeu de la concurrence. D'autre part, les compétitions
+rivales qui risquent d'affecter sa liberté d'action et qui ont eu certainement pour
+effet d'entraver la marche du progrès au Maroc, se trouveraient ainsi écartées, et il en
+résulterait une garantie de plus pour la liberté économique.
+
+
+Telles sont les idées qui ont dirigé l'étude et l'établissement du projet de pro-
+gramme que V. A. S. trouvera ci-joint. Elles sont trop conformes aux vues que nous
+avons échangées dans de nombreux entretiens pour que je puisse douter de l'acquies-
+cement du Gouvernement Impérial à ce projet.
+
+
+Les deux Gouvernements auront ensuite à le faire accepter par le Sultan. Nous
+devons donc nous préoccuper dès à présent des conditions dans lesquelles cette tâche
+commune sera accomplie.
+
+
+Le Gouvernement Impérial a estimé que la Conférence était le meilleur moyen
+d'introduire les réformes; il en a reconnu et précisé d'accord avec nous la nécessité;
+il a stipulé avec nous que nos représentants donneraient d'un commun accord au
+Sultan les conseils en vue de la fixation du programme de la Conférence.
+
+
+Si ce commun accord n'est pas complet, s'il ne répond pas entièrement à l'arran-
+gement intervenu entre les deux Gouvernements, les conseils que nous adresserons
+au Makhzen n'auront aucune efficacité; l'entente que nous avons souhaitée entre nous,
+les intérêts de la civilisation et du progrès au Maroc risquent d'ètre compromis; et
+l'effort sincère que nous avons fait aboutira à un résultat tout à fait contraire à celui
+que nous nous proposions.
+
+
+Les conditions dans lesquelles nos deux missions s'étaient trouvées en présence à
+Fez, avant l'accord du 8 juillet, la tâche nouvelle qui leur incombait ne pouvaient
+qu'impliquer, dans la pensée des deux Gouvernements, la nécessité pour elles de
+s'abstenir, une fois l'accord établi, de toute négociation particulière.
+
+
+Les démarches du comte de Tattenbach que je vous ai signalées dans mes lettres
+du 29 et du 31 juillet procèdent d'une conception opposée. Il n'est pas à supposer
+
+
+33.
+
+
+260
+
+
+cependant que le Gouvernement Impérial ait envisagé la possibilité d'une action com-
+mune au cours de laquelle et simultanément l'une des parties poursuivrait auprès du
+Makhzen l'attribution d'avantages spéciaux. Ce serait en effet préjuger par avance et
+au profit d'une seule puissance la solution de questions que le Makhzen avait déclaré
+ne pouvoir traiter avant la réunion d'une Conférence internationale; ce serait rendre
+ainsi, au moins pour partie, la réunion de cette Conférence sans objet par la suppres-
+sion des garanties en faveur de la liberté économique que l'on attend d'elle et que
+nous avions nous-mêmes proposé au Makhzen d'établir, en même temps que nous lui
+soumettions les projets de réformes.
+
+
+Nous avons la confiance que le Gouvernement Impérial partagera les vues que nous
+venons de lui exprimer. En ce qui nous concerne, nous sommes prêts à adresser
+immédiatement, sur les diverses données qui précèdent et d'accord avec le Gouver-
+nement Impérial, les instructions prévues par la déclaration du 8 juillet.
+
+
+Si tel est également le sentiment du cabinet de Berlin, les représentants des deux
+Gouvernements à Fez obtiendront sans doute promptement l'adhésion du Sultan, et
+la Conférence pourrait alors se réunir dans le plus bref délai.
+
+
+ROUVIER.
+
+
+N° 294.
+
+
+Le Comte DE CHÉRISEY, Chargé des affaires de la Légation de la République
+française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 1er août 1905.
+
+
+Le représentant de la maison Borgeaud et Reuteman à Tanger a signé avant-hier
+le contrat relatif à la construction d'un môle et d'un entrepôt. Le Chargé d'affaires
+d'Allemagne m'a confirmé que le prix était de 1,300,000 marks.
+
+
+N° 295.
+
+
+CHÉRISEY.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 1er août 1905.
+
+
+Aiusi que vous me l'aviez prescrit, je viens d'entretenir M. de Mühlberg de l'atti-
+
+
+261
+
+
+tude du Comte de Tattenbach qui provoque de la part du Sultan des concessions en
+faveur de maisons allemandes et se met ainsi en contradiction avec l'esprit qui a ins-
+piré les accords du 8 juillet et avec les assurances que m'a données à plusieurs
+reprises le Prince de Bülow. J'ai pu appuyer fortement sur cette dernière considé-
+ration. Mon interlocuteur s'est empressé de me répondre que les travaux du môle
+de Tanger étaient la suite de démarches antérieures aux négociations franco-alle-
+mandes; que d'ailleurs on avait prescrit au Comte de Tattenbach d'observer une réserve
+conforme aux promesses que j'avais rappelées, que ces instructions avaient été renou-
+velées et qu'enfin le Prince de Radolin venait d'être invité à fournir à Votre Excellence
+toutes les explications satisfaisantes.
+
+
+BIHOURD.
+
+
+N° 296.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 2 août 1905.
+
+
+Après avoir opposé jusqu'ici, comme les autres membres du Makhzen, des déné-
+gations persistantes aux questions qui lui étaient posées, au sujet des bruits d'em-
+prunt, le Ministre des Finances du Sultan vient de faire, aujourd'hui même, à l'un
+de nos agents des aveux incomplets, mais dont Votre Excellence appréciera la gra-
+vité.
+
+
+Comme on lui rappelait, une fois de plus, la clause de préférence inscrite au pro-
+fit des banques dans le contrat de l'emprunt de 1904, Cheikh Tazi répondit que le
+Makhzen ne la perdait pas de vue. Si donc le Maklızen négociait quelque jour un
+emprunt dans des conditions normales, cette clause serait respectée, mais la situation
+serait autre, si le Makhzen recevait de l'argent dans des conditions exceptionnelles.
+Et Cheikh Tazi n'a pas caché que le Makhzen, ayant besoin d'argent, étudiait une
+combinaison qui en ferait entrer au Trésor. Nous avions apppris, d'autre part, que les
+fonctionnaires marocains préposés à l'administration des biens du Makhzen déployaient
+une activité inusitée et que certains délégués venaient d'ètre envoyés à Tanger pour
+procéder à l'évaluation des terrains que le Makhzen possède dans cette région. Inter-
+rogé sur le bruit, déjà ancien, d'après lequel le Makhzen songerait à mettre en
+gage ses propriétés du littoral, Cheikh Tazi a évité de répondre. Mais il a reconnu
+que le Makhzen s'occupait en ce moment du recensement de ses biens.
+
+
+Ces aveux ne permettent guère de douter que le Ministre des Finances du Sultan
+n'ait étudié et plus ou moins ébauché avec le Ministre d'Allemagne une combinaison
+financière qui paraît reposer sur une vente à réméré des propriétés du Makhzen voi-
+sines des villes du littoral.
+
+
+262
+
+
+Je doute qu'on puisse avancer sur ce gage plus d'une douzaine de millions. Mais
+la gravité de l'atteinte qu'une pareille opération porterait à nos intérêts résulterait
+beaucoup plus encore de l'importance politique et économique du gage que de l'im-
+portance de la somme prètée. Il est superflu en effet d'insister sur le parti que
+P'Allemagne pourrait tirer de sa mainmise sur des domaines étendus, situés à proxi-
+mité des villes de la côte. J'ajoute que, pour revêtir le déguisement d'une vente,
+l'opération, en réalité, n'en serait pas moins un emprunt. Votre Excellence estimera
+sans doute qu'elle constituerait une infraction de l'article 33 du contrat de 1904. On
+peut dès lors se demander si nous n'aurions pas intérêt à faire connaître à Berlin notre
+sentiment à cet égard.
+
+
+SAINT-RENÉ TAILLANDIER:
+
+
+N° 297.
+
+
+NOTE remise par le Prince DE RADOLIN, Ambassadeur d'Allemagne,
+le 4 août 1905.
+
+
+M. Rouvier a été informé dans le temps que le Gouvernement Impérial avait
+refusé jusqu'à présent toutes les propositions du Gouvernement marocain qui lui
+assureraient une position prédominante au Maroc et qu'il maintiendrait ce point de
+vue tant qu'il pourrait compter sur une entente avec la France.
+
+
+D'après des nouvelles venues de Tanger, la construction d'un môle à Tanger au
+prix d'environ 60,000 livres a été concédée dernièrement à deux maisons allemandes
+en conclusion de négociations qui avaient duré plusieurs mois. Le Gouvernement
+Impérial n'a pas connaissance que le Comte de Tattenbach ait coopéré à cette con-
+cession ou à une autre concession quelconque.
+
+
+Néanmoins le Gouvernement Impérial en a demandé un rapport au Comte de
+Tattenbach et il se réservera son attitude vis-à-vis de la convention concernant la
+construction du môle jusqu'au moment où il en aura été informé.
+
+
+En conséquence, le Gouvernement Impérial a empêché des maisons de banque
+allemandés qui ont offert au Sultan de lui avancer un acompte de 10 millions de
+marks pour ses besoins urgents sur le prochain emprunt du Maroc, de faire dépendre
+cette avance de concessions économiques ou administratives. Le Gouvernement Impé-
+rial fait tout son possible pour ne pas modifier la situation actuelle au Maroc et pour
+ne pas porter préjudice à l'avenir; son représentant à Fez a reçu des instructions y
+relatives non seulement dans le passé mais encore dernièrement.
+
+
+Le Gouvernement Impérial aime à croire que le Représentant de la République au
+Maroc agisse de la même façon.
+
+
+Le Gouvernement Impérial a reçu des nouvelles confidentielles d'après lesquelles
+la légation de France à Fez aurait prétendu que la France, soutenue par l'Allemagne,
+obtiendrait à la Conférence le mandat pour la réalisation de l'œuvre de réformes
+
+
+263
+
+
+français. Cette affirmation est appuyée par la presse franco-algérienne et anglo-
+égyptienne. Ce langage commence à exciter le fanatisme de la population au Maroc
+qui ne se dirigera plus seulement contre les Français, mais aussi contre tout ce qui est
+étranger et chrétien.
+
+
+Sans pouvoir dire que le Gouvernement marocain soit directement favorable à
+cette excitation de l'opinion publique, il est certain qu'il s'en laissera entraîner. D'où
+il résultera que les Marocains prendront à la Conférence une attitude récalcitrante et
+qu'ils n'écouteront plus les conseils du Gouvernement Impérial.
+
+
+Pour éviter toutes ces difficultés et ces récriminations réciproques, il semble ètre
+désirable que les deux Gouvernements soient mis en mesure aussitôt que possible de
+s'entendre d'un commun accord directement avec le Sultan sur les détails du pro-
+gramme de la Conférence.
+
+
+N° 298.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 7 août 1905.
+
+
+Nous savons, d'après des informations sûres venues de Fez, que le Gouvernenrent
+marocain négocierait un emprunt de 10 millions de marks sans garantie gagé soit
+sur la vente de terrains lui appartenant dans les villes de la côte, soit sur une com-
+binaison de travaux publics.
+
+
+Le prince de Radolin m'a fait remettre, le 4 août, une Note en réponse à nos récla-
+mations au sujet des demandes du comte de Tattenbach; au cours de cette note, il
+est dit que le Gouvernement Impérial a empêché des maisons de banque alle-
+ mandes, qui ont offert au Sultan de lui avancer un acompte de 10 millions de
+<< marks pour ses besoins urgents sur le prochain emprunt du Maroc, de faire dé-
+ pendre cette avance de concessions économiques ou administratives ».
+
+
+La Note ne conteste donc pas qu'il y ait une négociation en cours pour un em-
+prunt.
+
+
+Je vous prie d'entretenir de cette question M. de Mülhberg au cours de l'audience
+diplomatique de demain. Vous voudrez bien appeler son attention sur la clause de
+préférence inscrite au profit du consortium des banques françaises dans l'article 33
+du contrat de l'emprunt de 1904.  ne suffirait pas que l'opération tentée ne soit
+pas liée à des concessions ou ait le caractère d'une simple avance sur emprunt futur
+pour que le Makhzen puisse contrevenir à ses engagements dont voici le texte : « Si
+ le Gouvernement Impérial du Maroc désire contracter un emprunt ou acheter ou
+<< vendre des titres, il en fera part aux banques contractantes ainsi qu'à d'autres, et à
+ prix égaux la préférence sera accordée aux banques contractantes. >>>
+
+
+264
+
+
+Il n'est pas présumable, d'autre part, que de telles tractations puissent se pour-
+suivre à Fez sans l'assentiment, sinon la participation, du Comte de Tattenbach.
+Vous voudrez bien, à cet égard, renouveler de vive voix les observations contenues
+in fine dans ma lettre au Prince de Radolin du 1er août accompagnant le projet de pro-
+gramme. Vous pourriez dire qu'il n'a pas dépendu du Gouvernement français que la
+situation anormale que nous signalons ne pût pas se produire Dès le 14 juin, j'ai
+informé le Prince de Radolin que j'avais spontanément invité M. Saint-René Taillandier
+à interrompre son action à Fez pendant la durée de nos pourparlers avec l'Alle-
+magne; j'ajoutais que sans doute le Gouvernement allemand adresserait des instruc-
+tions analogues à son agent, dont l'attitude allait à l'encontre du désir d'apaisement
+qui devait animer les deux Gouvernements. Le prince de Radolin m'avait répondu qu'il
+appellerait l'attention du Prince de Bülow sur ce point. Depuis lors, et toujours
+dans le même esprit, j'avais proposé le rappel simultané des deux misssions, et dans
+une Note, remise à l'Ambassadeur d'Allemagne le 2 juillet, je suggérais de sus-
+pendre jusqu'à la réunion de la Conférence toute négociation particulière avec le
+Sultan.
+
+
+Si, comme il nous était permis de le supposer, les instructions données au Comte
+de Tattenbach s'étaient inspirées de nos propositions, on aurait évité les difficultés
+que l'action divergente de cet agent peut créer entre les deux Gouvernements et
+les légitimes réclamations qu'elle a provoquées de notre part.
+
+
+ROUVIER.
+
+
+N° 299.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 8 août 1905.
+
+
+J'ai entretenu M. de Mühlberg des négociations poursuivies par des maisons alle-
+mandes en vue d'un emprunt de 10 millions à consentir au Gouvernement marocain,
+conformément aux recommandations que vous m'avez adressées par votre télégramme
+d'hier.
+
+
+J'avais nettement visé le Comte de Tattenbach.
+
+
+Mon interlocuteur m'a donné l'assurance qu'on lui avait envoyé de nouveau des
+instructions formelles, l'invitant à rester étranger à toutes ces démarches allemandes,
+mais qu'on n'avait pas encore reçu ses explications. J'ai insisté sur ce fait que le
+Sultan, après avoir déclaré qu'il ne pouvait traiter avant la réunion d'une Conférence
+internationale, ne devait pas spontanément manifester les dispositions sur lesquelles
+on semblait compter.
+
+
+J'ai rappelé, à propos des négociations financières, la clause de préférence inscrite
+dans le contrat d'emprunt de 1904 au profit du consortium de banques françaises.
+
+
+265
+
+
+M. de Mühlberg m'a fait remarquer, ainsi que je m'y attendais, que l'Allemagne
+n'ayant pas participé au contrat d'emprunt serait d'avis que ladite clause ne la con-
+cerne pas et que ce serait plutôt l'affaire du Sultan de concilier la clause avec l'ar-
+ticle 17 de la Convention de Madrid. Il avait insinué auparavant qu'il ne s'agissait
+pas, sans doute, d'un emprunt proprement dit, mais d'une opération d'un autre
+caractère. J'ai déclaré qu'aucune distinction ne me paraissait pouvoir soustraire à la
+clause de préférence même la plus habile opération de prêt.
+
+
+M. de Mühlberg m'a dit que l'étude du programme se poursuivait dans de bonnes
+conditions, mais que la nécessité d'obtenir des renseignements de M. de Tattenbach
+entraînerait probablement un retard d'une quinzaine de jours.
+
+
+BIHOURD.
+
+
+N° 300.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 11 août 1905.
+
+
+Le qaïd des Oulad Aïssa a arrêté ces jours derniers un de nos notables sujets Algé-
+riens, Si Bouzian el Miliani, et l'a fait conduire enchaîné à Fez où il a été empri-
+sonné. Je n'ai pas besoin de rappeler à Votre Excellence que le Makhzen aurait
+dû porter devant l'autorité française ses plaintes contre Si Bouzian, qui échappe entiè-
+rement à sa juridiction. Cette règle, conforme aux traités et à une tradition constante,
+s'applique à tous les Marocains protégés. Elle est plus respectable a fortiori et, en fait,
+elle est toujours respectée, quand il s'agit d'un étranger. Si Bouzian, indigène d'Algérie,
+et porteur d'une patente d'Algérien, est sujet Français. Il a toujours été reconnu comme
+tel et c'est toujours le vice-consul de France à Fez qui règle ses démêlés avec les autorités
+locales. M. Gaillard a donc adressé au Gouverneur de Fez, au sujet de l'emprison-
+nement d'un sujet Français, une protestation qui est restée sans réponse; il a en même
+temps fait faire sur place une enquête d'où il résulte que le qaïd, jaloux de la situation
+acquise dans la tribu par Si Bouzian, a attiré cet Algérien dans un véritable guet-
+apens. Bien que l'enquête ait paru aussi établir que le qaïd s'était fait couvrir par un
+ordre du Makhzen, j'ai cru devoir ne mettre d'abord en cause que ce fonctionnaire,
+de manière à ménager au Makhzen la possibilité de rejeter sur l'agent local toute la
+faute commise. Je suis donc allé hier demander à Ben Sliman: 1 la remise immé-
+diate du détenu au Mokhazni de notre Vice-Consul; 2° une indemnité de 1,000 dou-
+ros pour Si Bouzian; 3º la révocation du qaïd des Oulad Aïssa.
+
+
+Ces satisfactions ne sont certainement pas exagérées. En tardant à les réclamer,
+j'aurais craint d'encourager de nouvelles attaques contre nos droits et de laisser de-
+venir promptement plus critique la situation déjà défavorable créée indirectement par
+l'action allemande pour tous les intérêts français au Maroc.
+Ben Sliman ayant
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+34
+
+
+266
+
+
+voulu s'engager dans un exposé des griefs que le Makhzen aurait contre Si Bouzian,
+je lui ai rappelé que ce sujet Français échappait absolument à la juridiction du
+Makhzen. Ben Sliman s'est aventuré alors jusqu'à me dire que le Sultan ne recon-
+naissait pas à des Musulmans établis au Maroc cette prétendue situation de sujets
+Français. Il a ajouté d'ailleurs qu'il rendrait compte au Sultan de ma communica-
+tion.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 301.
+
+
+Le Comte DE SAINT-AULAIRE, Chargé des affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 13 août 1905.
+
+
+Le bruit circule avec persistance que les négociations relatives à un emprunt alle-
+mand font de rapides progrès. Il s'agirait d'une somme de deux cent cinquante à
+cinq cent mille livres sterling au plus, gagée par les biens du Makhzen situés à proxi-
+mité de Tanger et d'un ou deux autres ports qui ne sont pas désignés. Cette opéra-
+tion revêtirait, en apparence, un caractère exclusivement commercial et serait pré-
+sentée comme destinée à permettre au Makhzen de parer au plus pressé, en attendant
+les décisions de la Conférence en matière financière.
+
+
+Même ramènée au chiffre de cinq cent mille livres sterling, une opération de ce
+genre est considérée par les hommes d'affaires comme ayant surtout pour objet de
+masquer des visées politiques sur le littoral marocain.
+
+
+A l'exception de biens peu importants situés dans l'enceinte ou le voisinage immé-
+diat des ports, les propriétés du Makhzen sont en effet, en l'état actuel du pays,
+impropres à toute exploitation fructueuse.
+
+
+SAINT-AULAIRE.
+
+
+N° 302.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 13 août 1905.
+
+
+Il me paraît nécessaire que vous entreteniez de nouveau et le plus tôt possible
+
+
+267
+
+
+M. de Mühlberg de la question de l'emprunt marocain. Le secret dans lequel cette
+affaire a été engagée, le fait reconnu par le Prince de Radolin, dans sa note du 4 août;
+que les avances projetées ont été non demandées par le Sultan, mais lui ont été
+offertes, et enfin la circonstance que ces offres émanaient de banques qui sont notoi-
+rement en rapport avec le Gouvernement allemand, tout démontre que cette négo-
+ciation n'a pu se suivre sans la participation directe ou indirecte du Gouvernement
+Impérial.
+
+
+D'autre part, je ne puis pas ne pas être frappé de ce fait, que les apaisements que
+je reçois dans cette question de l'emprunt et dans celle des concessions ne me
+parviennent que sous une forme qui n'engage pas le Gouvernement allemand ou
+l'engage le moins possible; c'est verbalement ou par des notes non datées ni signées
+qu'ils me sont donnés et non, jusqu'à présent, par lettres en réponse aux miennes.
+Contrairement aux assurances formelles qui vous avaient été exprimées par le Prince
+de Bülow, on prolonge ainsi le plus qu'on peut la période d'incertitude et l'on n'ex-
+elut pas la possibilité de nouvelles surprises.
+
+
+J'appelle tout spécialement votre attention sur cet état de choses, dont vous com-
+prendrez les dangers, et je vous prie de ne rien négliger pour amener le Gouverne-
+ment allemand à répondre à bref délai, par écrit et avec toute la précision désirable,
+aux observations que nous lui avons présentées à ce sujet, notamment dans la der-
+nière partie de ma lettre du 1er de ce mois.
+
+
+En ce qui concerne particulièrement l'emprunt, vous voudrez bien faire remarquer
+que si, comme on l'assure, il doit être gagé sur les domaines du Sultan, il est impos-
+sible de ne pas voir que la constitution d'un pareil gage aurait un caractère politique
+et soulèverait dès lors non moins d'objections que les « concessions économiques ou
+administratives » que, d'après la note du 4 août, le Gouvernement Impérial aurait
+interdit aux banques allemandes de stipuler. Il ne saurait d'ailleurs échapper au
+Cabinet de Berlin, et vous insisterez sur ce point, qu'ayant comme nous en vue le re-
+lèvement du Maroc, il irait à l'encontre de notre but commun s'il laissait fournir des
+fonds au Sultan avant qu'on ait déterminé, ainsi que nous l'avons proposé, les dé-
+penses d'utilité publique auxquelles ils devront être affectés, ce qui sera l'œuvre de
+la Conférence.
+
+
+ROUVIER.
+
+
+N° 303.
+
+
+Le Comte DE SAINT-AULAIRE, Chargé des affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 14 août 1905.
+
+
+Ce matin, au cours d'une visite qu'il m'a faite, le Chargé d'affaires d'Allemagne
+
+
+34.
+
+
+268
+
+
+m'a entretenu des bruits qui circulent à Tanger relativement à un emprunt allemand:
+Après m'avoir dit que c'était de sa propre initiative qu'il venait me voir à cette occa-
+sion, il m'a déclaré que depuis l'accord du 8 juillet, une confiance réciproque devait
+ètre la règle de nos rapports comme de ceux de nos Gouvernements. S'inspirant de
+ce sentiment il tenait à ce que je fusse ici le premier informé de ce qu'il pouvait y
+avoir de fondé dans les bruits dont il s'agit. Il ne m'apprendrait d'ailleurs rien, m'a-
+t-il assuré, qui n'ait été récemment communiqué à Votre Excellence par le Prince de
+Radolin.
+
+
+Reproduisant donc les indications qui, d'après lui, vous auraient déjà été fournies,
+le Baron de Langwerth m'a assuré que les banquiers allemands venaient ou étaient
+sur le point de s'entendre, par l'entremise de la maison Pariente, avec le Makhzen
+au sujet d'un prêt de 10 millions de marks. Il m'a dit qu'il ne s'agissait pas là d'un
+emprunt proprement dit ni surtout d'un acte de nature à préjuger les décisions de la
+Conférence et de diminuer la valeur des engagements pris vis-à-vis de nous. Bien au
+contraire; le Gouvernement allemand, fidèle à la parole donnée, est intervenu pour
+détourner les banquiers d'étudier une combinaison plus importante. Il a seulement
+admis que leur concours fût prèté au Sultan sous forme d'une avance impérieuse
+dans l'état actuel du trésor chérifien. Cette avance ne doit nous donner aucun om-
+brage, car elle ne constitue pas un titre durable pour la finance allemande. Elle
+ne peut, en effet, manquer d'être remboursée bientôt sur les fonds de l'emprunt
+dont la Conférence reconnaîtra la nécessité et déterminera les conditions. Le gage
+affecté aux nouveaux créanciers du Makhzen et que mon collègue a évité de préciser,
+tombera alors de lui-même. Les banquiers intéressés n'attachent d'ailleurs pas grande
+importance à ce gage, et la meilleuré preuve en est qu'au lieu de verser intégralement
+au Sultan le montant nominal de leur prêt, ils retiennent les sommes nécessaires au
+payement des intérêts pendant une certaine période. Aussi n'est-ce pas sans résistance
+qu'ils ont seulement conclu, à la demande du Gouvernement Impérial, une affaire
+si peu rémunératrice et qui (le Baron de Langwerth a insisté sur ce point) ne saurait
+donc être qualifiée de concession. Mais en ne s'opposant pas à cette avance on était,
+à Berlin, animé du désir de donner au Sultan ce témoignage de bonne volonté afin
+« de le mettre en confiance» et de préparer ainsi le succès des démarches à entre-
+prendre, conjointement avec nous, pour le gagner à la cause des réformes.
+
+
+SAINT-AULAIRE.
+
+
+N° 304.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 14 août 1905.
+
+
+J'ai revu M. de Mühlberg et, conformément aux instructions de Votre Excellence,
+
+
+269
+
+
+j'ai appelé de nouveau son attention sur le prèt de 10 millions de marks qu'un
+consortium de banquiers allemands serait sur le point de consentir au Sultan. J'ai
+bien marqué que l'importance du prêt sur des domaines impériaux donnés en gage qui
+seraient, d'après une indication de M. de Mühlberg, situés à Tanger, les démarches
+des banques qui n'avaient pu manquer de demander au moins des conseils à la
+Wilhelmstrasse, les conséquences de l'opération destinée à couvrir des dépenses dont
+la détermination allait ainsi échapper aux décisions de la Conférence, enfin que toutes
+ces circonstances concordaient à démentir le caractère privé de l'emprunt. Le Sous-
+Secrétaire d'État n'a pas tenté de nier la participation du Gouvernement Impérial à.
+l'opération; il s'est borné à contester son caractère d'emprunt et l'a présentée comme
+une avance personnelle au Sultan accablé par les dépenses, entre autres celles résul-
+tant de la présence simultanée et prolongée de trois missions étrangères; il a fait valoir
+que l'avance ne comportait aucune concession économique, qu'elle serait remboursée
+sur l'emprunt, lequel demeurait réservé à la Conférence, et qu'elle ne paraissait ainsi
+constituer aucune dérogation  l'esprit des lettres échangées le 8 juillet dernier. J'ai
+fait remarquer que le gage attribué aux prêteurs ne comportait pas l'interprétation
+que j'entendais. J'ai ajouté qu'il serait indispensable, pour aider le Sultan à régler ses
+dépenses, de connaître celles-ci et que d'ailleurs rien n'était plus aisé que de les
+alléger en rappelant immédiatement les missions à Tanger. M. de Mühlberg m'a
+donné lecture d'un télégramme qu'il allait adresser au Prince de Radolin pour le prier
+d'exposér à Votre Excellence les origines de l'opération financière et surtout, je crois,
+pour avoir communication du contrat de 1904, dont l'article 33 stipule un droit
+de préférence en faveur des banquiers français. Le Prince de Radolin avait télégraphié,
+le 8 de ce mois, que Votre Excellence avait été satisfaite des explications qu'il vous
+avait apportées et que vous aviez simplement mentionné le monopole accordé
+à nos compatriotes, ce qui a fait dire à M. de Mühlberg que c'était une main-
+mise sur les finances marocaines; je lui ai expliqué qu'il s'agissait d'un
+droit de préférence en réalité profitable au Maroc, et non d'un monopole. J'ai
+pu lire à mon interlocuteur la fin de la lettre de Votre Excellence en date du
+1er août. J'ai exprimé à la fois la confiance que le Gouvernement allemand ne pouvait
+manquer d'y adhérer en termes formels et le désir que, vu l'émotion causée en France
+par l'action divergente du Comte de Tattenbach, cette réponse fût aussi prochaine
+que possible. J'ai insisté sur ce point; mon interlocuteur a favorablement accueilli
+mon insistance. J'ai prié vivement le Sous-Secrétaire d'État de presser la réponse à
+nos propositions, en rappelant le langage du Prince de Bülow réclamant la prompte
+réunion de la Conférence comme le remède aux incertitudes et aux surprises.
+
+
+BIHOURD.
+
+
+270
+
+
+N° 305.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Tanger,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 14 août 1905.
+
+
+Après avoir pris les ordres du Sultan, Ben Sliman a refusé de remettre Si Bouzian
+entre nos mains. Il a expliqué à ce sujet à M. Ben Ghabrit que, s'il se fût agi d'un
+censal ou d'un associé agricole, le Sultan eût reconnu notre droit; mais nous
+réclamons Si Bouzian comme Algérien, comme sujet Français. Or, le Sultan ne savait
+pas ce que c'était qu'un musulman établi au Maroc et qui fût non pas Marocain mais
+Français.
+
+
+A la suite du refus du Makhzen, j'ai cru devoir confirmer par écrit à Ben Sliman
+les trois demandes indiquées dans mon télégramme du 11 de ce mois: remise du
+captif entre nos mains; indemnité de mille douros; révocation du qaïd coupable. J'ai
+ajouté que nous réclamerions une indemnité de cent douros par jour de retard jus-
+qu'à la libération du prisonnier.
+
+
+Si le Makhzen maintient son refus, il semble que nous devrions exiger non plus la
+révocation du qaïd mais des excuses du Makhzen.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 306.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+17 août 1905.
+
+
+J'ai l'honneur de vous adresser ci-joint, en copie, un extrait d'un télégramme
+envoyé par le Gouvernement allemand au Prince de Radolin et que celui-ci a remis,
+le 16 de ce mois, au Directeur de mon Cabinet.
+
+
+Ainsi que vous le verrez, ce télégramme renferme diverses explications sur les
+conditions dans lesquelles le Makhzen aurait négocié l'emprunt qu'il est question de
+conclure en Allemagne. Pour satisfaire au désir exprimé à la fin de cette communi-
+cation, mon Département a fait remettre hier à l'Ambassadeur d'Allemagne le texte
+de l'article 33 du contrat d'emprunt franco-marocain, qui réserve un droit de pré-
+férence à nos compatriotes. Je crois utile de vous en adresser également ci-jointe la
+copie.
+
+
+こん
+
+
+271
+
+
+Vous voudrez bien ne pas manquer de relever à l'occasion l'allusion faite dans le
+télégramme du Gouvernement allemand aux prétendus encouragements extérieurs
+qu'aurait reçus la rébellion.
+
+
+ANNEXE.
+
+
+Les attaques de la presse française à cause de l'avance faite par des banques allemandes
+au Sultan du Maroc reposent sur une altération tendancieuse de la vérité et tendent à créer
+des difficultés à la politique de M. Rouvier.
+
+
+L'histoire de l'affaire est la suivante :
+
+
+Au commencement du mois d'avril, la maison anglaise Moses Pariente à Tanger avait
+adressé, à l'instigation de la maison Samuel Montagu et $C^{ie}$ à Londres, à la maison de
+banque berlinoise Mendelsohn et $C^{ie}$ la demande si le marché allemand serait prêt à tirer
+d'embarras le Gouvernement chérifien par le prêt de 2 à 3 millions de livres sterling. Les
+banques espagnoles, anglaises et françaises avaient décliné cette demande. A la suite de cette
+demande de la maison Moses Pariente une société de banquiers s'est formée à Berlin, qui,
+quoique ayant refusé l'emprunt demandé, s'est déclarée néanmoins prête à avancer au Sultan
+la somme de 10 millions de marks qui serait assurée par le prochain emprunt régulier du
+Maroc. Cette avance serait à rembourser après deux ans au plus tard par l'emprunt avec un
+intérêt de 6 p. o/o. Eu égard aux promesses faites à la France, nous avons empêché que
+l'avance devrait dépendre de n'importe quelles concessions économiques ou d'un autre
+genre, particulièrement en ce qui concerne la concession d'un chemin de fer de Tanger par
+Fez à Mogador, dont il a été question. Par contre nous n'avons pas eu de raison d'empêcher
+l'avance même, puisqu'il ne s'agissait pas dans cette affaire d'avantages économiques particu-
+liers, mais d'un crédit de banque de courte durée. Ce crédit était du reste dans l'intérêt
+général, la sécurité du Maroc ainsi que l'œuvre de réformes qui doit être traitée à la Confé-
+rence courant de grands risques, si le marché financier avait refusé au Sultan tout secours
+pour le faire sortir de son anxiété momentanée.
+
+
+Le Sultan se trouvait à cette époque, par les difficultés permanentes de la situation, parti-
+culièrement par la rébellion, qui de temps à autre était nourrie par des influences étran-
+gères, dans un grand embarras d'argent.
+
+
+M. Rouvier a fait observer dans le temps que le Sultan s'était engagé, lors de la conclusion
+du traité d'emprunt avec les banques françaises, à ne contracter aucun nouvel emprunt
+sans le consentement de ces banques. Le Gouvernement Impérial ne pourrait se rendre
+compte complètement de cette affaire que s'il avait connaissance du texte de ce traité.
+
+
+272
+
+
+N° 307.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 17 août 1905.
+
+
+Je dois revenir sur la question de l'emprunt. L'opération proposée au Sultan par
+un groupe d'importantes banques allemandes ne peut être envisagée, quels qu'en
+soient le gage et la forme juridique, surtout en pays musulman, que comme un vé-
+ritable prêt. Le Makhzen ne saurait donc, alors qu'il n'a pas fait d'offre préalable
+au consortium français, contracter cet emprunt sans violation formelle de son con-
+trat de juin 1904.
+
+
+Une telle opération aurait pour effet de donner un nouvel encouragement aux
+résistances que le Makhzen oppose aux réformes. Elle favoriserait ses habitudes de
+gaspillage financier.
+
+
+Il ne saurait échapper au Cabinet de Berlin que les Puissances qui doivent prendre
+part à la Conférence en vue du relèvement du Maroc iraient à l'encontre de leur
+but si elles laissaient fournir des fonds au Sultan avant qu'on ait déterminé, ainsi
+que nous l'avons proposé, les dépenses d'utilité publique auxquelles ils devront être
+affectés.
+
+
+Le Prince de Radolin m'a dit que le Gouvernement Impérial avait interdit au groupe
+allemand de stipuler des concessions économiques ou administratives, et qu'il ne
+pouvait s'agir que d'une affaire privée. Mais on ne peut contester que l'affaire a pris
+un caractère politique. Ce serait en effet porter une atteinte sérieuse à l'indépen-
+dance du Sultan que de laisser prendre en gage dans des proportions notables le
+domaine privé de l'État. On a fait valoir que les biens engagés ne se prêteraient sans
+doute pas à une exploitation très fructueuse; ce serait un motif de plus de penser
+que l'opération projetée a une portée politique.
+
+
+La situation des biens offerts en gage pourrait enfin soulever, au même point de
+vue, les plus graves objections.
+
+
+Je me refuse à croire que le Gouvernement Impérial, après avoir adhéré aux
+principes fixés dans nos arrangements du 8 juillet dernier, après avoir accepté de
+donner d'un commun accord avec nous au Sultan les conseils en vue de la fixation
+du programme de la Conférence, n'envisage pas au même point de vue que nous
+l'opération que les banques allemandes ont offert de réaliser.
+
+
+Dans la note que le Gouvernement allemand m'a fait remettre le 4 août dernier
+par le Prince de Radolin, il est dit que Gouvernement Impérial réserve son attitude
+vis-à-vis du contrat relatifau port de Tanger jusqu'au moment où il aura été informé.
+J'ai accueilli avec satisfaction cette déclaration. Je ne doute pas qu'en ce qui concerne
+le prêt projeté par les banques allemandes, le Gouvernement Impérial ne recon-
+naisse qu'il ne s'agit pas davantage d'une opération d'ordre privé dont il puisse se
+désintéresser. Il dépend de lui d'y mettre obstacle, si, comme j'en suis certain, il
+apprécie comme nous les conséquences que cette opération aurait, au point de vue
+
+
+273
+
+
+de l'action commune que nous sommes convenus de poursuivre à Fez, et la situation
+dans laquelle elle placerait les deux gouvernements, soit vis-à-vis l'un de l'autre, soit
+au regard des Puissances appelées à se prononcer sur les réformes nécessaires.
+
+
+Notre sincère désir est de mener à bien les négociations en cours; nous observons
+pour notre part vis-à-vis du Makhzen l'attitude réservée que ces négociations nous
+paraissent commander. De son côté, le Gouvernement Impérial nous a donné spon-
+tanément et à plusieurs reprises les plus favorables assurances sur le caractère désin-
+téressé de son intervention. J'ai confiance qu'il reconnaîtra avec nous la nécessité de
+mettre fin à une situation dont le caractère anormal s'accentue chaque jour davan-
+tage et qui pourrait aboutir à rendre illusoire la procédure adoptée, à sa demande,
+pour le règlement de l'affaire marocaine.
+
+
+Je vous prie de donner connaissance le plus tôt possible au Gouvernement Im-
+périal de ces observations.
+
+
+ROUVIER.
+
+
+N° 308.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ-TAILLANDIER, Ministre de la République française à
+Tanger.
+
+
+Paris, le 18 août 1905.
+
+
+J'approuve votre attitude à l'occasion de l'incarcération de Si Bouzian et je compte
+soutenir les revendications que vous avez formulées.
+
+
+Ainsi que vous le faites justement observer, il est évident que les étrangers doivent
+a fortiori bénéficier de la règle, reconnue par la Convention de Madrid, d'après la-
+quelle les Marocains protégés échappent à la justice marocaine. Toutes les Puissances
+ont intérêt à la stricte application de cette règle. Je me propose de mettre les Gouver-
+nements étrangers au courant de cet incident.
+
+
+ROUVIER.
+
+
+N° 309.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+21 août 1905.
+
+
+L'Ambassadeur d'Allemagne vient de donner communication à mon Département
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+35
+
+
+274
+
+
+d'une nouvelle note qui lui a été adressée par son Gouvernement au sujet de la
+question de l'emprunt marocain, qu'on y qualifie de crédit de banque passager et
+étroitement limité ». J'y relève le passage suivant : « La question de savoir si le crédit
+donné par les banques allemandes est incompatible avec le traité d'emprunt conclu
+avec les banques françaises ne saurait être jugée d'après un seul article, mais seule-
+ment d'après la teneur complète de ce traité. En tout cas la teneur de l'article 33 ne
+s'opposerait pas à la concession du crédit, puisqu'il ne s'agit pas d'un véritable em-
+prunt, mais bien d'une avance en compte courant, remboursable dans un bref délai
+et ne représentant qu'une dette flottante de banque.
+
+
+En outre l'article 33 donne lieu à des observations en tant qu'il met des obstacles
+à la liberté d'action financière et par conséquent à l'indépendance du Gouvernement
+marocain. Donc il paraît au moins douteux, si une telle stipulation peut prétendre à
+ètre prise en considération au point de vue international juridique et surtout au
+point de vue de l'article 17 de la Convention de Madrid.  
+
+
+N° 310.
+
+
+ROUVIER.
+
+
+Le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Paris, le 21 août 1905.
+
+
+Le Comte de Tattenbach, invité à s'expliquer sur son attitude au sujet des ques-
+tions de concessions, vient de répondre que pendant son séjour à Fez il n'a ni
+demandé ni obtenu des concessions, soit du Sultan, soit du Gouvernement marocain.
+Il n'a pas appliqué ses instructions à la construction du port de Tanger, parce qu'il
+s'agissait dans ce cas d'une commande d'exécuter un plan de construction tout arrêté,
+commande qui avait été donnée à l'industrie allemande contre remboursement plu-
+sieurs mois avant notre entente avec la France, et à laquelle il ne s'agissait que de
+donner une conclusion formelle.
+
+
+D'après ces renseignements, Votre Excellence voudra bien se convaincre que les
+nouvelles concernant des prétendues démarches de la part du Comte Tattenbach en
+vue d'obtenir des constructions de port, des concessions de câble et des commandes
+de navires, ne sont pas fondées.
+
+
+Vous voulez bien vous rappeler, Monsieur le Président, qu'au mois de juin j'ai eu
+l'honneur de vous communiquer que des entreprises commerciales, surtout des con-
+structions de port en grand nombre, nous avaient été offertes de la part du Gouverne-
+ment marocain; mais que, par égard pour la France, nous avions renoncé à accepter
+toutes ces offres.
+
+
+Je ne puis que répéter à Votre Excellence que mon Gouvernement fait tout ce qui
+
+
+275
+
+
+est en son pouvoir pour ne pas modifier l'état de choses au Maroc et pour ne pas
+porter préjudice à l'avenir de ce pays. Aussi, mon Gouvernement a-t-il renouvelé au
+comte Tattenbach, à plusieurs reprises, ses instructions dans ce sens.
+
+
+Espérant revoir Votre Excellence prochainement, j'ai l'honneur d'ètre, etc.
+
+
+RADOLIN.
+
+
+N° 311.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+aux Représentants diplomatiques de la République française, à
+Londres, Pétersbourg, Berlin, Rome, Madrid, Vienne, Washington,
+Bruxelles, La Haye, Copenhague, Stockholm, Lisbonne.
+
+
+Paris, le 21 août 1905.
+
+
+Notre Ministre à Fez vient de me faire connaître que le Gouvernement chérifien a
+emprisonné un de nos sujets Algériens, le nommé Si Bouzian el Miliani, en marquant
+son intention de le soustraire à notre juridiction.
+
+
+Ce fait constitue une violation des traités, et la question qu'il soulève touche la France
+au premier chef comme puissance limitrophe du Maroc, en raison notamment du grand
+nombre de nos ressortissants Algériens qui résident ou qui voyagent dans l'Empire
+chérifien. Si les Algériens ne pouvaient plus séjourner au Maroc sans être exposés à
+subir un semblable traitement, les relations entre l'Algérie et le Maroc deviendraient
+impossibles.
+
+
+Le Gouvernement de la République se voit en conséquence dans l'obligation de
+demander complète satisfaction.
+
+
+Toutes les Puissances signataires avec le Maroc de la Convention de Madrid du
+3 juillet 1880 ou y ayant adhéré ont d'ailleurs intérêt au respect des principes qui
+se trouvent ainsi mis en cause. En vertu d'une règle, reconnue par cet acte interna-
+tional, les Marocains protégés échappent à la juridiction marocaine; a fortiori les
+C
+étrangers, sujets des Puissances, doivent-il bénéficier du même avantage.
+
+
+Je vous serai très obligé d'indiquer au Gouvernement auprès duquel vous êtes
+accrédité le point de vue où se place le Gouvernement de la République pour faire
+donner à cet incident une solution également satisfaisante pour toutes les Puissances
+qui ont des ressortissants au Maroc. Vous ajouterez que la France a l'intention de
+poursuivre seulement les réparations nécessaires sans rechercher à cette occasion
+aucun avantage particulier.
+
+
+Vous voudrez bien, dans votre plus prochain entretien avec le Ministre des
+Affaires étrangères, le mettre au courant de cette affaire et me rendre compte le plus
+tôt possible de la conversation que vous aurez eue à ce sujet.
+
+
+ROUVIER.
+
+
+35.
+
+
+276
+
+
+N° 312.
+
+
+M. GEOFFRAY, Chargé d'affaires de la République française à Londres,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Londres, le 22 août 1905.
+
+
+En l'absence de Lord Lansdowne, j'ai parlé à Sir E. Gorst, Sous-Secrétaire d'État
+adjoint, de la lettre circulaire de Votre Excellence du 21 de ce mois, relative à
+l'arrestation de l'algérien Si Bouzian. Sir E. Gorst m'a répondu qu'il ne pouvait que
+s'associer aux considérations développées par Votre Excellence dans ce document, et
+qu'il comprenait qu'une pression énergique devait être exercée sur le Sultan pour
+l'amener à reconnaître le droit de juridiction que les Gouvernements possèdent sur leurs
+nationaux dans l'Empire marocain. Il a ajouté qu'en me tenant ce langage il était
+certain d'être l'interprète fidèle des sentiments du Secrétaire d'État.
+
+
+GEOFFRAY.
+
+
+N° 313.
+
+
+M. JULES CAMBON, Ambassadeur de la République française à Madrid,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Saint-Sébastien, le 23 août 1905.
+
+
+J'ai communiqué à M. Montero Rios les vues de Votre Excellence au sujet de
+l'arrestation d'un sujet algérien par le Gouvernement marocain. Je lui ai lu votre
+lettre du 21 èt lui ai dit vos intentions d'obtenir complète satisfaction, ajoutant que
+vous espériez y parvenir de la bonne volonté du Gouvernement marocain, vous
+réservant d'avoir recours à telles mesures qui conviendraient si cette bonne volonté
+fait défaut. M. Montero Rios m'a remercié de la communication. Il a ajouté que la
+France défendait dans ce cas les intérêts de toutes les Puissances, que c'était non
+seulement son droit mais son devoir d'agir comme elle le faisait, et que nous pouvons
+compter sur son concours.
+
+
+JULES CAMBON.
+
+
+277
+
+
+N° 314.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 23 août 1905.
+
+
+Le Comte de Pourtalès, à qui j'ai donné lecture de votre circulaire, relative à l'Algé-
+rien emprisonné par les autorités marocaines, m'a assuré que son Gouvernement
+déplorait cette arrestation et approuverait toutes les mesures que le Gouvernement
+français jugerait bon de prendre pour réprimer la violation dont ses droits paraissent
+avoir été l'objet de la part du Makhzen.
+
+
+N° 315.
+
+
+LE MARQUIS DE REVERSEAUX, Ambassadeur de la République française à
+Vienne,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Vienne, le 24 août 1905.
+
+
+J'ai donné lecture au Ministre des Affaires étrangères de votre dépêche du 21 de
+ce mois, relatant l'emprisonnement d'un de nos sujets Algériens.
+
+
+Le Comte Gołuchowski, auquel j'ai fait ressortir le point de vue du Gouvernement
+de la République et son intention de ne rechercher dans la poursuite des réparations
+nécessaires aucun avantage particulier, a reconnu que notre droit d'obtenir justice
+était absolu et que l'exercice de ce droit ne pouvait que profiter à tous. Il a donc
+fait des vœux pour que prompte satisfaction nous soit accordée et m'a remercié de
+ma communication.
+
+
+REVERSEAUX.
+
+
+278
+
+
+N° 316.
+
+
+M. LEGRAND, Chargé d'affaires de la République française près le Gouverne-
+ment Italien,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Rome, le 24 août 1905.
+
+
+J'ai donné lecture de votre dépêche relative à l'incident marocain à M. Fusinato,
+qui a pris acte de cette communication. Il m'a dit qu'à son avis toutes les Puissances
+ayant des ressortissants au Maroc avaient un égal intérêt à ce que la France obtint,
+dans l'espèce, les réparations auxquelles elle a droit; qu'il trouvait par conséquent
+notre action absolument légitime et qu'il pouvait se porter fort que le sentiment de
+M. Tittoni ne différerait pas du sien.
+
+
+LEGRAND.
+
+
+N° 317.
+
+
+M. BAYLIN DE MONBEL, Ministre de la République française à La Haye,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+La Haye, le 24 août 1905.
+
+
+Hier, pour la première fois, M. Van Tets, nouveau Ministre des Affaires étran-
+gères, a reçu le Corps diplomatique. En raison même de l'affluence des visiteurs,
+chacun d'eux n'a consacré qu'un temps relativement court à ses affaires personnelles :
+j'ai cependant pu aborder la question qui est pour nous d'actualité importante, l'ar-
+restation récente de l'un de nos sujets Algériens au Maroc.
+
+
+Ainsi que m'y invitait Votre Excellence, j'ai fait ressortir devant le Ministre de la
+Reine l'obligation, pour le Gouvernement de la République, de ne pas laisser impu-
+nie une pareille dérogation aux traités. Si la Convention de Madrid a pour but de
+soustraire à la juridiction du Makhzen les sujets du Sultan, en rapports d'affaires
+avec les Européens, a fortiori, est-il inadmissible qu'un sujet d'une Puissance étran-
+gère dépende du bon vouloir ou de la duplicité des autorités marocaines. Or, dans
+les conjonctures présentes, l'arrestation de Si Bouzian El Miliani révèle une prémé-
+ditation tellement abusive, qu'il serait imprudent de la passer sous silence. En raison
+
+
+279
+
+
+même de la situation privilégiée qu'occupe la France au Maroc, pour toutes sortes de
+causes politiques et historiques qui font qu'aux yeux du Sultan comme de ses sujets,
+une injure à ses droits rejaillit également sur ceux des nations civilisées, le Gouver-
+nement de la République a pris la résolution de donner à cette affaire la suite qu'elle
+lui paraît comporter. Il ne se propose d'ailleurs que d'agir au point de vue du bien
+général, sans rechercher aucun avantage particulier,
+
+
+M. Van Tets m'a remercié de mes déclarations.
+
+
+MONBEL..
+
+
+N° 318.
+
+
+M. CROZIER, Ministre de la République française à Copenhague,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Copenhague, le 24 août 1905.
+
+
+Conformément aux instructions de Votre Excellence, j'ai fait cet après-midi au
+Ministre des Affaires étrangères la communication touchant l'affaire «Bouzian El
+Miliani ».
+
+
+Le Comte Raben m'a exprimé ses souhaits les plus chaleureux pour que la France
+ait toute satisfaction ».
+
+
+CROZIER.
+
+
+N° 319.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne, à Paris.
+
+
+Paris, le 25 août 1905.
+
+
+Vous me faites connaître, par lettre du 21 de ce mois, que le Comte de Tatten-
+bach, invité par son Gouvernement à s'expliquer sur la concession du môle de
+Tanger, vient de répondre « qu'il n'a pas appliqué ses instructions à la construction
+
+
+280
+
+
+du port de Tanger puisqu'il s'agissait, dans ce cas, d'une commande d'exécuter un plan
+de construction tout arrêté, commande qui avait été donnée à l'industrie allemande
+contre remboursement plusieurs mois avant l'entente avec la France et à laquelle il
+ne s'agissait que de donner une conclusion formelle ».
+
+
+D'après des renseignements qui me sont parvenus de source sûre, l'industrie alle-
+mande n'avait étudié aucun plan ni dressé aucun devis avant la fin du mois de mai
+1905; ses propositions, basées sur des études hâtives et rudimentaires, ont eu sur-
+tout en vue de supplanter des propositions de l'industrie française, antérieures de
+plus de dix-huit mois, qui avaient déjà reçu un commencement d'exécution par la
+construction d'un magasin de douane à Tanger, et qui s'appuyaient sur des plans et
+devis des plus complets dressés à la suite d'une demande du Makhzen lui-même, en
+date du 15 mars 1905.
+
+
+Il suffit d'énoncer ces faits pour qu'il apparaisse que la participation aujourd'hui
+reconnue du Comte de Tattenbach à la conclusion de cette affaire se produisant au len-
+demain même de nos accords, était difficilement conciliable avec l'esprit de ces accords
+et l'attitude qu'ils dictaient aux représentants des deux pays chargés désormais d'une
+mission commune auprès du Sultan.
+
+
+Le Comte de Tattenbach reconnaît d'ailleurs qu'il n'a pu agir que par voie d'inter-
+prétation de ses instructions. En fait, son initiative paraît en opposition réelle avec
+les assurances que Votre Altesse m'avait données dès le mois de juin et qu'elle prend
+soin de rappeler elle-même, assurances d'après lesquelles « des entreprises commer-
+ciales, surtout des constructions de ports en grand nombre, avaient été offertes par le
+Gouvernement marocain au Gouvernement allemand qui, par égard pour la France,
+avait renoncé à les accepter ».
+
+
+D'après la note que Votre Excellence m'a fait parvenir le 4 août dernier, le
+Gouvernement Impérial réservait son opinion sur le contrat en question. J'espère
+qu'en considération des observations ci-dessous, il voudra bien s'employer pour que
+l'exécution en soit suspendue jusqu'à la réunion de la Conférence. La question se
+réglerait alors tout naturellement par l'application du principe d'adjudication en
+matière de travaux publics que nous avons proposé d'établir comme garant des inté-
+rêts du Sultan et de la liberté économique sans aucune inégalité de traitement stipulée
+dans nos accords du 8 juillet.
+
+
+P. S. Votre Excellence trouvera ci-jointe une note en réponse aux explications
+qu'elle a bien voulu me transmettre au sujet de l'emprunt.
+
+
+281
+
+
+ANNEXE.
+
+
+Dans ses entretiens des 16 et 21 août avec le Directeur des Affaires politiques et le Di-
+recteur du Cabinet, le Prince de Radolin a fait connaître que le Gouvernement Impérial
+n'envisageait pas l'opération, qui serait sur le point d'être conclue par un groupe de banques
+allemandes, comme un emprunt, mais comme une simple ouverture de crédit, une avance
+de banque de courte durée. Dans ces conditions, le Cabinet de Berlin ne la jugeait pas en
+contradiction avec l'accord du 8 juillet, ni avec les arrangements verbaux qui ont précisé
+cet accord.
+
+
+Le Gouvernement de la République ne saurait se ranger à l'opinion qui est exposée par le
+Prince de Radolin. Les conditions qui régissent l'opération poursuivie par les établissements
+allemands: gage non négociable commercialement, intérêts anticipés, durée du prêt portée
+à deux années, coopération d'un groupe de banques, ne permettent pas de donner à l'affaire
+un autre caractère que celui d'un véritable emprunt. Elle paraît, en conséquence, incom-
+patible avec l'accord du 8 juillet et avec l'œuvre qui doit être entreprise à la Conférence.
+L'importance des chiffres du futur emprunt, qui correspond à une annuité du revenu des
+douanes marocaines, appelle d'ailleurs d'autres observations.
+
+
+Loin de favoriser l'acquiescement du Sultan à l'œuvre de la Conférence, l'emprunt per-
+mettrait au Makhzen d'écarter à l'heure actuelle le programme de réformes et de reprendre
+pendant un nouveau délai sa politique de gaspillage et d'insouciance du lendemain. Après
+avoir épuisé les ressources mises à sa disposition, le Gouvernement marocain ne manquerait
+pas de chercher à s'en procurer d'autres par les mêmes procédés, sans se soucier désormais
+de compromettre son crédit que la dernière consolidation de sa dette avait si heureusement
+établi à un taux jugé favorable par les États régulièrement administrés.
+
+
+C'est par une politique financière prudente et qui ne prodigue point au Makhzen les
+moyens de dépenser que l'on rétablira la sécurité et l'ordre au Maroc. Le Gouvernement
+français s'est toujours inspiré de ces vues; ses efforts ont toujours tendu à restaurer l'autorité
+du Sultan en lui accordant son appui fidèle contre ses sujets révoltés. Mais il ne saurait con-
+sidérer comme un service rendu au Sultan la mise à sa disposition d'une somme aussi élevée,
+sans garantie donnée sur son emploi.
+
+
+Sans doute, il n'entre pas dans les desseins du Gouvernement de la République d'acculer
+Sa Majesté chérifienne à des embarras d'argent particulièrement pressants et pénibles. S'il ne
+s'agit, en effet, que de lui prêter une assistance pécuniaire limitée à des besoins reconnus, le
+principe en serait admis facilement, à la condition toutefois que l'avance ainsi consentie fût
+de beaucoup moindre importance, de courte durée, et ne comportât pas de gage immobilier;
+la somme ainsi prêtée devrait, en outre, faire à bref délai l'objet d'une opération de consoli-
+dation sur les bases qui seraient déterminées par la Conférence.
+
+
+Pour réaliser une opération de ce genre, le Gouvernement chérifien n'a pas besoin de
+recourir à des combinaisons nouvelles. Les voies et moyens qui lui ont permis de contracter
+l'emprunt de 1904 restent à sa disposition, comme ils l'eussent été à tout moment, s'il avait
+demandé aux banques françaises qui ont souscrit cet emprunt d'en chercher une nouvelle
+application.
+
+
+Quant au droit de préférence qui a été reconnu à ces banquiers, il ne saurait être mis en
+question. Il est d'ailleurs la contre-partie d'avantages consentis simultanément au Sultan. Ce
+droit est inscrit à l'article 33 du contrat du 12 juin 1904, le seul article qui ait trait aux
+engagements financiers du Gouvernement chérifien en dehors des articles qui règlent les
+conditions mêmes de l'emprunt.
+
+
+Cette clause ne crée pas au profit des banques françaises un monopole susceptible de por-,
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+36
+
+
+282
+
+
+ter atteinte à la souveraineté du Sultan, puisqu'elle n'exclut pas la concurrence d'autres éta-
+blissements financiers de toute nationalité; que tout au cont aire elle la stimule au profit du
+Trésor chérifien. La clause de préférence ne prévaut en effet qu'à égalité de prix et de condi-
+tions. On ne peut demander au Gouvernement de la République de méconnaître et d'aban-
+donner les droits particuliers qui découlent pour ses ressortissants des contrats passés par le
+Sultan et le Makhzen.
+
+
+Telles sont les observations d'ordre général qui empêchent le Gouvernement de la Répu-
+blique d'adhérer à l'avis exprimé par le Prince de Radolin.. L'opération fmancière projetée
+par les établissements allemands apparaît comme étant préjudiciable aussi bien aux véritables
+intérêts du Makhzen qu'à l'œuvre réservée à la Conférence.
+
+
+Le Gouvernement de la République appelle de nouveau l'attention du Cabinet de Berlin
+sur les considérations qui doivent mettre obstacle à la conclusion de l'opération projetée.. IH
+a confiance que la Chancellerie Impériale sera elle-même d'avis qu'il est préférable de ne pas
+donner suite à la négociation de l'emprunt offert par les banques allemandes.
+
+
+N° 320.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en
+mission à Fez.
+
+
+Paris, le 25 août 1905..
+
+
+Le Conseil des Ministres a délibéré sur l'incident soulevé par l'arrestation de notre
+sujet Algérien Si Bouzian. A l'unanimité, il a approuvé les demandes de satisfaction
+que vous avez présentées au Makhzen et il a pris, sur ma proposition, les résolutions
+suivantes:
+
+
+Dès la réception de ce télégramme, vous solliciterez une audience de congé du
+Sultan; vous ferez connaître simultanément à Ben Sliman que vous n'avez pas reçu
+toutes les satisfactions exigées. Vous fixerez la date de votre départ d'après le délai
+nécessaire pour vos préparatifs auxquels j'estime que vous pourrez pourvoir dans la
+huitaine. Passé ce délai, vous vous mettrez en route avec le personnel de la mission,
+vous dirigeant sur Larache.
+
+
+Au moment de votre départ, vous aviserez Ben Sliman que vous accepterez la
+remise de Bouzian entre vos mains ou au Consulat de France à Fez et les autres satis-
+factions exigées jusqu'à votre arrivée à Larache, mais qu'à votre arrivée à Larache
+l'affaire recevra les suites que le Gouvernement de la République entend lui réserver.
+Vous ajouterez que le Makhzen est rendu responsable de la vie de Si Bouzian et de,
+tout dommage causé à la personne ou aux biens de nos nationaux et ressortissants
+résidant au Maroc. Si vous recevez satisfaction en cours de route, vous en donnerez
+acte à l'envoyé du Makhzen, mais vous direz que vous avez mission d'aller prendre à
+Tanger les ordres de votre Gouvernement.
+
+
+Un navire de guerre se trouvera à Larache à la date du 15 septembre, afin de vous
+transporter à Tanger où vous parviendront mes instructions.
+
+
+?
+
+
+Vous laisserez à Fez M. Gaillard.
+
+
+283
+
+
+Dans votre audience de congé, vous exprimerez au Sultan les regrets que votre
+mission soit interrompue dans des conditions semblables et n'ait pas obtenu les résul-
+tats que permettaient d'en espérer les intérêts communs et permanents des deux
+pays et les preuves d'amitié que le Gouvernement de la République n'a cessé de
+donner au Sultan et à son peuple.
+
+
+ROUVIER.
+
+
+N° 321.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez, à M. ROUVIER, Président du Conseil, Ministre des Affaires
+étrangères.
+
+
+Fez, le 25 août 1905.
+
+
+Un certain nombre des réclamations intéressant nos nationaux ont fait l'objet de
+règlements pécuniaires convenus avec le Makhzen depuis un an ou plus. Le Gouver-
+nement marocain, alléguant toujours les embarras du Trésor, n'a pas encore payé
+les sommes ainsi promises dont le total s'élève environ à cent onze mille francs et
+quarante-deux mille pesetas espagnoles. Je compte voir demain Ben Sliman et lui
+demander le payement de ces sommes. Peut-être me sera-t-il répondu par de nou-
+veaux atermoiements. Je prie donc Votre Excellence de m'autoriser à mettre à profit
+l'incident Bouzian pour en finir avec cet arriéré dont j'exigerai le versement à jour
+fixe.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 322.
+
+
+NOTE remise par le Prince DE RADOLIN, Ambassadeur d'Allemagne à Paris,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Paris, le 26 août 1905.
+
+
+En réponse à la lettre du 1er de ce mois, j'ai l'honneur d'informer Votre Excel-
+lence que c'est avec intérèt que le Gouvernement Impérial a pris connaissance des
+propositions du Gouvernement français et qu'il les a soumises à un examen minutieux.
+A la vive satisfaction du Gouvernement Impérial, le résultat de cet examen a été que
+
+
+36.
+
+
+284
+
+
+les propositions peuvent être regardées comme une base acceptable pour les délibé-
+rations de la Conférence aussi bien en ce qui concerne leur nombre que leur contenu.
+Particulièrement le Gouvernement Impérial se range à l'avis du Gouvernement fran-
+çais que le programme de la Conférence devrait être sommaire et qu'il devrait
+s'abstenir d'entrer dans les détails afin de préjuger le moins possible les résolutions
+de la Conférence.
+
+
+Si le Gouvernement français se réfère à la note du 6 juillet en ce qui concerne son
+concours à l'exécution des réformes à faire, le Gouvernement Impérial se permet de
+faire remarquer qu'il n'a reçu cette note qu'au moment où ses dernières propo-
+sitions au sujet de l'échange de notes franco-allemandes étaient déjà parties. Par
+conséquent le Gouvernement Impérial n'a pu préciser sa manière de voir au sujet de
+ces propositions et il en a informé le Gouverneur français. L'accord entre les deux
+Gouvernements a donc été amené sans se référer à cette note, et le Gouvernement
+Impérial espère qu'aussi maintenant une entente puisse se faire sans avoir recours
+à ladite note.
+
+
+Quant aux propositions du Gouvernement français en détail le Gouvernement
+impérial se permet d'expliquer sa manière de voir par ce qui suit :
+
+
+1º Le Gouvernement Impérial est d'accord avecle Gouvernement de la République
+que l'organisation d'une police sûre dans les lieux les plus importants du Maroc, pro-
+posée sous le paragraphe 1er du projet de programme, serait le meilleur moyen pour
+obtenir la pacification du pays. Pourtant le choix des endroits ne devrait pas figurer,
+comme il a été proposé, dans le programme, mais, conformément au principe général
+recommandé par la France, il devrait être réservé à la Conférence pour éviter autant
+que possible d'entrer en détails.
+
+
+Le Gouvernement français désire réserver l'organisation de la police dans les
+districts frontière à l'arrangement particulier entre la France etle Maroc, cette affaire
+ayant été traitée depuis cinquante ans comme affaire exclusivement franco-marocaine.
+En tant que le Gouvernement Impérial connaît les arrangements concernant la fron-
+tière entre la France et le Maroc, il existe des stipulations sur l'organisation de la
+police dans les districts frontière du Maroc, portant que le Maroc est tenu à entre-
+tenir à certains endroits des postes de police qui, le cas échéant, doivent concourir
+avec les postes du côté français. Les postes de police marocains sont sujets à l'influence
+du Maroc puisque leur organisation et administration ne regarde que le Gouverne-
+ment marocain. Il paraît donc tout naturel que l'état des choses ressortant d'une telle
+organisation de la police frontière soit réservé à un arrangement entre la France et le
+Maroc.
+
+
+Si, cependant, il ésait question d'organiser l'administration de la police marocaine
+dans les districts-frontière de la même manière comme cela a été prisen vue pour les
+autres parties de l'Empire chérifien, il serait à éxaminer si une telle organisation
+n'aurait pas besoin d'une sanction internationale par la Conférence; et cela d'autant
+plus, qu'il ne serait peut-être pas sans inconvénient de subvenir à l'entretien de la
+police frontière, conformément au programme de la Conférence (sub. II, al. 3), par
+les crédits ouverts au Makhzen, sans que la Conférence participât à la fixation de
+l'étendue de l'obligation d'entretien.
+
+
+285
+
+
+Il serait naturellement à tenir compte de la situation particulière, dans laquelle la
+France se trouve comme pays limitrophe du Maroc, par la proposition qu'un mandat
+de la Conférence pour l'organisation de la police frontière ne pourrait être concédé à
+aucune autre Puissance qu'à la France. Un tel mandat serait à donner, en ce qui con-
+cerne son contenu, dans la même forme comme le mandat pour l'organisation de la
+police dans les autres parties de l'Empire marocain, et accorderait ainsi à la France
+une base universellement reconnue pour la sécurité de sa frontière.
+
+
+2º Le Gouvernement de la République propose, sub. I, II du projet de pro-
+gramme, comme objet des délibérations : « Surveillance et répression de la contrebande
+des armes par mer ». Il justifie cette proposition avec la remarque que la surveil-
+lance de l'introduction illégale des armes devrait ètre confiée à des mains plus vigou-
+reuses qu'à celles du Gouvernement chérifien. Le Gouvernement Impérial se rallie
+également à cette proposition et croit seulement devoir observer, que les stipulations
+de la Conférence, pour être efficaces, devraient viser la contrebande des armes et par
+terre et par mer. Une stipulation restreignant uniquement l'introduction des armes
+par mer serait à même de repousser la contrebande d'armes à la voie par terre. Le
+programme de la Conférence aurait, dès lors, à prendre en vue un règlement uni-
+forme de l'introduction des armes par toutes les frontières du pays.
+
+
+On pourrait tenir compte dans le programme des points mentionnés sub. I et II
+en rayant, dans le titre de la partie I, les mots hors de la région frontière, etc.»,
+dans le n 1 les mots « à Tanger, Larache, Rabat et Casablanca  et dans le n° 2 les
+mots par mer ».
+
+
+3º Le Gouvernement Impérial accepte également les réformes financières et com-
+merciales proposées sub. II et III du projet de programme. Particulièrement il lui
+paraît comme une idée bien juste que la banque marocaine qui doit être créée doit
+avoir un caractère international tant par sa direction que par la participation du
+capital. Pour l'exécution des réformes financières, il serait recommandable d'ajouter
+au programme de la Conférence les délibérations sur un meilleur rendement des
+impôts et la création de noüveaux revenus, particulièrement en ce qui concerne les
+propriétés foncières.
+
+
+4º Le Gouvernement Impérial n'a pas d'autre supplément à proposer au programme
+de la Conférence. Mais il se réserve sa décision dans le cas où de telles propositions
+seraient faites d'un autre côté.
+
+
+5º Le Gouvernement de la République, jusqu'à présent, ne s'est pas prononcé
+d'une manière définitive, s'il est d'accord que, conformément à l'invitation du Sultan,
+la Conférence se réunisse à Tanger. Le Gouvernement Impérial est d'avis qu'il faut
+maintenir Tanger comme lieu de la Conférence, parce que les questions à résoudre
+ne peuvent être bien jugées qu'au Maroc même et que pour leur examen il est indis-
+pensable de recourir à des personnes connaissant les lieux.
+
+
+Le Gouvernement se plaît à espérer que les considérations précitées seront
+approuvées par le Gouvernement de la République et que de cette façon l'accord
+relatif au programme de la Conférence désiré par les deux Gouvernements soit conclu.
+Dans ce cas le Gouvernement Impérial est tout disposé à donner de suite les instruc-
+
+
+286
+
+
+tions nécessaires à son Ministre à Fez pour que, d'accord avec le Ministre de France,
+il donne à Sa Majesté le Sultan des conseils pour le programme de la Conférence.
+
+
+A la fin de la lettre en date du 1er de ce mois, Votre Excellence se référant à
+deux lettres privées des 29 et 31 juillet, a fait des observations relatives au Ministre
+Comte de Tattenbach parce que celui-ci, par des stipulations avec le Sultan, aurait
+procuré des avantages particuliers à des entrepreneurs allemands au Maroc.
+
+
+Comme j'avais l'honneur de le faire remarquer à Votre Excellence, le Gouverne-
+ment Impérial, de même que le Gouvernement de la République, est fermement
+décidé à ne pas se procurer d'avantages économiques ou autres avant la réunion de
+la Conférence par des négociations particulières avec le Sultan. En ce qui concerne
+les détails mentionnés dans vos lettres, j'ai l'honneur de me référer aux éclaircissements
+que j'ai donnés dans l'entre-temps.
+
+
+N° 323.
+
+
+M. BOMPARD, Ambassadeur de la République française à Saint-Pétersbourg,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Saint-Pétersbourg, le 26 août 1905.
+
+
+Le Comte Lamsdorff, à qui j'ai donné lecture de votre dépêche relative à l'inci-
+dent Bouzian el Miliani, en a pris acte et m'a remercié de cette communication.
+
+
+N° 324.
+
+
+BOMPARD.
+
+
+M. GÉRARD, Ministre de la République française à Bruxelles,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Bruxelles, le 26 août 1905.
+
+
+J'ai, ce matin fait connaître à M. Van der Elst l'arrestation de Si Bouzian el Mi-
+liani et l'intention du Gouvernement de la République d'exiger les réparations qui lui
+sont dues. J'ai ajouté que, l'arrestation de notre sujet étant contraire aux traités et
+capitulations, et notamment à la Convention de Madrid du 3 juillet 1880, toutes les
+Puissances ayant des ressortissants au Maroc et particulièrement les Puissances signa-
+
+
+287
+
+
+taires de la Convention de Madrid ont intérêt au respect et au maintien des principes
+qui se trouvent ainsi mis en cause.
+
+
+M. le chevalier Van der Elst a pris acte de la communication que j'étais chargé de
+faire, et il m'a promis de la porter immédiatement à la connaissance de M. le Baron
+de Favereau. M. Van der Elst n'était pas en mesure, avant d'en avoir référé au
+Ministre, d'engager un entretien ou d'exprimer un avis qui n'eussent été que per-
+sonnels. Mais je ne doute point que le Gouvernement belge, comme les autres Gou-
+vernements signataires de la Convention de Madrid, ne considère l'arrestation de notre
+sujet Algérien comme une violation des traités et ne juge l'attitude du Gouvernement
+de la République aussi correcte et légitime que conforme à l'intérêt général des
+Puissances ayant des ressortissants au Maroc.
+
+
+GÉRARD.
+
+
+N° 325.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez, à M. ROUVIER, Président du Conseil, Ministre des Affaires
+étrangères.
+
+
+Fez, le 26 août 1905.
+
+
+Le Ministre d'Allemagne est venu hier m'entretenir de l'affaire Bouzian. Il m'a dit
+que, à la suite d'une circulaire adressée aux Puissances par Votre Excellence, le Gou-
+vernement allemand lui avait adressé des instructions. Il s'y conformait en venant
+mettre à ma disposition ses bons offices. Il a ajouté que le Makhzen paraissait avoir
+commis une faute, que, dans un entretien de la veille, il ne l'avait pas caché à Ben
+Sliman, mais qu'il serait heureux de pouvoir le lui répéter avec le plus de force.
+J'ai remercié le Comte de Tattenbach de sa démarche et je lui ai fait connaître que
+j'avais renseigné Votre Excellence dont je devais attendre les directions.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 326.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez, à M. RoUVIER, Président du Conseil, Ministre des Affaires
+étrangères.
+
+
+Fez, le 28 août 1905.
+
+
+Ben Sliman vient de faire conduire Si Bouzian-à notre vice-consulat. Il me fait
+
+
+288
+
+
+remettre en même temps une lettre inacceptable dans laquelle il est dit que
+ le Sultan a décidé de remettre Bouzian entre mes mains afin de couper court aux
+commentaires et de laisser son cas en suspens pour le moment; d'ailleurs le Makhzen
+se propose de soumettre ce cas à la Conférence, afin de bien déterminer le caractère
+de cette affaire ainsi que d'autres questions ambiguës ».
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 327.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 29 août 1905.
+
+
+J'ai insisté auprès du Comte de Pourtalès sur les considérations contenues dans
+votre lettre et votre note remises le 25 août au Prince de Radolin. J'avais déjà eu l'oc-
+casion de les développer presque toutes aussi fortement que possible. J'ai reconnu
+que mon interlocuteur les connaissait à merveille.
+
+
+Le Comte de Pourtalès a continué à alléguer que le Comte de Tattenbach n'avait
+pu délaisser l'affaire du port de Tanger, affaire pour ainsi dire conclue lors de son
+arrivée, et dont, dès février dernier, le Chargé d'affaires au Maroc aurait entretenu le
+Baron de Richthofen; j'ai maintenu la priorité des propositions françaises et j'ai rappelé
+la demande adressée par le Makhzen le 15 mars à nos compatriotes. Sur la question
+de l'emprunt, que j'ai vivement abordée, le Secrétaire d'État par intérim s'est montré
+très réservé; il n'a pas répondu à mon argumentation, semblant ne pas vouloir trop
+s'engager. Le Comte de Pourtalès m'a nettement affirmé qu'il souhaitait une prompte
+réunion de la Conférence; il a toutefois laissé percer quelques craintes à ce sujet et
+m'a notamment fait remarquer que le siège de la Conférence n'était même pas
+encore fixé. Je lui ai répondu que tout en connaissant l'esprit de conciliation de
+Votre Excellence, je ne pouvais prévoir la réponse qu'il lui dicterait; que cette
+réponse ne tarderait sans doute pas; que, en ce qui concernait le siège de la Con-
+férence, je ne connaissais que les objections très sérieuses que soulevait le choix de
+Tanger. Je lui ai rappelé qu'il a provoqué des contradictions marquées. J'ai terminé
+par les déclarations répétées que les questions telles que les travaux de port et l'em-
+prunt soient mises de côté et soumises au besoin à l'examen de la Conférence
+et ne viennent pas, en froissant l'opinion publique en France, gêner les efforts de Votre
+Excellence,
+
+
+BIHOURD.
+
+
+289
+
+
+N° 328.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez.
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 29 août 1905.
+
+
+Je reçois votre télégramme du 25 août concernant l'incident Si Bouzian. Je vais
+
+
+exécuter sans retard les instructions qu'il m'apporte.
+
+
+Je ferai demain par écrit à Ben Sliman la communication prescrite.
+
+
+Je solliciterai en même temps une audience de congé du Sultan.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 329.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en
+mission à Fez.
+
+
+Paris, le 29 août 1905.
+
+
+J'approuve les suggestions de votre télégramme du 25 de ce mois tendant à exiger,
+par application d'une tradition à peu près constante, le payement des sommes dues
+sans conteste par le Makhzen pour les affaires déjà réglées et que vous indiquez, en
+même temps que vous lui adresseriez la sommation concernant Si Bouzian. Dans cette
+sommation vous rappellerez en termes explicites que Si Bouzian, comme l'indique
+votre télégramme du 11 août, est muni d'une patente attestant sa qualité de sujet
+français tout récemment encore reconnue dans des lettres du Makhzen.
+
+
+ROUVIER.
+
+
+37
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+290
+
+
+N° 330.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à S. A. S. le Prince DE RADOLIN, Ambassadeur d'Allemagne, à Paris.
+
+
+Paris, le 30 août 1905.
+
+
+Par sa lettre en date du 26 de ce mois, Votre Altesse veut bien me faire connaître
+les observations que le Gouvernement impérial croit devoir formuler en réponse aux
+propositions du Gouvernement de la République concernant le programme de la
+Conférence marocaine,
+
+
+Ces observations portent sur trois points:
+
+
+1º Organisation de la police:
+
+
+Le Gouvernement impérial propose de supprimer du libellé du paragraphe 1er du
+titre I le membre de phrase «hors de la région frontière, c'est-à-dire hors des
+districts où elle est réglée par un accord franco-marocain  .
+
+
+Le Gouvernement impérial ne méconnaît pas que la police de la frontière doive
+être réservée à un arrangement franco-marocain mais il envisage l'hypothèse où  «il
+<< serait question d'organiser la police marocainé dans les districts frontière d'une
+« manière identique à celle qui est prévue pour les autres parties de l'Empire
+<< chérifien  et il se demande «si une telle organisation n'aurait pas besoin d'une
+ sanction internationale par la Conférence notamment en raison de l'affectation
+éventuelle à cette organisation d'une partie des crédits ouverts au Makhzen et dont
+la Conférence doit préciser les moyens de contrôler l'emploi.
+
+
+La police sur la frontière franco-marocaine est réglée par des usages traditionnels,
+des traités et des conventions successifs, qui n'ont cessé d'être et doivent rester
+l'affaire exclusive des deux pays. Les conditions et rapports de voisinage assignent à
+cette police un rôle spécial; ils en déterminent et justifient le régime, et ne permettent
+pas de concevoir que ce régime puisse être établi ou modifié autrement que par le
+réel accord des deux pays voisins.
+
+
+"Les règles que la Conférence posera pour l'organisation de la police hors de la
+région frontière pourront fournir d'utiles indications aux deux pays, s'imposer même
+à eux par l'autorité qu'elles emprunteront à leur origine, mais elles ne sauraient les
+lier ni entraver leur liberté d'action dans un domaine tout différent, où l'intérêt
+international est suffisamment sauvegardé par les principes de l'indépendance du
+Sultan et de l'intégrité de son territoire auxquels la France a donné mieux que son
+adhésion, des gages déjà historiques de son attachement.
+
+
+Nous avons un trop grand intérêt à ce qu'il ne puisse subsister aucun doute sur la
+manière dont nous envisageons le droit essentiel à l'égard de la France, que je viens
+de définir, pour pouvoir accéder à la suppression demandée par le Gouvernement
+impérial.
+
+
+Nous accepterions toutefois de substituer à la rédaction proposée la rédaction
+
+
+291
+
+
+<< suivante : « hors de la région frontière où elle est réglée et continuera à l'ètre par
+ l'entente directe des deux pays voisins ».
+
+
+Sous réserve des observations précédentes, le Gouvernement de la République
+accepte que le choix des endroits où la police sera organisée ne figure pas dans le
+programme proposé et consent à la radiation des mots « à Tanger, Larache, Rabat et
+Casablanca ».
+
+
+2º Surveillance de la contrebande des armes.
+
+
+Le Gouvernement de la République accepte que les stipulations de la Conférence
+visent la contrebande des armes par terre et par mer, sous réserve que, l'application
+dans la région frontière du règlement ainsi élaboré restera l'affaire exclusive des deux
+pays.
+
+
+En ce qui concerne les réformes financières et commerciales, le Gouvernement de
+la République enregistre avec satisfaction l'adhésion du Gouvernement impérial à ses
+propositions formulées sous les titres II et III du projet. Les conditions d'organisation
+et de fonctionnement de la banque d'État doivent être laissées aux délibérations de la
+Conférence.
+
+
+Le Gouvernement de la République accepterait d'ajouter au programme de la
+Conférence l'étude d'un meilleur rendement des impôts et de la création de nouveaux
+revenus, mais sous réserve de n'en point faire une condition des autres réformes.
+
+
+Le Gouvernement de la République fait ses réserves au sujet de toute proposition
+complémentaire qui sera produite d'autre part.
+
+
+En résumé, l'accord complet sur le projet de programme ne tient plus désormais,
+entre les deux Gouvernements, qu'au maintien, dans le paragraphe relatif à l'organi-
+sation de la police, de la réserve concernant les droits spéciaux de la France en ce qui
+concerne la police de la frontière. La suppression de cette réserve ne répondrait pas
+au sentiment du Gouvernement impérial puisqu'il reconnaît d'une façon générale les
+droits qu'elle garantit et sur l'étendue desquels il lui est d'ailleurs loisible de conserver
+son interprétation. Rien ne semble donc plus s'opposer à ce que nous prescrivions
+sans délai à nos deux représentants de procéder en commun aux démarches nécessaires
+pour faire accepter par le Sultan le projet de programme dont le texte est ci-joint. Je
+suis prèt pour ma part, dès que je recevrai avis conforme de Votre Altesse, à adresser
+télégraphiquement à l'Agent de la France des instructions en ce sens.
+
+
+Le Gouvernement de la République se serait volontiers rallié à la réunion de la
+Conférence à Tanger proposée par le Gouvernement marocain s'il n'en avait été détourné
+par les considérations suivantes :
+
+
+L'expérience démontre que c'est précisément à Tanger que les questions de l'ordre
+de celles qui vont être débattues ont le moins de chance d'ètre résolues en raison
+tant du milieu que des influences locales. Les Puissances n'ont pu aboutir à un accord,
+surles points réglés par la Conférence de 1880', que lorsque la discussion, après deux
+années d'infructueux efforts, en eût été transportée hors du Maroc, sans que cela ait
+présenté d'ailleurs le moindre inconvénient pour la bonne information des plénipo-
+tentiaires.
+
+
+Les conditions favorables dans lesquelles se sont développés les travaux de la
+Conférence de 1880, auxquels le Gouvernement impérial s'est spécialement référé
+
+
+37.
+
+
+ل الله
+
+
+292
+
+
+lorsqu'il a proposé la nouvelle Conférence, leur heureuse issue, après des prémisses
+plutôt contraires, nous engagent à recourir de nouveau à une hospitalité que
+l'Espagne peut revendiquer presque comme une tradition.
+
+
+Il est manifeste, d'autre part, que l'état de trouble et d'insécurité de l'Empire
+chérifien qui s'est, notamment dans la région de Tanger, singulièrement aggravé,
+constituerait à lui seul une raison suffisante pour que la Conférence ne siégeât pas
+dans cette ville. Les délibérations des représentants des puissances, suivies de plus
+près et avec plus de curiosité, de passion même, par la population indigène, la
+présence d'éléments de protection que la prudence pourrait commander, risquent de
+soulever des explosions de fanatisme qui mettent en danger les représentants des
+Puissances et leurs nationaux et ressortissants non seulement à Tanger mais encore
+dans toute l'étendue de l'Empire chérifien.
+
+
+En conséquence nous proposons pour lieu de réunion de la Conférence Madrid ou
+telle ville espagnole qui semblerait mieux convenir par sa proximité plus grande du
+Maroc.
+
+
+ROUVIER.
+
+
+P. S. Les questions de la concession du port de Tanger et de l'emprunt auxquelles
+se réfèrent les derniers paragraphes de la lettre de Votre Altesse ont fait l'objet de
+plusieurs communications écrites du Gouvernement français soit à Votre Altesse soit
+à la Chancellerie de Berlin par l'entremise de M. Bihourd.
+
+
+Je suis donc fondé à attendre du Gouvernement impérial une réponse aux propo-
+sitions formulées dans ma lettre à Votre Altesse en date du 25 août et dans la note
+jointe.
+
+
+L'adhésion donnée par le Gouvernement impérial au principe de l'adjudication en
+matière de travaux publics me permet de penser qu'il accueillera ma suggestion en ce
+qui concerne la concession du port de Tanger, que le comte de Tattenbach a conclue
+presque au même moment où le Gouvernement impérial, saisi de notre projet de
+programme, en adoptait ce point particulier.
+
+
+Quant à l'emprunt négocié par les banques allemandes, l'accord aujourd'hui certain
+entre nous, au sujet du programme', permettant de considérer la réunion de la
+Conférence comme très prochaine, les raisons que nous avons exposées pour que le
+Gouvernement impérial s'emploie à faire abandonner cette opération n'en ont que plus
+de force et nous exprimons la confiance qu'elles prévaudront auprès de lui.
+
+
+ROUVIER
+
+
+ANNEXE.
+
+
+I. Organisation de la police hors de la région frontière, où elle est réglée et continuera
+
+
+à l'être par l'entente directe des deux pays voisins.
+
+
+1º Création de corps de troupe marocains pour la police.
+
+
+2º Surveillance et répression de la contrebande des armes.
+
+
+II. Réforme financière.
+
+
+293
+
+
+Concours financier donné au Makhzen par la création d'une banque d'État avec privilège
+d'émission, se chargeant des opérations de trésorerie, s'entremettant pour la frappe de la
+monnaie, dont les bénéfices appartiendraient au Makhzen.
+
+
+La banque d'État procéderait à l'assainissement de la situation monétaire.
+
+
+Les crédits ouverts au Makhzen seraient employés à l'équipement et à la solde des troupes
+de police et à certains travaux publics urgents, notamment à l'amélioration des ports et de
+leur outillage.
+
+
+III. Engagement par le Makhzen de n'aliéner aucun des services publics au profit d'inté-
+rêts particuliers.
+
+
+Principe de l'adjudication sans acception de nationalité pour les travaux publics.
+
+
+N° 331.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 30 août 1905.
+
+
+Je ferai remettre cet après-midi à Ben Sliman la lettre que je lui adresse en exécu-
+tion de vos instructions. J'y déclare que, me conformant aux ordres que je reçois
+de mon Gouvernement, je quitterai Fez le 5 septembre si, d'ici là, toutes les
+satisfactions réclamées, indemnité, révocation du qaïd, excuses du Makhzen, ne
+nous ont pas été données. Je sollicite du Sultan mon audience de congé au cas où
+le Makhzen ne ferait pas droit à nos réclamations.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 332.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en
+mission à Fez.
+
+
+Paris, le 31 août 1905.
+
+
+J'estime comme vous que nous ne saurions accepter les réserves dont le Gouver-
+nement marocain a accompagné la remise de Si Bouzian à notre vice-consulat.
+La mesure ainsi prise ne nous donne qu'une satisfaction apparente.
+
+
+294
+
+
+Je vous invite à poursuivre énergiquement les justes demandes de réparation que
+nous avons présentées et qui d'ailleurs n'excèdent en rien les usages constamment
+suivis pour le règlement d'incidents de cette nature.
+
+
+ROUVIER.
+
+
+N° 333.
+
+
+M. Charles ROUVIER, Ministre de la République française à Lisbonne,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Lisbonne, le 31 août 1905.
+
+
+Je n'ai pas manqué d'entretenir, à sa réception diplomatique d'aujourd'hui, le
+Ministre des Affaires étrangères de l'incident Si Bouzian el Miliani et de lui
+indiquer de nouveau, conformément aux instructions contenues dans votre dépêche
+du 21 courant, le point de vue auquel se place le Gouvernement de la République
+pour faire donner à cet incident une solution satisfaisante pour nous comme pour
+toutes les puissances qui ont des ressortissants au Maroc. M. Villaça ne m'a fait au-
+cune objection; il m'a dit que notre droit est évident et que toutes les puissances
+sont, en effet, intéressées à ce qu'il soit respecté. Il a ajouté qu'il espérait que le
+Sultan ne tarderait pas à reconnaître la voie dangereuse où il s'est engagé et à nous
+donner satisfaction.
+
+
+Ch. ROUVIER.
+
+
+N° 334.
+
+
+M. DE BLIGNIÈRES, Chargé d'Affaires de la Républiqne française à Stockholm,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Stockhlom, le 31 août 1905.
+
+
+Conformément aux instructions contenues dans la dépêche politique du 21 août
+dernier, je n'ai pas manqué, d'indiquer au Ministre des Affairesétrangères de Suède,
+en lui faisant part de cette communication, le point de vue où se place le Gouver-
+nement de la République pour faire donner à l'incident provoqué par l'arrestation
+d'un algérien par les Autorités marocaines, une solution satisfaisante pour toutes les
+puissances qui ont des intérêts au Maroc.
+
+
+295
+
+
+J'ai ajouté, ainsi que me le prescrivait Votre Excellence, que la France a l'intention
+de se borner à poursuivre les réparations nécessaires sans rechercher, à cette occasion,
+aucun avantage particulier.
+
+
+Le Comte Wachtmeister m'a remercié de cette communication et il m'a dit qu'il
+était convaincu de la légitimité des revendications du Gouvernement français ainsi que
+de l'esprit de loyauté qui présiderait à tous les actes que pourrait éventuellement
+commander à la France la protection de ses nationaux.
+
+
+BLIGNIÈRES.
+
+
+N° 335.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à MM. LES AMBASSADEURS DE LA RÉPUBLIQUE FRANÇAISE à Berlin, Londres,
+et Madrid (Saint-Sébastien).
+
+
+Paris, le 31 août 1905.
+
+
+J'ai reçu aujourd'hui l'Ambassadeur d'Allemagne qui m'a dit, de la part du Prince
+de Bülow, que son Gouvernement n'entendait en aucune façon s'immiscer dans
+notre différend avec le Maroc au sujet de Si Bouzian, mais que, les journaux ayant
+annoncé que nous avions l'intention de recourir éventuellement à la force et à l'occu-
+pation de certains points notamment d'Oudjda, il appelait notre attention sur les
+complications pouvant résulter d'un tel acte.
+
+
+J'ai dit au Prince Radolin:
+
+
+« Vous comprendrez certainement que je ne puisse faire aucune réponse à votre
+communication. Nous sommes fermement résolus à obtenir satisfaction du Gou-
+vernement marocain, au sujet de l'arrestation illégale de Si Bouzian. Quant au moyen
+de coercition qu'on peut être amené à employer vis-à-vis du Sultan les nombreux
+précédents que des incidents analogues nous fournissent suffiront à inspirer notre
+conduite. >>
+
+
+Le Prince n'a pas autrement insisté.
+
+
+ROUVIER.
+
+
+296
+
+
+N° 336.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 1er septembre 1905.
+
+
+Je crois utile que vous mettiez à profit le passage du Prince de Bülow à Berlin
+pour avoir un entretien avec lui.
+
+
+Vous connaissez ma réponse à la communication du 25 août du Prince de Radolin
+concernant le projet de conférence marocaine. Vous n'aurez qu'à vous en inspirer
+pour marquer au chancelier la mesure très large, suivant nous, dans laquelle nous
+nous sommes efforcés d'amener entre les deux gouvernements une entente définitive
+sur un programme. Vous ferez remarquer le soin avec lequel nous avons écarté de
+son élaboration toute tentative de revenir par une voie détournée à un accord direct
+sur le Maroc qui n'eût pas été conforme aux principes posés dans les lettres échangées
+le 8 juillet dernier. Les seuls points sur lesquels nous n'avons pu céder étaient ceux
+où nous devions sauvegarder des intérêts essentiels consacrés par des actes conven-
+tionnels ou une indiscutable tradition.
+
+
+Cette constation, que vous présentererez comme une marque de notre indéniable
+bon vouloir, vous permettra de faire ressortir par contraste les procédés de la Chan-
+cellerie allemande au cours de ces négociations, en confirmant les réflexions dont vous
+avez déjà fait part à ce sujet au Comte de Pourtalės, suivant mes instructions. A
+plusieurs reprises on nous a affirmé que l'Allemagne n'avait dans l'affaire marocaine
+d'autre souci que d'obtenir des garanties pour ses intérêts économiques et la sauve-
+garde de la dignité de l'Empereur qui, après s'ètre engagé vis-à-vis du Sultan à
+prendre sa défense, ne pouvait se désintéresser de sa cause; nous ne mettons pas en
+doute la sincérité de ces déclarations, mais elles sont bien difficiles à concilier avec
+la recherche d'avantages particuliers à laquelle s'est livré le Comte de Tattenbach.
+
+
+ROUVIER.
+
+
+N° 337.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+1 septembre 1905.
+
+
+J'ai lieu de supposer, après les démarches du Comte de Tattenbach auprès de M. Saint-
+René Taillandier et celle du Prince de Radolin dont vous a rendu compte mon télé-
+
+
+297
+
+
+gramme du 31 août, que le Prince de Bülow fera lui-mème allusion, dans ses entretiens
+avec vous, à l'incident Bouzian el Miliani. Vous n'aurez qu'à vous inspirer, pour lui
+répondre, des termes mêmes dont je me suis servi. Vous pourrez lui faire connaître
+que j'ai maintenu mes instructions à M. Saint-René Taillandier, exigeant les répara-
+tions que nous avons demandées. Il va sans dire que nous ne recherchons à aucun
+titre, dans cet incident, l'occasion de poursuivre des avantages particuliers. Nous
+l'envisageons comme rentrant tout naturellement dans la catégorie des difficultés
+analogues, d'un caractère exclusivement franco-marocain, qui se sont produites déjà
+à plusieurs reprises dans le passé et dont chaque Puissance à notre place poursuivrait
+le règlement de la même façon.
+
+
+ROUVIER.
+
+
+N° 338.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 4 septembre 1905.
+
+
+J'ai eu aujourd'hui un long entretien avec le Prince de Bülow. Il a repris ses
+anciens développements sur la nécessité de mettre fin aux malentendus, sur le régime
+de liberté économique que réclament l'industrie et le commerce allemand, sur l'uti-
+lité d'arrêter un programme, d'aller la main dans la main à la conférence, sur l'in-
+térêt de l'Allemagne et de la France « de vivre en paix au lieu de faire autre chose ».
+J'étais ramené à deux mois en arrière. A son affirmation qu'il y avait encore
+plusieurs difficultés, j'ai répondu que, d'après la dernière note soumise, lue paraît-il
+à l'Empereur, l'accord semblait établi à peu de chose près, puisqu'il s'agissait d'une
+part des intérêts de notre frontière algérienne reconnus par la lettre du 8 juillet der-
+nier, et de l'autre du choix du siège de la Conférence sur lequel Votre Excellence
+avait exprimé une opinion fortement motivée. Alors le Prince de Bülow m'a dit que
+certainement il ne contestait pas nos droits particuliers, mais qu'il convenait de les
+préciser, et que Tanger se trouvait désigné à la fois par l'invitation du Sultan et les
+exigences des travaux de la Conférence. Je n'ai pas eu de peine à répliquer, mais le
+Chancelier s'est cantonné dans des affirmations contraires. Il m'a dit que pour amener
+une entente plus rapide que par l'échange de notes il envoyait demain auprès de
+Votre Excellence M. Rosen.
+
+
+La question du môle de Tanger et celle de l'emprunt marocain ont été abordées.
+Le Prince de Bülow a représenté ces entreprises comme insignifiantes; celle du port
+était un de ces cadeaux du Sultan qu'il cherchait à repousser. « A votre place, m'a-t-il
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+38
+
+
+298
+
+
+dit, je me ferais octroyer une concession analogue.  J'ai répondu que nous n'enten-
+dions pas déroger à nos engagements réciproques. J'ai demandé à mon interlocuteur
+si M. Rosen était autorisé à donner des preuves effectives de son esprit de concilia-
+tion et s'il allait annoncer que l'entreprise du port et de l'emprunt serait suspendue
+jusqu'à l'ouverture des travaux de la Conférence.
+
+
+Je n'ai pu obtenir une réponse précise malgré mon insistance.
+
+
+Le Chancelier a fait allusion au ton plus agressif de la presse française, dans ces
+dernières semaines. A ce propos, j'ai insisté sur les épreuves auxquelles les travaux
+du port de Tanger et l'Emprunt marocain avaient soumis l'opinion publique en
+France et sur les obstacles qu'ils avaient ainsi dressés devant les efforts conciliants de
+Votre Excellence.
+
+
+BIHOURD.
+
+
+N° 339.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 4 septembre 1905.
+
+
+Au cours de l'entretien que je viens d'avoir avec lui, le Prince de Bülow m'a dit
+que, sans vouloir s'immiscer dans notre dernier incident avec le Sultan, il espérait
+que nous saurions éviter les moyens trop violents et qu'il avait prescrit au Comte de
+Tattenbach de conseiller au Makhzen de nous accorder les réparations demandées.
+« Il serait mauvais, a-t-il ajouté, tandis que nous jouerons au bridge, qu'on casse
+autour de nous les vitres. » Je lui ai répondu que Votre Excellence prendrait conseil
+de la dignité de la France et de son droit, mais qu'elle ne poursuivait aucun avantage
+particulier dans cette affaire.
+
+
+BIHOURD.
+
+
+N° 340.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République Française, en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 4 septembre 1905.
+
+
+Après de nouvelles tergiversations qui ont occupé toute la journée d'hier et qui
+
+
+299
+
+
+m'ont rendu plus exigeant quant au choix du personnage chargé de procéder aux
+actes de réparation, le Sultan a brusquement et complètement cédé.
+
+
+Les excuses du Makhzen viennent de m'être apportées par le Grand Vizir lui-
+même, Si Feddoul Gharnit, en présence des Chefs de service de ma Mission, de
+Si Bouzian et d'un petit groupe de résidents européens. Le Grand Vizir a prononcé
+textuellement la formule suivante :
+
+
+«Le Gouvernement chérifien m'a chargé de vous exprimer ses excuses pour
+l'arrestation et l'emprisonnement de l'algérien Si Bouzian El Miliani, sujet français.
+Le Makhzen a révoqué le qaïd coupable et je vous remets pour la victime l'indem-
+nité convenue. Le Gouvernement chérifien se fera un devoir de veiller à ce que de
+pareilles infractions aux traités et aux coutumes ne se renouvellent pas à l'avenir. »
+
+
+Le Grand Vizir m'a remis en même temps deux lettres de Ben Sliman: lune
+renouvelle les excuses du Makhzen, confirme la révocation du qaïd, et fait droit sur
+tous les points et sans réserves à nos diverses exigences; l'autre ordonne le payement
+des sommes dues pour les réclamations antérieurement réglées.
+
+
+J'ai répondu au Grand Vizir qu'au nom de mon Gouvernement j'acceptais les
+excuses du Gouvernement chérifien ainsi que les actes de réparation jugés nécessaires
+par Votre Excellence et que je prenais acte de ses assurances pour l'avenir.
+
+
+J'ai fait remettre à Si Bouzian son indemnité.
+Je fais arrêter nos préparatifs de départ.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+N° 341.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 5 septembre 1905.
+
+
+J'ai l'honneur de communiquer ci-joint à Votre Excellence une copie française de
+la lettre que j'ai adressée le 2 de ce mois au Ministre chérifien des Affaires étran-
+gères, au reçu de votre télégramme du 29 août, qui m'autorisait à exiger du
+Makhzen le payement immédiat des sommes à nous dues sans contestation pour des
+affaires déjà réglées.
+
+
+Votre Excellence trouvera également sous ce pli la traduction de la lettre
+que le Grand-Vizir m'a remise hier aussitôt après avoir prononcé la formule
+d'excuses reproduite dans mon télégramme d'hier. Elle répond à ma lettre du
+30 août. Elle fait foi de la présentation des excuses du Makhzen par le Grand-Vizir,
+du versement de l'indemnité, de la révocation du qaïd, et elle ne contient aucune
+réserve.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+38.
+
+
+300
+
+
+ANNEXE I.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française,
+
+
+à SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de Sa Majesté
+Chérifienne.
+
+
+Fez, le 2 septembre 1905.
+
+
+Compliments d'usage.
+
+
+Bien que ma lettre du 30 août vous ait fait connaître que
+sauf accomplissement des
+conditions indiquées je quitterais Fez à la date du 5 de ce mois, vous m'avez laissé
+jusqu'à ce jour, si proche de la date fixée pour mon départ éventuel, sans aucune indication
+sur la suite que le Makhzen entend donner à ma lettre précitée.
+
+
+Dans ces conditions, et sur un ordre que je reçois de mon Gouvernement, je me vois
+obligé d'ajouter une condition complémentaire à celles que je vous avais indiquées.
+
+
+Vous n'avez pas oublié qu'un certain nombre de réclamations intéressant mes ressortis-
+sants ont fait, depuis longtemps déjà, l'objet d'accords entre ma légation et le Makhzen.
+A plusieurs reprises, j'ai eu soin de vous les rappeler. Mes lettres sont demeurées sans
+réponse. La liste de ces règlements est ci-jointe, avec indication des sommes à payer.
+
+
+Je viens vous demander de faire verser entre mes mains, le 4 septembre au plus tard, le
+montant global de ces réclamations.
+
+
+Je vous confirme qu'à défaut de la réalisation d'une quelconque des conditions posées
+dans ma lettre du 30 août et dans ma présente lettre, je quitterai Fez, le 5 de ce mois, avec
+le personnel de ma mission.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+301
+
+
+ANNEXE II.
+
+
+SI ABDELKERIM BEN SLIMAN, Ministre des Affaires étrangères de Sa Majesté Chérifienne,
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française à Fez.
+
+
+(TRADUCTION.)
+
+
+Fez, le 4 septembre 1905.
+
+
+J'ai reçu votre lettre du 30 août dernier concernant Bouzian El Miliani et portant que
+vous avez reçu de votre Gouvernement glorieux l'ordre de quitter Fez si le Makhzen ne
+souscrivait pas aux demandes que vous lui avez présentées au sujet de cette affaire.
+
+
+J'ai pris connaissance de vos déclarations à ce sujet et j'en ai éprouvé un vif regret. Quand
+je les ai portées à la connaissance de Sa Majesté Chérifienne, elle a éprouvé un vif regret et
+s'est émue de l'erreur commise dans l'arrestation de votre susdit ressortissant par le qaïd;
+Sa Majesté a le désir de souscrire aux demandes du glorieux Gouvernement de la République
+qui comportent: la destitution du qaïd, le payement de l'indemnité indiquée dans votre
+lettre, la présentation des excuses, afin d'effacer les traces de l'émotion causée dans les
+esprits par cet incident. Sa Majesté a donc chargé le Fequih, le Grand-Vizir Si Mohammed
+El-Moufaddal Gharnit, de vous présenter ses excuses pour l'incarcération de votre ressortis-
+sant précité et de remettre l'indemnité dont il s'agit. Sa Majesté veillera à l'avenir à ce qu'il
+ne se produise pas d'infraction aux traités. Elle a également destitué le qaïd à cause de sa
+conduite dans cette affaire.
+
+
+ABDELKERIM BEN SLIMAN.
+
+
+N° 342.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+à M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+Paris, le 5 septembre 1905.
+
+
+M. Saint-René Taillandier a reçu l'ordre de partir de Fez s'il n'obtenait pas les
+réparations que nous estimons nous être dues pour l'arrestation de notre sujet
+algérien. Le délai imparti au Makhzen devait expirer aujourd'hui.
+
+
+Je vous prie d'en informer le Gouvernement allemand.
+
+
+Mon intention, en vous prescrivant cette démarche, est uniquement de ne pas
+
+
+302
+
+
+laisser ignorer à la Chancellerie impériale que notre Représentant devra peut-être
+quitter Fez.
+
+
+N° 343.
+
+
+ROUVIER.
+
+
+M. BIHOURD, Ambassadeur de la République française à Berlin,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Berlin, le 6 septembre 1905.
+
+
+Je me suis rendu chez le comte de Pourtalès pour lui annoncer que le Gouverne-
+ment de la République avait prescrit à M. Saint-René Taillandier de se retirer de
+Fez si le Sultan n'accordait pas, dans le délai imparti, toutes les réparations exigées
+à la suite de l'arrestation illégale de Si-Bouzian. J'ai ajouté que ce délai expirait
+hier et que j'ignorais encore si Abd el Aziz avait tenu compte de notre ultimatum.
+Le Secrétaire d'État par intérim n'a fait aucune observation.
+
+
+BIHOURD.
+
+
+N° 344.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française,
+en mission à Fez.
+
+
+Paris, le 7 septembre 1905.
+
+
+Je suis heureux de constater que les actes de réparation dont le Makhzen vient de
+s'acquitter auprès de vous nous donnent satisfaction complète.
+
+
+ROUVIER.
+
+
+!
+
+
+303
+
+
+N° 345.
+
+
+M. DESPORTES DE LA FOSSE, Chargé d'Affaires de la République française à
+Washington,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Newport, le 10 septembre 1905.
+
+
+J'avais immédiatement communiqué au Sous-Secrétaire d'Etat des Affaires étran-
+gères par intérim votre lettre relative à l'incident Bouzian El Miliani. M. Loomis
+étant absent, n'a pu me répondre qu'aujourd'hui. Le Gouvernement fédéral est
+heureux de voir, d'après les derniers renseignements de la presse, que l'incident de
+Fez s'est terminé à l'entière satisfaction du Gouvernement de la République, pour
+lequel le Gouvernement des États-Unis éprouve les plus bienveillants et les plus cor-
+diaux sentiments d'amitié et de bon vouloir». M. Loomis a pris connaissance avec
+grand soin de la lettre de Votre Excellence et il s'est rendu compte exactement des
+difficultés auxquelles le Gouvernement français a eu à faire face et du point de vue
+auquel il a dû se placer.
+
+
+DESPORTES DE LA FOSSE.
+
+
+N° 346.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. le comte de SAINT-AULAIRE, chargé des affaires de la Légation de
+la République française  Tanger.
+
+
+Paris, le 13 septembre 1905.
+
+
+Le 15 mars 1905, le Makhzen a adressé au Pacha de Tanger une lettre concédant
+à la Compagnie marocaine l'autorisation d'effectuer des études en vue des travaux
+d'amélioration du port.
+
+
+Vous devez en avoir copie á la légation et vous pourrez en tout cas vous la
+procurer en vous adressant au Pacha.
+
+
+Vous vous mettrez alors en relation avec votre collègue d'Allemagne auquel vous
+communiquerez le texte arabe de cette lettre et qui, de son côté, vous communiquera
+le texte arabe de la lettre adressée, le 26 mars, à sa légation et contenant concession
+des mêmes études à la maison Reutemann. Vous vous mettrez d'accord sur la traduc-
+tion de ces deux documents et vous la ferez parvenir telle que vous l'aurez arrêtée.
+Votre collègue d'Allemagne va recevoir de Berlin des instructions identiques.
+
+
+ROUVIER.
+
+
+304
+
+
+N° 347.
+
+
+Le Comte DE SAINT-AULAIRE, Chargé des affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+Tanger, le 17 septembre 1905
+
+
+Voici, telle qu'elle vient d'être établie par les deux interprètes des légations de
+France et d'Allemagne, la traduction de la lettre adressée le 26 mars dernier par
+Ben Sliman à M. de Kühlmann, au sujet du môle de Tanger.
+
+
+Cette traduction a été faite non d'après l'original, qui est à Fez entre les mains
+de M. de Tattenbach, mais d'après une copie en arabe faite, m'a dit M. de Lang-
+werth qui en affirme l'authenticité, par M. Lüderitz, Consul d'Allemagne, alors
+attaché à la légation de Tanger.
+
+
+<< Au Chargé d'affaires allemand, M. de Kühlmann.
+
+
+« Saluts d'usage.
+
+
+« J'ai bien reçu la lettre par laquelle vous me signalez que la route suivie par les
+<< barcasses du Makhzen dans le port de Tanger à l'embarquement et au débarque-
+ ment se trouve entre l'ancien et le nouveau môle, que lorsque la marée est haute
+« sur leur parcours elles peuvent avancer, mais que, lorsque la mer se retire, elles
+< sont dans l'impossibilité de fonctionner, que l'on est alors dans la nécessité de porter
+« les marchandises à dos d'hommes sur une longue distance en mer, et qu'il en
+« résulte un préjudice pour les commerçants et pour le Makhzen, que la société
+ allemande Borgeaud-Reutemann demande l'autorisation de combler, par une con-
+«struction, le vide compris entre l'ancien et le nouveau môle, afin de faciliter le
+ travail par tous les temps à l'embarquement et au débarquement, et de faire cesser
+« tout préjudice pour les négociants et le Makhzen; et de construire aussi les maga-
+ sins sur cet emplacement ainsi comblé.
+
+
+« J'ai porté ce qui précède à la connaissance de notre maître, Dieu le glorifie, et
+« il en a pris bonne note. Après avoir examiné la demande de la société dont il s'agit,
+ ainsi que les indications données par les autorités de la ville, au sujet de la restau-
+ ration de l'ancien môle et de sa prolongation, Sa Majesté chérifienne a décidé que
+« la société allemande en question ferait venir sur place, en ce qui la concerne, un
+« ingénieur compétent et que le gouverneur de la ville et le khalifa du représentant
+ du Sultan, Si Abdallah ben Saïd, manderaient deux ou trois experts pris parmi les
+ sujets du Makhzen, afin que tous examinent l'ancien môle et le vide entre les deux
+« môles et établissent un plan en exposant les moyens de combler l'espace compris
+ entre les deux môles et d'établir ainsi une jonction avec l'ancien môle, d'indiquer la
+ longueur et la largeur de l'ouvrage; de donner une description des magasins à
+ construire sur cet ouvrage et de ce qui resterait libre pour le chemin nécessaire à la
+ circulation des marchandises à charger et décharger, et d'évaluer les dépenses
+ que cela nécessiterait. Ces experts devraient également faire un autre plan relatif à
+
+
+305
+
+
+< la réparation de l'ancien môle seulement, et aux moyens propres à le prolonger, en
+ indiquant sa longueur et sa largeur, les magasins à y construire avec le passage
+<< nécessaire pour la circulation des marchandises à charger et à décharger, en éva-
+<< luant aussi les dépenses nécessitées par ces travaux.
+
+
+« Le tout sera envoyé à Sa Majesté chérifienne par les soins du khalifa du repré-
+ sentant du Makhzen; et, après avoir étudié les deux projets et les devis, le Makhzen
+<< choisira celui qu'il fera exécuter et je vous en informerai.
+
+
+ Le gouverneur de Tanger et le khalifa du représentant du Sultan ont reçu
+ l'ordre conforme à ce qui précède afin de s'entendre avec vous à ce sujet et d'agir en
+<< conséquence.
+
+
+<< Salut.
+
+
+«Leżo Moharrem 1323 (correspondant au 26 mars 1905).
+
+
+Signé: ABDELKERIM BEN SLIMAN.
+
+
+« Pour traduction certifiée conforme au texte de la lettre ci-dessus :
+« Tanger, le 16 septembre 1905.
+
+
+Signé: MAENSS.
+
+
+RENÉ BLANC.
+
+
+SAINT-AULAIRE.
+
+
+N° 348.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 25 septembre 1905.
+
+
+Je crois utile de vous rendre compte d'un entretien que j'ai eu aujourd'hui avec
+le Docteur Rosen.
+
+
+Après lui avoir demandé s'il avait la réponse de son Gouvernement au sujet de la
+rédaction proposée pour le projet de programme, je lui ai dit :
+
+
+« En dehors de la formule qui sera signée par les deux Gouvernements, j'entends
+n'avoir d'engagement sur aucun point.
+
+
+ Je ne puis que renouveler mon affirmation que j'ai, au même degré que le Gouver-
+nement impérial, le désir d'éviter tout désaccord flagrant entre nous à la Conférence
+et de concourir à y faire prévaloir les solutions qui ménagent le mieux les intérêts et
+les amours-propres de manière qu'il n'y ait ni vainqueur ni vaincu suivant l'expression
+même du Prince de Radolin.
+
+
+<< La garantie pour l'Allemagne réside dans ce fait que, les décisions de la Conférence
+devant êtres prises à l'unanimité, il suffirait de son opposition pour que le mandat
+général ne nous soit pas confié.
+
+
+« J'ai chargé le Représentant de la République à Berlin de porter ces explications à
+la connaissance du Prince de Bülow  .
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+39
+
+
+306
+
+
+Après cet entretien, j'ai fait venir le Prince de Radolin et je lui ai répété textuel-
+lement ce que j'avais dit au Docteur Rosen.
+
+
+Quand vous verrez le Prince de Bülow, je vous prie de lui tenir le même langage.
+
+
+ROUVIER.
+
+
+N° 349.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. BIHOURD, Ambassadeur de la République française à Berlin.
+
+
+Paris, le 26 septembre 1905.
+
+
+J'ai profité d'une nouvelle visite du docteur Rosen pour lui remettre par écrit le
+texte des déclarations que je lui ai faites hier à ce sujet, afin d'éviter toute équivoque
+et de ne laisser subsister aucun doute sur mon intention de ne prendre par avance
+aucun engagement à l'égard de l'œuvre de la Conférence.
+
+
+Le docteur Rosen m'a donné l'assurance qu'il enverrait le texte que je lui ai remis
+et qu'il avait transmis à Berlin mes déclarations dans leur esprit.
+
+
+ROUVIER.
+
+
+N° 350.
+
+
+ACCORD signé, le 28 septembre 1905, par M. ROUVIER, Président du Conseil,
+Ministre des Affaires étrangères, et S. A. S. le prince de RADOLIN, Ambassadeur
+d'Allemagne à Paris.
+
+
+Les deux Gouvernements se sont mis d'accord pour proposer au Sultan le projet
+de programme suivant élaboré en conformité des principes adoptés dans l'échange
+de lettres du 8 juillet :
+
+
+I. 1º Organisation, par voie d'accord international, de la police hors de la
+région frontière;
+
+
+2º Règlement organisant la surveillance et la répression de la contrebande des
+armes. Dans la région frontière, l'application de ce règlement restera l'affaire
+exclusive de la France et du Maroc.
+
+
+II. Réforme financière.
+
+
+Concours financier donné au Makhzen par la création d'une Banque d'État avec
+
+
+307
+
+
+privilège d'émission, se chargeant des opérations de trésorerie et s'entremettant pour
+la frappe de la monnaie dont les bénéfices appartiendraient au Makhzen.
+
+
+La Banque d'État procéderait à l'assainissement de la situation monétaire.
+
+
+Les crédits ouverts au Makhzen seraient employés à l'équipement et à la solde des
+troupes de police et à certains travaux publics urgents, notamment à l'amélioration
+des ports et de leur outillage.
+
+
+Ш. Étude d'un meilleur rendement des impôts et de la création de nouveaux
+revenus.
+
+
+IV.
+
+
+Engagement par le Makhzen de n'aliéner aucun des services publics au
+profit d'intérêts particuliers.
+Principe de l'adjudication, sans acception de nationalité, pour les travaux publics.
+Fait à Paris, le 28 septembre 1905.
+
+
+Signé: ROUVIER.
+RADOLIN.
+
+
+N° 351.
+
+
+NOTE concertée entre les Commissaires des Gouvernements français et allemand.
+
+
+Paris, le 28 septembre 1905.
+
+
+Les négociations entre la France et l'Allemagne concernant le projet de programme
+de la conférence sur les affaires marocaines viennent d'aboutir.
+
+
+L'accord s'est fait sur un programme qui comprend: organisation de la police,
+règlement concernant la surveillance et la répression de la contrebande des armes,
+réforme financière consistant principalement dans l'institution d'une banque d'État
+étude d'un meilleur rendement des impôts et de la création de nouveaux revenus,
+enfin fixation de certains principes destinés à sauvegarder la liberté économique.
+
+
+Quant à la région frontière, par une réserve spéciale insérée au projet de pro-
+gramme, il est entendu que les questions de police continuent  y étre réglées direc-
+tement et exclusivement entre la France et le Sultan et restent en dehors du pro-
+gramme de la conférence. Dans la même région, l'application du règlement sur la
+contrebande des armes restera l'affaire exclusive de la France et du Maroc.
+
+
+Les deux Gouvernements se sont mis d'accord pour demander à l'Espagne si elle
+accepterait que la ville d'Algésiras fùt choisie comme lieu de réunion de la confé-
+rence.
+
+
+En ce qui concerne les questions de l'emprunt et du port, elles ont été réglées de
+la manière suivante :
+
+
+I. Pressé par sa situation financière, le Makhzen s'était adressé à un intermédiaire
+39.
+
+
+308
+
+
+étranger résidant au Maroc qui a eu lui-même recours à un groupe de banques
+allemandes pour obtenir une avance de courte durée remboursable sur le prochain
+emprunt; le gouvernement marocain offrait en gage ses biens immobiliers dans les
+différentes villes de la côte.
+
+
+Un accord s'est établi entre le groupe des banques allemandes et le consortium des
+banques françaises, en vue de participer à cette opération qui gardera son caractère
+d'avance de courte durée, avec gage spécial, et remboursable sur le prochain emprunt
+ou par les voies et moyens de la banque d'État dont la création figure au programme
+de la conférence. L'opération laisse intacte la question du droit de préférence du
+consortium français.
+
+
+II. En ce qui concerne la construction d'un môle dans le port de Tanger, le Gouver-
+nement marocain avait, par une lettre adressée à la légation d'Allemagne, en date du
+2.6 mars, demandé àla maison Borgeaud et Reutemann l'établissement de deux plans
+entre lesquels il choisirait. Comme, à la même époque, une compagnie française avait
+été autorisée à étudier les mêmes travaux, il a été entendu qu'on prendrait un délai
+pour examiner les titres de cette compagnie, et que, à moins que la compagnie
+française ne présente des titres identiques à celui de la compagnie allemande, celle-
+ci exécutera les travaux commandés par le Makhzen.
+
+
+Le projet de programme et la proposition concernant le lieu de réunion de la con-
+férence vont être soumis, sans délai, par les deux gouvernements à l'adhésion du
+Sultan et à celle des puissances signataires de la convention de Madrid ou y ayant
+adhéré.
+
+
+Dès que les propositions concernant le programme et le lieu de la réunion de la
+conférence auront été soumises au Sultan, les deux missions quitteront Fez pour
+retourner à Tanger.
+
+
+RÉVOIL.
+ROSEN.
+
+
+N° 352.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en
+mission à Fez.
+
+
+Paris, le 30 septembre 1905.
+
+
+L'élaboration du projet de programme de la future Conférence a fait naître des
+divergences de vues entre l'Allemagne et la France. Dans le but d'arriver plus rapi-
+dement à une entente, la Chancellerie impériale a, comme vous le savez, envoyé à
+Paris M. le Docteur Rosén, Ministre d'Allemagne à Tanger, pour conférer à ce sujet
+
+
+309
+
+
+avec le Gouvernement français. De mon côté, j'ai chargé M. Révoil, Ministre pléni-
+potentiaire en mission, de se mettre en rapports avec le Docteur Rosen.
+
+
+Les négociations ont abouti, le 28 septembre, à un accord constaté dans deux
+notes, l'une signée par le Prince de Radolin et par moi, l'autre par MM. Révoil et
+Rosen. Je vous ai déjà transmis, par télégramme, le texte de ces arrangements, dont
+certains points me paraissent comporter quelques explications complémentaires.
+
+
+1º Région frontière.
+
+
+Au cours des négociations, la question a été posée par le Docteur Rosen de savoir
+jusqu'où s'étendait la région frontière dans laquelle nous revendiquions le droit de
+régler directement et exclusivement avec le Sultan la police et d'exercer la surveil-
+lance de la contrebande des armes. Le Plénipotentiaire allemand objectait que la
+situation que nous demandions au Gouvernement impérial de nous reconnaître équi-
+valait à une main-mise de la France sur toute cette région marocaine; que nous
+pouvions être amenés à y organiser des corps de troupes chérifiennes d'une telle im-
+portance qu'ils seraient une véritable menace pour le reste de l'Empire marocain et
+une cause d'épuisement des ressources financières que la Conférence devait lui assurer.
+
+
+M. Revoil a donné sur ces deux points au Docteur Rosen les éclaircissements les
+plus complets. Il a insisté sur le fait qu'il n'y avait pas lieu de rechercher en cette
+matière une précision géographique; que la région frontière était déterminée par les
+conditions spéciales du voisinage des tribus algériennes et marocaines; envisagée à ce
+point de vue, la région où nous entendions conserver la mission exclusive d'assurer
+la police, d'accord avec le Gouvernement chérifien, devait comprendre « les territoires
+où résident, campent et se meuvent traditionnellement les tribus marocaines séden-
+taires ou nomades, en relations ou en contact habituels avec les tribus algériennes. »
+En ce qui concerne la portée de notre action dans la région frontière, M. Révoil
+a expliqué au Docteur Rosen que nous ne saurions étendre abusivement nos opérations
+de police sans contrevenir aux engagements pris par nous touchant l'intégrité du
+territoire marocain et l'indépendance du Sultan; que ces engagements ne résultaient
+pas seulement de déclarations explicites du Gouvernement français, mais qu'ils résu-
+maient notre politique traditionnelle à l'égard du Maroc.
+
+
+Quant à l'entretien de la police dans la région frontière, il pourrait n'être fait appel
+aux revenus généraux du Gouvernement chérifien que dans une proportion normale
+et s'il n'était pas possible d'y pourvoir au moyen des réssources locales.
+
+
+Les observations qui précèdent ont d'ailleurs été résumées par écrit et remises au
+Plénipotentiaire allemand.
+
+
+2º Prêt négocié avec le Makhzen par les banques allemandes.
+
+
+Il a été admis que l'avance que le groupe allemand s'était proposé de consentir au
+Trésor chérifien n'avait pas le caractère d'un emprunt, mais était une simple ouverture
+de crédit à court terme, utilisable en compte-courant. Dans ces conditions, elle ne
+mettait pas en cause la question du droit de préférence du consortium français.
+
+
+L'accord entre les établissements allemands et français reconnaît à ces derniers le
+
+
+310
+
+
+droit de participer à la moitié de l'opération à conclure avec le Makhzen. Le groupe
+français a promis d'intéresser les banques anglaises et espagnoles dans la part qui
+lui était réservée.
+
+
+Le Comité des banques françaises m'a fait connaître son intention de préciser,
+dans une notification adressée au Makhzen, le caractère de son intervention dans
+l'affaire. L'attention du Gouvernement chérifien sera appelée par les banques sur les
+droits qu'elles tiennnent du contrat de 1904 et qu'elles ne manqueraient pas d'invo-
+quer si, par la suite, il y était porté atteinte.
+
+
+3º Construction d'un mole à Tanger.
+
+
+Les titres produits par la maison Borgeaud-Reutėmann et par la Compagnie maro-
+caine semblent établir une sorte d'engagement pris par le Gouvernement chérifien à
+l'égard de la première société, dès le 26 mars 1905, pour l'exécution de travaux
+dans le port de Tanger.
+
+
+Antérieurement, la Compagnie marocaine n'aurait reçu, à la date du 15 février
+1905, qu'une autorisation de procéder à des études et de dresser des projets et devis
+relatifs au même port.
+
+
+La Compagnie marocaine se dit en mesure d'établir la responsabilité du Gouver-
+nement chérifien à son endroit. Elle rappelle que le Makhzen a fait surveiller par ses
+agents et a laissé poursuivre les études techniques très complètes que la Compagnie a
+effectuées dans le port de Tanger, du 23 avril au 30 mai, avec un personnel d'ingé-
+nieurs et un matériel spécial et qu'il a réclamé et accepté la remise des plans et devis,
+sans l'aviser des engagements pris par lui vis-à-vis d'un tiers.
+
+
+Dans ces conditions, il est hors de doute que les droits de nos compatriotes à
+obtenir une compensation devront être soutenus auprès du Gouvernement chérifien.
+
+
+ROUVIER.
+
+
+N° 353.
+
+
+Le Comte SAINT-AULAIRE, Chargé des Affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil; Ministre des Affaires étrangères.
+
+
+Tanger, le 3 octobre 1905.
+
+
+Conformément aux instructions qui lui ont été adressées par le Makhzen, à la suite
+des démarches de M. Saint-René Taillandier, le Délégué intérimaire du Sultan a
+autorisé le drogman de cette légation à prendre une copie authentique de la lettre
+de Cheikh Tazi relative aux études à effectuer par la Compagnie marocaine dans le
+
+
+311
+
+
+port de Tanger. Les interprètes des légations de France et d'Allemagne ont arrêté et
+signé la traduction suivante de ce document :
+
+
+A Si El Hadj Tohammed Torrès, Représentant du Sultan à Tanger, l'amin Si à Aballah
+Ben Saïd, et aux oumanas du port de Tanger.
+
+
+Après les compliments d'usage.
+
+
+M. Fabarez., Représentant de la Compagnie Gautsch, a demandé à Notre Maître (que
+Dieu l'assiste) d'entreprendre, pour répondre aux nécessités du port, la construction d'un
+grand môle à Tanger avec un magasin y annexé pour le débarquement des marchandises, et
+il a présenté un plan de ces travaux et a fait ressortir leur utilité absolue.
+
+
+Sa Majesté chérifienne ayant pris connaissance de ce projet m'a ordonné de vous écrire
+pour que vous vous rendiez, avec l'ingénieur que ladite Compagnie désignera, sur l'endroit
+du port qui conviendra aux travaux projetés. Vous vous mettrez d'accord avec lui sur cela
+et il vous entretiendra verbalement des détails de ces travaux, il vous en fera connaître les
+avantages jusqu'à ce que vous en soyez bien pénétrés. L'ingénieur dressera de ces travaux
+deux plans qu'il vous remettra. Vous en enverrez un à la Cour chérifienne et vous garderez
+l'autre par devers vous. Il fera l'estimation des dépenses que tous ces travaux nécessiteront.
+
+
+Faites-moi connaître votre sentiment à ce sujet après vous être informé auprès d'eux du
+montant des travaux et de la somme qu'ils demandent eux-mêmes au Makhzen.
+Amitié et salut!
+
+
+Le 30 hedja 1322 (correspond au 7 mars 1905).
+
+
+Signé: MOHAMMED ETTAZI (Dieu le favorise).
+
+
+Pour traduction certifiée conforme ou texte de la copie prise sur l'original existant aux
+archives du délégué chérifien à Tanger.
+
+
+Tanger, le a octobre 1905.
+
+
+Signé: R. BLANC.
+MAENSS.
+
+
+SAINT-AULAIRE.
+
+
+N° 354.
+
+
+M. JONNART, Gouverneur général de l'Algérie,
+
+
+à M. DELCASSÉ, Ministre des Affaires étrangères.
+
+
+Mustapha, le 6 octobre 1905.
+
+
+La division d'Oran a reçu du cercle de Marnia le télégramme suivant : « Ai été obligé
+en raison panique extrême laisser entrer déjà deux cent vingt tentes marocaines avec
+tous leurs biens.
+
+
+Demain cent vingt autres entreront avec qaïd El Hadj Miloud lui mème et qaïd
+
+
+312
+
+
+Moulay Smaïl de la famille du sultan, des Oulad Moulay Hachem. Ces deux qaïds
+accrédités par Amel se sont présentés à moi et ont insisté vivement pour occupation
+par nous de leurs territoires dans le but de leur protection et de celle d'Oudjda. »
+
+
+JONNART.
+
+
+N° 355.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affairės étrangères,
+
+
+à M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en
+mission à Fez.
+
+
+12 octobre 1905.
+
+
+Le Gouvernement espagnol a accepté la proposition de réunir à Algésiras la Confé-
+rence marocaine.
+
+
+Vous pourrez donc, dès la réception du présent télégramme, procéder, de concert
+avec votre collègue allemand, à la communication au Makhzen des propositions con-
+venues entre la France et l'Allemagne. Il est préférable que cette communication ne
+soit pas effectuée au moyen d'une démarche verbale commune : elle devra être écrite
+et pourra être identique et simultanée.
+
+
+ROUVIER.
+
+
+N° 356.
+
+
+Le comte DE SAINT-AULAIRE, Chargé des affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 17 octobre 1905.
+
+
+La légation d'Angleterre a été informée hier soir de la capture, par les Andjera, de
+deux officiers d'un transport anglais échoué à proximité de Ceuta. Cet attentat est
+l'œuvre des partisans d'un chef de bande de cette tribu, connu sous le nom de
+Valiente et actuellement incarcéré à Tanger, à la suite des réclamations de la légation
+d'Espagne. Les ravisseurs viennent de notifier aux autorités locales qu'ils sont
+disposés à échanger leurs captifs contre ce personnage. Pour le moment, ils ne
+parlent pas d'autres conditions.
+
+
+SAINT-AULAIRE.
+
+
+313
+
+
+N° 357.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 17 octobre 1905.
+
+
+Je viens d'exécuter les instructions contenues dans votre télégramme du 12.
+Les interprètes des missions française et allemande ont remis hier soir simultané-
+ment à Ben Sliman les lettres qui avaient été concertées le jour même entre le Comte
+de Tattenbach et moi.
+
+
+Les deux lettres sont identiques mutatis mutandis; celle que j'ai signée est ainsi
+conçue :
+
+
+« Sur les instructions du Gouvernement de la République française, qui s'est con-
+certé à ce sujet avec le Gouvernement Impérial allemand, j'ai l'honneur de soumettre
+à l'agrément du Gouvernement chérifien, en vue des travaux de la Conférence inter-
+nationale proposée par Sa Majesté le Sultan du Maroc, le projet de programme
+cí-joint.
+
+
+« En examinant ce document, Sa Majesté le Sultan ne manquera pas de se rendre
+compte qu'il a été conçu avec une sollicitude éclairée pour les besoins et les intérêts
+de l'Empire chérifien. J'ai donc l'entière confiance qu'Elle voudra bien adopter le
+programme qui lui est proposé comme la base des délibérations de la Conférence
+internationale.
+
+
+« Le Gouvernement français et le Gouvernement allemand, ayant été sensibles aux
+avantages que présenterait à tous égards cette combinaison, ont demandé d'un commun
+accord au Gouvernement royal espagnol s'il accepterait que la ville d'Algésiras fût
+mise à la disposition des Puissances comme lieu de réunion de la Conférence. Le
+Gouvernement espagnol y a consenti. Mon Gouvernement se plaît à espérer que le
+Gouvernement chérifien, appréciant de son côté les avantages de ce choix, y donnera
+également son adhésion. »
+
+
+A nos lettres est annexée une traduction intégrale du projet de programme. La.
+traduction de la lettre et du projet de programme a été établie en commun.
+
+
+Je dois, ainsi que le Comte de Tattenbach, être reçu aujourd'hui par Ben Sliman
+et demain par le Sultan.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+DOCUMENTS DIPLOMATIQUES. Maroc.
+
+
+40
+
+
+314
+
+
+N° 358.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 18 octobre 1905.
+
+
+J'ai fait hier auprès de Ben Slimán et aujourd'hui auprès du Sultan les démarches
+verbales complémentaires de la lettre concertée du 16 octobre. Comme il était con-
+venu, le Ministre d'Allemagne a été reçu une heure après moi par le Vizir et par le
+Sultan.
+
+
+A Ben Sliman comme à Moulay Abd-el-Aziz j'ai dit qu'ils n'avaient pu manquer
+de reconnaître dans le projet de programme de la Conférence le résumé du plan de
+réformes que, durant les premiers mois de ma mission, j'avais exposé et soutenu
+devant eux au nom de la France, pour le bien du Makhzen et l'intérêt général.
+
+
+Les idées dont ce plan s'inspire leur étaient donc devenues familières. C'est sans
+doute dans cette pensée que mon Gouvernement, confiant d'ailleurs dans les décisions
+du Makhzen, m'avait autorisé à ne pas prolonger davantage mon séjour à Fez quand
+j'aurais, de concert avec le Ministre d'Allemagne, soumis au Sultan les deux propo-
+sitions relatives au programme et au lieu de réunion de la Conférence. En ce qui
+touche ce dernier point, sans m'arrêter sur l'état troublé de la région de Tanger, j'ai
+marqué l'intention bienveillante dont on s'inspirait en proposant au Makhzen une
+ville aussi proche que possible du Maroc.
+
+
+Le Sultan m'a écouté en donnant des signes d'assentiment. Il m'a dit qu'il appré-
+ciait d'une manière générale le projet de programme. Toutefois il avait besoin de
+réfléchir sur certains points; Ben Sliman aurait ensuite avec moi un entretien où
+certains éclaircissements me seraient demandés. Avant de me retirer, j'ai exprimé
+l'espoir que de Makhzen, éclairé par les événements, nous aiderait désormais à persé-
+vérer dans une politique fondée sur une étroite communauté d'intérêts et qui tend à
+fournir au pouvoir chérifien, si ébranlé, les moyens de se raffermir.
+
+
+Le Sultan m'a prié de remercier de ces dispositions bienveillantes le Gouvernement
+de la République dont il espère que l'appui ne lui fera pas défaut lors des délibérations
+de la Conférence.
+
+
+SAINT-RENÉ TAILLANDIER.
+
+
+315
+
+
+N° 359.
+
+
+Le Comte DE SAINT-AULAIRE, chargé des Affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 19 octobre 1905.
+
+
+Le Ministre d'Espagne vient d'être autorisé à consentir, au nom de son Gouverne-
+ment, à l'échange de Valiente et des deux officiers capturés.
+
+
+On ignore encore si les ravisseurs n'exigeront pas d'autres satisfactions. Le principal
+chef de leur tribu, «Douass», a, sur la demande de Torrès, engagé avec eux des
+négociations dont on ne pourra connaître que demain le résultat. Un torpilleur anglais
+doit transporter aujourd'hui, de Tanger à Ceuta, un délégué de Torrès, chargé d'avi-
+ser le négociateur du consentement de l'Espagne à la mise en liberté éventuelle de
+Valiente.
+
+
+SAINT-AULAIRE.
+
+
+N° 360.
+
+
+Le Comte DE SAINT-AULAIRE, chargé des Affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 21 octobre 1905.
+
+
+Valiente a été embarqué hier à bord d'un croiseur anglais, à destination de
+Ceuta, pour y être échangé, ainsi que deux de ses cousins emprisonnés à Tétouan,
+contre les deux officiers anglais.
+
+
+SAINT-AULAIRE..
+
+
+40.
+
+
+316
+
+
+N° 361.
+
+
+Le Comte DE SAINT-AULAIRE, chargé des Affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 22 octobre 1905.
+
+
+La libération des deux officiers n'ayant pu encore être obtenue, par suite de dif-
+ficultés de formes qu'une méfiance mutuelle pourrait rendre insolubles sans l'interven-
+tion d'un personnage religieux offrant des garanties aux deux parties, notre protégé,
+le chérif d'Ouazzan, vient d'être prié par la légation d'Angleterre de présider à
+l'échange des prisonniers. Il doit s'embarquer dans quelques instants pour Ceuta à
+bord d'un croiseur anglais.
+
+
+SAINT-AULAIRE.
+
+
+N° 362.
+
+
+M. SAINT-RENÉ TAILLANDIER, Ministre de la République française en mission
+à Fez,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Fez, le 22 octobre 1905.
+
+
+En réponse à ma lettre du 16 de ce mois, reproduite dans mon télégramme du 17,
+je viens de recevoir de Ben Sliman la lettre par laquelle le Makhzen accepte le pro-
+gramme et le lieu de réunion proposés pour la Conférence. En voici la traduction
+intégrale :
+
+
+« J'ai reçu votre lettre en date du 16 octobre de l'année courante, à laquelle était
+annexée copie du programme renfermant les principes des articles sur lesquels por-
+teront les délibérations à la prochaine Conférence internationale; vous m'avez prié de
+les porter à la connaissance de Sa Majesté chérifienne, conformément aux ordres que
+vous avez reçus à ce sujet de vos Gouvernements respectifs; vous avez exprimé
+l'espoir de voir Sa Majesté chérifienne donner son adhésion à la réunion de la Confé-
+rence à Algésiras, puisque le Gouvernement espagnol honoré à consenti à ce qu'elle
+fùt réunie à l'endroit précité, etc.
+
+
+ J'ai porté votre lettre ainsi que le programme à la connaissance de Sa Majesté
+chérifienne qui m'a ordonné de vous répondre qu'Elle a consenti à accepter que les
+délibérations portent sur les articles du programme en question à la prochaine Confé-
+
+
+317
+
+
+rence, s'il plaît à Dieu; ensuite, après délibération entre les Délégués du Gouverne-
+ment chérifien et les Délégués des Puissances amies sur les détails des articles du
+programme, ce qui aura fait l'objet d'un accord entre tous les Délégués, après que
+Sa Majesté chérifienne aura été consultée, sera mis à exécution.
+
+
+« Sa Majesté chérifienne a donné également son adhésion à la réunion de la Confé-
+rence à Algésiras, conformément à vos indications amicales.
+
+
+ 23 Chaaban 1323 (22 octobre 1905).
+
+
+« Signé: ABDELKERIM BEN SLIMAN. »
+
+
+N° 363.
+
+
+Le Comte DE SAINT-AULAIRE, Chargé des Affaires de la Légation de la Répu-
+blique française à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Tanger, le 23 octobre 1905.
+
+
+On vient de relâcher les deux officiers anglais capturés par les gens de Valiente.
+Ainsi que le reconnaît le Chargé d'affaires d'Angleterre, qui m'en exprimait ses remer-
+ciements, c'est grâce aux bons offices du chérif d'Ouazzan que ce résultat a pu être
+aussi promptement obtenu.
+
+
+En dehors de la libération immédiate de Valiente et de quelques-uns de ses com-
+plices détenus à Tétouan, ses partisans ont demandé au chérif d'Ouazzan, qui a dû en
+prendre l'engagement, de s'entremettre pour obtenir l'élargissement d'une dizaine
+d'autres membres de la tribu. Ils ont aussi demandé le payement d'une indemnité de
+200,000 douros. Après avoir consenti à réduire cette somme de moitié, en décla-
+rant que c'était leur dernier mot, ils se sont contentés de dix fusils et de dix mille
+cartouches que le commandant d'un des croiseurs anglais leur a aussitôt fait remettre.
+
+
+Cette solution, qui encourage tous les attentats et fournit les moyens de les com-
+mettre, n'a pas apaisé les alarmes des Européens. Sur la cause immédiate de cette re-
+crudescence d'insécurité, les opinions sont diverses comme les tendances politiques
+qui les inspirent. On peut y voir les effets de l'obstruction que l'action réformatrice
+de la France a rencontrée et de l'impunité des nombreux méfaits dont nos compa-
+triotes ont été victimes dans ces derniers temps. Quant aux indigènes, ils résument
+la situation en disant qu'il n'y a plus ni Makhzen ni Europe. Chez tous ceux, étrangers
+et indigènes, qui sont capables d'une appréciation impartiale de l'anarchie locale, de
+tels incidents généralisent un état d'esprit plutôt favorable à notre cause en faisant
+ressortir l'évidence du mal et la nécessité d'un remède que seule la France est en
+mesure d'appliquer.
+
+
+Le Chargé d'affaires d'Angleterre m'a exprimé l'avis qu'il conviendrait de réclamer
+du Makhzen tout au moins une tentative pour châtier les coupables. Il a ajouté qu'il
+désirait, avant de faire en ce sens une suggestion auprès de son Gouvernement, s'as-
+
+
+318
+
+
+surer que je n'y voyais aucun inconvénient. Bien que, comme toujours en pareil cas,
+la répression ne puisse atteindre les coupables, il ne reste qu'à demander, faute de
+mieux, un simulacre de châtiment, destiné à démontrer aux indigènes qu'il y a
+encore un Makhzen et une Europe.
+
+
+Les deux officiers capturés l'ayant été bien qu'accompagnés d'une escorte de vingt
+réguliers qui ont pris la fuite devant cinq bandits sans avoir rien tenté pour secourir
+les étrangers placés sous leur sauvegarde, la responsabilité du Gouvernement chéri-
+fien est plus directement engagée dans ce dernier attentat que dans ceux de même
+nature qui l'ont précédé.
+
+
+SAINT-AULAIRE.
+
+
+N° 364.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+aux Représentants diplomatiques de la République française à Saint-
+Pétersbourg, Londres, Madrid, Rome, Washington, Vienne,
+Bruxelles, La Haye, Copenhague, Stockholm, Lisbonne.
+
+
+Paris, le 25 octobre 1905.
+
+
+Notre Ministre à Fez vient de me faire connaître que le Sultan du Maroc accepte
+le projet de programme qui lui a été présenté, conformément à l'accord du 8 juillet,
+par les deux représentants de la France et de l'Allemagne, et approuve également la
+proposition de réunir la Conférence à Algésiras.
+
+
+Ce résultat étant acquis, je vous prie d'en informer officiellement le Gouvernement
+auprès duquel vous êtes accrédité et à qui vous donnerez connaissance du projet de
+programme, ci-joint en copie.
+
+
+Vous pourrez aviser votre collègue d'Allemagne que vous vous proposez de faire
+cette communication, de manière qu'il puisse la faire le même jour que vous.
+
+
+ROUVIER.
+
+
+N° 365.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires etrangères,,
+
+
+aux Représentants diplomatiques de la République française à Saint-
+Pétersbourg, Londres, Madrid, Rome, Vienne, Washington,
+Bruxelles, La Haye, Copenhague, Stockholm, Lisbonne.
+
+
+Paris, le 28 octobre 1905.
+
+
+Pour faire suite à ma communication du 25, j'ai l'honneur de vous faire connaître
+que l'Ambassadeur d'Allemagne vient de me remettre l'aide-mémoire suivant:
+ En considération du fait que d'après un rapport du comte de Tattenbach, le
+
+
+319
+
+
+Sultan du Maroc a fait déclarer formellement aux Ministres allemands et français qu'il
+acceptait le programme de la Conférence et Algésiras, nos représentants près les
+Puissances signataires de la Convention de Madrid ont reçu l'ordre de porter l'adhésion
+du Sultan à la connaissance des Gouvernements respectifs de concert avec leurs
+collègues français et de prier les Gouvernements de se prononcer sur leur participa-
+tion »..
+
+
+Je dois ajouter que je n'ai reçu de Fez aucune information, ni sur la question de
+la forme des invitations, ni sur les conversations qui auraient eu lieu entre le Sultan
+et les représentants de la France et de l'Allemagne, au sujet de la date de la réunion
+de la Conférence.
+
+
+ROUVIER.
+
+
+N° 366.
+
+
+M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+aux Représentants diplomatiques de la République française à Berlin
+et à Tanger.
+
+
+Paris, le 24 novembre 1905.
+
+
+A la suite de la comparaison des lettres adressées par le Makhzen à la Compagnie
+marocaine et à la Légation d'Allemagne, à Tanger, au sujet des travaux du port de
+cette ville, M. Rosen avait demandé à M. Révoil si nous étions disposés à reconnaître
+le bien fondé de la prétention allemande et à ne plus nous opposer au commen-
+cement des travaux. M. Révoil a répondu, sur mes instructions, que le Gouvernement
+français ne s'opposait pas à ce que la concession Borgeaud Reuteman (travaux du
+môle) suivit son cours, mais réservait sans aucune restriction les droits de la Com-
+pagnie Marocaine vis-à-vis du Makhzen.
+
+
+ROUVIER.
+
+
+N° 367.
+
+
+Le Comte DE SAINT-AULAIRE Chargé d'affaires de la République française
+à Tanger,
+
+
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères,
+
+
+Tanger, le 1er décembre 1905.
+
+
+Voici la traduction intégrale d'une lettre circulaire que les représentants des puis-
+sances à Tanger viennent de recevoir de Torrès :
+
+
+« Le représentant du Sultan à Tanger à M. Saint-René Taillandier, Ministre de
+ la République française au Maroc.
+
+
+320
+
+
+« Conformément à ce que je vous ai écrit précédemment pour vous transmettre
+  l'invitation du Makhzen à assister à la conférence où doivent être discutées les
+« réformes possibles qu'il se propose d'effectuer dans l'empire chérifien ainsi que les
+<< moyens de faire face aux dépenses qu'elles nécessiteront, je vous informe que Sa
+« Majesté a décidé que la réunion demandée aurait lieu à Algésiras sur le territoire
+  espagnol, en considération des avantages qu'il y a, en ce moment, à la tenir en cette
+<< ville.
+
+
+« Le Gouvernement espagnol ayant consenti à ce qu'elle ait lieu dans la ville pré-
+ citée et en raison de la gêne que causerait au Makhzen l'ouverture de cette confé-
+<< rence avant le 20 décembre prochain, Sa Majesté chérifienne en a fixé l'ouverture
+« au 21 décembre, Elle demande â votre gouvernement que vous y preniez part avec
+« les délégués chérifiens, le jour où cette conférence s'ouvrira à Algésiras.
+
+
+« Fez, le 29 ramadan 1323 (26 novembre 1905).
+
+
+« Signé: MOHAMMED BEN EL ARBI TORRÈS. >>
+
+
+D'après les indications fournies par le Ministre d'Espagne, la lettre à lui adressée
+ne présenterait avec la circulaire ci-dessus que des différences de forme provenant
+de ce qu'elle constitue une réponse à la note espapagnole visant cette question.
+
+
+SAINT-AULAIRE.
+
+
+N° 368.
+
+
+M. JULES CAMBON, Ambassadeur de la République française à Madrid,
+à M. ROUVIER, Président du Conseil, Ministre des Affaires étrangères.
+
+
+Madrid, le 7 décembre 1905.
+
+
+Le Sultan a indiqué dans sa réponse, au sujet de la réunion de la conférence, la
+date du 21. décembre. Le Gouvernement espagnol considère cette date comme celle
+à partir de laquelle les délégués marocains seront en mesure de prendre part à la
+conférence. En raison de la proximité des fêtes, il compte inviter les Puissances
+fermement pour le 5 janvier. Il télégraphiera à Tanger pour en aviser le Makhzen.
+
+
+J. CAMBON.

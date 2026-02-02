@@ -1,0 +1,20506 @@
+# Archives du Maroc - CHRONIQUE DE LA DYNASTIE ALAOUIE DU MAROC T1.pdf
+
+MINISTÈRE
+
+
+DE L'EUROPE
+
+
+ET DES AFFAIRES
+
+
+ÉTRANGÈRES
+
+
+Liberté
+Egalité
+Fraternité
+
+
+Bibliothèque diplomatique numérique
+
+
+BDN: un site des Archives diplomatiques
+
+
+Archives marocaines :
+publication de la Mission
+scientifique du Maroc
+
+
+Source bibliotheque-numerique.diplomatie.gouv.fr / Bibliothèque nationale de France
+
+
+MINISTÈRE
+
+
+DE L'EUROPE
+
+
+ET DES AFFAIRES
+
+
+ÉTRANGÈRES
+
+
+Liberté
+Egalité
+Fraternité
+
+
+Bibliothèque diplomatique numérique
+
+
+BDN: un site des Archives diplomatiques
+
+
+Mission scientifique du Maroc. Auteur du texte. Archives
+marocaines: publication de la Mission scientifique du Maroc.
+1906-12-01.
+
+
+La Bibliothèque diplomatique numérique (BDN), bibliothèque numérique des Archives diplomatiques au MEAE, a
+été réalisée à partir des outils développés par la Bibliothèque nationale de France (BnF) pour sa bibliothèque
+numérique Gallica. Hébergée par la BnF, elle donne accès à :
+
+
+• des articles originaux de médiation culturelle et des reproductions numériques d'œuvres provenant des
+collections des Archives diplomatiques. Ces contenus sont considérés, en vertu du code des relations entre le public
+et l'administration, comme étant des informations publiques et leur réutilisation s'inscrit dans le cadre des
+dispositions prévues aux articles L. 321-1 à L. 327-1 de ce code. Dès lors :
+
+
+- la réutilisation non commerciale de ces contenus est libre et gratuite dans le respect de la législation en vigueur
+et du maintien de la mention de source (pour les articles: << Archives diplomatiques, Bibliothèque diplomatique
+numérique »; pour les œuvres: << Source: Ministère des Affaires étrangères  )
+
+
+- la réutilisation commerciale de ces contenus est payante, conformément aux textes en vigueur. L'utilisateur est
+invité à s'informer auprès des Archives diplomatiques des conditions de leur réutilisation
+
+
+• des reproductions numériques d'œuvres provenant des collections de la BnF. Celles-ci sont signalées par la
+mention <<< Source: Bibliothèque nationale de France ». Ces contenus sont considérés, en vertu du code des relations
+entre le public et l'administration, comme étant des informations publiques et leur réutilisation s'inscrit dans le
+cadre des dispositions prévues aux articles L. 321-1 à L. 327-1 de ce code. Dès lors :
+
+
+- la réutilisation non commerciale de ces contenus est libre et gratuite dans le respect de la législation en vigueur
+et du maintien de la mention de source
+
+
+la réutilisation commerciale de ces contenus est payante et fait l'objet d'une licence, conformément aux textes
+en vigueur (en savoir plus).
+
+
+• des reproductions numériques d'œuvres provenant des collections d'autresbibliothèques ou institutions
+partenaires de la BnF. Celles-ci sont signalées par la mention << Source : [Intitulé du partenaire]  . L'utilisateur est
+invité à s'informer auprès de ces établissements des conditions de leur réutilisation.
+
+
+Original illisible
+NF Z 43-120-10
+
+
+Texte détérioré - reliure défectueuse
+
+
+NF Z 43-120-11
+
+
+"VALABLE POUR TOUT OU PARTIE
+
+
+DU DOCUMENT REPRODUIT".
+
+
+-
+
+
+Source bibliotheque-numerique.diplomatie.gouv.fr / Bibliothèque nationale de France
+
+
+Cousin la Caurer time)
+
+
+ARCHIVES
+
+
+42424
+
+
+MAROCAINES
+
+
+CHEOLE
+
+
+PUBLICATION.
+
+
+DE LA
+
+
+MISSION/SCIENTIFIQUE DU MAROC
+
+
+VOLUME IX
+
+
+KITAB ELISTIQSA LI AKHBARI DOUAL ELMAĠRIB ELAQSA
+
+
+(Le livre de la recherche approfondie des événements des dynasties de l'extrême Magrib)
+OŒuvre du très docte savant, de l'unique des temps, le seul du siècle
+l'océan de science, le chroniqueur, le chéïkh
+AHMED BEN KHALED ENNAŞIRI ESSLAOUI
+
+
+Que Dieu le conserve et perpétue sa grandeur!
+Ainsi soit-il!
+
+
+QUATRIÈME PARTIE
+
+
+CHRONIQUE DE LA DYNASTIE ALAOUIE DU MAROC
+
+
+(1631 à 1894)
+
+
+Traduite par EUGÈNE FUMEY
+Premier Drogman de la Légation de France au Maroc
+Publiée par NOËL GIRON
+
+
+TOME
+
+
+PARIS
+
+
+ERNEST LEROUX, ÉDITEUR
+28, RUE BONAPARTE, VI.
+
+
+1906
+
+
+DÉCEMBRE 1906
+
+
+MISSION SCIENTIFIQUE DU MAROC
+
+
+MEMBRES DE LA MISSION
+
+
+M. E. MICHAUX-BELLAIRE, chef de Mission (à Tanger).
+
+
+M. L. MERCIER.
+
+
+M. L. COUFOURIER.
+
+
+M. É. AMAR (Publication du Fonds Salmon, à Paris).
+
+
+Μ. Ν.
+
+
+Μ. Ν...
+
+
+M. M. BESNIER.
+
+
+M. A. JOLY.
+
+
+M. N. SLOUSCH.
+
+
+Correspondants
+
+
+Secrétaire de la Rédaction des Archives Marocaines:
+
+
+M. N. GIRON.
+
+
+ARCHIVES
+
+
+RE
+
+
+MAROCAINES
+
+
+PUBLICATION
+
+
+DE LA
+
+
+MISSION SCIENTIFIQUE DU MAROC
+
+
+7
+
+
+3
+
+
+0166
+
+
+DE
+
+
+301
+
+
+2963
+
+
+VOLUME IX
+
+
+PARIS
+
+
+ERNEST LEROUX, ÉDITEUR
+28, RUE BONAPARTE, VI
+
+
+1906
+
+
+THEOLE
+
+
+BF
+
+
+TABLE DU TOME IX
+(1906)
+
+
+EUGÈNE FUMEY
+
+
+CHRONIQUE DE LA DYNASTIE ALAOUIE DU MAROC
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Pages.
+1X
+
+
+11
+
+
+ARCHIVES MAROCAINES
+
+
+.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+TABLE DES MATIÈRES
+
+
+III
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+IV
+
+
+ARCHIVES MAROCAINES
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+/
+
+
+TABLE DES MATIÈRES
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+V
+
+
+VJ
+
+
+ARCHIVES MAROCAINES
+
+
+Pages.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+TABLE DES MATIÈRES
+
+
+VII
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+REE
+
+
+EUGÈNE FUMEY
+
+
+L'auteur de cet ouvrage, trop vite enlevé aux siens et à
+l'œuvre de la France au Maroc, était un des fonction-
+naires les plus appréciés de la Légation de France à Tan-
+ger, où sa mort laissa un vide difficile à combler.
+
+
+Diplômé de l'École des Langues orientales pour les
+langues arabe, turque et persane, il débuta dans la car-
+rière consulaire en qualité d'élève-drogman à Alep, en
+1893; mais la Syrie ne l'attirait pas, et, l'année suivante,
+il était, sur sa demande, envoyé à Tanger, où devait se
+développer en lui une véritable vocation pour l'étude du
+dialecte maghrebin et des choses du Maroc.
+
+
+La question marocaine n'avait pas encore acquis l'im-
+portance qu'elle a prise depuis lors; aussi, les fonction-
+naires de la Légation et les consuls ne faisaient, à Tanger
+ou dans les différentes villes de la côte, que des séjours
+assez courts et se souciaient peu de se spécialiser: les
+ouvrages sérieux sur le Maroc étaient rares et le pays
+fort peu étudié.
+
+
+X
+
+
+EUGÈNE FUMEY
+
+
+Doué d'une aptitude remarquable pour les langues,
+M. Fumey acquit bientôt une connaissance approfondie
+de l'arabe littéraire et du dialecte maghrebin. Mais il avait
+aussi, au plus haut degré, le sens de l'observation: ses ca-
+marades se souviennent de l'intérêt avec lequel il s'entre-
+tenait, non seulement avec les fonctionnaires chérifiens,
+mais aussi avec les gens du peuple, cherchant à pénétrer
+leur psychologie, à s'enquérir de leurs idées particulières
+sur l'Europe, saisissant dans ces existences, que còtoic
+l'Européen sans les pénétrer, le trait révélateur de l'esprit
+du pays et de la race. Il avait un goût particulier pour la
+conversation des vieux Mokhazni, se faisait conter par eux
+les  harka » auxquelles ils avaient assisté, les anecdotes
+relatives aux campagnes de Moûlay Mohammed ou Moû-
+lay Elbasan. Et ces Musulmans, habituellement si fermés,
+causaient sans arrière-pensée avec ce jeune homme con-
+naissant si bien leur langue et leur histoire, et qui savait
+garder, avec la cordialité qui met à l'aise, la courtoisie à
+laquelle l'indigène, à quelque classe qu'il appartienne, est
+si sensible. Six mois passés à Fès, comme gérant intéri-
+maire du consulat, lui fournirent l'occasion d'achever ses
+études de sociologie pratique, au milieu de la société
+maure, où se recrutent la plupart des hauts fonctionnaires
+du Makhzen.
+
+
+Un pareil agent est une bonne fortune pour une Léga-
+tion; ses chefs le comprirent et il fut nommé premier drog-
+man à Tanger, en 1897, à l'âge de vingt-sept ans, avance-
+ment tout à fait exceptionnel dans la carrière. Il fut, dès
+
+
+EUGÈNE FUMEY
+
+
+NJ
+
+
+lors, associé par une étroite et utile collaboration à nos mi-
+nistres à Tanger, M. Revoil et M. Saint-René Taillandier.
+Les événements allaient bientôt donner une singulière
+importance aux choses du Maroc et ouvrir la « question
+d'Occident ». Le grand-vizir Bâ Ahmed, qui avait su main-
+tenir son pays fermé aux intrigues européennes, mourait;
+le jeune Sultan, jusqu'alors tenu en lisières par une tutelle
+étroite, laissait la gestion des affaires à son favori Mnebhi,
+jeune caïd à l'esprit ouvert et d'agréable caractère, mais
+insuffisamment préparé à tant de responsabilités... les im-
+prudences qui furent alors commises pendant la dernière
+année du séjour du Sultan à Marrakech sont encore à la
+mémoire de tous ceux qui s'occupent des choses du Maroc.
+Elles eurent d'abord, pour conséquence, une très vive ri-
+valité entre les politiques française et anglaise  rivalité
+à laquelle mit heureusement fin l'entente cordiale des
+deux nations enfin l'insurrection de Bou Hamara, et
+une situation intérieure de plus en plus anarchique.
+
+
+Pendant toute cette période d'évolution politique du-
+Gouvernement marocain, le rôle du premier drogman de la
+Légation de France devait être très actif. M. Fumey fut
+d'abord attaché à l'ambassade extraordinaire du ministre
+des Affaires étrangères du Sultan, Si 'Abdelkérîm ben Slî-
+mân, à Paris, au cours de l'été 1900; puis fut envoyé en-
+suite en mission spéciale auprès de la Cour chérifienne à
+Marrakech. Ce fut l'année suivante que le Sultan quitta sa
+capitale du Sud pour se rendre à Fès. Selon l'usage, il
+s'arrêta plusieurs mois à Rabat: la rivalité franco-anglaise
+
+
+:
+
+
+NII
+
+
+EUGÈNE FUMEY
+
+
+avait pris alors une tournure inquiétante pour nos intérêts
+au Maroc. Le ministre de France fit encore une fois appel
+à l'expérience de M. Fumey et à sa connaissance des hom-
+mes du Makhzen, pour lui confier une nouvelle mission
+auprès de celui-ci.
+
+
+Mais le travail qu'il fournissait sans compter avait déjà
+usé sa santé; il lui fallut tout son dévouement pour retour-
+ner à Rabat quelques semaines plus tard, au mois de jan-
+vier 1902, accompagnant l'ambassade extraordinaire de
+M. Saint-René Taillandier. Ce fut alors qu'il contracta la
+maladie dont il ne devait jamais complètement se remet-
+tre. Après une convalescence précaire, le sentiment de sa
+responsabilité lui fit reprendre trop tôt la direction de son
+service à la Légation où il s'était rendu indispensable ; il
+dut bientôt rentrer en France subir une opération. L'in-
+tervention chirurgicale sembla, d'abord, avoir vaincu le
+mal; trop faible pour supporter, pendant l'hiver, les ri-
+gueurs du climat de Besançon, sa ville natale, il se repo-
+sait près de Toulon, à Samary, où le dévouement d'une
+sœur l'avait suivi, quand il fut emporté le 27 mars 1903,
+à l'âge de trente-trois ans, par une hémorragie consécu-
+tive à la maladie de foie dont il souffrait. Il venait d'être
+proposé pour la croix, mais ne devait pas avoir la satisfac-
+tion de la recevoir avant sa mort.
+
+
+Ce malheur, qui consterna ses amis de Tanger et ses
+camarades de la Légation de France, fut aussi vivement
+ressenti au Makhzen, où il avait su se faire apprécier, et
+le ministre des Affaires étrangères du Sultan écrivit au
+
+
+EUGÈNE FUMEY
+
+
+XIII
+
+
+représentant de la France à Tanger, pour lui exprimer
+les sentiments de condoléances de son maître et du Gou-
+vernement marocain.
+
+
+Pendant ses rares loisirs, M. Fumey avait pris une quan-
+tité de notes et commencé plusieurs études, qu'il n'eut pas
+le temps de compléter ou d'achever.
+
+
+Les premiers travaux furent relatifs à la linguistique
+vulgaire. De nombreux ouvrages de vulgarisation ont été
+édités sur ce sujet en Algérie, mais avec les particularités
+dialectiques du Maghreb central; il voulait combler cette
+lacune par un vocabulaire et un choix de contes. Ses étu-
+des avaient surtout un caractère pratique et comprenaient':
+le dialecte parlé dans les milieux populaires et celui des
+<< fqîh », ce dernier usant abondamment de la terminologie
+littéraire pour exprimer des idées abstraites; puis la lan-
+gue écrite, dans le style courant des lettres du Makhzen,
+souvent rédigées par des secrétaires possédant fort bien
+la langue littéraire. M. Fumey aimait à soutenir cette opi-
+nion que, contrairement à l'idée généralement répandue,
+le dialecte marocain n'est pas plus incorrect que celui d'Al-
+gérie et d'Égypte. Les arabisants sont souvent frappés par
+les mots espagnols que les indigènes de la còte introdui-
+sent dans leur langage, mais ceux-ci ne sont pas plus
+nombreux que les mots français, italiens et grecs em-
+ployés dans les autres pays de langue arabe, l'immuabi-
+lité de la vie sociale des Musulmans marocains ayant peu
+favorisé, d'ailleurs, l'introduction des néologismes étran-
+gers.
+
+
+XIV
+
+
+EUGÈNE FUMEY
+
+
+Absorbé par ses occupations professionnelles, M. Fu-
+mey dut renoncer à ce travail absorbant et ingrat qu'est
+la rédaction d'un vocabulaire. Il abandonna à ses jeunes
+camarades de la Légation les contes qu'il avait recueillis
+en dialecte tangérien.
+
+
+Il se borna à publier son Choix de correspondances ma-
+rocaines (1), recueil de cinquante lettres officielles du Makh-
+zen, choisies dans les archives de la Légation de France
+et reproduites en fac-similé. Ces lettres sont traduites et
+accompagnées de notes instructives sur les termes em-
+ployés, les coutumes du Makhzen et sa façon de traiter les
+affaires; rangées par ordre chronologique et présentant
+ainsi un spécimen de toutes les époques, depuis Sîdi Mo-
+hammed Ben Abdallah, petit-fils de Moûlay Ismail, jus-
+qu'à nos jours, elles montrent l'évolution survenue dans
+les relations de la Cour chérifienne avec les représentants
+étrangers au cours du dix-neuvième siècle.
+
+
+Le dernier travail de M. Fumey, et celui auquel il s'in-
+téressait le plus, fut sa traduction du Kitab Elistiqsa, pu-
+bliée aujourd'hui par les Archives marocaines.
+
+
+Le Kitab Elistiqsa est un long résumé de l'histoire du
+Maroc depuis les débuts de l'Islam jusqu'à nos jours,
+dont l'auteur, le fqth Ahmed Ennâşiri Esslâouï, fonction-
+naire du Gouvernement chérifien, remplit, à ce titre, dif-
+férents emplois sous les règnes de Sîdi Mohammed et de
+
+
+(1) Librairie orientale et américaine J. Maisonneuve, 26, rue Madame,
+1903.
+
+
+EUGÈNE FUMEY
+
+
+XV
+
+
+Moûlay Elbasan. Les parties de l'ouvrage antérieures au
+dernier siècle ne sont pas très intéressantes, Ennâşiri
+n'ayant fait souvent que paraphraser ou même reproduire
+le Roûd Elqartas, le Nozhet Elhadi et Ettorjemân Elmou-
+arib, ouvrages déjà traduits. Mais il n'en est pas de
+même pour la période contemporaine, celle dont M. Fu-
+mey entreprit la traduction; là, l'auteur avait pu recueil-
+lir de témoins oculaires les événements dont il se fait le
+narrateur, ou y avait assisté lui-même. Son ouvrage, qui
+permet de suivre la politique des derniers Sultans vis-à-
+vis des tribus de leur empire et vis-à-vis des puissances
+européennes, devient le plus intéressant des monuments
+historiques... indispensable à qui veut bien saisir l'orga-
+nisation de ce gouvernement rudimentaire que l'on nomme
+le Makhzen, et pénétrer sa politique si simple dans son but
+et si compliquée dans ses moyens.
+
+
+H. GAILLARD.
+
+
+CHRONIQUE
+
+
+DE LA DYNASTIE ALAOUIE DU MAROC
+
+
+Au nom de Dieu le Clément, le Miséricordieux !
+
+
+Dynastie des Chérîfs Sijilmâsis de la famille de  Ali Echchérif;
+leur généalogie et leurs débuts  .
+
+
+La généalogie de cette dynastie chérifienne  Alaouie
+est une des plus certaines, et sa filiation avec l'Envoyé de
+Dieu (sur lui soient les prières de Dieu et le salut!) une
+des plus solidement établies.
+
+
+Le premier souverain de cette famille, comme nous
+allons le voir, fut Moûlay Mhammed, fils d'Echchérif, fils
+de Ali Echchérif Elmorrakchi, fils de Mhammed, fils de
+'Ali, fils de Yousef, fils de Ali Echchérif Essijilmasi,
+fils d'Elhasan, fils de Mhammed, fils de Hasân Eddakhil,
+fils de Qâsém, fils de Mohammed, fils d'Aboùlqâsém, fils
+de Mohammed, fils d'Elbasan, fils de 'Abdallah, fils d'Abou
+Mohammed, fils de Arafa, fils d'Elbasan, fils d'Aboû Bekr,
+fils de Ali, fils d'Elhasan, fils d'Ahmed, fils d'Isma 'il, fils
+de Qâsém, fils de Mohammed Ennéfs Ezzakiya, fils de
+ Abdallah Elkamel, fils de d'Elbasan II, fils d'Elbasan
+Essibt, fils de Ali et de Fâțima, la fille de l'Envoyé de
+Dieu (sur lui soient les prières de Dieu et le salut !).
+
+
+1. Texte arabe, IV partie, page 2.
+ARCH. MAROC,
+
+
+1
+
+
+2
+
+
+ARCHIVES MAROCAINES
+
+
+Cette généalogie, qui a mérité d'ètre qualifiée de chaîne
+d'or, a été ainsi donnée par nombre de savants, tels que le
+chéïkh Aboul'abbas Ahmed ben Aboûlqâsém Eşşoùmi,
+le chéïkh Abou 'Abdallah Mohammed Elarbi ben Yousef
+Elfèsi et le très docte chérîf Aboù Mohammed Abdesselâm
+Elqâdiri dans son livre intitulé: Eddorressani fiman bi-Fès
+min ennasabi-lhasani. Nous avons déjà dit, à propos de la
+dynastie saadienne, qu'il convenait d'ajouter dans la ligne
+directe de cette généalogie chérifienne, après le dernier
+Qâsém: fils d'Elhasan, fils de Mohammed, fils de Abdallah
+Elachter, fils de Mohammed Ennéfs Ezzakiya... etc.
+
+
+Aboù Abdallah Elfèsi dit dans Elmera'a que les « Ché-
+rifs, sur l'origine desquels il n'y a aucun doute, sont nom-
+breux au Maġrib: ce sont, entre autres, les Djontis, qui
+sont Hasanis Idrisis, les Chorfa de Tâfilêlt qui sont Hasa-
+nis Mhammédis, les Sqallis, et les Iraqis qui sont Ho-
+séïnis. Il $n^{\prime}y$ a pas deux personnes qui soient en désac-
+cord sur leur noblesse, ni parmi leurs compatriotes, ni
+parmi les étrangers qui les connaissent. >> Le Chéïkh
+eljemaʻa, l'imâm Abou Mohammed Abdelqader Elfèsi (Dieu
+lui fasse miséricorde!) qui partage les chérifs du Magrib
+en cinq groupes, suivant leur origine plus ou moins for-
+tement établie, a classé les seigneurs Sijilmasis dans le
+premier groupe, parmi les familles dont la noblesse est
+universellementconsidérée comme indiscutable. Le chéïkh
+Aboù 'Ali Elyoûsi (Dieu lui fasse miséricorde!) dit à son
+tour que la noblesse des seigneurs Sijilmasis est une
+chose dont il est aussi peu permis de douter que de la
+clarté du soleil dans la matinée. Le chéïkh Aboul abbas
+Ahmed ben Ma'n Elandalousi disait, paraît il, que, depuis
+les Idrisis, le gouvernement du Magrib n'avait pas appar-
+tenu à une famille d'une origine aussi authentique que les
+chérîfs de Tâfilêlt.
+
+
+En résumé, la noblesse de ces seigneurs Sijilmâsis est
+pour tous les habitants du Magrib un fait incontesté et dont
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+3
+
+
+l'authenticité n'est contredite par personne, tant la généa-
+logie ininterrompue sur laquelle elle est basée dépasse les
+limites exigées. Dieu soit satisfait d'eux, et nous les rende
+profitables, eux et leurs ancêtres : ainsi soit-il!
+
+
+Arrivée de Moulay Elbasan ben Qâsém au Magrib: il s'établit
+
+
+à Sijilmâsa  .
+
+
+On dit que les ancètres de ces seigneurs (Dieu soit satis-
+fait d'eux) étaient originaires de Yenboù Ennkhal, dans
+le Hedjâz. L'Envoyé de Dieu (sur lui soient les prières de
+Dieu et le salut) avait, dit-on, donné le pays de Yenboû
+en fief à leur aïeul Ali ben Aboù Taleb: ses descendants
+s'y étaient établis et s'y sont perpétués jusqu'à notre
+époque.
+
+
+Le premier de ces chérîfs qui vint dans le Magrib fut
+Moûlay Elhasan ben Qâsém. Le savant docteur Aboù
+ Abdallah Mohammed Elmerġitsi, auteur de l'Arjoûza
+intitulée Elmoqni, tenait, affirme-t-on, du chéïkh, de
+l'imâm Moulay Aboù Mohammed Abdallah ben Ali ben
+Tâhar Elbasani le renseignement suivant: le premier
+de leurs ancêtres qui pénétra dans le Magrib fut Moû-
+lay Elhasan ben Qâsém: son arrivée eut lieu vers la fin du
+septième siècle: il devait avoir, à cette époque, près de
+soixante ans et il mourut avant la fin du siècle; Dieu lui
+fasse miséricorde! L'assertion de Ben Tahar qui précède
+est la plus sûre qu'on puisse rapporter en ce qui concerne
+l'époque et les conditions de l'arrivée de ce chérîf au
+Maroc; suivant un autre auteur, Ben Tâhar l'aurait fixée
+à l'année 664. Selon le chéïkh Aboù Ishaq Brahim ben
+Hilal qui l'affirme dans son Mensék, cet événement eut
+lieu au début de la dynastie des Beni Merin. Il en résulte
+que l'arrivée du chérîf eut lieu sous le règne du sultan Ya-
+
+
+1. Texte arabe, IV partie, page 3.
+
+
+4
+
+
+ARCHIVES MAROCAINES
+
+
+'qoûb ben 'Abdelhaqq Elmerîni: nous avons déjà rapporté
+cela en son lieu et place. Dans sa Rihla, le très docte
+Aboù Salém El'ayyachi prétend que Moûlay Elhasan vint
+au Magrib dans le courant du septième siècle.
+
+
+Elhasan habitait dans un village voisin de Yenboû , ap-
+pelé Beni Brâhîm.
+
+
+En résumé, tous les auteurs que je viens de citer s'ac-
+cordent à dire que l'arrivée du Chérîf eut lieu dans le cours
+du septième siècle: c'est là sans doute, s'il plaît à Dieu,
+que doit être la vérité. D'autres prétendent bien que cet
+événement arriva dans le sixième siècle, mais cette date
+paraît bien reculée.
+
+
+On n'est pas d'accord sur les motifs qui amenèrent ce
+seigneur au Magrib. L'auteur du livre intitulé: Elanouâr
+essaniya fimâ bi-Sijilmasa min ennisbat Elhasaniya fait à
+cet égard le récit suivant: La caravane du pèlerinage Ma-
+ġribin venait souvent en cet endroit visiter les chérîfs.
+Le chef de la caravane, qui était à cette époque un habitant
+de Sijilmasa, probablement Sîdî Bou Brâhîm, rencontra le
+Séyyid Hasan à la foire qui se tient après le pèlerinage.
+Comme à cette époque il n'y avait aucun chérîf ni à Sijil-
+mâsa ni dans toute la région, le chef de la caravane insista
+tant sur les charmes du séjour du Magrib et spécialement
+de celui de Sijilmâsa, qu'Elhasan se laissa entraîner à reve-
+nir avec la caravane. Bou Brâhîm ramena donc avec lui
+le chérîf, qui s'installa à Sijilmâsa.
+
+
+Son descendant Moulay Aboû Mohammed Abdallah ben
+ Ali ben Tâhar affirme, suivant une note écrite d'après ses
+dires, que les habitants de Sijilmâsa qui ramenèrent avec
+eux le chérîf, appartenaient aux Oulad el Bachir, aux Ou-
+lâd el Menzari, aux Oulad el Moʻtaşim et aux Oulad ben
+'Aqila: ceux avec lesquels il s'allia furent les Oulad el
+Menzári. L'auteur de l'Arjoûza dit que le chéïkh Boû
+Brâhîm qui amena le chérîf était un descendant de Omar
+ben Elkhattab; Dieu soit satisfait de lui!
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+5
+
+
+Suivantun autre auteur, les habitants de Sijilmasa, voyant
+que les dattes ne réussissaient point dans leur pays, se
+rendirent dans le Hedjâz dans le dessein de ramener parmi
+eux un membre de la famille du Prophète, dont la présence
+serait pour eux une source de bénédictions: ce fut ainsi
+qu'ils ramenèrent Moûlay Elhasan. Dieu justifia leur espé-
+rance, et bientôt les dattes furent si abondantes que leur
+pays devint le Hadjer du Magrib.
+
+
+Un autre auteur donne encore la version suivante sur la
+venue de ces chérîfs au Magrib: Les chérifs de la famille
+d'Idris (Dieu soit satisfait de lui!) s'étaient dispersés dans
+tout le Magrib, et comme ils avaient perdu toute cohésion,
+ils avaient été persécutés par les émirs des Meknâsa qui
+en avaient fait périr un certain nombre; les chérîfs avaient
+donc beaucoup diminué et plusieurs d'entre eux avaient
+mème renié leur origine pour échapper à la mort. Quand
+l'astre de la dynastie Mérinide brilla sur le Magrib, les
+princes de cette famille honorèrent les chérîfs, rétablirent
+leur influence et les traitèrent avec de grands égards.
+Comme à cette époque Sijilmása ne possédait pas un seul
+membre de la noble famille, les chefs et les notables du
+pays décidèrent d'aller chercher un descendant de cette
+maison chérifienne qui leur apporterait sa bénédiction. On
+dit que c'est dans les mines qu'il faut aller chercher l'or,
+qu'il faut demander les rubis au pays qui les produit et
+que le Hedjâz est la patrie des chérîfs, et en quelque sorte
+le coquillage qui fait éclore cette perle précieuse. Les gens
+de Sijilmâsa se rendirent donc au Hedjâz et en ramenèrent
+Moûlay Elhasan, comme nous l'avons déjà dit. Depuis ce
+moment, le soleil de la famille du Prophète brilla sur Sijil-
+mâsa, éclaira cette contrée et lui procura l'ombre de l'arbre
+aux précieux ombrages. Aussi a-t-on dit que le cimetière
+de Sijilmasa est le Baqî du Magrib: cet éloge suffit pour
+établir la noblesse de ce pays, sa gloire, la faveur dont
+il jouit et sa richesse.
+
+
+6
+
+
+ARCIIIVES MAROCAINES
+
+
+Un auteur dit encore que les gens de Sijilmasa s'étaient
+adressés à Moulay Qâsém ben Mohammed pour le prier de
+leur envoyer un de ses fils, parce que ce personnage était,
+à cette époque, le plus en renom et le plus dévot de tous
+les chérîfs du Hedjaz. Moûlay Qásém voulut éprouver ses
+enfants, qui étaient, dit-on, au nombre de huit, avant de
+désigner celui qui conviendrait le mieux à cette mission;
+il les interrogea donc successivement, en leur disant:
+ Comment vous conduiriez-vous à l'égard de quelqu'un
+qui vous aurait fait du bien ? >> Tous répondirent qu'ils lui
+feraient du bien. « Et, ajouta-t-il alors, comment vous
+conduiriez-vous envers celui qui vous aurait fait du mal?  
+Chacun des enfants, à qui cette question avait été posée,
+ayant répondu qu'il rendrait le mal pour le mal, le père
+leur avait dit de s'asseoir; mais arrivé à Moûlay Elbasan
+Eddakhil, et lui ayant adressé la même question, celui-ci
+répondit : « Je lui ferais du bien. »
+<< Et s'il continue à
+te faire du mal, répliqua le père. >>>
+<< Je lui ferais encore
+du bien, et je persévérerais jusqu'à ce que mes bontés
+viennent à bout de sa méchanceté, reprit Moulay Elbasan. »
+En entendant cette réponse, le visage de Moûlay Qâsém
+s'illumina, et se sentant pénétré par l'inspiration hâchimite,
+il appela les bénédictions du ciel sur ce fils et ses descen-
+dants. Dieu exauça sa prière.
+
+
+Moûlay Elhasan Eddakhil était un homme vertueux et
+d'une grande piété, il était versé dans diverses sciences,
+particulièrement dans celle de la logique qu'il possédait à
+fond: II venait de s'installer à Sijilmâsa et de prendre un
+peu de repos dans sa nouvelle résidence, lorsque le chéïkh
+Boù Brâhîm lui fit épouser sa fille; il habitait dans cette
+ville l'endroit appelé Elmeşlaḥ. Lorsqu'il mourut, une dis-
+cussion, si vive qu'elle faillit dégénérer en lutte à main
+armée, s'éleva entre les gens de Sijilmása au sujet de l'en-
+droit où on l'enterrerait, on se mit d'accord pour partager,
+à l'aide de cordes, la ville en quatre parties égales eton fit sa
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+tombe au point d'intersection des deux cordes, de telle
+façon qu'elle ne fût pas plus rapprochée d'un côté que de
+l'autre.
+
+
+On n'a pas conservé la date de sa mort: l'assertion
+d'Elyéfréni à cet égard manque tout à fait de fondement.
+Dieu sait quelle est la vérité.
+
+
+Postérité de Moûlay Hasan ben Qâsém, son développement dans
+le Magrib, et quelques traits de Moûlay 'Ali Echchérif¹.
+
+
+A sa mort, Moûlay Hasan (Dieu luifasse miséricorde!) ne
+laissa qu'un fils, Moulay Mohammed, lequel, à son tour,
+ne laissa également qu'un seul fils, Moûlay Elbasan, qui
+porte le même nom que son grand-père, et dont le tom-
+beau se trouve en dehors de la ville principale de Sijil-
+masa, en face de celui du chéïkh Abou Abdallah El-
+kharrâz. Ce Moûlay Elhasan eut deux fils: l'aîné, Moû-
+lay 'Abderrahman, surnommé Aboûlbarakât, de qui sont
+issus les Oulad Boû Houméïd, établis à El Qsar Eljedid,
+dans le district d'Oued Erreteb, à une étape environ de
+Sijilmâsa, et les chérîfs qui habitent aux Beni Zerouâl;
+et le cadet, Moûlay  Ali, connu sous le nom d'Echhérîf, qui
+est l'ancêtre des diverses et nombreuses branches de
+Mhammédis.
+
+
+Moûlay Ali (Dieu lui fasse miséricorde !) était un saint
+personnage dont les prières étaient exaucées : il se répan-
+dit en aumônes et multiplia les fondations pieuses; il fit le
+pèlerinage et prit part à la guerre sainte; il avait une nature
+élevée et tint toujours une belle conduite. A un certain
+moment il se rendit à Fès et y vécut longtemps. Il habi-
+tait, dans le quartier appelé Gzâ Ben Âmer (Odouat Elqa-
+rouiyin), une maison qui exista après lui. Il séjourna
+
+
+1. Texte arabe, $IV^{\circ}$ partie, page 4.
+
+
+7
+
+
+8
+
+
+ARCHIVES MAROCAINES
+
+
+aussi quelque temps dans le bourg de Şefroû, où il laissa,
+dans sa succession, des terres et des fondations quiexistent
+encore aujourd'hui. Il en laissa également dans le pays de
+Guers, à deux journées et demie de marche de Sijilmasa,
+où il vécut un certain temps.
+
+
+Moulay Ali alla plusieurs fois en Andalousie, pour y
+prendre part à la guerre sainte, et séjourna longtemps dans
+la péninsule. Lorsqu'il l'eut quittée pour rentrer à Sijil-
+mâsa, les Andalous lui écrivirent pour le supplier de revenir
+dans leur pays et lui inspirer de l'intérêt pour les choses
+de la guerre sainte; ils lui exposaient, en même temps,
+que les habitants de l'Andalousie étaient trop faibles pour
+résister à l'ennemi et qu'il leur fallait quelqu'un qui ralliat
+toutes les sympathies. Durant son séjour en Andalousie,
+ils l'avaient déjà pressé d'accepter leur serment de fidélité
+et la royauté, lui promettant leur obéissance et leur appui,
+mais Moûlay  Ali avait repoussé ces propositions par piété,
+par modestie et aussi par indifférence pour les pompes de
+ce monde.
+
+
+<< J'ai vu, dit Elyéfréni (Dieu lui fasse méricorde!), de
+nombreuses lettres qui lui furent adressées par les  oulamâ
+de Grenade. Dans cette correspondance, ils engageaient
+vivement Moûlay  Ali à passer la mer pour venir chez eux
+et exciter les guerriers de la foi à prendre en main la défense
+de leur drapeau. Ils lui disaient que tous les habitants
+de Grenade, 'oulama, personnages religieux, et chefs de
+partis, s'étaient imposés sur leurs biens particuliers, et en
+dehors des impositions levées par le Sultan, une contribu-
+tion considérable qui serait affectée aux troupes qu'il amè-
+nerait avec lui du Magrib. Voici comment ils s'adres-
+saient à lui dans une de ces lettres : « Au lion magnanime,
+le pôle de tous les chevaliers de l'Islâm, le brave auda-
+cieux, le lion hardi, le grave, le pieux, l'éclaireur de la
+milice des guerriers de la foi, le glorieux des glorieux,
+celui qui apporte la victoire dans ces contrées, celui qui
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+s'empresse de déférer aux désirs du Maître des hommes,
+notre seigneur Aboûlhasan Ali Echchérîf. »
+
+
+9
+
+
+Les 'oulamâ de Grenade écrivirent de plus à leurs
+collègues de Fès pour les prier d'insister auprès de Moû-
+lay 'Ali afin qu'il passât en Andalousie. Les oulamâ de Fès
+lui écrivirent donc une lettre dans le même sens, où ils le
+pressaient d'aller au plus vite au secours des Andalous, en
+lui rappelant le mérite qu'il y avait à faire la guerre sainte
+qui est considérée comme la meilleure des œuvres pies.
+Comme une des raisons qui le déterminaient à refuser
+d'aller porter secours aux gens de Grenade était le projet
+qu'il avait formé de partir en pèlerinage, les oulama lui
+dirent dans une de ces lettres : « Remplacez ce projet de
+pèlerinage, que vous aviez décidé et que vous étiez résolu
+à exécuter, par la traversée de la mer en vue de la guerre
+sainte, car la guerre sainte (Dieu vous donne la paix!) est
+plus méritoire pour les gens du Magrib que le pèlerinage;
+c'est ce qu'a déclaré l'imâm Ibn Rouchd (Dieu lui fasse
+miséricorde !) quand on l'a questionné sur le point, et il
+s'en est expliqué avec de longs détails dans ses Ajouiba,
+en indiquant de quelle façon il était arrivé à cette opi-
+nion. »
+
+
+Parmi les nombreux oulamâ de Grenade qui écrivirent
+à Moulay Ali, il y avait le docteur Aboû Abdallah Moham-
+med ben Seraj, professeur d'Elmouâq et grand qâdi de la
+ville, et parmi les professeurs de Fès qui entrèrent aussi
+en correspondance avec lui à cette occasion, le docteur
+Aboû Abdallah Elakermi, professeur de tous les pro-
+fesseurs de l'imâm Ibn Gazi, Aboul abbas Ahmed ben
+Mohammed ben Mâouâs, et Aboù Zéïd 'Abderahmân Er-
+roqi, auteur du célèbre poème en vers Réjéz, et bien
+d'autres.
+
+
+Une de ces lettres des habitants de l'Andalousie conte-
+nait la qaşîda suivante, en l'honneur de Moûlay Ali et de
+son éminent compagnon, Aboû Abdallah Mohammed ben
+
+
+10
+
+
+ARCHIVES MAROCAINES
+
+
+Brahim El'amri et pour les inviter aussi à accepter la pro-
+position qui leur était faite. Elle fut composée par le doc-
+teur Aboû Fårès ben Errabî 'Elgarnâti :
+
+
+<< O toi qui chevauches, dévorant les déserts et les soli-
+tudes, puisses-tu être dans la bonne voie et arriver sain et
+sauf.
+
+
+<< Va d'étape en étape, accélère ta course, la nuit, le jour,
+marche, car tu te diriges vers un astre brillant qui se
+lève.
+
+
+ Emporte
+
+
+que Dieu te protège! de ma part, vers
+cet asile, le salut d'un homme enflammé de désirs que le
+souvenir rend encore plus ardent;
+
+
+<<< Le palais principal de Sijilmasa, ce palais qui renferme
+à la fois la puissance et la gloire;
+
+
+<< Salue-le, salue ses habitants du salut d'un ami qui ne
+peut supporter la séparation;
+
+
+<< Car l'affection que j'ai pour eux court dans toutes mes
+veines; mes os, mon sang, mes cheveux, en sont im-
+prégnés.
+
+
+« C'est là le séjour de la religion, du bien et de l'ortho-
+doxie, que d'hommes pieux se sont élevés dans son ciel
+comme des pleines lunes!
+
+
+« Ce sont des hommes en compagnie desquels on
+n'éprouve aucune peine, car des groupes de fleurs répan-
+dent en se balançant leurs parfums au milieu d'eux.
+
+
+<< Dis-leur: O famille de la Qibla, vous qui ètes toujours
+les premiers à accourir au milieu du danger quand on vous
+appelle au moment d'un grave événement;
+
+
+<< Toi surtout, descendant d'Elhachmi, du rejeton de
+son gendre Ali dont le rang s'élève au-dessous de Saturne;
+« Aboulhasan Moûlay Echchérîf, qui a fait briller à
+l'Occident le soleil de la victoire sur le Şahara;
+
+
+<< Lui dont les merveilleuses qualités ont brillé à l'ho-
+rizon des cœurs, et qui, par elles, a mis les esprits dans un
+tel ravissement qu'ils se croient enchantés.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+11
+
+
+<<< Il est un faucon quand les braves brandissent leurs
+armes, un lion chaque fois que l'on combat avec les dents
+et les grifles.
+
+
+(( Il est le sauveur quand la meule de la guerre roule
+dans la mélée; il est la pluie bienfaisante alors que le
+nuage ne laisse tomber que quelques gouttes d'eau.
+
+
+<< Il a lutté contre les chrétiens; il a anéanti leurs batail-
+lons; il a tué les uns et fait les autres prisonniers.
+
+
+<< A Tanger, la mort a été douce pour les quelques
+hommes qui défendaient la ville et qui espèrent que Dieu
+les en récompensera.
+
+
+« Il les avait appelés de l'extrémité du Soùs, ces héros
+qui ont aussitôt sellé leurs coursiers au poil ras, sans plus
+réfléchir.
+
+
+<< Alors les étriers des cavaliers ont résonné; le soleil a
+brillé, et les soldats de Dieu ont infligé une défaite à l'en-
+nemi.
+
+
+« Il $n^{\prime}y$ a rien d'étonnant à ce que ceux parmi lesquels
+il se trouvait aient été les lions du pays du mont Jalma qui
+ont mis à mort Marhab 1.
+
+
+<<<< Viens au secours de ton voisin afſligé par ses malheurs,
+ò Aboùlhasan; accours à la délivrance de ton Ile verte.
+
+
+<< Appelle à ton aide notre ami Aboù Abdallah; grâce
+
+
+à lui, tu apporteras la joie au milieu des calamités.
+
+
+<<< Il est le descendant d'Aboù Ishaq; en le secourant,
+fais honneur à un père qui a laissé une postérité pure, hon-
+nète et vertueuse.
+
+
+<< N'est-ce pas lui qui a répondu à l'appel des gens de
+Tanger, qui en un instant a réuni toutes les populations de
+Garb.
+
+
+<< Et qui a infligé aux infidèles une défaite, et quelle
+défaite! Ceux qui n'ont pas péri par le glaive sont morts
+de frayeur.
+
+
+1. Marhab, nom du juif que tua 'Ali (Dieu soit satisfait de lui!) à la
+journée de Khéibar (Note marginaie de l'auleur).
+
+
+12
+
+
+ARCHIVES MAROCAINES
+
+
+<< Aussitôt la citadelle de la religion a souri en montrant
+ses blanches dents, tandis que la face de l'infidélité était
+envahie par la tristesse et la terreur.
+
+
+<< Dieu lui a déjà accordé la félicité et la satisfaction, et
+lui réserve les jardins de l'Eden pour le jour où il revien-
+dra à lui.
+
+
+<< Ah! parle,  homme juste, que tous les hommes pieux
+ont pris comme chef, et qui t'es élevé jusqu'aux hauteurs
+où séjourne Sirius.
+
+
+<< Je vois tous ceux qui sont dans le Garb désespérés; ils
+attendent votre venue pour secourir l'Andalousie.
+
+
+<< Grenade la brillante vous crie: Venez tous deux, ap-
+portez l'étendard blanc pour secourir l'Alhambra;
+
+
+<< Ses habitants ont tous placé en vous leurs espérances,
+les vieillards comme les enfants et les vierges aux seins
+arrondis.
+
+
+<< Nous nous précipiterons avec ceux de notre pays, nous
+les appuyerons, fantassins ou cavaliers, brillants sei-
+gneurs,
+
+
+<<<< Protecteurs des opprimés, vaillants défenseurs, hommes
+généreux qui rivalisent avec l'orage, le torrent et la mer.
+<< Allons! sus aux infidèles! leurs tyrans seront faits
+prisonniers! les oiseaux de proie et les bêtes fauves se ras-
+sasieront des cadavres de leurs morts.
+
+
+<< Ils ont voulu nous soumettre à leur domination et
+ravager, sur nos terres, les récoltes et les moissons.
+<< Tout notre pays, places fortes et bourgades, vous
+appellent pour les délivrer de cette amère infortune.
+
+
+<< Ah! combien il y a ici d'êtres faibles dont le corps ne
+peut se mouvoir, de vieillards qui ont dépassé cent dix ans,
+
+
+<< De filles brunes et blondes, belles comme des statues,
+de jeunes enfants au berceau qui ne distinguent ni le bien,
+ni le mal,
+
+
+<< De chaires réservées aux sermons et aux prières, de
+mosquées pour la prière et l'enseignement,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+13
+
+
+<< De chaires de la science où siègent de nobles esprits
+pour enseigner les vérités qui illuminent les cœurs,
+
+
+<< De tombeaux de fils des compagnons du Prophète, sur
+cette terre, de saints aux cheveux en désordres et couverts
+de guenilles!
+
+
+<< Tout cela vous appelle et demande à Dieu de vous
+envoyer à leurs secours en toute hâte, car déjà l'infidélité
+a presque décimé ce pays.
+
+
+<< Hâtez-vous de vous mettre en marche, avec ceux qui
+sont éloignés et ceux qui sont proches, pour nous délivrer
+des embûches de ceux qui cachent l'injustice dans leurs
+cœurs.
+
+
+<<< Amenez-en ensuite une seconde troupe pareille à la
+première, afin que cet Alphonse 1 connaisse un pouvoir
+comme le vôtre.
+
+
+<<< Vous savez, grâce à Dieu, ce que l'Élu a dit de la guerre
+sainte.
+
+
+<<< Rien n'est plus glorieux que ses paroles: <<< Je voudrais
+avoir été tué, puis revivre pour être tué encore bravement.  
+<<< Le livre de Dieu contient aussi, sur ce sujet, des ver-
+sets qui brillent comme le soleil du matin en traversant le
+ciel bleu.
+
+
+<< Accueillez cette requête comme une vierge dont la
+tunique répand des parfums et qui dirige ses pas vers votre
+demeure.
+
+
+« Faites parvenir notre salut à ceux des hommes géné-
+reux de l'Andalousie qui ont traversé la mer pour aller au
+Garb.
+
+
+<< Aidez les hommes de Dieu, venez au secours d'un pays
+que l'infortune accable et que le malheur désole.
+
+
+<< Vous serez pour nous la puissante armée; c'est vers
+vous que se porte l'ardeur de nos désirs, hâtez-vous de
+venir à nous!
+
+
+1. Alphonse V, roi d'Aragon.
+
+
+14
+
+
+ARCHIVES MAROCAINES
+
+
+<< Gloire à la meilleure des créatures, notre guide dans
+la bonne voie, Mohammed, le messager de la bonne
+religion.
+
+
+<< Gloire à sa famille, à ses compagnons, à tous ceux qui
+suivent sa voie, et à ceux qui viennent apporter le secours
+à leurs coreligionnaires de l'Islâm. >>>
+
+
+Par ces missives aux paroles suaves, et qui méritent
+l'attention, on voit que Moûlay 'Ali Echchérif (Dieu lui fasse
+miséricorde !) jouissait, à son époque, d'une grande célé-
+brité, et qu'il était regardé comme supérieur à tous les
+autres habitants de son pays. On y voit encore qu'il était
+l'objet de la plus grande considération, et que sa famille,
+dont la construction et les murs sont sublimes, était
+honorée de longue date, et qu'on lui reconnaissait la
+noblesse et la suprématie.
+
+
+Je crois que la bataille de Tanger à laquelle il est fait
+allusion dans cette qaşîda est celle qui eut lieu dans
+l'année 841, et dont il a été question en temps oppor-
+tun.
+
+
+Moûlay 'Ali fit aussi la guerre sainte dans le district
+d'Agdéj dans le Soudan, et obtint la victoire. On peut voir
+le récit détaillé de cette expédition dans la Nozha.
+
+
+L'auteur du livre intitulé : Elanouâr Essanya rapporte
+que Moûlay 'Ali, qui demeura quatorze ans sans avoir d'en-
+fants, en eut deux au bout de ce temps:
+
+
+Moûlay Mohammed et Moûlay Aboûlmahasin Yousef,
+ce dernier plus jeune que le précédent. Moûlay Mohammed
+laissa quatre enfants: par ordre d'âge, Sîdi Elbasan, Sîdi
+'Abdallah, Sîdi 'Ali et Sîdi Qâsém. Tous ces chérîfs et
+leurs descendants sont désignés sous le nom de Oulad
+Mhammed; ils se divisent en branches nombreuses qu'il
+serait trop long de suivre. Moûlay Yoûsef succéda à son
+père dans la direction de la zâouya, et tout le monde s'ac-
+corde à dire qu'il était le plus digne de tous de remplir ces
+fonctions, à cause de son bon sens et de sa grande intelli-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+15
+
+
+gence. Toutefois, il n'obtint l'administration de la zaouya
+qu'après une vive contestation. L'acte qui lui confirme cette
+autorité est encore aujourd'hui entre les mains d'un de ses
+arrière-petits-fils. Tout ceci se passait sous la dynastie
+des Beni Merin.
+
+
+ On prétend, dit l'auteur du livre intitulé Elanouâr,
+que Moùlay Yousef n'eut pas d'enfants avant d'avoir atteint
+l'âge de quatre-vingts ans et qu'il en eut alors neuf.
+Cinq étaient issus de la même mère, Halima, apparte-
+nant à une famille de marabouts de Sijilmása; c'étaient,
+par rang d'âges: Sidi Ali, l'ancètre des souverains (Dieu
+maintienne leurs mérites!), Sidi Ahmed, Sidi Abdel-
+quâhed, Sîdi Ettayyéb, Sidi Abdelouaķed surnommé
+Belġéïts, duquel sont issus les chérifs Belġéïtsis, et
+qui fut ainsi appelé à cause des grandes pluies consécu-
+tives à une longue sécheresse qui tombèrent à l'époque de
+sa naissance. Quatre autres fils de Moùlay Yoûsef étaient
+issus d'une même mère, Tâhira, appartenant également
+à une famille de marabouts de la contrée: ils se nommaient,
+Sidi Elhasan, Sidi Elhouséïn, Sidi Abderrahman, et Sidi
+Mohammed. Ces quatre chérifs habitent actuellement le
+district connu sous le nom d'Akhennoùs.
+
+
+<< II serait trop long de donner en détail la descendance
+de tous ces chérîfs; nous nous bornerons à parler de la
+postérité de Moûlay 'Ali, deuxième du nom, qui rentre
+directement dans notre sujet. » Moulay Ali, dirons-nous
+donc, eut trois enfants: Sidi Mhammed, Sidi Mahrez et
+Sidi Hachem, ancêtre des chérifs Mrânis de la Zâouyat El-
+mrâni. Tous ces fils laissèrent des descendants: Mhammed
+eut pour fils Moulay Ali Echchérîf Elmorrakchi, troisième
+du nom, et plusieurs autres enfants. Moulay 'Ali est l'an-
+cêtre de nos rois, il mourut à Morrakch, et son petit-fils,
+le Prince des Croyants, Moûlay Errechid, fit construire sur
+son tombeau un mausolée magnifique qui fait face au céno-
+taphe du qâdi Ayyad (Dieu lui fasse miséricorde !).
+
+
+16
+
+
+ARCHIVES MAROCAINES
+
+
+Moûlay 'Ali eut neuf fils: Moûlay Echchérif, né en 997,
+ancêtre de nos rois; Moùlay Elhafid; Moulay Hajjaj, Mού-
+lay Mahrez, Moûlay Harroùn, Moulay Fail, Moùlay Boû
+Zakaria, Moulay Mbârék, et Moûlay Said. De tous ces
+enfants de Moûlay 'Ali, Moûlay Echchérif était le plus ver-
+tueux et le plus éminent. Celui-ci (Dieu lui fasse miséri-
+corde!) eut un grand nombre d'enfants, tous étoiles bril-
+lantes, pleins de qualités remarquables, parmi lesquels
+étaient Moulay Mhammed l'aîné, Moùlay Errechîd, Moûlay
+Ismail, qui arrivèrent tous trois à la royauté du Magrib,
+Moûlay Elharrân dont nous parlerons plus tard, Moûlay
+Mahrèz, Moûlay Yousef, Moulay Ahmed, Moûlay Elkebîr,
+Moûlay Hammada, Moulay Abbas, Moulay Said, Moûlay
+Hâchém, Moûlay 'Ali et Moûlay Mehdi, frère germain
+d'Ismail. Voilà ce que nous pouvons rapporter de cette
+famille chérifienne aux ombres étendues: Dieu est le pro-
+tecteur.
+
+
+Comment Moûlay Echchérif ben Ali arriva au pouvoir; lutte
+entre lui et Boù Hassoun Essemlâli, surnommé Boû Dméïça  .
+
+
+Comme nous l'avons précédemment rapporté, c'est
+sous le règne du sultan Zéïdân ben Elmanşoûr Essa'di
+que s'était révélé Boû Hassoûn Essemlali. Il avait d'abord
+conquis le pays Soûsi, puis il avait étendu son autorité sur
+les régions de Drâ et de Sijilmâsa. Il prit, dit-on, Sijilmasa
+en 1041: appelé par Moûlay Echchérîf ben Ali, qui lui
+demandait son appui contre ses ennemis les Beni Ezzoûbér
+de Tâbou aşâmt, ainsi que le raconte le Boustân il s'y était
+rendu, mais il avait pris possession du pays et était ensuite
+retourné à sa résidence dans le Soûs, après avoir nommé
+un gouverneur pour administrer la contrée en son nom.
+
+
+1. Texte arabe, $IV^{e}$ partie, page 7.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+17
+
+
+<< Aboulamlak Moûlay Echchérif ben  Ali, dit Elyéfréni
+dans le Nozha, jouissait d'un grand prestige auprès des
+habitants de Sijilmâsa et de tout le Magrib; on venait
+s'adresser à lui pour les affaires graves, on avait recours à
+son intercession dans le malheur et on accourait vers lui
+pour les grandes et les petites questions.
+
+
+<< Tout jeune encore, comme il passait un jour près de
+l'imàm Moulay Aboù Mohammed Abdallah ben Ali ben
+Tahar Elhasani, celui-ci, qui ne le connaissait pas encore,
+demanda qui était cet enfant. « C'est le fils de Moulay 'Ali
+Echchérif », lui répondit-on. Aboù Mohammed fit fête à
+l'enfant, puis, lui caressant le dos, il s'écria: <<< Ah! comme
+il en sortira des princes et des rois de ces reins! » Le
+peuple, qui connaissait la valeur des révélations d'Aboù
+Mohammed et sa perspicacité divinatoire, fut persuadé
+que cette prédiction allait se réaliser sans aucun doute.
+Plus tard, Moùlay Echchérif, qui avait pris de l'âge et avait
+un grand nombre d'enfants, répétait partout que cette pré-
+diction se réaliserait certainement pour sa famille et que
+celle-ci jouerait un rôle important, tant il avait foi dans les
+visions d'Abou Mohammed ben Tahar (Dieu lui fasse misé-
+ricorde !).
+
+
+<< Une très vive inimitié existait entre Moûlay Echchérîf et
+les habitants de Tabou aşâmt, une des fortes citadelles du
+pays de Sijilmasa. Il appela à son aide contre eux Boû
+Hassoùn Essémlali, maitre du Soùs, avec qui il avait des
+relations d'amitié. De leur côté, les habitants de Tâbou-
+ aşamt s'adressèrent aux gens de la Zaouyat Eddila. Des
+deux parts, il fut répondu à leur appel, et les deux armées
+se rencontrèrent en même temps à Sijilmasa, mais elles se
+séparèrent sans combattre pour éviter de répandre le sang
+des musulmans. Cet événement eut lieu en 1043.
+
+
+<< En voyant l'amitié sincère et les liens intimes qui
+s'étaient établis entre Moùlay Echchérif et Aboù Hassoun,
+les habitants de Tabou'aşamt prirent tous parti pour ce
+
+
+ARCII. MAROC.
+
+
+2
+
+
+18
+
+
+ARCHIVES MAROCAINES
+
+
+dernier, se dévouant, eux et leurs enfants, à son service, et
+lui témoignant une amitié et un dévouement sans bornes;
+ils espéraient ainsi arriver à le brouiller avec Moulay Ech-
+chérif qu'il avait soutenu contre eux. Ils travaillèrent si
+bien dans ce sens que bientôt les relations se tendirent
+entre les deux princes, que l'inimitié s'établit entre eux et
+que se multiplièrent les motifs de discorde.
+
+
+<< Quand il vit ce qui se passait, son fils Moulay Mham-
+med ben Echchérif attendit la première occasion pour se
+venger des habitants de Tabou  aşâmt. Une nuit, il partit à
+la tête de deux cents cavaliers environ, simulant un départ
+pour une autre direction, puis tomba sur eux à l'improviste
+et escalada leur citadelle. Les habitants n'étaient pas sur
+leurs gardes: aussi Moûlay Mhammed et sa troupe leur
+donnèrent du sabre et les égorgèrent sans qu'ils pussent
+se défendre. Il se rendit maître d'eux et s'empara de leurs
+trésors. Ce succés guérit le cœur de son père des senti-
+ments de vengeance qu'il conservait contre eux.
+
+
+« Lorsque cette nouvelle parvint à Boû Hassoûn, il en
+fut mortifié et entra dans une violente colère. Il écrivit à
+son gouverneur à Sijilmâsa, qui s'appelait Boû Bkeur, de
+chercher un moyen de s'emparer de Moûlay Echchérîf, et
+de le lui envoyer ensuite prisonnier. Le gouverneur exé-
+cuta cet ordre. Il s'empara de Moûlay Echchérîf par trahi-
+son, en faisant le malade et le priant de venir le visiter
+pour recevoir sa bénédiction. Quand il l'eut pris, il l'en-
+voya au Soûs, où Boù Hassoûn le retint captif dans une
+citadelle.
+
+
+<< Moûlay Echchérîf demeura prisonnier jusqu'au jour où
+son fils acheta sa liberté par une somme d'argent con-
+sidérable; il revint ensuite à Sijilmasa, mais il serait trop
+long de relater les incidents de ce voyage. Ces événements
+se passèrent dans le courant de l'année 1047.
+
+
+« L'auteur du Boustan ajoute que Boû Hassoun donna
+à Moûlay Echchérif, pour le servir pendant sa captivité,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+19
+
+
+une esclave mulâtresse qui se trouvait parmi les captifs
+des Mgâfra et qui devint la mère de Moûlay Ismail et
+de son frère Moûlay Mehdi. »
+
+
+Je ne sais pas ce que cet auteur entend par là, car si cette
+djâria était apparentée aux Mġafra, elle était de condition
+libre, et les rapports de Moûlay Echchérif avec elle n'ont
+dû avoir lieu qu'après un acte de mariage: c'est là l'opi-
+nion la plus vraisemblable, elle est appuyée par ces paro-
+les que le grand sultan Moûlay Ismail prononça quand il
+réunit le guéïch des Oudéya: « Vous êtes mes oncles
+maternels! » et dans lesquels il faisait allusion à cette
+alliance. Si, au contraire, c'était une esclave des Mġâfra
+qui appartint ensuite à Aboû Hassoun, les rapports ont eu
+lieu en vertu du droit de butin. Dieu sait quelle est la
+vérité.
+
+
+L'auteur du Boustân rapporte souvent des faits sans dis-
+cernement et sans attention. Il convient de n'accepter
+qu'avec réserve ce qu'il est seul à raconter: Dieu nous
+protège!
+
+
+Emirat de Moulay Mhammed ben Echchérîf: sa proclamation
+à Sijilmâsa; causes de ces événements¹.
+
+
+Pendant que Moùlay Echchérîf était dans la prison où
+l'avait mis Aboû Hassoûn, son fils se préparait à extermi-
+ner jusqu'au dernier les habitants de Tâbou aşâmt et à
+extirper cet ulcère. Renforcé en partie par les richesses
+qu'il leur avait enlevées au cours de la première affaire, il
+s'occupa, dès que son père fut éloigné du Soûs, à réunir
+une armée, dans laquelle vinrent s'incorporer un certain
+nombre de gens de Sijilmâsa et des environs (1045). Les
+mauvais traitements des agents de Aboû Hassoûn envers
+
+
+1. Texte arabe, IVe partie, page 8.
+
+
+20
+
+
+ARCHIVES MAROCAINES
+
+
+les gens de Sijilmasa et leur cupidité avaient outré la
+population et fait germer dans tous les cœurs la haine de
+la domination des princes du Soûs. L'oppression de ces
+fonctionnaires était allée jusqu'à prélever le kharâdj dans
+le pays de Sijilmâsa sur toutes choses et même jusqu'à taxer
+les gens qu'ils trouvaient au soleil en hiver, et à l'ombre en
+été. Ainsi opprimés, les habitants de Sijilmâsa mépri-
+sèrent ces fonctionnaires et les prirent en dégoût. Aussi
+quand Moûlay Mhammed se présenta, fort déjà des gens
+qui s'étaient réunis à lui, et qu'il invita la population
+à attaquer les habitants du Soûs, tous le suivirent, car ils
+avaient des motifs pour cela; ils se rallièrent à lui et réso-
+Iurent de faire disparaître de leur pays le parti de Aboû
+Hassoûn. Ils attaquèrent aussitôt leurs gouverneurs, et les
+chassèrent de leur territoire après un combat acharnė.
+Ensuite ils tombèrent d'accord pour proclamer Moûlay
+Mhammed et lui prêtèrent serment en 1050, son père étant
+encore en vie. Tous les chefs de Sijilmasa adhérèrent à
+la béï a. Dès lors, le succès s'attacha à lui, la destinée le
+protégea, la bonne fortune l'aida; la porte du Magrib
+s'ouvrait pour lui. Dieu, quand il veut une chose, en pré-
+pare les moyens.
+
+
+Moûlay Mhammed conquiert le Drâ et en chasse Aboû Hassoun
+Essémlâli¹.
+
+
+Après sa proclamation, Dieu réunit Moûlay Mhammed à
+son père, comme nous l'avons vu; ce prince se hâta d'al
+ler serrer de près Aboù Hassoûn Essémlâli et les gens
+du Soûs, dans la province de Dras, qui était soumise à l'au-
+torité de ce dernier, comme nous l'avons vu. Il se rendit
+auprès de lui à la tête de troupes très nombreuses. Les
+
+
+1. Texte arabe, IV partie, page 8.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+21
+
+
+adversaires se livrèrent des batailles si terribles qu'elles
+auraient fait blanchir les cheveux d'un enfant à la mamelle.
+Enfin le nuage du désordre se dissipa: Moûlay Mhammed
+était victorieux et s'emparait de toute la province de Drâ.
+Aboû Hassoun était défait et s'enfuyait dans le Soûs, son
+pays natal. Le royaume de Moulay Mhammed grandit, ses
+troupes augmentèrent, les impôts devinrent considérables
+et sa renommée s'étendit dans tout le Magrib. Il advint
+ensuite de lui ce que nous allons raconter.
+
+
+Affaire d'Elqâ a qui survint entre Moûlay Mhammed ben Ech-
+chérîf et les gens de la Zâouyat Eddila; ses conséquences ¹.
+
+
+Quand Moûlay Mhammed ben Echchérîf en eut fini avec
+les contrées de Sijilmâsa et de Drâ, il songea à s'emparer
+des régions de l'Ouest, qui étaient à cette époque le siège
+de la prééminence et étaient au pouvoir du khalifa. Tant
+que cette contrée n'était pas conquise, la royauté était tou-
+jours exposée à disparaître, et le prince, un tisserand sans
+son métier.
+
+
+En ce temps-là, le Réïs Abou  Abdallah Mohammed
+Elhaddj Eddilâï était maître de Fès, de Méknès et des
+régions environnantes; depuis le meurtre de Aboû Abdal-
+lâh El ayyachi, son autorité s'étendait même jusqu'à Salé.
+Les victoires de Moûlay Mhammed dans le Şahara, la force
+de sa situation et la solidité de sa puissance, firent conce-
+voir à Mohammed Elḥâddj la crainte qu'il ne voulût atta-
+quer Fès. Il prit les devants pour lui faire la guerre et
+franchit, pour se rendre auprès de lui, le fleuve Melouiya.
+Comme il était plus fort que le chérîf et ses troupes plus
+nombreuses, il put le harceler dans la région du Şahara
+et attaquer plusieurs fois Sijilmasa. Au cours de ces opé-
+
+
+1. Texte arabe, IVe partie, page 9.
+
+
+22
+
+
+ARCHIVES MAROCAINES
+
+
+rations, eut lieu l'affaire d'Elqa'a, dans la matinée du
+samedi 12 rabîs Ier 1056. Le chérif fut vaincu et Moham-
+med Elhaddj s'avança sur Sijilmasa, y entra et s'en em-
+para. Les Berbers se portèrent là à tous les excès. La paix
+fut conclue ensuite aux conditions suivantes: tout le terri-
+toire qui s'étendait du Şahara au Djebel Beni Ayyach était
+dévolu à Moûlay Mhammed, et tout le territoire au delà de
+cette montagne jusqu'à la région du Ġarb était attribué
+aux gens d'Eddilà. Ceux-ci faisaient exception pour cinq
+points qui se trouvaient sur le territoire de Moûlay Mham-
+med et qui leur étaient abandonnés, savoir: Echchéïkh
+Mogfir dans les Oulad Isa; Sidi Ettayyèb à Qşar Essoûq;
+Ahmed ben Ali à Qşar Beni Otsman; Qşar Halima, dans
+le district de Ġerîs, et Asrir, dans celui de Ferkla. Moûlay
+Mhammed s'engagea à ne combattre aucun des habitants
+de ces cinq enclaves, et la paix fut conclue à ces condi-
+tions.
+
+
+Les gens d'Eddila, emmenant leurs troupes, s'étaient à
+peine éloignés que Moulay Mhammed apprit des faits qui
+l'obligèrent à attaquer le chéïkh Mogfir et quelques-uns
+des autres personnages dont le maintien sur son territoire
+avait été stipulé. Il leur enleva leurs biens. Dès qu'ils
+eurent connaissance de ces faits, les gens d'Eddila
+rassemblèrent leurs contingents et marchèrent
+sur
+Sijilmâsa, résolus à exterminer Moulay Mhammed et
+ses partisans, et à le déposséder de tous ses biens. Ils
+lui écrivirent une lettre où ils le menaçaient, l'accusaient
+de trahison et lui disaient en propres termes, avec des
+reproches grossiers, qu'il était  parjure et traître à sa
+parole ». Moûlay Mhammed répondit par une lettre ainsi
+conçue:
+
+
+<< Au Séyyid Mohammed, surnommé Elhaddj, fils du
+Seyyid Mohammed ben Boù Bkeur ben Sidi Eloujjari
+Ezzemmoùri, et à tous ses fils et frères qui revêtent le
+manteau du conseil.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+23
+
+
+<<< Salut à tous d'un salut affectueux et conforme à la
+sounna.
+
+
+« Nous vous écrivons de Sijilmasa (Puisse Dieu lui
+fournir contre votre méchanceté la plus profitable des
+amulettes et la revêtir du plus haut turban pour lutter vic-
+torieusement contre vous!) Salut!
+
+
+<< Les feux de l'insurrection que vous avez rallumés alors
+qu'ils étaient éteints, et vous n'en êtes pas dignes, car on
+ne vous connaît dans le Magrib que par les grands plats
+de 'aşîda que vous offrez à vos hôtes et par les mauvaises
+qaşîdas que vous vous lancez les uns-aux autres. Quant
+aux sciences véritables, nous vous concéderions volontiers
+que vous les possédez, si du moins en vous y livrant:
+vous recherchiez de bonnes actions et la récompense atta-
+chée à leur enseignement. Mais grand Dieu! si le Souve-
+rain Juge nous accorde le pouvoir, vous verrez alors, vous
+et vos fils, ce que recherchent pour nous nos enfants et
+nos frères.
+
+
+<<< Les maîtres dans l'art de la divination rapportent que,
+dans votre lutte contre nous, vous éprouverez des vicis-
+situdes terribles. Espéreriez-vous donc nous échapper,
+vous qui avez jeté l'effroi parmi les chérifs et les chérîfas,
+parmi les dévots et les dévotes? Voyons, ne voulez-vous
+pas plutôt faire la paix et saisir cette occasion de vous sau.
+ver pendant que la chance vous favorise encore, car la
+guerre est un feu qui dévore, et on ne saurait l'éviter sans
+déshonneur lorsqu'il a été allumé. Dieu sait d'ailleurs que
+ces bravades de votre part ne sont ni redoutables, ni
+effrayantes et qu'au moment de la lutte vous ne serez pas
+plus terribles que les phalènes quand elles se précipitent
+sur la flamme des lampes. Notre désir le plus vif est
+d'étendre sur vous le manteau de votre protection, afin
+que vous ne soyez point opprimés le jour où nous vous
+attaquerons avec les serres de l'audace. Vous n'agissez
+ainsi que pour dissimuler votre insigne faiblesse, mais
+
+
+24
+
+
+ARCHIVES MAROCAINES
+
+
+nous serons impitoyables et n'accepterons aucune excuse.
+Vous prèchez l'abstention des crimes et vos cours sont
+remplis de mauvaises pensées; quand on vous contraint à
+ne point faire mal, vous dites: « Pardon! nous n'en vou-
+lions rien faire»; mais quiconque a enfanté une chose
+reste apparenté avec elle, quiconque a redouté un événe-
+ment en devient la victime.
+
+
+« Quant aux Berbers et aux Arabs que contiennent
+les plaines du Garb, nous espérons de Dieu qu'il les sou-
+mettra à notre autorité, dès qu'il sera possible de nous
+rendre auprès d'elles; mais si nous ne parvenons pas à
+nous en emparer, eh! bien, cela sera réservé à nos fils et à
+nos frères, car dans toutes les dynasties l'œuvre créée par
+le premier est continuée par le second. Examinez ce qui
+pourrait ramener le calme dans vos esprits, nous vous
+l'accorderons de suite. Comme il a été bien inspiré par
+Dieu le Dġoûġi, qui a fait connaître vos turpitudes dans
+ces vers que nous a récités Moûlay Mohammed ben
+Mbârék:
+
+
+<< Sache que tu es un des antéchrists du Magrib, que ta
+« puissance périra sous les coups des disciples de Jésus;
+<< Vous n'êtes tous que des bâtards rejetons d'une pros-
+<< tituée, tandis que votre aïeul Aboû Isir était Djâloût.
+<< Vos jeunes gens sont des mignons et vos hommes des
+<< cornards, œuvre de votre chéïkh l'entremetteur.
+
+
+<<< Les cieux de la gloire ont horreur de votre dynastie,
+<< et ni la terre, ni Elbehmoût ne peuvent vous supporter. »
+<< Pour toi, tu n'es en réalité qu'un simple singe; tu n'es
+même que le tique collé dans les poils du chien galeux.
+Vous nous déclarez que les traités de paix entre princes
+ne sont que des pièges, mais le sultan Aboù Hammo, Dieu
+lui fasse miséricorde! l'avait déjà dit bien avant nous.
+
+
+<< Maintenant, si vous désirez la paix, c'est également
+mon désir et l'aimant de ma volonté; si vous préférez
+autre chose, je vous répondrai par ce vers d'Elmotanabbi.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+25
+
+
+<< Désormais c'est avec des piques et des lances que nous
+<< vous écrirons, et vous ne recevrez d'autre ambassadeur
+<< qu'une armée innombrable. >>>
+
+
+Moulay Mhammed ben Echchérîf prend Fės, puis l'abandonne
+à la mort de Sidi Mohammed El  ayyâchi¹.
+
+
+Comme nous l'avons dit, Mohammed Elhaddj Eddilaï
+s'était emparé de Fès, qui lui était tour à tour soumis ou
+insoumis. Il y avait nommé comme gouverneur son qâïd
+Boù Bkeur Ettsâmli et l'avait intallé au palais princier de
+Fès Eljedîd. Une discussion étant survenue entre lui et les
+gens de Fès Elbali, ce gouverneur les assiégea et leur
+coupa l'eau. Les gens de Fès écrivirent alors à Moûlay
+Mhammed ben Echchérif pour lui demander son appui, lui
+garantissant leur obéissance et le secours qu'il désirerait
+en hommes et en armes, dès qu'il se présenterait auprès
+d'eux. Les Arabs du Garb, Elkhloț et autres se joignirent
+à eux. Saisissant cette occasion, Moulay Mhammed arriva
+en toute hâte, enleva le palais princier, le dernier jour de
+djoumada II 1060, et s'empara du qâïd Boû Bkeur Ettsamli
+qu'il mit en prison. La population de Fès Eljedid et celle de
+Fès Elbâli le proclamèrent, et se mirent d'accord pour lui
+donner des secours et le soutenir. La béïa fut rédigée à
+Fès le 7 rejeb.
+
+
+Au bout de quarante jours, la nouvelle était parvenue à Mo-
+hammed Elhaddj, qui réunit des troupes considérables pour
+marcher contre Moulay Mhammed. Ce prince se porta
+contre eux et les repoussa pendant un jour ou deux, mais
+trop faible pour leur résister, il fut vaincu à Dhar Erremka,
+près de Fès, le mardi 10 cha bân 1060, dut abandonner la
+ville et retourner à Sijilmasa. Les gens de Fès qui étaient
+
+
+1. Texte arabe, IV partie, page 10.
+
+
+26
+
+
+ARCHIVES MAROCAINES
+
+
+avec lui rentrèrent chez eux et fermèrent les portes de la
+ville. Ettsamli et ses hommes les assiégèrent et leur cou-
+pèrent l'eau. Des événements graves se passèrent, au cours
+desquels périrent nombre de notables de Fès, comme  Ab-
+delkérîm Ellirini Elandalousi et Mohammed ben Sliman
+(derniers jours de safar 1061). Les gens d'Eddila finirent
+par reprendre la ville, et Mohammed Elhaddj y nomma
+comme gouverneur son fils Ahmed.
+
+
+Quelque temps après, il demanda aux gens de Fès de
+faire sortir du mausolée de Moûlay Idris les malfaiteurs et
+les chefs de la révolte, mais le chérif Aboulhasan Ali ben
+Dris Eldjoùți voulut intervenir en leur faveur et prendre
+leur défense, mais ce fut en vain et il dut se cacher. Cou-
+vert par l'amân, on le conduisit à la zâouya du quartier
+d'Elmokhſiya, d'où il quitta Fès pour ne plus y revenir. La
+révolte fut alors calmée (ramadan 1061).
+
+
+Ahmed Eddilâï demeura émir de Fès jusqu'à sa mort
+(20 rabis Ier 1064) et fut remplacé par son frère Mohammed
+qui mourut en 1070. Dieu leur fasse miséricorde à tous.
+
+
+Plus tard, Fès Eljedid fut attaqué par Aboû Abdallah Ed-
+dridi, qui s'en empara.
+
+
+Moûlay Mhammed ben Echchėrîf prend Oujda et dirige des incur-
+sions sur Tlemsên et ses environs; conséquences de ces
+actes¹.
+
+
+Voyant qu'il ne pouvait s'emparer de Fès et du Magrib,
+Moùlay Mhammed ben Echchérif résolut d'étendre son
+autorité sur les nombreuses tribus du Sahara et de la
+région du Cherg. Il parcourut les campements, les villages
+et les bourgs, et atteignit la plaine de Angâd. Il fut pro-
+clamé par les Ahlaf, qui sont formés de deux branches
+
+
+1. Texte arabe, IVe partie, page 10.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+27
+
+
+d'Arabs Maʻaqil, les Amârna et les Muebbat, et par les
+Sgoûna, qui sont comptés aussi parmi les Angåd. Il partit
+avec eux chez les Beni Yznasén, qui étaient alors sous
+l'autorité des Turcs; il les attaqua, leur enleva leurs
+richesses et leurs bestiaux qui restèrent entre les mains des
+'Arabs. De là il revint à Oujda, dont la population était
+divisée alors en deux partis, l'un favorable, l'autre défa-
+vorable aux Turcs. Les ennemis des Turcs s'étant déclarés
+pour lui, Moûlay Mhammed les lança contre le clan ture,
+qu'ils dévalisèrent et chassèrent de la ville. Ainsi fut prise
+Oujda, au cours des années postérieures à 1060.
+
+
+Sur les indications des Arabs, Moulay Mhammed dirige
+ensuite des incursions sur leurs voisins les Oulad Zekri,
+les Oulad Ali et les Beni Snoûs, qu'il razzie et qui se sou-
+mettent à son autorité. De là, il se rend dans le voisinage de
+Nedroûma, d'où il harcelle les Mdaġra, Gdima, Trâra et
+Oulhâșa, puis revient à Oujda. Au bout de quelque temps,
+il partit pour Tlemsên, s'empare des troupeaux de la ville
+et des bourgs des environs, et se rend maître de toute la
+plaine. La garnison turque de la qaşba et les gens de la ville
+effectuent une sortie il les met en déroute et en tue un
+grand nombre. Puis il rentre à Oujda, où il passe l'hiver.
+
+
+Cette saison terminée, il reprend le chemin du Şahara
+et pille les Djaʻafra. Là, il reçoit la visite de Mahmoud,
+chéïkh des Hamiyân, qui font partie du groupe des Beni
+Yézid ben Zogba et qui sont comptés aujourd'hui parmi
+les Beni Amer ben Zogba. Ce chéikh vient avec sa tribu
+lui apporter son serment de fidélité et l'assurer de son
+obéissance. Après eux, viennent les Dkhisa, qui reçoivent
+le meilleur accueil et qui sont bien traités. Sur leurs indi-
+cations, Moûlay Mhammed se jette sur Laĝouât, Aïn Madi
+Elgasoul et met toutes ces bourgades au pillage. Les tribus
+arabes Beni Malék ben Zogba d'Elharits, de Souéïd et de
+Hoşaïn s'enfuient devant lui et se retranchent dans le
+Djebel Râched, sans qu'il les poursuive.
+
+
+28
+
+
+ARCHIVES MAROCAINES
+
+
+Le plus grand désordre régnait dans tout le Magrib
+moyen, et ses habitants étaient sur le point de se révolter
+contre les Turcs. Le bey de Mascara s'empressa d'orga-
+niser sa défense et prévint le dey d'Alger, Eddaola comme
+ils l'appelaient, des pillages commis au détriment de ses
+sujets par le prince de Sijilmâsa. Le dey fit partir le plus
+promptement possible des troupes et des canons, dans le
+but de combattre Moûlay Mhammed, et en confia le com-
+mandement à son représentant qui vint jusqu'à Tlemsên;
+mais Moùlay Mhammed rentra à Oujda, renvoya les Arabs
+qui s'étaient alliés à lui, et leur donnant rendez-vous pour
+le printemps suivant, il reprit le chemin de Sijilmasa,
+après avoir allumé le brandon de la guerre dans le pays
+des Turcs, l'avoir ravagé et y avoir semé une révolte
+générale.
+
+
+Quant à l'armée turque, elle apprit seulement à
+Tlemsèn le départ de Moûlay Mhammed pour le Tâfilélt.
+Elle se repentit d'être venue, car elle avait trouvé le pays
+désert; tous les habitants avaient quitté leurs demeures
+pour se réfugier dans les montagnes, et personne ne lui
+apporta ni moûna, ni impôts. A Tlemsên elle fut mal reçue
+par les habitants qui avaient pris parti pour Moûlay Mham-
+med et prononçaient la khoțba en son nom, et bientôt elle
+reprit le chemin d'Alger.
+
+
+Les Turcs comprirent que leur pays ne leur appartenait
+plus entièrement et que leur puissance était ébranlée.
+Nous allons dire ce qui en résulta.
+
+
+Otsmân Pacha, dey d'Alger, écrit à Moûlay Mhammed:
+correspondance échangée entre eux à cette occasion¹.
+
+
+Au retour de l'armée turque à Alger, le dey Otsmân
+Pacha Eddaola fut informé par elle de la situation des popu-
+
+
+1. Texte arabe, IV partie, page 11.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+29
+
+
+lations et des excès commis contre elles par le prince de
+Sijilmâsa. Il réunit son divan et ses conseillers, pour étu-
+dier la question de Moûlay Mhammed et la façon de se
+garantir contre sa puissance. Ils ne trouvèrent pas de meil-
+leur parti à prendre que de lui envoyer deux des princi-
+paux oulama d'Alger et deux hauts fonctionnaires turcs,
+qui seraient chargés de lui présenter un message. Ils ne
+pouvaient, en effet, songer à le combattre, car il attaquait,
+vainquait et pillait, puis retournait dans le Şahara, et ils
+n'auraient jamais pu le rejoindre, ni le suivre dans les
+parasanges et les milles qu'il franchissait. Ils lui enver-
+raient donc un message, qui fut dicté par le secrétaire
+Abouşşoûn Elmahjoub Elhadri, et qui fut porté par cette
+ambassade. En voici le texte :
+
+
+<< Louange à Dieu qui a vivement recommandé de re-
+pousser le voleur et l'envahisseur, qu'il soit noble ou plé-
+béien, et qui a dicté, lui qui est sincère, l'obligation de
+déchirer les vêtements de son origine, à celui qui en tire
+vanité, qu'il soit ignoré ou connu.
+
+
+<<< Les prières de Dieu soient sur notre seigneur et notre
+maitre Mohammed, fils de Abdallah, fils de Abdelmot-
+țaleb, fils de Hâchém, sur les gens de sa famille qui sont
+les diadèmes de la gloire, les voiles qui couvrent le front
+et le nez, et sur ses compagnons qui sont les sabres des-
+tinés à trancher la gorge des infidèles, les lances actives
+et les épées destructrices.
+
+
+<< Après avoir rendu grâces à Dieu, il ne nous reste qu'à
+adresser la parole au Très Haut Chérif, dont la parole et le
+cœur sont sincères, par lequel Dieu a réuni les éléments
+épars de sa patrie et a préservé contre la vanité les mon-
+tagnes de son pays et les plaines de son territoire, le petit
+fils de notre Maître Ali et de notre Dame Elbatoûl, le fils
+de notre Maître Echchérif, fils de notre Maître Ali.
+
+
+<<< Que le salut soit sur vous, tant que les vaisseaux orne-
+ront les routes des mers, et que les belles perles brilleront
+
+
+30
+
+
+ARCHIVES MAROCAINES
+
+
+sur la blancheur des gorges: que la miséricorde et la béné-
+diction du Très-Haut soient sur vous, tant qu'il laissera
+se succéder l'immolation des victimes pures et licites.
+<<< Ensuite :
+
+
+<< Nous vous écrivons de la ville d'Alger, demeure du gain
+facile pour l'habitant, le voyageur et le visiteur, ribâț du
+Djerid, que Dieu le protège sur mer et sur terre et pré-
+serve son territoire des secousses des ouragans et des tem-
+pêtes! - pour faire briller à vos yeux les trésors du pouvoir
+et les satellites de la chiromancie, des horoscopes et de la
+physiognomonie, et vous découvrir un ciel entièrement pur
+de tout nuage, de toute poussière, une matinée dont la
+lumière se répandrait après qu'on aurait déployé sur elle
+les couleurs d'un parterre de verdure.
+
+
+« La connaissance des choses de la royauté n'a certes
+pas négligé de prendre place dans les arcanes de votre
+science: à vos festins n'ont manqué ni leur Zéïd, ni leur
+ Omar. Car le généreux (qu'il soit loué!) vous a gratifié de
+la majesté, de la noblesse en vous donnant la générosité, la
+clémence et la bravoure, et a choisi pour vous Sijilmâsa,
+dont le nom seul indique la protection qu'elle donne dans
+les plaines de la sécurité. Cependant les secrets d'une
+politique avisée vous échappent et vous faites chevaucher
+à votre fermeté le coursier rétif de l'ignorance et de la
+légèreté. Mais c'est là, en vérité, le fait de tout fondateur
+de gouvernement: il n'arrive à le contenir que par les
+crimes de la guerre et du combat.
+
+
+<< C'est ainsi que tu as déchiré le manteau de la force
+nouvelle de l'Empire de Otsmân, depuis Oujda la
+Bigarrée jusqu'aux confins du Djérid. Tu as soulevé contre
+nous les esprits de ces mauvais sujets d'Arabs, qui en
+sont venus à nous refuser les moindres choses.
+
+
+<< Tu es venu faire une incursion chez les Beni Yaʻqob,
+tu as fauché jusqu'aux vestiges de leur race en frappant
+aux tendons du tibia et tu as fait une foule de malheureux
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+31
+
+
+qui vont mendier par leurs familles un ziyani, une mou-
+zoûna sur les marchés de Mostaganem, et aux portes des
+maisons de Mazoúna.
+
+
+<< Tu as couvert du vêtement de l'avilissement les confins
+d'Elgâsoul et de Lagoûat, et tes partisans ont fondu sur
+leurs habitants comme les oiseaux de proie sur les chauve-
+souris. Ce féroce barbare de Mahmoud des Hamiyân t'a
+conduit à Aïn Madi, à Essouâné et aux Beni Itfiân. Les
+Rigah et les Souéïd s'enfuirent, et leurs héros secouent
+maintenant leur poussière et leur argile sur le Djebel
+Râched et dans le pays de Constantine. Mais nous ne nous
+attendions guère à vous voir profaner le manteau de la
+grâce du mers de Aboû Errabi Sîdi Slimân, car vous auriez
+dû être les premiers à le respecter, à le vénérer, et à le
+défendre, vous qui traitez les étrangers d'ignorants, de
+grossiers et de barbares, et qui vous êtes substitués à eux.
+Les soldats de notre qaşba de Tlemsên, fantassins et cava-
+liers, ont fait une sortie: vous les avez mis en déroute sur-
+le-champ et vous les avez tués d'une façon honteuse et
+avilissante. Nous avons pensé alors que c'était le moindre
+châtiment qui puisse être infligé au chien méprisé qui veut
+mordre et qui s'offre  la vigueur du lion. Le malheur n'a
+cependant atteint que les hadar presque exclusivement,
+car dans les jardins on a cueilli à la fois les fruits verts et
+les fruits murs.
+
+
+<< Les Oulad Talha, les Heddaj, et les Kherâdj avaient
+toujours payé à cette capitale le kharâdj, qu'il fût pesant ou
+léger: de leurs contributions, pas un poil, pas une toison,
+pas un petit chameau, pas un chevreau, pas un agneau ne
+nous échappaient. Mais quand s'est élevée sur nous l'au-
+rore de ton soleil fortuné, tous ceux qui étaient près de
+nous se sont éloignés. Tu as été secondé par la discorde
+de ces brutes d'habitants d'Oujda, dont tu as eu pour toi,
+d'ailleurs, les meilleurs et les plus sérieux. Sans toi, les
+gens de Tlemsên ne se seraient pas révoltés contre nous,
+
+
+32
+
+
+ARCHIVES MAROCAINES
+
+
+ils n'auraient pas oublié ce qu'ils doivent à notre bonté
+très ancienne et à notre générosité envers eux, et ils t'au-
+raient retiré le rideau et le tapis. Leur désir est que tu
+déchaînes contre nous la violence du dragon. Nous sommes
+bien certains pourtant que notre arbre ne sera pas ren-
+versé par les tempètes, ni ses traces détruites quand bien
+même s'effondreraient sur lui les montagnes de Djaïân, et
+que la pierre ne se laisse pas broyer par le pisé. Ainsi
+ton armée, par exemple, au départ et à l'arrivée, ne peut
+résister aux foudres de la poudre, et les cottes de mailles
+ne servent que dans les incursions contre les campements
+des tribus. Quant aux murailles des grandes armées et des
+forts escadrons, rien ne peut les frapper ni les détruire,
+que les torrents de cavaliers et les archers solides. Ton
+audace a fait goûter aux Beni Amer les attraits de la fuite
+sous l'égide de l'infidèle: Satan et la ruine sont entrés dans
+les montagnes de Trâra, de Mdagra et des Beni Snoûs. Les
+sujets aiment que le lait gonfle leurs mamelles afin de
+cacher dans la paille de leur imposture l'épi de leurs ré-
+coltes; aussi si tu acceptes leurs dires et leurs actes, leur
+naturel les excitera de nouveau contre le gouvernement
+et ils deviendront comme des ogres.
+
+
+<< Prends bien garde surtout de te laisser séduire par ce
+que tu as vu dans le livre d'Elboûni, dans les notes d'Es-
+sonyoûți, de 'Ali Bâdi et de Ben Elhaddj, et dans la lettre
+des gens de Ceuta à Abdelhaqq ben Aboù Sa'id Elme-
+rîni, et de te croire l'élu qui va gravir ces degrés. Tu en
+es encore bien loin. Tu n'y arriveras pas en passant des
+nuits au bivouac et en multipliant les pommeaux des poi-
+gnées de sabre. Que les piquets des tentes des Chrétiens
+et des Turcs disparaissent du sol du Magrib, qu'il ne reste
+plus personne pour vous le disputer en vous faisant la
+guerre ou en vous livrant combats, il ne faudrait pas que
+tu tentes de saisir cette occasion d'y arriver, ni ce moyen
+de disperser ce qu'a groupé et réuni notre résolution. Tu
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+33
+
+
+es aveuglé par des songes incohérents; tu es égaré par le
+brouillard de l'inconnu; et ta pensée est dans les ténèbres
+les plus noires. Si tu nourris de tels projets, tu es sans
+nul doute un parjure. Si vous avez la certitude de réussir,
+eh bien! ce ne sera que le quatrième de votre dynastie, ou
+tout au plus le troisième, qui atteindra ce but. Le premier
+de votre famille était un révolté; le second l'imitera et
+marchera sur ses traces; le troisième sera peut-être un
+émir illustre qui sera ou juste ou oppresseur.
+
+
+<< Ne viens pas t'aventurer sur notre patrie, car tu aurais
+à craindre les grifles puissantes de notre sultan.
+
+
+ Quant au courage naturel, nous savons que tu en as
+une large part et que tu es de ceux qui, s'ils frappent,
+atteignent leur but avec une flèche bien dirigée. Mais la
+bravoure peut servir tout au plus à se défendre quand la
+guerre est allumée, surtout maintenant que sa valeur est
+diminuée par l'emploi de la poudre et du plomb. Ce qui
+t'a enhardi contre nous, c'est que tu es un vautour sur une
+branche d'arbre, ou une reine d'abeilles dans une fissure
+du rocher. Si tu avais vu les rois d'une des capitales de la
+terre et de la mer, tu saurais que tu n'es qu'un pupille et
+un incapable en tutelle: tu aurais appris qu'entre les
+princes il existe des relations et des égards, et que les
+situations des États dépendent d'un jour, d'une heure, que
+chacun d'eux redoute de perdre sa renommée, et brûle des
+parfums pour dissimuler la puanteur des exhalaisons.
+
+
+  Nous ne voulons, nous, que la tranquillité des Arabs
+sur leurs territoires afin qu'ils puissent à leur gré noma-
+diser l'hiver et l'été, et que les riches ou les pauvres y
+apportent ce qui peut leur servir à gagner quelque chose,
+des vêtements, du henné, des peaux.
+
+
+<<< Si c'est le pouvoir que ton âme recherche, à toi les
+villes que la populace Berbère ne t'a pas laissé approcher,
+et où l'on continue à prêcher en leur nom. Porte sur elles
+tous tes efforts pour arriver à goûter la douceur du pou-
+
+
+ARCH. MAROC.
+
+
+3
+
+
+34
+
+
+ARCHIVES MAROCAINES
+
+
+voir qui est pétrie de l'onguent du salut ou de la mort.
+Mais renonce au pays des sables et de la poussière, et ne
+t'aventure pas dans les déserts et les défilés. Par tes
+grands-pères paternel et maternel, et par tous tes frères
+et oncles paternels et maternels, écarte-toi du sol de Tlem-
+sèn, et n'y viens pas amener la foule des archers et des
+cavaliers. Si les 'Arabs veulent se razzier les uns les autres,
+laisse-les faire: il en a toujours été ainsi sur tout le terri-
+toire, et nous avons toujours pris ensuite au vainqueur le
+cinquième de ses biens. Vous saurez par là qu'ils ne savent
+pas ce qu'ils font, et qu'ils sont tous malfaisants et traîtres,
+et que les gouvernements ne doivent pas avoir pour eux
+plus de considération que pour les infidèles. De cette
+façon la paix régnera toujours entre nous, et nous ne ferons
+pas attention aux intrigues des tribus.
+
+
+<<< Nous vous avons envoyé quatre de nos serviteurs,
+dont la conversation réjouit les cœurs et les demeures:
+ce sont le fqîh distingué, Si Abdallah Ennefzi et le fqîh
+honorable Si Elhaddj Mohammed ben Ali Elhadri Elmez-
+ġennâï; ils sont accompagnés de deux braves Turcs mem-
+bres de notre conseil et fonctionnaires de notre palais.
+
+
+« Nous désirons une réponse favorable, sincère et
+véridique.
+
+
+« Dieu très haut nous conduise dans le chemin le plus
+louable et, au jour de la résurrection, nous place auprès
+de votre aïeul au nombre des élus! Ainsi soit-il.
+
+
+<< Salut.
+
+
+« Écrit le 15 du mois sacré de rejeb l'unique 1064. »
+Quand ces ambassadeurs lui eurent remis cette missive,
+Moulay Mhammed, après l'avoir lue, fut vivement irrité.
+des blâmes qu'elle contenait. Ayant fait venir les ambas-
+sadeurs, il leur reprocha les paroles de leur maître et
+ses bravades envers lui. Ils lui répondirent: « Nous sommes
+ambassadeurs, nous t'avons apporté une lettre du bâchâ
+d'Alger: donne-nous la réponse, mais ne nous reçois pas
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+35
+
+
+avec des reproches. - Vous avez raison, » dit le prince,
+qui leur écrivit une lettre commençant ainsi : « Ensuite,
+nous vous écrivons cette missive de l'étoile du front des
+Şaharas, centre des contrées et des déserts du Magrib, de
+la résidence de Sijilmasa, qui est la capitale des 'Arabs
+et des Berbers, et qui était appelée autrefois Kenz elba-
+raka (le trésor de la bénédiction. » Sa lettre se continuait
+ainsi et repoussait la demande des Turcs. Les ambassa-
+deurs retournèrent auprès du maître d'Alger. Aussitôt que
+celui-ci eut lu, en présence de son Diouân, la lettre qu'ils
+lui rapportaient, il les renvoya sur-le-champ auprès de
+Moulay Mhammed sans leur remettre de lettre pour lui.
+Ils dirent au prince : « Nous n'avions pas connaissance du
+contenu de ta lettre, et si nous nous en étions contentés,
+nous ne serions pas revenus auprès de toi. Nous sommes
+venus à toi pour que tu suives vis-à-vis de nous les pré-
+ceptes de la loi sainte de ton ancètre, et que tu ne dépasses
+pas tes limites. Ton ancêtre ne faisait pas la guerre aux
+musulmans et n'ordonnait pas de piller les faibles. Si
+c'est la guerre sainte que tu veux, va livrer combat aux
+infidèles qui sont au milieu de ton territoire, mais si, au
+contraire, tu projettes de subjuguer le gouvernement de
+la famille d'Otsman, provoque-le et appelle à ton aide le
+Clément, le Miséricordieux; tun'auras alors rien à te repro-
+cher. Voilà ce que nous sommes venus te dire. Mais agiter
+le brandon de la révolte au milieu des créatures n'est pas
+le fait des nobles membres de la Famille du Prophète. Tu
+n'ignores pas que ce que tu fais est illicite et n'est per-
+mis par aucun des rites musulmans, par aucune des lois
+des étrangers. Nous sommes deux docteurs, oulamâ d'Al-
+ger, qui venons écouter ce que tu as à dire. Dieu et son
+Prophète jugeront entre toi et nous. Notre commerce est
+arrêté, nos sujets terrifiés se sont enfuis de leur pays. Que
+répondras-tu devant Dieu quand tu seras interrogé sur ta
+conduite actuelle dans notre pays, toi qui es un fils de
+
+
+36
+
+
+ARCHIVES MAROCAINES
+
+
+l'Envoyé de Dieu, sur lui soient les prières de Dieu et le
+salut! Ce que tu fais chez nous, nous serions capables de
+le faire dans ton pays, sur tes sujets, nous qui sommes
+considérés par vous comme nous livrant à l'injustice et à
+la tyrannie, mais la dignité de notre Sultan s'élève contre
+cette opinion. »
+
+
+Ces paroles produisirent une profonde impression sur
+Moulay Mhammed qui en éprouva un frisson d'horreur. Le
+Roi de la vérité releva son esprit et il comprit sa faute.
+<< Par Dieu! dit-il aux ambassadeurs, ce sont ces diables
+d'Arabs qui se servaient de moi pour triompher de leurs
+ennemis et qui m'ont mis en état de révolte contre Dieu.
+Et je les ai fait arriver à leurs fins! Il n'y a de force et de
+puissance qu'en Dieu! Je vous promets devant le Très-
+Haut que dorénavant je ne toucherai plus ni votre terri-
+toire, ni vos sujets. Je m'engage par Dieu et par son Pro-
+phète à ne pas dépasser la Tâfna pour me rendre chez
+vous, sauf s'il s'agissait d'une œuvre agréable Dieu et à
+son Prophète. >>>
+
+
+Il écrivit cette promesse au Pacha d'Alger et se contenta
+des conquêtes que Dieu lui avait fait faire de Sijilmasa,
+du Drâ et de toutes leurs provinces. Il ne dirigea plus
+d'expédition dans le Cherg, jusqu'au moment où Moûlay
+Errechîd s'y révolta contre lui. Il advint alors ce que nous
+allons rapporter s'il plaît à Dieu.
+
+
+Révolte du moqaddim Aboûl'abbas Elkhadir Ġėïlân Elgorofti
+dans la région d'Elhibt i.
+
+
+Aboûl abbas Elkhadir Géïlân, un des compagnons de
+Aboû Abdallah Elayyachi, était moqaddim des combat-
+tants dans la région d'Elhibt. Quand Elayyachi fut tué à
+
+
+1. Texte arabe, IV partie, page 14.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+37
+
+
+la date déjà indiquée, il se déclara indépendant et prit le
+commandement dans cette contrée. En 1063, il gouvernait
+dans le Fahş, et s'avançait sur Qşar Ketama. Les gens de
+la ville firent une sortie contre lui, mais, battus après un
+long combat, ils furent poursuivis par Elkhadir, qui prit
+la ville de force et tua un grand nombre de notables. Les
+autres s'enfuirent à Fès, et parmi eux la famille du fqih
+Aboû Abdallah Elqanţari. Elkhadir resta maître de toute
+la contrée.
+
+
+Au mois de doùlheddja 1069, le Mrâbeţ, le réïs
+Boû Selhâm ben Gueddar quitta Fès et vint rejoindre
+Elkhadir Ġéïlân et se rangea dans son parti. Mais ce der-
+nier lui en voulut d'avoir aidé les Dilâïs contre Sîdî
+Mohammed El'ayyachi, il partit contre lui; il finit par
+s'emparer de lui et le retint prisonnier à Aşéïla. Peu de
+temps après, il le remit en liberté. C'est ce que dit le
+Nachr Elmatsani.
+
+
+Mort de Moûlay Echchérîf ben 'Ali (Dieu lui fasse miséricorde !)  .
+
+
+Nous avons vu précédemment que Moulay Echchérif ben
+'Ali avait acquis, depuis son adolescence, à Sijilmâsa et
+dans toute la région, la considération générale. Il était le
+maître et le chef, et chacun lui obéissait. Proclamé ensuite
+par les habitants de Sijilmasa en 1041, il s'était vu dispu-
+ter le pouvoir par les Beni Ezzoubîr de Tabou aşâmt.
+Grâce à l'appui que lui avait prêté contre eux Boù Has-
+soûn Essemlali, il avait établi son autorité à Sijilmasa.
+Une fois délivré de sa captivité dans le Soûs, il était
+revenu à Sijilmasa, et, trouvant son fils Moulay Mhanı-
+med en possession du pouvoir, il le lui avait abandonné.
+Sa vie se passa dès lors à rechercher les faveurs de Dieu,
+
+
+1. Texte arabe, IV partie, page 14.
+
+
+38
+
+
+ARCHIVES MAROCAINES
+
+
+jusqu'au moment où la vérité vint le surprendre le 14 ra-
+madân 1069 à Sijilmasa, son pays natal, qui avait été le
+séjour de sa fortune, et qui fut le berceau de ses glorieux
+descendants, et le point de départ des rois et des princes
+issus de lui.
+
+
+Moulay Mhammed fut proclamé de nouveau, mais son
+frère Moùlay Errechid se sépara de lui et se retira dans les
+montagnes, où il ne cessa d'aller de tribus en tribus jus-
+qu'au moment où survinrent les événements que nous
+allons rapporter.
+
+
+Incursion de Moûlay Mhammed ben Echchérîf chez les 'Arabs
+Elhayâïna des environs de Fès, et ses conséquences  .
+
+
+A la fin de l'année 1073, Moulay Mhammed ben Echché-
+rîf fit une incursion sur les terrains de culture des Hayâïna,
+dans le voisinage de Fès, et les dévasta entièrement.
+Une grande famine s'en suivit: les gens en furent réduits
+à manger des cadavres d'animaux, des bêtes de somme
+et même de la chair humaine. Les maisons furent aban-
+données, les mosquées devinrent désertes, et les gens de
+Fès partirent pour demander secours à la famille d'Ed-
+dila. Le chérif Aboû Abdallah Mohammed ben  Abdallah
+ben Ali ben Tâhar Elbasani, qui était venu à Fès pour se
+faire proclamer, mais sans succès, quoiqu'on ait dit qu'il
+fût soutenu par quelques personnes, se mit en marche
+avec les Hayâïna pour attaquer Moûlay Mhammed ben
+Echchérif, mais il ne put l'atteindre.
+
+
+Dans les premiers jours de l'année 1074, le roi d'Angle-
+terre fut mis en possession de Tanger par les Portugais,
+qui, suivant l'auteur d'Elboustân, étaient alors trop faibles
+pour. résister aux musulmans, car ceux-ci, au cours de
+
+
+1. Texte arabe, IV parlie, page 14.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+39
+
+
+deux affaires successives, venaient de leur faire tuer
+600, puis 400 hommes. Manuel le Castillan, dans son his-
+toire du Maroc, donne à cette cession une autre raison.
+Selon lui, le roi de Portugal Juan VI (dont le nom se pro-
+nonce indistinctement avec le ou avec le voulant affer-
+mir l'amitié qui le liait au roi d'Angleterre, Charles II,
+lui donna sa fille en mariage en lui remettant comme dot
+les clefs de Tanger. Cette ville resta au pouvoir de celui-ci
+pendant vingt-deux ans, puis il l'abandonna aux musul-
+mans.
+
+
+Révolte de Moûlay Errechîd ben Echchérîf contre son frère
+Moûlay Mhammed et meurtre de ce dernier (Dieu lui fasse
+miséricorde!) 1.
+
+
+Nous avons vu que Moùlay Errechîd avait fui son frère
+Moûlay Mhammed dès le jour de la mort de leur père. Il
+se rendit alors à Toudġa où il demeura quelque temps,
+puis de là à Demmât, d'où, après un court séjour, il alla
+à la zâouya des gens d'Eddila. Là il séjourna assez long-
+temps. On dit qu'un des gens de cette zâouya lui conseilla
+de s'en aller de peur qu'il ne fût trahi, parce que, suivant
+une tradition conservée chez eux, les Dilâïs prétendaient
+que la destruction de cette zâouya devait être opérée par
+lui. Moùlay Errechid suivit ce conseil et partit pour la
+montagne d'Azrou, d'où, peu de temps après, il alla à Fès,
+avec une escorte peu nombreuse. Il passa la nuit en
+dehors de Fès Eljedid: le chef de la ville, Aboû 'Abdal-
+lâh Eddrîdi, lui donna une très large hospitalité. Le len-
+demain il partit pour Tâza et de là chez les Arabs Elah-
+lâf. « Il arriva à la suite de ses pérégrinations, dit le No-
+
+
+1. Texte arabe, IV partie, page 14.
+
+
+40
+
+
+ARCHIVES MAROCAINES
+
+
+zha, à la qaşba de Ben Mechal. Ce Juif possédait d'im-
+menses richesses et de précieux trésors; il opprimait les
+musulmans et tournait en dérision la religion et ses sec-
+tateurs. Moûlay Errechid chercha longtemps un moyen de
+faire tomber ce Juif dans un guet-apens; enfin Dieu lui
+en fournit l'occasion, à la suite d'événements qu'il serait
+trop long de rapporter ici. Moûlay Errechid tua donc ce
+Juif, s'empara de ses richesses et de ses trésors, qu'il
+distribua à ceux qui l'avaient suivi et aux Arabs Angâd,
+et autres gens qui se joignirent à lui, ce qui accrut ses
+forces et augmenta le nombre de ses partisans. »
+
+
+Selon l'auteur du Nachr Elmatsani, « Moùlay Errechîd,
+en quittant Fès, alla trouver le chéïkh Aboù Abdallah
+Ellouâti qui vivait dans le voisinage de Tâza. Ce person-
+nage, qui professait l'ascétisme, et qui vénérait les gens
+de la Famille du Prophète, lui fit une réception enthou-
+siaste. Tandis que Moûlay Errechîd était chez lui, il vit
+passer un jour un homme entouré d'esclaves, de suivants
+et de cavaliers, qui chassait dans un appareil royal. Ayant
+demandé qui il était, il apprit que c'était un Juif de Tâza,
+nommé Ben Mechal. Il mit un couteau dans sa bouche et
+se rendit auprès du chéïkh Ellouâti. En le voyant dans
+cette attitude, le chéïklı fut effrayé et lui dit : « Ma fortune
+et ma vie sont à toi, mais que t'est-il arrivé ?  Ordonne
+à un certain nombre de tes compagnons de partir avec
+moi afin d'exterminer ce Juif, pour la défense de la reli-
+gion, lui répondit Moûlay Errechîd. C'est chose faite,
+dit le chéïkh, aucun d'entre eux ne te désobéira. » Moûlay
+Errechid en choisit quelques-uns parmi eux et leur donna
+rendez-vous pour attaquer le Juif la nuit et s'emparer de
+sa maison, qui était dans la campagne à une étape environ
+à l'est de Tâza. Lorsque la nuit fixée fut venue, Moûlay
+Errechîd se présenta chez Ben Mechal, sous prétexte
+de lui demander l'hospitalité. Celui-ci la lui accorda. Au
+milieu de la nuit, la maison fut cernée par les gens de
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+41
+
+
+Moùlay Errechid, qui surprit le Juif dans un coin retiré
+de sa demeure et le tua. Il introduisit ensuite ses compa-
+gnons, et s'empara de la maison de Ben Mech'al, après
+avoir fait tuer ses serviteurs et ses gardiens. Il y décou-
+vrit d'immenses richesses et de précieux trésors. >>>
+
+
+Suivant une autre version, qui est répandue chez les
+Beni Yznâsén, Ben Mech'al demeurait au milieu d'eux et
+s'était établi dans une forteresse dans une de leurs mon-
+tagnes, où ils vivaient sous sa protection.
+
+
+Moûlay Errechid se rendit auprès d'eux et les circon-
+vint si bien au sujet de ce Juif que ses paroles finirent par
+les influencer. Certains propos de ce genre furent rappor-
+tés à Ben Mech'al, qui se crut trahi par eux et qui vint
+apporter de riches présents à Moùlay Errechîd pour tâcher
+de conquérir sa faveur, mais il était à peine arrivé près
+de lui que ce prince le saisit et le tua, puis, se rendant à
+sa maison, s'en empara et enleva les richesses qui s'y
+trouvaient.
+
+
+Dieu seul sait laquelle de ces versions est authentique.
+Après cela, Moùlay Errechid voulut faire reconnaître
+son autorité par les Arabs du Cherg et, après avoir réuni
+leur adhésion, s'installa à Oujda.
+
+
+Aussitôt qu'il fut instruit de ces événements, Moùlay
+Mhammed, prince de Sijilmasa, qui redoutait son frère
+dont il connaissait le courage et l'énergie, partit pour le
+combattre et tâcher de s'emparer de sa personne. Mais
+quand la bataille s'engagea entre les deux armées dans la
+plaine des Angâd, la première balle tirée atteignit à la
+gorge Moùlay Mhammed, qui succomba immédiatement,
+le vendredi 9 moharrem 1075, et qui fut enterré dans la
+maison de Ben Mechal. Moùlay Errechîd éprouva un vif
+chagrin de la mort de son frère et en prit le deuil. Il lava
+lui-mème son cadavre et le transporta chez les Beni Yzná-
+sén où il le cacha dans son tombeau. Que Dieu lui donne
+sa miséricorde et son pardon!
+
+
+42
+
+
+ARCHIVES MAROCAINES
+
+
+Moulay Mhammed était plein de courage et d'audace
+dans les combats; il ne s'inquiétait pas du danger et ne
+craignait rien de ses semblables. Il ne connaissait ni l'ad-
+versité, ni la frayeur. Les gens de la Zaouyat Eddila l'ont
+ainsi dépeint: C'était un véritable gerfaut aussi insensible
+au simoun de la nuit qu'à l'ardeur accablante du soleil de
+l'été, et pareil à l'aigle fauve, il était constamment perché
+sur la cime des rocs. La possession des richesses ne lui
+suffisait que s'il conpait les tètes. Sa bravoure était célèbre,
+et avec cela il était vigoureux et solidement membré: on
+ne pouvait jamais lui tenir tête dans le corps à corps, ni
+lui faire lacher pied dans la défense.
+
+
+On raconte qu'un jour, pendant un des sièges de Tâbou-
+'aşâmt, il plaça sa main dans un des trous pratiqués dans
+le mur de la forteresse, et qu'un nombre incalculable de
+guerriers purent monter sur son bras, aussi solide qu'une
+poutre fichée dans un mur ou qu'une assise de briques.
+Il était d'une nature généreuse; il donna au littérateur
+célèbre qui excella dans la poésie régulière et dans la
+poésie vulgaire, Aboû Otsman Sa îd Ettlemsâni, auteur de
+la Qasida El'aqiqiya, environ vingt-cinq livres d'or pur,
+en récompense d'un panégyrique qu'il avait fait de lui.
+Les anecdotes de ce genre relatives à ce prince sont,
+d'ailleurs, bien connues
+
+
+Lorsqu'il fut tué, son fils, Moûlay Mhammed Esseġîr,
+essaya de lui succéder à Sijilmâsa, mais sans succès.
+Une partie de son histoire va suivre, s'il plaît à Dieu.
+
+
+Règne du prince des croyants Moûlay Errechid ben Echchérîf,
+(Dieu lui fasse miséricorde !) 1.
+
+
+Moûlay Mhammed ben Echchérîf ayant été tué à la date
+précitée, toutes ses troupes allèrent grossir l'armée de
+
+
+1. Texte arabe, IV partie, page 16.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+43
+
+
+Moûlay Errechîd, et lui prêtèrent serment de fidélité. Les
+Ahlaf, les Beni Yznâsén, etc., lui jurèrent obéissance. II
+envoya des émissaires chez les Arabs et les Berbers de
+cette région, pour les inviter à se soumettre et à s'unir à
+lui. Leurs délégations lui apportèrent des présents. Il ins-
+crivit sur les registres du guéïch ceux qui avaient servi la
+cause de son frère et leur donna des vêtements, des armes
+et des chevaux. Sa situation devint considérable, et sa
+puissance grandit.
+
+
+Mais il avait besoin d'argent. Comme il avait emmené
+le fils du Juif Ben Mech'al le jour du meurtre de son père,
+sa mère vint lui demander à le racheter. Il usa d'habileté
+et d'atermoiements envers elle jusqu'au jour où il lui dit:
+« Je ne délivrerai ton fils que si tu m'indiques où se trou-
+vent les biens de ton mari, sinon je le tue. » Cette femme
+accéda à sa demande, et il partit avec elle à la qaşba, où
+elle lui montra une armoire dans une chambre. Il la fraс-
+tura et y trouva des jarres pleines d'or et d'argent. Il
+enleva ces richesses qui amélioraient sa position, et les
+distribua aux Arabs, aux Berbers et à toutes les troupes
+qui se trouvaient avec lui. Sa situation et la leur deve-
+naient meilleures, et il considéra cela comme un heureux
+présage.
+
+
+Dès qu'il eut organisé ses troupes, il envoya ses émis-
+saires dans toutes les directions, auprès des populations
+soumises et des populations révoltées, pour leur faire des
+promesses, ou des menaces. Voulant faire la conquête du
+Magrib que son frère avait tentée sans succès, il partit
+après eux, et s'installa sur les bords de l'Oued Melouiya,
+où il resta quelques jours pour se reposer et attendre la
+venue des gens de cette région, comme les gens du Gârét
+et du Rif, mais personne ne se rendit auprès de lui.
+
+
+44
+
+
+ARCHIVES MAROCAINES
+
+
+Prise de Tâza et de Sijilmâsa, et faits qui se placent entre ces
+deux événements 1.
+
+
+Moùlay Errechîd, après avoir séjourné quelque temps
+sur la Melouiya, et voyant que personne ne venait auprès
+de lui, marcha sur Tâza. Après une longue lutte, il
+réussit à emporter cette place. Les gens de la ville et les
+tribus des environs lui prètèrent serment de fidélité.
+Quand la nouvelle leur en parvint, les gens de Fès se
+réunirent à leurs voisins les Arabs Elhayâïna, aux Bha-
+lil et aux gens de Şefroû; ils s'engagèrent par serment à
+faire la guerre à Moûlay Errechid et à s'abstenir de
+prendre aucune part à sa béïa. Ils ne voulaient pas s'expo-
+ser à être pillés et tués, comme l'avaient été les Hayâïna
+par son frère Moûlay Mhammed. Les chefs de Fès ordon-
+nèrent à la population d'acheter des chevaux et des armes
+en grande quantité; chaque maison dut avoir son fusil,
+et quiconque n'en possédait pas fut puni. On en acheta
+donc bien plus qu'il n'en fallait, et on se réunit à Bâb
+Elftouḥ pour passer en revue les armes et les chevaux,
+et on se livra au jeu connu sous le nom de Mîz (tir à la
+cible). Une nouvelle réunion eut lieu avec les Hayâïna, et
+on y renouvela le serment de faire la guerre à Moùlay
+Errechid.
+
+
+Quand il eut connaissance des dispositions des gens de
+Fès, Moulay Errechid les laissa de côté, et partit pour
+Sijilmâsa. C'était tout à fait raisonnable de sa part de
+commencer par le plus facile et de rechercher en premier
+lieu les plus simples. Il attaqua Sijilmâsa et l'assiégea
+pendant environ neuf mois. A la fin, son neveu, Moûlay
+Mhammed Esseġir, qui avait pris le pouvoir, à la mort de
+son père, prit la fuite et s'échappa pendant la nuit. Moû-
+
+
+1. Texte arabe, IVe partie, page 16.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+45
+
+
+lay Errechîd entra dans la ville et s'en empara: il res-
+taura ensuite les remparts, organisa le service de garde,
+calma la région, et retourna enfin à Tâza, où il s'installa.
+Toute échéance suit sa destinée.
+
+
+Siège et prise de Fès: châtiment infligé aux révoltés 1.
+
+
+Dès que Moûlay Errechid (Dieu lui fasse miséricorde!),
+venant de Sijilmasa, fut arrivé à Tâza, les gens de Fès
+décidèrent avec leurs alliés les Hayâïna d'aller l'attaquer
+où il se trouvait et de le provoquer afin d'abattre sa
+puissance. Ils se préparèrent à la guerre et sortirent
+de Fès au mois de chaouâl 1075, mais ils étaient à
+peine arrivés en présence de sa mhalla que, la division
+étant survenue entre eux, Moûlay Errechid les pour-
+suivit jusqu'au pont de l'Oued Shou, près de Fès, et revint
+ensuite sur ses pas. Ils sollicitèrent la paix, mais les
+négociations n'aboutirent point avant que Moûlay Errechîd
+fût devenu maître de tout le Magrib. Il donnait là une
+preuve de son habileté politique et de sa connaissance des
+affaires.
+
+
+Au mois de safar 1076, Moûlay Errechid vint camper
+sous les murs de Fès et assiégea la ville. Après un com-
+bat de trois jours, une balle l'atteignit au bout de l'oreille,
+mais il put se retirer sain et sauf. Au mois de rabi Ier
+suivant, le siège fut repris; après avoir tué et pillé, Moû-
+lay Errechid, qui n'avait pas encore l'intention de prendre
+la ville, se replia sur Tâza. Il se dirigea alors vers le Rîf
+pour combattre le réïs révolté Aboû Mohammed Abdal-
+lâh $\tilde{\Lambda}$; après un certain nombre de combats, il le
+cerna dans une de ses citadelles et réussit à s'emparer de
+lui en ramadan. Il lui pardonna ensuite et lui laissa la
+
+
+1. Texte arabe, IV partie, page 16.
+
+
+46
+
+
+ARCHIVES MAROCAINES
+
+
+vie sauve. Il revint ensuite à Fès et l'assiégea de nouveau,
+à la fin du mois de doulqa ada. Après un combat qui dura
+jusqu'au 3 doùlheddja, il entrait dans Fès Eljedid par les
+remparts du côté du Mellah; le chef de la ville, Aboù
+'Abdallah Eddridi, avait pris la fuite.
+
+
+Eddridi était inscrit sur le Dîouân des princes Saadiens
+avec tous les Beni Drid ben Atsbadj, qui étaient des
+Hilalis. Il fit partie des troupes du réïs Abdallah Moham-
+med Elhaddj Eddilaï, quand celui-ci fut proclamé par la
+population de Fès. Mais dès que souffla un vent contraire
+aux gens d'Eddila dans le Garb, il les avait abandonnés
+et s'était déclaré indépendant à Fès Eljedîd; puis il avait
+fait jurer aux habitants de Fès le vieux de combattre les
+Dilâïs, le 3 djoumada II 1074. Des liens l'unissaient au
+chef de  Odouat Elandlous, Ahmed ben Şalaḥ, qui lui
+avait demandé la main de sa fille pour son fils Şâlah ben
+Ahmed et à qui il l'avait accordée. Eddridi s'était mis à
+cette époque à faire des incursions chez les Berbers du
+territoire de Méknès et du voisinage, et quand il revenait
+avec du butin, on le recevait au son du tambour jusqu'à
+son entrée dans le palais princier. Il continua ses incur-
+sions jusqu'au moment où Moûlay Errechid s'empara de
+Fès; il prit alors la fuite, comme nous l'avons rapporté.
+L'auteur du Nozha dit qu'il fut tué.
+
+
+Après avoir calmé la population de Fès Eljedid, Moûlay
+Errechid attaqua dès le lendemain Fès le vieux et l'assié-
+gea. Les habitants ne purent lui résister. Le chef de
+lemțis, Ben Essegir et son fils s'enfuirent pendant la
+nuit au Bastion de Bâb Elguîsa; le surlendemain, Ahmed
+ben Şalah, chef de Odouat Elandlous, s'enfuit à son tour.
+Se sentant trop faibles, et voyant la division régner parmi
+eux, les habitants sortirent de la ville et vinrent prêter
+serment de fidélité à Moûlay Errechid qu'ils reconnurent
+à l'unanimité. Ce prince fit aussitôt rechercher Ben Şalah,
+on le trouva dans la banlieue de la ville, il fut pris et
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+47
+
+
+enfermé dans une prison, à la porte de Dar Ben Chegra à
+Fès Eljedid. Il fut mis ensuite à mort ainsi qu'un certain
+nombre de ses compagnons. Ben Essegir et son fils furent
+pris à leur tour, et mis à mort sept jours après, sur
+l'ordre du Sultan. Ainsi Fès rentra dans l'ordre et la tran
+quillité.
+
+
+« Moulay Errechid, dit l'auteur de Nozha, s'empara de
+Fès le vieux; il en passa tous les chefs au fil de
+l'épée et bientôt le pays, redevenu calme, se soumit à son
+autorité. Il était entré à Fès le vieux dans la matinée de
+lundi $1^{cr}$ doùtheddja 1076 et se fit prèter serment de fidé-
+lité le même jour. La cérémonie terminée, il distribua des
+sommes considérables aux oulama et les cómbla de pré-
+sents. Il déploya la plus grande bienveillance à l'égard
+des habitants de Fès et montra un vif désir de faire
+revivre la sounna en faisant respecter la loi religieuse ;
+cette conduite le plaça bientôt haut dans l'esprit de la
+population tout entière, qui lui voua une vive affection. »
+
+
+Moûlay Errechid nomma Si Hamdoùn Elmezouâr qadi
+de Fès, puis il se rendit dans le Garb, à la poursuite
+d'Elkhadir Géïlân, qui était en révolte dans la région
+d'Elhibt, et se trouvait alors à Qşar Ketama. Errechid le
+poursuivit, mais, Géïlân étant enfin en déroute à Agéïla,
+le Sultan rentra à Fès (premiers jours de rabi I 1077).
+
+
+La béïa fut rédigée à Fès et lue en sa présence le
+samedi 18 rabi Ier avant midi.
+
+
+Dans le mois de rabi II Moulay Errechid fit une expé-
+dition dans les environs de Méknès contre les Berbers
+Aït Quâllâl qui soutenaient Mhammed Elhaddj Eddilaï; il
+les razzia et revint ensuite à Fès. A peine était-il de
+retour, que Mohammed Elhaddj venait avec de nombreux
+Berbers camper près de l'Oued Fès, à Boù Mzoùra, dans le
+voisinage de la ville. Errechid engagea le combat, qui
+dura trois jours et qui se termina par la retraite de
+Mhammed Elhaddj; il prit ensuite la route de Tâza le
+
+
+48
+
+
+ARCHIVES MAROCAINES
+
+
+11 rejeb, et, après avoir inspecté la ville et les environs,
+il revint à Fès dans le mois de chaoual de la même année.
+Il destitua ensuite El aguid, gouverneur de Méknès. Le
+second jour de l'aïd elkebir, il fit une expédition contre
+les Beni Zerouâl, et s'empara d'Echchérîf, chef des révol-
+tés, qu'il envoya emprisonné à Fès, où il revint le 2 mo-
+harrem 1078. Moùlay Errechîd alla également à Tétouân,
+là il fit arrêter Aboul abbas Enneqsîs, le chef de la ville, et
+un certain nombre de notables de son parti, qu'il ramena
+avec lui à Fès, où il les emprisonna tous, les premiers
+jours de rabi Ier 1078. Nous dirons plus loin ce qui leur
+advint ensuite.
+
+
+Prise de la Zâouyat Eddilà; exil de ses membres  Fès;
+événements qui en sont la suite¹.
+
+
+Le matin du jeudi 12 doûlja da 1078, le Prince des
+Croyants Moulay Errechid partit en expédition contre la
+Zâouyat Eddilâ, après avoir nommé comme moufti le juris-
+consulte Aboù Abdallah Mohammed ben Ahmed Elfèsi.
+Il rencontra les troupes dildïes, commandées par Ould
+Mhammed Elhaddj, à Botn Erroummân, dans le Fêzzâz. A
+la suite du combat qui fut livré, les Dilâïs, défaits, se
+retirèrent à la zaouya.
+
+
+Le chéïkh Elyoûsi, dans ses Mohadarât, dit ce qui suit :
+« Le réïs Abou Abdallah Mohammed Elhaddj Eddilâï
+s'était emparé de tout le Garb, où il régna de longues
+années, et la fortune lui sourit ainsi qu'à ses enfants, à ses
+frères et à ses cousins. Quand le sultan Moûlay Errechîd
+ben Echchérif eut attaqué et mis en déroute ses troupes à
+Bața Erroummâm, nous nous rendîmes auprès de lui,
+car il n'avait pas pu assister au combat à cause de sa débi-
+
+
+1. Texte arabe, IV partie, page 17.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+19
+
+
+lité et de son grand age. Quand ses enfants et ses frères
+entrèrent chez lui, il vit leur grande faiblesse et leur
+extrême angoisse, et leur dit : « Qu'y a-t-il done? Puis il
+ajouta: s'il vous dit : « Il vous suffit  Cela doit vous suffire,
+voulant ainsi parler de Dieu. » Elyoùsi ajoute que « ces
+paroles étaient merveilleusement appliquées à l'événement
+car elles signifiaient: si Dieu vous dit: vous avez eu une
+part suffisante des biens de ce monde, abstenez-vous main-
+tenant et soyez résignés à sa volonté. »
+
+
+La prise de la Zaouya eut lieu le 8 moharrem 1079.
+Généreux et sage, Moùlay Errechîd pardonna aux gens de
+la Zâouya; il ne leur infligea aucune molestation et ne fit
+périr personne. Dieu lui fasse miséricorde !
+
+
+Suivant l'auteur du Nozha, «après avoir mis en dé-
+route les gens d'Eddila, Moùlay Errechid entra dans la
+Záouya, et ordonna le transfert de Mohammed Elhaddj, de
+ses enfants et de ses parents à Fès, où ils demeurèrent
+quelque temps. Puis ils reçurent l'ordre de partir pour
+Tlemsên, où ils furent envoyés en exil, et où ils restèrent
+longtemps. >>>
+
+
+On raconte qu'à son arrivé à Tlemsèn, Mohammed
+Elhaddj tint le propos suivant : « J'avais lu dans les livres
+des destinées que j'entrerais un jour à Tlemsėn. J'avais
+toujours pensé que j'entrerais en roi; vous voyez dans
+quel état j'arrive ! » Il demeura là jusqu'à sa mort, qui sur-
+vint au commencement de l'année 1082. Il fut enterré
+auprès du tombeau de l'imâm Essnoùsi.
+
+
+A la mort de Moûlay Errechid, ses enfants et ses
+proches obtinrent du sultan victorieux Moulay Isma il
+l'autorisation de venir demeurer à Fès.
+
+
+Moûlay Errechîd détruisit la Zaouya, dispersa ses habi-
+tants, et effaça toutes traces de constructions, si bien
+qu'elle devint comme un champ moissonné et qu'on
+n'aurait pas cru habité la veille. Elle avait brillé de l'éclat
+du soleil, mais les événements avaient éteint sa lumière.
+
+
+ARCH. MAROC.
+
+
+4
+
+
+50
+
+
+ARCHIVES MAROCAINES
+
+
+Son ombre s'était enfuie. Pendant si longtemps elle avait
+reflété l'éclat de la splendeur d'Aboû Bekr et de ses des-
+cendants! Pendant si longtemps elle avait été embaumée
+de leur parfum! D'elle étaient sortis les nobles écrivains
+dont le visage fait dissiper les ténèbres! Ceux qui l'habi-
+taient eflaçaient les traces des vents: ce sont maintenant les
+vents qui effacent leurs traces. Les nuits ont emporté leurs
+corps, mais elles maintiennent leur souvenir. Ce trône est
+détruit aujourd'hui. Le temps a passé dès que la discorde a
+été apaisée, sans que les lances, ni les épées n'aient pu être
+reprises et sans que ces graces incomparables aient pu
+ètre utilisées! Qu'il périsse le monde qui n'a pas respecté
+leurs droits et n'a pas fait durer leur éclat! Les jours
+ne préservent pas contre les crimes qu'ils apportent: à
+peine les a-t-on rejoints ou approchés qu'ils s'enfuient.
+C'est ainsi qu'ont été réduits en poussière les monu-
+ments de Djoulaq, qu'a été éteint le feu d'Elmouhallaq,
+abaissée la puissance du fils de Cheddad et détruit le
+château crénelé de Sindad. L'heure de tout homme est
+avancée ou retardée, et la destinée atteint un beau jour
+son terme.
+
+
+Aussi faut-il admirer celui sur qui s'amoncelèrent leurs
+bienfaits, celui qui reconnaît leur générosité et leur bien-
+faisance, le Chéïkh de tous les chéïkhs du Magrib, l'Imâm
+dont la science et les œuvres sont universellement louées,
+Aboû Ali Elbasan ben Més oûd, Elyoûsi (Dieu lui fasse
+miséricorde !), qui pleura sur cette Zaouya et se lamenta
+sur ses jours passés, dans sa célèbre et longue élégie en Zâ
+qui commence ainsi :
+
+
+« La paupière est-elle donc obligée de répandre des
+perles, et si elle s'y refuse, la cornaline doit-elle se trans-
+former en vin? »
+
+
+Dans cette poésie, le chéïkh Elyoûsi ne prononce pas de
+noms par égard pour le Sultan et pour observer les con-
+venances. Dieu soit miséricordieux envers le chéïkh
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+51
+
+
+Elyoûsi! Personne mieux que lui ne comprenait les néces-
+sités des temps.
+
+
+Conquête de Morrâkch et meurtre de l'émir Boû Bkeur Echchebâni
+et de ses partisans  .
+
+
+Quand Moûlay Errechîd (Dieu lui fasse miséricorde !) en
+eut fini avec la Zâouya, il marcha, le 21 şafar de cette
+année-là (1079), sur Morrakch et s'en empara; il tua le
+chef de la ville Boû Bkeur ben 'Abdelkerim Echchebâni,
+ainsi qu'un grand nombre de ses parents. Suivant le
+Nozha, « en apprenant la nouvelle de la venue de Moûlay
+Errechîd, Boû Bkeur Echchebâni et ses partisans avaient
+abandonné la ville. Leur frayeur avait été telle qu'ils
+avaient recherché un asile dans des montagnes inacces-
+sibles. Entré à Morrakch, Moûlay Errechid fit périr tous
+les Chebânât qu'il y trouva, mais il réussit à déloger de
+sa retraite cette tribu puissante, et la maîtrisa vigoureu-
+sement par la tête et par les pieds. » Il fit enlever de son
+tombeau le cadavre d'Abdelkerîm et le fit brûler.
+
+
+Après un séjour d'un mois à Morrakch, le Sultan
+retourna à Fès, où il entra le 27 rabî II.
+
+
+Dans cette même année, Moûlay Mhammed Esseġir
+quitta le Tâfîlêlt avec ses partisans et abandonna le pays.
+Elkhadir Géïlân abandonna Aşéïla et s'embarqua pour
+Alger.
+
+
+A son retour de Fès, Moûlay Errechîd retira les fonc-
+tions de moufti à Aboû Abdallah Elfèsi, et destitua
+également, le 29 djoumâda II, le qâdi Elmezouâr. II
+remplaça ce dernier par le fqth Aboû Abdallah Moham-
+med ben Elbasan Elmeggâși, et nomma comme prédica-
+
+
+1. Texte arabe, IVe partie, page 18.
+
+
+52
+
+
+ARCHIVES MAROCAINES
+
+
+teur de la mosquée d'Elqarouiyin, le fqth Aboù Abdallah
+Mohammed Elboû inani.
+
+
+Le 15 rejeb, Moûlay Errechid entreprit une campagne
+contre les Châoudiya. Revenu à Fès le 7 ramadan, il
+pardonna aux Dilâïs et les renvoya dans leur pays; il fit
+exception pour Mohammed Elhaddj et ses enfants, qui
+furent exilés à Tlemsèn, où ce personnage mourut. Plus
+tard, Moùlay Ismail, cédant à des interventions en leur
+faveur, permit le séjour de Fès à ses fils, comme nous
+l'avons déjà rapporté.
+
+
+Le 17 doûlheddja, Moûlay Errechid fit une expédition
+contre les Aït Ayyach, qui sont des Berbers de la bran-
+che Şenhadja.
+
+
+La même année, il fit frapper la monnaie Rechîdiya et
+prèta pour un an une somme de 1052 mitsqals aux négo-
+ciants de Fès pour faire du commerce.
+
+
+Ce fut à cette même époque que le roi d'Espagne reçut
+Ceuta des Portugais, à la suite d'un traité qui fut conclu
+entre eux à Lisbonne. Cette place est restée jusqu'à nos
+jours au pouvoir des Espagnols.
+
+
+Construction du pont de l'Oued Sbou, près de Fès ¹.
+
+
+Le samedi 14 doûlqa'da 1079, Moûlay Errechid ordon-
+na la construction de quatre arches du pont de l'Oued
+Shou, près de Fès. On prépara aussitôt les matériaux et on
+se mit à creuser les fondations. Le 15 djoumada II, on com-
+mença à construire le pont avec des briques et de la chaux :
+il fut bientôt terminé, dans les meilleures conditions.
+
+
+Dans ses Mohâdarât, au cours de l'étude du Hadîts
+suivant lequel « le plus vil des noms aux yeux de Dieu
+serait celui d'un homme qui s'appellerait le Roi des Rois »,
+
+
+1. Texte arabe, IV partie, page 19.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+53
+
+
+le chéïkh Elyoûsi fait la remarque suivante: « Un des
+qualificatifs les plus fàcheux que j'aie vu employer à notre
+époque est celui qui se trouve dans les vers suivants qu'un
+auteur » (le qadi Aboù 'Abdallah Elmeggâşi)  composa
+pour être gravés sur le pont de Sbou, que fit construire le
+sultan Moûlay Errechid ben Echchérîf :
+
+
+« Ce passage a été créé par le khalifa, qui est un roi
+véritable et non un roi dans le sens métaphorique. >>>
+
+
+<< Entraîné par la recherche de la rime, l'exagération
+de l'éloge et le fou désir d'être apprécié, cet écrivain
+donne à celui qu'il loue le titre roi véritable et non méta-
+phorique. Or ce titre ne peut revenir qu'à Dieu seul : tout
+autre roi que lui, celui qui est loué ici ou un autre, ne
+peut être appelé ainsi que par métaphore. »
+
+
+Le lundi 22 rejeb de la même année, Moûlay Errechîd
+fit une expédition contre Elabiod, dont il emprisonna les
+neveux, qu'il fit mettre à mort en revenant à Tâza. Atteint
+d'une grave maladie, et sur le point de succomber, le Sultan
+donna l'ordre d'élargir les prisonniers et de répandre des
+aumones; alors, grâce à Dieu, il recouvra la santé.
+
+
+Le 15 doûlqa da eut lieu le mariage de son frère Moû-
+lay Isma îl: les noces furent célébrées à Fès Eljedid à
+Dâr Ben Chegra; Moûlay Errechîd leur donna, suivant
+Elyéfréni, un éclat inaccoutumé. La fiancée était une jeune
+fille issue des princes saadiens.
+
+
+En chaouâl, le pont d'Erreşîf à Fès fut reconstruit. Dieu
+sait quelle est la vérité!
+
+
+Conquête de Târoûdânt, d'Ilig et de tout le Soûs 1.
+
+
+Comme nous l'avons vu, Boû Hassoûn Essémlali était
+maître du pays de Soûs, qu'il garda jusqu'à sa mort
+
+
+1. Texte arabe, IV partie, page 19.
+
+
+54
+
+
+ARCHIVES MAROCAINES
+
+
+(1070). Ce prince était clément et répugnait à verser le
+sang: aussi était-il très aimé. A sa mort, son fils Aboù
+Abdallah Mohammed ben Boù Hassoùn lui succéda.
+
+
+En 1081, Moùlay Errechid (Dieu lui fasse miséricorde !)
+fit une expédition dans le pays de Soùs. Il s'empara de
+Târoùdânt le 4 şafar. Il décima les Hestoùka, auxquels il
+tua plus de 1.500 hommes; il attaqua ensuite les gens du
+Sâḥel qui perdirent plus de 4.000 hommes; enfin, il enleva
+la forteresse d'Ilir, résidence de Boù Hassoùn, le 1er rabi Ier
+et tua plus de 200 hommes au pied de la montagne. Par
+cette expédition, il se rendit maitre du Soùs.
+
+
+Le 7 rabi Ier de la mème année, Moùlay Ismail, qui
+était représentant de son père à Fès, mit à mort 60 cou-
+peurs de routes des Oulad Djama , qu'il crucifia sur la
+muraille du Bordj Eljedîd.
+
+
+Dans le mois de djoumâda II, Moùlay Errechîd fit frapper
+les floûs de cuivre rond, qui remplacèrent la monnaie
+carrée appelée Elouchqoubiya. Le Sultan décida qu'il y
+aurait dorénavant 24 de ces floûs pour une mouzoûna, au
+lieu de 48.
+
+
+Rentré à Fès le 4 rejeb, Moùlay Errechîd fit entre-
+prendre, le $1^{er}$ chabân, la construction de la Mdersat
+Echcherrâţîn, à Dâr Elbâcha Azzouz, à Fès. Il avait déjà
+ordonné de construire une grande mdersa à côté de la
+mosquée du chéïkh Aboù 'Abdallah Mhammed ben Şâlah
+à Morrakch.
+
+
+Dieu ne prive pas de récompense celui qui a fait une
+bonne œuvre.
+
+
+Constitution du guéïch des Chrâga; leur origine; explication
+de leur dénomination¹.
+
+
+Au cours des événements relatifs à la dynastie des
+
+
+1. Texte arabe, IV partie, page 20.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+うう
+
+
+Saadiens, nous avons fait remarquer que le nom de Chraga
+était appliqué aux Arabs de la campagne de Tlemsén et à
+ceux qui s'étaient joints à eux, parce qu'ils se trouvaient
+à l'est par rapport à l'Extrême-Maġrib. De même pourquoi
+les gens de Tlemsen appellent Mâġrba les gens de l'Ex-
+trème-Magrib, et que ceux-ci les appellent au contraire
+Mchârga. Cependant, dans la langue vulgaire, ce mot
+devient Chraga, par la suppression du techdid dura,
+et la substitution du au
+
+
+Les Saadiens avaient eu, comme nous l'avons vu, un
+corps de troupes composé de ces Arabs. Nous avons dit
+qu'à l'avènement du Prince des Croyants, Moùlay Erre-
+chîd, les Arabs d'Anjad et ceux que nous avons déjà indi-
+qués étaient venus se placer sous son autorité, ainsi qu'un
+grand nombre de tribus de cette région, les unes arabes,
+les autres berbères, qui étaient soumises aux Turcs. Comme
+tribus arabes, il y avait des Cheja , des Beni 'Amér, et
+comme tribus berbères, des Medioùna, des Howâra et des
+Beni Snoùs.
+
+
+Moùlay Errechîd, qui avait accepté la soumission de ces
+tribus, ordonna la construction de la Qaşbat Eljedîda à
+Fès, sur l'emplacement des maisons de Lemtoùn et de la
+Arşat Ben Şalah. Il donna à ses gens et à ses qâïds
+1.000 mitsqâls pour l'édification de la muraille, et leur
+prescrivit de construire des maisons à l'intérieur de la
+qaşba. Il fournit également aux Chraga 1.000 dinars pour
+la construction de la Qaşbat Elkhamis, où ils vinrent
+habiter. Ils avaient été installés d'abord dans les envi-
+rons de Fès; mais les gens de la ville ayant eu à se
+plaindre des dommages qu'ils leur causaient, le Sultan leur
+avait ordonné de transporter leur campement sur les ter-
+ritoires de Şaddina et de Fichtâla, entre le Sbou et le
+Ouarga, dont il leur donna en fief les terrains. Il sépara
+ceux d'entre eux qui étaient célibataires et leur fit cons-
+
+
+56
+
+
+ARCHIVES MAROCAINES
+
+
+truire leurs maisons à part. Il réunit tous ces éléments en
+une seule tribu, où l'on ne distingue plus aujourd'hui les
+'Arabs des Berbers.
+
+
+Le 4 ramadan, Moûlay Errechîd alla en pèlerinage au
+tombeau du chéïkh Aboû Yazza; de là il se rendit à
+Salé, dont il visita les tombeaux de saints, et revint à Fès
+le 29 ramadan.
+
+
+Dans l'année suivante (1082), au cours du mois de şafar,
+le Sultan envoya de la cavalerie pour combattre les infi-
+dèles à Tanger, et un autre détachement, le 15 djoumâda II,
+dans le Soûs, sous la conduite de Aboû Mohammed
+ Abdallah $\hat{A}$. Parti ensuite à la chasse à Tafrâțâst, il
+apprit là que son neveu Moûlay Mhammed ben Mham-
+med s'était révolté à Morrâkch. 11 revint aussitôt à Fès, où
+il arriva le samedi 11 ramadân; il en repartit le même
+jour dans l'après-midi; arrivé à Fzâza, il rencontra ses
+gens qui lui amenaient son neveu prisonnier. Il le dirigea
+sur Tâfîlêlt et poursuivit sa route vers Morrakch. Pendant
+le mois de doûlqa'da il envoyait à Fès son qâïd Zéïdân
+El amri pour lui mener des troupes, en vue de les en-
+voyer au Soûs: mais les gens de ce pays étant venus
+faire leur soumission, il n'y avait plus lieu de leur envoyer
+une harka. Les troupes avaient déjà dressé leurs tentes sur
+les bords de l'Oued Fès.
+
+
+Les capitales du royaume étaient dès lors entre les
+mains de Moûlay Errechîd: la dynastie était définitive-
+ment établie.
+
+
+Mort du Prince des Croyants Moûlay Errechid
+(Dieu lui fasse miséricorde!) 1.
+
+
+Le Prince des Croyants, Moûlay Errechîd (Dieu lui fasse
+miséricorde !), resta à Morrakch jusqu'à la fête des sacri-
+
+
+1. Texte arabe, $IV^{e}$ partie, page 20.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+57
+
+
+fices de l'année 1082: le second jour de la fète, il était
+monté à cheval et fit galoper sa bête. Celle-ci s'emporta
+dans le jardin d'Elmserra; il ne put la maîtriser et fut atteint
+par une branche d'oranger à la tête, ou, suivant une autre
+version, à l'oreille, et mourut sur le coup. Dieu lui fasse
+miséricorde! Il fut enterré dans la qaşba de Morrâkch;
+son cadavre fut transporté plus tard à Fès, sur sa recom-
+mandation dernière, dans le tombeau du chéïkh Aboûlhasan
+ Ali ben Hirzihim.
+
+
+Il était âgé de 42 ans: il était né en 1040.
+Un poète dit, à l'occasion de cette mort:
+
+
+<< La branche de cet arbre n'a pas brisé le crâne de notre
+imâm par cruauté, ni par méconnaissance des devoirs de
+l'amitié ;
+
+
+<<< C'est seulement par jalousie de sa taille svelte, car
+parmi les arbres aussi il y a des envieux. »
+
+
+Le panégyrique d'un prince ne doit pas être fait dans
+une poésie de ce genre: le genre élégiaque convient
+mieux dans ce cas que le genre léger.
+
+
+Moûlay Errechîd avait échangé des lettres avec le
+chéïkh de l'époque, l'imâm Aboû Abdallah Mhammed
+ben Nâşer Edder'î (Dieu soit satisfait de lui!) et dans l'une
+d'elles lui avait adressé des menaces. Il mourut après cela
+et ce fut le chéïkh qui eut le dernier mot.
+
+
+Moûlay Errechîd a laissé certaines œuvres qui rappel-
+lent son souvenir. Ainsi, au cours d'une de ses expédi-
+tions, il fit construire dans le Dahra, dans la localité
+appelée Echchott, un grand nombre de puits qu'on appelle
+Abar Essoulțân (les puits du Sultan) en souvenir de lui, et
+qui servent à approvisionner d'eau la caravane du pèle-
+rinage. Cette œuvre sera placée, s'il plaît à Dieu, dans la
+balance de ses bonnes actions.
+
+
+Ce prince témoignait une grande affection aux savants;
+il les honorait, recherchait leur société et se montrait
+généreux à leur égard partout où il les rencontrait. On
+
+
+58
+
+
+ARCHIVES MAROCAINES
+
+
+raconte, comme fait curieux à cet égard, que le très docte
+Aboù Abdallah Mhammed Elmrabet ben Mhammed ben
+Boù Bkeur Eddilâï se trouvait un jour en présence du
+Sultan après la destruction de la Zaouya et l'exil de sa
+famille à Fès. Le Sultan, faisant allusion à ce savant, se
+mit à réciter ce vers d'Aboutțayyib Elmoutanabbi:
+
+
+<<< Une des ironies de ce monde est qu'un homme libre
+voit son ennemi et ne peut pas s'empècher de l'aimer
+sincèrement. >>>
+
+
+Aboù Abdallah Elmrâbeț comprit l'allusion et lui répon-
+dit: << Dieu fortifie le Prince des Croyants! C'est une bonne
+fortune pour un homme que d'avoir un adversaire intelli-
+gent. » Cette réponse impromptue fut fort goûtée par les
+assistants, qui admirèrent sa beauté et la délicatesse de
+son auteur.
+
+
+L'auteur du Kitâb Eljéïch raconte le fait suivant qui té-
+moigne de la simplicité de Moûlay Errechid quand il se trou-
+vait avec des savants. Il avait fait mander un savant de son
+temps pour lire un ouvrage avec lui. Ce savant refusa de
+revenir et répondit comme l'imâm Málék (Dieu soit satis-
+fait de lui !) : « On vient à la science, elle ne vient pas à
+vous. » Moùlay Errechîd se rendit souvent à la maison de ce
+savant et étudia sous sa direction. Selon l'auteur du Nachr
+Elmatsani, ce prince assistait aux leçons du chéïkh Elyoùsi
+à l'Université d'Elqaroùiyîn. Sa vertu était glorieuse et les
+souvenirs qu'il a laissés sont considérables, que Dieu ac-
+corde sa miséricorde aux hommes généreux qui traitent la
+science comme elle le mérite et qui en connaissent le prix.
+
+
+<< On raconte encore que, comme il était d'une grande
+libéralité, on venait à lui de tous côtés, et mème d'Orient
+et d'ailleurs. Un țâléb d'Alger, qui s'était rendu auprès
+de ce prince, en fit l'éloge dans le distique suivant :
+
+
+« Le fleuve de l'Euphrate a débordé dans toutes les
+<< contrées, répandant par tes mains la générosité comme
+<< une onde douce et pure;
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+69
+
+
+<<< Tout le monde y a puisé, et la misère, impuissante à
+<<< trouver son salut, a dù périr. >>>
+
+
+<< Moùlay Errechîd donna à ce țàléb une gratification
+de 2.050 dinars. Il serait impossible, dit Elyéfréni, de
+relever tous les actes de générosité de ce prince; d'ail-
+leurs, les anecdotes à ce sujet sont connues. Sous son
+règne, la science fut florissante; les savants jouirent de
+grands honneurs et de considération, la paix et l'abondance
+régnèrent partout. >>>
+
+
+Les vivres étaient à très bas prix. On va jusqu'à dire
+que le jour où il fut proclamé à Fès, le moudd de blé valait
+le matin 5 onces, tandis que, le soir, il ne valait plus qu'une
+demi-once; son règne fut une époque heureuse pour la
+population, qui la regretta. Dieu le sait mieux que nous.
+
+
+Règne du Prince des Croyants victorieux par Dieu Aboûnnaşr
+Moûlay Isma îl ben Echchérîf (Dieu lui fasse miséricorde!)¹.
+
+
+La nouvelle de la mort de Moulay Errechid (Dieu lui
+fasse miséricorde), qui survint à la date précitée, fut appor-
+tée à Méknásét Ezzéïtoùn, à son frère, qui était son khalifa
+pour la région du Garb. La population de la ville le
+proclama souverain et fut d'accord pour son avènement.
+Ensuite les notables, les savants et les chérifs de Fès
+vinrent lui apporter leur serment de fidélité. Toutes les
+villes et les campagnes du Garb lui envoyèrent des dépu-
+tations, pour lui apporter leurs présents et leur béïa, sauf
+Morrâkch et la région environnante, qui n'envoyèrent pas
+un seul délégué. Le Sultan demeura à Méknès pour rece-
+voir toutes les députations, et en profita pour y régler ses
+affaires. Il décida mème de s'y fixer d'une façon définitive,
+séduit qu'il était par l'eau et le climat de cette ville. C'est
+
+
+1. Texte arabe, IV partie, page 21.
+
+
+60
+
+
+ARCHIVES MAROCAINES
+
+
+du moins ce que rapporte le Boustan. D'après Aboû
+ Abdallah Elyéfréni, dans le Nozha, et suivant le récit à
+peu près semblable du Nachr Elmatsâni « la nouvelle de
+la mort de Moûlay Errechîd fut apportée à Moulay Ismâîl,
+qui était alors lieutenant du prince à Fès Eljedid, le mardi
+soir 15 du mois de doûlheddja 1082. On préta serment de
+fidélité à Moùlay Isma'il et tous les notables et saints per-
+sonnages du Magrib prirent part à cette cérémonie. Per-
+sonne ne fit d'opposition à la proclamation du nouveau
+souverain, car chacun reconnaissait que Moulay Ismâ  îl
+avait plus de droits et plus de titres que tous ceux qui
+auraient pu être ses concurrents. » Le prestige de ce
+prince fut augmenté par la présence et l'adhésion à sa béïa
+des savants et des chérîfs, arbitres des destinées de l'Em-
+pire, comme le chéïkh Aboû Mohammed Abdelqâder ben
+'Ali Elfèsi, le chéïkh Abou Ali Elyoûsi, Aboù Abdallah
+Mohammed ben 'Ali Elfilali, Aboûl abbas Ahmed ben Sa'id
+Elmguîldi, Aboû Abdallah Mohammed ben 'Abdelqader
+Elfèsi, son frère Aboù Zéïd: auteur du Nadm El'amal, le
+qâdi Boù Medien, et plusieurs autres hauts personnages.
+La proclamation eut lieu à deux heures de l'après-midi,
+le mercredi 16 doûlḥeddja précité, qui correspondait au 3
+(vieux style). Le prince avait alors 26 ans, car il était né en
+avril l'année de la bataille d'Elqâʻa, qui eut lieu, selon des
+historiens dignes de foi, en l'année 1056. La cérémonie du
+serment terminée, Moûlay Ismail se mit aussitôt en devoir
+d'exercer sa royauté et prit habilement la direction des
+affaires politiques.
+
+
+Révolte de Moûlay Aboûl abbas Ahmed ben Mahrez ben Echchérîf,
+et fin de ce dernier 1.
+
+
+Quand la nouvelle de la mort de Moûlay Errechîd par-
+
+
+1. Texte arabe, IV partie, page 22.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+61
+
+
+vint aux habitants de Sijilmasa, son neveu, Moulay
+Aboul'abbas Ahmed ben Mahrèz partit en toute hâte pour
+Morrakch, dans le but de s'emparer du pouvoir et de se
+faire proclamer. Des tribus, parmi lesquelles des groupes
+de  Arabs du Soûs, se joignirent à lui et lui permirent de
+s'emparer de cette contrée. Les habitants de Morrakch
+s'attachèrent aux rayons de son soleil : c'est pourquoi ils
+ne s'étaient pas rendus auprès du Prince des Croyants
+Moulay Isma îl. Aussitôt qu'il fut certain des agissements
+de Ben Mahrèz, il se mit en marche le 29 doùlheddja sur
+Morrakch. Arrivé devant cette ville, les habitants, et avec
+eux les tribus des environs, lui offrirent le combat; le
+Sultan engagea alors la bataille, fut vainqueur et entra de
+vive force dans Morrakch, le vendredi 7 şafar 1083. Il par-
+donne aux habitants; quant à Ben Mahrèz et à ses parti-
+sans, ils s'enfuirent épouvantés. Moùlay Ismail, à peine
+arrivé, fit transporter à Fès le corps de son frère Moùlay
+Errechîd, dans le cercueil où il avait été placé, et le fit en-
+terrer dans le mausolée du chéïkh Ben Hirziķim, comme
+nous l'avons vu. Il revint ensuite à Méknės, le 29 rabi Ier
+1083.
+
+
+Révolte des gens de Fès, qui tuent le qâïd Zéïdân et proclament
+Ben Mahrèz; siège de la ville par le Sultan 4.
+
+
+De retour à Méknès, le Prince des Croyants Ismail
+venait d'entreprendre l'organisation de son empire et de
+distribuer la solde aux troupes en vue d'une expédition
+dans la région du Şahara, quand il apprit que les gens de
+Fès s'étaient soulevés et avaient tué le qâïd du guéïch,
+Zéïdân ben Obîd El'âmri, dans la nuit du jeudi au ven-
+dredi 2 djoumâda $I^{er}$. Le Sultan vint aussitôt mettre le
+
+
+1. Texte arabe, IV partie, page 22.
+
+
+62
+
+
+ARCHIVES MAROCAINES
+
+
+siège devant la ville. Au bout de quelques jours de com-
+bat, les gens de Fès mandèrent à Moulay Ahmed ben
+Mahrèz de venir auprès d'eux, qu'ils le prendraient pour
+maître. Celui-ci arriva à Debdou, campa au bord de l'Oued
+Melouiya et envoya un courrier pour annoncer sa venue.
+Il fut aussitôt acclamé, le jeudi 20 djoumâda II, et, à la
+fin du mois, dix cavaliers furent envoyés à sa rencontre à
+Tâza. En même temps arrivait à Fès un courrier de Elkha-
+dir Géïlân annonçant qu'il était venu d'Alger par mer et
+avait débarqué à Tétouân, où la famille Ennaqsîs, qui était
+maîtresse de la ville, avait embrassé son parti. Les avis
+furent dès lors partagés, il en résulta de multiples causes
+de désordre, et le pays fut considérablement divisé; la
+révolution éclata. Un chérîf de la famille de Dâr Elguéï-
+toûn, Moûlay Ahmed ben Drîs, tua un des fils de Aboûr-
+rabi Slimân Ezzerhoûni, le révolté dont nous avons parlé
+précédemment. Ensuite, un individu du parti d'Ezzerhoûni
+tua à son tour Moûlay Hafid ben Dris, frère de ce chérîf;
+bref, il se passa des événements que je ne saurais rap-
+porter.
+
+
+Moûlay Isma'il, à la nouvelle de l'arrivée de Ben Mahrèz,
+avait marché sur Tâza avec ses troupes; il assiégea pen-
+dant des mois son compétiteur, qui s'enfuit jusqu'au Şahara.
+Quand il connut sa fuite, Moûlay Ismail se dirigea sur le
+pays d'Elhabt pour aller combattre Elkhadir Ġéïlân, qu'il
+atteignit et tua le lundi 20 djoumâda Ier 1084. Il revint
+ensuite à Fès Eljedid vers le milieu du mois suivant, et
+cerna la ville, sans provoquer au combat. A la fin, les habi-
+tants Grent leur soumission, ouvrirent la ville et se ren-
+dirent auprès du Sultan en lui manifestant leur repentir.
+Celui-ci leur pardonna (17 rejeb 1084). Leur révolte avait
+duré quatorze mois et huit jours. Le qâïd Aboûlbbas
+Ahmed Ettlemsâni fut nommé gouverneur de la vieille
+ville, et le vizir Aboû Zéïd Abderrahmân Elmenzari, gou-
+verneur de Fès Eljedîd.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+63
+
+
+Le Sultan partit pour Méknès, mais revint bientôt à Fès,
+où ses deux gouverneurs se livraient à toutes sortes d'in-
+justices, et avaient terrorisé le pays par le meurtre et les
+exactions. Il les destitua et retira également au fqih Aboû
+ Abdallah Elboû inani les fonctions de prédicateur d'Elga-
+rouiyîn, qu'il confia au qâdi Aboû Abdallah Elmeggâşi
+(fin de rejeb).
+
+
+Le Prince des Croyants, Moûlay Ismail, reconstruit Méknâsét
+Ezzéïtoûn et en fait sa capitale  .
+
+
+Méknásét Ezzéïtoûn est une des plus anciennes villes du
+Magrib: elle fut construite par les Berbers avant l'Islâm.
+Dès le début de la dynastie des Moûwahhidin, les princes
+de cette famille avaient assiégé cette ville, mais ils n'avaient
+pu s'en emparer qu'au bout de sept ans, vers le milieu du
+sixième siècle. Ils détruisirent la ville, puis édifièrent la
+nouvelle Méknės, appelée Tâgrârt, ce qui signifie le cam-
+pement. Les Beni Mrîn, après eux, s'intéressèrent à cette
+cité et y bâtirent la qaşba. Ils y fondèrent également des
+mosquées, des mdersas, des zâouyas et des caravansé-
+rails. Elle était alors la résidence des vizirs, tandis que Fès
+Eljedid était celle des émirs.
+
+
+Méknės est unique pour l'excellence de son terroir, la
+douceur de son eau, la salubrité de son air; de plus, les
+provisions ne s'y gâtent pas. Ibn Elkhatib en a fait la des-
+cription dans plusieurs passages de ses ouvrages, notam-
+ment dans les livres intitulés Ennafâda et Elmaqâmât. Il
+l'a chantée en vers et en prose, et a cité ces vers d'un de
+ses habitants, Ibn Abdoûn :
+
+
+<< Si Fès peut s'enorgueillir de ce qu'elle renferme et de
+la beauté de son aspect,
+
+
+1. Texte arabe, IV partie, page 23.
+
+
+64
+
+
+ARCIIIVES MAROCAINES
+
+
+<< Méknès et sa ceinture la valent bien, car elle possède
+les deux choses les meilleures: son air et son eau. >>>
+
+
+Aussi le Prince des Croyants, Moulay Ismà  îl (Dieu lui
+fasse miséricorde!) ne voulait pas l'échanger contre une
+autre ville, et, dès qu'il eut terminé les affaires de Fès, il
+vint s'y établir et entreprit aussitôt la construction de ses
+palais. Il commença par abattre les maisons contiguës à la
+qaşba et contraignit les propriétaires à en transporter les
+décombres et, ayant fait élever une muraille sur le côté
+ouest de la ville, à bâtir leurs maisons à l'intérieur de
+ladite muraille. La partie orientale de la medîna fut égale-
+ment détruite, et l'emplacement ainsi obtenu servit à
+agrandir l'ancienne qaşba et à en dégager les abords. Le
+tout fut transformé en une seule qaşba. Il construisit la
+muraille de la ville, qui fut séparée de la qaşba. Il fit tra-
+vailler sans interruption, aux constructions, des ouvriers
+qu'il fit venir de toutes les villes du Maġrib; mais, comme
+il trouvait qu'il n'en avait pas encore assez, il obligea les
+tribus à lui fournir à tour de rôle, chaque mois, un nombre
+déterminé de travailleurs et de mules; les villes qui devaient
+fournir également des ouvriers et des artisans spéciaux
+envoyèrent de même un nombre déterminé de maçons, de
+menuisiers, etc. Moûlay Isma îl fit encore édifier la Grande
+Mosquée qui se trouve à l'intérieur de la qaşba et qui
+avoisine le qaşr ennşar, bâti par lui sous le règne de son
+frère Moûlay Errechîd (Dieu lui fasse miséricorde!) II fonda
+ensuite Eddar Elkoubra (grand Palais), qui se trouve près
+du mausolée du Chéïkh Elmejdoûb.
+
+
+Il continua à planter et à bâtir à Méknès pendant plu-
+sieurs années; nous rapporterons cela en son lieu et place,
+si Dieu le veut.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+65
+
+
+Arrivée à Morrâkch de Moûlay Ahmed ben Mahrez, qui prend la
+ville; le Sultan se met en route pour aller l'y assiéger 1.
+
+
+Pendant que le sultan Moûlay Ismail était à Méknès, en
+l'année 1085, il reçut la nouvelle de la prise de Morrakch
+par son neveu Moulay Ahmed ben Mahrèz. Il se préparait
+alors à se rendre dans le pays anjâd, où il avait appris que
+les Arabs de cette région se livraient au brigandage et
+coupaient les routes. Cette nouvelle ne l'empêcha point de
+marcher contre eux: il revint victorieux et fortifié après
+avoir surpris les Sgoùna, qu'il pilla, et auxquels il tua un
+grand nombre d'hommes. Puis, après avoir terminé ses
+préparatifs de guerre contre Ben Mahrèz, il partit, à la tête
+de ses troupes, par la route de Tâdla. Les deux armées se
+rencontrèrent à Bon  Aqba, sur l'Oued Elabid, où le
+combat s'engagea. Ben Mahrèz fut vaincu et s'enfuit à
+Morrakch; Hida Ettouîri, chef de ses troupes, fut tué. Le
+sultan Moûlay Ismail poursuivit son adversaire jusqu'à
+Morrakch, où il l'assiégea au commencementdel'année 1086.
+Là, ayant acquis la certitude de la trahison de certains
+personnages de sa mhalla, comme le chéïkh Omar Elbe-
+țoûi, et son fils, Abdallah $\dot{\Lambda}$ et ses frères, qui étaient
+les généraux de son armée, il les fit étrangler, et envoya
+l'ordre d'arrêter et de mettre à mort les gens de leurs
+familles qui étaient demeurés à Fès; leurs maisons et leurs
+biens furent confisqués.
+
+
+Au mois de rabi II 1087, le siège de Morrakch durait
+encore; le Sultan le resserra davantage et s'approcha, avec
+ses troupes, jusque sous les murs de la ville. Une grande
+bataille fut livrée et les deux partis perdirent un nombre
+d'hommes incalculable. Ben Mahrèz, bloqué à l'intérieur
+de la ville, dut continuer le combat du haut des murailles.
+
+
+1. Texte arabe, $IV^{\circ}$ partie, page 23.
+
+
+ARCH. MAROC.
+
+
+5
+
+
+66
+
+
+ARCHIVES MAROCAINES
+
+
+Mais le 2 rabi II 1088, Ben Mahrez, qui se trouvait dans
+l'impossibilité de soutenir le siège plus longtemps, s'enfuit
+de Morrakch, accompagné des quelques fidèles que la
+guerre lui avait laissés, et le sultan Moulay Ismail entra
+de vive force dans la ville, qu'il livra au pillage; sept des
+principaux chefs furent mis à mort et trente d'entre eux
+eurent les yeux brûlés.
+
+
+La révolte était ainsi apaisée et les jours d'épreuves
+étaient passés.
+
+
+Formation du « guéïch » Eloûdêya, ses diverses fractions
+et leurs origines  .
+
+
+Ce guéïchst un des plus importants de cette dynastie
+chérifienne (Dieu maintienne ses mérites et étende sur le
+pays et sur ses serviteurs sa fortune et sa justice!) Il se
+divise en trois rehas: le reha des Ehl Soùs; le reha d'El-
+mġâfra et celui d'Eloûdèya. Le nom d'Oùdèya est donné
+collectivement à tout le guéïch.
+
+
+Les Ehl Soûs sont composés des tribus suivantes: Ou-
+lâd Jerrar, Oulad Mța, Zirarà, Echchebanat, qui sont
+toutes des tribus de Arabs Maʻqil et composaient autre-
+fois l'armée de la dynastie saadienne. Les princes de cette
+famille les convoquaient avec leurs campements quand ils
+avaient des expéditions à effectuer, suivant une habitude
+qu'ils avaient prise à l'époque où ils résidaient encore dans
+le Şahara.
+
+
+Ensuite, ils les installèrent dans la plaine d'Azgâr:
+c'était pour faire pièce aux Arabs Djochém d'Elkhlot et de
+Sefiân. Les Khloț avaient été les soutiens des Beni Mrîn
+auxquels ils étaient unis par des alliances; ils n'avaient
+pas voulu reconnaître la dynastie saadienne, et avaient pro-
+
+
+1. Texte arabe, IV partie, page 24.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+67
+
+
+fité des périodes de relâchement de son autorité, pour
+tâcher de se soustraire à son pouvoir. Pour les contenir
+sur leur territoire et les tenir toujours occupés, le sultan
+Mohammed Echchéïkh Essa'di, leur avait envoyé ces tri-
+bus Maʻaqil, avec lesquelles ils furent toujours en lutte,
+ceux-ci triomphant de ceux-là, et réciproquement. Enfin,
+Elmanşoûr Essa'di porta au Khlot le dernier coup dans
+l'affaire bien connue et les raya des registres de ses
+troupes. Il transporta alors les Oulad Mța à Zobéïda, près
+de Tâdla.
+
+
+Plus tard, quand la dynastie saadienne fut sur le point de
+disparaître, les Chebânât profitèrent de leur parenté col-
+latérale avec les fils du sultan Zéïdan pour s'emparer du
+pouvoir, et une fraction de cette tribu se déclara indépen-
+dante à Morrakch, comme nous l'avons vu; une autre,
+commandée par Aboû Abdallah Eddoridi, se révolta à Fès
+Eljedîd et prit la ville.
+
+
+Enfin, Moûlay Ismail transporta les Chebanat à Oujda
+comme nous allons le dire, et les mélangea avec les Mġà-
+fra et les Oûdêya qui avaient la même origine qu'eux,
+pour en faire un seul guéïch. Telle fut l'origine des Ehl
+Soûs.
+
+
+Pour les Mġafra, nous indiquerons plus loin dans
+quelles conditions ils entrèrent en rapports avec Moulay
+Ismâîl, et devinrent ses alliés par le sang.
+
+
+Quant aux Oûdêya, voici comment ce prince les groupa
+et les incorpora dans l'armée. Moulay Ismail (Dieu lui
+fasse miséricorde !) venait de prendre pour la seconde fois
+Morrakch d'où Ben Mahrèz s'était enfui épouvanté. Il chas-
+sait quelques jours après dans la plaine appelée Elbahira,
+dans les environs de la ville, lorsqu'il remarqua un 'Arab
+qui paissait ses moutons, et qui, avec un couteau $(chefra).$,
+coupait des branches de jujubier pour donner leurs feuilles
+à manger à son troupeau. « Amenez-moi l'homme au cou-
+teau (Boûch-chefra)! » dit-il à ses gardes. On s'empressa
+
+
+68
+
+
+ARCHIVES MAROCAINES
+
+
+d'aller le chercher cet homme, et on l'amena en présence
+du Sultan, qui se mit à l'interroger. Cet homme se déclara
+originaire de Quadi, tribu de la souche des Arabs Maʻqil
+du Şahara qui avait quitté le Sud, chassée par la disette.
+<< Nous sommes venus d'abord dans le Soûs, ajouta-t-il, en
+très grand nombre, et là nous nous sommes dispersés;
+chaque groupe s'est dirigé vers une tribu et s'est installé
+chez elle. Nous, nous habitons avec les Chebânât. »
+<<<< Comment, lui dit le Sultan, vous êtes mes oncles mater-
+nels, vous avez entendu parler de moi et vous n'êtes pas
+venus me voir! Eh bien, désormais, toi, tu seras mon pro-
+tégé ! Va reconduire tes moutons à ta tente et reviens me
+voir à Morrakch. » II recommanda à quelqu'un de l'intro-
+duire auprès de lui quand il se présenterait.
+
+
+Effectivement, quelques jours après, Boûch-chefra venait
+voir le Sultan, qui lui fit cadeau d'un vêtement et d'une
+monture, et envoya avec lui des cavaliers pour réunir ses
+contribules dans toutes les tribus du Hoûz.
+
+
+Boûch-chefra groupa tous ceux qu'il put trouver, et les
+amena au Sultan, qui les inscrivit dans les Diouân et leur
+donna des vêtements et des chevaux. Peu de temps après
+il les envoya avec leurs familles pour résister à Mékná-
+sét Ezzéïtoûn, résidence royale et siège du khalifat. Un
+autre groupe vint ensuite: Moûlay Ismâ'il l'inscrivit éga-
+lement dans le Dîouân et, après l'avoir traité avec la plus
+grande générosité, lui assigna comme résidence le quar-
+tier de Méknès appelé Erriyâd, dans le voisinage de la
+qaşba. Il leur donna l'ordre d'y construire leurs maisons,
+et gratifia leurs chefs et les principaux d'entre eux des
+revenus des zâouyas qui n'ont pas à payer d'impôts comme
+les tribus.
+
+
+Un troisième groupe se présenta à son tour, venant du
+Sud, il fut inscrit et traité comme ceux qui l'avaient pré-
+cédé.
+
+
+Quand Moûlay Ismail déplaça plus tard les Zirara et les
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+69
+
+
+Chebânât qui étaient à Fès Eljedîd avec Eddoridi, il les fit
+également venir à Méknès pour rejoindre leurs contri-
+bules.
+
+
+Les Oùdêya d'Erriyâd furent ensuite partagés en deux
+sections: l'une fut envoyée pour tenir garnison à Fès Elje-
+dîd, sous le commandement du qâïd Aboù Abdallah Mo-
+hammed ben Ațiya Eloùdèyi; l'autre fut maintenue à
+Méknès, et placée sous l'autorité du qâïd Aboulhasan Ali,
+surnommé Boùch-chefra.
+
+
+Ces deux chefs commandèrent tour à tour ces deux sec-
+tions: finalement, Boùch-chefra demeura à Fès, et Ben
+Ațiya à Erriyâd.
+
+
+Quant aux Arabs Elkhlot, qui s'étaient dispersés dans
+les tribus après avoir été décimés par Elmansour Essa di,
+et qui étaient devenus à charge aux autres, ils profitèrent
+de la décadence de la dynastie saadienne pour se réunir et
+revenir à Aziar, dont ils s'emparèrent. Là, ils se raffermi-
+rent, se repeuplèrent et s'enrichirent : ils arrivèrent à pos-
+séder des armes et des chevaux en grande quantité. Mais
+Moûlay Isma îl (Dieu luifasse miséricorde !) les leur enleva,
+comme il fit à toutes les autres tribus du Magrib, et les
+frappa d'impositions. Sous le règne de feu le sultan Moù-
+lay Mohammed ben Abdallah, ils reprirent de l'impor-
+tance. Ils lui fournissaient des soldats pour ses expé-
+ditions, lui payaient les zekât et les achour qui leur
+revenaient; il en fut ainsi pendant le règne de son fils,
+Moùlay Slimân, et celui de son petit-fils, Moûlay 'Abder-
+rahmân ben Hicham (Dieu lui fasse miséricorde!) De nos
+jours, ils comptent parmi les tribus qui payent les contri-
+butions, de même que les tribus du Hoûz qui sont issues
+des Arabs Maʻqil.
+
+
+Dieu dirige les affaires de ses serviteurs; ses juge-
+ments sont sans appel; scs sentences doivent être exécu-
+tées.
+
+
+70
+
+
+ARCHIVES MAROCAINES
+
+
+Révolte des Berbers, partisans des Dilâïs qui se réunissent autour
+d'un des membres de cette famille, Ahmed ben 'Abdallâh; le
+Sultan les réduit  .
+
+
+Pendant que le sultan Moûlay Ismân îl (Dieu lui fasse mi-
+séricorde!) était encore à Morrakch, après la fuite de Moù-
+lay Ahmed ben Mahrèz, il apprit que les Berbers Şenhaja
+s'étaient rassemblés autour de Ahmed ben Abdallah Ed-
+dilâï, et venaient attaquer les tribus arabes de leur voisi-
+nage depuis le Tâdla jusqu'à Sâïs. Il envoya une armée au
+Tâdla pour soutenir les habitants de ce pays contre les
+Berbers, mais ceux-ci les mirent en déroute, tuèrent
+Ikhlef, se livrèrent au pillage et s'emparèrent du Tadla.
+Une seconde armée, composée de 3.000 cavaliers, et com-
+mandée par Ikhléf, fut également défaite par les Berbers
+qui mirent à mort Ikhlêf et pillèrent son campement. Un
+troisième corps de troupes eut le sort des deux pre-
+miers.
+
+
+Pendant ce temps, le sultan de Morrâkch, qui surveillait
+Ben Mahrez dans le Soùs, apprenait que son frère, Moûlay
+Hammada, s'était révolté dans le Şahâra et faisait la guerre
+à un autre agitateur, son frère Moûlay Mahrèz, père de
+Moûlay Ahmed du Soûs. Néanmoins, allant au plus pressé,
+il vint faire la guerre aux Berbers du Tâdla, dans la
+crainte que la plaie faite à la dynastie ne s'étendit. Il
+trouva là son frère Moûlay Elharrân, qui venait lui deman-
+der son secours contre Hammada. Il s'avança contre les
+Berbers, les tailla en pièces et fit couper sept cents têtes
+de vaincus qu'il envoya porterà Fès par Abdallah ben Ham
+doûn Erroûsi. Le Nachr Elmatsani dit que 3.000 Berbers
+furent tués ce jour-là. La ville fut pavoisée et on tira des
+salves d'artillerie: ce fut un jour de fête. Après la bataille,
+
+
+1. Texte arabe, IV partie, page 25.
+
+
+DYNASTIE ALAOLIE DU MAROC
+
+
+71
+
+
+Moûlay Elharrân avait quitté le camp du Sultan, et s'était
+enfui dans la direction du Şahara: Moûlay Ismâ'il retourna
+à Méknès et y arriva vers le milieu de chouwâl 1088.
+
+
+Peu de jours après, le qadi de Fès, Aboù Abdallah
+Elmeggâşi, fut destitué et remplacé par le fqih scrupu-
+leux Aboû Abdallah Mohammet El arbi Bordala. 'Abdal-
+lâh Erroûsi fut chargé de la perception des taxes et
+des contributions, et son père Hamdoûn, des successions
+vacantes.
+
+
+Le Sultan ordonna également de mettre à mort les gens
+de Tétouân, au nombre de vingt, qui étaient enfermés dans
+la prison de Fès: leurs tètes furent tranchées et suspen-
+dues aux murs de la ville. Ensuite Moûlay Elharrân, ayant
+été ramené du Şahara, chargé de chaînes, fut conduit en
+présence de Moûlay Ismail: celui-ci eut pitié et le fit
+mettre en liberté il lui donna des cavaliers et lui attribua
+des villages du Şahara, afin qu'il pût subvenir à ses besoins,
+et le congédia.
+
+
+Reconstruction de la capitale de Méknâsét Ezzéïtoûn¹.
+
+
+Le sultan Moûlay Isma îl continua son séjour à Méknės,
+s'occupant de surveiller lui-même la construction de ses
+palais; à peine en avait-il terminé un qu'il en commen-
+çait un autre. Comme la mosquée de la qaşba n'était plus
+assez spacieuse, il en fit édifier une nouvelle, la mosquée
+verte (Eljama Elakhedar), dont les deux portes ouvraient,
+l'une sur la qaşba, l'autre sur la ville. Cette qaşba fut per-
+cée de vingt portes voûtées très larges et très élevées,
+surmontées chacune d'une vaste batterie armée de canons
+de bronze d'un fort calibre et de mortiers de guerre de
+formes effrayantes, tout à fait surprenantes. A l'intérieur,
+
+
+1. Texte arabe, IVe partie, page 25.
+
+
+72
+
+
+ARCHIVES MAROCAINES
+
+
+il fit établir une immense pièce d'eau, sur laquelle pou
+vaient circuler des canots et des embarcations de plai-
+sance. Il ordonna également la construction dans la qaşba
+d'un grenier (heri) à provisions pour le blé et les autres
+grains, dont les angles formaient voûte, et qui pouvait
+contenir les grains de tous les habitants du Magrib. Dans
+le voisinage, étaient des conduites d'eau très profondes et
+recouvertes de voûtes. Tout en haut de la qaşba fut bâtie
+une grande batterie circulaire, d'où les canons pouvaient
+tirer dans toutes les directions.
+
+
+Dans la qaşba fut également construite une vaste écu-
+rie (iştabl) pour ses chevaux et ses mules: elle avait une
+parasange de longueur et de largeur. Les côtés suppor-
+taient le toit, qui était en forme de berceau et reposait sur
+des portiques et des arcs immenses, dans chacun desquels
+il y avait place pour un cheval. Entre chaque animal il y
+avait une largeur de 20 empans. Dans toute l'écurie, on
+pouvait attacher, dit-on, 12.000 chevaux. Pour chaque bête,
+il y avait un palefrenier musulman qui était servi par un
+garçon d'écurie pris parmi les captifs chrétiens. Tout au-
+tour de l'écurie, coulait une rigole d'eau recouverte de
+maçonnerie, dans laquelle était pratiquée, devant chaque
+cheval, une ouverture en forme de réservoir pour lui per-
+mettre de boire. Au centre du bâtiment, se trouvaient
+des constructions voûtées pour remiser les selles des che-
+vaux. Un grand grenier carré et en forme de dome, cons-
+truit avec des portiques et des arcs, était destiné à rece-
+voir les armes des cavaliers qui montaient les chevaux; la
+lumière y pénétrait par des grillages en fer établis sur les
+quatre faces du bâtiment; chaque grillage pesait plus d'un
+quintal. Sur ce grenier était élevé un palais appelé Elman-
+sour, qui atteignait la hauteur d'au moins 100 coudées,
+50 en bas et 50 en haut. Il contenait 20 pavillons, dans
+chacun desquels était une fenêtre munie d'un grillage de
+fer d'où l'on avait vue sur la ville tout entière d'une col-
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+73
+
+
+line à l'autre. Ces pavillons étaient voûtés en berceau et
+couverts en tuiles. Ce palais possédait encore 4 pavillons
+en faisant face et ayant 70 empans dans toutes leurs dimen-
+sions: les 20 autres étaient de 40 empans seulement. A
+côté de cette écurie, était un jardin ayant à peu près la
+même étendue, et dans lequel étaient plantés des oliviers
+et des arbres fruitiers de toutes sortes: il avait une para-
+sange de longueur et 2 milles de largeur. Entre ces palais
+construits dans la qaşba, s'entrecroisaient des rues lon-
+gues et larges, et de grandes portes séparant les quar-
+tiers entre eux; de plus, il y avait, de chaque côté, de
+grandes places carrées, où le mechouar pouvait se tenir. I1
+y avait encore bien d'autres choses, qu'on ne saurait dé-
+crire.
+
+
+« Nous avons visité, dit l'auteur d'Elbouslân, les ruines
+de l'Orient et de l'Occident, dans le pays des Turcs et
+celui des Grecs; nous n'avons jamais rien vu de pareil, ni
+parmi leurs constructions actuelles, ni dans celles de
+leur passé. Les constructions réunies des princes de dynas-
+ties islamiques ne pourraient égaler celles qu'a édifiées le
+glorieux sultan Moûlay Ismâîl dans la qaşba de Méknės,
+sa capitale. Elles subsistent, malgré le temps, solides
+comme des montagnes, sans avoir eu à souffrir des vents
+furieux, des pluies abondantes, de la neige ou des trem-
+blements de terre qui détruisent les plus grands bati-
+ments et les temples les plus massifs. » Depuis la mort de
+Moùlay Ismail, les rois, ses fils et ses petits-fils, détrui-
+sent ces palais, dans la mesure du possible, et utilisent
+ encore jusqu'à nos jours les matériaux qu'ils en extraient,
+comme le bois, les carreaux de faïence, le marbre, les
+briques, les tuiles, les métaux, etc. Ces matériaux ont servi
+à construire des mosquées, des mdersas et des casernes
+dans toutes les villes du Maroc. En cent ans, on n'a pas
+encore démoli la moitié des bâtiments. Quant aux murs
+de ces palais, ils sont encore debout, tels d'altières mon-
+
+
+74
+
+
+ARCHIVES MAROCAINES
+
+
+tagnes, et tous les ambassadeurs tures ou chrétiens qui
+errent dans ces ruines s'étonnent de leur grandeur; ils se
+refusent à croire que ce soit une œuvre humaine, qu'on ne
+pourrait pas évaluer en numéraire.
+
+
+Création du « guéïch  des 'Abids d'Elbokhari; son origine
+et explication des noms qui lui furent donnés 1.
+
+
+Ce guéïch est un des plus importants de cette dynastie
+fortunée. Les raisons pour lesquelles il fut créé sont expli-
+quées en détail dans un cahier du fqîh distingué Aboûl-
+abbas Ahmed Elyaḥmédi, qui fut secrétaire et grand-vizir
+de la dynastie ismailienne. « Lorsque, dit-il, le sultan
+Moûlay Ismail ben Echchérif entra pour la première fois
+à Morrakch dont il venait de s'emparer, il choisit ses sol-
+dats parmi les tribus libres, comme nous l'avons vu. Un
+jour, le secrétaire Aboû Hafs Omar ben Qâsém Elmor-
+râkchi, surnommé Alilich, vint le trouver. Il appartenait
+à une ancienne famille de fonctionnaires, et son père avait
+été secrétaire d'Elmansoûr Essa di et de ses enfants.
+Aboû Hafs entra au service de Moûlay Ismâîl et lui pré-
+senta un registre sur lequel figuraient les noms de tous
+les esclaves noirs (Abids) qui avaient fait partie de l'armée
+d'Elmanșoûr. Le Sultan lui ayant demandé s'il restait
+encore quelques-uns de ces nègres, il lui répondit qu'il y
+en avait encore beaucoup qui étaient disséminés avec leurs
+enfants à Morrakch, dans les environs, et dans les tribus
+du Dîr, et proposa au Sultan de les lui réunir. Moûlay.
+Ismail le chargea de cette mission, et écrivit aux gouver-
+neurs des tribus pour les inviter à le seconder et à lui
+prêter leur appui dans l'œuvre qu'il allait entreprendre.
+'Alîlîch se mit à la recherche des nègres qui se trouvaient
+
+
+1. Texte arabe, IVe partie, page 26.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+75
+
+
+dans la ville. Il se rendit ensuite dans les tribus du Dir et
+rassembla tous ceux qu'il y découvrit. Il partit de là chez
+les tribus du Hoûz, s'enquit de tous les negres qui vivaient
+chez elles, et finit par ne pas y laisser un seul nègre, ni
+un seul hartani, esclave ou libre. Il remplit si bien sa mis-
+sion qu'en une seule année il avait réuni 3.000 nègres,
+mariés ou célibataires. Il les inscrivit sur un registre qu'il
+envoya au Sultan à Méknès. Celui-ci compulsa ce regis-
+tre, qui lui plut tellement qu'il écrivit à Alilich d'ache-
+ter des négresses pour les célibataires, de payer le prix
+des esclaves à leurs maîtres, de les habiller sur le produit
+des terres de Morrakch et de les lui amener à Méknès.
+'Alîlich se mit activement à cette tâche, et acheta toutes
+les négresses qu'il put trouver, et réunit toutes les femmes
+hartânies qui étaient nécessaires, leur donna des vête-
+ments et chargea les tribus de les transporter jusqu'à la
+capitale. Elles furent ainsi conduites de tribu en tribu
+jusqu'à Méknès. Le Sultan donna des armes à tous ces
+nègres et leur nomma des qâïds, puis il les envoya dans
+la localité appelée Elmhalla, près de Mechra Erremla,
+dans la région de Salé.
+
+
+<<< Ensuite il ordonna à son secrétaire Aboù Abdallah
+Mohammed ben Elayyachi Elméknėsi de se rendre dans
+les tribus du Garb et des Beni Hsen, et d'en ramener
+tous les nègres qu'il y trouverait. Il devait emmener ceux
+qui n'avaient pas de maître, et prendre à leur maître ceux
+qui étaient esclaves et lui en payer le prix. Ce secrétaire
+se mit en route, et parcourut toutes les tribus en s'infor-
+mant des nègres.
+
+
+« Le Sultan avait écrit également aux gouverneurs de
+toutes les villes, comme Fès, Méknès, etc., de lui acheter les
+nègres et les négresses à raison de 10 mitsqals par homme
+et de 10 mitsqals parfemme. Ces ordres furent exécutés,
+si bien qu'il n'y eût plus personne qui possédât un nègre
+ou une négresse. Les gouverneurs rassemblèrent ainsi
+
+
+76
+
+
+ARCHIVES MAROCAINES
+
+
+3.000 autres nègres, que le Sultan envoya, après les avoir
+armés et habillés, à Elmhalla, sous le commandement de
+leurs qâïds.
+
+
+<< Ben El'ayyachi revint à son tour: il rapportait un
+registre où étaient inscrits 2.000 Abids, mariés ou céliba-
+taires. Des ordres furent également envoyés au qâïd
+Aboûlhasan Ali ben  Abdallah Errîfi, gouverneur de la
+région d'Elhabt. Il devait acheter à Tétouân des né-
+gresses pour les célibataires, les habiller, donner aux
+hommes des armes, leur désigner des chefs, et enfin les
+envoyer à Elmhalla. Les premiers 'Abids qui se fixèrent à
+cet endroit finirent par être au nombre de 8.000.
+
+
+<<< Le Sultan obligea ensuite les tribus de Tâmesna et de
+Doûkkâla à lui amener les Abids du Maklyen qui se trou-
+vaient chez elles. Elles ne purent qu'obéir, réunirent tous
+les esclaves qui vivaient au milieu d'elles, en achetèrent
+d'autres, leur donnèrent des chevaux, des armes et des
+vêtements, et les lui envoyèrent. Ces deux provinces four-
+nirent chacune 2.000 'Abids. Le Sultan les installa d'abord
+à Qujéh 'Aroùs, près de Méknès; plus tard, il fit cons-
+truire la qaşba d'Adékhşân, qu'il assigna comme rési-
+dence aux Abîds de Doûkkâla; quant aux Abids de Ta-
+mesna, il les établit à la Zâouyat Eddila.
+
+
+<< Dans l'année 1089, Moûlay Ismail fit une expédition
+dans le Şahâra de Soùs, et s'avança par Aqqa, Tâța, Tassint
+et Chenguît, jusqu'aux confins du Soudan. Il y reçut les
+députations de toutes les tribus arabes Maʻqil de cette
+région, du Sahel et du Sud, Dlim, Barboùch, Elmġafra,
+Quadi, Mțâ , Jerrâr, qui lui apportèrent leur soumission.
+A la tête de ces députations se trouvait le chéïkh Bekkår
+Elmġafri, père de la noble dame Khenâtsa, mère du sultan
+Moulay Abdallah ben Ismail. Ce chéïkh offrit sa fille au
+Sultan: elle était belle, instruite et bien élevée. Moûlay
+Ismâ 'îl l'épousa et en eut des enfants. Il ramena également
+de son expédition dans ces régions 2.000 Harrațîn avec
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+77
+
+
+leurs enfants. Le Sultan, après les avoir habillés et armés à
+Morrakch, leur donna des chefs et les envoya à Elmhalla.
+Puis rentra à son tour dans sa capitale de Méknès.
+
+
+<<<< L'armée bokharie compta alors 14.000 hommes, dont
+10.000 à Mechra Erremla, et 4.000 à Adékhsân et dans
+les pays berbers voisins. Ces Abîds se multiplièrent au
+point qu'à la mort de Moùlay Ismail, ils étaient au nom-
+bre de 150.000, comme nous le verrons plus loin, s'il
+plait à Dieu. »
+
+
+Au cours de ce récit, nous avons employé le mot de
+Hartani $s^{ilb}>$ qui signifie, dans la langue courante de
+Magrib, affranchi. Cette expression vient de : الحر الثاني
+(Elhorr Eltsâni) l'homme libre de deuxième catégorie, par
+opposition à l'homme d'origine libre, qui serait l'homme
+libre de première catégorie. Cet affranchi est donc un
+حرثان horr tsani): mais ces mots, en raison d'un long
+usage, se sont transformés en حرطانی hartani par sup-
+pression du redoublement du râ.
+
+
+Voici maintenant pourquoi ce corps a reçu le nom de
+guéïch des Abids d'Elbokhari.
+
+
+Quand il eut fini de réunir ces esclaves noirs, Moûlay
+Ismail (Dieu lui fasse miséricorde!) avait réussi dans
+son projet qui était de les avoir comme soutien, au lieu
+de se servir tour à tour d'une tribu pour triompher de
+l'autre. Il rendit grâces à Dieu et lui rapporta ce succès.
+Puis il convoqua les principaux chefs des Abids, et ayant
+fait apporter un exemplaire du Sahih d'Elbokhari, il leur
+dit : « Vous et moi, nous sommes les esclaves (Abids) de la
+loi traditionnelle du Prophète de Dieu (sur lui soient les
+prières et le salut de Dieu!) et de sa loi sainte contenue
+toute entière dans ce livre. Tout ce qu'elle nous ordonne
+nous le ferons, et tout ce qu'elle nous défend, nous nous
+en abstiendrons: c'est pour elle que nous combattrons. >>>
+Les Abids lui prêtèrent serment d'observer les prescrip-
+
+
+78
+
+
+ARCHIVES MAROCAINES
+
+
+tions du livre; ils reçurent l'ordre de conserver précieu-
+sement cet exemplaire, de le transporter avec eux quand
+ils monteraient à cheval et de le porter en avant dans
+leurs guerres, comme l'arche d'alliance des fils d'Israël.
+Cet usage est encore suivi de nos jours.
+
+
+Voilà pourquoi on les a appelés les  Abids d'Elbo-
+khari.
+
+
+Mais, dit l'auteur d'Elboustân, il advint des troupes d'El-
+bokhari sous les successeurs de Moûlay Ismail, ce qui
+advint des Turcs, avec les successeurs d'Elmo'taşim ben
+Errechid El abbasi. Ils finirent par être les maitres; ils
+nommèrent les gouverneurs et répandirent le sang, jus-
+qu'au jour où, les desseins de Dieu à leur sujet s'exécu-
+tant, ils se disloquèrent et se dispersèrent de tous côtés. Le
+défunt Sultan, Moùlay Mohammed ben  Abdallah, les réu-
+nira de nouveau, mais, dès qu'ils auront augmenté en
+nombre, ils se révolteront contre Moûlay Yazîd, et se
+livreront aux mêmes actes que par le passé, ainsi que
+vous l'apprendrez bientôt, s'il plaît à Dieu.
+
+
+Expédition du Prince des Croyants, Moûlay Ismail, dans la région
+du Cherg; conclusion de la paix entre lui et le gouvernement
+turc d'Alger 1.
+
+
+Le Prince des Croyants, Moûlay Ismail (Dieu lui fasse
+miséricorde !), entreprit ensuite une campagne dans la
+région du Cherg. Laissant à sa gauche Tlemsen, il s'en-
+gagea dans la direction du Sud. Il reçut là les députations
+des Arabs Doûi Meni, Dkhîsa, Hamiyân, Elmhaya, El-
+omoûr, Oulad Djerir, Sgoûna, Beni Âmer, Elhachém, et
+partit avec elles jusqu'à Elqouî'a, à la source de l'Oued
+Chélif, appelé aujourd'hui l'Oued Zâ; c'étaient les Beni
+
+
+1. Texte arabe, IV partie, p. 28.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+79
+
+
+Amer ben Zogba qui lui avaient conseillé cette expédition.
+L'armée turque, qui était sortie d'Alger au grand com-
+plet avec ses canons et ses mortiers, vint camper sur la
+rive du fleuve en face du Sultan. Dès que la nuit fut tombée,
+les Turcs se mirent à tirer avec leurs canons et leurs obu-
+siers, dans le but d'effrayer les Arabs qui accompagnaient
+le Sultan. Ce stratagème réussit, car il était à peine mi-
+nuit que les Beni Amer s'esquivaient sans bruit de la
+Mhella du chérif. Le lendemain matin, il n'y en avait plus
+un seul au camp, et les autres Arabs, apprenant leur fuite,
+se dispersaient sans combat et laissaient le Sultan seul
+avec l'armée qu'il avait amenée avec lui du Magrib. Dans
+ces conditions, il renonça à faire la guerre aux Turcs et
+se disposa à revenir à sa capitale. Les Turcs lui écrivirent
+de renoncer à leur pays, et de respecter la frontière éta-
+blie par ses ancêtres et par les rois saadiens leurs prédé-
+cesseurs, qui jamais n'étaient venus fouler leur territoire.
+Ils lui envoyaient en même temps la lettre que leur avait
+fait porter son frère Moûlay Mhammed ben Echchérif par
+leurs ambassadeurs, comme nous l'avons déjà vu, ainsi
+qu'une lettre de son frère Moùlay Errechid établissant une
+frontière entre leur territoire et le sien. La paix fut conclue
+en prenant l'Oued Tafna comme frontière des deux pays.
+En passant par Oujda, à son retour, le Sultan ordonna de
+restaurer la ville et de reconstruire ce qui était démoli.
+Puis il revint à Fès et ensuite à sa capitale de Méknâsét
+Ezzéïtoûn. Ces faits se passèrent en l'année 1089.
+
+
+Révolte des trois fils de Moûlay Echchérif ben Ali, frères
+du Sultan dans le Sahara¹.
+
+
+Vers la fin de ramadan 1089, le Sultan, qui était encore à
+
+
+1. Texte arabe, IVe partie, p. 28.
+
+
+80
+
+
+ARCHIVES MAROCAINES
+
+
+Méknės, reçut la nouvelle du soulèvement de ses trois
+frères Moûlay Elharran, Moûlay Hàchém, et Moûlay
+Ahmed, fils de Moùlay Echchérif ben 'Ali, et de trois de
+leurs cousins, autour desquels s'était confédérée la tribu
+berbère des Aït Atta. Le Sultan se mit aussitôt en route
+avec son armée et passa par la route de Tâfilélt. La ren-
+contre cut lieu au Djebel Sagro le 20 doûlhijja. Une grande
+bataille fut livrée entre son armée et celle des révoltés qui
+étaient presque tous des Aït Attà, et la victoire resta au
+Sultan. Cependant, un grand nombre d'hommes de son
+armée périrent, principalement des hommes des combat-
+tants de Fès au nombre de 400. Le chef des troupes, Moûsa
+ben Yoûsef, mourut aussi. Mais les trois frères furent vain
+cus et obligés de s'enfuir jusqu'au Şahara. Comme cette
+année là la peste régnait dans tout le Magrib, le Sultan revint
+par la route d'Elfâïja. Arrivée au col d'Elglaoui dans le Dje-
+bel Deren, l'armée fut assaillie par une tourmente de neige;
+un grand nombre de soldats périrent, les tentes et les
+bagages furent perdus, et le reste de l'armée ne parvint
+qu'à grand peine à passer. Quand ensuite ou campa à la
+zâouya du chéïkh Aboûladim Sidi Rahhal Elkoûch, les
+soldats firent main basse sur les troupeaux, les grains des
+habitants, tellement ils étaient tourmentés par la faim.
+Les gens du pays ayant porté plainte au Sultan, celui-ci
+donna l'ordre de mettre à mort quiconque serait trouvé
+hors du camp: ce jour-là, environ 300 hommes du guéïch
+furent tués. Le vizir Aboû Zéïd Abderrahman Elman-
+zeri, contre lequel il avait une vengeance à exercer,
+fut traîné à la queue d'un cheval jusqu'à Fès et à
+Méknès: il ne restait plus, à son arrivée dans cette ville,
+que des débris de son cadavre, qui furent jetés sur un
+fumier. Tous ses serviteurs furent tués à coups de
+fusil.
+
+
+Arrivé à Méknès, le Sultan rentre dans son palais, et
+s'assit sur son tròne de gloire.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+81
+
+
+Au mois de moharrem 1090, la peste éclata à Fès et dans
+toute la région environnante. Le Sultan fit poster des Abids
+sur les chemins près de l'Oued Shou et dans la plaine de
+Sâïs pour empècher les gens d'entrer à Méknès. Ils tuaient
+tous ceux qui venaient d'Elqsar et de Fès. Toutes les
+communications furent interrompues et les vivres man-
+quèrent.
+
+
+A la fin de l'année, un corps de troupes musulman
+attaqua les chrétiens de Tanger, leur tua près de 350 hom-
+mes, et leur enleva une qaşba à quatre tourelles. Environ
+50 musulmans moururent en martyrs: Dieu leur fasse mi-
+séricorde.
+
+
+Transport des Zirâra et des Chebânât à Qujda: construction
+de qasbas sur les frontières ¹.
+
+
+Dans cette même année 1090, le Prince des Croyants,
+Moulay Ismail (Dieu lui fasse miséricorde !), fit transpor-
+ter à Oujda les Arabs Zirara et Echchebânât, de Kerroùm
+Elhaddj, qui étaient dans le Hoùz où ils se livraient à toutes
+sortes d'injustices et de méfaits. Ils durent s'établir dans
+cette ville, qui est la frontière du Magrib, et furent inscrits
+sur les registres du guéïch. Le Sultan leur donna pour qâïd
+Aboulbiqa El ayyachi ben Ezzouiar Ezzirâri, qu'il chargea
+de harceler les Beni Yznâsén, qui s'étaient soustraits à
+l'autorité de la dynastie pour se soumettre à celle des
+Turcs. Les Chebanat et les Zirara faisaient des incursions
+continuelles contre eux et les empèchaient de venir cultiver
+leurs terres dans la plaine d'Angad. Le Sultan donna l'ordre
+de construire, pour lutter contre eux, un fort analogue à
+Oujda dans le voisinage de la côte, dans la localité appe-
+lée Raqqada, et enjoignit au qaïd El'ayyachi d'y établir
+
+
+1. Texte arabe, IV partie, p. 29.
+
+
+ARCH. MAROC.
+
+
+6
+
+
+82
+
+
+ARCHIVES MAROCAINES
+
+
+500 cavaliers Zirara, avec mission de ne pas laisser les
+Beni Yznasén venir dans la plaine de Trifa, pour leurs
+labours ou leurs approvisionnements. Il fit également
+bâtir à Eloyoùn, sur les confins de leur territoire, un
+autre fort où le même qâïd installa aussi 500 cavaliers de
+sa tribu. De même, il en fit construire un troisième à la
+limite de leur pays sur la Melouiya, avec une garnison de
+500 cavaliers. Ces trois qaşbas furent placées sous la sur-
+veillance du qâïd Elayyachi qui résidait à Oujda avec
+4.000 cavaliers. Il y avait donc 2.500 hommes inscrits sur
+les registres.
+
+
+Au mois de djoumada II de l'année 1091, le Sultan quitta
+la capitale à la tête de ses troupes, pour aller chez les Beni
+Yznâsén qui persistaient dans leur insoumission: il gravit
+la montagne occupée par cette tribu, détruisit les campe-
+ments, ravagea les cultures, pilla les troupeaux, brûla les
+bourgs, tua les combattants et emmena leurs enfants. Il
+accorda ensuite à cette tribu l'aman qu'elle avait sollicité,
+mais à condition qu'elle lui livrerait ses armes et ses che-
+vaux, ce qu'elle fit sans retard, en affirmant malgré elle sa
+soumission.
+
+
+De là le Sultan descendit dans la plaine d'Angâd: Les
+tribus d'Elahlaf et de Sgoûna, qui vinrent auprès de lui,
+durent livrer leurs armes et leurs chevaux qui leur furent
+enlevés, et les chéïkhs furent invités à réunir tout ce qui
+pouvait encore rester dans les campements. Même mesure
+fut prise à l'égard des tribus d'Elmhâya et de Hamiyân. Le
+Sultan reprit alors la route du Magrib et, à son passage à
+l'Oued Zå, ordonna de restaurer la qaşba de Taourirt, qui
+avait été édifiée par le sultan Yousef ben Ya qoûb ben
+'Abdelhaqq Elmerîni; il y établit une garnison de 500 ca-
+valiers choisis parmi ses Abids, accompagnés de leurs
+femmes et de leurs enfants. A Oued Mesoûn, il fit cons-
+truire une autre qaşba, dans le voisinage de l'ancienne, et
+y mit une garnison de 100 cavaliers Abîds. A Tâza, il laissa
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+83
+
+
+une garnison de 2.500 Abids avec leurs familles: ils furent
+placés sous le commandement du qâïd Manşoûr ben
+Errâmi qui avait également la surveillance des qaşbas de
+Tâza et de Oued Za. Toutes les tribus de cette région
+reçurent l'indication de la qaşba où elles devaient apporter
+leur zekât et leur 'achoûr pour l'entretien des Abîds et la
+nourriture de leurs chevaux. Les tribus furent chargées
+de la garde de la route, et s'il arrivait quoi que ce soit sur
+leur territoire, elles devaient être punies par le qâïd de la
+qaşba voisine. A Elgoûr, le Sultan ordonna la construction
+d'un fort où il plaça 100 cavaliers Abîds avec leurs familles.
+Enfin, quand il arriva à Fès, la qaşba Elkgamis, dont la
+muraille avait été construite par Moulay Errechîd, reçut
+une garnison de 500 cavaliers pris parmi les Arabs et les
+Berbers Chrâga, amenés par ce Sultan, dans les conditions
+que nous avons rapportées. Puis il fit construire une qaşba
+à Elmehdoûma, et une autre à Eljedida, près de Méknės;
+ces deux forts reçurent chacun 100 cavaliers 'Abîds avec
+leurs familles et étaient destinés à la garde des routes.
+Dans chaque qaşba était un fondaq, où les caravanes et les
+voyageurs pouvaient passer la nuit.
+
+
+Le 5 cha bân 1091, le Sultan rentrait victorieux dans sa
+capitale.
+
+
+Prise d'Elmehdiya; combats contre Ben Mahrez au Soûs :
+événements intermédiaires ¹.
+
+
+Nous avons raconté précédemment comment les Espa-
+gnols s'étaient emparé d'Elmaʻmoùra, appelée Elmehdiya,
+vers l'année 1020, ainsi que les combats qu'ils avaient eu à
+soutenir contre Aboû Abdallah El ayyachi et les habitants
+de Salé. Cette ville resta au pouvoir des Espagnols jus-
+
+
+1. Texte arabe, IV partie, p. 29.
+
+
+84
+
+
+ARCHIVES MAROCAINES
+
+
+qu'au jour où elle fut prise par l'armée du sultan Moulay
+Ismâîl en 1902. L'auteur de Nozha dit : « Un des princi-
+paux titres de gloire du règne d'Ismail, c'est d'avoir dé-
+barrassé le Magrib de la souillure de l'infidélité et d'avoir
+mis un terme aux agressions de l'ennemi chrétien. Moù-
+lay Ismâ  îl a, en effet, conquis un certain nombre de villes
+dont la possession entre les mains des chrétiens était une
+cause de troubles pour le Magrib et une source d'inquié-
+tude pour les musulmans. Parmi ces villes, il faut citer
+Elma moûra, qui fut prise d'assaut après un assez long
+siège, le jeudi 24 rabi II de l'année 1092; 300 infidèles
+environ furent faits prisonniers dans cette ville. » L'auteur
+du Nachr Elmatsani dit : « La conquête d'Elmehdiya eut
+lieu de force pendant la prière du vendredi 15 rabi II de
+cette année. Suivant une autre version, elle aurait été prise
+sans combat; les conduites d'eau ayant été coupées, les
+chrétiens qui s'y trouvaient furent faits prisonniers et pas
+un seul musulman ne périt. »
+
+
+(( Le sultan Ismâîl, dit l'auteur d'Elboustân, apprit
+en 1092 que son neveu Moûlay Ahmed ben Mahrèz, qui
+habitait le Soûs, s'était emparé du pays des Aït Zinéb
+et voyait grandir sa puissance. Aussitôt il fit distribuer la
+solde et préparer ses troupes qui devaient quitter Fès pour
+marcher contre lui. Son armée était déjà partie le 8 rabî Ier
+quand on lui annonça que les soldats qui assiégeaient
+Elmehdiya n'attendaient plus que son arrivée pour con-
+quérir la ville. Il partit aussitôt et put assister à la prise
+de cette place. Le commandant des chrétiens et 308 hommes
+faits prisonniers reçurent l'amân. Quant au butin, il fut
+réservé aux guerriers de la foi du Fahs et du Rif qui cer-
+naient la ville sous les ordres du qåïd Omar ben Haddo
+Elbottoûi. » Cette expédition terminée, le Sultan rentra à
+Méknès, après avoir laissé à Elmehdiya, pour l'habiter, un
+certain nombre de 'Abîds du Soûs. Plusieurs combattants
+volontaires de Salé prirent part à cette conquête: parmi
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+85
+
+
+eux se trouvait le saint pieux, Aboul abbas Sidi Ahmed
+Hajji, l'un des saints personnages célèbres de cette ville.
+Les fortifications qui existent encore de nos jours à
+Elmehdiya ont été bâties par les Portugais à l'époque où
+ils s'en emparèrent du temps de la dynastie des Quațțâsis
+comme nous l'avons rapporté.
+
+
+Aussitôt après la prise d'Elmehdiya, les guerriers de la
+foi se retirèrent: leur chef, Omar ben Haddo, ayant suc-
+combé à la peste en route, ce fut son frère, le qaïd Ahmed
+ben Haddo qui prit leur commandement, qu'il partagea
+avec le qâïd Aboulhasan Ali ben 'Abdallah Errifi. La
+famille Errîfi est aussi célèbre par son ardeur dans la
+guerre sainte, sa bravoure et son habileté dans le combat
+que les familles Ennaqsîs et Bou-llîf et autres guerriers
+de la foi (Dieu leur fasse à tous miséricorde !)
+
+
+En 1093, après une expédition dans la région du Cherg,
+où il razzia les Beni Amer, le Sultan revint à Méknės. Il
+fit sortir les Juifs de la capitale et leur fit construire un
+quartier spécial en dehors de la ville, à Berrima. Il fit venir
+à Méknès les Filâla qui étaient à Fès, et leur assigna comme
+résidence l'ancien quartier des Juifs: ils s'y installèrent
+moyennant loyer, et finirent par le remplir.
+
+
+Bientôt il reçut la nouvelle qu'une armée turque était
+venue prendre possession des Beni Yznâsén et de Dâr
+Ben Mechal; il apprit également qu'il y avait entente
+entre les Turcs et Ben Mahrèz, qu'il y avait eu de part et
+d'autre envoi de messagers, et que l'accord s'était fait
+entre eux pour le combattre. Cette nouvelle lui ayant été
+confirmée par son représentant à Morrâkch, il envoya
+l'ordre à ce dernier de surveiller la ville avec toute la vigi-
+lance possible, et de tenir tête à Ben Mahrèz jusqu'à ce
+qu'il fût de retour de son expédition contre Tlemsên. Il
+partit alors (Dieu lui fasse miséricorde !) pour lutter contre
+les Turcs, mais il apprit bientôt que ceux-ci étaient
+retournés dans leur pays, à la nouvelle que les chrétiens
+
+
+86
+
+
+ARCHIVES MAROCAINES
+
+
+étaient venus attaquer Cherchell: ils avaient marché contre
+eux et devaient remporter une brillante victoire. Le Sultan
+revint donc sur ses pas.
+
+
+En 1094, le moment était venu pour le Sultan de partir
+pour Morrakch, d'où il se mit en route, après s'être reposé,
+pour le Soùs. La rencontre entre lui et son neveu Moûlay
+Ahmed ben Mahrez eut lieu à la fin de rabi II. Le combat
+qui s'engagea dura environ vingt-cinq jours; un nombre
+incalculable d'hommes périrent de part et d'autre. Enfin
+Ben Mahrèz se retira à Taroùdânt et s'y fortifia. Les vivres
+étaient chers à ce moment-là, et les hommes de la hark,
+ne pouvant supporter cette situation, se mirent à déser-
+ter. On dut les emprisonner et les battre pour leur faire
+rejoindre leurs compagnons sur-le-champ. Un second
+combat fut livré; environ 2.000 hommes périrent, et le
+Sultan, ainsi que Ben Mahrez, furent blessés, vers le
+45 djoumâda II. Cette situation se prolongea jusqu'au
+mois de ramadan.
+
+
+Aboù 'Abdallah Akensoùs rapporte qu'il « tient d'une
+personne digne de foi que le sultan Moûlay Ismail était
+fatigué de lutter contre son neveu. Il se leva un matin
+effrayé et désolé, et raconta à son vizir le fqîh Aboûl abbas
+Elyaḥmédi qu'il avait eu la nuit précédente un songe qui
+l'avait rempli de tristesse. « Quel est ce songe ? lui dit le
+vizir, peut-être est-il heureux ? J'ai vu en rêve, répon-
+dit le Sultan, ces armées qui sont en ce moment avec
+nous: pas un seul homme n'en restait. Il n'y avait plus
+que toi et moi, nous étions cachés dans une obscure ca-
+verne. » Entendant ces mots, le vizir se jette à genoux,
+remercie Dieu et reste longtemps prosterné. Enfin, rele-
+vant la tête, il dit : « Réjouissez-vous de la bonne nouvelle,
+ Notre Maître, car Dieu nous secourt contre cet homme.
+
+
+Comment sais-tu cela ? demanda le Sultan. - Je le sais
+par cette parole de Dieu: L'un des deux hommes qui sont
+dans la caverne dit à son compagnon: Ne sois pas triste
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+87
+
+
+car Dieu est avec nous. Le Prophète a dit: « Que pensez-
+vous de deux personnes dont Dieu est la troisième ? »
+
+
+« Le Sultan entra aussitôt dans une grande joie et son
+chagrin se dissipa bientôt, car il sut que ses songes étaient
+l'annonce d'une bonne nouvelle envoyée par Dieu. » A la
+suite de cela, en effet, la paix fut conclue en ramadan, et
+le Sultan se mit en route pour sa capitale, où il fit son
+entrée à la fin du mois de doûlqa da.
+
+
+Persécutions infligées aux Qâdis et leurs causest.
+
+
+Le très docte Elqadiri dit dans Elazhar Ennadiya que
+<<< cette année-là, c'est-à-dire 1094, le Sultan fit arrêter tous
+les qâdis, après leur avoir fait subir des mauvais traite-
+ments et les avoir convaincus d'ignorance. Il les fit empri-
+sonner dans le Mechouar de Fès Eljedîd, pour y apprendre
+ce qu'il leur était indispensable pour trancher les aflaires
+confiées à leur jugement. Pendant la semaine du Moûloûd
+on les fit partir pour Méknès, où de nouvelles menaces
+leur furent adressées, certains d'entre eux furent mis en
+prison ou tués, enfin on leur donna la liberté après les avoir
+destitués. » Akensoûs pense qu'il doit s'agir des qadis de
+la campagne et de ceux qui leur ressemblent. Je n'ai rien
+trouvé à cet égard dans Elazhar: peut-être l'exemplaire
+original contient-il quelque chose, car il y a deux copies
+de cet ouvrage dont l'une est plus courte que l'autre.
+
+
+Expédition contre les Berbers et construction de qasbas à côté
+de leurs forteresses.
+
+
+Année 1095.
+
+
+Au cours de cette année, le Sultan partit à la tête de
+
+
+1. Texte arabe, IV partie, p. 31.
+
+
+2. Texte arabe, IVe partie, p. 31.
+
+
+88
+
+
+ARCHIVES MAROCAINES
+
+
+ses troupes pour les montagnes de Fézzâz afin de combattre
+les Brâbér Şenhâdja de cette région. Dès que ceux-ci
+connurent la venue du souverain, ils gagnèrent la Melo-
+uiya. Le Sultan entra aussitôt sur leur territoire et fit
+construire un fort au pied de leur montagne, à Aïn
+Elloûh. II descendit aussi à Azrou, où il ordonna égale-
+ment d'édifier un fort au pied de la montagne et de là,
+suivant les traces de ces Berbers jusqu'au Djebel El ayya-
+chi, il resta en observation sur la Melouiya jusqu'à la sai-
+son d'hiver, pour donner le temps d'achever les murailles
+des deux forts. Quand il décida de s'en retourner, il laissa
+au fort d'Azrou 1.000 cavaliers, et 500 au fort de 'Aïn
+Elloûh: ces deux garnisons prirent possession des défilés
+de ces tribus, et la plaine de Sâïs fut débarrassée de leurs
+brigandages. Privées de leurs terrains de culture, ne
+pouvant plus recevoir de provisions, manquant de vivres,
+ces tribus durent s'humilier et députèrent à Méknės des
+envoyés qui exprimèrent leur repentir au Sultan. Celui-ci
+leur accorda l'amân à la condition qu'ils livreraient leurs
+armes et leurs chevaux, et qu'ils ne s'occuperaient dorėna-
+vant que de leurs terres et de leurs troupeaux. Les Aït
+Idrâsén (tel est le nom de ces tribus) acceptèrent humble-
+ment ces conditions.
+
+
+De son côté, le Sultan (Dieu lui fasse miséricorde!) remit
+20.000 moutons, qu'ils avaient charge de paitre et de soi-
+gner; il les exonéra également d'impôts. Leur conduite
+s'améliora plus tard, car, tous les ans, ils apportaient la
+laine et le beurre de ces moutons au Sultan, qui leur remet-
+tait toujours de nouveaux animaux, si bien que leur chiffre
+atteignit 60.000. De cette façon, ils perdirent leur force et
+furent désormais incapables de nuire.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+89
+
+
+Conquête de Tanger¹.
+
+
+Nous avons déjà vu que Tanger avait été cédé par les
+Portugais aux Anglais. En l'année 1095, le sultan Moûlay
+Ismail (Dieu lui fasse miséricorde!) confia le commande-
+ment des troupes des guerriers de la foi à Aboûlhasan Mi
+ben Abdallah Errifi, et l'envoya bloquer Tanger. Cette
+armée ne cessa de harceler les chrétiens de la ville, et pro-
+longea le siège pendant si longtemps que ceux-ci s'embar-
+quèrent sur leurs vaisseaux et s'enfuirent par mer, laissant
+la place ruinée de fond en comble. Cet événement eut lieu
+au mois de rabi Ier de l'année 1095; c'est ainsi que le
+raconte le Nozha.
+
+
+L'auteur du Boustân rapporte que les chrétiens de Tan-
+ger, se voyant bloqués pendant aussi longtemps, détrui-
+sirent la ville, démolirent les murs et les forts, puis s'em-
+barquèrent sur leurs vaisseaux, abandonnant la place. Les
+musulmans y entrèrent aussitôt sans coup férir, et, le
+1er djoumâda $I^{er}$, le qâïd des Moujahidîn, Ali ben Abdallah
+Errîfi, entreprit la reconstruction des fortifications et des
+mosquées qui avaient été démolies.
+
+
+Il y a encore à Tanger, de nos jours, des descendants de
+ce qâïd: ils sont souvent appelés à exercer les fonctions
+de gouverneurs.
+
+
+Sur ces entrefaites, un corsaire, chargé d'approvision-
+nements pour la garnison de Ceuta, vint échouer sur la
+côte, près de Tanger. Comme il était chargé de marchan-
+dises et de richesses de toutes sortes, les musulmans livré-
+rent combat à l'équipage et s'emparèrent de tout ce qu'il
+contenait. Le Sultan imposa à la tribu de Ġomâra la corvée
+de traîner jusqu'à Méknès les canons de bronze dont ce
+navire était armé, et les fit aider par des combattants de
+
+
+1. Texte arabe, IV partie, p. 31.
+
+
+90
+
+
+ARCHIVES MAROCAINES
+
+
+Fès, qu'il leur envoya. Cette opération dura quarante jours.
+Dieu triomphe toujours!
+
+
+Deuxième expédition contre les Berbers et constructions de forts
+sur les limites de leur territoire¹.
+
+
+Dans l'année 1096, le Sultan partit en expédition pour la
+région de la Melouiya et passa par la ville de Şefroù. Les
+tribus berbères se réfugièrent sur les sommets de leurs
+montagnes; ces tribus étaient les Aït Yoûsi, les Aït Chegd-
+rouchchen, Eyyoub, Alâhoum, les Qâdém, Hayyoùn et
+Medioûna. Le Sultan fit construire des qaşbas, l'une à Alil,
+sur le cours inférieur de l'Oued Guigo, l'autre sur l'Oued
+Sekkoûra, et la troisième sur l'Oued Tachouakt. Quand il
+se porta ensuite sur la Melouiya, les tribus s'enfuirent au
+Djebel El'ayyâchi et se répandirent dans les ravins de cette
+montagne. Il donna aussitôt l'ordre de construire des forts
+à Dâr Ettema, à Tabâboùst, à Qşar Beni Mțir, à Aouțât et
+à Elqsabi. Le Sultan demeura environ une année sur la
+Melouiya, dirigeant des incursions contre les Berbers, pour
+achever la construction des murailles de ces forts, dans
+chacun desquels il installa une garnison de 400 cavaliers
+'Abids avec leurs familles. Il reçut bientôt les députations
+des Berbers, qui vinrent exprimer leur repentir et annon-
+cer leur soumission; il leur accorda l'amân, à condition
+qu'ils livreraient leurs chevaux et leurs armes. Cette remise
+assura la pacification de la région orientale du Djebel
+Deren. C'est Dieu qui accorde la grâce de son assistance.
+
+
+1. Texte arabe, IV partie, p. 32.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+91
+
+
+Meurtre de Moûlay Ahmed ben Mahrèz; prise de Târoûdânt
+et événements qui s'y rattachent ¹.
+
+
+Le sultan Moulay Ismail (Dieu lui fasse miséricorde!)
+était de retour à Méknès cette année-là (1096), quand il
+apprit que son frère, Moûlay Elharran, et son neveu, Moûlay
+Ahmed ben Mahrèz, avaient pris la qaşba de Taroùdânt et
+s'étaient rendus maîtres de toute la région. Il se mit en
+route aussitôt, à marches forcées, et vint à l'improviste
+assiéger Târoùdânt, où il les bloqua. Or, il arriva qu'un
+jour Ben Mahḥrèz, qui était sorti avec un certain nombre de
+ses esclaves pour visiter un sanctuaire, fut rencontré par
+un parti de Zirâra, soldats du Sultan, qui, ne le connaissant
+pas et croyant avoir à faire à un de ses qâïds, l'attaquèrent,
+et, après une courte bataille, le tuèrent. Ils ne le recon-
+nurent que quand il fut mort. Dès qu'il connut la nouvelle,
+le Sultan vint voir le cadavre et le reconnut. Il ordonna
+ensuite de célébrer ses funérailles et de l'enterrer avec
+Elgarnâți, qui avait été tué ce jour-là. Ahmed ben Mahrez
+mourut donc au milieu de doùlqa da 1096, après quatorze
+années de lutte contre le Sultan. A quelque temps de là,
+des gens de Târoûdânt sortirent la nuit de la ville, fouil-
+lèrent la tombe de Moûlay Ahmed et celle d'Elġarnâți, pour
+rechercher le cadavre du prince, et, quand ils eurent retiré
+les deux corps et reconnu celui de Moûlay Ahmed, ils
+l'emportèrent dans son cercueil, laissant Elġarnâți sur le
+bord de la fosse.
+
+
+Moulay Elharrán resta assiégé dans Taroùdânt et la lutte
+continua. Au cours d'un combat qui eut lieu en 1097, le
+qâïd Zéïtoûn, le bâcha Hamdan et d'autres chefs périrent
+avec 600 hommes de leurs troupes. Un second, puis un
+troisième combat eurent lieu ensuite, et coûtèrent la vie
+
+
+1. Texte arabe, IV partie, p. 32.
+
+
+192
+
+
+ARCILIVES MAROCAINES
+
+
+au qâïd Aboû Zéïd Abderrahmân Erroûsi, qui fut rem-
+placé par le fils d'Elgarnâți. Le siège se prolongeait encore
+quand enfin, au cours du mois de djoumâda $I^{er}$ 1098, le
+Sultan enleva la ville de vive force et s'en rendit maître :
+Moûlay Elharrân prit la fuite et se réfugia en lieu sûr.
+
+
+Dès que la nouvelle de cette victoire fut connue à Fès,
+les habitants choisirent des députés parmi les principaux
+personnages, les chérifs et les oulamâ, pour aller porter
+au Sultan leurs félicitations, sous la conduite de son fils,
+Moûlay Mohammed ben Ismâʻil. Cette députation fut aima-
+blement reçue par le Sultan. Les membres de la famille
+Ennaqsîs, qui s'étaient réfugiés à Ceuta après le meurtre
+d'Elkhadir Ġéïlân, vinrent aussi se présenter devant le
+Sultan au milieu de son armée à Târoûdânt; celui-ci les
+renvoya à Tétouân, où il les fit mettre à mort, en même
+temps que leurs parents qui étaient emprisonnés à Fès
+(Dieu lui fasse miséricorde!).
+
+
+L'année suivante (1099), le Sultan quitta le Soûs et rentra
+dans sa capitale de Méknès, où il prit quelque repos. II
+envoya l'ordre au gouverneur de Fès de faire partir les
+Rifains de cette ville pour Târoûdânt, afin de la peupler,
+car il n'y restait plus d'habitants. Le 5 djoumâda $I^{er}$, il
+invita les savants de Fès à assister à la fin de la lecture du
+Tefsîr, par son qâdi Aboû Abdallah Elmeggâși. Une grande
+réception leur fut faite et des cadeaux leur furent distri-
+bués.
+
+
+Expédition contre les Berbers de Fêzzâz et construction du fort
+d'Adékhsân  .
+
+
+Dès qu'il eut terminé ses préparatifs d'expédition contre
+les habitants du Djebel Fézzáz, le Sultan se mit en route et
+franchit la montagne du côté de l'Ouest. Les premières
+
+
+1. Texte arabe, IVe partie, page 32.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+93
+
+
+tribus des Brâbér qui vinrent lui apporter leur soumission,
+furent les Zemmour et les Beni Hkim. Le Sultan confirma
+leur chef, Bà Ichcho Elqebli, dans ses fonctions. Celui-ci
+leur fit livrer leurs chevaux et leurs armes, et alla mème
+jusqu'à leur demander de lui remettre leur argent, ce qu'ils
+firent. Il vint présenter tout cela au Sultan, qui se trouvait
+alors dans la plaine d'Adékhsân. Le souverain refusa de
+l'accepter et lui demanda pour quelle raison il avait ainsi
+agi sans avoir reçu d'ordre. « O notre Maitre, lui répon-
+dit-il, si vous voulez sauvegarder leurs intérêts et si vous
+leur voulez du bien, je n'ai pas fait autre chose pour vous
+et pour eux. Mais si vous vous conduisez autrement à leur
+égard, ils vous lasseront et se lasseront eux-mêmes. Pour
+moi, je me suis borné à les purifier des biens illicites afin
+qu'ils s'occupent dorénavant de posséder les biens licites,
+qui enrichissent et améliorent. » Le Sultan goûta ses paroles
+et approuva sa conduite.
+
+
+Moùlay Ismail (Dieu lui fasse miséricorde!) resta à
+Adékhsan une année entière, pour combattre les Aït
+Ou Malou et bâtir la nouvelle qaşba d'Adékhsân sur l'em-
+placement de l'ancienne qui était en ruines et qui avait été
+construite par l'Emir des musulmans, Yousef ben Tâchfin
+(Dieu lui fasse miséricorde!) Dans cette qaşba, il installa,
+dès que l'hiver fut venu, 2.500 cavaliers des 'Abîds de
+Doùkkâla, qui se trouvaient à Oujéh Aroùs et qu'il fit venir
+avec leurs familles. A la Zâouyat Eddilâ, il y établit aussi
+une garnison de 2.500 cavaliers choisis parmi les 'Abîds
+d'Echchaouiya, qu'il fit aussi venir d'Oujéh  Aroûs avec
+leurs familles. Ces troupes reçurent pour mission de blo-
+quer les Berbers, pour les empêcher de venir cultiver dans
+la plaine ou faire paître leurs troupeaux. Le Sultan reprit
+ensuite la route de Méknès.
+
+
+L'auteur du Roustân, Belqâsém Ezzayâni, raconte:
+<<< Dans ce voyage, le Sultan ramena avec lui à Méknès mon
+grand-père, le fqih, le docteur, Aboulhasan Ali ben Brâhîm,
+
+
+94
+
+
+ARCHIVES MAROCAINES
+
+
+accompagné de ses enfants. Lorsqu'il était campé à Adé-
+khsân, ayant autour de lui tous les chérifs d'Arko, il leur
+demanda de lui indiquer un homme instruit et pieux qui
+lui servît d'imâm pour ses prières. Ils lui répondirent : « Il
+n'y a pas d'homme plus dévôt que Sidi Ali ben Brâhîm. »
+On lui amena mon grand-père, qui, depuis lors, lui servit
+d'imâm pendant l'expédition, fut retenu par lui, quand il
+retourna à Méknès. » « Voilà, ajoute cet auteur, comment
+mon grand-père a quitté Arko pour venir s'établir à la
+ville. >>>
+
+
+Éducation des enfants des Abids du « Diouân  : conditions dans
+lesquelles était opérée leur instruction  .
+
+
+Nous avons déjà vu que le noyau des Abids d'Elbokhari
+était installé à Elmhalla, près de Mechra Erremla; là, ils
+s'étaient multipliés et étaient devenus excessivement nom-
+breux. En 1106, le Sultan (Dieu lui fasse miséricorde !)
+ordonna à ces Abîds de lui amener leurs enfants, garçons
+et filles, au-dessus de dix ans. Les filles furent partagées
+entre les divers pavillons de son palais et confiées à une
+'arîfa qui devait les élever et les instruire. Quant aux gar-
+çons, ils furent répartis entre les maçons, les menuisiers
+et les artisans de tout genre, pour apprendre leurs métiers,
+travailler avec eux, conduire les ânes et s'exercer à les
+monter. Au bout de la première année, ils étaient employés
+à conduire les mulets chargés de briques, de zoulléïj, de
+tuiles, de bois, etc. L'année suivante, ils devaient apprendre
+à damer et à faire du pisé. La quatrième année, ils étaient
+promus à la première classe dans l'armée: on leur donnait
+des vêtements et on leur confiait des armes, avec lesquelles
+ils devaient s'exercer en vue du service militaire, et ap-
+
+
+1. Texte arabe, IVe partie, page 33.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+95
+
+
+prendre à tirer. La cinquième année, on leur consignait
+des chevaux, qu'ils devaient monter à cru sans selle et
+amener sur le champ de manœuvres pour s'exercer à
+l'équitation. Si, à la fin de cette année-là, ils arrivaient à
+être maîtres de leur cheval, on leur donnait des selles afin
+d'apprendre l'attaque et la retraite, et d'acquérir de l'adresse
+à la joute et au tir à cheval. Au bout d'un an, ils étaient
+admis dans l'armée combattante. Le Sultan leur désignait
+alors une des jeunes filles venues avec eux, la leur donnait
+en mariage, et attribuait à l'homme 10 mitsqâls comme dot
+de sa femme, et à la jeune fille 5 mitsqâls pour son trous-
+seau. Puis on les plaçait sous le commandement de l'un de
+leurs ancètres, qui recevait le titre de qâïd et à qui on
+donnait de quoi bâtir sa maison et construire pour ses
+hommes les chaumières connues chez nous sous le nom
+de noudil, et on les envoyait résider à Elmhalla, après les
+avoir inscrits sur le Diouân de l'armée.
+
+
+Depuis l'année 1100 jusqu'à la mort du Sultan (Dieu lui
+fasse miséricorde!) qui survint à la date que nous indique-
+rons plus loin, ce système d'éducation reste en vigueur.
+Chaque année, il venait d'Elmhalla un petit nombre
+d'hommes, et le Sultan y en renvoyait un plus grand
+nombre.
+
+
+Le nombre de l'armée d'Elbokhari atteignit le chiffre de
+150.000 hommes, dont 70.000 résidaient à Elmhalla; le
+reste était réparti entre les diverses forteresses du Magrib,
+où ils avaient été installés pour garder les routes.
+
+
+Les forts que Moûlay Ismâîl (Dieu lui fasse miséri-
+corde!) fit élever dans le Magrib sont au nombre de 76;
+ils subsistent encore aujourd'hui dans toutes les contrées,
+et chacun les connaît.
+
+
+Ces renseignements sont puisés dans les cahiers du fqth
+Aboûrrabi Slimân ben  Abdelqâder Ezzerhoûni, mort à
+Târoûdânt en 1138, qui fut secrétaire de Moûlay Errechid
+et de Moûlay Ismail et qui possédait le registre de toute
+
+
+96
+
+
+ARCHIVES MAROCAINES
+
+
+l'armée, des troupes du groupe principal comme de celles
+qui étaient réparties dans les forts du Magrib.
+
+
+<< Et dire, s'écrie l'auteur d'Elbousiân, que les historiens
+ont cité comme une chose surprenante les 18.000 esclaves
+que le khalife Elmo taşim ben Errechîd avait fait venir du
+pays des Tures, ou qu'il avait achetés! Si ces forteresses
+avaient été des bateaux, des navires pour la guerre sainte
+et que le Prince des Croyants, Moûlay Ismail, ait employé
+ce nombre d'esclaves qu'il avait réunis à traverser la mer
+pour aller en Andalousie, il en aurait certainement fait la
+conquête. La protection vient de Dieu! >>>
+
+
+Ces paroles sont justes: mais l'homme est enserré dans
+une règle inflexible, et le cours de toutes choses se trouve
+entre les mains de Dieu seul. Aussi celui qui voudrait
+entreprendre en son temps une chose différente de celle
+que Dieu a décidée pour cette époque serait un ignorant
+achevé. Un poète a dit :
+
+
+« Il n'y a pour bien connaître le désir ardent que celui
+qui l'éprouve; pour bien connaître l'affection profonde que
+celui qui la ressent. >>>
+
+
+Un autre poète a dit:
+
+
+<<< Ne blamez pas de ses désirs celui qui désire ardem-
+ment, tant que votre cœur n'aura pas pénétré dans le
+sien. »
+
+
+Un autre poète a dit encore:
+
+
+<< Quand le poltron ne se trouve pas tout seul dans un
+pays désert, il veut frapper et descendre dans l'arène tout
+seul. >>>
+
+
+Il y a encore un proverbe courant qui dit:
+<< Celui qui est assis sur le bord d'une rivière, sait tou-
+jours bien nager. >>>
+
+
+Les réflexions qui précèdent sont des faits d'observa-
+tion, mais si l'on consulte la loi sainte, on y trouve cette
+parole de Dieu Très-Haut : « Préparez contre eux toutes
+les forces que vous pourrez... etc. » En tous cas, ils ne
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+97
+
+
+convient pas à l'homme de négliger la préparation dont il
+s'agit, et qui lui est ordonnée par la loi, et de s'en remet-
+tre à la destinée: dans ce cas, il serait en faute et serait en
+contradiction avec le droit sacré et la coutume. Le Pro-
+phète (sur lui soient les prières de Dieu et le salut!) n'a-
+t-il pas dit à l'Arabe qui laissait sa chamelle en liberté :
+<< Attache-la et aie confiance? >>>
+
+
+Le poète a dit aussi:
+
+
+<<< L'homme doit rechercher ce qui doit lui être utile:
+et il ne dépend pas de lui que les circonstances le favo-
+risent. »
+
+
+O mon Dieu, je te demande de nous préserver des arrêts
+du destin, de nous en garantir, de nous protéger contre
+eux et de les adoucir: tu es notre maître, tu es notre seul
+appui!
+
+
+Conquête d'El'arêïch  .
+
+
+A la fin du mois de chouwâl de cette année-là (1100), le
+qâïd Aboûl abbas Ahmed ben Haddo Elboțțoûi partit avec
+une troupe de guerriers de la foi pour aller mettre le
+siège devant El arêïch, que les Espagnols, Dieu les aban-
+donne! avaient reçue des mains d'Echchéïkh, fils d'El
+manşoûr Essa'di, comme nous l'avons vu. Le qâïd Aboûl-
+abbas vint camper devant cette ville, bloqua les infidèles
+qui s'y trouvaient, et les assiégea, suivant le Nozha, pen-
+dant près de trois mois et demi. L'historien Manuel dit que
+le siège dura cinq mois. Il rapporte aussi que le roi de
+France, Louis XIV, aida Moùlay Ismail à conquérir El-
+ arêïch en assiégeant la ville par mer avec cinq frégates
+qui empêchèrent pendant longtemps toute communication
+avec la place. Elles s'éloignèrent plus tard et la ville fut
+
+
+1. Texte arabe, V partie, page 34.
+ARCH. MAROC.
+
+
+NATHDWALE
+
+
+7
+
+
+98
+
+
+ARCHIVES MAROCAINES
+
+
+prise postérieurement. L'auteur du Nozha dit que les mu-
+sulmans ne s'emparèrent de la place qu'au prix d'énormes
+difficultés. Ils creusèrent sous l'égoût, ouvrant dans les
+murs de la ville à côté du port, des mines qu'ils remplirent
+de poudre et qu'ils allumèrent. L'explosion qui s'en suivit
+ayant fait tomber un pan de muraille, les musulmans se pré-
+cipitèrent par cette brèche et se ruèrent sur les chrétiens
+qui garnissaient les remparts. Un sanglant combat s'enga-
+gea alors et les autres chrétiens durent se réfugier dans la
+citadelle d'Elqobibat, construite autrefois par Elmansoùûr
+Essa di, où ils soutinrent encore le siège pendant un jour
+et une nuit; puis, saisis de terreur, ils demandèrent
+l'amân, qui leur fut donné, sur l'ordre du Sultan, par le
+qâïd Aboûl abbas. Tous les chrétiens furent faits prison-
+niers: leur chef seul fut épargné. La conquête de cette
+ville fut terminée le mercredi 18 moharrem 1101. Le Bous-
+tân et l'auteur du Djéïch, qui s'appuie sur lui, disent que
+les chrétiens d'El'aréïch soutinrent le siège dans la cita-
+delle d'Elqobibât pendant une année entière: c'est une
+erreur inadmissible; avant la prise de la ville, Elarêïch
+renfermait 3.200 chrétiens; les musulmans firent 2.000 pri-
+sonniers et tuèrent 1.200 hommes. On trouva dans la place
+un immense approvisionnement de poudre et d'armes et
+environ 180 canons, dont 22 en bronze et le reste en fer.
+Parmi ces canons se trouvait celui qu'on appelait Elġaşşâb,
+qui avait 35 pieds de long et dont le boulet pesait 45 livres ;
+la culasse était de telles dimensions que quatre hommes
+pouvaient à peine l'embrasser; du moins, c'est ce qu'on a
+entendu dire à des témoins oculaires qu'on avait interro-
+gés sur ce sujet: le Nozha le rapporte également. Manuel
+prétend que les chrétiens ne se rendirent pas avant d'avoir
+stipulé un certain nombre de clauses importantes, que le
+Sultan viola ensuite.
+
+
+Le qâdi Belqâsém El amiri raconte le fait suivant dans
+la Fahrasa. Les chrétiens d'El'arèïch ayant prétendu que
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+99
+
+
+la prise de la ville eut lieu pacifiquement, tranquillement
+et de vive force, le Sultan, voyant la discussion se prolon-
+ger, ordonna au qâdi de Méknès, Aboù Abdallah Moham-
+med Boù Medien de trancher cette question. Ce magistrat
+rendit une décision très longue, aussi conforme que pos-
+sible à la loi mahométane, concluant à la captivité de ces
+chrétiens. Cette décision est rapportée tout au long par
+El'amîri dans sa Fahrasa, où on peut la trouver.
+
+
+Sur l'ordre du Sultan (Dieu lui fasse miséricorde !), ces
+chrétiens qui, suivant le Boustân, étaient au nombre de
+1800, furent envoyés à Méknasét Ezzéïtoùn, où ils furent
+employés, avec les autres prisonniers et captifs, à la cons-
+truction des palais du Sultan. Ils travaillaient pendant le
+jour, et la nuit, on les logeait dans les souterrains, qu'on
+appelle, dans la langue commune des Magribins, heri. Le
+Sultan fit venir des gens du Rif pour habiter El'arèïch, et
+ordonna à leur qâïd de leur construire deux mosquées
+et un bain, et de bâtir lui-même sa maison dans la qaşba.
+
+
+A l'occasion de la prise d'El'arèïch, le prédicateur élo-
+quent, le littérateur de Fès, le moufti de cette ville, Aboû
+Mohammed 'Abdelouâhed ben Mohammed Echchérîf El-
+bou înani récita le poème suivant:
+
+
+<< Allons! réjouissez-vous: cette conquête est brillante,
+et, grâce à votre puissance, les affaires sont rétablies.
+
+
+<< L'oiseau du bonheur a chanté très haut, et nos cœurs
+se sont épanouis en apprenant votre victoire.
+
+
+« L'éclat du triomphe nous illumine, et la clarté de la
+gloire tourne vers nous.
+
+
+<<< Tous les bonheurs vous accompagnent: l'existence est
+douce et la joie ne cesse pas.
+
+
+<<< Vous avez protégé le drapeau de l'Islâm lorsqu'il a
+veillé sur les places de guerre avec l'œil de la vérité.
+
+
+<< Vous avez fait la guerre sainte, vous avez combattu;
+vous êtes pour la religion de Dieu les pleines lunes qui
+brillent.
+
+
+100
+
+
+ARCHIVES MAROCAINES
+
+
+<< Vous avez fait briller vos glaives comme des étoiles
+dans une mêlée avec les infidèles.
+
+
+<< Aux jours de paix, vous êtes la pleine lune dans toute
+sa beauté et, au jour de la mêlée, vous êtes le lion ter-
+rible.
+
+
+<< Et dans la place d'El'arêïch, votre gloire s'est élevée
+au-dessus de Sirius.
+
+
+« Les rois avaient voulu l'acheter à des prix très élevés,
+ils l'avaient convoitée, mais elle s'était reculée effrayée.
+<< Mais quand vous êtes venu, elle s'est rendue à vous
+en disant: « C'est vers vous, j'en jure par Notre Maître,
+que j'irai. >>>
+
+
+<< Vous avez, en les civilisant, pris les rênes de sa puis-
+sance; vous ne devez vos succès ni au blocus ni au pas-
+sage du fleuve.
+
+
+« Vous avez vaincu, grâce à de vaillants héros qui, tous,
+dans la mêlée, sont audacieux.
+
+
+<<< Que d'infidèles, le soir, ont eu la tête séparée du tronc
+et qui râlaient alors qu'on les traînait.
+
+
+<< A combien de gorges nos lances ont servi de collier,
+que de pointes de lances se sont plantées dans leurs poi-
+trines!
+
+
+« Que de captifs, que de morts gisant à terre! que de
+blessés dont le sang se répandait!
+
+
+« Les oiseaux de proie passaient et s'en abreuvaient;
+pendant toute la nuit, les chacals s'en nourrissaient.
+
+
+« Le matin, nos troupes étaient grisées et pleines
+d'ivresse, sans avoir bu cependant de boissons fermen-
+tées.
+
+
+« Réjouissez-vous de cette brillante victoire. Réjouissez-
+vous des faveurs accordées par le Dieu clément !
+
+
+<< Grâce à ce succès, votre renommée s'est encore élevée,
+et votre récompense future sera grande.
+
+
+<< Allons! troupe d'infidèles, ce prince vous anéantira,
+
+
+car il ne faillira pas à sa tâche.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+101
+
+
+<<< Allons, gens de Ceuta! le Sultan redoutable va vous
+apporter le glaive de Dieu.
+
+
+<< S'il vient à Ceuta le soir, le lendemain de bonne heure,
+la ville l'appellera à elle.
+
+
+<< Oran l'appelle et répète chaque jour: « Quand viendra
+l'Imâm? quand s'avancera-t-il ? »
+
+
+<< Aussitôt qu'il apparaîtra, il conquerra la ville, et tous
+les habitants de la cité seront anéantis.
+
+
+« Il les mettra en fuite, il les tuera, il fera des prison-
+niers; le glaive de la vérité brillera à son poing.
+
+
+« Allons, ò notre Maître, levez-vous, partez, allez vite
+vers l'Andalousie, vous en serez l'émîr.
+
+
+<<<< Faites la guerre sainte aux chrétiens, combattez-les,
+dispersez-les; Dieu vous donnera la victoire.
+
+
+<<< Rien ne vous arrêtera, grâce à Dieu, ni la terre, ni les
+mers, comme on le dit.
+
+
+<< Chaque jour, la renommée vous adresse son appel que
+tous les cœurs savent comprendre.
+
+
+<< C'est à Cordoue que vous acquerrez toute votre gloire;
+là que vous trouverez la puissance et la royauté suprêmes.
+<< Avec l'aide de Dieu, cela vous sera facile, et grâce à
+la faveur d'en haut dont vous jouissez, l'entreprise sera
+peu de chose.
+
+
+<< O Moùlay Ismail, votre humble serviteur, implorant
+votre appui,
+
+
+<<< Vous appelle, vous appelle et fait des vœux que la For-
+tune ne dédaignera pas.
+
+
+<< O Maître des hommes,  mon Dieu,  Miséricordieux,
+
+
+ô le meilleur des protecteurs,
+
+
+<< Répands sur ce prince tous les bienfaits, fais que ses
+
+
+entreprises ne périclitent point.
+
+
+<< Perpétue le pouvoir entre ses mains et entre celles de
+
+
+ses fils, en dépit des Zéïd ou des Omar.
+
+
+  Nous sommes des sujets, nous comptons sur la félicité,
+
+
+car par le Sultan s'organiseront toutes choses.
+
+
+102
+
+
+ARCHIVES MAROCAINES
+
+
+« Sur vous soit le salut de votre humble serviteur,
+tant que le monde durera; que ce salut parfumé
+
+
+<< Enveloppe Votre Majesté, tant qu'un amoureux par-
+lera. Allons! réjouissez-vous, car cette victoire est bril-
+lante. >>>
+
+
+Le savant et scrupuleux docteur, l'illustre Abou Moham-
+med Abdesselam ben Hamdoùn Guessoùs a composé aussi
+les vers suivants sur le même sujet :
+
+
+<<< Les habitants de Ceuta ont élevé la voix pour se plain-
+dre à toi de la terreur qui les assaille.
+
+
+<< Avec elle, Bådès et Brîja demandent pitié et s'éveil-
+lent pour que tu prètes l'oreille à leurs plaintes.
+
+
+<<< O héritier du Prophète Mohammet Elhachmi,  Prince
+des Croyants, dis-leur: « Me voici ! >>>
+
+
+<< Tu as donné satisfaction à El arèïch et à Tanger; don-
+nez à leur tour à ces villes les satisfactions qu'elles es-
+pèrent.
+
+
+ C'est une honte pour toi qu'elles soient encore pri-
+sonnières à côté de toi, près de tes troupes qui combattent
+pour elles.
+
+
+<< Si tu ne les venges pas, qui viendra rompre leurs liens ?
+<< N'écoutez pas les ignorants, les obstructeurs, les cher-
+cheurs de difficultés qui ne connaissent pas la situation de
+ces places.
+
+
+<< Les aînés ont payé de leurs personnes et de leurs biens
+dans la guerre sainte pour des villes placées dans la même
+situation.
+
+
+<< Ils les ont reprises, se sont partagé les richesses et les
+hommes qu'elles contenaient.
+
+
+<< Envoie-leur des braves en toute hâte tu les verras
+bientôt installés sur les montagnes voisines.
+
+
+<< Secours ces guerriers avec des provisions et des armes,
+afin de couper les communications par mer de ces places.
+ Relève la tête de ce Ġarb; car il restera faible tant que
+les troupes ennemies fouleront son sol.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+103
+
+
+<<< Le Maître te maintiendra dans le khalifat pendant de
+longues années, où tu pourras encore faire des actions
+durables en veillant à l'application de la loi sacrée.
+
+
+<< Accepte le présent de celui qui, pour faire une bonne
+œuvre, t'apporte un conseil: ne trouve pas trop humble
+celui qui te l'exprime. >>>
+
+
+Le Nachr Elmatsani rapporte tout au long un poème que
+vous pourrez trouver, si vous le désirez, dans cet ouvrage
+et dont l'auteur fut le chérif très cultivé, Abou Mohammed
+Abdesselâm ben Ettayyéb Elqadiri. En voici le début:
+
+
+« Le tròne de la religion de Dieu s'est élevé au-dessus
+de tous les trònes, et la forteresse d'El arèïch a été détruite
+avec le-secours de Dieu.  
+
+
+Le 22 rabi Ier de cette année, le Sultan interdit le port des
+chaussures noires et fit proclamer cette décision dans
+toutes les villes du Magrib. Depuis lors, on dut porter des
+chaussures jaunes, parce qu'on prétendait que le port des
+chaussures noires avait commencé lors de la prise d'El-
+arêïch par les Espagnols secondés par Elmâmoûn Es-
+sa'di.
+
+
+Dans les premiers jours du mois de doûlheddja, le Sul-
+tan fit tuer 68 hommes de la confrérie connue sous le nom
+d'El'akakza.
+
+
+1
+
+
+Prise d'Aséïla 1.
+
+
+Quand ils eurent pris El'arèïch, les Moujahidin vin-
+rent attaquer la ville d'Aşėïla. Ils bloquèrent pendant une
+année entière les chrétiens qui s'y trouvaient et qui étaient,
+je crois, des Espagnols. Ne pouvant supporter le siège
+plus longtemps, ceux-ci se décidèrent, à la fin, à demander
+l'amân, qui leur fut accordé sur l'assentiment du Sultan.
+Mais peu confiants dans cet amân, ils profitèrent de la nuit
+
+
+1 Texte arabe, IV partie, page 26.
+
+
+104
+
+
+ARCHIVES MAROCAINES
+
+
+pour s'embarquer sur leurs vaisseaux et s'enfuir vers leur
+pays. Les musulmans entrèrent alors dans la ville et en
+prirent possession (1102). Les gens du Rif vinrent la peu-
+pler, et leur qâïd y construisit deux mosquées, une mdersa,
+un bain ainsi que sa propre maison, qu'il fit édifier dans la
+qaşba. Dieu sait quelle est la vérité !
+
+
+Siège de Ceuta 1.
+
+
+D'Aşéïla, les champions de la foi partirent pour Ceuta.
+Ils se présentèrent devant la place pour en faire le siège,
+et se mirent à l'attaquer avec la plus grande énergie. Le
+Sultan les appuya avec une armée tirée de ses 'Abids; en
+même temps, les tribus du Djebel et les habitants de Fès
+recevaient l'ordre d'envoyer leurs contingents respectifs,
+pour venir former un rabât devant Ceuta. Le nombre des
+morâbet était de 25.000. Le Sultan vint prendre lui-même
+le commandement des troupes, qu'il dirigea avec énergie
+et ténacité. Le combat ne cessait ni le matin, ni le soir.
+Comme la lutte se prolongeait, le Sultan soupçonna les
+chefs des assiégeants de manquer de sincérité dans leurs
+conseils qu'ils donnaient pour la prise de la place, de peur
+qu'aussitôt après il ne les envoyat faire le siège d'Elbrija,
+et ne fussent ainsi longtemps tenus éloignés de leur pays:
+cependant ces qâïds avaient pris l'habitude des voyages
+et des difficultés des expéditions. Et la même situation se
+continua jusqu'au jour où mourut le qâïd Aboûlhasan Ali
+ben  Abdallah Errîfi, qui fut remplacé par son fils le qâïd
+Aboul abbas Ahmed ben  Ali. Et le combat durait toujours
+sans que la situation changeât, et les troupes étaient re-
+nouvelées chaque année. Pendant ce temps, le Sultan était
+occupé à pacifier le Magrib et à combattre les Brabér du
+
+
+1. Texte arabe, IV partie, page 37.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+105
+
+
+Djebel Fézzaz. Dieu ne voulait pas lui accorder la prise de
+Ceuta.
+
+
+On peut encore voir, de nos jours, la mosquée que le
+qaïd Ahmed ben 'Ali fit construire près de Ceuta pendant
+le siège et sa maison.
+
+
+Elġazzal, dans sa Rihla, raconte qu'il a vu dans une des
+portes de Ceuta un trou très ancien, qui n'avait pas été
+réparé. Il en demanda l'explication aux habitants de la place,
+qui lui répondirent que c'était un souvenir du siège de
+la place par l'armée isma îlienne: un boulet avait percé la
+porte et avait pénétré dans la ville. « Nous avons laissé la
+chose telle quelle, ajoutèrent-ils, afin que cela serve
+d'avertissement à nos successeurs et qu'ils redoublent de
+circonspection et de fermeté. » Tel était du moins le sens
+de leurs paroles. Dieu Très-Haut sait quelle est la vérité !
+
+
+Expédition du sultan Moûlay Ismâîl chez les Brâbér de Fêzzâz
+qu'il réduit à l'obéissance..
+
+
+Le sultan Moùlay Ismail (Dieu lui fasse miséricorde!)
+employa toute cette période à pacifier le Magrib en délo-
+geant les populations de leurs forteresses, il finit par se
+rendre maître de tout le pays, et créa des postes fortifiés
+où il installa des garnisons de défense. Il ne lui restait plus
+à soumettre dans tout le Magrib que les cimes du Djebel
+Fézzáz, qui étaient habitées par les Aït Ou Malou, les Aït
+Yafelmål et les Aït Isri. Décidé à marcher contre ces
+tribus et à affronter les sommets où elles vivaient, il se
+prépara à marcher contre elles et commença par laisser,
+pour le représenter à Fès Eljedid, l'ainé de ses fils
+Moûlay 'Abouloula Mahrèz. Il laissa à Méknės Moûlay
+Mohammed surnommé Zéïdân, qui était le plus brave des
+
+
+1. Texte arabe, $IV^{\circ}$ partie, page 37.
+
+
+106
+
+
+ARCHIVES MAROCAINES
+
+
+enfants qu'il avait alors, et envoya à Morråkch un autre de
+ses fils, Moulay Aboûlyamn Elmâmoùn, en ordonnant au
+chef de cette capitale, le fqth Aboûl abbas Ahmed Elyah-
+médi, qui était chef des secrétaires, de lui remettre le pou-
+voir et de lui faire les recommandations nécessaires. Moû-
+lay Elmâmoûn, quoique mal disposé pour ce vizir, se
+rendit auprès de lui, à contre-cœur, et, pour obéir aux
+ordres de son père, reçut de ses mains le pouvoir et écouta
+ses conseils. Mais bientôt il revint auprès du Sultan et
+lui dit: << O notre Maître, Elyaḥmédi te manque de res-
+pect: il prétend que c'est lui qui t'a enseigné la reli-
+gion. » Le Sultan (Dieu lui fasse miséricorde!) lui répon-
+dit: « S'il a dit cela, il n'a dit que la vérité: c'est lui, en
+effet, qui m'a enseigné ma religion et qui m'a fait con-
+naître mon Dieu. » Cette anecdote est rapportée par l'au-
+teur du Boustûn et par l'auteur du Djéïch, qui prétendent
+tous deux l'avoir entendue de la bouche de feu le sultan
+Moûlay Sliman ben Mohammed (Dieu lui fasse miséri-
+corde!) Elle est, en tout cas, toute à la louange de Moûlay
+Ismâîl et elle indique qu'il s'inclinait devant la vérité, et
+qu'il savait la reconnaître. Dieu leur fasse à tous miséri-
+corde!
+
+
+Quand commença l'année 1103, le Sultan, bien que tou-
+jours décidé à se rendre à Fèzzáz, envoya la solde et des
+armes aux gens de Fès, et leur ordonna de partir pour le
+pays des Turcs sous le commandement de son fils Moûlay
+Zéïdân. Cette troupe quitta la ville dans le mois de rama-
+dân. Après la fête, le Sultan commença ses préparatifs
+d'expédition pour Fézzâz, mais, changeant d'idée, il se mit
+en route pour rejoindre Moùlay Zéïdân qu'il atteignit sur
+les confins du Magrib moyen. Après avoir conclu la paix
+avec les Turcs, il revint à Méknès. C'est ainsi que l'auteur
+du Boustân relate ces faits. Mais j'ai lu la version sui-
+vante dans le Nachr Elmatsâni:
+
+
+Le sultan Moulay Ismail choisit pour conclure la paix
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+107
+
+
+avec les Turcs, après la bataille d'Elmcharé qui eut lieu
+avec eux, vers l'armée 1103, le fqih Abou Abdallah Mo-
+hammed Ettayyéb Elfėsi, dont il connaissait la science et
+l'habileté, ainsi que la famille à laquelle il appartenait.
+Cet envoyé se mit en route pour Alger, accompagné
+de Moulay Abdelmalék, fils du Sultan, du secrétaire
+Aboù Abdallah surnommé Elouzir, et de plusieurs
+autres hauts fonctionnaires de la cour ismailienne. Ils
+approchaient d'Alger quand le prince de cette ville en
+sortait avec ses troupes, répandant partout le meurtre et
+le pillage. Le bruit courut bientôt à Fès que tous ces am-
+bassadeurs avaient été tués; la nouvelle arriva le jour
+même de la fète de Achoura. La tristesse fut si grande
+que personne ne put se décider à faire des dépenses, et les
+objets qu'on a l'habitude d'acheter ce jour-là furent laissés
+de côté, car chacun était rempli de chagrin. Mais peu de
+temps après, on apprit qu'ils arrivaient sains et saufs et
+qu'ils se trouvaient déjà à Taza. La joie se répandit alors
+dans la ville, et les gens se mirent à dépenser leur argent
+comme au jour de  Achoura.
+
+
+Bâ Ichcho Elqebli étant mort, le Sultan donna le com-
+mandement des Zemmour et des Beni Hkimà son fils Aboû-
+lhasan Ali ben Ichcho.
+
+
+Bientôt, on fut en 1104. Le Sultan termina alors ses
+préparatifs d'expédition contre les Berbers de Fézzâz. Il
+convoqua les tribus, réunit ses troupes, et, muni de tous
+ses canons, mortiers, balistes et autres machines de siège,
+il alla d'abord camper avec les Abids dans la plaine d'Adé-
+khsân. Après avoir réparti les soldats en divers groupes
+qui devaient opérer dans toutes les directions contre les
+Brâbér, il donna au bacha Msahél 25.000 fantassins; ce
+personnage devait monter de Tadla à l'Oued El abid, pour
+prendre à revers les Aït Isri. Ali ben Barakat fut envoyé
+avec les Aït Zemmoûr et les Aït Idrásèn pour occuper
+Tigallin. Ali ben Ichcho devait se tenir à Ain Choù a
+
+
+108
+
+
+ARCHIVES MAROCAINES
+
+
+avec les Zemmoûr et les Beni Hkim. Le Sultan envoya
+ensuite aux habitants de Toudġa, de Ferkla et de Ġeris, et
+aux Sebbah, l'ordre de venir avec leurs contingents
+rejoindre  Ali ben Ichcho. Les artilleurs avaient aussi
+l'ordre d'amener à celui-ci les canons, les mortiers et les
+autres appareils de guerre, que les chrétiens de El'arèïch
+devaient traîner par la route d'A'lil, puis par Qşar Beni
+Mţîr, pour faire leur jonction à Aîn Chòu a avec Ali ben
+Ichcho. Le Sultan donna aux chefs des corps de troupe
+l'ordre de n'engager l'action qu'après un signal convenu.
+<< Telle nuit, au moment du acha, leur dit-il, les artilleurs
+commenceront à tirer le canon et les mortiers à lançer
+des boulets et des bombes, et le feu durera toute la nuit
+pour effrayer les Berbers. Le lendemain matin, chaque
+qâïd partira de l'endroit qui lui a été assigné, et engagera
+l'action, de façon qu'au même moment le combat com-
+mence de tous les côtés à la fois.  Ces ordres furent fidè-
+lement exécutés. Quand le soir désigné fut venu, les Ber-
+bers n'entendirent que le fracas des canons et des mortiers
+qui éclatait dans les airs, tandis que leur feu perçait les
+ténèbres de la nuit. L'écho de la canonnade se répercutait
+de montagne en montagne dans toutes les directions.
+Saisis d'effroi, ils pensèrent que la terre allait les englou-
+tir, ils démontèrent leurs tentes, et chargèrent leurs fa-
+milles sur des animaux pour s'enfuir, mais aucune ruse
+n'était possible, car aucun chemin ne s'ouvrait devant
+eux.
+
+
+Le lendemain, le Sultan quitta son poste pour se porter
+au-devant d'eux et les soldats se présentèrent de tous les
+côtés. Après une lutte terrible, les Brâbér furent taillés
+en pièces et se dispersèrent en déroute dans les ravins et
+les vallées; à tous les cols, à toutes les trouées, ils trou-
+vaient des soldats qui leur barraient le chemin, et des
+canons braqués sur eux. C'en fut fait d'eux et le malheur
+s'acharna après eux comme il voulut. Les hommes furent
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+109
+
+
+tués; les femmes et les enfants faits prisonniers; les effets
+pillés; les animaux, les bestiaux enlevés; les chevaux et
+les armes pris comme butin. Le combat et le pillage durè-
+rent trois jours, pendant lesquels les soldats allaient recher-
+cher les Brâbér çà et là dans les ravins et les vallées, et
+les faire sortir des grottes et des cavernes. Le Sultan donna
+l'ordre aux qâïds Msâhél, Ali ben Ichcho, et Ali ben Bara-
+kât de réunir les têtes des morts, ainsi que les chevaux et
+les armes, et de venir les lui apporter à Adékhsân. Ils
+ramassèrent tout ce qu'ils purent trouver: il y avait plus
+de 12.000 têtes, plus de 10.000 chevaux et plus de 30.000
+fusils.
+
+
+Par cette victoire sur les Berbers, le sultan Moûlay
+Ismâ  îl terminait la conquête du Maġrib. Il l'avait soumis
+tout entier, et plus une seule de ses artères ne battait.
+
+
+Mille cavaliers des Aït Zemmoûr furent inscrits dans le
+Diouân, et formèrent, sous les ordres de Ali ben Ichcho,
+la garnison de la forteresse de Tigallin qui commandait la
+région principale des Aït Ou Mâlou.
+
+
+Le Sultan n'avait laissé à aucune tribu du Magrib, ni
+chevaux, ni armes. Seuls en possédaient les Abids, les
+Oûdêya, les Aït Zemmoûr et les Rifains qui faisaient la
+guerre sainte à Ceuta.
+
+
+<<< En affaiblissant les tribus musulmanes, dit Aboû Ab-
+dallâh Akensoûs (Dieu lui fasse miséricorde !), par la con-
+fiscation de leurs chevaux et de leurs armes, le sultan
+Moûlay Ismåîl avait paré au moins considérable des dan-
+gers et au moindre des inconvénients, tandis que ce qu'il
+faut rechercher avant tout, ce sont les moyens de renforcer
+les tribus pour faire face à l'ennemi infidèle, conformé-
+ment à la parole de Dieu: << Préparez contre eux toutes les
+forces que vous pourrez... » Moûlay Ismail, au contraire,
+considéra qu'en organisant cette forte et puissante armée,
+il avait rempli ses devoirs envers les musulmans, leur
+avait assuré le nécessaire et les avait débarrassés du souci
+
+
+110
+
+
+ARCHIVES MAROCAINES
+
+
+de se procurer des chevaux et des armes. Il convient de
+remarquer, il est vrai, que, dès que les tribus possèdent
+des chevaux et des armes, on voit apparaître un mal plus
+considérable; elles coupent les routes, se livrent au pil-
+lage et cherchent à se soustraire à l'obéissance. » Cet
+auteur ajoute: « Mes arguments en faveur du Sultan sont
+aussi évidents que possible. Ils ont probablement échappé
+au chéïkh Elyoûsi lorsqu'il lui écrivit sa lettre bien con-
+nue. »
+
+
+Je dirai à mon tour que la politique du sultan Moûlay
+Ismâ'îl (Dieu lui fasse miséricorde!) avait des avantages
+très clairs, et chacun sait à quel point de vue elle est plau-
+sible. Les gens raisonnables savent bien que les gens de
+Fézzâz et ceux qui leur ressemblent, n'ont pas des che-
+vaux et des armes pour faire un jour la guerre sainte: le
+Sultan n'avait donc pas besoin d'être défendu à cet égard.
+Il n'est pas exact, d'autre part, de prétendre que cet argu-
+ment ait échappé au chéïkh Elyoûsi; car celui-ci n'a pas
+parlé au Sultan de ces tribus et de celles qui leur ressem-
+blent. Il lui a fait envisager seulement trois questions:
+$1^{\circ}$ la perception et l'emploi réguliers des impôts; $2^{\circ}$ l'or-
+ganisation de la guerre sainte et l'établissement de com-
+battants et d'approvisionnements d'armes dans toutes les
+places de guerre ; $3^{\circ}$ l'équité en faveur des opprimés
+contre les oppresseurs et la cessation des injustices dont
+sont victimes les administrés.
+
+
+Voici le texte de sa lettre:
+
+
+<<< Louange à Dieu.
+
+
+<<< Les prières et le salut soient sur notre Seigneur Mo-
+hammed, sur sa famille et sur tous ses compagnons.
+
+
+<< O pôle et centre de la gloire, asile et manteau de
+l'honneur, fondement et source de la haute noblesse,
+point de départ et siège de la vertu, sultan magnifique,
+majestueux et glorieux, Notre Maître Ismail, fils de Notre
+Maître Echchérîf!
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+111
+
+
+<<<< Puissent ses étendards remporter toujours la victoire
+et ses jours se passer seulement dans la puissance et la
+bonne fortune!
+
+
+<<< Salut, miséricorde et bénédictions de Dieu sur Notre
+Seigneur!
+
+
+<< Ensuite il ne me reste plus qu'à témoigner mon affec-
+tion, mon respect et ma vénération sans bornes pour notre
+Seigneur et à lui adresser mes vœux pour sa prospérité :
+c'est là une bien faible partie de ce que je dois à sa main
+toujours ouverte vers moi pour la bienfaisance et la géné-
+rosité, à sa vertu, à son énergie, à ses bienfaits et à ses
+largesses; c'est encore bien peu en comparaison de ce
+que nous devons tous à sa dignité impériale et à son
+rang puissant de descendant de Fâțima.
+
+
+<< Je vous écris cette lettre, car il ne m'est plus possible
+de garder le silence. Depuis longtemps je vois que Notre
+Seigneur recherche les exhortations et les conseils, et
+qu'il désire voir s'ouvrir les portes de la prospérité et
+du succès. Aussi j'ai voulu écrire à Notre Seigneur une
+lettre qui, s'il veut en tenir compte, me laissera espérer
+pour lui les bienfaits de ce bas monde et ceux de l'éter-
+nité, et l'élévation aux degrés les plus glorieux; et si je
+ne suis pas digne d'adresser des exhortations, j'espère
+que Notre Seigneur sera digne de les recevoir et s'abs-
+tiendra de reproches.
+
+
+<<< Que notre Seigneur sache donc que la terre avec tout
+ce qu'elle contient est le royaume de Dieu Très-Haut qui
+n'a pas d'associé, et que les créatures sont les esclaves de
+Dieu et ses serviteurs. Notre Seigneur est l'un de ces
+esclaves, à qui Dieu a donné le pouvoir sur ses esclaves
+pour l'éprouver et le faire souffrir. S'il les administre
+avec justice, avec miséricorde, avec équité et avec inté-
+grité, il est le lieutenant de Dieu sur la terre et l'ombre de
+Dieu sur ses esclaves: il jouit auprès de Dieu d'un rang
+élevé. Mais s'il les gouverne avec tyrannie, avec dureté,
+
+
+112
+
+
+ARCHIVES MAROCAINES
+
+
+avec orgueil, avec injustice et avec oppression, il se met
+en révolte contre Son Maître dans son royaume, il n'est
+qu'un usurpateur insolent et s'expose au plus terrible châ-
+timent de la part de Son Maître et à sa colère. Or Notre
+Seigneur sait ce qui est réservé à celui qui veut tyranniser
+ses sujets sans le consentement du Maître et en faire des
+esclaves, et le sort qui l'attend, le jour où il est entre ses
+mains.
+
+
+<<< Je dirai ensuite que sur le Sultan pèsent de nom-
+breuses obligations que je ne pourrais pas indiquer entiè-
+rement dans cette lettre. J'en citerai seulement trois, qui
+sont le principe de toutes les autres: La première est de
+recueillir les impôts et de les dépenser d'une façon juste.
+La seconde est d'organiser la guerre sainte pour faire
+triompher la parole de Dieu, et, dans ce but, de munir les
+places de guerre de tout ce qui leur est nécessaire en
+hommes et en armes. La troisième consiste à faire rendre
+justice à l'opprimé contre l'oppresseur, et, dans ce but,
+à faire cesser les dénis de justice.
+
+
+<< Ces trois obligations restent lettre morte sous le
+règne de Notre Seigneur, aussi suis-je obligé de lui signa-
+ler cette situation, afin qu'il ne puisse pas s'excuser
+ensuite de n'avoir pas été avisé et de n'avoir pas su. S'il
+tient compte de cet avis et le met à profit, c'est le salut
+pour lui; c'est encore la sauvegarde des intérêts du mo-
+ment, des intérêts de tous, c'est le bien-être et la pros-
+périté. Dans le cas contraire, j'aurai la satisfaction d'avoir
+fait mon devoir.
+
+
+<<< Pour ce qui concerne le premier point, que Notre
+Seigneur sache que les impôts qu'il perçoit sur les sujets
+sont destinés à faire face aux œuvres utiles qui servent à
+consolider la religion et à améliorer les choses de ce
+monde. Ils doivent être dépensés pour les chérîfs, les
+oulamâ, les qâdis, les imâms, les guerriers de la foi, les
+troupes, les mosquées, les ponts, etc. Ces gens sont
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+113
+
+
+comme l'orphelin qui possède des créances et qui ne peut
+se les faire payer qu'en prenant un mandataire. Les sujets
+sont comme des créanciers, et c'est le Sultan qui est leur
+mandataire. Si ce mandataire fait rentrer la créance dans
+son intégrité, et s'il la remet aux orphelins en donnant à
+chacun la part qui lui revient, il est à l'abri des reproches,
+ni le débiteur, ni les orphelins ne peuvent plus rien lui
+réclamer, et il aura deux récompenses, pour avoir fait
+payer et pour avoir payé. Si, au contraire, il réclame plus
+que la dette sans le consentement du débiteur, il commet
+une injustice envers lui, et s'il diminue la part qui revient
+à l'orphelin, il commet encore une injustice envers lui. De
+mème s'il se fait payer toutes les créances et qu'il les garde
+pour lui sans les remettre aux ayants droit, il commet une
+injustice. Que Notre Seigneur procède à un examen : les
+impositions de son gouvernement ont attiré la peur de l'in-
+justice sur tous ses sujets: ils ont mangé leur chair, bu
+leur sang, rongé leurs os et sucé leur cerveau. Elles n'ont
+rien laissé à personne, ni biens de ce monde, ni religion.
+Les biens de ce monde, elles les leur ont enlevés; la reli-
+gion, elles les ont excités à la révolte contre elles. Ce n'est
+pas là une opinion, c'est une chose que j'ai vue de mes
+propres yeux. Ceux qui ont des droits à faire valoir les ont
+perdus sans pouvoir les atteindre. Il faut donc que Notre
+Seigneur surveille les collecteurs d'impôts, qu'il les pré-
+vienne contre les injustices et qu'il ne se laisse pas égarer
+par les tableaux séduisants qu'on peut lui faire de la situa-
+tion, car presque tous les gens qui l'entourent ne recher-
+chent que les bruits de ce monde, ils ne craignent pas Dieu,
+et ne reculent pas devant la flatterie, l'hypocrisie et le
+mensonge. L'amitié de Notre Seigneur, le Prince des
+Croyants, notre Maître Ali ben Aboù Tâléb (Dieu le glo-
+rifie!) a dit d'un meilleur qu'eux: « La dupe est celui que
+<<< vous aurez dupé. » Notre Seigneur doit donner son at-
+tention aux choses vraiment utiles et ouvrir sa main géné-
+
+
+ARCIL. MAROC.
+
+
+א
+
+
+114
+
+
+ARCHIVES MAROCAINES
+
+
+reuse aux gens d'élite, c'est-à-dire aux gens qui pratiquent
+la vertu et la piété, aux gens de bien, afin de se concilier
+leur amitié, leurs éloges et leur appui.
+
+
+<<< Vos bienfaits vous ont fait gagner trois choses: ma
+main, ma langue et mon cœur qui est caché », a dit le
+poète.
+
+
+« Les cœurs, en effet, sont remplis de l'affection de ceux
+qui sont généreux envers eux, et qui ne les négligent pas,
+sans quoi, ils désirent le changement et appellent de tous
+leurs vœux un autre règne.
+
+
+<< Si, sous un règne, l'homme est privé de deux choses :
+un peu d'avoir et du bonheur, il désire la fin de ce règne.
+<< Non pas par haine pour lui, mais plutôt parce qu'il en
+veut un autre et qu'il aimerait un changement.
+
+
+<<< Que Notre Seigneur sache aussi que si le Sultan prend
+les biens du peuple, les distribue aux gens d'élite et les
+dépense dans des œuvres d'utilité publique, le peuple lui
+sera soumis, il saura qu'il a un vrai Sultan et son cœur se
+tranquillisera quand il verra son argent dépensé dans des
+œuvres qui lui profitent; sinon, ce sera le contraire et le
+Sultan sera exposé aux traits agiles des imprécations des
+sujets opprimés, tandis que s'il est généreux envers les
+gens d'élite, ceux-ci souhaitent pour lui la prospérité, la
+santé et une longue vie. Or les vœux attirent les vœux et
+Dieu est le protecteur.
+
+
+<<< Le second point est aussi gravement compromis.
+<< Dans les circonstances actuelles, une des premières
+nécessités est d'affermir les places de guerre. Or Notre
+Seigneur les ayant négligées, elles sont aujourd'hui dans
+un état de faiblesse extrême. J'étais moi-même à Tétouân
+du temps de Moûlay Errechîd (Dieu lui fasse miséri-
+corde!) Dès que l'on entendait appeler au secours, la
+terre tremblait sous les pieds des cavaliers et des fantas-
+sins. J'apprends maintenant qu'un jour on entendit un
+appel de ce genre du côté de la mer, et que les habitants
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+115
+
+
+sont aussitôt sortis marchant à pied à grand'peine, sans
+autres armes que des bâtons et des frondes. C'est une véri-
+table faiblesse pour la religion, un véritable danger pour
+les musulmans. Cette faiblesse à laquelle ils sont réduits
+vient de ce qu'ils sont accablés d'impôts et ont à subir les
+charges des expéditions et à fournir des armes comme
+tous les autres administrés. Notre Seigneur doit examiner
+toutes les côtes, depuis Qaliya jusqu'à Massa, exhorter
+leurs habitants à la guerre sainte et à une vigilance conti-
+nuelle, et, dans ce but, répandre sur eux ses bienfaits, les
+exonérer des charges qui pèsent sur les autres sujets, leur
+laisser leurs chevaux et leurs armes, et même leur fournir
+tout ce dont ils ont besoin, car ce sont eux qui protègent
+les abords du territoire de l'Islâm. Il doit choisir, pour le
+gouvernement de ces régions, des hommes qui soient
+animés de la plus vive ardeur pour la guerre sainte, qui
+soient capables de sortir avec habileté des situations dif-
+ficiles et qui prennent jalousement la défense de l'Islâm.
+Il ne doit pas nommer dans ces pays-là des gens qui ne
+cherchent qu'à satisfaire leurs appétits et à passer leur
+tenips allongés sur des coussins. Dieu est le protecteur!
+<<< La troisième question est, elle aussi, inexistante, car
+ceux qui, dans les diverses contrées, sont chargés de
+rendre la justice, c'est-à-dire les gouverneurs et leurs
+subordonnés, ne font que commettre des injustices. Com-
+ment pourraient faire cesser l'arbitraire ceux qui s'y livrent
+eux-mêmes ? A peine quelqu'un veut-il se plaindre qu'ils
+se précipitent à la porte pour le dénoncer et qu'ils le
+chargent encore: il n'est plus possible à personne de
+porter ses doléances.
+
+
+<< Que Notre Seigneur craigne Dieu, qu'il craigne les ré-
+criminations de l'opprimé, car entre elles et Dieu il n'y
+a pas de voile; qu'il s'efforce de répandre la justice, car il
+est le chef de l'État; c'est lui qui est chargé de soutenir les
+intérêts de la religion et ceux de ce bas monde.
+
+
+116
+
+
+ARCHIVES MAROCAINES
+
+
+<<< Dieu a dit : « Dieu ordonne la justice et la bienfaisance,
+la libéralité envers ses parents; il défend la turpitude et
+l'iniquité et l'injustice... » Il a dit aussi : « Dieu assistera
+celui qui l'assiste! Dieu est fort et puissant. » Il a indiqué
+aussi ceux à qui il donne son appui et à quelles condi-
+tions :  Il assistera ceux qui, mis en possession de pays,
+observent exactement la prière, font l'aumône, comman-
+dent le bien et interdisent le mal. >>>
+
+
+<< Dieu a donc promis aux rois son appui, mais aux quatre
+conditions qui précèdent. Aussi quand ils voient leurs
+sujets se livrer au désordre, qu'ils deviennent le jouet de
+perturbateurs qui ébranlent le gouvernement, ils doivent
+savoir que c'est l'inobservation de ces conditions vis-à-
+vis de leurs sujets qui en est la cause et ils doivent revenir
+à Dieu, examiner les ordres qu'il leur a donnés et tenir
+compte des avertissements qu'il leur a envoyés.
+
+
+<<< Les sages arabes et étrangers s'accordent à dire que
+la tyrannie ne peut assurer la force d'un empire et sa
+bonne organisation, mais que la justice, mème chez les
+infidèles, est la base de sa bonne organisation. On a vu,
+en effet, les rois infidèles vivre des centaines d'années
+dans un royaume bien administré, où leur parole est
+écoutée et à l'abri de toute inquiétude, parce qu'ils fai-
+saient rendre la justice parmi leurs sujets et veillaient à la
+défense de leurs biens matériels. Comment n'en serait-il
+pas ainsi pour un prince qui voudrait défendre à la fois
+les biens matériels et les biens spirituels ?
+
+
+« Un sage a dit : « Un royaume est une construction;
+l'armée en est le fondement. Si ce fondement est faible,
+la construction s'écroule. Il n'y a pas de Sultan sans
+armée, pas d'armée sans argent, pas d'argent sans impôt,
+pas d'impôt sans prospérité, pas de prospérité sans jus-
+tice: la justice est donc la base de tout. » Le philosophe
+Aristote fit pour le roi Alexandre une figure géométrique
+circulaire sur laquelle il écrivit ceci : « Le monde est un
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+117
+
+
+jardin dont le gouvernement est la haie, le gouvernement
+est un Sultan que soutient la loi; la loi est une base admi-
+nistrative que manœuvre le roi; le roi est un berger que
+soutient l'armée; l'armée est un auxiliaire qu'assure l'ar-
+gent; l'argent est un bien que réunissent les sujets; les
+sujets sont des esclaves que la justice conduit; la justice
+est une synthèse qui régit le monde; le monde est un
+jardin, etc. >>>
+
+
+<<< Le Prophète (sur lui soient les prières de Dieu et le
+salut) a dit: << Vous êtes tous des bergers et chaque berger
+doit rendre compte de son troupeau. » « Il y a des hommes
+qui gaspillent injustement le bien de Dieu; leur châtiment
+le jour de la résurrection sera l'enfer. » « Pas un seul fonc-
+tionnaire ne viendra le jour de la résurrection sans avoir
+les mains liées: la justice le délivrera; l'injustice le fera
+périr. >>
+
+
+<< Notre Maître Ali ben Aboû Tâléb (Dieu soit satisfait de
+lui!) a dit : « J'ai vu, à Elabtaḥ, Omar monté à chameau
+sur un bât: je lui ai dit: « Où vas-tu? ò Prince des
+Croyants? - Un des chameaux destinés aux aumônes, me
+répondit-il, a disparu: je le recherche.
+Tu veux donc
+rabaisser tous tes successeurs? lui dis-je. Ne me fais
+pas de reproche, répartit-il; par celui qui a fait apporter la
+vérité par Mohammed (que Dieu prie sur lui!) si la moindre
+chevrette était perdue sur le bord de l'Euphrate, il en serait
+demandé compte à Omar au jour du jugement dernier. Il
+n'est digne d'aucun respect le prince qui cause du tort au
+musulman pas plus que l'impie qui jette le trouble parmi
+les croyants. »
+
+
+<< 'Ali vit aussi un vieux Juif qui mendiait aux portes :
+« Nous n'avons pas agi avec justice envers toi, lui dit-il;
+nous t'avons fait payer la djézia, tant que tu étais jeune, et
+maintenant te voilà réduit à la misère par notre faute, » et
+il lui fit payer par le Trésor de quoi le nourrir.
+
+
+<< Que Notre Seigneur sache qu'en fait de justice, il doit
+
+
+118
+
+
+ARCHIVES MAROCAINES
+
+
+d'abord ètre juste pour ce qui le concerne: il ne doit s'at-
+tribuer comme argent que ce à quoi il a droit. Il consultera
+les oulama sur ce qu'il aura à prendre et à donner. Chez les
+Beni Isrâïl, l'émir était sous les ordres d'un prophète; celui-
+ci ordonnait et l'émirse bornait à exécuter. Comme ce peuple
+disparu a vu s'éteindre chez lui la prophétie à la venue du
+sceau des prophètes (Dieu lui accorde ses bénédictions et lui
+accorde le salut!), ce sont les oulama qu'il faut prendre pour
+guides. Le Prophète a dit : « Les oulamâ de mon peuple
+sont comme les prophètes des Beni Isrâïl; il est juste que
+mon peuple leur obéisse et ne procède que par leur inter-
+médiaire à la perception et au paiement. » Quand il mourut
+(Dieu lui accorde ses bénédictions et son salut!) il désigna
+pour son successeur Aboù Bekr (Dieu soit satisfait de lui !)
+Celui-ci, jusqu'alors, se livrait au commerce sur le marché
+pour entretenir sa famille. Quand il fut khalife, il prit l'ar-
+gent qui servait à son négoce, et voulut aller au marché
+suivant son habitude. Mais les oulamâ des compagnons
+du Prophète l'en empèchèrent, en lui disant qu'il avait
+suffisamment à faire avec le pouvoir sans aller au marché,
+et lui attribuèrent les sommes nécessaires pour lui et sa
+famille: un amîn fut chargé des finances. L'égalité la plus
+parfaite était établie pour tous: il ne prenait, comme les
+autres, que ce que lui attribuait la Loi sacrée. Telle fut la
+règle à laquelle se conformèrent les khalifes ses succes-
+seurs.
+
+
+<< Notre Seigneur doit prendre modèle sur ces saints
+personnages, au lieu d'imiter ceux qui suivent leurs pas-
+sions. Qu'il interroge à cet égard les docteurs de confiance
+qu'il a auprès de lui, comme Sidi Mohammed ben Elhasan,
+Sidi Ahmed ben Sa'id et autres savants qui craignent Dieu
+et qui ne redoutent pas ses reproches. Au nombre des
+choses que j'ai indiquées et de celles dont je n'ai point
+parlé, faites ce qu'ils ordonneront, et abstenez-vous de ce
+qu'ils interdiront. Telle est la vie du salut, s'il plût à Dieu !
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+119
+
+
+<< Je demande au Très-Haut de vouloir bien protéger
+Notre Seigneur, le diriger et le fortifier, afin que, sous son
+égide, la prospérité règne dans le pays, et d'exterminer
+de son glaive les tyrans et les obstinés.
+
+
+<< Ainsi soit-il.
+
+
+<<< Louange à Dieu, maître des mondes. >>>
+
+
+Lorsque le Sultan en eut fini avec l'affaire de Fèzzâz et
+avec les Aït Ou Malou, comme les gens de la tribu de
+Guerouân se livraient au brigandage à Oued Ziz, sur la
+route de Sijilmâsa, et pillaient les caravanes, il convoqua
+Ali ben Ichcho, lui donna 10.000 cavaliers, et lui dit : « Je
+ne veux plus te revoir tant que tu ne seras pas tombé sur
+les Guerouân, et que tu ne m'auras pas rapporté autant de
+têtes qu'il y en a ici. » Celui-ci partit aussitòt; il alla piller
+leurs campements et leurs troupeaux, et leur tua beau-
+coup de monde. Ensuite il fit proclamer dans ces tribus
+que quiconque lui apporterait une tète de Guerouani rece-
+vrait 10 mitsqals. Tous les Guerouâni eurent la tête
+coupée par ceux chez qui ils s'étaient réfugiés, et les têtes
+furent apportées à Ali ben Ichcho. Les recherches conti-
+nuèrent dans les maisons et dans les tentes jusqu'à ce qu'il
+eût atteint le nombre de crânes qu'il lui fallait. Il donna
+seulement un mitsqâl aux gens qui lui apportaient une tête,
+et en rapporta lui-même 12.000 au Sultan. C'était le chiffre
+qui lui avait été demandé; c'était aussi celui des tètes déjà
+réunies à Adékhşan. Le Sultan lui adressa des éloges et
+lui donna le commandement de toutes les tribus arabes
+et berbères.
+
+
+Dans l'année 1105, il ne se passa aucun événement digne
+d'être rapporté.
+
+
+Au mois de rabi de l'année suivante (1106), Moûlay
+Zéïdân, fils du Sultan, partit pour Tlemsên après avoir mis
+à mort le représentant du prince à Fès, Aboùl'abbas
+Ahmed Esslaoui. Il guerroya contre les Turcs, et revint
+après avoir pris du butin.
+
+
+120
+
+
+ARCHIVES MAROCAINES
+
+
+Dans l'année 1107, il ne se passa aucun événement digne
+d'être rapporté.
+
+
+Le jour de Arafa de l'année 1108, dix personnages arri-
+vèrent de Constantinople, porteurs d'une lettre que le
+sultan ottoman Moustafa ben Mohammed envoyait au sul-
+tan Moûlay Ismail, pour lui enjoindre de conclure la paix
+avec les Algériens. Moûlay Ismâ'il déféra à cette de-
+mande.
+
+
+Le sultan Moulay Ismail ordonne aux oulamâ de Fès d'écrire
+leur avis approbatif sur le rôle des Abids: leur refus; consé-
+quences de ces faits ¹.
+
+
+Au mois de doûlqa da 1108, le qâdi et les oulama de
+Fès reçurent du Sultan une lettre de blâmes et de repro-
+ches, au sujet de leur refus de reconnaître la légitimité de
+la possession des Abîds inscrits sur le Dîouân. Dans une
+lettre ultérieure, le Sultan faisait l'éloge du peuple, bla-
+mait, au contraire, les oulamâ, révoquait le qâdi et les
+notaires. C'est du moins ce que rapporte l'auteur du
+Boustân.
+
+
+<< Les faits rapportés par l'auteur du Boustân, dit Aboû
+'Abdallah Akensoûs, sur le sultan Moûlay Ismâîl deman-
+dent examen. Ce qu'il dit est très vague. En effet, les
+conditions dans lesquelles les 'Abîds ont été réunis sont
+rapportées en détail sur le grand registre de Moûlay
+Ismâîl. Or, ce document établit une distinction entre les
+esclaves qui ont été achetés moyennant paiement dans les
+formes légales, et par actes d'adoûl; de ceux-ci il ne peut
+pas être question. Quant à ceux inscrits sur le Diouân qui
+ont été amenés des diverses tribus, le Sultan n'a jamais pré-
+tendu en ètre le propriétaire: la seule question à examiner
+
+
+1. Texte arabe, IV partie, p. 42.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+121
+
+
+est celle de la légitimité de leur enrólement forcé dans
+l'armée. Or le Sultan avait demandé leur avis, à cet égard,
+à des oulamâ du Magrib et de l'Orient, qui tous lui avaient
+envoyé des réponses signées de leur main et concluant à la
+légitimité. Ces réponses sont transcrites en entier sur le
+registre et il y en a un grand nombre. A Dieu ne plaise
+qu'un sultan comme Moulay Ismail ait prétendu posséder
+des hommes de condition libre.
+
+
+<< D'ailleurs nous avons vu la lettre du chéïkh Elyoùsi où
+se trouvent exposés tous les reproches qu'il adressait au
+Sultan. Si celui-ci eût réellement agi comme le dit Ezzayâni,
+c'eût été un des premiers griefs dont eût parlé Elyoûsi,
+qui n'aurait certes pas gardé le silence, puisqu'il reprocha
+au Sultan des choses bien plus légères que celle-là.
+
+
+<<< Toutefois, le registre porte diverses catégories de
+nègres distinctes qui, aux yeux du Sultan, étaient indubita-
+blement des esclaves d'Elmansour Essaʻdi, et qui s'étaient
+dispersés dans les tribus, à la chute de la dynastie saadienne.
+C'étaient les esclaves qui étaient inscrits sur le registre
+de 'Alilich. Des enquêtes avaient été effectuées au sujet
+de leur condition d'esclaves; on avait interrogé à leur
+égard les vieillards des tribus, qui avaient indiqué ceux
+qui étaient esclaves et ceux qui ne l'étaient pas. Tout cela
+était entièrement établi aux yeux du Sultan. Malgré cela,
+il ne les comprit pas dans les esclaves ordinaires qui
+avaient été achetés à prix d'argent, et les classa dans une
+catégorie à part. Il y avait, en effet, trois catégories à part,
+dans ce corps de troupes: la première comprenait les
+esclaves purs; la seconde, les hommes vraiment libres, et
+la troisième était composée de gens oscillant entre ces
+deux catégories. >>>
+
+
+Dieu sait quelle est la vérité.
+
+
+122
+
+
+ARCHIVES MAROCAINES
+
+
+Le sultan Moûlay Ismâ'il partage les provinces du Magrib
+entre ses fils; conséquences de ce partage¹.
+
+
+En 1111, le sultan Moùlay Ismâ'il partagea les provinces
+du Magrib entre ses fils.
+
+
+Il donna à son fils Moulay Ahmed Tadla, avec résidence
+à la qaşba de cette province et un corps de 3.000 Abîds.
+Comme le Sultan avait ordonné à ce prince d'agrandir
+cette qaşba, il en construisit une nouvelle, où il éleva son
+palais, ainsi qu'une mosquée plus grande que celle qu'avait
+bâtie son père dans la première. Il résida dans la nouvelle
+qaşba.
+
+
+Moûlay Abdelmalék eut en partage la province de Dra ,
+avec sa résidence dans la qaşba de cette région et un
+corps de 1.000 cavaliers.
+
+
+Moulay Mohammed, surnommé El além, reçut le com-
+mandement du Soûs, avec 3.000 cavaliers.
+
+
+Moùlay Elmamoùn, l'aîné, qui était à Morrâkch, fut en-
+voyé à Sijilmâsa et dut résider dans la qaşba que le Sul-
+tan fit construire pour lui à Tîzîmi. Il avait avec lui
+500 cavaliers. Quand il mourut, deux ans après, le Sultan
+le remplaça par un autre de ses fils, Moùlay Yousef.
+
+
+Moulay Zéïdân reçut le commandement du Cherg. Il ne
+cessa de faire des incursions sur les sujets turcs, qu'il
+finit par chasser des environs de Tlemsen. Dans une de
+ses courses il parvint même jusqu'à Mascara et, profitant
+de l'absence du gouverneur, Otsman Bey, qui était en
+expédition, il s'empara de la ville, pilla le palais du bey et
+emporta tout ce qu'il y trouva, tapis et matelas, usten-
+siles de ménage, beurre, etc. Cet acte, et principalement
+le pillage du palais du bey, ne fut pas approuvé par le
+Sultan, en raison de la paix qu'il avait conclue avec le sul-
+
+
+1. Texte arabe, $IV^{\circ}$ partie, p. 42.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+123
+
+
+tan ottoman Moustafa; aussi retira-t-il le gouvernement du
+Cherg à Moulay Zéïdân, pour le donner à son frère Moûlay
+Hafid.
+
+
+L'année suivante (1112), le Sultan fit une expédition dans
+la région du Cherg et profita de la rupture de la paix pro-
+voquée par les incursions de Moùlay Zéïdân pour atta-
+quer les Turcs de cette contrée. Au retour, beaucoup de
+ses soldats périrent de soif; les gens de Fès furent les
+plus éprouvés, 40 d'entre eux moururent.
+
+
+La même année, le qaïd  Abdelkhaleq ben Abdallah
+Erroùsi ayant tué un des esclaves du palais du Sultan qui
+avait pénétré chez lui sans son autorisation, Moùlay Ismail
+l'envoya chercher par son fils Moulay Hafid, qui fit pour
+cela le voyage de Méknès à Fès. Sur la prière des oulamâ
+et des chérîfs de la ville,  Abdelkhaleq ne fut pas enchaîné
+et fut conduit librement à Méknès. Quand il arriva auprès
+du Sultan, il reçut son pardon et rentra à Fès, sain et sauf.
+
+
+L'année suivante (1113), le Sultan manda de nouveau
+'Abdelkhaleq Erroûsi et le fit mettre à mort dès son arri-
+vée. Il envoya à Fès son fils Moùlay Zéïdân, en le faisant
+accompagner par Hamdoûn ben Abdallah Erroùsi, qui
+devait prendre le commandement de Fès, en remplace-
+ment de son frère qui venait d'ètre tué.
+
+
+Rivalités entre les fils du Sultan. Révolte de Moûlay Mhammed
+El'âlém au Soûs: sa mort 1.
+
+
+En 1114, Moulay Abdelmalék, fils du Sultan et gou-
+verneur du Dra , arriva au mausolée de Moùlay Idris
+Elakbar dans le Zerhoûn. Il venait d'ètre mis en déroute
+par son frère Moûlay Benneşer, qui s'était emparé du Dra
+et avait pris possession de toute la région. Le Sultan
+
+
+1. Texte arabe, $IV^{*}$ partie, p. 43.
+
+
+124
+
+
+ARCHIVES MAROCAINES
+
+
+envoya aussitôt dans le Dra son fils Moulay Echchérif,
+comme gouverneur de cette province. En même temps,
+Moulay Mhammed Elalém se révoltait dans le Soùs, cher-
+chait à se faire proclamer roi, et se dirigeait sur Morrakch
+qu'il se mit à assiéger en ramadan. Le 20 chouwal, il pre-
+nait cette ville de vive force et la livrait au meurtre et au
+pillage. Aussitôt que la nouvelle parvint au Sultan, il
+envoya Moulay Zéïdan avec des troupes pour lui faire la
+guerre. Lorsque ce prince arriva à Morrâkch, Moûlay
+Mhammed avait quitté la ville et était retourné à Târoû-
+dânt, mais ses soldats en profitèrent pour y commettre
+toutes sortes d'excès. Il suivit son frère jusqu'au Soûs et
+vint camper sous les murs de Tàroùdânt. La guerre entre
+les deux frères se poursuivit sans répit.
+
+
+L'année suivante (1115), Moûlay Hafid vint s'établir à
+Fès Eljedîd et imposa une très lourde contribution aux
+habitants de la ville. Ezza îm, qui était venu comme gou.
+verneur de la cité, fut bientôt destitué et remplacé par Boû
+ Ali Erroûsi, qui fit mourir un grand nombre d'habitants
+qui furent ensuite crucifiés. A la fin de chouwâl, Moûlay
+Hafid mourut à Fès Eljedid. Pendant ce temps, la guerre
+continuait entre Moûlay Zéïdân et Moulay Mhammed
+El'âlém.
+
+
+Le 3 şafar 1116, les habitants de Fès reçurent l'ordre du
+Sultan de fournir un arçon de selle par maison: personne
+ne fut exempté de cette contribution. Le 21 du même mois,
+on apprit que Moulay Zéïdân avait occupé Târoûdânt et
+emprisonné son frère Mhammed El'âlém, à la suite d'une
+guerre qui avait duré trois ans, et au cours de laquelle
+avaient péri une foule de gens, des qâïds, des chefs, des
+notables, dont la mention serait trop longue. Moûlay Zéï-
+dân, selon le Boustân, avait, dès son entrée de vive force
+dans la ville, tué tous les habitants qu'il y avait trou-
+vés, même les femmes et les enfants. Moûlay Mhammed
+El além arriva emprisonné, le 4 rabi Ier, à Oued Beht. Le
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+125
+
+
+Sultan envoya quelqu'un pour lui couper un pied d'un côté
+du corps et une main de l'autre, à 'Aqbat Beht; le 15 du
+même mois, il mourait en arrivant à Méknès. Dieu lui
+fasse miséricorde !
+
+
+<< Quand Moulay Mhammed El'àlém fut mort, dit le qadi
+Aboû 'Abdallah Akensoùs, ce fut le qadi Aboù Abdallah
+'Mhammed Elarbi Bordala qui prononça les prières
+d'usage. Des jaloux, voulant profiter de cette circonstance
+pour se venger de lui, cherchèrent à indisposer le Sultan
+contre lui. <<< Cet homme vous déteste », lui dirent-ils, « sans
+quoi il n'aurait pas mis tant de hâte à prier sur votre ennemi
+qui s'est révolté contre vous et qui voulait vous ravir la
+royauté ! » Le Sultan ayant écrit au qâdi Bordala une lettre
+de menaces et de reproches, il lui répondit qu'en priant sur
+le défunt, il avait agi comme Elhasan Elbaşri priant sur
+Elhajjaj ben Yousef. Comme on lui reprochait sa conduite,
+il répondit: <<< Si j'avais trouvé trop grande la faute d'Elhajjaj,
+j'aurais rougi devant le Très-Haut qui est si généreux et qui
+est le clément, le miséricordieux par excellence. D'ailleurs,
+je n'ai pas procédé à ces prières sans avoir été autorisé. La
+permission m'est venue du palais seigneurial, et le fait est
+si connu qu'il n'est plus possible d'en douter; elle m'a été
+apportée par un intermédiaire qui était l'interprète de l'ordre
+émanant de Sa Majesté. Comment prétendre maintenant que
+je l'ai inventée ? Mon devoir, au contraire, était de faire ces
+prières, même sans autorisation, par égard et par respect
+pour la personne de notre Maitre (Dieu le secoure!).
+Lorsque le Prophète (sur lui soient les prières et le salut !)
+dit à Ali ben Aboù Tâléb (Dieu soit satisfait de lui!) lors
+de l'affaire d'Elhodéïbiya: «Efface le mot d'Envoyé de
+Dieu! » et qu'Ali répondit : « Par Dieu! je ne l'effacerai
+pas!  celui-ci, pris entre la nécessité d'obéir aux ordres
+du Prophète qui lui disait d'effacer, et celle de témoigner
+des égards à son rang élevé, inclina pour ce dernier parti.
+La vérité est qu'une faute punie est une faute expiée, car
+
+
+126
+
+
+ARCIIIVES MAROCAINES
+
+
+on trouve dans le Sahih ces paroles de 'Obâda ben Eşşa-
+met (Dieu soit satisfait de lui!): « Si quelqu'un commet
+une faute de ce genre et en est puni dans ce bas monde,
+le châtiment lui est compté comme une expiation. >>>
+
+
+Akensoûs poursuit: « Cette affaire fut une de celles qui
+troubla le plus le Magrib: sans la clémence de Dieu tous
+les habitants du Soûs y eussent été impliqués, et même
+les oulamâ qui étaient en rapport avec Moulay Mhammed
+El'âlém. Le chéïkh Abou 'Abdallah Elmesnâoui Eddilâï,
+qui était un des intimes de ce prince, fut accusé auprès du
+Sultan, d'avoir eu avec lui des relations assez intimes pour
+avoir eu connaissance de ce projet de révolte, et par suite
+pour l'avoir encouragé. Heureusement, un des amis du
+Sultan qui avait de la sympathie pour Elmesnâoui l'excusa,
+en disant qu'il avait fait son possible pour détourner
+Moûlay Mhammed de ses résolutions. Il récita en faveur
+d'Elmesnaoui les vers suivants :
+
+
+<< Attends, car tout a une fin. Le temps se charge de
+déjouer les stratagèmes des rusés.
+
+
+<< Ni la pleine lune ni le soleil ne donnent tout d'un coup
+leur lumière éclatante.
+
+
+« Si elle se cache derrière un rideau, aussitôt commence
+à se manifester une clarté qui grandit peu à peu en force
+et en beauté. »
+
+
+Le Sultan se rendit à ces raisons et fut convaincu de
+l'innocence du chéïkh Elmesnaoui (Dieu fasse miséricorde
+à tous !).
+
+
+« J'ai dit, explique Akensoûs, que tous les habitants du
+Soûs eussent été englobés dans cette affaire, parce que le
+Soûs seul en fut le théâtre, et que tous les gens de cette
+région qui faisaient profession de science et de piété
+étaient d'accord avec Moûlay Mhammed El'âlém, et soute-
+naient ses actes. >>>
+
+
+<<< Moûlay Mhammed, dit le Nachr Elmatsâni, possédait de
+nombreuses sciences, comme la grammaire, la logique, la
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+127
+
+
+dialectique, la théologie dogmatique, et la méthode. 11
+goûtait fort la poésie et était enclin à favoriser les lettres.
+Son frère Moùlay Echchérif, ayant commencé une mis-
+sive qu'il lui écrivait par ces paroles qu'avait adressées
+Séïf Eddaola ben Hamdan à son frère Naşir Eddaola :
+
+
+<< J'ai consenti, bien que j'y eusse droit, à te laisser
+occuper la première place, et j'ai déclaré qu'entre mon
+frère et moi il y avait une différence.
+
+
+<<< Ne consentirais-tu pas à ce que je sois le second à la
+course, si je consens moi-même à ce que tu sois le pre-
+mier ? >>
+
+
+Moûlay Mhammed chargea de la réponse le chéïkh Abou
+'Abdallah Elmesnâoui, qui était venu alors auprès de lui.
+Le chéïkh répondit:
+
+
+« Oui, je consens même à ce que tu sois le premier.
+Celui qui possède l'avance chante aussi ta gloire.
+
+
+<< Pourquoi ne consentirais-je pas à ce que la gloire soit
+tout entière pour toi, car tu es à la vérité mon frère de
+sang.
+
+
+<<< Mais les envieux ont fait cesser l'amitié entre nous;
+leurs intrigues l'ont trahie et l'ont mélangée d'eau
+trouble. >>>
+
+
+A cette date-là, c'est- -dire en 1117, les Anglais avec une
+faible armée enlevèrent Gibraltar aux Espagnols, après un
+siège de trois jours par mer et par terre. Ils profitèrent
+pour s'en emparer du moment où les Espagnols étaient
+occupés par des révoltes intérieures. Les nations euro-
+péennes, et particulièrement les Espagnols et les Fran-
+çais, furent très attristés de la prise de cette place, qui
+rendait les Anglais maîtres de la porte de l'Europe. Elles
+tentèrent plusieurs fois de la reprendre, mais sans y
+réussir. Cette place est restée jusqu'à nos jours au pou-
+voir des Anglais.
+
+
+En 1119, on apprit la mort de Moûlay Zéïdân, fils du
+Sultan, à Târoûdant: il fut apporté dans son cercueil à
+
+
+128
+
+
+ARCHIVES MAROCAINES
+
+
+Méknès et enterré nuitamment à côté de son frère Moûlay
+Mhammed. La mème année, le Sultan donna l'ordre de
+démolir le palais d'Elbedi, qui avait été construit par
+Elmansour Essa'di dans la qaşba de Morrakch, et dont
+nous avons parlé précédemment. Elyéfréni dans le Nozha
+dit << qu'il n'y eut pas une seule ville du Magrib qui ne
+reçut quelques débris d'Elbedi ».
+
+
+L'année suivante (1120, les Turcs prirent la ville d'Oran
+aux Espagnols qui la possédaient depuis longtemps. Dieu
+la rendit alors aux musulmans. La mème année, le Sultan
+donna l'ordre de lire, tous les vendredis, dans les mosquées
+le Hadits Elinşat, au moment où le prédicateur entre et
+s'assied dans la chaire.
+
+
+Mauvais traitements infligés au ſqth Abou Mohammed
+ Abdesselâm ben Hamdoûn Guessoûs 1.
+
+
+Nous avons rapporté que le sultan Moulay Ismail (Dieu
+lui fasse miséricorde!) avait donné aux oulama l'ordre
+d'approuver par écrit l'inscription des 'Abids sur le Dîouân,
+et que ces docteurs avaient refusé. La persécution recom-
+mença en 1120. Le gouverneur, Abou Mohammed Abdal-
+lâh Erroùsi ordonna aux docteurs de Fès d'écrire une
+sentence favorable au sujet du Diouân: ceux qui y
+consentirent furent épargnés; ceux qui résistèrent furent
+emprisonnés. Il fit ainsi arrêter les gens de la famille
+Guessoùs et s'empara de leurs biens. Il força un doc-
+teur de cette famille, le chéïkh Abou Mohammed Abdes-
+selâm ben Hamdoùn Guessous, à s'asseoir enchaîné en
+plein marché et à mendier sa rançon, puis il le fit trans-
+porter à Méknès, où il fut mis en prison.
+
+
+L'année suivante (1121), le Sultan lui pardonna et lui ren-
+
+
+1. Texte arabe, IV partie, p. 14.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+129
+
+
+dit la liberté. Il le fit partir pour Fès, avec mission d'expé-
+dier à Méknès les larrâţîn qui s'y trouvaient. Il les envoya
+au mois de rabi $I^{er}$. Plus tard, ce docteur mourut, tué par
+le qâïd Boû Ali Elhasan ben  Abdelkhaleq Erroûsi, sur
+l'ordre du Sultan, suivant les uns, sans son ordre, selon les
+autres.
+
+
+J'ai lu, dans une note écrite de la main de notre chéïkh
+le fqth Abou  Abdallah Mohammed ben  Abdelaziz Mah-
+boûba Esslaoui (Dieu lui fasse miséricorde!), qui était un
+homme de sens rassis, que « l'épreuve à laquelle fut sou-
+mis le docteur Mohammed Guessoûs fut provoquée par son
+refus d'approuver le Dîouân des Harrâţîn que Alilich El-
+morrakchi avait institué, pour le noble sultan Moûlay
+Ismail (Dieu lui fasse miséricorde!) Quelque mauvais sujet
+tourna en ridicule ce prince et tourna en ridicule la ville
+de Fès à cause de lui. Le Sultan reporta sa haine contre lui,
+lui confisqua tous ses biens et lui infligea des tourments de
+toute sorte. Tout fut vendu ses maisons, ses propriétés,
+ses livres et tout ce qu'il possédait, lui, ses enfants et ses
+femmes. On le promena dans les marchés en criant:
+« Qui est-ce qui veut racheter ce captif? » et on lui jetait
+de l'argent, des bijoux et bien d'autres choses précieuses.
+Pendant plusieurs jours, ceux qui étaient chargés de lui
+emportaient ce qu'on lui jetait à l'endroit où on avait trans-
+porté ses richesses. Il en fut ainsi pendant près d'une
+année: c'était un véritable opprobre pour lui et pour tous
+les musulmans. Quand le moment de sa mort approcha
+(Dieu lui fasse miséricorde! et qu'il se sentit perdu, il
+écrivit sur un petit billet qu'il jeta dans la foule: «Louange
+à Dieu. Je soussigné déclare et prends à témoin Dieu
+Très-Haut, ses anges et toutes ses créatures que je n'ai pas
+refusé d'approuver la légitimité de la propriété des 'Abids.
+Mais je n'ai trouvé dans le Chera ni le moyen, ni la voie,
+ni l'autorisation pour le faire. Si je l'avais approuvée spon-
+tanément ou contre mon gré, j'aurais péché contre Dieu.
+
+
+ARCH. MAROC.
+
+
+9
+
+
+130
+
+
+ARCHIVES MAROCAINES
+
+
+contre son Prophète et contre le Cheras. J'ai eu peur d'être
+jeté en enfer pour cette raison. J'ai consulté également les
+histoires des anciens Pères de la Loi; quand ils n'ont pas
+consenti à faire une chose qui ne leur paraissait pas con-
+forme au Chera , ils n'ont pas été inquiétés, ni dans leurs
+personnes, ni dans leurs biens, pour leurs convictions reli-
+gieuses; on aurait craint par là d'atteindre la Loi sacrée et
+de faire tomber les créatures dans l'erreur. Dieu jugera
+entre moi et quiconque n'a pas pensé comme moi et m'a
+attribué quelque chose que je n'ai ni dit ni fait. Dieu me
+suffit: c'est le meilleur mandataire. Salut. Écrit par Abdes-
+selam ben Hamdoùn Guessous, Dieu lui pardonne ses
+fautes et soit indulgent pour ses vices dans ce monde et
+dans l'autre! le mardi
+matin 23 rabî II de l'année 1121. »
+Deux jours après, Boû
+Ali Erroûsi le fit mettre à mort. II
+fut étranglé, vers le matin, dans la nuit du mercredi au
+jeudi 25 rabî Il de cette année-là, après avoir fait ses ablu-
+tions et dit de nombreuses prières. Le qaïd Boù Ali Er-
+roûsi le fit enterrer la nuit suivante. >>>
+
+
+L'affaire du fqih Abou Mohammed (Dieu lui fasse misé-
+ricorde!) est une chose regrettable pour l'Islam. Les rai-
+sons qui l'ont provoquée d'abord, et qui l'ont grossie en-
+suite jusqu'au moment où les ordres de Dieu furent exécu-
+tés, sont les unes très claires, les autres obscures. Dieu
+sait quelle est la vérité dans cet incident. Cependant, l'on
+sait du caractère de ce docteur, qu'il était intransigeant
+dans les questions de religion et tout à fait scrupuleux.
+D'ailleurs, sa déclaration qui vient d'être rapportée en
+est une preuve. Cette affaire a été l'objet de versions con-
+tradictoires dans lesquelles la passion s'est mêlée: aussi
+on n'en connait pas le fin mot. La clémence de Dieu est ou-
+verte à tous, il donne la force et le pardon.
+
+
+Aboû Abdallah Akensoûs dit : « On parla une fois en
+présence de feu le sultan Moûlay Slimân ben Mohammed
+de l'affaire du ſqth Abou Mohammed Abdesselâm. Ce
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+131
+
+
+prince prétendait qu'il n'avait pas été tué par Moûlay
+Ismail, mais par la populace de Fès. Je n'ai pas pu lui
+demander quelle est la version exacte. >>>
+
+
+Au mois de cha bân de cette année, le Sultan enleva à Bou
+Mi Erroûsi le gouvernement de Fès et le donna à Ham-
+doûn Erroûsi. Peu de temps après, celui-ci fut révoqué et
+Boû Ali rentra en fonctions. Dans le cours de cette même
+année, 'Abdallah Erroûsi arriva à Fès, porteur d'ordres du
+Sultan pour la vente des propriétés appartenant aux mou-
+jaouir en Orient, c'est-à-dire dans les deux villes saintes.
+
+
+Révolte de Moûlay Bennşer, fils du Sultan, dans le Soûs; sa mort
+(Dieu lui fasse miséricorde!)¹.
+
+
+En 1123, Bennşer, fils du sultan Moùlay Ismâ  îl, se souleva
+dans le Soûs, et dirigea la révolte avec une grande activité.
+L'année suivante (1124), le Sultan fit sortir de prison son
+secrétaire Elkhhayyât ben Manşoûr et lui donna le gouver-
+nement du Drâ.
+
+
+En 1125, le Sultan le fit mettre à mort en même temps
+que son frère, Abderrahman: le Sultan reçut aussi la nou-
+velle que les Oulâd Délim, 'Arabs du Soûs, avaient tué son
+fils révolté Moûlay Bennşer.
+
+
+En 1126, le Sultan fit tuer le qâïd Boûddechich et trois
+autres qâïds, avec dix-sept 'Abids à Mechra Erremla. Au
+mois de djoumâda $I^{er}$ de l'année suivante (1127) mourut la
+noble dame 'Aïcha Mbarka, épouse du Sultan, qui était la
+mère de Moûlay Aboûlhasan 'Ali, dont nous allons parler.
+
+
+En 1129, Moûlay Boû Merouân, fils de Moùlay Ismail,
+partit en pèlerinage pour le Hedjaz. Au mois de ramadan,
+le gouverneur d'Oujda envoya à la Cour cent têtes de Beni
+Yznâsén.
+
+
+En 1130, on reçut à Fès une lettre du Sultan suivant la-
+
+
+1. Texte arabe, IV partie, page 45.
+
+
+132
+
+
+ARCHIVES MAROCAINES
+
+
+quelle les habitants de la ville devaient être exemptés de
+toute contribution. Cette lettre fut suivie bientôt d'un
+autre message dans lequel le Sultan leur adressait des re-
+proches et leur donnait à choisir entre ètre guéïch ou nâîba.
+Un individu nommé Ould Eşşahraoui, qui avait dit : « Nous
+ne parlerons que devant le Sultan », fut mis à mort et cru-
+cifié le lendemain. Dès qu'il apprit cela, le Sultan fit em-
+prisonner Boù Ali Erroùsi et ses gens, et le remplaça par
+Hamdoùn Erroûsi. Peu de temps après, celui-ci arrèta
+injustement  Abdelkhaleq ben Yoûsef et le fit mettre à
+mort. Il fut aussitòt emprisonné, lui et son frère Més'oùd,
+et Hammo Qaşşara fut nommé gouverneur de Fès. Au bout
+de quelques jours, Boù Ali Erroûsi rentrait à Fès comme
+gouverneur.
+
+
+Dans le courant de la mème année, la nouvelle arriva de
+la mort de Moulay Boù Merouân en Orient. Le Sultan re-
+tira à ses fils les gouvernements qu'il leur avait confiés,
+sauf à l'héritier présomptif, Moulay Ahmed, à qui il laissait
+le Tadla. Son fils Moulay Abdelmalék fut envoyé à Mor-
+rakch comme gouverneur du Soùs: les affaires s'arrangè-
+rent, les populations s'apaisèrent, et le pays devint tran-
+quille. Le Sultan s'occupa alors de la construction de ses
+palais et de la plantation de ses jardins.
+
+
+Le pays était parfaitement sûr: une femme et un Juif
+pouvaient aller d'Oujda à l'Oued Noûl sans rencontrer per-
+sonne qui leur demandat d'où ils venaient et où ils allaient.
+L'abondance régnait partout: le blé, les animaux étaient à
+vil prix. Les gouverneurs percevaient les contributions et
+les administrés les payaient sans difficulté. Les habitants
+du Magrib devinrent comme les Fellahs d'Égypte : ils tra-
+vaillaient et payaient des impôts toutes les semaines, tous
+les mois, tous les ans. S'il leur naissait un poulain, ils l'éle-
+vaient et, dès qu'on pouvait le monter, ils le remettaient au
+gouverneur avec 10 mitsqals pour acheter sa selle. Si c'était
+une pouliche, il la gardait et ne donnait au gouverneur que
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+133
+
+
+A mitsqal. Dans tout le Magrib, on n'aurait pas trouvé un
+voleur ou un coupeur de route. Quiconque se rendait
+coupable d'un acte de brigandage et s'enfuyait dans les
+tribus était arrêté par la tribu chez laquelle il passait, ou
+dans les bourgades où il apparaissait: on le poursuivait
+aussi partout où il avait pu passer. Les inconnus qui pas-
+saient la nuit dans un douar ou dans une bourgade étaient
+gardés à vue jusqu'à ce qu'on sût qui ils étaient. Quiconque
+les laissait partir, ou ne les surveillait pas, était responsable
+de leurs crimes et payait ce qu'ils avaient volé ou le prix
+du sang de leurs victimes.
+
+
+Le règne de ce Prince (Dieu lui fasse miséricorde!) fut
+abondant en pluies et en bénédictions. La culture et le
+commerce étaient florissants, ainsi que tous les moyens de
+gagner l'existence. La terre produisit beaucoup, et il y eut
+une abondance prolongée telle que tout resta à bon marché
+pendant tout son règne, et ne renchérit qu'une seule fois.
+Le blé était à 6 onces le moudd; l'orge à 3 onces. Un mou-
+ton valait 3 onces, un bœuf de 1 à 2 mitsqâls: on avait
+2 livres de beurre pour 1 mouzoûna, 4 livres d'huile pour
+1 mouzoûna également. J'emprunte ce qui précède à l'au-
+teur d'Elboustan: c'est en contradiction avec les événe-
+ments qui vont suivre, et où l'on verra que la stérilité et la
+disette avait atteint le dernier degré dans les années 1090
+et suivantes. Ce que dit l'auteur d'Elboustân doit se rap-
+porter aux dernières années du règne de Moûlay Ismâîl.
+Telle est, en général, l'habitude de Dieu dans les choses
+de ce genre. Dieu sait quelle est la vérité.
+
+
+Travaux opérés aux tombeaux des deux imâms Moûlay Idris
+l'aîné, et Moûlay Idris le jeune (Dieu soit satisfait d'eux !)¹
+
+
+En 1132, le Sultan donna l'ordre de démolir la qoubba
+
+
+1. Texte arabe, IV partie, page 46.
+
+
+134
+
+
+ARCHIVES MAROCAINES
+
+
+du mausolée de Moùlay Idris l'ainé (Dieu soit satisfait de
+lui!) dans le Zâouya de Zerhoùn, et d'acheter les proprié-
+tés l'avoisinant sur les quatre faces, pour les adjoindre au
+mausolée après avoir détruit les constructions qui s'y trou-
+vaient. La qoubba fut démolie et réédifiée d'une façon ma-
+gnifique. Les travaux de construction de ce noble tom-
+beau durèrent jusqu'en 1134, selon le Boustân et d'autres
+ouvrages.
+
+
+On trouve dans le Nachr Elmatsâni:
+
+
+« En 1132, le sultan victorieux Moûlay Ismail ordonna
+la restauration du tombeau de notre Seigneur Idris le
+jeune, dans la ville de Fès qu'il avait fondée, et y fit cons-
+truire la qoubba qui le recouvre aujourd'hui, avec tous les
+ornements qui la rendent si précieuse. Il fit élargir la cour
+de la mosquée, telle qu'on la voit aujourd'hui, et qui n'a
+pas sa pareille à Fès. Le toit de la qoubba fut terminé le
+dernier jour de doûlheddja de cette année-là. Ensuite, le
+Sultan ordonna la prière du vendredi dans ce mausolée,
+usage qui est encore suivi à notre époque. Dieu place cet
+acte dans la balance de celui qui l'a ordonné et de celui qui
+l'a effectué! Ainsi soit-il! >>>
+
+
+En 1133, le qâïd  Abdallah Erroùsi mourut à Fès. Le Sul-
+tan, irrité contre les gens de Fès, leur envoya Hamdoùn
+Erroûsi et son frère Boû Ali, avec ordre de les maltraiter
+et de les pressurer. Les chérîfs et les oulamâ de la ville
+cherchèrent vainement à le fléchir, il resta sourd à leurs
+sollicitations. Les gens de Fès se mirent à payer cette
+contribution dont on ne sait pas le chiffre, et personne ne
+put s'y soustraire. La ville se dépeupla, car tous les gens
+aisés l'abandonnèrent.
+
+
+La même année, au mois de moharrem, l'armée espa-
+gnole sortit de Ceuta et fondit à l'improviste sur les mu-
+sulmans, dont elle prit le campement après l'avoir pillé.
+Les Espagnols s'emparèrent aussi de la tente du qâïd Aboùl-
+hasan Ali ben 'Abdallah Errîfi, se livrèrent au pillage et
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+135
+
+
+au meurtre, occupèrent les retranchements et les ouvrages
+de défense des musulmans, s'emparèrent de la qaşba
+d'Afrag, et firent près de 1.000 martyrs musulmans. Ils
+rentrèrent ensuite à Ceuta, d'où ils s'embarquèrent pour
+la Péninsule, ne laissant dans la place que la garnison
+habituelle. Les musulmans prirent leur revanche dans la
+suite: environ 3.000 Espagnols restèrent entre leurs
+mains.
+
+
+Au mois de moharrem de l'année 1134, mourut à Oujda
+le bacha Gazi ben Chagra, gouverneur de Morrakch. Au
+mois de şafar, mourut également Ba Aziz ben Şeddoùq,
+gouverneur de Târoudant. Moulay Abdelmalék transporta
+à ce moment sa résidence à Taroùdant, où il demeura jus-
+qu'aux événements que nous rapporterons quand nous
+arriverons à son règne, s'il plait à Dieu.
+
+
+Mort du Prince des Croyants, Moûlay Isma îl (Dieu lui fasse
+miséricorde !)  
+
+
+Le règne du Prince des Croyants, Moulay Ismail (Dieu
+lui fasse miséricorde! , fut, comme nous l'avons dit, une
+époque de sécurité, de tranquillité et d'ordre. Les malfai-
+teurs et les perturbateurs ne savaient plus où s'abriter, où
+chercher un refuge: aucune terre ne voulait les porter,
+aucun ciel ne consentait à les couvrir.
+
+
+Ce prince avait été khalifa et représentant de son frère
+Moùlay Errechîd pendant sept ans; son règne, comme
+Sultan et comme souverain, dura cinquante-cinq ans. Les
+'Arabs ignorants étaient persuadésqu'il ne mourrait pas. On
+dit même que certains de ses enfants, trouvant que sa mort
+était lente à venir, l'appelaient le vivant éternel. Aucun
+khalife de l'Islâm n'avait eu un règne aussi long et une
+
+
+1. Texte arabe, IV partie, page 47.
+
+
+136
+
+
+ARCHIVES MAROCAINES
+
+
+aussi grande puissance, sauf Elmoustanşir El'abidi, sultan
+d'Égypte, dont le khalifat dura soixante ans.
+
+
+Cependant il y a une différence entre ces deux princes:
+Moûlay Ismail put, pendant son règne, recueillir les fruits
+du pouvoir et en goûter entièrement les délices. Il com-
+mença à gouverner au moment où il en était capable, puis-
+qu'il avait plus de vingt ans, et où il pouvait supporter le
+poids de la royauté, aussi bien quand il fut khalifa que
+quand il fut Sultan. Il n'eut pas de régence, et son règne
+ne fut jamais troublé, que par la révolte de Ben Mahrez,
+celle de son fils Moulay Mhammed El além et celle de ses
+proches qui imitèrent leur exemple: et encore ils avaient
+semé le trouble aux extrémités de l'Empire, de sorte qu'ils
+ne portèrent pas grand préjudice au pouvoir royal. Elmous-
+tanşir El'abîdi, au contraire, prit le pouvoir à l'âge de
+sept ans, et son règne commença par une régence. Il fut
+marqué par une affreuse disette. « On n'en avait jamais vu
+de pareille en Égypte, dit Ibn Khallikân, depuis le temps
+de Joseph, sur lui soient les prières et le salut! Elle dura
+sept ans. Les hommes se mangeaient entre eux. Un pain
+se vendait cinquante dinars.
+
+
+Dans cette détresse, Elmoustanşir montait à cheval tout
+seul et les gens de sa suite marchaient à pied derrière lui,
+parce qu'ils n'avaient pas de bêtes à monter. Quand ils
+allaient dans les rues, on les voyait tomber les uns après
+les autres, mourant de faim. C'est pour cela que nous
+disons que l'on ne peut comparer le règne de Moûlay
+Ismail à celui d'Elmoustanşir (Dieu leur fasse miséri-
+corde !)
+
+
+Le Prince des Croyants, Moûlay Ismail, commença à
+souffrir en 1139 du mal dont il devait mourir. On lit, dans
+le Nachr Elmatsani « qu'il tomba malade le 2 djoumada Ier
+de cette année-là. Dès qu'il sentit qu'il perdait ses forces,
+il manda son fils, Moûlay Ahmed, qui commandait le Tâdlâ.
+Ce prince vint de suite, et, trois jours après son arrivée,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+137
+
+
+la mort enlevait Moulay Isma'il (Dicu lui fasse miséri-
+corde!) le samedi 28 rejeb 1139. Le docteur Abouľabbas
+Ahmed ben Belqâsem Elamîri lava son cadavre: et les
+prières mortuaires furent dites par le docteur très savant
+Aboù Ali Elbasan ben Rahhal Elma dâni. Le Prince fut
+enterré à Méknės, dans le mausolée du chéïkh Elmejdoùb
+(Dieu soit satisfait de lui!) »
+
+
+L'auteur d'Elboustan prétend que le sultan Moûlay
+Ismâ'il avait désigné, pour son successeur, son fils Moulay
+Ahmed, et qu'il l'appelait l'héritier présomptif (ouali l'ahd.
+Mais Akensoùs nie que ce Sultan ait jamais désigné, pour
+le remplacer, un seul de ses enfants. « Le savant sultan
+Moùlay Slimân, rapporte-t-il, nous l'a dit souvent. Il affir-
+mait, à ce sujet, que Moulay Ismail, quand il sentit sa fin
+prochaine, appela son vizir, le savant de sa Cour, le secré-
+taire Aboul abbas Elyaḥmédi, et lui dit : « Je suis à mon
+dernier jour sur cette terre. Je veux que tu me dises auquel
+de mes fils je dois confier le pouvoir, car tu connais leur
+caractère mieux que moi. O notre Maitre, répondit le
+vizir, vous me chargez d'une bien grave responsabilité,
+mais je vous dirai la vérité, vous n'avez pas un seul fils
+à qui vous puissiez confier les affaires des musulmans.
+Vous en aviez trois, Moulay Mahrèz, Moûlay Elmâmoun
+et Moùlay Mhammed, Dieu les a rappelés à lui.
+Je te
+remercie », lui dit le Sultan, qui lui fit ses adieux et mou-
+rut, sans avoir désigné son héritier. C'étaient simplement
+les Abîds qui nommaient et déposaient qui bon leur sem-
+blait. Le sultan Moûlay Slîmân, Dieu lui fasse miséricorde!
+nous faisait souvent ce récit quand on venait à parler de
+ses propres enfants. Dieu sait quelle est la vérité !
+
+
+138
+
+
+ARCHIVES MAROCAINES
+
+
+Suite des événements qui eurent lieu sous le règne de Moulay
+Ismail; monuments élevés par ce prince; sa politique ¹.
+
+
+Elyéfréni dit, dans le Nozha: « Le Prince des Croyants
+Isma'il (Dieu lui fasse miséricorde!) ne cessa de guerroyer
+contre ses ennemis que lorsqu'il eut dompté tout le Magrib,
+et qu'il se fut emparé des plaines et des montagnes. Il éten-
+dit son pouvoir jusqu'aux frontières du Soudan. Les parties
+peuplées de son empire avaient atteint un développement
+de surface que n'avait pas connu, avant lui, Elmansour
+Essa di. Du côté de l'Est, son royaume allait jusqu'à Biskra,
+dans le Bilad Eldjerid, englobant tout le territoire dépen-
+dant de Tlemsén. Dieu sait à qui il confie ses inissions. »
+
+
+On lit, dans le Boustân : « Moùlay Ismail, suivant ce que
+l'on rapporte, eut 500 enfants mâles et un nombre égal de
+filles, ou peu s'en faut. Ceux de ses fils qui eurent des
+enfants formèrent 105 familles, ainsi que je l'ai vu de mes
+propres yeux dans le registre du sultan Moulay Mohammed
+ben Abdallah, qui leur faisait chaque année des présents,
+qu'il m'envoyait leur distribuer à Sijilmasa. Ceux qui
+n'avaient pas eu de postérité, ou dont la postérité s'était
+éteinte, ne figuraient pas sur le registre. Ses petits-fils et
+leurs descendants étaient au nombre de 1560, au temps du
+sultan Moulay Mohammed ben  Abdallah; ce chiffre s'est
+augmenté encore pendant le règne du sultan Moulay Slî-
+mân ben Mohammed, qui continue à faire les dons à ceux
+qui sont inscrits sur les registres de son père, et à y ins-
+crire ceux qui naissent. Personnellement, j'ai connu de
+nom et de vue, pendant le règne du sultan Moulay Moham-
+med, 28 fils de Moûlay Ismâ'il et à peu près le même
+nombre de ses filles; le sultan que je viens de nommer les
+avait installées dans le palais de Hammo ben Bekka, et leur
+
+
+1. Texte arabe, IV' partie, page 48.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+139
+
+
+faisait donner régulièrement tous les ans leur moùna, leurs
+vètements et des cadeaux, et faisait demeurer avec elles
+leurs nièces qui n'étaient pas mariées. Chacune des cent
+cinq maisons de Sijilmasa appartenait aux propres fils de
+Moùlay Ismail. Dès qu'arrivait à la majorité un de ses fils,
+qu'il ne voulait pas laisser vivre dans le Magrib, il l'en-
+voyait à Sijilmâsa, lui faisait construire une maison ou un
+palais, lui donnait des palmiers, des terrains de culture et
+de labour, un certain nombre d'esclaves pour le servir
+dans sa maison et cultiver ses terres en été et en hiver. Ces
+fiefs variaient avec le rang que ce fils occupait auprès de
+lui et la situation dont jouissait sa mère. Ses fils eurent à
+leur tour des enfants et leurs familles se développèrent.
+Dieu les rendit considérables et maintint leur organisa-
+tion.
+
+
+<< Moùlay Ismail (Dieu lui fasse miséricorde!) fut bien
+inspiré en faisant quitter Méknès à ses fils et à leurs mères
+pour aller habiter le Tâfîlêlt avec les chérifs, leurs cousins;
+c'était le moyen de les habituer de bonne heure à l'exis-
+tence qu'ils devaient toujours mener dans ce pays. De
+plus, il les préservait contre les vicissitudes du temps et
+les affronts de la pauvreté consécutifs à la mort de leur
+père, pour le jour où la prospérité devait cesser, et où le
+manteau de la royauté, qui les couvrait, devait étre replié.
+Aussi vécurent-ils heureux et prospères, tandis que leurs
+frères, qui étaient restés à Méknės, et qui y avaient vécu
+jusqu'au jour où mourut leur père, avaient pris leurs habi-
+tudes et s'étaient accoutumés à satisfaire tous leurs ca-
+prices. Leur postérité ne se développa pas comme celle de
+ceux qui s'étaient fixés dans le Şahara.
+
+
+<< Voilà pour les descendants de Moulay Ismail.
+
+
+« Quant à ses constructions dans la citadelle de Méknès,
+ses palais, ses mosquées, ses mdersas, ses jardins, elles
+forment un ensemble extraordinaire bien supérieur à celui
+des dynasties anciennes et modernes de la Perse, de la
+
+
+140
+
+
+ARCHIVES MAROCAINE
+
+
+Grèce, des Romains, des Arabes et des Turcs, et leur
+magnificence dépasse celle des constructions des Cosroés
+à Elmedâïn, des Pharaons au Caire, des princes romains
+à Rome et à Constantinople, des Grecs à Antioche et à
+Mexandrie, des rois et des grandes familles de l'Islam,
+comme les Oméyyades à Damas, les Abbasides à Bagdad,
+les Abidites en Ifriqiya et en Égypte, les Almoravides,
+les Almohades, les Mérinides et les Saadiens dans le
+Magrib. Qu'est le Bedî d'Elmansour à côté d'un de ses
+palais? le Boustân Elmserra à côté d'un de ses parcs? Dans
+le seul parc de Djenån Hamriya, il y avait 100.000 pieds
+d'oliviers, dont il avait attribué les revenus aux deux villes
+saintes, et quoique, depuis sa mort, l'anarchie, les révo-
+lutions, aient passé sur ce parc et qu'on y ait coupé du
+bois, il n'en a pas apparemment souflert. Moulay Moham-
+med ben Abdallah, à son avènement, restaura ce parc, y
+fit établir des conduites d'eau et fit dresser l'inventaire
+des arbres qu'il contenait : il en restait encore 60.000, dont
+le Sultan (Dieu lui fasse miséricorde !) envoyait le produit
+chaque année aux deux villes saintes, pour se conformer
+aux volontés de son aïeul. Moulay Slîmân, son fils, fit de
+même. » L'auteur du Boustan dit encore: « J'ai vu presque
+tous les monuments laissés par les rois; je n'en ai pas vu
+qui fussent aussi considérables, aussi beaux et aussi nom-
+breux que les palais construits par Moûlay Ismâîl. Les
+autres rois qui s'étaient intéressés à la construction des
+monuments avaient fait, tout au plus, édifier un seul palais
+et avaient mis tout leur soin à le faire solide et beau. Notre
+Sultan, au contraire, ne s'est pas borné à construire un
+palais, ni dix, ni vingt; à l'intérieur de cette seule qaşba
+de Méknès, il a élevé autant de monuments qu'il y en a sur
+la surface du globe. Tout le gibier, dit le proverbe, est
+réuni dans le ventre de l'onagre. >>>
+
+
+Telles sont les paroles de l'auteur du Boustân, qui dit :
+<<< Ses prisons contenaient plus de 25.000 captifs, qui tra-
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+141
+
+
+vaillaient à la construction de ses palais; parmi eux se
+trouvaient des marbriers, des sculpteurs, des menuisiers.
+des forgerons, des astronomes, des ingénieurs et des méde-
+cins; jamais il ne consentit au rachat d'un seul captif. Dans
+les prisons, il y avait aussi environ 30.000 criminels, tels
+qu'assassins, révoltés et voleurs; le jour, ils travaillaient
+avec les captifs infidèles, et la nuit, ils étaient enfermés
+dans des cachots et des greniers souterrains. Dès que l'un
+d'eux mourait, son cadavre était emmuré. De cette façon,
+il n'y avait plus une seule artère qui battit chez les agita-
+teurs.
+
+
+« L'éloge de Moulay Ismail (Dieu lui fasse miséricorde!
+a été fait par le fqih, le littérateur, Aboù Abdallah Moham-
+med ben  Abdallah Elguezoûli, dans une qaşîda, dont
+j'extrais les vers suivants :
+
+
+<< O Moulay Ismail, ò soleil des créatures, ò toi à qui
+tout ce qui existe a été soumis,
+
+
+<< Tu n'es autre chose que l'épée de Dieu sortie de son
+fourreau, agite-la sur les créatures.
+
+
+<<< Celui qui ne croit pas devoir t'obéir, c'est Dieu qui l'a
+rendu aveugle et qui l'égare hors du bon chemin. >>>
+
+
+Nous dirons maintenant les événements antérieurs à
+cette époque.
+
+
+En 1071 mourut le chéïkh Aboù  Abdallah Sidi Moham-
+med Elmoufaddal, fils du chéïkh Aboûlabbas Ahmed
+Elmoursi, lequel était fils de l'illustre chéïkh Abou Abdal-
+làh Sidi Mhammed Echcharqi. C'était un pieux person-
+nage, un homme de bien, qui fut un des plus vertueux de
+son temps. Il connaissait par cœur le Qorân et les sept
+manières de le lire. Il jouissait d'une très grande réputa-
+tion, mais cherchait à $s^{\prime}y$ soustraire, et si quelqu'un lui
+demandait s'il voulait être son professeur, il répondait :
+Nous sommes tous frères en Dieu, et le dirhem complet
+est fait pour qu'on le dépense. Il apprit les lectures (Qiraat
+du Qorân du fqth, du professeur, Aboû Zéïd Abderrahmân
+
+
+142
+
+
+ARCHIVES MAROCAINES
+
+
+ben Elqadi, qui lui délivra un diplôme pour sa science.
+En dehors des Qirâût, il possédait d'autres sciences. Il
+faisait remonter sa généalogie spirituelle au saint pieux
+Aboù Abdallah Mohammed Elhefian Erretebi Essijilmasi,
+qui était un des compagnons du chéïkh Boù Obéïd Echchar-
+qi. Il forma nombre d'illustres étudiants, à qui il avait
+enseigné les Qiraat. Il nourrissait (Dieu lui fasse miséri-
+corde!) beaucoup de gens dans la zâouya de son aïeul
+Boù Obéïd Echcharqi. Dans la suite, il vint se fixer dans
+la région de Salé, où il resta jusqu'à sa mort, qui survint
+à la date susdite. Il fut enterré à la Tala de cette ville,
+auprès de la grande mosquée, où son tombeau attire beau-
+coup de visiteurs. Il composa de nombreux dictons en
+arabe vulgaire, qu'il adressa au réïs, Mohammed Elhaddj
+Eddilâï, avec qui il s'était brouillé à la suite de calomnies
+el avec qui il échangea des correspondances et des repro-
+ches (Dieu leur fasse miséricorde à tous deux!)
+
+
+En 1072 mourut le chéïkh transcendant, Aboû Ishaq
+Brahîm ben Ahmed, petit-fils de 'Abdallah ben Houseïn
+Elmeşlòḥi, dont le tombeau est à Tâmeșlòḥt, dans le voisi-
+nage de Morrâkch. Nous avons parlé précédemment de la
+mort de son grand-père Aboû Mohammed Abdallah ben
+Houséïn. Ce personnage avait une grande renommée. Il
+commença par donner ses enseignements à un certain
+nombre d'adeptes (foqra) à Morrâkch, mais le sultan Zéïdân
+ben Elmansour réprouva sa doctrine et ordonna de l'arrê-
+ter. Le chéïkh prit la fuite et alla se fixer dans la tribu de
+Sektâna, où il demeura jusqu'à sa mort: c'est là que se
+trouve son mausolée. Il avait coutume de dire:  Ceux
+que Dieu protège doivent seuls venir dans notre sanc-
+tuaire, qui est le sanctuaire d'Ibrahîm : celui qui y entre
+n'aura rien à craindre.  Il disait aussi: << Notre maison est
+une maison de secret et non de science. » Dès que com-
+mençait le mois de moharrem, il se laissait pousser la
+barbe et les cheveux, et, si on le lui reprochait, il disait :
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+113
+
+
+« Je ne fais cela qu'en signe de tristesse pour le meurtre
+d'Elhouséïn (Dieu soit satisfait de lui!) et comme marque
+de regret du malheur qui lui est arrivé. » Il pratiquait le
+sama avec ses compagnons, qui se réunissaient chez lui
+en séance (hodra) dans la forme habituelle, et tombait aussi
+probablement en extase avec eux. Il connaissait diverses
+sciences. Il fut le disciple du chéïkh Elmendjoûr, d'Aboù
+Mohammed ben Tâhar Elhasani, d'Aboû Mehdi Essektâni
+et d'autres professeurs. Il mourut à la date précitée, âgé,
+dit-on, de plus de cent ans. Une belle qoubba fut bâtie sur
+son tombeau, qui est une mzâra très fréquentée.
+
+
+Vers la fin de l'année 1073, il éclata, dans le Magrib, une
+grande disette, qui se fit surtout sentir à Fès et dans la
+région environnante. Les gens durent manger des cha-
+rognes, des bêtes de somme et même de la chair humaine.
+Les maisons furent abandonnées, dans les mosquées on ne
+voyait plus personne. Dieu, par sa grâce, répara ensuite
+tout le mal fait à ses esclaves.
+
+
+Le 10 ramadan 1075, un violent tremblement de terre se
+fit sentir à Fès et dans d'autres pays du Magrib. « Le trem-
+blement de terre, dit le docteur Aboûl'abbas Ahmed ben
+Abdelhadi, chérîf sijilmasi, eut lieu à la date précitée, au
+moment où nous assistions à une lecture d'Elbokhari chez
+le grand chéïkh l'Imam Abou Mohammed 'Abdelqader
+Elfèsi (Dieu lui fasse miséricorde!) Chacun de nous se leva
+et, avec nous, le chéïkh lui-même: nous pensions que le
+toit allait tomber surnous, car une poutre avait fait entendre
+un craquement. Tout le monde sortait en courant, deman-
+dant ce qu'il y avait; ceux qui étaient couchés, et ceux qui
+étaient assis, sentirent la secousse; ceux qui dormaient
+furent eux-mêmes réveillés; mais ceux qui marchaient ne
+s'en aperçurent pas. Comme on demandait au chéïkh si
+vraiment le tremblement de terre était produit, comme on
+le prétend dans le peuple, par un mouvement du taureau
+sur lequel repose le monde, ou par un mouvement du pois-
+
+
+144
+
+
+ARCHIVES MAROCAINES
+
+
+son, il répondit que cette croyance était fausse et sans fon-
+dement, et il récita cette parole de Dieu : « Nous n'en-
+voyons les versets que pour effrayer.  Il ajouta: <<< Un
+sage dit que le tremblement de terre est produit par une
+compression du vent dans l'intérieur de la terre. »
+
+
+Le lundi 28 rejeb 1077 mourut l'innocent béni, Sidi
+Qâsém ben Ahmed Boù Asriya, connu sous le nom de Ben
+Elleiloûcha, dont le tombeau se trouve sur l'Oued Erdem,
+dans le district d'Azgar. Il ne s'était jamais marié et ne
+laissa pas d'enfants. Ce fait est rapporté par le Nachr
+Elmatsâni, mais c'est peut-être une erreur. Il mourut exас-
+tement, comme on le verra plus loin, en 1097. Dieu sait
+quelle est la vérité!
+
+
+En 1085, survint la mort du Chéïkh de la Sounna guide
+(Imâm) de la voie spirituelle, Aboû Abdallah Sidi Moham-
+med ben Mohammed ben Ahmed ben Mohammed ben
+Elhouseïn ben Nâşer ben Amar Edder'i Eliġlâni, connu
+sous le nom de Ben Nîşer, du nom de son aïeul. Son dis-
+ciple le chéïkh Aboù Mi Elyoûsi dit de lui dans sa Fa-
+hrasa : « Le chéïkh (Dieu soit satisfait de lui!) était versé
+dans les branches de la science : le droit, la langue arabe,
+la théologie dogmatique, l'interprétation du Coran, les Tra-
+ditions du Prophète (Hadits), et le soufisme: c'était un
+dévot, un ascète, un homme scrupuleux, austère, connais-
+sant Dieu, pratiquant la voie spirituelle et buvant à la
+source de la Vérité. En même temps qu'il s'appliquait à
+l'étude du soufisme et suivait le chemin de la voie spiri-
+tuelle, il ne manquait pas de s'adonner à la science des
+choses externes: il enseignait, écrivait, annotait et corri-
+geait. Ainsi il fut doublement bienfaisant. Il eut pour com-
+pagnons des orientaux et des occidentaux: un grand
+nombre de gens reçurent ses enseignements. Il enseignait
+et conférait l'initiation (ouerd à ces nouveaux adeptes par
+sa parole et par ses actes. Il ajoutait encore à sa noblesse
+par son génie élevé, sa science solide, sa clairvoyance des
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+145
+
+
+choses cachées, son don de persuasion et la profonde im-
+pression qu'il produisait. Quand il parlait, ses paroles se
+gravaient dans le cœur, et s'il exhortait, il ramenait la paix
+dans les endroits ulcérés. » Le chéïkh Elyoùsi donne sur
+lui de nombreux détails biographiques, et cite plusieurs
+faveurs surnaturelles dont il fut l'objet. Il a peint son
+caractère et son portrait dans la célèbre qaşida Eddaliya
+qu'il a composée en son honneur, où il apporte à ce chéïkh
+un tribut d'honneur et de glorification qui lui attira un
+grand renom. Ce chéïkh eut de nombreux maîtres et dis-
+ciples qui sont indiqués dans les livres des Imams où ces
+sujets sont traités. On connait aussi la voie spirituelle qu'il
+a établie, et qui se rattache à l'Envoyé de Dieu (sur lui
+soient les prières et le salut!) Son père Sidi Mohammed
+ben Ahmed était un grand saint, qui reçut de nombreux
+ouerd et qui ne cessait pas de réciter des oraisons, comme
+l'a rapporté plus d'un auteur (Dieu sait quelle est la vérité !)
+Ici l'auteur (Dieu lui pardonne! dit: <<« Ce chéïkh est mon
+aïeul: c'est à lui que je fais remonter ma généalogie. Je
+m'appelle Ahmed, fils de Khaled, fils de Hammad, fils de
+Mohammed Elkébir, fils d'Ahmed, fils de Mohammed
+Eşşeġir, fils de Mohammed Ben Nàșer qui est le chéïkh,
+Dieu nous soit par lui profitable et répande sur nous
+son appui et celui de ses semblables. Au-delà de ce
+chéïkh, mes ancêtres font remonter leur origine à Notre
+Seigneur Djafar ben Aboù Taléb (Dieu soit satisfait de
+lui!) Je n'en suis pas encore exactement sûr, mais peut-
+être établirai-je l'authenticité de cette généalogie dans un
+autre ouvrage, s'il plaît à Dieu. >>>
+
+
+Vers 1090, il y eut une sécheresse qui amena la disette.
+Le chérif Aboû Abdallah Mohammed ben Etțayyéb Elqa-
+diri dit, dans son ouvrage intitulé Elazhûr Ennadiya, qu'en
+raison du manque de pluies, « le blé atteignit à cette
+époque le prix de 40 onces le moudd qui contient un şa et
+demi. La population fit des prières, pour demander la
+
+
+ARCIH. MAROC.
+
+
+10
+
+
+146
+
+
+ARCHIVES MAROCAINES
+
+
+pluie. Le premier imam qui dirigea cette prière fut le
+qadi Aboù Abdallah Mohammed Elarbi Bordala. 11 la
+renouvela trois fois; il tomba un peu de pluie, mais en
+quantité insuffisante. On recommença une quatrième fois
+les prières, qui furent dirigées alors par le docteur Abou
+Abdallah Mohammed Elboù inani; la cinquième fois, elles
+furent prononcées par le qadi Bordala, et la sixième fois
+par Aboù Abdallah Mohammed Elmorabet Eddilar. A ce
+moment-là le blé avait monté jusqu'à 60 onces; jamais on
+n'avait entendu parler d'une pareille hausse. On dit encore
+les prières pour la septième fois, sous la direction de Aboù
+'Abdallah Elboù inani. Au bout de la huitième fois, le
+chéïkh, le saint, l'austère Aboù Abdallah Mohammed
+Elarbi Elfichtali ayant servi de khetib, vers le soir, la
+pluie commença à tomber, accompagnée d'éclairs et de
+coups de tonnerre. Les musulmans se réjouirent et ren-
+dirent grâces à Dieu. Pour la neuvième fois on recom-
+mença la prière, sous la direction du qadi Bordala. Ce jour-
+là, dans le cortège, le chéïkh Elislam, la bénédiction de la
+nation, l'imâm Aboù Mohammed Sidi Abdelqader Elfési,
+sortit monté sur son àne, faisant marcher devant lui les
+chérîfs de la Famille Pure, et demandant à Dieu de se lais-
+ser fléchir à leur intercession. Au retour de la procession,
+il tomba un peu de pluie. Le lendemain, une pluie bien-
+faisante et abondante se mit à tomber. Le prix des denrées
+baissa aussitôt, et le blé descendit à 30 onces. Les prières
+avaient été répétées neuf fois. La dernière eut lieu le lundi
+5 moharrem 1091.
+
+
+Dans la nuit du jeudi au vendredi 12 cha bàn de cette
+année, mourut le célèbre chéïkh Moùlay Aboù Mohammed
+ Abdallah Echchérîf Elouazzani, à l'âge de  ans. Son fils,
+le chéïkh Moulay Aboù Abdallah Mohammed, mourut au
+momentdu  achû dans la nuit du jeudi au vendredi 28 mo-
+harrem 1120, âgé de 80 ans. Le fils de celui-ci, le chéïkh,
+le pôle (qotb) Moûlay Ettahami ben Mohammed, mourut au
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+147
+
+
+lever du soleil le lundi 1 moharrem 1127, à l'âge de
+66 ans. Le chéïkh Moùlay Ettayyéb ben Mohammed mou-
+rut le dimanche 18 rabi II 1181, âgé de plus de 80 ans.
+Son fils, le chéïkh Moulay Ahmed, mourut le samedi matin
+18 şafar 1196. Son fils, le chéïkh Moulay Ali ben Ahmed,
+mourut le mardi dernier jour de rabi Ier 1226. Son fils, le
+chéïkh Sidi Elhaddj Elarbi ben Ali, mourut le mercredi
+premier jour de l'année 1269. Nous avons donné ici, pour
+plus de commodité, et parce que l'occasion se présentait,
+la généalogie toute entière de ces nobles chérifs d'Ouâz-
+zân dont l'origine se rattache à Moùlay Idris ben Idris Dieu
+soit satisfait d'eux, nous fasse mourir, aimés par eux, et
+nous place dans leur cortège!)
+
+
+En 1090, survint la grande peste du Magrib, dont nous
+avons déjà parlé et pendant laquelle les 'Abids du Sultan
+repoussaient sur toutes les routes les gens qui se rendaient
+à Méknásét Ezzéïtoùn.
+
+
+Le mercredi 8 ramadan 1091, au moment du dohr, tré-
+passa le chéïkh de la communauté musulmane de Fès et
+du Magrib, le grand imam, le savant célèbre, le chéïkh
+Abou Mohammed Abdelqader ben Ali ben Yousef Elfèsi,
+qui est trop connu (Dieu soit satisfait de lui!) pour qu'il
+soit nécessaire de rappeler ici ses œuvres. On a fait juste-
+ment remarquer que, malgré l'étendue de son savoir et les
+bienfaits dont il fit profiter les habitants des trois Magribs,
+il n'a pas composé le moindre ouvrage déterminé, ni le
+moindre commentaire : il se bornait à écrire des réponses
+excellentes (Ajouiba) à des questions qui lui étaient posées,
+et qui ont été réunies en un seul volume par un de ses
+compagnons.
+
+
+En 1095, mourut le saint vertueux Abou Mohammed
+ Abdallah Elaouni, dont le tombeau est à Salé, et qui
+était un des compagnons du chéïkh Sidi Mohammed El-
+moufaddal.
+
+
+En 1096, mourut le chéïkh très docte versé dans toutes
+
+
+148
+
+
+ARCHIVES MAROCAINES
+
+
+les sciences, Aboù Zéïd Abderrahman ben Abdelqader
+Elfèsi, auteur de précieux ouvrages, notamment du poème
+intitulé Nadm Amal Fès et du livre appelė Elouqnotûm fî
+mabadi l'ouloûm.
+
+
+En 1097, mourut le chéïkh qui connut Dieu, qui eut
+des extases, et qui fut doué de la connaissance divine, Bel-
+qâsém ben Ahmed Elleîloùcha Esseftâni, surnommé Boû
+'Asriya, parce qu'il se servait de sa main gauche plus que
+de sa droite. Il fut de ceux qui furent absorbés dans l'es-
+sence de Dieu: il avait des extases (Ahouûl) et proférait
+alors des paroles mystiques (chatha). On raconte qu'encore
+enfant, il fut porté au chéïkh Boû Obéïd Echcharqi, qui
+le bénit et, faisant apporter des outres d'eau, les versa sur
+lui en disant : « Si nous n'avions pas refroidi cet enfant,
+les lumières l'auraient brûlé ! » C'est pourquoi Boù Asriya
+faisait toujours l'éloge de Boû Obéïd, proclamait son nom
+très fréquemment et attribuait tous ses actes à sa béné-
+diction.
+
+
+En 1101, le Sultan interdit le port des babouches noires,
+qui ne devaient plus être portées que par les Juifs, comme
+nous l'avons rapporté à la suite de la conquête d'El arêïch.
+
+
+En 1102, mourut le chéïkh, l'imâm, le dernier des 'ou-
+lamá du Magrib, sur la science et la piété duquel les airs
+sont unanimes, Aboù Ali Elbasan ben Més oûd Elyoûsi,
+originaire de la tribu des Aït Yoûsi, Brâbér de la Melouiya.
+Par son savoir, sa justesse d'esprit, son austérité et sa
+crainte de Dieu, il était le Gazzâli de son époque. Dans sa
+Fahrasa, il dit: « Tout ce que j'ai étudié, ou à peu près
+tout, je l'ai appris par la faveur divine. J'ai reçu en par-
+tage, grâce  Dicu, des aptitudes excellentes, et il me suf-
+fisait d'entendre pour que Dieu me fît retenir. Si j'entends
+une partie d'un livre, Dieu me fait la faveur de le con-
+naître tout entier d'une façon palpable, et j'arrive, à cet
+égard, à un degré auquel personne n'est, je crois, arrivé.
+Il est advenu souvent que je ne connaissais pas un livre
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+149
+
+
+et qu'en entendant un peu des sciences dont il traite je
+commençais à le connaitre: c'est de cette façon que, grace
+à la volonté de Dieu, j'ai appris ce que m'enseignaient
+mes maitres. Ne vous étonnez pas de ce que je viens de
+dire. Vous croyez peut-être que le profit doit toujours ètre
+proportionné au capital. Vous ètes dans l'erreur: un seul
+dirhem peut rapporter mille mitsqals? et c'est peu pour
+Dieu. » Il fit la plupart de ses études à la Zaouyat Eddilâ
+où il demeura, s'appliquant à acquérir la science et à la
+développer, jusqu'au moment où elle fut conquise par
+Moùlay Errechîd. Ce prince l'envoya à Fès. Il y vécut un
+certain temps, puis quitta cette ville pour aller vivre à la
+campagne. Il finit par se fixer dans sa tribu où il mourut.
+(Dieu lui fasse miséricorde !)
+
+
+Le chéïkh Elyousi s'adonnait avec ardeur aux sciences
+spéculatives et aux sciences pratiques. Il dit mème, dans
+son ouvrage intitulé Elqol elfşal fi-lfarqi béïna-lkhaşşati
+oua-lfașl, qu'il était arrivé dans ces connaissances au mème
+degré que le chéïkh Sa'd Eddin Etteftazani, et que Sidi
+Eldjordjani et leurs émules. Quelqu'un lui ayant posé une
+question au cours d'une de ses leçons, il répondit:
+<< Écoute, ce que tu vas entendre, tu ne l'entendras de la
+bouche d'aucun homme, tu ne le trouveras écrit dans aucun
+recueil, et tu ne le verras tracé par aucune main, car
+c'est un don du Clément. >> Quand il arriva à Morråkch,
+il professa la science de l'interprétation du Qoran (tefsir)
+à la mosquée des Chérifs  Djama Elachraf), et passa près
+de trois mois à enseigner l'interprétation de la Fâtiha.
+Chaque jour il commençait une explication surprenante et
+une thèse étonnante. L'abondance de son fonds scienti-
+fique étonnait tout le monde, d'autant que, le plus sou-
+vent, il passait la nuit dans le tombeau d'un saint avec
+d'autres personnes, et le matin il s'asseyait dans sa chaire
+et se mettait à discourir de façon à éblouir ses auditeurs,
+sans avoir regardé un livre, ni consulté un auteur. La
+
+
+150
+
+
+ARCHIVES MAROCAINES
+
+
+poésie était pour lui une chose plus facile que la respira-
+tion, et ses vers étaient tous des sentences et des pro-
+verbes comparables aux poèmes des anciens Arabes. La
+qaşîda Eddaliya qu'il composa en l'honneur de son maître
+Ben Nâşer donne la mesure de l'étendue de son talent et
+de sa supériorité comme savant et comme érudit. Aussi
+combien sont belles ces paroles de l'imâm Aboù Salém
+El ayyachi quand il dit:
+
+
+« Celui qui n'a pas pu fréquenter Elhasan Elbaşri, il lui
+suffira de fréquenter Elhasan Elyoùsi. »
+
+
+En résumé, ce personnage fut le dernier des profonds
+savants; non, il fut le sceau des hommes à l'esprit péné-
+trant. Un chéïkh a dit de lui que, par son savoir et par ses
+actes, il était le réformateur du commencement du siècle.
+l'imâm de son temps et l'ascète de son époque. Dieu lui
+fasse miséricorde et soit satisfait de lui!
+
+
+Dans la nuit du mardi au mercredi 7 rabî Ir 1103,
+mourut le saint vertueux Aboùl'abbas Sidi Ahmed Hajji,
+duquel le chéïkh Aboûl abbas Sidi Ahmed ben 'Abdel-
+qâder Ettestâouti a dit : « Il était un homme de bien, un
+homme vertueux; j'ai eu des relations avec lui à Méknės
+en 1096, et je n'ai vu de lui que du bien. » Il fut remplacé
+à sa mort par son fils, qui fut l'héritier de ses secrets. A
+côté de lui est enterré, dans le même tombeau, le saint
+vertueux Sîdi Aboù Mohammed Abdallah Hajji, sur-
+nommé Elguezzár: leur mausolée à Salé est une mzára
+célèbre.
+
+
+En 1109 ou 1110, mourut le fqih, le notaire, le casuiste,
+l'homme savant dans les préceptes divins, l'arithméticien
+Aboûlhasan Ali ben Mohammed, surnommé Boù Chara,
+Esslaoui. Il fut enterré près du tombeau du chéïkh Ben,
+Acher (Dieu soit satisfait de lui !)
+
+
+En 1115, au mois de djoumada $I^{er};$, mourut l'imâm, le
+fqih, le littérateur, le poète, le prosateur Belqâsém ben
+Elhouséïn Elgerisi Esslaoui, surnommé Boù Zâïda, qui
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+151
+
+
+fut enterré près du tombeau du chéïkh Ben Acher (Dieu
+soit satisfait de lui!
+
+
+Le mercredi matin 28 moharrem 1118. il y eut une
+éclipse totale du soleil: cette année-là fut nommée Âm
+Edloléïma (l'année des petites ténèbres.
+
+
+En 1119, le mardi 7 djoumada $I^{vr}$, mourut le chéïkh,
+l'imân Aboù Serhan Sidi Més oùd Joumoù Elfèsi Esslaoui,
+le très docte héros, auteur d'utiles ouvrages sur toutes
+les sciences, l'argument fait homme, dont la bénédiction
+était apparente pendant sa vie et l'a été après sa mort. II
+fut enterré à l'intérieur de la ville de Salé, dans la zâouya
+du chéïkh Sidi Ahmed Hajji.
+
+
+Le lundi 3 djoumada II 1120, mourut le saint vertueux,
+le pieux, le bon conseiller Aboulabbas Ahmed ben 'Ab-
+dallâh Ma'n Elandalousi, qui habitait le quartier d'Elmokh-
+fiya à Fès (Dieu la garde!)
+
+
+Dans le courant de cette année-là, fut instituée la lec-
+ture du Hadits où l'on ordonne le silence et où il est dit
+trois fois de suite: « Taisez-vous! que Dieu vous fasse
+miséricorde! >>>
+
+
+Cette lecture a lieu le vendredi, au moment où l'imâm
+sort de la chambre de la mosquée et s'assied dans la chaire.
+Le mardi 22 safar 1122, au moment du 'asr, mourut
+le saint vertueux, Sidi Aboù Mohammed Abdallah, fils
+de Sidi Ahmed Hajji, surnommé Elguezzár, qui fut enterré
+devant son père, comme nous venons de le rapporter.
+
+
+Le mercredi 20 rabî II de la mème année, mourut le
+fqih très savant Aboù Abdallah Mohammed, fils de
+Pamîn Elhaddj Mohammed Eşşobaīhi Esslaoui, sur lequel
+le chéïkh Abouľabbas Sidi Ahmed ben Abdelqader Et-
+testaouti fit l'élégie suivante :
+
+
+« Bien que nous sachions que, quand il a décidé une
+chose, Dieu se hâte de l'exécuter, nous sommes affligés
+par la mort de l'imâm choisi, du savant intègre, Eşşobaïhi.
+qui était le meilleur de son époque.
+
+
+152
+
+
+ARCHIVES MAROCAINES
+
+
+<<< Celui que Dieu a élu est aussi celui que nous avons
+choisi; nous lui souhaitons une félicité générale et com-
+plète. >>>
+
+
+Il fut pleuré aussi dans un poème par son aimable ami
+le chéïkh Aboul abbas Ahmed ben  Acher Elhafi Esslaoui
+(Dieu leur fasse à tous miséricorde !)
+
+
+Dans la nuit du mardi au mercredi Ier rejeb 1127,
+mourut le saint vertueux, le savant qui fit de bonnes
+œuvres, le célébre chéïkh Aboul'abbas Ahmed ben Ab-
+delqâder Ettestâouti, l'un des principaux compagnons du
+chéïkh Ben Nâşer, descendant d'Aboù Abdallah Moham-
+med ben Mbârék Ezzaʻri déjà cité. Les actes mémorables
+de ce chéïkh sont trop connus pour que je les rapporte
+ici: ses zâouyas sont autant de sources de profits et de
+bénédictions dans le Magrib. Il mourut à Méknâsét Ez-
+zéïtoùn: son tombeau célèbre se trouve dans le cimetière
+de Sidi Abdallah ben Hamed (Dieu soit satisfait d'eux et
+nous les rende profitables!)
+
+
+Le 18 rabi Ier, mourut le chéïkh, le modèle, l'imâm
+glorieux Aboul abbas Sidi Ahmed ben Mhammed Ben
+Nâşer Edder'i, fils du chéïkh Ben Nâşer déjà cité, son
+khalifa et l'héritier de son secret et de sa grâce (Dieu soit
+satisfait de lui !) Il est trop célèbre pour qu'il faille insis-
+ter à son sujet. Cependant, dans son ouvrage intitulé:
+Errod elyani  elfäïh fi manûqib echchéïkh Abou  Abdal-
+lah Eşşalih, le chéikh Aboù Ali Elhasan ben Mohammed
+Elma  dani raconte l'anecdote suivante : « Voici ce que
+m'a rapporté un savant émérite: Lorsque le chéïkh Aboùl-
+abbas Ahmed Ben Nâşer Edderi alla à Médine lors de
+son dernier pèlerinage, je le vis assis, dit ce savant,
+devant le tombeau du Prophète. On se pressait autour de
+lui pour recevoir l'initiation et l'ouerd, et il paraissait s'en
+réjouir beaucoup. Je me dis en moi-même que cet homme
+était aveuglé par sa vanité, pour se mettre ainsi en évi-
+dence dans cet endroit où viennent s'humilier les rois et
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+153
+
+
+tous les hommes, les génies et les anges, et que, lorsque
+le soleil se lève, on doit cacher les lampes. Il comprit ce
+qui se passait en moi et, se tournant vers moi, il me dit :
+<<<< Par Dicu! je ne me suis assis ici qu'après en avoir reçu
+<< l'ordre du Prophète de Dieu (sur lui soient les prières
+« de Dieu et le salut!) et je ne lui ai obéi que quand il
+<< m'a menacé de me renier. » Je me baissai aussitôt pour
+lui baiser la main en disant: « mon Seigneur, je me
+ repens devant Dieu! » 11 fit une prière pour moi et je
+me retirai. »
+
+
+Cet auteur dit encore: « L'homme vertueux, le docteur
+béni, le docteur de bon conseil, Sidi Mohammed ben
+Brahîm Elmeggáși, raconte que le sultan Moulay Ismail
+ben Echchérif (Dieu lui fasse miséricorde!) convoqua un
+jour le chéïkh Sidi Ahmed Ben Naser, contre lequel il était
+très fâché, dans l'intention de lui faire une méchanceté qu'on
+ne connaissait pas, mais qui devait lui ètre très désagréable.
+Nombre de savants et de compagnons du chéïkh qui
+vivaient avec lui en conçurent aussitôt de la crainte pour
+lui et pour eux. Ils vinrent le trouver et lui demander
+s'il savait quel secours Dieu donne habituellement à ses
+saints et comment il les protège. Le chéïkh ne répondit
+pas. Ils revinrent à la charge, mais finirent par avoir peur
+de lui et se turent.
+
+
+<<< Le chéïkh se mit donc en route pour se rendre auprès
+du Sultan. Arrivé à la qaşba d'Agouraï, non loin de
+Méknásét Ezzéïtoùn, il rencontra un Mejjati nommé
+Elhaddj Omar. Dès qu'il vit le chéïkh, il descendit de son
+cheval pour le saluer, et le chéïkh lui dit : « Quelles nou-
+velles, mon fils? Quelles nouvelles? mon Seigneur,
+répondit l'homme, je voudrais que mon Seigneur ne fût
+pas venu jusqu'ici et ne fût pas sorti de sa maison », ce
+qui voulait dire qu'il y avait du danger. Mais le chéïkh lui
+dit, dans un langage empreint de la protection divine:
+<< Il n'y a rien à craindre. Celui sur lequel pèse une faute
+
+
+154
+
+
+ARCHIVES MAROCAINES
+
+
+d'un empan, ajoute-t-il en mettant sa main sur son cou,
+doit l'allonger jusqu'à une coudée », et en même temps
+il étendit son bras.
+
+
+« Les Coulamà qui étaient avec lui se réjouirent de ces
+paroles: ils furent convaincus que le chéïkh et eux-mêmes
+n'avaient rien à craindre, car ils savaient avec quelle
+générosité Dieu avait l'habitude de le traiter. Effecti-
+vement, le Sultan vint en personne auprès de lui au
+moment où il se trouvait dans la Raoda du chéïkh Abou
+Otsman Sa'id ben Boù Bekr. Il lui témoigna beaucoup
+d'amabilité, de respect, de vénération et d'honneurs : il
+lui donna la main et s'assit avec lui pendant quelque
+temps à l'intérieur de la chapelle. En sortant, le Sultan
+ Dieu lui fasse miséricorde!) se mit à crier à ses gens:
+<< Visitez Sîdi Ahmed Ben Nâşer! Visitez Sidi Ahmed Ben
+Nâşer! » Il répéta plusieurs fois ces paroles qui venaient
+du fond de son cœur. « Quand le Sultan fut sorti de chez
+le chéïkh, raconte Sidi Mohammed ben Brâhîm, j'entrai
+auprès de lui et lui demandai s'il ne craignait pas que le
+Sultan ne le fit installer, lui et ses compagnons, dans le
+mausolée du chéïkh Sidi Abderrahman Elmejdoùb et ne
+les y laissat longtemps. Le chéïkh répondit qu'il ne
+bougerait pas de l'endroit où il était, et que le surlende-
+main il s'en retournerait dans son pays. En effet, il reçut
+du Sultan l'ordre de venir s'installer dans le mausolée du
+chéïkh Elmejdoûb, il répondit qu'il ne resterait que là où
+il était. Le Sultan lui envoya aussitôt après l'ordre de
+retourner dans son pays, chargé de cadeaux et objet de
+toutes sortes d'égards. >>>
+
+
+Dans la nuit de la fète de la rupture du jeune de l'an-
+née 1129, mourut le ſqîh savant, le qadi Aboul abbas
+Ahmed, fils du très docte Aboulhasan 'Ali Elmorrakchi;
+les prières funéraires furent dites le lendemain, et on
+l'enterra à Rabat Elfeth, à l'endroit appelé El eloú.
+
+
+Dans la nuit du samedi au dimanche 18 moharrem 1131,
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+155
+
+
+mourut le chéïkh vertueux Aboù Mi Elhasan ben Ab-
+dallah Elardi Essejiri: il fut enterré à Salé, dans sa
+zâouya du quartier d'Essouéïqa dont la qoubba fut ter-
+minée au mois de rejeb de l'année suivante.
+
+
+Le lundi 15 rejeb 1133 mourut le docteur très savant,
+le dernier des savants consommés, le dernier qadi inı-
+partial de Fès, le chéïkh Abdallah Mohammed El arbi ben
+Ahmed Bordala. A la même date mourut à Morrakch le
+chéïkh très docte et source de bénédictions Aboulabbas
+Ahmed ben Sliman, auteur de nombreux ouvrages, no-
+tamment sur l'arithmétique (Dien lui fasse miséricorde !)
+
+
+En 1138, dans le mois de chaoual, les Deux-Rives, Salé
+et Ribat Elfeth, et leurs environs furent envahis par les
+sauterelles. Après elles, les criquets, qu'on appelle dans
+le langage du Magrib Amred, se répandirent comme un tor-
+rent et ne laissèrent pas une seule feuille verte sans la
+dévorer.
+
+
+Le mercredi 12 safar 1139 mourut le chéïkh qui connut
+Dieu, Sidi Mohammed Eşşalah, fils du chéïkh qui connut
+Dieu, Sidi Mohammed Elma'ți, fils de Sidi Abdelkhaleq,
+fils de Sidi Abdelqåder, fils du grand chéïkh Sidi Moham-
+med Echcharqi. L'ouvrage intitulé Errod 'elfaïh si mana-
+qib echchéïkh Abdallah Eşşalih, de Aboû Ali Elmadani,
+se charge de décrire ses vertus.
+
+
+La mème année, à l'aube du samedi 8 doûlqa da, mou-
+rut le fqih très érudit, le savant consommé Sidi Boù Bker
+ben Ali Elfarji Elmorrakchi Esslaoui. Toute la population
+voulut faire cortège à son enterrement, et il y eut une telle
+foule autour de la civière que des rixes furent sur le
+point d'éclater. Il fut enterré non loin de sa maison dans
+la zaouya de Sîdi Ngéïts, à la Tala de Salé; Dieu le pro-
+tège!
+
+
+156
+
+
+ARCHIVES MAROCAINES
+
+
+Premier règne du Prince des Croyants Moulay Aboûl abbas
+Ahmed ben Ismail, surnommé Eddéhébi (Dieu lui fasse misé-
+ricorde !)¹
+
+
+Après la mort de Moulay Ismail (Dieu lui fasse miséri-
+corde les chefs de la milice d'Elbokhari, les qåïds des
+Oùdèya, les hauts fonctionnaires, secrétaires et qadis du
+gouvernement, se réunirent et prètèrent sermentà Moulay
+Aboùlabbas Ahmed ben Ismail, qui était surnommé
+Eddéhébi à cause de sa grande libéralité. Akensoùs dit que
+cet acte était dù à un conseil des Abids qui ressemblait à
+un ordre et non pas à un engagement pris envers son père.
+La béïa fut envoyée dans toutes les contrées. Dès que la
+nouvelle de la mort du Sultan fut connue à Fès, la première
+chose que firent les habitants fut de tuer leur qaïd Boù Ali
+Erroùsi. Ensuite ils proclamèrent le sultan Moùlay Ahmed,
+et rédigèrent leur prestation de serment, qu'ils envoyèrent
+à Méknės par des notables de la ville. En présence du
+sultan Moulay Ahmed, ces délégués firent acte de fidélité
+et d'obéissance. Celui-ci les reçut et, sans leur laisser
+paraitre de mauvaise pensée pour le meurtre de leur
+qâïd qu'ils venaient de commettre, il donna aux oulama et
+aux chérîfs les cadeaux d'avènement et leur nomma comme
+gouverneur le qâïd Elmahjoub Eleulj. Les gouverneurs
+des tribus et des villes, les notables des cités et des cam-
+pagnes vinrent apporter aussi leur serment et faire acte
+d'obéissance. Le Sultan leur fit bon accueil et, après avoir
+distribué à tous des cadeaux variant suivant leur rang, les
+congédia.
+
+
+Libre alors de s'occuper de ses aflaires, il inaugura son
+administration par l'exécution de ceux qui avaient été les
+gouverneurs de son père et les colonnes de son empire.
+C'est ainsi qu'il fit mettre à mort le chef des Berbers,
+
+
+1. Texte arabe, $IV^{e}$ partie, page 54.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+157
+
+
+'Ali ben Ichcho Elqebli et le chef de la région de Fès et
+de la province voisine d'Elhabt, Ahmed ben Ali. La vérité
+est que celui-ci étant incarcéré au moment de l'avènement
+de Moulay Ahmed, Ali ben lehcho avait persuadé au Sul-
+tan de l'égorger dans sa prison. Dieu fit tomber cet intri-
+gant dans les mains du Sultan qui le fit mettre à mort,
+lui donnant ainsi une récompense analogue à sa conduite.
+Le Sultan fit mettre aussi à mort le bacha Ben Elachgar
+et Mordjân Elkebir, qâïd des esclaves nègres du palais et
+gardien des trésors, qui avait sous sa surveillance
+2.200 eunuques, répartis entre les portes des apparte-
+ments des palais. Chacun de ces eunuques avait pour les
+servir plus de deux ou trois esclaves.
+
+
+Moùlay Ahmed (Dieu lui fasse miséricorde!) était sous
+la tutelle des Abîds, qui, dans la plupart des questions,
+n'avaient qu'à lui conseiller quelque chose pour qu'il le
+fit: c'est ainsi qu'ils l'engagèrent à tuer les principaux
+chefs de l'empire qu'il mit à mort. Il fit tuer encore d'au-
+tres qâïds et d'autres secrétaires. Il fit ensuite l'inspection
+des trésors, des magasins où se trouvaient les armes et
+les vêtements, et ordonna de distribuer tout cela aux
+Abids et aux qâïds du guéïch. Il donna plus qu'il ne fallait.
+Il fit des largesses aux oulamâ, aux chérifs, aux tolba.
+Il donna même des sommes importantes à de simples sol-
+dats. Aussi on se prit d'affection pour lui et on le vanta
+beaucoup. Dieu lui fasse miséricorde!
+
+
+Attaque de Tétouan par le qâïd Aboul abbas Ahmed ben Ali
+Errîfi: incidents survenus entre lui et le fqîh Abou Hafs
+Omar Elouaqqâch (Dieu lui fasse miséricorde !) ¹
+
+
+Le guerrier de la foi, le qaid Aboul abbas Ahmed ben Ali
+Errifi, avait succédé à son père dans le commandement
+
+
+1. Texte arabe, $IV^{e}$ partie, page 55.
+
+
+158
+
+
+ARCHIVES MAROCAINES
+
+
+des volontaires de la guerre sainte des places de la région
+d'Elhabi, au temps du sultan Moulay Ismail. Son père et
+lui avaient joué le principal rôle dans la prise de Tanger
+et d'El'arèïch, comme nous l'avons déjà vu en partie, et
+il jouissait, pour cette raison, d'une grande influence
+auprès du gouvernement et surtout dans la région d'EΙ-
+habt.
+
+
+Il y avait alors comme gouverneur à Tétouan le fqih, le
+littérateur Aboù Hafs Omar Elouaqqach. Il appartenait à
+une famille de cette ville qui avait été déjà au pouvoir. 11
+avait rempli autrefois les fonctions de secrétaire auprès du
+sultan Moulay Ismail, Dieu lui fasse miséricorde! qui
+l'estimait beaucoup. Ce prince lui avait donné le gouver-
+nement de la ville et de la province de Tétouan, quand
+son âge ne lui avait plus permis de rester au service impé-
+rial.
+
+
+Une certaine animosité régnait entre Elouaqqach et le
+qâïd Aboùlabbas Errifi. Elle avait été provoquée par le
+fait de leur voisinage et de leur contemporanéité; et elle
+était entretenue par les propos qui leur étaient rapportés
+de chacun d'eux sur le compte de l'autre. Il en fut ainsi
+jusqu'à la mort du sultan Moulay Ismail (Dieu lui fasse
+miséricorde!. Quand Moulay Ahmed arriva au pouvoir, il
+laissa fléchir l'autorité et négligea l'armée, si bien que le
+Sultan n'avait plus de prestige auprès des gouverneurs des
+diverses régions. Aboul abbas Errifi voulut en profiter,
+pour prendre sa revanche contre les habitants de Tétouan.
+Il marcha contre la ville, accompagné d'une troupe nom-
+breuse, et y entra par surprise. Mais quand il voulut user
+de violence avec eux, le fqih Aboù Hafs Elouaqqach se
+mit à la tête des habitants, lui livra combat et eut le des-
+sus. Il infligea à son ennemi une défaite plus sérieuse que
+celle que celui-ci comptait lui faire subir il tua un grand
+nombre de ses soldats, et le qaid Aboulabbas lui-même
+eut grand'peine à s'échapper.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+159
+
+
+Cette victoire, à laquelle il ne s'attendait pas, remplit
+de joie le fqth Aboù Hafs. Dans l'ivresse de son triomphe,
+il alla jusqu'à convoiter la royauté, et parla de ce qu'en
+homme sensé il aurait dù cacher. Il composa alors sa
+qaşida célèbre, dans laquelle il reprochait aux gens du
+Rif leur conduite, abaissait leur gouvernement, se met-
+tait au-dessus des gens de Fès et de tous, et annonçait
+la fortune à laquelle it arriverait. Malgré son grand
+âge, cette attitude était indigne de lui, car c'était un
+homme très fin, plein de science et d'autorité. Voici cette
+qaşîda:
+
+
+« J'ai atteint dans la gloire le point que j'avais espéré.
+Ma vie est devenue meilleure, et l'oiseau v a chanté.
+
+
+<< L'annonciateur de la bonne nouvelle a proclamé en
+termes éloquents et clairs, a crié: Viens, ò Aboù Hafs! la
+première place t'attend.
+
+
+<<<< Je me suis levé pour répondre à cet appel, bondissant
+de joie, et ni Zéïd, ni Omar n'ont fait alors attention
+à moi.
+
+
+<< Je me suis mis, grâce à Dieu, à rechercher la royauté,
+et j'ai dit (le Maitre en soit loué et remercié !) :
+
+
+<<< C'est moi qui suis l'illustre Omar: si tu ne me con-
+nais pas, informe-toi: tu sauras que je possède la préémi-
+nence, et je ne me vante pas!
+
+
+<< C'est moi qui suis 'Omar qui se distingue par le cou-
+rage et la générosité; c'est moi qui suis Omar dont il est
+question dans les prédictions.
+
+
+<< Je suis venu pour ranimer la religion en décadence.
+Bonheur à celui qui voit le pouvoir venir à lui !
+
+
+<<< Il ne reste plus dans notre Garb de roi sans vigueur;
+c'est à moi que finissaient la science proclamée et les se-
+crets.
+
+
+ C'est moi qui suis l'illustre Omar: dans les com-
+bats je suis le héros du premier rang; je suis le grand
+savant.
+
+
+160
+
+
+ARCHIVES MAROCAINES
+
+
+<< J'ai dominé mon pays, et j'ai répondu à l'appel d'autres
+régions. Dans peu de temps ma situation et mon rang
+auront augmenté.
+
+
+<< J'apporte la justice à l'exemple des deux Imâms; je
+suis le troisième qui a été annoncé, l'unique. >>>
+
+
+(C'est-à-dire le troisième Omar; il le déclarait lui-
+même [Note de l'auteur].)
+
+
+<< Ferţoto, Errahımoùn et Elkot sont mes partisans.
+Râġoùn est mon trésor, et Essegir mon agent d'exécution.
+<< Voilà mes auxiliaires, les membres de mon gouverne-
+ment: quant à ma famille et à mes alliés, ce sont les étoiles
+qui brillent.
+
+
+« L'écho de ma grandeur et de ma puissance se réper-
+cute dans les nuages, et ma gloire commence partout
+comme une aube.
+
+
+<< Mon croissant a paru quand Hilali a pris mon parti,
+et ma fortune a grandi quand Géïlân m'a répondu.
+
+
+<< Le pouvoir des Rifains est définitivement miné et je
+n'ai, en vérité, plus rien à faire contre lui.
+
+
+<< En voyant leurs barbes, notre courage a été si meur-
+trier, qu'ils se sont enfuis en toute hâte et que les sabres
+et les lances
+
+
+<< Ont fait voler leurs mains et leurs avant-bras. Bravo!
+on a raison d'ètre satisfait de moi!
+
+
+<<<< Car leur chef est parti en cachette et tremblant: il
+n'a pas échappé à notre punition et à nos représailles.
+« Qui donc voudrait se comparer à moi? j'ai des biens
+immenses, et mon nom remplit la terre et la mer! >>>
+
+
+Ce poème continue, mais il n'y a pas intérêt à le rap-
+porter en entier. Le fqih Aboû Abdallah Mohammed ben
+Bejja Errifi Elarêïchi y répondit par une qaşîda, dans
+laquelle il disait :
+
+
+<<<< Dans les pages de l'histoire, nous trouvons des ensei-
+gnements: nous apprenons, par exemple, que l'àne se
+prétend un humain.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+161
+
+
+<< Celui qui a passé sa jeunesse sans avoir rien vu
+d'étonnant n'a que la vieillesse pour l'instruire de la
+merveille de son temps. >>>
+
+
+Cette qaşîda est longue, mais son auteur était un poète
+médiocre; c'est pourquoi nous ne la citons pas en en-
+tier.
+
+
+Quand la nouvelle de ces faits parvint au Prince des
+Croyants Moûlay Ahmed (Dieu lui fasse miséricorde!) il
+détourna les yeux del'un et de l'autre, et rentra dans son
+palais où il se livra entièrement aux plaisirs, sans s'occu-
+per de ses sujets, ni de leurs affaires. Aussi de graves
+désordres se produisirent, entre les tribus et les repré-
+sentants du Makhzen, dans les régions du Garb et d'Elqşar
+et dans les districts environnants.
+
+
+Nombre de gens périrent dans ces troubles; le khalifat
+y perdit son prestige, et le bon ordre du royaume fut
+rompu d'un seul coup, surtout par le meurtre des grands
+chefs qui conduisaient les affaires: c'était le but que
+poursuivaient les 'Abîds. En effet, Ali ben Ichcho était
+le plus grand chef et commandait les Berbers et d'autres
+tribus. Ahmed ben Ali était chef des montagnes de Mer-
+moùcha, de Beni Quarâïn, des Arabs Elhayâïna et des
+Berbers de Gayyâtsa et des montagnes. Il était l'auxiliaire
+de Ali ben Ichcho et rivalisait avec lui pour conseiller le
+gouvernement et lui fournir de l'argent. Ils avaient tous
+deux comme auxiliaire Ben Elachqar, qui était chef des
+Zrâhna et était chargé en même temps du achour, notam-
+ment des tribus du Garb et de Beni Hsen. Enfin le qâïd
+Mordjân était le gardien des trésors et tenait le registre
+des entrées et des sorties, de sorte qu'il connaissait les
+sommes que les gouverneurs apportaient chaque année.
+Aussi, dès qu'ils furent tués (Dieu leur fasse miséricorde !)
+les sujets ne sentirent plus le poids de leur autorité, et
+se virent débarrassés de ceux qui mettaient un obstacle
+entre eux et les désordres, et qui les punissaient pour
+
+
+ARCII. MAROC.
+
+
+11
+
+
+162
+
+
+ARCHIVES MAROCAINES
+
+
+leurs mauvaises actions. Les Berbers surtout, sur les-
+quels pesait un joug d'airain, le secouèrent dès que  Ali
+ben Ichcho fut mort et, achetant des chevaux et des armes,
+revinrent à leurs anciens égarements. Les autres tribus
+arabes les imitèrent comme si c'eût été un mot d'ordre,
+et les brigandages reprirent sur les routes. Les plaignants
+affluèrent à la porte du Sultan, mais ils ne trouvaient per-
+sonne à qui parler, du moins à Méknès. A Fès, ce furent
+les Oûdêya qui se chargèrent d'y remplacer les Berbers,
+dans le pillage: la situation était de plus en plus cri-
+tique.
+
+
+Au mois de moharrem 1140, les Oûdèya envahirent le
+Soûq Elkhamîs à Fès, s'y livrèrent au pillage et au meurtre,
+et s'emparèrent d'un certain nombre de gens de la ville,
+qu'ils jetèrent en prison à Fès Eljedid. Une députation de
+chérîfs fut aussitôt envoyée par la population de cette
+ville auprès du Sultan à Méknès, pour porter plainte
+contre les injustices des Oùdêya, mais, aux portes de la
+capitale, les délégués furent attaqués par Mohammed ben
+'Ali ben Ichcho, qui les emprisonna avant qu'ils aient pu
+ètre reçus par le Sultan. Quand ils apprirent le sort fait à
+leurs envoyés à Méknès, les gens de Fès déclarèrent la
+guerre aux Oùdêya et leur fermèrent les portes de la ville.
+Aussitôt ceux-ci envoyèrent au Sultan un message pour
+lui faire savoir que les habitants de cette cité avaient secoué
+le joug de l'obéissance et s'étaient révoltés. Sur-le-champ
+des renforts furent envoyés: ils étaient armés de fers
+tranchants et acérés, la situation s'aggrava, le chasseur
+fut aux prises avec l'archer, et l'on dressa des canons, des
+mortiers et des catapultes pour faire le siège de Fès. Les
+hostilités durèrent jusqu'au moment où le Sultan expédia
+son frère Moûlay Elmostadi avec un groupe de chérifs de
+Méknès accompagnés des chérifs qu'avait incarcérés Moham-
+med ben 'Ali ben Ichcho, afin d'arranger les choses et de
+rétablir la paix entre les Oûdêya et les habitants de Fès.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+163
+
+
+La paix fut conclue et les soldats du Sultan retournèrent
+à Méknès, mais au bout d'un jour ou deux elle fut violée,
+et les Oùdêya recommencèrent le siège de la ville et y
+lancèrent des bombes et des boulets. La lutte reprit de
+plus belle, jusqu'au moment où, envoyé par le Sultan, le
+qaïd Aboû Amran Mousa Eljerrâri vint tâcher de rétablir la
+paix et entra en pourparlers à cet effet avec les habitants
+de Fès. Ceux-ci se soumirent et, après avoir pris en otage
+des compagnons d'Aboû Amran, envoyèrent avec lui une
+délégation de notables 'oulamâ et chérifs, qui devait aller
+trouver le Sultan et en finir avec cette affaire. Mais quand
+ces envoyés arrivèrent à Méknès, on ne les laissa pas
+pénétrer auprès du Sultan, et ils durent revenir à Fès sans
+avoir accompli leur mission.
+
+
+La situation resta la même jusqu'au jour où les Abids
+leur firent porter une lettre où ils leur demandaient s'ils
+approuveraient la déposition du sultan Moùlay Ahmed et
+la proclamation de son frère Moûlay Abdelmalék, gou-
+verneur du Soûs. Les gens de Fès acquiescèrent à cette
+proposition, et traitèrent généreusement leurs émissaires,
+auxquels ils jurèrent fidélité. Les Abids retournèrent à
+Méknès satisfaits des pourparlers eurent lieu aussitôt
+entre les qâïds de l'armée qui étaient dans la ville. Ils
+examinèrent les désordres auxquels s'était livrée la popula-
+tion, l'insécurité des routes et l'arrêt des affaires, et se
+rendirent compte qu'ils avaient fait une faute en favorisant
+l'avènement de Moûlay Ahmed, qui faisait peu de faveurs
+et était ignorant des devoirs du khalifa. Il fut alors dé-
+cidé de le déposer et de le remplacer par un autre.
+
+
+Dès que l'accord fut complet, ils envoyèrent un groupe
+de cavaliers à Moûlay Abdelmâlék, pour lui remettre une
+lettre où ils l'engageaient à venir et l'informaient de leur
+décision. Ce prince répondit à leur prière, et se mit rapi-
+dement en route pour Méknès. Dès qu'ils le surent arrivé
+à l'Oued Béht, les Abids entrèrent auprès du sultan Moй-
+
+
+164
+
+
+ARCHIVES MAROCAINES
+
+
+lay Ahmed, s'en emparèrent, le chassèrent de son palais,
+et l'internèrent dans la maison qu'il habitait en dehors
+de la qaşba avant son avènement. Ceci se passait au mois
+de cha bân 1140.
+
+
+Règne du Prince des Croyants Moulay Aboû Merouân 'Abdelmâlék
+ben Ismâ'îl (Dieu lui fasse miséricorde!)¹
+
+
+Le lendemain du jour où le sultan Moulay Ahmed (Dieu
+lui fasse miséricorde!) fut déposé et interné en dehors de
+la qaşba, tout le guéïch se réunit pour aller au-devant de
+Moulay Aboù Merouân Abdelmálék ben Ismail. La ren-
+contre cut lieu en dehors de Méknès, les honneurs impé-
+riaux lui furent rendus, et il entra dans la capitale avec
+la pompe royale et les attributs du Sultan, sous l'escorte
+des troupes. Les hauts fonctionnaires, les chefs, les
+qadis, les oulamâ et les chérifs du gouvernement vinrent
+ensuite prèter serment de fidélité. La béïa fut envoyée
+dans toutes les provinces. Le lendemain, une députation
+de notables de Fès, composée de  oulamâ et de chérîfs
+apportèrent leur serment. Ils furent introduits auprès du
+Sultan et le reconnurent. Toutes les villes et les cam-
+pagnes envoyèrent ensuite leurs délégués pour féliciter le
+souverain. Celui-ci donna audience à toutes ces députa-
+tions et les reçut avec toute l'amabilité nécessaire. Quand
+il eut terminé ces réceptions, il songea à la question de
+son frère Moùlay Ahmed qui avait été déposé, et ordonna
+qu'il fût conduit à Fès, pour y ètre emprisonné, puis il se
+ravisa et l'envoya à Sijilmâsa.
+
+
+L'auteur d'Elazhar Ennadiya dit qu'en envoyant son
+frère Moùlay Ahmed au Tâfilêlt, le sultan Moûlay Aboû
+Merouân écrivit au gouverneur de cette province de lui
+
+
+1. Texte arabe, IV partie, page 17.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+165
+
+
+crever les yeux dès son arrivée. Moûlay Ahmed fut pré-
+venu de cet ordre et s'enfuit à la zâouya du chéïkh Abou
+Otsmân Sidi Sa  îd Ahenşâl. Le modqaddem de cette zâouya,
+Sîdi Yousef, qui était alors le fils de ce chéïkh et qui sa-
+vait prédire les événements, annonça à Moulay Ahmed
+qu'il rentrerait au pouvoir. Cette prophétie se réalisa.
+
+
+On avait cru que le sultan Moûlay Aboû Merouân ressem-
+blerait à son père, qu'il continuerait sa politique et qu'il
+saurait contenir le pays comme lui, mais cette espérance
+fut déçue et les efforts qui avaient été déployés restérent
+inutiles.
+
+
+« Si le jeune chameau n'est pas accouplé avec un autre,
+il ne peut arriver à posséder la force des grands cha-
+meaux. »
+
+
+Dieu empêcha sa main de donner: pas un dirhem ne fut
+remis aux soldats et aux députations. Ce fut une des prin-
+cipales raisons de son impopularité et de la décomposition
+de son empire. Le corps des Bokharis lui ayant réclamé,
+selon l'usage, le don de joyeux avènement, il leur envoya
+4.000 mitsqals, tandis que, du temps de Moùlay Ismail,
+leur solde était de 100.000 mitsqals, et qu'en arrivant au
+pouvoir, Moûlay Ahmed l'avait augmentée de 50.000 mits-
+qals. Quand ils virent le don que leur envoyait le Sultan,
+ils commencèrent à se repentir de ce qu'ils avaient fait, et
+comprirent qu'ils n'avaient rien gagné en mettant ce prince
+sur le trône. Ils résolurent de le déposer, mais ils gardė-
+rent le secret, attendant qu'une occasion favorable se pré-
+sentât. Prévenu de leurs projets, le Sultan prit ses précau-
+tions. Pensant que les tribus arabes pourraient tenir tête
+aux Abids, il leur envoya des messages, où il leur faisait
+de belles promesses en éveillant leur convoitise, et les
+engageait à rester unies, pour être en mesure de lui ser-
+vir un jour. D'un autre côté, il écrivait aux Berbers pour les
+exciter contre les  Abîds, et il excitait les Abîds contre les
+Berbers, en leur disant notamment que jamais la situation
+
+
+166
+
+
+ARCHIVES MAROCAINES
+
+
+ne s'aplanirait si ces Berbers n'étaient pas subjugués. Il
+les occupait même par des préparatifs d'expédition. Il écri-
+vit, d'autre part, aux gens de Fès de lui envoyer leurs ar-
+chers à sa capitale pour marcher contre les Berbers. En-
+fin, il cherchait à créer un antagonisme entre les soldats
+et les Berbers. Mais les Abîds se rendirent compte de ses
+desseins et, s'écartant de lui avec la rapidité d'un onagre,
+se mirent d'accord pour le déposer et pour remettre au
+pouvoir son frère Moûlay Ahmed, qui était généreux et tou-
+jours prêt à donner. C'était là une erreur de leur part, car
+Moûlay Aboû Merouân (Dieu lui fasse miséricorde!) était
+plus digne du khalifat que Moulay Ahmed: il était habile
+et énergique, et avait résolu de débarrasser la capitale et
+le gouvernement des menées des Abids et de les réduire
+dans leurs fourrés comme des bêtes fauves. Mais il avait
+mal su s'y prendre, et les 'Abîds l'avaient devancé.
+
+
+Quand il connut, d'une façon certaine, le projet qu'avaient
+formé les 'Abids de le déposer, il dépêcha auprès d'eux le
+chéïkh béni Moûlay Ettayyéb ben Mohammed Elouaz-
+zâni pour les sermonner. Ce saint personnage leur adressa
+des exhortations, leur promit des récompenses s'ils renon-
+çaient à leur entreprise, les invita à ne pas se révolter
+contre le Sultan, en leur faisant craindre la colère de Dieu
+pour une pareille action. Mais ces objurgations ne firent
+qu'augmenter leur hardiesse, car ils envoyèrent peu après
+une troupe de cavaliers à Sijilmasa pour ramener Moûlay
+Ahmed. En attendant, ils montèrent à cheval, quittèrent le
+Diouân et vinrent attaquer Méknès. Après avoir razzié les
+troupeaux, ils entrèrent dans la ville, et la mirent au pil-
+lage: ils ne respectèrent pas les choses les plus sacrées,
+et firent périr tous les hauts personnages dont ils purent
+s'emparer. Ils entrèrent ensuite dans le palais impérial,
+pour arrêter le sultan Moûlay Aboû Merouân, mais ils ne
+l'y trouvèrent plus, car, dès qu'il avait appris ce qu'avaient
+fait les 'Abîds dans la ville, il s'était enfui à Fès, accompa-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+167
+
+
+gné de quelques-uns de ses gens, et était allé se réfugier
+dans l'enceinte sacrée de Moùlay Idris (Dieu soit satisfait
+de lui!) Les gens de Fès, à qui il demanda leur protection,
+lui promirent de lui rester fidèles. Quand les 'Abids surent
+dans quel endroit de Fès Moulay Aboù Merouân se trou-
+vait, et connurent la promesse que les habitants de cette
+ville lui avaient faite, ils s'emparèrent des archers fèsis
+qui étaient venus à Méknès pour prendre part à l'expédi-
+tion contre les Berbers, comme nous l'avons indiqué plus
+haut, et les arrètèrent en attendant l'arrivée du sultan Moû-
+lay Ahmed de Sijilmasa, qui déciderait de leur sort et de
+celui de son frère. Ceci se passait au mois de doûlheddja
+1140.
+
+
+Deuxième règne du Prince des Croyants Moulay Aboûl'abbas
+Ahmed Eddehebi (Dieu lui fasse miséricorde!)¹
+
+
+Informé à Sijilmâsa par les Abîds de la décision qu'ils
+avaient prise de déposséder son frère du pouvoir pour le
+lui rendre, Moûlay Ahmed ben Ismail se hâta de partir
+pour Méknès, où il arriva à la date précitée. Les grands de
+l'Empire, qâïds, qâdis et secrétaires le proclamèrent pour
+la seconde fois et envoyèrent la béï'a dans toutes les pro-
+vinces.
+
+
+Dès qu'il eut pris possession du palais impérial, il distri-
+bua de l'argent et des vêtements aux soldats, aux oulama
+et aux chérîfs : il fut très généreux, car il se souvenait de
+ce qui avait provoqué la vengeance des 'Abids contre son
+frère. Cependant, la politique de son frère eût été plus
+proche de la vérité, s'il avait su se maintenir dans un juste
+milieu, et s'il avait dirigé ses affaires en homme éner-
+gique. Mais ce que Dieu veut est, et ce qu'il ne veut pas
+n'est pas !
+
+
+1. Texte arabe, IV partie, page 58.
+
+
+168
+
+
+ARCHIVES MAROCAINES
+
+
+Siège de Fès par le Prince des Croyants, Moûlay Ahmed;
+ses causes¹.
+
+
+Aussitôt après avoir été proclamé pour la seconde fois,
+Moûlay Ahmed reçut les délégations des tribus et des
+villes, auxquelles il fit un accueil généreux. Seule, la
+ville de Fès ne lui envoya aucun délégué. Comme, à son
+arrivée de Sijilmâsa, dès qu'il avait eu connaissance du lieu
+de refuge de son frère et de l'endroit où étaient retenus à
+Méknès les archers de Fès, il avait ordonné d'emprisonner
+ces derniers et d'user de rigueur à leur égard, les gens
+de Fès s'attendaient à être maltraités par ce prince et
+avaient évité de se rendre auprès de lui. De plus, sentant
+peser sur eux le crime qu'ils avaient commis en mettant à
+mort Boù 'Ali Erroûsi dont ils avaient pillé la maison et
+les biens, en même temps qu'ils s'étaient emparés de l'ar-
+gent du Makhzen qui était entre ses mains, ils redoutaient
+la colère de Moulay Ahmed, qui, trop occupé de ses pro-
+pres aflaires au début de son règne, avait dù les laisser de
+côté. Aussi, lorsque le pouvoir lui fit retour, ils se méſiè-
+rent de lui et ne voulurent pas lui obéir. Ils allèrent, au
+contraire, auprès de Moulay Abdelmalék, à qui ils prètè-
+rent de nouveau serment, et annoncèrent qu'il avait été
+proclamé souverain et qu'il fallait se soumettre à ses
+ordres.
+
+
+Mais bientôt ils reçurent une lettre du sultan Moulay
+Ahmed qui les invitait à lui livrer son frère, ou à l'autori-
+ser à aller le combattre. Se déclarant en rébellion, ils fer-
+mèrent les portes de la ville et se préparèrent à subir le
+siège. Le Sultan leur envoya alors le qâïd Ellirîni, chef
+des archers emprisonnés à Méknès, avec l'ordre de leur
+proposer de se soumettre, en échange de quoi il donne-
+
+
+1. Texte arabe, IV partie, page 58.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+169
+
+
+rait la liberté à leurs frères prisonniers. Celui-ci avait à
+peine terminé la lecture de la lettre du Sultan qu'il
+avait été chargé de leur apporter, qu'ils se précipitèrent
+sur lui, et, après l'avoir tué, traînèrent son corps par un
+pied, et le suspendirent au mùrier du quartier d'Eşşefla-
+rin. Elkhayyat Adéyil fut également tué sur le seuil de
+sa maison.
+
+
+Le chérif Abou Mohammed Abdallah ben Dris Elidrisi
+partit aussitôt à la tête de cavaliers et d'archers pour
+Zouâġa: là, il fondit à l'improviste sur les troupeaux des
+Oùdèya et enleva un grand nombre de bœufs et de mou-
+tons qu'il ramena à Fès. On vendit ces animaux à vil prix
+et on fit le partage: on dit qu'une vache se vendit 6 mou-
+zoûnas, et une brebis 1 mouzouna. La guerre se trouvait
+déclarée entre la ville de Fès et les Oùdèya.
+
+
+Le $1^{er}$ moharrem 1141, le sultan Moulay Ahmed quitta
+Méknès à la tète des troupes Abid et Oùdèya de sa capi-
+tale et vint camper le lendemain sous les murs de Fès. Des
+canons, des mortiers et des machines de guerre furent
+braqués contre la ville, et les soldats, envahissant les jar-
+dins, pillèrent les fruits et ravagèrent les plantations. Le
+Sultan ordonna aux artilleurs de lancer sans interruption,
+nuit et jour, contre la ville des boulets, des bombes et des
+blocs de pierre. Le tir commença et bientôt il causa des
+dégâts considérables et démolit une grande partie des
+maisons. Le siège dura cinq mois, pendant lesquels nombre
+de combattants périrent, les uns dans le combat, et les
+autres sous les décombres et les pierres.
+
+
+Au bout de ce temps, la situation était critique: les ha-
+bitants, incapables de résister plus longtemps et voyant
+les vivres diminuer et hors de prix, reconnurent Moûlay
+Ahmed, qui fit la paix à condition qu'ils lui livreraient son
+frère Moûlay  Abdelmalék et qu'ils le lui remettraient
+sous le couvert de l'amûn. Le Sultan envoya donc deman-
+der à celui-ci de choisir entre l'exil à Sijilmasa et le séjour
+
+
+170
+
+
+ARCHIVES MAROCAINES
+
+
+dans le sanctuaire Idrisi: il préféra le séjour dans le
+horm. Le Sultan ordonna alors aux habitants de Fès de
+ne plus avoir de rapports ni de communications avec son
+frère, et de ne rien vendre ni acheter à ses serviteurs:
+quiconque enfreindrait ces prescriptions serait puni.
+Voyant avec quelle rigueur son frère le traitait, Moûlay
+'Abdelmalék manda aussitôt son fils auprès des 'Abîds
+pour les prier de lui garantir la vie sauve et leur promettre
+de les suivre partout où ils voudraient.
+
+
+Le bâchâ Salem Eddoùkkâli se rendit alors auprès de
+lui avec cinquante qâïds, et tous lui jurèrent dans le sanc-
+tuaire Idrisi qu'aucun mal ne lui serait fait. Ils sortirent
+du horm avec lui et l'amenèrent devant son frère qui or-
+donna de le conduire enchaîné à Méknès. Dès qu'il arriva
+dans cette ville, il fut emprisonné dans la maison du bâ-
+châ Msâhél.
+
+
+Le sultan Moûlay Ahmed quitta Fès pour rentrer à Mék-
+nès et tomba malade à peine arrivé. Quand il sentit venir
+la mort, il donna l'ordre d'étrangler son frère Abdelma-
+lék: l'exécution eut lieu dans la nuit du lundi au mardi
+$1^{er}$ cha bân. Le samedi suivant, 5 cha bân, le Sultan expi-
+rait, trois jours après son frère. Dieu leur fasse miséri-
+corde!
+
+
+Le récit que nous venons de faire est celui que l'on
+trouve dans le Boustan: il a été reproduit fidèlement par
+Aboû Abdallah Akensoûs.
+
+
+J'ai trouvé la note suivante écrite de la main de mon
+grand-père paternel, le fqîh, le professeur Aboû Abdallah
+Mohammed ben Qâsém Elidrisi Elyahyaoui Eljébbâri,
+connu sous le nom de Ben Zerroûq, qui vivait à cette
+époque-là: « Moulay Ahmed ben Ismâîl, surnommé
+Eddehebi, fut proclamé le jour de la mort de son père
+(Dieu lui fasse miséricorde !) Il se produisit à cette époque
+dans le Magrib, et notamment à Elqşar et dans les envi-
+rons, entre les tribus et les agents du Makhzen, de graves
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+171
+
+
+désordres au cours desquels nombre de gens trouvèrent
+la mort. Ce Prince fut déposé après un an et six mois de
+règne, et remplacé, le dernier jour de rejeb 1141, par son
+frère, qui se trouvait alors à Târoûdânt, dans l'extrême-
+Soûs. Celui-ci arriva au palais impérial de Méknés dans
+la nuit du 27 ramadân. Son frère Moulay Ahmed Elmekhloû
+se révolta contre lui le 10 moharrem 1142 et lui enleva de
+force le palais impérial, une forte sédition éclata dans la
+ville de Méknès: un grand nombre d'hommes tombèrent
+dans le combat, et plusieurs furent même tués après la
+lutte. Moûlay 'Abdelmalék s'enfuit à Fès, il fut suivi par
+Moûlay Ahmed qui vint l'y assiéger pendant près de quatre
+mois, et dut se rendre à lui sous le couvert de l'amân. II
+fut mis en prison à Méknès, et fut étranglé dans les der-
+niers jours de rejeb. » Là finit cette note. Dieu sait quelle
+est la vérité.
+
+
+Moûlay Ahmed (Dieu lui fasse miséricorde!) ressemblait
+beaucoup, dit-on, à Elamîn, fils d'Errechid El'abbasi, par
+sa mise, par sa frivolité et son amour du plaisir, son
+manque de droiture et de sérieux, qui furent la cause des
+troubles et de l'anarchie qui se produisirent. Ses contem-
+porains affirment qu'avant d'arriver au pouvoir il n'avait
+jamais assisté à un combat, et qu'il était pourtant coura-
+geux. Les choses allèrent avec lui comme nous l'avons
+dit: Dieu seul ordonne avant et après.
+
+
+Règne du Prince des Croyants Moulay Abdallâh ben Ismâ il
+(Dieu lui fasse misériccorde!) ¹
+
+
+Moûlay Abdallah ben Ismail, qui avait pour mère la
+noble dame Khenâtsa, fille du chéïkh Bekkar Elmgafri,
+s'était joint, pendant le règne de son père, à son autre frère
+
+
+1. Texte arabe, IV partie, page 59.
+
+
+172
+
+
+ARCHIVES MAROCAINES
+
+
+Moulay Abdelmalék et était demeuré avec lui dans le Soùs.
+Quand celui-ci fut proclamé à la place de Moulay Ahmed
+qui venait d'être déposé, il vint avec lui à Méknès et ne
+le quitta pas. Lors de la révolte des Abîds contre Moûlay
+'Abdelmalék, quand celui-ci alla se réfugier dans le sanc-
+tuaire de Moulay Idris, Moûlay 'Abdallah partit pour Sijil-
+mâsa et y vécut dans sa maison jusqu'à la mort de Moùlay
+Ahmed, à la date que nous avons indiquée.
+
+
+Les grands de l'Empire, Abid et Oûdèya, tous les qâïds
+et les cheľs, se réunirent alors et tombèrent d'accord pour
+prêter serment de fidélité à Moulay Abdallah ben Ismail
+qui était à cette époque à Sijilmâsa. Après avoir proclamé
+son nom, et annoncé son avènement à Elmhalla et à Mék-
+nès, ils envoyèrent une troupe de cavaliers pour le rame-
+ner. Ils écrivirent en même temps aux gens de Fès, en
+leur exprimant leurs regrets au sujet de ceux de leurs
+concitoyens qui avaient péri pendant le siège et en les
+invitant à adhérer à la béï'a de Moûlay 'Abdallah ben
+Ismâîl. Dès que leur lettre arriva à Fès, elle fut lue dans
+la chaire de la mosquée d'Elqarouiyin, et la proposition
+qu'elle contenait fut agréée par la population.
+
+
+Pendant ce temps, les cavaliers arrivaient auprès de
+Moulay Abdallah et lui faisaient part de l'accord qui s'était
+établi à son sujet dans la population. Le prince se mit
+rapidement en marche et descendit à l'extérieur de Fès
+à l'endroit appelé Elmehrès. Les  oulama, les chérîfs et
+les autres notables de la ville se portèrent à sa rencontre
+et vinrent le saluer. Ils témoignèrent de la joie de le voir
+arriver, et le Sultan lui-même leur ſit un accueil aimable,
+leur adressa des paroles affables, leur promit sa bien-
+veillance, et leur annonça que le lendemain il entrerait
+dans leur ville pour visiter Moûlay Idris (Dieu soit satis-
+fait de lui !). Ils le quittèrent ravis et satisfaits, et le
+lendemain, parés de leurs plus beaux vêtements et de
+leurs armes, et précédés de leurs bannières, ils se trou-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+173
+
+
+vèrent au rendez-vous fixé par le Sultan. Moulay Abdal-
+lâh monta aussitôt à cheval, entouré de sa cour et des
+gens de sa suite, parmi lesquels se trouvait Hamdoùn
+Erroûsi, l'ennemi des habitants de Fès. Il fit son entrée
+dans la ville par Bab Elfetoûh.
+
+
+Lorsque le Sultan fut au milieu de Fès Elbali, certains
+courtiers de révolte, les fils de Ben Yousef, reconnurent
+Hamdoùn Erroùsi, qui avait tué leur père, et se dirigèrent
+vers lui. Celui-ci, qui les avait remarqués, s'était d'abord
+éloigné d'eux, mais quand il se vit suivi par eux, il com-
+prit leur dessein, et, mettant son cheval au galop, il arriva
+auprès du Sultan, lui fit part de l'attitude des fils de Ben
+Yousef, et en profita pour médire de toute la population
+de Fès. Le Sultan qui se trouvait déjà au pont d'Erreșif
+changea de décision, et retournant par le chemin de Jama
+Elhoût et par Gza Ben Amer, sortit de la ville par Bab
+Elhadid, se dirigeant sur Fès Eljedid, sans avoir accompli
+sa visite à Moùlay Idris. Personne ne savait alors le motif
+de cette détermination, mais bientôt on le connut partout.
+Les oulamâ de Fès et les chérifs se rendirent auprès du
+Sultan et lui apportèrent leur serment de fidélité. Un des
+fqihs qui étaient là lui présenta des excuses en lui disant
+que ce qui s'était passé au sujet de Hamdoùn n'était le
+fait que de quelques mauvais sujets. Le Sultan feignit de
+ne rien entendre et fit la sourde oreille.
+
+
+La béïa que les délégués de Fès avaient apportée au
+Sultan avait été rédigée par le fqîh, le savant distingué
+Aboûl'oulâ Drîs ben Elmehdi Elmechchât Elmouafi (cet
+ethnique indique la descendance de Abd Manûf ben Qaşi)
+qui avait été désigné autrefois par Moùlay Ismâ'il pour
+se rendre à Tadla avec son fils Moulay Ahmed lorsqu'il
+confia à ce dernier le gouvernement de cette province,
+comme nous l'avons vu. Voici le texte de ce docu-
+ment.
+
+
+<<< Louange à Dieu qui a établi la justice comme soutien
+
+
+174
+
+
+ARCHIVES MAROCAINES
+
+
+de l'empire, des sujets et des créatures, et l'injustice
+comme germe de mort pour la culture, les animaux et
+tout le pays, qui dirige le juste de sa sollicitude et réserve
+au tyran son châtiment pour le jour du jugement, qui
+placera les justes dans les chaires lumineuses au jour de
+la résurrection et jettera les oppresseurs dans les tour-
+ments, les tristesses et les peines! Le plus bienheureux
+parmi les rois au jour du jugement dernier sera celui qui
+aura suivi le droit chemin envers ses sujets, et qui aura
+réparé les dégâts causés sur la terre par le tyran.
+
+
+<< Nous lui rendons grâces d'avoir daigné nous donner
+un chef juste; nous le remercions de nous faire adminis-
+trer par un prince qui devant le bon droit ne prêtera pas
+l'oreille aux propos des calomniateurs, puisqu'il a choisi
+pour nous gouverner un khalife de la descendance de notre
+intercesseur au jour du jugement dernier.
+
+
+<<< Nous attestons qu'il n'y a pas d'autre Dieu que Dieu
+seul, qu'il n'a pas d'associé, qu'il ne doit pas compte de
+ses actes, qu'il donne le pouvoir et le retire à qui bon lui
+semble, au moment qui lui plaît.
+
+
+<<<< Nous attestons que notre Seigneur, notre Prophète et
+notre Maitre Mohammed est son esclave et son Envoyé,
+qu'il sera l'intercesseur de tout son peuple, le jour où
+aucune excuse ne pourra servir aux méchants, et où l'on
+n'acceptera plus des tyrans une rançon en biens récents
+ou anciens. Que Dieu prie sur lui et sur les membres de
+sa famille qui ont apporté la Loi sainte et effacé l'injustice
+d'un trait de plume!
+
+
+<<< Ensuite:
+
+
+ Nous commençons par louer Dieu qui a prescrit
+l'obéissance au Souverain et a promis le triomphe avec
+son appui à celui qui soutient la religion. En effet, le Pro-
+phète (sur lui soit le salut !) a dit : « Celui qui mourra
+sans porter à son cou la béïa mourra comme on mourait
+au temps de l'erreur.  Dans le Şahth de Moslim, on rap
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+175
+
+
+porte que le Prophète (Dieu prie sur lui et lui donne le
+salut!) a dit: « Si quelqu'un veut diviser ce peuple, qui
+forme un tout complet, faites tomber sa tête d'un coup
+d'épée. » Dans le Sahih de Moslim, on rapporte aussi que
+le Prophète (Dieu prie sur lui et lui donne le salut!) a dit:
+<< Si quelqu'un vient auprès de vous au moment où vous
+ètes tous d'accord sur un seul homme, et veut répandre
+la division parmi vous, tuez-le. >>> Dans le Şahih d'Elbo-
+khari, on rapporte que Ibn Abbas (Dieu soit satisfait de
+lui!) a dit : « L'Envoyé de Dieu (Dieu prie sur lui et lui
+donne le salut!) a dit : « Celui qui aura à souffrir en quelque
+chose de la part de son prince devra patienter, car celui
+qui s'écartera d'un seul empan du Sultan mourra comme
+on mourait au temps de l'erreur. » Dans le même recueil,
+on rapporte que Aboû Horéïra (Dieu soit satisfait de lui!)
+a dit : « L'Envoyé de Dieu (Dieu prie sur lui et lui donne
+le salut !) a dit : « Quiconque m'obéira obéira à Dieu; qui-
+conque me désobéira désobéira à Dieu. Quiconque obéira
+à mon souverain, m'obéira; quiconque désobéira à mon
+souverain, me désobéira. » Le Prince des Croyants, Omar
+ben Elkhattab (Dieu soit satisfait de lui!) a dit à Ibn
+'Oqba: « Tu ne me reverras peut-être plus à partir de ce
+jour: je te recommande de craindre Dieu et d'obéir au
+Prince, fût-il même un noir abyssin. » Les Pères de la
+religion s'accordent à dire que la constitution d'un chef
+est obligatoire pour tous les musulmans, et que l'obser-
+vation de cette obligation est un de leurs devoirs, ainsi
+que le prouvent les textes des hadits et des versets. Le
+poète a dit:
+
+
+<< A quoi sert un peuple d'égaux qui n'a pas de chef:
+Il $n^{\prime}y$ a pas de chef si ce sont les sots qui sont les
+maîtres. »
+
+
+<< Dieu ayant ordonné l'exécution de sa volonté et de ses
+décrets en rappelant à lui son khalifa et en l'envoyant dans
+la tombe, les musulmans ont été effrayés et ont redouté la
+
+
+176
+
+
+ARCHIVES MAROCAINES
+
+
+continuation des guerres et des révoltes. Ils se sont adres-
+sés à lui (qu'il soit glorifié!) pour qu'il fasse rentrer les
+épées dans leurs fourreaux, et l'ont prié d'avoir la bien-
+veillance d'écarter d'eux toutes sortes de persécutions et
+de tourments. Le généreux a accédé à leurs prières: il a
+dissipé le chagrin et la tristesse; il a étendu sa miséri-
+corde et oublié ses ressentiments; les cœurs qui étaient
+dans l'adversité ont retrouvé le bonheur; les visages qui
+étaient attristés sont devenus souriants; les guerres et les
+révoltes se sont enfuies; les signes de la paix et de la tran-
+quillité sont apparus. Dieu a dirigé vers les bonnes
+œuvres les cohortes musulmanes et leur a inspiré une
+détermination utile aux intérêts des affaires humaines, de
+la religion, du pasteur et de ses brebis, leur avis bien
+dirigé, leur jugement guidé et droit, a décidé de préter
+serment à celui qui s'est élevé dans le séjour de la félicité
+dont la pleine lune s'est levée et est montée dans le firma-
+ment de la gloire, à l'Imâm magnanime, issu de Ali, issu
+de Hâchem, qui est la justice même dans les jugements,
+qui se distingue par sa générosité, sa bravoure, son éner-
+gie, sa fermeté, sa vigueur et son audace, qui s'humilie
+devant Dieu, et qui s'en remet à Dieu de toutes ses aflaires,
+au Prince des Croyants, notre Maître Abdallah, fils du
+cherîf glorieux, illustre et noble, du Prince des Croyants
+notre Maître Ismail, fils de notre Maître Echchérif. Elles
+lui ont prété serment (Dieu le glorifie!) conformément au
+Livre de Dieu et à la loi de son Prophète, et dans une pen-
+sée de justice qui est leur plus cher désir: leurs cœurs et
+leurs bouches se sont engagés à respecter ce serment vers
+lequel têtes et pieds se sont hâtés avec humilité et sou-
+mission. Les musulmans ne cesseront pas de lui obéir,
+et ne s'écarteront pas du chemin de la communauté. Ils
+ont pris à témoin contre eux le monde invisible qui sait
+tout ce qui est caché, en disant: « Nous t'avons proclamé :
+nous t'avons pris pour chef, afin que tu nous gouvernes
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+177
+
+
+avec justice, bienveillance, fidélité à tes engagements et
+sincérité et afin que tu tranches nos différends conformé-
+ment à la vérité, ainsi que l'a dit le Très-Haut au Prophète
+à qui il inspirait la révélation: << O David, nous t'avons
+nommé notre lieutenant sur la terre: rends la justice aux
+homines conformément à la vérité.  Dieu a dit encore et
+sa parole est une parole de vérité : « Celui qui observera
+la promesse qu'il aura faite envers Dieu, je lui réserverai
+une immense récompense. » Le Très-laut a dit aussi :
+<<< Ne soutiens pas les traîtres. >>>
+
+
+<<< Ces sujets demandent à leur Maître de soutenir et
+d'aider leur souverain, de jeter la frayeur dans le cœur
+de ceux qui voudraient lui résister, de lui faciliter ce qui
+n'a pu être réalisé par un autre, et de lui donner l'appui
+de son puissant secours. Il peut ce qu'il veut et sait exau-
+cer les prières; il tient entre ses mains la force et le pou-
+voir. Quel excellent maitre! quel excellent aide!
+
+
+<<<< Témoignage est donné de ce qui précède en son
+propre nom et au nom de ses compagnons par l'esclave
+humble, criminel et méprisable, qui la dicte et écrit, Drîs
+ben Elmehdi Elmechchât, en présence d'un tel et d'un
+tel (suivent les noms des fqihs et des notables le lundi
+7 ramadan de l'année 1141. »
+
+
+Le Sultan partit de suite pour Méknès, comme nous
+allons le rapporter.
+
+
+Inimitié entre le Prince des Croyants Moulay Abdallâh
+et les gens de Fès; ses motifs  .
+
+
+Nous venons de rapporter que Hamdoùn Erroùsi avait
+indisposé le sultan Moulay Abdallah contre les gens de
+Fès et qu'un des fqîhs avait présenté des excuses à cet
+
+
+1. Texte arabe, IV partie, p. 61.
+
+
+ARCII. MAROC.
+
+
+12
+
+
+178
+
+
+ARCHIVES MAROCAINES
+
+
+égard au Sultan. A la suite de cela, celui-ci leur avait
+ordonné de lui envoyer un contingent d'hommes qui
+devraient l'accompagner suivant l'usage. Ils lui fournirent
+les 500 hommes qui prenaient part aux expéditions avec
+les souverains ses prédécesseurs; cette troupe partit avec
+lui pour Méknès.
+
+
+Quand le Sultan fut installé dans sa capitale, il reçut les
+notables du Diouân, les gouverneurs des tribus et les
+députations des villes et des campagnes, et distribua de
+l'argen: à tout le monde, excepté aux gens de Fès qu'il
+exclut entièrement de ses libéralités. A la fête de la rup-
+ture du jeûne, les délégations des villes vinrent assister
+comme de coutume aux cérémonies avec le Sultan. Les
+envoyés de Fès vinrent aussi et accompagnèrent le Sul-
+tan au Mşallà pour la prière de la fète. Au retour de la
+prière, les gens apportèrent leurs cadeaux au Sultan, et
+parmi eux étaient les gens de Fès, comme d'habitude. Des
+présents furent distribués: les délégués de Fès ne reçu-
+rent encore rien cette fois.
+
+
+Je suis persuadé qu'un diable à forme humaine avait
+pris possession de ce Sultan et l'excitait contre les gens
+de Fès pour faire naître l'inimitié entre eux et lui, sinon,
+comment expliquer qu'un grand roi ait ainsi de propos
+délibéré cherché à irriter contre lui des sujets qui
+forment l'élite, le noyau et le centre de la population, et à
+semer la haine dans leurs cours? En supposant même
+qu'ils aient manqué aux convenances à son égard, est-ce
+qu'on ne ne doit pas autant que possible ne pas faire atten-
+tion à pareille chose, un Sultan plus que tout autre. Les
+mounafiq molestaient à tout moment le Prophète de Dieu
+(Dieu prie sur lui et lui donne le salut !) et ses compagnons,
+mais il était indulgent envers eux. « Ne les tuerons-nous
+pas ? » lui dit un de ses compagnons. << Comment ? L'on
+pourrait dire que Mohammed tue ses compagnons ? »
+répondit le Prophète. Il y a une ancienne maxime qui dit :
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+179
+
+
+la cécité feinte écarte bien des maux. Un poète a dit aussi :
+Nul riche n'est prince sur ses compatriotes; le véritable
+maitre dans son pays est celui qui feint l'imbécillité. »
+
+
+Le lendemain, le Sultan lit venir les gens de Fès du
+Mechouar. 11 sortit pour les recevoir, et quand ils se
+furent levés à son arrivée et lui eurent fait les saluts
+d'usage, il leur dit : « O gens de Fès, écrivez à vos frères
+de me livrer les bastions et les qaşbas de votre ville qui
+appartiennent au Makhzen et rentrent sous son adminis-
+tration; s'ils $s^{\prime}y$ refusent, j'irai moi-même ruiner leur
+misérable bourgade. >>> Les gens de Fès se déclarèrent
+prêts à obéir et rentrèrent dans leurs campements. Le
+soir même, ils partirent, marchèrent toute la nuit, et le
+lendemain ils étaient aux portes de Fès. Ils s'entretinrent
+aussitôt avec leurs concitoyens et leur firent part des dis-
+cours du Sultan et des projets qu'il avait arrêtés contre eux.
+Dans une réunion qu'ils tinrent, les notables examinèrent
+l'attitude de la population et celle du Sultan, puis ayant
+fait apporter une copie de la béïa, ils déclarèrent, après
+avoir revu ses clauses, qu'ils n'avaient pas juré fidélité
+au Sultan pour qu'il les traitât de cette façon et procla-
+mèrent sa déposition. Les décrets appartiennent à Dieu
+seul!
+
+
+Siège de Fès par Moulay Abdallah  .
+
+
+Après avoir proclamé la destitution du sultan Moulay
+'Abdallah, les gens de Fès, décidés à lui résister énergi-
+quement, se préparèrent à subir le siège. Ils commencé-
+rent par faire annoncer dans la ville que les étrangers qui
+voulaient s'en retourner dans leur pays, ou se mettre en
+lieu sûr, avaient trois jours pour le faire, puis fermèrent
+les portes, prêts à combattre.
+
+
+1. Texte arabe, IV partie, p. 62.
+
+
+180
+
+
+ARCHIVES MAROCAINES
+
+
+Dès qu'il apprit ce qui se passait à Fès, le Sultan pré-
+para une expédition et prit dans ce but toutes les disposi-
+tions nécessaires. Il quitta Méknès le 25 chouwal 1141 et
+vint s'établir sous les murs de Fès. Il divisa toutes ses
+troupes en petits détachements, qu'il posta tout autour de
+la ville, et leur permit de dévaster les environs, de démo-
+lir les constructions, de couper les arbres et de ravager
+les terrains de culture. Il fit ensuite combler la rivière, de
+telle sorte que la ville fut privée d'eau. Les soldats com-
+mencèrent l'attaque. A toutes les portes de la ville, on
+combattait pendant tout le jour; dès que le soir venait,
+les artilleurs et les convertis lançaient sur la ville des
+boulets et des bombes, et les catapultes envoyaient des
+pierres. Il n'y avait pas de repos pendant le jour: la nuit,
+on ne dormait pas. Bientôt, l'inquiétude devint considé-
+rable, et la population tomba dans le désespoir. On arriva
+ainsi jusqu'à l'année 1142, et la détresse ne fit qu'aller en
+augmentant. Le prix des denrées s'était élevé, les vivres
+devenaient rares, et le désordre ne faisait qu'augmenter.
+Les assiégés finirent par envoyer demander la paix au Sul-
+tan, qui imposa comme condition l'abandon des bastions
+et des qaşbas. Mais ils ne voulurent pas y consentir et re-
+commencèrent à lutter. Peu de temps après, la paix fut con-
+clue par l'entremise du qâïd Aboù Abdallah Mhammed
+Esslaoui, au mausolée de Moûlay Idris (Dieu soit satis-
+fait de lui!) Des chérifs et des oulamâ de la ville accom-
+pagnèrent ce qâïd chez le Sultan qui était alors à Fès El-
+jedid: celui-ci leur fit bon accueil et les gratifia de 1.000 di-
+nars et de vêtements; puis il leur donna comme gouver-
+neur Elhaddj Aboùlhasan Ali Esslaoui. Le nouveau qâïd
+vint s'installer dans la qaşba le 2 rabi II 1142 et établit
+dans les bastions et les qaşbas des combattants choisis
+parmi ses hommes. Le premier acte de son administra-
+tion fut de mettre à mort le chéïkh Dahman Elmenjad, un
+des chefs de Fès. Quand il eut connaissance de cet acte,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+181
+
+
+le Sultan le destitua et le remplaça par un des fils de Ham-
+doûn Erroùsi, appelé Elbadési. Peu de temps après, ce-
+lui-ci fut révoqué et Abdennébi ben Abdallah Erroùsi fut
+nommé à sa place, puis destitué avant le départ du Sultan
+pour Méknès. Le Sultan quitta Fès le 20 rabi I", en y lais-
+sant comme gouverneur Hamdoùn Erroûsi, l'ennemi juré
+de la population.
+
+
+Cette année-là, il envoya az iledjaz, pour y accomplir le
+pèlerinage, son fils Moulay Mohammed, qui était encore
+impubère, et sa mère, la séyyida Khenatsa. L'auteur du
+Nachr Elmalsani place ce pèlerinage en Fannée 1143. 11
+ajoute: « La séyyida Khenâtsa Elmgafriya, fille du chéïkh
+Bekkar, et mère du sultan Moulay Abdallah, supplia son
+fils de la laisser partir pour l'Orient afin d'y accomplir le
+pèlerinage à la maison sacrée de Dieu. Celui-ci accéda à
+cette demande, et lui prépara tout ce dont elle pouvait
+avoir besoin. Il fit partir avec elle son fils Sidi Mohammed
+ben Abdallah, par lequel Dicu a affermi les affaires de ce
+monde et de l'autre. Il fit le pèlerinage avec elle en l'an-
+née 1143. »
+
+
+Expédition du sultan Moûlay 'Abdallah contre les Berbers,
+et leur défaite¹.
+
+
+Rentré à Méknès, Moulay Abdallah se préoccupa de la
+situation des Berbers et constata qu'ils étaient revenus à
+leurs anciens errements: ils possédaient des chevaux et
+des armes et se livraient au brigandage sur les routes. Il
+ordonna alors aux Abids de se préparer à entrer en cam-
+pagne, afin de pacifier le pays et de mettre fin à leurs
+crimes. Puis il partit pour le Tadla, dans le but de réduire
+les Ait Zemmour. Cette tribu était venue s'établir dans
+
+
+1. Texte arabe, IV partie, p. 62.
+
+
+182
+
+
+ARCHIVES MAROCAINES
+
+
+cette contrée après avoir été chassée de son territoire, à
+la source de la Melouiya, par les Aït Ou 'Malou qui s'en
+étaient emparés. Ils causaient un grand préjudice aux habi-
+tants de cette région, qui apportaient contre eux des plaintes
+continuelles à la porte du Sultan. Moulay Abdallah mar-
+cha donc contre eux, mais dès qu'ils apprirent son arri-
+vée, ils s'enfuirent devant lui, sur le territoire des Aït
+Isri. Le Sultan les y poursuivit, et après les avoir battus
+sur l'Oued El'abid, leur tua des milliers d'hommes et leur
+enleva ce qu'ils possédaient. Après cette victoire, il revint
+dans le Tadla.
+
+
+Le sultan Moulay Abdallâh commet des injustices néfastes pour
+la bonne administration et des actes de nature à discréditer
+le pouvoir 1.
+
+
+Pendant son voyage au Tadla, le sultan Moûlay 'Abdal-
+lah fit tuer vingt des principaux archers de Fès, et écrivit
+ensuite à leurs concitoyens, pour s'excuser de leur meurtre
+et leur demander de lui envoyer un nouveau contingent.
+Ce contingent fut désigné et envoyé au Sultan, après
+avoir été passé en revue par le qaid Hamdoùn Erroûsi à
+Râs Elma. Le lendemain, celui-ci mit à mort deux notables
+de Fès, 'Abdelouâhéd Tibér et Mohammed ben Elachhab,
+à la porte de la prison, et fit ensuite traîner leurs corps
+à travers les rues de la ville. Le surlendemain, il passa
+successivement devant les portes de Fès et les fit détruire.
+Il fit démolir ainsi Bab Elmahrouq, Bab Elfetoùḥ, Bab
+Elguisa, Bab Beni Msafer et Bab Elhadid, et transporter
+tous leurs vanteaux à Fès Eljedid. Puis, le $1^{vr}$ moharrem
+1143, il fit commencer la démolition du mur d'enceinte de
+la ville, dont les matériaux furent également emportés à
+
+
+1. Texte arabe, IV partie, p. 62.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+183
+
+
+Fès Eljedid. Pendant ce temps, le Sultan écrivit qu'il par-
+donnait aux gens de Fès et qu'il ne leur reprochait plus
+rien; ce que voyant, Hamdoùn Erroùsi, inquiet du sort
+qui l'attendait, s'enfuit au Zerhoùn.
+
+
+Au retour de son expédition dans le Tadla, le Sultan
+demeura peu de temps à Méknès, puis dirigea une autre
+campagne dans le Soùs. Il pacifia cette région et revint à
+Méknės victorieux.
+
+
+La même année, il fit construire à Méknès la porte appe-
+lée Bab Mansour Eleulj, remarquable par ses grandes
+proportions et sa beauté, et termina dans les meilleures
+conditions le mur de la qaşba. Dieu sait quelle est la vérité !
+
+
+Le sultan Moulay Abdallah fait démolir Medinat Erriyâd
+à Méknės  .
+
+
+Medinat Erriyad (la ville des jardins) était la parure et
+la beauté de Méknès. C'était là que se trouvaient les cons-
+tructions élevées par les grands de l'Empire du Prince
+des Croyants, Moulay Ismail  Dieu lui fasse miséricorde!)
+Elle renfermait les maisons des gouverneurs, des qâïds,
+des secrétaires et de tous les hauts fonctionnaires de la
+Cour isma'ilienne: bref, quiconque possédait un emploi
+au service du Sultan y avait fait élever son habitation. Les
+grands et les hauts personnages avaient à l'envi construit
+de belles demeures, de beaux palais et avaient réussi. La
+maison de Ali ben Ichcho, par exemple, contenait vingt-
+quatre enceintes commandées par une seule porte. Celle
+du qaïd Abdallah Erroûsi et de ses enfants était aussi
+considérable, peut-être mème plus vaste et plus élégante,
+et formait à elle seule un véritable quartier. Les autres
+qâïds avaient des demeures du même genre, ou à peu
+
+
+1. Texte arabe. IV partie, p. 63.
+
+
+181
+
+
+ARCHIVES MAROCAINES
+
+
+près: elles renfermaient des constructions immenses et
+des bâtiments somptueux, et chaque qâïd avait édifié
+une mosquée dans son quartier. Au milieu de cette ville,
+se trouvaient la grande mosquée de Moulay Ismail, sa
+mdersa, son hammam, ses fondags et ses marchés, dont
+il avait fait des biens inaliénables et où affluaient des mar-
+chandises qu'on n'aurait pas trouvées ailleurs. Mais, un
+jour de malheur, le sultan Moulay Abdallah monta à che-
+val dès le matin, et posté sur une colline élevée d'où il
+dominait toute cette ville, il ordonna aux chrétiens et aux
+Chaʻabniya de la démolir. Ces ouvriers se mirent aussitôt
+à l'œuvre de tous côtés, pendant que les habitants étaient
+endormis. Quand ils s'éveillèrent, ils virent leurs maisons
+tomber les unes après les autres: ceux qui se hâtèrent
+purent sauver leurs biens et leurs effets, mais ceux qui
+n'avaient personne pour les aider, ou qui ne se pressèrent
+pas d'emporter leurs biens, furent enfouis sous les ruines.
+Il y avait dans cette ville un certain nombre d'oncles du
+Sultan et d'Oûdèya. Les Oûdėya furent transportés à Fès
+Eljedîd, où ils allèrent rejoindre ceux de leurs contri-
+bules qui y étaient déjà installés; les autres gens se dis-
+persèrent dans Méknès. Dix jours à peine s'étaient écou-
+lés que Medinât Erriyâd n'était plus qu'un monceau de
+décombres: les murs seuls restaient encore debout et s'af-
+faissaient à vue d'œil. Les décrets appartiennent à Dieu
+seul!
+
+
+On rapporte que cette année-là, le Sultan envoya en
+expédition le qâïd Aboû Amrân Mousa Eljerrâri avec
+trois cents hommes. Quand cette colonne revint, le Sul-
+tan fit mettre à mort le chef et ses soldats. Une déléga-
+tion, composée du même nombre d'hommes environ, qui
+avait été envoyée au Sultan par le bâcha Ahmed ben Ali
+Errifi pour lui apporter les présents de ce gouverneur, fut
+également mise à mort. Ce meurtre décida ce dernier à se
+révolter contre le Sultan et à tenter de renverser son gou-
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+185
+
+
+vernement. Deux cents hommes de la tribu de Hajâoua
+furent tués à cause d'une réclamation pour un vol à main
+armée qui s'était produit sur leur territoire. Quand, leur
+exécution ordonnée, ces gens furent conduits à l'endroit
+où ils devaient être mis à mort, des curieux et des badauds
+de la ville étaient allés voir ce spectacle à Bab Elbețioui.
+Le Sultan sortit inopinément par cette porte et, voyant
+cet attroupement, se dirigea de son côté. Effrayés, ces
+gens s'enfuirent vers une caverne proche de là et s'y ca-
+chèrent. Le Sultan les suivit jusqu'à la porte de la caverne
+près de laquelle se trouvaient des pierres qui avaient été
+placées là pour y faire des constructions. Il ordonna aus-
+sitòt aux msakhrîn qui l'accompagnaient de déposer leurs
+armes, et de boucher l'entrée de la caverne avec les
+pierres et de la terre. Cet ordre fut aussitôt exécuté, et
+les nombreuses personnes qui étaient là moururent étouf-
+fées: on n'a jamais su ce qu'elles étaient devenues et on
+n'a jamais connu leur nombre. En apprenant ces actes
+ignobles (Dieu les lui pardonne!) les Abids du Diouân de
+Mechra Erremla écrivirent au Sultan pour lui faire part
+de l'horreur que leur inspirait le meurtre immérité de ces
+musulmans: Moulay Abdallah leur répondit en leur en-
+voyant leur solde et en leur donnant l'ordre de se préparer
+à partir en expédition contre les habitants du Fezzáz, alin
+de détourner leur attention.
+
+
+Cette année-là, le Sultan envoya à Fès Mohammed ben
+'Ali ben Ichcho Ezzemmoùri Elqebli comme gouverneur,
+en lui faisant la recommandation suivante: << Prends l'ar-
+gent de ces gens-là et jette-le dans l'Oued Boù Lkherà-
+réb; ne leur laisse rien: ce n'est que l'argent qui les a
+rendus tellement orgueilleux qu'ils ont méprisé le pou-
+voir. » Mohammed ben Ali s'installa, à son arrivée, à Fès,
+dans la maison de Boû Ali Erroûsi à Elmaʻadi. Il désigna
+par chaque quartier des espions connaissant bien les gens
+aisés, avec mission de les lui amener. Quand ils furent
+
+
+186
+
+
+ARCHIVES MAROCAINES
+
+
+tous réunis chez lui, il les fit mettre en prison. Ensuite,
+il imposa à la population d'abord 500.000 milsqals: chaque
+négociant ou propriétaire devait contribuer au paiement
+de ce chiffre par des sommes variant entre 1.000 à 10.000
+milsqals. Quand il se mit à percevoir cette imposition,
+ceux qui montrèrent peu d'empressement à payer furent
+bâtonnés et mis en prison: quant à ceux qui s'enfuirent, il
+emprisonna soit leur fils, soit leur femme, soit leur frère;
+il arriva ainsi à se faire verser la somme tout entière. Ce
+fut ensuite le tour des artisans, des ouvriers d'industries
+et des propriétaires de terrains en dehors de la ville, en-
+tre autres des laboureurs: ceux-ci durent payer une forte
+somme pour laquelle la part contributive de chacun variait
+de 100 à 1.000 milsqals. De cette façon, il n'y eut personne
+dans la ville qui n'eût été taxé. 11 se produisit alors un grand
+exode des habitants vers les campagnes, les bourgades et
+les montagnes: des gens allèrent même jusqu'au Soudan,
+à Tunis, en Egypte et en Syrie. Il ne resta plus à Fès que
+les femmes, les enfants et les misérables. Ceux qui avaient
+été emprisonnés s'enfuyaient eux-mêmes, dès qu'ils avaient
+recouvré la liberté, sans s'occuper de leur famille et de
+leurs enfants. Mohammed ben 'Ali se livra à ces actes
+pendant treize mois: au fur et à mesure qu'il recevait de
+l'argent, il l'envoyait au Sultan, à Méknès. Ces affaires se
+passèrent entre l'année 1143 ou 1144 et l'année 1145.
+
+
+Le sultan Moulay Abdallâh envoie le « guéïch » des Abids contre
+les gens de Fezzâz qui le mettent en déroute¹.
+
+
+En 1146, le Sultan réunit un corps de troupe composé
+de 15.000 hommes du guéïch des Abids commandés par le
+bâcha Qasem ben Réïsoûn, auquel il adjoignit 3.000 hom-
+
+
+1. Texte arabe, IVe partie, p. 64.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+187
+
+
+mes du guéïch Eloùdèya, sous les ordres du qaid Abdel-
+málék ben Boù Chefra, et l'envoya dans les montagnes
+des Aït Ou 'Malou. Quand cette armée eut franchi l'Oued
+Oumm errabt au pont d'Elbroùj et qu'elle se fût installée
+dans la plaine d'Adékhsan, les Berbers firent semblant de
+s'enfuir devant elle et allèrent se cacher dans les mon-
+tagnes.
+
+
+Les Abids les poursuivirent et s'engagèrent dans les
+montagnes: ils dévalaient dans les ravins et les Berbers
+s'enfuyaient devant eux de tous côtés, tandis que la pour-
+suite des Abids continuait. Enfin, le soir, les Berbers en-
+voyèrent des gens pour barricader les cols et les passes
+par lesquels était entrée l'armée du Sultan. Le lendemain
+matin, quand toutes les ouvertures furent complètement
+bouchées avec des troncs de cèdre et des blocs de rochers,
+les Berbers fondirent de tous côtés sur le quéïch et lui
+livrèrent combat avec impétuosité. Les Abids furent mis
+en déroute, et quand ils arrivèrent aux cols par lesquels
+ils étaient entrés, ils les trouvèrent obstrués. Pris de peur,
+en pleine détresse, ils se poussèrent devant ces obstacles
+et durent descendre de leurs chevaux et abandonner leurs
+montures, leurs armes, leurs tentes et leurs bagages, qui
+tombèrent au pouvoir des Berbers. Les autres soldats
+furent dépouillés de leurs vêtements, mais pas un seul
+homme ne fut tué par les Berbers. Les Abids revinrent à
+Méknès à pied et complètement nus. Cette défaite, jointe
+aux exécutions sanglantes dont leurs chefs avaient été vic-
+times, provoqua la haine des Abids contre le sultan Moù-
+lay Abdallah, à l'instigation duquel, disaient-ils, cette ex-
+pédition avait été entreprise. Malgré cela, le Sultan leur
+donna de l'argent et des vêtements et leur promit de répa-
+rer toutes les pertes qu'ils avaient subies. Ils retournè-
+rent ensuite à Mechra Erremla, irrités de sa conduite à
+leur égard.
+
+
+188
+
+
+ARCHIVES MAROCAINES
+
+
+Révolte des Abids contre Moulay Abdallâh, qui s'enfuit à Qued
+Noûl; ses conséquences¹.
+
+
+En l'année 1147, les choses achevérent de se gåter entre
+les Abids et le sultan Moulay Abdallah Dieu lui fasse
+miséricorde!) qui avait tué presque tous leurs chefs pour
+venger le meurtre qu'ils avaient commis de son frère
+Moilay Abdelmalék, avec lequel il était en bons rapports.
+Il fit ainsi disparaître tous ceux qui avaient combiné cet
+assassinat, qui y avaient pris part ou qui l'avaient approuvé:
+plus de 10.000 Abids furent mis à mort pour cette raison.
+Il fut donc décidé entre eux qu'ils le déposeraient et le
+tueraient. Informé de ce dessein par l'un d'eux, Moulay
+'Abdallah s'enfuit de Méknès, pendant la nuit; le lende-
+main matin, il arriva au campement des Aït Idrâsén. Les
+gens de cette tribu furent heureux de le recevoir et le
+traitèrent avec déférence. Quand il voulut partir, ils l'ac-
+compagnèrent jusqu'au Tâdla; là ils lui firent leurs adieux
+et retournèrent dans leur pays. Le Sultan continua sa
+route jusqu'à Morrakch, et de là se rendit dans le Soûs où
+il s'arrèta chez ses oncles maternels, les Mġafra à Oued
+Noûl. Il était accompagné de ses fils, Moulay Ahmed qui
+venait d'atteindre la puberté, et Moûlay Mohammed qui
+devint plus tard Sultan et qui était encore enfant. Il resta
+chez les Mġafra plus de trois ans.
+
+
+Quant au gouverneur de Fès, Mohammed ben Ali ben
+Ichcho, il s'enfuit de Fès pendant la nuit, dès qu'il apprit
+la fuite du Sultan de Méknès, et alla se réfugier dans le
+Zerhoûn, où il arriva le lendemain matin.
+
+
+1. Texte arabe, $IV^{\circ}$ partie, p. 64.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+189
+
+
+Règne du Prince des Croyants Moulay Aboûlhasan 'Ali ben
+Ismail, surnommé Ela réj (Dieu lui fasse miséricorde!)¹
+
+
+Après la fuite du Prince des Croyants, Moulay Abdal-
+lâh ben Ismail de Méknės vers l'Oued Noul, les Abids du
+Diouân se réunirent et se mirent d'accord pour mettre sur
+le trône Moulay Aboùlhasan ben Ismail, surnommé Ela-
+réj. Comme ce prince était alors à Sijilmasa, ils lui firent
+part de cette nouvelle et lui envoyèrent leur lettre par
+une troupe de cavaliers qui devaient le ramener. Il se mit
+en marche en toute hâte et trouva, en arrivant à Şefroù,
+une députation des notables de Fès, composée de ché-
+rifs et de oulama, qui était venue pour lui prèter ser-
+ment de fidélité. Il fit un accueil aimable à ces envoyés et
+leur témoigna de la bienveillance. Il arriva jusqu'à Fès
+Eljedid, et leur donna comme gouverneur Més oûd Er-
+roûsi (rabî II 1147), à qui il recommanda de ne percevoir
+sur les habitants que les zekats et achours légaux et les
+petites taxes habituelles de hediyas.
+
+
+Ce prince (Dieu lui fasse miséricorde!) était clément et
+modéré, et n'avait aucun instinct sanguinaire: Dieu le
+protégea sur la fin de son règne et lui assura le salut.
+
+
+De Fès, il se rendit ensuite à Méknès, où. dès son arri-
+vée, il reçut le serment du guéïch. Tel est le récit que
+l'on trouve dans le Boustan. J'ai entre les mains la note
+suivante écrite de la main de mon aïeul paternel, le fath,
+le professeur Aboû Abdallah Mohammed ben Qàsém ben
+Zerroùq Elhasani Elidrisi : « Le 1er djoumada ler 1147, les
+ Abids d'Erremel se révoltèrent contre le Prince des
+Croyants Moùlay Abdallah ben Ismail et annulèrent sa
+béïça. Ils proclamèrent à sa place son frère Moùlay Ali,
+dont la mère était Aicha Mbarka. Moulay Abdallah quitta
+
+
+1. Texte arabe, IVe partie, p. 65.
+
+
+190
+
+
+ARCHIVES MAROCAINES
+
+
+son palais de Méknès, en emportant des chevaux, des
+armes et de l'argent, sans qu'il y ait eu ni bataille, ni
+combat, et son frère, Moulay Ali, y entra le vendredi
+ djoumada II de la même année. Écrit le 2 du même
+mois, par Mohammed ben Zerroûq, Dieu le protège de
+sa grâce!  
+
+
+Arrivé à Méknès, le Sultan reçut les députations de
+toutes les provinces, qui lui apportaient leur serment et
+leurs présents: il les en remercia, puis distribua au guéïch
+tout l'argent qu'il possédait. Il fit alors arrêter la noble
+dame Khenâtsa, fille de Bekkår et mère du sultan Moulay
+'Abdallah, et lui euleva tous ses biens. Il la tortura ensuite
+pour lui faire indiquer l'argent qu'elle pouvait avoir ca-
+ché, mais sans résultat. Cet acte fut une de ses fautes.
+Dieu la lui pardonne! Aboù Abdallah Akensoùs dit que
+cette Khenâtsa qui fut la mère des Sultans (Dieu les glo-
+rifie!) était une femme vertueuse, dévote et savante, qui
+avait reçu les enseignements de son père, le chéïkh Bek-
+kâr. J'ai vu, dit-il, son écriture en marge d'un exemplaire
+de l'Isaba de Ibn Hajar, certifiée par quelqu'un qui avait
+écrit: « Cette écriture est sans aucun doute celle de la
+noble Khenâtsa, mère du sultan Moulay Abdallah.
+>>
+
+
+Révolte des gens de Fès contre leur gouverneur Més oûd Erroûsi:
+leur rupture avec le sultan Aboûlhasan (Dieu lui fasse miséri-
+corde !)¹
+
+
+Més'oùd Erroûsi, gouverneur de Fès, fit mettre à mort
+injustement Elhaddj Ahmed Boûdi, chef des Lemțiyin, et
+lit traîner son corps à Bab Elfetoûḥ, pour le punir d'avoir
+inspiré le meurtre de son frère Boû Ali Erroûsi après la
+mort du sultan Moulay Ismail: nous avons déjà parlé de
+
+
+1. Texte arabe, IVe partie, p. 65.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+191
+
+
+ce fait. Cet acte de Més'oùd détermina les gens de Fès à
+se réunir et à s'armer pour se rendre chez le gouverneur,
+qu'ils voulaient tuer afin de lui faire expier le meurtre de
+leur ami. Mais Més oùd s'enfuit, sans qu'ils pussent le re-
+joindre. Ils marchèrent alors sur la prison, en fracture-
+rent les portes, tuèrent les gardiens et les geoliers qui
+s'y trouvaient et mirent les prisonniers en liberté. Quand
+le Sultan apprit cela, il feignit de n'en rien savoir et en-
+voya à Fès son frère Moùlay Elmouhtadi, accompagné du
+qâïd Ganém Elhaddji, et porteur d'une lettre annonçant
+aux habitants la destitution de Més'oùd Erroùsi et la no-
+mination de Ganém Elhaddji. Mais ils ne voulurent pas
+accepter ce dernier, qui dut repartir le lendemain pour
+Méknès. Cependant, sur les observations de gens de bien,
+ils changèrent bientôt d'opinion, et firent partir avec Moù-
+lay Elmouhtadi une députation de  oulama et de chérifs,
+qui devaient présenter un cadeau considérable au Sultan,
+en réparation de leur inconduite. Dès qu'ils furent reçus
+par le souverain, celui-ci prit leur cadeau, leur énuméra
+leurs fautes, puis les fit mettre en prison. La nouvelle de
+cette arrestation produisit à Fès la révolution: la popula-
+tion ferma les portes de la ville et se déclara en rébellion.
+Les gens de Més oùd Erroûsi et tous ceux qui avaient
+quelques rapports avec lui subirent tous les genres de
+mort. La guerre fut déclarée également aux Oùdèya sur
+tous les points. Au mois de ramadan de l'année suivante,
+le Sultan dépêcha à Fès l'un des qâïds des Abids, le qåïd
+Aboù Mohammed Abdallah Elhamri. Ce personnage réu-
+nit les habitants de la ville, excuse le Sultan auprès d'eux
+et leur demanda d'envoyer à leur souverain une députa-
+tion pour renouer avec lui de bonnes relations. Ce con-
+seil fut écouté : la population fit partir aussitôt des oulamâ
+et des chérifs, qui portaient au Sultan un cadeau très pré-
+cieux. Abdallah Elhamri écrivit lui-même à Moûlay Ali,
+pour les disculper et plaider leur cause. Le Sultan reçut
+
+
+192
+
+
+ARCHIVES MAROCAINES
+
+
+ces envoyés, et après leur avoir adressé des reproches,
+leur pardonna et donna la liberté à leurs frères emprison-
+nés. Le qaïd Abdallah Elhamri fut nommé gouverneur d
+la ville, mais, l'année suivante (1148), il fut destitué et rem-
+placé par Abdallah ben Elachqar. Le calme revint et les
+choses rentrèrent à peu près dans l'ordre.
+
+
+Expédition du sultan Aboulhasan avec les 'Abids contre les
+habitants du Djebel Fezzâz; sa défaite ¹.
+
+
+A la fin de cette année 1147, le Sultan fit ses prépa-
+ratifs de campagne contre les Ait ou Malou; il accédait
+aux désirs des Abîds qui voulaient prendre leur revanche
+de la dernière défaite que leur avaient infligée les Ber-
+bers, du temps du Sultan Moulay Abdallah. Le Sultan se
+mit en route au mois de moharrem 1149, à la tête d'une
+nombreuse armée de Abids. Avertis de ses projets, les
+Berbers firent semblant de fuir, à son approche, comme
+ils l'avaient fait la première fois. A mesure qu'ils recu-
+laient, le Sultan marchait derrière eux et faisait les mêmes
+étapes qu'eux. Ils franchirent ainsi l'Oued Oumm Errabi
+et s'engagèrent dans leurs montagnes. Le Sultan traversa
+le fleuve derrière eux; les Abids s'avancèrent à leur
+tour et gravirent les montagnes et les pentes escarpées.
+Quand ils furent en pleine montagne, les Berbers les as-
+saillirent tous à la fois, et fondant sur eux de tous les
+cols comme des aigles, ils les cernèrent de tous côtés. Les
+Abids, mis en déroute, s'enfuirent aussitòt et se pous-
+sèrent auprès des gorges; là ils furent traités comme à
+la défaite précédente, et durent abandonner leurs chevaux,
+leurs armes, leurs tentes et leurs bagages. Ils ne purent
+sauver que leur propre personne, car les Berbers les
+
+
+1. Texte arabe, IV partie, p. 66.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+193
+
+
+dépouillèrent même de leurs habits. Seul le cortège du
+Sultan et sa suite ne furent pas inquiétés: les Berbers se
+contentèrent de marcher derrière lui jusqu'à ce qu'il eût
+franchi l'Oued Oumm Errabi. En rentrant à Méknès, les
+'Abids réclamèrent au Sultan leurs costumes, leurs armes
+et leur solde, mais celui-ci n'avait rien à leur donner, ce
+qui provoqua leur mécontentement contre lui et leur
+donna des velléités de révolte. L'auteur du Nachr Elmat-
+sâni résume ces nouvelles de la façon suivante: En 1149,
+Dieu fit périr tous ceux qui s'étaient révoltés contre le
+sultan Moulay Abdallah: les séditions augmentèrent, le
+prix des denrées monta, la pluie fut rare, et la population
+eut beaucoup à souffrir de la cherté des vivres; la graisse
+et la viande manquèrent; enfin, nombre de personnes
+moururent, et, comme la situation empirait, les gens
+émigrèrent ailleurs.
+
+
+Le sultan Moûlay 'Abdallah quitte le Soûs; le sultan Moulay
+Aboûlhasan se réfugie chez les Ahlaf; ce qu'il fait jusqu'à sa
+mort
+
+
+Au mois de doûlheddja 1149, on apprit que le sultan
+Moulay Abdallah avait quitté l'Oued Noûl, et était arrivé
+dans le Tâdla. Une grande émotion se produisit aussitôt
+chez les 'Abids, et beaucoup d'entre eux parlaient de le
+ramener au pouvoir. Mais Salém Eddoûkkali et ses parti-
+sans étaient d'un avis différent, et déclaraient qu'ils res-
+teraient soumis à Moulay Ali. C'étaient eux, en effet, qui
+avaient provoqué la déposition de Moulay Abdallah et
+qui avaient fait monter son frère Moulay Ali sur le tròne.
+Mais le parti de Moulay Abdallah, s'affermissant de plus
+en plus, finit par l'emporter et proclama ce prince. Salém
+
+
+1. Texte arabe, $IV^{\circ}$ partie, page 66.
+ARCH. MAROC.
+
+
+13
+
+
+194
+
+
+ARCHIVES MAROCAINES
+
+
+et les qàïds qui étaient avec lui durent s'enfuir à la Zaouya
+de Zerhoùn, où il se réfugia. Dès qu'il apprit ce qui
+se passait, le sultan Moulay Aboulhasan quitta Meknès et
+s'enfuit à Fès Eljedid; les Oûdèya lui ayant refusé l'entrée
+de la ville, il descendit jusqu'au pont de l'Oued Shou, où
+il demeura un jour, ou une demi-journée, pour régler
+quelque aflaire, et prit le lendemain la route de Tâza. De
+cette ville, il se rendit chez les Arabs Elahlaf. Il s'ins-
+talla chez eux, car ils lui avaient fait bon accueil et l'avaient
+traité avec égards. Comme ils lui offrirent même une de
+leurs filles en mariage, il resta plusieurs années dans
+cette tribu, ne songeant plus à la royauté et ne faisant
+aucun effort pour la reprendre. Plus tard il revint à
+Méknès, où il se fixa, sur l'ordre de son frère, le sultan
+Moulay Abdallah, qu'il était venu voir à Dar Eddebibag,
+près de Fès, en 1169, et qui lui avait donné de l'argent,
+des jardins et des terrains de culture appartenant au
+Makhzen à Méknès. Il y vécut dans sa maison, mais au
+bout de peu de temps, les Abîds l'emprisonnèrent à l'im-
+proviste et l'envoyèrent à son frère, le sultan Moulay Ab-
+dallah, en lui disant que ce prince leur avait gâté leur
+pays. Le Sultan, après l'avoir maintenu auprès de lui,
+l'envoya en liberté au Tâfilélt, où il demeura jusqu'à sa
+mort, que nous allons relater (Dieu lui fasse miséri-
+corde !)
+
+
+Deuxième règne du Prince des Croyants Moûlay  Abdallah
+ben Ismail (Dieu lui fasse miséricorde !)
+
+
+Quand le sultan Moûlay Aboûlhasan s'enfuit de Méknès
+chez les Ahlaf, les 'Abids et les Oûdèya se mirent d'ac-
+cord pour proclamer Sultan Moulay Abdallah et lui pré-
+
+
+1. Texte arabe, IV partie, page 07.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+195
+
+
+tèrent serment de fidélité, au moment où il se trouvait
+encore dans le Tadla: leur exemple fut suivi par les gens
+de Fès et par toutes les tribus. Ensuite Salém Eddoùk-
+kali, qui était dans le Zerhoùn, écrivit à la population de
+Fès que le Diouân était unanime à décider la déposition
+de Moulay Abdallah et à reconnaitre comme souverain
+Sidi Mohammed ben Ismail, surnommé Ben Arbiya, et
+demandait conseil à ce sujet aux oulama de cette ville.
+Ceux-ci répondirent qu'ils régleraient leur attitude sur
+celle du Diouân. Dès qu'ils apprirent la conduite de Salém
+Eddoùkkali et les propos qu'il leur avait attribués, les
+Abids partirent d'Elmhalla pour le Zerhoùn, etaprès s'être
+emparés de ce personnage et des qaïds qui étaient avec
+lui, ils les envoyèrent au Sultan dans le Tâdla. Moùlay
+Abdallah demanda au qadi Boù Inan, qui était alors avec
+lui, quelle décision il convenait de prendre à leur égard:
+celui-ci ayant émis l'avis qu'il fallait les tuer, il les fit exé-
+cuter. Moulay Mohammed ben Arbiya, qui était dans le
+Tâfilèlt, eut connaissance des dires de Sâlém Eddoûkkali.
+Il les considéra comme répondant à la réalité des faits, et
+s'empressa de se mettre en route. Mais quand il arriva à
+Şefroù, il apprit que son frère Moùlay 'Abdallah avait été
+proclamé Sultan, et que la population s'était de nouveau
+soumise à lui. Tout décontenancé par cette nouvelle, il se
+rendit en cachette à Fès, où il demeura dans la maison du
+chéïkh Aboù Zéïd Abderrahman Echchami. Celui-ci, qui
+était son ami et en qui il avait confiance, lui promit qu'il
+monterait sur le tròne. A son arrivée du Tâdla, le sultan
+Moûlay Abdallah fut salué par les gens de Fès, parmi
+lesquels se trouvaient les oulamâ et les chérîfs, et aussi
+par les habitants de Méknès, à Qaşbat Boû Fekrân. Quand
+ces députations furent en sa présence, le Sultan leur
+adressa des reproches, et après leur avoir rappelé tous les
+crimes qu'ils avaient commis, il fit mettre à mort les
+notables. Il agit de même envers les délégués de Méknès,
+
+
+196
+
+
+ARCHIVES MAROCAINES
+
+
+dont il confisqua les biens, et révoqua leur qadi Belqasém
+El'amiri. Les chérifs et les oulamá de Fès s'en retour-
+nèrent, effrayés du sort qui les attendait, car le Sultan
+leur avait encore donné comme gouverneur Mohammed
+ben Ali ben Ichcho. Moulay Abdallah resta encore
+quelque temps à Qaşbat Boù Fekran: il ne voulut pas
+venir à Fès, car il n'avait aucune confiance dans ses habi-
+tants.
+
+
+Règne du Prince des Croyants Moûlay Mohammed ben Ismail
+surnommé Ben Arbiya: ses causes.
+
+
+La conduite de Moûlay 'Abdallah envers les notables
+de Fès et de Méknès qu'il avait tués et dont il avait con-
+fisqué les biens, et le séjour qu'il faisait à Qaşbat Bou
+Fekrân pour éviter d'entrer en rapport avec la ville,
+enhardirent les meneurs des Oùdêya de Fès Eljedid, qui
+se mirent à infester les routes de leurs brigandages. Un
+jeudi, ils fondirent sur les troupeaux de la ville et sur
+les animaux amenés au marché, et leur donnèrent la
+chasse: ils ne laissèrent aux gens de Fès ni vaches, ni
+moutons, ni mules. Voyant cela, la population se réunit et
+s'engagca par serment à déposer le sultan Moûlay Abdal-
+lâh et à choisir pour souverain Moûlay Mohammed ben
+'Arbiya. On se rendit aussitôt auprès de ce prince, qui
+était dans la maison du chéïkh Aboû Zéïd Echchâmi, on
+le pria de sortir et on conclut un pacte avec lui. Le
+10 djoumada Icr 1.150, il fut proclamé. Tout ce dont il avait
+besoin en fait de chevaux, d'armes et d'appareils de
+guerre, lui fut fourni; on vint à l'envi se soumettre à lui
+et le servir. La béïa fut écrite le 15 du même mois et
+signée par tous les docteurs. Quelques-uns d'entre eux
+
+
+1. Texte arabe, IVe partie, page 67.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+197
+
+
+ayant refusé de la signer en disant que, la béï'a de Moùlay
+ Abdallah étant encore obligatoire pour eux, ils ne pou-
+vaient pas le déposer, furent révoqués de leurs fonctions
+et soumis à des vexations. Les gens de Fès écrivirent aux
+ Abids du Diouân pour les aviser de ce qu'ils avaient fait
+et leur demander leur adhésion. Ceux-ci accueillirent
+favorablement cette proposition et proclamèrent Moùlay
+Mohammed ben Arbiya. Voyant que le succès de son
+frère était complet, le sultan Moulay Abdallah s'enfuit
+dans les montagnes des Berbers, et y demeura. Les portes
+de Fès furent ouvertes ensuite, et le Sultan se rendit à
+Fès Eljedid. Il partit le lendemain pour Méknės, où, dès
+son arrivée, il reçut le serment de fidélité des Abids; ce
+fut là que les députations de toutes les contrées vinrent
+lui apporter leurs présents. La réception terminée, le
+Sultan distribua aux Abids tout l'argent qu'il possédait.
+
+
+L'autorité du sultan Moûlay Mohammed ben Arbiya commence
+à diminuer: conséquences de cette décroissance ¹.
+
+
+Les Abids ne se contentèrent pas de l'argent que leur
+avait distribué le sultan Moûlay Mohammed ben Arbiya,
+qui leur avait cependant donné tout ce qu'il possédait, et
+réclamèrent davantage. Il laissa alors (Dieu le lui par-
+donne!) piller les biens des musulmans, et se mit lui-
+même à faire enlever de force dans toutes les maisons de
+Méknès les grains et les provisions qui s'y trouvaient. Il
+fit fouiller tous les greniers et les silos. Si on lui signa-
+lait quelqu'un qui possédait du blé ou de l'orge, il le fai-
+sait arrêter et ne le relâchait qu'après avoir obtenu la
+remise de ce qu'il détenait. Il s'empara aussi des grains
+que les gens de la campagne apportaient à la ville. Le mé-
+
+
+1. Texte arabe, IVª partie, page 67.
+
+
+198
+
+
+ARCHIVES MAROCAINES
+
+
+contentement devint général, et l'agitation se propagea
+partout. Les habitants de Méknès quittèrent la ville. Qui-
+conque sortait était pillé: les routes furent coupées, et
+la population se trouva dans une situation très difficile. Les
+décrets appartiennent à Dieu seul!
+
+
+Attaque de l'écurie de Méknės par le sultan Moulay Abdallah :
+ses conséquences ¹.
+
+
+Le sultan Moulay Abdallah, qui était chez les Berbers,
+entra pendant une nuit à Méknès, accompagné d'un cer-
+tain nombre de ses gens; il pénétra dans l'écurie, tua
+tous les Abids qu'il y trouva, et partit après avoir mis le
+feu à leurs chaumières. Aussitôt qu'il apprit cela, le Sultan
+Moûlay Mohammed ben Arbiya fit sonner la trompette
+pour mettre tout le monde sur pied, et montant à cheval,
+accompagné de ses cavaliers et de ses fantassins, marcha
+contre le sultan Moûlay 'Abdallah qui était alors à Elhajéb.
+Quand celui-ci vit les soldats qui s'avançaient contre lui,
+et les cavaliers qui se pressaient à sa poursuite, il aban-
+donna ses tentes et tout ce qu'elles contenaient, et prit la
+fuite.. Les Abîds se livrèrent au pillage de son campe-
+ment, et le suivirent jusqu'à l'Oued Melouiya, mais là,
+il s'engagea dans les montagnes et ils perdirent sa piste.
+A leur retour, les Berbers leur barrèrent la route, fon-
+dirent sur eux comme des torrents de tous les ravins et de
+tous les pics, et après les avoir mis en déroute, leur enle-
+vèrent tous leurs bagages, si bien qu'ils dûrent se cacher
+pour revenir. L'auteur du Boustan ajoute que, lorsqu'ils
+arrivèrent aux environs de Şefroù, Moûlay Mohammed
+ben Arbiya envoya un détachement du guéïch contre les
+faibles habitants de la région, notamment entre Elmzâdég
+
+
+1. Texte arabe, IV partie, page 68.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+199
+
+
+et autres bourgades, pour couper des têtes, qu'il envoya
+ensuite à Fès en les faisant passer pour des têtes de Ber-
+bers. Dieu sait quelle est la vérité !
+
+
+Derniers événements du règne du sultan Moûlay Mohammed
+ben Arbiya; troubles et misère qui les accompagnent 1.
+
+
+A son retour de l'expédition qu'il avait conduite à la
+poursuite de son frère Moûlay Abdallah, le sultan Moûlay
+Mohammed ben Arbiya, qui était encore à l'endroit que
+nous avons indiqué, envoya à Fès son frère, Moûlay
+Elouâlîd ben Ismail. Ce prince avait pour mission d'im-
+poser aux habitants de la ville l'envoi d'un contingent,
+mais ce n'était qu'un moyen d'arriver à prendre leur
+argent, car ceux qui donneraient de l'argent devaient
+rester dans leur maison; mais ceux qui refuseraient par-
+tiraient avec le contingent. L'émoi fut grand dans la
+ville dès que Moûlay Elouâlîd y arriva. Il arrêta aussitôt
+Elhaddj Bou Jida Barrâda qui refusait de se soumettre, et
+après l'avoir tué, s'empara de ses biens et vendit ses pro-
+priétés. Il emprisonna aussi Elhaddj Abdelkhaleq 'Adėyyil,
+dont il prit également les biens. Il s'attaqua ensuite aux
+gens des zâouyas, qu'il dépouilla, et à tous ceux qui lui
+étaient signalés comme ayant quelque aisance. Sa mission
+terminée, il se rendit à Méknès, où il se livra aux mêmes
+actes qu'à Fès envers les habitants, dont un petit nombre
+seulement échappèrent à ses exactions.
+
+
+Avec cela, une autre épreuve non moins terrible était
+imposée en ce moment à la population, par la famine,
+les troubles et le pillage des maisons pendant la nuit. Les
+gens aisés ne dormaient pas. Presque tout le monde
+s'adonna au vol. Les Oûdėya passaient leur temps dans
+
+
+1. Texte arabe, IV partic, page 68.
+
+
+200
+
+
+ARCHIVES MAROCAINES
+
+
+les jardins en dehors de la ville; ils attaquaient les fou:-
+lons au bord de l'Oued Fès, et quand ceux-ci se mirent à
+blanchir leurs toiles à Mesmoùda, ils les leur volèrent;
+enfin ils allèrent jusqu'à s'emparer des caravanes dans les
+fondaqs eux-mêmes. Le Sultan ne faisait rien pour em-
+pêcher cela et n'en prenait nul souci.
+
+
+Aussi que de monde mourut de faim dans le cours de
+cette période. Le gardien du Mâristân a raconté que pen-
+dant les mois de rejeb, cha bân et ramadan, il avait fait
+enterrer plus de 80.000 personnes, sans compter celles
+qui avaient été inhumées par les soins de leurs familles
+et de leurs amis.
+
+
+En résumé, le règne de ce Moulay Mohammed ben
+'Arbiya fut une période néfaste et malheureuse pour les
+musulmans, de même que celui de son frère Moûlay El-
+mostadi, auquel notre récit va nous conduire. Tout cela
+était dù, Dieu sait si c'est vrai, à ce que les  Abîds s'étaient
+emparés du gouvernement qu'ils menaient avec leurs
+intrigues, et dont ils se servaient pour satisfaire leurs
+passions et arriver à leurs fins. Il est bien certain, en effet,
+que les dépositions fréquentes suivies de nouvelles pro-
+clamations ne peuvent qu'amener un pareil résultat. Nous
+demandons à Dieu sa bienveillance et la sauvegarde de
+nos familles, de notre religion et de nos biens dans le pré-
+sent et dans l'avenir.
+
+
+En parlant de cette année-là (1150), l'auteur du Nachr
+Elmatsani la dépeint ainsi : « Cette année-là, l'armée des
+révoltés contre Moûlay Abdallah (les Abids) subirent une
+défaite complète, après avoir provoqué des désordres
+considérables. Cette défaite leur fut infligée par les Ber-
+bers. Les prix des denrées atteignirent une hausse très
+élevée; les voleurs venaient attaquer les gens, la nuit,
+dans leurs maisons, et les tuer: ils avaient beau appeler
+au secours, personne ne leur répondait. Il y avait du dan-
+ger même aux portes des maisons qui forment la lisière
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+201
+
+
+de Fès: ainsi personne n'osait dépasser Bab Meşmoùda,
+dans Elodoùa, ni la porte de la vieille qaşba, à la Tala,
+ni le quartier d'Elhaffärin, à Bab Elguisa. Un grand
+nombre de maisons furent démolies pour prendre les
+poutres: il y eut des ruines en masse; des quartiers en-
+tiers se vidèrent: un derb qui comptait plus de 20 mai-
+sons était abandonné complètement. >>>
+
+
+<<< Pendant cette période, le ſyîh très docte Aboûl' baqâ
+lich Echchaoui fut mis à mort dans sa maison du quar-
+tier d'Eddoûh: sa mort fut le signal de l'évacuation de ce
+quartier. Des gens qui étaient considérés comme des
+hommes de bien et de piété se couvrirent de déshonneur.
+Tous ceux qui purent s'enfuir de Fès, partirent, mais
+bien peu restèrent sains et saufs après leur sortie de la
+ville. Un grand nombre d'habitants partirent pour Tétouan
+et les régions voisines, afin d'en rapporter des provisions
+de grains. Dieu avait bien voulu charger l'ennemi infidèle
+d'amener des vivres dans le pays des musulmans. Les
+gens de Fès leur avaient fait des achats considérables,
+mais les chameliers refusèrent de les transporter et neleur
+firent à ce sujet que des promesses dilatoires. Le chef du
+pays, qui était à cette époque le bacha Ahmed ben Ali
+Errîfi, fut saisi de leur plainte, et tout en feignant de
+prendre leur défense, les trompa parce qu'il était en rébel-
+lion contre le Sultan et contre quiconque lui était attaché.
+Les chameliers, qui appartenaient à la tribu de Bdâoua, ne
+firent que s'enhardir dans leur refus et leur mauvais vou-
+loir; les gens de Fès ne purent expédier leurs provi-
+sions qu'au bout de cinq mois environ: ce qui fit périr
+de faim un grand nombre de gens, dont la mort pèse sur
+Ahmed ben 'Ali Errifi. On ne pouvait se procurer des
+vivres, ni avec de l'argent, ni avec d'autres biens, et si
+Dieu n'avait pas chargé l'ennemi infidèle d'apporter des
+approvisionnements de grains au Maġrib, je crois que la
+population tout entière aurait succombé.
+
+
+202
+
+
+ARCHIVES MAROCMNES
+
+
+ « Cette situation était le résultat des émeutes et des
+révolutions contre les rois. Les propriétés et les mar-
+chandises n'atteignaient pas le dixième de leur prix habi-
+tuel. Dieu ne fit revenir la tranquillité au Magrib que le
+jour où il voulut bien rappeler au pouvoir le sultan Moй-
+lay Abdallah. »
+
+
+Ici s'arrête le récit de l'auteur du Nachr Elmatsani, le
+fqth, l'historien Sidi Mohammed ben Ettayyéb ben  Abdes-
+selâm Elqadiri. Cet écrivain a été témoin des faits qu'il
+raconte, car il vivait à cette époque.
+
+
+Le 24 safar de l'année suivante (1151), alors que la popu-
+lation était dans la plus grande misère, les Abids se révol-
+tèrent contre le sultan Moùlay Mohammed ben Arbiya ;
+ils s'emparèrent de ce prince et de son qâïd, le chérif Abou
+Mohammed Abdelméjid Elmchâmri, gouverneur de Fès,
+et leur mirent les fers aux pieds. Ils chassèrent ensuite
+Ben Arbiya et sa famille du palais impérial et l'internè-
+rent dans sa maison sur l'Oued Ouislén, à Djenan Ham-
+riya, sous la surveillance d'un poste de Abids. En mème
+temps ils écrivirent à son frère Moûlay Elmostadi ben
+Ismail, qui était au Tâfilélt, pour le prier de venir auprès
+d'eux afin de recevoir le pouvoir.
+
+
+Règne du Prince des Croyants Moûlay Elmostadi ben Ismail
+(Dieu lui fasse miséricorde!) ¹
+
+
+1
+
+
+Aussitôt après avoir emprisonné le sultan Moûlay
+Mohammed ben Arbiya, les Abids proclamèrent l'avène-
+ment de son frère Moûlay Elmostadi ben Isma îl et écrivirent
+dans toutes les provinces pour faire part de cet événe-
+ment: la population leur accorda son adhésion. Ils envoyè-
+rent aussitôt, suivant leur habitude, une troupe de cava-
+
+
+1. Texte arabe, IV partie page 69.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+203
+
+
+liers pour ramener le nouveau souverain, qui se mit en
+route en toute hate. A Sefroù, il reçut la députation de
+chérifs et oulamâ envoyée par la ville de Fès, qui lui
+remit la béïa et le ramena avec elle à Fès Eljedid. Après
+s'y être reposé, le Sultan donna comme gouverneur, aux
+habitants de Fès, le gâïd Abouľabbas Ahmed Elgaidi,
+qui lui-même désigna, pour lui servir d'intermédiaire au-
+près d'eux, Chaʻchoù Eliazgi. Mais la situation ne changea
+pas, et l'oppression continua. Le sultan Moulay Elmos-
+tadi se transporta ensuite à Méknès, où il reçut le ser-
+ment de fidélité des Abids. Les députations des tribus et
+des villes apportèrent ensuite leurs cadeaux: elles furent
+bien accueillies. Le règne de ce Sultan commençait d'une
+manière régulière.
+
+
+Le sultan Moûlay Elmostadi commet des actes d'injustice
+qui amènent des désordres 1.
+
+
+Une fois installé à Méknès, le sultan Moûlay Elmostadi
+commença par envoyer son frère Moûlay Mohammed ben
+Arbiya enchaîné à Fès et de là à Sijilmâsa, où il fut mis
+en prison. Il envoya ensuite son qâïd Sidi Abdelméjîd
+Elmchâmri et le chéïkh Aboû Zéïd Abderrahmân Echchâmi
+à Fès Eljedîd, pour y être emprisonnés. La maison d'Elm-
+chamri fut pillée, et lui-même subit la torture jusqu'à ce
+qu'il expirât.
+
+
+Le Sultan envoya ensuite aux habitants de Fès une lettre
+qui devait être lue à Fès Eljedîd en présence des notables
+de la ville. Mais, soupçonnant un piège, ceux-ci ne se
+rendirent pas à la convocation qui avait été faite, sauf une
+vingtaine d'entre eux, qui furent arrêtés et emprisonnés.
+
+
+1. Texte arabe, IV partie page 69.
+
+
+204
+
+
+ARCHIVES MAROCAINES
+
+
+Une contribution très considérable leur fut ensuite impo-
+sée, mais ils ne purent pas la payer.
+
+
+Pendant le règne de ce souverain, le gouvernement était
+très pauvre et le Sultan avait besoin d'argent pour réduire
+au silence les Abids. Il se mit donc à fouiller les magasins
+de Moùlay Ismail, qu'aucun roi n'avait songé à toucher
+avant lui. Il commença par vider le magasin du fer, et
+vendit tout ce qu'il contenait. Puis il s'attaqua ensuite au
+grand magasin qui renfermait 1.000 quintaux de soufre et
+une grande quantité de salpêtre, d'alun, de boqâm et autres
+produits, qui avaient été apportés à la capitale et qui pro-
+venaient du butin fait sur les nations européennes: il ven-
+dit tout cela. Il arracha ensuite les grillages des fenêtres
+de la qoubba dite Echchatrendjiya qui étaient en cuivre
+doré, les derboûz de fer choisi qui se trouvaient à droite
+et à gauche de cette qoubba, depuis Bab Errekhâm jus-
+qu'au palais de Moulay Yousef. Il fit acheter de force ces
+matériaux aux Juifs moyennant un prix exagéré. Il fit dé-
+monter après cela les canons de bronze des forts de la
+capitale, les fit briser, et se servit du cuivre pour faire
+frapper des floûs. Mais il ne retira en réalité aucun béné-
+fice de tout cela.
+
+
+Durant cette période, le Sultan fit mourir plus de
+80 Arabs de la tribu des Beni Hsen. II infligea la torture
+aux prisonniers de Fès pour leur faire verser de l'argent,
+ceux-ci payèrent ce qu'ils purent. Après cela, il ordonna
+l'arrestation des négociants de Fès, pour les forcer à ache-
+ter les propriétés de leurs prisonniers, et les fit torturer:
+ils ne purent payer qu'une partie de la somme. Les oulamâ
+décidèrent que la vente de ces propriétés était valable,
+la sauvegarde des personnes devant passer avant celle des
+biens.
+
+
+Le Sultan arrèta ensuite un chérif 'irâqi, de la famille
+qui habite le quartier de Guernîz, qu'il soupçonnait d'avoir
+reçu un dépôt de la noble dame Khenâtsa, fille de Bekkar.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+205
+
+
+Le chérif reçut la bastonnade et fut soumis à la tor-
+ture.
+
+
+Il nomma ensuite gouverneur de Fès, Moulay Aboù
+Hafs Omar Elmadani, qui était son compagnon et son
+commensal habituel. Celui-ci se fit représenter auprès des
+habitants de la ville par un individu nommé Ben Ziyân
+Elaouar, à qui il recommanda de malmener les chérifs
+de Fès et de s'emparer de leurs biens. Ces ordres furent
+strictement exécutés. La cause de tout cela était que Aboù
+Hafs avait eu sa maison à Fès pillée du temps de Moùlay
+Mohammed ben Arbiya et que pas un habitant de Fès ne
+s'était opposé à cet acte. Il avait contenu son désir de
+vengeance jusqu'au jour où les gens de Fès furent en son
+pouvoir. Quand Ben Ziyan eut exécuté les ordres qu'il
+avait reçus, le sultan Moûlay Elmostadi le fit arrêter: on
+le promena par la ville sur un âne, et pendant qu'on lui
+donnait des coups de fouet dans le dos, on le forçait à
+dire: « Telle est la punition de ceux qui maltraitent les
+chérifs. » Après cette tournée, on lui coupa la tète, et on
+la suspendit au-dessus de Bab Elmahrouq. Néanmoins,
+la persécution contre les chérifs continua.
+
+
+Après cela, le Sultan ordonna de lui envoyer tous les
+prisonniers de Fès, et quand ils furent arrivés en sa pré-
+sence avec leurs chaînes et leurs carcans, il les fit tuer
+jusqu'au dernier, à la porte de la qaşba. Il donna aussi
+l'ordre de chasser du Horm de Moûlay Idris Ould Mami,
+qu'il fit mettre à mort dès qu'on le lui eut amené. Le Sul-
+tan ne cessait de tuer et de tyranniser: il voulait qu'on
+pût le comparer à son frère Moulay Abdallah qui avait tiré
+le glaive, il est vrai, mais avait été très généreux, rache-
+tant ainsi ses défauts par ses libéralités. Mais ce fut sans
+succès, car Moùlay Elmostadi était, dit-on, très avare et
+manquait de jugement. Que Dieu l'enveloppe de sa misé-
+ricorde, de son pardon et de sa clémence, lui, nous et tous
+les musulmans! Le Sultan fit périr ensuite le qåïd Ġaném
+
+
+206
+
+
+ARCHIVES MAROCAINES
+
+
+Elhaddji, le qaïd Sa doun, gouverneur de Méknès, et six
+personnes de la famille d'Ezziyati, gardiens de la prison.
+Pendant ce temps, les Berbers, à l'instigation du sultan
+Moulay Abdallah qui était chez eux, firent des incursions
+contre les Oùdèya et se livrèrent au brigandage sur les
+routes de leur territoire. Les chemins étant coupés, il fut
+difficile de se procurer des vivres. Moûlay Zin Elabidin
+ben Ismå  il était emprisonné par son frère, le sultan Moù-
+lay Elmostadi; celui-ci le fit un jour sortir de prison pour
+comparaître devant lui. Quand il fut en sa présence, il le
+fit rouer de coups, au point qu'il en faillit mourir, il le
+fit couvrir de chaînes et l'expédia à Tafilèlt sous la con-
+duite d'un chérif de ce pays qui devrait le mettre en prison.
+Mais les Abids envoyèrent des émissaires, qui enlevèrent
+le prisonnier des mains de ses gardiens et le conduisirent
+chez les Beni Yazga, au qâïd Aboul abbas Ahmed Elga
+'îdi, lequel fut chargé de veiller à sa sécurité et de prendre
+soin de lui.
+
+
+Le bâcha Aboul abbas Ahmed ben Ali Errîfi réduit
+les habitants de Tétouan¹.
+
+
+Nous avons déjà rapporté que le bâcha Aboûl abbas
+Ahmed ben Ali Errifi, gouverneur de Tanger, avait atta-
+qué la population de Tétouan et que Aboûl Hafs Elouaq-
+qâch lui avait infligé une défaite et tué ses gens. L'inimitié
+n'avait fait qu'augmenter depuis cette époque entre ces
+deux personnages, et Errîfi ne cessait de guetter l'occasion
+favorable de prendre sa revanche contre Elouaqqach. Sur
+ces entrefaites, le sultan Moûlay Elmostadi fut proclamé;
+pas un habitant de Tétouan n'alla le saluer, et la ville tout
+entière refusa de se soumettre à lui. Aboûl abbas Errifi
+
+
+1. Texte arabe, IV partie, page 70.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+207
+
+
+pensa que le moment de prendre sa revanche était arrivé.
+Excitant le Sultan contre les gens de Tétouan, il lui insi-
+nua qu'ils avaient fait acte d'insoumission et qu'ils s'étaient
+mis en état de rébellion. Ces propos et les rapports qui
+lui avaient été faits sur cette qaşida attribuée au fqìh Aboù
+Hafs, et où il déclarait qu'il convoitait la royauté, finirent
+par influencer Moulay Elmostadi, qui écrivit à Errifi pour
+lui ordonner de fondre sur la population de Tétouan. Sai-
+sissant aussitôt l'occasion, Aboulabbas Errifi vint à
+l'improviste prendre cette ville avec ses troupes; il la mit
+au pillage, fit périr environ 800 notables, et imposa aux sur-
+vivants une très lourde contribution. Après avoir démoli
+les fortifications, il établit à Tétouan l'administration des
+villes dont il avait fait la conquète, et y construisit le palais
+du commandement, qui s'y trouve encore aujourd'hui.
+
+
+Révolte des Abids contre Moulay Elmostadi, qui s'enfuit
+à Morrakch 1.
+
+
+Vers le milieu du mois de doùlqa da 1152, les Abids de
+Méknès se soulevèrent contre le sultan Moùlay Elmostadi,
+et décidèrent de le déposer et de se soumettre de nou-
+veau à Moulay Abdallah. Dès qu'il pressentit leur décision,
+Moûlay Elmostadi s'enfuit de Méknès avec ses partisans
+et ses auxiliaires, et prit la route du mausolée du chéïkh
+Abou Mohammed Abdesselam ben Mchich (Dieu soit
+satisfait de lui!). Moulay Abdallah se mit à sa poursuite
+avec quelques Abids et le rejoignit sur la route, mais il
+fut attaqué par son frère et forcé de le laisser continuer
+son chemin. Celui-ci finit par arriver à Tanger, où il sé-
+journa près de deux mois chez Ahmed ben  Ali Errifi, et
+partit ensuite pour Morrakch: la population de cette ville,
+
+
+1. Texte arabe, $IV^{e}$ partie, page 70.
+
+
+208
+
+
+ARCHIVES MAROCAINES
+
+
+où son frère, Moùlay Ennaşer, le représentait, venait de le
+proclamer. Dès qu'il s'y fut installé, il écrivit aux tribus.
+du Hoùz, pour leur demander leur appui contre Moûlay
+'Abdallah et les inviter à marcher avec lui contre son
+frère, mais les tribus de 'Abda et d'Errhamna, ainsi que
+les gens du Soùs, qui étaient partisans de ce dernier, ne
+répondirent pas à son appel. Moulay Elmostadi, voyant
+qu'il n'avait plus pour lui que les gens de Doukkala, ses
+oncles maternels et les Beni Isen, Arabs du Ġarb, puisque
+les tribus du Hoûz l'abandonnaient, demeura à Morrâkch,
+attendant les événements, jusqu'à l'année 1155. Nous ver-
+rons plus loin, s'il plaît à Dieu, que le gouverneur de Tan-
+ger, le bâcha Aboul'abbas Errîfi, à force d'endoctriner les
+'Abids, qui avaient prété serment de fidélité à Moulay Zin
+El abidin, après avoir déposé le sultan Moulay Abdallah,
+finirent par le décider à proclamer de nouveau Moùlay
+Elmostadi.
+
+
+Les Abids se rangent de nouveau sous l'autorité du sultan Moulay
+ Abdallah et embrassent son parti .
+
+
+Nous avons vu que le sultan Moulay Abdallah, qui était
+demeuré pendant tout ce temps chez les Berbers, avait
+poursuivi Moûlay Elmostadi à sa sortie de Méknès et avait
+dû revenir sur ses pas. Quand il apprit que son frère était
+en route pour Morrakch, il partit pour lui barrer le pas-
+sage, mais, arrivé à la qaşba de Oued Alzém et n'ayant
+aucune nouvelle de lui, il séjourna dans cet endroit pour
+guetter son arrivée. Pendant qu'il se trouvait dans cette
+localité, les Abîds décidèrent de le proclamer et lui jurèrent
+fidélité au commencement de l'année 1153. Après avoir
+rédigé leur béïa, ils la lui firent porter par une députation
+
+
+1. Texte arabe, $IV^{\circ}$ parlie, page 71.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+209
+
+
+de leur choix. Les habitants de Fès et les Oûdèya, à qui
+ils écrivirent aussitôt, leur donnèrent leur adhésion: ils
+proclamèrent Sultan Moulay Abdallah, au nom duquel le
+pròne fut fait dans les mosquées, et pavoisèrent la ville. En
+présence de cette situation, le vizir de Moûlay Elmostadi,
+Aboulhasan El'amiri, s'enfuit de Méknès, et son frère le
+qadi Belqâsém El amiri se réfugia dans le mausolée d'un
+saint de cette ville. La ville de Fès envoya des chérifs et
+des 'oulamâ pour porter sa béïa au sultan Moulay Abdal-
+lâh: ces délégués étaient accompagnés de négociants et
+de pèlerins de la caravane du ledjaz qui lui apportèrent
+leurs présents. Le Sultan restait toujours à la qaşba d'Al-
+zém et les Abids, trouvant qu'il s'attardait trop, prirent le
+commandement de Méknès et agirent comme s'ils étaient
+indépendants vis-à-vis du gouvernement. Ils envoyèrent
+de leur propre autorité, à Fès, le qâïd Abou Mohammed
+'Abdallah Elhamri, comme gouverneur de la ville, en décla-
+rant que c'était par ordre du Diouân. Les brigandages se
+multiplièrent sur les routes et les voleurs pullulèrent dans
+la ville. Les Abids étaient retombés dans leurs anciens
+égarements.
+
+
+Venue du sultan Moulay Abdallah à Méknės: sa conduite
+envers les habitants de cette ville  .
+
+
+Le 15 rejeb 1153, le sultan Moulay Abdallah quitta
+Alzém et se rendit à Méknès. Il fit arrèter aussitôt le qâdi
+de cette ville, le fqih Belqâsém Elamîri, Sì Aboûl abbas
+Ahmed Echcheddadi, El'abbas ben Rahhal, et le fqih Elm-
+lîti; il leur arracha leurs turbans et les couvrit d'humilia-
+tion en leur disant: « Comment avez-vous osé marier mes
+femmes à mon frère, moi étant encore en vie? » Puis,
+
+
+1. Texte arabe, IV partie, p. 71.
+ARCH. MAROC.
+
+
+14
+
+
+210
+
+
+ARCHIVES MAROCAINES
+
+
+après les avoir abreuvés d'outrages, il les fit jeter en pri-
+son. Il donna ensuite la maison du qâdi El'amiri à un des
+'Abids et dit à ces soldats que quiconque désirait une mai-
+son à Méknès n'avait qu'à la prendre. Les Abîds se mirent
+aussitôt à exercer leur cupidité sur la population: ils ve-
+naient à la porte des maisons et disaient au propriétaire:
+<<< Mon Seigneur m'a donné ta maison, » ou « Mon Seigneur
+m'a donné ta fille, » et le propriétaire devait payer une
+rançon. On ne saurait décrire ce que les 'Abîds firent sup-
+porter aux habitants de la ville, qui étaient punis et empri-
+sonnés s'ils portaient plainte. Le Sultan, pendant ce temps,
+n'entrait pas dans la qaşba où avait résidé Moùlay Elmos-
+tadi: il demeurait à Bab Errth.
+
+
+Durant cette période, il nomma comme gouverneur de
+Fès Elhaddj Abdelkhaleq Adéyyil, chef de la caravane du
+pèlerinage, et comme qadi, le fqih Abou Ya qoûb Yousef
+ben Boû Inân: il donna pour instructions à ce dernier de
+destituer dans tout l'Empire les qâdis et les khețîbs qui
+avaient fait la prière au nom de Moûlay Elmostadi.
+
+
+Quant aux Oûdêya qui n'avaient pas envoyé un seul
+d'entre eux auprès de Moûlay Abdallah, ils ne lui pré-
+tèrent pas serment de fidélité. Il en fut de même du bâcha
+Ahmed ben Ali Errifi, des gens du Rif et du Fahs, et des
+tribus du Djebel. Le Sultan en conçut un vif chagrin. Plus
+tard, sur les prières de sa mère, la noble dame Khenâtsa,
+il reçut une députation de ses contribules, les Oûdêya,
+que celle-ci lui envoya, et leur accorda son pardon.
+
+
+Aboûl'abbas Ahmed ben Ali Errîfi met en déroute les tribus
+du Garb; autres événements de cette époque  .
+
+
+Bientôt après ce qui précède, le sultan Moûlay 'Abdal-
+
+
+1. Texte arabe, IVe partie, p. 72.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+211
+
+
+lâh apprit que le qâïd Aboûl'abbas Ahmed ben 'Ali Errîfi
+était venu faire une incursion sur les territoires d'Elqşar
+Elkébîr, et qu'il avait enlevé des richesses considérables
+aux habitants du Garb et à tous ceux qui n'étaient pas,
+comme lui, partisans d'un soulèvement contre le Sultan.
+Moûlay Abdallâh envoya aussitôt un nombreux corps de
+ Abîds de Mechra Erremla, pour tenir garnison à Elqşar
+Elkébîr et protéger la ville et la contrée avoisinante. Dès
+qu'il avait appris cela, Errîfi avait distribué de l'argent à
+son armée et se préparaità marcher contre les  Abîds, quand
+une troupe d'Oûdêya et de 'Abîd de Méknès vinrent lui
+annoncer que cette armée avait rebroussé chemin, parce
+que,  dans un pareil moment, on ne pouvait obéir à per-
+sonne, ni parmi les sujets, ni parmi les soldats ».
+
+
+Le gouverneur du Sulan, le qâïd Aboûl abbas Ahmed
+Elqaîdi, qui avait été chargé du commandement des
+ Arabs Elhayâïna et des habitants du Djebel Ezzebîb, pour
+leur faire payer leurs zekâts et leurs achoûrs, fut assailli
+et tué chez les Hayâïna. Cette nouvelle causa une peine
+profonde au sultan Moûlay Abdallah, car ce qâïd était le
+soutien de son gouvernement. Sa mort fut, en effet, le
+signal du désordre. Les routes furent infestées de brigands
+et partout on se livra au pillage.
+
+
+Dès le commencement de l'année 1054, le Sultan or-
+donna aux Msakhrin qui l'accompagnaient de faire main
+basse sur les céréales des habitants de Méknès. Une grande
+émeute s'en suivit, et le Sultan imposa aux gens de la ville
+la lourde contribution de lui payer sa moûna et celle de
+ses serviteurs et de lui fournir des manœuvres en vue de
+constructions à Bab Errih. A plusieurs reprises, ils implo-
+rèrent sa clémence, mais il fut inexorable. Dieu sait quelle
+est la vérité.
+
+
+212
+
+
+ARCHIVES MAROCAINES
+
+
+Révolte des Abids contre Moulay Abdallâh, qui s'enfuit
+pour la seconde fois chez les Berbers¹.
+
+
+Au mois de rabi Ier 4054, les Abîds se soulevèrent contre
+le sultan Moûlay 'Abdallah, et songèrent à le déposséder
+et à s'emparer de sa personne. Avertie de leurs projets,
+sa mère, la noble dame Khenâtsa, fille de Bekkar, quitta
+Méknès et s'enfuit à Fès Eljedid. Le lendemain, son fils,
+Moulay Abdallah partit pour la rejoindre et campa à Râs
+Elma; là il reçut les Oùdèya et les habitants de Fès, venus
+pour lui témoigner leur respect et leur joie à l'occasion de
+sa venue. Le Sultan chercha à se les concilier et leur dit:
+
+
+« Vous êtes mes soldats et mes armes, ma main droite
+et ma main gauche; je vous demande de m'être entière-
+ment fidèles. » Après des promesses réciproques, ils ren-
+trèrent en ville. Au même moment, le Sultan apprit que
+Ahmed ben Ali Errifi, après un échange de correspon-
+dances avec les Abîds de Mechra Erremla, était tombé
+d'accord avec eux pour le déposer et proclamer à sa place
+son frère Zin El abidin, qui était son hôte à Tanger. Le
+Sultan en fut fort attristé, et, quand il vit ensuite le rapide
+succès de la cause de Moûlay Zin El abidin, il s'enfuit dans
+le pays des Berbers.
+
+
+Règne du Prince des Croyants Moûlay Zîn El'âbidin ben Ismail
+(Dieu lui fasse miséricorde !)  .
+
+
+La première fois qu'il fut question du sultan Moûlay Zîn
+El'abidîn, ce fut au moment où il vint à Méknès, sous le
+règne de son frère Moûlay Elmostadi, qui, à peine informé
+
+
+1. Texte arabe, $IV^{\circ}$ partie, p. 72.
+
+
+2. Texte arabe, IV partie, p. 72.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+213
+
+
+de son arrivée, le fit mettre en prison avant de le recevoir.
+Après un assez long emprisonnement, il le fit sortir un
+jour de son cachot et le fit rouer de coups, au point qu'il
+faillit en mourir; il était resté tout le temps enchaîné et
+n'avait pas prononcé une seule parole. Après l'avoir remis
+en prison, le Sultan l'envoya, toujours enchaîné, à Sijilmâsa
+pour y être détenu avec d'autres chérîfs déjà incarcérés là.
+Des qâïds des Abids, qui avaient appris la nouvelle, avaient
+envoyé aussitôt à sa suite des gens qui l'avaient rejoint à
+Şefroù et l'avaient ramené à Fès, puis l'avaient fait con-
+duire chez les Beni Yazġa, auprès du qâïd Aboûlabbas
+Ahmed Elqaidi, en recommandant à ce dernier de le
+traiter avec égards et respect. Lorsque son frère, Moùlay
+Elmostadi s'étant enfui de Méknès, les 'Abids s'étaient
+soumis de nouveau au sultan Moulay 'Abdallah, Moùlay
+Zîn El abidin était revenu à Fès. La déposition de Moûlay
+Elmostadi et le retour au pouvoir de Moûlay Abdallah
+l'avaient rempli de joie. Il était revenu à Méknès, d'où,
+après un séjour assez long, il était parti pour Tanger. Le
+bacha Ahmed ben Ali Errifi, gouverneur de cette ville,
+chez qui il s'était rendu, lui avait fait une brillante récep-
+tion et lui avait accordé une large hospitalité. Il demeura
+chez lui assez longtemps, jusqu'au jour où, ayant écrit à
+son sujet aux Abids du Diouân et ayant reçu leur adhésion
+à sa proclamation, ce bâcha lui préta serment de fidélité,
+et après lui, les populations de Tanger, de Tétouan, du
+Falis et des montagnes, qui firent la prière en son nom.
+Le bâcha Ahmed lui prépara aussitôt une troupe de cava-
+liers, formée notamment de Abids du Diouân, pour l'accom-
+pagner jusqu'à Méknès. Il arriva dans cette ville au prin-
+temps de l'année 1154. Là, il fut l'objet d'une proclama-
+tion générale, et reçut les députations des tribus et des
+villes, qu'il traita avec tous les égards nécessaires. Le
+sultan Moûlay 'Abdallah, en présence de son succès, quitta
+aussitòt Râs Elmâ et s'enfuit dans le pays des Berbers. Pas
+
+
+214
+
+
+ARCHIVES MAROCAINES
+
+
+un seul des Oùdèya, pas un seul habitant de Fès, ne se
+rendirent auprès du sultan Moulay Zin El abidin.
+
+
+Ce prince était doux et généreux. Il ne commit pas
+d'injustice et ne dépouilla personne de son bien, mais,
+comme il avait peu de ressources, il dut diminuer la solde
+des Abids, ce qui les détacha de sa cause, comme nous le
+verrons bientôt.
+
+
+Suite des faits se rapportant à Moulay Zin El ʻâbidîn,
+et décroissance de son pouvoir ¹.
+
+
+Après avoir séjourné près de deux mois dans la capitale
+de Méknès, le sultan Moulay Zin Elabidin se prépara à
+aller combattre les Oûdèya et les gens de Fès qui n'avaient
+pas participé à sa proclamation. Le 15 djoumada Ier 1154,
+il quitta Méknès à la tête du guéïch des Abids, qui vint
+camper à Sidi Améïra afin de mettre le siège devant Fès.
+Mais dans la nuit la discorde se mit parmi les Abids, qui,
+dès le lendemain matin, démontèrent leurs tentes et par-
+tirent pour Méknès, non sans avoir incendié les aires où
+se trouvaient les grains des Oùdèya au Khamês. Dieu pré-
+serva contre eux les Oûdêya et les gens de Fès. A peine
+arrivés à Méknès, ils pillèrent les fruits des jardins, et,
+après avoir fait tous les ravages possibles dans la ville, ils
+retournèrent à Mechra Erremla. Ceux d'entre eux qui
+entrèrent à Méknès avec le Sultan, lui réclamèrent leur
+solde avec une vive insistance, et comme il n'avait pas de
+quoi les satisfaire, ils se soulevèrent contre lui et ne lui
+obéirent presque plus.
+
+
+Pendant ce temps, le sultan Moulay Abdallah était dans
+les montagnes des Berbers, surveillant la capitale et prêt
+à agir à la première occasion. Dès qu'il sut dans quelle
+
+
+1. Texte arabe, IVe partie, p. 73.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+215
+
+
+situation chancelante se trouvait Moùlay Zin El abidin, il
+descendit de la montagne et s'avança jusqu'à Fès Eljedid
+où il entra, le 16 djoumada II, salué par les Oùdèya et les
+habitants de la ville qui se réjouirent de son arrivée. Le
+mème jour, il alla s'installer à Dar Eddebibag. En appre-
+nant cela, son frère Moùlay Zin Elabidin, se sentant trop
+faible, quitta dès le lendemain Méknės, et alla se réfugier
+en lieu sûr, abandonnant le pouvoir et tout ce qui l'accom-
+pagne. Il resta ignoré jusqu'à sa mort (Dieu lui fasse
+miséricorde!
+
+
+Troisième règne du Prince des Croyants, Moulay Abdallâh
+(Dieu lui fasse miséricorde!)¹.
+
+
+Après la fuite du sultan Moùlay Zin El abidin de Méknės,
+les Abids se réunirent et décidèrent de se soumettre de
+nouveau à Moulay Abdallah. Ils lui envoyèrent un déta-
+chement de cavaliers, qui arrivèrent auprès de lui le
+15 ramadan. Il était alors à Dar Eddebibag. Après l'avoir
+salué, ces délégués lui firent connaitre que leurs frères
+d'armes l'avaient proclamé et qu'ils avaient déposé Moù-
+lay Zin Elabidin. Leur arrivée fit un grand plaisir à Moù-
+lay  Abdallah. Les Oùdèya se rendirent auprès des 'Abîds,
+et leur manifestèrent la joie que leur causait leur venue.
+Ils firent galoper les chevaux dans le champ de la course
+et du jeu de la poudre, et la ville fut pavoisée. On procéda
+aussitôt à la béï a générale qui fut prétée par les Oûdêya,
+les gens de Fès et les tribus arabes et berbères. La situa-
+tion ne change pas jusqu'au dernier jour de doûlqa da : il
+advint alors ce que nous allons rapporter,
+
+
+1. Texte arabe, IVe partie, p. 73,
+
+
+216
+
+
+ARCHIVES MAROCAINES
+
+
+Moûlay Elmostadi vient de Morrâkch et combat son frère
+Moulay Abdallâh; événements qui en sont la suite .
+
+
+Le sultan Moulay Abdallah, sous l'obéissance duquel
+s'étaient rangés les Oûdèya et tous les habitants du Garb,
+demeurait à Dar Eddebibag, quand, à la fin du mois de
+doûlqa da de l'année 1154, les Abids s'inquiétèrent de le
+voir séjourner là aussi longtemps au lieu de venir résider
+au milieu d'eux à Méknès, capitale de l'époque, et lui tour-
+nant le dos impudemment, suivant leur habitude, ils firent
+venir de Morrakch Moûlay Elmostadi pour le proclamer..
+Aussitôt avisé qu'ils avaient envoyé des cavaliers à ce der-
+nier pour le ramener, Moûlay Abdallah prit de suite les
+dispositions que comportait la situation, et décida de
+prendre des mesures énergiques. Il forma un parti avec
+les tribus arabes et berbères du Ġarb, qu'il unit entre
+elles, et leur fit faire cause commune avec les Oûdèya et
+les habitants de Fès. Il établit la fraternité entre tous ces
+éléments, qui s'engagèrent sur leur foi à mourir pour lui.
+Ses efforts dans ce sens furent couronnés de succès.
+
+
+Sur ces entrefaites, arriva à Fès, venant de Morrâkeh,
+Elhaddj Ahmed Essoûsi. On prétendit qu'il incitait les
+habitants de cette ville à se soumettre de nouveau à Mού-
+lay Elmostadi et à embrasser son parti: le sultan Moûlay
+'Abdallah vint à le savoir et ordonna de le mettre à mort.
+
+
+Au mois de moharrem de l'année suivante (1155), Elmos-
+tadi quitta Morrakch pour se rendre dans le Nord. Il entra
+à Méknès à la tête des Abîds, des Beni Hsen et des autres
+tribus. Il était accompagné également du vizir Aboûlhasan
+El'amîri et de son frère le qâdi Belqâsém. A la fin du
+mois, le qâïd Aboûl abbas Ahmed Errifi écrivit aux habi-
+tants de Fès, pour les engager à reconnaître son maître
+
+
+1. Texte arabe, IVe partie, p. 73.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+217
+
+
+Moùlay Elmostadi et à se ranger sous son obéissance, mais
+comme ils restèrent fermés à ces ouvertures et les écar-
+tèrent, Moùlay Elmostadi vint au mois de rabi $l^{cr}$ camper
+avec le guéïch des Abids à Phar Ezzãoùya, près de Fès.
+Moulay Abdallah quitta aussitòt Dar Eddebibag pour se
+réfugier chez les Aït Idrásén. Dès le lendemain, le combat
+s'engagea entre les Abids et les Oûdèya, les gens de Fès,
+les Hayaïna, les Chraga et les Oulad Djama. De part et
+d'autre, on perdit beaucoup de monde. Mais, le 4 rabi II,
+le sultan Moulay Abdallah arriva, amenant à sa suite des
+contingents berbères pris parmi les tribus de Zemmour,
+Beni Ikim, Guerouan, Aït Idrasén et Ait Ou Malou, en
+nombre si considérable que leur créateur seul aurait pu
+les compter: la richesse de leurs costumes et la force de
+leurs armes étaient de nature à réjouir l'ami et à faire du
+mal à l'ennemi. En présence de si nombreuses troupes,
+Moùlay Elmostadi et ses Abids, se rendant compte qu'ils
+n'étaient pas de force à lutter contre eux, profitèrent de
+la nuit pour s'enfuir en lieu sûr, et le lendemain matin, il
+ne restait là que la trace de leur campement. Tout le
+monde s'en réjouit et remercia Dieu de ce que ces troupes
+s'étaient dispersées sans combat.
+
+
+Le 6 djoumada Ier, mourut la noble dame Khenâtsa
+Elmgafriya, fille de Bekkar et mère du Sultan (Dieu lui
+fasse miséricorde!) qui était une femme très versée dans
+les sciences et les belles-lettres. Elle fut enterrée dans le
+cimetière des chérifs, à Fès Eljedid.
+
+
+Au mois de djoumada II, un conflit s'éleva à Fès entre
+Elhaddj Abdelkhaleq Adéyyil et le chérif Moulay Abdal-
+lah Mohammed Elgali Elidrisi. Adéyyil se plaignit au
+Sultan, qui ordonna d'arrèter le chérif; mais celui-ci par-
+vint à se réfugier dans le tombeau de son ancêtre (Dicu
+soit satisfait de lui!) Le Sultan enjoignit alors aux gens de
+Fès de l'en faire sortir
+ceux-ci le tinrent si étroitement
+bloqué, qu'il demanda
+l'aman. Ils le conduisirent alors,
+
+
+218
+
+
+ARCHIVES MAROCAINES
+
+
+sous le couvert de l'amân, auprès du Sultan, qui, après lui
+avoir adressé de vifs reproches, le fit bâtonner, puis mettre
+en prison, et enfin donna l'ordre aux gens de Fès de tuer
+ses gens.
+
+
+Présent du sultan Moulay Abdallah (Dieu lui fasse miséricorde!)
+au sanctuaire du Prophète (les prières et le salut soient sur
+son noble habitant!) .
+
+
+Cette année-là (1155), le Prince des Croyants, Moùlay
+Abdallah (Dieu lui fasse miséricorde!) profita du départ de
+la caravane magribine pour les deux sanctuaires pour
+envoyer un cadeau somptueux dans lequel figuraient vingt-
+trois exemplaires du Qoran de dimensions diverses, cou-
+verts d'or et parsemés de rubis. Au nombre de ces Qorâns
+se trouvait le grand Moushaf Eloqbani que les princes
+se transmettaient par héritage, en même temps que le
+Moushaf Elotsmâni, que possédaient les Beni Oméyya de
+l'Andalousie et qui avait été apporté sur cette rive magri-
+bine par Abdelmoùmén ben 'Ali. Nous nous sommes déjà
+longuement étendus sur ce livre. Le Moushaf El oqbani
+avait appartenu à Oqba ben Nafi Elfihri, l'illustre con-
+quérant du Magrib. Il avait été copié à Qaïrouân, sur le
+Moushaf Elotsmani, dit-on, et avait appartenu à divers
+personnages du Magrib: il était tombé enfin entre les
+mains des chérifs saadiens. Ce fut sur ce Qoran que Elman-
+soûr fit promettre à ses fils d'obéir à leur frère Echchéïkh.
+Quand le sultan Moulay Abdallah en fut possesseur, il
+lui fit quitter le Magrib pour le noble sanctuaire: ainsi la
+perle revint à son pays d'origine, et l'or pur fit retour à sa
+mine. Le chéïkh Abou Abdallah Elmesnaoui (Dieu lui
+fasse miséricorde!) dit: <<< J'ai pu voir ce Moushaf au mo-
+
+
+1. Texte arabe, IVe partie, p. 74.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+219
+
+
+ment où Moulay Abdallah (Dieu lui fasse miséricorde!) le
+sortit pour l'envoyer à la Noble Pierre: il m'a semblé que
+la date de sa copie à Qaïrouan était discutable, en raison
+de la différence existant entre les deux exemplaires. >> En
+même temps, le Sultan envoya deux mille sept cents pierres
+précieuses de diverses couleurs pour la tombe du Pro-
+phète (sur celui qui l'habite soient les meilleures prières
+et le salut le plus pur!) Puisse Dieu agréer la belle œuvre
+du Sultan et lui accorder une large récompense! Ainsi
+soit-il.
+
+
+Alliance du bacha Aboul abbas Errîfi avec Moulay Elmostadi
+contre Moûlay 'Abdallah; arrivée de ce bâcha à Fès, et ce qui
+s'en suivit¹.
+
+
+Dès le début de l'année 1156, le bacha Aboùlabbas
+Ahmed ben Ali Errifi, à la tête des contingents du Fahs,
+du Djebel et du Rif, marcha sur Fès et la région environ-
+nante, et vint camper dans les champs de culture de cette
+ville à El'assal (21 moharrem). Il chercha à persuader les
+habitants de secouer le joug de l'obéissance à Moulay
+ Abdallah, mais sans succés. Le 22 şafar, Moùlay Elmostadi
+vint camper près de lui avec les Abids qui étaient comman-
+dés par le qâïd Fâtéh ben Ennouini. L'arrivée de ces deux
+bandes provoqua une grande émotion dans la région, et la
+population fut effrayée de voir venir ce Rifi, à la tète de
+troupes plus nombreuses que jamais. Les Hayâïna, les
+Chraga et les Oulad Djama vinrent jusque sous les murs
+de Fès et établirent leurs campements à l'intérieur et à
+l'extérieur de la ville. Leurs terrains de culture et leurs
+jardins furent dévastés et leurs troupeaux pillés. Nombre
+de gens moururent de faim et de misère. Le désordre res-
+
+
+1. Texte arabe, IVe partie, p. 74.
+
+
+220
+
+
+ARCHIVES MAROCAINES
+
+
+semblait aux vagues de la mer. Le prix des denrées monta.
+La population se trouva dans la plus grande détresse.
+Matin et soir, le canon tonnait, et les tambours battaient
+dans les mhallas de Moùlay Elmostadi et d'Errifi. Tout le
+monde se préparait à la guerre.
+
+
+Quant au sultan Moulay Abdallah, il quitta Dâr Edde-
+bibag et, accompagné d'une dizaine de cavaliers, s'enfuit
+en toute hâte chez les Aït Idrâsén, dans la plaine de Achâr.
+Arrivé aux campements de 'Abdallah ben Ichcho, il re-
+tourna sa selle en présence des gens de cet endroit. Ceux
+qui se trouvaient là se réunirent autour de lui et lui dirent:
+ Qu'est-il arrivé à notre Maitre ? - « Je suis venu, leur
+répondit-il pour que vous me prétiez votre appui contre ce
+Jebli, qui était mon serviteur et mon esclave. L'argent
+qu'il a amassé à mon service l'a rendu arrogant. Il a voulu,
+depuis lors, me couvrir de honte, et mon frère Elmostadi
+l'a excité contre moi, parce qu'il veut s'emparer de mon
+pays, qui est le vôtre en réalité. C'est vous qu'il veut insul-
+ter: vous serez les premiers à prêter votre appui aux des-
+cendants du Prophète, pour empêcher le scandale. Le
+salut soit sur vous.  Et remontant à cheval, il reprit sa
+route et rentra le soir mème à Dâr Eddebibag.
+
+
+Le lendemain, Ahmed Errifi se dirigea vers le territoire
+des Hayâïna pensant que cette tribu y était restée, mais
+n'y ayant trouvé personne, il revint sur ses pas. Le jour
+suivant, un combat sans importance eut lieu entre les
+Oûdêya et leurs alliés, les Hayâïna, les Chråga et les Oulad
+Djama'. Le troisième jour, Ahmed Errifi se mit en route,
+accompagné de ses archers, et vint se poster sur la colline
+de Tamzazît, au-dessus du pont; ses troupes traversèrent
+la rivière et s'établirent à Aroûrât. A son tour, Moûlay
+Elmostadi, laissant à son camp les archers, les canons et
+les bagages, franchit la rivière avec les Abids et échelonna
+ses troupes dans la plaine. Les Oùdêya, les gens de Fès,
+les Hayâïna, les Chrågaet les Oulad Djama, puis les Berbers
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+221
+
+
+en troupes nombreuses, s'établirent sur les hauteurs qui
+dominaient leurs ennemis, depuis Elaïn Elmqaboùwa
+jusqu'à Dâr Ben Amar. Apercevant dans la plaine les
+troupes de Moulay Elmostadi et de son vizir Errifi, les
+partisans de Moulay Abdallah poussèrent de grands cris,
+et fondant sur elles comme un seul homme, les mirent en
+déroute, semant avec acharnement le meurtre et le pillage.
+Celles-ci vinrent se presser sur le pont et nombre d'hom-
+mes tombèrent dans la rivière où ils se noyèrent: les Ber-
+bers les suivirent et continuèrent à tuer et à piller. Quant
+à Errifi, lorsqu'il vit que la bataille allait être perdue, il
+monta à cheval et se sauva « sur un coursier bridé » dans
+l'état dépeint par Aboù Etțayyéb, quand il dit :
+
+
+« L'homme ne compte pas sur le maximum et il l'atteint.
+Il veut s'emparer du minimum, mais il est pris au piège. >>>
+Mais ni lui, ni aucun des vaincus, ne put atteindre la
+mhalla avant les Berbers, qui, abandonnant leur poursuite,
+se précipitèrent pour les devancer, et s'emparèrent des
+tentes, des chevaux et des effets. Ils n'y laissèrent que les
+canons, les mortiers et les munitions de guerre, boulets,
+bombes et poudre, qui furent pris par le qâïd Boù Azza,
+Şaheb Echcherbil.
+
+
+Tous les partisans de Moulay Abdallah revenaient char-
+gés de butin, quand ils furent assaillis par des Berbers
+qui n'avaient pas pris part au combat, et qui leur enlevèrent
+tout ce qu'ils rapportaient.
+
+
+L'auteur du Boustân raconte à cet égard ce qui suit:
+Feu le sultan Sidi Mohammed ben Abdallah m'a fait le
+récit suivant, au sujet de cette affaire à laquelle il avait
+assisté, encore adolescent: « Mon père, dit ce prince,
+m'avait envoyé avec nos oncles maternels, les Oùdèya:
+Quand le vent de la victoire commença à souffler, et que
+l'ennemi fut rapidement mis en déroute, nous allâmes de
+suite à la mhalla. J'avais avec moi des Oùdèya et des gens
+à mon service, en tout, cinquante cavaliers. Nous recon-
+
+
+222
+
+
+ARCHIVES MAROCAINES
+
+
+nûmes la goubba du bacha Ahmed et nous nous en empa-
+râmes. Je fis venir les muletiers, qui chargèrent vingt mules
+de caisses pleines de douros. Je fis emporter du drap et
+de la toile sur trente chameaux qui appartenaient aux cha-
+meliers arabes Bdaoua. Ils transportèrent aussi deux qoub-
+bas; l'une était celle de Ahmed Errîfi, et l'autre était, je
+crois, celle de Moûlay Elmostadi. Quant aux Arabs, aux
+Berbers, aux Oûdèya et aux gens de Fès, ils prirent, cha-
+cun de leur côté, tout ce qu'ils purent emporter. Mais en
+quittant la mhalla, nous fûmes assaillis par des troupes de
+Berbers qui n'avaient pas pris part au combat. A peine
+nous avaient-ils rejoints, qu'ils se précipitèrent sur notre
+butin: nous ne savions plus où étaient les mules et les
+chameaux, car autour de chaque mule et de chaque cha-
+meau il y avait plus de cinquante ou de soixante cavaliers.
+Nous fûmes tous dispersés et nous revînmes comme nous
+étions venus. Ce furent seulement ceux de nos partisans
+qui se mirent du côté des Berbers qui purent rapporter
+quelque chose du pillage. » Quand le pillage fut terminé,
+les 'Abids du Sultan rassemblèrent les têtes des ennemis:
+il s'en trouva entre les noirs et les blancs, environ neuf
+cents, parmi lesquelles la tête du bâcha Fátéh ben En-
+nouîni. Le sultan Moûlay 'Abdallah envoya ensuite des
+mulets pour trainer les canons et les mortiers, et charger
+les boulets et les bombes: tout cela fut amené à Dâr Edde-
+bîbag. Il envoya ensuite d'autres muletiers pour chercher
+la poudre: on trouva trois cents barils, chacun d'un quin-
+tal de poudre excellente. On les déposa au magasin de Fès.
+Feu le sultan Sidi Mohammed ben  Abdallah (Dieu lui fasse
+miséricorde !) ajoute: « Ce fut la première fois que mon
+père m'envoya en expédition, et le premier combat auquel
+j'assistai. J'avais atteint alors l'âge de l'adolescence. J'étais
+passionné pour jouer et frapper de la lance, et je devins
+ensuite très adroit. >>>
+
+
+A leur passage au Djebel Ezzebîb, les vaincus furent
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+223
+
+
+arrêtés par les gens de cette région, qui leur livrèrent com-
+bat et tuèrent, entre autres, Sidi Mohammed fils d'Elmos-
+tadi, qu'ils prirent pour un Rifain. Errifi et ses gens
+gagnèrent Tanger avecde grandes difficultés. Cette bataille
+fut une victoire pour le Prince des Croyants Moûlay 'Ab-
+dallâh et pour ses partisans. L'auteur du Nachr Elmatsani
+dit: « Un grand nombre de Abids rentrèrent sous l'obéis-
+sance de Moûlay Abdallah et les tribus lui apportèrent
+leurs présents de toutes parties du Maġrib. Il les reçut
+avec douceur et amabilité. Il ordonna ensuite aux Abids de
+partir pour Tanger afin de combattre Errifi. Mais ils revin-
+rent bientôt sans avoir trouvé le moyen de l'atteindre. >>>
+
+
+Nouvelle expédition de Ahmed Errîfi contre Fès; ses démêlés
+avec le sultan Moulay Abdallâh jusqu'à sa mort  .
+
+
+Arrivé à Tanger, Ahmed Errîfi s'occupa de réparer les
+pertes que lui et ses troupes avaient subies en chevaux,
+armes, tentes, etc. Après avoir remplacé au guéïch des
+'Abids et aux gens du Rîf ce qu'ils avaient perdu, il se
+prépara à faire une nouvelle expédition contre Fès, et jura
+de ne pas manger de viande ni de boire de lait caillé, tant
+qu'il ne serait pas entré à Fès et n'aurait pas pillé cette
+ville, comme ses habitants avaient pillé sa mhalla. Il en-
+voya à son sultan Moûlay Elmostadi deux cents chevaux,
+deux cents tentes, mille fusils et cinquante mille mitsqals
+pour les distribuer aux Abids, et lui fixa le lieu où l'on se
+réunirait pour aller livrer combat au sultan Moûlay 'Abdal-
+lâh et à ses partisans, les Oûdêya et les gens de Fès. Il
+advint des dépenses d'Errîi ce qu'a dit Dieu Très-Haut:
+(( Ils dépenseront, puis subiront des revers et seront
+vaincus. >>>
+
+
+1. Texte arabe, IV partie, p. 76.
+
+
+224
+
+
+ARCHIVES MAROCAINES
+
+
+Au mois de djoumada $I^{er}$ 1156, Mamed Errifi quitta
+Tanger. Il se dirigeait sur Fès à la tête d'une armée puis-
+sante et aguerrie. Dès que le sultan Moulay Abdallah
+apprit son départ, il ne put tarder davantage à se porter à
+sa rencontre. Il écrivit aussitòt aux Arabs Elhayaïna, Chraga
+et Oulad Djama', aux Arabs du Ġarb, Sefiân et Beni Malék,
+et à tous ses partisans, pour les appeler au combat et les
+inviter à lui apporter leur appui. II distribua le rateb aux
+ Abids, aux Oùdèya et aux Zirára, et reçut de la population
+de Fès le contingent qu'elle fournissait habituellement.
+Il prévint également les tribus des Aït Idrasén et des
+Guerouân de sa résolution d'attaquer Errifi et de se porter
+contre lui: Il ajoutait : « Si vous voulez de l'argent et du
+butin, préparez-vous à marcher contre Tanger. » Malgré
+quelques défections, ces tribus envoyèrent 2.000 cava-
+liers et un plus grand nombre de fantassins. Dans les
+derniers jours de djoumada $I^{er}$, le Sultan sortit de Fès, et
+s'arrêta à l'Oued Shoù pour avoir le temps de passer en
+revue ses troupes et de les organiser. Il forma un reha
+avec les fantassins, Abids et un reha avec ceux de Fès;
+ces deux rehas furent placés sous le commandement du
+qâïd Boû Azza, l'homme au cherbîl. Il organisa, avec les
+fantassins et les cavaliers des Oùdèya, des Zirara et d'EhI
+Soûs, un seul reha, à la tête duquel il mit son hâjéb, le
+qâïd Abdelouahhab Elyimmoùri. Il se mit en route avec
+ce corps d'armée, et rencontra en chemin les Chraga, les
+Oulad Djama et les Oulad Isa dont il fit un reha sous les
+ordres du chéïkh Aboûl'abbas Ahmed ben Moûsa Ech-
+chergui. Après avoir franchi l'Oued Ouarga, il trouva les
+contingents du Ġarb qui l'attendaient: ils campèrent la
+nuit avec lui à Aïn Gerouach. Le lendemain, il fit un reha
+des Beni Malek, avec leur qâïd Boù Selhâm Elhammadi
+pour chef, et un autre des Sefiân avec leur qâïd Abdal-
+lâh Essefrâni pour chef. Il partit ensuite à la tête de toute
+cette armée, à l'aube de la victoire et de la félicité.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+225
+
+
+Quant à Moûlay Elmostadi, il était avec les 'Abîds et les
+Beni Hsen. Quand il apprit que le sultan Moulay Abdallah
+avait quitté Fès, il prit le chemin de la résidence royale de
+Méknès, et y pénétra à l'improviste. Il se mit à piller et
+à saccager les maisons, et les Beni Isen se livrèrent à des
+actes monstrueux, comme d'enlever des femmes et des
+enfants. Mais les gens de la ville se ressaisirent bientôt,
+et, se groupant pour combattre leur ennemi, ils luttèrent
+au milieu de la ville contre les Beni Hsen, qu'ils mirent en
+déroute et qu'ils chassèrent après leur avoir tué un nombre
+considérable d'hommes.
+
+
+Pendant ce temps Ahmed Errîfi était arrivé à Elqşar, où
+il attendait son sultan Moûlay Elmostadi qui devait se
+joindre à lui. Il avait avec lui des troupes innombrables,
+formées de gens du Rîf, du Fahs, du Djebel, de Elarêïch,
+d'Elqşar, et des tribus d'Elkhlot, de Tlig et de Bdâoua. Ne
+voyant pas venir son allié, et apprenant que le sultan
+Moûlay  Abdallâh s'était mis en marche contre lui, il quitta
+Elqşar pour aller à la rencontre de son ennemi. Les deux
+armées se trouvèrent en présence le soir même, à Dâr
+El abbas, sur le bord de l'Oued Loukkos. « La rencontre
+eut lieu, dit l'auteudur Nachr Elmatsâni, dans les environs
+d'Elqşar, à l'endroit appelé Elmenzéh, le  djoumâda II
+1156.  Quand les deux partis se trouvèrent en présence,
+l'armée du sultan Moûlay Abdallah voulut mettre pied à
+terre, mais il dit à ses hommes: « Nous ne camperons
+qu'après avoir pris du butin ou avoir été battus. » Il fran-
+chit ensuite la rivière avec ses troupes, et fondit avec ses
+Abids et les Oûdeya sur l'armée d'Ahmed Errîfi, avant
+qu'elle n'ait pu mettre pied à terre. Il défit d'abord l'avant-
+garde qui se composait de gens du Fahs et des tribus de
+Bdâoua, Tlig et Elkhlot. Quand se présenta ensuite le corps
+des gens du Rîf qui formaient le cœur de l'armée ennemie
+et où se trouvait le bâcha Ahmed ben 'Ali, le Sultan char-
+gea sur eux et leur fit subir le même sort qu'à l'avant-
+
+
+ARCH. MAROC.
+
+
+15
+
+
+226
+
+
+ARCHIVES MAROCAINES
+
+
+garde. Les troupes d'Errifi se dispersèrent de tous côtés
+et furent mises rapidement en déroute. Elles prirent la
+fuite, et furent poursuivies par les soldats du Sultan, qui
+leur tuèrent du monde et firent des prisonniers jusqu'à la
+nuit. Errifi avait été tué dans le combat; ses troupes
+avaient laissé les tentes et les bagages au pouvoir du Sul-
+tan, qui en profita pour installer son campement à Dâr
+El'abbas. Le soir, les soldats revinrent chargés de butin
+et rapportant la tète du bacha Ahmed ben 'Ali Errifi. Le
+cadavre de celui-ci avait été reconnu parmi les morts par
+un soldat du Sultan, qui lui avait coupé la tête pour l'ap-
+porter à son maître. Moûlay Abdallah se réjouit en la
+voyant, et l'expédia à Fès, où elle fut suspendue à Bab
+Elmabroûq. Ainsi finit Ahmed Errifi, dont les jours étaient
+arrivés à leur terme. La vie est éphémère; seul demeure
+ton maître qui possède la gloire et la générosité.
+
+
+Errifi a laissé à Tanger, à Tétouan et dans la région de
+ces villes, de nombreuses constructions, qui témoignent de
+la grandeur de sa situation. Dieu lui fasse miséricorde!
+
+
+Le sultan Moûlay Abdallah se porte sur Tanger
+et s'en empare 1.
+
+
+Après s'être débarrassé des soucis que lui causait Errîfi,
+le sultan Moûlay Abdallah (Dieu lui fasse miséricorde !)
+partit le lendemain matin pour Tanger. A peine était-il
+en vue de la ville que la population alla à sa rencontre, les
+hommes portant des Corans sur leurs tètes, et les enfants
+tenant devant eux leurs planchettes, pour implorer son
+pardon et exprimer leur repentir. Le Sultan leur pardonna,
+sauf à ceux qui formaient, pour ainsi dire, la doublure
+d'Errîfi. Il fit son entrée dans la ville et en prit possession.
+
+
+1. Texte arabe, IV partie, p. 77.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+227
+
+
+Et faisant établir une garde autour de la maison d'Errîfi et
+de ses propriétés, il ordonna au négociant Adéyyil et à
+un certain nombre de marchands de Fès de dresser l'in-
+ventaire de ce qui s'y trouvait. Ils pénétrèrent dans sa
+maison, fouillèrent tous les magasins, et rassemblèrent
+tout ce qu'ils trouvèrent en fait d'argent, d'armes, de
+selles, de vêtements, de draps, de toile, de matelas, d'us-
+tensiles de ménage et d'effets mobiliers. Il y en avait une
+quantité considérable. Il fit l'inventaire de tout, et dressa
+également une liste des esclaves, des négresses, des che-
+vaux, des mules, et de tout le bétail, chameaux, bœufs et
+moutons. Le tout atteignait un chiffre élevé. Le bétail fut
+donné aux Berbers. Quant aux mers, ils furent abandonnés
+au guéïch; les soldats s'emparèrent de tout le blé et l'orge
+qu'ils y trouvèrent. Le Sultan s'occupa ensuite des qàïds,
+des secrétaires et de tous les gens qui avaient des liens
+avec Errîfi, et leur enleva leur argent et leurs trésors. Ce
+Riſi avait fait de Tanger et de toute la région le siège de la
+gloire. Son influence avait grandi du fait de l'appui que son
+père et lui, dans la suite, avaient donné au gouvernement,
+après la conquête. En s'emparant de ses magasins, le Sultan
+fit une capture comparable à celle des trésors de Qâroûn.
+
+
+Pendant ce temps, le Sultan reçut des députations des
+tribus de la région, auxquelles il pardonna en ieur donnant
+l'amân. Il resta quarante jours à Tanger, et partit ensuite
+pour Fès, victorieux et plus fort car la protection vient de
+Dieu.
+
+
+Moülay Elmostadi suscite au sultan Moulay Abdallah
+des difficultés dont il est victime; carnage des Beni Hsen 1.
+
+
+Moûlay Elmostadi, qui, après avoir bataillé contre les
+
+
+1. Texte arabe, $IV^{e}$ partie, p. 77.
+
+
+228
+
+
+ARCHIVES MAROCAINES
+
+
+gens de Méknès, avait été ensuite battu, se rendit aux
+campements des Beni Hsen, et vécut dans cette tribu. Il
+apprit la mort d'Ahmed Errtfi, son auxiliaire, et de son
+vizir: cette nouvelle affaiblissait son bras et détruisait
+tout l'édifice qu'il avait élevé. Quand il sut ensuite que
+Tanger avait été pris, et que le Sultan s'en était emparé,
+il s'arma de décision, et pressa les Beni Hsen et les Abids
+de fournir de nouveaux contingents, afin d'aller couper la
+route à son frère, le sultan Moulay Abdallah, à son retour
+de Tanger. Le chef des Beni Hsen, qui était alors Qâsém
+Boù Eurîf, se mit à parcourir la tribu, pour réunir des
+combattants en vue de la guerre. Moûlay Elmostadi, accom-
+pagné d'une partie des principaux chefs des 'Abîds, se ren-
+dit à Machra Erremel, et y réunit un contingent de 10.000
+cavaliers. Qâsém Boù Eurîf alla l'y rejoindre avec un nom-
+bre égal de Beni Hsen. Ses troupes formaient donc un total
+de 20.000 hommes, sans compter les renforts qui vinrent
+ensuite se joindre à eux. Ils se mirent aussitôt en marche
+pour aller barrer le passage au Sultan, qui ignorait la
+venue de ses adversaires. Moûlay Elmostadi envoya devant
+lui des espions, qui revinrent avec la nouvelle que le
+Sultan devait passer cette nuit-là à Dâr El abbâs. Il se porta
+aussitôt au-devant de lui avec ses troupes pour le sur-
+prendre. Dès que Moulay Abdallah vit s'avancer l'avant-
+garde des cavaliers, il disposa son armée à la hâte et fit
+garder tout le pourtour de la Mhalla par les fantassins.
+Puis, marchant contre ses adversaires avec sa cavalerie, il
+leur livra combat: au bout d'une heure, les Beni Hsen,
+qui formaient l'aile droite, étaient battus et se repliaient
+en arrière. Il attaqua ensuite Moûlay Elmostadi, qui tenait
+bon avec son aile gauche formée des Abîds, et lui livra
+combat. Le vent de la victoire commença à souffler, et,
+mis en déroute, Moùlay Elmostadi et ses Abîds prirent la
+fuite en toute hâte, sans avoir remporté le moindre avan-
+tage. Le Sultan envoya aussitôt à leur poursuite le qâïd
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+229
+
+
+Boù Azza, l'intendant du cherbil, avec une troupe de
+cavaliers, en leur recommandant de ne pas tuer un seul
+des Abids, mais seulement de les dépouiller. Pas un seul
+homme des Abids ne fut tué dans cette affaire: tout l'effort
+fut dirigé contre les Beni Hsen, qui perdirent plus de
+1.000 hommes tués et se virent enlever environ 5.000 che-
+vaux et un nombre d'armes aussi considérable. Cette
+bataille anéantit la puissance des Beni Isen. Moùlay El-
+mostadi parvint à s'échapper dans la déroute et alla s'éta-
+blir dans leur campement, attendant un revirement de la
+fortune. Chez cette tribu qui, avec les gens de Doukkala
+et de Morrakch, formait son parti, nous avons déjà vu que
+son frère Moùlay Ennaşer était son khalifa dans cette
+ville.
+
+
+Le sultan Moulay Abdallah prit la route de Fès Eljedîd,
+où il ne tarda pas à entrer. Après avoir distribué de l'ar-
+gent à ses oncles maternels et à ses Abids, ainsi qu'aux
+gens de Fès, il alla s'installer à Dâr Eddebîbaġ. Il y reçut,
+au mois de rabi II de l'année 1157, une députation de
+qâïds des Abids, qui vinrent lui exprimer leur repen-
+tir et réprouver leurs actes en faisant leur soumission.
+Il leur adressa de vifs reproches et leur dit : « Je n'ai
+rien à vous dire aujourd'hui: il faut avant tout que
+j'extermine les Beni Hsen et tous les autres partisans de
+Moûlay Elmostadi. >>> Il leur pardonna ensuite et leur
+distribua leur solde, puis leur ordonna de venir le re-
+joindre à Méknès pour aller combattre les Beni Hsen.
+Tandis que les Abids retournaient à Mechra Erremla,
+avec le projet de se conformer aux ordres du Sultan,
+celui-ci commença des préparatifs d'entrée en campagne.
+Il quitta Fès, à la tête du guéïch des 'Abids, des Oùdèya,
+des gens de Fès, des Hayâïna, des Chraga, des Oulad
+Djama et des tribus arabes du Garb. En arrivant à
+Méknès, il y trouva les 'Abids de Mechra Erremla, qui
+étaient venus avec leurs chefs et leurs principaux nota-
+
+
+230
+
+
+ARCHIVES MAROCAINES
+
+
+bles: ceux-ci lui renouvelèrent l'expression de leur
+repentir et jurèrent fidélité, en présence des qâdis et des
+ oulama, lui promettant tous obéissance. Dieu finit tou-
+jours par l'emporter.
+
+
+Le sultan Moulay Abdallah part pour le Hoûz et le subjugue;
+Moûlay Elmostadi s'enfuit effrayé ¹.
+
+
+Moûlay Elmostadi était chez les Beni Hsen, comme
+nous l'avons dit, pendant que les Abids juraient fidélité
+au sultan Moulay Abdallah. Celui-ci partit à la poursuite
+de son frère et de ses partisans les Beni Hsen. Il suivit la
+route du défilé, de façon à couper aux Beni Hsen le chemin
+de la montagne. L'armée les surprit ainsi dans la plaine de
+Zbéïda, au moment où ils faisaient la sieste: Moùlay El-
+mostadi était avec eux. Avant qu'ils eussent cu le temps de
+se reconnaître, les cavaliers fouillèrent leurs tentes, chassé-
+rent devant eux leurs bestiaux et leurs moutons, et pillè-
+rent leurs effets et tout ce qu'ils possédaient. Les Beni
+Hsen se dispersèrent dans toutes les directions, Moùlay
+Elmostadi eut lui-même grand' peine à s'enfuir. Les sol-
+dats se partagèrent les prisonniers. Alors les Beni Hsen
+revinrent en toute hâte demander pardon au Sultan, qui
+ordonna de les laisser tranquilles, leur rendit leurs pri-
+sonniers et leur laissa leurs chevaux.
+
+
+De là, le Sultan se rendit chez les tribus de Doukkala,
+chez lesquelles il avait appris que Moulay Elmostadi s'était
+réfugié. A peine eut-il installé son campement à Qaşbat
+Boulaouân, et celui de ses troupes devant lui dans cette
+plaine de Doûkkâla, que les habitants s'enfuirent avec
+Moùlay Elmostadi du côté des montagnes, et allèrent
+
+
+1. Texte arabe, IV partie, p. 78.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+231
+
+
+camper près de Demnat. Les soldats se mirent alors à
+retirer les grains des mers, à enlever les trésors de la terre,
+à détruire les villages et à couper les arbres. Ils restèrent
+environ une année dans cette plaine: quand ils avaient
+fini de dévaster un endroit, ils allaient dans un autre. Le
+Sultan demeurait pendant ce temps à la qaşba. Quand il
+eut fini de raser complètement la région de Doûkkâla,
+qu'il laissa plus dénudée que la paume de la main, car un
+oiseau n'aurait pu y trouver de quoi manger, ni un égaré
+de quoi s'abriter, il se transporta dans le pays de Serâgna.
+A peine était-il arrivé au milieu de ce territoire, que les
+délégations de ce pays et des autres tribus de ces mon-
+tagnes vinrent lui apporter leurs moûnas et leurs hediyas.
+Le Sultan les accepta et leur pardonna. De là, il alla à
+Demnât; Moùlay Elmostadi et les gens de Doukkala s'en-
+fuirent devant lui et se fortifièrent dans les montagnes des
+Mesfîoua, qui avaient proclamé Moûlay Elmostadi et em-
+brassé son parti. Le Sultan s'avança jusqu'à Qued Ezzât où
+il établit son campement. Les Arabs Errhamna, Zemrân
+et tous les gens du Hoùz qui lui obéissaient, vinrent cam-
+per auprès de lui. Les soldats ravagèrent le pays des Mes-
+fîoua, où ils semèrent le pillage et la destruction. La lutte
+continua avec tant d'acharnement contre Moûlay Elmos-
+tadi que Oued Ezzât devint plus pelé que le ventre d'un
+âne. De là le Sultan transporta son campement à Oued
+Kigui: les soldats y recommencèrent leur œuvre de des-
+truction, et les gens du pays ne purent les repousser:
+leurs forteresses furent démolies, leurs villages brûlés et
+leurs arbres coupés. Oued Kigui devint plus dévasté que
+Qued Ezzât. Les habitants finirent par demander l'amân:
+ils proclamèrent leur soumission et amenèrent leurs en-
+fants pour intercéder en leur faveur. Le Sultan leur ayant
+déclaré qu'il leur pardonnerait s'ils lui livraient Moulay
+Elmostadi, ils lui répondirent qu'il s'était enfui la veille,
+sans quoi ils le lui auraient amené. Le Sultan leur accorda
+
+
+232
+
+
+ARCHIVES MAROCAINES
+
+
+néanmoins son pardon. Les gens de Doûkkala vinrent
+ensuite, avec leurs femmes et leurs enfants :
+
+
+<< Voici nos femmes et nos enfants, lui dirent-ils. Nous
+n'avons plus d'argent, nous n'avons même plus de quoi
+nous nourrir. Faites de nous ce que vous voudrez. >>>
+
+
+Le Sultan leur accorda sa grace et leur permit de re-
+tourner dans leur pays. Ces événements se passaient vers
+la fin de l'année 1157.
+
+
+L'année suivante (1158), le Sultan quitta le pays des
+Mesfioua et vint camper à Qaşbat Alzam, où il reçut,
+comme nous allons le voir, une députation de Mor-
+râkch.
+
+
+Quant à Moûlay Elmostadi, après s'ètre enfui de chez
+les Mesfioua, il avait tenté d'entrer à Morrakch, mais les
+gens de la ville, qui avaient abandonné son parti, lui avaient
+fermés leurs portes et avaient proclamé leur soumission au
+sultan Moûlay 'Abdallah. Comme il n'avait plus rien à
+faire à Morrâkch, car son frère Moùlay Ennaşer venait de
+mourir, on lui envoya les effets laissés par ce dernier.
+Après en avoir pris possession, il reprit le chemin du Falış.
+Il fut repoussé de contrée en contrée, jusqu'à son arrivée
+à Tanger, se contentant de son exil grâce à la santé de son
+corps. Nous verrons bientôt, s'il plaît à Dieu, le reste de
+son histoire.
+
+
+Les habitants de Morrâkch envoient une députation à Alzam
+auprès du sultan Moûlay 'Abdallah, qui leur donne comme
+khalifa son fils Sidi Mohammed 1.
+
+
+Après avoir chassé de leur pays Moûlay Elmostadi, les
+habitants de Morrakch s'étaient consultés et avaient décidé
+de se soumettre au sultan Moulay Abdallâh. Ils désignė-
+
+
+1. Texte arabe, IV partie,  . 79.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+233
+
+
+rent un certain nombre de notables pour les envoyer au
+Sultan, qui était à Qaşbat Alzam; cette députation se ren-
+dit auprès de lui et lui apporta le serment de fidélité de
+la ville, en lui faisant part du sort subi par Moùlay Elmos-
+tadi et de la façon dont ils l'avaient éloigné. Le Sultan
+leur ayant pardonné, après leur avoir adressé des repro-
+ches, ils le prièrent, eux et toutes les tribus du Hoûz, de
+venir sur leur territoire et d'entrer dans leur ville. Le Sul-
+tan le leur promit. Il reçut également les délégations de
+toutes les tribus du Dir, qui vinrent le saluer lorsqu'il était
+à son campement.
+
+
+Mais, quand il voulut se rendre compte de l'état de l'ar-
+mée avec laquelle il avait quitté Méknès, il s'aperçut qu'il
+n'avait plus que la moitié des troupes du Makhzen, et que,
+sur les contingents des tribus, il n'avait plus avec lui que
+les notables qui étaient restés avec leurs tentes; le reste
+avait déserté, à cause de la longueur de l'expédition, des
+nombreux combats qu'il avait fallu livrer, et du manque de
+provisions. Dans ces conditions, il lui était impossible
+d'entrer à Morrakch, mais, pour témoigner de ses bonnes
+dispositions envers les habitants de cette ville, il leur laissa
+son fils Sîdi Mohammed (Dieu lui fasse miséricorde !) en leur
+disant qu'il l'avait désigné pour être son mandataire auprès
+d'eux; ils en furent satisfaits et s'en réjouirent. L'arbre de
+la dynastie Alaouie était planté pour la première fois à
+Morrakch, qui devint capitale et résidence royale : aupara-
+vant, les Sultans n'avaient voulu rien changer à la situation
+de Méknès.
+
+
+Le Sultan envoya ensuite son autre fils, Moûlay Ahmed,
+qui était plus âgé que Sîdi Mohammed, comme khalifa à
+Rabât Elfeth, en plaçant sous son commandement les tri-
+bus d'Echchaouiya et de Beni Hsen.
+
+
+Peu de temps après, il autorisa Abdelkhaleq 'Adéyyil,
+gouverneur de Fès, à retourner à son poste, mais celui-ci
+tomba malade en route et mourut après son arrivée à
+
+
+234
+
+
+ARCHIVES MAROCAINES
+
+
+Fès: il fut enterré dans la zaouya de Sidi Abdelqader
+Elfèsi.
+
+
+Le Sultan prit ensuite le chemin de Méknès par le Tâdla,
+après un séjour de près d'une année dans le Hoùz. Il arriva
+à sa capitale dans le mois de rabi II 1158. Quand il fut en
+vue de Méknès, il ne voulut pas y entrer, et établit son
+campement à Qaşbat Boù Fekrân. Là, il reçut une députa-
+tion de guerriers de la foi venue de Tanger et composée
+de plus de cent Rifains; avec eux se trouvaient la veuve du
+bacha Ahmed Errîfi et ses deux enfants. Le Sultan accepta
+le présent considérable que lui apportait cette députation,
+mais mit à mort les deux enfants et tous les Rifains venus
+avec eux. Il fit tuer en même temps trois cents Beni Hsen,
+qui étaient venus le féliciter de son retour. Ces actes de
+cruauté détachèrent de lui la population, et provoquérent
+de fâcheux commentaires de la part de son armée et de ses
+sujets, qui ne craignaient pas de les proférer en plein mar-
+ché. Toute la population et les gens de Fès eux-mêmes, sans
+compter les autres, se montrèrent très froids à son égard.
+
+
+Le sultan Moulay Abdallah maltraite les notables Berbers, en
+trahissant les engagements pris par Mohammed Ou Azîz envers
+eux; il les remet ensuite en liberté ¹.
+
+
+Le meurtre des Rifains et des Beni Hsen provoqua même
+chez les Berbers un refroidissement vis-à-vis du sultan
+Moûlay Abdallah: pas un d'entre eux ne vint le saluer.
+Aussi, comme ils possédaient des terrains de culture dans
+les environs de Méknès, le Sultan ordonna aux Abids de
+les saccager, quand la récolte serait mûre. Les Abîds pro-
+cédèrent à la moisson et au battage de leurs grains, et se les
+approprièrent. Cette attitude n'ayant fait qu'augmenter les
+
+
+1. Texte arabe, IV partic, p. 79.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+235
+
+
+velléités de révolte des Berbers contre lui, le Sultan, qui
+s'apercevait de leur froideur à son égard, s'adressa à leur
+chef Mohammed Ou Aziz. Ce personnage avait des rapports
+très amicaux avec le Sultan, qui l'appelait son père. Moham-
+med Ou Aziz avait en effet réuni, pour l'appuyer, les con-
+tingents berbers et avait pris son parti contre son ennemi
+Ahmed Errifi, qui avait fini par ètre tué. Le Sultan lui écri-
+vit pour lui reprocher sa réserve vis-à-vis de lui et le retard
+apporté par ses adeptes à venir se présenter à son poste,
+puisqu'ils étaient ses partisans et ses affranchis. En rece-
+vant cette lettre, Mohammed Ou Aziz se vit dans l'obliga-
+tion d'y répondre; il consulta cependant à ce sujet les
+gens de son clan. Ceux-ci ne partagèrent pas son avis.
+Comme il insistait, ils lui répondirent : « N'as-tu donc pas
+vu ce qui est arrivé à ceux qui se sont rendus auprès de
+lui? Mais tout ira bien », répondit Mohammed, qui les
+pressa tant qu'ils finirent par accéder à son désir et se sé-
+parèrent pour aller réunir leurs cadeaux et désigner les
+membres de la délégation. Quand ils eurent rassemblé ce
+qu'ils purent, ils revinrent auprès de Mohammed et lui firent
+part une seconde fois de leur crainte de guet-apens. « Cela
+ne sera pas, leur dit celui-ci; vous n'êtes point dans les
+mêmes conditions que les autres. » Ils durent se rendre à
+cette raison et se mirent en route avec Mohammed Ou Aziz
+pour la Qaşbat Boù Fekran, où se trouvait le Sultan. Ils
+eurent d'abord une entrevue avec le hajéb, Aboù Moham-
+med 'Abdelouahhab Elyimmoûri. En les voyant arriver,
+celui-ci n'en put croire ses yeux, et se sentit pris de com-
+passion pour ses frères berbers; mais il était trop tard
+pour les renvoyer. Ils étaient une centaine environ, tous
+notables. Ils descendirent de cheval, et après avoir déposé
+leurs armes, ils furent introduits auprès du Sultan. Celui-
+ci était assis sur son tròne au milieu de la citadelle. Quand
+ils eurent terminé leurs salutations, le Sultan leur répon-
+dit qu'ils étaient les bienvenus, et les invita à s'asseoir
+
+
+236
+
+
+ARCHIVES MAROCAINES
+
+
+devant lui. Aussitôt les gardes et les shires du Sultan vin-
+rent se poster derrière eux et les entourèrent. Le Sultan
+se mit alors à leur reprocher de se livrer au brigandage
+sur les routes, de faire des incursions sur les faibles tri-
+bus, arabes et autres, de voler les marchandises des négo-
+ciants; il leur reprocha aussi la façon dont ils avaient traité
+les soldats des souverains qu'ils avaient dévalisés et enle-
+vés. Après leur avoir rappelé les anciennes inimitiés et
+tous leurs méfaits, il ordonna à ses gardes de saisir les
+envoyés; ceux-là fondirent aussitôt sur eux comme des
+oiseaux de proie, et, en un clin d'œil, ils furent présentés
+au Sultan liés avec des cordes. Mohammed Ou Azîz seul
+ne fut pas arrêté : « Sire, s'écria-t-il, si c'est une trahison
+après l'aman, je ne l'ai pas méritée ! - Ces gens, répondit
+le Sultan, ont désobéi à la religion: il est donc licite de
+prendre leurs biens et leur vie. Ils se sont soustraits à
+l'obéissance et sont révoltés. Je suis fatigué d'eux. Si je
+reviens maintenant à d'anciens errements, la faute en
+est à eux seuls. Je veux mettre face à face ce bouc noir (les
+'Abîds) et ce bélier blanc (les Berbers); l'un des deux périra
+et alors je serai débarrassé de ses fureurs; quant à l'autre,
+je saurai le tenir dans ma main. Si tu n'étais pour moi
+comme un père, je ne t'aurais pas dévoilé le secret de mon
+cœur. Va-t'en, maintenant, sous la protection de Dieu:
+aucun mal ne te sera fait. - Je ne partirai pas d'ici, répondit
+Mohammed; je veux rester avec mes frères partout où ils
+seront: s'ils meurent, je mourrai avec eux et votre trahi-
+son sera complète; s'ils restent sains et saufs, je serai
+sauvé avec eux. On ne pourra pas dire que je les ai amenés
+ici pour les faire égorger, et que moi je suis resté sain et
+sauf. Comment puis-je maintenant m'en retourner auprès
+de leurs enfants? Quel pays pourra me protéger contre
+leurs familles ? Où pourrai-je aller? Si leur meurtre est iné-
+vitable, il vaut mieux pour moi que vous me tuiez avec
+eux. Il n'y aura pas de faute, ni de honte pour vous à le
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+237
+
+
+faire, puisque c'est moi qui vous les ai amenés, qui les ai
+poussés devant vous, quoiqu'ils m'eussent prévenu de tout
+ce qui allait arriver, et que je ne les aie pas écoutés. » En
+entendant ces paroles magnanimes, le Sultan fut saisi par
+la force de leur vérité et se mit à y réfléchir. Puis se tour-
+nant vers le hajéb Abdelouahhab, il lui dit : « O Abdel-
+ouahhab, il n'y a pas de bien à espérer d'un homme qui en
+appelle un autre son père, et qui refuse d'accueillir son
+intercession en faveur de ses gens: mettez-les en liberté! »
+Ces Berbers furent élargis: ils sortaient pour ainsi dire
+de leurs tombeaux. Reprenant aussitôt leurs chevaux, ils
+rentrèrent dans leurs campements. Ils auraient pu dire ces
+paroles de l'Arabe qui avait été bâtonné et emprisonné par
+Elhaddjadj pour avoir uriné à Quâsit, puis mis en liberté:
+<<Quand nous aurons dépassé la ville de Quâsit, nouspour-
+rons c... et uriner, nous n'aurons plus rien à craindre. »
+
+
+Les Berbers viennent attaquer à Boû Fekrân le Sultan,
+qui s'enfuit à Méknės  .
+
+
+Une fois arrivés à leurs campements, les Berbers allè-
+rent trouver Mohammed Ou Azîz, et lui reprochèrent de
+les avoir exhortés à se rendre auprès du Sultan et à se rap-
+procher de lui, puisqu'ils avaient été traités ainsi, alors
+qu'ils auraient pu se passer de cette démarche. « Nous
+étions morts et nous voici ressuscités, lui dirent-ils: main-
+tenant, il faut que nous nous vengions! - Faites comme
+il vous plaira, répondit Mohammed Ou  Azîz. » Après avoir
+délibéré et s'ètre concertés sur ce qu'il y avait à faire, ils
+convinrent de se mettre en campagne contre le Sultan
+trois jours après et de brûler la tente de quiconque dans la
+tribu refuserait de marcher. Mohammed Ou Azîz leur dit:
+
+
+1. Texte arabe, IV partie, p. 80.
+
+
+238
+
+
+ARCHIVES MAROCAINES
+
+
+<<< Gardez-vous d'attaquer sur les routes; pour le reste,
+faites ce que vous voudrez. » Après cette délibération, cha-
+cun rentra dans son douwar pour se préparer au combat.
+Le quatrième jour, tous, jemes et vieux, furent exacts au
+rendez-vous. Le Sultan, qui était à Boù Fekrån, fut toutsur-
+pris quand il vit des étendards apparaître du côté d'Elha-
+jéb, et avec eux des cavaliers descendant les vallées et les
+ravins. Il n'eut que le temps de faire charger ses bagages,
+de faire monter ses femmes sur des mules et de les expé-
+dier devant lui avec un reha de msakhrin à pied, qu'il fit
+suivre d'un reha de msakhrin à cheval. II partit ensuite
+avec son cortège, et un troisième reha de Abids à cheval,
+qui venait derrière lui. Il marcha dans le lit de la rivière;
+les troupes le flanquaient à droite et à gauche en côtoyant
+la rivière, et chaque fois que les cavaliers berbers
+venaient charger les msakhrîn, le reha des cavaliers et le
+cortège du Sultan, ils recevaient une grêle de plomb, qui
+abattait de 40 à 50 hommes. Ce combat ne cessa qu'au
+moment où la colonne arriva à Bab Elqasdir et entra à
+Méknès. Les Abids avaient perdu environ 300 hommes et
+les Berbers près de 500, à ce que l'on dit. Ceux-ci ramas-
+sèrent leurs morts et les enterrèrent après les avoir
+enveloppés dans les tentes des Abids, qui étaient entre
+leurs mains (ils n'avaient pu s'emparer d'autre chose . Cette
+affaire eut lieu dans le milieu de l'année 1159.
+
+
+Nous avons dû employer ici différents vocables, entre
+autres reha et msakhrîn. Ces mots servent à désigner des
+portions de l'armée de cette dynastie fortunée. Il est néces-
+saire d'en indiquer ici la signification usuelle.
+
+
+L'armée impériale de la dynastic chériſienne se divise
+actuellement en trois groupes, qui sont les ashab, les
+msakhrîn, et le guéïch.
+
+
+Les ashâb sont cette partie des troupes qui accompa-
+gnent le Sultan dans ses séjours à la capitale et dans ses
+voyages, et ne l'abandonnent jamais. Ce sont ceux qui
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+239
+
+
+remplissent les diverses fonctions makhzéniennes. Parmi
+les ashab, il y a les secrétaires kouttab qui sont placés
+sous la surveillance du grand-vizir elouzir ela dam), et les
+diverses catégories de serviteurs, qu'il serait trop long
+d'indiquer, et qui ont chacune leur chef: nous citerons
+cependant les gens chargés du lit (ferrûch) du Sultan, les
+intendants qui s'occupent de la nourriture et de la boisson,
+les gens de l'ablution, etc.
+
+
+Les msakhrîn demeurent également auprès du Sultan,
+quand il séjourne à la capitale, ou quand il voyage. Ils sont
+le plus souvent montés, mais il y en a aussi qui sont à
+pied. Puissants et avantagés, ce sont eux qui sont envoyés
+pour s'occuper des affaires importantes, car ils sont experts
+dans les questions qui touchent le Makhzen, ainsi que l'in-
+dique leur nom (le msakhrîn. Lorsque le Sultan sort à che-
+val, ou fait une expédition, ils se séparent en deux groupes:
+l'un, dans lequel se trouvent des 'Abîds, marche derrière
+lui, parce que ce sont des affranchis, et l'autre, qui com-
+prend des Oûdèya et des Chraga, marche devant lui.
+
+
+Le guéïch, comme l'indique son nom, est la pépinière
+du tout: c'est dans son sein que sont choisis les groupes
+$(taifa)$ précédents. Il forme l'armée du Sultan et son Diouân.
+La majorité des hommes qui le composent sont dispersés
+dans des campements ou dans des villes spéciaux, et quand
+le Sultan veut faire une expédition, il les convoque en tota-
+lité ou en fractions, à tour de rôle, suivant une règle éta-
+blie entre eux.
+
+
+Le reha est le nom appliqué à un groupe de mille
+hommes du guéïch, à cheval ou à pied. Ce chiffre peut être
+augmenté ou diminué suivant les cas. Dieu sait quelle est
+la vérité!
+
+
+210
+
+
+ARCHIVES MAROCAINES
+
+
+Révolte des Abîds contre le sultan Moûlay 'Abdallâh qui se trans-
+porte à Fès, tandis que les  Abids du Diouân quittent Mechra
+Erremla pour se fixer à Méknės  .
+
+
+En revenant à Méknès, les Abîds qui étaient à Boû
+Fekrân avec le sultan Moulay Abdallah retrouvèrent leurs
+frères qui étaient restés dans la capitale, et leur commu-
+niquèrent leurs ressentiments contre le Sultan. Exhalant
+toute la haine qu'il leur avait inspirée, ils leur rapportèrent
+les paroles qu'il avait dites à Mohammed Ou Azîz: « Je
+veux mettre aux prises ce bouc noir et ce bélier blanc. >>>
+Ces mots, passés de bouche en bouche, causèrent parmi
+eux une grande émotion. « Nous ne pouvons plus douter,
+dirent-ils, que cet homme n'a d'autre désir que de nous
+exterminer: examinez ce que vous avez à faire, ou bien
+laissez-le agir.  Ils écrivirent ensuite au Diouân, pour
+annoncer à leurs contribules les propos tenus à leur sujet
+par le Sultan et les consulter sur la décision à prendre à
+son sujet. Prévenu par un des  Abîds de Méknès, espion du
+Sultan, des conciliabules qui avaient eu lieu entre les sol-
+dats, et de leur lettre aux hommes du Diouân, le Sultan
+écrivit en toute hâte aux Oûdêya de Fès Eljedîd, en leur
+disant que s'ils tenaient au fils de leur sœur, Abdallah,
+ils devaient immédiatement se rendre auprès de lui. Puis
+il fit réunir ses effets mobiliers, ses matelas, charger son
+argent, seller ses chevaux et réunir son infanterie, et dit
+à ses ashâb que le lendemain on retournerait à Boû
+Fekrân. Au moment du acha, 400 cavaliers du guéïch
+des Oûdêya arrivaient à Bab Elqasdir. Il leur confia
+ses bagages, son argent et ses femmes, et monta à cheval
+avec ses fidèles. On marcha toute la nuit; le soleil n'était
+
+
+1. Texte arabe, IVe partie, p. 81.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+241
+
+
+pas encore levé quand on arriva à Fès Eljedid. Le Sultan
+se rendit à sa maison et s'y mit à l'abri.
+
+
+Quant aux Abids du Diouân, en recevant la lettre de leurs
+camarades de Méknès, ils se dirent après l'avoir lue: « Il
+ne convient pas que nous demeurions au milieu des Beni
+Hsen: nous ne servons de rien à nos camarades, qui, eux,
+ne nous servent pas davantage. » Ils résolurent alors de
+décamper et d'aller s'établir à Méknès. Trois jours après,
+ils se mettaient en route, abandonnant Mechra Erremla,
+pour le grand repos des habitants de cette contrée, et prin-
+cipalement de Salé et de ses environs, qui avaient à se
+plaindre de leur oppression et avaient subi plusieurs
+affronts de leur part. Arrivés à Méknès, ils s'établirent
+dans la ville, à la qaşba dans l'écurie (stabl), à Berrima,
+à Hedrâch, et dans toutes les places étendues, et retrou-
+vèrent leurs contribules.
+
+
+Le jour de la fète de la rupture du jeûne de l'année 1159,
+ils envoyèrent auprès du Sultan, à Fès, une députation
+composée de leurs qâïds, accompagnés du qâdi, des savants
+et des chérîfs de Méknès. Après avoir assisté à la fête selon
+l'usage, ils lui demandèrent de revenir à Méknès et s'excu-
+sèrent en lui demandant grâce. Le Sultan le leur promit
+et leur distribua de l'argent; puis ils retournèrent à
+Méknès. Arrivés à Eljedîda, près de la ville, ils furent
+assaillis par les Berbers, qui les dépouillèrent entièrement
+et ne respectèrent que le qâdi Belqâsém, auquel ils lais-
+sèrent sa mule. Le matin, toute la députation était à la
+porte de Méknès: ils étaient complètement nus les uns en
+présence des autres.
+
+
+ARCH. MAROC.
+
+
+16
+
+
+242
+
+
+ARCHIVES MAROCAINES
+
+
+Complot de Mohammed Ou Aziz contre le Sultan, qui est aban-
+donné par les gens de Fès et par les tribus¹.
+
+
+Quand les Berbers furent revenus dans leur pays après
+P'affaire de Boû Fekran, Mohammed Ou Azîz écrivit aux
+gens de Fès, pour se plaindre de la tyrannie du sultan
+Moûlay Abdallah et leur faire part de la façon dont il avait
+trahi les engagements qu'il avait pris envers ses contri-
+bules en les faisant tomber dans un guet-apens. Il leur
+demandait de plus de s'allier à lui. Les gens de Fès accep-
+tèrent et entrèrent dans le clan des Berbers. Ou 'Aziz
+écrivit dans le même sens aux Arabs du Garb, Sofian et
+Beni Mâlék, dont le chef était alors Habib Elmalki ; ils lui
+répondirent : « Nous vous suivrons: nous ferons la guerre
+et la paix avec vous. » De tous côtés, la rupture fut com-
+plète et la lutte commença entre les Oûdêya et les gens de
+Fès. Peu de jours après, on apprit que la caravane des
+pèlerins était arrivée à Tâza et qu'elle s'y trouvait retenue.
+Les gens de Fès demandèrent aussitôt assistance aux Ber-
+bers, qui leur envoyèrent de suite cinq cents cavaliers pour
+marcher sur Tâza. Ils passèrent par le pays des 'Arabs
+Elhayaïna, qui se joignirent à eux et entrèrent dans leur
+clan. Ils partirent tous pour Tâza et délivrèrent les pèlerins
+qu'ils ramenèrent à Fès. La caravane fit son entrée dans la
+ville par Bab Elfetoûh, et les Berbers campèrent avec les
+Hayâïna dans les oliviers. Un certain nombre d'entre eux
+entrèrent en ville pour y faire des achats. Les Oûdêya en
+profitèrent pour les disperser et en tuèrent un certain
+nombre. Le Sultan ordonna de suspendre les têtes des
+morts au mur de la qaşba des Chråga.
+
+
+Peu après, les gens de Fès commencèrent à obéir de
+nouveau au Sultan et firent effectuer une démarche auprès
+
+
+1. Texte arabe, IV partie, p. 82.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+243
+
+
+de lui. Moûlay Abdallah leur fit répondre de venir le
+trouver. Les oulama, les chérifs et les notables se ren-
+dirent auprès de lui; après les avoir reçus, il leur retraça
+leurs méfaits, leur adressa des reproches et leur imposa
+diverses conditions, parmi lesquelles, celle de lui remettre
+les grains appartenant aux gens du Garb qui étaient emma-
+gasinés chez eux, de détruire leurs maisons, de construire
+avec les matériaux de démolition Dâr Eddebîbag, et de
+choisir entre être guéïch ou nûïba. Ils lui répondirent qu'ils
+allaient conférer de ces propositions avec leurs conci-
+toyens, et qu'ils lui feraient connaitre ensuite leur déci-
+sion. Mais aussitôt arrivés en ville, ils fermèrent les portes
+et dirent qu'ils n'accepteraient rien de tout cela. La guerre
+recommença une nouvelle fois, le prix des denrées aug-
+menta, et les calamités s'appesantirent sur la population.
+
+
+Le 7 doûlbeddja 1159, la populace de Fès s'empare des
+caftans appartenant au Makhzen qui étaient au Fondaq
+Ennejjârîn, et dont l'amîn Elhaddj Elkhayyâț Adéyyil avait
+la garde. On voulut le contraindre à livrer l'argent appar-
+tenant au Makhzen qu'il avait entre les mains : il se débar-
+rassa de cette exigence moyennant 3.000 milsqâls, et fut
+relâché ensuite, car il avait été emprisonné. Il y avait
+3.000 caftans, que l'on distribua aux soldats de la ville, qui
+les revêtirent pour la fète des victimes.
+
+
+La guerre continuait entre les gens de Fès et les Oùdêya
+qui avaient avec eux tous les partisans du Sultan. Dans les
+premiers jours du mois de djoumada Ior 1160, les tribus
+berbères et les tribus du Garb vinrent participer avec les
+gens de Fès à la lutte contre le Sultan. Mohammed Ou  Azîz
+et les Berbers installèrent leur campement au Djebel Tgât,
+tandis que Habib Elmâlki, avec les gens du Garb, les Tlig
+et Elkhlot, s'établissait à Dâr Eddiyâf. Les Oûdêya se reti-
+rèrent à Fès Eljedid et les Abids à la Qaşba des Chråga.
+Le Sultan était à Dâr Eddebîbaġ. La situation était critique
+pour lui et pour son parti.
+
+
+244
+
+
+ARCHIVES MAROCAINES
+
+
+Dès le lendemain matin, Habib monta à cheval avec ses
+Arabs et alla attaquer le Sultan à Dar Eddebîbag, suivi par
+les Berbers. En arrivant au fossé qui entoure cette rési-
+dence, il apprit que les Berbers se livraient au pillage de
+sa Mhalla. Il revint aussitôt sur ses pas, traversa la rivière
+et retourna dans son pays. Quant aux Berbers, lorsqu'ils
+eurent fini de piller la Mhalla des gens du Ġarb, ils s'en
+fuirent dans la direction de Sâïs. On prétend que le Sultan
+avait, pendant la nuit, soudoyé à prix d'argent Mohammed
+Ou Aziz pour qu'il préparât la défection de ces troupes et
+les dispersât. Il y réussit en faisant piller la Mhalla des
+gens du Garb. Avec une tête d'àne on peut racheter le sabot
+d'un cheval.
+
+
+Après la dispersion de toutes ces troupes qui retour-
+nèrent dans leur pays, les gens de Fès combattirent encore
+pendant plus de deux ans, comme nous le verrons. Dans
+l'intervalle, ils envoyèrent des émissaires auprès de Moûlay
+Elmostadi qui était dans les environs de Tanger, pour lui
+dire que, s'il venait chez eux, ils le proclameraient et lui
+obéiraient tous. Mais ce prince renvoya ces délégués avec
+la moelle des jarrets et avec une promesse de 'Ourqoub.
+
+
+Motifs pour lesquels le sultan Moulay Abdallah envoya des
+armées contre les habitants du Garb, qui rentrerent sous son
+obéissance¹.
+
+
+Dans l'année 1160, tandis que les Oûdêya faisaient la
+guerre aux gens de Fès, une députation de Arabs Beni
+Hsen vint se plaindre au sultan Moûlay Abdallah de ce
+que les gens du Garb, en s'en retournant avec tous leurs
+contingents dans leur pays, avaient passé par leurs cam-
+pements et les avaient attaqués et pillés. Le Sultan,
+
+
+1. Texte arabe, $IV^{e}$ partie, p. 83.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+245
+
+
+oubliant les ressentiments qu'il nourrissait contre eux, leur
+envoya une armée nombreuse, composée de soldats des
+'Abids et des Oûdêya, avec mission de se jeter sur les gens
+du Ġarb, de piller leurs biens et de ne leur rien laisser.
+Quand ils apprirent que l'armée se mettait en marche
+contre leur pays, les habitants du Garb s'enfuirent rapide-
+ment de leur territoire et, suivis par les tribus de Tlig et
+d'Elkhlot, se sauvèrent à Elarèïch, où ils se fortifièrent.
+L'armée suivit leurs traces et vint investir la ville, qu'elle
+assiégea pendant trois mois, durant lesquels périrent de
+faim tous les troupeaux des habitants. Un détachement
+d'Oûdêya vinrent après cela leur apporter l'amân du Sul-
+tan, en même temps que son Coran et son chapelet, et con-
+clurent la paix avec les assiégés. L'armée se retira et les tri-
+bus se rendirent avec les Oùdèya auprès du Sultan, qui,
+après avoir accepté leurs hediyas, leur pardonne et leur
+donne comme gouverneur leur chef Habib Elmalki, auquel
+fut également confié le commandement des tribus du
+Djebel.
+
+
+L'armée d'El'arêïch alla camper devant Qşar Ketama;
+les habitants de la ville lui donnèrent toute l'hospitalité
+possible, en pourvoyant à la nourriture des hommes et des
+animaux. Malgré cela, le lendemain, les troupes péné-
+traient dans la ville et la mirent à sac: elles se livrèrent
+au pillage, à des enlèvements et à des meurtres, et com-
+mirent pendant six jours les plus graves excès. La popu-
+lation tout entière fut attristée de ces actes et les désap-
+prouva (moharrem 1164).
+
+
+Attaque des Oûdêya par les Berbers, soutenus par la population
+de Fès 1.
+
+
+Au mois de djoumâda II 1161, le Sultan décida une expé-
+
+
+1. Texte arabe, IV partie, p. 83.
+
+
+246
+
+
+ARCHIVES MAROCAINES
+
+
+dition contre les Berbers, et se rendit à Boù Fekrån où il
+établit son campement. Il espérait que ses soldats vien-
+draient l'y rejoindre comme d'habitude, mais personne ne
+répondit à son appel. Il fit convoquer les Abids, qui lui
+répondirent qu'ils ne se rendraient auprès de lui que
+lorsque les Oùdèya et les tribus seraient allés se joindre
+à lui. En présence de la résistance générale, il rentra dans
+son palais et abandonna son projet. En apprenant son
+départ, les Berbers réunirent une expédition pour tenter
+de s'emparer de sa personne. Sur les conseils de Moham-
+med Ou Aziz qui leur dit : « Mon avis est que nous devons
+descendre dans la plaine de Sâïs, et couper les communi-
+cations entre le Sultan et les 'Abids », ils s'avancèrent jus-
+qu'à la plaine de Sâïs et y établirent leur campement. Ils
+vinrent jusqu'auprès de Fès Eljedîd saccager les cultures
+et attaquer les Oûdéya, dont ils pillèrent les troupeaux et
+les grains, et qu'ils tinrent étroitement bloqués. Ils arri-
+vèrent ainsi à rejoindre les gens de Fès et entrèrent dans
+la ville, où ils se mirent à faire du commerce, vendant et
+achetant, pendant dix jours; après quoi ils s'en retournè-
+rent, pleins de joie, dans leurs tribus.
+
+
+Le 1er rejeb, on reçut la nouvelle que les Rifains de
+Tanger avaient arrêté Moùlay Elmostadi, qui vivait dans
+leur pays, lui avaient enlevé ses chevaux, ses effets et son
+argent, en altendant le moment de le remettre à son frère
+Moulay Abdallah. Ils avaient ainsi agi envers lui parce
+qu'il opprimait la population du Fahs et de Tanger, et
+parce qu'il avait fait arrêter le qâïd Abdelkérîm ben Ali
+Errifi, frère de Ahmed ben Ali dont nous avons parlé, lui
+avait pris son argent et lui avait crevé les yeux. Quant
+aux gens de Tétouan, ils ne lui avaient pas juré fidélité et
+n'avaient pas fait un seul pas vers lui.
+
+
+Au mois de cha bân, les Oûdèya vinrent brûler les
+battants de Bâb Elmalıroùq pendant la nuit, mais les gar-
+diens s'en aperçurentà temps et les empêchèrent de fran-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+247
+
+
+chir la porte. Le lendemain, on plaça deux nouveaux bat-
+tants.
+
+
+Retour des gens de Fès à l'obéissance du sultan Moûlay 'Abdal-
+lâh; établissement de la paix entre eux et les Oûdêya¹.
+
+
+Las de ce siège qui durait depuis si longtemps, ruinés
+par l'hostilité de leurs voisins les Oùdèya, et fatigués de
+la guerre, les gens de Fès se rendirent compte qu'il fallait
+faire la paix et obéir au Sultan. Comme parmi cux se trou-
+vait un chérif du Tafilèlt, ils l'envoyèrent auprès du Sul-
+tan en qualité de négociateur, et le chargèrent d'une lettre
+où ils présentaient leurs excuses et exprimaient leur repen-
+tir. Le Sultan s'en montra satisfait et heureux, et leur écri-
+vit une lettre destinée à écarter leurs appréhensions et
+calmer leurs haines. Il leur jura que jamais il n'avait donné
+l'ordre de les combattre, ni de leur faire du mal, et que
+tout cela provenaitdes Oùdėya, qui l'avaient fait spontané-
+ment. A la réception de la lettre du Sultan, le calme se fit
+dans leurs cours et ils furent remplis de joie. Ils dési-
+gnèrent aussitôt un certain nombre de docteurs, de ché-
+rifs et de gens respectables pour se rendre auprès du
+Sultan à Méknès. Cette députation arriva dans la capitale
+au mois de chouwal. Le Sultan leur fit un accueil aimable
+et leur distribua des cadeaux; il leur déclara qu'il leur
+pardonnait et était satisfait d'eux. Cette réception leur fut
+agréable, et ils retournaient auprès de leurs compatriotes,
+pour leur apprendre la bonne nouvelle.
+
+
+Puis la paix fut faite entre eux et les Oùdèya au tom-
+beau de Moulay Idris (Dieu soit satisfait de lui!) Les portes
+de la ville furent alors ouvertes, après un siège qui avait
+duré deux ans et trois mois. Ces faits se passaient pen-
+
+
+1. Texte arabe, IV partie, p. 83.
+
+
+248
+
+
+ARCHIVES MAROCAINES
+
+
+dant le mois de doûlqa'da 1161. Lors de la fête, les gens
+de Fès voulurent aller porter cette nouvelle au Sultan qui
+était à Méknès, mais rebroussèrent chemin, parce qu'ils
+avaient peur des Berbers.
+
+
+Les Abids se révoltent contre le sultan Moulay Abdallâh et
+proclament son fils Sîdi Mohammed; motifs de leur conduite 1.
+
+
+Les Berbers avaient vu d'un mauvais œil les habitants
+de Fès obéir de nouveau au sultan Moûlay 'Abdallah et se
+réconcilier avec les Oûdêya, parce que le désordre cessait.
+Quand ils apprirent en outre que le Sultan convoquait les
+'Abîds en vue d'une expédition contre eux, ils cherchèrent
+un moyen de semer la division parmi leurs ennemis. Ils
+commencèrent à se livrer à des incursions sur les Abîds
+de Méknès, à les bloquer dans la ville, et à voler leurs
+enfants dans les potagers et les vergers. Les Abîds leur
+écrivirent pour leur demander à vivre en paix et en bonne
+harmonie avec eux: ils leur répondirent qu'ils agissaient
+ainsi d'après les ordres du Sultan. Les Abîds ne conçurent
+aucun doute sur leur sincérité; ils crurent aussitôt que
+le Sultan voulait les punir de leur conduite envers lui et du
+peu d'empressement qu'ils avaient mis à se rendre auprès
+de lui pour combattre les Berbers, lorsqu'il était campé
+à Boû Fekrân, ce qui l'avait forcé à rentrer à Méknès.
+Tous furent d'avis de se saisir du Sultan et de le déposer.
+Mais le Sultan, informé de leur résolution, s'enfuit de
+Méknès à Dâr Eddebîbag, où il était en lieu sûr. Ceci se
+passait au mois de şafar 1162.
+
+
+Se sentant impuissants contre les Berbers, les Abids
+leur proposèrent la paix. Les Berbers accueillirent favo-
+rablement leur proposition, à condition qu'ils proclame-
+
+
+1. Texte arabe, IV partie, p. 84.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+249
+
+
+raient Sidi Mohammed ben Abdallah. Les Abids jurèrent
+aussitôt fidélité à ce prince à Méknès et lui firent porter
+leur béïa à Morrakch, où il se trouvait alors, par un
+groupe de notables d'entre eux; ils firent en même temps
+prononcer la khotba en son nom à Méknès et dans le
+Zerhoùn. Le Sultan était pendant ce temps, à Dâr Eddebî-
+bag, réduit à l'impuissance. Quand la députation des
+Abids arriva, Sidi Mohammed ben Abdallah repoussa
+leur béï'a et leur reprocha leur conduite envers son père.
+Il les concilia en leur donnant un peu d'argent, mais
+refusa de prèter la moindre attention à leur serment, car
+il avait une grande piété filiale et faisait tous ses efforts
+pour faire plaisir à son père, à qui il envoya en cadeau,
+dans le mois de şafar de cette année-là, une somme d'ar-
+gent s'élevant, dit-on, à 30.000 mitsqals. La députation
+des Abids revint, désespérée de la réponse que leur avait
+faite Sîdi Mohammed. Malgré cela, on continua à pronon-
+cer la khoțba au nom du prince à Méknės et dans le
+Zerhoûn.
+
+
+Se voyant abandonné, tandis que les Abids et les Ber-
+bers tournaient leurs regards vers son fils Sidi Moham-
+med en qui ils plaçaient leurs espérances, le sultan Moù-
+lay Abdallah (Dieu lui fasse miséricorde!) voulut sauver
+sa situation, et chercha à se réconcilier avec ses sujets et
+à les attirer à lui. Dès le mois de cha bân, il fit proclamer
+dans les marchés de Fès que les Abîds qui ne se ren-
+draient pas auprès de lui à Dâr Eddebîbag, à un moment
+donné, n'auraient à faire des reproches qu'à eux-mêmes.
+
+
+Les Abîds qui étaient à Fès se présentèrent tous : le
+Sultan donna cinq dinars à chacun d'eux en lui disant :
+Faites prévenir vos frères de Méknès: tous ceux d'entre
+eux qui viendront à moi recevront la même chose que
+vous. » Mais ces propositions ne firent qu'augmenter leur
+aversion pour le Sultan, car ils écrivirent aux Berbers
+qui étaient à Sâïs pour leur dire de tuer tous les 'Abids
+
+
+250
+
+
+ARCHIVES MAROCAINES
+
+
+qu'ils rencontreraient sur le chemin de Fès, et procla-
+mèrent la déposition du Sultan. Moulay Abdallah con-
+voqua alors Mohammed Ou Aziz, chef des Berbers. Séduit
+par ses promesses, celui-ci se rendit avec une députation
+de ses contribules, dans le mois de ramadan, auprès du
+Sultan, qui leur donna 10.000 dinars, et leur fit encore
+remettre pareille somme lorsqu'ils vinrent assister à la
+fête. Les Oùdèya et les gens de Fès reçurent également
+10.000 dinars. Les Abids persistèrent dans leur rébellion
+contre le Sultan, mettant autant d'impétuosité à s'éloigner
+de lui qu'à s'en rapprocher.
+
+
+Sidi Mohammed ben 'Abdallâh vient de Morrâkch à Méknės et
+intervient pour réconcilier les 'Abids avec son père (Dieu leur
+fasse miséricorde à tous deux!)¹
+
+
+Dans les derniers jours de djoumada Ier 1163, Moûlay
+Mohammed, fils du sultan Moulay Abdallah, partit de
+Morrakch et vint à Méknès: comme les 'Abids faisaient
+encore prècher en son nom, il leur adressa des reproches
+à ce sujet et leur dit : « Je n'ai rien à voir avec vous, et
+je ne suis pas responsable de ce que vous faites, car je
+ne suis qu'un serviteur de mon père.  Ils cessèrent de
+faire la prière en son nom et, revenant de leur égare-
+ment, renouvelèrent leur serment de fidélité au Sultan.
+En se soumettant de nouveau à lui, ils sauvaient leur situa-
+tion. C'était la septième fois que les Abids juraient fidé-
+lité à Moulay Abdallah: ils l'avaient déjà déposé six fois,
+comme nous l'avons rapporté.
+
+
+Quand Sidi Mohammed eut accompli la mission qu'il
+s'était donnée de faire rentrer les 'Abids dans l'obéissance
+à son père, il quitta Méknès à la tète de l'armée qu'il avait
+
+
+1. Texte arabe, IVe partie, p. 84.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+251
+
+
+amenée avec lui de Morrâkch et qui se composait d'environ
+4.000 hommes, sans compter les délégués des Abids qui
+étaient revenus avec lui. Il se rendit auprès de son père
+à Dâr Eddebibag. Les Oùdèya et les gens de Fès allèrent
+à sa rencontre et se réjouirent de son arrivée. En arrivant
+auprès du Sultan, il le salua et, après lui avoir offert un
+présent somptueux, intercéda en faveur des Abids. Le
+Sultan leur accorda leur grace, mais lui demanda de ne
+pas passer la nuit à Dar Eddebibag. Sidi Mohammed obéit
+respectueusement et alla camper à Ras Elma; le lende-
+main, il se mettait en routede bonne heure pour Morrakch.
+Les Abîds se présentèrent alors. En même temps le Sul-
+tan reçut une députation envoyée par les Guerouan et
+les Beni Mțir, auxquels il donna une gratification de
+20.000 mitsqals. Quand il reçut les qâïds des Abids de
+Méknès, il ne leur fit aucun don.
+
+
+Cette année-là, mourut à Fès Moùlay Ahmed, fils du
+sultan Moûlay Abdallah; il fut enterré dans le cimetière
+des chérîfs. (Dieu lui fasse miséricorde !)
+
+
+Les Abids s'éloignent pour la seconde fois du sultan Moulay Ab-
+dallâh et vont chercher protection auprès de son fils Sidi
+Mohammed à Morrakch; motifs de leur conduite ¹.
+
+
+Mécontents de voir que le sultan Moulay Abdallah, qui
+avait gratifié les Beni Mțir et les Guerouân de 20.000 mits-
+qûls, ne leur avait rien distribué, les Abids se révoltèrent
+comme d'habitude contre lui et prirent à son égard une atti-
+tude insolente. Ils convinrent de se rendre auprès de son fils
+Sîdi Mohammed à Morrakch. Arrivés dans le mois de doùl-
+qa'da de l'année 1164, ils tinrent à ce prince le langage
+suivant: << Vous serez notre Sultan, sinon nous proclame-
+
+
+1. Texte arabe, IV partie, p. 85.
+
+
+252
+
+
+ARCHIVES MAROCAINES
+
+
+rons votre oncle Moûlay Elmostadi. >> Puis ils se plaigni-
+rent de l'attitude indifférente de son père qui les tenait à
+distance, réservant toute sa générosité pour les Berbers,
+pour les ennemis du gouvernement. Sîdi Mohammed, pour
+les calmer, leur distribua un peu d'argent, puis leur remit
+pour son père une lettre, dans laquelle il les recommandait
+à sa bienveillance. Ils s'en retournèrent satisfaits. Pendant
+ce temps, le Sultan, à la nouvelle du départ des Abids pour
+Morrakch, avait donné 10.000 douros aux Oûdèya et
+3.000 douros aux Abîds qui étaient avec lui. Lorsque les
+Abids de Méknės lui apportèrent la lettre de son fils, il
+leur pardonna et leur distribua 20.000 douros. La réconci-
+liation ainsi effectuée entre le Sultan et les Abîds,
+ceux-ci partirent pour Méknès entièrement gagnés à sa
+cause.
+
+
+Dans cette même année, Sidi Mohammed envoya de
+Morrakch à son père un présent, qu'il lui fit apporter par
+un certain nombre de ses serviteurs. Le Sultan fit à cette
+occasion l'éloge de son fils et prononça des vœux pour
+lui.
+
+
+On apprit aussi dans le courant de cette année que les
+gens de Tétouan avaient assassiné leur gouverneur,
+Elhaddj Mohammed Atmîm. « Vous aviez vous-même
+choisi cet homme pour gouverneur, dit le Sultan aux habi-
+tants de cette ville qui vinrent lui demander pardon de cet
+acte, et vous l'avez tué. Désignez maintenant qui vous
+voudrez. » Leur choix s'étant porté sur Aboû Abdallah
+Elhaddj Mohammed ben Omar Elouaqqach, celui-ci
+fut nommé gouverneur, et ils s'en retournèrent dans
+leur pays.
+
+
+En 1165, les gens de Tétouan vinrent auprès du sultan
+Moûlay Abdallâh pour assister à la fête du Mouloud glo-
+rieux, et lui apportèrent une hédiya de 30.000 milsqals. Ils
+étaient accompagnés de l'ambassadeurd'Espagne, qui venait
+demander la liberté des captifs de sa nation et qui offrit au
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+253
+
+
+Sultan un présent de 100.000 douros et des pièces de soie,
+de drap et de toile en rapport avec cette somme. Le Sultan
+accepta l'argent, mais répondit à l'ambassadeur qu'il n'ac-
+cèderait à sa demande que lorsqu'il lui amènerait leurs
+captifs musulmans. Il distribua une partie de cet argent
+aux Abids et à leurs femmes, à raison de 2 douros par
+tête: ils étaient 2.200.
+
+
+Dans l'année 1166, les Abids de Méknès étant venus
+célébrer la fête avec le Sultan, celui-ci leur donna
+10.000 douros.
+
+
+Les gens de Fès se mirent à acheter des chevaux et des
+armes en très grande quantité.
+
+
+Dans cette année-là, un traité fut conclu entre le Sultan
+et la nation des Estados, qui sont formés de sept tribus
+flamandes. Ce traité comprend vingt-deux articles, qui
+stipulent la conclusion de la paix et de la sécurité entre les
+deux pays, à la faculté pour la nation des Estados d'établir
+où ils voudront, dans notre pays, des consuls qui doivent
+donner leur signature, appelée passeport, à nos bateaux qui
+se rendront dans leur pays, la réciprocité des mèmes avan-
+tages en notre faveur, etc.
+
+
+Dans la même année approximativement, les chrétiens
+d'Eljedîda attaquèrent Azemmoûr et pénétrèrent pendant
+la nuit dans le mausolée du chéïkh Bou Chaib, où ils
+tuèrent près de 50 habitants de la ville. Ceci eut lieu dans
+la nuit du vendredi, que les habitants d'Azemmoûr ont
+l'habitude de passer dans le mausolée de ce chéïkh. Les
+chrétiens d'Eljedîda étaient au courant de cet usage, c'est
+ainsi qu'ils purent pénétrer à l'improviste avec leurs
+armes; après avoir éteint les lampes, ils se mirent à tuer;
+et comme on était dans l'obscurité, les musulmans eux-
+mêmes se tuèrent entre eux. Les chrétiens partirent en-
+suite. Luiz Maria, historien d'Eljedîda, rapporte ainsi cet
+incident: «Dans la nuit du 12 novembre de l'année1752 de
+l'ère chrétienne, 10 Portugais d'Eljedîda allèrent à Azem-
+
+
+254
+
+
+ARCHIVES MAROCAINES
+
+
+moûr et pénétrèrent dans le tombeau du chéïkh Bou Chaib
+et y tuèrent 40 musulmans. L'épouvante se répandit dans la
+ville et, bon gré mal gré, chacun courut aux armes. Les
+chrétiens s'en retournèrent aussitôt, mais rejoints en route
+par les musulmans, les uns furent blessés et les autres
+purent se sauver, mais avec beaucoup de peine. » Luiz
+prétend que les chrétiens étaient au nombre de 10: mais
+les gens d'Azemmour assurent qu'ils étaient beaucoup
+plus nombreux. Dieu sait quelle est la vérité.
+
+
+Dans l'année 1167, il ne se passa rien dans le gouverne-
+ment. L'année suivante (1168) mourut Mohammed Ou Azîz,
+chef des tribus des Aït Idrâsén, qui obéissaient à ses
+ordres et dont toutes les affaires étaient conduites sui-
+vant ses indications.
+
+
+Révolte des Aït Idrâsén et des Guerouân qui s'allient aux Oûdêya :
+motifs de ces événements ¹.
+
+
+Mohammed Ou Azîz mort, il $n^{\prime}y$ avait plus personne
+chez les Aït Idrâsén pour lui succéder. La discorde éclata
+aussitôt entre ces tribus et celle de Guerouân. Les Aït
+Idrâsén attaquèrent les gens de Guerouân, qui s'enfuirent
+en déroute et allèrent se réfugier à Dâr Eddebîbag, où ils
+demandèrent protection au Sultan. Ne sachant plus où vivre
+et n'ayant plus de pâturages, ils se mirent à vendre leurs
+animaux: sur le marché de Fès, les vaches se vendaient
+5 onces, et les brebis 1 once. Le sultan Moûlay Abdallah
+ordonna alors aux Oûdêya de leur venir en aide, et établit
+entre cux une alliance fraternelle. Les Oûdêya les prirent
+aussitôt sous leur protection et leur défense, et livrèrent
+combat à leurs ennemis. Les Aït Idrâsén furent battus;
+leurs cavaliers s'enfuirent détruits et, de tous côtés, leurs
+
+
+1. Texte arabe, IV partie, p. 86.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+255
+
+
+combattants furent tués; ils perdirent environ cinq cents
+hommes dans cette affaire. Ceux qui purent s'échapper
+allèrent chercher asile dans le pays des Chraga. Telle fut
+l'origine de l'alliance entre les Oûdèya et les Guerouân.
+
+
+En 1169, les Abids de Méknès vinrent demander au
+Sultan de revenir avec eux dans cette ville, qui était sa
+résidence royale, après avoir été celle de son père. « Com-
+ment puis-je partir avec vous, leur répondit le Sultan,
+alors que parmi vous se trouvent un tel et un tel  ; et il
+leur nomma un certain nombre d'entre eux qui lui refu-
+saient leur soumission. En rentrant dans leurs campe-
+ments, les Abids, la nuit venue, assaillirent dans leurs
+tentes tous ceux que le Sultan leur avait désignés et leurs
+semblables, et les mirent à mort pour être agréables à
+Moûlay  Abdallah et le gagner. Parmi les morts, étaient
+le qâïd Mohammed Esslaoui, le qâïd Slimân ben Elasri
+et le qaïd Zaboûl. Quand il sut cela, le Sultan leur fit
+porter 40.000 mitsqâls de solde, et les renvoya à Méknės
+en leur promettant que, dès qu'il aurait terminé ses aflaires,
+il irait les rejoindre.
+
+
+Cette année-là, le qâïd Aboû Abdallah Mohammed
+Elouaqqâch vint, accompagné de gens de Tétouan, appor-
+ter au Sultan un cadeau de 1.000 douros, ainsi que des
+captifs et des marchandises que ses corsaires avaient enle-
+vés aux chrétiens. Le Sultan reçut ce qâïd avec généro-
+sité et lui fit don de deux djarias: il s'en retourna plein
+de joie auprès de ses compatriotes.
+
+
+Cette année-là, le Sultan reçut également à Dâr Edde-
+bîbag la visite de son frère Moulay Aboûlhasan Ali qui
+avait été déposé. Après lui avoir donné de l'argent et des
+objets mobiliers pour une valeur de 10.000 mitsqâls, il
+lui offrit le choix entre la résidence de Tâfîlèlt et celle de
+Méknès. Moûlay 'Ali ayant choisi Meknès, le Sultan lui
+concéda les revenus du meks de cette ville et ceux des
+jardins du Makhzen, ainsi que des terrains de culture.
+
+
+256
+
+
+ARCIIIVES MAROCAINES
+
+
+Moulay Aboulhasan alla se fixer à Méknès et trouva cette
+ville agréable à habiter. Lors de la saison du labour, il fit
+labourer ses terres, mais les 'Abids l'attaquèrent, et, après
+lui avoir mis les fers aux pieds, l'envoyèrent au Sultan en
+lui disant: « Cet homme a gâté notre pays; décide entre
+lui et nous. » Le Sultan lui donna la liberté et l'envoya à
+Sijilmasa.
+
+
+Les Berbers volèrent, cette année-là, tous les trou-
+peaux des Oùdèya, et ravagèrent leurs champs et leurs
+potagers.
+
+
+Dans l'année 1170, une guerre sanglante éclata entre
+les Aït Idrâsén et la tribu de Guerouân, qui fut soutenue
+par les Oûdèya. Les Aït Idrâsén furent battus dans la
+plaine d'Ennkhila, qui fait partie de la plaine de Sâïs.
+Dieu sait quelle est la vérité.
+
+
+Mort du Prince des Croyants Moulay 'Abdallah ben Ismâ'îl
+
+
+(Dieu lui fasse miséricorde!)*.
+
+
+Le Prince des Croyants, Moulay Abdallah ben Ismâ'îl
+(Dieu lui fasse miséricorde !) mourut à Dâr Eddebîbaġ, le
+jeudi 27 du mois de şafar béni de l'année 1171. Il fut en-
+terré à Fès Eljedid, au cimetière des chérifs où était en-
+seveli son fils Moûlay Ahmed (Dieu leur fasse à tous deux
+miséricorde!). « Le Prince des Croyants Moulay Abdallah,
+dit l'auteur du Boustân, était dur et violent: c'est pour-
+quoi il était détesté de l'armée et de la population. Il
+demeura plusieurs années dans l'abandon à Dâr Eddebî-
+bag, sans que personne se rendît auprès de lui: les habi-
+tants du pays avaient sa béïa suspendue à leur cou et ils
+le fuyaient, à cause du sang qu'il versait sans raison appa-
+rente. Il demeura dans cette situation pendant douze ans,
+
+
+1. Texte arabe, IVe partie, p. 86.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+257
+
+
+de 1159 à 1174. Dieu lui fasse miséricorde et lui accorde
+son pardon, ainsi qu'à tous les musulmans ! >>>
+
+
+Parmi les panégyriques qui ont été faits de ce Sultan,
+nous citerons le suivant:
+
+
+« Salut à toi,  lumière de l'univers, ô gloire des ché-
+rîfs de la famille de Hâchem;
+
+
+<< O toi qui t'es élevé pour abattre tous les ignorants;
+toi par qui chaque monde s'est réveillé enchanté;
+
+
+« Toi qui, ombre de Dieu sur la terre, est venu regar-
+der les malheureux d'un œil charitable;
+
+
+« Toi que Dieu a revêtu d'un respect mêlé de crainte
+pour humilier les étrangers;
+
+
+« Toi qui possèdes l'énergie, la résolution et la force
+qui écrase sous l'effroi les cœurs des lions.
+
+
+<<< Il doit suffire à ta gloire de posséder une puissance
+évidente et une générosité qui fait oublier celle de Hâtém;
+<< Et d'avoir les qualités naturelles dont la bonne odeur
+s'est répandue, et qui font les rois glorieux et généreux.
+
+
+« J'en jure par ma vie! Toutes les grandeurs t'ont
+tendu leurs rênes pour les conduire, car tu es le résolu
+des résolus;
+
+
+« Tu es monté sur le trône aux angles solides, vers
+lequel on est chassé par les épées et les lances.
+
+
+<<< Le Dieu des hommes a dispensé de réunir des sol-
+dats en te donnant un jugement droit qui met les armées
+en déroute;
+
+
+« Au moment où tu es venu, le mal dans le Ġarb avait
+dépassé toutes les limites; les marchés étaient des foires
+de crimes;
+
+
+<<< Le feu de la discorde brûlait dans tous les défilés, et
+les mauvais sujets pouvaient à leur aise profaner les choses
+sacrées.
+
+
+<< Tu l'as subjugué, au moment où le plus petit oiseau
+de proie pouvait devenir un aigle, et où de simples pas-
+teurs de troupeaux devenaient les maîtres.
+
+
+ARCII. MAROC.
+
+
+17
+
+
+258
+
+
+ARCHIVES MAROCAINES
+
+
+<< Tu nous as donné la sécurité contre les agresseurs,
+et tu nous as protégés contre les astucieux assaillants. »
+
+
+Retour en arrière pour raconter l'histoire de la fin de Moûlay
+Elmostadi (Dieu lui fasse miséricorde!) .
+
+
+Nous avons déjà raconté que le sultan Moûlay Abdallah
+était parti, en 1157, à la poursuite de son frère Moûlay
+Elmostadi; qu'il avait ravagé les pays du Hoûz à cause de
+lui, qu'il l'avait forcé à s'enfuir des montagnes de Mesfîoua,
+que celui-ci s'était sauvé à Morrakch, dont les habitants
+l'avaient repoussé; que, ne trouvant pas d'abri sûr dans le
+Hoûz, il avait poursuivi sa route à travers les campagnes
+et les bourgs, obligé de voyager la nuit, qu'il avait tra-
+versé le Doûkkâla, le Tâmema, les Beni Hsen qui n'avaient
+pas voulu l'accueillir, et qu'il était enfin parvenu à Tanger,
+où il avait fixé sa résidence, et où, après avoir opprimé la
+population pendant longtemps, il avait fini par s'emparer
+du qaid Abdelkerîm Errîfi, l'avait emprisonné, lui avait
+crevé les yeux et s'était emparé de ses biens. Nous avons
+vu que les Rifains l'avaient arrêté, lui avaient pris ses
+chevaux, ses matelas et ses effets, et avaient dévalisé ses
+gens, qu'ils l'avaient soumis à la torture, et voulaient
+l'envoyer à son frère Moûlay 'Abdallah, et qu'enfin, chan-
+geant d'idée, ils l'avaient mis en liberté. Alors, débarrassé
+de leurs persécutions, il écrivit à son frère Moûlay
+'Abdallah, qui était à Fès, pour s'excuser sur sa conduite
+passée et demanda de lui assigner un endroit où il pour-
+rait s'établir. Le sultan Moulay Abdallah lui répondit :
+<< Tu n'as commis aucune faute envers moi, et tu ne m'as
+fait aucun mal car tu n'as cherché, comme moi, qu'à recou-
+vrer le trône de ton père. Si maintenant tu veux, comme
+
+
+1. Texte arabe, IV partie, p. 87.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+259
+
+
+moi, vivre sans éclat, établis-toi à Aşéïla, cela vaudra mieux
+que Dâr Eddebîbag où je suis. Repose-toi comme moi. Si,
+au contraire, tu recherches le pouvoir, c'est ton affaire, et
+quant à moi, je ne te le diputerai pas. » Quand il reçut
+la lettre de son frère, Moùlay Elmostadi se mit en route
+pour Aşéïla. Il s'y établit, s'occupa d'y faire les améliora-
+tions nécessaires, et, après l'avoir fait réparer, s'installa
+dans la maison d'Elkhadir Ġeïlan, qui se trouve dans la
+qaşba. Cédant ensuite aux instigations de certains aven-
+turiers cupides qui l'entouraient, il se mit à embarquer
+des grains pour les infidèles. Ces aventuriers lui servirent
+d'intermédiaires pour s'entendre à ce sujet avec un négo-
+ciant chrétien de Tanger, et conclurent un traité avec ce
+dernier. Ce négociant vint en personne à Așéïla; il chargea
+des grains sur son bateau et paya la şûka afférente à cette
+marchandise, c'est-à-dire les droits. Moûlay Elmostadi,
+voyant que cette opération était avantageuse, voulut gagner
+davantage, et chercha à faire le commerce des grains avec
+tous les négociants qui se présentaient. Les chrétiens
+furent bientôt tous informés qu'on pouvait embarquer des
+grains dans le port d'Aşéïla, et au bout de peu de jours
+leurs bateaux vinrent de tous côtés mouiller dans le port,
+qui se remplit de vaisseaux. Les Arabs de la région appor-
+tèrent leur blé et leur orge Moûlay Elmostadi les leur
+achetait et les revendait aux chrétiens, de sorte que les
+bateaux embarquaient tout ce qu'ils pouvaient. De cette
+façon, le prince avait un bénéfice double, celui qu'il réa-
+lisait sur les prix et la şaka. La situation devint bientôt
+très florissante; il s'enrichit et le nombre de ses partisans
+augmenta. Il se mit alors à acheter des armes à Tétouan,
+pour armer ses gens et les rendre puissants.
+
+
+Apprenant ce qui se passait, le sultan Moûlay 'Abdallah
+se repentit d'avoir autorisé son frère à résider à Aşéïla.
+Il écrivit au qâïd Abou Mohammed Abdallah Essefiâni,
+pour l'inviter à aller assiéger Moûlay Elmostadi dans
+
+
+200
+
+
+ARCHIVES MAROCAINES
+
+
+Aşéïla et l'en expulser. Il manda en même temps à son
+fils Sidi Mohammed à Morrakch, d'envoyer quelqu'un pour
+le chasser de cette ville, de concert avec le qâïd 'Abdallah
+Essefiâni, qui aurait avec lui cinq cents cavaliers. Sidi
+Mohammed fit partir avec cent cavaliers son cousin et
+ami, Moùlay Idris ben Elmontaşir, et lui donna ordre de
+rejoindre d'abord en chemin 'Abdallah Essefiâni et ses
+cinq cents cavaliers, conformément au plan établi par son
+père, puis d'aller bloquer Moûlay Elmostadi dans Aşéïla
+jusqu'à ce qu'ils l'en fissent sortir. Moûlay Idris et Essefiâni
+vinrent done camper devant la ville et assiégèrent Moûlay
+Elmostadi. Celui-ci se rendit auprès d'eux et chercha  
+persuader son cousin Moûlay Idrîs de lever le siège et de
+le laisser en paix. Il s'excusa en disant que le Sultan lui
+avait permis de demeurer à Aşéïla et lui avait permis de
+percevoir à son profit les revenus du port. Mais Moûlay
+Idris resta inflexible et finit par faire sortir de la ville
+Moùlay Elmostadi. Il s'empara de tout ce qu'il trouva dans
+sa maison, argent, armes, poudre, etc., et le porta à son
+oncle Moulay Abdallah.
+
+
+Moûlay Elmostadi, en quittant Aşéïla, partit pour Fès,
+où il demeura dans le mausolée du chéïkh Boù Bkeur
+ben Elarabi (Dieu soit satisfait de lui!) Il envoya son
+fils auprès du sultan Moûlay 'Abdallah, pour se plaindre
+de la conduite à son égard de son fils Sîdi Mohammed
+ben 'Abdallah, qui avait levé des troupes pour marcher
+contre lui et l'avait expulsé d'Aşéïla. Le Sultan répondit:
+« Dis à ton père que je n'ai aucun pouvoir sur mon fils,
+car il est plus puissant que lui et moi. Que ton père aille
+done au pays de son père et de ses ancêtres, et qu'il ne
+se donne pas tant de peine, car ni lui, ni moi n'avons plus
+longtemps à vivre. »
+
+
+Quand les paroles du Sultan lui furent rapportées, Moû-
+lay Elmostadi partit pour Şefroû, où il s'installa dans la
+maison du gouverneur de cette ville. Il laissa sa famille à
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+261
+
+
+Fès, dans la maison du chérîf Moulay Ettahâmi, dans le
+quartier d'Eldjoùțiyin. Lorsque Moûlay Idris ben Elmon-
+taşir apporta les effets et l'argent de Moûlay Elmostadi
+au Sultan, celui-ci conserva pour lui la poudre et les
+armes, et pour le reste il manda au Gouverneur de Fès
+d'écrire au prince, pour l'inviter à envoyer un délégué de
+sa part pour prendre possession de son avoir. Moulay
+Elmosțadi expédia aussitôt quelqu'un, qui prit livraison de
+son argent et de ses effets, et les remit à ses femmes, qui
+étaient dans la maison de Moùlay Ettahami.
+
+
+Après avoir séjourné quelque temps à Şefroù, Moùlay
+Elmostadi convoqua les notables de la tribu d'Aït Yousi,
+qui vinrent le trouver. Il leur proposa de le proclamer et
+de prendre sa cause en mains, mais ils ne lui montrèrent
+aucun empressement et lui répondirent qu'il fallait d'abord
+qu'il se rendît chez les Aït Idrâsén et les Guerouân, et que
+si ceux-ci accédaient à ses propositions, ils régleraient leur
+attitude sur la leur. Voyant qu'il n'obtenait aucun résultat
+à Şefroû, Moûlay Elmostadi envoya quelqu'un à Fès pour
+lui ramener sa famille et ses effets, et partit pour Sijil-
+mâsa, où il se fixa (1166). Il resta désormais à l'écart du
+pouvoir et cessa de le rechercher. Il demeura au Tafilêlt
+jusqu'à sa mort, qui survint en 1173. Dieu lui fasse miséri-
+corde et lui pardonne!
+
+
+Retour en arrière pour raconter l'histoire des Abids réunis par
+le sultan Moûlay Ismâ  îl, depuis la mort de ce prince jusqu'au
+règne du sultan Sidi Mohammed¹.
+
+
+Nous avons rapporté avec quel soin le sultan Moûlay
+Ismâ'îl avait réuni les Abîds, dont le nombre avait atteint
+le chiffre de 150.000, et les avait fait instruire et entraîner.
+
+
+1. Texte arabe, IV partie, p. 88.
+
+
+262
+
+
+ARCHIVES MAROCAINES
+
+
+Sous le règne de ce prince, leur puissance et leur richesse,
+la grandeur de leurs maisons et de leurs palais, le nombre
+de leurs chevaux de race, le choix de leurs armes, l'éten-
+due de leur fortune et la beauté de leurs costumes, avaient
+atteint un degré auquel personne n'était parvenu avant
+eux.
+
+
+A la Mhalla de Mechra Erremla, il y en avait 70.000,
+tant cavaliers que fantassins. Les yégchariya, qui étaient
+sous les ordres du bâcha Msâhél, étaient au nombre de
+25.000; ils étaient tous à pied, et leurs qâïds seuls étaient
+montés. A Tânoût et à Qujéh Aroûs, il y avait 5.000 Abîds
+qui avaient tous le titre de qâïd et étaient montés. Les
+50.000 autres étaient fractionnés dans les qaşbas, dont ils
+formaient les garnisons et où ils veillaient à la garde des
+routes et à la défense des places. Ils jouissaient d'une
+très grande aisance, car chaque tribu venait apporter ses
+'achour à la qaşba bâtie sur son territoire, où ils servaient
+à nourrir la garnison et les chevaux.
+
+
+Cet état de choses se maintint jusqu'à la mort de Moû-
+lay Ismail (Dieu lui fasse miséricorde!). Après lui, les
+garnisons des qaşbas cessèrent de recevoir ces vivres
+nécessaires à leur entretien. Ses fils, au cours des discus-
+sions qui se produisirent entre eux, négligèrent de s'oc-
+cuper des 'Abids et ne firent pas attention à eux, si bien
+que leurs ressources diminuèrent, que leur situation
+s'affaiblit beaucoup, et qu'ils finirent par se répandre dans
+les tribus voisines de leurs garnisons, où ils se mirent à
+posséder pour subvenir à leurs besoins et à ceux de leurs
+enfants. Dès qu'ils eurent abandonné ces qaşbas, les tribus
+arabes et berbères, sur le territoire desquelles elles se
+trouvaient, se mirent à les piller et à les démolir, enlevè-
+rent les portes et les poutres de bois, ainsi que tous les
+matériaux légers qu'ils y trouvèrent, et les laissèrent en-
+tièrement vides. Les murailles seules restèrent debout.
+
+
+Il en fut de même à la Mhalla de Mechra Erremla.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+263
+
+
+Dès que les 'Abids l'eurent quittée pour aller se fixer
+à Méknès, sous le règne du sultan Moûlay Abdallah,
+les Beni Hsen se mirent à piller et à démolir. Ils
+dévalisèrent entièrement tous les retardataires qu'ils trou-
+vèrent et s'emparèrent des objets pesants que les  Abids
+y avaient laissés dans l'espoir de les retrouver quand ils
+reviendraient de nouveau à Mechra Erremla. Les Beni
+Hsen allèrent même jusqu'à démolir les maisons et les
+palais et à transporter à Salé les portes et les poutres de
+bois, qu'ils vendirent à vil prix. Il y avait, en effet, à la
+Mhalla des maisons et des palais comme on n'en voyait pas
+dans les grandes villes. Les qâïds rivalisaient entre eux de
+magnificence en construisant des maisons plus solides,
+mieux ornementées et plus brillamment peintes que celles
+de leurs collègues. Mais les Beni Hsen saccagèrent toutes
+ces constructions, les renversérent de fond en comble et
+les anéantirent en moins de temps qu'il n'en faut à un
+chien pour se lécher le nez. Ils ne laissèrent debout que les
+murailles, qu'ils démolirent dans la suite petit à petit. Ils
+pratiquèrent même des fouilles dans le sol, pour chercher
+des trésors, et en découvrirent une très grande quantité.
+
+
+Lorsque les Abîds de Elmhalla se transportèrent à Mék-
+nès, il en arriva jusqu'à la ville moins de la moitié: les
+autres se dispersèrent dansles tribus au moment du départ,
+retournant les uns à leur tribu, les autres à leur village
+d'origine. Ceux qui s'établirent à Méknès n'y demeurèrent
+pas longtemps. Leurs ressources étaient modiques, le prix
+des denrées très élevé, et les famines et les troubles très
+fréquents dans cette période. Il ne resta plus à Méknės
+que les qâïds qui étaient dans l'aisance, et les artisans qui
+pouvaient gagner leur vie en travaillant. De plus, leur
+séjour dans la ville devint plus dangereux encore, à cause
+des incursions des Berbers, plus forts qu'eux, qui vinrent
+plus d'une fois leur voler leurs enfants dans les potagers
+et les vergers. La plupart allèrent petit à petit chercher de
+
+
+264
+
+
+ARCHIVES MAROCAINES
+
+
+quoi vivre dans les bourgades et les tribus, et finirent par
+oublier le service militaire et la manœuvre individuelle et
+en groupes nombreux. Ainsi se dispersa cette forte troupe.
+A Dieu revient la fin de toutes choses. Un grand nombre
+de 'Abîds (on en compte 5.000) périrent dans le tremble-
+ment de terre qui se produisit à Méknès en 1169, et dont
+nous parlerons dans les faits divers.
+
+
+C'est ainsi qu'ils allèrent toujours en diminuant et en
+s'affaiblissant jusqu'au règne du grand sultan Moulay
+Mohammed ben 'Abdallah (Dieu lui fasse miséricorde!)
+qui, les ayant trouvés réduits à néant et formant une misé-
+rable troupe, s'intéressa à eux, les rappela des tribus où
+ils s'étaient dispersés, leur donna de la vigueur, leur ren-
+dit l'importance qu'ils avaient perdue, les monta avec des
+chevaux de prix, releva leurs drapeaux et leurs étendards,
+et en fit une légion des plus puissantes. Ce fut lui d'ailleurs
+qui, par sa bonne administration et son intelligence for-
+tunée, sut restaurer et vivifier ce gouvernement isma îlien
+qui était tombé, qui avait perdu son éclat, et dont toutes
+les franges s'étaient déchirées. Dieu Très-Haut lui fasse
+miséricorde et soit satisfait de lui!
+
+
+Ici finit ce que nous avons à dire sur les nobles chérîfs,
+fils de Moûlay Isma'îl (Dieu leur fasse miséricorde !) Aken-
+soûs dit : « Il est hors de doute que ceux des fils de ce
+prince qui se sont emparés du pouvoir après la prestation
+de serment au sultan Moûlay  Abdallah doivent être consi-
+dérés comme des révoltés sans qualité d'Imâm. Leur his-
+toire doit être comprise dans celle du règne de Moûlay
+Abdallah. » Il faut porter le même jugement en ce qui
+concerne le sultan Moûlay Ahmed ben Ismail, qui fut un
+imâm remarquable, et Moûlay  Abdelmalék qui se révolta
+contre lui, car on sait par les théories des Achariya que
+le fait de libertinage ne suffit pas pour provoquer la dé-
+chéance de l'imâm. Dieu sait quelle est la vérité, et est le
+meilleur juge!
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+265
+
+
+Retour en arrière pour raconter, du commencement à la fin, la
+vice-royauté que Sidi Mohammed ben Abdallah exerça à
+Morrâkch 4.
+
+
+Nous avons dit précédemment que le sultan Moulay
+ Abdallâh était parti en l'année 1057 à la poursuite de son
+frère Moûlay Elmostadi et finalement l'avait chassé du
+territoire de Mesfioua. Les habitants de Morrakch s'étaient
+alors rendus auprès de lui et l'avaient sollicité de venir
+dans leur ville, mais les circonstances ne le lui avaient pas
+permis. Décidé à rentrer dans le Garb, il avait envoyé
+Moûlay Ahmed, son fils aîné, à Rabât Elfeth pour l'y repré-
+senter, et avait placé sous son autorité les tribus d'Ech-
+châouya, de Beni Hsen et les tribus intermédiaires. Puis
+il avait dirigé son jeune fils, Sîdi Mohammed, avec les
+gens de Morrâkch, avec mission de le représenter dans
+cette ville: par cet acte commença la plantation à Morrâkch
+de l'arbre de la dynastie  alaouie et le choix de cette ville
+comme capitale de la famille impériale.
+
+
+En arrivant à Morrakch, Sidi Mohammed s'installa dans
+la qaşba, qui tombait en ruines. On n'y trouvait plus que
+quelques vestiges des constructions des Saadiens et des
+Almohades, démolies par l'action du temps et servant de
+nids aux chouettes et aux hiboux. Il dressa ses tentes au
+milieu de ces ruines, et fit creuser les fondements de sa
+demeure dans un vaste emplacement éloigné des palais
+détruits, en dedans de la muraille. A peine avait-on com-
+mencé les travaux, que les Arabs Errhâman, qui depuis
+longtemps répandaient la terreur autour de Morrâkch et
+qui ne voulaient pas y voir s'installer un gouvernement
+susceptible de les contenir, se mirent d'accord pour faire
+obstacle à ses projets. Une troupe de mauvais sujets de
+
+
+1. Texte arabe, IVe partie, p. 89.
+
+
+266
+
+
+ARCHIVES MAROCAINES
+
+
+cette tribu marchèrent contre Sidi Mohammed et, le sur-
+prenant à l'improviste, le chassèrent de la qaşba. Sidi
+Mohammed se rendit alors à Asfi.
+
+
+Quant à Moulay Ahmed, gouverneur des Deux-Rives, il
+s'était établi dans la qaşba de Rabâț, ayant sous ses ordres
+les 'Abîds de la qaşba. Il exerça ses fonctions de khalifa
+dans cette ville, jusqu'au jour où les habitants des Deux-
+Rives, ayant appris la façon dont les Rhamna avaient traité
+le khalifa, de Morrâkch, convinrent de le chasser de leur
+pays. Ils lui déclarèrent la guerre, assiégèrent la qaşba où
+il se trouvait avec les Abids Foullân qui y tenaient garnison
+depuis l'époque du sultan Moûlay Ismail; ils leur cou-
+pèrent les vivres et l'eau, si bien que, exténués et ravagés
+par le siège, les assiégés durent demander l'amûn pour
+leurs personnes et l'obtinrent. Moûlay Ahmed se rendit à
+Asſi où il rejoignit son frère Sidi Mohammed. On a vu pré-
+cédemment ce qu'il advint de lui: il mourut à Fès en 1160.
+Dès qu'il fut parti, les gens de Rabât se précipitèrent sur
+les 'Abids de la qaşba, les en chassèrent et les dispersèrent
+dans la ville, afin d'annihiler leur force et leur cohésion.
+Ainsi se passa le khalifat de Moûlay Ahmed.
+
+
+Quant à Sidi Mohammed, pendant son voyage de Mor-
+râkch à Asfi, il avait été salué par les tribus de 'Abda et
+de Hmar, qui lui avaient donné l'hospitalité sur leur terri-
+toire, lui avaient offert des présents, avaient exécuté des
+fantasias en son honneur, avaient joué le jeu de la poudre
+pour marquer la joie que leur causait sa venue et le
+respect qu'ils professaient pour sa personne, et l'avaient
+accompagné jusqu'à Asfi. Arrivé là, il fut bien reçu par la
+population et s'établit dans la qaşba. Sa bonne étoile le
+suivait partout.
+
+
+Aussitôt qu'il fut installé, les gens d'Asfi lui présentèrent
+leurs cadeaux. Les négociants chrétiens et juifs firent de
+même, rivalisant entre eux et redoublant d'empressement.
+Les Arabs de 'Abda, notables et simples particuliers,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+267
+
+
+arrivèrent en foule auprès de lui, lui offrant leurs enfants
+pour qu'il les prit à son service, et lui apportant tout ce
+qu'ils pouvaient. Il accorda aux négociants l'exportation
+des marchandises par le port. Aussi nombre de navires
+vinrent y débarquer des marchandises du pays des chré-
+tiens, et les négociants affluèrent de tous côtés avec des
+cargaisons, pour vendre et acheter. Le bien-être augmenta
+et les richesses s'accrurent. La situation de Sîdi Moham-
+med grossit ainsi, et sa renommée s'étendit dans tout le
+Hoùz. Les tribus d'Echchiâdhama et de Haha se rangèrent
+alors sous son autorité et se mirent avec empressement
+à son service. Six mois ne s'étaient pas écoulés qu'il sortait
+déjà avec une escorte d'environ mille cavaliers. A leur
+tour, les Rhâmna, apprenant le résultat qu'avaient obtenu
+leurs adversaires de Abda et de Hmar en lui servant
+d'auxiliaires et en venant le servir, leur portèrent envie
+et changèrent d'attitude. Un certain nombre de leurs
+notables se rendirent à Asfi, et envoyèrent des présents à
+Sidi Mohammed, pour chercher à rentrer en grâce auprès
+de lui. Quand ils furent introduits devant lui, ils s'excu-
+sèrent de leur conduite, et rejetant toute la responsabilité
+de leurs actes sur quelques mauvais sujets de la tribu, ils
+déclarèrent qu'ils n'avaient rien ordonné, ni approuvé de
+ce genre, et finirent par jurer que, dussent-ils rester à sa
+porte une année entière, ils ne quitteraient pas Asfi, sans
+l'emmener avec eux à Morrakch. Le khalifa céda à leurs
+instances et partit avec eux. Il fut accompagné par un
+millier de cavaliers de  Abda. Quant à ses gens et à ses
+serviteurs, ils formaient un cortège d'environ 500 per-
+sonnes, tous montés sur des chevaux de prix, magnifique-
+ment habillés et armés de pied en cap.
+
+
+Arrivé à Morrakch, Sîdi Mohammed s'établit dans la
+qaşba, où les gens de la ville, les tribus du Hoûz, puis
+celles du Dîr, lui apportèrent leurs présents. Les Rhamna,
+rivalisant de zèle avec les  Abda et les Hmar, lui amenèrent
+
+
+268
+
+
+ARCHIVES MAROCAINES
+
+
+leurs enfants pour qu'il les prit au service impérial. Les
+gens du Hoûz firent tous de même. Après cela, il reçut
+les Abids de Doûkkâla qui s'étaient établis à Salé, et qui
+furent très bien traités. Apprenant cela, les Abids de
+Méknès s'enfuirent à Morrakch, où ils furent employés aux
+constructions et élevèrent des maisons pour eux-mêmes.
+
+
+Sidi Mohammed fit construire de suite son grand palais
+dans la qaşba et l'habita dès qu'il fut terminé. Puis il fit
+restaurer la partie de la muraille de la qaşba qui était en
+mauvais état, y établit des portes, et la sépara du reste de
+la ville. Il emplanta également un grand pare attenant à son
+grand palais du côté de l'ouest et l'appela Ennîl. A l'extré-
+mité ouest de ce parc, il construisit un autre palais qu'il
+nomma Elqşar Elakhdar, et qui s'appelle aujourd'hui
+Elmansour. A chacun des coins de ce parc, il édifia quatre
+portes (il n'y en a plus que trois actuellement) et en éleva
+deux autres, l'une à l'est conduisant au grand palais, et
+l'autre à l'ouest, conduisant au Qşar Elakhdar. Au milieu
+il fit construire un pavillon isolé, des quatre faces duquel
+partaient des allées conduisant à d'autres pavillons égale-
+ment isolés. La dimension de ce parc est d'environ 200 pas
+en longueur et en largeur. La même distance sépare les
+deux palais, Eddar Elkoubra et Elqşar Elakhdar.
+
+
+Le khalifa restaura ensuite la mosquée d'Elmansoûr
+qui se trouve dans la qaşba et qui était alors en ruine. II
+fonda pour la khoțba à proximité de son palais une autre
+mosquée, qu'on appelle aujourd'hui la mosquée de Berrima.
+Il fit construire également dans la qaşba deux mdersas
+pour les tolba et d'autres mosquées pour les affranchis et
+les esclaves. Il distribua à ceux de ces derniers qui s'étaient
+attachés à lui, de l'argent pour édifier leurs habitations et.
+construire en pierres leurs maisons, qui étaient aupa-
+ravant en terre et en roseaux. Il organisa de petits et de
+grands corps de troupes, et vit ainsi se réunir autour de
+lui 1.500 Abids, tous montés et armés, autant de cavaliers
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+200
+
+
+de Abda et de Umar, et 1.000 cavaliers des Rhâmna et des
+tribus du Hoûz.
+
+
+Quand les  Abids de Méknès, qui s'étaient révoltés contre
+son père, vinrent lui prêter serment, il leur adressa de
+vifs reproches, se rendit dans cette ville et les réconcilia
+avec son père, comme nous l'avons vu précédemment.
+
+
+En 1169, il fit une expédition dans le Sous qu'il subjugua
+et dont il calma les diverses régions. Il laissa une garni-
+son à Taroûdânt. De là il se rendit à Agâdîr, où il arrêta
+le taleh Salah qui s'était révolté et s'était approprié les
+revenus du port. Il l'arrêta, lui enleva tous les bénéfices
+que le port lui avait procurés, et établit également une
+garnison à Agadir. Plus tard, le tâléb Salah se coupa le
+cou dans sa prison. Il est resté très célèbre dans la région du
+Soûs: c'est son sceau qu'on trouve encore sur les fusils,
+sabres et poignards fabriqués dans ce pays, et qui y sont
+très recherchés.
+
+
+Le khalifa Sîdi Mohammed rentra à Morrâkch, victorieux
+et plus fort. Au bout de quelques jours, il se mit en route
+cette même année pour la région d'Echchâouiya, dont les
+habitants étaient en révolte, coupaient les routes et se
+livraient au pillage. Il tua plusieurs notables et envoya les
+autres enchaînés à Morrakch. Puis il se rendit dans la
+région de Salé, et passa d'abord la nuit à Rabât Elfeth,
+dont les habitants allèrent au-devant de lui, lui apportant
+la moûna et des cadeaux, et se réjouirent de son arrivée.
+Mais pas un habitant de Salé ne se porta au-devant de lui;
+le gouverneur de cette ville, 'Abdelhaqq ben  Abdelaziz,
+Fennich lui ferma les portes de la ville. Sidi Mohammed
+laissa de côté Salé et traversa la rivière à un gué plus haut
+que les deux villes. Il se rendit à Qşar Ketâma, dans la
+région d'Elhabt, où il fut rejoint par les Abîds de Méknès
+venus avec leur chef, le bâcha Ezziyâni. Le jour même,
+ceux-ci mirent à mort leur bâcha et tuèrent également le
+qâïd Yousef Essellâh; ils leur reprochaient de les avoir
+
+
+270
+
+
+ARCHIVES MAROCAINES
+
+
+empéchés de se rendre à Morrâkch auprès de Sidi
+Mohammed. Il leur donna pour chef le qâïd Sa'id ben
+El ayyachi. Le lendemain, il se mit en route pour Tétouan.
+Il y fut bien reçu par la population et par le gouverneur
+Mohammed ben Omar Elouaqqach, qu'il mit d'abord en
+prison pour l'effrayer, et qu'il relacha ensuite. De là il
+partit dans la direction de Ceuta, et après avoir considéré
+la ville, depuis les hauteurs, il alla à Tanger, d'où il se
+rendit à Morrakch en passant par Elarêïch et par Salé,
+où, Abdelhaqq ayant persisté dans son attitude à son
+égard à lui, il remit à plus tard sa décision. C'est à Mor-
+rakch que vint le trouver la royauté, après la mort de son
+père.
+
+
+Règne du Prince des Croyants Sidi Mohammed ben  Abdallah
+
+
+(Dieu lui fasse miséricorde!)¹.
+
+
+Lors de la mort du Prince des Croyants Moûlay 'Abdallah
+ben Ismail, à la date précitée, c'est-à-dire le 27 şafar
+béni 1171, les populations étaient saturées du désordre et
+des séditions, fatiguées des difficultés et des troubles, et
+désiraient la fin de la guerre. Le règne de ce prince, sur-
+tout pendant la dernière période, avait été comme une
+époque d'interrègne où il $n^{\prime}y$ a pas de souverain : les
+sujets étaient plongés dans l'anarchie.
+
+
+Ce fut la plus grande cause du mouvement qui entraîna
+les habitants du Magrib à proclamer Sultan Sîdi Moham-
+med et à s'accorder sur son choix. De plus, pendant son
+khalifat, ce prince s'était signalé comme un habile poli-
+tique, un homme énergique et intelligent, possédant un
+sens exact de la direction des affaires et les conduisant
+comme il convenait. On l'aimait, on mettait son espoir en
+
+
+: 1. Texte arabe, IV partie, p. 92.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+271
+
+
+lui. On lui reconnaissait des qualités que ne possédaient
+pas ses frères. Aussi fut-il proclamé à la fois par les
+bouches et par les cœurs.
+
+
+Dès que son père fut mort, les gens de Fès s'empres-
+sèrent de rédiger leur béïa : ils n'y mirent ni hésitation,
+ni lenteur. « Notre maître, notre père, le glorieux sultan
+Sidi Mohammed ben Abdallah, dit, dans son ouvrage
+intitulé Dourrat Essouloûk, son fils, le fqîh Abou Moham-
+med Moulay Abdesselâm ben Mohammed ben 'Abdallah,
+reçut un serment de fidélité unanime valable et complet.
+Il fut prêté par un grand nombre de savants, comme
+Si Said Elamîri, qadi-l-jama'a de Méknès; Sî Abdel-
+qader Boû Kherîş, qadi-l jamaʻa de Fès; Sĩ Mohammed ben
+Qâsém Guessoûs, chéïkh eljama'a de Fès; l'Imâm reconnu
+celui qui porte l'étendard des sciences spéculatives et des
+sciences pratiques, le chéïkh Abou Hafs Omar Elfèsi; le
+cousin de ce dernier, Si Boû Médién Elfèsi, qui écrivit
+lui-même la béïa; le professeur Moûlay Abderrahman
+Elmendjra, imâm de la mosquée des Chorfa à Fès; le
+chéïkh très docte Sî Ettâoudi ben Soûda Elmourri; Si
+Abdallah Essoûsi, imâm de la grande mosquée de Fès
+Eljedîd; l'imâm, le hafîd Sidi Aboûloula Drîs Eliraqi et
+une foule d'autres personnages qu'il serait trop long d'énu-
+mérer. » Le qâdi de Méknès n'était pas Si Sa'id Elamîri,
+mais son fils, Belqâsém Elamîri.
+
+
+La nouvelle de la mort de son père vint trouver Sîdi
+Mohammed à Morrakch: il en fut très attristé.
+
+
+Les gens de Morrâkch, les tribus du Hoûz et du Dir le
+proclamèrent en foule; des députations vinrent du Sous
+et de Haha lui apporter des cadeaux. Puis ce fut le tour
+des 'Abîds, des Oûdêya, des oulamâ, des chérifs et des
+notables de Fès, des tribus arabes et berbères, des tribus
+de's montagnes et des habitants des ports: tous apportèrent
+leur béïça et leurs cadeaux. Pas une seule population du
+Magrib ne manqua. Sidi Mohammed reçut toutes ces dépu-
+
+
+272
+
+
+ARCHIVES MAROCAINES
+
+
+tations jusqu'à la dernière, puis les autorisa à partir. Tou-
+tefois, pour témoigner de la place qu'il leur attribuait dans
+le gouvernement, il donna beaucoup de chevaux et d'armes
+aux Abids qui s'en retournèrent satisfaits et pleins de
+dévouement à sa cause.
+
+
+De la venue du sultan Sidi Mohammed à Fès après la béï'a
+et de ce qui lui arriva en cette circonstance  .
+
+
+Les préparatifs de départ pour le Garb commencèrent
+dès que Sidi Mohammed eut fini de recevoir les délégations.
+Accompagné des soldats et des notables du Hoûz, il quitta
+Morrakch et s'arrêta à Méknės. Il s'y installa dans le palais
+impérial. Son premier soin fut de distribuer des chevaux,
+des armes et de l'argent aux Abids, que les excès des
+Berbers avaient mis dans un état de grande détresse et
+de faiblesse, car ils venaient leur voler leurs enfants dans
+les jardins et les vergers, pour les vendre dans leurs tri-
+bus, ainsi que nous l'avons déjà dit.
+
+
+Dieu mit un terme à cette situation en élevant au pou-
+voir ce noble Empereur. Ses affaires terminées à Méknès,
+il partit pour Fès. Il s'arrêta avec ses soldats à Eşşeľşâfa,
+où il reçut la visite des Oûdêya et des gens de la ville. Il
+fut aimable pour tous et se mêla à la foule; chacun l'en-
+tourait et baisait les pans de ses vêtements, en toute
+liberté. Il distribua de l'argent, des vêtements et des armes
+aux Oûdêya et aux 'Abîds d'Essloûqiya. Il fit des dons aux
+fqîhs, aux chérifs, aux tolba, aux élèves des mdersas et
+des écoles, aux imâms, aux moueddins, aux pauvres et aux
+malheureux. Il satisfit tout le monde et ne négligea per-
+sonne. Le vendredi, il quitta la Mhalla, dans un cortège
+brillant et magnifique et, escorté des habitants des deux
+
+
+1. Texte arabe, IVe partie, p. 92.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+273
+
+
+villes venus pour le voir, au milieu d'une foule de soldats
+et de spectateurs, il entra à Fès Eljedid où il fit sa prière.
+Il reçut ensuite les fqihs de l'époque et se les fit présenter
+les uns après les autres. Puis il alla visiter le mausolée de
+son père, et ordonna d'y répandre des aumônes et d'y
+établir des lecteurs. Il entra ensuite dans le palais des
+femmes, où il trouva ses sœurs. Il chercha à les consoler
+de la mort de leur père et les encouragea à la résignation.
+Le soir même, il rentra à la Mhalla, où il passa la nuit.
+
+
+Le lendemain, il alla à Dâr Eddebibag, pour s'occuper
+de ce qu'avait laissé son père en fait d'argent, d'effets,
+d'armes et de chevaux. Il examina tous ces biens, en fit
+l'inventaire et les laissa entre les mains des serviteurs de
+son père à qui ils étaient déjà confiés. Il leur recommanda
+d'en prendre garde et chargea de la surveillance le hajéb
+Abou Mohammed 'Abdelouahhab Elyimmoûri. Il fut bien-
+veillant envers les serviteurs de son père, les prit sous sa
+protection, leur parla avec beaucoup de douceur, et leur
+remit une somme d'argent qu'ils se partagèrent. Plus tard
+il se fit rendre par eux le dépôt qu'ils détenaient. La for-
+tune laissée par son père consistait en grande partie en or:
+elle était contenue dans mille sacs (les Marocains appellent
+ces sacs semât; ils sont en cuir de Tâfîlêlt) fermés, de
+2.000 dinars chacun. Ces sacs étaient portés sur les selles
+de ses chevaux dans les voyages; dès l'arrivée de l'armée
+au campement, et aussitôt que les tentes étaient dres-
+sées, les hommes préposés à ce service enlevaient chacun
+le sac dont ils avaient la consigne, et le portaient à la qoubba
+du Sultan. Au départ il en était de même, et les sacs ne
+leur étaient remis qu'après que leur contenu avait été
+compté et pris en note.
+
+
+Parmi ces biens se trouvaient aussi 100 cistres d'or
+pur, semblables à des rondelles de cire, du poids de
+4.000 douros chacun. On les portait en voyage sur des
+mules, dans des paniers de charge recouverts de tapis
+
+
+ARCH. MAROC.
+
+
+16
+
+
+274
+
+
+ARCIIIVES MAROCAINES
+
+
+(les Marocains les appellent þénabel) serrés avec des
+cordes: comme dans chaque panier double on plaçait
+quatre disques, le tout était porté sur 25 mules qui mar-'
+chaient devant Moulay Abdallah, et quand la colonne
+arrivait au camp, on le déposait dans la tente impériale,
+dans les mêmes conditions que les sacs. Moûlay Abdallah
+ben Ismail considérait comme très prudent de porter son
+argent avec lui partout où il allait, sans jamais s'en sépa-
+rer. Dans l'héritage de son père, Sidi Mohammed trouva
+aussi 225.000 douros et environ 20.000 mouzoûnas minces
+de la frappe qu'il avait fait effectuer.
+
+
+Voilà ce que laissa Moulay Abdallah comme biens << ina-
+nimés »; il les confiait toujours à la surveillance d'un de
+ses ousifs, le qâïd Allâl ben Mésoûd. Le Prince des
+Croyants prit possession de ces richesses, les transporta à
+la Mhalla, où il les confia à ses gardiens. Il recommanda à
+ses gens de traiter avec égards les serviteurs de son père
+qu'il enrôla à son service. Ceux d'entre eux qui se distin-
+guèrent, il les rapprocha de lui: quant aux autres, il les
+éloigna bientôt.
+
+
+Il reçut ensuite une députation de toutes les tribus du
+Ġarb, qui vinrent lui apporter des cadeaux et des présents :
+il fut généreux, comme il convenait, envers chacun des
+délégués.
+
+
+Au début de son règne, Sîdi Mohammed était d'un
+accès facile.
+
+
+Il maintint en fonctions tous les qâïds des tribus et les
+gouverneurs des villes, qui pendant le règne de son père
+étaient pour ainsi dire indépendants. Il leur laissa leurs
+commandements et n'en écarta aucun sans avoir pris à son
+sujet des informations complètes. Seul, le gouverneur de
+Tétouan, Abou  Abdallah Mohammed ben Omar Elouaq-
+qâch, fut révoqué. Il n'avait pas voulu lui obéir quand il.
+était khalifa à Morrakch, et s'il recevait une lettre de lui.
+contenant un ordre, il la jetait derrière son dos et disait.
+
+
+ي
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+275
+
+
+à l'envoyé : « Une femme ne se marie pas avec deux
+hommes! » ou tenait d'autres propos de ce genre. Ce qui
+signifiait: qu'il lui suffisait d'obéir déjà au sultan Moûlay
+'Abdallah. Aussi quand Sidi Mohammed fut proclamé Sultan
+et se rendit à Fès, Elouaqqach, redoutant sa punition pour
+ses méfaits précédents, resta sur la réserve et alla se
+réfugier au mausolée du chéïkh Abdesselâm ben Mechich,
+emmenant avec lui sa famille et emportant son argent. Les
+habitants de Tétouan se rendirent auprès du Sultan, pro-
+testèrent de leur soumission et de leur innocence des
+actes de leur gouverneur, et lui donnèrent des détails sur
+son compte. Le Sultan leur désigna comme gouverneur
+le fqih Aboû Mohammed Abdelkerîm ben Zakoûr, l'un
+de ses secrétaires, qu'il avait déjà nommé gouverneur
+d'El arêïch et qui avait déjà quitté Morrakch. Il le donna
+néanmoins aux gens de Tétouan, car c'était comme eux
+un hadari raffiné.
+
+
+Le sultan Sîdi Mohammed prolongea encore son séjour
+à Fès de deux mois, et retourna ensuite à Méknès.
+
+
+Établissements du meks à Fès et dans les autres villes,
+et opinions exprimées à ce sujet  .
+
+
+Lors du séjour que le sultan Sidi Mohammed ben
+Abdallah fit dans la capitale de Fès après son avènement,
+les habitants de cette ville lui présentèrent leurs doléances
+au sujet des taxes qu'ils payaient à son père Moûlay
+ Abdallah et qui frappaient les balances, comme celles de
+Sîdi Fréj, du marché au beurre fondu, du marché aux
+huiles, etc. Ces taxes formaient un total de 300 mitsqals
+par mois, soit 3.600 mitsqâls par an. Lorsque les juriscon-
+sultes de Fès se rendirent auprès de lui, le Sultan les
+
+
+1. Texte arabe, IV partie, p. 93.
+
+
+276
+
+
+ARCHIVES MAROCAINES
+
+
+entretint de ces taxes et de son désir de baser sur leur
+fetona la décision qu'il prendrait à ce sujet. Ceux-ci décla-
+rèrent que si le Sultan n'avait pas d'argent, il avait le
+droit de percevoir sur ses sujets les sommes nécessaires
+pour payer la solde de l'armée. Le Sultan les ayant priés
+de lui donner cette réponse par écrit, ils établirent un
+rapport qui servit de base au Sultan pour taxer les portes,
+les produits de la terre et les marchandises. Le très docte
+professeur Ettâoudi ben Soùda, le très docte chéïkh Aboû
+ Abdallah Mohammed ben Qâsém Guessoûs, le maître
+Aboû Hafs Omar Elfèsi, le fqih, le jurisconsulte Aboû
+Zéïd 'Abderrahmân Elmendjra, le jurisconsulte Abou
+ Abdallah Mohammed ben Abdessadeq Ettrabelsi, et le
+jurisconsulte et qadi Aboû Mohammed Abdelqåder Boû
+Kheriş furent parmi ceux qui rédigèrent ce rapport.
+
+
+Le meks a toujours été une source de calamités dans
+tous les pays, sous toutes les dynasties, et depuis les temps
+les plus reculés. Il n'est donc pas sans intérêt de rap-
+porter ce que les savants ont écrit à ce sujet.
+
+
+Voici quelle est en cette matière l'opinion de l'Imâm,
+argument de l'Islam, Abou Hamed Elġazzali (Dieu soit
+satisfait de lui!) dans son livre intitulé Chifâ Eljalil:
+
+
+<<< La thèse que l'on soutiendra peut-être est la sui-
+vante: L'imposition du kharûdj et la taxation des
+immeubles sont une nécessité évidente. Sans elles les
+gouvernements n'ont pas de quoi subvenir à l'entretien
+de l'armée et ne peuvent ni profiter de son assistance, ni
+établir la puissance de l'Islâm. Aussi le kharâdj a-t-il
+existé à toutes les époques, et les souverains, quels que
+fussent leur politique ou leur caractère, l'ont tous imposé
+et n'ont pas pu y échapper. C'est que les intérêts spiri-
+tuels et matériels ne peuvent être défendus avec fruit que
+par un prince obéi, un gouvernement respecté, qui réunit
+les éléments épars de la foi, qui assure l'autorité de la reli-
+gion et la pureté de l'Islâm, qui défend le bien des musul-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+277
+
+
+mans et veille à leur prospérité. Il n'arrive à ce résultat
+que par l'énergie, l'autorité et l'armée. Celle-ci lui sert
+à combattre les infidèles, défendre les places frontières,
+contenir les impies révoltés, et les empêcher de porter
+atteinte aux richesses, aux choses sacrées et aux épouses.
+Elle est la gardienne de la religion: elle préserve ses
+colonnes de la ruine et l'empêche de se dissoudre sous
+l'effet de l'invasion des infidèles dans les pays musulmans.
+Elle protège le pouvoir temporel contre le désordre qui
+naît de la révolte et du pillage suscités par les mauvais
+sujets. Or l'on sait quelles dépenses considérables
+entraînent la nourriture des soldats, leur entretien et
+celui de leurs familles. Ceux-ci ont droit au dixième du
+butin et du tribut, mais cela ne suffit pas le plus souvent
+à couvrir leurs dépenses et à subvenir à tous leurs besoins.
+On ne saurait y faire face qu'en taxant les riches. Donc,
+si vous voulez faire face aux nécessités, vous devez admettre
+que cet impôt est permis dès que la nécessité se mani-
+feste.
+
+
+<<< Voici votre réponse à cette thèse : L'impôt dont il s'agit
+est légitime quand il est réclamé par la nécessité. Or en
+quoi consiste cette nécessité ?
+
+
+<< Nous dirons, en premier lieu, qu'à l'époque actuelle,
+le caractère de l'imposition et son application en font une
+pure injustice que rien ne légitime. En effet, si toute leur
+solde était versée à la plupart des soldats et qu'elle fût
+répartie également entre tous, elle leur suffirait pendant
+un certain temps. Mais combien en a-t-on vu qui ont pris
+des habitudes de bien-être et de fainéantise, et qui gas-
+pillent leur superflu pour s'élever par la popularité et le
+luxe au-dessus des Chosroès! Dans ces conditions comment
+évaluer leurs besoins, pour calculer la quotité du kharadj
+qui doit les entretenir et les soutenir, puisque tous les
+riches eux-mêmes sont pauvres par rapport à eux. Mais, si
+nous envisageons l'hypothèse d'un prince obéi, qui aurait
+
+
+278
+
+
+ARCHIVES MAROCAINES
+
+
+besoin d'augmenter le nombre de ses troupes pour forti-
+fier les places frontières et protéger un royaume agrandi
+et étendu, mais dont le trésor serait vide, et dont les
+troupes n'auraient ni ce qui leur serait suffisant, ni même
+ce qui leur est indispensable, nous pensons que ce prince
+devrait imposer aux riches ce qu'il jugerait suffisant tem-
+porairement, en attendant que l'argent revienne au Tré
+sor. Ensuite il apprécierait l'opportunité de faire rendre
+cet impôt aux produits de la terre et aux denrées, de façon
+que le fait de rejeter les charges sur une minorité ne
+provoquât pas de mécontentement, ni de récriminations.
+De cette façon le peu viendrait du superflu, aucun dommage
+ne serait causé, et le résultat proposé serait atteint. >>>
+
+
+Le chéïkh Aboû Hamed appuie cette opinion sur des
+arguments scientifiques et philosophiques, qu'il serait trop
+long de rapporter.
+
+
+Dans son livre intitulé Elmostașfâ, il dit encore :
+« L'imposition de kharâdj étant une question d'intérêt
+public, par quel moyen l'établir, dira-t-on? Je répondrai:
+par aucun, si les troupes sont dans une grande aisance.
+Mais si elles ne possèdent rien, que le Trésor ne contienne
+pas de quoi payer la solde des soldats, alors même que
+ceux-ci ne sont pas licenciés et occupés à gagner de
+l'argent, et si l'on craint l'invasion des infidèles dans le
+pays de l'Islâm, il est permis au Prince de faire supporter
+aux riches les sommes suffisantes pour l'armée. Ensuite,
+s'il le juge possible, il n'y a pas d'inconvénient dans la
+répartition à imposer uniquement les terres. Nous savons,
+en effet, qu'en présence de deux maux, il faut écarter le pire:
+or la part payée par les contribuables sera peu de chose
+en comparaison du danger que courront leurs personnes
+et leurs biens. Tandis que si le gouvernement de l'Islâm
+est dépourvu d'un prince qui par sa puissance fasse respec-
+ter le bon ordre des choses et coupe le mal dans sa
+racine, c'est la perte du pays et de ses habitants. >> Notre
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+279
+
+
+auteur veut dire par les riches, ceux qui ont la possibilité
+et les moyens de payer quelque chose sans en souffrir.
+
+
+Le qadi Abou Omar ben Mansour indique, dans une
+réponse, que, dans l'établissement du kharâdj et dans
+son application aux denrées, il faut observer certaines
+conditions:
+
+
+$1^{o}$ Il faut que le Trésor public soit vide et qu'il soit
+nécessaire d'avoir des troupes. En effet, si le Trésor est
+en mesure d'assurer cette dépense, il n'est pas légal
+d'imposer quoi que ce soit aux sujets. Le Prophète (que
+Dieu prie sur lui et lui donne le salut!) a dit : « Celui qui
+aura établi le meks n'entrera pas au paradis, car il aura
+fait payer de l'argent injustement. >>>
+
+
+$2^{\circ}$ Le prince doit employer les fonds d'une façon juste :
+il lui est interdit de les dépenser pour d'autres que pour
+les musulmans, de les gaspiller, de les donner à ceux
+qui $n^{\prime}y$ ont pas droit, ou de donner à quelqu'un plus que
+sa part.
+
+
+$3^{\circ}$ Il doit baser l'emploi de ces fonds sur l'utilité et les
+besoins, et non sur l'arbitraire ou sur l'intérêt: (cette
+troisième condition rentre dans la seconde).
+
+
+$L^{\circ}$ La taxe doit être imposée à ceux qui sont à même de
+la payer sans en souffrir: ceux qui ne possèdent rien, ou
+n'ont que de faibles ressources, doivent en étre exempts.
+
+
+$5^{\circ}$ L'Imam doit exercer une vigilance constante, car le
+moment peut arriver où il n'est plus nécessaire de rien
+ajouter aux revenus habituels du Trésor.
+
+
+De même si le bien public réclame l'assistance corpo-
+relle, et que les ressources pécunières soient insuffisantes,
+les gens seront contraints de la fournir personnellement
+en vue de l'objet qui la rend nécessaire, mais à condition
+que leurs forces le leur permettent, que le bien public
+la réclame et que ce soit une nécessité. Dieu sait quelle
+est la vérité.
+
+
+250
+
+
+ARCHIVES MAROCAINES
+
+
+Mise à mort de Boû şekhoûr Elkhomsi: ce qu'était ce personnage  
+
+
+A son retour de Fès, le sultan Mohammed ben Abdallah
+demeura quelque temps à Méknès. Puis il se mit en route
+pour les montagnes de Gomâra, où on lui avait annoncé
+que le mrábet, Aboù Abdallah Mohammed El'arbi
+Elkhomsi, surnommé Boùşşekhoùr, qui jouissait d'une
+influence et d'une renommée considérables parmi les
+tribus de ces montagnes, annonçait la fin prochaine de
+son règne. Ce personnage se faisait remarquer par son
+ascétisme et sa piété: il prétendait se faire servir par les
+djinns, et les paysans avaient en lui la plus grande
+croyance. Le Sultan se saisit de lui, le tua el envoya sa
+tête à Fès; le bâcha Elayyachi fut nommé gouverneur
+des tribus de Ġomâra, d'Elkhemás et de toute la région
+environnante, avec Chefchaoun pour résidence.
+
+
+Le Sultan retourna à Méknès il y arriva malade
+(1ur moharrem 1172). Les perturbateurs disaient que sa
+maladie était la punition du meurtre de Boûşşekhoûr et la
+réalisation de la prédiction de ce mrâbet sur la fin pro-
+chaine du règne du Sultan. Mais Dieu le guérit bientôt, à
+la confusion des mauvais sujets.
+
+
+Après avoir séjourné à Méknès pendant tout le mois de
+moharrem, au cours duquel il fit transporter dans cette
+capitale les Abids d'Essloûqiya qu'il réunit à leurs contri-
+bules, il se mit en route pour Morrâkch en şafar, accom-
+pagné de 1.000 cavaliers pris parmi eux. Aussitòt arrivé
+à Morrakch, il les renvoya à Méknès, après les avoir
+habillés, armés et montés. 1.000 autres Abîds, revinrent
+les remplacer, et furent à leur tour pourvus d'armes, de
+chevaux et de costumes. Il continua ainsi jusqu'à ce qu'ils
+fussent tous pourvus de chevaux, d'armes et de vêtements,
+
+
+1. Texte arabe, IV partie, p. 94.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+281
+
+
+et ne leur demanda pas compte de ce qu'ils possédaient
+aux jours de la révolte.
+
+
+Voyage du sultan Sidi Mohammed ben Abdallâh aux places
+frontières, et inspection de leur situation .
+
+
+Le Prince des Croyants quitta Morrâkch dès le début de
+l'année 1173 et se rendit à Méknès. Là il distribua aux
+Abids leur râteb, et envoya le leur aux Oûdêya, qu'il
+invita à se mettre en route avec lui pour une tournée
+dans les places maritimes du Magrib. Il alla d'abord à
+Tétouan, où il séjourna. Il y fit construire le bordj de
+Martil et distribua de l'argent aux Abids qui y tenaient
+garnison depuis l'époque du sultan Moûlay Ismail. Ces
+nègres étaient les derniers  Abîds de Ceuta, c'est-à-dire de
+ceux qui avaient fait le siège de cette ville. A la mort de
+ce prince, l'empire était livré à l'anarchie, les 'Abîds
+qui assiégeaient Ceuta s'étaient dispersés et avaient
+gagné leurs tribus respectives. Comme il en restait un
+millier qui n'avait pas de tribu, ils avaient été transportés
+à Martîl par Aboû Hafş Elouaqqach, qui avait été généreux
+pour eux et les avait employés à tenir en respect les
+tribus du voisinage.
+
+
+Le Sultan se mit ensuite en route pour Tanger, en
+passant par Ceuta qu'il voulait reconnaître. Il vit que
+cette place était forte et inaccessible, et se rendit compte
+que ce serait une sérieuse affaire que de la convoiter. Sur
+son ordre, les soldats qui étaient auprès de lui firent
+avec leurs fusils le feu de salve, qu'on appelle communé-
+ment hadroûn. Les chrétiens répondirent par une salve
+de canons et de mortiers, qui fit trembler les montagnes.
+Le Sultan en fut charmé.
+
+
+1. Texte arabe, IV partie, p. 95.
+
+
+: 282
+
+
+ARCHIVES MAROCAINES
+
+
+Son voyage à Ceuta n'avait eu d'autre but que de
+reconnaître cette place, qu'il n'avait pu étudier d'une
+façon complète lors de son premier voyage. Après cet
+examen, il remit cette affaire à plus tard.
+
+
+Il ne partit pas sans avoir recommandé aux gens d'And-
+jera de désigner un certain nombre d'hommes armés,
+pour garder les abords de Ceuta et surveiller la frontière,
+et sans leur avoir donné de l'argent pour leur permettre
+d'assurer ce service.
+
+
+Le Sultan campa dans le voisinage de Tanger. Les
+notables et les principaux Rifains de la ville vinrent
+auprès de lui, sous la conduite de leur bâcha  Abdeşşâdeq
+ben Ahmed ben Ali Errîfi, qui s'était déjà rendu auprès
+de lui à Morrâkch quand il était khalifa. Après les avoir
+reçus, cette fois, le Sultan leur fit des cadeaux, et leur
+distribua de l'argent et des vêtements. Le bâcha Abdessa-
+deq reçut l'ordre d'envoyer son frère 'Abdelhadi à Tétouan,
+pour'y surveiller la construction des galiotes.
+
+
+A El'arèïch, le Sultan trouva la ville déserte, il $n^{\prime}y$ res-
+tait pas plus de deux cents Rifains environ, qui étaient
+sous la protection des gens du Garb. 'Abdesselâm ben
+'Ali Ou Addi fut nommé gouverneur de la ville, où le
+Sultan fit venir cent  Abids de Méknès.
+
+
+De là il alla à Salé, franchit la rivière et campa à Rabât
+Elfeth, où il demeura quelques jours. Il ordonna au gou-
+verneur, Aboûlhasan Ali Mârsîl, de bâtir une şqala, c'est-
+à-dire un grand fort dominant la mer: il ordonna égale-
+ment au gouverneur de Salé, Abdelhaqq Fennich, d'en
+élever un second à Salé, en face de celui de Rabâț.
+L'ordre fut également donné de construire deux vaisseaux,
+l'un pour les gens de Salé, l'autre pour les habitants de
+ Rabat. Jusqu'alors, ces deux villes n'avaient possédé qu'un
+seul navire, qu'elles avaient construit pour leur usage
+commun lors de l'interrègne. Il leur avait servi à se rendre
+à la place d'Agâdîr, d'où leur députation était allée
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+283
+
+
+saluer Sîdi Mohammed ben Abdallah au moment où il
+était khalifa à Morrakch celui-ci les avait bien reçus et
+leur avait remis de fortes sommes d'argent pour les
+moujahidîn des Deux-Rives. Pendant son séjour à Rabât,
+le Sultan renvoya dans leurs foyers le guéïch des 'Abids et
+les Oûdêya.
+
+
+Reparti pour Morrâkch, il écrivit, dès son arrivée, aux
+négociants chrétiens d'Asfi pour les inviter à lui acheter les
+agrès nécessaires aux bateaux corsaires, comme des mâts,
+des câbles, des ancres, des cordages, des voiles, des ba-
+rils, etc. Les marchands rivalisèrent entre eux pour ces
+achats et s'empressèrent de faire venir ces agrès et de les
+choisir pour le Sultan.
+
+
+Sîdi Mohammed convoqua ensuite les Harrâțîn du Şahara
+des tribus d'Eljebabra, Elma ârka et Oulad Boû Ahmed,
+qui vivaient à Errêteb et à Tâfîlêlt; il avait appris qu'ils
+prêtaient leur appui à son oncle Moûlay Elhasan pour
+faire la guerre aux chérîfs de cette région. Il les trans-
+porta à Méknès, les habilla, leur donna des armes et les
+inscrivit sur le Diouân du guéïch.
+
+
+Cette année-là, le Sultan reçut la nouvelle de la mort de
+Moûlay Elmostadi ben Ismail au Tâfilélt, comme nous
+l'avons déjà vu.
+
+
+Répression par le sultan Sidi Mohammed ben 'Abdallah
+de la révolte des Oûdêya et ses causes ¹.
+
+
+Les Oûdêya étaient un des corps les plus importants de
+l'armée isma'îlienne, comme nous l'avons rapporté pré-
+cédemment. Moùlay Ismâ'il s'était intéressé à eux et s'en
+était servi. Il les avait groupés et enrichis, et leur avait
+assigné comme résidence Fès Eljedîd et les environs. Ils
+
+
+1. Texte arabe, IVe partie, p. 96.
+
+
+28-1
+
+
+ARCHIVES MAROCAINES
+
+
+y vécurent et s'y habituèrent si bien, qu'ils devinrent plu-
+tòt que les autres troupes les véritables habitants de cette
+ville. Ils se distinguaient par leur grande richesse. Ils
+habitaient des palais. Chaque mois, chaque année, leur
+apportait plus de force, plus de fierté arrogante.
+
+
+A sa mort (Dieu lui fasse miséricorde !) ils étaient par-
+venus, à Fès Eljedîd, au faîte de la puissance et de la
+cohésion, étaient en mesure de résister au gouverne-
+ment, et leur force se montra dans toute sa rigueur
+envers ceux qui, étant au pouvoir, voulaient leur nuire.
+Aussi ils n'obéissaient pas aux ordres des fils de Moûlay
+Ismail, surtout quand ils purent se glorifier d'être deve-
+nus les oncles du sultan Moulay Abdallah, qui fut le plus
+puissant et le plus populaire de ces princes. Celui-ci, néan-
+moins, tantôt se servait d'eux, et tantôt les faisait atta-
+quer.
+
+
+Les désordres furent continuels pendant cette période :
+nous les avons déjà exposés en détail.
+
+
+A la fin du règne du sultan Moûlay Abdallah, la discorde
+était survenue, après la mort de Mohammed Ou Aziz,
+entre les Aït Idrâsén et les Guerouân.
+
+
+La lutte avait éclaté entre eux par deux fois, et les gens
+de Guerouân, soutenus par les Oûdèya, avaient harcelé
+les Aït Idrâsén, qu'ils tuaient et pillaient, et les avaient
+chassés de ce pays. Quand le sultan Sidi Mohammed fut
+proclamé, les Aït Idrâsén vinrent se réfugiér auprès de
+lui, car ils avaient été les partisans de son père, au temps
+de Mohammed Ou  Azîz. Il leur donna comme gouverneur
+le fils de celui-ci et leur assigna comme résidence la
+banlieue de Méknès. Le Sultan n'ignorait pas comment
+les Guerouân et les Oûdèya s'étaient comportés vis-à-vis
+d'eux, la façon dont ils les avaient battus. Il savait de plus
+que ces derniers attaquaient les voyageurs sur les routes
+et leur faisaient payer de l'argent pour obtenir leur pro-
+tection. Ils avaient, à ce moment, pour chef un individu
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+285
+
+
+nommé Jebboûr, qui était un brigand consommé. Le sultan
+Sidi Mohammed établit une alliance entre les Aït Idrâsén
+et les Aït Zemmour, dont il forma un clan, et les recom-
+manda au gouverneur de Méknès. En même temps, il
+invita les Guerouân à cesser de tourmenter les Aït Idrâsén,
+mais, loin de changer d'attitude, ceux-ci ne firent que les
+combattre de nouveau, soutenus par les Oùdêya, qui vou-
+laient continuer à les traiter comme du temps du sultan
+Moulay Abdallah; ils pensaient pouvoir arriver à leurs
+fins avec son fils Sidi Mohammed, et cependant :
+
+
+<< Si le lion montre ses dents, ne crois pas que le lion
+sourie. >>>
+
+
+Quand il apprit ce qui se passait, le Sultan donna l'ordre
+au qâïd des Abîds et à celui des Aït Zemmoûr de préter
+leur appui aux Aït Idrâsén, et d'aller les secourir contre
+les Guerouân, puisque ceux-ci étaient soutenus par les
+Oûdêya.
+
+
+La guerre commença avec impétuosité, découvrant ses
+dents et relevant son manteau au-dessus de ses cuisses.
+Les Oûdėya vinrent au complet camper sur l'Oued Fès, le
+$1^{cr}$ ramadan, et demeurèrent là, sans jeûner, profanant le
+respect dû au jeûne par ce voyage illicite.
+
+
+Après avoir opéré leur jonction avec les Guerouân, ils
+marchèrent dans la direction de Méknès. Les Aït Idrâsén
+s'avancèrent contre eux avec les Abids etles Aït Zemmoûr,
+leurs alliés. La rencontre eut lieu sur les bords de l'Oued
+Quîslén, où une bataille fut livrée. Les Aït Idrâsén furent
+victorieux et mirent leur ennemi en déroute. Ils pillèrent
+les campements des Guerouân et la Mhalla des Oûdėya;
+près de 500 de ces derniers furent tués et les têtes des
+notables furent coupées et suspendues à Méknès, au-dessus
+de Bâb Eljedîd. Les Oûdêya revinrent à Fès en déroute:
+ils n'avaient jamais essuyé une pareille défaite.
+
+
+Quand il apprit cela, le Sultan fut très irrité contre les
+Oûdêya, qui lui avaient désobéi et avaient violé les droits
+
+
+286
+
+
+ARCHIVES MAROCAINES
+
+
+de leurs voisins, et conçut le projet de se venger d'eux,
+mais il dissimula cette résolution.
+
+
+Le Sultan demeura à Morrâkch jusqu'à l'année 1174. A
+cette époque il quitta cette ville pour se rendre à Méknès,
+avec l'intention cachée de réduire les Oûdêya. Ceux-ci se
+doutaient de ses dispositions, et quand il arriva à Méknès,
+ils lui envoyèrent leurs femmes âgées, pour intercéder en
+leur faveur et lui présenter leurs excuses. Elles le rejoi-
+gnirent en route, et firent appel à leurs liens de famille
+et à leur parenté avec lui. Le Sultan leur témoigna de la
+bienveillance et leur distribua des vêtements et de l'argent.
+Elles revinrent avec lui à Fès. Le Sultan établit son cam-
+pement et celui de ses soldats à Eşşefșâfa. Les gens de
+Fès et les Oûdêya allèrent le saluer: il leur adressa des
+paroles aimables et leur fit bon accueil. Le lendemain, il
+donna l'ordre de tenir le Mechouar à Dâr Eddebibag. Les
+gens de Fès lui apportèrent, suivant l'usage, les victuailles
+de l'hospitalité, que le Sultan fit porter à l'intérieur de
+Dâr Eddebîbag. Après la prière du  aser, il se rendit au
+Mechouar pour la réception et se tint là pour recevoir les
+députations qui lui apportaient leurs présents. Il avait
+posté dans un coin de la place un millier de Msakhrîn, qui
+devaient s'emparer des notables Oûdêya. Quand ceux-ci
+entrèrent, les portes furent fermées et les Msakhrîn se
+précipitèrent sur eux, leur enlevèrent leurs armes, les
+ligottèrent et les couchèrent par terre. Lorsque le guéïch
+et toutes les autres personnes eurent terminé leur repas,
+le Sultan envoya des cavaliers pour attaquer le campement
+des Oûdêya et des Mġafra, à Lemța. Ces cavaliers se
+mirent en route, et le Sultan, accompagné de son cortège,
+ne tarda pas à les suivre. Avant le coucher du soleil, au
+moment où il passait à l'est de Fès Eljedîd, les Oûdêya
+lancèrent des boulets sur lui du haut des borjs, mais sans
+résultats. A peine était-il arrivé à l'endroit appelé Dâr
+Errekhâ, qu'il vit s'avancer les soldats qui ramenaient des.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+287
+
+
+prisonniers, des bagages et des tentes, car ils avaient entio
+rement dévalisé le campement des Oûdêya. Les notables
+d'entre eux qui étaient à Fès Eljedîd profitèrent de la nuit
+pour se sauver, chacun de leur côté: les uns allèrent se
+réfugier au mausolée du chéïkh Aboûl'abbas Ahmed
+Echchaoui, les autres à la zâouya du chéïkh Elyoûsi,
+d'autres enfin au mausolée de Sidi Boû Sergîn à Şefroû.
+Il ne restait plus à Fès Eljedid que les plus misérables
+d'entre eux, qui demeurèrent sur la muraille de la ville,
+demandant l'amân. Attendri par les liens de famille, le
+Sultan se montra bienveillant et leur pardonna. Il les.
+envoya à Fès-le-Vieux et mit à leur place, à Fès Eljedid,
+1.000 familles de  Abîds, qui vinrent y tenir garnison. C'est
+ainsi que le Sultan se débarrassa des Oûdėya, qui avaient
+été pendant si longtemps ses favoris.
+
+
+Bientôt le Sultan (Dieu lui fasse miséricorde !) fit mettre
+en liberté quatre prisonniers Oûdêya. L'un d'entre eux
+était le célèbre qâïd Qaddoûr ben Elkhadir. Il leur donna
+l'ordre de faire une enquête au sujet de leurs camarades
+emprisonnés, de déterminer ceux d'entre eux qui étaient
+des mauvais sujets et de lui en apporter la liste: il leur
+recommanda en même temps de faire ce travail avec sin-
+cérité. Ils désignèrent cinquante prisonniers, comme étant
+des batailleurs et des mauvais sujets. Le Sultan leur fit
+mettre les kebal aux pieds et ordonna de les accoupler
+deux à deux avec une chaîne. Il les envoya ensuite à
+Morrâkch, hissés par couple sur des chevaux. Le pays fut
+ainsi purifié de leurs diableries.
+
+
+Peu de temps après, le Sultan (Dieu lui fasse miséri-
+corde!) ordonna au qâïd Qaddoûr ben Elkhadir de mettre
+en liberté ses autres contribules encore prisonniers, d'en
+prendre un certain nombre pour compléter, avec les
+Oûdêya et les Mġafra, le chiffre de 1.000 et de renvoyer
+les autres dans leurs tribus et leurs campements. Ces
+mille hommes furent ensuite envoyés à l'écurie de Méknės
+
+
+288
+
+
+ARCHIVES MAROCAINES
+
+
+qui devait leur servir de qaşba. Ils transportèrent leurs
+familles à Méknès et s'y fixèrent avec les Abids; ils étaient
+toutefois seuls à habiter l'écurie.
+
+
+Le qâïd Qaddoûr ben Elkhadir reçut du Sultan le com-
+mandement de cette troupe; bien que le plus jeune de
+tous, il était le plus intelligent et le serviteur le plus
+dévoué. Il eut pour mission de les instruire et de les
+administrer. Ils finirent par s'habituer à l'obéissance au
+gouvernement et se soumirent à ses ordres, observant ses
+prescriptions et ses défenses. Le Sultan leur fournit peu
+à peu des chevaux, des armes et des vêtements, et finit
+par leur donner à tous des montures. Leur situation devint
+prospère, et ils se développèrent par la suite. Ils demeu-
+rèrent à Méknès et furent transportés de nouveau à Fès
+Eljedîd par Moûlay Yazîd ben Mohammed, au début du
+règne de ce prince, comme nous le verrons, s'il plaît à
+Dieu.
+
+
+Cette année-là (1174), le Sultan vendit les meks de Fès,
+pour une somme annuelle de 12.000 mitsqâls, au gouver-
+neur de cette ville, Elhaddj Mohammed Eşşeffar. Il se
+rendit ensuite à Morrakch; nous allons rapporter ce qu'il
+fit après son entrée dans cette ville.
+
+
+Nouveau voyage du sultan Sidi Mohammed de Morrâkch au Garb
+et incidents qui marquèrent ce déplacement 1.
+
+
+En 1175, le sultan Sîdi Mohammed ben 'Abdallah, Dieu
+lui fasse miséricorde! quitta Morrakch pour se rendre
+dans le Garb. Mais il se détourna de sa route pour passer
+chez quelques tribus qui se livraient encore à des méfaits,
+les réduisit et les désunit. En arrivant chez les Chaouiya,
+il livra les habitants au pillage, leur enleva tous leurs
+
+
+1. Texte arabe, $IV^{e}$ partie, p. 97.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+289
+
+
+biens, en tua un certain nombre, et fit de nombreux pri-
+sonniers, qu'il envoya enchaînés à Morrakch. 11 s'écarta
+ensuite de son chemin pour aller du côté de Tadla. Il
+passa par le pays des Brabér Chqirén, qui font partie des
+Aït Ou Malou, les livra au pillage et tua tous ceux qu'il
+put saisir. Puis il se mit en route pour les pays du Garb.
+dans le but de soumettre les Hayâïna, qui commettaient
+des méfaits et s'étaient révoltés. Il commença d'abord par
+piller les Aït Skâto, puis les Beni Saddén, et enfin les
+Hayâïna, qui s'enfuirent devant lui vers les montagnes des
+Ġayyâtsa, où ils se fortifièrent. Le Sultan laissa ses troupes
+dans leur pays pour ravager leurs cultures, et se rendità
+Tâza. Il attaqua les Hayâïna dans les montagnes des
+Gayyâtsa, leur tua un certain nombre de gens et les mit
+en déroute, tandis que ses soldats ravageaient leurs cul-
+tures, brûlaient leurs douwars et fouillaient le sol pour
+trouver leurs trésors. Quand ils eurent entièrement rasé
+leur territoire, le Sultan revint à Méknės.
+
+
+Pendant le séjour qu'il fit dans cette ville, il fit arrêter
+le chéïkh Mahmoûd Echchenguîți, qui faisait profession de
+soufisme et agitait la population de Fès. Ce personnage
+était venu de son pays se fixer dans la sacristie de la
+mosquée d'Elqarouiyin et affectait une grande piété. Les
+notables de Fès et les négociants se réunissaient autour
+de lui et avaient foi en lui. « Il ne se bornait pas, dit l'au-
+teur du Boustân, à recevoir les gens, ce qui était son
+aflaire, mais il se mit à parler du gouvernement, à corres-
+pondre avec les Berbers et à prétendre que le Sultan
+d'alors n'était pas légitime, puisque pas un seul person-
+nage saint ne l'avait reconnu. Le Sultan fut informé de
+ces propos et le fit emprisonner. Il le fit envoyer à la pri-
+son de Morrâkch. Plus tard il fut soumis à la torture et
+mourut, sans que ni la terre, ni le ciel ne le pleurassent. >>
+« Il disait, raconte Akensoûs, que le Sultan mourrait au
+bout d'un mois. Ses paroles se répandirent parmi les
+
+
+ARCH. MAROC.
+
+
+19
+
+
+200
+
+
+ARCHIVES MAROCAINES
+
+
+gens du peuple, qui se mirent à acheter du charbon et du
+bois et à faire des provisions. Une émeute ayant éclaté à
+la suite de cela à Fès, le Sultan écrivit aussitôt au gouver-
+neur de cette ville d'arrêter ce personnage et de l'en-
+voyer à Morrâkeh. >>
+
+
+Pendant qu'il était encore à Méknès, le Sultan fit aussi
+emprisonner l'amin Elhaddj Elkhayyat Adéyyil et ses
+frères, qui lui devaient de l'argent. Une partie des sommes
+qu'il leur réclamait était due par leur père. A la fin de
+l'année, il les fit mettre en liberté. $L^{\prime}un$ d'entre eux,
+Elhaddj Elkhayyat, et Si Ettahar Bennani Errebâți furent
+envoyés comme ambassadeurs auprès du Sultan de Cons-
+tantinople, Moustafa ben Ahmed Elotsmâni.
+
+
+Le Sultan (Dieu lui fasse miséricorde !) nomma son cou-
+sin Moûlay Idris ben Elmontaşir, khalifa à Fès, et lui
+donna le commandement de toutes les tribus du Djebel.
+
+
+Dans la mème année, il donna l'ordre de constituer en
+habous, en faveur de toutes les mosquées du Magrib, les
+livres de la Bibliothèque Isma 'îlienne, qui se trouvait à la
+Doueïrat Elkoutoub à Méknès, et qui contenait plus de
+12.000 volumes. Les bibliothèques des mosquées sont,
+encore de nos jours, remplies de ces livres, sur lesquels est
+inscrit l'acte établissant leur constitution en habous au
+nom de ce Sultan.
+
+
+Sidi Mohammed retourna ensuite à Méknès. Cette
+année-là, le gouverneur de Fès, Elhaddj Mohammed
+Eşşeffar acheta les meks de la ville pour une somme
+annuelle de 23.000 mitsqals.
+
+
+Le sultan Sidi Mohammed ben 'Abdallâh châtie la tribu
+de Mesfioua; motifs de cette répression ¹.
+
+
+Les Mesfioua avaient embrassé, comme nous l'avons vu,
+
+
+1. Texte arabe, IV partic,  . 98.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+291
+
+
+le parti de Moulay Elmostadi, mais ils avaient fait leur
+soumission à Moulay Abdallah, quand celui-ci, au cours
+de l'expédition qu'il avait conduite dans le Hoùz, avait
+obligé Moùlay Elmostadi à s'enfuir de chez eux, et leur
+avait infligé la répression que nous avons rapportée.
+Cependant leur soumission au Sultan n'était qu'apparente,
+leurs ressentiments couvaient toujours dans leurs cours,
+et l'obéissance qu'ils avaient manifestée n'était qu'un
+armistice conclu avec une arrière-pensée. Aussi, quand
+commença le règne du sultan Sidi Mohammed (Dieu lui
+fasse miséricorde!) ils recommençèrent leurs méfaits.
+« Ces Mesfioua, dit l'auteur du Boustan, étaient d'auda-
+cieux rebelles, qui manifestèrent pour le gouvernement,
+dès le jour où Sîdi Mohammed fut nommé khalifa à
+Morrakch, un dédain qui atteignit un degré inouï. Ce
+prince employa, pour guérir leur maladie, tous les remèdes
+possibles: aucun antidote ne réussit. Quand il vint à
+Morrakch, lors de ce voyage, il reçut une députation de
+cent cinquante notables de cette tribu. Il saisit l'occasion
+qui se présentait et mit à mort tous ces délégués, à
+l'exception du qadi. En même temps, des cavaliers furent
+envoyés pour attaquer leurs campements, les saccagèrent
+et leur causèrent des dommages considérables. Cette opé-
+ration anéantit leurs forces; dans la suite, leur soumission
+fut réelle, et leur situation devint normale. >>>
+
+
+En 1176, le Sultan quitta Morrakch et se mit en route
+pour le Garb. Sur son passage, il pilla les Aït Sibér, qui
+font partie des Zemmour Echchleuh, et les dissémina.
+Arrivé à Méknès, il ordonna aux tribus de payer leurs
+zekâts et leurs achours. Les Hayaïna, les Chraga et toutes
+les tribus du Hoùz vinrent remettre leurs contribution's
+au heri de Fès, et les gens du Garb, les Beni Hsen et
+les Berbers les apportèrent au heri de Méknès. Le Sultan
+partit ensuite en expédition contre les Mermoùcha : ses
+soldats ayant subi un premier échec, il prit lui-mème
+
+
+292
+
+
+ARCIIIVES MAROCAINES
+
+
+(Dieu lui fasse miséricorde!) le commandement des
+troupes et, accompagné de ses Msakhrin des Abîds, il
+battit cette tribu, pilla ses biens, s'empara de ses qaşbas
+et lui tua un grand nombre d'hommes. Les ayant ainsi
+défaits et mis en déroute, il partit pour Tâza, dont il
+rétablit les affaires, et pacifia les environs, puis rentra
+victorieux et sain et sauf.
+
+
+Cette annéc-là, mourut le qâïd des qâïds, qui jouissait
+auprès du Sultan du rang de vizir, Abou  Abdallah
+Mohammed ben Haddo Eddoûkkali. Sidi Mohammed
+avait d'abord donné à ce personnage le commandement
+de Doukkala, au début de son règne; plus tard il adjoignit
+à son commandement celui du Tâmesna et du Tâdla, en
+remplacement d'Elboûzirâri Eljabri, qui fut une des
+colonnes du règne de ce prince (Dieu lui fasse miséri-
+corde!) Le Sultan nomma à sa place son cousin, le qâïd
+Aboù Abdallah Mohammed ben Ahmed.
+
+
+L'année suivante (1177), le Sultan fit construire la
+qoubba du chéïkh Aboulhasan Ali ben Hirzihim, à Fès.
+A la même époque, eut lieu, dans le Şahara de Figuig,
+la révolte d'un individu appelé Ahmed Elkhadir, qui pré-
+tendait être Moûlay Abdelmalék et déclara ensuite qu'il
+était son agent. Il répandit le désordre parmi les popu-
+lations de cette région et fut la cause de nombreux com-
+bats. Le Sultan manda aux Arabs de cette contrée de le
+tuer: ils lui envoyèrent sa tête à Méknès. Il se trouvait
+encore dans cette ville retenu par la maladie, mais Dieu
+le guérit.
+
+
+Il se mit en route ensuite pour Morrâkch. A son passage
+à Rabât Elfeth, il envoya le réïs Elhaddj Ettahami Mdou-
+war Errebâți comme ambassadeur en Suède, pour lui
+rapporter les agrès de navires et de la poudre. Il fit partir
+également comme ambassadeur en Angleterre le réïs
+Aboû Abdallah Mohammed Elarbi Elmestîri Errebâți,
+pour réparer ses corsaires et les gréer à neuf. Ce per-
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+293
+
+
+sonnage partit, répara ses corsaires et revint avant la fin
+de l'année, rapportant des agrès pour deux vaisseaux, des
+canons de bronze, etc.
+
+
+Au cours de l'année 1178, furent célébrées à Morrakch les
+noces de Moûlay Ali, fils du Sultan, avec la fille de son
+oncle Moûlay Ahmed ben Abdallah, et celles du fils de son
+frère, Sidi Mohammedben Ahmed, avec la fille du Sultan. Il
+y eut un repas somptueux, auquel assistèrent tous les gens
+du Magrib, qui apportèrent leurs cadeaux les plus riches.
+Tout alla bien, dès lors, pour le Sultan (Dieu lui fasse
+miséricorde!)
+
+
+Construction de la ville d'Essouéïra (Dieu la garde!) 1
+
+
+Après avoir terminé la célébration des noces de ses
+enfants, le sultan Sîdi Mohammed ben Abdallah (Dieu lui
+fasse miséricorde!) se mit en route pour le pays où se
+trouve Eşşouéïra, afin de construire cette ville et de la
+peupler. Il s'occupa de la tracer et de faire creuser les
+fondations, et laissa au travail les maçons et les divers
+artisans. Il donna l'ordre à ses gouverneurs et à ses qâïds
+d'y construire leurs maisons. Il retourna ensuite à Mor-
+râkch. Dans sa Rihla, le secrétaire Aboûlabbas Ahmed
+ben Elmehdi Elġazzal dit, en résumé, que le motif de la
+fondation d'Eşşouéïra fut le suivant : Le sultan Sidi
+Mohammed ben Abdallah était passionné pour la guerre
+sainte. Dans cette pensée, il avait fait construire des cor-
+saires de guerre qui, le plus souvent, étaient ancrés dans
+le port des Deux-Rives et dans celui d'El'arèïch. Pendant
+deux mois de l'année, au moment de la saison des pluies,
+ces navires ne pouvaient pas prendre la mer, parce que
+ces ports ne faisaient qu'un avec les rivières. Dans
+
+
+1. Texte arabe. IV partie, p. 99.
+
+
+294
+
+
+ARCHIVES MAROCAINES
+
+
+les autres saisons, il y avait trop peu d'eau et le sable
+obstruait l'embouchure des rivières, de telle sorte que les
+bateaux ne pouvaient les franchir. Le Sultan (Dieu lui
+fasse miséricorde!), après avoir réfléchi aux moyens sus-
+ceptibles d'assurer le voyage de ses corsaires à n'importe
+quel moment de l'année, s'appliqua à construire Essouéïra,
+dont le port ne présentait pas de pareils inconvénients.
+
+
+Un autre auteur qu'Elgazzal prétend que le Sultan
+décida la fondation d'Essouéïra pour une autre raison. La
+place d'Agadir était le refuge de révoltés du Soùs, comme
+taléb Şalah, entre autres, qui laissaient faire par là une
+exportation clandestine des marchandises et conservaient
+pour eux les bénéfices réalisés. Le Sultan pensa qu'il ne
+pouvait y avoir d'autre moyen de mettre fin à cette situa-
+tion que de créer un autre port, également rapproché de
+cette région et du centre de l'Empire, afin de diminuer
+petit à petit les gains qu'Agadir procurait à ces rebelles,
+car personne n'avait plus intérêt à s'y rendre. Il fonda
+done Eşşouéïra, la construisit solidement et s'appliqua à
+en faire une ville bien bâtie. Il arma de canons les deux
+iles, la grande et la petite, qui forment comme l'enceinte
+du port, et fit élever un fort bien armé sur le rocher qui
+avance dans la mer, de telle sorte qu'on ne peut entrer
+dans le port sans être à portée des canons à la fois de l'île
+et du fort.
+
+
+Quand la ville fut terminée, le Sultan y fit venir des
+négociants chrétiens pour faire du commerce et, pour les
+attirer, les dispensa de loute taxe douanière. Les com-
+merçants affluèrent bientôt de tous côtés et vinrent s'éta-
+blir dans ce port, qui fut peuplé en peu de temps. L'aban-
+don des droits de douane dans ce te ville dura encore
+nombre d'années plus tard, les droits de șâka et autres
+contributions y furent établis comme dans les autres
+ports. La mème situation existe encore de nos jours.
+Dieu sait quelle est la vérité !
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+295
+
+
+Les Français attaquent Salé et Elarêïch et s'en éloignent
+après avoir subi un échec¹.
+
+
+Nous avons rapporté précédemment que le Sultan était
+passionné pour les choses maritimes et pour la guerre
+sainte sur mer. Ses corsaires allaient et venaient le long
+de toutes les côtes, et surveillaient les abords des places
+de l'infidélité, pour tuer, faire des captifs et prendre du
+butin. Bientôt, les infidèles ne surent plus où naviguer,
+et peu s'en fallut qu'on fut complètement débarrassé d'eux.
+Il y en eut parmi eux qui, effrayés, demandèrent la paix et
+des relations de bon voisinage, et d'autres qui, s'illusion-
+nant sur leur sort, voulurent prendre leur revanche.
+Parmi ces derniers se trouvaient les Français. Les corsaires
+du Sultan (Dieu lui fasse miséricorde!) avaient capturé un
+de leurs bateaux et l'avaient amené dans le port d'El'arèïch:
+ce n'était pas d'ailleurs la seule capture qu'ils leur avaient
+faite: il y en avait eu beaucoup d'autres. Cette dernière
+les détermina à venir attaquer Salé vers la fin de l'an-
+née 1178. Dans sa Rihla, Elgazzal dit : « Les Français
+lancèrent sur Salé des obus et des bombes, avec lesquelles
+ils pensèrent produire un résultat effectif, mais on leur
+en renvoya le double, et il ne se passa pas beaucoup de
+temps avant que leurs bateaux ne prennent la fuite, les
+derniers retardant la marche des premiers; l'ennemi
+s'échappa en déroute, amenant son pavillon et couvert de
+honte. » Le fqih très docte Aboûl'abbas Ahmed ben
+Elmékki Essedrâti Esslaoui (Dieu lui fasse miséricorde!)
+raconte celte affaire de la façon suivante, dans une note
+écrite de sa main qui m'a été communiquée : « Les Fran-
+çais vinrent mouiller devant la ville de Salé, le vendredi
+11 doùlheddja 1178. Ils restèrent en vue, sans rien faire
+
+
+1. Texte arabe, IVe partie, p. 99.
+
+
+200
+
+
+ARCHIVES MAROCAINES
+
+
+le vendredi et le samedi. Le dimanche, leurs vaisseaux se
+rapprochèrent et langèrent 178 bombes. Des maisons
+furent démolies; les femmes et les enfants se sauvèrent
+en dehors de la ville où il ne resta que peu de monde. Ce
+fut une journée mémorable. Le lundi matin, Dieu fit
+souffler contre eux un vent qui dissipa leurs bateaux; et
+le Très-Haut soulagea les musulmans. Les Français revin-
+rent le samedi suivant et lançèrent encore 120 bombes: le
+mardi, 23 doûlheddja, ils en jetèrent encore plus de 130.
+Un seul musulman périt pendant toute cette période. >>>
+
+
+<< Après avoir réparé les avaries faites à leurs navires
+pendant le bombardement de Salé, les Français, dit
+Elġazzal, allèrent attaquer la place d'El'arèïch. » « Ils
+lançèrent sur cette place, dit Esseddrâti, d'après ce que
+l'on raconte, plus de 4.030 obus, qui démolirent les mai-
+sons et la mosquée. » Cette attaque eut lieu le premier
+jour de l'année 1179. Le jeudi 2 moharrem, et suivant une
+autre version le 9, dans la nuit de achoùra, ils entrèrent
+dans le port avec 15 canots, montés par environ mille
+hommes et armés d'un grand nombre de soldats et d'offi-
+ciers. Puis, remontant le cours de la rivière, ils s'avan-
+cèrent vers les bateaux du Sultan qui étaient à l'ancre,
+et mirent le feu à l'un d'eux, qui était précisément celui
+que les musulmans leur avaient capturé. Ils s'attaquèrent
+ensuite à un autre vaisseau avec des barres de fer et des
+haches. Mais bientôt les musulmans les entourèrent: les
+Beni Gorfeț et les gens du Sahel leur livrèrent combat et les
+forcèrent à se retirer. Au moment où ils retournaient vers
+leurs bateaux, ils trouvèrent devant eux les 'Arabs du Ġarb,
+commandés par leur qâïd Habib Elmalki, qui leur barraient
+le passage, à l'entrée du port où ils s'étaient postés sur les
+rochers. Dieu envoya du côté de la mer un vent qui fit
+enfler les vagues et les empêcha de sortir du port, de
+telle sorte que, lorsqu'ils allaient au milieu de la rivière
+pour s'échapper, le vent les repoussait, et que, s'ils vou-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+207
+
+
+laient suivre l'une des deux rives, les musuhnans leur
+lançaient des balles. Ils furent tous exterminés, car les
+musulmans abordèrent ensuite leurs barques à la nage
+et s'emparèrent de onze canots: quatre seulement purent
+se sauver. Les musulmans se partagèrent les morts et les
+prisonniers, qui furent dispersés chez les 'Arabs et dans la
+campagne. Plus tard, le Sultan ordonna de les réunir et
+donna à quiconque lui en amenait un de l'argent et un
+vêtement. Il en réunit ainsi une cinquantaine, qui demeu-
+rèrent en captivité jusqu'au jour où le despote d'Espagne
+s'entremit dans cette affaire et les racheta moyennant une
+somme considérable.
+
+
+Environ quatre-vingts tètes de ceux qui avaient été tués
+furent, sur l'ordre du Sultan (Dieu lui fasse miséricorde !)
+envoyées à Salé et suspendues à la şqâla voisine du mauso-
+lée du chéïkh Ben Acher (Dieu soit satisfait de lui!) Dans
+la suite, la paix fut faite avec les Français, et un traité fut
+conclu, comme nous allons le raconter, s'il plaît à Dieu.
+
+
+Après cette affaire, le Sultan (Dieu lui fasse miséri-
+corde!) se rendit à Elarêïch, où il demeura un mois, pour
+y faire construire des forts et des batteries: cette place
+devint une des plus fortes de l'Empire. Les changements
+de la destinée sont entre les mains de Dieu!
+
+
+Correspondance échangée entre le sultan Sidi Mohammed ben
+Abdallah (Dieu lui fasse miséricorde!) et le despote d'Espagne;
+ses résultats  .
+
+
+La correspondance qui fut envoyée par le sultan Sidi
+Mohammed ben Abdallah (Dieu lui fasse miséricorde!)
+au despote d'Espagne fut motivée par de nombreuses
+lettres que lui avaient envoyées un certain nombre de
+
+
+1. Texte arabe, IV parlic, p. 100.
+
+
+298
+
+
+ARCHIVES MAROCAINES
+
+
+captifs musulmans qui se trouvaient en Espagne, pour
+lui faire connaître la détresse où les avait réduits leur
+captivité, et les traitements insultants et avilissants que
+leur faisaient subir les infidèles. Parmi eux se trouvaient
+des gens de science et qui récitaient le Qorân. Leurs
+lettres avaient été lues au Sultan, qui en avait été vive-
+ment impressionné. Il fit aussitôt écrire au despote
+d'Espagne, en lui disant : « Il n'est pas permis dans
+notre religion de négliger les captifs et de les abandonner
+aux liens de la captivité. Celui qui a reçu de Dieu le pou-
+voir n'a pas le droit de les laisser de côté. Nous pensons
+qu'il en est de mème dans votre religion. » Il lui recom-
+mandait aussi d'avoir des égards principalement pour les
+musulmans qui, parmi eux, étaient adonnés à la science
+et avaient entre leurs mains le Qoran, et de ne pas les
+traiter comme des captifs ordinaires. « C'est ainsi, ajou-
+tait-il, que nous agissons envers les religieux qui se
+trouvent parmi vos captifs. Nous ne leur imposons aucun
+travail, et nous ne leur faisons payer aucun tribut. >>>
+
+
+En recevant cette lettre, le despote d'Espagne, tout en
+témoignant sa vénération, faillit bondir de joie. Il ordonna
+sur-le-champ de rendre la liberté aux captifs qui se trou-
+vaient dans sa capitale et les envoya au Sultan, en lui
+promettant de lui mander bientôt ceux qui se trouvaient
+dans les autres pays. Le Sultan (Dieu lui fasse miséri-
+corde!) fut très satisfait de ce résultat, qu'il regarda comme
+très important, et comme il avait l'âme généreuse et qu'il
+ne voulait pas se laisser surpasser en générosité, il accorda
+au despote d'Espagne la liberté de tous les captifs de sa
+nation qui se trouvaient auprès de lui, et y joignit de plus
+des captifs d'autres nations, pour lui permettre de recueillir
+tous les avantages de cette mesure vis-à-vis des autres
+pays. 11 les lui fit conduire par l'intermédiaire du gouver-
+neur de Ceuta, en même temps qu'un présent, dans lequel
+figuraient un certain nombre de lions.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+299
+
+
+Égaré par la joie qui le saisit en recevant cet envoi, le
+despote prépara en toute hâte un cadeau aussi riche qu'il
+lui fût possible, et le fit porter au Sultan par des religieux
+et des officiers d'un rang élevé, qui furent chargés de
+remettre au Sultan une lettre où il lui exprimait toute son
+amitié, reconnaissait sa générosité et sa bienveillance, et
+lui demandait de vouloir bien lui envoyer un des grands
+de son Empire, pour honorer son pays de sa visite et con-
+sacrer aux yeux des nations européennes ces bonnes rela-
+tions et ces rapports bienveillants, ce qui grossirait son
+prestige et mettrait le comble à sa gloire. Le Sultan (Dieu
+lui fasse miséricorde !) accéda à son désir. Il lui envoya
+deux de ses oncles les Oùdéya, les réïs Aboù Yala
+ Amara ben Mousa et Aboù Abdallah Mohammed ben
+Tâşer, auxquels il se borna à adjoindre, en qualité de secré-
+taire, son katéb Aboul'abbas Mamed Elgazzal. Lorsque
+cette ambassade fut arrivée à Gibraltar, Elgazzal écrivit à
+un des vizirs du Sultan pour le prier de prévenir le Prince
+des Croyants que, ces deux envoyés n'ayant aucune con-
+naissance des usages des chrétiens, il redoutait les consé-
+quences de leur façon d'envisager les choses, et que le
+Prince des Croyants ne devrait pas lui faire supporter la
+responsabilité de ce qui pourrait arriver.
+
+
+Le vizir donna connaissance de ce message au Sultan,
+qui répondit: « II a raison: j'ai déjà regretté de leur
+avoir donné le pas sur lui, mais je n'avais envisagé que
+leur rang hiérarchique. Écrivez de suite au despote, dites-
+lui que je lui ai envoyé mon secrétaire Ahmed Elgazzal,
+en qualité d'ambassadeur, et faites parvenir la lettre à
+celui-ci, qui devra s'en saisir, se faire remettre la première
+lettre qui est entre les mains de mes oncles, et prendre
+lui-même la direction de l'ambassade. >>> En recevant la
+lettre du Sultan, Elġazzal se conforma à ces instructions
+et régla les affaires dans les conditions désirées, laissant
+ainsi une bonne renommée (Dieu lui fasse miséricorde!).
+
+
+300
+
+
+ARCHIVES MAROCAINES
+
+
+Cette année-là (1179), le Sultan invita les gens de Fès à
+fournir pour Eşşouéïra une garnison, composée de cin-
+quante hommes à pied, avec un qâïd, un fqih pour leur
+enseigner la religion, un mououqqil, un moueddin et deux
+notaires, et les dispensa à l'avenir du contingent de 500 fan-
+tassins qu'ils avaient dû donner à ses prédécesseurs. Les
+gens de Fès, après beaucoup de tergiversations, dési-
+gnèrent ce contingent et l'envoyèrent à Morrakch au Sultan,
+qui les fit partir pour Essouéïra, où il leur assigna leur
+moûna et divers bénéfices. Ils assurèrent le service du
+port et eurent une part dans ses revenus. Leur situation
+devenant prospère, ils s'attachèrent à ce pays. Ils s'y
+trouvent restés encore dans les mêmes conditions.
+
+
+Dans la même année, le Sultan envoya en France le réïs
+Aboùlhasan Ali Marsil Errebâți, pour rédiger la paix avec
+les Français, se faire payer la rançon des prisonniers
+d'Elaréïch et acheter des agrès. Les Français se sou-
+mirent à donner l'argent et les agrès.
+
+
+Le Sultan fit partir également, comme ambassadeurs
+auprès du sultan ottoman Moustafa, souverain de Constan-
+tinople, les fqîhs Sî Etțâhar ben Abdesselâm Esslaoui et
+Si Ettahar Bennani Errebâți. Ces envoyés emmenèrent
+avec eux des présents somptueux, consistant en chevaux
+de race dont les selles étaient surchargées d'or et rehaus-
+sées de perles, de rubis et de pierres précieuses, des
+sabres ornés d'or et garnis de pierres de diverses couleurs,
+et des bijoux à la façon du Magrib. Le sultan ottoman
+accepta ce cadeau avec joie et, en échange, envoya un
+bateau chargé de tous les appareils de guerre, canons,
+mortiers, poudre, et d'une grande quantité de tous les
+agrès nécessaires aux navires corsaires.
+
+
+La mème année, le Sultan fit un voyage dans le Rîf, il
+passa par Tétouan, puis par le pays de Gomâra et se rendit
+de là dans le Gârét et dans le Rif. Il pacifia toute cette
+région et revint par la route de Tâza. Moûlay Ali, fils et
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+301
+
+
+khalifa du Sultan, vint voir son père: il s'établit à Fès
+Eljedid et reçut, en plus de son commandement, celui des
+tribus du Djebel et du Rif.
+
+
+Cette année-là, la maîtresse du palais impérial, la Moù-
+lât Fâțma, fille de Solîmân, vint de Morrâkch à Fès pour
+y faire des visites pieuses. Dans une seule nuit, elle se
+rendit successivement, sur sa monture, aux mausolées de
+Moûlay Idris (Dieu soit satisfait de lui!), du chéïkh
+Aboùlhasan Ali ben Hirzihim et du chéïkh Aboù
+Abdallah Ettaoudi. Elle y fit ses dévotions, immola plus
+de cent taureaux et répandit de nombreuses aumônes.
+Après cela, elle alla à Şefroù, y visita les tombeaux du
+chéïkh Sidi Bou Sergîn et de Sîdi Aboù Ali, immola des
+victimes et fit des aumônes, puis revint à Fès. Puis elle
+partit en pèlerinage au chéïkh Abdesselâm ben Mechîch
+(Dieu soit satisfait de lui!) accompagnée des notables, des
+chérifs et des 'oulamâ de Fès. Elle fut saluée en route
+par les gouverneurs du Ġarb, qui vinrent au-devant d'elle
+avec leurs présents et dans leurs plus beaux costumes.
+Les qâïds des villes la rejoignirent au mausolée du chéïkh
+'Abdesselâm, entourés de leur cortège, de leurs cavaliers
+et de leurs hommes à pied. Le Sultan leur avait donné
+des instructions à cet effet. « J'étais, à cette époque, dit
+l'auteur du Boustân, gouverneur d'El'arêïch et je me
+trouvais là avec mes collègues.  Lorsqu'elle eut terminé
+son pèlerinage, elle distribua de l'argent aux chérifs du
+Djebel Elalam et prodigua ses dons à tout le monde.
+De là elle se rendit à Elqşar, puis à Elarêïch, où elle
+demeura trois jours. A ce moment les qâïds rejoignirent
+leur poste, tandis qu'elle se remettait en route pour ren-
+trer à Morrâkch, avec une escorte de 1.000 cavaliers Abids
+qui l'avaient accompagnée dans tout son voyage et qui
+étaient commandés par le qâïd Mesbah. Ses actes peuvent
+être cités parmi les grandes œuvres et les faits glorieux.
+Dieu lui fasse miséricorde!
+
+
+302
+
+
+ARCHIVES MAROCAINES
+
+
+Intérêt porté par le sultan Sidi Mohammed ben 'Abdallah à la
+place d'El'arêïch, qu'il pourvoit de l'armement nécessaire pour
+la guerre sainte  .
+
+
+Nous avons vu que le sultan Sîdi Mohammed ben
+Abdallah (Dieu lui fasse miséricorde!) s'était rendu à
+El'arèïch après l'affaire des Français, s'était occupé de
+cette place à laquelle il s'intéressait, et y avait fait construire
+des forts, des batteries et des murailles. Dans la suite, son
+fils, Moulay Yazid, arriva à cette date à Fès, amenant avec
+lui un certain nombre de capitaines de bateaux et d'ar-
+tilleurs expérimentés dans le tir. Il avait été convoqué par
+le Sultan pour présider au transport des canons et des
+mortiers de bronze qui étaient à Fès Eljedîd et à Méknès
+et qui devaient être traînés à El'arèïch. Les tribus placées
+sur la route reçurent l'ordre d'assurer la traction de ces
+canons, et chacune d'elles les traîna sur son territoire
+jusqu'au territoire voisin. Les canons parvinrent ainsi au
+gué de Msiʻida (Seboù). « Je reçus, dit l'auteur du Boustan,
+l'ordre du Sultan de quitter El'arèïch et d'aller au-devant
+de ces canons avec les troupes et les tribus du Hoùz »,
+c'est-à-dire du Hoùz d'El'arèïch: « je les trouvai au Seboû.
+Les gens du Garb trainèrent ces canons et ces mortiers
+jusqu'à l'Oued Edderdar, près de Taguâout. Puis les gens
+d'El'arêïch et les tribus des environs les traînèrent jusqu'à
+la ville. Le jour où ils arrivèrent, ce fut une grande fête.
+Des coups de canon et des coups de fusil furent tirés. Les
+tribus firent des courses de chevaux et se livrèrent au
+jeu de la poudre jusqu'au soir. Moûlay Yazîd retourna
+ensuite auprès du Sultan à Méknės, accompagné des chefs
+de la marine et de l'artillerie, après avoir terminé cette
+opération.
+
+
+1. Texte arabe, IV partie, p. 102.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+303
+
+
+Le sultan Sidi Mohammed ben 'Abdallâh réduit les Aït Zem-
+moûr du Tâdla et les transporte à Selfât: motifs de cette expé-
+dition .
+
+
+Une fois débarrassé des affaires d'El'arèïch, le Sultan
+eut le loisir de régler les dernières questions ayant trait
+à ses sujets. Il quitta Méknès et se rendit dans le Tadla,
+sans laisser voir qu'il voulait chatier les Aït Zemmour,
+dont les méfaits lui avaient été rapportés. Arrivé au Tadla,
+il usa de ruse envers eux, en leur envoyant demander de
+lui fournir leurs cavaliers et leurs fantassins, comme s'il
+avait résolu de préparer secrètement une expédition contre
+les Aït Ou Mâlou. Dès qu'ils se présentèrent devant lui, il
+ordonna une revue de toutes les troupes. Il se tint près
+de la qaşba et fit défiler devant lui les soldats de l'armée,
+puis les tribus les unes après les autres. Dès qu'une tribu
+avait défilé, il la faisait placer dans un endroit qu'il indi-
+quait. Il fit de même avec le guéïch, de telle sorte que la
+place était couverte de cavaliers et de fantassins et cernée
+de tous côtés. Quand les Aït Zemmour, qui restaient les
+derniers, eurent défilé, il ordonna à son reha de tirer sur
+eux un feu de salve, qui en fit tomber un grand nombre.
+Les troupes qui les cernaient avaient l'ordre de tirer dès
+qu'ils s'approcheraient d'eux, dans n'importe quelle direc-
+tion. Aussi chaque fois qu'ils s'avançaient pour se sauver,
+ils recevaient des coups de fusils de la troupe voisine. Un
+nombre considérable fut tué successivement: les autres
+finirent par s'échapper du côté des gens de Doûkkâla. Il
+en mourut ainsi plus de 800. Le Sultan ſit couper les têtes
+des morts et les envoya à Fès, où elles furent suspendues
+au-dessus des murailles. Les soldats pillèrent leurs cam-
+pements et firent une soûfa de leurs bestiaux, de leurs
+
+
+1. Texte arabe, IV partie, p. 102.
+
+
+304
+
+
+ARCIIIVES MAROCAINES
+
+
+tentes et de leurs effets. Ceux qui parvinrent à s'échapper
+s'enfuirent dans la montagne des Aït Isri.
+
+
+Le Sultan se remit ensuite en route et, peu de jours
+après son arrivée à Morrakch, il reçut une députation des
+Aït Zemmour, qui venaient humblement lui exprimer leur
+repentir. Il leur pardonna et les transporta au Djebel
+Selfàt, dans les environs de Fès, où ils s'établirent pen-
+dant un certain temps.
+
+
+Le sultan Sidi Mohammed ben Abdallah fait organiser une
+expédition contre les Aït Idrâsén: motifs de cette décision  .
+
+
+Le sultan Sîdi Mohammed ben Abdallah avait témoigné
+beaucoup de bienveillance aux Aït Idrásén, car il avait
+châtié à cause d'eux les Oùdèya, qui étaient cependant le
+noyau de l'armée et l'appui du gouvernement. Mais sa
+bonté les avait encouragés au mal et ils en avaient abusé.
+Comme ils avaient commis nombre d'actes répréhensibles,
+le Sultan se vit obligé de les punir. Pendant son séjour à
+Morrâkch, il écrivit aux Oûdèya de leur faire la guerre, et
+enjoignit en même temps aux Abids et aux Guerouân de
+se joindre à eux, pour combattre les Aït Idrásén et les
+réduire. Les Oûdèya n'avaient pas de plus grand désir :
+aidés de leurs auxiliaires, ils les attaquèrent sur leur terri-
+toire et leur livrèrent de sanglants combats. Les Aït
+Idrâsén finirent par être battus, leurs campements furent
+pillés, et nombre d'entre eux furent tués ou faits prison-
+niers et envoyés enchaînés auprès du Sultan à Morrâkch.
+
+
+Cette année-là (1179), le Sultan ordonna la formation du
+corps des Yégchêriya, qui devait étre composé de gens
+des tribus du Hoûz. Le qâïd 'Abdennébi Elmnébbébi reçut
+mission de réunir les contingents et de les inscrire dans
+
+
+1. Texte arabe, IV partie, p. 102.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+305
+
+
+le Diouân de l'infanterie. Il devait également inscrire tous
+les célibataires qui voudraient s'engager dans l'armée. Il
+réunit ainsi 4.500 hommes. Le Sultan leur donna des vête-
+ments et des armes et les utilisa pendant un certain temps.
+Mais ils finirent par retourner dans leurs tribus et auprès de
+leurs contribules, et furent, comme eux, soumis aux contri-
+butions.
+
+
+Dans le courant de cette année-là, mourut Elhaddj
+Mohammed Esseflar, gouverneur de Fès; le Sultan dési-
+gna, pour le remplacer, son fils, El arbi ben Mohammed
+Eşşeffâr.
+
+
+L'année suivante (1180), le Sultan vint à Méknès, il fit
+arrêter le qâïd 'Abdeşşâdeq ben Ahmed Errifi, gouverneur
+de Tanger, et une centaine de ses proches et des gens de
+sa famille, et les jeta en prison. Il alla ensuite à Tanger,
+pilla la maison de Abdeşşadeq, et transporta les gens de
+sa tribu et leurs enfants à Elmehdiya, où ils demeurèrent
+sous les ordres d'un des leurs, Mohammed ben Abdel-
+mâlék. Il ne laissa en fait de Rifains, à Tanger, que ceux
+qui étaient honnêtes et sérieux, et établit à côté d'eux
+1.500 'Abids d'Elmehdiya, qui, se trouvant ainsi en nombre
+égal à celui des Rifains restés dans cette ville, ôtèrent à
+ceux-ci toute velléité de révolte.
+
+
+Suivant une note écrite de la main du fqih Aboûl abbas
+Ahmed Esseddrâti, le transfert des Rifains à Elmehdiya
+aurait eu lieu quatre ans plus tard. Dieu sait quelle est la
+vérité !
+
+
+Exécution de Abdelhaqq Fennich Esslaoui et déchéance
+de sa famille  .
+
+
+Nous avons parlé, à la fin du règne du sultan Moûlay
+
+
+1. Texte arabe, IV partie, p. 103.
+
+
+ARCH. MAROC.
+
+
+20
+
+
+300
+
+
+ARCHIVES MAROCAINES
+
+
+ Abdallah, des troubles qui s'étaient produits dans les villes
+et les campagnes du Magrib, et qui avaient permis à cer-
+tains qâïds et gouverneurs des villes de se déclarer indé-
+pendants. Parmi eux était Abdelhaqq ben Abdelaziz
+Fennich, gouverneur de Salé. Il avait fini par gouverner
+pour son propre compte à Salé et dans la région environ-
+nante, grâce à ses compagnons et à ses partisans. Lorsque
+Sîdi Mohammed avait passé par Salé, en allant de Morrakch
+à Elqşâr, du temps de son père, Abdelhaqq lui avait fermé
+les portes de la ville et ne lui avait témoigné aucun égard,
+ni à l'aller, ni au retour. Quand Dieu l'eut nommé, plus
+tard, Prince des musulmans, Sidi Mohammed voulut
+oublier les fautes passées de Abdelhaqq et lui laissa le
+commandement de sa ville. Mais, au bout d'un certain
+temps Abdelhaqq, qui était un homme cruel et barbare,
+fit mettre à mort un des notables de Salé. Les uns disent
+que la victime était un de ses proches, les autres que
+c'était une personne de la famille Znîbîr. Les parents du
+mort allèrent se plaindre au Sultan à Méknès, Abdelhaqq
+comparut avec eux, et il fut établi que la mise à mort de
+cet homme était injuste. Le Sultan, qui ne put retenir la
+haine qu'il nourrissait contre  Abdelhaqq, le fit arrêter et
+le livra aux parents de la victime, pour qu'ils le missent
+eux-mêmes à mort. Mais ceux-ci n'ayant pas osé com-
+mettre un pareil acte, le Sultan le fit exécuter en leur pré-
+sence par ses sbires, qui le firent périr, dit-on, à coups de
+manches de haches. Le Sultan envoya ensuite quelqu'un
+pour s'emparer des biens de Abdelhaqq et de tous les
+Fennich, et fit vendre leurs propriétés, après avoir fait
+établir des actes constatant que les Fennîch étaient perdus
+de dettes, que tout leur avoir avait été acquis au moyen
+de rapts et par d'autres procédés illicites, car ils impo-
+saient des taxes aux pauvres et aux malheureux, même à
+l'occasion de leurs mariages. Toutes les propriétés de
+'Abdelhaqq et de ses familiers, qui étaient au nombre de
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+307
+
+
+plus de cent maisons ou terrains, furent vendues aux
+Beni IIsen (1180).
+
+
+Le Sultan les exila ensuite à Elarêïch, où ils demeu-
+rèrent en prison pendant assez longtemps. Plus tard, quel-
+ques-uns d'entre eux furent envoyés à Eşşouéïra. Le Sul-
+tan leur pardonna dans la suite et les rapprocha de lui. Il
+leur confia le commandement du tir au mortier et au canon
+connu sous le nom de commandement des tobdjiya, et les
+nomma dans les diverses places. Ils furent ainsi envoyés
+à Elarêïch, à Tanger, à Rabât Elfeth et à Eşşouéïra. Il leur
+donna de belles maisons et des immeubles de rapport, et
+leur attribua des traitements élevés. Ils acquirent dès lors
+par leur richesse, leur puissance et leur influence, une
+situation qu'aucun d'eux n'avait atteinte sous son règne
+(Dieu lui fasse miséricorde!). Ces renseignements sont
+puisés dans le Boustân.
+
+
+Parmi les qâïds qui s'étaient rendus indépendants
+sous le règne du sultan Moûlay 'Abdallah, et qui furent
+poursuivis au bout de peu de temps par le sultan Sidi
+Mohammed, il y eut aussi le qâîd Aboulhasan Elhaddj 'Ali
+ben El aroûsi Eddoûkkali Elboûzirâri. Ce personnage
+avait été nommé par Moulay Elmostadi après son avène-
+ment. Lorsque Sidi Mohammed prit le pouvoir, il le fit
+arrêter et emprisonner dans un souterrain pendant plu-
+sieurs années. Il lui rendit ensuite la liberté et le nomma
+gouverneur de la ville de Chefchaoun. Ses fils lui succé-
+dèrent plus tard. Ils ont laissé des constructions dans la
+place d'Eljedîda, entre autres la mosquée, sur laquelle est
+encore inscrit le nom de celui qui l'édifia.
+
+
+Au nombre de ces qâïds, il y eut aussi le gouverneur de
+Tâmesna, nommé Ould Elmejjâțiya et celui de Tâdla,
+Erradi Elourdîgi. Le sultan Sidi Mohammed les destitua
+et donna le commandement de Tâdla au qâïd Mohammed
+ben Haddo Eddoûkkâli, dont nous avons déjà parlé. Il y
+eut encore Boû Eurîf, qâïd des Beni Isen, qui fut destitué
+
+
+308
+
+
+ARCHIVES MAROCAINES
+
+
+par le Sultan et remplacé par Aboù Abdallah Mohammed
+Elqasțali, et le bâcha Habib Elmalki, gouverneur du Garb.
+Ce dernier était le plus grand chef du temps de Moûlay
+'Abdallah. Sidi Mohammed l'emprisonna dans un souter-
+rain, fit démolir son palais, dont les matériaux furent
+transportés à El'arèïch, et s'empara de son argent et de
+ses troupeaux. Quand il fut jeté dans le souterrain, le
+bacha Elhabib ne voulut ni manger ni boire, et finit par
+mourir d'une mort de païen. Dieu nous en préserve!
+
+
+Ces gouverneurs avaient entre les mains les tribus. Le
+Sultan poursuivit leurs partisans l'un après l'autre, jus-
+qu'à ce qu'il eût entièrement débarrassé le gouvernement
+du préjudice qu'ils lui causaient. Dieu sait quelle est la
+vérité !
+
+
+Cette année-là (1180), un traité fut conclu entre le sul-
+tan Sîdi Mohammed ben 'Abdallah et la nation des Fran-
+çais. Il contenait 20 articles, qui étaient relatifs à la conclu-
+sion de la trêve et de la paix et aux relations commerciales.
+Il stipulait des égards et des marques de respect réci-
+proques. Si un de leurs bateaux quittait un de leurs
+ports pour venir dans notre pays, il devait être muni d'un
+papier, nommé passeport, délivré par le grand-amiral
+établi dans chacun de leurs ports, indiquant le nom du
+bateau, celui du capitaine, la nature des marchandises
+chargées sur lui, le port de départ et celui de destina-
+tion, et portant le sceau du grand-amiral, c'est-à-dire le
+sceau du gouvernement. De même, si un de nos bateaux
+partait d'un de nos ports pour aller dans leur pays, il
+devait également emporter un certificat signé du consul
+de cette nation dans le port de départ, scellé du cachet
+de son gouvernement, et indiquant le nom du bateau,
+celui du capitaine et son chargement. La règle était
+que leurs bateaux devaient posséder notre cachet et
+notre signature pour être respectés, et que nous devions
+être munis de leur cachet et de leur signature, pour
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+309
+
+
+ètre respectés par eux. Mais comme nous n'avions pas
+l'habitude d'établir des agents consulaires dans leurs
+ports, leur cachet fut bientôt reconnu suffisant pour
+les deux pays, car le résultat était le même. Les capi-
+taines de bateaux savent, en effet, distinguer les uns
+des autres les sceaux des nations, et, lorsque deux
+bateaux se rencontrent, ils savent, par la production de
+leurs papiers, quelle est leur nationalité respective et
+sont traités en conséquence.
+
+
+Arrivée des présents envoyés par le sultan ottoman Moustafa au
+sultan Sidi Mohammed ben 'Abdallah (Dieu lui fasse miséri-
+corde !) ¹
+
+
+Dans cette même année (1180) le sultan Sîdi Mohammed
+ben  Abdallah envoya son serviteur, le réïs  Abdelkerîm
+Râgoùn Ettéțâouni, en qualité d'ambassadeur, auprès du
+sultan ottoman Moustafa. 11 le chargea de porter à ce
+prince des présents somptueux, en échange des cadeaux
+qu'il lui avait envoyés par Si Ettahar ben Abdesselâm
+Esslaoui et Si Etțâhar Bennani Errebâți, ainsi que nous
+l'avons rapporté. Elhaddj Abdelkerîm Râgoûn revint
+de son ambassade auprès du Sultan Ottoman en 1181;
+il ramenait un cadeau plus considérable que le précé-
+dent. Il consistait en un navire chargé de canons
+et de mortiers de bronze avec leurs munitions, et de tous
+les agrès nécessaires pour les bateaux corsaires, comme
+mâts, ancres, voiles, câbles, cordages, barils et autre
+matériel naval. Ce bateau amenait également des maîtres
+très experts dans la fonte des canons et des mortiers,
+bombes et boulets, et dans la construction des navires.
+Parmi eux se trouvait un maître des plus expérimentés
+
+
+1. Texte arabe, IVe partie, p. 104.
+
+
+310
+
+
+ARCHIVES MAROCAINES
+
+
+dans le tir au mortier. Ils débarquèrent à El'arèïch.
+<< J'étais alors, dit l'auteur du Boustân, gouverneur de
+cette ville. Je reçus du Sultan l'ordre d'envoyer ces maîtres
+à Fès, où ils devaient attendre l'arrivée du Sultan de Mor-
+râkch et aller le rejoindre à Méknès. » Lorsque le Sultan
+arriva à Méknès, ils se rendirent auprès de lui. Il s'entre-
+tint avec eux des travaux à effectuer, car il avait l'inten-
+tion de rétablir l'arsenal de construction de navires de
+guerre sainte qui avait existé à Salé du temps des Almo-
+hades et des Beni Mrîn. « Il faudrait nous construire, lui
+dirent-ils, un arsenal de telle et telle forme et dans telles
+et telles conditions. » Et ils lui dressèrent sur le papier
+le plan de cet arsenal. Le Sultan se rendit compte qu'il
+fallait vingt ans au moins pour terminer ces travaux, et
+que de très fortes sommes seraient à peine suffisantes. Il
+abandonna donc son projet. Il envoya les maîtres pour les
+bombes à Tétouan: l'un d'eux pouvait fondre des bombes
+de deux quintaux. Il expédia les maîtres constructeurs de
+navires à Salé, où ils établirent trois escadrilles. Quant
+au maître artilleur, il fut envoyé à Rabât Elfeth et fut chargé
+de l'instruction des canonniers de Salé et de Rabât. II
+forma de très bons élèves. Les gens d'El'odouatéïn
+se transmirent la connaissance de ce métier pendant long-
+temps, mais aujourd'hui il ne leur en reste plus que le nom.
+Les fondeurs de canons et de mortiers furent renvoyés à
+Fès, où ils demeurèrent jusqu'à leur mort. Dieu leur fasse
+miséricorde!
+
+
+Cette année-là, le sultan Sîdi Mohammed ben 'Abdallah
+conclut un traité avec le Danemark. Il contenait vingt arti-
+cles, stipulant également l'établissement de la paix et de
+la sécurité entre les deux puissances. Le premier article
+stipulait que l'administration des ports marocains cesse-
+rait d'appartenir désormais aux négociants danois, en rai-
+son de la dissolution de la compagnie qui avait le mono-
+pole des ports, que le consul de cette nation s'enga-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+311
+
+
+geait à payer 12.500 douros, qui restaient dus de ce fait
+par les négociants de son pays, et que désormais les ports
+ne pourraient en aucune façon retourner entre leurs mains.
+Le dernier article contenait pour le despote de Danemark
+l'obligation de fournir annuellement au Sultan vingt
+canons de fer, dont les boulets devaient peser de 18 à
+24 livres, trente câbles, deux mille panneaux de bois de
+<<< Roubli  de diverses dimensions, et 6.500 douros, le
+tout livrable à l'endroit que voudrait le Sultan. Le des-
+pote de Danemark avait la faculté de se libérer de cette
+obligation moyennant 25.000 douros.
+
+
+Le même traité fut conclu avec la Suède, sauf toutefois
+que la somme annuelle qu'elle devait payer n'était que de
+20.000 douros. D'autres traités furent passés avec d'autres
+nations, moyennant d'autres charges.
+
+
+Ces dispositions restèrent en vigueur jusqu'à l'an-
+née 1361: elles cessèrent d'être appliquées sous le règne
+du sultan Moulay Abderrahman ben Hichâm (Dieu lui
+fasse miséricorde) dans les conditions que nous rappor-
+terons en temps utile.
+
+
+La même année (1180) eut lieu l'insurrection de l'impos-
+teur Kelkh à Morrakch. Cet individu était un gueux
+nommé Omar, qui se prétendait disciple du chéïkh
+Aboûl azm Sidi Rahhal. II opérait devant la populace des
+miracles simulés, et s'était formé un parti considérable de
+campagnards ignorants, en leur promettant de leur ouvrir
+le Trésor où ils pourraient prendre à leur aise l'or et l'ar-
+gent qu'il contenait. La population accourut auprès de cet
+imposteur, qui rentra un beau jour à Morrâkch, à la tête
+d'une foule de mauvais sujets. Leur cri de ralliement
+était ces deux mots : « Kellekh, Chellekh ! » qu'ils criaient
+à tue-tête. Ils étaient comme un torrent se précipitant des
+hauteurs. Un grand tumulte se produisit dans la ville et les
+marchés furent fermés. Averti aussitôt, le Sultan, qui
+était dans son palais, fit partir les hommes de sa garde et
+
+
+312
+
+
+ARCHIVES MAROCAINES
+
+
+les Abîds qui se saisirent de Kelkh, au moment où il allait
+entrer dans la qaşba. Dès qu'il fut entre leurs mains, les
+émeutiers prirent immédiatement la fuite; il fut amené au
+Sultan, qui le fit mettre à mort. Le désordre fut calmé sur-
+le-champ.
+
+
+Alliance entre le sultan Sidi Mohammed ben Abdallah et le
+chérîf Seroûr, sultan de la Mekke (Dieu lui fasse miséricorde!) 
+
+
+Le sultan Sidi Mohammed ben Abdallah aimait et
+recherchait la renommée; il désirait faire le bien et avait du
+penchant pour ceux qui le faisaient. Ses yeux se portaient
+sur le lieu que Dieu avait attribué comme résidence et
+comme territoire au chérîf Seroûr, sultan de la Mekke,
+(Dieu lui fasse miséricorde!) Il voulut s'unir à lui par une
+alliance et accorda sa noble fille. En 1182, lorsque la cara-
+vane du pèlerinage magribin se disposa à se mettre en
+route pour le Hedjaz, le Sultan envoya sa fille avec les
+pèlerins auprès de son mari. Il fit partir en même temps
+son fils aîné et khalifa, Moûlay Ali ben Mohammed, pour
+accomplir l'obligation du pèlerinage, et le fit accompagner
+par son frère Moûlay Abdesselâm, qui n'était pas encore
+pubère et qui devait tenir compagnie à sa sœur. Il les
+chargea en même temps d'un cadeau pour le prince de
+Tripoli, pour le prince d'Égypte et de Syrie, de présents
+considérables pour les deux nobles sanctuaires, de fortes
+sommes d'argent destinées à être distribuées entre les
+chérîfs du Hedjâz et du Yémen, et de dons très riches pour
+les oulamâ, les naqîbs et les fonctionnaires de la Mekke
+et de Médine. Enfin le Sultan envoya avec eux des per-
+sonnages importants du Magrib, des fils de gouverneurs
+et de chéïkhs de tribus, et un grand nombre de ses servi-
+
+
+1. Texte arabe, IV partie, p. 105.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+313
+
+
+teurs et de ses gens, montés sur des chevaux de prix,
+armés de pied en cap et portant de beaux costumes. Dans
+tout l'Orient, on en parla pendant un certain temps. Le
+trousseau de la fille du Sultan était composé de bijoux,
+de pierres précieuses et de perles valant plus de 100.000 di-
+nars. Le jour de son entrée à la Mekke fut une journée
+mémorable, tous les pèlerins venus de toutes les contrées
+y assistèrent; les caravanes et les voyageurs s'en trans-
+mirent le récit.
+
+
+Le sultan Sidi Mohammed ben 'Abdallâh s'intéresse aux 'Abids
+du Soûs et de la Qibla, et les fait venir dans l'Agdâl de Rabât
+Elfeth  .
+
+
+Cette année-là (1182) le sultan Sidi Mohammed ben
+'Abdallah envoya dans le Soûs son cousin Moûlay Ali ben
+Elfdil et son secrétaire, Aboû Otsmân Said Echchlih
+Elguezoûli, pourréunir les Abids du Makhzen qui s'y trou-
+vaient. En même temps, il envoya son ousif Elmahjoub,
+fils d'un qâïd sans commandement, dans les régions de
+Tâța, Aqqa et Tîchît, qui font partie des pays de la Qibla,
+pour y réunir également les Abids. Ils ramenèrent 2.000
+'Abîds du Soûs avec leurs enfants et 2.000 de la Qibla avec
+leurs enfants également. Le Sultan les fit camper à l'ex-
+térieur de Morrakch, leur donna des armes et des vête-
+ments, mit à leur tète le qaïd Elmahjoûb, et quand il
+partit pour Rabât Elfeth, il ordonna de raser les jardins
+d'Agdal qui se trouvaient en dehors de la ville pour y
+installer les Abîds. Il leur fit construire des maisons, une
+mosquée, une école, un bain et un marché, et établit avec
+eux 2.500 Oûdêya qu'il fit venir des tribus. Tous ces
+hommes furent inscrits dans le Dtouân; ils faisaient pen-
+
+
+1. Texte arabe, IV partie, p. 105.
+
+
+314
+
+
+ARCHIVES MAROCAINES
+
+
+dant aux Abîds et aux Oùdèya de Méknès. Il leur distribua
+beaucoup d'argent, pour qu'ils s'établissent dans cet avant-
+poste de l'Islâm.
+
+
+Prise d'Eljedîda ¹.
+
+
+Luiz Maria a raconté cette conquête nous résumerons
+le récit qu'il en a fait :
+
+
+Depuis son avènement à l'Empire du Magrib, le sultan
+Sîdi Mohammed ben  Abdallâh ne se sentait pas en repos,
+à cause du voisinage du Portugal qui détenait une parcelle
+de son territoire. C'était un homme énergique, plein
+d'initiative et d'orgueil. Il consulta les conseillers du gou-
+vernement sur les conditions dans lesquelles il pourrait
+diriger une expédition contre Eljedîda et en faire la
+conquête. «Que notre Seigneur, répondirent-ils, ne s'ima-
+gine pas qu'il pourrait s'emparer de cette ville en dirigeant
+contre elle un seul effort des musulmans. Ce moyen
+n'amènerait d'autre résultat que de faire tuer des hommes,
+comme cela a eu lieu du temps du sultan Elgalib billah
+Essa'di. Il n'arrivera à en faire la conquête qu'en orga-
+nisant un siège prolongé par terre et par mer.  Le Sul-
+tan adopta cette manière de voir, qu'il avait repoussée au
+début.
+
+
+Quand il eut décidé de marcher contre Eljedîda, il
+forma une armée nombreuse, formée de contingents de
+diverses tribus, notamment des tribus de Morrakch, du
+Hoûz et du Soûs. Selon Luiz, il aurait réuni ainsi environ
+70.000 combattants, mais il y a lieu de croire que c'est là
+une des exagérations habituelles de cet auteur. Cette
+armée vint camper devant Eljedîda le 4 mars du calendrier
+étranger de l'année 1768 de J.-C. Les histoires islamiques
+
+
+1. Texte arabe, IV partie, p. 106.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+315
+
+
+fixent cet événement au $1^{er}$ ramadan de l'année arabe 1182.
+Le Sultan commença par faire creuser tout autour de la
+ville des fondements de redoutes, sur lesquelles furent
+établis 35 canons de divers calibres. Pendant plusieurs
+jours de suite, il fit lancer des boulets et des bombes : il
+en tomba dans la place plus de 2.000, qui détruisirent un
+grand nombre de constructions et tuèrent des quantités
+de gens. Parmi les habitants de cette ville, se trouvait un
+soldat âgé de plus de 70 ans, qui avait femme et enfants.
+Il n'avait pas pu prendre part au combat. Quand il vit les
+bombes tomber les unes après les autres comme la pluie,
+il voulut se sauver lui et sa famille, et alla se cacher dans
+un magasin, au-dessus duquel étaient des dépôts de blé.
+D'autres personnes s'y cachèrent avec lui. Ils pensaient
+que les bombes ne pourraient pas traverser le dépôt de blé,
+percer son plancher et arriver jusqu'au magasin. Mais Dieu
+décréta qu'une bombe pénétrât à travers le blé et le plancher
+et vint tomber sur le vieillard qu'elle tua. Les autres per-
+sonnes qui étaient avec lui furent atteintes également :
+neuf d'entre elles furent tuées, et les autres blessées.
+
+
+Voyant que le siège se prolongeait, les habitants d'Elje-
+dida écrivirent à leur despote, qui leur donna l'ordre
+d'évacuer la place s'ils étaient impuissants à la défendre.
+Cette lettre avait été envoyée à l'insu de la population, qui
+vit un beau jour arriver un bateau venant de Lisbonne.
+Tout le monde pensait qu'il amenait des renforts, tandis
+qu'il n'apportait qu'une lettre du despote ordonnant aux
+habitants d'évacuer la ville, de s'embarquer avec leurs
+enfants et leurs femmes dans ses navires, et de livrer la
+place aux musulmans. Quand la populace sut la vérité, elle
+refusa de se soumettre et se mit à insulter la lettre et celui
+qui l'envoyait. « Nous ne quitterons pas la place, dirent les
+gens du peuple, nous mourrons jusqu'au dernier, car ce
+sol nous a été légué par nos ancêtres, il a été arrosé de
+leur sang; nos chefs et nos nobles ont donné leur vie pour
+
+
+316
+
+
+ARCHIVES MAROCAINES
+
+
+lui. » Mais, grâce à l'intervention de leurs religieux entre
+la populace et le gouverneur, la conciliation se fit et le
+peuple se laissa convaincre. Le gouverneur de la place
+écrivit au sultan Sîdi Mohammed ben 'Abdallah pour lui
+demander de cesser le feu et de lui accorder un délai de
+trois jours pour lui livrer la ville. Le Sultan accéda à cette
+demande, en imposant comme condition que les habitants
+emporteraient sculement avec eux les vêtements qu'ils
+avaient sur le dos, et rien d'autre. Les Portugais acceр-
+tèrent cette condition. « Un soldat portugais, dit Luiz,
+avait emporté un second vêtement qu'il ne voulait pas
+abandonner. Le gouverneur s'en aperçut au moment où il
+allait s'embarquer, lui enleva son costume et le jeta à la
+mer. Comme ils ne pouvaient rien emporter avec eux, ils
+brûlèrent leurs effets et leurs meubles, coupèrent le jarret
+à leurs chevaux, tuèrent leurs troupeaux, brisèrent leur
+vaisselle et leurs armes, et mirenthors d'usage plus de cent
+canons. >> A la fin, ils creusèrent dans tous les quartiers de
+la ville des mines qui contenaient chacune plus de 40 barils
+de poudre, et laissèrent un forgeron, nommé Petros, qui,
+dit-on, mit le feu à la mine au moment où les musulmans
+entrèrent dans la ville. Cinq mille personnes périrent et
+la muraille septentrionale de la ville fut démolie.
+
+
+Quand les Portugais arrivèrent à Lisbonne, leur despote
+les envoya dans une petite ville, nommée Baylen, où plus
+de trois cents d'entre eux moururent d'ennui. Ils partirent
+ensuite pour le Brésil et y fondèrent une ville, à laquelle
+ils donnèrent le nom de Nouvelle-Mazagan, en souvenir
+d'Eljedida.
+
+
+Tel est le résumé du récit de Luiz.
+
+
+Suivant une note écrite de la main du très docte fqih
+Aboûl abbas Ahmed Esseddrâti, la prise d'Eljedîda eut lieu
+le samedi matin 2 doûlqa'da 1182, qui correspond au
+28 février du calendrier étranger et qui était le troisième
+jour du délai fixé.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+317
+
+
+Parmi les personnes qui assistèrent à la prise de cette
+ville, il y eut le maître Elhaddj Slimân Ettourki, qui était
+très habile au tir du mortier et qui fit des prodiges de
+valeur, et un certain nombre de gens de la famille Fennich
+de Salé, qui se distinguèrent par leur bravoure.
+
+
+Le Sultan repeupla la ville avec des gens de Doukkala,
+puisqu'elle était située dans leur territoire, et leur adjoignit
+une garnison recrutée parmi les Yégchériya de son armée.
+Leurs descendants se trouvent encore de nos jours à
+Eljedîda. Dieu sait quelle est la vérité!
+
+
+Efforts déployés par le sultan Sidi Mohammed ben 'Abdallah
+pour obtenir la liberté des captifs musulmans; ce que Dieu
+accorda par son intermédiaire ¹.
+
+
+Nous avons rapporté précédemment que le Sultan avait
+envoyé auprès du tyran d'Espagne ses oncles les Oûdêya,
+'Amâra ben Mousa et Mohammed ben Nâşer, accompagnés
+de son secrétaire Aboùl abbas Elġazzal, que ce dernier
+avait négocié la paix et avait accompli heureusement sa
+mission. Au cours de cette ambassade eut lieu, comme
+nous l'avons vu, l'échange des captifs entre le Sultan et
+le despote.
+
+
+Dans le courant de cette année-là (1182), le despote
+d'Espagne écrivit au Sultan qu'il ne restait plus dans son
+pays un seul captif musulman et que les seuls captifs qu'il
+possédait encore étaient des gens d'Alger, où se trouvaient
+encore des captifs espagnols, et lui demanda d'intercéder
+auprès du possesseur d'Alger pour le décider à un échange;
+or les captifs espagnols étaient de beaucoup plus nombreux
+que ceux d'Alger; le roi d'Espagne exprimait le désir que
+l'échange eût lieu par son intermédiaire; un capitaine
+
+
+1. Texte arabe, $IV^{c}$ partie, p. 107.
+
+
+318
+
+
+ARCHIVES MAROCAINES
+
+
+serait échangé contre un capitaine, un pilote contre un
+pilote, un commissaire contre un commissaire, un marin
+contre un marin, un soldat contre un soldat, et si l'un ou
+l'autre possédaient encore des captifs, un marin serait
+racheté moyennant 500 douros et un capitaine de bateau
+pour 1.000 douros. Le Sultan consentit à cette démarche
+et déploya ses efforts pour délivrer les musulmans des
+mains des infidèles, afin de plaire à Dieu, dans l'espoir
+d'en être récompensé. Bien qu'il eût écrit aux Espagnols
+par l'intermédiaire d'Elġazzal et de ses deux compagnons
+pour demander la liberté de tous les captifs musulmans,
+le roi d'Espagne ne lui envoya que les Magribins, disant
+qu'il gardait encore les captifs algériens pour les échanger
+contre les captifs espagnols. Le Sultan correspondit alors
+avec les gens d'Alger, pour leur faire part de la demande
+du despote d'Espagne. Comme on lui répondit par un
+refus, il écrivit de nouveau au bey d'Alger, qui repoussa
+encore sa demande. Il lui écrivit une troisième fois, pour
+l'exhorter à sauver les captifs musulmans, en lui faisant
+craindre le châtiment de Dieu et en lui donnant l'espoir
+d'une récompense céleste. Les Algériens finirent par se
+soumettre et demandèrent au Sultande leur envoyer, pour
+présider au rachat, une personne de son entourage à qui
+ils livreraient leurs prisonniers, et qui se ferait remettre
+un nombre égal de leurs compatriotes. Dès qu'il reçut la
+réponse des habitants d'Alger, le Sultan écrivit au despote
+pour lui donner l'ordre de faire conduire à Alger, dans un
+bateau, les captifs musulmans qui se trouvaient chez lui.
+De son côté, il désigna, pour remplir cette mission, son
+secrétaire Aboùl abbas Elġazzâl et ses deux compagnons.
+Au moment même de l'arrivée de ces délégués à Alger, le
+bateau espagnol vint mouiller en vue du port, et plus de
+1.600 captifs musulmans en furent débarqués. Les Algé-
+riens remirent à leur tour plus de 1.600 captifs chrétiens,
+et comme il leur restait encore des captifs, les Espagnols
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+319
+
+
+les rachetèrent et se retirèrent ensuite. L'ambassadeur et
+ses compagnons s'en retournèrent à la Cour du Sultan.
+Dieu a écrit sur les pages du livre de Sîdi Mohammed la
+récompense de cette œuvre.
+
+
+En 1183, le Sultan dirigea une expédition contre les
+tribus de Tâdla, qui avaient commis des méfaits et luttaient
+constamment entre elles: il pilla leurs biens, les dispersa
+de tous côtés et leur donna pour gouverneur le qâïd Şalah
+ben Erradi Elourdigi. Celui-ci les pressura, si bien qu'il
+les réduisit à une misère telle qu'ils ne pouvaient même
+plus se rendre d'un lieu à un autre, faute d'animaux.
+
+
+En 1484, il fit une expédition contre les Brâbér Gue-
+rouân, qui avaient commis des méfaits et qui, réunis autour
+de Mohammed Ou Nâșer, surnommé Mhaouch, le chef de
+la révolte, et tout dévoués à son service, avaient encouragé
+son fils Moulay Yazîd à convoiter le pouvoir. Venu de
+Morrakch, il les attaqua à Oued Gourîgra, les tailla en
+pièces, les pilla et leur tua environ 500 hommes. Réduits
+à mendier à Fès et à Méknès, ils furent ensuite transportés
+dans la plaine $d^{\prime}Azg^{\prime}\hat{a}r$ au milieu des Arabs. Le mal qu'ils
+faisaient fut ainsi coupé dans sa racine.
+
+
+Le sultan Sidi Mohammed ben Abdallah assiège la ville
+de Melilla, place forte espagnole 1.
+
+
+A la fin de l'année 1184, le sultan Sîdi Mohammed ben
+Abdallah dirigea une expédition contre la ville de Melilla,
+qui était au pouvoir des chrétiens d'Espagne. Il fit cerner
+la ville par ses troupes et dressa contre elle ses canons
+et ses mortiers. Le siège commença le premier jour du
+mois de moharrem 1185 et dura plusieurs jours. Le despote
+d'Espagne adressa des représentations au Sultan au sujet
+
+
+1. Texte arabe, $IV^{c}$ partie, p. 108.
+
+
+320
+
+
+ARCHIVES MAROCAINES
+
+
+de ce siège, en lui rappelant la trève et la paix conclue
+entre eux : << Voici, disait-il, la signature de votre secré-
+taire Elġazzal, qui a servi d'intermédiaire entre vous et
+moi pour la conclusion de la paix. » (Dieu lui fasse misé-
+ricorde !) Le Sultan répondit : « La paix que j'ai faite avec
+vous ne concerne que la mer; en ce qui concerne les
+villes que vous possédez sur notre territoire, il n'y a pas
+de paix entre nous à ce sujet. Si la paix avait englobé ces
+villes, vous seriez venus auprès de nous et nous serions
+entrés chez vous. Comment pouvez-vous invoquer la paix
+quand vous recourez à une pareille tromperie? » Le despote
+d'Espagne ayant envoyé l'original du traité, qui s'appliquait,
+en effet, aussi bien à la terre qu'à la mer, le Sultan fit cesser
+l'attaque et lever le siège, et laissa sur place tout son
+matériel de guerre, canons, mortiers, chariots, bombes,
+boulets et poudre. Comme les musulmans auraient eu
+beaucoup de peine à transporter tout ce matériel par la
+voie de terre, il posa comme condition de son départ au
+despote d'Espagne qu'il le ferait remporter sur ses bateaux
+dans les ports d'où il avait été amené. Celui-ci lui accorda
+cette faveur et expédia ses navires, qui conduisirent ce
+matériel, partie à Tétouan, partie à Eşşouéïra, d'où il était
+venu.
+
+
+A la suite de cette affaire, Elġazzâl perdit ses fonctions
+de secrétaire. Resté sans emploi, il mourut après avoir
+perdu la vue. (Dieu lui fasse miséricorde !)
+
+
+Dans une conversation sur les conditions dans lesquelles
+cette paix était intervenue, j'ai entendu un fqih contem-
+porain dire: << En signant la paix, Elĝazzal (Dieu lui fasse
+miséricorde!) écrivit ces mots sur le traité: la paix con-
+clue entre nous est sur < mer et non sur terre » (bahran
+lâ berran). Quand ils eurent sa signature entre les mains,
+les chrétiens grattèrent le lâm-aléf (là) et écrivirent à sa
+place un oudou (oua), ce qui fit  sur mer et sur terre >>>
+(bahran oua berran). Le Sultan (Dieu lui fasse miséri-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+321
+
+
+corde!) ne disgracia son secrétaire que parce qu'il avait
+adopté un texte trop concis, ce qui avait permis aux Chré-
+tiens de l'altérer. Il aurait dû rédiger une phrase longue
+et détaillée qui n'aurait pas pu être modifiée, et dire par
+exemple: la paix conclue entre nous ne sera que sur mer;
+quant à la terre, il n'y régnera pas de paix entre nous et
+vous, ou toute autre phrase qu'il n'eût pas été possible
+de changer. Les gens expérimentés dans la science de la
+rédaction des actes disent, en effet : « Celui qui écrit une
+convention doit détailler autant que possible, et éviter une
+concision dangereuse et tout ce qui peut y conduire d'une
+façon quelconque. » Dicu sait quelle est la vérité.
+
+
+Expédition du sultan Sidi Mohammed ben 'Abdallah contre les
+Brâber Aït Ou Mâlou; ses motifs 1.
+
+
+En 1187, le sultan Sidi Mohammed ben Abdallah partit
+en expédition dans les montagnes des Aït Ou Mâlou. Il
+décida cette campagne pour soutenir son qâïd, Belqâsém
+Ezzenımoûri. Celui-ci avait reçu le gouvernement de ces
+tribus, mais avait été repoussé par elles. Il avait demandé
+des renforts au Sultan, qui lui avait donné 3.000 cavaliers,
+en plus de ses contribules des Zemmoûr et des Beni Hkim.
+Il s'était mis en route, quand, arrivé à l'Oued Oumm
+Errabî près de Tâdla, il fut attaqué par les Aït Ou Malou
+et obligé de se replier sans avoir pu prendre sa revanche.
+La nouvelle de sa défaite était parvenue au Sultan, qui,
+vivement irrité contre les Aït Ou Mâlou, se prépara à
+marcher contre eux et fit sortir ses soldats en dehors de
+Méknès. Les chefs des tribus arabes et berbères auxquelles
+il envoya l'ordre de participer à la campagne, vinrent le
+
+
+1. Texte arabe, IV partie, p. 103.
+ARCII. MAROC.
+
+
+21
+
+
+322
+
+
+ARCHIVES MAROCAINES
+
+
+rejoindre à Méknès, bon gré, mal gré, et quand ses
+troupes furent toutes réunies, il se mit en route.
+
+
+L'auteur du Boustân, le secrétaire Belqàsém Ezzayani
+(dont le nom s'écrit avec un sad prononcé comme un
+za palatal, comme le mot Şirât, suivant la prononcia-
+tion de Hamza), qui faisait partie de cette expédition, a
+dit au cours de son récit : « Je me trouvais avec le Sultan
+qui me tenait à l'écart à cette époque, au point que chaque
+jour je craignais qu'il ne me fit mettre à mort, à cause
+des lettres que lui avait écrites à mon sujet ce qâïd Belqa-
+sém Ezzemmoûri, qui prétendait que c'était moi qui avait
+soulevé ses administrés contre lui.  Le Sultan ayant
+rejoint la Mhalla de Belqâsém et ayant fait camper ses
+troupes dans la plaine de Gourigra, ce dernier lui con-
+seilla de diviser ses forces en trois groupes : l'un d'eux
+s'installerait à Tâsmåkt, sur les derrières des ennemis ;
+le second à Zâouyat Eddila, sur la route qui conduit dans
+leur pays; et le troisième irait avec lui sur la route de
+Tiqit. Quant au Sultan, il marcherait avec ses soldats jus-
+qu'à Adékhsân, où il camperait. De cette façon l'ennemi
+devait être cerné de tous côtés. Ezzemmoùri représenta
+au Sultan comme étant très proches des points très éloi-
+gnés, car il ne connaissait point le pays.
+
+
+Le lendemain, les troupes se disloquèrent et chaque
+groupe marcha dans la direction qui lui avait été indiquée.
+Le Sultan s'avança dans la direction d'Adékhsân. Arrivé
+à l'Oued Oumm Errabî , il envoya devant lui les Guerouân
+pour faire une attaque contre les Aït Ou Mâlou. Les
+Guerouân partirent: arrivés à Qaşbat Adékhsân, ils n'y
+trouvèrent pas le moindre réchaud et y attendirent l'arrivée
+du Sultan. « Où sont-ils ? demanda celui-ci. Nous
+n'avons vu personne, répondirent-ils, et nous sommes
+pourtant à Qaşbat Adékhsân. » Le Sultan ordonna aux
+troupes de mettre pied à terre et demeura seul à cheval
+en proie à ses réflexions. Il fit appeler Belqásém Ezzayani.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+323
+
+
+<< Je m'empressai, dit celui-ci, d'arriver auprès du Sultan,
+qui me dit : « Connais-tu ce pays?
+
+
+Je le connais parfaitement.
+
+
+Où sont ses habitants?
+
+
+Dans leur montagne.
+
+
+Mais leur montagne n'est-elle pas là? Ne sommes-
+nous pas à Adékhsân.
+
+
+Nous sommes, en effet, à la Qaşbat du Makhzen, mais
+leur montagne se trouve au delà de ces cols si noirs, lui
+dis-je en lui montrant les cols.
+
+
+Où est la Zaouya par laquelle le guéïch est parti avec
+Qaddoûr ben Elkhadir et Mesroûr?
+
+
+Elle est à droite des cols dans la plaine.
+
+
+Où est Tâsmåkt, que doivent gagner les Berbers avec
+
+
+Ould Mohammed Ou Azîz?
+
+
+Tâsmâkt est au delà des cols: d'ici il faut deux étapes
+pour y arriver.
+
+
+D'où doit venir le qâïd Belqâsém?
+
+
+ Lui montrant le col par lequel il devait remonter, je
+lui dis:
+
+
+« Il ne peut être ici que demain, s'il ne lui arrive pas
+malheur.
+
+
+Et qu'avons-nous fait, nous ?
+
+
+Nous avons donné des coups sur du fer à froid : ceux
+qui sont à la Zâouya ne serviront à rien, pas plus que ceux
+qui sont à Tâsmâkt, et pendant ce temps les Aït Ou Mâ-
+lou sont fortifiés dans leur montagne. Belqâsém est un
+homme qui porte malheur. Dieu préserve notre Maître de
+l'adversité qu'il fait naître ! »
+
+
+<<< Le Sultan se rendit alors compte que Belqâsém était tout
+autre qu'on le lui avait dépeint, et fut convaincu du mauvais
+conseil qu'il lui avait donné; il ne douta plus qu'il s'était
+rendu coupable d'avoir conduit aveuglément les Musulmans
+à une défaite. Je lui expliquai les raisons pour lesquelles
+les Aït Ou Mâlou évitaient Belqâsém, et il les comprit.
+
+
+324
+
+
+ARCHIVES MAROCAINES
+
+
+« Écris aux Zayân tes contribules, me dit le Sultan, de
+venir auprès de moi. Je leur pardonne. >>>
+
+
+« Je leur écrivis aussitôt et leur envoyai ma lettre
+d'Adékhsân par un chérîf et deux hommes du Sultan. Ils
+marchèrent toute la nuit et arrivèrent chez les Zayân assez
+tòt pour que quatre hommes de cette tribu puissent se pré-
+senter le lendemain matin avec leurs cadeaux. Je les intro-
+duisis auprès du Sultan, qui les accueillit aimablement et
+accepta leurs cadeaux en leur disant : « Je vous fais grâce en
+considération de mon secrétaire un tel.  Puis il les ren-
+voya, remplis de joie, auprès de leurs contribules. Cette
+nuit-là, les soldats n'eurent ni orge, ni paille.
+
+
+<< Le lendemain, on vit paraître la Mhalla de Belqâsém,
+accompagné de Mokhtar et des Abîds, qui avaient passé
+toute la nuit à combattre. Quand ils arrivèrent, le Sultan
+fit camper les Abîds à côté de lui, et ordonna à Belqâsém,
+auquel il ne témoignait aucune attention, de camper avec
+ses tribus, Zemmoûr et Beni Hkim. Il lui donna ensuite
+l'ordre de renvoyer ses contribules dans leurs pays, et
+autorisa les tribus à s'en retourner. Une fois ces troupes
+disloquées, il se mit en route pour rentrer dans le Tâdla. »
+
+
+Ceux qui étaient allés camper à Tâsmåkt avec Ould
+Mohammed Ou Azîz furent attaqués pendant la nuit et
+dispersés dans toutes les directions par les Aït Ou Mâlou,
+qui pillèrent leur camp et leur tuèrent un grand nombre
+d'hommes. Ils retournèrent en déroute à Méknès.
+
+
+Quand le Sultan arriva à Ezzerhoûniya pour y passer
+la nuit, des gens de Qaddoûr ben Elkhadir vinrent lui
+apporter une lettre, où ce dernier disait : « Les Berbers
+nous cernent de tous côtés: si notre Seigneur ne vient pas
+nous rejoindre, nous sommes perdus. » « Le Sultan m'or-
+donna, dit Ezzayani, de me rendre auprès d'eux et de
+trouver un moyen quelconque pour les sauver. Avec cent
+cavaliers qu'il m'avait donnés, j'atteignis la Zâouyat Eddi-
+lâïya, où je trouvai les Berbers réunis autour de nos
+
+
+DYNASTIE ALAQUIE DU MAROG
+
+
+325
+
+
+troupes. J'eus une entrevue avec les Aït Isri et je leur
+promis que le Sultan leur ferait un riche cadeau s'ils ou-
+vraient une issue à son armée et la faisaient passer par
+leur pays. Ils y consentirent, et, dès l'aube, l'armée leva le
+camp; nous nous éloignâmes avec elle des Aït Ou Mâlou
+et, après avoir traversé la rivière, nous entrâmes sur le
+territoire des Aït Isri, accompagnés de cent notables de
+cette tribu qui nous escortèrent jusqu'à l'Oued Tâqbalt
+dans le Tadla. Arrivés là, ils s'en retournèrent. Je me
+rendis alors auprès du Sultan, et lui annonçai que l'armée
+était sauvée et qu'elle était arrivée à l'Oued Tâqbalt. Il
+s'en réjouit et me remercia, puis, m'ordonnant de retour-
+ner auprès de l'armée, il me donna de l'argent pour le dis-
+tribuer aux hommes, et me chargea de leur indiquer les
+étapes qu'ils auraient à faire pour rentrer à Méknès, où
+ils devraient attendre le Sultan. Je retournai aussitôt au-
+près d'eux et leur appris que le Sultan ordonnait la mise
+en marche sur Méknès. Je leur désignai leurs étapes,
+comme j'en avais reçu l'ordre, et le lendemain, après que
+je leur cus distribué l'argent, ils levèrent le camp pour
+rentrer à Méknės. Je revins vers le Sultan, que je trouvai
+à Qaşbat Tadla, malade de la fièvre. Il était soigné par le
+médecin Aboùl'abbas Ahmed Aderrâq: seuls, ce dernier,
+Elhaddj Abdallah, son officier de bouche et moi, nous en-
+trions auprès du Sultan. Quand il fut guéri, il fit cadeau
+au médecin de 1.000 dînârs. Il rentra ensuite à Méknès. A
+peine arrivé, il fit arrêter Belqâsém Ezzemmoûriset lui
+confisqua ses biens. Il nomma Ould Mohammed Ou Aziz
+gouverneur des Zemmoûr et des Beni Hkim.
+
+
+<<< Depuis cette époque, le Sultan me donna le pas sur
+mes collègues, et me chargea, dans la suite, des missions
+importantes. »
+
+
+L'année suivante (1187), un traité fut conclu entre le Sul-
+tan et le Portugal. Ce traité renferme vingt-deux articles sti-
+pulant, comme les traités précédents, la paix et la sécurité.
+
+
+326
+
+
+ARCHIVES MAROCAINES
+
+
+Ce qu'il advint des Yégchêriya, que le Sultan avait fait entrer
+au service et choisis dans les tribus du Hoûz ¹.
+
+
+Nous avons vu que le sultan Sîdi Mohammed ben 'Abdal-
+lâh (Dieu lui fasse miséricorde!) avait restauré le corps
+d'infanterie du guéïch, appelé les Yégchériya (du nom de
+celui qui l'avait précédé), et qu'il en avait chargé le qâïd
+ Abdennebi Elmnebbehi. Mais cette troupe causait un tort
+considérable aux populations, qui en souffraient dans leurs
+femmes et dans leurs biens. Quand ils étaient en cam-
+pagne, ils détruisaient les récoltes des vergers partout où
+ils passaient. Ces méfaits étaient devenus chez eux une
+telle habitude, que, partout où ils campaient une nuit, ils
+imposaient aux habitants de l'endroit des exigences que
+ceux-ci étaient impuissants à satisfaire, et si les notables
+du pays les invitaient à plus de douceur, ils répondaient
+que c'était chez eux une habitude à laquelle ils resteraient
+fidèles et qui était une des règles du gouvernement.
+
+
+Quand le Sultan fut informé de la tyrannie qu'ils exer-
+çaient, il les raya de l'armée, leur enleva leurs armes, et
+les envoya auprès de leurs contribules, où ils durent
+comme eux payer des impôts. Le pays fut ainsi débarrassé
+de leurs méfaits.
+
+
+En 1188, le Sultan enleva au qâïd Mohammed ben Ahmed
+Elboûzirâri le commandement des tribus de Tâmesna,
+de Tâdla et des régions voisines, et ne lui laissa que celui
+des Doûkkâla, ses contribules. Il nomma Abou 'Abdallah
+Mohammed, surnommé Eşşeġîr, gouverneur des Serâġna,
+Şalah ben Erradi Elourdîġi, gouverneur des habitants de
+Tâdla, le qâïd Şaheb Ettaba Elmzâbi, gouverneur des
+Ouled Boû Rzeg, et Omar ben Boû Selhâm Elmzâbi,
+gouverneur des Ouled Boû
+Ațiya. Il donna l'ordre à
+
+
+1. Texte arabe, IV partie, p. 110.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+327
+
+
+Mohammed ben Ahmed de faire restituer à ceux de ses
+contribules qui avaient été gouverneurs de ces tribus les
+sommes qu'ils avaient volées pendant qu'ils étaient en
+fonctions: il leur fit payer ainsi 150.000 douros.
+
+
+Les Abids se révoltent contre le sultan Sidi Mohammed et
+proclament son fils Moûlay Yazîd; ce qui en résulte 1.
+
+
+En 1189, eut lieu la grande insurrection: ce fut la
+révolte des 'Abids contre le sultan Sîdi Mohammed ben
+'Abdallah et la proclamation de son fils Moûlay Yazîd.
+Voici l'origine de ces événements :
+
+
+Le Sultan, se trouvant à Morrakch, leur avait envoyé
+l'ordre de désigner parmi eux mille familles, pour se trans-
+porter à Tanger où elles habiteraient. Il leur avait fait por-
+ter la lettre contenant cet ordre par le qâïd Echchâhéd, qui
+devait les prendre sous son commandement. Ce fut lui qui
+fut la cause de la révolte, car, lorsqu'il apporta la lettre
+aux Abîds, il leur dit :
+
+
+« Je n'emmènerai avec moi que les notables parmi
+vous, ceux qui possèdent une maison, des terres et des
+propriétés, et je ne partirai qu'avec les gens de mon rang. »
+En apprenant ses prétentions arbitraires, ces ignorants
+se lancèrent tête basse dans l'opposition, et le démon les
+appela à son aide, si bien que, revenant à leurs anciens
+errements et imitant la conduite honteuse de leurs pères,
+ils déclarèrent qu'ils déposaient le Sultan. Quand cette
+nouvelle parvint au Sultan, il leur envoya son fils Moûlay
+Yazîd qui était auprès de lui à Morrakch, avec mission de
+rétablir l'ordre parmi eux, mais leur mauvaise conduite ne
+fit qu'augmenter et leur opposition que s'aggraver.
+
+
+« J'étais alors, dit l'auteur du Boustân, à Rabât Elfeth.
+
+
+1. Texte arabe, $IV^{\circ}$ partie, p. 110.
+
+
+328
+
+
+ARCHIVES MAROCAINES
+
+
+En me rendant à Morrakch, je rencontrai Moûlay Yazîd à
+Essânia, à une demi-journée environ de cette ville. Comme
+il me demandait des nouvelles des 'Abids, je lui racontai
+ce que je savais. Il s'en réjouit et pressa sa marche. Je
+compris aussitôt ses intentions, et je sus ce qui allait se
+passer. >> Cet auteur prétend, que lorsqu'il fut reçu par le
+Sultan, il le blama d'avoir fait partir Moûlay Yazid, et que
+Sîdi Mohammed reconnut son erreur.
+
+
+Quand Moûlay Yazîd atteignit Méknès, la première
+chose que firent les Abîds fut de le proclamer et de pro-
+noncer la khotba en son nom. Il ouvrit le trésor public et
+leur donna tout l'argent qu'ils purent désirer. Ensuite il
+ouvrit les magasins où se trouvaient les armes et la poudre,
+et leur en fit une distribution. Les tribus arabes et ber-
+bères du voisinage le reconnurent, à l'exception des Oûdêya,
+des Aït Idrâsén et des Guerouân, qui refusèrent de se
+joindre à lui, parce qu'ils étaient les partisans du Sultan.
+<< Trois jours après, raconte l'auteur du Boustân, Sidi
+Mohammed me chargea de me rendre auprès des Oûdêya
+et de leurs alliés pour leur remettre des lettres: ce que je
+fis. Je restai auprès d'eux jusqu'au moment où Moûlay
+Yazîd, à la tête des 'Abîds, marcha contre eux. Les Abids
+se trouvaient à Erroua. Les Aït Idrâsén et les Guerouân
+étaient entrés dans la ville avec les Oûdêya pour les sou-
+tenir contre leurs adversaires. Un combat eut lieu à El-
+mechtehi, à l'intérieur de la qaşba. Les Abids et leur Sul-
+tan furent battus et mis en déroute, perdant 500 hommes
+tués, sans compter un nombre incalculable de blessés. >>>
+A la nouvelle de ces événements, le Sultan quitta Mor-
+râkch à la tête de ses troupes et des tribus du Hoûz, pour
+se rendre à Méknès. A peine était-il parvenu à Salé que
+Moûlay Yazîd, apprenant son arrivée, s'enfuit au mausolée
+du chéïkh Aboûlhasan Ali ben Hamdoûch, puis à celui de
+Moûlay Idris l'aîné (Dieu doit être satisfait de lui!) dans
+le Zerhoûn. Le Sultan se rendit au Zerhoùn, et quand il
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+829
+
+
+entra dans le noble mausolée, les chérîfs de Zerhoûn lui
+amenèrent son fils Moûlay Yazîd, à qui il fit grâce. Il le
+ramena ensuite avec lui à Méknès. Au moment où il allait
+entrer dans la ville, une centaine de Abids des plus hauts
+placés, suivis de leurs enfants et de leurs femmes, vinrent
+au devant de lui, accompagnés des chérifs et des mara-
+bouts. Il leur pardonna, mais à la condition de quitter
+Méknès; ils se soumirent à cette condition. Le Sultan
+demeura dans cette ville pour régler le sort des Abids et
+les répartit dans les ports. Il en envoya deux rehas à Tan-
+ger, deux à El arêïch et un à Rabâț Elfeth. En les disper-
+sant ainsi, il voulait se garantir contre le retour de leurs
+méfaits et affaiblir leur esprit de corps. Plus tard, il sépara
+encore les Abids du Rabât Elfeth et en envoya 1.000 dans
+le Soûs, tout en maintenant 2.000 d'entre eux dans cette
+ville auprès des Abids de Méknès qui y étaient en exil.
+Le gouvernement fut ainsi débarrassé de leurs iniquités
+pour quelque temps.
+
+
+Ensuite, les 'Abids de Tanger se révoltèrent contre leur
+gouverneur, le qâïd Echchéïkh, et contre le qâïd des
+Rifains, Mohammed ben Abdelmalék, et voulurent les
+mettre à mort; ces derniers s'enfuirent à Aşéïla. A cette
+nouvelle, le Sultan, qui était encore à Méknès, écrivit
+une lettre de menaces aux notables des 'Abîds, qui arrê-
+tèrent les instigateurs de cette mutinerie et les lui envoyè-
+rent, pour témoigner de leur innocence. Le Sultan fit
+couper une main et un pied alternés à chacun des cou-
+pables. Les Abîds étant revenus à une attitude plus paci-
+fique, les deux qâïds rentrèrent à Tanger.
+
+
+Le Sultan se rendit ensuite à Morrâkch et emmena avec
+lui les Abîds de Méknès. ll installa à Elmanşoûriya, près de
+l'Oued Ennefîfékh, les Abîds de la Qaşba, qui étaient les
+principaux rebelles, et conduisit les autres avec lui à Mor-
+râkch. Il leur assigna cette ville comme résidence, des-
+titua ceux de leurs qâïds qui avaient pris part à l'affaire de
+
+
+330
+
+
+ARCHIVES MAROCAINES
+
+
+Moûlay Yazîd, et les laissa à l'écart, puis leur donna des
+qâïds choisis en dehors des 'Abîds.
+
+
+Remarquables mesures de répression prises par le sultan Sidi
+Mohammed ben  Abdallâh à l'encontre des 'Abids. 1
+
+
+Dans les ports, les Abîds se livrèrent au brigandage, et
+firent beaucoup de tort à la population, en portant atteinte
+aux jardins des gens, à leurs biens et à leur honneur.
+Prévenu de leur conduite, le Sultan, las de leurs excès et
+voyant qu'il n'avait obtenu aucun résultat en les disper-
+sant pour les punir, recourut à un autre genre de châti-
+ment tout nouveau, qui fut comme un antidote pour couper
+la maladie, et comme un cautère pour faire disparaître la
+racine même du mal. Voici à quel procédé il recourut.
+
+
+Quand il apprità quel degré étaient parvenuesleur tyrannie
+et leur audace, il quitta Morrâkch, décidé à les exterminer.
+Arrivé à Rabât Elfeth, il écrivit aux Abîds de Tanger et
+d'El'arêïch la lettre suivante: « Je suis satisfait de vous,
+et je suis revenu sur le serment que j'avais fait de vous
+éloigner de Méknès dans les ports. Maintenant, dès qu'ar-
+riveront auprès de vous les chameaux et les mules que je
+vous envoie, ceux d'entre vous qui sont à Tanger doivent
+charger sur ces animaux leurs familles et leurs bagages,
+et se rendre à Dar Arbi, dans le pays de Sefiân, où ils
+s'installeront. Ils renverront ensuite les chameaux et les
+mules à ceux d'entre vous qui sont à Elarêïch, et qui
+devront charger leurs enfants et leurs bagages et se ren-
+dre également à Dâr 'Arbi. Quand vous serez tous réunis,
+je vous enverrai mes mulets, dont vous vous servirez pour
+revenir tous à Méknès. » Quand ils reçurent cette lettre,
+ils bondirent de joie, car ils désiraient vivement retour-
+
+
+1. Texte arabe, $IV^{e}$ partie, p. 111.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+331
+
+
+ner à Méknès. Dès que les chameaux et les mules furent
+arrivés, ils quittèrent Tanger. Dans l'intervalle, le Sultan
+envoya le qâïd Sa'id ben El'ayyachi, qu'ils avaient déposé
+pendant leur révolte, à Dâr Arbi avec mission de demeurer
+là et d'y attendre les 'Abids de Tanger et d'Elarêïch. Il
+était déjà arrivé quand se présentèrent les Abîds de Tan-
+ger, qui vinrent camper près de lui. Lorsque les chameaux
+et les mules furent arrivés à El'arêïch, les Abîds de cette
+ville vinrent à leur tour et campèrent à côté de leurs com-
+pagnons, comme l'avait ordonné le Sultan.
+
+
+Celui-ci (Dieu lui fasse miséricorde !) quitta alors Rabâț
+Elfeth; il franchit l'Oued Shou au gué de Msiîda et vint
+jusqu'au Souq Elarbaça, dans le pays de Sefiân. Il ordonna
+alors aux tribus du Garb et aux Beni Hsen de marcher
+contre les Abids et de camper autour d'eux, de façon à les
+cerner de tous côtés. Quand les tribus eurent formé un
+cercle autour des 'Abîds et les eurent entourés d'aussi près
+que le blanc de l'œil est proche de la prunelle, le Sultan
+arriva et convoqua les chefs des tribus. Dès qu'ils furent
+réunis, il leur dit : « Je vous fais cadeau de ces 'Abîds, de
+leurs enfants, de leurs chevaux, de leurs armes et de tout
+ce qu'ils possèdent. Partagez le tout entre vous. Chacun
+de vous prendra un homme, une femme et leurs enfants:
+le mari labourera, la femme pétrira, et l'enfant gardera
+les troupeaux. Prenez-les, ceignez-vous de leurs armes,
+montez sur leurs chevaux et revêtez-vous de leurs habits:
+que Dieu les fasse ainsi servir à votre prospérité! Ce ne
+sont plus eux qui sont mes soldats et mon armée. Mes sol-
+dats et mon armée, c'est vous.  Aussitôt après avoir
+entendu ces parolės du Sultan, les tribus du Garb et les
+Beni Hsen se ruèrent sur les 'Abîds sans la moindre hésita-
+tion, et se les partagèrent avec plus de rapidité que le
+chien ne se lèche le museau; ils en firent un exemple pour
+ceux qui s'instruisent par des exemples.
+
+
+Le Sultan regagna ensuite Rabât Elfeth et, à peine arrivé
+
+
+332
+
+
+ARCHIVES MAROCAINES
+
+
+dans cette ville, expédia à Morrakch des 'Abids qui s'y
+trouvaient, après avoir révoqué leurs qâïds et les avoir
+remplacés par d'autres.
+
+
+Les Abids de Tanger et d'El arêïch restèrent dispersés
+dans les tribus pendant quatre ans. Le Sultan leur par-
+donna ensuite et les fit revenir des tribus pour les réin-
+tégrer dans l'armée. Il leur donna alors des chevaux, des
+vêtements et des armes, mais sans les réunir. II les
+groupa toutefois par tribus. Ceux des tribus d'Elkhlot et
+de Tlig durent résider à Qșar Ketâma; ceux des tribus de
+Sefiân et de Beni Malék à Msîîda; ceux des Beni Hsen à
+Sidi Qâsém; et ceux des Hayâïna el des tribus du Djebel
+à Tâmdart, dans la région de Fès. Ils demcurèrent dans
+ces postes pendant de nombreuses années, envoyant leurs
+contingents dans les expéditions et faisant colonne avec
+le Sultan quand celui-ci avait besoin d'eux. Après cela, le
+Sultan (Dieu lui fasse miséricorde!) les réunit de nouveau
+et les transporta à Morrakch où il leur fit beaucoup de lar-
+gesses: ils devinrent meilleurs qu'ils ne l'avaient jamais
+été. Changeant ensuite d'idée, il envoya les Abids du Soûs
+à Târoùdânt, ceux de Haba et d'Echchebânât à Essouéïra,
+ceux des Serâġna, de Tâdla et de Demnât à Tit Elfitr, ceux
+de Doûkkâla à Azemmoûr, ceux de Châoniya à Anfa, ceux
+de Za'îr et d'Eddogmâ à Elmansouriya, et ceux des Beni
+Hsen à Elmehdiya. Il ne conserva avec lui à Morrakch que
+les Abids des tribus de Seſiân, Beni Mâlék, Elkhlot et Tlig
+et les Msakhrin commandés par El'abbâs.
+
+
+La révolte de ces 'Abîds avait amené la désorganisation
+de l'empire du Magrib et la division: leurs méfaits avaient
+donné le mauvais exemple à toutes les tribus, berbères et
+arabes, et les insurrections étaient nombreuses.
+
+
+Le manque de pluies occasionna une disette qui dura
+près de sept ans, depuis l'année 1190 jusqu'à l'année 1196.
+La famine fut si grande que les gens en furent réduits à
+manger des animaux morts, du sanglier et même de la
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+333
+
+
+chair humaine. La majeure partie de la population mourut
+de faim. Pendant tout ce temps, le Sultan avait à lutter
+contre les plus grandes difficultés. Il dépensa pour l'armée
+des sommes considérables, donnant aux soldats solde sur
+solde et cadeaux sur cadeaux; il les sauva ainsi de la
+famine et travailla en même temps au bien général. Dans
+toutes les villes, il fixa pour chaque quartier une certaine
+somme qui devait être distribuée aux malheureux. Il prêta
+beaucoup d'argent aux tribus, qui le répartirent entre les
+pauvres; elles devaient le rendre au Sultan quand l'abon-
+dance serait revenue. Mais quand les gens furent sauvés
+de la famine et voulurent lui rembourser cet argent, il
+leur en fit grâce, en disant: « Je ne vous l'ai pas donné
+dans l'intention de vous le réclamer. Je vous ai dit que
+c'était un prêt, uniquement pour que cet argent ne fût pas
+accaparé par vos chéïkhs et vos notables, ce qu'ils eussent
+fait s'ils avaient su que c'était un don de ma part. >>>
+
+
+Il dégreva aussi (Dieu lui fasse miséricorde!), pendant
+tout ce temps, les tribus du Magrib de toutes leurs con-
+tributions et redevances, jusqu'au moment où elles purent
+revivre et s'enrichir. Il donna de l'argent aux négociants
+pour faire venir des vivres de chez les Chrétiens: quand
+ces provisions arrivaient, il leur faisait vendre au prix
+d'achat, par bienfaisance envers les Musulmans, et par
+charité envers les pauvres et les malheureux. Enfin, en
+1197, la pluie tomba au Maġrib; les populations se sen-
+tirent revivre; les terres furent labourées, le grain semé
+arriva à maturité: les prix baissèrent et tout fut à bon
+marché. Les impôts furent abondants, et le Prince des
+Croyants (Dieu lui fasse miséricorde !) se remit, pour la
+seconde fois, à rétablir l'ordre dans le Magrib et recom-
+mença ses travaux avec le plus grand soin.
+
+
+334
+
+
+ARCHIVES MAROCAINES
+
+
+Le sultan Sidi Mohammed ben  Abdallâh réduit les Ouled Bes-
+sebâ et les disperse dans le Sahâra; événements suivants ¹.
+
+
+nous
+
+
+Tandis qu'avait lieu au Magrib la révolte que
+avons rapportée, et que le Sultan était trop occupé à faire
+vivre les malheureux pour tenir fermement les districts
+éloignés et en punir les perturbateurs, les fauteurs de
+troubles semèrent la sédition dans certaines tribus, qui
+revinrent à leurs anciens égarements. Parmi ces tribus
+était celle des Ouled Besseba dans la région de Morrakch.
+Depuis longtemps, ces gens commettaient les crimes les
+plus odieux: en révolte à chaque instant, ils attaquaient
+leurs voisins et venaient les piller jusque sur leurs terri-
+toires, et même dans leurs demeures. Aussi, cette année-
+là (1197), le Sultan dirigea une expédition contre eux: on
+leur livra combat, et quand on en eut tué un certain
+nombre et qu'on leur eut pillé leurs biens, on les repoussa
+en déroute dans le Soûs. Le Sultan arrêta un grand
+nombre de leurs notables, les jeta en prison à Méknès,
+où ils restèrent jusqu'à leur mort. Il prescrivit aux tribus
+du Soûs de chasser les derniers survivants de cette tribu
+et de les repousser jusque dans les contrées du Sud, leur
+terre natale, d'où était sortie leur puissance avec leur mal-
+faisance. Ses ordres furent exécutés. Après avoir battu la
+tribu de Zemrân, il la transporta dans le pays des Ouled
+Besseba, pour le repeupler. Il fit ensuite partir pour le
+nord, où elles vinrent résider à Fès Eljedid et dans les
+environs, les tribus de Tekna, Mejjâț et Doûi Blâl qui
+étaient dans le Haoz, à Choûchâoua. Il ſit revenir, après
+cela, les Aït Yimmoûr du Djebel Selfât au Tâdla, tandis
+qu'il renvoyait dans le Ġarb les Gțâïa, Semket et Mejjâț,
+
+
+1. Texte arabe, $IV^{e}$ partie, p. 112.
+
+
+335
+
+
+DYNASTIE ALAQUIE DU MAROC
+qui étaient dans le Tâdla. Les Guerouan furent rappelés
+de Azgar, pour rentrer dans leur montagne.
+
+
+Ce fut aussi dans cette année-là qu'eut lieu l'affaire de
+l'imposteur Mohammed Ou lhaddj Elyimmoûri. Ce per-
+sonnage se prétendait un saint; il parlait des choses du
+monde invisible et déclarait qu'il attendait le Maître de
+l'heure. Le mal provoqué par lui se répandit d'abord dans
+toute sa tribu, puis gagna les autres tribus. De tous côtés,
+les ignorants Berbers se rendirent auprès de lui. Il excita
+contre les 'Arabs des tribus voisines les Aït Yimmoûr, qui
+étaient encore à Selfat à cette époque. Le gouverneur de
+la tribu de Sefiân, Aboû Abdallah Mohammed Elhachmi
+Essefiâni, voulut marcher contre eux et, accompagné de
+nombreux contingents fournis par les tribus du Garb,
+partit pour attaquer l'imposteur qui était dans sa tribu,
+les Aït Yimmoûr. Il franchit le Shou et organisa l'attaque
+contre cette tribu, mais il fut vaincu, et les troupes du
+Garb furent mises en défaite. Le qåïd Elhachmi ainsi
+qu'un grand nombre de notables de sa tribu furent tués.
+Leur Mhalla resta au pouvoir des Berbers, avec tout ce
+qu'elle contenait. La renommée de l'imposteur ne fit
+qu'augmenter; les gens de sa tribu n'en devinrent que
+plus arrogants et la contagion de leur égarement se répan-
+dit. Dès que le Sultan arriva à Méknès, il envoya quelqu'un
+pour arrèter l'imposteur et le lui ramener. Il le fit alors
+mettre à mort, débarrassant ainsi la population de ses
+suggestions diaboliques.
+
+
+Cette année-là, le Sultan envoya aussi son fils Moûlay
+'Abdesselâm accomplir l'obligation du pèlerinage: il
+n'était pas arrivé à l'âge de la puberté lorsqu'il avait
+accompagné son frère Moûlay Ali.
+
+
+En 1198, le Sultan fit une expédition contre les Zem-
+mour et les Beni Hkim. A son approche, ils se réfugièrent
+dans les défilés de Tâfoûdâït, où ils se fortifièrent. Il usa
+de ruse avec eux: il leva le camp et invita les Aït Idrâsén
+
+
+336
+
+
+ARCHIVES MAROCAINES
+
+
+et les Guerouân à les guetter et à les razzier au moment
+où ils descendraient dans la plaine. Dès qu'il se mit en
+route pour regagner Morrâkch, les Zemmoûr sortirent de
+leurs retraites; aussitôt les Beni Idrâsén et les Guerouân
+les entourèrent et leur enlevèrent tous leurs biens, qu'ils
+se partagèrent. Ils en furent réduits à aller tendre la
+main.
+
+
+Voyage du sultan Sîdi Mohammed ben Abdallah au Tâfilêlt,
+qu'il pacifie: motifs de cette expédition  .
+
+
+Soutenu par les Berbers du Şahara, Aït Atta et Aït
+Yafelmâl, le chérîf Moûlay Hasan ben Ismâîl, oncle du
+Sultan, qui résidait au Tâfîlêlt, se servait de ces tribus
+pour combattre les chérîfs de Sijilmâsa, dès qu'un diffé-
+rend survenait entre ces derniers et lui. Il aurait même
+tué l'un d'eux. Le Sultan, qui savait un peu ce qui se pas-
+sait, en était très affligé et il lui eût été pénible d'user de
+rigueur vis-à-vis de son oncle, d'autant plus qu'il était
+retenu par des affaires plus graves. Mais bientôt il reçut
+des chérîfs de Sijilmâsa des plaintes si nombreuses contre
+son oncle, qu'il ne put faire autrement que de l'éloigner
+du pays et de dégager les chérîfs de ses partisans ber-
+bers. Il résolut donc de se rendre lui-même à Sijilmâsa.
+Mais ne voulant pas laisser derrière lui son fils Moûlay
+Yazîd qui était alors dans le Garb, de peur qu'il ne sou-
+levât quelque révolte, il l'éloigna en l'envoyant au Hedjaz
+accomplir l'obligation du pèlerinage. Pour éviter ses
+intrigues, il le fit partir seul, en dehors de la caravane du
+pèlerinage, accompagné seulement d'un amîn, qui devait
+subvenir à ses dépenses, et de quelques personnes pour le
+servir. Le Sultan se mit ensuite en route pour Sijilmâsa,
+
+
+1. Texte arabe, IV partie,  . 113.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+337
+
+
+pour aller visiter la patrie de son ancêtre Moûlay Mi
+Echchérif (Dieu soit satisfait de lui!) et pour mettre un
+terme aux agissements coupables de son oncle Moûlay
+Hasan et de ses partisans. Quand il fut en vue de Tâfilélt,
+il envoya en avant Belqâsém Ezzayani, pour expulser les
+Berbers de leurs qsoûr sous le couvert de l'amân, et leur
+payer, le cas échéant, leurs grains et leurs dattes, s'ils
+prétendaient ne pouvoir les abandonner, afin qu'ils ne
+puissent pas invoquer pareille excuse. Il devait les préve-
+nir que s'ils restaient dans leurs qsoûr jusqu'à ce que le
+Sultan vînt les y chercher, ils n'auraient à s'en prendre
+qu'à eux-mêmes. Les Berbers se soumirent à cet ordre et
+vinrent dans le Şahara; il ne restait plus un seul homme
+dans leurs qsoûr quand le Sultan arriva, à l'exception de
+Moûlay Hasan, dont la puissance était ainsi détruite. Le
+Sultan lui envoya alors Belqâsém Ezzayâni, pour lui pro-
+poser de résider à Méknès, auquel cas il recevrait les ani-
+maux nécessaires pour transporter safamilleetses bagages.
+« Je me rendis auprès de lui, dit Ezzayani, et l'entretins
+de cette proposition, qu'il finit par accepter. Le lende-
+main, je partis avec lui pour Méknès, où le Sultan m'avait
+donné l'ordre de lui donner une maison pour son habita-
+tion et de lui fixer une somme de 300 mitsqals par mois
+pour ses besoins et ceux de sa famille. J'avais l'ordre éga-
+lement, dès que j'aurais accompli ma mission relative à
+son oncle, de lui ramener ses trois enfants, Moûlay Sli-
+mân, Moulay Hasan et Moûlay Houséïn, de lui rapporter
+de l'argent, et en même temps de revenir avec un certain
+nombre de canons, de mortiers et de bombes, que je
+devais faire traîner par une troupe de canonniers renégats
+allemands et un millier de bons soldats des ports. Je
+m'acquittai convenablement de cette mission, et je rejoi-
+gnis le Sultan à Sijilmasa, ayant avec moi tout ce que j'avais
+charge de lui amener. En route, nous apprîmes la mort de
+Moûlay 'Ali ben Mohammed, fils du Sultan et son khalifa
+
+
+ARCH. MAROC.
+
+
+22
+
+
+338
+
+
+ARCHIVES MAROCAINES
+
+
+à Fès. » Ce prince fut un des Alaouis les plus marquants.
+C'était un homme de bien et qui était cité pour son intel-
+ligence, sa science, ses connaissances littéraires, sa géné-
+rosité et sa noblesse de caractère. L'auteur du Boustân
+ajoute: << Sa salle de réception était le rendez-vous des
+gens vertueux, des littérateurs et des personnages de dis-
+tinction. Par sa générosité et son instruction littéraire, il
+rappelait le caractère de Moulay Mohammed El'além,
+fils de Moulay Ismail. Il aimait à copier les livres de
+sciences rares et les ouvrages de littérature. Il envoyait
+souvent ses poésies et ses discours aux gens de son temps
+et aux lettrés de son époque, comme les Fèsiyin, les
+Bekriyin et les Qadiriyîn, de même que Moûlay Moham-
+med El além était passionné pour les poésies des descen-
+dants du sultan Şalah Eddîn ben Eyyoub Elkourdi. Dieu
+leur fasse à tous miséricorde! >>>
+
+
+Quand les enfants du Sultan furent arrivés dans les
+environs de Sijilmasa, ils en avisèrent leur père et lui
+demandèrent la permission de se rendre auprès de lui. Le
+Sultan (Dieu lui fasse miséricorde!) se porta à leur ren-
+contre et ordonna à tous les chérifs et à tous les gens du
+pays d'aller les saluer, pour voir des appareils de guerre
+inconnus dans leurs contrées. Le Sultan était au milieu de
+son cortège, suivi de ses soldats à cheval dans leurs plus
+beaux costumes et en ordre parfait. Cette journée fut un
+jour de fète.
+
+
+Après avoir terminé ce qu'il avait à faire à Sijilmâsa,
+contenu les abords de cette région, pacifié les 'Arabs et
+les Berbers et mis fin aux actes malfaisants des Aït Atta
+et des Aït Yafelmål, auxquels il donna comme gouverneur
+un de ses principaux qâïds et un des grands de son gou-
+vernement, le qâïd Ali ben Hamîda Ezzirari, le Sultan se
+mit en route pour Morrakch, après un séjour d'un mois à
+Sijilmasa, en passant par le chemin d'Elfâïja.
+
+
+<<< Le Sultan, dit l'auteur du Boustân, m'avait envoyé de
+
+
+DYNASTIE ALAQUIE DU MAHOC
+
+
+339
+
+
+nouveau dans le Garb, pour former un guéïch composé des
+enfants des Abids des ports. Je devais le lui ramener à
+Morrakch, où ils devaient être incorporés dans son armée
+et recevoir leurs armes et leurs vêtements. »
+
+
+Arrivé au col d'Elglaoui, le Sultan fut arrêté par une
+tourmente de neige qui obstruait le chemin. L'armée fut
+dispersée de tous côtés, et la neige l'empêcha de rejoindre
+ses tentes et ses bagages. Le Sultan passa la nuit loin de
+ses matelas et de ses tentes, sans manger ni boire. Pas un
+seul groupe de l'armée ne put retrouver son chef. Quand
+le soleil s'éleva sur l'horizon, Dieu les débarrassa de la
+neige: c'était le matin de la fête des victimes. La khotha
+fut prononcée au nom du Sultan, qui exprima ses vœux
+pour le sultan ottoman  Abdelhamid ben Ahmed.
+
+
+Le Sultan arriva à Morrakch, sain et sauf. Dieu délivra
+l'armée de cette neige: pas un seul homme ne mourut.
+Dieu soit loué!
+
+
+Voyage que fit le sultan Sidi Mohammed ben Abdallâh à
+Essouéïra pour se distraire et se reposer, et ce qui lui arriva
+au cours de ce déplacement ¹.
+
+
+A son retour de Sijilmâsa, le sultan Sîdi Mohammed ben
+'Abdallah (Dieu lui fasse miséricorde !) demeura à Mor-
+râkch jusqu'au printemps. Il résolut alors d'aller à Eş-
+șouéïra, pour se rendre compte de son état et voir ses cons-
+tructions, car il aimait cette ville qu'il avait fondée et en
+était satisfait. Il voulait en profiter pour visiter les saints
+de Regråga dans le Sahel et recueillir la bénédiction de
+leurs tombeaux. Il effectuait ce voyage pour son agrément,
+pour le repos de son esprit et pour sa distraction. Il
+emmena avec lui un certain nombre de oulamâ et d'imâms
+
+
+1. Texte arabe, IV partie, p. 114.
+
+
+310
+
+
+ARCHIVES MAROCAINES
+
+
+de l'époque, auxquels il devait dicter des extraits des
+hadits du Prophète, et qui devaient les réunir suivant ses
+indications. Parmi eux, étaient le fqîh très docte et uni-
+versel, Aboù Abdallah Mohammed, fils de l'imâm Sidi
+Abdallah Elgarbi Errebâți, le fqih très docte; le scru-
+tateur Aboù Abdallah Mohammed Elmîr Esslaoui; le fqih
+très perspicace Aboù Abdallah Mohammed Elkamél
+Errechidi et le fqîh très docte Aboû Zéïd Abderrahman
+Boù Kheris. Ces personnages lui tenaient compagnie: ils
+rédigeaient pour lui et mettaient en ordre tous les extraits
+qu'il tirait des livres de hadits qu'il avait fait venir
+d'Orient, entre autres le Mesned de l'imam Ahmed, le
+Mesned de Aboù Hanifa. Il avait également avec lui un
+très grand nombre de secrétaires habiles dans la rédaction
+et la correspondance, comme St Elmehdi Elḥakkâk Elmor-
+rakchi, Si Abderrahman ben Elkamel Elmorrakchi, Si
+Ahmed ben Otsmân Elmèknėsi, Si Ahmed Elġazzal Elfèsi,
+Si Mohammed Skíréj Elfèsi, Si Etțâhar Bennâni Errebâți,
+Si Ettahar ben  Abdesselâm Esslaoui, Si Sa'id Echchlih
+Elguezoûli, Si Brahim Agbil Essoûsi, Belqâsém Ezzayâni,
+auteur du Boustân, et plusieurs autres.
+
+
+Il sortit de Morrakch pour cette excursion au prin-
+temps de l'année 1198. Au préalable, il fit dresser ses
+tentes autour de la ville, et les entoura du mur d'enceinte
+appelé Afråg. Au centre de toutes ces tentes, était la
+grande (qoubba que lui avait donné le despote des Frendj.
+Elle était doublée de brocart; les panneaux muraux, décou-
+pés en forme de mihrabs. étaient de velours fin de diverses
+couleurs, ses garnitures en galon d'or, et les cordes qui
+la tendaient, de soie pure. On prétend que le despote avait
+dépensé, pour la faire fabriquer, près de 25.000 dinars. La
+preuve en est que la pomme qui surmontait le poteau
+central, et qu'on appelle communément djâmoûr, était en
+or pur et pesait 4.000 mitsqals or. Le Sultan (Dieu lui fasse
+miséricorde!) s'en servit à cette occasion pour s'en réjouir
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+341
+
+
+la vue. Les qâïds, les secrétaires et tous ceux qui par-
+tirent avec lui emportèrent leurs tentes les plus belles et
+les plus riches. Dans ce cortège merveilleux, il visita les
+contrées pittoresques et les beaux sites qui sont agréables
+à la vue, qu'on est impuissant à décrire, qui dilatent l'âme
+et tiennent compagnie. Après une excursion de deux mois
+employés à parcourir ces plaines, à satisfaire toutes les
+délices, à se promener dans ces contrées, et à chasser le
+gibier de plume et de poil, il arriva à Eşşouéïra. Quand il
+eut examiné la ville et réalisé entièrement le but qu'il
+s'était proposé, il reprit la route de sa capitale. Il passa
+par Ribât Châkér, qui est une des mzára les plus célèbres
+du Magrib, et qui est, depuis les anciens temps, le ren-
+dez-vous des saints. Dans le Tachawouf, Châkér, qui a
+donné son nom à ce ribâț, est indiqué comme ayant été
+un compagnon de Ogba ben Nafi Elfihri, conquérant
+du Magrib, et c'est là que se trouve son tombeau. A son
+passage dans cette localité, lors de ce voyage, le sultan
+Sidi Mohammed ben  Abdallah ordonna de restaurer la
+mosquée et de faire des fondations et des murs nou-
+veaux.
+
+
+En revenant, il remonte le cours de l'Oued Neffîs, jus-
+qu'à la ville d'Agmât, où il visita le mausolée du chéïkh
+Aboû Abdallah Elhezmîri et les autres saints de cette
+cité. Sa mhalla était installée en dessous de la ville.
+Lorsque son campement fut établi, un certain nombre
+d'habitants du pays vinrent, avec leur qâdi, lui apporter
+un superbe bélier et des vases contenant des rayons de
+miel. Le qâdi fut introduit auprès du Sultan, qui se mit à
+parler avec lui, et lui demanda quels avaient été ses pro-
+fesseurs. Celui-ci lui fit des réponses extravagantes. Se
+tournant alors vers le Hajib, le Sultan lui dit : « Conduis
+ce qâdi à la tente du qâdi Aboû Zéïd 'Abderrahman ben
+Elkâmél; c'est lui qui s'en ira comme qâdi avec la mhalla
+au Soûs, s'il plaît à Dieu! Fais-le installer dans sa tente
+
+
+342
+
+
+ARCHIVES MAROCAINES
+
+
+et remets-lui ce bélier et ce miel. » Le Hajib conduisit le
+qâdi à la tente du qâdi de l'armée Aboù Zéïd ben Elkâmél,
+emmenant en même temps le bélier et le miel. Il recom-
+manda à ce dernier de bien traiter le qâdi pendant la nuit
+qu'il passerait chez lui.
+
+
+Le lendemain, le Sultan se mit en route pour regagner
+Morrâkch. Arrivé à l'Oued Neffîs vers le milieu de la jour-
+née, il fit dresser le pavillon de repos au bord de la
+rivière et convoqua le qadi Abou Zéïd et tous les secré-
+taires. Quand ils furent tous assis devant lui, il se mit à
+interroger le qâdi pour plaisanter: «Comment as-tu traité
+ton hôte pour le remercier de son bélier et de son miel? »
+lui dit-il. Le qâdi balbutia une réponse quelconque: il
+comprit que le Sultan voulait le mettre dans l'embarras
+en lui posant une pareille question, bien qu'il n'eût cepen-
+dant pas négligé son hôte d'une nuit. Le voyant embar-
+rassé, le Sultan (Dieu lui fasse miséricorde !) lui dit : « Je
+crois que tu ne l'as pas traité comme il fallait. Si tu lui
+avais fait au moins son éloge pour son bélier et son miel,
+tu aurais réalisé ce qu'on attendait de toi, et ta responsa-
+bilité eût été dégagée, car je ne t'ai envoyé ce qâdi qu'à
+cause de ce bélier et de ce miel. J'ai passé toute la nuit
+sans dormir, me rappelant ce qui s'était passé entre
+Elmansoûr Essa'di et ses secrétaires, à propos d'un inci-
+dent semblable. Je vois bien qu'aujourd'hui il n'y a plus
+de secrétaires, plus de fins lettrés ni de princes. Je vais
+vous faire entendre ce qu'il survint à Elmanșoûr lors de
+sa visite dans ce bourg d'Aġmât. » Il fit alors lire par son
+secrétaire Ben Elmbârek le récit donné par Elfichtâli,
+dans les Menahîl $E_{Ssaf\hat{a}}$, du voyage que fit Elmanşoûr
+Essa di à Agmât pour y faire un pèlerinage et se distraire.
+les poésies qui furent échangées entre le qâdi Aboû
+Mâlék 'Abdelouâhed Elhamîdi et celui qui lui fit cadeau
+du bélier et du miel, enfin tout ce que les secrétaires du
+gouvernement lui attribuent à ce sujet. Nous avons réuni
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+343
+
+
+toutes les informations relatives à ce voyage d'Elmansour
+en traitant précédemment de son règne. L'auteur du Nozha
+cite les vers d'Elhamidi: celui qui désire les lire doit se
+reporter à cet ouvrage. Quand le secrétaire eut fini de
+lire le récit contenu dans le livre d'Elfichtâli, le Sultan
+leur reprocha l'insuffisance dont ils avaient fait preuve
+dans un incident semblable à celui dont il venait de leur
+être donné lecture. Je crois que le Sultan (Dieu lui fasse
+miséricorde !) leur ordonna de copier ce récit et de l'étu-
+dier, pour leur servir de leçon. Dieu sait quelle est la
+vérité!
+
+
+Motif de la colère du sultan Sidi Mohammed ben  Abdallah
+contre son fils Moulay Yazid (Dieu lui fasse miséricorde!) 1.
+
+
+En 1199, Moulay Abdesselâm, fils du Sultan, revint du
+Hedjaz; il reçut alors de son père le commandement de
+Târoûdânt, du Soûs et des régions adjacentes. Puis, quand
+vint le moment du départ de la caravane du Hedjâz, le
+Sultan fit partir son neveu et son gendre Moûlay 'Abdel-
+málék ben Drîs, ses secrétaires Aboû Abdallah Mohâm-
+med ben  Otsmân Elméknâsi et Aboû Hafs Omar Elouzi-
+req, ainsi que le Chéïkh Errekb Aboû Mohammed 'Abdel-
+kérîm ben Yahya, et leur confia une somme de 350.000 dou-
+ros pour être remise aux chérîfs de la Mekke, de Médine,
+du Hedjaz et du Yémen. Il les chargea de porter également,
+pour différentes personnes, des cadeaux qui étaient conte-
+nus dans des cassettes cachetées; sur chacune d'elle était
+écrit le nom du destinataire. Il leur ordonna de se rendre
+d'abord à Constantinople, d'où ils devaient se mettre en
+route pour le Hedjâz avec l'Amin Eşşourra, envoyé chaque
+année par le Sultan ottoman aux deux sanctuaires. Toutes
+
+
+1. Texte arabe, IV partie, p. 115.
+
+
+344
+
+
+ARCHIVES MAROCAINES
+
+
+ces précautions furent prises à cause de Moûlay Yazîd qui
+aurait pu couper la route à la caravane et la dépouiller de
+son argent. Le Sultan envoya les voyageurs par mer sur
+un corsaire du sultan Abdelhamîd, à qui il écrivit pour lui
+demander de les faire partir avec son Amin Eşşourra. Mais
+lorsqu'ils arrivèrent à Constantinople, l'Amîn Eşşourra
+était déjà parti avec la caravane pour le Hedjâz, et ils res-
+tèrent dans cette ville. Ils n'effectuèrent leur voyage que
+l'année suivante, en compagnie de la caravane. Dès leur
+arrivée à Médine l'éclatante, ils distribuèrent aux gens de
+cette ville et à tous les chérîfs du Hedjâz l'argent qui leur
+était réservé. Quand ils arrivèrent à la Mekke, Moûlay
+Yazîd était là, guettant leur venue. Ils remirent de suite
+aux gens de cette ville leurs cadeaux, ne conservant que
+les présents destinés aux chérîfs du Yémen et les cassettes
+d'or. Mais, profitant de l'heure de la sieste, Moûlay Yazid,
+accompagné de plusieurs de ses gens, s'introduisit auprès
+des voyageurs dans la maison de  Abdelkérîm ben Yahya,
+Chéïkh Errekb; il prit tout ce qu'il put emporter, s'em-
+para des cassettes et partit. Le Chéïkh Errekb, Moûlay
+Abdelmalék et les deux secrétaires allèrent aussitôt trou-
+ver le chérîf Seroûr, émir de la Mekke et lui firent part de
+ce qui s'était passé. Celui-ci envoya immédiatement ses
+gardes chercher Moûlay Yazîd, et quand on l'eut amené, il
+l'invita à rendre l'argent et lui adressa des menaces. Le
+coupable rendit une partie de ce qu'il avait pris, et nia
+s'être emparé du reste. Telle fut, dit-on, la cause de la
+colère contre lui du Sultan, qui renia Moûlay Yazîd, et fit
+part de ce reniement dans des manifestes qu'il envoya
+dans toutes les contrées, et qui furent suspendus à la
+Ka'ba, à la pierre du Prophète, à Jérusalem, au mausolée
+de Moûlay 'Ali Echchérîf à Tâfilélt, au mausolée de Moû-
+lay Idris dans le Zerhoûn et à celui de Moûlay Idrîs à Fès:
+Le Sultan écrivit de plus au sultan Abdelhamîd de ne pas
+donner asile à son fils s'il se réfugiait chez lui. Moulay
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+345
+
+
+Yazid, qui ne pouvait plus se présenter devant son père
+après sa mauvaise action, demeura en Orient jusqu'à l'an-
+née 1203, comme nous allons le rapporter s'il plaît à
+Dieu.
+
+
+La même année (1199), les gens d'Alger enlevèrent une
+chrétienne, parente du despote d'Espagne qui allait, dans
+son bateau, d'Espagne à Naples pour visiter son cousin,
+possesseur de cette ville. Les Algériens refusèrent de la
+rendre contre n'importe quelle rançon, lorsqu'ils surent
+quel était son rang parmi les siens. Le despote d'Es-
+pagne écrivit alors au Sultan (Dieu lui fasse miséricorde !)
+pour le prier de s'occuper de son rachat au prix que
+demanderaient les Algériens. Le possesseur d'Alger
+repoussa les prières du Sultan. Celui-ci fit part de ce qui
+se passait au sultan Abdelhamid, qui adressa (Dieu lui
+fasse miséricorde!) au possesseur d'Alger des remon-
+trances énergiques pour n'avoir pas accédé aux demandes
+du Sultan. « Il faut, lui écrivit-il, que vous accordiez au
+Sultan sa liberté sans argent. Quel que soit le prix de
+cette chrétienne, si le Sultan du Magrib me démandait
+mille chrétiennes, je les lui enverrais. Maintenant, je vous
+ordonne de lui envoyer cette chrétienne, même si c'est
+une reine, et je vous défends de vous faire payer quoi que
+ce soit pour sa rançon. Vous repoussez les demandes du
+roi du Magrib en faveur d'une chrétienne sans importance:
+vous avez donc oublié qu'il a fait rendre la liberté aux
+captifs turcs de toute origine, si bien qu'il n'y a plus un
+seul Musulman qui soit captif chez les infidèles. Ne com-
+mettez pas une nouvelle action de ce genre, sans quoi mes
+sentiments à votre égard changeraient. Salut. » Quand ils
+reçurent le firman du sultan Abdelhamîd, les Turcs ne
+purent qu'envoyer la chrétienne auprès du Sultan (Dieu
+lui fasse miséricorde!) et s'excusèrent en disant: « Nous
+n'avons pas voulu la rendre, de peur que notre souverain
+n'en fût informé, car nous ne voulions pas le tromper:
+
+
+346
+
+
+ARCHIVES MAROCAINES
+
+
+c'était le devoir que nous imposaient nos fonctions et
+notre obéissance. Nous prions notre Seigneur d'accepter
+notre excuse et de ne pas croire que nous avons été gui-
+dés par d'autres motifs. Salut! >>>
+
+
+De ce qui eut lieu entre le sultan Sidi Mohammed ben Abdallah
+et les gens de la zâouya de Boûlja 'd (Dieu le protège!) 1.
+
+
+Cette zâouya est une des plus célèbres du Magrib; ses
+mérites sont exprimés par le langage des faits; depuis des
+siècles, elle est dirigée par des hommes éminents qui se
+sont transmis l'un à l'autre l'héritage de la sainteté et de
+la prééminence. Les humbles et les rois, les riches et les
+mendiants lui ont reconnu ces vertus, et les princes de
+cette dynastie et de celles qui l'ont précédée l'ont toujours
+traitée avec beaucoup d'égards et de respect. Toutefois,
+cet illustre Sultan, si glorieux et si noble, eut à sévir pen-
+dant son règne contre le chef de cette zâouya, qui était
+le mrâbeț baraka Abou  Abdallah Sidi Mohammed El arbi,
+fils du grand chéïkh Sidi Elmați ben Eşşalah: le chef n'a-
+t-il pas à sévir contre celui qu'il commande? L'homme
+n'est pas impeccable. Toute créature a ses imperfections,
+sauf celles que Dieu a créées parfaites. Il arriva donc que
+le Sultan (Dieu lui fasse miséricorde !), en retournant, cette
+année-là, de Rabât Elfeth à Morrâkch, passa par le Tâdla et
+alla camper à la zâouya de Boûljad. Il fit détruire, à ce
+que l'on raconte, la zâouya et chassa les étrangers qui se
+trouvaient réunis autour de la famille du Chéïkh. Il fit
+conduire Sîdi Elarbi et toute sa clientèle à Morrâkch qu'il
+leur assigna comme résidence. Ils y demeurèrent jusqu'au
+moment où mourut le sultan Sidi Mohammed (Dieu lui
+fasse miséricorde!) et où fut proclamé son fils Moûlay
+
+
+1. Texte arabe, IV partie, p. 116.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+3-17
+
+
+Hichâm ben Mohammed, qui leur permit de rentrer dans
+leur pays. Ils retournèrent à leur zâouya et y vécurent
+tranquillement pendant un certain temps. Après lui, le
+sultan Moûlay Slimân ben Mohammed maltraita à son tour
+Sidi El arbi, en raison de divers propos que quelque intri-
+gant lui avait attribués pour lui nuire. Après des corres-
+pondances et des lettres de reproches qu'il serait trop long
+de rapporter ici, ce Sultan ordonna à Sîdi El arbi de se
+rendre à Fès, où il demeura quelque temps. Il lui permit
+ensuite de retourner dans son pays.
+
+
+En 1200, le sultan Sidi Mohammed ben Abdallah (Dieu
+lui fasse miséricorde!) envoya son secrétaire, Belqâsém
+Ezzayani, comme ambassadeur auprès du sultan ottoman
+ Abdelhamid. Il était chargé de lui remettre un présent,
+dans lequel figuraient des charges de lingots d'or pur
+ayant la forme de barres de fer. Le Sultan (Dieu lui fasse
+miséricorde!) voulait par là faire reconnaître sa gloire par
+les rois et témoigner de sa richesse et de sa grande opu-
+lence, politique étrange de la part de celui à qui Dieu l'a
+décrétée. A son arrivée à Constantinople, Belqâsém trouva
+Moûlay Abdelmålék ben Drîs, le Chéïkh Errekb et les deux
+secrétaires qui attendaient le moment du pèlerinage de
+l'année suivante. « Je demeurai, dit-il, trois mois et dix
+jours à Constantinople, et, quand j'eus rempli ma mission,
+je revins auprès du Sultan: le sultan Abdelhamîd envoya,
+en même temps que moi, un de ses serviteurs offrir un
+présent à mon souverain (Dieu lui fasse miséricorde !).
+Lorsque nous fûmes rendus auprès du Sultan, il me féli-
+cita en me disant: << Jamais je n'enverrai par d'autre que
+par toi des présents à l'Ottoman », et, comme le réïs Etțâhar
+ben Abdelhaqq Fenních était présent, il ajouta, pour lui
+donner une marque de satisfaction : « De même, je ne
+confierai jamais mes bateaux de guerre qu'à Etțâhar. » II
+me demanda à combien s'élevait la solde trimestrielle des
+soldats turcs: je lui répondis qu'ils recevaient individuel-
+
+
+348
+
+
+ARCHIVES MAROCAINES
+
+
+lement 60 onces. Comme il trouvait que c'était peu, je lui
+fis savoir qu'en temps d'expédition, ils n'avaient pas a
+fournir leur nourriture ni celle de leurs chevaux, car toutes
+les dépenses de voyage étaient à la charge du Sultan. >>>
+Ezzayani s'étend ensuite très longuement sur la descrip-
+tion de Constantinople et sur la situation de ses habitants :
+mais ce serait sortir du cadre de notre ouvrage que de
+rapporter ce qu'il dit à ce sujet. Dieu est le protecteur.
+
+
+Nombre des soldats des ports durant le règne du sultan Sidi
+Mohammed ben 'Abdallâh, et montant de leur solde ¹.
+
+
+Pendant le règne du sultan Sidi Mohammed ben 'Abdal-
+lah, il y avait à Eşşouéïra, en comptant le guéïch, les artil-
+leurs et les marins, 2.500 hommes; à Asfi, 200 artilleurs et
+200 marins; à Tît, 500 Abîds; à Azemmoûr, 500 Abîds; à
+Anfa, 2.000 abîds; aux Deux-Rives, 2.000 artilleurs et
+marins; à Elmehdiya, 2.500 Abîds; à El'arêïch, en comptant
+le guéïch, les artilleurs et les marins, 1.500 hommes; à
+Aşéïla et dans le Sahel, 200 artilleurs et marins; à Tanger,
+3.600 Rifains; et à Tétouan, en comptant le guéïch, les artil-
+leurs et les marins, 800 hommes. Le nombre total des
+soldats des ports était de 10.500 hommes: leur solde indi-
+viduelle était de 30 onces par trimestre, c'est-à-dire d'un
+mitsgal par mois. Tout d'abord, ils touchaient leur solde
+à la fin de chaque mois, mais en l'année 1200, le Sultan
+(Dieu lui fasse miséricorde!), pour leur venir en aide et
+améliorer leur situation, accorda aux soldats des ports
+l'avance de leur solde de quinze années, à raison de un
+mitsqal par mois et par homme, ce qui représentait une
+somme considérable, environ trois millions.
+
+
+Le Sultan fit ensuite établir, dans tous les ports du
+
+
+1. Texte arabe, IV partie, p. 117
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+349
+
+
+Magrib, un trésor qu'on aurait, à la fin de chaque trimestre,
+pour payer aux soldats de la place présents ou absents
+30 onces par tête, pour leur permettre de subvenir aux
+besoins de leurs familles. Quant aux cadeaux d'expédition
+et de achoûra, aux gratifications et aux aumônes, le Sultan
+les prélevait sur ses biens propres : les trésors n'en sup-
+portaient pas la charge. Il en fut ainsi jusqu'à sa mort (Dieu
+lui fasse miséricorde!) où les 'Abids des ports, à l'insti-
+gation de Moûlay Yazîd, s'emparèrent des trésors, les
+ouvrirent, et, après avoir enlevé ce qu'ils contenaient,
+retournèrent à Méknès, leur patrie commune.
+
+
+En 1201, le Sultan dirigea une expédition contre la tribu
+des Chråga, dans les environs de Fès; il les pilla et les
+mit en déroute, mais leur pardonna ensuite, quand ils se
+réfugièrent au mausolée de Moûlay Boùchcheta, chez les
+Fichtâla. Il marcha ensuite contre les Hayâïna; après avoir
+fait moissonner et dépiquer leurs récoltes par le guéïch,
+qui enleva leurs grains jusqu'au dernier, il envoya des
+cavaliers à leur poursuite, qui pillèrent leurs campements
+et leurs effets. « A cette époque, dit l'auteur du Boustân,
+j'avais été chargé de conduire une armée au gouverneur
+d'Oujda. A mon retour, je rejoignis le Sultan chez les
+Hayâïna: il me nomma gouverneur de Tâza. Je m'y rendis
+et y restai une année entière. >>>
+
+
+La même année, Moûlay Moslama ben Mohammed, fils
+du Sultan, revint d'Orient, où il avait abandonné son frère
+Moûlay Yazid.
+
+
+En 1202, le Sultan (Dieu lui fasse miséricorde !) dépêcha
+aux Aït Atta l'ordre de lui fournir 600 hommes pris parmi
+eux et de les lui envoyer avec les Abids de Tâfilêlt, ce qui
+faisait un chiffre de 1.000 hommes; il voulait les vètir, les
+armer et les employer à la navigation, en les enrolant en
+même temps dans l'armée. « Quand ces hommes furent
+arrivés auprès de lui à Méknès, dit l'auteur du Boustân,
+le Sultan me fit venir de Tâza. Dès mon arrivée, il me
+
+
+350
+
+
+ARCHIVES MAROCAINES
+
+
+donna l'ordre de les conduire à Tétouan, d'où ils devaient
+recevoir des vêtements et des armes, et de là à Tanger,
+où ils devaient résider. J'étais chargé de les embarquer
+sur les vingt galiotes qui étaient dans le port de cette
+ville, et de les faire naviguer dans le détroit, sur les côtes
+d'Espagne, pour les habituer à la mer et les exercer aux
+manœuvres navales. Je les conduisis à Tétouan, comme
+j'en avais reçu l'ordre du Sultan (Dieu lui fasse miséri-
+corde!). Quand ils furent habillés et armés, je les emmenai
+à Tanger, où nous demeurâmes deux mois. Tous les jours,
+ils s'embarquaient sur les vaisseaux et faisaient la course
+entre eux. Tantòt ils sortaient dans le détroit, tantôt ils se
+rendaient sur les côtes d'Espagne et puis revenaient. A la
+fin, la mer ne les effrayait plus et ne les faisait plus souf-
+frir; ils s'y étaient tout à fait accoutumés. L'hiver appro-
+chait, quand le Sultan m'écrivit de les lui amener. A notre
+arrivée à Méknès, il donna des ordres pour qu'il y eût
+réunion au Mechouar pour notre réception. Lorsque nous
+fùmes en sa présence, il s'approcha et vint jusqu'au milieu
+de notre groupe. Il adressa la parole aux Berbers dans
+leur langue et leur demanda comment ils avaient effectué
+leurs voyages. Ceux-ci répondirent qu'ils étaient satisfaits.
+D'aussi bonnes dispositions de leur part firent plaisir au
+Sultan, qui en fut très content et leur dit ensuite :  Voici
+mon secrétaire et mon ami; je vous le donne comme gou-
+verneur et il aura sous son autorité mes enfants, mes cou-
+sins, et tous les gens du Şahara. Écoutez ce qu'il vous dira
+et obéissez-lui. » A ces mots, mon émotion fut si grande
+que je ne pus prononcer un seul mot. Le Sultan comprit
+que j'avais de la répugnance pour ces fonctions, et, quand
+il fut entré dans son jardin, il m'envoya chercher, et me
+dit, dès que je fus auprès de lui : « Ne crains rien, si je
+ne t'aimais, je ne t'aurais pas chargé de gouverner mes
+enfants et les gens de ma famille. Je ne puis pas me passer
+de toi. Ce Ben Hamîda, que j'ai nommé gouverneur de
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+331
+
+
+Sijilmasa, n'est bon à rien; tous les jours, il m'envoie des
+plaintes contre mon fils Houséïn, qui opprime la popula-
+tion, sans qu'il puisse l'en empêcher. Ce n'est que pour
+cette raison que je te nomme leur gouverneur, car ils te
+redoutent à cause de la faveur dont tu jouis auprès de
+moi. » II écrivit ensuite à ses enfants et aux principaux
+personnages de Sijilmasa, et donna des ordres qu'une
+somme, dont il indiqua le montant, me fut remise en vue
+de certaines dépenses et pour des constructions. Après
+cela, je lui fis mes adieux et pris congé de lui. J'allai d'abord
+de Méknès à Fès et de là à Sijilmâsa; je pris possession de
+mon poste et m'y installai. Le gouverneur qui me précé-
+dait retourna auprès du Sultan, qui le fit arrêter immédia-
+tement et le maltraita. >>>
+
+
+Moùlay Yazîd revient d'Orient et se réfugie dans le mausolée du
+chéïkh Abdesselâm ben Mechich (Dieu soit satisfait de lui!).
+Motifs de sa conduite ¹.
+
+
+En 1203, le fils du Sultan, Moûlay Yazîd ben Mohammed,
+revint d'Orient en compagnie de la caravane des pèlerins
+de Tafilêlt et se rendit à Sijilmâsa. Arrivé au bourg de
+Boû Şemgoûn, il rencontra une caravane de gens de Sijil-
+mâsa et les interrogea sur le pays et sur les gens: il leur
+demanda qui était gouverneur. En entendant prononcer le
+nom de Belqâsém Ezzayâni, Moûlay Yazîd fut très troublé
+et eut un moment d'abattement. Puis, s'adressant au Chéïkh
+Errekb, le chérîf Moûlay Abdallah ben Ali et aux chérîfs
+qui étaient avec lui: « J'avais l'intention, leur dit-il, d'aller
+avec vous jusque dans votre pays et de me réfugier dans
+le mausolée de mon ancêtre Moûlay  Ali Echchérif, d'où
+j'aurais envoyé un émissaire, accompagné de mes princi-
+
+
+1. Texte arabe, IV partie, p. 118.
+
+
+352
+
+
+ARCHIVES MAROCAINES
+
+
+paux cousins et de leurs égaux, auprès de mon père pour
+intercéder en ma faveur. Mais, maintenant que le gouver-
+neur de ce pays est Ezzayani, je n'arriverai à rien avec lui
+et ce n'est pas lui qui favorisera un rapprochement entre
+mon père et moi. Voici mes femmes, je vous serai recon-
+naissant de les emmener avec mes gens: ils iront chez
+mon frère Moûlay Slimân, et demeureront auprès de lui.
+Quant à moi, je me rendrai au mausolée du chéïkh Abdes-
+selâm ben Mechich, où je resterai jusqu'à ce que Dieu ait
+décrété ce que j'aurai à faire. >> II fit partir ses femmes et
+ses gens avec la caravane du pèlerinage et écrivit à son
+frère Moûlay Slimân pour lui recommander sa famille. Il
+écrivit aussi à sa sœur utérine Moûlât Habiba, qui habitait
+Erreteb, et à ses cousins de cette région. II chargea ses
+gens de leur remettre ces lettres. A l'arrivée de la cara-
+vane dans le pays d'Elqenâdsa, un de ses gens remit à
+Moûlay Slîmân les lettres qui lui étaient destinées; celui-ci
+fut très embarrassé et, ne sachant que faire, porta ces mis-
+sives à Belqàsém Ezzayani en l'informant de ce qui se pas-
+sait. « Mon père, lui dit-il, est fâché contre lui, et si j'accepte
+ses femmes, je m'expose à mon tour à sa colère: que
+faire ? » Belqàsém envoya au Chéïkh Errekb l'ordre de ne
+pas emmener avec lui les femmes de Moûlay Yazîd, en le
+prévenant qu'il encourrait la colère du Sultan. « Si tu veux
+être sain et sauf, ajoutait-il, envoie les femmes à Moûlât
+Habiba, à Erreteb. Salut. >> En recevant cette lettre, le
+Chéïkh Errekb, qui ne savait pas à quoi s'en tenir, fut vive-
+ment impressionné par sa teneur; il fit arrèter la caravane
+pour attendre l'arrivée des gens de Moùlay Yazîd et de
+ses femmes, et les fit partir avec quelqu'un qui leur indiqua
+le chemin d'Erreteb. Ils passèrent par l'Oued Ketsir et
+s'arrêtèrent chez Moûlât Habiba. Belqâsém Ezzayani informa
+le Sultan de tout ce qui s'était passé: il prétend que le
+Sultan approuva sa conduite, et lui ordonna de préparer
+des animaux et des provisions de route pour les faire con-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+353
+
+
+duire aux femmes de Moûlay Yazîd par cinquante 'Abids
+qui devaient les amener à Dâr Eddebîbag. Elles devaient
+y habiter avec sa mère, que le Sultan avait transportée du
+palais à cette résidence. Tout cela était l'œuvre d'Ezzayâni.
+Moûlay Yazid lui garda rancune de cette aflaire; aussi,
+quand il eut le pouvoir entre les mains, il le fit arrêter et
+bâtonner, et lui fit subir de mauvais traitements.
+
+
+Arrivé au mausolée du chéïkh Abdesselâm (Dieu soit
+satisfait de lui!), Moûlay Yazîd envoya un certain nombre
+de chérifs d'El alam pour intercéder en sa faveur. Le Sultan
+leur ordonna de lui amener son fils. Ceux-ci supplièrent
+Moûlay Yazid de venir, mais il s'y refusa. Deux autres fois,
+le Sultan l'envoya chercher, il ne voulut pas venir. Le Sultan
+lui écrivit plusieurs fois pour lui pardonner, mais il n'ac-
+cepta pas ce pardon. Au contraire, il manifesta sa déso-
+béissance et se mit nettement en état de révolte, écrivant
+même à son père des lettres où il manifestait ses disposi-
+tions. C'est, du moins, ce que prétend Ezzayani. Mais
+l'on sait que cet auteur était son ennemi: aussi ne faut-il
+pas ajouter foi à toutes ces affirmations contre ce prince.
+Dieu sait quelle est la vérité ! Le Sultan envoya alors son
+frère utérin Moùlay Moslama avec des soldats pour camper
+auprès de Moûlay Yazîd et le serrer de près; il ne devait
+pas le laisser descendre de l'enceinte sacrée. Une autre
+colonne, commandée par le qâïd El abbas Elboukhari, alla
+aussi s'installer dans le voisinage du horm, sur l'autre ver-
+sant de la montagne, pour bloquer Moûlay Yazîd et paraly-
+ser entièrement son action. Pendant son séjour dans cette
+localité, Moùlay Yazîd commença à creuser les fondations
+de sa maison et à bâtir une mosquée, dont on voit encore
+les restes au pied de la montagne. Il demeura assiégé là
+jusqu'au moment où lui parvint la nouvelle de la mort de
+son père (Dieu lui fasse miséricorde !).
+
+
+Nous raconterons plus loin, s'il plaît à Dieu, ce qui advint
+de lui.
+
+
+ARCII. MAROC.
+
+
+23
+
+
+354
+
+
+ARCHIVES MAROCAINES
+
+
+Mort du Prince des Croyants Sidi Mohammed ben 'Abdallah
+(Dieu lui fasse miséricorde !) 1.
+
+
+Voyant que Moûlay Yazîd s'obstinait à rester dans le
+mausolée du chéïkh 'Abdesselâm ben Mechích (Dieu soit
+satisfait de lui !) malgré ses exhortations répétées, le Sultan
+quitta Morrakch, pour se rendre en personne auprès de
+son fils, dans l'espoir de le rassurer et de dissiper ses
+craintes et ses appréhensions. Il sortit de Morrakch légè-
+rement malade. La maladie ne fit que s'aggraver en route,
+sous l'influence de la fatigue occasionnée par une marche
+rapide, qui le conduisit, en six jours, dans le voisinage de
+Rabât Elfeth. Ce fut là que la mort vint l'atteindre (Dieu
+lui fasse miséricorde !). Il était dans sa litière et se trouvait
+à une demi-journée environ de Rabât Elfeth. Le même
+jour, qui était le dimanche 24 rejeb 1204, on porta son
+cadavre en toute hâte à son palais. Le lendemain, toute la
+population se réunit pour célébrer ses funérailles : les
+gens vinrent de tous côtés pour y assister. Après la céré-
+monie, il fut enterré dans une des salles de son palais. La
+population tout entière fut affligée de sa mort. Dieu lui
+fasse miséricorde et soit satisfait de lui!
+
+
+Derniers renseignements sur le sultan Sidi Mohammed ben
+ Abdallâh; ses œuvres; sa politique 2.
+
+
+Le sultan Sîdi Mohammed ben  Abdallah (Dieu lui fasse
+miséricorde!) aimait et recherchait les savants et les gens
+de bien; à tout instant, il en était entouré. C'est ainsi que
+l'on voyait chez lui tous les savants et les imâms de l'époque,
+
+
+1. Texte arabe, IV partie, p. 119.
+
+
+2. Texte arabe, IV partie,  . 119.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+355
+
+
+comme le ſqîh très docte et universel, Aboû 'Abdallah
+Mohammed, fils de l'imâm Sîdi  Abdallah Elgarbi Errebâți;
+le fqth très docte, le scrutateur Aboû 'Abdallah Sîdi
+Mohammed Elmîr Esslaoui; le fqih très perspicace, Abou
+Abdallah Mohammed Elkamel Errechîdi, et le fqih Si
+Aboû Zéïd 'Abderrahmân, surnommé Boû Kherîş. Ceux-ci
+étaient ceux avec qui il s'asseyait pour converser: ils lui
+faisaient la lecture des livres de hadîts, en discutaient le
+sens et rédigeaient pour lui, suivant ses indications, les
+interprétations qu'il en tirait. Il avait un tel goût pour
+cette étude qu'il avait fait venir d'Orient des livres pré-
+cieux de hadîts qui ne se trouvaient pas dans le Magrib,
+entre autres, le Mesned de l'imâm Ahmed, le Mesned
+d'Aboû Hanîfa, etc. Il composa même sur la science des
+hadîis, avec l'aide des fqîhs qui viennent d'être nommés,
+divers ouvrages, parmi lesquels le Kitab Masanid Ela im-
+mati-l'arba'a. C'est un ouvrage précieux qui, forme un
+gros volume. Dans ce livre, il a formé un recueil des hadîts
+sur la riouâya desquels les quatre imâms sont d'accord, ou
+seulement trois ou deux d'entre eux: il a laissé de côté
+les hadîts rapportés par un seul des imâms, ou par un
+autre qu'eux. Un tel recueil n'avait pas encore été com-
+posé (Dieu lui fasse miséricorde !).
+
+
+Souvent, le vendredi, après la prière, il réunissait, dans
+la maqsoûra de la mosquée, à Morrâkch, les fqîhs de cette
+ville et ceux de Fès ou des autres villes qui se trouvaient
+là, pour converser sur les hadîts du Prophète et leur inter-
+prétation; ces conversations lui faisaient beaucoup de
+plaisir. Il regrettait souvent, dans ces réunions, d'avoir
+<< perdu ma vie à ne rien faire  et poussait des soupirs en
+songeant à tout ce qu'il aurait pu apprendre pendant sa
+jeunesse.
+
+
+Comme il ne s'était occupé d'aucune branche de la
+science quand il était jeune, il commença par étudier avec
+ardeur les livres d'histoire, les chroniques des peuples,
+
+
+356
+
+
+ARCHIVES MAROCAINES
+
+
+l'histoire des Arabes et ses principaux faits. Il était im-
+prégné de cette étude, dans laquelle il était arrivé à un
+degré très avancé. Il savait presque par cœur les proverbes
+arabes et les poésies des poètes antéislamiques et postis-
+lamiques qui se trouvent dans le Kitâb Elagani, d'Aboûl-
+faraj Elişbahani. Mais quand Dieu le chargea du gouver-
+nement des Musulmans après la mort de son père, il
+abandonna l'histoire et la littérature, qu'il aimait pourtant
+passionnément, pour entreprendre la lecture des hadîts,
+rechercher ceux qui sont étranges, les tirer des sources,
+converser avec les savants et s'entretenir avec eux sur ces
+matières. Il avait organisé, pour cela, des séances régu-
+lières qui auraient pu certainement supporter la comparai-
+son avec celles d'Elmanşoûr Essa'di, que raconte Elfichtâli
+dans le Menâhil $E_{ssafa}$. S'il allait faire un pèlerinage, ou
+s'il faisait une chasse ou une partie de plaisir, au prin-
+temps, et qu'il restât dehors à peu près une semaine, il
+campait, de préférence, dans les endroits où campait
+Elmanşoûr, lorsqu'il se rendait en pèlerinage à Ağmât ou
+qu'il en revenait. Et il disait : « C'étaient les campements
+d'Elmansoûr (Dieu lui fasse miséricorde!). Il est mon maître
+en pareille matière. >>>
+
+
+Voici une chose curieuse à son sujet (Dieu lui fasse
+miséricorde!): Il jugeait que les tolba qui passaient leur
+temps à étudier des abrégés (mokhtașar) sur la science du
+droit ou sur d'autres sciences, en laissant de côté les
+ouvrages fondamentaux qui contiennent des développe-
+ments clairs, perdent leur temps sans profit. Il ne voulait
+pas qu'on étudiât ainsi et ne laissait personne lire le
+Mokhtaşar de Khelîl, celui de Ibn 'Arafa, et autres ou-
+vrages du même genre. Il ne ménageait pas les humilia-
+tions à ceux qui faisaient la lecture de ces ouvrages, si
+bien que le Mokhtasar de Khelîl fut sur le point d'être
+entièrement abandonné. Il recommandait, au contraire,
+l'étude de la Risala et du Tehdîb, et autres traités simi-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+357
+
+
+laires. Il écrivit même, à ce sujet, un ouvrage très déve-
+loppé, avec l'aide de Aboû Abdallah Elgarbi, de Aboù
+'Abdallah Elmir, et d'autres savants assidus de ses réu-
+nions. Le sultan Moûlay Slîmân, quand il arriva au pou-
+voir, encourageait, au contraire, l'usage du Mokhtaşar et
+donnait beaucoup d'argent pour ceux qui l'apprenaient par
+cœur et l'enseignaient. Chacun est récompensé suivant
+ses intentions et le but qu'il s'est proposé.
+
+
+Je dirai, cependant, que l'opinion du sultan Sidi Moham-
+med (Dieu lui fasse miséricorde!) était la bonne. On
+trouve, en effet, dans les écrits d'un certain nombre de
+grands savants, comme l'imâm, le hafid Boù Bkeur ben
+El arabi, le chéïkh circonspect Aboû Ishaq Echchâțbi, le
+très docte, l'érudit Aboû Zéïd Abderrahman ben Khal-
+doûn, et tant d'autres, que le dessèchement de l'eau de la
+science et la décroissance du savoir des gens d'étude dans
+l'Islâm sont dus à ce qu'on ne se sert plus que des abré-
+gés qui sont difficiles à comprendre, et qu'on laisse de
+côté les ouvrages des auteurs anciens, dans lesquels les
+idées sont longuement développées et les arguments très
+clairs, et qui permettent à celui qui les étudie d'arriver à
+posséder leur contenu. J'en jure par ma vie, ceux-ci seuls
+qui en ont fait eux-mêmes l'expérience peuvent être cer-
+tains de ce qui précède. Nous avons dit aussi, au commen-
+cement de cet ouvrage, que les rois descendant de 'Abdel-
+moûmén prêchaient le retour aux prescriptions du Coran
+et de la Sounna, témoignant ainsi de l'importance de la
+science antique et de leur respect des principes qui en
+découlent. Dieu conduit qui bon lui semble dans la voie
+droite.
+
+
+Le sultan Sîdi Mohammed ben 'Abdallah (Dieu lui fasse
+miséricorde!) interdisait l'étude des livres de Touhid éta-
+blis sur les bases de la théologie dogmatique ('Ilm Elkalâm)
+et rédigés suivant l'esprit de la secte de l'imâm Elachari.
+Il recommandait aux gens de s'en tenir à la doctrine
+
+
+358
+
+
+ARCHIVES MAROCAINES
+
+
+primitive, qui consiste à suivre simplement le dogme tel
+qu'il dérive du sens extérieur du Coran et de la Sounna,
+sans se préoccuper des interprétations. C'était ce qu'il
+pratiquait lui-même: ainsi, à la fin de son livre relatif aux
+hadîts extraits des quatre imâms, il dit: « Je suis mâleki
+de rite et hanbali de dogme », ce qui signifie qu'il
+jugeait inutile de s'engager dans la science du sens des
+mots, comme le font les modernes. On cite de lui de nom-
+breuses anecdotes à ce sujet. Sur cette matière il avait
+encore raison, à mon avis en effet, l'imâm Abou Hâmed
+Elġazzâli (Dieu soit satisfait de lui!) dit, dans le Kitâb
+Elahia, que la science du sens des mots est comparable
+à un remède dont on n'a besoin qu'en cas de maladie: on
+ne doit y recourir qu'en cas d'hérésie. D'ailleurs, on a éta-
+bli dans quelle mesure il convient d'en user vis-à-vis du
+peuple et des autres classes de la société, des commen-
+çants et de ceux qui ont achevé leurs études, des médio-
+cres et des intelligents. Mais ce serait sortir de notre
+sujet que de nous étendre sur cette question.
+
+
+Le sultan Sîdi Mohammed (Dieu lui fasse miséricorde!)
+avait une grande noblesse de caractère: il aimait la
+gloire et voulait arriver au faîte de la splendeur. Il tenait
+aux souverains turcs le langage d'un égal, et ceux-ci, à
+leur tour, le traitaient en seigneur. Les nombreuses
+sommes d'argent et les cadeaux qu'il leur envoyait lui
+donnèrent une haute situation auprès d'eux: ils le consi-
+déraient comme plus puissant qu'eux par la richesse et
+le nombre d'hommes. Il donnait en prince qui ne craint
+pas l'appauvrissement, et savait placer ses générosités.
+Il connaissait la valeur des hommes, les traitait en consé-
+quence, et savait leur passer leurs fautes, tenant compte de
+leurs antécédents à ceux qui avaient rendu des services.
+Il s'intéressait toujours à ses serviteurs, qu'ils fussent
+bien portants ou malades, et ne dédaignait pas ceux qu'il
+avait connus avant d'être au pouvoir.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+359
+
+
+Il était reconnu comme un des hommes les plus coura-
+geux de son temps: il conduisait lui-même les expédi-
+tions, et la crainte qu'il inspirait suffisait à mettre en
+déroute les troupes ennemies. Il gardait les hommes de
+valeur et les employait à son service, les réservant pour les
+jours difficiles. Il les appelait par leur nom quand il les
+rencontrait ou qu'ils se présentaient chez lui. Il les expé-
+diait à la tête d'une tribu, ou d'un groupe de l'armée.
+Dans ses guerres, il se conformait toujours aux règles de
+la politique de douceur. S'il chargeait de mission un
+homme dont il connaissait l'habileté et la valeur, il lui
+disait ce vers d'Ibn Doréïd: « Mille hommes ne sont pas
+plus qu'un seul; un seul homme est autant que mille s'il
+a reçu ses ordres de nous. >>>
+
+
+En résumé, ce Sultan (Dieu lui fasse miséricorde !) était
+un grand roi.
+
+
+Les œuvres qu'il a laissées dans le Magrib sont nom-
+breuses. On lui doit à Morrakch la reconstitution du mau-
+solée du chéïkh Bel'abbas Essebti avec sa mosquée et
+sa mdersa, du mausolée du chéïkh Ettebbá avec sa mos-
+quée, du mausolée du chéïkh Elguezoûli avec sa mosquée,
+du mausolée du chéïkh Eljezouâni avec sa mosquée, du
+mausolée du chéïkh Ben Şalah avec sa mosquée, du mau-
+solée de Moûlay Ali Echchérîf avec sa grande mosquée,
+du mausolée du chéïkh Méïmoûn Eşşahraoui, de la mos-
+quée des rois et de ses deux mdersas à Berrîma, de la
+mosquée d'Elmansour, de la grande mosquée de Bâb
+Doukkala, de la grande mosquée de Bâb Héïlâna, de la
+grande mosquée d'Errahba, de la mosquée et des six
+mdersas de la qâşba. Il restaura aussi la mosquée de la
+Zâouyat Echcherrâdi et celle de Ribât Châkér. Il fonda
+la ville d'Eşşouéïra avec ses mosquées, ses mdersas, ses
+forts, ses batteries et tout ce qu'elle renferme. On lui doit
+encore la mosquée et la mdersa d'Asfi; la mosquée de
+la ville de Tit; la ville d'Ânfa, sa mosquée, sa mdersa,
+
+
+360
+
+
+ARCHIVES MAROCAINES
+
+
+son bain, ses şqalas et ses batteries; la ville de Fdâla, sa
+mosquée et sa mdersa; Elmanşoûriya et sa mosquée;
+la mosquée Essounna à Rabât Elfeth, et les six mosquées
+ainsi que les forts d'Agdal; les deux grandes şqalas de
+Salé et de Rabât Elfeth; la mosquée d'El'aréïch, sa mdersa,
+ses şqalas, ses batteries et son marché, les şqûlas et les
+batteries de Tanger; la mosquée Elazhar et sa mdersa à
+l'Istabl de Méknès; dans cette ville, la mosquée d'El-
+berdaʻiyin, le mausolée du chéïkh Ben Isa, celui du chéïkh
+Aboû Otsmân Sa'îd avec sa mosquée, la mdersa Eşşahrij,
+la mdersa Eddar Elbaïda, la mosquée et la mdersa de
+Berrima, la mosquée de Hedrâch, la mosquée de Bâb
+Merah; trois arches du pont du Sbou, près de Fès, le
+mausolée du chéïkh Ali ben Hirzihim, celui du chéïkh
+Derrás ben Ismâ'îl, celui d'Abou Abdallah Ettaoudi, la
+mdersa de Bâb Elguîsa; la mosquée et la mdersa de Tâza;
+à Sijilmâsa, le mausolée de Moûlay 'Ali Echchérîf et la
+qaşba d'Eddar Elbaïdâ avec sa mosquée et sa mdersa, et la
+mosquée et la mdersa d'Erréïşâni. Il fit également de
+pieuses fondations en faveur du Maristân de Fès et de
+celui de Morrakch.
+
+
+Toutes ces œuvres sont assez glorieuses pour perpétuer
+la mémoire de son noble génie: parmi ces monuments,
+les uns ont été édifiés par lui, les autres réparés, d'autres
+enfin reconstruits.
+
+
+Il assigna aux chorfa de Tâfîlêlt une somme annuelle de
+100.000 mitsqûls, dans laquelle n'étaient pas compris les
+dons divers qu'il leur faisait dans le courant de l'année.
+Il servit également une somme annuelle de 100.000 mits-
+qâls aux notables des deux nobles sanctuaires et aux
+chorfa du Hedjâz et du Yémen. Les chorfa du Magrib
+recevaient la même somme. A chaque fête, il envoyait des
+dons aux tolbas, aux moueddins, aux lecteurs et aux
+imâms des mosquées. On ne saurait calculer les sommes
+qu'il payait, en vue de la guerre sainte, aux réïs de la mer
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+361
+
+
+et aux artilleurs, ni ce qu'il dépensait pour les bateaux de
+guerre et les appareils de combat dont il remplit les con-
+trées du Magrib. Mais ces sommes furent encore dépas-
+sées par celles qu'il employa à faire mettre en liberté les
+captifs musulmans, puisqu'il ne restait plus dans les pays
+de l'infidélité un seul prisonnier de l'Occident ou de
+l'Orient; en une seule année, il obtint la liberté de plus
+de 248.000 captifs.
+
+
+Les legs pieux qu'il fit aux deux nobles sanctuaires,
+ainsi que les livres de science dont il leur fit don, existent
+encore aujourd'hui.
+
+
+Il s'occupa beaucoup des bateaux corsaires: sous son
+règne, il y eut jusqu'à 20 grands vaisseaux d'escadre et
+30 frégates et galiotes; les réïs étaient au nombre de 60,
+ayant tous leurs bateaux et leurs marins; comme ma-
+rins, il y avait 2.000 Orientaux et 3.000 Magribins, et, de
+plus, 2.000 artilleurs.
+
+
+Son infanterie comprenait 15.000 Abîds et 7.000 hommes
+de condition libre: l'infanterie fournie par les tribus et
+qui participait aux expéditions avec les réguliers compre-
+nait 8.000 hommes du Hoûz et 7.000 du Ġarb.
+
+
+Il déployait, s'il se rendait au Mechouar, ou lorsqu'il
+sortait avec son cortège, une splendeur immense dont tout
+le monde parlait.
+
+
+Les rois et les despotes européens le craignaient. Leurs
+envoyés lui apportèrent leurs cadeaux et leurs présents
+pour obtenir de vivre en paix avec lui sur mer. Il était
+arrivé à ce résultat par son habile politique et son pres-
+tige. Il accorda la paix à toutes les nations chrétiennes,
+sauf aux Moscovites, parce qu'ils faisaient la guerre au
+Sultan ottoman. Quand ils lui envoyèrent leurs ambassa-
+deurs et leurs présents à Tanger, il les repoussa et refusa
+d'accorder la paix.
+
+
+Il imposa aux nations chrétiennes des tributs qu'elles
+s'engagèrent à lui payer, et qu'elles payaient réellement
+
+
+362
+
+
+ARCHIVES MAROCAINES
+
+
+chaque année. Cet état de choses se prolongea après lui,
+mais il a cessé dans ces dernières années. Les nations
+chrétiennes cherchaient à lui être agréables par des cadeaux,
+des services et par tous les moyens en leur pouvoir. Dès
+qu'il écrivait pour lui demander quoi que ce fût à un des-
+pote, celui-ci s'empressait de le faire, même si c'était
+défendu par sa religion. Il obtenait satisfaction d'eux de
+toutes les façons, bon gré mal gré. Ainsi les deux plus
+grands despotes chrétiens, qui étaient le despote d'Angle-
+terre et le despote de France, refusaient de lui payer ouver-
+tement le tribut comme les autres princes étrangers; il
+leur faisait, cependant, payer beaucoup plus par une poli-
+tique amicale.
+
+
+Il eut un grand nombre d'enfants, qui furent : Aboû-
+Ihasan Ali, qui était l'aîné, Elmâmoûn, Hichâm,  Abdes-
+selâm, issus de la maîtresse du palais, Lalla Fâțma, fille
+de son oncle Slîmân ben Ismâîl;  Abderrahmân, fils d'une
+femme libre Howâriya des Howâra du Saîs; Yazîd et Mos-
+lama, issus d'une captive espagnole convertie; Elhasan et
+Omar, issus d'une femme libre des Ahlaf; 'Abdelouâḥéd,
+issu d'une femme libre de Rabât Elfeth; Slimân, Ettayyéb
+et Moûsa, fils d'une autre femme libre des Ahlaf; Elhasan
+et  Abdelqâder, issus d'une autre femme des Ahlaf; Ab-
+dallâh, issu d'une femme libre des Arabs Beni Hsen, et
+Brâhîm, fils d'une Européenne convertie.
+
+
+Parmi les panégyriques en vers composés en l'honneur
+du sultan Sîdi Mohammed ben Abdallah (Dieu lui fasse
+miséricorde!), il y a l'Ardjoûza du fin et éloquent Aboûl-
+ abbas Ahmed Elounnan, intitulée Echchemaqmaqiya, qui
+débute ainsi:
+
+
+<< N'envoie pas encore le chamelier qui doit faire mar-
+cher devant lui les chamelles, et ne leur fait pas faire plus
+qu'elles ne peuvent. >>>
+
+
+Cette Ardjoûza est célèbre: elle est en vers excellents
+et est composée avec beaucoup d'habileté. Elle témoigne,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+363
+
+
+de la part de son auteur, d'une grande puissance et d'une
+profonde connaissance de l'histoire des Arabes, de leur
+époque, de leur sagesse et de leurs proverbes. Celui qui
+l'apprendrait par cœur et la comprendrait à fond pourrait se
+passer de tout autre ouvrage de littérature. A l'époque où je
+me livrais à l'étude, j'ai soigneusement travaillé à vocaliser
+les mots de ce poème, à étudier à fond les récits et les
+proverbes qu'il contient, et à disséquer les allusions et les
+métonymies qu'on y rencontre, et que j'étais arrivé à
+reconstituer entièrement. Je me mis ensuite à rédiger sur
+ce poème un commentaire embrassant tous les sens cachés
+et rapportant toutes les sources auxquelles l'auteur a
+puisé. J'avais écrit environ quatre cahiers, quand les cir-
+constances m'empêchèrent de terminer mon ouvrage. Je
+demande à Dieu d'éloigner de moi les entraves qui me
+retiennent, afin que je puisse travailler pour le bien de
+notre religion et de nos affaires humaines, et de me secou-
+rir de la félicité en ce bas monde et en l'autre, dans mes
+pérégrinations et dans mon repos (1). Lui seul le peut.
+
+
+Parmi les vizirs du sultan Sîdi Mohammed ben  Abdal-
+lâh (Dieu lui fasse miséricorde!), il y eut le ministre célèbre,
+Aboû Abdallah Mohammed El'arabi Qadoûs, surnommé
+Efendi. C'était un des familiers du Sultan: il jouissait de
+sa faveur et était un des grands de son gouvernement. II
+descendait d'un Espagnol converti. Cet homme était une
+véritable étincelle d'intelligence et de vivacité; par son
+esprit d'organisation et son énergie, il était un des soutiens
+du gouvernement de Sidi Mohammed; pas une seule
+affaire de la Cour ne lui échappait. Aussi il avait acquis
+une influence et une autorité sans égales à cette époque :
+les plus hauts personnages de l'Empire attendaient à sa
+porte deux, trois jours, sans pouvoir être reçus par lui.
+
+
+(1) Dieu a bien voulu me permettre de terminer cet ouvrage, qui, Dieu
+soit loué, est parfait dans son genre (Note de l'auteur).
+
+
+364
+
+
+ARCHIVES MAROCAINES
+
+
+Après la mort du sultan Sidi Mohammed (Dieu lui fasse
+miséricorde!), ce vizir fut maltraité par Moùlay Yazîd en
+même temps que d'autres gens de Morrâkch, comme nous
+le verrons plus loin.
+
+
+Règne du Prince des Croyants Moûlay Yazîd ben Mohammed: ses
+premières années; son développement (Dieu lui fasse miséri-
+corde!) 1.
+
+
+Moûlay Yazid était l'objet de la sollicitude de son père
+(Dieu lui fasse miséricorde !), qui lui témoignait une très
+grande estime. Tous les habitants du Magrib, quels qu'ils
+fussent, administrés et soldats, étaient pleins d'affection
+pour lui et mettaient en lui leurs espérances. Son nom leur
+était sympathique et ils aimaient à entendre parler de lui.
+En effet, ce prince était généreux, brave; il était attaché
+fermement aux devoirs de la noblesse; il était pieux; il
+tenait à se montrer bienfaisant envers les descendants du
+Prophète; il aimait les gens de bien et leur faisait des
+dons; il exécutait les prières quand le moment en venait,
+en voyage ou en séjour, et rien ne pouvait l'en détourner.
+Il était considéré comme un prince parfait. Mais peu à peu,
+il s'était laissé entourer d'ignorants qui étaient à son ser-
+vice, et qui, à la faveur de leurs assiduités, lui vantèrent
+les charmes de l'indépendance et de la révolte contre son
+père. Leurs intrigues ouvertes et cachées avaient fini par
+faire impression sur lui, et il avait suivi leurs conseils. Ce
+fut le fait de sa jeunesse, véritablement, qui le domina,
+car, quoique n'ayant pas des aspirations exagérées, mais,
+il devança le moment de l'action en se révoltant contre
+
+
+1. Texte arabe, IV partie, p. 122.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+365
+
+
+son père, soutenu par le guéïch des 'Abids, comme nous
+l'avons vu. On eût pu lui appliquer ces vers : « Si  Amér
+dit que c'est par ignorance, celle-ci peut être mise sur le
+compte de la jeunesse. >>>
+
+
+Il perdit aussitôt, auprès de son père, l'influence qu'il
+possédait. Celui-ci, en effet, le destinait au khalifat et le
+faisait passer avant ses frères aînés, à cause de son habi-
+leté, de la bravoure qu'il avait manifestée à chaque occa-
+sion, de son penchant pour la guerre sainte et de sa pas-
+sion pour l'art du tir au mortier. Il lui avait confié la
+direction des artilleurs et des marins, et l'envoyait chaque
+année, avec des notables et des artilleurs, dans les divers
+ports, pour inspecter les gens préposés aux forts et aux
+batteries et leur enseigner ce qu'ils avaient besoin d'ap-
+prendre. Voyant avec quelle passion il s'occupait de ce
+service, et la façon dont il réussissait, son père lui fit de
+grands cadeaux; il le chargea ensuite des relations avec
+les consuls étrangers résidant dans les ports, en lui don-
+nant mandat de le représenter dans cette œuvre. En 1182,
+le Sultan le nomma gouverneur de la tribu de Guerouân,
+qui était à cette époque la tribu berbère la plus puissante
+en cavaliers et en. fantassins. II lui confia le soin de les
+commander et lui donna pour instruction de mettre un
+terme à leur inimitié avec les Aït Idrâsén. Il se rendit
+auprès de cette tribu et sut se faire aimer par ces gens. Il
+se mit à les aimer lui aussi: les fils des notables allaient à
+la chasse avec lui, il les aveuglait de cadeaux, leur donnait
+des chevaux, des armes et des vêtements. Ils ne le quit-
+taient plus, et finirent par corrompre son cœur, en lui
+conseillant de s'emparer du pouvoir. « Ce trésor qui est
+à Qoubbat Elkhayyâțîn, lui disaient-ils, est à ta disposition :
+personne ne t'empêche de t'en emparer; tu t'en serviras
+pour établir ton autorité. Quand tu voudras appeler nos
+frères les Aït Ou Malou, ils n'hésiteront pas un seul ins-
+tant à venir auprès de toi, et il n'y a pas d'armée, ni per-
+
+
+366
+
+
+ARCHIVES MAROCAINES
+
+
+sonne, qui puisse leur résister.  Ils tournaient continuel-
+lement autour de lui pour l'entraîner dans cette voie, si
+bien qu'il finit par convoiter le pouvoir et ne parla plus
+que de ce sujet.
+
+
+C'est ainsi qu'il informa de ses projets le qâïd des Oû-
+dêya, Abou Mohammed Abdelqader ben Elkhadir, mais
+celui-ci, qui était dévoué au Sultan et le servait avec fidé-
+lité et loyauté, le prévint aussitôt des rapports de son fils
+avec les Guerouân, qui se rendaient chez lui par centaines
+à la fois et passaient la nuit avec lui dans la qasba: « Je
+crains, ajoutait-il, que votre fils ne fasse parler de lui, et
+que vous m'en punissiez; je vous fais donc part de ce qui
+se passe. » Dès qu'il reçut sa lettre, le Sultan envoya son
+qâïd El abbas Elbokhari avec cent cavaliers pour s'emparer
+de Moûlay Yazîd. Nous avons dit que l'armée et tous les
+administrés avaient de la sympathie pour ce prince. Aussi,
+à peine arrivé à Salé, le qâïd El abbas fit secrètement pré-
+venir Moûlay Yazîd qu'il allait être arrêté et qu'il n'avait
+qu'à se sauver. Moûlay Yazîd quitta Méknès, à la faveur de
+la nuit, avec ses intimes et ses amis les Guerouân, et se ren-
+dit chez les Aït Ou Mâlou; aussi, quand le qâïd El'abbas
+arriva, Moûlay Yazîd et ses partisans ne se trouvaient
+déjà plus dans la ville. Il s'y installa et fit part de ce qui
+se passait au Sultan, qui envoya, auprès de Moûlay Yazîd,
+son secrétaire Aboû Otsmân Sa îd Echchlih. Celui-ci alla
+trouver le prince à la Zâouya des Aït Ishaq, où il s'était
+rendu, n'ayant été accueilli, chez les Aït Ou Malou, que
+par les Aït Mhaouch et les Aït Chqîrèn. Quand ce secré-
+taire lui eut présenté la lettre du Sultan qui lui pardon-
+nait, il partit avec lui pour Morrakch. A son arrivée dans
+cette ville, il alla se réfugier au mausolée de Bel abbas
+Essebti. Le Sultan lui ayant ensuite accordé sa grâce, il
+s'entretint avec lui et se disculpa des accusations portées
+contre lui, rejetant toute la faute sur ces grossiers Gue-
+rouân et déclarant qu'il n'avait pas approuvé leurs projets.
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+367
+
+
+Le Sultan décida dans son for intérieur de les châtier, et à
+son retour de Morrakch, en 1184, il marcha contre eux
+jusqu'à Gourîgra, tomba sur eux et leur tua près de
+500 hommes, comme nous l'avons rapporté.
+
+
+Quant à Moûlay Yazîd, il le fit résider à Fès El'oulia,
+avec ses frères Moûlay 'Ali et Moulay Abderrahmân. Au
+bout d'un certain temps, un combat eut lieu entre lui et
+Moûlay 'Abderrahman, en plein Fès Eljedîd; des deux
+côtés un certain nombre de gens périrent. Aussitôt qu'il
+sut cela, le Sultan se rendit à Méknès, d'où il envoya quel-
+qu'un pour arrêter ses deux fils. Moulay Abderrahmân
+et ses gens furent seuls pris: Moûlay Yazîd s'enfuit au
+tombeau de Moûlay Idris l'aîné, dans le Zerhoûn, puis
+fut ramené par les chérîfs auprès de son père, qui lui par-
+donna et rendit également la liberté à Moûlay Abderrah-
+mân. Le Sultan fit ensuite une enquête sur les serviteurs
+de ses deux fils, et quand il connut ceux d'entre eux qui
+étaient honnêtes et ceux qui ne l'étaient pas, il les fit tous
+sortir de prison. Aux premiers, il donna la liberté, et aux
+seconds, qui étaient au nombre de trente, il fit couper un
+pied et une main alternés. Moûlay Abderrahman fut
+envoyé à Méknès, et Moûlay Yazîd à Fès. Peu de temps
+après, en faisant une course sur l'hippodrome et en jouant
+à la poudre, Moulay Abderrahmân tua un homme des
+Beni Mţîr. Les contribules de la victime étant venus se
+plaindre à leur qâïd Mohammed ben Mohammed Ou  Azîz,
+celui-ci paya de sa poche le prix du sang, et, après avoir
+obtenu qu'ils renonçassent à leur réclamation, il fit dres-
+ser un acte constatant ce renoncement. Le calme fut aus-
+sitôt rétabli. Sur ces entrefaites, le Sultan envoya son qaïd
+Elabbâs à Méknės, pour mettre à mort divers individus
+qui étaient dans la prison de cette ville. Moûlay 'Abder-
+rahmân, qui croyait que son père avait eu connaissance du
+meurtre du Mțiri, et que ce qâïd venait pour cette affaire,
+s'enfuit de Méknės pendant la nuit et gagna Oujda et de
+
+
+368
+
+
+ARCHIVES MAROCAINES
+
+
+là Tlemsên. Quand le Sultan fut avisé de sa fuite, il de
+manda quelle en était la raison: dès qu'il sut par le qâïd
+El'abbas ce qui s'était passé, il envoya l'amân à son fils,
+qui, méfiant, quitta Tlemsên et alla à Sijilmâsa. Le Sultan
+dépêcha quelqu'un auprès de lui, pour l'assurer de son
+pardon et le ramener, mais il n'eut pas confiance et s'en-
+fuit dans le Soûs. Puis, le Sultan lui ayant encore envoyé
+l'amân dans le Soûs, il partit pour le Sud, et parcourut
+cette région de tribu en tribu jusqu'à la mort de son père
+(Dieu lui fasse miséricorde !). A ce moment-là, il revint à
+Târoûdânt, où il demeura, cherchant à obtenir le pouvoir,
+mais sans succès, puis il mourut (Dieu lui fasse miséri-
+corde!).
+
+
+De son côté, Moûlay Yazîd resta à Fès jusqu'au jour où
+il se rendit à Morrâkch, appelé par son père. Sur ces entre-
+faites, était survenue la révolte des Abîds contre le Sul-
+tan, provoquée par la question de la garnison qu'il leur
+avait ordonné d'envoyer à Tanger, comme nous l'avons
+rapporté. Moûlay Yazid fut envoyé pour calmer cette sédi-
+tion et les ramener dans le droit chemin. Mais quand il
+fut rendu auprès d'eux, ils l'excitèrent par leurs propos,
+et remuant chez lui ce qui était en repos, ils firent appa-
+raître ce qui était caché; ils le proclamèrent et pronon-
+cèrent la khoțba en son nom, ainsi que nous l'avons déjà
+raconté en détail. Qaddoûr ben Elkhadir et les Oûdêya se
+séparèrent de lui, et repoussèrent les dons considérables
+qu'il leur envoya, quand, ayant ouvert le Trésor, il voulut
+se les concilier. Mohammed Ou Azîz et ses Berbers ayant
+fait cause commune avec les Oûdéya, Moúlay Yazîd vint
+attaquer ses adversaires. La rencontre eut lieu à Elmou-
+chtecha, à Méknès; le prince fut battu et plus de cinq
+cents 'Abîds furent tués. Le Sultan arriva alors avec ses
+soldats et les contingents des tribus. Moûlay Yazîd s'en-
+fuit au Zerhouûn, où son père le poursuivit. Celui-ci, après
+avoir visité Moûlay Idris (Dieu soit satisfait de lui !), accéda
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+369
+
+
+aux prières des chérifs Drisis en faveur de son fils et
+lui pardonna. Il l'envoya alors en Orient, où il commit
+à la Mekke, vis-à-vis du Chéïkh Errekb, l'acte que nous
+connaissons, et qui constituait une véritable désobéissance.
+Cette conduite amena le Sultan à le renier. Il revint
+d'Orient en 1203 et se réfugia au mausolée du chéïkh
+'Abdesselâm ben Mechîch. Il y demeura jusqu'à la mort
+de son père, ainsi que nous l'avons raconté. Dieu est le
+protecteur!
+
+
+Prestation de serment au Prince des Croyants Moûlay Yazid ben
+Mohammed (Dieu lui fasse miséricorde!) 1.
+
+
+Moûlay Yazîd était dans le sanctuaire Mechichi, quand
+il reçut la nouvelle de la mort du sultan Sîdi Mohammed
+(Dieu lui fasse miséricorde !) qui survint à la date précitée.
+Les chérîfs de l'endroit et tous les gens du Djebel le pro-
+clamèrent, ainsi que les hommes de l'armée qui l'assié-
+geaient, et dont nous avons parlé. Voyant que le succès
+commençait, il se rendit à Tétouan, qui était la ville la plus
+proche, et reçut le serment de fidélité des habitants et des
+tribus voisines. Il déchaîna les soldats sur les Juifs de
+Tétouan, les livra au pillage et s'empara de leurs biens
+Il reçut ensuite des délégations de Tanger, d'El'arêïch et
+d'Aşéïla, auxquelles il fit l'accueil nécessaire. Puis il se
+mit en route pour Tanger; les soldats de cette ville se
+portèrent à sa rencontre : il leur témoigna sa joie de leur
+venue et leur fit des cadeaux. Arrivé dans cette ville, il
+reçut des gens de Fès une députation composée de oulamâ,
+de chérîfs et de notables; il traita généreusement ces
+députés et leur donna comme gouverneur Abou  Abdallah
+Mohammed El arabi Eddib. De là il se rendit à Elarêïch;
+
+
+1. Texte arabe, IV partie, p. 124.
+ARCH. MAROC.
+
+
+24
+
+
+370
+
+
+ARCHIVES MAROCAINES
+
+
+il y trouva l'entourage de son père, ses serviteurs et les
+grands de son empire, qui avaient entre les mains ce qu'il
+avait laissé, ses tentes, ses chevaux, ses mules et tous ses
+autres bagages. Il fut généreux envers eux; ils firent
+escorte à son étrier jusqu'au Zerhoûn. Là, il fut salué par
+son frère, Moûlay Slîmân, qui venait de Tâfilêlt, escorté
+des tribus arabes et berbères du Şahara, apportant la béï'a
+des gens de Sijilmâsa. Avec lui était arrivé Mohammed Ou
+'Aziz, qui lui avait demandé protection, dans la crainte où
+il était que Moûlay Yazîd ne voulût se venger de ce qu'il
+s'était écarté de lui du temps de son père, et qui amenait
+toutes ses tribus; mais le Sultan, en le recevant, lui par-
+donna et lui confirma son commandement. Arrivé à Mék-
+nès, le Sultan reçut toutes les tribus arabes et berbères du
+Ġarb. Les révoltés Aït Ou Mâlou eux-mêmes vinrent, con-
+duits par leur dejjal Mhaouch: il donna, à ce dernier seul,
+10.000 douros et 100.000 à ceux qui étaient venus avec lui.
+Puis ce fut le tour des tribus du Hoûz, arabes et berbères;
+personne ne manqua d'apporter sa béïa. Enfin, les gens
+de Morrâkch et des environs vinrent présenter leur ser-
+ment de fidélité, dont voici le texte :
+
+
+<<< Louange à Dieu, qui, seul, possède la royauté, le pou-
+voir de créer et d'administrer, qui a créé toutes choses
+par sa sagesse et en a tiré le grand et le petit, qui n'a pas
+besoin d'auxiliaire, ni de guide ni de ministre. Il connaît
+ses créatures, le Clément qui sait tout. Il donne le pouvoir
+à qui bon lui semble, et il élève qui il veut; il gouverne
+tout et il peut tout. Il établit les rois pour comprimer les
+oppresseurs; il les nomme pour leur laisser conduire ces
+serviteurs à l'ombre de la paix et de la tranquillité, et il
+leur fait prêter serment de fidélité pour garantir contre
+les troubles et les révolutions, et punir les méchants et
+les rebelles. Les rois sont l'ombre de Dieu sur les hommes,
+une forteresse puissante pour les grands et les humbles,
+ainsi que l'a déclaré le Seigneur des Créatures, sur lui soit
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+371
+
+
+la prière la plus noble et le salut le plus pur. Qu'il soit
+béni, notre Dieu qui a anobli cette terre et orné ce bas
+monde de ces khalifes bénis, de ces imâms hasanis, hâchmis,
+et 'alaouis, cette famille de Qoréïch issue de Mohammed,
+vers laquelle se tournent tous les visages, et qui fait appa-
+raître la vérité, dès qu'on lui proclame fidélité et qu'on
+invoque son nom obéi. Nous le louons de nous avoir gra-
+tifié de ces imâms fortunés, et nous lui adressons (qu'il
+soit glorifié!) des remerciements qui soient pour nous le
+gage d'une paix croissante et complète.
+
+
+<<< Nous attestons qu'il est le Dieu tel qu'il n'y a pas
+d'autre Dieu que lui, qu'il n'a pas d'associé, que tout ce qui
+existe est son œuvre, et qu'il dirige les événements sui-
+vant les décisions de sa sagesse et de sa justice.
+
+
+<<< Nous attestons que notre Seigneur, notre Prophète,
+notre Maître Mohammed est son serviteur et son envoyé,
+l'élu qu'il a choisi parmi ses créatures et son ami, le sei-
+gneur de toutes les créatures, hommes et génies, issu de
+la noble famille de Mou'add, fils de Adnan, le fondateur
+de la Loi pure sur laquelle deux personnes seulement ne
+sont pas en désaccord, de la religion solide qui est la meil-
+leure des religions, celui à qui Dieu a donné la faveur
+d'être le premier et le chef des prophètes, celui au peuple
+brillant duquel ont été prescrits la prière et le salut, lui
+dont il a fait l'éloge, et quel noble éloge! dans son livre
+sage, en disant :  Ses qualités et ses noms sont sanc-
+ tifiés: tu es certes une glorieuse et sublime créature. »
+<< Que Dieu prie sur lui d'une prière éternelle, qui con-
+tinue avec la succession des nuits et des jours; qu'il prie
+sur sa famille généreuse et pure, sur ses compagnons
+nobles, illustres et bons qui nous ont dévoilé clairement
+la vérité, et qui ont établi les bases et les piliers de cette
+religion généreuse, et sur ceux qui ont suivi leurs traces
+solides et marché dans la voie droite qu'ils ont tracée, jus-
+qu'au jour du jugement dernier.
+
+
+372
+
+
+<< Ensuite :
+
+
+ARCHIVES MAROCAINES
+
+
+<< Dieu Très-Haut a voulu que la prospérité de ce monde
+et de ses diverses contrées habitées par les descendants
+d'Adam dépendît des imâms savants et fût assurée par les
+rois qui sont l'ombre de Dieu sur les créatures. Leur obéir,
+tant qu'ils sont dans la vérité, et qu'ils respectent Dieu
+est un bonheur, et c'est alors un devoir et une façon de
+servir Dieu que de s'appuyer sur leur autorité. Le glo-
+rieux qui parle a dit : « O vous qui avez la foi, obéissez à
+« Dieu, obéissez au Prophète et à ceux d'entre vous qui
+<< ont le pouvoir. » Il a dit (sur lui soit le salut!): « Si je
+<< vous mettais sous les ordres d'un esclave noir mutilé, et
+<< qu'il vous administrat conformément au Livre de Dieu,
+<<< vous devriez l'écouter et lui obéir. » Il a dit aussi (sur lui
+soit le salut!): « L'homme musulman doit écouter et obéir
+<< bon gré mal gré, sauf s'il reçoit l'ordre de faire un acte
+<< de révolte contre Dieu; dans ce cas, il ne doit plus y
+<< avoir de soumission ou d'obéissance. » Il a dit aussi (sur
+lui soit le salut!) : « Quiconque désobéira et se séparera de
+<< la communauté, s'il meurt, mourra d'une mort païenne.
+<<< Quiconque combattant sous l'étendard général se fâchera
+ contre une minorité, ou fera des vœux pour une mino-
+<< rité, ou secourra une minorité, s'il est tué, sera tué en
+« païen. Quiconque ayant à lutter contre mon peuple s'atta-
+<< quera aussi bien au bon qu'au mauvais, ne respectera
+<< pas les croyants et ne tiendra pas les engagements pris
+ envers eux, ne m'appartient pas, et je ne lui appartiens
+<< pas. » Ces hadîts ont été tous rapportés par Moslim. II a
+dit aussi (sur lui soit le salut!): « Le Sultan est l'ombre de
+<< Dieu sur la terre pour que le faible se réfugie auprès de
+<< lui et que l'opprimé lui demande son abri. Quiconque
+<< aura honoré le Sultan de Dieu sur la terre, Dieu l'hono-
+<< rera au jour du jugement dernier. » Il a dit aussi (sur
+lui soit le salut!) : « Le Sultan juste et qui se fait humble
+ est l'ombre de Dieu et sa gloire sur la terre: Dieu le fera
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+373
+
+
+<< profiter des bonnes œuvres de soixante-dix justes. >>>
+« Les membres de la famille du Seigneur des Envoyés
+étant ceux de Qoréïch, qui tiennent la plus grande place
+dans le cœur des croyants, et qui ont le rang le plus élevé
+auprès du Maître des mondes, le Très-Haut leur a assigné
+un mérite considérable parmi ses créatures, et leur a
+accordé la gloire, l'élévation, la splendeur et la magnifi-
+cence. Dicu Très-Haut a dit : « Pour vous laver de la souil-
+« lure du péché et vous purifier, Dieu ne veut pour vous
+« que les gens de la famille du Prophète. » Le Prophète a
+dit (sur lui soient les prières et le salut!) : « Les étoiles
+<< sont la sécurité pour les habitants du ciel; les gens de
+<<< ma famille sont la sécurité pour mon peuple. >> Parmi les
+membres de cette noble famille dont Dieu nous a gratifiés
+est celui à qui Dieu a confié la plus noble magnificence et
+la plus magnifique noblesse, qu'il a chargé de sa puissance
+glorieuse, qu'il a élevé au premier rang, la colonne de
+gloire dont l'illustration n'est pas contestée, l'unique en
+mérite dont la situation et la dignité doivent être glori-
+fiés, l'imâm auquel ont été confiées les rènes du pouvoir,
+auquel l'ont appelé les hommes de mérite à cause de son
+mérite, celui auprès duquel le khalifat est venu en éten-
+dant son manteau, et qui l'a pris à l'exclusion de ses frères,
+car il ne convient qu'à lui et lui seul en est digne, celui
+qu'aiment tous les cœurs des créatures, et qui, sur cette
+terre, a réuni l'agrément de tous par sa gloire et ses
+hautes aspirations, le Sultan fortuné, qui met sa confiance
+dans son Maître qui le soutient et le dirige, notre Seigneur
+et notre Maître Yazîd, fils de notre Maître l'Imâm, le Sul-
+tan, le héros dans la miséricorde de Dieu, Sidi Mohammed,
+fils de notre Seigneur le Prince des Croyants Moûlay
+ Abdallah, fils du Sultan noble, le Prince des Croyants
+Moûlay Ismail, fils de nos maîtres et seigneurs les chérîfs
+pleins de mérite, de générosité et de justice, que Dieu
+sanctifie leurs âmes au plus haut point du Paradis, et
+
+
+371
+
+
+ARCHIVES MAROCAINES
+
+
+veuille bien leur accorder sa satisfaction et son agrément!
+Dieu fortifie la religion par le maintien de ce prince, har-
+cèle par son épée les hérétiques, range les ennemis sous
+son étendard, lui décrète son secours jusqu'au jour de la
+résurrection, l'établisse le protecteur de la terre contre
+ceux qui ne professent pas de religion, fasse revivre, par
+sa justice, l'époque de ses ancêtres les khalifes orthodoxes,
+fasse régner dans les cœurs la confiance en lui et le res-
+pect pour lui, lui donne le pouvoir sur la terre et l'autorité
+sur les régions de son empire! Certes, il mérite l'héritage
+de ses ancêtres savants, de ses pères généreux; tout le
+monde proclame qu'à cette époque il est le seul entre
+tous, et que, sur la terre, il est l'imâm qui s'élève dans le
+ciel matinal de ce faîte glorieux, le seul successeur des
+imâms passés. Béni soit cet imâm! béni soit ce khalife, reje-
+ton de la famille bienfaisante, représentant en lui seul les
+fils du Prophète, de l'Élu. Que Dieu glorifie son Empire
+chérifien et éclaire la surface du globe des lumières de
+son royaume illustre et élevé!
+
+
+<< Une réunion a été tenue des habitants de cette capitale
+de Morrakch (Dieu le protège !), des gens du Soûs, de tous
+les Rhamna et des nombreuses tribus qui l'entourent,
+comme en témoignent les signatures apposées au bas des
+présents par ceux qui savent écrire, ou celles des  adoul
+dignes de foi pour ceux qui ne savent pas écrire et qui les
+ont autorisés à signer à leur place, et il a été procédé à la
+rédaction de la $bei^{\prime}a$, qui a pu être complétée par la volonté
+de Dieu, et dont les nuages ont répandu une pluie abon-
+dante. Cette béïa est fortunée, de bon augure, noble, cer-
+tainement parfaite au point de vue religieux et terrestre,
+valable et légale, respectée et honorée, obligatoire et per-
+pétuelle, nécessaire et décisive, sincère et claire, faite en
+vue de la paix et de la sécurité, de la morale et de la
+piété, et conforme au serment prêté à notre Maître le Pro
+phète de Dieu (Dieu prie pour lui et lui donne le salut!
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+375
+
+
+par les khalifes orthodoxes qui lui ont succédé et par les
+imams bien dirigés et qui ont accompli leurs engagements
+envers lui. Elle comporte la soumission et l'obéissance;
+elle porte obligation conformément à la Sounna et à la doc-
+trine orthodoxe. Les soussignés s'en réjouissent et témoi-
+gnent de ce qui précéde en toute sincérité intérieure et
+extérieure. Ils se sont engagés solennellement à l'observer
+et l'ont rendu exécutoire d'une façon qui les engage secrè-
+tement et publiquement, dans la joie comme dans la peine,
+dans l'aisance comme dans la gène.
+
+
+« Ce serment a réuni l'unanimité des arbitres de toutes
+les affaires, de ceux dont les avis sont écoutés dans les
+grandes et les petites questions, de ceux qui se distinguent
+par la science et les fonctions de juge, et de ceux à qui il
+appartient de défendre et d'ordonner. Tous sont d'accord
+à ce sujet, les imâms des mosquées, les khatîbs, les muftis
+qu'on consulte et qui répondent, ceux qui étudient une
+opinion et sont susceptibles d'erreur ou de vérité, les gens
+réputés pour leur piété et leur vertu, les cavaliers qui
+combattent et attaquent, ceux qui savent donner des coup's
+de lance ou frapper avec le sabre, les fonctionnaires et les
+magistrats, les savants doctes, ceux qui emploient le sabre
+ou la plume, les notables chérîfs, les grands docteurs, et
+ceux dont le rang est humble ou élevé. Ce serment cons-
+titue un bienfait du Dieu unique. Ils disent tous : « Dieu
+<< soit loué qui nous a conduits à cette décision. Si Dieu
+<< ne nous avait pas conduits dans la bonne direction, nous
+ ne nous y serions pas engagés. Ceux qui te prêtent ser-
+<< ment de fidélité prétent serment à Dieu. »
+
+
+<< Tous les présents, grands et petits, ont fait dresser
+témoignage du contenu du présent engagement, dont ils
+s'obligent à observer tous les devoirs généraux et particu-
+liers qui en découlent. Ils disent : « O mon Dieu! de même
+<< que tu as appelé, avec plus grands honneurs, notre Maître
+<<< le Prince des Croyants, que tu l'as agréé pour remplir la
+
+
+376
+
+
+ARCHIVES MAROCAINES
+
+
+<< charge d'imâm, que tu l'as choisi parmi les plus nobles,
+« et que, par lui, tu nous as tous préservés du malheur,
+<< donne-lui ton appui robuste, attribue-lui une part glo-
+<<< rieuse et abondante de ta protection et de ton soutien,
+<<< fais-lui obtenir dans tous ses désirs un succès évident, un
+<<<< triomphe qui l'appuie et le secoure! O mon Dieu! rends-
+<< nous heureux par son règne, protège-le de ta protection
+<<< dans ses voyages et ses séjours, fais que la béï a que nous
+<< lui apportons éternise ses œuvres, fortifie sa grandeur et
+<< sa puissance! O mon Dieu! aide-le dans la charge que
+« tu lui as confiée des affaires de tes serviteurs, pacifie pour
+<< lui les contrées de ton Empire, fortifie-le pour qu'il puisse
+<< te satisfaire et qu'il soit par toi un saint et un Sultan vic-
+<< torieux! Exauce nos prières, car c'est toi qui en es digne,
+<< toi qui le peux! Quel bon maître, quel bon protecteur tu
+ es! c'est toi seul qui peux répondre à nos vœux!
+
+
+ Il n'y a de force et de puissance qu'en Dieu le sublime,
+<< le grand.
+
+
+<< Dieu prie pour notre Seigneur et notre Maître Moham-
+<< med, pour sa famille et ses compagnons, et leur donne
+<<< le salut!
+
+
+<< Notre dernière invocation est: Louange à Dieu, le
+<< Maître des mondes!
+
+
+<<< Le 18 cha bân de l'année 1204. »
+
+
+Transfert des Oûdêya de Méknės à Fès, et des Abîds des ports
+à Méknès ¹.
+
+
+Le sultan Moûlay Yazîd (Dieu lui fasse miséricorde !),
+pendant son séjour à Méknės, ordonna aux Oûdêya de
+quitter cette ville et de retourner à Fès Eljedîd, leur lieu
+d'origine et le point de départ de leur puissance et de
+
+
+1. Texte arabe, IV partie, p. 127.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+377
+
+
+leur force. Il alloua à chacun d'eux 50 douros, à titre
+de secours pour leurs frais de déplacement. Ils retour-
+nèrent donc à Fès Eljedid, après trente années d'ab-
+sence à Méknės, dans les conditions que nous avons rap-
+portées. Après cela, il ordonna aux Abids des ports de
+revenir à Méknès et de s'y réunir tous, et leur fit don des
+sommes qui se trouvaient dans les caisses publiques des
+villes où ils résidaient. Après s'être partagé cet argent,
+ils se mirent en route pour Méknès, remplis de joie.
+
+
+Rupture de la paix avec les Espagnols; siège de Ceuta¹.
+
+
+Manuel le Castillan dit, dans son livre d'histoire du
+Maroc : « En arrivant au pouvoir, Moûlay Yazîd ben
+Mohammed (Dieu lui fasse miséricorde!) manifesta son
+hostilité contre les Espagnols et résolut de leur déclarer
+la guerre. Leur despote employa tous les moyens pos-
+sibles pour échapper à cette menace; il envoya même un
+ambassadeur à Tanger auprès du Sultan, pour le féliciter
+de son avènement et pour obtenir ses bonnes grâces.
+Mais Moûlay Yazîd repoussa ses avances, fit peu de cas de
+cet ambassadeur et des présents qu'il apporta, et prit des
+mesures contre tous les Espagnols, négociants, frères et
+autres, qui étaient dans ses ports. Il les fit arrèter et con-
+duire enchaînés à Tanger, où il les mit en prison. Les cor-
+saires de guerre des Musulmans, ajoute Manuel, étaient à
+cette époque au nombre de 16 et armés de 306 canons. »
+Nous avons déjà rapporté, cependant, qu'il y en avaitun bien
+plus grand nombre. « Les prisonniers chrétiens étaient tou-
+jours en prison quand il arriva qu'un corsaire espagnol qui
+croisait sur les côtes d'El'arêïch captura un navire et s'em-
+para d'une partie de l'équipage. Le Sultan, qui se trouvait
+
+
+1. Texte arabe, IV partie, p. 127.
+
+
+378
+
+
+ARCHIVES MAROCAINES
+
+
+alors à El'arèïch, observait cette capture, avecunelorgnette,
+de la terrasse de son palais. Il envoya porter des secours
+au navire capturé, mais les Espagnols purent s'échapper.
+Plus tard, le Sultan et le despote d'Espagne échangèrent
+ces captifs contre les prisonniers de Tanger. >>>
+
+
+Le sultan Moûlay Yazid (Dieu lui fasse miséricorde!)
+marcha ensuite contre Ceuta, et appela les populations
+à la guerre sainte pour venir faire le siège de cette place.
+Il emmena avec lui des canons et des mortiers, et fit cons-
+truire devant la ville sept redoutes, qui furent presque
+toutes occupées par les Fenníchs de Salé. Des gens des
+villes et des campagnes allèrent volontairement se joindre
+à lui de toutes les vallées et de toutes les montagnes.
+Après avoir assiégé Ceuta pendant quelque temps, le Sul-
+tan s'éloigna et partit pour Morrakch, appelé par une
+affaire. Mais arrivé à la ville $d^{\prime}\hat{A}nfa$, l'idée lui vint de
+retourner sur ses pas, et il revint camper devant Ceuta,
+où il recommença avec opiniâtreté les opérations du siège.
+Il convoqua à la guerre sainte et à la croisade les tribus
+du Hoûz, mais elles ne répondirent pas à son appel. 11
+était alors sur le point de prendre la ville. Il arriva donc
+ce que nous allons raconter.
+
+
+Les gens du Hoûz abandonnent le sultan Moûlay Yazîd ben
+Moahmmed et proclament son frère Moûlay Hichâm (Dieu leur
+fasse miséricorde à tous deux !) 1.
+
+
+Lorsque les tribus du Hoûz s'étaient rendues à Méknès
+auprès du sultan Moûlay Yazîd, elles avaient remarqué
+de la part du souverain certaine froideur à leur égard. II
+ne leur avait pas fait de cadeau, tandis qu'il en avait dis-
+
+
+1. Texte arabe, IV partie, p. 128.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+379
+
+
+tribué notamment au Berbers et aux Oûdêya. Elles avaient
+conçu de lui une mauvaise opinion, et leurs cœurs s'étaient
+remplis d'amertume contre lui. A leur retour dans leur
+pays, les chefs de ces tribus se rendirent les uns chez les
+autres. Les Rhamna furent ceux qui s'agitèrent le plus.
+Enfin, les gens de Morrakch, de  Abda et les autres tri-
+bus du Hoûz se mirent d'accord pour confier à Moûlay
+Hichâm le soin de les gouverner, et lui apportèrent leur
+serment de fidélité et d'obéissance. Apprenant cela, Moû-
+lay Yazid abandonna le siège de Ceuta, partit pour le
+Hoûz, dispersa les tribus et arriva à Morrâkch, qu'il prit de
+vive force. Son entrée dans la ville eut lieu, dit-on, par
+la porte appelée Bab Yağla. Il mit la ville au pillage, tua
+et arracha les yeux de plusieurs des habitants. Ce fut un
+terrible événement. Moûlay Hichâm réunit pour le combattre
+les tribus de Doûkkâla et de 'Abda, et marcha sur Mor-
+rakch. Moûlay Yazîd se porta contre lui; une bataille eut
+lieu à l'endroit appelé Tâzkoûrt; les troupes de Moûlay
+Hichâm furent battues et poursuivies par Moûlay Yazîd,
+qui fut atteint d'une balle à la joue. Il rentra à Morrâkclı
+pour soigner sa blessure et en mourut (Dieu lui fasse
+miséricorde !) dans les derniers jours de djoumâda II de
+l'année 1206. Il fut enterré dans le cimetière des Chérîfs,
+du côté méridional de la mosquée d'Elmanşoûr, dans la
+qaşba de Morrakch.
+
+
+Ce prince (Dieu lui fasse miséricorde!) était vraiment
+un des braves, des généreux et des héros de la famille
+de  Ali: son degré d'intelligence et ses capacités attei-
+gnaient à un degré bien connu, et il avait à cet égard
+cette avance qu'on ne peut pas rattraper. Les tentatives des
+envieux (Dieu leur pardonne ainsi qu'à nous!) ne pou-
+vaient pas l'atteindre, car ils étaient loin de le valoir, et
+la noblesse de son esprit le mettait au-dessus de leurs
+machinations. (Que Dieu les enveloppe tous de son par-
+don et de miséricorde: ainsi soit-il!).
+
+
+380
+
+
+ARCHIVES MAROCAINES
+
+
+Racontons maintenant les événements qui se passèrent
+durant cette période.
+
+
+En 1142, durant le mois de cha bân, mourut le fqth
+très docte, Abou Abdallah Mohammed Essoûsi Elman-
+șoûri, qâdi de Salé, qui fut enterré à la Tâl'a de cette ville
+dans le voisinage du saint vertueux Sîdi Mġéïts. Il est
+l'auteur d'un commentaire sur le Mokhtaşar d'Essenoûsi
+qui traite du Manțiq, et d'un second commentaire sur l'ou-
+vrage de cet auteur.
+
+
+Le samedi matin, 28 moharrem 1143, mourut le fqth, le
+mrabet béni, Sidi Elhaddj Elġezouâni ben Elbağdadi, des-
+cendant de l'illustre saint Sîdi Mohammed Echcharqi
+(Dieu soit satisfait de lui!). Il fut enterré dans sa maison
+voisine de Sîdi Mgéïts.
+
+
+Le mercredi 28 şafar 1144, mourut le fqîh très docte,
+l'imâm Abou 'Abdallah Sidi Mohammed ben  Abder-
+rahman ben Zekri Elfèsi, auteur d'ouvrages utiles et de
+réponses bien présentées (Dieu lui fasse miséricorde et
+soit satisfait de lui!).
+
+
+Le vendredi 4 rejeb 1146, fut terminée la construction
+de la coupole de « l'ami de Dieu » Aboûl abbas Sîdi
+Elhaddj Ahmed ben Acher (Dieu soit satisfait de lui!)
+qui fut élevée par les soins du qâïd Aboû Abdallah Elha-
+wouât. Le même mois, trépassa dans la Zâouya du
+Zerhoûn, le fqih, le qadi le casuiste, Aboûl abbas Sidi
+Ahmed Echcheddadi.
+
+
+En 1150, naquit le chéïkh Aboûl'abbas Ahmed Ettij-
+jâni, fondateur de la confrérie Tijjaniya, dont nous parle-
+rons bientôt, s'il plaît à Dieu. La même année, eurent lieu
+dans le Magrib une grande famine, des révoltes, des vols
+nocturnes à Fès et dans les autres villes. Tout le monde
+devenait voleur, et les gens riches devaient veiller la nuit
+pour garder leurs maisons et leurs biens. Un nombre
+incalculable de gens moururent de faim. Le gardien du
+Maristân raconte qu'il avait mis dans le linceul, pendant
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+381
+
+
+les mois des rejeb, cha  bân et ramadân, plus de 80.000 morts.
+Dans ce chiffre ne sont pas comptés ceux qui furent enve-
+loppés de leur linceul dans leur maison. Ceci eut lieu à
+Fès: on peut juger par là du nombre de gens qui mouru-
+rent dans les autres villes.
+
+
+Le mercredi 22 chouwâl 1158, à midi, mourut le fqih
+docte, Si Aboû Amar Otsmân Ettouâti, qâdi de Salé, qui
+fut enterré dans le cimetière de Sîdi Elhaddj Ahmed ben
+'Achér (Dieu soit satisfait de lui!).
+
+
+En 1163, la peste se déclara dans le Magrib. Il y eut aussi
+la sécheresse. Toute la population se trouva en détresse.
+Dieu, dans sa clémence, améliora ensuite la situation.
+
+
+En 1169, il y eut un grand tremblement de terre au
+Magrib. Presque tout Méknès et les habitations du
+Zerhoûn furent détruites. Un grand nombre de gens pé-
+rirent: parmi les Abids seulement, il mourut près de
+5.000 personnes. Luiz Maria parle de ce tremblement de
+terre. Il dit qu'il dura un quart d'heure, que la terre s'en-
+tr'ouvrit et que la mer fut très agitée. Les eaux de l'Océan
+s'élevèrent au-dessus de la muraille de Eljedîda et se
+répandirent dans la ville: un grand nombre de poissons
+restèrent dans la ville, quand la mer fut rentrée dans ses
+limites habituelles. Elle déborda aussi sur les terrains de
+pâture et de culture des habitants, ainsi que sur les re-
+doutes, qu'elle rasa complètement. Les bateaux et les
+canots du port furent presque tous brisés; les chrétiens
+de la ville s'enfuirent dans l'église, laissant leurs maisons
+ouvertes. Malgré cela, rien ne fut volé, tout le monde
+étant préoccupé de se sauver. L'auteur du Nachr Elmat-
+sani dit aussi, au sujet de ce tremblement de terre : << Le
+samedi 26 moharrem 1169, à l'aube, la terre trembla et
+s'inclina à l'est et à l'ouest pendant cinq minutes. L'eau
+des vasques et des bassins entra dans les maisons. Les
+sources se troublèrent. Les rivières cessèrent de couler.
+Les maisons furent démolies, les murs se fendirent, et
+
+
+382
+
+
+ARCHIVES MAROCAINES
+
+
+on dut les abattre complètement de peur qu'ils ne tom-
+bassent. Les gens furent pris de panique et abandon-
+nèrent leurs boutiques et leurs marchandises. A Salé, la
+mer se retira sur une très grande étendue. Des gens
+étaient allés voir ce phénomène, quand tout d'un coup la
+mer revint du côté du rivage, et dépassa de beaucoup sa
+limite habituelle. Tous ceux qui étaient en dehors de la
+ville de ce côté-là furent engloutis. Une caravane qui se
+rendait à Morrâkch, et qui contenait un grand nombre
+d'animaux et de gens, périt entièrement. La mer repoussa
+jusqu'à une très grande distance dans l'intérieur les
+allèges et les canots qui se trouvaient sur le fleuve. Envi-
+ron vingt-six jours après, il se produisit un nouveau
+tremblement de terre, plus violent que le premier, après
+la prière du  achâ; ce fut celui-là qui causa tant de dégâts
+à Méknès, que près de 10.000 personnes périrent sous les
+ruines, ainsi qu'à Fès, où il fit beaucoup de mal. » Voyez
+ce que cet auteur dit à ce sujet, car il décrit l'événement
+avec beaucoup de développements.
+
+
+Le dimanche 28 rabî II 1177, il y eut une éclipse de
+soleil, pendant laquelle le soleil apparut comme un crois-
+sant, puis se remit à briller presque aussitôt.
+
+
+Le dimanche 28 rabi II 1181, mourut le chérîf baraka
+Moûlay Etțayyéb ben Mohammed Elouâzzâni, à l'âge de
+plus de quatre-vingts ans.
+
+
+Le mercredi 28 djoumada Ier 1492, après la prière du
+'aşar, il y eut une éclipse de soleil; l'obscurité fut si com-
+plète qu'on vit les étoiles. Au bout d'une demi-heure en-
+viron, le soleil reparut.
+
+
+Dans les années qui suivirent l'année 1190, eut lieu une
+grande famine dans le Magrib; il n'y eut pas de pluie, la
+sécheresse se produisit et il y eut des désordres dans le
+pays: cette situation dura près de sept ans.
+
+
+Dans les derniers jours de rabi II 1194, mourut le
+chéïkh très docte, l'imâm, le scrutateur éminent Aboû
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+383
+
+
+ Abdallah Mohammed ben Elhasan Bennani Elfèsi, le
+fqth bien connu. Il est l'auteur de beaux ouvrages, comme
+sa remarquable Hachia sur le commentaire du Mokhtaşar
+de Khelîl par le chéïkh Abdelbaqi Ezzerqâni. Dans sa
+Hachia, le très docte Errhoûni dit qu'à la nouvelle de la
+mort de ce personnage, le chéïkh Ettaoudi ben Soûda se
+mit à pleurer. Quelqu'un l'ayant rencontré lui dit : « Que
+Dieu envoie sur vous sa bénédiction! - Il ne reste plus de
+bénédiction maintenant que cet homme a disparu », répon-
+dit le chéïkh qui connaissait la valeur du défunt.
+
+
+Le samedi 18 şafar 1196, au matin, mourut le chérîf
+baraka Moûlay Ahmed ben Ețțayyéb Elouâzzâni (Dieu lui
+fasse miséricorde et nous le rende utile, lui et ses ancê-
+tres: ainsi soit-il!).
+
+
+Révolution au Magrib: apparition des trois rois, fils de Sidi
+Mohammed ben 'Abdallâh; résultats de cette situation  .
+
+
+Après le meurtre de Moûlay Yazîd (Dieu lui fasse misé-
+ricorde!) à Morrâkch, la division éclata dans le Maġrib.
+Les gens du Hoûz et de Morrâkch restèrent fidèles au parti
+de Moûlay Hichâm, qui fut vivement soutenu par le qâïd
+Aboû Zéïd  Abderrahman ben Nâşer El'abîdi, gouverneur
+de Safi et des territoires circonvoisins, par le qâïd Aboû
+Abdallah Mohammed Elhachmiben Ali ben El aroûsi Ed-
+doûkkâli Elboûzirari. D'un autre côté, Moûlay Moslama
+ben Mohammed, frère utérin de Moûlay Yazîd, qui était
+son khalifa pour les pays d'Elhabt et du Djebel, et qui
+administrait les ports de cette région, dont il surveillait
+les affaires, se mit, dès qu'il apprit la mort de son frère,
+à appeler sous son autorité les habitants de ces contrées
+qui le proclamèrent d'un commun accord. Enfin, dès qu'ar-
+
+
+1. Texte arabe, $IV^{e}$ partic, p. 129.
+
+
+384
+
+
+ARCHIVES MAROCAINES
+
+
+riva à Fès et dans la région avoisinante la nouvelle de la
+mort de Moûlay Yazîd, les populations prètèrent sérment
+de fidélité à Moùlay Slimân ben Mohammed (Dieu lui
+fasse miséricorde!), dont nous allons rapporter l'histoire.
+
+
+Règne du Prince des Croyants Aboûrrabi Moûlay ben Moham-
+med (Dieu lui fasse miséricorde !) 1.
+
+
+Moùlay Slimân ben Mohammed (Dieu lui fasse miséri-
+corde!) tenait dans le cœur de son père une plus grande
+place que ses autres frères. Ce prince ne cherchait, disait-
+on, qu'à mériter la satisfaction de Dieu et de son Prophète,
+et celle de son père. Il se livrait à l'étude de la science
+avec ardeur, notamment à Sijilmasa. Jamais il n'avait eu
+de goût pour les plaisirs favoris de ses frères aînés et
+cadets, comme la chasse, la musique, les plaisanteries des
+courtisans et tout ce qui porte atteinte à la dignité : de son
+enfance à la vieillesse, il ne commit pas une seule action
+immorale. Son père l'en récompensait par des cadeaux
+considérables, des dons magnifiques et des immeubles
+importants produisant de gros revenus. Il ne manquait
+pas de faire son éloge dans toutes les cérémonies, et lui
+envoyait à Sijilmâsa les gens les plus savants et les plus
+cultivés, pour lui donner leurs leçons et le faire participer
+à leur savoir. En toute circonstance, il faisait des voux
+pour lui en public: « Mon fils Slîmân, disait-il (que Dieu
+soit satisfait de lui!) ne m'a jamais donné le moindre sujet
+de mécontentement. Je vous prends à témoins que je suis
+satisfait de lui. » Il grandit ainsi d'une façon remarquable
+et excellente, témoignant des qualités requises pour le pou-
+voir, jusqu'au jour où Dieu l'y appela.
+
+
+Nous avons rapporté que Moûlay Slîmân avait amené les
+
+
+1. Texte arabe, IV partie, p. 129.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+385
+
+
+tribus du Şahara à son frère Moûlay Yazîd, qui avait célébré
+son arrivée et généreusement traité ses compagnons. Il
+resta ensuite à Fès jusqu'à la mort de Moûlay Yazid, qui
+eut lieu à la date précitée. Dès qu'ils reçurent la nouvelle,
+les habitants de Fès s'accordèrent avec les 'Abids, les
+Oûdèya et les Berbers pour lui prêter serment de fidélité,
+à cause de sa science, de sa piété, de son mérite et de
+toutes les glorieuses qualités qui le distinguaient spécia-
+lement. Les Abids et les Berbers de Méknès vinrent après
+cela à Fès se joindre aux notables des Oûdêya et aux habi-
+tants de la ville, et acclamèrent Moùlay Slîmân Prince des
+Croyants dans le mausolée de Moûlay Idris (Dieu soit satis-
+fait de lui !) le lundi 17 rejeb 1206. Une fois en possession
+de la béïa, il se rendit à Fès Eljedîd et s'y installa, au
+Palais impérial. Il y reçut successivement les députations
+des tribus arabes et berbères apportant leurs présents,
+puis celles des tribus de Beni IIsen et du Ġarb, ensuite
+les délégués d'El'odoûatéïn, Salé et Rabât Elfeth, à l'excep-
+tion toutefois d'une partie des habitants de cette ville qui
+ne voulurent pas lui prêter serment, comme nous le ver-
+rons plus tard, puis les envoyés des ports d'Elhabt, qui
+tardèrent pendant quelque temps à lui prêter serment,
+parce que Moùlay Moslama y avait été proclamé, ainsi que
+nous l'avons rapporté.
+
+
+Voici le texte de la béïa des habitants de Fès:
+
+
+<<< Louange à Dieu seul!
+
+
+« Dieu prie pour notre Seigneur Mohammed, pour sa
+famille et ses compagnons!
+
+
+<< Louange à Dieu qui a fait du Khalifat le trait d'union
+entre la religion et les affaires de ce monde, qui lui a
+donné le rang le plus élevé, qui a fait resplendir son soleil
+sur les mondes, qui a éclairé de sa lumière les routes de
+la terre, qui, grâce à lui, constitue la vie terrestre et la vie
+future, qui a établi par lui l'unité des cœurs de ses ser-
+viteurs, citadins ou campagnards, qui l'a assigné comme
+
+
+ARCH. MAROC.
+
+
+25
+
+
+386
+
+
+ARCHIVES MAROCAINES
+
+
+protecteur des vies, des biens et de l'honneur, qui, par
+lui, enchaîne les bras des oppresseurs et les empèche de
+réaliser leurs projets corrupteurs, qui, par lui, veille aux
+affaires des créatures et à l'exécution des lois sacrées, des
+défenses et des jugements, qui a élevé son flambeau pour
+servir de guide dans la voie droite et appeler à la vérité,
+si bien qu'à son ombre spacieuse viennent s'abriter le fort
+et le faible, le vilain et le noble. Béni donc soit celui qui
+a décrété et conduit dans la bonne voie, qui n'a pas aban-
+donné l'homme livré à lui-même, mais, au contraire, lui
+a dicté des ordres et des défenses, l'a mis en garde contre
+les passions, et lui a fourni les moyens d'accomplir les
+œuvres obligatoires et surérogatoires, c'est le plus équitable
+des juges! Si Dieu n'avait pas soutenu les hommes les uns
+par les autres, l'univers eût été livré à la corruption.
+Mais Dieu est plein de bonté pour le monde. Une des
+marques de sa miséricorde est la création des rois et l'éta-
+blissement des routes, car s'il livrait les hommes à l'anar-
+chie, ceux-ci s'entredévoreraient et ce serait la ruine ;
+sans le Khalifat, nous n'aurions point de sécurité sur les
+chemins, et le fort dévaliserait le faible.
+
+
+« Les prières et le salut soient sur celui qui a été en-
+voyé par compassion pour les créatures, qui est l'origine
+et le principe de tout ce qui existe, la perfection complète,
+le seigneur des amis de Dieu, l'imâm des prophètes et
+le chef de tous les purs, sur sa famille qui a droit à la
+gloire universelle au rang suprême
+
+
+et sur ses compa-
+
+
+gnons les khalifes orthodoxes, les guides dans la voie
+droite qui ont établi les bases de la religion, fixé ses
+règles et appris que le Prophète (Dieu prie pour lui et lui
+donne le salut!) a dit : « Dieu a attribué le privilège de la
+<< royauté à la tribu de Qoréïch, et a fait descendre sur
+« elle la révélation: Dieu donne le pouvoir à qui lui
+ plaît. >>>
+
+
+<< Dieu (qu'il soit glorifié, lui qui seul dure et est éter-
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+387
+
+
+nel!) ayant décidé que le trépas inéluctable devait atteindre
+celui qui avait la charge du pouvoir immense, et le trans-
+porter dans la demeure où il pardonne et agrée (Dieu le
+place dans le vaste paradis, et répande sur son tombeau
+les ondées de sa miséricorde et de son pardon!) la popu-
+lation a dû faire choix d'un imâm, en raison de ces pa-
+roles du Prophète (sur lui soient les prières et le salut!):
+<< Celui qui meurt sans qu'à son cou soit suspendue une
+« béïa, meurt d'une mort païenne. >>> Préoccupées de
+savoir qui elles appelleraient à ces hautes fonctions et
+suivrait envers elles la voie droite, leurs pensées et leurs
+imaginations se sont livrées à la réflexion. La bonne direc-
+tion et la protection divine leur ont indiqué celui qui a
+grandi dans la piété, la vertu, le respect de lui-même, la
+dévotion, l'étude assidue de la noble science, la recherche
+zélée de l'ornement des œuvres louables, qui s'est signalé
+par son intelligence, son esprit éveillé, sa finesse, sa
+pureté, sa noblesse de caractère, son esprit de décision,
+son habileté politique, sa connaissance des affaires et son
+expérience, un jeune homme en qui Dieu a réuni la fer-
+meté et la douceur, qu'il a revêtu de considération et de
+respect, et à qui il a fait gravir les degrés de la puissance
+et de la gloire, le héros intrépide, le chef courageux aux
+qualités pures et sans tache, aux œuvres glorieuses et évi-
+dentes, au rang élevé, l'unique de son siècle, le seul des
+temps, Aboûrrâbî Moùlâna Slîmân, fils du Prince des
+Croyants Moûlâna Mohammed, fils du Prince des Croyants
+Moulana Abdallah, fils du Prince des Croyants Moûlâna
+Ismâîl, fils de Moûlâna Echchérîf. Les habitants de cette
+capitale idrisienne et des terres qui l'entourent sont tom-
+bés d'accord pour le prendre comme chef et comme imâm :
+il considèrent son élévation à l'Émirat et au Khalifat comme
+de bon augure, et s'empressent de le désigner et de lui
+adresser leur béïa contractée sur les étendards de la vic-
+toire, et dont la félicité s'élève dans les régions de la paix.
+
+
+388
+
+
+ARCHIVES MAROCAINES
+
+
+A cette béïa participent tous les grands et les notables,
+les principaux personnages de l'époque, les arbitres des
+destinées du pays, et tous ceux qui acceptent ou repous-
+sent, oûlama et savants, muftis et magistrats, chérifs res-
+pectés et généreux, combattants, fonctionnaires, chefs de
+troupes, citadins et Arabes qui sont au premier rang en
+toute circonstance, armées des Abids et des Berbers. Elle
+a été conclue, Dieu soit loué! sur les bases de la piété,
+et doit servir à renforcer et raffermir le bras de l'Islâm.
+C'est une béïa parfaite, remplissant les conditions vou-
+lues, conforme aux règles de la tradition et de la com-
+munauté, exempte de toute violence, difficulté ou pres-
+sion. Tous l'agréent et l'acceptent, et s'engagent à en res-
+pecter la teneur par leur soumission et leur obéissance.
+Les comparants en ont donné témoignage contre eux-
+mêmes volontairement et ont rempli à cet égard les pres-
+criptions sacrées de Dieu.
+
+
+<<< Puisse Dieu faire que cette béï'a soit une source de
+miséricordes pour les créatures, et qu'elle amène le règne
+de la justice et de la vérité! Qu'il fortifie de son secours,
+de sa force, de sa protection et de sa direction, celui qui
+l'accepte! Puisse-t-il par lui faire revivre la Tradition de
+notre Seigneur et Maître Mohammed (Dieu prie pour lui,
+lui donne le salut, l'anoblisse et le sanctifie!)
+
+
+<< Que ce pays soit félicité d'avoir remis ses destinées
+entre les mains de celui qui le protégera, épargnera son
+sang, terrassera ses ennemis, repoussera ses agresseurs,
+soutiendra la loi sainte et restaurera ses fondements,
+annoncera la vérité et en précisera le sens! Dieu le secoure
+et secoure par lui! Qu'il le fasse triompher de l'hérésie et
+de l'erreur et disperser le parti de l'oppression et de la
+corruption, et qu'il maintienne le Khalifat dans sa famille
+jusqu'au jour du jugement dernier.
+
+
+<< Dieu prie pour notre Seigneur Mohammed le Sceau
+des Prophètes, pour sa famille et tous ses compagnons,
+
+
+DYNASTIE ALAOUIE DU MAROC
+
+
+389
+
+
+pour ceux qui rapportent leurs paroles et reçoivent leurs
+enseignements. Ainsi soit-il!
+
+
+ Le 18 du mois sacré de rejeb l'unique de l'année 1206,
+de l'hégire de l'Elu, sur lui soient les meilleures prières
+et le salut le plus pur! >>>
+
+
+<< Le plus pauvre des serviteurs du Très-Haut, le servi-
+teur de Dieu, Mohammed Ettâoudi ben Ettaleb Ben Soûda
+Elmourri (Dieu le protège et l'entoure d'égards!); Ahmed
+ben Ettaoudi (Dieu le prenne par la main, le 'soutienne en
+toutes choses, et lui fasse obtenir la récompense et la
+rémunération !); le serviteur du Très-Haut, Mohammed
+ben  Abdesselâm Elfèsi (Dieu le favorise! Ainsi soit-il !);
+ Abdelqader ben Ahmed ben El arbi Ben Cheqroûn (Dieu
+le protège de sa grâce! Ainsi soit-il!); Mohammed ben
+Ahmed Bennîs (Dieu le protège et le secoure! Ainsi soit-
+il!); l'esclave de son maître et celui de ses esclaves qui a
+le plus besoin de lui, Mohammed ben 'Abdelméjîd Elfèsi
+(Dieu le favorise !); l'esclave de son maître, Yahya ben El-
+medi Echchefchaouni Elhasani (Dieu le favorise!); l'es-
+clave de son maître, 'Ali ben Drîs (Dieu le protège et le
+favorise! Ainsi soit-il!); l'esclave de son maître, Moham-
+med ben Brâhîm (Dieu le favorise!); l'esclave de son
+maître, Mohammed ben Mesoûd Ettrenbâți (Dieu le sou-
+tienne de sa grâce! Ainsi soit-il!); l'esclave de son maître,
+Slîmân ben Ahmed connu sous le nom d'Elfichtali (Dieu
+le protège et l'améliore!); l'esclave de son maître, Mohain-
+med Elhadi ben Zéïn El'abidîn Eliraqi Elhouséïni (Dien
+le soutienne!); l'esclave de son maître, Mohammed Etta-
+hami Tâhar Elhasani (Dieu le soutienne! Ainsi soit-il!);
+Abdelmålék ben Elhasan Elfdili Elhasani (Dieu le favorise !
+Ainsi soit-il!); l'esclave de son maître, Drîs ben Hâchém
+Elhasani Eljoûți (Dieu le favorise! Ainsi soit-il !). »
+
+
+390
+
+
+ARCHIVES MAROCAINES
+
+
+Le sultan Moûlay Slimân combat son frère Moûlay Moslama
+et le repousse dans le pays de l'Est ¹.
+
+
+Tandis que finissait à Fès la prestation de serment de
+fidélité au sultan Moûlay Sliman ben Mohammed (Dieu lui
+fasse miséricorde !) à l'adhésion unanime des grands per-
+sonnages de l'armée, des oulamâ, des chérifs et de tous
+les notables, les affaires de Moûlay Moslama s'aggravaient.
+Le Sultan avait à peine été proclamé que ce prince envoya
+à Rabât Elfeth un corps de troupes commandé par le qâïd
+Aboû Abdallah Mohammed Ezzaʻri, sur la demande du
+mohtaseb de cette ville, Aboûlfadl El'abbâs Merino, et de
+Aboù Abdallah Mohammed Elmekki ben El arbi Fréj; ces
+deux personnages appartenaient au groupe de la popula-
+tion de Rabât qui ne voulait pas reconnaître Moûlay Slî-
+man, et restaient fidèles à Moûlay Moslama. Les gens de
+Rabât Elfeth étaient, en effet, séparés, à cette époque, en
+deux camps: les uns avaient fait leur soumission à Moûlay
+Slîmân, et les autres persistaient dans leur serment de
+ſidélité à Moûlay Moslama.
+
+
+A la nouvelle de la marche sur Rabât Elfeth d'Ezzaʻri,
+Moûlay Slîmân donna à son frère Moùlay Etțayyéb le gou-
+vernement des Beni Hsen et l'envoya contre le qâïd. Les
+deux corps de troupes arrivèrent ensemble à Rabât Elfeth.
+A la suite d'un combat, Ezzaʻri et ses comparses furent
+mis en déroute. El abbas Merino fut tué et Elmekki Fréj
+alla se réfugier dans la Zâouya des Tahamiyîn. Moùlay
+Etțayyéb arrêta Ezzaʻri et quelques-uns de ses gens, puis
+le remit ensuite en liberté, sur l'ordre du sultan Moûlay
+Slimân, sous l'autorité duquel se rangèrent les habitants
+d'El  odoûatéïn.
+
+
+C'est ainsi que ces faits sont rapportés par l'auteur du
+
+
+1. Texte arabe, IV partic, p. 131.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+391
+
+
+Bousian. Cette version est corroborée par celle de la
+famille Fréj, qui attribue à cette affaire l'origine suivante.
+La famille Merino, qui jouissait d'une grande influence
+du temps de Moûlay Yazid (Dieu lui fasse miséricorde!), en
+avait profité pour intriguer auprès de lui contre la famille
+Fréj, en prétendant que celle-ci s'était emparée d'un dépôt
+d'argent que lui avait confié le vizir Aboû Abdallah
+Mohammed Elarbi Qadoùs. Moùlay Yazid avait empri-
+sonné les membres de cette famille et les avait forcés à
+rendre cet argent. L'inimitié avait éclaté entre les deux
+familles, et, à la mort de Moùlay Yazîd, les Merino et leurs
+partisans s'étaient empressés de proclamer Moûlay Mos-
+lama, tandis que leurs antagonistes avaient prété serment
+à Moûlay Slîmân.
+
+
+Quand Elabbas Merino fut mort, les mauvais sujets de
+Rabât Elfeth s'emparèrent de son cadavre, lui attachèrent
+une corde au pied et le traînèrent dans les marchés de la
+ville, s'arrêtant successivement devant toutes les bou-
+tiques, car, pendant sa vie, El'abbas avait été mohtaseb
+(Dieu lui fasse miséricorde !)
+
+
+Pendant ce temps, le sultan Moûlay Slimân demeurait à
+Fès et n'en sortait pas, mais bientot Moùlay Moslama,
+possesseur des pays d'Elhabt, envoya son fils chez les Aït
+Yimmoûr, pour leur ordonner d'attaquer les gens de
+Zerhoûn qui obéissaient au Sultan. Cet ordre fut exécuté
+et les gens de cette tribu se livrèrent au brigandage. Le
+sultan Moulay Slîmân se rendit alors à Méknès. Il convo-
+qua le guéïch des Abids et les tribus berbères, puis, rejoint
+par les Oûdêya, les gens de Fès et les Chråga, il attaqua
+les Aït Yimmoûr, qu'il rencontra près du fleuve Sbou, à
+l'endroit appelé Elhejar Elouâqéf. Les soldats tombèrent
+sur eux et leur infligèrent une terrible défaite. Le fils de
+Moulay Moslama prit la fuite et se rendit auprès de son
+père, tandis que les Aït Yimmoûr allaient se réfugier au
+Djebel Selfât, abandonnant leurs campements et leurs
+
+
+392
+
+
+ARCHIVES MAROCAINES
+
+
+effets entre les mains du Sultan, qui les laissa piller par
+les Abids, les Oûdèya et les Berbers de son armée. Le
+Sultan passa la nuit là. Dès le lendemain matin, les
+femmes et les enfants des Aït Yimmoûr vinrent intercéder
+auprès de lui et lui demander grâce. Le Sultan leur ayant
+pardonné, ils revinrent auprès de lui et lui jurèrent fidé-
+lité; il leur accorda la restitution de leurs troupeaux et
+de leurs effets, puis rentra à Fès.
+
+
+Ayant appris ensuite que Moûlay Moslama battait la
+campagne chez les Hayaïna, il quitta Fès pour marcher
+contre lui et vint l'attaquer. Moûlay Moslama et son armée
+furent mis en déroute, tandis que celle du Sultan livrait au
+pillage les campements des Hayâïna. Ceux-ci vinrent expri-
+mer leur repentir et reçurent leur pardon, à condition
+qu'ils se rangeraient dans les rangs de la communauté.
+De leur côté, les Arabs Elkhlot et les habitants du Dje-
+bel qui étaient pour Moûlay Moslama, se séparèrent de се
+prince, qui, n'ayant plus avec lui que les gens de son en-
+tourage, ses deux fils et son neveu, Moulay Hasan ben
+Yazid, partit pour le Djebel Ezzebib; mais les habitants de
+cette montagne le repoussèrent. De là il se rendit au Rîf,
+où on ne fit pas attention à lui, puis dans la montagne
+des Beni Yznâsén, qui le chassèrent, ensuite à Nedroûma,
+dont le gouverneur, sur l'ordre qu'il en avait reçu, l'em-
+pêcha d'aller chez le bey possesseur d'Alger. Enfin il
+arriva à Tlemsên, où il séjourna pendant quelque temps.
+<< Je le rencontrai dans cette ville, dit l'auteur du Bous-
+tân, dans le mausolée du chéïkh Boù Medien, à Elob-
+bâd. » C'était au moment où cet auteur, qui avait aban-
+donné le sultan Moûlay Slimân, était allé aussi se réfugier
+à Tlemsên. Il prétend que lorsqu'il retrouva ce prince,
+celui-ci lui reprocha d'avoir détourné les gens de lui pré-
+ter serment et de les avoir engagés à reconnaître son
+frère Moûlay Slîmân. « Je lui fis comprendre, dit cet au-
+teur, la situation de Moûlay Slîmân qui continuait les tra-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+393
+
+
+ditions de son père par son équité et sa bienveillance pour
+ses sujets, ce qui lui avait concilié l'affection de tout le
+monde. En entendant mes paroles, il se mit à pleurer: il
+reconnut que j'avais raison et récita cette parole de Dieu:
+<< Si j'avais connu les choses cachées, j'aurais fait plus de
+bien qu'il n'en faut. >>>
+
+
+Dans la suite, Moûlay Moslama demanda au prince d'Al-
+ger l'autorisation de se rendre en Orient, en passant par
+sa principauté. Celui-ci refusa et envoya, au contraire, un
+émissaire pour lui faire quitter Tlemsèn et se rendre à
+Sijilmâsa.
+
+
+Dès qu'il fut prévenu de son retour à Sijilmása, le sul-
+tan Moûlay Slîmân lui envoya de l'argent et des vête-
+ments, et lui désigna la qaşba qu'il devait habiter, et lui
+servit une pension mensuelle suffisante comme à ses autres
+frères. Mais le séjour de Sijilmâsa ne lui plaisant pas, ce
+prince partit pour l'Orient, en s'arrètant chez l'émir de
+Tunis, Hammoûda Bâcha, fils de 'Ali Bey.
+
+
+Suivant l'auteur d'Elkhoulûşat Ennaqiya, « Moûlay Mos-
+lama ben Mohammed, qui venait de prendre la fuite après
+s'être vu enlever le royaume de Fès, arriva auprès de
+l'émir Hammoùda Bâcha, qui lui donna une brillante hos-
+pitalité, lui fit des cadeaux royaux et lui témoigna les plus
+grands égards. » De là, Moûlay Moslama partit pour l'Orient
+et, après s'ètre arrêté quelque temps au Caire, se rendit à
+la Mekke, où il fut l'hôte du sultan de cette ville, son
+beau-frère. Après avoir reçu de lui une généreuse hospi-
+talité et de l'argent, il revint au Caire, où cette fois sa
+situation fut misérable et où il se trouva dans la gêne après
+avoir connu l'opulence. Il passa de nouveau par Tunis, où
+Hammouda Bâcha le traita encore avec générosité et écri-
+vit, sur sa demande, à son frère Moûlay Slimân pour inter-
+céder en sa faveur. Muni de sa lettre, il partit pour Oran
+et demanda au prince de cette ville, qui le lui accorda,
+une lettre de recommandation. Il fit porter les lettres de
+
+
+394
+
+
+ARCHIVES MAROCAINES
+
+
+ces deux princes au sultan Moulay Slimân, qui reçut son
+émissaire et lui envoya l'ordre de se rendre à Sijilmasa, où
+il devrait résider dans la maison de son père, recevrait les
+sommes nécessaires pour sa nourriture et ses vêtements,
+et d'autres cadeaux qui lui étaient promis, mais il devait
+rester à l'écart des fauteurs de troubles qui ne trouvaient
+aucun moyen d'allumer le flambeau de la révolte. Cette
+réponse de son frère ne le satisfit pas: il retourna en
+Orient, où il ne cessa d'aller et venir jusqu'au moment où
+la mort vint le prendre, le débarrassant des peines de се
+bas monde (Dieu lui fasse miséricorde !).
+
+
+Pillage par les Arabs Angâd de la caravane du pèlerinage
+magribin et ses conséquences  .
+
+
+Le sultan Moûlay Slimân (Dieu lui fasse miséricorde!)
+apprit, peu de temps après, que les Arabs Angad avaient
+attaqué et pillé sur leur territoire une troupe de négo-
+ciants et de pèlerins, qui venaient d'Orient et avaient
+quitté Oujda pour se rendre à Fès. Le Sultan (Dieu lui
+fasse miséricorde!) convoqua aussitôt le secrétaire Belqa-
+sém Ezzayâni, et lui donna l'ordre de partir pour Oujda et
+d'y prendre le commandement de cette ville, afin de
+rétablir le calme dans la région environnante. Cette déci-
+sion déplut à Ezzayani qui chercha à en obtenir le retrait,
+mais le Sultan ne l'écouta pas et l'invita à rejoindre son
+poste, en le faisant accompagner par cent cavaliers. Il dut
+obéir malgré lui, mais résolut, s'il quittait le Sultan, de se
+rendre dans l'un des nobles sanctuaires et d'y passer le
+reste de ses jours. Il réunit donc tout l'argent qu'il avait
+sous la main et partit. Une caravane de négociants qui
+était retenue à Fès, profita de son départ pour se mettre
+
+
+1. Texte arabe, IVe partie,  . 132.
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+395
+
+
+en route avec lui. Mais les 'Arabs Angad les attendaient,
+et quand ils se trouvèrent sur leur territoire, fondirent.
+sur eux et leur livrèrent combat. Les cavaliers du Sultan
+commencèrent par en saisir quelques-uns, mais les Arabs
+étaient plus nombreux et les taillèrent en pièces. De ces
+cavaliers il ne resta plus que le qâïd et dix de ses hommes.
+Les Arabs pillèrent tous les effets et marchandises des
+négociants de la caravane; ceux d'entre eux qui s'échap-
+pèrent ne sauvèrent que leur personne. « Nous nous réfu-
+giâmes, dit Ezzayani, à Qaşbat Eloyoùn: notre troupe
+s'était dispersée, sept d'entre nous avaient été tués et
+les autres blessés. Je ſis apporter les morts, et quand nous
+les eûmes enterrés, j'envoyai le qâïd à Oujda avec quel-
+ques Arabs de l'endroit, tandis que je me rendis moi-
+même dans la montagne des Beni Yznâsén, accompagné
+de Berbers de cette tribu, n'ayant plus avec moi que ma
+bête de selle et un autre cheval qui avait servi de mon-
+ture à mon esclave tué dans le combat. Je finis par arri-
+ver à Oran, où je descendis chez le bey Mohammed Bacha.
+Celui-ci me témoigna ses regrets et sa douleur, et insista
+pour me faire rester auprès de lui, mais je refusai. »
+Ezzayani raconte qu'après cela il alla à Tlemsên, où il re-
+trouva Moûlay Moslama; ils s'adressèrent des reproches
+réciproques, ainsi que nous l'avons déjà raconté. Ceci se
+passait à la fin l'année 1206.
+
+
+Le sultan Moûlay Slimân envoie des troupes dans le Hoûz;
+il part après elles pour Rabât Elfeth, puis revient à Fès. ¹
+
+
+Ainsi que nous l'avons précédemment rapporté, les habi-
+tants de Morrakch et les tribus du Hoûz avaient déjà em-
+brassé le parti de Moùlay Hicham ben Mohammed, sous le
+
+
+1. Texte arabe, IV partie,  . 132.
+
+
+396
+
+
+ARCHIVES MAROCAINES
+
+
+règne de Moùlay Yazid (Dieu lui fasse miséricorde!) Dès
+qu'il eut obtenu la soumission des pays du Ġarb, le sultan
+Moûlay Slimân (Dieu lui fasse miséricorde !) se préoccupa
+de régler les affaires du Hoûz et de s'emparer de cette ré-
+gion. Il donna à son frère Moûlay Etțayyèb le commande-
+ment de 10.000 cavaliers, et l'envoya, avec un certain
+nombre de qâïds du guéïch, auprès des tribus des Châouya
+(fin de l'année 1207.) Le Sultan partit lui-même après eux
+pour Rabât Elfeth, où il eſſaça les dernières traces de la
+révolution qui avait éclaté dans cette ville, et attendit les
+résultats des opérations de son frère. Le 6 chouwâl de
+cette année-là, il fit la prière du vendredi à la mosquée de
+la qasba: il officia lui-même comme imam et prononça un
+próne éloquent, dont le sujet était la pratique du bien et
+l'abstention du mal, la crainte des choses illicites et la
+mise en garde contre le péché. Sa prédication se termi-
+nait ainsi: «O mon Dieu! secoure les armées des Musul-
+mans et leurs combattants!  puis il fit des voux pour
+toute la nation. Dans le premier rika, il récita la sourate
+du vendredi et, dans le second, la sourate Elgachia, etc.
+
+
+Quand Moûlay Ettayyéb arriva dans la région des
+Châouya, des rivalités éclatèrent entre les qâïds du guéïch
+qui étaient avec lui et qui se disputaient le commande-
+ment. Chacun se croyait appelé à commander. Le plus
+audacieux de tous était le qâïd Elgenîmi, qui avait été un
+des qâïds de Moûlay Yazîd (Dieu lui fasse miséricorde !)
+Moulay Slimân le maintint à la 'première place pour se le
+concilier, de telle sorte qu'il fût seul à donner son avis,
+étant l'auxiliaire du khalifa Moûlay Ettayyéb et son Qâïd
+Elmechouâr. Aussi, à la première rencontre, les autres
+qâïds l'abandonnèrent et le firent battre: ils laissèrent leurs
+tentes et leurs bagages au pouvoir de l'ennemi et revin-
+rent en désordre à Rabât Elfeth auprès du Sultan: ils
+étaient, cependant, 10.000 cavaliers, comme nous l'avons
+rapporté. Dans ces conditions, le Sultan dut revenir à Fès,
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+397
+
+
+pour renouveler son matériel de voyage et d'expédition, et
+remplacer les tentes, les armes et les bagages qui avaient
+été perdus, ainsi que nous allons le raconter dans la suite,
+s'il plaît à Dieu.
+
+
+Révolte de Mohammed ben  Abdesselâm Elkhomsi, surnommé
+
+
+Zéïtân, dans le Djebel ¹.
+
+
+En 1208, un țâléb nommé Mohammed ben Abdesselâm
+et surnommé Zéïțân souleva la tribu d'Elkhmâs, dans les
+montagnes de Gomára. Les fauteurs de désordres de
+toutes les tribus vinrent se joindre à lui, et bientôt le
+nombre de ses partisans devint considérable. Voici quelle
+fut la cause de cette révolte. Le qâïd Qâsém Eşşerîdi était
+gouverneur de cette région pendant le règne de Moûlay
+Yazîd (Dieu lui fasse miséricorde !) A son avènement,
+Moûlay Slîmân avait nommé à sa place le qâïd Elġenîmi
+dont nous venons de parler, et qui était, dit-on, un véri-
+table tyran. Il emprisonna le qâïd Qâsém, s'empara de
+tous ses biens, et le tortura si cruellement pour le forcer
+à révéler ce qui lui restait, qu'il en mourut. C'est alors que
+tous les mauvais sujets de la province se réunirent à l'ap-
+pel de Zéïțân pour se révolter. Voyant que l'insurrection
+gagnait du terrain, le Sultan envoya une armée au qâïd
+Elġenîmi, et lui ordonna de marcher contre Zéïțan et ses
+partisans. Ce qâïd se mit en route et, arrivé dans le pays
+de Ġzâoua, près de Ouâzzân, voulut pénétrer dans la mon-
+tagne pour le poursuivre. Les chefs du guéïch qui étaient
+avec lui le dissuadèrent d'exposer ainsi des hommes dans
+ces montagnes et ces ravins, mais il ne voulut rien enten-
+dre et poussa plus avant avec ses cavaliers et ses fantas-
+sins. A peine était-il en pleine montagne, que de tous les
+
+
+1. Texte arabe, $IV^{\circ}$ partie, p. 133.
+
+
+308
+
+
+ARCHIVES MAROCAINES
+
+
+ravins des hommes à pied s'élancèrent dans toutes les di-
+rections et, cernant l'armée, la livrèrent au carnage et au
+pillage à merci, et lui firent rebrousser chemin en déroute.
+La nouvelle de cette défaite irrita vivement le Sultan, qui
+arrèta Elgenîmi et le livra aux enfants d'Eşşerîdi, qui le
+tuèrent de leurs propres mains pour venger la mort de
+leur père. Il donna le commandement des tribus du Dje-
+bel à son frère Moûlay Ettayyéb, lui laissant pleins pou-
+voirs en ce qui concerne les ports, et lui assigna Tanger
+comme résidence. Moûlay Ettayyéb se mit à administrer
+les tribus du Djebel et les ports de Tétouan, Tanger et
+El arêïch, bouchant à leur début toutes les crevasses et
+saisissant toutes les bonnes occasions.
+
+
+Il commença par lutter contre les tribus du Fahş, qui
+rentrèrent dans le calme et se soumirent, puis il combat-
+tit les habitants des environs de Tanger et d'Aşéïla, comme
+les Beni Ider et Elkhmâs, partisans de Zéïțân. La guerre
+ne cessait pas.
+
+
+En 1209, Moûlay Ettayyéb, ayant reçu du Sultan son
+frère une colonne de renfort, qui vint se joindre à lui à
+Tanger, partit avec les soldats de cette ville et ceux d'El-
+aréïch pour attaquer les Beni Gorfot qui étaient le repaire
+des révoltés. Il s'établit chez eux, les combattit jusqu'au
+cœur de leurs maisons, brûla leurs villages, pilla leurs
+biens, et les mit en pièces, si bien qu'ils vinrent humble-
+ment lui exprimer leur repentir et qu'il leur pardonna.
+Après cela, il se rendit chez les Beni Harchan, fraction des
+Beni Ider, mais Zéïțân s'enfuit chez les Khmâs, sa tribu,
+abandonné par les tribus qui s'étaient jointes à lui. Moûlay
+Etțayyéb le fit venir sous le couvert de l'amán et, s'en
+étant emparé, l'envoya au Sultan, qui lui confirma sa sé-
+curité et le nomma gouverneur de sa tribu. Depuis lors,
+il fut un des serviteurs du gouvernement et un de ses
+fidèles conseillers. Quand il eut apaisé cette tribu, un
+autre gouverneur fut nommé, et Zéïțân, relevé de ses fonc-
+
+
+DYNASTIE ALAQUIE DU MAROC
+
+
+309
+
+
+tions, fut transporté à Tétouan par le Sultan, qui lui donna
+une pension suffisante. Il demeura dans cette ville jusqu'à
+la fin du règne de Moûlay Slîmân. Quand, dans la suite,
+Moûlay Brâhîm ben Yazîd se révolta contre lui et entra à
+Tétouan, Zéïțân fut un des plus chauds partisans du Sul-
+tan, et s'employa avec dévouement à retenir et calmer les
+tribus.
+
+
+Plus tard, en 1236, il se rendit, malgré son grand age,
+auprès du Sultan à Tanger, et reçut de lui de nombreux
+cadeaux. Les gens d'Elkhmâs invoquent jusqu'à ce jour la
+protection de ses descendants et ont en eux la même con-
+fiance que les Aït Ou Mâlou dans la famille Mhaouch. Dieu
+hérite seul de la terre et de ceux qui l'habitent: il est le
+meilleur des héritiers.
+
+
+Au mois de doûlḥeddja de cette année (1209) mourut le
+très docte imâm Sîdi Ettaoudi ben Soûda Elmorri Elfèsi,
+auteur de la glose marginale sur Elboukhari, de la glose
+marginale sur le commentaire du Mokhtaşar par le chéïkh
+Abdelbâqi Ezzerqâni, du commentaire de la Aşmiya et
+de la Zeqâqiya, et d'autres ouvrages précieux. Il était le
+dernier des chéïkhs de Fès, où ses hauts faits sont célè-
+bres.
+
+
+FIN DU TOME PREMIER
+
+
+ATIONALE
+
+
+22-10-06. Tours, Imp. E. ARRAULT et Cio.
+
+
+MISSION SCIENTIFIQUE DU MAROC
+
+
+CONSEIL DE PERFECTIONNEMENT
+
+
+1906
+
+
+BUREAU
+
+
+Président:
+
+
+M. E. ÉTIENNE. Vice-Président de la Chambre des Députés.
+
+
+Vice-présidents:
+
+
+M. BAYET, Directeur de l'Enseignement supérieur au Ministère de
+
+
+l'Instruction publique.
+
+
+M. G. LOUIS, Directeur politique au Ministère des Affaires étrangères.
+
+
+Secrétaire, Délégué général, Trésorier:
+
+
+M. A. LE CHAT LIER, Professeur au Collège de France.
+
+
+MEMBRES
+
+
+M. BARBIER DE MEYNARD, Membre de l'Institut.
+
+
+M. R. BASSET. Directeur de l'École supérieure des Lettres d'Alger.
+
+
+M. A. BERNAR. Maître de conférences à la Sorbonne.
+
+
+M. P. BOURDE, ancien Directeur des Contrôles en Tunisie.
+
+
+M. R. CAGNAT, Membre de l'Institut.
+
+
+M. H. DERENBOURG, Membre de l'Institut.
+
+
+M. P. DOUMER, Député.
+
+
+M. E. DOUTTÉ, Professeur à l'École supérieure des Lettres d'Alger.
+
+
+M. le Dr HAMY, Membre de l'Institut.
+
+
+M. O. HOUDAS, Professeur à l'École des Langues orientales.
+
+
+M. L. HUBERT, Député.
+
+
+M. JONNART, Gouverneur général de l'Algérie.
+
+
+M. LUCIANI, Conseiller du Gouvernement général de l'Algérie.
+
+
+M. MASPERO, Mombre de l'Institut.
+
+
+M. PICHON, Rés dent général de France à Tunis.
+
+
+M. REGNAULT, Ministre de France au Maroc.
+
+
+M. P. REVOIL, A mbassadeur.
+
+
+M. ROUME, GOu erneur général de l'Afrique occidentale.
+
+
+M. Rov, Secrétaire général du Gouvernement tunisien.
+
+
+M. DE SAINT-ARROMAN, Chef de bureau des Missions scientifiques au
+
+
+Ministre de l'Instruction publique.
+
+
+man
+
+
+ERNEST LEROUX, ÉDITEUR
+
+
+28, RUE BONAPARTE, VI
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+22-10-06. Tours, Imprimerie E. ARRAULT et C.

@@ -8,9 +8,11 @@ Ce projet est conçu pour transformer votre environnement de développement en u
 
 ## 🎯 Objectif
 
-Produire des analyses de contenu pertinentes, sourcées et méthodologiquement rigoureuses. En couplant la capacité de raisonnement de Copilot avec la précision documentaire de NotebookLM, ce projet permet de réaliser des synthèses complexes sans hallucinations. 
+Produire des analyses de contenu pertinentes, sourcées et méthodologiquement rigoureuses. En couplant la capacité de raisonnement de Copilot avec la précision documentaire de NotebookLM, ce projet permet de réaliser des synthèses complexes sans hallucinations.
 
 Pour aider aux traitements de corpus ce projet permet de tirer profit de la puissance de calcule de google colab via Colab.ipynb pour réaliser ce qui suit : l'utilisateur configure le chemin vers les pdf dans drive sur le code et ces derniers sont copiés dans l'environnement drive et dans le repository determiné (utilisation du Personal Access Token) ; le traitement des documents se fait en réspectant les parametres définies.
+
+Exportation via plugin NotebooKLM Ultra Exporter en respectant la **Structure des Données du Projet** : Ajout des sous-dossiers `notebooklm-sources-[YYYY-MM-DD]/` (pour les fichiers .md) et `notebooklm-sources-[YYYY-MM-DD]_txt/` (pour les fichiers .txt) sous  `ALL/ALLNBLM/[NomNotebook]/`, avec une note explicative sur leur contenu.
 
 ## 🛠️ Composants Clés
 
@@ -41,9 +43,7 @@ Voici comment cibler un notebook spécifique pour vos analyses :
    * auto_discover_notebook URL([https://notebooklm.google.com/notebook/488d3adb-93d4-4550-bc94-f30b678fea3c])
    * *"Quels sont mes notebooks ?"* (pour voir la liste locale)
    * *Utilise le notebook 'histoire-diplomatie-maroc' pour cette session Quelles sont les thèses principales sur la diplomatie alaouite dans ce corpus ?* (pour charger le contexte avec `select_notebook`)
-
    * Récupère la liste des sources via list_content → Pour chaque source → get_source_text et Sauvegarder dans ALL/ALLNBLM/[Notebook]/
-
 2. **Mener l'Enquête** :
 
    * Posez votre question théorique : *"Analyse l'évolution du concept de souveraineté dans ce corpus."*
@@ -83,13 +83,13 @@ ALL/
 
 ### 📁 Détail des Dossiers
 
-| Dossier | Source | Contenu |
-|---------|--------|---------|
-| `ALLPDF/` | Google Drive via Colab | PDFs originaux collectés |
-| `ALLPDF_OCR/` | `Colab.ipynb` | PDFs avec texte OCR intégré |
-| `ALLMD/` | `Colab.ipynb` | Fichiers Markdown convertis |
-| `ALLNBLM/` | Serveur MCP Docker | Données de session NotebookLM (auth, library) |
-| `Deliverables/` | Sessions Copilot | Analyses produites, synthèses, sources_context |
+| Dossier           | Source                 | Contenu                                         |
+| ----------------- | ---------------------- | ----------------------------------------------- |
+| `ALLPDF/`       | Google Drive via Colab | PDFs originaux collectés                       |
+| `ALLPDF_OCR/`   | `Colab.ipynb`        | PDFs avec texte OCR intégré                   |
+| `ALLMD/`        | `Colab.ipynb`        | Fichiers Markdown convertis                     |
+| `ALLNBLM/`      | Serveur MCP Docker     | Données de session NotebookLM (auth, library)  |
+| `Deliverables/` | Sessions Copilot       | Analyses produites, synthèses, sources_context |
 
 ### 📁 Structure par Fichier Analysé (dans ALLMD/)
 

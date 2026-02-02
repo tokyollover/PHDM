@@ -573,6 +573,10 @@ class NotebookLMMCPServer {
             );
             break;
 
+          // DISABLED: get_source_text
+          // Disabled because UI extraction doesn't capture actual document content.
+          // Use exported source files instead. See copilot-instructions.md
+          /*
           case 'get_source_text':
             result = await this.toolHandlers.handleGetSourceText(
               args as {
@@ -583,7 +587,12 @@ class NotebookLMMCPServer {
               }
             );
             break;
+          */
 
+          // DISABLED: export_all_sources
+          // Disabled because source files are already exported locally.
+          // Use notebooklm-sources-[YYYY-MM-DD]/ folders instead. See copilot-instructions.md
+          /*
           case 'export_all_sources':
             result = await this.toolHandlers.handleExportAllSources(
               args as {
@@ -593,6 +602,7 @@ class NotebookLMMCPServer {
               }
             );
             break;
+          */
 
           default:
             log.error(`❌ [MCP] Unknown tool: ${name}`);

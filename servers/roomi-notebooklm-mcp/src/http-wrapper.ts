@@ -717,6 +717,9 @@ app.delete('/content/sources', async (req: Request, res: Response) => {
   }
 });
 
+// DISABLED HTTP endpoints - See copilot-instructions.md
+// These endpoints are disabled because the underlying tools are not working correctly
+/*
 // Get source text content by ID
 app.get('/content/sources/:id/text', async (req: Request, res: Response) => {
   try {
@@ -815,6 +818,7 @@ app.post('/content/sources/export', async (req: Request, res: Response) => {
     });
   }
 });
+*/
 
 // Generate content (audio_overview, presentation, report, data_table, infographic, and video are supported)
 app.post('/content/generate', async (req: Request, res: Response) => {

@@ -60,8 +60,8 @@ import type {
   NoteResult,
   SaveChatToNoteResult,
   NoteToSourceResult,
-  SourceTextResult,
-  ExportAllSourcesResult,
+  // SourceTextResult, // DISABLED - see copilot-instructions.md
+  // ExportAllSourcesResult, // DISABLED - see copilot-instructions.md
 } from '../content/types.js';
 
 /**
@@ -1101,6 +1101,10 @@ User: "Yes" → call remove_notebook`,
         required: ['note_title'],
       },
     },
+    // DISABLED: get_source_text - See copilot-instructions.md for why this tool was disabled.
+    // The UI-based text extraction doesn't capture actual document content.
+    // Use exported source files in notebooklm-sources-[YYYY-MM-DD]/ instead.
+    /*
     {
       name: 'get_source_text',
       description:
@@ -1140,6 +1144,10 @@ User: "Yes" → call remove_notebook`,
         },
       },
     },
+    */
+    // DISABLED: export_all_sources - See copilot-instructions.md for why this tool was disabled.
+    // Source files are already exported to notebooklm-sources-[YYYY-MM-DD]/ and notebooklm-sources-[YYYY-MM-DD]_txt/
+    /*
     {
       name: 'export_all_sources',
       description:
@@ -1185,6 +1193,7 @@ User: "Yes" → call remove_notebook`,
         required: ['output_dir'],
       },
     },
+    */
     // ========================================================================
     // Browser Scraping Tools (Real NotebookLM Data)
     // ========================================================================
@@ -3040,12 +3049,15 @@ export class ToolHandlers {
     }
   }
 
+  // DISABLED: handleGetSourceText
+  // This method is disabled. See copilot-instructions.md for details.
+  /*
   /**
    * Handle get_source_text tool
    *
    * Extracts the full text content from a source document in NotebookLM.
    * Opens the source in the viewer and extracts all visible text.
-   */
+   *
   async handleGetSourceText(args: {
     source_id?: string;
     source_name?: string;
@@ -3123,13 +3135,17 @@ export class ToolHandlers {
       };
     }
   }
+  */
 
+  // DISABLED: handleExportAllSources
+  // This method is disabled. See copilot-instructions.md for details.
+  /*
   /**
    * Handle export_all_sources tool
    *
    * Exports all sources from a NotebookLM notebook to local markdown files.
    * Creates one file per source plus a summary file.
-   */
+   *
   async handleExportAllSources(args: {
     output_dir: string;
     notebook_url?: string;
@@ -3200,6 +3216,7 @@ export class ToolHandlers {
       };
     }
   }
+  */
 
   /**
    * Handle list_notebooks_from_nblm tool

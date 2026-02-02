@@ -1,0 +1,25209 @@
+# BALZACQ-Thierry-ManuelDiplomatie.pdf
+
+relations
+internationales
+
+
+MANUEL
+
+
+DE DIPLOMATIE
+
+
+sous la direction de
+
+
+Thierry Balzacq
+
+
+Frédéric Charillon
+
+
+Frédéric Ramel
+
+
+Sciences Po
+LES PRESSES
+
+
+Table des Matières
+
+
+4e couverture
+
+
+Titre
+
+
+Copyright
+
+
+Liste des contributeurs
+
+
+Introduction - Histoire et théorie de la diplomatie
+
+
+Thierry Balzacq, Frédéric Charillon, Frédéric Ramel
+
+
+Le phénomène diplomatique dans l'histoire
+
+
+Réflexions théoriques sur la diplomatie
+
+
+Retour sur le concept de « diplomatie »
+
+
+À propos de ce manuel
+
+
+Première partie - Les vecteurs
+
+
+Chapitre 1 - La relation bilatérale
+
+
+Alice Pannier
+
+
+La conduite des relations bilatérales
+
+
+Les relations entre chefs d'État et de gouvernement
+Le rôle des ambassades
+
+
+Les autres acteurs politiques : parlements et partis
+
+
+Les entreprises
+
+
+La société civile
+
+
+Les relations bilatérales et le contexte multilatéral
+Qualifier les relations bilatérales
+
+
+Les relations bilatérales privilégiées
+Les relations bilatérales conflictuelles
+Les limites de la qualification
+
+
+Chapitre 2 - La diplomatie multilatérale
+Franck Petiteville, Delphine Placidi-Frot
+L’historicité de la diplomatie multilatérale
+L'adaptation des appareils diplomatiques des États au
+multilatéralisme
+
+
+L’omniprésence des négociations multilatérales dans les
+relations internationales
+
+
+Chapitre 3 - La paradiplomatie
+
+
+Stéphane Paquin
+
+
+Le concept de paradiplomatie en débats
+Intensité du phénomène
+
+
+Constitution et gouvernements non centraux
+Quel type d'acteurs internationaux ?
+
+
+Chapitre 4 - Diplomaties de clubs et de groupes
+
+
+Christian Lechervy.
+
+
+Quelques raisons pour travailler en groupesrestreints et
+informels
+
+
+Une praxis durable
+
+
+Se réunir informellement pour réfléchir et agir en toute
+confidentialité
+
+
+Le format restreint comme expression de la puissance
+Des partenariats à géométrie variable
+
+
+Se regrouper informellement pour être plus influent
+Chapitre 5 - De la communication à la diplomatie
+
+
+publique et digitale
+
+
+Brian Hocking
+
+
+La diplomatie dans un monde complexe
+
+
+Analyser la diplomatie numérique
+
+
+Les méthodes diplomatiques dans l'ère digitale
+Effets sur les structures et les institutions diplomatiques
+
+
+Rôles et compétences
+
+
+Chapitre 6 - De la négociation à la médiation
+
+
+Valérie Rosoux
+
+
+Faut-il négocier ?
+
+
+Quand faut-il négocier ?
+
+
+Comment négocier ?
+
+
+Chapitre 7 - Rituels et diplomatie
+
+
+Thierry Balzacq
+
+
+Qu'est-ce qu'un rituel ?
+
+
+Le protocole, support et expression de l'ordre
+diplomatique
+
+
+La poignée de main
+
+
+Répercussions méthodologiques : l'importance de la
+
+
+situation
+
+
+Deuxième partie - Les acteurs
+
+
+Chapitre 8 - Les États et leur outil diplomatique
+
+
+Christian Lequesne
+
+
+Les origines de l'outil diplomatique
+
+
+Design institutionnel
+
+
+Le corps des diplomates
+
+
+Les pratiques diplomatiques
+
+
+Chapitre 9 - Les organisations intergouvernementales
+Cédric Groulier, Simon Tordjman
+
+
+De la représentativité comme enjeu à la représentation
+des Ol pour elles-mêmes
+
+
+La représentativité comme vecteur de légitimité et
+objet de négociation
+
+
+La personnalité juridique des Ol : une représentation
+contrainte d’elles-mêmes
+
+
+Recueil et usage de l'information
+
+
+L'information comme condition de coopération
+
+
+Les usages prescriptifs de l'information
+
+
+Les organisations internationales dans les processus de
+négociation
+
+
+Les Ol et la négociation des normes
+
+
+Le poids des Ol sur le cadrage et les modalités de la
+négociation
+
+
+Chapitre 10 - Diplomaties supra-étatiques
+
+
+Stephanie C. Hofmann, Olivier Schmitt
+
+
+Le néofonctionnalisme et l'intégration des diplomaties
+nationales
+
+
+Les approches principal-agent
+
+
+Les pratiques diplomatiques et la régionalisation des
+diplomaties
+
+
+L'autorité internationale
+
+
+Chapitre 11 - Diplomaties sub-étatiques : régions,
+parlements et collectivités locales
+
+
+Benjamin Puybareau, Renaud Takam Talom
+
+
+Diplomatie sub-étatique : définition, trajectoire et
+instruments
+
+
+Qu'est-ce que la diplomatie sub-étatique ?
+
+
+Diplomatie sub-étatique, paradiplomatie et
+protodiplomatie
+
+
+Diplomatie sub-étatique, diplomatie parallèle et
+diplomatie à paliers multiples
+
+
+Diplomatie sub-étatique : trajectoire historique et
+principaux catalyseurs
+
+
+Diplomatie sub-étatique et diplomatie classique :
+entre complémentarité, rivalité et résilience
+
+
+Entre rupture et conflit
+
+
+Résilience et coopération
+
+
+Les diplomaties sub-étatiques : une diversité
+d'acteurs et d'instruments
+
+
+La diplomatie des régions
+
+
+Principaux acteurs et intensité de la
+diplomatie des régions
+
+
+Les instruments
+
+
+La diplomatie parlementaire des régions
+
+
+Les canaux bilatéraux (groupes d'amitié,
+
+
+visites, rencontres).
+
+
+Les canaux multilatéraux
+
+
+La diplomatie des collectivités locales
+
+
+Chapitre 12 - La diplomatie des acteurs non étatiques
+Auriane Guilbaud
+
+
+Constitution et érosion du monopole diplomatique
+régalien
+
+
+Activités diplomatiques perpétuées et pratiques
+renouvelées
+
+
+L'adaptation des diplomaties gouvernementales et les
+
+
+limites de la délégation sans souveraineté
+
+
+Chapitre 13 - Individu et diplomatie
+
+
+Pierre Grosser
+
+
+L'anatomie de l'individu-acteur
+
+
+Cognition, décision et émotion
+
+
+Les individus qui comptent à l'international
+
+
+Troisième partie - Les secteurs
+
+
+Chapitre 14 - Diplomatie économique, diplomatie
+d'entreprise
+
+
+Laurence Badel
+
+
+Un outil économique et financier de domination
+Un outil de la gouvernance mondiale : les enceintes
+
+
+multilatérales de la diplomatie économique
+
+
+La diplomatie économique des émergents
+
+
+Diplomatie d'entreprise versus diplomatie économique:
+une histoire à mettre en perspective
+
+
+Chapitre 15 - La diplomatie culturelle
+
+
+Marie-Christine Kessler
+
+
+Les acteurs étatiques nationaux de la diplomatie
+culturelle
+
+
+Le cas particulier des régimes autoritaires
+Le cas de la France, exemple de diplomatie
+culturelle démocratique d'État
+
+
+Les modèles européens de diplomatie culturelle
+coopérative
+
+
+Le modèle américain de la diplomatie culturelle
+étatique masquée
+
+
+Les acteurs internationaux
+
+
+Diplomatie culturelle et négociations internationales
+
+
+Aller au-delà du jeu national du soft power
+
+
+La culture comme un objet de pouvoir
+
+
+Chapitre 16 - La diplomatie environnementale
+Amandine Orsini
+
+
+Le contenu de la diplomatie environnementale
+
+
+Les règles du jeu de la diplomatie environnementale
+Chapitre 17 - La diplomatie humanitaire
+
+
+Élise Rousseau, Achille Sommo
+
+
+Définition
+
+
+« L'impératif d'humanité » : le fondement de la
+diplomatie humanitaire
+
+
+Acteurs et pratiques diplomatiques
+
+
+Le CICR : un acteur incontournable de la scène
+humanitaire
+
+
+Organisations non gouvernementales : deux
+approches humanitaires de la diplomatie
+
+
+Les approches diplomatiques de l'humanitaire
+
+
+Chapitre 18 - La diplomatie de défense
+
+
+Frédéric Charillon, Thierry Balzacq, Frédéric Ramel
+La diplomatie de défense : limites du concept, variations
+des pratiques
+
+
+Ce que n'est pas la diplomatie de défense
+
+
+La diplomatie de défense comme canal de dialogue
+militaire
+
+
+La diplomatie de défense comme domaine
+d'expertise
+
+
+Les problématiques théoriques : une inscription libérale
+Diplomatie publique et soft power
+
+
+Mise en place d'un champ international de sécurité
+collective par ses propres acteurs
+
+
+Sociologie de la diplomatie de défense au XXIe siècle :
+fin ou réinvention du concept ?
+
+
+De la défense à la sécurité globale ?
+Diplomatie militaire sans militaires ?
+
+
+Chapitre 19 - Les diplomaties de l'entertainment
+Maud Quessard-Salvaing
+
+
+Le modèle américain de diplomatie de l'entertainment
+au XXe siècle : une privatisation de la diplomatie
+publique au service des stratégies d'influence
+
+
+Diplomatie et entertainment en temps de guerre(s):
+les précédents du CPI et de l'OWI, la démocratie
+américaine en propagande
+
+
+La concurrence des diplomaties culturelles
+européennes et la montée des propagandes
+fascistes de l'entre-deux-guerres à la seconde
+guerre mondiale
+
+
+Entertainment et diplomatie publique de guerre froide :
+le modèle hollywoodien au service des stratégies
+d'influences américaines
+
+
+La diplomatie publique d’Edward Murrow durant les
+années 1960 : Hollywood sous influence
+L'explosion du bloc soviétique : l'impact des
+nouvelles technologies et de la culture de
+l'entertainment
+
+
+Competing soft powers : diversification et globalisation
+de l'entertainment au service des intérêts diplomatiques
+du XXIe siècle
+
+
+Entertainment et celebrity diplomacy au service des
+opérations de smart power : les ambassadeurs non
+institutionnels du nation branding
+
+
+Sport diplomacy, célébrités et anti-diplomates ?
+L’entertainment mondialisé vs l’entertainment post-
+mondialisation : l'émergence de modèles de soft
+powers concurrents et la réaffirmation des États
+nations
+
+
+Chapitre 20 - L'expertise internationale et la diplomatie
+d'influence
+
+
+Nicolas Tenzer
+
+
+Anatomie de l'expertise internationale
+
+
+L'expertise à l'épreuve de la coordination
+
+
+Les conditions d'une stratégie globale d'influence
+
+
+L'expertise contre la désinformation
+
+
+Conclusion - Les diplomates engloutis ?
+
+
+Frédéric Ramel, Thierry Balzacq, Frédéric Charillon
+
+
+Liste des sigles
+
+
+Index
+
+
+Table des documents
+
+
+Bibliographie générale
+
+
+Remerciements
+
+
+Relations internationales
+
+
+Thierry Balzaeq. Frédéric Charillon
+et Frédérie Ramel (dir.)
+
+
+MANUEL DE DIPLOMATIE
+
+
+La pratique diplomatique a connu plusieurs mutations majeures:
+elle n'est plus l'apanage de l'État et de ses agents, el e use d'irs-
+truments d'une technicité croissarte, elle investit de nouveaux
+territoires de négociation. Ces changements ont suscité un regain
+d'intérêt pour l'analyse de la scène diplomatique par de nombreuses
+disciplines, de la science politique ces relations internationales à
+I'histoire, en passant par la sociologie.
+
+
+Premier Manuel de diplomatie en langue française, cet ouvrage
+aborde toutes les cimensions de l'institution dipicmatique
+au XXI siècle, en la situant dans son évolution historicue et en
+présentant ses aspects classiques comme ses nouvelles formes
+d'expression. Le livre s'organise en trois parties:
+
+
+vecteurs: bilatéralisme, multilatéral sme, négociation et médiation,
+nouvelles technologies de l'information et de la communication,
+diplomaties de clubs et de groupes, paradiplomatie, rituels et
+protocole 
+
+
+acteurs: État, organisations intergouvernemerta es, régions
+(sub-et supra-étatiques), parlements et collectivités territoriales,
+individus;
+
+
+secteurs: culture, entertainment, environnement, économie et
+entreprise, expertise, défense et humanitaire.
+
+
+Thierry Balzacq est professeur de recherche de la Fondation Francqui et
+titulaire de a Chaire Tocqueville en politiques de sécurité à l'Université
+de Namur 31 Belgique.
+
+
+Frédéric Enarilion est professeur des Universités en science politique à
+'Univers té de Clermont Auvergne (ICA
+
+
+Frédéric Ramel est professeur des Universités en science politique a
+Sciences Po
+
+
+Sciences Po
+LES PRESSES
+
+
+9782724 322904
+
+
+128   2-1546-2252-4
+
+
+24,50€
+
+
+REVISPERERE
+
+
+Manuel de diplomatie
+
+
+Manuel de diplomatie
+
+
+Sous la direction de
+Thierry Balzacq
+Frédéric Charillon
+Frédéric Ramel
+
+
+SciencesPo
+
+
+LES PRESSES
+
+
+SciencesPo
+
+
+LES PRESSES
+
+
+Catalogage Électre-Bibliographie (avec le concours de la
+Bibliothèque de Sciences Po) Manuel de diplomatie / sous la
+direction de Thierry Balzacq, Frédéric Charillon, Frédéric Ramel.
+Paris: Presses de Sciences Po, 2018.
+
+
+ISBN papier 978-2-7246-2290-4
+
+
+ISBN pdf web 978-2-7246-2291-1
+
+
+ISBN epub 978-2-7246-2292-8
+ISBN xml 978-2-7246-2293-5
+
+
+RAMEAU:
+
+
+Diplomatie: Manuels d'enseignement supérieur
+
+
+DEWEY:
+
+
+- 327.2: Diplomatie
+
+
+La loi de 1957 sur la propriété intellectuelle interdit expressément la
+photocopie à usage collectif sans autorisation des ayants droit (seule
+la photocopie à usage privé du copiste est autorisée).
+
+
+Nous rappelons donc que toute reproduction, partielle ou totale, du
+présent ouvrage est interdite sans autorisation de l'éditeur ou du
+Centre français d'exploitation du droit de copie (CFC, 3, rue
+Hautefeuille, 75006 Paris).
+
+
+Presses de la Fondation nationale des sciences politiques, 2018.
+
+
+Liste des contributeurs
+
+
+Laurence BADEL, professeure d'histoire contemporaine, Université
+Paris-1 Panthéon-Sorbonne
+
+
+Pierre GROSSER, professeur agrégé d'histoire, Sciences Po Paris
+
+
+Cédric GROULIER, maître de conférences en droit public à l'institut
+d'études politiques de Toulouse
+
+
+Auriane GUILBAUD, maîtresse de conférences en science politique,
+Université Paris-8
+
+
+Brian HOCKING, professeur émérite de relations internationales à
+l'Université de Loughborough et chercheur associé au programme
+d'études diplomatiques de l'institut Clingendael à La Haye aux Pays-
+Bas Stéphanie C. HOFFMANN, professeure à l'Institut des hautes études
+internationales et de développement (IHEID) de Genève Marie-
+Christine KESSLER, directrice de recherche émérite, CNRS, Paris-2
+Panthéon-Assas
+
+
+Christian LECHERVY, ambassadeur, secrétaire permanent pour le
+Pacifique (2014-2018)
+
+
+Christian LEQUESNE, professeur de science politique, Sciences Po Paris
+Amandine ORSINI, professeure de science politique, Université Saint-
+Louis de Bruxelles
+
+
+Alice PANNIER, assistant professor of international relations and
+European studies, Paul H. Nitze School of Advanced International
+Studies (SAIS), Johns Hopkins University Stéphane PAQUIN, professeur
+titulaire à l'École nationale d'administration publique (ENAP), directeur
+du Groupe d'études et de recherche sur l'international et le Québec
+(GERIQ) Franck PETITEVILLE, professeur des universités en science
+politique, institut d'études politiques de Grenoble Delphine PLACIDI-
+FROT, professeure des universités en science politique, Université Paris-
+
+
+Sud Benjamin PUYBAREAU, doctorant en science politique, chaire
+Tocqueville en politiques de sécurité, Université de Namur/Sciences Po
+Paris Maud QUÉSSARD-SALVAING, maître de conférences en civilisation
+nord-américaine, Université de Poitiers, chargée de recherche à l'Irsem
+Valérie RosoUX, maître de recherche au FNRS et professeure de
+science politique, Université catholique de Louvain Élise ROUSSEAU,
+doctorante en science politique à la chaire Tocqueville en politiques de
+sécurité, Université de Namur Olivier SCHMITT, associate professor au
+Center for War Studies, University of Southern Denmark Achille Sommo
+PENDE, doctorant en science politique à la chaire Tocqueville en
+politiques de sécurité, Université de Namur Renaud TAKAM TALOM,
+doctorant à la chaire Tocqueville en politiques de sécurité, Université
+de Namur Nicolas TENZER, chargé d'enseignement à Sciences Po Paris,
+ancien chef de service au Commissariat général du plan, auteur d'un
+rapport au gouvernement sur l'expertise internationale comme outil de
+politique extérieure Simon TORDJMAN, maître de conférences en science
+politique à l'institut d'études politiques de Toulouse
+
+
+Introduction
+
+
+Histoire et théorie de la
+
+
+diplomatie
+
+
+Thierry Balzacq, Frédéric Charillon,
+Frédéric Ramel
+
+
+À
+
+
+en croire Martin Wight, « le système diplomatique
+est l'institution centrale des
+
+
+relations
+internationales » (Wight, 1979, 113; Hocking, 2016,
+67-78). Cette caractérisation souscrit, en creux, à une
+approche fonctionnaliste de la diplomatie. Pour Wight,
+en effet, la diplomatie est l'instrument nécessaire à la
+stabilisation des rapports entre États. Le problème
+d'une conception fonctionnaliste, c'est qu'elle accentue
+ce que fait la diplomatie au détriment de ce qui la
+constitue en tant que telle. En d'autres termes, l'erreur
+consiste à prendre une fonction, quelle qu'elle soit,
+pour l'identité ou la nature de la diplomatie.
+
+
+Qu'est-ce que la diplomatie ? Le terme a une
+extension large, mais l'essentiel a trait aux relations
+internationales. Dans l'Encyclopédie Larousse, on en
+trouve plusieurs déclinaisons. La diplomatie désigne,
+premièrement, l « action et [la] manière de représenter
+son pays auprès d'une nation étrangère et dans les
+négociations internationales » ; ensuite, elle renvoie à
+la « politique extérieure d'un pays, d'un gouvernement
+» ; enfin, la diplomatie est la « branche de la science
+politique qui concerne les relations internationales ».
+Elle réfère donc au moins à trois réalités distinctes :
+elle est à la fois une activité particulière, un secteur
+d'intervention de l'État et une sous-spécialisation de la
+science politique. Mais le mot peut aussi servir à
+désigner, au sein de la fonction publique, la carrière
+consacrée à représenter un pays ou l'ensemble des
+personnes qui relèvent de cette fonction. Il nous reste à
+reconnaître l'usage ordinaire du terme. On parle, dans
+ce cas, de diplomatie pour faire référence, souvent
+métaphoriquement, au tact et à l'habilité censés définir
+l'action diplomatique. Ici, le terme s'applique à tout
+comportement ou attitude qui correspond à cette
+manière de se conduire. On verra néanmoins plus loin
+que l'étymologie du concept révèle une tout autre
+histoire.
+
+
+Ce manuel vise à délimiter le champ particulier de la
+diplomatie, à partir d'un examen de sa nature et de ses
+fonctions. À ce titre, on accordera à différents usages
+du terme une importance contextuelle, le contenu
+variant d'un chapitre à un autre. Dès lors, l'objet de
+cette introduction est de préciser davantage l'identité
+du concept « diplomatie », notamment en le situant
+dans son rapport à la politique étrangère. Cette
+introduction procède en trois parties. Dans un premier
+temps, elle retrace l'évolution historique de pratiques
+définies comme diplomatiques, en prenant le contre-
+
+
+pied des récits conventionnels qui privilégient la Grèce
+comme point d'ancrage. Notre lecture est en rupture
+avec l'approche la plus répandue dans la littérature
+(Berridge, 2015), mais elle reflète les derniers travaux
+d'archives sur l'histoire de la diplomatie. L'introduction
+nous mène, ensuite, aux débats autour des questions
+relatives à la théorisation de la diplomatie. Le tout
+débouche, enfin, sur un examen renouvelé du concept
+de « diplomatie », tant pour préciser davantage sa
+nature que son contenu, lesquels en fondent
+l'entreprise disciplinaire.
+
+
+Le phénomène diplomatique dans
+l'histoire
+
+
+Quand ils cherchent à en capter l'évolution, les textes
+sur la diplomatie débutent souvent par une omission :
+les normes, institutions et instruments (protocole, note
+et traité, etc.) de la diplomatie existaient bien avant les
+périodes grecque ou florentine qui les accaparent. En
+effet, pendant près de deux mille ans (c'est-à-dire entre
+2500 et 609 av. J.-C. environ)¹, le Proche-Orient ancien
+a connu des échanges dont la forme s'apparente à ce
+qui est saisi actuellement sous le nom de diplomatie.
+Par conséquent, les recherches récentes sur l'histoire
+de la diplomatie plaident pour une reconnaissance de la
+diversité de ses origines, voire son décentrement
+(Sharlach, 2005). Cohen (2001) postule, par exemple,
+qu'il existe une « grande tradition » de la diplomatie
+qui va de la période mésopotamienne à l'époque
+romaine, en passant par la Grèce antique. $\dot{A}$ l'appui de
+sa thèse, Cohen souligne
+que l'on peut déceler d'un
+point historique à l'autre
+certes, avec des variations
+plus ou moins notables
+une série d'idées, de normes,
+de pratiques et de rôles structurant les rapports entre
+
+
+entités
+politiques, parfois souveraines, lesquelles
+caractérisent encore aujourd'hui les interactions
+diplomatiques (Weinfeld, 1993). Une telle réorientation
+de l'histoire de la diplomatie fait précéder les formes
+classique et moderne (encore appelées européennes
+par certains) d'une touche proche-orientale qui, à
+maints égards, renouvelle la lecture qui était faite des
+deux autres jusque-là. Il s'agit, dans ce qui suit, de
+préciser comment.
+
+
+La diplomatie du Proche-Orient ancien désigne
+un ensemble de normes, d'instruments et d'institutions
+sédimentés au cours du temps, grâce notamment aux
+pratiques des différentes dynasties qui se sont succédé
+dans ce qui constitue actuellement l'assiette territoriale
+de l'Irak. Des documents datant de 2500 av. J.-C.
+évoquent l'existence d'envoyés ou messagers des rois.
+On parle souvent, ici, de diplomatie cunéiforme, dans la
+mesure où le médium de communication est l'écriture
+du même nom mise au point en Basse Mésopotamie,
+entre 3400 et 3200 av. J.-C. Outre un système d'envoyés
+royaux, une langue (le sumérien) et une écriture
+partagées, la diplomatie cunéiforme comporte tout un
+réseau complexe de relations entre les rois liés par la
+fraternité, l'obligation de réciprocité, une forme
+embryonnaire de protocole, les bases d'une éthique de
+la négociation, l'échange des cadeaux et les rudiments
+d'une bureaucratie chargée de recevoir et d'attribuer
+des tâches à des envoyés, de gérer la correspondance
+et d'archiver les documents (Cohen, 2017, 22).
+Cependant, durant cette période, il n'y a pas en tant
+que telle d'immunité diplomatique. Les envoyés sont
+néanmoins protégés contre toute atteinte à leur
+intégrité physique.
+
+
+Une partie importante des pratiques diplomatique du
+Proche-Orient ancien nous est parvenue grâce à des
+tablettes d'argile découvertes en différents sites. Deux
+
+
+corpus en forment le noyau. Le premier, les Archives
+royales de Mari (1700-1670 av. J.-C.), a été mis au jour
+en Syrie. Dans celui-ci, les normes, outils et organismes
+chargés de la diplomatie s'épaississent. Par exemple,
+les envoyés sont désormais différenciés en fonction de
+leur rang. Certains sont de simples messagers alors
+que d'autres peuvent négocier et signer des traités au
+nom de leur souverain, ce qui en fait l'équivalent actuel
+des ambassadeurs plénipotentiaires. Ces deniers sont
+reconnus, dans les textes, comme les représentants des
+rois et reçoivent à ce titre les honneurs dus aux
+souverains dont ils sont les mandataires. Certains de
+ces nouveaux diplomates résident sur le lieu de
+représentation pendant de nombreuses années. Il
+semble que cette période consacre aussi l'apparition
+des « lettres d'accréditation » et des « passeports
+diplomatiques ».
+
+
+Les Archives d'Amarna, découvertes en Égypte,
+fournissent des enseignements supplémentaires². La
+pierre angulaire du système d'Amarna, c'est
+l'émissaire, doté de talents diplomatiques
+exceptionnels. Les émissaires négociaient, au nom des
+souverains, différents types d'accords, aussi bien des
+mariages que des traités commerciaux. Les Archives
+confirment en même temps l'imbrication entre rituel et
+diplomatie, la réciprocité comme principe de base des
+interactions entre royaumes, le rôle prégnant du
+protocole dans la conduite des affaires diplomatiques et
+la place cruciale de l'échange des cadeaux à la fois
+dans la construction et dans la consolidation des liens
+diplomatiques.
+
+
+La diplomatie classique renvoie tant à l'héritage de
+la Grèce antique³ qu'à celui de la République romaine
+(509 à 27 av. J.-C.) et de l'Empire romain (27 av. J.-C. à
+641 apr. J.-C., correspondant à la chute de l'Empire
+romain d'Orient). L'extraordinaire imbrication entre les
+
+
+deux mondes, étayée par les travaux de Paul Veyne
+(2005), ne doit pas oblitérer l'identité singulière des
+processus diplomatiques d'un espace à l'autre. La
+diplomatie grecque de l'époque est, en quelque sorte,
+tournée essentiellement vers l'intérieur puisque sa
+préoccupation principale consiste à réguler les
+interactions entre les cités États. La diplomatie n'y est
+pas considérée comme une tâche importante de l'action
+du gouvernement. Les décisions concernant les
+rapports avec les autres entités se prennent en public.
+Par ailleurs, contrairement
+à
+la période
+mésopotamienne, la diplomatie de la Grèce classique se
+distingue notamment par un protocole très léger, voire
+inexistant. Les diplomates envoyés à Athènes ne sont
+pas protégés, et il n'est pas rare qu'ils soient exécutés.
+
+
+Cela dit, la Grèce antique, surtout durant l'ère
+hellénistique, a contribué au développement ou au
+renforcement de certaines institutions diplomatiques.
+Par exemple, au $vI^{e}$ siècle av. J.-C., Sparte invente le
+mécanisme d'alliance multilatérale afin de garantir la
+sécurité et de préserver la paix commune. Deux autres
+institutions singularisent le phénomène diplomatique
+de cette époque. D'une part, il y a le recours à
+l'arbitrage comme moyen de résolution des différends.
+D'autre part, s'impose l'appel au proxenos, citoyen de
+l'État dans lequel il réside, chargé de protéger les
+intérêts des citoyens de l'État dont il est le
+représentant. Mais le proxenos reste loyal à son État
+d'appartenance et non à celui dont il a accepté de
+défendre les intérêts auprès du sien. Enfin, il semble
+que le titre de proxenos ait souvent été porté de
+manière héréditaire (Gerolymatos, 1986).
+
+
+En dépit de pratiques très lacunaires, la diplomatie
+de la Grèce antique a fourni au modèle romain un
+certain nombre d'éléments, notamment l'usage de
+
+
+l'arbitrage dans la résolution des conflits. Mais la
+République romaine et l'Empire romain sont rarement
+associés à la diplomatie. On préfère relater leurs
+prouesses militaires. Ainsi, Harold Nicolson (1953, 14)
+affirme que les Romains n'ont pas développé de
+méthode diplomatique notable, à cause de leur
+tendance à privilégier la coercition militaire au
+détriment de la négociation sur la base des principes de
+réciprocité. Une telle position résiste peu à l'épreuve
+des faits, cependant. Si Rome est devenue un empire,
+elle le doit autant à son génie militaire qu'à son habilité
+diplomatique. Brian Campbell (2001) montre bien que,
+dans sa conquête de l'Italie, Rome, qui n'était alors
+qu'une petite cité du Latium parmi d'autres, a usé
+tantôt de la guerre, tantôt de la négociation pour
+densifier son réseau d'alliés. Et, dit-il, comment
+expliquer la loyauté indéfectible de nombreux alliés de
+Rome lors de l'invasion d'Hannibal (218-203), si ce
+n'est par le pouvoir de persuasion et de séduction de la
+République romaine ?
+
+
+La diplomatie de la République ou celle de l'Empire
+est d'abord une affaire de contacts personnels. Sa
+formalisation reste fragile (Eilers, 2009). On notera
+néanmoins que la signature des traités, comme la
+déclaration de guerre, est soumise à un rituel
+scrupuleusement exécuté, présidé par le collège des
+Fétiaux (collège des prêtres de la Rome antique). Ledit
+rituel a pour fonction de s'assurer que les actes sont
+accomplis conformément aux prescrits religieux. En ce
+sens, la diplomatie de la Rome antique est placée sous
+l'autorité et la protection des dieux (Saulnier, 1980).
+Responsables devant le Sénat, les envoyés de l'État
+romain ont un droit d'initiative limité dans leurs
+transactions avec les entités étrangères. Le Sénat peut
+en effet détricoter tout ce qu'ils ont discuté ou scellé
+avec les États étrangers.
+
+
+Les principales fonctions de la diplomatie romaine
+consignées par la littérature sont : la construction de la
+paix, le partage des butins de guerre, la signature des
+traités, la résolution des différends commerciaux et la
+régulation du commerce. Une telle variété d'échanges
+requiert l'usage d'une langue commune. Mais il n'y
+avait pas de langue diplomatique établie, même si le
+grec, et à certains égards le latin, avait tendance à être
+couramment usité en diplomatie. Par conséquent, dans
+la plupart des interactions avec l'étranger, les autorités
+romaines recouraient à des traducteurs.
+
+
+La diplomatie moderne est tributaire de la
+Renaissance italienne (Fletcher, 2015). Mais on sait
+maintenant que la Renaissance italienne n'a pas
+inventé la diplomatie. En revanche, elle a introduit de
+nombreuses innovations, au niveau des acteurs, d'une
+part, et sur le plan de la conduite de la diplomatie,
+d'autre part.
+
+
+Au niveau des acteurs, tout d'abord, la diplomatie
+moderne ne rompt pas radicalement avec le passé,
+mais elle prolonge et stabilise les avancées de la
+période médiévale. La figure de l'ambassadeur
+(ambactiare
+<<
+aller en mission »), par exemple,
+apparaît au $XIII^{e}$ siècle en Italie ; mais elle porte en elle
+les traces de deux autres types d'envoyés jadis
+mandatés par différentes entités politiques pour
+communiquer les unes avec les autres : celle du nonce
+(nuncius) et celle du procurateur (procurator). Le
+nonce agit comme une « lettre vivante » (Queller, 1984,
+201), en ce sens qu'il récite au destinataire le contenu
+du message confié oralement par l'expéditeur. Il ne
+peut sortir des termes rigoureusement stipulés par le
+mandat qu'il reçoit. Porteur de la volonté d'un autre, le
+nonce est un envoyé dont la marge de manœuvre est
+nulle. La distance entre les entités en interaction
+
+
+rendait la tâche des nonces très laborieuse, puisque
+toute nouvelle information susceptible de le faire dévier
+du mandat reçu devait être confirmée par le
+mandataire. Ce qui, par conséquent, impliquait des
+allers-retours assez fréquents et une perte de temps
+considérable, notamment pour des situations exigeant
+une décision rapide. Dès le milieu du Moyen Âge, donc,
+une nouvelle forme de représentant se développe. Ce
+sont les procurateurs.
+
+
+Contrairement au nonce, le procurateur jouit d'un
+droit d'initiative. Non seulement il peut négocier les
+termes d'un accord avec un souverain étranger, mais il
+est aussi habilité à conclure ledit accord au nom du
+souverain qui l'a mandaté. Le champ d'activité du
+procurateur s'étendait aux affaires privées. Par
+exemple, le conseiller de Frédéric II, Peter della Vigna,
+représenta l'empereur lors de son mariage avec
+Isabelle d'Angleterre en 1235. C'est donc avec Peter
+della Vigna et non avec Frédéric II qu'Isabelle
+échangea alliances et consentements.
+
+
+L'usage du titre d'ambassadeur est, quant à lui,
+difficile à circonscrire, en tout cas au début. En effet,
+on appelait « ambassadeur » toute personne chargée
+d'une mission publique à finalité pacifique (Maulde la
+Clavière, 1892-1893). Ainsi, même des citoyens
+ordinaires pouvaient avoir leurs ambassadeurs auprès
+d'autres citoyens.
+
+
+Pour nous, en réalité, le plus important concerne les
+circonstances qui entourent l'émergence de la figure de
+l'ambassadeur résident, entre le milieu du Moyen Âge
+et le $Xv^{e}$ siècle. La fréquence et la densité des
+échanges, d'une part, et la durée des missions, d'autre
+part, ont convaincu les souverains que la résidence
+était le moyen le plus efficace et sans doute le plus
+économique pour permettre à l'ambassadeur de
+
+
+conduire sa mission. De plus, la résidence permettait à
+l'ambassadeur de se soustraire
+à
+l'attention
+permanente, et donc à l'interprétation de ses moindres
+faits et gestes, qui accompagnait souvent les envoyés
+ad hoc. Les principales fonctions dévolues à
+l'ambassadeur durant cette période impliquent la
+collecte et la transmission des informations à son
+souverain et la fonction de représentation cérémonielle,
+par exemple à l'occasion d'un mariage, d'une naissance
+ou d'un décès. À noter, cependant, que l'ambassadeur
+vénitien ne disposait pas toujours d'un droit d'initiative.
+En effet, il lui était souvent demandé de noter les
+termes de la discussion, les intentions de l'autre partie
+et de les transmettre à Venise. Aucune décision de sa
+part ne pouvait intervenir avant l'avis formel de Venise.
+En d'autres termes, il semble, en pratique, qu'en
+fonction des circonstances, l'ambassadeur résident
+s'apparentait tantôt à un nonce, tantôt à un
+procurateur.
+
+
+Sur le plan de l'organisation matérielle, la diplomatie
+moderne a favorisé la diffusion de nouvelles institutions
+et de pratiques inédites. Parmi les avancées éminentes
+de cette période, on peut en retenir quatre. Primo, si
+jusqu'au $XVI^{e}$ siècle, il suffisait de prêter serment sur
+un traité pour que ledit serment soit reconnu comme
+valide, dès le $XVII^{e}$, la ratification (signature et
+apposition d'un sceau sur le document) devient la
+norme. Secundo, on assiste à la généralisation des
+lettres de créance (c'est-à-dire du document signé par
+le souverain mandataire qui le confie au nouvel
+ambassadeur afin qu'il le transmette au chef d'État ou
+de gouvernement du pays hôte)4. Tertio, l'organisation
+de grandes conférences « multilatérales » s'impose
+comme mécanisme privilégié pour régler les problèmes
+internationaux les plus urgents (exemples : le congrès
+
+
+de Cateau-Cambresis de 1559, le congrès de
+Westphalie de 1643-1648, le congrès de Vienne de
+1815, le congrès de Paris de 1856, le congrès de Berlin
+de 1878). Enfin apparaissent des chancelleries
+capables de conduire les relations diplomatiques de
+manière continue et le système des immunités se
+consolide.
+
+
+Au cours de cette période, la France, devenue l'une
+des puissances dominantes de l'Europe, contribue à
+professionnaliser les pratiques diplomatiques, à un
+point tel que l'on peut parler d'un système
+diplomatique à la française à côté du système italien
+hérité de Venise. En 1626, le cardinal Armand de
+Richelieu met sur pied un ministère des Affaires
+étrangères pour tenter d'articuler les différentes
+politiques du royaume avec l'étranger. Par la suite, le
+français devient la lingua franca des échanges
+diplomatiques. Le point culminant de cette codification
+des pratiques est la Convention de Vienne sur les
+relations diplomatiques, signée le 18 avril 19615.
+
+
+Réflexions
+
+
+diplomatie
+
+
+théoriques
+
+
+sur la
+
+
+Longtemps considérée comme un champ dénué de
+spécificité vis-à-vis notamment de la politique
+étrangère, l'étude de la diplomatie a souffert d'une
+prise en compte théorique limitée. Ce déficit de
+théorisation est également soutenu par l'attitude anti-
+théorique d'un segment important de l'un des publics
+destinataires des études diplomatiques : les diplomates
+eux-mêmes. Mais dans les deux cas, au fond, il semble
+que le problème réside dans le désaccord sur le sens et
+les fonctions de la théorie. Pour nous, la théorie doit
+permettre d'analyser, parfois de décrire avec un
+
+
+supplément d'information ou d'expliquer ce qu'est la
+diplomatie et comment elle opère, à la fois dans la
+longue durée et dans le quotidien. La théorie peut aussi
+favoriser une ambition plus réflexive de la part des
+diplomates, en interrogeant leurs pratiques, en les
+comparant à celles des autres, dans l'espace et dans le
+temps. Si la modestie, le charme et le tact doivent
+caractériser le diplomate (Nicolson, 1939, 126), le
+retour critique sur ses mots et ses actes devrait faire
+partie de ses qualités. La théorie est l'un des
+instruments, peut-être le plus efficace, qui y mène. De
+manière plus disciplinaire, la théorisation de la
+diplomatie peut servir à mieux spécifier les rapports
+entre les études diplomatiques et les autres branches
+du savoir en relations internationales, au premier chef
+desquelles la politique étrangère et, dans une certaine
+mesure, la défense et l'économie.
+
+
+Dans la littérature, les débats actuels découlent d'une
+difficulté partagée : l'explosion des activités et des
+acteurs que l'on qualifie ou que l'on juge de
+diplomatiques pose la question des frontières ou de ce
+qui est typique du phénomène. Le débat n'est pas
+nouveau, mais depuis les années 1980, il a tendance à
+structurer les choix faits par les uns et par les autres
+concernant le centre de gravité de la théorisation en
+études diplomatiques. Un groupe, dans lequel on
+retrouve Nicolson et Berridge par exemple, situe la
+diplomatie dans l'environnement des rapports de
+sécurité interétatiques. En ce sens, la diplomatie
+s'occupe d'abord, voire exclusivement, de haute
+politique. L'autre groupe prend le contre-pied de cette
+approche, en postulant que la diplomatie est beaucoup
+plus extensive que ne le laissent entendre les tenants
+d'une approche de la haute politique. Elle couvre non
+seulement les questions de sécurité, mais aussi, au
+moins, les enjeux commerciaux et culturels (cf.
+
+
+Langhorne, 2004 ; Lee et Hudson, 2004 ; Hocking,
+1999). Et, à ce titre, le nombre d'acteurs impliqués
+déborde le cadre de la diplomatie traditionnelle
+dominée par les diplomates mandatés par les États.
+
+
+Au vrai, il ne faut pas une sagacité démesurée pour
+constater que les activités relatives à la diplomatie ont
+explosé et que le nombre d'acteurs qui y sont associés
+est lui aussi en croissance régulière (Kerr et Wiseman,
+2017, 1-18). Mais cela ne résout pas la question de la
+théorie diplomatique. Certes, on peut examiner le rôle
+de ces nouveaux acteurs et la manière dont ils
+transforment ou pas le champ ou la perception de
+l'activité diplomatique. De même, on peut analyser
+méticuleusement, comme s'y attache la troisième partie
+de ce manuel, les différents secteurs de la diplomatie
+(économique, humanitaire, etc.). Mais la question de ce
+qu'est la diplomatie reste entière.
+
+
+Pour préciser davantage la spécificité de l'activité
+diplomatique, laquelle pourrait servir de support à la
+théorisation, plusieurs auteurs ont fait quelques
+suggestions, avec des niveaux de pertinence variables.
+Certains proposent de faire ressortir ce qui constitue
+l'activité principale du diplomate. Les recherches
+portent, pour l'essentiel, sur deux fonctions : la
+représentation et la négociation. Par exemple, en écho
+à Richelieu qui définissait се que l'on nomme
+maintenant diplomatie comme une négociation
+permanente, William Zartman (2008) considère que la
+négociation est au cœur de l'activité du diplomate.
+Partant, étudier la diplomatie équivaut à examiner les
+mécanismes de négociation (Schelling, 1966
+;
+Petiteville et Placidi-Frot, 2013 ; Rosoux, 2013, 795-
+821). La fonction de négociation relève en réalité d'une
+activité plus large : la communication. En effet, quand il
+ne vise pas à trouver un terrain d'entente entre parties,
+le diplomate travaille à éviter que des désaccords ne se
+
+
+transforment en conflits ou, plus en amont, à réduire la
+possibilité de tels désaccords. Quand elle n'est pas
+minée par la propagande, une des tâches dévolues à la
+diplomatie publique n'est-elle pas, justement, de
+fluidifier les rapports entre acteurs du système
+international en créant les conditions favorables à la
+communication des intentions des uns et des autres ?
+Pour Paul Sharp (1999), à la communication, il faut
+ajouter la représentation pour comprendre ce qui
+distingue la diplomatie des autres pratiques du système
+international. Car le diplomate agit et parle au nom
+d'un souverain, dont il représente les intérêts et
+l'identité. Dans ce contexte, la diplomatie est un outil
+d'ajustement, puisque c'est à travers elle que les
+acteurs investis d'intérêts et d'identités différentes en
+viennent à construire intersubjectivement, dira-t-on,
+une compréhension mutuelle. En un mot,
+«
+la
+diplomatie est démarquée par l'aliénation », la gestion
+de l'altérité (Der Derian, 1987, 96
+
+
+Constantinou, 1996).
+
+
+;
+
+
+cf. aussi
+
+
+D'autres chercheurs tentent, quant à eux, de saisir le
+quotidien du diplomate et ses effets supposés ou réels
+sur la structuration de l'ordre mondial. Par exemple,
+Geoffrey Wiseman (2015), Vincent Pouliot et Jérémie
+Cornut (2015) invitent à s'intéresser aux pratiques des
+acteurs afin de mieux tracer comment leurs activités
+permettent de comprendre certains contours du
+système international.
+
+
+En somme, la théorisation de la diplomatie oscille
+entre la quête d'une essence et l'étude de
+micropratiques, parfois en vue d'une montée en
+généralité, parfois pour saisir hic et nunc, à travers une
+description dense à la Geertz, ce que fait le diplomate
+(Barber, 2016; Lequesne, 2017 ; Neumann, 2012).
+Dans tous les cas cependant, aucune de ces initiatives
+théoriques n'a encore débouché sur une réelle
+
+
+caractérisation de ce qui distingue la diplomatie
+d'autres activités. En effet, négocier, communiquer,
+représenter sont des fonctions que l'on retrouve
+couramment dans d'autres secteurs d'activité, tant
+publics que privés. La diplomatie se retrouve donc
+confrontée au même risque que les études stratégiques
+il y a quelques décennies. On en connaît hélas l'issue :
+une dilution et une perte de consistance du concept de
+stratégie devenu un signifié protéiforme.
+
+
+Retour
+
+
+sur le concept de
+
+
+diplomatie »
+
+
+Comment sortir de cette impasse ? Peut-être en
+recourant à l'étymologie du concept de « diplomatie »
+(Leira, 2016, 28-38)6. Jusqu'ici, en effet, nous avons
+employé се terme de manière ouverte, par
+transposition des pratiques à un terme qui n'existait
+pas dans son usage actuel. Nous ne sommes pas les
+seuls à recourir à
+un tel artifice. La plupart des textes
+procèdent de la
+sorte, mais l'erreur est de s'en
+contenter. Et elle est courante. Dans ce cas, engager
+une réflexion sur les contours distinctifs de la
+diplomatie peut être périlleux.
+
+
+Le terme « diplomatie » est d'origine grecque, et à
+double usage. D'une part, en tant que verbe - diploo -,
+il renvoyait à un double pliage et, d'autre part, en tant
+que nom diploma -, il désignait, tout au long du
+Moyen Âge, des documents officiels pliés d'une
+manière singulière et qui conférait à leur porteur des
+droits et des privilèges. À la Renaissance, les diplomas
+sont associés à des actes du pape. En particulier, un
+diploma est une lettre de nomination papale. Ces
+lettres sont écrites par un clerc que l'on appelle un
+diplomatarius. L'ensemble des méthodes nécessaires à
+
+
+«
+
+
+la vérification de l'authenticité de ces documents sera
+identifié, dès la fin du $XVII^{e}$ siècle, sous le vocable
+diplomatica. C'est d'ailleurs dans ce sens que le mot
+fait irruption pour la première fois dans le Dictionnaire
+de l'Académie française de 1762.
+
+
+Durant la même période, on assiste de manière
+concomitante à une extension du terme diploma. Non
+seulement il continue de renvoyer à des documents
+attribuant des privilèges à certains individus, mais le
+terme diploma en vient progressivement à désigner
+également, par une série d'associations peu commodes
+à démêler, la collection de documents officiels et de
+traités conclus entre différents souverains. Ainsi, parce
+qu'il s'inscrit dans le contexte des traités entre entités
+souveraines, l'adjectif dérivé de diploma, diplomatique,
+sera associé aux activités des envoyés d'un souverain
+auprès d'une autre cour. D'où le lien entre activité
+diplomatique, d'une part, paix, guerre et alliance,
+d'autre part.
+
+
+Une évolution formellement similaire à celle
+expérimentée par le terme diploma s'est emparée de la
+notion de corps diplomatique. Si, au $XVII^{e}$ siècle, le
+corps diplomatique est analogue au corps du droit des
+gens, dès le milieu du XVIIIe, il commence à désigner
+l'ensemble des ministres accrédités auprès d'une cour
+(Leira, 2016, 31). Enfin, le terme « diplomatie » fait son
+entrée dans l'édition de 1798 du Dictionnaire de
+l'Académie française et signifie « Science des rapports,
+des intérêts de Puissance à Puissances ». Dans le
+dictionnaire Webster de 1817, la diplomatie est
+abordée de manière plus large, puisqu'elle couvre
+désormais
+<<
+les coutumes et règles des ministères
+publics, les formes de négociation ; le corps des
+ambassadeurs et des envoyés ». À peu de chose près, la
+définition de la diplomatie telle qu'elle nous est
+
+
+parvenue. En somme, outre les variations conceptuelles
+rythmées par les soubresauts de l'étymologie, on peut
+souligner que la diplomatie s'inscrit dans un domaine
+pratique distinct : celui de la guerre, de la paix et des
+alliances. En d'autres termes, celui de la politique. À
+cet égard, tout ce que l'on qualifie exagérément de
+nouvelles « diplomaties » (humanitaire, culturelle ou
+autres) sert d'abord ces objectifs premiers de la
+diplomatie.
+
+
+Qu'en est-il alors de son rapport à la politique
+étrangère ? Certaines ambiguïtés institutionnelles
+n'offrent aucun secours à qui voudrait les différencier.
+À l'International Studies Association (ISA), il y a bien
+une section spécialisée d'analyse de la politique
+étrangère, laquelle est arrimée à la revue Foreign
+Policy Analysis. En plus, il y a une section sur les
+études diplomatiques. Ce découplage est surprenant
+quand on sait combien il est difficile de faire
+reconnaître une section autonome à l'ISA. En réalité, à
+notre avis, diplomatie et politique étrangère évoluent à
+des niveaux distincts mais complémentaires. La
+politique étrangère se situe à un niveau méta. Elle
+formule les objectifs que la diplomatie exécute. Certes,
+la diplomatie est de l'ordre des moyens et des
+instruments. Mais elle participe aussi de la forme que
+prennent les interactions. Un mauvais ambassadeur
+peut faire dérailler des années de relations sereines.
+Ainsi, la diplomatie concerne l'ensemble des
+instruments et des pratiques à travers lesquels les
+acteurs, pas seulement les États, entretiennent,
+coordonnent et réalisent leurs identités, intérêts et
+valeurs.
+
+
+À propos de ce manuel
+
+
+Dans le champ des relations internationales, les
+études diplomatiques font l'objet d'un fort regain
+d'intérêt récent, tant académique que pratique.
+L'élargissement de la scène diplomatique aux acteurs
+sociétaux mais aussi aux puissances émergentes ne
+peut constituer le seul facteur explicatif. D'autres
+paramètres doivent être pris en considération. $\dot{A}$ titre
+non limitatif, on peut souligner plusieurs vecteurs :
+
+
+la diversification des répertoires d'action dans un
+environnement marqué par les préoccupations liées à
+l'image et à la réputation (branding) favorise l'essor de
+la diplomatie publique ;
+
+
+la résonance de cette diplomatie avec les dispositifs
+de lutte contre le terrorisme ;
+
+
+la pression de la contrainte budgétaire sur les
+politiques publiques oblige à redéfinir les conditions de
+l'action diplomatique ;
+
+
+l'essor des technologies de l'information et de la
+communication associé à la sophistication des moyens
+de
+navigation numérique interroge le travail
+diplomatique ;
+
+
+la prise en compte des émotions et des affects afin
+de rendre intelligible l'activité diplomatique ;
+
+
+le développement des organisations
+intergouvernementales, notamment régionales,
+entraîne la formation de nouveaux espaces
+diplomatiques, ceux de la coopération inter-
+organisationnelle et de l'inter-régionalisme.
+
+
+Tous les secteurs d'intervention diplomatique (de la
+sécurité au commerce en passant par la finance, la
+culture ou l'environnement) sont influencés par ces
+recompositions. Contrairement au marché anglophone
+qui a vu la publication de plusieurs ouvrages de
+référence, culminant dans le Oxford Handbook of
+Modern Diplomacy (2013), le marché français reste
+fragmenté en termes d'offres. Ce livre constitue donc, à
+
+
+notre connaissance, le premier manuel de diplomatie
+en langue française. La question de l'adaptation des
+outils diplomatiques (classiques ou modernes) irrigue
+l'ensemble. Si la dimension diplomatique dans les
+relations internationales est traitée dans de nombreux
+ouvrages, elle ne fait pas l'objet d'un examen
+spécifique. Les ouvrages existants portent plutôt sur le
+métier de diplomate, plus rarement sur la sociologie de
+ce métier (rapport au ministère de
+Loriol, Piotet et
+Delfolie publié chez Hermann en
+2013). D'autres
+abordent un aspect particulier de la diplomatie, par
+exemple la négociation (Petiteville et Placidi-Frot,
+2013). Cela dit, la plupart des textes de référence
+accordent une place importante à la diplomatie. Dans le
+Traité de relations internationales (Thierry Balzacq et
+Frédéric Ramel, 2013), par exemple, plusieurs facettes
+de la diplomatie sont abordées (histoire diplomatique,
+analyse des conflits, négociation internationale,
+diplomatie publique, politique étrangère, etc.). Mais
+qu'ils soient plus ouverts, comme les Handbooks et les
+Traités, ou concentrés sur une thématique, ces textes
+présupposent souvent une bonne connaissance des
+relations internationales.
+
+
+Ce manuel de diplomatie a une ambition plus ciblée
+et tous les chapitres occupent un registre identique : il
+s'agit de fournir une introduction aux études et à la
+pratique de la diplomatie. En termes prosaïques, il offre
+un premier contact avec la diplomatie. Le manuel se
+déploie au diapason des premiers cycles universitaires,
+mais sa lecture ne nécessite pas une formation de base
+en science politique et/ou en relations internationales.
+Elle requiert en revanche une dose de curiosité
+intellectuelle et une certaine culture générale.
+
+
+Le manuel est organisé en trois parties. La première
+examine à la fois les environnements au sein desquels
+se pense et se construit la diplomatie et les différentes
+
+
+configurations qu'elle peut revêtir, du bilatéralisme ou
+multilatéralisme en passant par les nuances
+intermédiaires possibles (diplomatie de clubs et de
+groupes, paradiplomatie, etc.). De plus, elle étudie les
+supports de la diplomatie, là aussi, depuis les plus
+classiques (la négociation, les rituels et protocoles)
+jusqu'aux nouvelles technologies de l'information et de
+la communication. La deuxième partie se concentre
+davantage sur les acteurs qui participent à la
+diplomatie. Elle couvre donc non seulement les États,
+mais aussi les acteurs sub et supra-étatiques. Elle
+confirme combien la double pression des entités sub-
+nationales et des organisations internationales et non
+gouvernementales a transformé radicalement la tâche
+des diplomates étatiques. Mais elle complète ce
+diagnostic par des données originales. Ici, par exemple,
+le rôle des parlements occupe une place centrale dans
+la mesure où il pose la question du juste équilibre
+entre, d'une part, la discrétion (ou secret)
+un des
+attributs traditionnels de la diplomatie et, d'autre
+part, la transparence une exigence de certains
+nouveaux acteurs du système international. Enfin, la
+troisième partie examine différents secteurs
+diplomatiques. L'objectif n'est pas de dresser un
+inventaire de toutes les incarnations du phénomène
+diplomatique. Il consiste à tester l'hypothèse selon
+laquelle la diplomatie change de nature en fonction des
+secteurs. Au total, sept secteurs sont ainsi analysés :
+l'économie, la culture, l'environnement, la défense,
+l'humanitaire, l'entertainment et l'expertise. Dans la
+conclusion, nous proposons une discussion des défis
+auxquels est confrontée la diplomatie contemporaine.
+Le manuel suggère quelques méthodes pour les
+négocier avec succès.
+
+
+Bibliographie commentée
+
+
+BARBER Brian, What Diplomats Do. The Life and Work of Diplomats,
+Lanham (Md.), Rowman and Littlefield, 2016.
+
+
+Le livre examine les parcours types de diplomates à travers les
+choix et les contraintes fonctionnels qui sont les leurs. Il discute du
+rôle du diplomate non seulement en se focalisant sur son rang,
+mais aussi sur le contexte de son action (ambassade, siège d'une
+organisation, etc.). Des sections importantes concernent la place du
+diplomate en situation de crise.
+
+
+COHEN Raymond, WESTBROOK Raymond, Amarna Diplomacy. The
+Beginning of International Relations, Baltimore (Md.), Johns Hopkins
+University Press, 2000.
+
+
+Le périmètre du livre est plus large que la question de la
+diplomatie. En partant des textes d'Amarna, son intérêt est
+justement de faire ressortir comment se construisaient les rapports
+entre unités politiques au Moyen-Orient ancien, en examinant le
+poids de la géographie, les relations commerciales et le
+renseignement.
+
+
+CONSTANTINOU Costas M., On the Way to Diplomacy, Minneapolis
+(Minn.), University of Minnesota Press, 1996.
+
+
+Le livre a une ambition de relecture, voire de déconstruction, de ce
+qu'est la diplomatie à travers une étude philosophique du rapport
+entre théorie et pratiques diplomatiques. C'est donc une lecture
+postmoderniste de la diplomatie.
+
+
+EILERS Claude, Diplomats and Diplomacy in the Roman World, Leiden,
+Brill, 2009.
+
+
+Une entrée détaillée de la diplomatie dans la Rome antique.
+
+
+FLETCHER Catherine, Diplomacy in Renaissance Rome. The Rise of the
+Resident Ambassador, Cambridge, Cambridge University Press,
+2015.
+
+
+Même s'il existe des chevauchements entre une partie du contenu
+de cet ouvrage et le précédent, le livre de Fletcher apporte un
+éclairage original sur le développement et la consolidation de la
+figure de l'ambassadeur résident.
+
+
+LEQUESNE Christian, Ethnographie du Quai d'Orsay. Les pratiques des
+diplomates français, Paris, CNRS Éditions, 2017.
+
+
+Cet ouvrage offre une approche ethnographique de la diplomatie
+comme vocation, comme pratique et comme institution. Son terrain
+est le Quai d'Orsay. Examinant les luttes bureaucratiques,
+politiques et idéologiques, l'ouvrage permet d'entrevoir l'évolution
+du rôle de la France dans le monde.
+
+
+NEUMANN Iver B., At Home with the Diplomats. Inside a European
+Foreign Ministry, Ithaca (N. Y.), Cornell University Press, 2012.
+
+
+À bien des égards, l'intuition de cet ouvrage et sa méthode ont
+contribué à ouvrir la voie à une approche ethnographique des
+institutions en relations internationales. Son terrain d'étude est la
+Norvège.
+
+
+SATOW Ernest M., A Guide to Diplomatic Practice, Londres, Longmans,
+Green & Co, 1922.
+
+
+Un classique dans l'étude des règles, normes et conventions qui
+structurent l'activité diplomatique. Le livre a été réédité plusieurs
+fois.
+
+
+SHARP Paul, Diplomatic Theory of International Relations, Cambridge,
+Cambridge University Press, 1999.
+
+
+Un des rares ouvrages à s'attaquer à la question de la théorisation
+en études diplomatiques. Il repose sur une extension de la
+conception de la diplomatie, qui est d'abord traitée sous l'angle de
+l'interaction et de la représentation.
+
+
+1. La période couvre, en gros, un pan conséquent de l'histoire de la
+Mésopotamie, en particulier celui qui renferme la période des cités-États
+de Basse Mésopotamie jusqu'à la chute de l'empire Assyrien en 609 av. J.-
+C. Pour plus de détails, voir, entres autres, Grandpierre (2010); Roux
+(1995).
+
+
+2. L'âge d'El Amarna est souvent associé à l'intervalle 1460-1220 av. J.-C.
+3. En particulier les époques classique (fin du $vt^{e}$ à $IV^{e}$ siècle av. J.-C.) et
+hellénistique $(IV^{e}-I^{er}$ siècles av. J.-C.).
+
+
+4. L'acceptation de la lettre de créance autorise l'ambassadeur à exercer
+ses fonctions dans le pays hôte. Si l'on considère l'étymologie du terme <<<
+créance  (du latin credentia <<< confiance  ou « croyance >>), on notera
+en outre que l'objectif de la lettre de créance est de permettre à
+l'ambassadeur de « trouver créance  auprès du pays hôte, c'est-à-dire
+d'être cru et traité comme étant une personne digne de confiance.
+5. Complétée par la Convention de Vienne sur les relations consulaires de
+1963.
+
+
+6. Voir aussi Satow (1922).
+
+
+Première partie
+
+
+LES VECTEURS
+
+
+Chapitre 1
+
+
+La relation bilatérale
+
+
+Alice Pannier
+
+
+constituent
+
+
+es relations
+bilatérales
+l'élément
+L
+fondateur des relations internationales, ou, comme
+
+
+le suggère Thomas Gomart, « la forme élémentaire du
+jeu diplomatique » (Gomart, 2002, 65). La centralité
+des relations bilatérales peut être constatée sur le plan
+historique, stratégique et numérique. D'abord, sur le
+plan historique. La conduite des relations
+diplomatiques entre deux États par le biais de missions
+officielles commence au XVIIe siècle entre les
+monarchies européennes, et équivaut à ce que l'on
+qualifie de « diplomatie traditionnelle » ou de « vieille
+diplomatie ». Le congrès de Westphalie, en 1648,
+reconnaît un statut égal à tous les États souverains,
+dont la reconnaissance mutuelle passe par l'accueil
+d'agents consulaires étrangers. Cette diplomatie
+
+
+bilatérale, principalement européenne, qui a prévalu
+jusqu'à la première guerre mondiale, était caractérisée
+par le rôle central des ambassades, un fort degré de
+secret dans les négociations, et le tissage de liens par
+les mariages entre les grandes familles gouvernantes,
+qui accompagnaient les rapprochements politiques. Les
+empires coloniaux puis la décolonisation ont ensuite
+entraîné le développement d'une multitude de relations
+bilatérales d'autres formes, entre l'Europe et le reste
+du monde.
+
+
+La centralité de la relation bilatérale dans la
+diplomatie peut ensuite être abordée à travers son rôle
+stratégique, en ce qu'elle permet de promouvoir
+l'intérêt national et structure les négociations
+internationales. La diplomatie bilatérale, par le biais
+des ministères des Affaires étrangères, ambassades et
+consulats, reste en effet le meilleur outil pour la
+poursuite des intérêts d'un État, que ce soit par le
+commerce et les investissements, la promotion de
+l'image et de la culture d'un pays, ou pour
+communiquer avec les diasporas. La relation bilatérale
+est par ailleurs une étape importante pour aborder les
+négociations internationales, puisque les intérêts
+communs se construisent d'abord au niveau bilatéral
+afin de pouvoir constituer des coalitions et mettre en
+avant ces intérêts plus efficacement dans les
+négociations multilatérales. Le rapport bilatéral tend à
+être privilégié lorsque les acteurs y voient un avantage
+tactique, comme le précise Manon-Nour Tannous
+(Tannous, 2017). Ainsi, la relation bilatérale est souvent
+abordée en elle-même comme une interaction
+stratégique, un rapport de force où les acteurs sont
+mus par leurs intérêts propres plutôt que par une
+volonté inclusive. Tout l'enjeu des relations bilatérales
+est alors de parvenir à poursuivre ces intérêts par la
+coopération, sans toutefois porter atteinte à sa
+
+
+souveraineté ou à sa liberté d'action (Devin, 2013, 93-
+
+
+94).
+
+
+Du fait de leur centralité historique et stratégique,
+les relations bilatérales sont également au centre des
+relations internationales sur le plan numérique. Si les
+relations multilatérales ont gagné en diversité et en
+intensité dans la seconde partie du $XX^{e}$ siècle, et plus
+encore depuis les années 1990, et ont fait l'objet d'une
+attention accrue de la part des auteurs de relations
+internationales, les relations bilatérales restent à ce
+jour
+
+
+l'échelon privilégié des accords conclus
+internationalement. L'Organisation des Nations unies
+(ONU) a ainsi recensé entre 1990 et 1999 la signature
+de plus de 5 000 traités bilatéraux. Ceux-ci couvrent les
+domaines économique et financier, politique, militaire,
+etc. Aujourd'hui, les traités commerciaux comme le
+Comprehensive Economic and Trade Agreement (CETA)
+ou le Transatlantic Trade and Investment Partnership
+(TTIP), la sortie prévue du Royaume-Uni de l'Union
+européenne et la fragilisation des grandes alliances
+militaires semblent confirmer la tendance identifiée par
+Newman, Thakur et Timan en 2006 d'une « crise » du
+multilatéralisme, et d'un renforcement relatif du
+bilatéralisme dans le système international (Newman et
+al., 2006).
+
+
+Ce chapitre aborde pour commencer la conduite des
+relations bilatérales, en présentant le rôle des
+différents acteurs, officiels ou non, qui y participent. Il
+examine ensuite les liens entre le niveau bilatéral et le
+niveau multilatéral dans les relations internationales
+contemporaines. Enfin, il s'intéresse à la « qualification
+» des relations bilatérales et montre pourquoi une
+typologie est difficile à établir tant les relations
+bilatérales se caractérisent par leur caractère complexe
+et changeant.
+
+
+La conduite des
+
+
+bilatérales
+
+
+relations
+
+
+Les missions diplomatiques
+et les traités
+internationaux sont les fondements institutionnels des
+relations bilatérales. Les États sont en effet dans une
+situation de « relation diplomatique » dès lors qu'ils
+peuvent communiquer entre eux de manière
+permanente et sans obstacles. Le maintien de ces
+relations diplomatiques dépend d'un accord entre
+lesdits États. Au-delà de la simple capacité de
+communication, la plupart des relations bilatérales sont
+davantage structurées autour des relations entre chefs
+d'État et/ou de gouvernement, des ambassades, des
+acteurs privés et des relations entre les sociétés civiles.
+
+
+Les relations entre chefs d'État et de gouvernement
+
+
+Les visites officielles rythment les relations
+bilatérales. Elles peuvent impliquer les ministres des
+Affaires étrangères et éventuellement des ministères
+techniques tels que la Défense ou l'Économie. Les
+visites d'État impliquent le chef d'État et constituent le
+plus haut niveau de contact diplomatique entre deux
+États. Elles sont accompagnées d'un ensemble de
+cérémonies et durent généralement plus d'une journée.
+En dessous des visites d'État se situent les visites
+officielles (ou visites de travail), qui peuvent impliquer
+le chef d'État (monarque, président, etc.) ou de
+gouvernement (Premier ministre, chancelier, etc.). Les
+sommets bilatéraux impliquent également les chefs
+d'État et de gouvernement et ont la particularité de se
+tenir de façon régulière, selon une périodicité établie
+par les partenaires impliqués. Les pays européens ont
+multiplié les sommets bilatéraux (annuels ou biennaux)
+qui servent notamment aux pré-négociations en amont
+
+
+des sommets de l'UE. Outre les pays voisins et/ou
+alliés, il existe de nombreux cercles de partenariats
+donnant lieu à des rendez-vous au sommet, tels que les
+partenariats globaux, partenariats stratégiques et
+dialogues politiques de sécurité entretenus par un État
+avec des régions particulières.
+
+
+Sommets et visites remplissent des fonctions variées.
+Par exemple, ils permettent d'envoyer des signaux
+diplomatiques quant à l'importance de la relation
+bilatérale en question, de consolider la relation, de
+faire avancer les dossiers qui ne peuvent pas ou plus
+être traités au niveau des ambassades et de signer des
+déclarations et/ou accords contraignants (traités ou
+accords
+
+
+concernant
+
+
+intergouvernementaux
+commerce, la coopération technique, etc.).
+
+
+le
+
+
+Du fait du rôle structurant de ces rencontres pour les
+relations bilatérales, plus que pour n'importe quel
+autre type de relation internationale, on insiste sur
+l'identité et sur le rôle des chefs d'État et de
+gouvernement, et sur la qualité de leurs relations
+interpersonnelles. Celles-ci sont considérées comme
+affectant directement la teneur des rapports bilatéraux
+et les avancées possibles en termes de coopération ou
+de règlement des contentieux. C'est particulièrement le
+cas dans l'étude des relations entre régimes
+démocratiques. Une perspective d'histoire
+diplomatique revient alors à étudier leurs rapports via
+les déclarations, gestes et symboles accompagnant les
+rendez-vous bilatéraux. Lorsque les archives
+diplomatiques sont ouvertes, on peut par ailleurs avoir
+accès aux notes préparatoires aux visites, ainsi qu'aux
+courriers. Les mémoires écrits par les chefs d'État et
+de gouvernement à la fin de leur(s) mandat(s) sont
+également une source d'information importante pour
+saisir la nature des rapports entre chefs d'État et/ou de
+gouvernement.
+
+
+>>
+
+
+Le rôle des ambassades
+
+
+Si l'identité des chefs d'État et de gouvernement pèse
+dans la balance pour marquer les grandes étapes (de
+progrès ou de recul) d'une relation bilatérale,
+le
+fonctionnement quotidien, routinier de celle-ci  et, de
+fait, la préparation même de ces « grands rendez-vous
+résulte du travail des diplomates et de l'ambassade.
+Pour mener ce travail, les ambassades sont organisées
+en différents services, par secteur d'activité. Ceux-ci
+sont placés sous la tutelle du ministère des Affaires
+étrangères ou de ministères dits  techniques »
+(environnement, transport, enseignement et recherche,
+défense, santé, justice, culture, etc.). Ces services ont
+pour rôle de mettre en œuvre des politiques décidées
+au niveau national. Cependant, des rapprochements
+privilégiés dans des domaines précis de politiques
+publiques, résultant des échanges techniques, peuvent
+également à leur tour permettre d'identifier des
+nouvelles pistes de coopération entre les pays
+concernés.
+
+
+Historiquement, le premier domaine d'action des
+ambassades a été l'économie et le commerce. Dès le
+$XVI^{e}$ siècle, le consul avait pour mission outre de
+protéger les ressortissants de son pays à l'étranger - de
+« fournir des informations sur tout ce qui pouvait
+faciliter ou entraver le commerce » avec son pays de
+résidence (Kessler, 2012, 341). À la fin du $XIX^{e}$ siècle, le
+volet économique est ensuite revenu à l'ambassadeur. Il
+devient alors responsable de la négociation des traités
+bilatéraux qui se multiplient dans les domaines
+commercial et économique, particulièrement dans le
+contexte des colonies. Les secteurs concernant les
+intérêts des entreprises sont divers : exportations,
+infrastructures, transports, communications. Comme
+l'explique Kessler, en France, les relations entre
+
+
+intérêts politiques et économiques ne sont pas sans
+poser problème dans les échanges avec les anciennes
+colonies: les « réseaux Foccart » durant les années
+1960 étaient caractérisés par des liens interpersonnels
+et la poursuite d'intérêts communs entre représentants
+français (diplomates), présidents dictateurs africains et
+hommes d'affaires français d'entreprises comme Elf ou
+Total, menant à quelques « errements » de la part des
+ambassades françaises. Les années 1970 ont ensuite
+connu, sur le plan national, la libéralisation de
+l'économie et, sur le plan international, la mise en place
+de régimes internationaux pour réguler le commerce a
+limité le champ d'action des États, pour qui les seuls
+accords économiques encore négociables
+bilatéralement concernent les régimes politiques sans
+économie de marché, ou très fragiles. En outre,
+aujourd'hui, les entreprises internationalisées mènent
+leur propre « diplomatie », qui échappe bien souvent au
+contrôle politique national (cf. infra). Les relations
+bilatérales entre les États via leurs ambassades ont
+donc perdu de la centralité dans le domaine
+économique.
+
+
+Le deuxième principal champ d'action des
+ambassades concerne la coopération politico-militaire
+et les services secrets. Outre les échanges
+économiques, la collecte d'informations (par exemple
+sur la situation politique ou sécuritaire locale) a
+toujours constitué l'une des missions principales des
+ambassades. Or, internet et les médias en continu
+fournissent à présent une bonne partie des
+informations qui étaient traditionnellement transmises
+par les ambassades vers l'État qu'elles représentent.
+Cette fonction des missions diplomatiques n'est
+toutefois pas devenue obsolète : des agents des
+services de renseignement opèrent dans toutes les
+ambassades, qu'ils soient identifiés comme tels ou
+
+
+agissant incognito, sous une couverture de « conseiller
+culturel » ou « attaché humanitaire », par exemple. En
+outre, s'il y a aujourd'hui plus d'information aisément
+disponible, il y a également plus de coopération entre
+États, et le rôle des missions militaires est notamment
+de favoriser la coopération internationale sur les
+questions de sécurité et de défense. En fonction du
+degré d'approfondissement de la relation, l'attaché
+militaire ou attaché de défense peut être accompagné
+d'une équipe composée de représentants de chaque
+armée ainsi que des agences chargées de l'acquisition
+d'armement.
+
+
+Les ambassades jouent enfin un rôle important dans
+les relations, la promotion culturelle et la coopération
+universitaire. Cela peut passer par la mise en place
+d'instituts nationaux offrant accès à des activités
+culturelles, à des cours de langues ou à des bourses
+d'études. Dans ce domaine, l'action est généralement
+menée de pair avec des acteurs de la société civile (cf.
+infra).
+
+
+Les autres acteurs politiques :
+parlements et partis
+
+
+Les canaux diplomatiques bilatéraux ont
+traditionnellement trois fonctions principales :
+représenter, informer, négocier et coopérer. Hormis la
+représentation officielle, les ambassades n'ont,
+aujourd'hui, plus le monopole de ces activités. Au-delà
+des diplomates, les acteurs des relations bilatérales
+incluent d'autres acteurs politiques, comme les
+parlements et les partis politiques (particulièrement
+depuis la création de l'Union européenne), les acteurs
+privés (entreprises), et la société civile.
+
+
+Parmi les acteurs politiques, les parlements et les
+partis entretiennent des relations bilatérales avec des
+pays alliés, voisins et/ou membres des mêmes
+organisations internationales. Il existe par exemple des
+« groupes d'amitié » parlementaires avec à peu près
+tous les pays du monde, pourvu qu'ils disposent d'un
+Parlement.
+L'objectif de ces
+groupes
+interparlementaires est de tisser des liens avec les
+autres parlementaires mais également de contribuer au
+rayonnement national et d'influencer, dans la mesure
+du possible, les politiques menées par les autres États.
+Outre les groupes d'amitié, il existe également des
+groupes de travail interparlementaires à vocation plus
+spécifique, comme le « groupe de travail parlementaire
+franco-britannique sur la coopération de défense ». Les
+commissions nationales spécialisées (par exemple, «
+Finance », « Affaires sociales », « Défense ») organisent
+également des visites chez leurs équivalents étrangers
+à des fins d'information. Les parlementaires nationaux
+sont donc également alliés aux diplomates dans la
+défense des intérêts de leur pays, ce qui passe par des
+actions de lobbying auprès de leurs homologues, en vue
+de peser sur les décisions politiques du pays partenaire
+(Rozental et Buenrosto, 2013).
+
+
+Les partis politiques, enfin, entretiennent des
+relations bilatérales et des partenariats,
+particulièrement au sein de l'Union européenne et du
+Parlement européen, mais pas uniquement. Il est de
+coutume, par exemple, pour les grands partis politiques
+français d'assister aux Conventions des partis
+politiques américains (Drouhaud, 2004). Les partis
+politiques peuvent, par ailleurs, entretenir des relations
+avec des gouvernements étrangers. Par exemple,
+Nicolas Lebourg (2016) a examiné les ressorts des
+relations entre le Front national et le régime russe de
+Vladimir Poutine.
+
+
+Les entreprises
+
+
+Si les rapports entre les ministères et acteurs
+politiques structurent et encadrent les relations
+bilatérales, l'étude des acteurs officiels ne doit pas
+cacher la multiplicité des liens transnationaux qui
+fondent les relations entre deux États. Il convient alors
+de se pencher sur les attaches entre les sociétés, à
+travers les acteurs privés. Les entreprises peuvent
+avoir un intérêt commercial dans un pays, parce
+qu'elles y exportent des biens ou services et/ou y
+possèdent des filiales. Comme on l'a vu plus haut, cet
+intérêt peut, dans le cas des entreprises nationalisées,
+être équivalent à « l'intérêt » de l'État, notamment
+dans le secteur de l'armement et de l'énergie. Des
+contrats peuvent être annulés et des sanctions
+économiques bloquer les exportations vers un État avec
+lequel les relations politiques sont conflictuelles. En
+2015, la France a obtenu l'annulation du contrat de
+vente de deux porte-hélicoptères Mistral à la Russie
+pour se conformer aux sanctions européennes
+consécutives à l'intervention de la Russie en Ukraine en
+2013.
+
+
+En dehors de ces cas spéciaux, les entreprises ont
+gagné en autonomie dans tous les secteurs, et même
+les petites et moyennes entreprises sont amenées à
+produire à l'étranger ou à exporter, ce qui leur donne
+un poids croissant dans les relations bilatérales, et dans
+toutes les régions du monde. Les États peuvent
+soutenir ces entreprises, par le biais de leurs chambres
+de commerce qui fournissent une expertise, des
+ressources et des réseaux aux entreprises désireuses
+d'exporter. Les visites officielles peuvent également
+être l'occasion de faciliter l'accès au marché étranger,
+notamment par le transport groupé d'une délégation de
+chefs d'entreprise. $\dot{A}$ leur tour, les entreprises sont
+
+
+amenées à faire du lobbying auprès des gouvernements
+et parlements étrangers, dans le but d'obtenir des
+contrats ou d'influencer en vue d'une législation
+favorable (régulations, normes). Cela peut passer par
+des actions de marketing et de communication, un
+soutien à des think tanks ou fondations, l'élaboration
+de coalitions avec des acteurs de l'État cible (acteurs
+politiques, entreprises, experts), l'entretien d'un réseau
+interpersonnel, etc.
+
+
+La société civile
+
+
+Les diasporas peuvent jouer un rôle important et
+spécifique dans les relations entre deux États. Ce rôle
+est généralement centré sur la mobilisation de la
+diaspora aux fins d'encourager une politique favorable
+du pays d'immigration envers le pays d'origine, à
+travers des actions de lobbying. En d'autres termes, les
+diasporas peuvent utiliser les mêmes moyens de
+pression que ceux dont disposent les autres acteurs
+non étatiques pour peser sur les relations bilatérales
+(plaidoyers, levées de fonds, mobilisation de réseaux).
+C'est le cas, par exemple, aux États-Unis où la politique
+multiculturaliste permet aux diasporas d'exercer une
+influence plus grande que dans d'autres pays. Le rôle
+des diasporas n'y concerne pas seulement Israël, qui
+capte l'attention des commentateurs, mais de
+nombreux autres États comme l'Inde. New Dehli se sert
+de la présence de deux millions d'Indiens aux États-
+Unis pour encourager les investissements économiques
+vers l'Inde, et plus généralement intercéder pour des
+politiques américaines favorables à l'Inde, par exemple
+l'arrêt des sanctions économiques qui ont fait suite aux
+essais nucléaires indiens en 1998.
+
+
+Outre les diasporas, les groupes ethniques et
+communautés religieuses et linguistiques peuvent
+entretenir des relations dans les régions
+
+
+transfrontalières. Ces relations, souvent en contexte
+postcolonial (Amérique latine, Afrique, Asie), peuvent
+être rendues difficiles par l'existence d'États distincts
+entretenant des relations politiques mauvaises, voire où
+le statu quo territorial est contesté (par exemple la
+région du Cachemire, disputée entre l'Inde et le
+Pakistan; ou les relations entre la Russie et l'Ukraine).
+
+
+À l'autre bout du spectre, les liens entre les
+populations peuvent faire l'objet d'une promotion par
+les acteurs politiques ou économiques et par la société
+civile. La coopération culturelle, universitaire,
+économique, sociale, etc. peut passer par des initiatives
+officielles bilatérales et la mise en place d'organismes
+semi-publics, ou d'initiatives privées ou associatives
+soutenues par les gouvernements et/ou les ambassades.
+Dans le cas franco-allemand par exemple, il existe un
+Office franco-allemand pour la jeunesse (OFAJ), créé
+avec le Traité de l'Élysée en 1963, pour organiser des
+échanges de jeunes et des jumelages de communes. Ce
+type d'initiative transnationale, que l'on peut qualifier
+de « parapublique », doit contribuer à tisser des liens
+entre les sociétés (Krotz et Schild, 2012). Cela étant,
+les effets de ces programmes sont difficiles à
+démontrer. Jean-Jacques Roche estime en effet que de
+tels programmes ont des effets limités, car l'on
+constate un faible « sentiment d'amitié » entre les
+citoyens français et allemands en âge d'avoir bénéficié
+de ces programmes bilatéraux. Les échanges répétés
+entre deux pays sont, de fait, bien souvent l'apanage
+d'élites internationalisées, comme en témoignent les
+réseaux bilatéraux d'échanges de personnalités
+d'avenir. Les young leaders programs, par exemple,
+existent entre de nombreux pays et visent à relier des
+acteurs du monde de l'entreprise, de l'université et de
+la fonction publique des deux pays concernés.
+
+
+Ainsi, l'on constate que les relations bilatérales sont
+le résultat d'interactions entre de multiples acteurs,
+étatiques ou non, pouvant couvrir une variété de
+domaines des politiques publiques. Lorsque l'on étudie
+une relation bilatérale, « il convient d'éviter, à tout prix,
+de se limiter aux seuls échanges diplomatiques »,
+comme le préconise Thomas Gomart, s'appuyant sur
+Jean-Baptiste Duroselle : « Les relations commerciales,
+les relations financières, les images que se font les
+deux peuples l'un de l'autre, les échanges intellectuels
+compris au sens large et, enfin, les problèmes de
+migration doivent être pris en compte » (Gomart, 2002,
+66). En outre, on constate qu'il existe des interactions
+très fortes entre les représentants officiels, les autres
+acteurs politiques, les acteurs privés, les sociétés
+civiles. Il y a parfois une réelle imbrication entre ces
+acteurs qui peuvent, sur des sujets précis, se constituer
+en réseau, en coalition, pour défendre des intérêts et
+des idées au plan international ou, à l'inverse, se
+trouver en tension.
+
+
+Les
+
+
+relations bilatérales et le
+
+
+contexte multilatéral
+
+
+L'étude de la conduite des relations bilatérales ne
+saurait se faire sans prendre en compte la manière
+dont elles s'insèrent dans le cadre multilatéral des
+relations internationales contemporaines¹, que ce soit
+dans les négociations au sein d'organisations
+internationales ou dans les affaires régionales. En effet,
+comme l'a noté Richard Neustadt, « la réalité n'est pas
+bilatérale » (Neustadt, 1970, 5). D'aucuns considèrent
+que la multilatéralisation à l'échelle globale et
+l'européanisation à l'échelle régionale rendent les
+relations et négociations bilatérales
+superflues.
+
+
+Cependant, nombreux sont ceux qui ont montré que ces
+échelles d'action internationale reposent en fait sur une
+multiplicité de relations diplomatiques bilatérales, dont
+l'importance est renforcée par la nécessité de
+coordonner les politiques. De fait, toute négociation
+multilatérale (par exemple, à l'ONU ou à l'Organisation
+mondiale du commerce OMC) requiert des pré-
+négociations et la constitution de coalitions qui se font
+au niveau bilatéral. Ainsi, la relation bilatérale
+<<
+s'avère toujours nécessaire [...] comme une condition
+indispensable du mode multilatéral » (Gomart, 2002,
+66).
+
+
+En retour, le multilatéralisme a pénétré toutes les
+activités des ministères des Affaires étrangères (il
+existe ainsi une Direction générale de la mondialisation
+au Quai d'Orsay), hormis les directions géographiques
+(par exemple, « Moyen-Orient », « Océanie ») qui
+maintiennent une activité principalement bilatérale. En
+Europe, l'intégration des politiques dans l'ensemble
+des secteurs a également multiplié les liens bilatéraux
+directs entre les ministères techniques. Ainsi, les
+relations bilatérales s'inscrivent le plus souvent dans
+un contexte multilatéral, que celui-ci soit régional ou
+sectoriel.
+
+
+En fonction des enjeux, certaines relations bilatérales
+peuvent peser plus que d'autres. La relation franco-
+allemande, par exemple, est considérée comme la
+relation fondamentale au cœur de la construction
+européenne : elle influence le développement des
+institutions européennes et est elle-même enchâssée
+dans ce tissage institutionnel. Dans les
+affaires
+stratégiques, c'est le « couple » franco-britannique qui
+« compte » à l'ONU, puisque les deux partenaires sont
+à l'origine d'une large part des propositions de
+résolutions au Conseil de sécurité, et que leurs votes
+sont alignés dans 80 % des cas. D'autres relations
+
+
+bilatérales peuvent être mobilisées de façon ad hoc,
+pour gérer des dossiers précis sur lesquels les intérêts
+sont alignés.
+
+
+Les partenariats bilatéraux peuvent donc affecter les
+négociations à l'échelle multilatérale ; et en retour, des
+relations bilatérales fortes tendent à influencer les
+stratégies et prises de position nationales dans les
+arènes multilatérales. D'une part, une relation
+bilatérale considérée comme très importante (cf. infra,
+les « relations spéciales ») peut, dans une négociation
+multilatérale donnée, amener un gouvernement à
+prendre une position qui ne paraît pas conforme à «
+l'intérêt national », en vue de préserver ladite relation
+bilatérale. $\dot{A}$ l'inverse, une relation bilatérale
+conflictuelle peut avoir des effets de blocage sur des
+relations multilatérales : les relations exécrables entre
+
+
+la Grèce et la Turquie au sujet de l'île de Chypre ne
+cessent de mettre à l'épreuve la cohésion de
+l'Organisation du traité de l'Atlantique nord (OTAN) et
+le partenariat entre l'Union européenne et la Turquie.
+
+
+Enfin, des enjeux multilatéraux peuvent entraîner des
+divergences et nuire aux relations bilatérales. Les
+négociations sur la sortie du Royaume-Uni de l'Union
+européenne entamées début 2017 montrent bien la
+centralité persistante des relations bilatérales en
+Europe et présentent de nouvelles difficultés pour la
+conduite de ces relations dans un contexte
+international changeant et en proie à d'âpres
+négociations. Les institutions multilatérales produisent
+donc des contraintes et opportunités particulières sur
+la conduite des relations bilatérales.
+
+
+Qualifier les relations bilatérales
+
+
+Comme on l'a aperçu dans la partie précédente,
+certaines relations bilatérales « comptent » plus que
+d'autres. Sur la base des éléments institutionnels
+communs à l'ensemble des relations bilatérales s'étend
+un éventail de relations possibles, des « amitiés » ou «
+relations spéciales » aux
+«
+inimitiés
+ 
+et autres
+relations conflictuelles, en passant par une myriade de
+degrés de proximité possibles. Il ne suffit pas, alors, de
+parler d'une « relation bilatérale » en tant que telle ; il
+convient de la qualifier, de la caractériser. De fait, les
+relations bilatérales peuvent être pertinentes à un
+échelon général, ou sectoriel ; elles peuvent être
+symétriques ou asymétriques, de dépendance ou
+d'interdépendance, institutionnalisées ou non,
+consensuelles ou débattues, nouvelles ou anciennes,
+fondées sur des intérêts et/ou valeurs partagés ; et
+connaître des phases, des évolutions et des régressions
+pour l'ensemble de ces aspects, dont la liste ne saurait
+être exhaustive. C'est le rôle de la diplomatie que de
+déterminer quand, où et comment une relation
+bilatérale devient plus importante.
+
+
+Les relations bilatérales privilégiées
+
+
+Selon Helen Wallace, les relations bilatérales entre
+des gouvernements peuvent prendre au moins trois
+formes distinctes (Wallace dans Morgan et Bray, 1986,
+136-155). $\dot{A}$ un premier niveau, deux gouvernements
+engagent un dialogue simplement du fait qu'il existe
+entre les deux pays des transactions qui impliquent,
+directement ou indirectement, les gouvernements. $\dot{A}$ un
+second niveau, deux États peuvent être « condamnés »
+à se consulter et à coopérer, parce que le volume et la
+complexité des transactions entre les deux pays sont
+tels que les deux gouvernements sont contraints
+d'apprécier explicitement leur relation bilatérale. Cela
+peut être dû à la proximité géographique, au volume de
+
+
+biens et de services échangés, au nombre d'individus
+vivant dans l'un ou l'autre des deux pays, ou encore à
+une appartenance commune à une organisation
+internationale. Enfin, à un troisième niveau, le concept
+de « relation spéciale » peut être employé pour parler
+des relations considérées comme privilégiées par les
+gouvernements.
+
+
+Fondées sur une proximité culturelle et/ou
+une
+histoire commune, les relations privilégiées <<< couples
+» ou « relations spéciales » sont les relations les plus
+abouties et les plus durables du système international.
+Elles sont identifiables lorsque ces qualificatifs sont
+employés à la fois par les gouvernements successifs, les
+médias et les populations. En principe, cela suppose
+que la préservation de ladite relation est jugée comme
+faisant partie de l'« intérêt national » et non vue
+comme un simple intérêt économique ou sécuritaire qui
+serait conjoncturel. Les « relations spéciales » tendent
+à être institutionnalisées : sommets réguliers, visites
+officielles fréquentes, travail quotidien et échange de
+personnel entre les administrations, le tout encadré par
+des accords intergouvernementaux, traités, protocoles.
+En principe, ce type de relation suppose un alignement
+général sur les questions politiques, diplomatiques,
+économiques, et sur des valeurs qui offrent un socle
+commun fort et durable, et permet de peser de concert
+dans les négociations ou la gestion des crises au niveau
+multinational. Ces relations sont également
+caractérisées par un grand degré de résilience en dépit
+des crises qu'elles peuvent traverser, et des
+alternances politiques.
+
+
+L'exemple le plus connu est la relation entre la
+Grande-Bretagne et les États-Unis, dont le
+renforcement a résulté de leur gestion commune de la
+seconde guerre mondiale. Le caractère « spécial » de
+cette relation repose aujourd'hui sur des liens
+
+
+extrêmement étroits dans les domaines militaire et de
+la sécurité internationale : forces armées, services
+secrets, industrie d'armement et dissuasion nucléaire.
+Le « couple » franco-allemand est un autre exemple de
+
+
+relation spéciale », mais dont la teneur est
+principalement économique et politique, et dont
+l'origine diffère de la relation transatlantique puisqu'il
+s'agissait au contraire de se rapprocher pour favoriser
+la réconciliation après guerre.
+
+
+Des « relations particulières » peuvent également
+exister entre les anciennes puissances coloniales et
+leurs anciennes colonies. En outre, à un degré moins
+exigeant que les « relations spéciales » se situent les «
+amitiés » qui peuvent être (semi-)institutionnalisées par
+des traités ou partenariats permettant une coopération
+approfondie dans certains secteurs. Ces « amitiés », en
+revanche, ne supposent pas un degré de consultation
+mutuelle ou de symbolisme, comme c'est le cas dans les
+« couples » et « relations spéciales ».
+
+
+Les relations bilatérales conflictuelles
+
+
+Comme les relations coopératives, les relations
+bilatérales conflictuelles connaissent une variété de
+degrés. On peut d'ores et déjà distinguer inimitié et
+rivalité. Dans les cas les plus exacerbés, la
+conflictualité tend à être partie constituante de la
+conception de la relation, non seulement en raison des
+enjeux politiques, économiques ou territoriaux qui sont
+à l'origine du conflit, mais également du fait d'une
+certaine représentation de l'autre parmi les élites et les
+populations. Le conflit est entretenu par la
+reproduction d'une image de l'autre qui est représenté
+comme un « ennemi » ; c'est-à-dire qu'il est vu comme
+constituant intrinsèquement une menace existentielle.
+Cela repose sur un discours mettant en avant des
+différences d'intérêts, de cultures, d'idéologies et/ou
+
+
+d'identités considérées comme irréconciliables. C'est la
+bilatéralité, combinée à cette construction de l'autre
+comme ennemi, qui peut entraîner la « montée aux
+extrêmes » conceptualisée par Carl von Clausewitz,
+résultant potentiellement en la « guerre absolue ». L'on
+peut mentionner, parmi les exemples historiques, la
+guerre entre les Grecs et les Perses au $v^{e}$ siècle av. J.-
+C., l'affrontement entre les puissances de l'Axe et les
+Alliés pendant la seconde guerre mondiale, ou encore
+les rapports entre URSS et États-Unis pendant les
+premières années de la guerre froide. Le « rival » doit
+être distingué de l « ennemi », en cela qu'il permet une
+coexistence, mais avec une volonté de contraindre le
+comportement ou les gains de l'autre. Aussi, dans les
+cas moins exacerbés que les affrontements militaires,
+des relations bilatérales non coopératives peuvent
+reposer sur une situation de concurrence économique,
+comme c'est le cas actuellement entre la Chine et
+l'Inde.
+
+
+Entre pays voisins, les relations bilatérales
+conflictuelles peuvent également être marquées par
+des séparations territoriales. Celles-ci prennent la
+forme de murs et/ou zones démilitarisées (par exemple,
+entre Israël et les territoires palestiniens, la république
+de Chypre et la zone de Chypre du Nord, ou encore la
+Corée du Sud et la Corée du Nord). Cela étant, des
+barrières peuvent également exister entre des États qui
+ne sont pas en situation de conflit, mais qui n'ont,
+collectivement ou individuellement, pas trouvé
+d'alternative pour la gestion des flux de personnes et
+de biens illégaux entre eux, par exemple entre les
+États-Unis et le Mexique, l'Inde et le Bangladesh, ou le
+Maroc et les enclaves espagnoles de Ceuta et Melilla.
+L'un des problèmes avec ce type de gestion des
+frontières est que les murs réduisent les incitations à la
+
+
+coopération et empêchent de traiter sérieusement la
+source des problèmes, ce qui tend à aliéner un peu plus
+les voisins et peut entraîner davantage de risques et
+menaces sécuritaires.
+
+
+La conflictualité tend à perdurer, là où la coopération
+est considérée comme fragile ; toutefois, toute relation
+bilatérale est sujette au changement. La résolution des
+conflits entre deux États passe souvent par
+l'intermédiaire
+d'un médiateur : organisation
+internationale,
+médiateur individuel, pays tiers.
+Toutefois, ce sont, là aussi, les relations directes entre
+les sociétés qui permettent généralement de parvenir à
+la réconciliation, c'est-à-dire de transformer la relation
+bilatérale. Ainsi, si la bilatéralité tend à renvoyer de
+facto à des conceptions binaires à un spectre où
+s'opposent l'ami et l'ennemi, le partenaire et
+l'adversaire, l'allié et le rival, le soi et « l'autre » -,
+sortir de ce type de conceptions binaires pour parler de
+relations bilatérales conflictuelles permet de prendre
+en compte la malléabilité des relations bilatérales, et
+leur évolution.
+
+
+Les limites de la qualification
+
+
+S'il est nécessaire de caractériser les relations
+bilatérales dans un souci de précision, étant donné leur
+grande diversité, il faut souligner les limites de la
+qualification. La plupart des relations interétatiques ne
+sont pas aussi clairement caractérisées que celles que
+l'on peut qualifier en termes binaires. En effet, comme
+on l'a noté, les relations bilatérales sont fluides : tant
+qu'il y a relation, il y a coexistence entre conflit et
+coopération, et il y a potentiellement changement :
+l'apparence d'éternité qu'évoquent les terminologies «
+ami » et « ennemi » cache une réalité beaucoup plus
+dépendante des événements.
+
+
+Dans une perspective de court terme, les relations
+bilatérales connaissent des fluctuations, en fonction des
+événements, des chefs d'État et de gouvernement, du
+contexte. Les crises internationales sont l'occasion de
+clivages ponctuels qui peuvent être très forts mais ne
+reflètent pas nécessairement la teneur routinière et
+persistante d'une relation bilatérale riche, comme l'a
+démontré la crise diplomatique franco-américaine de
+2003 au sujet de l'invasion de l'Irak. La teneur des
+relations bilatérales dépend également des secteurs,
+étant donné que toute relation entre deux États
+suppose la coexistence de champs de conflits et de
+coopération.
+
+
+Dans une perspective de long terme, nous avons
+souligné les enjeux de la transformation d'une relation
+de conflit en une relation pacifique. La France et
+l'Allemagne, par exemple, sont ainsi passées d'une
+conception mutuelle en tant qu'ennemis à un effort de
+réconciliation, menant in fine à l'une des relations
+bilatérales les plus approfondies dans le système
+international contemporain.
+
+
+Le changement dans une relation bilatérale peut
+avoir lieu en sens inverse. Les relations, même
+lorsqu'elles sont structurées par des représentations
+diplomatiques et des échanges entre acteurs privés et
+sociétés civiles, peuvent cesser de manière nette en cas
+de crise majeure, généralement liée à un conflit
+interétatique ou à une guerre civile : c'est la rupture de
+relation diplomatique. Il s'agit d'une décision radicale
+et qui a pour conséquence qu'un des deux pays ne peut
+maintenir de mission diplomatique sur le territoire de
+l'autre. La rupture est le degré le plus élevé de crise
+diplomatique, et il arrive, dans les situations de guerre,
+que des États retirent ou rétrécissent leur mission
+diplomatique sans pour autant qu'il y ait rupture.
+
+
+*
+
+
+Il faut noter que, malgré le développement de la
+coopération multilatérale depuis la seconde moitié du
+$XX^{e}$ siècle, les relations bilatérales restent au cœur de
+la diplomatie. On observe même un certain « retour au
+bilatéral dans la période contemporaine. Cela
+s'illustre par exemple par une remise en question de
+l'ordre multilatéral par le Président américain Donald
+Trump, ou par la décision du Royaume-Uni de sortir de
+l'Union européenne. Ces phénomènes remettent les
+négociations et relations bilatérales au centre des
+relations internationales et des agendas de recherche,
+et mériteraient d'être étudiés plus avant.
+
+
+Cela étant, comme on l'a montré dans ce chapitre,
+l'étude des relations bilatérales n'est pas aussi aisée
+qu'il y paraît. Il convient de distinguer la forme, le
+contenu et les dynamiques de chaque relation
+bilatérale, tant celles-ci sont variées, tout en se gardant
+d'opérer des qualifications strictes. Les relations
+bilatérales se montrent en effet remarquablement
+fluides et évolutives. Enfin, même dans l'étude d'un cas
+précis, il faut parler des relations bilatérales au pluriel
+
+
+« des relations franco-allemandes » plutôt que de « la
+relation franco-allemande » si l'on veut saisir ce qui
+constitue un ensemble de secteurs et d'acteurs, de
+situations de coopération et de conflit, différenciés et à
+plusieurs échelles.
+
+
+Bibliographie commentée
+
+
+DEVIN Guillaume, « Paroles de diplomates: comment les négociations
+multilatérales changent la diplomatie », dans Franck Petiteville,
+Delphine Placidi-Frot (dir.), Négociations internationales, Paris,
+Presses de Sciences Po, 2013, p. 77-104.
+
+
+Ce chapitre explore les distinctions et les recoupements entre la
+conduite de la diplomatie bilatérale et multilatérale, à partir des
+
+
+pratiques de négociation des diplomates français.
+
+
+GOMART Thomas, « La relation bilatérale: un genre de l'histoire des
+relations internationales », Matériaux pour l'histoire de notre temps,
+65-66, 2002,  . 65-68.
+
+
+L'article offre la perspective d'un historien sur la place du bilatéral
+dans les relations internationales et des recommandations pour
+l'étude de ces relations, invitant à multiplier les points de vue et les
+échelles d'analyse.
+
+
+HOCKING Brian, SPENCE David (eds), Foreign Ministries in the European
+Union. Integrating Diplomats, Basingstoke, Palgrave Macmillan,
+2002.
+
+
+L'ouvrage étudie le rôle des ministères des Affaires étrangères au
+sein de l'Union européenne, offrant d'une part un cadrage général,
+et d'autre part des études de cas sur une douzaine de pays
+européens.
+
+
+KESSLER Marie-Christine, Les Ambassadeurs, Paris, Presses de Sciences
+Po, 2012.
+
+
+Cet ouvrage est la référence sur le système diplomatique français :
+il couvre les aspects institutionnels, notamment le métier
+d'ambassadeur, mais également les différents secteurs de l'action
+des ambassades.
+
+
+KROTZ Ulrich, SCHILD Joachim, Shaping Europe. France, Germany and
+Embedded Bilateralism from the Elysee Treaty to Twenty-First
+Century Politics, Oxford, Oxford University Press, 2012.
+
+
+L'ouvrage étudie de manière détaillée et conceptualisée le rôle
+historique et contemporain de la relation franco-allemande dans la
+construction européenne, et les effets de l'intégration régionale sur
+la relation bilatérale.
+
+
+MORGAN Roger, BRAY Caroline (eds), Partners and Rivals in Western
+Europe. Britain, France and Germany, Adlreshot, Gower Publishing
+Company, 1986.
+
+
+L'ouvrage offre une douzaine de chapitres qui analyse les relations
+entre les trois grands pays européens dans différents domaines
+(relations entre les élites, culture, etc.). Bien que daté, il offre des
+pistes sur la manière dont trois relations bilatérales différenciées
+peuvent être analysées.
+
+
+NEUSTADT Richard, Alliance Politics, New York (N. Y.), Columbia
+University Press, 1970.
+
+
+L'ouvrage analyse la relation bilatérale anglo-américaine au cours
+des années 1950-1960. En se basant sur son expérience dans
+l'administration du Président Truman, l'auteur étudie notamment
+
+
+les divergences entre les deux pays lors des crises diplomatiques
+de Suez et Skybolt.
+
+
+NEWMAN Edward, THAKUR Ramesh, TIMAN John (eds), Multilateralism
+under Challenge ? Power, International Order and Structural
+Change, Tokyo, United Nations University Press, 2006.
+
+
+Cet ouvrage collectif examine la thèse d'une crise du
+multilatéralisme, qui donnerait lieu à une montée du bilatéralisme
+dans les relations internationales.
+
+
+ROZENTAL Andrés, BUENROSTO Alicia, « Bilateral diplomacy », dans
+Andrew F. Cooper, Jorge Heine, Ramesh Thakur (eds), The Oxford
+Handbook of Modern Diplomacy, Oxford, Oxford University Press,
+2013,  . 229-246.
+
+
+Ce chapitre de manuel nous donne une perspective générale sur la
+diplomatie bilatérale et s'intéresse particulièrement aux
+changements auxquels est confrontée cette fonction traditionnelle
+de l'État.
+
+
+TANNOUS Manon-Nour, Chirac, Assad, et les autres. Les relations franco-
+syriennes depuis 1946, Paris, Presses universitaires de France,
+2017.
+
+
+Cet ouvrage propose une étude de cas approfondie et contrastée
+d'une relation bilatérale entre une puissance moyenne mondiale et
+une puissance régionale au cours de douze années de gestion de
+dossiers au Moyen-Orient.
+
+
+VASSORT-ROUSSET Brigitte (ed.), Building Sustainable International
+Couples in International Relations. A Strategy Towards Peaceful
+Cooperation, Basingstoke, Palgrave Macmillan, 2014.
+
+
+Cet ouvrage collectif contient de nombreuses études de cas à
+travers le monde, qui reflètent la diversité des relations bilatérales,
+entre conflit et coopération, et les multiples acteurs et échelles de
+ces relations.
+
+
+1. Voir le chapitre « La diplomatie multilatérale  dans cet ouvrage.
+
+
+Chapitre 2
+
+
+La diplomatie
+multilatérale
+
+
+Franck Petiteville, Delphine Placidi-Frot
+
+
+A
+
+
+peu près aussi ancienne que la diplomatie des
+États, la diplomatie
+
+
+multilatérale aborde
+aujourd'hui tous les enjeux internationaux : guerre et
+paix, droits humains, commerce, environnement, etc.
+Stricto sensu, la diplomatie multilatérale met en
+relation un minimum de trois États. En pratique, elle
+rassemble couramment des dizaines d'États
+(représentés par leurs diplomates et leurs délégations)
+et un nombre croissant d'acteurs non étatiques. La
+diplomatie multilatérale a longtemps été organisée
+sous forme de conférences ad hoc. Depuis la création
+de la Société des nations (SDN) puis de l'Organisation
+des Nations unies (ONU), elle s'incarne aussi beaucoup
+dans les organisations internationales. Protéiforme et
+
+
+évolutive, elle demeure pourtant trop souvent délaissée
+par les études de relations internationales, malgré son
+ancienneté et son omniprésence sur la scène
+internationale.
+
+
+L'historicité de la
+
+
+multilatérale
+
+
+diplomatie
+
+
+La diplomatie de résidence moderne se développe en
+Europe lorsque les États ouvrent des ambassades (sous
+François Ier en France) et créent leurs premiers
+ministères des Affaires étrangères (1589 en France).
+D'emblée, cette diplomatie étatique naissante est
+confrontée à un exercice très multilatéral lors du
+règlement de la guerre de Trente Ans (1616-1648), qui
+a provoqué un vaste affrontement de puissances et
+dévasté l'Europe continentale. De fait, ce sont 194
+délégations, représentant aussi bien les villes libres du
+Saint-Empire romain germanique que les grandes
+monarchies d'Europe, qui négocient les traités de
+Westphalie (1648). Aux_ $XVII^{e}$ et XVIIIe siècles, les
+querelles dynastiques et les convoitises territoriales (de
+la France de Louis XIV notamment) continuent de
+déclencher des guerres incessantes. La diplomatie est
+alors régulièrement mobilisée pour inscrire dans les
+traités les conséquences territoriales de ces guerres.
+Cette pratique diplomatique prend la forme de vastes
+congrès : 80 délégations participent, par exemple, au
+congrès d'Utrecht (1712-1713), qui vise à régler la
+guerre de succession d'Espagne.
+
+
+Un siècle plus tard, le congrès de Vienne (1814-
+1815), qui clôt les guerres napoléoniennes, réunit plus
+de 200 chefs de missions diplomatiques affluant de
+toute l'Europe. Ce congrès redessine la carte de
+l'Europe (la France, en particulier, est ramenée à ses
+
+
+frontières de 1789) et institue la solidarité entre les
+monarchies d'Europe autour du principe dynastique qui
+avait été malmené par la Révolution et par l'Empire
+napoléonien. La diplomatie multilatérale à l'œuvre au
+congrès de Vienne est toutefois largement dominée par
+les quatre grandes puissances victorieuses de Napoléon
+(Angleterre, Prusse, Autriche-Hongrie, Russie). L'esprit
+du congrès de Vienne se prolonge ensuite dans le «
+Concert européen » alliance entre ces quatre
+puissances à laquelle la France de la Restauration est
+conviée - qui donnera lieu à des rencontres régulières,
+notamment au niveau des ambassadeurs. Le Concert
+européen s'effrite dans la seconde partie du $XIX^{e}$ siècle
+avec le retour des guerres en Europe (Crimée en 1854-
+1855, guerre de l'unité italienne en 1870, guerre
+franco-allemande en 1870) et s'effondre définitivement
+avec la constitution des alliances antagonistes («
+Triplice » contre Triple-Entente) qui conduisent à la
+première guerre mondiale. Entre-temps, la diplomatie
+européenne tend à s'ouvrir au reste du monde avec les
+conférences de paix de La Haye (1899 et 1907), la
+seconde mobilisant notamment 44 États sur 57 États
+souverains à l'époque.
+
+
+La diplomatie multilatérale reprend ses droits à la fin
+de la première guerre mondiale avec la négociation du
+traité de Versailles en 1919 : 70 délégués représentant
+27 États y participent. Mais là encore, la négociation
+est dominée par les puissances
+victorieuses
+(Angleterre, France, Italie, États-Unis), d'autant que les
+pays vaincus (qui en paieront un prix très lourd,
+notamment l'Allemagne) en sont exclus. La diplomatie
+multilatérale de Versailles renoue donc avec la
+diplomatie de puissance malgré les nouveaux principes
+de diplomatie « morale » affichés par le Président
+Wilson.
+
+
+Le traité de Versailles aboutit néanmoins à la création
+de la SDN, première organisation de sécurité collective
+de l'histoire, qui compte jusqu'à 60 États membres au
+début des années 1930. Affaiblie d'emblée par la
+défection des États-Unis (le Sénat américain n'ayant
+pas ratifié le traité de Versailles), la SDN révèle
+progressivement l'impuissance des démocraties
+européennes à contrecarrer les coups de force des
+États autoritaires et totalitaires pendant les années
+1930. La SDN marque toutefois un moment important
+dans l'institutionnalisation de la diplomatie
+multilatérale. Alors que la diplomatie de conférences,
+de Westphalie à Versailles, était une diplomatie ad hoc,
+les États membres de la SDN négocient désormais dans
+les enceintes de celle-ci (Assemblée, Conseil) et y
+détachent des diplomates résidant au siège de la SDN à
+Genève. La diplomatie multilatérale s'incarne ainsi
+dans une diplomatie qualifiée parfois de
+«
+parlementaire », en tout cas institutionnalisée, dans le
+respect des règles édictées par le Pacte de la SDN,
+notamment l'égalité entre États membres et la règle de
+décision de l'unanimité.
+
+
+La fin de la seconde guerre mondiale consolide
+l'institutionnalisation de la diplomatie multilatérale
+avec la création de l'ONU, de la Banque mondiale et du
+Fonds monétaire international (FMI). La négociation
+qui préside toutefois à la naissance de ces
+organisations est toujours aussi hégémonique. En effet,
+la Charte des Nations unies, signée par les
+représentants de 50 États à l'issue de la conférence de
+San Francisco en juin 1945, a été rédigée pour
+l'essentiel par les États-Unis pendant la guerre («
+Déclaration des Nations unies » soumise à la signature
+des États en guerre contre les puissances de l'Axe en
+janvier 1942), puis amendée lors de négociations
+
+
+étroites avec le Royaume-Uni, la Russie et la Chine à la
+conférence de Dumbarton Oaks (1944).
+
+
+L'histoire de la diplomatie multilatérale de 1815 à
+1945 révèle ainsi deux caractéristiques essentielles :
+d'une part, les négociations sont surtout axées sur les
+enjeux de guerre et de paix, d'autre part, elles restent
+largement dominées par les grandes puissances. Ce qui
+change en revanche au $XX^{e}$ siècle, c'est que la
+diplomatie multilatérale tend à se mondialiser au-delà
+de l'Europe et que, par ailleurs, elle s'institutionnalise
+en se déployant principalement dans les enceintes des
+grandes organisations internationales. Néanmoins, la
+guerre froide porte un coup d'arrêt à l'expansion de la
+diplomatie multilatérale, à l'ONU en particulier. En
+témoigne, dès les années 1950, la polarisation de
+l'Assemblée générale de l'ONU entre États affiliés au «
+camp occidental » et États inféodés au camp socialiste.
+Le Conseil de sécurité de l'ONU ensuite (qui passe de
+11 à 15 membres au début des années 1960) cesse
+d'emblée d'être l'instance collégiale de résolution des
+conflits du monde prévue par la charte, et devient une
+arène de confrontation Est-Ouest : les vetos,
+notamment soviétiques (120 entre 1946 et 1989) et
+américains (63 sur la même période) sont
+régulièrement brandis par l'une ou l'autre puissance
+pour rejeter l'implication de l'ONU dans les conflits où
+elles sont impliquées. Sur toute la période de la guerre
+froide, l'Est et l'Ouest parviennent certes à collaborer à
+quelques exercices de diplomatie multilatérale (pour
+négocier le Traité de non-prolifération nucléaire en
+1968 ou l'acte d'Helsinki en 1975 dans le cadre de la
+conférence sur la sécurité et la coopération en Europe).
+Sur l'ensemble de la guerre froide néanmoins, la
+diplomatie mondiale est assez largement empêchée.
+Parallèlement, la décolonisation, l'émergence des États
+
+
+du tiers-monde et du Mouvement des non-alignés
+ajoutent un clivage Nord-Sud au sein de la diplomatie
+multilatérale à la suite de la conférence de Bandung
+(Indonésie, 1955), puis de la création du G77 en 1964 à
+Genève, qui se mobilise à l'Assemblée générale de
+l'ONU durant les années 1970, en faveur de
+d'un
+ordre
+économique
+
+
+l'instauration
+
+
+international ».
+
+
+nouvel
+
+
+Il faut donc attendre la fin de la guerre froide pour
+voir la diplomatie multilatérale reprendre tous ses
+droits à l'ONU. Le Conseil de sécurité, en particulier,
+réussit à renouer avec des pratiques collégiales sur des
+enjeux de sécurité majeurs, en réagissant
+vigoureusement à l'annexion du Koweït par l'Irak en
+1990 (sanctions et légitimation du recours à la force
+par les États-Unis et leurs alliés début 1991) et en
+démultipliant l'implication de l'ONU dans des
+opérations de paix au début des années 1990 (avec
+toutefois des échecs dramatiques comme en ex-
+Yougoslavie et au Rwanda). Le Conseil de sécurité
+adopte désormais environ 80 résolutions par an, mais
+les blocages y réapparaissent dès que les grandes
+puissances divergent (lorsque l'administration Bush
+envahit unilatéralement l'Irak en 2003, par exemple, ou
+sur le conflit syrien, lorsque la Russie de Poutine utilise
+son droit de veto à douze reprises entre mars 2011 et
+avril 2018, pour protéger le régime de Bachar Al-Assad
+de toute résolution critique).
+
+
+Les organisations internationales créées en 1944-
+1945 constituent pourtant toujours le socle
+fondamental de la diplomatie multilatérale
+contemporaine. L'ONU a vu presque quadrupler le
+nombre d'États membres entre 1945 (51) et
+aujourd'hui (193). La Banque mondiale et le FMI en
+réunissent presque autant (188). Depuis plus de
+soixante-dix ans, l'ONU est ainsi parvenue à survivre à
+
+
+des décennies de guerre froide, de conflits et de crises,
+sans pour autant être condamnée à l'impuissance et en
+évitant le sort de la SDN. L'Assemblée générale de
+l'ONU a été à l'origine de très nombreux traités
+internationaux importants (en matière de droits de
+l'homme notamment), tout en adoptant quelque 300
+résolutions par an qui, sur tous les enjeux de politique
+internationale, expriment les orientations majoritaires
+de la diplomatie multilatérale.
+
+
+Par ailleurs, depuis la fin de la guerre froide, la
+diplomatie multilatérale se donne de plus en plus à voir
+dans des grandes conférences mondiales sur des enjeux
+autres que stratégiques : environnement, économie,
+aide au développement, droits humains. Ainsi, la
+conférence sur l'environnement et le développement
+des Nations unies organisée à Rio en 1992, où 178
+États sont représentés, aboutit à l'adoption de la
+convention cadre sur les changements climatiques. À la
+même époque, plus de 120 États participent aux
+négociations du cycle d'Uruguay du General Agreement
+on Tariffs and Trade (GATT), vaste exercice de
+diplomatie commerciale multilatérale, qui débouche en
+1994 à Marrakech sur la création de l'Organisation
+mondiale du commerce (OMC, qui rassemble 164 États
+membres aujourd'hui). Et ce sont encore 189 États qui
+participent à la (quatrième) conférence mondiale sur
+les droits des femmes à Pékin en 1995.
+
+
+Cette configuration de la diplomatie globale est
+désormais courante. En 2000, les 189 États membres
+de l'ONU adoptent les Objectifs du millénaire pour le
+développement (OMD) ; à Paris, en décembre 2015, се
+sont les 195 États parties à la convention des Nations
+unies sur les changements climatiques qui négocient un
+accord climatique mondial. La COP21 paraît ainsi une
+incarnation emblématique des transformations de la
+diplomatie multilatérale : un exercice de diplomatie
+
+
+désormais planétaire, axé non plus sur un enjeu
+classique de high politics et pourtant désormais
+largement considéré comme tel, et qui a vu se
+mobiliser d'innombrables acteurs non étatiques
+(organisations internationales, réseaux scientifiques,
+ONG, entreprises, métropoles) dans le cadre d'une
+mise en scène médiatique globale de la négociation et
+de ses enjeux.
+
+
+L'adaptation
+diplomatiques
+multilatéralisme
+
+
+des
+
+
+appareils
+
+
+des
+
+
+États
+
+
+au
+
+
+L'essor de la diplomatie multilatérale a conduit les
+États à se doter progressivement non sans réticences
+de ressources administratives et humaines dédiées
+aux organisations internationales. Ce n'est en effet qu'à
+partir de la création de la SDN et de l'Organisation
+internationale du travail (OIT) en 1919 que les
+chancelleries diplomatiques procèdent
+des
+ajustements et à des innovations bureaucratiques afin
+de s'adapter à une configuration de représentation et
+de négociation multipartite, permanente et de plus en
+plus institutionnalisée.
+
+
+à
+
+
+Les ministères des Affaires étrangères installent en
+premier lieu des services dédiés aux organisations
+internationales, dont l'évolution tant terminologique
+qu'au sein des organigrammes illustre la perplexité
+d'un certain nombre de chancelleries face à des
+pratiques diplomatiques inédites. Qu'ils s'intitulent «
+service des conférences », « direction des organisations
+internationales » ou « département de la gouvernance
+globale », qu'ils dépendent du « département des
+affaires politiques », de celui de « la mondialisation »,
+ou qu'ils soient directement rattachés au ministre, ces
+
+
+différents services visent à permettre aux États
+membres de tenter de coordonner et d'harmoniser la
+politique extérieure élaborée par l'exécutif à l'égard
+des organisations internationales concernées (dans les
+systèmes politiques fortement centralisés), et de
+coopérer avec les instances législatives (dans les
+régimes parlementaires). Ces
+structures
+administratives ont également vocation à interagir avec
+d'autres ministères considérés comme plus techniques
+(Justice, Éducation, Santé, Défense, etc.), voire à
+piloter certains supports administratifs nationaux
+(dispositifs de coordination interministérielle, agences
+indépendantes, collectivités territoriales, etc.).
+
+
+En second lieu, les États membres ont tour à tour mis
+en place des représentations ou missions permanentes
+auprès des organisations internationales (équivalent
+multilatéral des ambassades bilatérales) afin d'y
+exercer les fonctions diplomatiques traditionnelles de
+représentation, d'information, et surtout de
+négociation. Certains États (comme la France, le
+Royaume-Uni, l'Allemagne, l'Italie ou l'Union
+soviétique) n'avaient pourtant pas jugé utile d'établir
+de mission permanente auprès du siège de la SDN à
+Genève durant l'entre-deux-guerres, se contentant d'y
+envoyer des délégations lors des réunions du Conseil
+ou des sessions de l'Assemblée. Ces postes
+diplomatiques se sont toutefois rapidement avérés des
+rouages essentiels de la diplomatie multilatérale. Ils
+constituent en effet des avant-postes situés au cœur du
+processus décisionnel des organisations internationales
+puisque les représentants permanents sont appelés à
+siéger dans leurs instances exécutives suprêmes
+(Conseil de sécurité de l'ONU, Comité des
+représentants permanents Coreper de l'Union
+européenne, Conseil de l'Atlantique Nord de l'OTAN,
+etc.).
+
+
+Les missions permanentes jouent également un rôle
+central dans la diplomatie de nombreux États dotés de
+ressources diplomatiques insuffisantes pour être
+déployées à l'échelle de la planète et qui concentrent
+ainsi leurs efforts sur les moyeux multilatéraux que
+constituent New York (où siègent notamment l'ONU et
+le PNUD1), Washington (Banque mondiale, FMI),
+Genève (bureau de l'ONU, CICR,
+HCR, OIT, OMC,
+OMS2), Vienne (AIEA3, bureau de l'ONU, ONUDC,
+OPEP, OSCE4), Bruxelles (OTAN, Union européenne),
+Paris
+(OCDE, OIF, Unesco5) ou La Haye (Cour
+internationale de justice, Cour pénale internationale,
+Europol, Tribunal international du droit de la mer). La
+quasi-totalité des États s'investit désormais dans la
+diplomatie multilatérale, tant à l'échelle globale que
+régionale. Les disparités de ressources n'en demeurent
+pas moins flagrantes entre ceux qui disposent de
+moyens administratifs et humains leur permettant
+d'assurer une présence continue et reconnue au sein
+des différentes institutions multilatérales auxquelles ils
+appartiennent, et ceux qui doivent procéder à des
+arbitrages drastiques en sélectionnant les enceintes,
+les conférences et les réunions auxquelles ils doivent
+et/ou souhaitent participer, et les thématiques sur
+lesquelles ils doivent prioritairement s'investir. Lorsque
+les missions les plus étoffées - qui peuvent comprendre
+plusieurs dizaines, voire centaines de diplomates
+s'apparentent à des ministères des Affaires étrangères
+en miniature, les plus petites reposent sur l'implication
+d'une poignée de diplomates (voir illustrations 1, 2 et 3,
+infra).
+
+
+Illustration 1 - Effectifs de la diplomatie multilatérale onusienne
+à New York
+
+
+Nomore de diplomates accrédités par mission permanente
+auprès de l'ONU à New York
+
+
+100
+
+
+51 Etats
+
+
+56 États
+
+
+52 États
+
+
+20 États
+
+
+0
+
+
+Entre 1 et 5
+
+
+13 États
+
+
+5 États
+
+
+Entre 6 et 10 Entre 11 et 20 Entre 21 et 30 Supérieur à 30 Supérieur à 50*
+
+
+* États-Unis, Russie, Chine, Allemagne, Japon (37 pour la France)
+
+
+Source: United Nations (Protocol and Liaison Service), Permanent
+Missions to the United Nations, New York (N. Y.), United Nations, 306,
+juin 2016, ST/PLS/SER.A/306.
+
+
+Illustration 2 - Effectifs de la diplomatie multilatérale onusienne à
+
+
+Genève
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+**Etats-Unis, Russie, Chine, Japon (20 pour la France)
+
+
+Source: Office des Nations unies à Genève, Missions permanentes
+auprès
+des Nations unies à Genève, Genève, 115, 2017,
+ST/GENEVA/SER.A/115 disponible sur www.unog.ch/bluebook [consulté
+le 16 avril 2018].
+
+
+Illustration 3 - Effectifs de la diplomatie multilatérale onusienne à
+Vienne
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+ États-Unis, Hussie, Autriche (5 pour la France)
+
+
+Source: United Nations Office at Vienna, Permanent Missions to the
+United Nations (Vienna), Information Services for Member States,
+Bluebook www.unodc.org [consulté le 4 mai 2017].
+
+
+Pour remédier à ces différentiels de ressources,
+certaines organisations multilatérales ont mis en place
+des structures de coordination informelles entre les
+petits États afin de faire émerger un consensus au sein
+du groupe, préalable à son examen ultérieur par
+l'Assemblée plénière et/ou le Conseil exécutif. Si tous
+les États membres se sont désormais pliés au format
+des missions permanentes, ils ont également réactivé la
+pratique ancienne des ambassadeurs itinérants (ad hoc
+ou at large), auxquels est désormais confié un mandat
+thématique (par exemple les droits des femmes, la
+liberté religieuse, la lutte contre les changements
+climatiques, le contre-terrorisme, les crimes de guerre,
+etc.).
+
+
+En troisième lieu, les États ont également dû
+accompagner l'essor de la fonction
+publique
+internationale, corollaire de celui des organisations
+internationales. Les premières unions administratives
+mises en place durant la seconde moitié du $XIX^{e}$ siècle
+ont eu recours à la mise à disposition de fonctionnaires
+nationaux détachés par les ministères techniques
+compétents des principaux États membres. À partir de
+la création de la SDN en 1919, les organisations
+internationales se sont dotées d'une fonction publique
+internationale neutre, impartiale, indépendante des
+États membres et agissant dans l'intérêt de
+l'organisation (voir le serment de loyauté instauré à la
+SDN en 1932, ou l'article 100 de la Charte des Nations
+unies). Que leur composition soit régionale ou globale,
+les organisations internationales ont toutes recours à
+des critères de répartition géographique équitable,
+calculés en fonction de la contribution financière des
+
+
+États membres et destinés à garantir la diversité et la
+représentativité de l'administration internationale.
+
+
+Les plus hauts postes de la fonction publique
+internationale font l'objet de convoitises et de
+transactions tacites de la part d'États soucieux de
+placer leurs ressortissants à des postes jugés
+stratégiques et considérant qu'ils pourront être
+davantage informés de ce qui se déroule au sein de
+l'organisation, que leurs intérêts y seront mieux
+défendus et qu'ils pourront y être plus influents. C'est
+ainsi que le FMI a toujours été dirigé par un Européen
+depuis sa création en 1944, cependant que la direction
+de la Banque mondiale échoit systématiquement à un
+ressortissant états-unien. Les principaux ministères des
+Affaires étrangères ont tour à tour créé des structures
+destinées à optimiser les candidatures de leurs
+ressortissants au sein de la fonction publique
+internationale et à faciliter le suivi des carrières (par
+exemple la Mission des fonctionnaires internationaux,
+créée en 1995 par le ministère français des Affaires
+étrangères). L'institutionnalisation de quotas genrés
+(genderisation, ou gender-mainstreaming) depuis les
+années 1990 a de surcroît contribué à féminiser les
+effectifs diplomatiques de pays parfois fort éloignés de
+la parité.
+
+
+De plus en plus d'acteurs non étatiques (ONG,
+entreprises, groupes d'intérêt, lobbies,
+etc.)
+contribuent enfin à la diplomatie multilatérale des
+États, en participant de manière directe ou indirecte
+aux délégations officielles, aux négociations
+internationales, aux réunions en amont ou en aval, à
+l'élaboration des textes internationaux, ou en
+organisant des sommets parallèles aux grandes
+conférences internationales (voir chap. 12 par Auriane
+Guilbaud, « La diplomatie des acteurs non étatiques »,
+p. 213). La technicisation croissante des négociations
+
+
+multilatérales exige en outre la participation d'experts,
+étatiques ou non étatiques, à toutes les étapes du
+processus, au côté des diplomates et parfois même à
+leur place. Leur désignation revêt diverses formes et
+les lie plus ou moins aux États selon qu'ils sont nommés
+par eux ou choisis à titre personnel (voir chap. 9 par
+Cédric Groulier et Simon Tordjman, « Les organisations
+intergouvernementales », p. 163).
+
+
+L'omniprésence des négociations
+multilatérales dans les relations
+internationales
+
+
+La diplomatie multilatérale repose sur une pratique
+de négociations qui s'apparente à un processus de «
+gestion de la complexité » (Zartman, 2012). Pour cette
+raison, les négociations multilatérales sont souvent très
+longues : il a fallu huit ans de négociations pour
+conclure le cycle d'Uruguay du GATT (1994), huit
+années également pour aboutir à un accord climatique
+post-Kyoto (2015), neuf ans pour négocier la convention
+des Nations unies sur le droit de la mer (1982), et dix-
+sept ans pour élaborer la convention d'interdiction des
+armes chimiques (1993). Certaines négociations
+finissent d'ailleurs par s'enliser : le cycle commercial
+de Doha, lancé en 2001 et qui devait se clore en 2005,
+n'a toujours pas débouché sur un accord général après
+une quinzaine d'années de négociations à l'OMC. Les
+négociations peuvent aussi échouer de manière
+spectaculaire, comme lors de la conférence climatique
+de Copenhague en 2009 ou lors de la conférence de
+l'OMC de Seattle en 1999.
+
+
+Une explication courante de la complexité des
+négociations multilatérales consiste à mettre en avant
+le nombre d'États impliqués. Un processus comme la
+
+
+négociation climatique, qui implique que 195 États
+trouvent un accord sur la régulation mondiale du
+réchauffement climatique, est évidemment complexe.
+Rappelons toutefois que, depuis ses origines, la
+diplomatie multilatérale a mobilisé un grand nombre
+d'acteurs. La question de leur nombre n'est donc pas
+en soi un facteur rédhibitoire à la conclusion d'un
+accord multilatéral. Une autre explication souvent
+avancée du caractère parfois inextricable des
+négociations multilatérales est leur « sensibilité », leur
+multidimensionnalité et leur technicité. À l'OMC par
+exemple, les États négocient aujourd'hui sur des
+dizaines d'enjeux tarifaires, réglementaires et
+financiers, qui affectent tous les secteurs économiques
+des États membres (agriculture, industrie, services,
+etc.). On peut toutefois objecter que les négociations du
+passé sur les conséquences des grandes guerres
+portaient sur des enjeux (territoriaux notamment) non
+moins sensibles que les négociations multilatérales
+actuelles.
+
+
+Ce qui rend la diplomatie multilatérale
+contemporaine plus complexe aujourd'hui tient donc
+surtout à ce que l'esprit et les règles de celle-ci ont
+changé par rapport aux situations du passé où quelques
+puissances victorieuses imposaient un accord de paix à
+tous les autres États en présence. De fait, le
+multilatéralisme qui s'est
+développé après 1945 a ceci
+de particulier que, s'il
+réserve encore des droits
+particuliers aux grandes puissances (le siège de
+membre permanent et le droit de veto au Conseil de
+sécurité aux cinq puissances victorieuses de 1945 par
+exemple), il véhicule des normes fondamentales comme
+l'égalité en droits entre États souverains (égalité
+consacrée par la Charte de l'ONU en son article 2),
+l'inclusivité des organisations internationales, la
+
+
+réciprocité, la collégialité des décisions prises, l'esprit
+de compromis.
+
+
+Par conséquent, l'exercice de la puissance coercitive
+ou de l'hégémonie est moins accepté aujourd'hui : dans
+une négociation multilatérale, tous les États sont
+attentifs au respect de leurs droits, à commencer par
+les États du Sud et les « petits États » qui sont les plus
+nombreux sur la scène internationale (105 États
+membres de l'ONU sur 193 ont moins de 10 millions
+d'habitants). Une illustration essentielle de ce nouvel «
+ethos » de la diplomatie multilatérale est le recours
+fréquent au consensus pour approuver les accords
+finaux, pratique qui ménage la souveraineté de chacun,
+qui légitime les décisions collectives de manière
+inattaquable, et qui relève souvent d'un véritable «
+accomplissement collectif
+>>
+dans les négociations
+(Pouliot, 2017, 120). C'est ainsi le consensus qui
+s'applique dans les négociations climatiques
+onusiennes, dans les négociations à l'OMC, dans
+l'Union européenne (même si la majorité qualifiée est
+aussi utilisée), ainsi que dans la prise de décision à
+l'OTAN. Une négociation multilatérale a donc toutes les
+chances d'être complexe et difficile lorsqu'un grand
+nombre d'États cherche à réaliser un accord
+multidimensionnel par consensus.
+
+
+Pour rendre compte de cette complexité, la littérature
+sur les négociations internationales a produit un grand
+nombre de modélisations inspirées de la théorie des
+jeux. Ces théories distinguent ainsi les négociations «
+distributives » (où les négociateurs ont un stock fixe de
+gains à se partager) et les négociations « intégratives »
+(où ils se donnent au contraire les moyens d'accroître
+la perspective de gains collectifs). Ces théories mettent
+aussi en avant les avantages des stratégies
+séquentielles de négociation : décomposition d'une
+négociation multisectorielle en négociations
+
+
+sectorielles, élaboration de compromis secteur par
+secteur, puis marchandage entre ces compromis
+sectoriels pour aboutir à un compromis global (package
+deal), qui correspond au
+«
+>>
+de la
+négociation où s'agrègent les préférences de chaque
+partie (Schelling, 1986).
+
+
+point focal
+
+
+Les études sociologiques
+de la diplomatie
+multilatérale sont porteuses d'enseignements moins
+rationalisants. On en retiendra en premier lieu qu'une
+négociation multilatérale est une configuration
+relationnelle dans laquelle « on accepte de gagner
+moins pour gagner avec les autres » et que, dans cette
+perspective, l'incertitude contraint beaucoup les
+stratégies des acteurs : « L'inaction est imprudente,
+l'action périlleuse, de telle sorte que c'est la posture
+défensive qui apparaît souvent comme la plus adaptée
+» (Devin, 2013, 87).
+
+
+En second lieu, l'égalité de principe entre États dans
+les négociations paraît se combiner avec l'asymétrie
+inévitable entre grandes puissances et petits États. À
+condition que les grandes puissances qui dominent la
+négociation s'entendent sur une stratégie commune, ce
+qui n'est pas toujours le cas (voir les clivages à l'OMC
+entre États-Unis, Europe, Inde, Brésil et Chine), les
+grandes puissances sont généralement amenées à jouer
+un rôle d'impulsion des négociations. Ce rôle passe
+toutefois moins par des formes de coercition ou de
+pression que par l'exercice d'un soft leadership, attentif
+aux intérêts des autres (des petits États en particulier),
+apte à convaincre le plus grand nombre de la possibilité
+de gains collectifs, et à élaborer des compromis
+collectifs acceptables par tous. Dans ce processus, le
+développement de perceptions communes des solutions
+à adopter devient souvent plus important que le jeu des
+concessions réciproques (Winham, 1977).
+
+
+les
+
+
+En troisième lieu, rares sont les négociations
+multilatérales qui échappent à la formation de
+coalitions. Ces coalitions sont parfois forgées de longue
+date à l'ONU (le G77, qui regroupe plus de 130 États
+des Suds aujourd'hui), et elles prolifèrent dans
+certaines négociations comme à l'OMC (huit blocs et
+dix-sept coalitions recensés ces dernières années), ainsi
+que dans les négociations climatiques (« alliance des
+petits États insulaires », « alliance bolivarienne », etc.).
+A priori, la formation de coalitions entre des États like
+minded, qui se regroupent par affinité d'intérêts ou en
+raison de leur proximité régionale, est un phénomène
+logique, et virtuellement positif. De fait, comme les
+coalitions ont pour effet d'homogénéiser
+préférences de leurs membres, l'émergence de
+coalitions peut faciliter une négociation globale, qui se
+ramène alors à une transaction entre grandes
+coalitions. L'Union européenne fonctionne ainsi comme
+une coalition constructive lorsqu'elle parle d'une seule
+voix dans les négociations commerciales ou
+climatiques, après un travail d'harmonisation interne
+entre ses États membres. Mais certaines coalitions
+peuvent être des coalitions défensives ou de blocage
+agissant comme des veto players (le G20 interne à
+l'OMC, par exemple, constitué en 2003 en réaction aux
+propositions américaines et européennes sur
+l'agriculture), et beaucoup d'autres coalitions sont des
+groupes d'intérêt « monothématiques », qui ont peu à
+offrir dans les négociations globales (groupes de pays
+constitués autour de l'exportation d'un même produit à
+l'OMC par exemple). La formation de coalitions dans
+les négociations multilatérales est donc un phénomène
+dont il est difficile de dire qu'il facilite toujours leur
+issue.
+
+
+En dernier lieu, les organisations internationales
+améliorent, elles, le rendement de la négociation
+
+
+multilatérale à de multiples égards : en fournissant un
+cadre institutionnel à celle-ci, en prescrivant des droits
+égaux aux États à siéger et à négocier, en édictant un
+ensemble de règles de décision explicites à leur usage,
+et en mobilisant les instruments du droit international
+(accords, résolutions, traités) pour garantir le respect
+des engagements contractés par les États. La théorie
+libérale des organisations internationales (Keohane,
+1989) a abondamment documenté cette valeur ajoutée
+des organisations internationales. L'inconvénient, en
+revanche, parce que le diable se cache dans les détails
+du droit, est que la formalisation juridique des accords
+négociés ajoute encore à la complexité de la tâche des
+diplomates multilatéraux.
+
+
+*
+
+
+Dès que les États modernes ont établi des relations
+diplomatiques entre eux, ils ont été régulièrement
+confrontés à des situations de paix collective à
+reconstruire via la diplomatie multilatérale, comme
+l'illustre l'épisode fondateur des traités de Westphalie
+en 1648. Pendant les trois siècles suivants, les États ont
+poursuivi la diplomatie multilatérale à intervalles
+réguliers (grandes conférences de paix), en même
+temps qu'ils en transformaient la pratique, en
+mondialisant la concertation au-delà de l'Europe, en
+l'institutionnalisant
+via
+les
+organisations
+internationales, et en l'ouvrant de manière croissante
+aux enjeux non militaires et aux acteurs non étatiques.
+Parallèlement, cette centralité de la diplomatie
+multilatérale oblige les États à ajuster leurs appareils
+diplomatiques à des modes de représentation
+permanents auprès des organisations internationales et
+à des cadres et procédures de négociations à la fois
+vastes et codifiés. Enfin, la diplomatie multilatérale fait
+
+
+l'objet, de la part des États, d'un apprentissage de la
+complexité des négociations en grand nombre qui
+agrègent des enjeux et des acteurs hétérogènes. Bien
+que momentanément battue en brèche par le
+désengagement de l'administration Trump vis-à-vis de
+l'ONU et des grandes initiatives multilatérales de l'ère
+Obama (accord climatique de Paris, accord sur le
+nucléaire iranien de 2015), la diplomatie multilatérale a
+de beaux jours devant elle. Dans le contexte d'une
+globalisation toujours plus avancée, ni le repli sur soi
+des nations, ni une gouvernance mondiale, pour l'heure
+très abstraite, ne sont en mesure de relever à sa place
+les grands défis de l'interdépendance mondiale.
+
+
+Bibliographie commentée
+
+
+JEONG Ho-Won, International Negotiation, Cambridge, Cambridge
+University Press, 2016.
+
+
+Un manuel très complet sur les théories des négociations
+internationales appliquées à de nombreux exemples empiriques.
+
+
+MULDOON James P., AVIEL JoAnn F., REITANO Richard, SULLIVAN Earl (eds),
+The New Dynamics of Multilateralism. Diplomacy, International
+Organizations, and Global Governance, Boulder (Colo.), Westview,
+2010.
+
+
+Un ouvrage collectif sur le multilatéralisme abordant celui-ci par le
+prisme des acteurs (étatiques, non étatiques et administrations
+internationales).
+
+
+PETITEVILLE
+
+
+Franck, PLACIDI-FROT Delphine (dir.), Négociations
+internationales, Paris, Presses de Sciences Po, 2013.
+
+
+Un ouvrage collectif qui multiplie les points de vue sur les
+dimensions historiques, théoriques et sociologiques des
+négociations multilatérales à partir de nombreuses études de cas
+(ONU, conflits, nucléaire, climat, OMC, Union européenne).
+
+
+POULIOT Vincent, L'Ordre hiérarchique international, Paris, Presses de
+Sciences Po, 2017.
+
+
+Une étude sociologique originale sur la manière dont les inégalités
+de rôles entre diplomates des grands États et petits États se
+répercutent sur la façon de faire de la diplomatie multilatérale.
+
+
+1. Programme des Nations unies pour le développement.
+
+
+2. Organisation des Nations unies, Comité international de la Croix-
+Rouge, Haut-Commissariat des Nations unies pour les réfugiés,
+Organisation internationale du travail, Organisation mondiale du
+commerce, Organisation mondiale de la santé.
+
+
+3. Agence internationale de l'énergie atomique.
+
+
+4. Office des Nations unies contre la drogue et le crime, Organisation des
+pays exportateurs de pétrole, Organisation pour la sécurité et la
+coopération en Europe.
+
+
+5. Organisation pour la coopération et le développement économiques,
+Organisation internationale de la francophonie, Organisation des Nations
+unies pour l'éducation, la science et la culture.
+
+
+Chapitre 3
+
+
+La paradiplomatie
+
+
+Stéphane Paquin
+
+
+e néologisme « paradiplomatie » apparaît dans la
+L
+littérature scientifique au cours des années 1980. Il
+s'inscrivait alors dans le renouveau de l'étude du
+fédéralisme et de la politique comparée et servait
+fondamentalement
+à
+décrire les activités
+internationales des provinces canadiennes et des États
+américains dans le contexte de la mondialisation et de
+la croissance des relations transfrontalières
+Amérique du Nord (Paquin, 2004).
+
+
+en
+
+
+L'inventeur du concept, Panayotis Soldatos, définit la
+paradiplomatie comme « la poursuite directe, à des
+degrés variables, d'activités internationales de la part
+d'un État fédéré
+(Soldatos, 1990, 32). Ivo D.
+Duchacek épouse lui aussi ce concept qu'il trouve
+supérieur à son concept de microdiplomatie puisqu'un
+
+
+>>
+
+
+devant
+
+
+diplomatie
+
+
+sens péjoratif peut lui être attribué. Pour lui, l'ajout de
+para
+>>
+ 
+>>
+exprime
+convenablement ce dont il s'agit, soit une politique
+internationale de la part d'un État fédéré, une politique
+internationale qui peut être parallèle, coordonnée ou
+complémentaire à celle de l'État central, mais qui peut
+également parfois entrer en conflit avec la politique
+internationale du pays (Duchacek, 1990, 32).
+
+
+Bien que le concept de paradiplomatie tende à être le
+plus utilisé, il demeure néanmoins contesté par
+plusieurs auteurs. Certains préfèrent utiliser
+l'expression  diplomatie régionale sub-étatique »
+(regional sub-state diplomacy) et d'autres privilégient
+l'expression multi-track diplomacy, ou encore
+diplomatie à paliers multiples » (Hocking, 1993;
+Criekemans, 2011). En France, on utilise parfois
+l'expression « coopération décentralisée ».
+
+
+Cet article est divisé en quatre parties. Dans la
+première, nous exposerons les débats autour du
+concept de paradiplomatie. Dans la deuxième, nous
+aborderons la question de l'intensité du phénomène
+dans le monde. Dans la troisième, nous examinerons
+celle de la constitution et du partage des compétences
+en matière de politique étrangère, alors que dans la
+dernière partie, nous chercherons à qualifier quels
+types d'acteurs internationaux représentent les
+gouvernements non centraux dans la politique
+mondiale.
+
+
+Le concept de paradiplomatie en
+débats
+
+
+Selon Brian Hocking, le concept de paradiplomatie
+aurait été créé dans le but de renforcer la distinction
+entre le gouvernement national et les gouvernements
+
+
+des États fédérés et, par le fait même, il renforcerait
+les éléments de conflit entre ces deux ordres de
+gouvernement. Pour lui, cependant, cette façon de
+procéder serait une erreur. Il serait en fait préférable
+de resituer les gouvernements non centraux dans leur «
+milieu diplomatique complexe » (Hocking, 1993).
+
+
+Toujours d'après Hocking, la diplomatie ne peut être
+considérée comme un processus segmenté entre les
+acteurs au sein d'une même structure étatique. La
+diplomatie doit plutôt être perçue comme un système
+dans lequel s'enchevêtrent les acteurs issus de
+plusieurs ordres de gouvernement et de plusieurs
+ministères. Les acteurs changent en fonction des
+enjeux, des intérêts et de leur capacité à opérer dans
+un environnement politique à paliers multiples. Le rejet
+par Hocking du concept de paradiplomatie s'appuie sur
+les « impératifs de coopération » qui existent entre les
+gouvernements centraux et les États fédérés. Ainsi, au
+lieu de parler de paradiplomatie, il serait préférable
+selon lui de parler de « diplomatie catalytique » ou de «
+diplomatie à niveaux multiples » (Hocking, 1993). Un
+argument similaire sera présenté par des auteurs qui
+s'intéressent à la gouvernance à paliers multiples
+(multi-level gouvernance), notamment dans le contexte
+de l'Union européenne. Ce concept cherche à décrire
+notamment le rôle des régions d'Europe dans le
+processus de construction européenne (Hooghe et
+Marx, 2001).
+
+
+Ces concepts sont intéressants et ils sont utiles dans
+des contextes particuliers, mais ils demeurent limités,
+car ils tendent à sous-estimer l'autonomie des régions,
+des gouvernements non centraux ou des États fédérés
+dans la poursuite de leurs politiques internationales. La
+Bavière, par exemple, n'est pas seulement active en
+Europe. Elle est au cœur des activités de la conférence
+des chefs de gouvernement des régions partenaires. Ce
+
+
+regroupement inclut sept régions d'États fédérés (la
+Bavière, le Cap-Occidental, la Géorgie, la Haute-
+Autriche, le Québec, São Paulo et le Shandong)
+provenant de quatre continents ; il représente environ
+180 millions d'habitants avec un produit intérieur brut
+total de près de 2 000 milliards d'euros et il œuvre
+dans le développement économique et le
+développement durable. Cette conférence des chefs de
+gouvernement vise également à créer un réseau qui
+leur permette de faire face à des défis internationaux
+auxquels les régions sont confrontées à l'échelle
+internationale.
+
+
+Le concept de paradiplomatie doit également être
+distingué du concept de « protodiplomatie » et de celui
+de « paradiplomatie identitaire » (Paquin, 2005). La
+protodiplomatie renvoie aux stratégies internationales
+qui ont pour objectif de favoriser la reconnaissance
+diplomatique afin de préparer l'avènement d'un pays
+souverain. Elle est par essence un stade transitoire. Ce
+concept peut définir la stratégie du gouvernement
+catalan en 2017 ou encore du gouvernement du Québec
+précédent le référendum de 1995 sur la souveraineté-
+partenariat.
+
+
+Le concept de paradiplomatie identitaire est d'un
+autre registre. Il représente une politique
+internationale d'une nation sans État souverain, comme
+le Québec, l'Écosse, la Flandre, la Wallonie ou encore la
+Catalogne, lorsque les gouvernements de ces nations
+ne cherchent pas à réaliser l'indépendance (Paquin,
+2005; Paquin, Kravagna et Reuchamps, 2015). Ainsi,
+un des objectifs fondamentaux de ces nations est
+d'œuvrer à l'international afin de favoriser le
+renforcement ou la construction de la nation dans le
+cadre d'un pays multinational. Les objectifs des
+entrepreneurs identitaires sont de promouvoir les
+exportations, d'attirer les investissements, d'aller
+
+
+chercher les ressources qui leur font défaut à l'interne
+en plus de chercher à se faire reconnaître comme
+nation sur la scène mondiale, processus essentiel de
+toute tentative de construction de la nation. Cette
+situation tend à être très conflictuelle lorsque le
+gouvernement central est hostile aux revendications
+identitaires de l « autre nation » comme la Catalogne et
+le Pays basque en Espagne, ou encore le Québec au
+Canada.
+
+
+Le concept de paradiplomatie identitaire est utile
+pour expliquer pourquoi le gouvernement du Québec,
+par exemple, adopte une politique internationale
+différente de celle des autres provinces canadiennes.
+Le gouvernement du Québec intègre une dimension
+identitaire forte dans sa politique internationale.
+L'objectif du gouvernement, qu'il soit dirigé par des
+fédéralistes ou des souverainistes, est de renforcer la
+langue française, de soutenir le développement de la
+francophonie, mais également de se faire reconnaître
+par les gouvernements étrangers comme formant une «
+nation », la nation québécoise. Les relations bilatérales
+qu'entretient le gouvernement du Québec avec le
+gouvernement français sont plus importantes que celles
+qui ont été développées entre le Canada et la France,
+voire la Grande-Bretagne. L'ancien Premier ministre du
+Québec Jean Charest a rencontré plus souvent le
+président français Nicolas Sarkozy que n'importe quel
+autre chef d'État, exception faite de la chancelière
+allemande Angela Merkel.
+
+
+Une distinction doit par ailleurs être faite entre les «
+réseaux de représentants gouvernementaux » et la
+paradiplomatie. Selon Anne-Marie Slaughter, les
+réseaux de représentants gouvernementaux sont des
+acteurs gouvernementaux ou paragouvernementaux qui
+échangent de l'information et coordonnent leurs
+activités afin de gérer des problèmes communs à
+
+
+l'échelle mondiale (Slaughter, 2004, 2). On compte
+parmi ces acteurs des régulateurs de la finance, des
+enquêteurs de police, des juges, des législateurs ou des
+directeurs de banque centrale, par exemple. Ces
+réseaux gouvernementaux internationaux représentent
+une caractéristique clé de l'ordre mondial actuel, selon
+Slaughter, et ils s'intéressent de plus en plus aux
+champs de compétence des gouvernements de tous les
+niveaux. Lorsque les corps policiers du Canada et des
+États-Unis, par exemple, coordonnent leurs activités
+pour prévenir des attaques terroristes, il ne s'agit pas
+de paradiplomatie bilatérale, mais de réseaux de
+représentants gouvernementaux.
+
+
+Dans le cas de la paradiplomatie, un acteur, comme
+un ministère, est mandaté formellement par le
+gouvernement d'un État fédéré pour défendre les
+intérêts de cet État et pour les promouvoir sur la scène
+internationale. Le ministère représente alors
+l'ensemble du gouvernement et parle en son nom. Par
+exemple, la loi constitutive du ministère des Relations
+internationales et de la Francophonie du gouvernement
+du Québec confie au ministère la mission d'établir et de
+maintenir des relations avec les gouvernements
+étrangers, mais également avec les organisations
+internationales. Le ministère doit veiller aux intérêts du
+Québec lors de négociations internationales et il doit
+superviser la négociation et la mise en œuvre des «
+ententes » et traités internationaux. Il veille à la mise
+en œuvre de la politique internationale du Québec et
+gère les représentations du Québec à l'étranger.
+
+
+Intensité du phénomène
+
+
+Marginal durant les années 1960 et 1970, le
+phénomène paradiplomatique ne s'est pas seulement
+
+
+manifesté dans les États fédérés d'Amérique du Nord.
+Il s'est également développé en Europe et ailleurs dans
+le monde, et s'est même largement généralisé au sein
+d'États unitaires ou à structure décentralisée ou
+dévoluée comme la France, la Grande-Bretagne ou
+l'Espagne. Il est aussi de plus en plus présent à
+l'échelle municipale, notamment au cœur des villes
+mondiales que sont Londres, New York, Paris ou encore
+Shanghai.
+
+
+De nos jours, le phénomène paradiplomatique est
+important, il est intensif, extensif et permanent même
+si on a noté un recul important après la crise de 2008.
+Les acteurs de la paradiplomatie, de la protodiplomatie
+et de la paradiplomatie identitaire disposent d'une
+bonne marge d'autonomie, de nombreuses ressources,
+et ils ont de plus en plus d'influence sur la politique
+internationale (Paquin, 2004; Adelcoa et Keating, 1999
+; Tavares, 2016).
+
+
+Le Québec opérait déjà des bureaux à Paris et à
+Londres au $XIX^{e}$ siècle, malgré le fait qu'on ne recense
+que très peu de cas d'États fédérés actifs sur la scène
+internationale avant les années 1960. Depuis, les
+choses ont rapidement évolué au point que le
+phénomène est devenu banal. Aux États-Unis, par
+exemple, seulement quatre États américains
+maintenaient des bureaux à l'étranger en 1980, contre
+42 États qui ont 245 représentations dans environ 30
+pays en 2008. En raison de la récession, ce nombre est
+descendu à 212 en 2015. En comparaison, le
+gouvernement fédéral américain possède 267
+ambassades et consulats dans le monde (Fry, 2017). En
+Allemagne, les Länder ont créé environ 130
+représentations dans le monde depuis les années 1970,
+dont plus d'une vingtaine aux États-Unis. En Espagne,
+la Catalogne possède 4 délégations (France, Belgique,
+
+
+Grande-Bretagne, Allemagne) auxquelles s'ajoutent 34
+bureaux commerciaux, 4 représentations culturelles et
+linguistiques, 9 agences de coopération, 10 centres de
+tourisme et 5 représentants de l'industrie de la culture.
+En 2017, le gouvernement du Québec opérait 28
+représentations dans 16 pays, y compris la Délégation
+générale du Québec à Paris dont le statut s'apparente à
+de celui d'une ambassade. La Flandre opère 100
+bureaux économiques depuis 2004 même si les
+activités de ces dernières portent essentiellement sur
+les questions d'exportation et d'investissement.
+Wallonie-Bruxelles international est l'institution qui
+possède le plus grand nombre de bureaux commerciaux
+sur une base par habitant dans le monde. Le
+phénomène est également présent au sein de pays plus
+centralisés. En France, par exemple, la région Rhône-
+Alpes, avec son partenaire Entreprise Rhône-Alpes
+international, compte plusieurs représentations
+économiques à l'étranger. On constate le même
+phénomène au Japon, en Inde, en Australie, en
+Autriche, en Suisse, au Brésil et dans plusieurs autres
+pays (Paquin, 2004; Adelcoa et Keating, 1999 ;
+Criekemans, 2011).
+
+
+La politique internationale des États fédérés
+constitue un phénomène important, car elle touche tous
+les domaines d'action internationaux, y compris la
+politique économique et commerciale, la promotion des
+exportations, de l'attraction des investissements
+étrangers et des centres de décision, la science et la
+technologie, l'énergie, l'environnement, l'éducation,
+l'immigration et la mobilité des personnes, les relations
+bilatérales et multilatérales, le développement
+international et les droits humains, qui forment les
+grands dossiers paradiplomatiques. Les acteurs
+paradiplomatiques s'intéressent également de plus en
+plus aux questions non traditionnelles de la sécurité,
+
+
+comme le terrorisme, le respect des droits de la
+personne, la cybersécurité ou encore les pandémies et
+la santé publique (Paquin, 2004).
+
+
+À
+titre d'exemple de la participation de
+gouvernements non centraux à divers domaines
+internationaux, on peut citer : la création par les
+gouvernements de la Californie, du Québec et de
+l'Ontario du second plus important marché
+international du carbone du monde après celui de
+l'Union européenne ; la présence des États australiens
+au sein de la délégation du gouvernement australien
+lors d'une conférence de l'Organisation des Nations
+unies sur le développement et l'environnement ; la
+présence de représentants du Texas à des rencontres
+des pays membres de l'Organisation des pays
+exportateurs de pétrole (OPEP) alors que les États-Unis
+ne sont pas membres de l'organisation ; les tête-à-tête
+de Jordi Pujol, alors qu'il était président de la
+Catalogne, avec tous les chefs d'État des pays du G7, à
+l'exception de celui du Canada ; ou encore les activités
+de l'État de San Luis Potosí au Mexique pour faciliter le
+transfert des fonds envoyés par les immigrants installés
+aux États-Unis (Lequesne et Paquin, 2017).
+
+
+Pour ce qui est des questions de sécurité, on peut
+noter : la participation du Land du Bade-Wurtemberg
+aux missions de rétablissement de la paix au
+Bangladesh, en Russie, en Bosnie-Herzégovine, au
+Burundi et en Tanzanie ; les sanctions imposées par
+l'État américain du Maryland contre l'Afrique du Sud
+en 1985, ou encore la Massachusetts Burma Law de
+1996, invalidée depuis par la Cour suprême des États-
+Unis, qui interdisait d'accorder des contrats publics à
+des entreprises qui œuvraient au Myanmar (Birmanie) ;
+les pressions exercées sur l'État de Victoria, en
+Australie, pour faire annuler des contrats conclus avec
+des sociétés françaises en signe de protestation contre
+
+
+les essais nucléaires menés par la France dans le
+Pacifique Sud en 1995
+;
+la participation de
+représentants de la garde nationale d'États américains
+aux programmes d'échanges militaires internationaux,
+etc. (Paquin, 2004).
+
+
+Constitution
+
+
+et
+
+
+non centraux
+
+
+gouvernements
+
+
+Les gouvernements non centraux détiennent des
+pouvoirs asymétriques en matière de politique
+internationale, ce qui a un effet considérable sur leur
+capacité d'action. Cette asymétrie existe entre les pays,
+mais également entre les régions des pays. En règle
+générale, plus un pays est décentralisé, plus les
+gouvernements non centraux ont des responsabilités
+constitutionnelles qui accroissent leur capacité d'action
+sur la scène internationale. Plus un gouvernement non
+central détient des compétences, plus il bénéficie de
+ressources financières ainsi que d'une fonction
+publique d'importance (Paquin, 2004; Michelmann,
+2009; Criekemans, 2011).
+
+
+Tableau 1- Typologie de divers régimes politiques en relation
+avec l'autonomie des gouvernements non centraux
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+Au sein d'États unitaires comme le Danemark ou
+encore Israël, les gouvernements non centraux ne
+possèdent que très peu d'autonomie. Dans des États
+unitaires qui ont une structure plus décentralisée
+comme la France ou encore dans les États dévolués
+comme le Royaume-Uni ou les pays quasi fédéraux
+comme l'Espagne, les gouvernements non centraux
+disposent de plus d'autonomie, même si les pouvoirs de
+l'État central demeurent prépondérants.
+
+
+Dans des pays fédéraux, la souveraineté est divisée
+constitutionnellement entre un gouvernement central
+et des États fédérés, comme c'est le cas des États
+australiens et américains, des Länder allemands, des
+provinces canadiennes ou des régions et communautés
+de Belgique. Pour être qualifié de gouvernement
+fédéral, le gouvernement central ne peut modifier
+unilatéralement la Constitution à son avantage. Dans
+ces pays, les États fédérés détiennent de très
+nombreuses responsabilités. Au Canada, les provinces
+sont responsables des questions de santé, d'éducation,
+de travail, de culture et de politique municipale. Elles
+ont également une partie de la responsabilité des
+questions liées au développement économique, à la
+protection de l'environnement, et même à la justice.
+
+
+L'Inde et la Malaisie ont des Constitutions qui
+assignent explicitement la compétence exclusive des
+relations internationales à l'État central. Mais dans
+plusieurs autres pays fédéraux, tels le Canada,
+l'Australie et la Belgique, de nombreux spécialistes ont
+souligné les difficultés pour les gouvernements
+centraux de négocier et de mettre en œuvre des
+accords internationaux lorsque ces derniers touchent
+les champs de compétence des États fédérés (Twomey,
+2009). En Australie et au Canada, les tribunaux ont
+statué que le gouvernement central pouvait négocier
+des accords sur l'ensemble des sujets, dont ceux
+
+
+relevant de la compétence des États fédérés en droit
+interne, mais qu'il n'avait pas le pouvoir de forcer les
+États fédérés à les mettre en œuvre, ce qui peut créer
+un problème de taille à l'égard du respect des
+engagements internationaux de ces pays. D'autres
+Constitutions, telles que celles de
+l'Australie, de
+l'Allemagne, de la Suisse ou encore de la Belgique,
+accordent explicitement des pouvoirs aux
+gouvernements régionaux en matière de relations
+internationales. Les Constitutions suisse, allemande et
+belge accordent même aux États fédérés le pouvoir de
+conclure de véritables traités en vertu du droit
+international (Michelmann, 2009, 6-7).
+
+
+La Constitution belge va encore plus loin. Depuis
+1993, la Belgique est une fédération qui permet aux
+États fédérés de devenir de véritables acteurs
+internationaux. La division des pouvoirs en matière de
+relations internationales suit le partage des
+compétences en vertu du principe constitutionnel : in
+foro interno, in foro externo, que l'on peut traduire par
+le
+prolongement international des compétences
+internes. Selon cette Constitution, il existe trois types
+de traités en Belgique : 1) les traités qui sont de
+compétence fédérale ; 2) les traités qui sont du ressort
+des États fédérés ; 3) les traités mixtes qui touchent les
+deux ordres de gouvernement et qui requièrent donc la
+coopération entre ces deux gouvernements pour être
+négociés et mis en œuvre. De plus, il n'y a pas de
+hiérarchie entre les paliers de gouvernement, ce qui
+signifie, dans les faits, qu'un ambassadeur belge, par
+exemple, n'occupe pas un rang supérieur à un
+diplomate flamand (Paquin, 2010).
+
+
+Quel
+
+
+type
+
+
+internationaux ?
+
+
+d'acteurs
+
+
+Quel type d'acteurs internationaux sont les
+gouvernements non centraux ? Leur statut est à mi-
+chemin entre celui d'un pays souverain et celui d'une
+organisation non gouvernementale (ONG) ou d'une
+entreprise multinationale. Leur statut est ambigu, car il
+est à la fois, selon l'expression de James Rosenau
+(1990), sovereignty-bound et sovereignty-free.
+
+
+Puisque les gouvernements non centraux ne sont pas
+souverains (sovereignty-free), ils ne sont pas des
+acteurs reconnus du droit international au même titre
+que les pays. Mis à part certaines exceptions prévues
+dans le droit interne des États comme en Belgique, ces
+gouvernements ne peuvent pas formellement signer de
+véritables traités internationaux au sens du droit
+international. Ils ne peuvent pas non plus ouvrir de
+véritables ambassades ou consulats.
+
+
+Cela dit, leur statut d'acteur sovereignty-free, c'est-à-
+dire qui n'est pas formellement reconnu par le droit
+international, ne leur enlève pas toute capacité d'agir.
+Leur mode d'action se situe davantage dans le registre
+d'une ONG. En effet, les gouvernements non centraux
+envoient des missions d'étude et de prospection à
+l'étranger, ils participent aux foires commerciales et à
+certains forums internationaux, tel le Forum
+économique mondial de Davos, ils financent des
+campagnes de relations publiques pour accroître les
+exportations et attirer les investissements... La
+province canadienne de l'Alberta a été très active à
+Bruxelles pendant les négociations de l'Accord
+économique et commercial global entre le Canada et
+l'Union européenne afin de s'assurer que le pétrole issu
+des sables bitumineux ne ferait pas l'objet d'une
+sanction de la part de l'Union européenne. Cette même
+province a été très active à Washington afin de faire
+pression sur les élus américains pour qu'ils approuvent
+le projet de pipeline Keystone XL.
+
+
+Il est également plus facile pour les gouvernements
+non centraux d'adopter des positions internationales
+idéalistes et ils disposent d'une plus grande latitude
+pour adopter des positions fermes sur des sujets
+délicats. Ils peuvent plus facilement condamner, par
+exemple, le non-respect des droits de la personne. Les
+pays doivent, pour leur part, adopter un ton plus
+nuancé et une approche plus diplomatique pour tenir
+compte de nombreux facteurs de nature politique ou
+économique. Les États fédérés peuvent également aller
+défendre leurs intérêts devant les tribunaux étrangers.
+Le gouvernement de l'Ontario a ainsi porté la question
+des pluies acides directement devant les juges
+américains, ce qu'a aussi fait la Colombie-Britannique
+au sujet de la « guerre du saumon » qui opposait le
+Canada aux États-Unis.
+
+
+Les gouvernements non centraux sont également des
+acteurs sovereignty-bound, c'est-à-dire qu'ils possèdent
+une partie de la souveraineté sur leur territoire.
+Plusieurs gouvernements non centraux ont un ministre
+responsable des relations internationales ainsi qu'un tel
+ministère. De plus, la gamme d'outils mis à la
+disposition des États fédérés pour leurs actions
+internationales est presque aussi importante que celle
+des pays souverains, à l'exception du recours à la force
+militaire. En effet, plusieurs gouvernements non
+centraux organisent des visites officielles avec d'autres
+dirigeants régionaux ou de pays souverains, comme les
+visites alternées des Premiers ministres de la France et
+du Québec. Ils ouvrent des représentations ou des «
+mini-ambassades
+>>
+à l'étranger, ils établissent des
+relations bilatérales et multilatérales avec des pays
+souverains ou d'autres États fédérés, ils créent des
+institutions de coopération régionales
+ou
+transrégionales, et ils peuvent aussi conclure des
+ententes internationales.  ce propos, le gouvernement
+
+
+du Québec en a conclu 751, dont 385 sont encore en
+vigueur. Plus de 80 % de ces ententes ont été conclues
+avec des pays souverains. Dans certains cas, comme
+dans celui des États fédérés belges, on parle même de
+véritables traités internationaux (Paquin, 2010).
+
+
+Leur localisation au sein d'un État souverain permet
+aux États fédérés d'avoir accès aux décideurs du
+gouvernement central, y compris aux acteurs de la
+politique étrangère de l'État. Partager la souveraineté
+avec un gouvernement central offre une raison aux
+gouvernements non centraux d'établir une présence
+internationale et de développer des moyens d'influence.
+Ainsi, contrairement aux ONG ou aux multinationales
+par exemple, le gouvernement d'un État fédéré peut
+jouir, si le gouvernement central l'accepte, d'un accès
+privilégié aux réseaux diplomatiques internationaux et
+peut participer aux négociations internationales au sein
+de la délégation du pays (Paquin, 2004; Lequesne et
+Paquin, 2017).
+
+
+Ce phénomène est même croissant. Depuis la fin de la
+seconde guerre mondiale, nous assistons à une
+croissance du multilatéralisme et des négociations
+internationales. Alors que vers la fin du $XIX^{e}$ siècle, on
+ne recensait chaque année qu'une ou deux conférences
+ou congrès réunissant des représentants officiels, on en
+compte, de nos jours, environ 9 000. Le recueil des
+traités des Nations unies permet d'accéder à environ
+250 000 traités (ONU, 2018)1. Le multilatéralisme et
+les négociations internationales sont ainsi devenus une
+composante indissociable de la mondialisation (Paquin,
+2013).
+
+
+Parallèlement à ce qui précède, on note une
+croissance importante du nombre de régimes fédéraux
+dans le monde. Au sein de l'Union européenne, par
+exemple, seulement deux pays étaient des régimes
+
+
+fédéraux après la seconde guerre mondiale alors que
+de nos jours, 19 des 27 pays de l'Union européenne ont
+connu une croissance importante de gouvernements
+régionaux et plusieurs sont de véritables régimes
+fédéraux. Le Forum des fédérations estime qu'environ
+40% de la population mondiale réside dans un pays de
+type fédéral (Lequesne et Paquin, 2017).
+
+
+La conséquence de ces deux phénomènes a pour effet
+que,
+désormais, tous les champs de l'activité
+gouvernementale, même ceux des États fédérés et des
+municipalités, entrent dans le domaine de compétences
+d'au moins une organisation intergouvernementale, et
+souvent de plusieurs (Paquin, 2011; Lequesne et
+Paquin, 2017). Ainsi, dans le cadre des organisations
+internationales ou des conférences thématiques, on
+aborde des thèmes liés à l'environnement, au libre-
+échange, aux marchés publics, à l'éducation, à la santé
+publique, à la diversité culturelle, aux subventions aux
+entreprises, au traitement des investisseurs, à la
+suppression des barrières non tarifaires,
+à
+l'agriculture, aux services, etc. Dans ce contexte, les
+États fédérés sont de plus en plus conscients que leur
+pouvoir politique ou leur souveraineté, c'est-à-dire leur
+capacité à développer des politiques et à les mettre en
+œuvre, fait l'objet de négociations dans le cadre de ces
+forums multilatéraux internationaux.
+
+
+Puisque les négociations internationales ont des
+effets de plus en plus importants dans les champs de
+compétences des États fédérés, ces derniers sont
+désormais des acteurs incontournables lors de ces
+négociations. Dans les négociations sur
+les
+changements climatiques, par exemple, l'Organisation
+des Nations unies a reconnu formellement l'importance
+de ces acteurs. Selon le Programme des Nations unies
+pour le développement : « [...] most investments to
+reduce GHG (Greenhouse gas) emissions and adapt to
+
+
+climate change 50 to 80 percent for reductions and
+up to 100 percent for adaptation  must take place at
+the sub-national level2 » (PNUD, 2010, 3). De plus, lors
+de la $16^{e}$ conférence des Parties de la convention cadre
+des Nations unies sur les changements climatiques de
+Cancún en décembre 2010, l'importance du rôle des
+gouvernements non centraux a été inscrite dans
+l'Accord de Cancún à l'article 7. Lors de son discours
+devant les délégués, le représentant du Canada, John
+Baird, a explicitement reconnu le rôle des provinces
+canadiennes et notamment du Québec sur la question
+des changements climatiques (Chaloux, Paquin et
+Séguin, 2015).
+
+
+Sur le plan des négociations commerciales, la
+tendance demeure la même. Lors du lancement de la
+plus importante négociation commerciale du Canada
+depuis l'Accord de libre-échange Canada-États-Unis de
+la fin des années 1990, celles entre le Canada et
+l'Union européenne, le rôle des provinces a été accru
+dans les négociations. L'Union européenne a exigé de la
+part du gouvernement canadien que les provinces
+canadiennes soient incluses au sein de la délégation
+canadienne afin de lancer les négociations pour un
+accord de libre-échange « nouvelle génération ». Cela
+ explique essentiellement du fait que, dans cette
+négociation, c'est la question des marchés publics des
+provinces et des villes canadiennes qui sont d'un
+intérêt particulier pour l'Union européenne. Dans ce
+contexte, l'Union européenne a estimé que, pour que
+ces négociations aient une chance de réussir, elles
+devaient inclure des représentants des provinces aux
+tables de négociations puisque ces dernières ne sont
+pas obligées de mettre en œuvre un accord conclu par
+le gouvernement fédéral dans leurs champs de
+compétences (Paquin, 2013).
+
+
+Il existe également de nombreux précédents où des
+représentants d'États fédérés ont participé, au sein de
+la délégation d'un pays (et parfois même à l'extérieur
+comme le font le Québec, le Nouveau-Brunswick ou la
+fédération Wallonie-Bruxelles dans le cas de la
+
+
+francophonie),
+à
+des
+rencontres
+internationales comme l'Union
+
+
+d'institutions
+
+
+européenne,
+
+
+l'Organisation des Nations unies, l'Organisation
+mondiale du commerce, l'Organisation mondiale de la
+santé ou l'Organisation des Nations unies pour
+l'éducation, la science et la culture, ou encore aux
+Conférences des parties de la convention cadre des
+Nations unies sur les changements climatiques.
+
+
+Lorsque les gouvernements centraux bloquent l'accès
+aux négociations internationales aux gouvernements
+non centraux, ces derniers peuvent tenter d'influencer
+les négociations en allant sur le site de la négociation.
+Pour faire entendre sa voix, le gouvernement du
+Québec a envoyé plusieurs représentants aux
+conférences des parties sur les changements
+climatiques malgré l'objection du gouvernement
+climato-sceptique dirigé par Stephen Harper. Une autre
+stratégie consiste à joindre des réseaux de
+gouvernements non centraux et à créer une ONG qui se
+fait accréditer lors d'une négociation, et qui se fait
+confier le mandat de défendre les intérêts de ces
+acteurs lors de négociations. C'est le cas de l'ONG
+Network of Regional Governments for Sustainable
+Development qui représente entre autres les intérêts
+des régions dans les négociations sur les changements
+climatiques.
+
+
+*
+
+
+Le phénomène
+
+
+paradiplomatique, bien que
+représente
+
+
+généralement peu spectaculaire,
+
+
+certainement un changement important sur le plan de
+l'étude de la politique étrangère et de la politique
+internationale. Le phénomène est extensif, intensif et
+permanent. Les intérêts internationaux des
+gouvernements centraux sont très variés et importants.
+Dans leurs actions internationales, ces gouvernements,
+malgré l'asymétrie des cas, disposent d'une marge de
+manœuvre et de ressources considérable. Bref, le
+phénomène ne peut plus être ignoré, même dans les
+pays centralisés comme la France.
+
+
+Si la recherche sur la paradiplomatie a beaucoup
+progressé dans les trente dernières années et si les
+études de cas se font de plus en plus nombreuses, il
+reste tout de même plusieurs angles morts. Il existe
+encore peu d'études sur la paradiplomatie et les
+questions de sécurité analysées dans un sens large. De
+plus, peu d'études existent sur les gouvernements non
+centraux et sur les négociations internationales,
+notamment sur la négociation et la mise en œuvre des
+traités internationaux.
+
+
+Bibliographie commentée
+
+
+ALDECOA Francisco, KEATING Michael (eds), Paradiplomacy in Action.
+The Foreign Relations of Subnational Governments, Londres, Frank
+Cass Publishers, 1999.
+
+
+Ce livre collectif, qui était à l'origine un numéro spécial de la revue
+Regional and Federal Studies, réunit de très nombreux spécialistes
+reconnus de plusieurs pays. Il propose plusieurs articles qui
+portent à la fois sur des aspects théoriques et sur des études de
+cas, qu'il s'agisse des États américains, du Québec ou encore des
+États australiens.
+
+
+CRIEKEMANS David (ed.), Regional Sub-State Diplomacy Today, Leiden,
+Brill, 2011.
+
+
+Ce livre collectif, qui était également à l'origine un numéro spécial
+de la revue The Hague Journal of Diplomacy, propose des articles
+plus théoriques ainsi que des études de cas sur la paradiplomatie.
+En plus des États mexicains, d'un article comparé sur le Québec, la
+
+
+1.
+
+
+Catalogne, la Wallonie, l'Écosse, la Bavière et la Flandre, on peut
+lire des articles sur la paradiplomatie publique ainsi que sur le
+fédéralisme belge.
+
+
+KUZNETSOV Alexander, Theory and Practice of Paradiplomacy.
+Subnational Governments in International Affairs, Londres,
+Routledge, coll. « Routledge New Diplomatic Studies », 2014.
+
+
+Ce livre propose, à partir d'une perspective foucaldienne, une
+théorisation de la paradiplomatie et conclut en proposant une
+analyse du cas de l'Alberta au Canada. Il analyse à partir d'une
+perspective critique les grands auteurs de la discipline.
+
+
+LEQUESNE Christian, PAQUIN Stéphane (eds), numéro spécial de la revue
+International Negotiation,
+«
+Federalism and international
+negotiation », 2 (22), 2017.
+
+
+Ce numéro spécial de la revue International Negotiation sur le
+fédéralisme et les négociations internationales propose un retour
+sur l'histoire et les théories de la paradiplomatie depuis ses
+origines. Il critique notamment le fait que peu de recherches ont
+porté dans le passé sur le rôle des États fédérés dans les
+négociations internationales. Il est suivi de plusieurs études de cas
+sur le Mexique, le Canada et les États-Unis, ainsi que sur les États
+fédérés indiens.
+
+
+PAQUIN Stéphane, Paradiplomatie et relations internationales. Théorie
+des stratégies internationales des régions face à la mondialisation,
+Bruxelles, Presses interuniversitaires européennes/Peter Lang,
+2004.
+
+
+Ce livre propose une théorie de la paradiplomatie à partir de trois
+grandes variables : la mondialisation, l'internationalisation et
+l'intégration régionale ainsi que le nationalisme et le régionalisme.
+Il s'intéresse également à l'impact de la montée des acteurs sub-
+étatiques sur les relations internationales.
+
+
+TAVARES Rodrigo, Paradiplomacy. Cities and States as Global Players,
+Oxford, Oxford University Press, 2016.
+
+
+Ce livre très accessible constitue une synthèse grand pubic sur la
+paradiplomatie des régions, mais également des métropoles. Il
+propose une synthèse du phénomène et analyse plusieurs études de
+cas des régions françaises aux provinces, les Açores portugaises, la
+Flandre en Belgique jusqu'à Buenos Aires en Argentine.
+
+
+Tiré
+
+
+de
+
+
+cette
+
+
+page
+
+
+internet
+
+
+https://treaties.un.org/Pages/Overview.aspx?
+path= overview/overview/page1_fr.xml [consulté le 19 juin 2018].
+
+
+:
+
+
+2. << [...] La majorité des investissements pour réduire les émissions de gaz
+
+
+à effet de serre et pour s'adapter aux changements climatiques entre 50
+
+
+et 80% pour la réduction et jusqu'à 100% pour l'adaptation doit se
+
+
+produire au niveau sub-national >> (notre traduction).
+
+
+Chapitre 4
+
+
+Diplomaties de clubs et
+de groupes
+
+
+Christian Lechervy
+
+
+I 'Organisation des Nations unies reconnaît 197
+États. Cependant au sein même de cette assemblée,
+autrement dit du G197, des groupes de discussion et de
+partenariat réduits se sont constitués au fil du temps.
+Ils se sont articulés sur des bases géographiques,
+thématiques, fonctionnelles ou plus idéologiques. Ces
+groupes restreints qui cherchent
+à
+efficacement les décisions on conduit sur la scène
+internationale à la mise sur pied d'institutions
+subrégionales et spécialisés, mais également de
+groupes plus informels de réflexion et d'action.
+
+
+orienter
+
+
+Quelques raisons pour travailler
+en groupes
+
+
+restreints et informels
+
+
+Les rassemblements interétatiques en format
+restreint peuvent compter un grand nombre de
+membres. Il en est ainsi du G77 inauguré en 1964. La
+coalition conçue pour promouvoir les intérêts
+économiques et politiques des pays en développement
+en rassemble aujourd'hui 132. Définir au sein d'une
+communauté si diverse des objectifs, des positions
+communes et des modes d'action en synergie ne
+s'avère pas toujours aisé. Par souci d'efficacité, les
+États sont conduits à compléter leur participation aux
+macro-organisations
+par des modus operandi
+mobilisant un nombre plus limité d'acteurs. Ainsi en
+1971, au sein du G77, il fut décidé d'édifier un G24 afin
+que les pays en voie de développement puissent être
+mieux entendus au Fonds monétaire international
+(FMI). La constitution d'instruments diplomatiques
+unissant un petit nombre de pays ne signifie en rien des
+ambitions limitées comme en témoigne depuis 2005 le
+G4 associant l'Allemagne, le Brésil, l'Inde et le Japon
+dans le but de permettre d'accéder à chacun des pays
+au statut de membre permanent du Conseil de sécurité
+des Nations unies. Si les assemblages interétatiques
+peuvent avoir un seul but à atteindre, ils peuvent être
+plurifonctionnels.
+
+
+La mise sur pied de cercles informels de discussion
+pour concourir à la gouvernance mondiale ou
+subrégionale est d'abord une méthode de travail
+diplomatique. Elle n'est pas une fin en soi. Elle vise à
+renforcer les relations de confiance entre les États, et
+plus encore entre les chefs d'État et de gouvernement,
+voire entre leurs ministres ou les hauts fonctionnaires.
+
+
+C'est un moyen intergouvernemental d'influence pour
+chercher à peser politiquement dans des enceintes
+internationales et un outil de négociation privilégié
+pour sortir des crises les plus complexes.
+
+
+Si les États ont régulièrement recours à un mode de
+mobilisation combinant des dispositifs formels et
+informels, ils savent s'ouvrir au-delà du monde politico-
+administratif stricto sensu. Des groupes d'influence
+agrégeant sur une base régulière des femmes et des
+hommes d'État, des intellectuels voire des hommes
+
+
+d'affaires se sont
+positionnés sur la scène
+internationale pour faire évoluer les opinions
+publiques, infléchir les diplomaties conduites au sein
+des organisations internationales et dans le cadre des
+relations bilatérales. Ils ont pu jouer un rôle
+d'importance dans la définition de nouvelles normes
+juridiques internationales, et concourir à la résolution
+de conflits.
+
+
+Une praxis durable
+
+
+Au fil des décennies, les formats ad hoc se sont non
+seulement multipliés, mais les cercles institués ont eu
+tendance à perdurer, quitte à voir leurs mandats
+s'élargir et le nombre des pays associés croître.
+Intitulés associations, cercles, clubs, coalitions,
+conseils, forums, groupes, rencontres, sommets des
+leaders, les mécanismes informels de coopération
+politique sont suscités et employés aussi bien par les
+petits États en développement que par les puissances
+émergentes ou encore les grandes puissances
+installées. Chacun y a recours, rendant les manœuvres
+diplomatiques
+multilatérales particulièrement
+complexes et parfois difficiles à décrypter. Un même
+sujet peut se voir traiter simultanément dans plusieurs
+
+
+forums, sans que tous soient transparents sur leurs
+conclusions et les synergies entre les acteurs.
+
+
+La création de groupes ad hoc de discussion ne
+requiert pas de réunir les chefs d'État et de
+gouvernement, de les formaliser juridiquement et de
+décliner la praxis à chaque niveau hiérarchique, des
+ministres aux hauts fonctionnaires. Dans toutes les
+régions du monde, dans toutes les instances
+internationales, les diplomates éprouvent le besoin de
+se retrouver en petits comités, de discuter
+informellement pour mener à bien leur mission de la
+manière la plus efficiente possible. Cette appétence se
+fait ressentir jusque dans l'enceinte internationale la
+plus éminente : le Conseil de sécurité des Nations
+unies. Les cinq membres permanents ont décidé de
+former un sous-ensemble singulier : le P5 (5
+permanents), avec ses réunions informelles et ses
+règles propres de fonctionnement.
+
+
+À la fin de la guerre froide, la Chine, les États-Unis, la
+France, la Russie et le Royaume-Uni prirent l'habitude
+de se rencontrer au siège de leurs délégations pour
+travailler plus étroitement ensemble. Il s'agissait
+d'esquisser des solutions aux problèmes liés à la paix et
+à la sécurité, ou plus égoïstement de défendre leurs
+intérêts de puissance notamment nucléaires. Le travail
+diplomatique en format restreint à New York a requis
+l'adoption de règles de travail non écrites (ex. :
+présidence tournante tous les trois mois, réunion au
+niveau des ambassadeurs à la demande des
+délégations). Ces mécanismes ont facilité dans la plus
+grande discrétion les convergences de vues sur les
+grands dossiers internationaux. Ils sont activés au cas
+par cas, laissant toute latitude aux chefs de mission
+diplomatique et à la qualité des relations
+interpersonnelles.
+
+
+En 2006, le format P5 auquel s'est ajoutée
+l'Allemagne a été privilégié par les capitales pour
+trouver une solution durable aux velléités nucléaires
+militaires iraniennes. Le $P5+1$, dénommé également
+$l^{\prime}E3+3$, a donné aux trois États européens (Allemagne,
+France, Royaume-Uni) et au haut représentant de
+l'Union européenne pour la politique étrangère et de
+sécurité commune une place internationale tout à fait
+éminente. Il est vrai que, dans le cadre des Nations
+unies comme dans d'autres instances internationales et
+sur leur continent, les Européens ont pris depuis
+longtemps l'habitude de travailler en petits groupes. Le
+couple franco-allemand, depuis le traité de l'Élysée
+(1963), a été le moteur de la construction européenne.
+Depuis plus de cinquante ans, il n'a connu ni substitut
+bilatéral, ni à une échelle communautaire plus large.
+Certes, il existe des sommets de la zone euro à 19
+depuis 2012, des mini-sommets à trois (Allemagne,
+France, Italie 2016 ou à quatre avec l'Espagne
+2017), mais les consultations politiques élargies n'ont
+pas trouvé dans le temps leur raison d'être et leur
+rythme propre de travail, à deux exceptions près
+toutefois.
+
+
+D'abord enceinte privilégiée ayant vocation
+à
+appuyer la réconciliation germano-polonaise, inspirée
+de l'expérience franco-allemande, puis à soutenir et
+préparer l'adhésion de la Pologne à l'Union européenne
+(UE), le Triangle de Weimar en est un des exemples.
+Dès 1991, ce format ad hoc a pu répondre aux attentes
+historiques liées à la réunification allemande. Le
+Triangle a toutefois profondément évolué après
+l'adhésion de Varsovie à l'UE en 2004, avec pour
+objectif principal d'établir une coopération étroite
+entre les gouvernements des trois pays sur les
+échéances européennes. Ce ne fut pas pour autant la
+constitution d'un nouveau triumvirat sur l'Europe,
+
+
+même si certains à l'est de la ligne Oder-Neisse ont pu
+l'espérer ou le craindre.
+
+
+Dans la perspective de leur adhésion à l'Union, la
+Hongrie, la Pologne et la Tchécoslovaquie constituèrent
+elles aussi un Triangle en 1991, celui de Visegrad.
+Devenue le V4 après la partition entre la République
+tchèque et la Slovaquie, cette entité politique
+informelle fut reconnue au point de tenir en mars 2013
+à Varsovie un sommet Weimar-Visegrad inédit sur
+l'Europe de la défense. Contrairement à d'autres
+entreprises européennes de dialogue, ces mécanismes
+informels de consultation triangulaire et
+quadrangulaire n'ont pas généré, depuis leur création,
+des mécanismes administratifs permanents avec un
+secrétariat et un budget afférent (cf. Conseil des États
+de la mer Baltique CBSS, 1992
+Union pour la
+Méditerranée - UFM, 2008). La logique de clubs s'est
+suffi à elle-même. Il reste à savoir si cette
+fragmentation de la coopération politique affaiblit ou
+renforce les institutions européennes et les positions de
+l'Union dans les forums les plus larges.
+
+
+-,
+
+
+Se
+
+
+réunir
+
+
+informellement
+
+
+pour
+
+
+réfléchir
+
+
+et agir en toute confidentialité
+
+
+Parmi les États occidentaux, des habitudes de travail
+entre partenaires de confiance se sont créées. Les
+échanges informels au niveau des hauts fonctionnaires
+en format Quint entre les quatre grands d'Europe
+occidentale (Big Four : l'Allemagne, la France, l'Italie,
+le Royaume-Uni et les États-Unis) sont devenus usuels.
+De plus en plus souvent, cette configuration, du fait de
+la construction européenne, a induit l'association du
+haut représentant de l'Union pour les affaires
+
+
+étrangères et la politique de sécurité ou de l'un de ses
+collaborateurs, une pratique visant à éviter d'élargir les
+plateformes concernées aux 28 États membres de l'UE.
+Un souci pratique louable mais qui n'en reste pas
+moins discriminatoire. Les enceintes de sécurité
+collective n'ont pas plus échappé à une forme de
+gouvernance de fait restreinte, non explicite dans leurs
+règles fondatrices. À l'Organisation du traité de
+l'Atlantique nord (OTAN) depuis la crise de Berlin en
+1959, les échanges informels en format Quad
+(quadrilateral defence coordination group) entre les
+États-Unis, la France, le Royaume-Uni et l'Allemagne
+ont été monnaie courante. Ces discussions pèsent très
+lourd lors des moments clés de la vie des organisations
+internationales. Elles peuvent être particulièrement
+mal vécues par les non-membres car elles définissent
+des compromis qui tendent à préempter les décisions
+des organes de décision légitimes. On se souviendra
+par ailleurs que, sous un même dénominatif, les
+formats restreints peuvent avoir des significations
+géographiques diverses. Ainsi, dans le Pacifique, le
+format Quad renvoie aux coopérations renforcées
+établies entre l'Australie, les États-Unis, la France et la
+Nouvelle-Zélande, mais également entre l'Australie, les
+États-Unis, l'Inde et le Japon pour ce qui concerne le
+cadre Indo-Pacifique.
+
+
+Les domaines de la défense ont été propices au
+travail en groupes restreints, notamment parce que l'on
+y échange des informations classifiées. Il en est ainsi
+des coopérations dans le domaine du renseignement
+(ex.: l'alliance des Five Eyes qui lie depuis la seconde
+guerre mondiale les communautés du renseignement
+américain, australien, britannique, canadien et néo-
+zélandais), de la lutte antiterroriste (G5 Sahel, 2014) et
+du contrôle des exportations des équipements sensibles
+pour faire obstacle à la dissémination d'avantages
+
+
+technologiques vers certaines catégories de pays tiers
+(cf. pendant la guerre froide le contrôle à l'encontre
+des pays du pacte de Varsovie s'effectuait par
+l'entremise du Cocom, le Comité de coordination pour
+le contrôle multilatéral des exportations après la
+chute du mur de Berlin, il fut remplacé en 1996 par
+l'accord de Wassenaar ; le Groupe des fournisseurs
+nucléaires 1974). Ces clubs sont fondés sur la
+confiance stratégique et le partage d'informations très
+confidentielles. Ils n'en sont pas moins soumis à des
+géométries variables dans le temps et aux aléas
+politiques.
+
+
+La dissolution du pacte de Varsovie a montré que les
+alliances politico-militaires ne sont nullement pérennes.
+Au sein des institutions occidentales les plus durables,
+des crises ont pu surgir et nuir durablement à ce type
+de coopérations. Il en fut ainsi de 1986 à 2012 entre les
+États-Unis et la Nouvelle-Zélande au sein de l'Australia,
+New Zealand, United States Security Treaty (Anzus)
+après qu'Auckland eut fait barrage à l'entrée dans les
+eaux territoriales
+néo-zélandaises des systèmes
+d'armes emportant
+des armes nucléaires ou
+propulsion atomique.
+
+
+à
+
+
+Si le recours à des groupes en format de confiance
+permet d'élaborer et de conduire des actions
+diplomatiques, ces schémas permettent également de
+chercher à résoudre les crises internationales. Le
+nucléus peut être restreint à quelques acteurs
+étatiques en situation privilégiée qui décident de
+conjuguer leurs efforts. Les discussions sont menées en
+format one track, entre diplomates professionnels et/ou
+personnes officiellement mandatées. La France et
+l'Indonésie se mobilisèrent en ce sens de 1987 à 1991
+pour trouver un terme au troisième conflit indochinois.
+Les parties prenantes à la médiation peuvent être plus
+nombreuses et plus directement impliquées. Depuis
+
+
+juin 2014, la configuration du groupe de négociation
+cherchant une issue aux affrontements dans l'est de
+l'Ukraine s'est articulée selon les schémas dits
+<<
+Normandie », l'Allemagne, la France, la Russie et
+l'Ukraine ayant entamé leurs discussions au château de
+Bénouville en marge du $70^{e}$ anniversaire du
+débarquement du 6 juin. Selon cette logique, l'Iran, la
+Russie et la Turquie ont parrainé en 2017 les
+pourparlers d'Astana sur la Syrie, mais l'État « auberge
+» du processus de négociation peut avoir un rôle
+mineur au regard des puissances garantes des accords
+qui mènent en sous-main des conflits par procuration.
+Dans tous les cas de figure se pose la question de
+l'association aux négociations des acteurs infra-
+étatiques pour ne pas dire des rebelles. C'est pourquoi
+il peut être décidé de se placer sous les auspices de
+plusieurs organisations internationales. Ce choix fut
+opéré pour les discussions internationales sur la
+sécurité et la stabilité en Transcaucasie, menées à
+Genève depuis 2006 sous l'égide des Nations unies, de
+l'Organisation pour la sécurité et la coopération en
+Europe (OSCE) et de
+l'Union européenne. Autre
+possibilité de marche
+à suivre,
+organiser les
+discussions de paix autour d'un médiateur de prestige
+et de confiance totalement étranger à la crise (cf. l'ex-
+Premier ministre finlandais Martii Ahtisaari sur Aceh
+2005). Cette diplomatie dite one track and half a pu
+laisser penser que des centres privés de résolution des
+conflits (ex. : Carter Centre, Communauté de San't
+Egidio) pourraient jouer à l'avenir un rôle grandissant,
+voire se substituer aux diplomaties traditionnelles.
+
+
+À mesure que les crises se prolongent, si les groupes
+de négociation ne changent pas dans leur composition
+interétatique, ils n'en doivent pas moins s'adapter aux
+évolutions des leaderships des États qui les constituent.
+
+
+C'est particulièrement vrai quand l'intermédiation
+s'éternise comme dans le cas du groupe de Minsk.
+Depuis 1992, les diplomates américains, français et
+russes qui le coprésident se succèdent au rythme des
+vies administratives. Pendant ce temps-là au Haut-
+Karabagh, les tensions sont demeurées vives entre
+l'Arménie et l'Azerbaïdjan. Le groupe de médiation
+peut être mandaté et rapporter à une organisation
+internationale comme c'est le cas ici avec l'OSCE. La
+qualité des rendus diplomatiques à la tutelle est
+essentielle car le travail en format restreint suscite
+bien souvent la frustration d'États tiers qui jugent
+qu'ils pourraient être non seulement associés plus
+étroitement aux discussions mais qu'ils sont fondés
+politiquement à rejoindre le groupe restreint, certains
+de leurs intérêts étant en jeu.
+
+
+Le
+
+
+format
+
+
+restreint
+
+
+comme
+
+
+expression
+
+
+de la puissance
+
+
+L'occlusion des groupes, surtout à l'intérieur des
+organisations internationales, contribue au prestige et
+à l'influence des États qui les constituent, au détriment
+de tous les autres. C'est pourquoi des groupes ad hoc
+auto-mandatés émergent. Dans le cas des conflits
+armés, pour agir et espérer parvenir à leurs fins, il leur
+faut bénéficier de la bienveillance voire du soutien des
+parties, comme c'est le cas dans les pourparlers à six
+(six parties talk) à la suite de la décision nord-coréenne
+de se retirer du Traité de non-proliférations. Si à la
+même table se retrouvent Pyongyang et Séoul, les
+discussions engagées depuis 2003 par la Corée du
+Nord, la Chine, la Russie, la Corée du Sud, le Japon et
+les États-Unis fleurent bon, souvent encore, la logique
+
+
+des blocs telle qu'ordonnancée à l'heure de la guerre
+froide. On fut toujours si loin d'un accord final que les
+phases de négociation successives n'ont impliqué que
+des diplomates de second rang, mais tenir un sommet
+mettant face à face les chefs d'État et les protagonistes
+du conflit n'est pas pour autant une garantie succès,
+comme en a témoigné la rencontre entre les présidents
+arménien Serge Sargsian et azerbaïdjanais Ilham Aliyev
+à Berne en décembre 2015. L'incertitude du succès des
+médiations et la complexité des processus de paix ont
+pour conséquence qu'un tout petit nombre d'États s'y
+risque.
+
+
+Au regard de son statut international, la France a été
+le réceptacle et le médiateur de nombreuses
+négociations de paix mettant à contribution ses
+diplomates, leur savoir-faire et des lieux d'accueil aussi
+prestigieux que susceptibles d'être à l'abri des regards.
+Depuis le milieu des années 1960, Paris a concouru à
+trouver une solution à l'engagement américain au
+Vietnam (1969-1973), à définir les termes de la fin de la
+troisième guerre d'Indochine (Fère-en-Tardenois – 1987
+-, Saint-Germain-en-Laye – 1988 –, La Celle-Saint-Cloud
+
+
+1989), à esquisser avec le Groupe de contact (États-
+Unis, Allemagne France, Italie, Royaume-Uni, Russie)
+une solution durable au Kosovo (1999), et a lancé des
+discussions sur l'avenir politique et institutionnel de
+l'Afghanistan au travers du Processus dit de Chantilly
+(2011-2012). Autant de négociations secrètes qui par
+deux fois, en 1973 et 1991, se matérialisèrent par une
+série d'accords de paix.
+
+
+Les clubs de négociation composés seulement de
+membres représentant les États ne sont pas les seuls
+moyens appropriés pour esquisser une issue durable
+aux conflits. Une diplomatie « citoyenne » s'est fait
+jour. La communauté catholique romaine de San't
+Egidio s'en est même fait une spécialité. L'accord
+
+
+mettant fin à la guerre civile au Mozambique en
+octobre 1992 en fut le plus éclatant succès. À défaut de
+pouvoir apporter des solutions durables, des acteurs
+privés se mobilisent pour organiser des conférences
+fermées afin que les États puissent exposer leurs vues.
+Des exercices de transparence visant à la déconfliction,
+pour que chacun ne se méprenne pas sur les intentions
+de ses rivaux, ont été instaurés. Le think tank
+londonien International Institute for Strategic Studies
+(IISS) s'y essaie publiquement chaque année à
+Singapour (dialogue du Shangri-la), au Bahreïn
+(dialogue de Manama) et en Colombie (dialogue de
+Carthagène), réunissant les principaux acteurs de la
+défense, des forces armées, du renseignement et les
+experts des affaires stratégiques de la planète.
+
+
+Les rencontres associant étroitement officiels et
+experts, souvent sur financements publics, ont fait
+apparaître une diplomatie informelle dite de second
+track, où des personnalités influentes peuvent
+s'exprimer plus librement dans les enceintes sur les
+problèmes du moment et se retrouver d'année en
+année. Informellement, elles concourent à la prévention
+des conflits et à la gestion post-crise. Les discussions
+ne s'y apparentent pas à des négociations. Elles ne se
+substituent pas au face-à-face des États et de leurs
+diplomates, mais elles permettent de tester de
+nouvelles idées, de mieux se connaître, voire de
+rapprocher les points de vue. Afin de garder une
+certaine confidentialité aux dialogues de ces clubs,
+ceux-ci se réunissent selon les règles de Chatham
+House, du nom du siège du Royal Institute of
+International Affairs britannique où les participants aux
+réunions sont libres d'utiliser les données collectées.
+Cependant, ils ne doivent mentionner ni l'identité, ni
+l'affiliation des personnes à l'origine des informations
+
+
+obtenues, de même qu'ils ne doivent pas révéler
+l'identité des autres participants.
+
+
+Les clubs de discussion sur les affaires
+internationales ne sont pas nouveaux. Ils ne traitent
+pas seulement des questions de défense, même si la
+guerre froide a nourri bon nombre de leurs débats. Ces
+discussions sur invitation rassemblant un nombre limité
+de personnes éminentes de la diplomatie, du monde
+académique, des affaires et des médias ont suscité à
+intervalles réguliers bien des suspicions sur une
+gouvernance occulte des affaires du monde. Le cercle
+de Bilderberg (1954), le club de
+Rome (1968), la
+commission Trilatérale (1973), en mélangeant des
+acteurs publics et privés favorables à la mondialisation
+libérale des échanges, en furent des exemples
+emblématiques. Une vindicte dont fut également l'objet
+la Tricontinentale (1966) qui tenta de fédérer et d'être
+le porte-voix des forces anti-impérialistes et de 82
+délégations de pays décolonisés, de mouvements de
+libération afro-asiatiques et de formations de guérilla
+d'Amérique latine.
+
+
+Les cénacles informels de discussion se sont
+multipliés depuis la fin de la guerre froide. Ils sont le
+fruit d'alliances entre les think tanks comme en
+témoignent les réunions semestrielles du Daimler
+Forum sur les affaires globales qui associent la
+Brookings Institution (Washington), le Centre for
+European Reform (Londres) et la Stiftung Wissenschaft
+und Poolitik (Berlin). Les échanges ne se tiennent pas
+toujours portes closes. D'ailleurs, les forums publics ne
+sont pas les moins influents, comme le démontre le
+succès des Munich Security Conferences (1963), des
+World Economic Forums de Davos (1971), des Brussels
+Forums (2005), ou encore les World Policy Conferences
+(2008). Si les Occidentaux ont donné naissance à ce
+type d'échanges internationaux, ils n'en disposent pas
+
+
+du monopole. La République populaire de Chine a bâti
+le Forum Boao pour l'Asie (2001) afin qu'il devienne un
+lieu incontournable de son influence. La Russie a voulu
+faire de même avec le Forum économique international
+de Saint-Pétersbourg (1997) ou encore au travers du
+club de discussion de Valdaï (2004) qui a la
+particularité, depuis son origine, d'avoir pour objet de
+débattre du développement de la Fédération et du rôle
+de la Russie dans le monde. La récurrence de ces
+forums coûteux, aux invitations complexes et de
+prestige, a demandé l'appui de sponsors privés, voire le
+concours d'opérateurs spécialisés pour leur
+organisation. Il n'y a pas eu pour autant de
+privatisation des diplomaties.
+
+
+Des
+
+
+partenariats à géométrie
+
+
+variable
+
+
+Ces clubs n'ont jamais eu de numerus clausus à leur
+création, même si leurs membres ont pu convenir de
+critères d'adhésion. Le groupe rassemblant les
+principaux acteurs économiques de la planète en a été
+le parfait symbole. Il a vu son nombre de membres
+grandir mais aussi se contracter.
+
+
+Le Groupe des sept, plus connu sous son sigle G7, a
+commencé son histoire en tant que G5 informel en
+1974. Instauré à la suite de la flambée des prix
+pétroliers, il réunissait alors à Washington les
+représentants des États-Unis, de l'Allemagne, de la
+France, du Royaume-Uni et du Japon. Le Library Group
+devint le G6 en 1975 en associant l'Italie, puis le G7 en
+1977, quand l'Union européenne se joignit aux travaux.
+Enfin, il se dénomma G8 en 1997 quand la Russie
+rejoignit formellement le club. Depuis 1994, la
+Fédération y avait trouvé une place en marge, traduite
+
+
+dans le langage diplomatique sous le nom de $G7+1$ ou
+de P8 (Political 8). En 2014, les sept membres
+fondateurs refusèrent non seulement de tenir le
+sommet du G8 prévu à Sotchi, mais ils firent le choix de
+se réunir à nouveau sans la Russie, redonnant ainsi
+naissance de facto au G7. Un changement de géométrie
+facile à opérer puisque le G7 n'a été ordonnancé sur
+aucun texte juridiquement contraignant et ne s'est
+appuyé sur aucun budget et sur aucune structure
+administrative en propre. Si l'histoire explique le
+périmètre retenu, il ne vaut pas légitimité pour tous les
+acteurs de la scène internationale, a fortiori pour
+ordonnancer une gouvernance politico-économique du
+monde. C'est pourquoi, à intervalles réguliers, fut
+posée la question d'y substituer un format élargi, plus «
+représentatif ».
+
+
+En 1989, un G15 rapidement composé de dix-sept
+pays s'assembla pour faire contrepoids au G8 et
+demander un ordre économique plus juste. La
+succession des crises financières des années 1990 a
+donné une suite très concrète à cette interpellation, en
+donnant naissance au G20 (1999). Mais bien que le
+groupe de dix-neuf pays plus l'Union européenne
+représente 85 % du commerce mondial, les deux tiers
+de la population mondiale et plus de 90 % du produit
+mondial brut, d'autres formats ad hoc furent parfois
+évoqués, notamment pour faire du G7/G8 un G12, en y
+associant le Brésil, la Chine, l'Inde et le Nigeria, sans
+pourtant changer son mode d'organisation et en
+continuant de s'appuyer sur un système de présidence
+tournante annuelle peu formalisé.
+
+
+Comprenant qu'au G197 onusien, les plus grands
+États sont tentés de substituer des formats plus
+restreints pour ordonnancer les affaires économiques
+voire politiques du monde, et de confondre leurs
+préoccupations avec celles de la planète tout entière,
+
+
+Singapour a pris l'initiative, en 2009, de constituer un
+Groupe de gouvernance globale (3G). Il s'agissait de
+donner la possibilité à une trentaine de pays non
+associés au G20 de se faire entendre comme
+collectivité sur les enjeux qu'ils jugent vitaux. Dans la
+même logique, la cité État avait quelques années plus
+tôt élaboré un Forum des petits États (FOSS, 1992)
+pour peser avec ses 107 membres aux Nations unies.
+
+
+Dans un monde où tous les États parlent à tous les
+États, entretiennent des relations diplomatiques
+formalisées, se retrouvent dans des enceintes à
+géométries variables, aucun État ne souhaite être exclu
+par principe de la gouvernance mondiale et de ses
+moments clés, tout le monde parle à tout le monde.
+Cela a donné naissance à de multiples clubs au sein des
+organisations mondiales et à leurs côtés. Cela a aussi
+conduit à la stratification des cénacles, y compris les
+moins formalisés. Aux statuts de membres de plein
+droit se sont ajoutées les participations de partenaires
+de dialogue, d'associés, de membre candidats ou
+encore d'observateurs. Cette inventivité hiérarchique a
+élargi la légitimité des structures d'échanges et leur
+aura internationale.
+
+
+Au fil des années, les clubs de dirigeants se sont
+multipliés et les retraites des leaders en l'absence de
+tout collaborateur aussi. C'est la règle durant les
+sommets des chefs d'État et de gouvernement de l'Asia
+Pacific Economic Cooperation (APEC) fondé en 1989,
+ou encore lors des rencontres Asie-Europe (ASEM) qui
+ont été instaurées tous les deux ans depuis 1996. Le
+style apparemment décontracté de ces moments
+diplomatiques sans témoin et aux ordres du jour
+souvent vagues n'en donne pas moins l'occasion de
+travaux préparatoires méticuleux lors de rencontres de
+ministres, notamment des Affaires étrangères, elles-
+mêmes précédées de réunions des hauts fonctionnaires
+
+
+(SOM), comme en ont témoigné les communiqués
+successifs publiés à l'issue des travaux et après d'âpres
+négociations.
+
+
+Les entre-soi sous-régionaux des leaders ont fait à
+leur tour leur apparition, en particulier pour discuter
+des politiques de développement. Dans le Pacifique, ils
+se sont construits autour du Forum des îles du
+Pacifique (PIF, 1971), d'une volonté parfois de rejeter
+certains États de la définition de l'identité régionale
+ex.: l'Australie et la Nouvelle-Zélande dans le cadre du
+Forum de développement des îles du Pacifique (PIDF,
+2013) et de la valorisation des aires culturelles,
+micronésienne (Forum des îles micronésiennes  MIF,
+2017 et polynésienne Groupe des dirigeants
+polynésiens, PLG, 2011), voire mélanésienne, bien que
+le Groupe du fer de lance (MSG, 1988) ait institué un
+secrétariat à Port-Vila et ait contracté des actes
+fondateurs. Dans ces trois cas de figure, les
+représentants des États membres de l'ONU conversent,
+définissent des actes de coopération, s'expriment
+ensemble avec des chefs de pouvoirs exécutifs de
+collectivités territoriales non souveraines (Chuuk,
+Kosrae, Pohnpei, Yap, Guam, Mariannes du Nord,
+Nouvelle-Calédonie, Polynésie française, Territoire des
+îles Wallis et Futuna) ou encore avec des formations
+politiques (ex. : le FLNKS, le parti indépendantiste
+calédonien est également un membre observateur du
+Mouvement des non-alignés). L'informalité des temps
+forts de ces enceintes permet d'associer d'autant plus
+étroitement les chefs des pouvoirs exécutifs infra-
+étatiques. $\hat{A}$ cette construction politique tournée vers le
+bas se sont ajoutés des dispositifs de consultation
+politiques multi-cardinaux.
+
+
+En Asie du Sud-Est, à côté du régionalisme aseanien,
+plusieurs clubs plus restreints ont vu le jour. Tous les
+trois ans depuis 2002, les leaders birman, cambodgien,
+
+
+chinois, laotien, thaïlandais et vietnamien de la région
+du Mékong (GMS) se retrouvent pour parler
+d'agriculture, d'énergie, de développement urbain, de
+facilitations commerciales, de tourisme et de transport.
+Les regroupements peuvent associer les chefs d'État et
+de gouvernement à l'échelle macro-régionale (ex. :
+Sommet de l'Asie orientale EAS, 2005), être fondés
+selon des logiques birégionales (dialogue pour la
+coopération régionale - ACD, 2002), ou se limiter à des
+échanges réguliers au niveau des ministres des Affaires
+étrangères (ex. : coopération Gange-Mékong - MGC,
+2000 Forum de coopération Asie de l'Est-Amérique
+ ,
+latine - Fealac, 1999).
+
+
+La multivectorialisation géographique des dialogues
+des
+leaders est un phénomène qui est devenu
+particulièrement visible dans la politique étrangère des
+puissances émergentes (ex. : Afrique du Sud, Brésil,
+Chine, Inde, Japon, Turquie). Comme dans le cas de
+l'Association des nations de l'Asie du Sud-Est (Asean)
+qui a institué des dialogues Asean + 1 ou Asean +3
+avec la Chine, la Corée et le Japon, les grands
+émergents ont mis sur pied des rencontres régulières
+en format $\ll1+X\gg$.
+
+
+En 2010, le Brésil a tenu un premier sommet avec les
+pays de la Communauté économique des États de
+l'Afrique de l'Ouest. L'Inde a, elle, mis sur pied des
+sommets avec les leaders africains (Iafas, 2008) mais
+également avec les États insulaires du Pacifique (Fipic,
+2014). Le Japon fit de même avec l'Afrique (Ticad,
+1993), l'Océanie (PALM, 1997) et l'Asie centrale (2004).
+La Chine a ajouté à ses rencontres avec l'Afrique
+(Forum de coopération Chine Afrique - Focac) l'Océanie
+(2014), l'Amérique latine (Forum Chine-Communauté
+des États d'Amérique latine et des Caraïbes - Celac
+CCF, 2014), ou encore les pays d'Europe centrale et
+orientale $(\ll16+1\gg$, 2012). Son initiative « Une
+
+
+ceinture, une route
+>>
+(BRI, 2017) a permis de
+rassembler à Pékin les dirigeants de 57 pays pour
+renforcer les liens autour du vaste projet chinois de
+développement des infrastructures de
+«
+Nouvelles
+routes de la soie » terrestres et maritimes lancé en
+
+
+2013 par le président Xi Jinping. Le sentiment
+d'appartenance à ce nouveau club a été renforcé par
+l'association des États aux projets qui ambitionnent de
+relier la Chine à l'Europe, au Moyen-Orient et à
+l'Afrique, mais également à son principal instrument de
+financement : la Banque asiatique d'investissement
+pour les infrastructures (AIIB).
+
+
+La multivectorialisation des échanges diplomatiques
+est d'autant plus utile que les dialogues entre les «
+grands » (cf. les sommets à trois Chine, Corée, Japon)
+sont difficiles à organiser et se montrent rarement très
+productifs. Si des obstacles politiques sont des freins
+aux dialogues interétatiques, les agendas chargés des
+leaders sont des contraintes plus pesantes encore.
+C'est pourquoi certaines rencontres sont adossées aux
+forums les plus larges. Il en est ainsi du dialogue entre
+les pays du Pacifique du Sud-Ouest (SWPD, 2002).
+L'Australie, l'Indonésie, la
+Nouvelle-Zélande, la
+Papouasie-Nouvelle-Guinée, les Philippines et le Timor-
+Oriental ont pris l'habitude de se retrouver en marge
+de l'Assemblée générale des Nations unies puis du
+Forum régional de l'Asean (ARF).
+
+
+Se regrouper informellement
+
+
+pour être plus influent
+
+
+Les cercles d'influence promus par un État, dans son
+intérêt stratégique, n'en doivent pas moins adopter un
+narratif expliquant qu'ils ont été constitués dans
+l'intérêt politique, économique et social de tous leurs
+
+
+membres. Ce défi n'est pas à proprement parler
+nouveau. Il fut celui auquel se sont confrontées toutes
+les ex-puissances coloniales qui souhaitèrent maintenir
+des forums privilégiés d'échange et de coopération
+avec leurs territoires autrefois affidés et devenus
+indépendants. Les sommets « France-Afrique » depuis
+1973, et plus encore depuis qu'ils ont été dénommés
+sommets « Afrique-France » en 2010, se sont inscrits
+dans cette logique. Il en fut de même pour les sommets
+« France-Océanie » voulus triennaux par le président
+Jacques Chirac en 2003.
+
+
+des
+
+
+L'Espagne, en instituant
+sommets ibéro-
+américains des chefs d'État et de gouvernement (1991),
+ou le Portugal, au travers de la Communauté des pays
+de langue portugaise (CPLP, 1996), se sont engagés de
+manière mimétique sur cette voie. Ces groupes de
+dirigeants n'ont pas seulement une langue et une
+histoire en partage, ils cherchent à se définir en
+communautés de valeurs, en groupes d'intérêts et en
+association de projets notamment économiques. C'est
+pourquoi les rassemblements ont connu des
+élargissements successifs à de nouveaux membres et se
+sont vus dans la quasi-obligation de définir des critères
+de sélection à géométrie variable. Ainsi, le Sénégal
+(2008), la Géorgie, le Japon, la Turquie (2014) puis la
+Hongrie, la Slovaquie, la République tchèque et
+l'Uruguay (2016) sont devenus des pays observateurs
+au CPLP.
+
+
+La dynamique politique des clubs « linguistiques » a
+fait que ceux-ci n'ont pas cessé de s'élargir. Ils ont
+offert aux États réunis l'opportunité d'appartenir
+concomitamment à plusieurs regroupements. Les pays
+lusophones d'Afrique sont pour la plupart membres de
+l'Organisation internationale de la francophonie (OIF).
+Exemple d'une multi-insertion réussie, la république de
+Maurice est à la fois membre du Commonwealth
+
+
+(1968), de l'OIF (1970) et du CPLP (2006). Cet
+entrisme organisationnel démontre combien les États
+veulent élargir leurs partenariats, parler au plus grand
+nombre, et sont disposés à jouer d'identités multiples.
+Cette disponibilité doit néanmoins être payée de retour.
+C'est pourquoi, dans tout agencement ad hoc, chacun
+veut tirer sa part de visibilité internationale.
+
+
+Pour le Conseil turcique mis en place en 2009 entre
+l'Azerbaïdjan, le Kazakhstan, le Kirghizstan et la
+Turquie, il fut décidé d'installer son centre
+administratif à Istanbul, son assemblée parlementaire à
+Bakou et son académie de langue à Astana. Ce
+dispositif éclaté géographiquement a permis de
+rétribuer symboliquement chaque État et de démontrer
+que l'organisation intergouvernementale créée est
+particulièrement respectueuse des principes de la
+Charte des Nations unies et peut être associée à ce
+titre aux instances de l'ONU et de la gouvernance
+mondiale.
+
+
+L'influence des États se construit dans le temps. C'est
+pourquoi il est important que les dirigeants des
+pouvoirs exécutifs d'aujourd'hui se connaissent, mais
+également ceux de demain. Attachés aux forums
+transatlantiques ou aux clubs régionaux, des
+rencontres, des symposiums, des programmes
+regroupant des jeunes dirigeants prometteurs ont été
+mis sur pied (ex. : la réunion annuelle AEYLS1 – 1997
+pour les jeunes leaders d'Asie et d'Europe) voire
+transposés pour des populations politiquement cibles
+telles les femmes dirigeantes (Forum mondial des
+femmes d'affaires francophones sous le couvert de
+l'OIF, Forum international des femmes 1982) ou
+encore les parlementaires (programme de l'Assemblée
+parlementaire de la francophonie au profit des jeunes
+parlementaires francophones 2015 ou celui annuel
+du Commonwealth pour les jeunes élus de 18 à 29 ans
+
+
+des neuf régions de l'institution anglophone). Des
+réseaux d'alumnis ont complété les mécanismes de
+rencontres régulières. Ils visent à prolonger les
+contacts politiques initiés, à accroître le sentiment
+d'appartenance à un club select et à familiariser un peu
+plus encore les acteurs sélectionnés aux relations
+internationales. Ces actions de mise en réseau sont
+menées aussi au travers d'acteurs privés, proches des
+institutions officielles. Parmi les paris sur l'histoire, on
+relèvera que la French American Foundation a su
+sélectionner pour ses programmes d'échanges les
+futurs présidents français, François Hollande et
+Emmanuel Macron, ou encore leur homologue d'outre-
+Atlantique Bill Clinton. Les ministères des Affaires
+étrangères contribuent matériellement
+et
+financièrement au networking. $\dot{A}$ ce titre, le Quai
+d'Orsay a mis sur pied en 1989 un programme de
+personnalités d'avenir. Après vingt-cinq
+ans
+d'existence, il a permis d'accueillir dans l'Hexagone
+plus de 1 700 personnes, originaires de 133 pays. Il
+s'agit d'un investissement politique individualisé, d'une
+expression du soft power et de la construction d'une
+politique d'influence élitiste. La France, les États-Unis,
+le Japon ou encore Hong Kong se sont dotés de tels
+instruments et cherchent à entretenir des relations
+personnalisées pour faire comprendre l'évolution de
+leur pays et ses positions internationales.
+
+
+La constitution de groupes d'influence vise à
+favoriser les échanges, la création de liens privilégiés
+avec une puissance invitante, mais plus encore à établir
+des rapports de force et à influer collectivement sur
+d'autres États ou cercles d'États. Les négociations
+commerciales se sont particulièrement bien prêtées à
+de tels face-à-face, quitte à unir pour la circonstance
+des pays de tailles différentes et rattachés à plusieurs
+continents.
+
+
+Le Groupe de Cairns (1986) rassemblant dix-neuf
+pays, dont les agricultures très productives et à bas
+coût se heurtent pour leurs exportations au
+protectionnisme, combattit de cette manière
+les
+barrières douanières américaines et européennes. Dans
+sa manœuvre, il se heurta toutefois au Groupe des dix
+réunissant des pays généralement peuplés et de
+superficies plutôt modestes (Corée du Sud, Israël,
+Japon, Suisse), et au G33 qui mêlait des pays pauvres
+cherchant à bénéficier d'un traitement particulier pour
+protéger leurs productions nationales (Mongolie,
+Mozambique, Pérou). La clustérisation des relations
+internationales a été favorisée par les enjeux
+économiques et commerciaux, mais elle a pu être
+suscitée par des acteurs privés.
+
+
+En 2005, les économistes de la banque d'affaires
+américaine Goldman Sachs forgèrent l'expression BRIC
+pour désigner le Brésil, la Russie, l'Inde et la Chine
+comme marchés émergents. Si le concept devint une
+réalité politique lors du premier sommet des leaders en
+2009, puis un club en expansion avec l'affiliation de
+l'Afrique du Sud (Brics, 2011), beaucoup d'autres
+schémas d'agrégation des puissances économiques à
+venir sont demeurés des catégories statistiques, des
+constructions purement intellectuelles (N11) et ne se
+sont pas matérialisés, même informellement  BRIK (+
+Corée), Brimc (+ Mexique) faute de volontés
+politiques partagées et de raisons pour agir ensemble.
+Néanmoins, la mise en place du groupe des Brics a
+infléchi depuis 2011 la dynamique des rencontres entre
+les chefs d'État et de gouvernement du Forum de
+dialogue IBSA (Inde, Brésil, Afrique du Sud  2003) qui
+se voulaient au cœur des coopérations Sud-Sud, voire
+en situation de galvaniser les coopérations entre
+l'Afrique, l'Amérique du Sud et l'Asie.
+
+
+La constitution de groupes informels autour d'un ou
+quelques leaders charismatiques suscite des contacts
+de circonstance, voire éphémères, entre États
+disparates. L'expérience de l'Alliance bolivarienne pour
+les Amériques (ALBA, 2005) a démontré que les
+modèles contestataires de la mondialisation et de ses
+zones de libre-échange peinent à s'organiser, même
+s'ils peuvent trouver de-ci de-là une oreille
+compréhensive. Les succès les plus durables des arènes
+informelles ont été le fruit de la défense ou de la
+promotion d'intérêts bien compris. Ils ont pu susciter
+des processus peu formalisés de consultation
+interagences (Conseil des organisations régionales du
+Pacifique
+CROP, 1988) pour éviter que les
+regroupements politiques et les institutions de
+coopération technique ne fassent double emploi. Ils ont
+donné naissance à des instruments de pouvoir global
+(le Pool de l'or de 1961 à 1968) ou encore à la
+prolifération de forums pour la défense d'un même
+intérêt vital.
+
+
+les
+
+
+La lutte contre le réchauffement climatique s'est
+traduite par la prolifération de plateformes à cette fin
+comme en témoignent l'Alliance des petits États
+insulaires (Aosis, 1990), le regroupement des petits
+États insulaires en développement (SIDS, 1992)
+deux catégories ne se recouvrant pas totalement -, ou
+encore la Coalition sur le changement climatique des
+États constitués d'atolls (CANCC, 2014), sans parler
+des regroupements très circonscrits géographiquement
+(l'Initiative du triangle de corail СТІ, 2007),
+thématiquement (l'Initiative internationale pour les
+récifs coralliens ICRI, 1994) ou d'un point de vue
+coopératif (l'Alliance globale contre le changement
+climatique - AMCC, 2007). La multiplication des forums
+de dialogue formels et informels assure un travail
+intense en amont des rencontres internationales les
+
+
+plus
+importantes. Elle permet une certaine
+spécialisation des enceintes d'échanges, leur
+transcontinentalisation, voire un travail en « famille >>>
+au sein de groupes aux vues et intérêts similaires (like-
+minded).
+
+
+*
+
+
+Dans le futur, de nouveaux clubs et arènes
+d'échanges feront leur apparition car il existe une
+combinaison infinie des cercles de coopération. En
+outre, il n'est pas possible de désinventer ceux qui ont
+été constitués, de renoncer à réveiller si nécessaire
+pour des raisons tactiques ceux qui se sont assoupis, et
+de ne pas penser à forger de nouvelles combinaisons
+politiques plus ou moins durables et intimes. Tous les
+pays sont dans ce cas de figure et feront preuve
+d'inventivité car il en va de leur influence et du succès
+de leurs manœuvres diplomatiques. Les cercles de
+pouvoir seront à la fois susceptibles de se résumer à
+des combinaisons binaires, telle l'émergence d'un G2
+sino-américain évoquée par certains conjoncturistes, et
+à des mécanismes aux valeurs numériques changeantes
+dans le temps et aux formes élargies selon une
+combinaison « G197 - Χ ».
+
+
+Bibliographie commentée
+
+
+DEJAMMET Alain, L'Archipel de la gouvernance mondiale. ONU, G7, G8,
+G20, Paris, Dalloz, 2012.
+
+
+L'ONU et les groupes de gouvernance vus par un diplomate
+français.
+
+
+FITRIANI Evi, Southeast Asians and the Asia-Europe Meeting (ASEM),
+Singapour, ISEAS, 2014.
+
+
+L'exemple d'un dialogue structuré entre Asie du Sud et UE, qui finit
+par faire diplomatie de groupe.
+
+
+HAJNAL Peter, The G8 System and the G20. Evolution, Role,
+Documentation, Londres, Routledge, 2013.
+
+
+Du G8 au G20, ou l'élargissement d'une diplomatie de club.
+
+
+KINGAH Stephen, QUILICONI Cintia (eds), Global and Regional Leadership
+of BRICS Countries, New York (N. Y.), Springer, 2017.
+
+
+Derrière le vocable <<< Brics », ce livre dissèque les rapports de force
+et la naissance d'une diplomatie Sud-Sud.
+
+
+KIRTON John, G20 Governance for a Globalized World, Londres,
+Routledge, 2015.
+
+
+L'exemple spécifique du G20.
+
+
+KNUDSEN Dino, The Trilateral Commission and Global Governance.
+Informal Elite Diplomacy (1972-1982), Londres, Routledge, 2016.
+L'exemple ancien, mais heuristique, pour l'étude de la diplomatie
+de club, de la Commission trilatérale dans les années 1970-1980.
+
+
+POSTEL-VINAY Caroline, Le G20, laboratoire d'un monde émergent,
+Paris, Presses de Sciences Po, 2011.
+
+
+Une étude française et critique sur le G20.
+
+
+REWIZORSKI Marek, The European Union and the Brics. Complex
+Relations in the Era of Global Governance, New York (Ν. Υ.),
+Springer, 2016.
+
+
+L'étude de la relation de l'UE aux Brics, entre forum interrégional
+et diplomatie de club.
+
+
+RICHARDSON Ian, KAKABADSE Andrew, KAKABADSE Nada, Bilderberg
+People. Elite Power and Consensus in World Affairs, Londres,
+Routledge, 2011.
+
+
+Le rôle des élites et d'une certaine sociologie des affaires
+internationales.
+
+
+STUENKEL Oliver, India-Brazil-South Africa Dialogue Forum (IBSA). The
+Rise of Global South, Londres, Routledge, 2016.
+
+
+L'exemple du groupe IBSA et de son rôle dans la diplomatie Sud-
+Sud.
+
+
+1. Asia-Europe Young Leaders Symposium.
+
+
+Chapitre 5
+
+
+De la communication
+
+
+à la diplomatie publique
+et digitale¹
+
+
+Brian Hocking
+
+
+L
+
+
+'idée selon laquelle la communication constitue un
+trait déterminant de la diplomatie ou, comme de
+nombreux analystes l'ont noté, une modalité
+particulière de la communication institutionnelle et
+régulée est désormais bien établie (Jönsson et Hall,
+2003; Constantinou, 1996, 25; Pigman, 2010; Bjola et
+Kornprobst, 2013, 4). Il n'est donc pas surprenant que
+les changements dans les schèmes de communication
+aient été utilisés, à différents moments, comme
+métaphores de l'évolution de la diplomatie. Des termes
+tels que la diplomatie « ouverte », « publique », la
+diplomatie des « sommets » et le
+«
+track deux »
+
+
+renvoient à des formes de communication et reflètent
+des développements dans la manière, les raisons et les
+lieux où se déploie ladite communication. Dans le
+domaine de la digitalisation, il n'est pas rare que le web
+2.0 soit aussi mobilisé comme métaphore dans les
+discussions concernant la diplomatie contemporaine.
+Ainsi Van Langenhove (2010) l'utilise-t-il pour décrire le
+passage du multilatéralisme
+fermé
+ 
+au
+multilatéralisme « ouvert », y compris la croissance des
+parties prenantes dans divers réseaux que requiert la
+gestion d'agendas politiques de plus en plus complexes.
+formes de
+
+
+Mais l'identification de
+
+
+«
+
+
+nouvelles
+
+
+«
+diplomatie a une histoire longue et tortueuse. Les
+labels tels que la diplomatie digitale indiquent des
+changements complexes au sein desquels le
+développement des technologies de l'information ne
+constitue qu'une partie. Par exemple, se focaliser sur
+les médias sociaux, à la fois en tant qu'instruments de
+la
+diplomatie et comme déterminants de
+l'environnement diplomatique, peut nous conduire à
+confondre les nouvelles technologies de communication
+avec les dimensions générales du changement dans les
+milieux politiques internes et externes (Hocking et
+Melissen, 2015).
+
+
+Sur la base de ces éléments, nous postulons dans ce
+chapitre que la digitalisation de la diplomatie est l'une
+des facettes de développement les
+plus importantes
+dans l'environnement politique
+global, laquelle
+conditionne les formes et rôles de la
+diplomatie comme
+mode de communication. Pour mieux saisir les
+implications de la technologie digitale dans ce domaine,
+nous devons d'abord comprendre ce que recouvre le
+terme même de « digitalisation » de la diplomatie. Nous
+montrons par ailleurs que les différentes significations
+de la digitalisation sont influencées à la fois par les
+processus diplomatiques et les structures à travers
+
+
+lesquels ces processus sont conduits en insistant sur le
+fait que les réalités qui sous-tendent l'impact des
+technologies digitales prennent la forme d'une
+combinaison de processus en ligne (online) et hors
+ligne (offline). Articuler ces deux types de processus et
+surtout décider quand et où les ressources digitales
+sont les plus pertinentes constitue sans doute l'un des
+défis auxquels les praticiens de la diplomatie du $XXI^{e}$
+siècle doivent faire face. Enfin, nous examinons les
+effets de la digitalisation sur une des institutions
+principales de la diplomatie, le ministère des Affaires
+étrangères, et le rôle des professionnels de la
+diplomatie.
+
+
+La diplomatie
+complexe
+
+
+dans un monde
+
+
+« Still alive in the room », « Toujours en vie à
+l'intérieur sont les mots tweetés par François
+Zimeray, ambassadeur français au Danemark, alors
+qu'il était exfiltré d'un centre culturel de Copenhague
+où se produisait une attaque terroriste en février 2015.
+Pour certains, cela constituait un changement
+fondamental de la diplomatie. Un article dans le Wall
+Street Journal concluait : « La diplomatie n'est pas
+morte, mais les nouveaux moyens de communication
+comme Twitter menacent de renverser la tradition des
+protocoles et paroles d'État aux expressions soignées. »
+Cette impression est apparemment partagée par
+Michael McFaur, ancien ambassadeur des États-Unis en
+Russie : « La diplomatie ne devrait pas être secrète ; en
+tant que diplomates, Twitter nous aide à transmettre
+notre message.
+>>
+De la même manière, Burson
+Marsteller, entreprise internationale de communication
+et relations publiques qui promeut la « Twiplomacy »,
+
+
+partage cette idée : « L'heure des subtilités a sonné »,
+suggère son rapport annuel sur l'usage de Twitter.
+Cependant, la communication discrète de l'ambassade
+de France à propos de l'incident, refusant les
+commentaires et les demandes d'interview de
+l'ambassadeur, montrait que les logiques
+traditionnelles d'une communication contrôlée et
+prudente ne sont pas compatibles avec celles
+d'ouverture et de transparence associées à l'âge
+numérique.
+
+
+Ces incidents et les réponses qui leur ont été
+apportées montrent comment, de la même manière
+qu'avec les transformations des technologies de
+communication, le eveloppement d'internet et
+l'apparition des plateformes de médias sociaux ont été
+vus par certains comme une « fin de la diplomatie »
+alors que pour d'autres, il s'agit d'une dimension clé de
+l'environnement diplomatique. Pour le secrétaire d'État
+américain John Kerry, « il n'y a plus de diplomatie
+efficace qui ne fasse un usage sophistiqué de la
+technologie au cœur de tout ce que nous faisons... Le
+terme de diplomatie numérique est redondant, c'est
+juste de la diplomatie, point » (Kerry, 2013).
+
+
+Comprendre cet environnement changeant et de plus
+en plus complexe implique de prendre de la distance et
+de restituer les transformations implicites dans les
+comportements analysés précédemment pour saisir le
+contexte dans lequel ils se produisent. Comme par le
+passé ce fut le cas avec l'apparition du télégraphe au
+$XIX^{e}$ siècle les implications des évolutions des
+ ,
+technologies
+de communication sont vivement
+débattues. Les interprétations des Printemps arabes de
+2011 reflètent ces différentes analyses. Elles opposent,
+d'un côté, cyber-optimistes, qui considèrent que les
+révolutions sociales sont le résultant de la révolution
+
+
+numérique, et, de l'autre, cyber-réalistes. Ces derniers,
+sans dénier l'importance des outils numériques,
+affirment que le changement social est le produit des
+actions humaines, dont une grande part se déroule hors
+ligne.
+
+
+En ce qui concerne la diplomatie, elle s'adapte aux
+changements fondamentaux de la société à différents
+niveaux interdépendants. À côté des liens croissants
+entre enjeux, acteurs et arènes politiques qui sont les
+caractéristiques principales de l'environnement
+diplomatique, on retrouve l'apparition de réseaux
+transnationaux et transgouvernementaux qui dépassent
+les frontières géographiques et celles entre les sujets.
+Ces changements sont accompagnés par la
+compression du temps et de l'espace, et par l'impact
+que cela a sur la manière dont les individus voient leur
+rôle dans les environnements locaux et globaux. Ces
+évolutions
+produisent un
+environnement
+communicationnel plus complexe qui affecte la
+diplomatie, et en particulier les formes et structures à
+travers lesquelles elle opère. Cette transformation
+porte particulièrement sur :
+
+
+la portée, la forme et la direction de la
+communication diplomatique.
+La complexité
+grandissante des agendas globaux, les liens entre des
+questions comme le commerce et l'environnement se
+combinent aux caractéristiques systémiques des
+environnements domestiques et internationaux qui
+rendent la communication diplomatique plus diverse,
+moins structurée et moins hiérarchique. En
+conséquence, l'accent est désormais mis sur
+l'identification des acteurs, la création et la gestion des
+réseaux au sein desquels ils peuvent interagir pour
+parvenir à des résultats politiques ;
+
+
+les objectifs de la communication diplomatique. De
+plus en plus, la capacité à instaurer des règles devient
+
+
+une des caractéristiques principales de la politique
+internationale. Comme l'écrit Van Ham, la majorité des
+règles, des standards et des normes qui encadrent les
+acquis communautaires de la société internationale est
+fixée à travers des manières non hiérarchiques de faire
+de la politique avec des procédures post-modernes,
+comme la comparaison des meilleures pratiques,
+nommer et faire honte, etc. (Van Ham, 2010). Orienter
+l'agenda requiert des connaissances et la capacité de
+persuader d'autres acteurs et agents d'adopter les
+stratégies préférées via un leadership mesuré. Il s'agit
+d'un trait de plus en plus important de l'action
+diplomatique qui identifie les cibles et les méthodes de
+communication. Cela se retrouve dans la préoccupation
+croissante pour le soft power;
+
+
+la nature des domaines privés et publics. La
+diplomatie du $XXI^{e}$ siècle est confrontée à des défis
+oscillant entre demande traditionnelle de secret ou
+confidentialité et nécessité de travailler dans un
+environnement plus ouvert. Parvenir à ses fins implique
+d'influencer les attitudes des publics étrangers et
+domestiques (nationaux) via des stratégies de
+diplomatie publique souvent mal définies. En effet,
+l'établissement de frontières entre l'ouverture et la
+confidentialité (mise en cause par un environnement
+plus ouvert et l'expérience de WikiLeaks) est un enjeu
+majeur pour les acteurs diplomatiques à tous les
+niveaux.
+
+
+À la source de ces évolutions de la communication
+diplomatique se trouve une remise en cause de la
+diplomatie traditionnelle, stato-centrée, aux formes et
+aux principes hiérarchiques favorisant un modèle multi-
+acteurs et réticulaire. Les moyens y compris la
+diplomatie numérique  à l'aide desquels la diplomatie
+est conduite sont significatifs, mais ne sont pas en soi à
+
+
+l'origine de ces changements. On doit également
+prendre en compte le contexte dans lequel les
+technologies de l'information et de la communication
+émergent et opèrent. Comme l'ont montré le
+référendum européen en Angleterre et les élections
+présidentielles américaines, l'émergence du populisme
+et de la politique de post-vérité est facilitée par les
+réseaux sociaux mais n'en est pas le résultat.
+
+
+Ces évolutions de la diplomatie rapidement résumées
+reflètent les capacités restreintes des gouvernements à
+gérer des agendas de plus en plus complexes. Alors que
+les institutions multi-gouvernementales restent des
+ressources clés pour la gestion des enjeux globaux, la
+diversité des membres et des relations non
+hiérarchiques entre acteurs des réseaux de politiques
+publiques promeut la collaboration et l'apprentissage.
+Cette diversité accélère l'acquisition et le traitement du
+savoir. De plus, les coûts transactionnels des réseaux
+décentralisés sont moins importants que ceux des
+processus centralisés de prise de décision. Ils sont
+capables de canaliser rapidement les informations
+pertinentes vers les lieux où elles auront le plus
+d'effets.
+
+
+Les principales différences entre les diplomaties
+traditionnelles et stato-centrées et les nouvelles
+expressions de la diplomatie tiennent aux formes de
+participation et de communication sur lesquelles
+chacune repose. Dans la nouvelle forme de diplomatie,
+les flux de communication hiérarchisés sont remplacés
+par des flux multi-directionnels qui ne visent pas
+toujours les élites politiques, même si leurs objectifs
+seront souvent d'influencer les attitudes et les choix
+politiques de ces élites. L'enjeu est alors d'identifier les
+nœuds clés et les interlocuteurs potentiels au sein des
+arènes politiques pour construire des relations liées
+aux objectifs. Les technologies numériques se
+
+
+superposent et renforcent ces tendances. Alors que
+Fergus Hanson, à la suite du Département d'État
+américain, considère que le cœur de ce qu'il appelle la
+ eDiplomacy » est « l'utilisation d'internet et des TIC
+pour tenter d'atteindre des objectifs diplomatiques »
+(Hanson, 2012), la diplomatie numérique implique un
+certain nombre d'éléments qui dépassent ce cadre et
+qu'il est nécessaire d'identifier pour donner du sens à
+ces évolutions complexes.
+
+
+Analyser la diplomatie numérique
+
+
+Le premier élément, et sans doute le plus visible,
+tient à l'environnement changeant au sein duquel la
+diplomatie fonctionne. Comme on l'a noté plus haut,
+pour une part, cela reflète l'évolution des agendas et la
+capacité à les influencer. Ce phénomène s'accompagne
+d'une accélération des événements (la rapidité de leur
+développement), de leurs vélocités (en termes de
+vitesse et de direction), et de leurs implications pour
+les décideurs (Seib, 2012). Cette tendance a été
+identifiée comme un des traits de la globalisation et est
+renforcée par les flux plus fragmentés de
+communication alors que les nouvelles technologies
+et particulièrement celles mobiles comme les
+smartphones - donnent du pouvoir aux individus et aux
+groupes pour imprimer une forme aux événements. La
+capacité des gouvernements à déployer des ressources
+numériques est aussi cruciale que leur aptitude à les
+contrôler, notamment à travers des interventions
+étatiques dans l'accès à internet et aux médias sociaux.
+Ces évolutions suggèrent néanmoins que le contrôle
+des États sur les événements et sur les agendas
+diminue, mettant en exergue le besoin de nouvelles
+
+
+compétences et de structures tout en adaptant celles
+en service.
+
+
+En ce qui concerne l'agenda de politique étrangère,
+un deuxième aspect de l'environnement de diplomatie
+digitale porte sur le cyberagenda. Ainsi, la
+cybergouvernance et la « liberté sur internet » sont
+devenues des enjeux cruciaux dans les négociations
+globales. Les questions relatives à la cybersécurité sont
+devenues importantes pour tous les acteurs
+diplomatiques, particulièrement les diplomates et les
+ministères des Affaires étrangères. Un exemple en est
+donné par des rapports, début 2011, indiquant que la
+Chine avait infiltré le système de communication du
+Foreign and Commonwealth Office, ou qu'un double
+frauduleux du site officiel du ministère des Affaires
+étrangères français diffusait de faux communiqués
+officiels. De la même manière, en 2015, le ministère
+des Affaires étrangères danois a subi une cyberattaque
+(qui aurait été réalisée par un gouvernement du
+Moyen-Orient) via l'installation d'un programme
+malveillant sur un ordinateur d'une ambassade. $\dot{A}$ cet
+égard, les accusations d'interférences russes dans la
+campagne
+présidentielle américaine n'ont fait
+qu'augmenter les préoccupations pour la cybersécurité.
+
+
+La troisième échelle du débat sur la diplomatie
+digitale se focalise sur l'utilisation d'internet et des
+technologies numériques connexes pour la gestion du
+savoir. Généralement, pour un gouvernement, cela
+implique de prendre en compte de manière efficiente
+les données dans une ère de « méga-données » ; ce qui
+a une incidence particulière pour les ministères des
+Affaires étrangères qui ont l'obligation de gérer à bon
+escient des sources rares d'information.
+
+
+Au cours des années 1990, l'expression « diplomatie
+virtuelle » est apparue dans les usages pour refléter les
+attentes grandissantes envers les services
+
+
+diplomatiques dans un contexte post-guerre froide. Ce
+contexte modifié (soutenu par un déficit de ressources
+occasionné par la crise économique post-2007) a
+renforcé la quête des modes de représentation
+diplomatique plus économiques. Cette évolution fortifie
+non seulement les arguments de ceux qui s'interrogent
+sur le lien entre les services centraux et les postes
+diplomatiques du réseau du ministère des Affaires
+étrangères, mais elle contribue également à modifier
+les méthodes de travail au sein de l'organisation
+diplomatique prise dans son ensemble.
+
+
+Le quatrième élément dans le débat relatif à la
+digitalisation de la diplomatie concerne l'usage des
+technologies numériques dans le développement des
+performances du service public, l'amélioration des
+prestations et le renforcement de leurs contributions à
+l'élaboration de la stratégie (des politiques). D'un
+certain point de vue, cela renvoie aux précédents
+débats menés sur la démocratisation de la diplomatie
+qui coïncide avec le développement de la diplomatie
+publique dans les années 1990. Il s'agit aussi de
+mobiliser de nouveaux modes de communication pour
+assurer la gestion des réseaux et optimiser les services
+en ce qui concerne par exemple la gestion des affaires
+consulaires et des crises. Cette dimension de la
+diplomatie digitale/numérique soulève la question d'un
+changement de l'approche verticale dans la distribution
+de l'information vers une approche interactive dans les
+modes de communication rendus manifestes par
+l'usage des réseaux sociaux.
+
+
+Ces quatre aspects de la diplomatie digitale ne sont
+pas des catégories entièrement dissociées, mais sont
+des éléments connexes d'un environnement politique
+d'une complexité croissante, transcendant le clivage
+entre politiques nationales et internationales. Nous
+sommes par conséquent confrontés à plusieurs
+
+
+éventualités concernant l'évolution de la diplomatie au
+$XXI^{e}$ siècle : d'une part, une diplomatie qui a connu une
+mutation progressive et une adaptation au sein de
+cadres et principes préexistants et, d'autre part, une
+diplomatie qui présente une nouvelle structure
+complètement différente de la pratique diplomatique, à
+la fois dans ce qu'elle est et dans ce qu'elle devrait
+être.
+
+
+Dans leur ouvrage intitulé Le Nouvel Âge digital, Eric
+Schmidt, président de Google, et Jared Cohen (un des
+architectes de la « nouvelle stratégie politique » au
+secrétariat d'État sous l'ère Hillary Clinton) adoptent
+une position plus radicale, arguant que la révolution
+des technologies de la communication signifie pour les
+États l'adoption de deux principales orientations et de
+deux politiques étrangères : l'une en ligne et l'autre
+hors réseau (Schmidt et Cohen, 2013). Cependant, la
+digitalisation de la diplomatie recèle un enjeu
+totalement différent. Le défi réel serait d'intégrer ces
+deux dimensions de politique étrangère au-delà de
+leurs disparités. Cette exigence renforce l'hybridité
+croissante de la diplomatie, puisque les formes plus
+anciennes et traditionnelles se mêlent et se
+transforment au contact de nouvelles forces issues soit
+des pressions sociales, soit d'un changement rapide des
+technologies de la communication elles-mêmes.
+
+
+L'hybridité s'observe également dans l'environnement
+des médias. De nouveaux moyens de communication
+laissent entrevoir leur domination. Cependant,
+l'évolution des technologies de la communication a
+rarement impliqué le remplacement d'un mode de
+communication par un autre. Dès lors, les médias (en
+version papier et électronique) n'ont pas disparu au $XX^{e}$
+siècle mais se sont adaptés de différentes manières aux
+technologies digitales. La popularité croissante des talk
+
+
+shows radio aux États-Unis est due à leurs interactions
+sur les réseaux sociaux, en particulier Facebook et
+Twitter. Cela suscite une évolution rapide de médias «
+hybrides » où l'on observe d'une part un changement
+entre la traditionnelle version papier et la version
+numérique, et d'autre part une redéfinition des rôles de
+producteur et de consommateur des informations et
+des commentaires. Le brassage d'une diplomatie
+hybride et d'un système de communication tout aussi
+hybride exacerbe les défis auxquels sont confrontés les
+diplomates aujourd'hui.
+
+
+Les méthodes diplomatiques dans
+l'ère digitale
+
+
+Il existe deux orientations liées lorsqu'on aborde
+l'évolution de la diplomatie en relation avec le débat
+sur la diplomatie digitale : il s'agit premièrement des
+méthodes diplomatiques orientées vers les fonctions de
+la diplomatie, et deuxièmement des structures
+diplomatiques telles que les ministères des Affaires
+étrangères au niveau national et l'ensemble des
+organisations multilatérales au niveau régional et
+global. L'analyse des implications liées à l'évolution de
+la diplomatie prise dans ces deux perspectives requiert
+d'établir une différence entre les domaines et les
+moyens de la diplomatie.
+
+
+des
+
+
+En dehors d'un modèle général d'échanges
+diplomatiques, plusieurs modèles coexistent. Ils vont de
+rencontres diplomatiques marquées par une
+participation importante de l'État et/ou
+organisations interétatiques, au sein des institutions
+diplomatiques « communes » impliquant une gamme
+d'acteurs étatiques et non étatiques, aux situations
+dans lesquelles l'implication de l'État est minime et où
+
+
+les procédures diplomatiques sont différentes de la
+diplomatie classique entre États. Différentes formes de
+diplomatie se construisent autour d'agendas différents
+impliquant plusieurs acteurs et secteurs, et par
+conséquent différentes méthodes de communication.
+Par conséquent, si développer une variété de sources
+numériques paraît un défi, l'utilisation de ces dernières
+peut constituer un obstacle encore plus grand. Cela
+requiert la capacité à développer des stratégies holistes
+et à gérer différents champs diplomatiques, à
+persuader des personnes étrangères à nos structures
+de travailler à la réalisation d'objectifs communs, et à
+maximiser la production du savoir sur la recherche de
+nouveaux concepts et données susceptibles de générer
+le consensus autour d'une action.
+
+
+Dans ce contexte, l'on peut identifier trois phases : la
+mise sur agenda, la phase de négociation et celle de la
+mise en œuvre (Hochstetler, 2013). $\dot{A}$ chacune de ces
+étapes, les styles diplomatiques varient, ainsi que
+l'impact et le rôle du numérique. Un postulat serait de
+considérer que, la diplomatie étant plus « transparente
+durant la première et la dernière phases, la
+digitalisation aurait donc moins d'importance durant la
+phase de négociation. Deux clarifications s'avèrent
+nécessaires : premièrement, les négociations sont
+largement dominées par
+les questions
+d'implémentation dans ses formes les plus complexes ;
+deuxièmement, cela dépend du contexte. Ainsi, les
+négociations impliquant des entreprises ou des groupes
+d'intérêts (sur des sujets tels que l'environnement et
+les droits de l'homme) seront moins conduites dans ce
+qu'un ancien ministre des Affaires étrangères
+britannique qualifiait de « jardin secret de la diplomatie
+».
+
+
+L'érosion constante de la barrière entre affaires
+internes et internationales a largement politisé la
+
+
+diplomatie, offrant ainsi la possibilité à la société civile
+et aux individus d'avoir une influence dans les
+processus diplomatiques. Les technologies numériques
+n'ont pas créé ce contexte mais ont plutôt offert un
+large éventail de ressources aux groupes engagés dans
+le lobbying politique en leur donnant un plus grand
+poids dans la mise en œuvre ou non des engagements
+internationaux. Cela est particulièrement visible dans
+la diplomatie économique avec les négociations liées au
+Partenariat transatlantique pour le commerce et
+l'investissement (PTCI).
+
+
+Les négociations entre l'Union européenne et les
+États-Unis au sujet de l'extension de la zone de libre-
+échange au monde ont conduit à des divergences
+significatives concernant certains points principaux,
+notamment les mécanismes de règlement des
+différends entre les investisseurs et l'État (MRDIE). Les
+arguments selon lesquelles la liberté des
+gouvernements serait entravée dans la poursuite des
+politiques nationales dans les domaines tels que les
+soins de santé, l'éducation et la protection de
+l'environnement, ainsi que le secret imposé aux
+tribunaux qui jugent les différends entre les entreprises
+et le gouvernement, ont généré une grande opposition
+au Partenariat transatlantique. Des ONG telles que
+Public Citizen ont surveillé l'usage fait par les
+multinationales des clauses relatives au MRDIE dans le
+cadre d'autres accords de partenariat économiques et
+ont développé, à travers un usage pointilleux des
+réseaux sociaux et de la presse, une puissante alliance
+qui a conduit à une opposition massive de l'opinion
+publique envers l'accord.
+
+
+En revanche, l'Union européenne n'a pas réussi à
+développer une stratégie de communication effective à
+travers le canal le plus approprié du système politique
+de l'organisation. De même, les négociations relatives à
+
+
+l'accord commercial sur la contrefaçon ont rencontré
+une vive opposition au sujet des effets potentiels de cet
+accord sur les libertés liées à internet et sur l « opacité
+>> de la négociation. Un vice-président de la commission
+de l'Union européenne a reconnu l'échec de son
+organisation à prendre en compte les voix dissonantes
+et à engager un dialogue avec elles sur les réseaux
+sociaux : « Nous avons réalisé à quel point notre
+absence sur les réseaux sociaux concernant ce sujet
+précis nous a causé de tort. Je pense que cela est une
+leçon pour nous tous sur l'importance d'être plus actifs
+et réactifs concernant des sujets aussi sensibles à
+l'avenir2. »
+
+
+Si les deux accords susmentionnés ont fourni des
+exemples concrets de l'échec de certains diplomates à
+saisir l'importance de l'ère digitale pour les procédures
+diplomatiques, l'Initiative sur la prévention de la
+violence sexuelle (IPVS) démontre son potentiel dans
+les processus de mise sur agenda et de négociation.
+L'utilisation du viol en tant qu'arme de guerre et du
+terrorisme a suscité beaucoup d'inquiétudes, mais peu
+d'actions. En 2012, lorsque le ministre britannique des
+Affaires étrangères d'alors, William Hague,
+accompagné de l'en l'envoyée spéciale du Haut-
+Commissariat aux réfugiés (HCR), Angelina Jolie, a
+lancé l'IPVS, en l'inscrivant à l'ordre du jour du G8 en
+2013, suivie d'une déclaration adoptée par l'Assemblée
+générale des Nations unies et au sommet international
+de 2014, les outils numériques ont été déterminants
+pour la campagne IPVS menée par le Bureau des
+affaires étrangères et du Commonwealth (BAEC). En
+tant que centre d'information pour la campagne,
+l'équipe numérique du BAEC a voulu créer une
+communauté de partisans et de défenseurs à travers les
+chaînes de médias sociaux dédiées. Selon l'équipe
+digitale du BAEC, la page Facebook « En finir avec les
+
+
+violences sexuelles dans les conflits » a gagné 10 000
+abonnés à travers le monde entier, permettant à 247
+000 personnes de fournir des données à jour aux ONG,
+aux experts et aux organismes de bienfaisance qui ont
+assisté au sommet, et ont discuté du sujet de l'IPVS. La
+page @end_svc sur Twitter a gagné environ 9 000
+abonnés et a été mentionnée 47 000 fois entre mars et
+juin, atteignant un public d'un million d'internautes
+(Daniels et Childs, 2014). En outre, les objectifs de
+l'initiative ont été vulgarisés par le hashtag
+#DiploHack, à travers lequel les compétences et les
+connaissances des diplomates et des parties prenantes
+se sont combinées pour résoudre ces questions. Ces
+deux exemples illustrent le potentiel des outils
+numériques et ce qu'il en coûte de ne pas développer
+de stratégie efficace quant à leur utilisation.
+
+
+Pour ce qui est du traditionnel agenda de politique
+étrangère, l'expérience des négociations nucléaires
+avec l'Iran offre une perspective différente de la
+conduite de la diplomatie à l'ère numérique. Le modèle
+de la phase des négociations $P5+1$ de Lausanne en
+mars 2015 a été marqué par une pratique courante de
+non-respect des échéances, des démissions
+imminentes et des « progrès » de dernière minute. Les
+plus de 600 journalistes accrédités aux négociations
+avaient un accès limité à l'hôtel où se déroulaient les
+échanges. La technologie numérique est alors apparue
+à travers la forme d'une vidéoconférence sécurisée
+entre le président Obama et les négociateurs
+américains.
+
+
+Étonnamment, un mode traditionnel
+de
+communication, à savoir le tableau blanc mobile, a joué
+un rôle clé lors des négociations. La sous-secrétaire
+Wendy Sherman a développé l'idée du tableau blanc
+comme un moyen d'illustrer ce qu'elle appelait la
+complexité du rubik's Cube qui entoure les
+
+
+négociations. Le tableau blanc a été déplacé dans les
+salles de négociation alors qu'elle et John Kerry ont
+rencontré le ministre iranien des Affaires étrangères
+Zarif et son équipe. Cet outil a favorisé les Iraniens en
+évitant que des documents papier soient rapportés à
+Téhéran. Mais il a également présenté des risques
+lorsqu'un négociateur américain a utilisé par
+inadvertance un marqueur permanent pour rédiger des
+calculs classifiés.
+
+
+Alors que l'utilisation de Twitter était une
+caractéristique des discussions, le rôle principal des
+réseaux sociaux était de « divulguer » le résultat des
+négociations au public national. Les discussions de
+2013 ont également été marquées par l'adoption des
+réseaux sociaux par le ministre des Affaires étrangères
+Zarif et la création d'un nouveau site web,
+Nuclearenergy.ir, visant à expliquer l'histoire et les
+objectifs du programme nucléaire iranien. Zarif a
+largement utilisé les médias sociaux à son retour à
+Téhéran, à la fois pour défendre la question au pays et
+pour définir une perspective iranienne de la question à
+l'attention d'un public international. Comme l'a noté un
+observateur : « La diplomatie sur Twitter a aidé le
+président Rohani à préserver le soutien de l'opinion
+publique, renforçant son leadership à l'étranger. Le
+contraste avec son prédécesseur ne pourrait pas être
+plus prononcé » (Kabir, 2013).
+
+
+Effets sur les structures et les
+institutions
+
+
+diplomatiques
+
+
+processus
+
+
+Parallèlement à leur rôle dans les
+diplomatiques, les technologies digitales ont également
+un impact sur le fonctionnement des institutions
+
+
+diplomatiques, aussi bien à l'échelle globale qu'aux
+échelles régionale et nationale. L'analyse de chacun de
+ces niveaux dépasse le cadre de ce chapitre et nous
+nous concentrerons donc sur les implications de la
+digitalisation au niveau national, plus particulièrement
+au sein des ministères des Affaires étrangères (MAE) et
+des réseaux de représentation diplomatique.
+
+
+Les enjeux liés à la conduite d'une politique
+étrangère à l'ère du digital reflètent ceux auxquels font
+face les gouvernements dans leur ensemble. Dans les
+études contemporaines sur la diplomatie, on accepte
+volontiers l'idée que cette dernière est de plus en plus
+une activité qui concerne l'ensemble du gouvernement
+ou, selon les mots d'un ancien ministre japonais des
+Affaires étrangères, une « diplomatie complète ». La
+gestion d'un environnement international de plus en
+plus complexe met ainsi en lumière les liens entre les
+différentes composantes du gouvernement, dont la
+plupart ne sont traditionnellement pas considérées
+comme des acteurs diplomatiques. Il en résulte que les
+gouvernements ne dépendent plus seulement du MAE,
+dont le rôle est en mutation à l'intérieur d'un « système
+diplomatique national » plus vaste composé de divers
+acteurs bureaucratiques (Hocking, 2012).
+
+
+Les relations avec les autres composantes du
+gouvernement et l'impact que les nouvelles
+technologies de la communication ont sur ces dernières
+deviennent donc un enjeu pour le MAE, en tant que
+sous-système de се vaste système diplomatique
+national. Historiquement, la principale ressource du
+MAE a été sa place de point nodal dominant dans les
+réseaux d'information qui couvrent la politique
+intérieure et internationale. À cet égard, la
+digitalisation est une épée à double tranchant. L'idée
+selon laquelle les MAE ont un rôle de « portiers » de
+l'information ne peut désormais plus être prise au
+
+
+sérieux. En même temps, la digitalisation, parce qu'elle
+signifie l'accès au big data, aux ressources du
+crowdsourcing (financement de masse) et au
+développement d'outils et de techniques de gestion des
+connaissances, peut avoir pour conséquence un
+renforcement de l'importance du rôle du MAE. Par
+ailleurs, l'explosion de la quantité d'information et de
+désinformation disponible augmente potentiellement la
+valeur « nodale >>> du MAE grâce à ses capacités
+analytiques - c'est-à-dire à l'utilisation des ressources
+propres à la diplomatie pour analyser et interpréter des
+informations ou des données. Ainsi, il n'est pas
+surprenant que le développement de techniques de
+gestion des connaissances ait été la manifestation la
+plus ancienne de la digitalisation au sein du
+Département d'État américain (Hanson, 2012, 30-38).
+
+
+Une caractéristique clé du MAE, en tant que réseau
+diplomatique, est la répartition des rôles entre le «
+centre du système à l'intérieur des frontières
+nationales et ses << périphéries », c'est-à-dire les
+missions diplomatiques à l'étranger. Cette répartition
+est caractéristique de la « nodalité » du savoir du MAE
+: il rassemble, transmet l'information, la traite puis
+l'exploite pour atteindre ses objectifs. La digitalisation
+peut potentiellement agir sur cette nodalité de deux
+façons : a) elle peut fournir une ressource
+supplémentaire pour les deux niveaux du système ; b)
+elle peut permettre de modifier les relations entre les
+deux niveaux du sous-système ainsi que leur rôle
+respectif. Les technologies digitales ont effectivement
+eu un impact sur ces deux dimensions. De manière
+significative, elles ont même renforcé l'interconnexion
+entre ces dernières. Par exemple, l'adoption de
+systèmes de courrier électronique sécurisé dans les
+années 1990 a été considérée comme une occasion de
+redistribuer les fonctions de prise de décision du centre
+
+
+vers la périphérie et de modifier les schémas
+hiérarchiques établis de distribution de l'information.
+Par conséquent, la « structure en étoile » du flux
+d'information disparaît progressivement au profit d'un
+système en réseau dans lequel les relations entre le
+centre et les périphéries sont plus proches et plus
+complexes.
+
+
+Par ailleurs, les ressources organisationnelles
+disponibles pour les MAE connaissent une période de
+pénurie croissante. Encore une fois, cela n'est pas
+nouveau. Dans les années 1990, le concept de
+diplomatie « virtuelle
+>>
+était lié à une demande
+d'élargissement des représentations à l'étranger,
+entraînant des exigences accrues pour les réseaux
+diplomatiques post-guerre froide. La technologie a
+fourni une partie de la réponse car les MAE ont pu
+expérimenter de nouveaux moyens d'établir une
+présence à l'étranger sous des formes plus
+économiques que l'ambassade traditionnelle. Les
+développements ultérieurs en matière de TIC ont des
+implications plus profondes encore, car le bien-fondé
+des formes de représentation qui impliquent le
+maintien d'une présence diplomatique est remis en
+cause.
+
+
+Dans le monde de la diplomatie digitale, les flux
+d'information au sein des systèmes diplomatiques
+nationaux et entre les MAE deviennent plus complexes.
+$\dot{A}$ travers les médias sociaux, les ambassades
+s'intègrent dans des réseaux les reliant entre elles,
+mais également avec leur propre MAE, avec les autres
+composantes du gouvernement ainsi qu'avec le MAE du
+pays qui les accueille. Prenons le cas d'Israël. Certains
+ont souligné l'aspect limité du « réseau social » des
+ambassades, étant donné que seulement onze des
+quatre-vingt-deux ambassades accréditées dans le pays
+sont présentes sur Facebook et ont des comptes Twitter
+
+
+actifs. Néanmoins, cela démontre le potentiel des
+médias sociaux comme outil de renforcement de
+l'importance des réseaux diplomatiques en tant que
+nœuds de connaissances. Non seulement les
+ambassades suivent leurs propres MAE sur les
+plateformes de médias sociaux, mais elles peuvent
+aussi créer un réseau social d'ambassades étrangères
+dans un pays hôte et suivre le MAE de ce pays :
+
+
+Si le ministère est suivi par d'autres ambassades, il est capable de
+diffuser efficacement des messages sur sa politique étrangère dans
+d'autres pays. En outre, s'il suit les canaux de diplomatie digitale des
+ambassades étrangères, le MAE local peut recueillir des informations
+sur les initiatives de politique étrangère d'autres pays. Dans le cas
+d'Israël, le MAE israélien est situé en plein cœur du réseau social
+diplomatique local... (Manor, 2014)
+
+
+Cependant, il n'y a pas de modèle type de stratégie
+de communication. Une analyse de l'utilisation des
+médias sociaux par des diplomates étrangers basés à
+Londres révèle que la nature des stratégies
+médiatiques n'est pas technologiquement déterminée.
+Elles reflètent plutôt l'environnement dans lequel de
+tels médias sont utilisés, ainsi que le rôle des
+diplomates comme agents dans leurs contextes locaux.
+Facebook, Twitter et d'autres outils digitaux peuvent
+être des instruments utiles, mais leur efficacité et les
+résultats qui en découlent dépendent des contextes et
+du comportement des diplomates en tant qu'agents
+sociaux (Archetti, 2012).
+
+
+Rôles et compétences
+
+
+Sans aucun doute, les technologies numériques et les
+plateformes de médias sociaux transforment la manière
+dont les diplomates remplissent leurs fonctions.
+L'utilisation de WhatsApp décrit dans un rapport
+
+
+comme « taillé sur mesure pour la diplomatie moderne
+» - est un exemple particulièrement révélateur (Borger,
+Rankin et Lyons, 2016). Considéré comme un moyen de
+communication pratique, rapide et (relativement)
+sécurisé, en
+
+
+particulier dans des contextes
+multilatéraux tels que l'Union
+
+
+technologies digitales ont aussi
+
+
+un
+
+
+diplomatiques
+européenne et l'Organisation des Nations unies (ONU),
+WhatsApp est de plus en plus vu comme un élément
+essentiel de l'arsenal diplomatique moderne. En même
+temps, les
+inconvénient
+potentiel. L'utilisation de la
+vidéoconférence a soulevé des questions de confiance
+dans les négociations, et des recherches sur
+l'utilisation de smartphones pour envoyer des SMS lors
+de réunions suggèrent que les négociateurs
+multitâches
+>>
+sont considérés aujourd'hui comme
+moins professionnels et dignes de confiance (Krishnan,
+Kurtzberg et Naquin, 2014).
+
+
+<<
+
+
+Cela dit, la façon dont les médias sociaux sont utilisés
+par les diplomates varie considérablement en fonction
+des individus. L'ancien ambassadeur des États-Unis en
+Russie, Michael McFaul, est à cet égard un exemple
+intéressant. Son utilisation des médias sociaux afin de
+s'engager dans une « guerre sur Twitter » avec le MAE
+russe et afin de dialoguer avec le public russe sur la
+politique étrangère américaine et sur sa vie personnelle
+a valu à McFaul (un universitaire de Stanford) d'être
+classé parmi les « Twitterati 100 » en 2013. Cette
+approche semble avoir quelque peu changé après la
+démission de McFaul et son remplacement par un
+diplomate de carrière, John Tefft. Contrairement à
+McFaul, celui-ci n'avait aucun compte personnel sur
+Twitter ou Facebook, l'ambassade étant représentée
+sur ces plateformes par des comptes officiels standard
+sur Twitter et par la page « US Ambassade Moscou »
+sur Facebook.
+
+
+Une partie du problème ici est de définir le
+comportement diplomatique approprié.
+L'ancienne
+ambassadrice des États-Unis à l'ONU, Samantha Power,
+qui a utilisé de manière enthousiaste les médias
+sociaux afin de faire avancer son agenda humanitaire, a
+été accusée de confondre son rôle de représentante de
+la politique américaine dans des domaines clés tels que
+la crise syrienne avec celui du militant sur les réseaux
+sociaux. En revanche, l'ambassadeur de France à
+Washington D.C. Gérard Araud a été loué pour son
+utilisation habile des médias sociaux qui lui a permis
+d'avoir accès à l'administration américaine sur la base
+d'une compréhension claire des objectifs poursuivis par
+la politique étrangère française. Mais de telles
+stratégies de communication actives posent quelques
+problèmes. L'un des plus fondamentaux, mis en lumière
+par l'importance croissante accordée à la diplomatie
+publique, se rapporte au principe selon lequel les
+diplomates ne devraient pas « interférer » dans la
+politique intérieure de leurs États hôtes. Bien avant
+l'utilisation progressive des médias sociaux par les
+diplomates, ce principe semblait de plus en plus
+insoutenable, mais l'utilisation de plateformes telles
+que Twitter remet en cause les perceptions les plus
+traditionnelles du rôle des professions diplomatiques.
+
+
+La digitalisation et les évolutions plus larges dans
+lesquelles elle s'inscrit posent des problèmes encore
+plus importants liés aux perceptions et aux définitions
+des rôles des institutions diplomatiques ainsi qu'à
+l'importance relative du diplomate professionnel dans
+un monde en mutation. Selon Tom Fletcher, ancien
+ambassadeur britannique au Liban et ardent défenseur
+de la diplomatie digitale, l'utilisation des nouvelles
+technologies de communication doit être comprise dans
+la perspective plus vaste de la place du diplomate à
+l'intérieur et à l'extérieur du gouvernement :
+
+
+Regardez, le pouvoir échappe aux hiérarchies établies, et des emplois
+comme le mien s'insèrent dans une hiérarchie. [...] le pouvoir se
+déplace en dehors de ces réseaux [...]. Je sens le pouvoir m'échapper
+des mains en tant qu'ambassadeur. Je travaille dans un métier où je
+représente les gouvernements et les gouvernements sont de plus en
+plus affaiblis comparés à d'autres sources de pouvoir, et à l'intérieur
+des gouvernements les diplomates sont de plus en plus affaiblis par
+rapport à d'autres composantes du gouvernement (Fletcher, 2016,
+200).
+
+
+Que l'on accepte ou non cette image de l'importance
+déclinante du rôle du diplomate, l'idée d'une
+transformation de l'activité diplomatique est devenue
+une caractéristique souvent mise en avant dans les
+études sur le sujet, et cela bien avant l'apparition de la
+«
+twiplomacy
+».
+Ainsi, l'image du diplomate
+entrepreneur/coordinateur qui développe et gère des
+types de relations complexes est devenue familière.
+Cela reflète une évolution de la logique de
+communication et de représentation des diplomates :
+plutôt que d'être cantonnés à un rôle de « gardiens »
+chargés d'assurer l'imperméabilité des environnements
+d'information, ils assument un rôle actif en tant que «
+passeurs de frontières
+ 
+dans des environnements
+politiques de plus en plus complexes impliquant une
+diversité croissante d'acteurs (Hocking, 2005). Des
+expressions telles que la « diplomatie de guérilla »
+(Copeland, 2009) et la « diplomatie nue » (Fletcher,
+2016) expriment ces idées en identifiant des modèles
+d'évolution du rôle du diplomate dans lesquels
+est
+
+
+l'utilisation des technologies
+élément clé.
+
+
+numériques
+
+
+un
+
+
+*
+
+
+Le développement des technologies digitales
+constitue un défi important tant pour la pratique de la
+diplomatie que pour son analyse. En partie parce que
+
+
+les technologies de communication sont rarement en
+soi les seuls générateurs de changement. Au contraire,
+elles interagissent avec l'environnement au sein duquel
+elles se déploient. Ainsi la diplomatie du $XXI^{e}$ siècle est-
+elle le reflet du caractère évolutif du système
+international, des schèmes de gouvernance globale et
+des communautés nationales et de leurs systèmes de
+gouvernement. Par conséquent, tenter d'établir un lien
+direct entre des forces complexes et l'émergence de
+nouvelles technologies, aussi importantes soient-elles,
+est toujours susceptible de mener à des conclusions
+hasardeuses. L'une des questions les plus courantes est
+de
+savoir si la diplomatie digitale bouscule
+fondamentalement
+la nature des processus
+diplomatiques et les structures sur lesquels reposent de
+tels processus.
+
+
+Ce chapitre a montré que la réponse à ce genre de
+questions reste indéterminée. Certes, un certain
+nombre de fonctions de la diplomatie
+telles que
+répondre au nombre croissant de crises mondiales
+sont améliorées par le recours à la digitalisation.
+Cependant, même les ardents défenseurs des médias
+sociaux au sein de la communauté diplomatique
+soutiennent que les objectifs fondamentaux de la
+diplomatie n'ont pas changé et que le besoin de la
+communication directe (en face-à-face) reste une
+composante essentielle de la négociation. Il est donc
+moins question de célébrer le triomphe d'une forme de
+diplomatie (digitale) sur une autre (non digitale) que de
+mieux comprendre comment articuler de manière plus
+efficace ces différentes stratégies afin de gérer les
+environnements politiques de plus en plus complexes.
+
+
+Bibliographie commentée
+
+
+ARCHETTI Cristina << The impact of new media on diplomatic practice. An
+evolutionary model of change », Hague Journal of Diplomacy, 7 (2),
+2012,  . 181-206.
+
+
+Analysant l'usage des médias sociaux par des diplomates basés à
+Londres, l'auteur montre que le contexte local et le caractère
+personnel des diplomates déterminent l'emploi des outils digitaux.
+
+
+BJOLA Corneliu, HOLMES Marcus (eds), Digital Diplomacy. Theory and
+Practice, Londres, Routledge, 2015.
+
+
+Cette collection de textes analyse la diplomatie digitale comme une
+forme de gestion du changement en politique internationale.
+L'objectif est de théoriser la diplomatie digitale et d'identifier ses
+rapports aux formes traditionnelles de la diplomatie.
+
+
+FLETCHER Tom, Naked Diplomacy. Power and Statecraft in the Digital
+Age, Londres, William Collins, 2016.
+
+
+Ancien ambassadeur britannique au Liban (2011-2015), Fletcher
+pose ici des questions générales concernant le rôle du diplomate au
+$XXI^{e}$ siècle, notamment à l'âge digital.
+
+
+GILBOA Eytan,  Digital diplomacy  , dans Constantinou Costas, Pauline
+Kerr, Paul Sharp (eds), The SAGE Handbook of Diplomacy, Londres,
+Sage, 2016.
+
+
+Un guide utile pour parcourir la littérature émergente sur la
+diplomatie digitale, lequel souligne bien les forces et faiblesses des
+discussions en cours.
+
+
+HOCKING Brian, MELISSEN Jan, Diplomacy in the Digital Age, La Hague,
+Clingendael Institute, 2015.
+
+
+Préparé pour le ministère finlandais des Affaires étrangères, ce
+rapport adopte une approche plus générale du débat sur la
+digitalisation en le reliant à la diplomatie, d'une part, et en le
+situant dans le contexte plus large de la transformation du milieu
+diplomatique, d'autre part.
+
+
+KURBALIJA Jovan,  The impact of the internet and ICT on contemporary
+diplomacy  , dans Pauline Kerr, Geoffrey Wiseman (eds), Diplomacy
+in a Globalizing World. Theories and Practices, Oxford, Oxford
+University Press, 2012, p. 141-159.
+
+
+Écrit par un des experts sur l'impact des technologies digitales sur
+la diplomatie, ce chapitre postule qu'internet est en train de
+transformer l'environnement, l'agenda et les pratiques de la
+diplomatie.
+
+
+SEIB Philip, Real-Time Diplomacy. Politics and Power in the Social
+Media Era, Basingstoke, Palgrave Macmillan, 2012.
+
+
+Partant du contexte des révolutions arabes de 2011, ce livre
+examine le rôle des médias dans les processus de changements
+
+
+politiques, en insistant particulièrement sur l'évolution de la
+diplomatie confrontée à la contraction du temps induite par les
+médias.
+
+
+SCHMIDT E., COHEN J., The New Digital Age. Reshaping the Future of
+People, Nations and Business, Londres, John Murray, 2013.
+
+
+Adoptant une perspective qui inclut mais dépasse le cadre de la
+diplomatie, ce livre est le produit d'une collaboration entre le PDG
+de Google et le directeur de Google Ideas, Jared Cohen, ancien
+conseiller des secrétaires d'État Condoleezza Rice et Hillary
+Clinton.
+
+
+1. Ce chapitre a été traduit de l'anglais vers le français par Thierry
+Balzacq, Corentin Cohen, Benjamin Puybareau et Renaud Takam Talom.
+2. Dans << Comment les institutions peuvent utiliser les réseaux sociaux de
+manière effective ?  , Diplo Blog, 23 mars 2012.
+
+
+3. Dans le sens du retrait d'une partie du processus de négociation.
+
+
+Chapitre 6
+
+
+De la négociation à la
+médiation
+
+
+Valérie Rosoux
+
+
+'est-il pas frappant [...] que ce qui sépare les
+<< N hommes soit généralement de nature infime,
+
+
+tandis que le champ commun dans lequel ils
+pourraient s'unir est immense ? Nous avons beaucoup
+plus de raisons de nous entendre que de nous quereller.
+
+
+>>
+
+
+Cette réflexion est celle d'un ancien diplomate,
+auteur du roman Saint-Germain ou la négociation qui
+remporta le prix Goncourt en 1958 (Walder, 1992, 69).
+L'intrigue se déroule en 1570 sur fond de négociations
+entre catholiques et protestants français. Les temps
+sont anciens, mais les processus décrits avec une rare
+finesse demeurent d'une étonnante actualité. Usage du
+secret, divergence si ce n'est incompatibilité des
+intérêts, gestion des émotions, rapports de force,
+
+
+alchimies personnelles, ruses et stratégies, jongleries
+mêlant coopération et confrontation, tous ces éléments
+restent fondamentaux.
+
+
+s'agisse
+groupes
+
+
+D'autres ont évolué. Les fora au sein desquels les
+diplomates tentent de façonner un accord ne se
+réduisent plus aux salons privés et feutrés des siècles
+passés. La prolifération d'organisations internationales
+et les processus d'intégration régionale ont multiplié et
+accéléré les négociations réalisées dans un cadre
+multilatéral. Le profil des interlocuteurs s'est lui aussi
+sensiblement ajusté. Loin des échanges entre dynasties
+diplomatiques le plus souvent liées à l'aristocratie, les
+interactions sont dorénavant pluriculturelles et
+multiniveaux. Experts, praticiens et autres
+représentants de la société civile (qu'il
+d'organisations non gouvernementales, de
+privés, de représentants religieux ou encore
+d'associations de victimes de guerre) se retrouvent à la
+table de négociation. $\dot{A}$ la pluralité des lieux et des
+profils s'ajoute une troisième évolution marquante : le
+recours de plus en plus fréquent à une tierce partie
+pour favoriser la signature d'un accord. La médiation
+n'est assurément pas neuve, certains diplomates y font
+déjà référence au début du $XVII^{e}$ siècle. Mais elle s'est
+petit à petit généralisée dans le cadre de la résolution
+des conflits. Désormais professionnalisée, la médiation
+diplomatique vise à désamorcer les crises, les prises
+d'otage et, de manière plus générale, l'ensemble des
+conflits armés,
+intercommunautaires.
+
+
+qu'ils soient internationaux
+
+
+ou
+
+
+L'augmentation des négociations multilatérales, ainsi
+que l'intervention croissante d'acteurs non officiels et
+de médiateurs, ne réduit en rien le caractère crucial
+des négociations plus classiques menées par des
+diplomates de haut rang. Ce chapitre tente d'en
+
+
+éclairer la portée et les limites. Il s'articule autour de
+trois questions majeures. La première est de savoir s'il
+convient de négocier. La deuxième est de préciser
+quand il s'agit de négocier. La troisième rappelle
+comment négocier.
+
+
+Faut-il négocier ?
+
+
+Historiens et ethnologues s'entendent pour
+considérer que la négociation caractérise toutes les
+sociétés humaines. Les internationalistes précisent
+quant à eux que les concepts de négociation et de
+diplomatie sont étroitement associés depuis le $XVI^{e}$
+siècle. En 1842, le Dictionnaire politique de Garnier-
+Pagès indique que les négociations embrassent
+presque tout le champ de la diplomatie ». Le
+Dictionnaire diplomatique paru dans l'entre-deux-
+guerres explique quant à lui que « la négociation est la
+raison d'être non seulement de l'agent diplomatique en
+tant que chef de mission, mais encore de la diplomatie
+tout entière ». Depuis lors, l'association des deux
+termes est systématique. En 2008, les 125 pages d'un
+rapport intitulé « Le travail diplomatique. Un métier et
+un art » se réfèrent 176 fois au terme « négociation ».
+Elles confirment, si besoin en était, la maxime de
+Richelieu : « Il faut toujours négocier de près comme
+de loin. » Qu'il s'agisse de défense ou de sécurité, de
+commerce ou d'environnement, de culture ou d'aide
+humanitaire, le diplomate négocie. Il ne fait certes pas
+que cela. Il représente, informe, protège ses
+ressortissants. La diversité de ces tâches n'empêche
+toutefois pas que la négociation demeure l'une des
+principales fonctions diplomatiques.
+
+
+Sur le plan des définitions, ce terme désigne un
+processus par lequel deux ou plusieurs parties,
+
+
+accompagnées ou non d'un médiateur, interagissent
+dans le but d'atteindre une position acceptable au
+regard de leurs divergences. Cette définition permet de
+mettre en exergue quatre éléments clés de toute
+négociation (Dupont, 2006). Le premier vise son aspect
+relationnel. La négociation implique inévitablement une
+interaction entre des acteurs et, par là, une forme de
+communication plus ou moins formelle. Le deuxième
+élément concerne les divergences inhérentes à toute
+négociation. Elles peuvent concerner des faits, des
+objectifs, des méthodes ou encore des valeurs. Qu'elles
+soient réelles ou perçues, elles se révèlent cruciales
+pour passer du duel au duo. Le troisième élément
+rappelle que les parties sont liées par un certain degré
+d'interdépendance : aucune d'entre elles ne peut en
+principe parvenir à un résultat satisfaisant sans l'autre.
+Enfin, la solution recherchée doit être mutuellement
+acceptable, l'accord fût-il inéquitable, voire tout à fait
+déséquilibré. Quand les parties se tournent vers un
+médiateur, le caractère mutuellement satisfaisant de
+l'accord dépend largement du degré de confiance qui
+relie chacune d'entre elles au tiers choisi (Bercovitch,
+2014).
+
+
+Sur le spectre de l'activité diplomatique, la
+négociation diffère à la fois du simple échange de vues
+et de la diplomatie coercitive par laquelle une partie
+tente d'imposer ses préférences de manière unilatérale
+(Thuderoz, 2015). Son importance s'explique
+traditionnellement par le caractère anarchique du
+système international. En l'absence d'une véritable
+autorité supérieure détentrice du monopole de l'usage
+légitime de la violence ou d'un cadre juridique
+s'imposant comme une référence pour l'ensemble des
+États, la négociation constitue l'une des seules voies
+pour favoriser la coexistence entre sociétés
+souveraines. Elle permet aux diplomates de défendre
+
+
+au mieux leurs intérêts nationaux sans provoquer pour
+autant une situation de guerre permanente. Ce
+bénéfice ne signifie toutefois pas que ce processus se
+révèle approprié dans tous les cas. Peut-on tout
+négocier ? Peut-on, par ailleurs, négocier avec
+n'importe qui ?
+
+
+Le premier questionnement vise l'objet de la
+négociation. Certaines réalités paraissent a priori peu
+négociables. Croyances, valeurs, identités ne sont pas
+le fruit d'un compromis. Elles sont par nature non
+divisibles et peu susceptibles d'être modifiées à l'issue
+d'une quelconque tractation. De la même façon, les
+notions de justice et de vérité ne semblent pas, dans
+leur principe en tout cas, pouvoir faire l'objet d'un
+marchandage.
+
+
+Ainsi, dans le cadre de négociations à dominance
+conflictuelle plutôt que coopérative, il n'est pas rare
+que des parties affirment d'emblée le caractère
+innégociable de certaines positions. Dans le contexte
+des pourparlers de paix sur la Syrie, par exemple, le
+départ du président syrien, Bachar Al-Assad, fut
+longtemps qualifié de non négociable par les
+représentants de l'opposition syrienne. La durée du
+conflit, l'intervention de puissances extérieures telles
+que la Russie et l'Iran et les changements de leadership
+au sein de puissances tierces (que ce soit États-Unis ou
+en France) semblent toutefois infléchir le caractère
+intangible de cette ligne rouge. Au Proche-Orient, les
+questions du droit au retour et des lieux saints
+suscitent également des positionnements posés comme
+non négociables. Les blocages auxquels mènent de tels
+problèmes ne signifient toutefois pas qu'il soit
+totalement exclu de concevoir une issue. Les conflits de
+valeurs (value conflicts) se révèlent certes plus intenses
+et plus difficiles à régler que les conflits d'intérêts
+(interest conflicts). Mais il n'est jamais a priori exclu
+
+
+que des négociateurs et/ou médiateurs chevronnés
+parviennent à transformer des conflits de valeur (tels
+que les conflits religieux ou identitaires) en conflits
+d'intérêts.
+
+
+Il paraît par conséquent délicat de présenter certains
+objets comme étant innégociables par nature. Certaines
+réalités fussent-elles présentées et perçues comme
+telles pendant des décennies peuvent à terme, en
+fonction des circonstances et des objectifs de chaque
+acteur, faire l'objet d'une transaction. Le caractère
+innégociable d'une position ne s'impose, en somme,
+que lorsque la négociation a échoué.
+
+
+Une deuxième question concerne non plus l'objet des
+discussions, mais le type d'interlocuteurs auxquels il
+s'agit de faire face. Elle se pose dès que l'une des
+parties refuse de s'asseoir à la table des négociations
+avec une partie présentée comme illégitime.
+L'argument est souvent répété : on ne négocie pas avec
+un dictateur. La figure du dictateur est
+immanquablement associée à celle d'Adolf Hitler. Ainsi,
+lors de chaque intervention armée, les États soucieux
+de tenter ou de prolonger des négociations sont
+associés à l'esprit « munichois » qui mena là où l'on
+sait. Les débats qui précédèrent l'intervention des
+forces américaines et britanniques en Irak au
+printemps 2003 en témoignent à l'envi.
+Saddam
+Hussein n'est pas le seul chef d'État mis en parallèle
+avec Adolf Hitler. L'accusation d'un « nouveau Munich »
+fut épinglée au moment du déclenchement de la guerre
+d'Algérie, de la guerre du Vietnam, des guerres qui ont
+dévasté l'ex-Yougoslavie, ou encore de l'intervention
+franco-britannique de 2011 en Libye. Elle émaille par
+ailleurs régulièrement le débat public en Israël.
+L'ancien Premier ministre israélien, Ariel Sharon,
+appela explicitement les démocraties occidentales à «
+ne pas commettre à nouveau l'erreur terrible commise
+
+
+en 1938, lorsque les démocraties européennes ont
+sacrifié la Tchécoslovaquie pour une solution provisoire
+». Et d'insister : « Nous ne l'accepterons pas. Israël ne
+sera pas la Tchécoslovaquie » (conférence de presse du
+4 octobre 2001). Ces exemples rappellent le poids des
+traces laissées par une diplomatie d'apaisement à
+l'égard d'un dictateur insatiable que l'argument
+résulte d'un véritable prisme cognitif et/ou d'une
+stigmatisation plus stratégique.
+
+
+Le diplomate fait face au même dilemme à l'égard
+des « terroristes ». Les chancelleries le rappellent : il
+n'est pas question de négocier avec des terroristes. La
+question se pose pourtant systématiquement dans le
+cadre des prises d'otage qui ne cessent de se
+multiplier depuis une quinzaine d'années. L'objection
+est connue : de telles négociations ne feraient
+qu'encourager les terroristes à récidiver. Cette
+objection ne permet toutefois pas de chercher une
+issue non fatale pour les otages dont le sort est en jeu.
+La plupart des Etats se voient donc pris dans un jeu
+d'impératifs incompatibles : ne pas céder à une forme
+de chantage au meurtre d'une part, assurer la
+protection de ses ressortissants d'autre part. Pour
+sauver à la fois la face et leurs ressortissants, la plupart
+des États n'excluent pas d'entreprendre des
+négociations aussi discrètes que possible avec l'aide
+des services secrets et de médiateurs spécialisés. L'un
+des critères majeurs qui entrent en ligne de compte
+pour juger de l'opportunité de la démarche réside dans
+la distinction entre terroristes
+absolus
+>>
+et
+«
+contingents ». Les premiers n'ont aucun intérêt à
+négocier tandis que les seconds agissent précisément
+dans le but de négocier. Il n'existe pas de frontière
+nette entre ces catégories, mais cette distinction
+permet de réfléchir aux moyens susceptibles de
+
+
+<<
+
+
+transformer certains preneurs d'otage pour éviter le
+couperet lié à tout ultimatum (Faure et Zartman, 2010).
+
+
+Le débat sur l'opportunité de négocier reste donc
+ouvert. Pour nombre de diplomates, la question ultime
+n'est sans doute pas de savoir s'il faut négocier avec
+des dictateurs ou des terroristes, mais quand et
+comment négocier avec eux. Face à ces interrogations,
+le défi est de parvenir à doser éthique et pragmatisme
+tout en étant conscient de la précarité d'un tel
+équilibre. Pareil dosage rappelle que la crédibilité
+même d'une négociation implique que l'usage de la
+force ne soit pas exclu a priori. L'articulation entre
+négociation et confrontation armée est complexe. Le
+recours à la force est, dans la plupart des cas, suivi à
+plus ou moins long terme par une reprise des
+négociations. L'intérêt du recours à la force n'est dès
+lors pas de dispenser les acteurs d'une négociation
+pénible et coûteuse en temps et en énergie. Il est plutôt
+de postposer ce processus dans l'espoir de favoriser un
+rapport de force plus avantageux.
+
+
+Quand faut-il négocier ?
+
+
+La variable temporelle se révèle décisive pour
+comprendre les résultats d'une négociation. Cette
+variable peut se décliner de deux façons. La première
+concerne la notion de timing, tandis que la seconde se
+concentre sur la durée des négociations.
+
+
+Existe-t-il un moment favorable pour engager une
+négociation ? Les diplomates doivent-ils être sensibles
+à une forme de « momentum » ou de kairos pour
+reprendre une notion de l'Antiquité grecque ?
+Chercheurs et praticiens s'accordent sur le fait qu'un
+conflit a peu de chances d'être résolu s'il n'a pas atteint
+un certain degré de maturité. Sous cet angle, une
+
+
+double condition semble nécessaire pour entreprendre
+une négociation ou une médiation fructueuses. Primo,
+que chaque partie en présence comprenne qu'elle se
+situe dans une impasse extrêmement coûteuse et
+qu'elle n'a aucune chance de l'emporter en misant sur
+une escalade de la force. Secundo, que chaque partie
+perçoive la négociation comme une issue possible afin
+de parvenir à un accord satisfaisant pour l'ensemble
+des parties.
+
+
+Ces deux conditions ont été remplies lors du
+processus d'Oslo qui permit en 1993 la signature d'un
+accord symbolisé par une poignée de main historique
+entre Yasser Arafat et Yitzhak Rabin. Pas moins de
+quatorze rencontres secrètes se sont tenues en
+Norvège pendant les sept mois qui précédèrent
+l'accord entre le gouvernement israélien
+et
+l'organisation de libération de la Palestine (OLP). Tout
+au long de ces rencontres, la perception du coût
+progressivement intenable du conflit et un certain
+optimisme à propos du succès possible de la
+négociation permirent aux parties de mettre au point
+les principes généraux qui serviraient de base à
+l'établissement d'une administration autonome
+palestinienne.
+
+
+Les mêmes conditions caractérisent les négociations
+qui aboutirent au démantèlement de l'apartheid en
+Afrique du Sud. Entre 1991 et 1993, le Parti national au
+pouvoir et le Congrès national africain (ANC)
+entamèrent la dernière phase de négociation après
+avoir pris la mesure de l'impasse qui caractérisait le
+pays, alors en proie à des tensions internes violentes et
+à une pression internationale de plus en plus marquée.
+Au-delà de cette perception commune, Frederik de
+Klerk, à la tête du gouvernement, et Nelson Mandela
+conçurent les négociations comme étant la seule voie
+susceptible d'éviter un bain de sang. Cette double
+
+
+condition (perception d'une impasse et optimisme
+quant à une issue positive) correspond à un moment clé
+(turning point) qui permit la rédaction d'une nouvelle
+Constitution sud-africaine et la mise en place des
+premières élections au suffrage universel de l'histoire
+de l'Afrique du Sud en 1994.
+
+
+Cet exemple rappelle l'importance des tierces parties
+dans le phénomène de maturation permettant la
+conclusion d'un accord négocié. Qu'il s'agisse de
+médiateurs, de puissances alliées ou d'organisations
+internationales, les tiers peuvent exercer des pressions
+déterminantes pour accélérer une prise de conscience
+de la part des parties en présence. Ces pressions ne
+constituent cependant pas une condition suffisante
+pour garantir le succès des négociations. Comme
+nombre de processus enlisés en témoignent,
+l'intervention de tiers dans le cadre d'un conflit qui
+n'est pas mûr (unripe) risque tout simplement d'être
+contre-productive (Zartman, 2015). Le médiateur ne
+doit en somme intervenir ni trop tôt, ni trop tard afin de
+ne pas perturber le processus de mûrissement lui-
+même. Bref, aucune recette toute faite ne dispense les
+parties de discernements subtils et souvent délicats.
+
+
+La spécificité du contexte propre à chaque cas
+permet de réfléchir au rôle du médiateur de manière
+différenciée. Son objectif est de dépasser les obstacles,
+blocages et autres impasses qui empêchent la poursuite
+des négociations. Son rôle varie quant à lui d'un cas à
+l'autre, allant de la stricte neutralité jusqu'à la pression
+caractérisée. Loin d'être systématiquement impartial,
+le médiateur peut agir comme « communicateur », «
+énonciateur
+»,
+voire comme
+«
+manipulateur
+(Zartman, 2002). Dans le premier cas, le médiateur
+s'efforce de favoriser la communication et de restaurer
+la confiance entre les parties. Dans le deuxième, il ne
+se contente pas de transmettre au mieux des messages
+
+
+: il suggère des formules aussi créatives que possible
+pour aboutir à un accord. Dans le troisième cas, le
+médiateur va jusqu'à modifier le rapport des forces en
+présence en intervenant lui-même dans la négociation
+(par l'octroi d'une aide financière par exemple). Ces
+différentes formes d'intervention peuvent être
+illustrées par le rôle que l'administration américaine
+joua dans les processus de paix de Camp David ou
+encore de Dayton.
+
+
+La variable temporelle permet de mettre en lumière
+une seconde dimension liée à la durée des
+négociations. Une fois qu'un processus est lancé, quand
+s'agit-il de l'arrêter
+?
+La question s'avère
+fondamentale, notamment dans le cadre de pourparlers
+de paix. C'est en effet dans le temps long qu'il importe
+d'observer les sociétés dévastées par la guerre. Tous
+les exemples le démontrent : après une guerre, on ne
+compte pas en années, mais en générations. $\dot{A}$ titre de
+métaphore, la géographie de la ville de Coblence en
+Allemagne illustre particulièrement bien la durée des
+processus envisagés. Il est de fait frappant d'observer
+la coloration des eaux au point de rencontre entre le
+Rhin et la Moselle. Loin de se mélanger
+immédiatement, le fleuve et la rivière gardent assez
+longtemps leur couleur propre. C'est en aval, bien au-
+delà du confluent, que les eaux s'intègrent
+progressivement au point de ne plus se différencier. À
+l'instar de ces courants, les communautés affectées par
+une violence passée ne peuvent se rapprocher dans
+l'urgence. Ce constat permet de mettre en perspective
+les processus de négociation destinés à « tourner la
+page  d'une période violente.
+
+
+Envisager les processus de négociation dans le long
+terme élargit considérablement les perspectives.
+L'expression « post-conflit » fait certes l'objet d'un
+consensus dans le champ des relations internationales.
+
+
+Praticiens et chercheurs l'utilisent pour distinguer ce
+qui relève de la prévention, de la résolution et de la
+transformation des conflits. Il paraît toutefois utile de
+s'interroger. Comment démobiliser les esprits ? Quand
+se situe-t-on, en réalité, dans l'après-conflit ? Sur la
+base de quels critères ? Ces questions invitent à
+concilier les temporalités propres à tous les acteurs
+impliqués dans la transformation des relations entre
+anciens ennemis. À la table des négociations, les
+protagonistes principaux sont souvent distingués en
+fonction de leurs intérêts respectifs. Ne s'agit-il pas
+aussi de les différencier en fonction de temporalités
+propres ? Le temps des professionnels de la paix n'est
+pas celui des nouvelles élites. Le temps des
+descendants n'est pas celui des législateurs. Le temps
+des pays donateurs n'est pas celui des survivants.
+
+
+Cette diversité permet de s'interroger sur l'impact à
+long terme de toute médiation. Que celle-ci soit assurée
+par une équipe diplomatique ou une organisation
+privée telle que la fondation Carter, la fondation Ford,
+ou encore la communauté San't Egidio, elle vise en
+général l'obtention d'un accord entre protagonistes. Ne
+peut-elle en outre favoriser la mise en œuvre effective
+des accords et, de manière ultime, la multiplication des
+plateformes concourant à la coexistence et au
+rapprochement des parties ? Cet élargissement des
+perspectives invite à réfléchir à la troisième et dernière
+question qui structure cette réflexion. Au-delà des
+propos liés à la légitimité des acteurs en présence et au
+timing le plus approprié pour entamer des
+négociations, encore faut-il s'entendre sur les
+principales variables qui permettent d'expliquer le
+résultat de ces négociations.
+
+
+Comment négocier ?
+
+
+Les règlements de certains conflits interétatiques
+fournissent des exemples spectaculaires de succès
+diplomatiques. Citons, entre autres, les négociations
+menées par les États-Unis et l'URSS lors de la crise de
+Cuba en 1962, par Israël et l'Égypte dans les années
+1970, ou encore par la Chine et les États-Unis durant la
+même période. De manière plus récente, certains
+traités de paix ont également mis fin à des guerres
+civiles. Ce fut le cas au Mozambique, après la signature
+de l'accord en 2014 par le parti d'opposition, la
+Renamo, et le gouvernement dominé par le Frelimo. De
+la même façon, la signature en 2016 d'un accord de
+paix entre le gouvernement colombien et les forces
+armées révolutionnaires colombiennes (FARC) marqua
+une étape fondamentale dans le conflit qui ravage la
+Colombie depuis plus de cinquante ans. $\dot{A}$ l'inverse,
+l'enlisement des processus de paix au Proche-Orient, en
+Libye, en Syrie ou encore dans l'Afrique des Grands
+Lacs montre jour après jour les vicissitudes et sans
+doute aussi les limites des processus de négociation et
+de médiation.
+
+
+De nombreux auteurs se sont penchés sur les
+facteurs explicatifs du succès ou de l'échec des
+négociations. Dès 1716, François de Callières fait de la
+négociation un objet d'étude. Son ouvrage De la
+manière de négocier avec les souverains s'inscrit dans
+la lignée du Prince de Machiavel par les conseils qu'il
+prodigue à ses lecteurs. Mais, plutôt que de réduire la
+négociation à un préparatif de guerre, il la décrit aussi
+comme augure de paix. Depuis lors, les manuels de
+type « mode d'emploi » ne cessent de se succéder. Ces
+ouvrages insistent notamment sur l'importance de la
+préparation et des aspects formels de la négociation.
+Les questions liées au statut, à la langue utilisée, à la
+fixation de l'agenda, du mandat ou de l'ordre du jour
+conditionnent bien souvent le résultat du processus.
+
+
+Les exemples en ce sens abondent, depuis le congrès
+de Vienne jusqu'aux accords de Camp David.
+
+
+La plupart de ces ouvrages présentent les techniques,
+tactiques et autres stratégies de la négociation, se
+référant surtout aux principes classiques de la
+rhétorique, de l'argumentation et des processus de
+persuasion. $\dot{A}$ côté de ces manuels du bon négociateur,
+nombre d'articles et de livres présentent différents
+angles d'approche pour comprendre les mécanismes de
+la négociation. Cinq approches méritent ici d'être
+distinguées. L'approche structurelle se concentre
+essentiellement sur la notion de pouvoir. L'approche
+comportementale met davantage l'accent sur l'attitude
+et la psychologie des acteurs. L'approche stratégique
+est inspirée de la théorie des jeux.
+L'approche
+processuelle identifie les diverses phases de la
+négociation. Enfin, l'approche culturelle insiste sur les
+facteurs d'ordre historique et culturel. Plutôt que
+d'évaluer ces perspectives en faisant l'éloge des unes
+et la critique des autres, il semble utile de noter ici
+leurs points les plus saillants. Loin d'être
+incompatibles,
+elles
+se révèlent
+souvent
+complémentaires pour comprendre les dynamiques
+propres à chaque cas précis.
+
+
+Selon l'approche structurelle, toute négociation peut
+être analysée comme un marchandage mettant en jeu
+des manifestations de puissance. Sous cet angle, le
+résultat des négociations internationales découle
+directement des asymétries de pouvoir. Pour la plupart
+des auteurs, ce résultat ne fait que confirmer la
+distribution de pouvoir initiale entre les parties, les
+plus puissants étant à même d'orienter le déroulement
+du processus. Il convient cependant de nuancer cette
+opinion en soulignant le caractère relatif du pouvoir.
+Au-delà de la puissance réelle de chaque protagoniste,
+souvent mesurée de manière chiffrée (sur la base
+
+
+d'éléments stratégiques, économiques ου
+démographiques), ne s'agit-il pas aussi, sinon surtout,
+de prendre en considération la puissance telle qu'elle
+est perçue par les parties ? Dans le même sens, il est
+intéressant de prendre au sérieux les mécanismes qui
+permettent aux parties jugées a priori les plus faibles
+de modifier le rapport de force initial. Songeons
+notamment à l'intervention des tierces parties qui leur
+sont favorables (États alliés), au soutien procuré par
+des ONG ou des médias, parfois susceptibles
+d'influencer la scène publique internationale. La
+négociation ne peut donc être réduite à une stricte
+mise en balance des ressources matérielles de chaque
+partie. Le pouvoir demeure certes l'une des variables
+les plus fondamentales du jeu diplomatique, mais le
+moins puissant n'est certes pas pour autant
+systématiquement à la merci du plus fort.
+
+
+L'approche comportementale précise quant à elle que
+le résultat d'une négociation ne reflète pas simplement
+un rapport de force, mais dépend aussi de l'attitude, de
+la motivation et de la personnalité des acteurs. La
+plupart des diplomates considèrent que la négociation
+est un art qui ne s'enseigne pas. Un art d'observation,
+d'analyse et de persuasion dans lequel l'expérience
+personnelle s'avère fondamentale (Plantey, 2002). Un
+art difficile, basé sur le réalisme et la patience, ainsi
+que sur une créativité et une flexibilité à toute épreuve.
+Une somme de talents, en somme, pour clarifier sa
+position et cerner celle de l'autre, dialoguer jusqu'au
+point d'entente, équilibrer les concessions pour
+protéger la relation. Le raisonnement est identique à
+l'égard du médiateur, posé comme étant
+particulièrement à l'écoute, humble et tenace,
+optimiste et pragmatique.
+
+
+Comme vis-à-vis de l'approche précédente, certaines
+nuances semblent salutaires. Les traits du négociateur
+
+
+et du médiateur idéaux sont inspirants. Peut-on pour
+autant en déduire qu'il serait vain d'apprendre en la
+matière ? Les recherches menées sur la dimension
+psychologique et cognitive de la négociation ne
+s'arrêtent pas aux qualités d'un négociateur qui serait
+né doué. Elles démontrent l'importance des
+perceptions, des signaux transmis, de la qualité de
+l'information possédée et des messages échangés. D'où
+l'intérêt de repérer les malentendus et les biais
+cognitifs à l'origine des blocages les plus robustes, qu'il
+s'agisse du manque d'empathie, de l'excès de confiance
+(caractérisé par la certitude d'avoir raison et d'adopter
+les stratégies appropriées) ou encore de la surenchère
+(à l'origine d'une prise de risque irrationnelle). Cet
+apprentissage permet de ne pas en rester à une
+dichotomie figée entre ceux qui posséderaient les
+qualités requises pour « bien » négocier et ceux qui ne
+les posséderaient pas.
+
+
+Outre le pouvoir et la personnalité, le succès ou
+l'échec d'une négociation peuvent être éclairés par la
+prise en compte des stratégies choisies par les parties
+et leur médiateur éventuel. Selon cette approche, le
+résultat de la négociation est directement lié aux offres
+et aux demandes faites par les parties afin d'aboutir à
+des concessions. Sont mobilisées à cet effet la théorie
+des jeux, la théorie économique (qui permet d'étudier
+les coûts comparatifs) et la psychologie sociale (qui
+décortique les comportements coopératifs et
+compétitifs). Basée sur la rationalité des acteurs, cette
+école pose un certain nombre de questions
+fondamentales liées au choix des acteurs, aux
+conditions qui affectent ce choix et au degré de
+confiance qui existe entre les parties. À titre d'exemple,
+l'étude du dilemme du prisonnier a permis d'élaborer
+une théorie de la coopération reposant sur une forme
+de « confiance conditionnelle » (tit for tat). Dans cette
+
+
+perspective, la stratégie la plus probante à long terme
+est de commencer par coopérer et de répondre, dans
+un deuxième temps, sur le même mode que l'autre
+partie (Axelrod, 1997).
+
+
+L'approche stratégique ne peut toutefois prédire ni la
+conduite des acteurs, ni l'issue de leurs interactions. La
+négociation elle-même repose sur des calculs et des
+perceptions qui rendent imprévisibles son déroulement
+et son aboutissement. Ce constat renvoie à la délicate
+articulation entre notions de rationalité et de
+prévisibilité. Le fait que les parties s'efforcent d'agir
+rationnellement et que, rétrospectivement, le résultat
+de leur négociation paraisse lui aussi rationnel ne
+signifie pas que ce résultat puisse être calculé à
+l'avance. Les historiens le rappellent à l'envi : il est
+décisif d'envisager les décisions prises par les acteurs
+en gardant à l'esprit le contexte qui était le leur - fait
+d'ambiguïtés et de risques plutôt que de certitudes et
+d'évidences.
+
+
+Une quatrième approche attire l'attention, non plus
+sur les ressources de chaque partie en présence, le
+comportement des acteurs ou leurs stratégies
+respectives, mais sur les processus de négociation en
+tant que tels. Reposant sur le découpage d'une
+négociation en phases successives, elle invite à
+distinguer la prise de contact, les phases d'information,
+d'argumentation et d'ajustement des positions, et
+finalement la formation de l'accord. L'intérêt d'une telle
+distinction est de cerner au mieux les fonctions, les
+outils et les qualités requises pour chacune de ces
+phases. Sur le terrain, les processus de négociation
+progressent toutefois rarement de manière linéaire et
+idéalement séquencée. Caractérisés par de nombreux
+allers et retours, ils ne sont ni irréversibles ni
+systématiquement
+articulés autour de phases
+
+
+clairement identifiables.
+
+
+Ces irrégularités expliquent que certains auteurs
+préfèrent mettre l'accent sur trois étapes principales
+plutôt que cinq. Dans cette perspective, la première
+grande étape est la phase de pré-négociation qui
+permet de remplir les conditions requises pour
+favoriser la discussion, qu'il s'agisse de mettre en place
+un canal de communication ou de collecter
+les
+renseignements requis pour poser une forme de
+diagnostic reprenant, pour chaque partie, les demandes
+jugées prioritaires par sa propre équipe et celles qui
+seront vraisemblablement celles de l'autre partie. Une
+fois ce diagnostic posé, les parties entament en général
+une deuxième grande étape destinée à élaborer une
+formule d'accord. De longues discussions tentent alors
+de déterminer les termes de l'échange. S'agit-il de
+négocier des ressources contre de l'argent,
+des
+prisonniers vivants contre des corps défunts, des
+territoires contre un retrait sécurisé ? Toutes les
+formules sont imaginables. D'où l'importance
+s'accorder sur le type d'échanges le plus à même de
+satisfaire l'ensemble des parties à la table. La troisième
+et dernière phase porte sur les détails de la
+transaction. C'est le moment d'affiner les positions, de
+calibrer ses concessions, de préciser les termes de
+l'échange qui permettront la finalisation de l'accord. Le
+soin apporté à chacune de ces phases détermine dans
+une grande mesure la possibilité même de mettre en
+œuvre l'accord conclu.
+
+
+de
+
+
+Enfin, une dernière approche souligne l'importance
+des variables culturelles dans le cadre de toute
+négociation internationale. Elle s'interroge sur le rôle
+du langage, des systèmes de valeurs, des codes ou
+encore des rites. Au-delà de la question des stéréotypes
+nationaux, souvent décisifs durant les phases de
+préparation et de premiers contacts, il s'agit de
+prendre au sérieux les structures et les pratiques
+
+
+sociales, les modes d'autorité ainsi que les événements
+perçus dans la mémoire collective de chaque groupe
+comme des précédents marquants. La frontière entre
+approches comportementale et culturelle n'est pas
+toujours aisée à dessiner. Il semble néanmoins crucial
+de repérer le rôle joué par les éléments composant les
+millefeuilles culturels qui conditionnent nombre de
+positions. Si ces éléments ne permettent pas, à eux
+seuls, de prédire le déroulement d'une négociation, ils
+peuvent constituer des obstacles de taille sur le plan de
+la communication, des perceptions et des émotions. À
+ce sujet, une forme d'empathie sur le plan non pas
+seulement personnel, mais aussi culturel, figure parmi
+les qualités clés qui font d'un diplomate un négociateur
+chevronné.
+
+
+*
+
+
+question
+
+
+À l'issue de cette réflexion, une
+fondamentale demeure ouverte : que signifie, pour un
+diplomate, « réussir » une négociation ? S'agit-il de
+dépasser la dichotomie gagnant/perdant ? Sachant que
+la négociation n'est pas systématiquement fondée sur
+l'honnêteté et la bonne foi, comment repérer les signes
+d'un succès ? Un tel discernement se base-t-il sur le
+caractère équilibré de l'accord, l'enthousiasme du
+public, l'augmentation de la confiance entre parties ?
+Cette dernière dimension s'avère particulièrement
+décisive dans le cadre d'un accord de paix. L'ensemble
+des cas analysés montre que la seule obtention d'un
+accord ne suffit pas à combler les fossés qui ont déchiré
+les communautés. Un processus de paix ne peut être
+durable s'il n'est pas accompagné de démarches reliant
+progressivement tous les niveaux de la société. Si les
+représentants officiels considèrent la négociation
+comme la voie la plus porteuse au vu des alternatives
+
+
+en présence, encore faut-il que leur décision soit
+progressivement relayée au sein des populations.
+
+
+Au jeu des négociations diplomatiques se greffe ainsi
+celui des tractations internes propres à chaque partie,
+fait lui aussi de marchandages, de luttes d'influence ou
+encore d'alliances. De ces processus souvent
+concomitants dépend l'élan du rapprochement. D'où
+l'importance de concevoir les négociations officielles
+comme se situant en amont et/ou en aval de
+collaborations imbriquant des acteurs non étatiques
+provenant des milieux politiques, économiques,
+sociaux, religieux ou encore académiques. Ce type de
+rencontres non officielles peut parfois se révéler crucial
+avant que des procédures formelles ne soient entamées
+puisqu'elles contribuent au fait que les représentants
+de chaque partie acceptent de s'asseoir à la table des
+négociations. Ces échanges peuvent également s'avérer
+utiles après l'obtention d'un accord. Ils
+susceptibles de favoriser l'application concrète des
+mesures issues de l'accord, et de contribuer à
+l'apprentissage progressif d'un langage commun.
+
+
+sont
+
+
+Une telle perspective prend la forme d'un zigzag
+reliant démarches diplomatiques et sociétales,
+enrichissant ainsi l'art de la « dentelle diplomatique »
+évoquée dans Saint-Germain ou la négociation. En
+dépassant les cercles institutionnels, les diplomates
+donnent une épaisseur sociologique aux négociations.
+Cette épaisseur peut se révéler décisive pour
+apprivoiser le réel et relancer les dés. L'exercice est
+périlleux, souvent décourageant mais toujours
+impérieux. S'il donne le vertige, sans doute est-il utile
+de se souvenir qu'au fond, « il ne s'agit que de trouver
+un compromis. C'est une affaire d'imagination
+(Walder, 1992, 27).
+
+
+>>
+
+
+Bibliographie commentée
+
+
+AXELROD Robert, The Complexity of Cooperation, Princeton (N. J.),
+Princeton University Press, 1997.
+
+
+L'ouvrage reprend les réflexions les plus déterminantes de l'un des
+experts mondiaux de la théorie des jeux. Chacun des chapitres
+contribue à la compréhension des processus de négociation en
+scrutant les interactions, les perceptions et les effets de
+communication entre parties.
+
+
+BERCOVITCH Jacob, Theory and Practice of International Mediation.
+Selected Essays, Londres, Routledge, 2014.
+
+
+Ce recueil d'articles rassemble les analyses empiriques et
+théoriques menées tout au long de sa carrière par l'un des
+meilleurs spécialistes de la médiation internationale. L'ensemble de
+ses travaux rappelle que la médiation constitue l'une des méthodes
+de résolution des conflits les plus anciennes qui soient.
+
+
+DUPONT Christophe, La Négociation post-moderne. Bilan des
+connaissances, acquis et lacunes, perspectives, Paris, Publibook,
+2006.
+
+
+Cette monographie synthétise l'ensemble des recherches menées
+par un professionnel de l'économie passionné par la négociation.
+Six chapitres exposent de manière pédagogique et richement
+illustrée les divers visages de la négociation.
+
+
+FAURE Guy Olivier, ZARTMAN William I., Negotiating with Terrorists.
+Strategy, Tactis and Politics, Londres, Routledge, 2010.
+
+
+Le volume s'interroge sur l'opportunité d'entreprendre une
+négociation avec des terroristes. Il analyse quand, pourquoi et
+comment de telles négociations sont entreprises. Les
+recommandations mises en exergue tout au long des chapitres
+reposent sur l'expérience de praticiens et les études scientifiques
+les plus récentes.
+
+
+PLANTEY Alain, La Négociation internationale au $XXI^{e}$ siècle, Paris,
+CNRS Éditions, 2002.
+
+
+Cette monographie est le fruit d'une carrière au Conseil d'État, à la
+présidence de la République du temps du général de Gaulle et dans
+les cercles diplomatiques onusiens et européens. Nourrie
+d'exemples concrets et de pensées inspirantes, cette somme couvre
+l'ensemble des facettes de la négociation diplomatique.
+
+
+THUDEROZ Christian, Petit traité du compromis. L'art des concessions,
+Paris, Presses universitaires de France, 2015.
+
+
+Codirecteur de la revue Négociations, Christian Thuderoz livre ici
+le regard d'un sociologue soucieux de dépeindre la diversité des
+
+
+régimes et des registres de la négociation.
+
+
+WALDER Francis, Saint-Germain ou la négociation, Paris, Gallimard,
+1992.
+
+
+Ce roman tire implicitement les leçons d'une vie passée au service
+de la diplomatie. L'auteur s'inspire de ses missions internationales
+pour dépeindre des négociations entreprises au $XVI^{e}$ siècle. Il livre
+un portrait saisissant des négociateurs attentifs à la raison d'État
+tout en étant sensibles aux passions humaines les plus profondes.
+
+
+ZARTMAN William I., « La politique étrangère et le règlement des conflits
+  , dans Frédéric Charillon (dir.), Politique étrangère. Nouveaux
+regards, Paris, Presses de Sciences Po, 2002, p. 275-300.
+
+
+Cet ouvrage réunit les contributions de quinze internationalistes
+reconnus, qui livrent leurs analyses des approches et des pratiques
+de la politique étrangère. Il dresse un bilan des outils théoriques
+existants tout en dégageant des questions transversales qui
+permettent de mieux appréhender la portée de la politique
+étrangère au $XXI^{e}$ siècle.
+
+
+ZARTMAN William I., Preventing Deadly Conflict, Cambridge, Polity,
+2015.
+
+
+Cette monographie se concentre sur les défis posés par la
+prévention des conflits. Elle offre un large éventail des processus et
+méthodes destinés à apaiser des conflits internationaux ou
+intercommunautaires.
+
+
+Chapitre 7
+
+
+Rituels et diplomatie
+
+
+Thierry Balzacq
+
+
+Quelle que soit l'activité en cours, aussi profane et aussi matérielle
+qu'elle apparaisse, elle peut être l'occasion de multiples petites
+cérémonies, dès lors que d'autres personnes sont présentes.
+L'observance de ces pratiques, régie par les obligations et les attentes
+cérémonielles, fait qu'un flux constant de complaisances traverse la
+société, et que l'entourage ne cesse de rappeler à chacun le devoir
+qu'il a de se tenir fermement et de respecter le caractère sacré
+d'autrui. Les gestes que parfois nous nommons vides sont peut-être,
+en fait, les plus pleins de tous. (Goffman, 1974, 80-81).
+
+
+a scène diplomatique est constellée de « rituels
+L
+d'interaction
+>>
+(Goffman, 1974).
+Pourtant, les
+manuels et les handbooks de diplomatie proposent très
+rarement, voire jamais, un chapitre sur les rituels. Le
+Oxford Handbook of Modern Diplomacy, par exemple,
+ne fait apparaître aucun passage sur la question, alors
+
+
+que l'efficacité de certains éléments fondamentaux de
+la diplomatie, tels que la représentation, le protocole,
+les sommets internationaux et la négociation, repose
+souvent sur des rituels plus ou moins habilement
+maîtrisés et déployés à bon escient.
+
+
+Le bilan n'est guère
+différent en histoire
+diplomatique. Au regard de l'abondance des données,
+on pourrait s'attendre à y trouver un nombre important
+de travaux sur les cérémonies diplomatiques de la
+Renaissance ou de l'époque moderne, lesquelles
+constituent, à bien des égards, l'arrière-fond commun
+de
+nombreuses
+
+
+pratiques
+diplomatiques
+contemporaines. À ce propos, William Roosen (1980)
+souligne l'ambivalence dont l'étude des rituels est
+l'otage. D'une part, certains historiens estiment
+l'examen des rituels futile ; et, d'autre part, ceux qui s'y
+intéressent consacrent peu de place à la discussion du
+sens des rituels. À l'analyse des significations possibles,
+ils préfèrent la description méticuleuse des cérémonies
+qu'ils ont identifiées et décrites. En conséquence, les
+signes qui structurent les cérémonies sont reliés à
+d'autres signes, sans que l'on ne sache comment ni
+pourquoi.
+
+
+Ces dernières années cependant, quelques historiens
+que l'on regroupe sous le label « nouvelle histoire
+diplomatique » s'intéressent de plus en plus aux
+composantes ritualistes et cérémonielles de la
+diplomatie. Mais ce travail reste très marqué par une
+perspective culturaliste, dans la mesure où le projet de
+la nouvelle histoire diplomatique, notamment en
+Allemagne, est d'abord de mettre au jour les aspects
+symboliques de la communication diplomatique
+(Stollberg-Rilinger, Althoff, Goetzmann, Puhle, 2008 ;
+Stollberg-Rilinger, 2000). Au vrai,
+l'aspect
+communicationnel des rituels en est un des éléments
+clés; mais on verra plus loin, d'une part, que le rapport
+
+
+entre rituel et communication est moins direct qu'il n'y
+paraît et, d'autre part, que le rituel ne saurait être
+réduit à sa fonction communicationnelle. Le rituel peut,
+en effet, remplir plusieurs rôles. Ainsi, il lui arrive très
+fréquemment de participer de la construction de
+l'identité des acteurs impliqués (Elias, 1974).
+
+
+Avant d'évoquer les fonctions du rituel, il nous faut
+commencer par examiner brièvement ce que le
+terme recouvre. C'est l'objet de la première partie de
+се chapitre. Nous analysons ensuite un rituel
+particulier, le plus courant sans doute : le protocole
+diplomatique. Dans la foulée, nous accordons un
+supplément d'attention à une forme répandue, mais
+peu étudiée, de performance diplomatique : la poignée
+de main. Pour commencer à dégager le nuage de
+doutes qui entoure souvent l'efficacité des rituels, on
+recourra aux résultats des recherches les plus récentes
+en neurosciences pour étayer l'impact de la poignée de
+main, ce qui devrait ouvrir une fenêtre prometteuse sur
+les conséquences des autres rituels diplomatiques
+évoqués dans ce chapitre. Enfin, nous nous pencherons
+sur quelques conséquences méthodologiques dès lors
+que l'intérêt se porte sur l'étude des rituels
+diplomatiques.
+
+
+Qu'est-ce qu'un rituel ?
+
+
+En sciences humaines et sociales, on sait que
+répondre à ce genre de question est réputé ardu. Pour
+partie, cela tient aux préférences des auteurs, lesquels
+mettent l'accent sur un point particulier du phénomène
+; pour partie encore, cela peut être dû au fait que le
+phénomène ne se laisse pas facilement saisir à travers
+un seul prisme ; enfin, la difficulté peut être accentuée
+par l'investissement de plusieurs disciplines. En ce qui
+
+
+concerne les rituels, on dira que les deux premières
+raisons sont les plus pertinentes. À côté de la
+sociologie, l'anthropologie est la discipline qui a
+réellement donné aux rituels leur consistance
+intellectuelle. Les autres disciplines, y compris la
+science politique et l'histoire, s'y sont engagées bien
+plus tardivement et n'ont pas développé une
+perspective singulière, ce qui ne veut pas dire qu'elle
+n'est pas originale. Pour l'essentiel, néanmoins, elles
+ont davantage emprunté les définitions existantes
+qu'elles ont parfois légèrement amendées.
+
+
+Les définitions concernant le rituel ont des points
+d'appui différents, mais une ligne de démarcation
+permet d'en distinguer deux familles : d'une part, celles
+qui, en particulier à la suite d'Émile Durkheim (1912),
+définissent le rituel comme un trait important du sacré
+et, d'autre part, les définitions qui détachent le rituel
+de toute référence au sacré. Max Gluckman illustre
+bien la première approche. Il considère en effet le
+rituel comme « un cérémonial stylisé à travers lequel
+des personnes reliées de plusieurs manières aux
+acteurs centraux, ainsi que ces derniers eux-mêmes,
+réalisent des actions en fonction de leurs rôles
+séculiers; et les participants croient que ces actions
+prescrites expriment et changent les relations sociales
+de telle sorte qu'elles leur apportent bénédiction,
+purification, protection et prospérité [...] » (Gluckman,
+1966, 24)1.
+
+
+Les clarifications conceptuelles qui s'écartent de la
+référence religieuse constituent la deuxième entrée
+possible dans l'univers des rituels. Certaines sont
+extensives, d'autres se distinguent nettement par leur
+très haut degré de parcimonie. Stanley Tambiah offre
+un exemple de définition large. Pour lui, en effet, le
+rituel est « un système culturellement construit de
+communication symbolique. Il est constitué de schèmes
+
+
+de séquences ordonnées de mots et d'actes, souvent
+exprimés à travers de multiples médias, dont le
+contenu et l'agencement se caractérisent par un degré
+variable de formalité (conventionalité), de stéréotypie
+(rigidité), de condensation (fusion) et de redondance
+(répétition) » (Tambiah, 1979, 119). Roy Rappaport, qui
+a développé une des approches les plus puissantes et
+les plus ramassées du rituel, s'inspire à bien des égards
+de cette définition. Mais il précise que ceux qui
+participent au rituel ne sont pas totalement les auteurs
+des séquences des mots et des actes répétés. Dans son
+approche, le rituel devient donc « une performance de
+séquences plus ou moins invariables d'actes et de mots
+non entièrement encodés par les participants
+(Rappaport, 1999, 24).
+
+
+La définition de Rappaport présente de nombreux
+avantages, dont deux semblent très importants. Le
+premier, c'est qu'elle n'est pas substantielle, mais
+formelle. Rappaport ne cherche pas à lister tous les
+ingrédients d'un rituel, mais s'intéresse aux
+caractéristiques essentielles, aux invariants en quelque
+sorte, de ce que l'on appelle « rituel ». Ici, la référence
+au sacré n'est plus un aspect fondamental du rituel. En
+d'autres termes, une telle focale analytique permet de
+se libérer à la fois du contexte et du débat entre
+approches religieuse et non religieuse du rituel.
+Deuxièmement, Rappaport propose une conception non
+fonctionnaliste du rituel. En effet, on ne trouve trace
+dans sa définition d'aucune référence aux fonctions
+supposées du rituel car, pour Rappaport, une telle
+entreprise ne tient pas suffisamment compte du fait
+qu'il existe plusieurs types de rituels, aux fonctions
+fluides. Dans ce cas, une définition qui se préoccuperait
+des fonctions, au demeurant multiples des rituels, ne
+pourra jamais les enregistrer toutes. Elle risque, au
+mieux, de proposer une pléiade de traits glanés dans
+
+
+tous les rituels (tâche impossible) ou, au pire, de se
+limiter aux spécificités de chaque rituel au lieu de
+dégager, à travers les différents rituels, ce qui les
+rassemble en tant que rituels et qui, en même temps,
+les distingue d'autres phénomènes. En outre,
+Rappaport ne prétend pas que la formalité,
+l'invariance, la performance sont des traits exclusifs du
+rituel. Ce qu'il soutient, c'est que l'articulation de ces
+éléments s'exprime de manière singulière dans un
+rituel. C'est ce qui, in fine, nous permet de décaler, à
+l'intérieur de plusieurs événements, le phénomène que
+l'on nomme « rituel ».
+
+
+Si une bonne définition du rituel, c'est-à-dire une
+définition qui s'attache à la forme et non au contenu
+variable des rituels, doit éviter d'en lister les fonctions,
+on ne peut faire l'économie d'une prise en compte des
+fonctions dès lors que l'on s'intéresse à une famille de
+rituels, notamment les rituels diplomatiques. Pour cela,
+il faut donc travailler de manière empirique, en partant
+d'un rituel particulier. Le protocole diplomatique
+fournit un tel terrain d'enquête, à partir duquel on
+pourra non seulement spécifier les fonctions d'un rituel
+mais aussi clarifier davantage comment opère un rituel.
+
+
+Le
+
+
+protocole,
+
+
+support
+
+
+et
+
+
+expression
+
+
+de l'ordre diplomatique
+
+
+On distingue, grosso modo, deux types de protocole :
+l'un, le protocole officiel, régule les interactions entre
+les autorités d'un même État ; l'autre, le protocole
+diplomatique, désigne l'ensemble des normes,
+conventions et pratiques qui régissent les contacts et
+les interactions entre les autorités d'États différents.
+Toutefois, le fait que le protocole régule les interactions
+
+
+renseigne peu sur le contenu de celles-ci. De même, les
+ingrédients protocolaires peuvent varier d'un pays à un
+autre; mais la « nécessité interne » (Geertz, 1986, 178)
+du protocole reste immuable : mettre en forme l'ordre
+diplomatique (Deloye, Haroche et Ihl, 1999). En
+somme, une manière de penser et de construire l'ordre
+sous-jacent aux rapports entre États.
+
+
+Baromètre des relations internationales pour certains
+(Roosen, 1980), arme diplomatique pour d'autres
+(Burke, 1999), le développement du protocole
+diplomatique moderne remonte à la fin du XVIIe et à la
+première moitié du XVIII e siècles. Parmi les
+précurseurs, deux textes témoignent de cette évolution
+: L'Ambassadeur (1680-1681), écrit par Abraham de
+Wicquefort, et De la manière de négocier avec les
+souverains (1716), commis par François de Callières,
+ancien secrétaire de Louis XIV. Certes, ces deux
+ouvrages ont pour thèmes centraux la négociation et le
+rôle de l'ambassadeur. Mais ce qui est frappant, c'est
+que les audiences, les civilités et les cérémonies sont
+élevées au rang de « parties les plus essentielles de
+l'Ambassade » (Wicquefort, 1680-1681, 416).
+
+
+Une des questions essentielles du protocole que le
+congrès de Vienne (1815) a dû trancher est celle des
+préséances. L'objet des préséances est d'abord de fixer
+un ordre hiérarchique entre les parties en présence. Il
+n'est donc pas étonnant que la question des préséances
+ait donné lieu, avant sa formalisation à Vienne, à des
+différends entre les nations européennes soucieuses
+d'affirmer leur autorité les unes sur les autres,
+notamment pendant le Moyen Âge et l'ère moderne.
+
+
+Un exemple mémorable est celui de la rixe de
+Londres en 1661. À l'occasion de la présentation des
+lettres de créance de l'ambassadeur de Suède à la cour
+du roi Charles II, les attelages des ambassadeurs
+
+
+d'Espagne et de France entrèrent en collision. La cause
+du carambolage vient de ce que chaque délégation
+voulait passer devant l'autre, autrement dit, avoir la
+préséance. Furieux, Louis XIV exigea des excuses de la
+cour d'Espagne et promit de contraindre Philippe $IV\ll a$
+céder à [ses] ambassadeurs la préséance dans toutes
+les cours d'Europe » (Loménie, 1919, 102). Selon Peter
+Burke, cet incident avait été ritualisé par la France
+pour préparer un changement d'équilibres
+diplomatiques au sein de l'Europe. De fait, la guerre de
+dévolution entre la France et l'Espagne éclata en 1667.
+Pour Burke (1999, 177-178), par ailleurs, Louis XIV a
+été une figure importante dans la reconstruction des
+rituels officiels et diplomatiques durant la période
+moderne. Il souligne, par exemple, que l'escalier des
+ambassadeurs du palais de Versailles servait de décor à
+des rituels savamment orchestrés, destinés non
+seulement à recevoir les représentants des souverains
+étrangers avec les honneurs dus à leur rang, mais aussi
+à projeter la puissance de la France. Le protocole était
+donc, en d'autres termes, le « territoire des signes
+rituels de la domination » (Geertz, 1986, 157).
+
+
+Même si l'aspect « domination » est moins prégnant
+dans les pratiques diplomatiques contemporaines, le
+protocole véhicule toujours une structuration
+hiérarchique des rapports entre les diplomates et reste
+un instrument efficace dans l'expression structurée du
+contenu des relations entre États. Comme le remarque
+Serres, « les agents étrangers représentent quelque
+chose de plus élevé qu'eux-mêmes. C'est à la personne
+morale dont ils sont l'expression que s'adressent les
+honneurs qui leur sont rendus. On n'a pas assez
+remarqué que le protocole ne connaît ni peuple
+victorieux, ni peuple vaincu, et qu'il impose à des
+nations même ennemies, des égards réciproques, sans
+tenir compte de leur rapport de force [...] » (Serres,
+
+
+1992, 33). Ainsi, le protocole codifie les prérogatives,
+les privilèges et les immunités. De plus, il procure aux
+cérémonies diplomatiques un cadre normatif, lequel
+favorise des interactions pacifiques. Dans les termes de
+Tambiah
+«
+apporte
+temporairement la perfection dans un monde imparfait
+».
+
+
+(1979, 117), le rituel
+
+
+Dans Que font ces diplomates entre deux cocktails ?,
+Chambon décrit un événement protocolaire majeur
+dans les relations diplomatiques entre États : la remise
+des lettres de créance (sur ce concept, cf. chapitre 1).
+Voici ce qu'il en dit :
+
+
+Quelques jours après, l'ambassadeur sera invité à remettre les lettres
+de créance au chef de l'État auprès duquel il est accrédité. Ce jour-là,
+le chef du protocole, en jaquette ou en uniforme, viendra avec
+solennité le chercher, lui et ses principaux collaborateurs, à son
+ambassade, pour les emmener dans des grandes voitures noires,
+propres à ces cérémonies, et précédées de motards à sirènes, jusqu'au
+palais du chef de l'État [...]. L'hymne national entendu, l'ambassadeur
+s'avance et remet ses lettres de créance au chef de l'État et prononce
+le discours de circonstance, où sont rappelés les « liens traditionnels
+d'amitié  unissant les deux pays, et où est souligné le désir du
+diplomate, durant le temps de sa mission, « de les voir se resserrer et
+se développer ». Le chef de l'État répond de manière courtoise [...].
+Après la coupe de champagne traditionnelle, le chef de l'État et
+l'ambassadeur échangent des propos à bâtons rompus, mais où chacun
+s'efforce de percer les véritables intentions de l'autre [...]. (Chambon,
+1983, 95)
+
+
+Le rituel de la remise des lettres de créance est
+instructif à plusieurs égards. D'une capitale à l'autre,
+des subtilités peuvent être introduites, mais surtout le
+moment peut être délicat pour l'ambassadeur,
+notamment quand les relations entre les deux États
+sont détériorées. D'ailleurs, les lettres de créance
+peuvent être rejetées pour exprimer notamment la
+désapprobation d'une politique, d'une décision ou d'un
+comportement. Ainsi en 1987, le président François
+Mitterrand refusa-t-il les lettres de créance du nouvel
+
+
+ambassadeur d'Afrique du Sud pour protester contre
+l'incarcération de Pierre-André Albertini, un coopérant
+français. L'accréditation de l'ambassadeur sud-africain
+en France n'intervint qu'après la libération d'Albertini.
+Plus récemment, c'est le Vatican qui n'a pas donné
+suite à la nomination de Laurent Stefanini comme
+ambassadeur de France auprès du Saint-Siège. Désigné
+en 2015, Laurent Stefanini a attendu environ un an et
+demi une accréditation qui n'est jamais arrivée. La
+France a finalement décidé de le nommer auprès de
+l'Organisation des Nations unies pour l'éducation, la
+science et la culture (Unesco) et de proposer au pape
+François le nom de Philippe Zeller, lequel a rapidement
+été accepté et reçu en audience, mettant fin à une
+longue opposition entre Paris et le Vatican.
+
+
+Les rituels diplomatiques s'incarnent principalement
+dans des cérémonies (dîner, remise de cadeaux,
+signature de traités, invitation aux défilés militaires,
+etc.), qui sont donc autant d'occasions pour les
+performances diplomatiques. Dans les repas officiels,
+par exemple, les individus sont répartis autour de la
+table en fonction de leur rang et de leurs rôles. On y
+joue notamment sur la distance et la proximité pour
+répartir les corps (Haroche, 1999, 217). De même, une
+revue de la garde royale dans le carrosse de la reine
+d'Angleterre signale le désir de communiquer une
+estime et une proximité physique et émotionnelle dont
+ne bénéficient pas tous les chefs d'État qui sont reçus
+en visite officielle.
+
+
+La poignée de main
+
+
+La poignée de main est un des gestes les plus
+courants de l'écosystème diplomatique. Certaines ont
+marqué l'histoire des relations internationales ; elles
+
+
+sont devenues iconiques - exemples : celle entre Raul
+Castro et Barack Obama (2013); scellant les accords
+d'Oslo, la poignée de main entre Yasser Arafat et
+Yitzhak Rabin (1993); celle entre Mikhaïl Gorbatchev
+et Ronald Reagan (1988). Ce qui peut être abordé a
+priori comme un acte banal de la vie quotidienne obéit
+pourtant à un code précis. Il existe, de fait, des règles
+très détaillées sur la poignée de main « idéale » : elle
+doit être brève sans être fuyante ni trop longue, ce qui
+reviendrait à prendre la main de l'autre en otage ;
+communiquer de la force sans être dominatrice ;
+chaleureuse sans être envahissante (Post, 1940, 23). La
+poignée de main relève à la fois d'un rituel de
+transition et d'un rituel d'accès, au sens goffmanien
+(Goffman, 1974, 80). En effet, la poignée de main
+signale le début ou la fin d'une interaction ou d'une
+situation diplomatique. Les personnes qui se serrent la
+main se reconnaissent et, par là même, « se confirment
+qu'elles se considèrent réciproquement comme des
+personnes civiles, en rendant un hommage discret au
+caractère sacré de la personne » (Keck, 2012-2013,
+486).
+
+
+La poignée de main est une action coordonnée ; un
+mouvement vers l'autre qui escompte une réponse sans
+laquelle la situation devient embarrassante. Dans la
+main tendue, c'est une part de soi-même qui se donne ;
+elle est, en ce sens, une forme de « prestation totale »
+(Mauss [1923-1924], 2007). La main tendue, en même
+temps qu'elle invite, institue une obligation de réponse.
+Ainsi, l'absence de poignée de main dans une situation
+qui en appelle d'ordinaire peut susciter des
+commentaires sur la qualité de la relation. Ainsi en fut-
+il du refus de Donald Trump d'offrir à la presse la
+traditionnelle poignée de main lors de la visite d'Angela
+Merkel en mars 2017. En s'affranchissant de ce rituel,
+les deux dirigeants ont donc immédiatement alimenté
+
+
+de nombreuses spéculations. Au vrai, une poignée de
+main n'aurait sans doute pas fait disparaître toutes les
+supputations sur l'aigre relation entre les deux leaders,
+mais elle aurait probablement contribué à réorienter
+l'attention vers d'autres sujets et à fournir un cadrage
+différent à cette visite. Ainsi, l'analyse de la poignée de
+main ou de son absence aborde une situation dans sa
+totalité. C'est donc en décomposant la situation que la
+poignée de main devient une performance distincte qui
+requiert une attention particulière. La raison en est que
+la poignée de main est une unité essentielle,
+constitutive du sens que l'on attribue à la situation
+dans laquelle elle s'insère (Schiffrin, 1998, 201).
+
+
+On pourrait nous opposer l'argument aux termes
+duquel la poignée de main est moins centrale qu'il n'y
+paraît ici. Or, la lecture que nous proposons est
+confirmée par des études récentes en neurosciences.
+Les travaux de Sandra Dolcos et al. (2012) sur les effets
+interpersonnels et émotionnels de la poignée de main
+démontrent, en effet, que serrer la main de ses
+interlocuteurs a un impact décisif sur les interactions
+sociales, tant en amont qu'en aval. En amont de
+l'interaction, la poignée de main tend à améliorer
+l'impression que l'on a de l'interlocuteur et à réduire
+l'effet négatif des mauvaises impressions. De même,
+une poignée de main bien négociée permet aussi de
+galvaniser ceux qui sont impliqués et d'atténuer les
+potentiels effets négatifs de ratés dans l'interaction. En
+aval, dit l'étude de Dolcos et al., la poignée de main
+établit une des conditions d'interactions futures
+différentes de celles que l'on aurait pu construire si les
+protagonistes ne s'étaient pas serré la main lors de la
+précédente rencontre. En un mot, la poignée de main
+contribue à la création d'un cadre d'interactions
+prévisibles, sans lequel la confiance mutuelle est
+inimaginable. Le mécanisme qui sous-tend ces effets de
+
+
+la poignée de main est logé dans les noyaux
+accumbens, un réseau neuronal que l'on retrouve au
+sein de la zone corticale prosencéphalique, lesquels
+sont impliqués fortement dans le rire, la dépendance,
+mais aussi l'accoutumance, et dans le système de
+récompenses. On remarque une activité plus
+importante des noyaux accumbens chez un individu qui
+serre la main que chez celui qui l'évite ou utilise
+d'autres moyens pour ouvrir ou clore une séquence
+interactionnelle. Formulé de manière simple, la poignée
+de main aurait un effet positif sur ceux qui se serrent la
+main. Il reste à spécifier tous les circuits et
+conséquences de cet acte que l'on a souvent tendance à
+aborder avec désinvolture.
+
+
+Enfin, pour conclure, une poignée de main peut
+s'accompagner de marqueurs de proximité, tels que le
+baiser, l'accolade, le tutoiement ou l'usage du prénom.
+De même, au terme d'une rencontre, les chefs d'État
+conduisent souvent leurs invités sur le perron ou, une
+fois de plus en fonction de la proximité que l'on veut
+communiquer, au bas de l'escalier (quand il y a un).
+Devant les caméras, tous ces marqueurs théâtralisent
+davantage la poignée de main.
+
+
+On voit donc que les rituels diplomatiques
+comportent une réelle mise en scène ; une performance
+plus ou moins spectaculaire. C'est ce qui a sans doute
+convaincu certains auteurs de considérer que le rituel
+était synonyme de théâtre. Ainsi, Wicquefort (1680-
+1681, 10) compare l'ambassadeur à un comédien «
+exposé sur le théâtre aux yeux du public pour y jouer
+de grands rôles ». Mais le lien entre théâtre et rituel
+n'est pas sans différences. Nonobstant le fait que de
+nombreuses études étymologiques font ressortir le lien
+de filiation entre le rituel, d'une part, et la tragédie et
+la dramaturgie, d'autre part (Harrison, 1913), le rituel
+conserve des traits distincts. Deux différences
+
+
+incontournables s'imposent à nous. La première, c'est
+que le rituel ne dépend pas d'une audience (ce qui ne
+veut pas dire qu'une audience ne peut se constituer
+autour de celui-ci), alors que la présence d'une
+audience caractérise fondamentalement le théâtre. En
+un mot : le rituel s'organise autour des participants,
+lesquels peuvent revêtir des rôles différents durant son
+déroulement.
+
+
+La seconde différence concerne les conséquences
+déontiques de l'acte, c'est-à-dire ce que l'acte autorise,
+prescrit ou interdit. Les participants à un rituel sont
+tenus de se comporter comme le stipule le rituel, au-
+delà du moment où se déroule celui-ci. Le théâtre
+n'impose pas le même degré d'implication à ses
+acteurs, et encore moins à son audience. Par le fait
+même de participer à un rituel, on accepte de se hisser
+à la hauteur de ce qui y est prescrit. En d'autres
+termes, le rapport à ce qui est encodé dans le
+processus détermine les limites respectives du rituel et
+du théâtre.
+
+
+En somme, le rituel implique des agents qui se
+trouvent dans une situation de coprésence. Ainsi, les
+corps et les mouvements des uns et des autres doivent
+s'ajuster mutuellement, notamment pour rendre la
+modulation des interactions plus aisée. De plus, la
+coprésence induite par le rituel favorise la création
+d'un cadre partagé d'attention qui filtre les parasitages
+possibles. D'une certaine manière, les participants à un
+rituel sont contraints, par le cadre qu'ils ont ainsi
+construit, à maintenir les conditions qui sous-tendent le
+déroulement régulier de l'interaction en cours. Pour les
+participants à un rituel, l'un des défis consiste, par
+conséquent, à préserver la cohérence situationnelle,
+c'est-à-dire une définition commune de la situation,
+laquelle
+«
+permet à la réalité partagée d'être
+effectivement réelle pour [eux] » (Collins, 2005, 24).
+
+
+Enfin, les rituels diplomatiques, notamment les dîners
+officiels, les visites d'État, la signature de traités,
+prennent forme en deux temps : une préparation (en
+coulisse) très détaillée à l'abri des regards et parfois en
+l'absence de participants au rituel qui joueront (en
+scène) les interactions préparées pour eux (Goffman,
+1974). Dans le cadre d'une visite officielle, par
+exemple, le chef du protocole fait des croquis où il situe
+les uns et les autres, consulte son homologue étranger,
+interroge sur le nombre de membres de la délégation,
+leur rang officiel, etc. Ce qui se déroule le jour prévu
+est l'aboutissement d'un processus qui a parfois pris
+des mois (voire plus) de préparation en coulisse. En
+somme, le rituel ne s'improvise pas et les participants
+sont dans une situation paradoxale : à la fois auteurs et
+non-auteurs des gestes, des mouvements et des mots
+qu'ils expriment.
+
+
+Répercussions méthodologiques :
+l'importance de la situation
+
+
+Inséré dans un manuel d'introduction à la diplomatie,
+ce chapitre ne pouvait proposer qu'une esquisse des
+rituels: à la fois de leur contenu et de leur forme. En
+examinant d'un peu plus près le protocole
+diplomatique, nous avons pu spécifier les éléments qui
+avaient été annoncés dans la discussion conceptuelle.
+Dans l'idéal, le degré de granularité exigé par l'étude
+des rituels impose une étude ethnographique
+rigoureuse : une description épaisse, des entretiens,
+parfois aussi l'usage de données sonores. Mais tout
+cela dépend, au fond, d'une attitude épistémologique
+particulière, c'est-à-dire d'un rapport à l'objet de la
+connaissance. L'étude des rituels requiert, de fait, une
+attention renouvelée aux interactions en situation. Il
+
+
+s'agit de voir comment les acteurs négocient, d'une
+situation à l'autre, l'ordre diplomatique dont ils sont les
+protagonistes. Cette dernière partie est donc consacrée
+aux grands enjeux de cette orientation épistémologique
+que Goffman ou de Certeau ont très bien illustrés dans
+de nombreux travaux (Goffman, 1959, 1969; Certeau,
+1980): celle de la situation.
+
+
+Qu'est-ce qu'une situation et en quoi le recours à la
+situation change-t-il notre manière d'analyser les
+rituels ? La situation, pour l'essentiel, renvoie tant aux
+sources sociales qu'aux conditions de l'action. C'est
+une propriété émergente, au sens où son existence
+n'est pas antérieure à l'interaction des acteurs, mais se
+concrétise par le fait même de leurs interactions.
+Toutefois, les acteurs incarnent aussi des situations
+précédentes et, ainsi, chaque situation est le lieu d'une
+création et d'une reproduction. Une telle conception
+permet la comparaison entre les situations dans le
+temps et dans l'espace, en même temps qu'elle
+s'immunise contre le risque du situationnisme.
+
+
+L'analyse en termes de situation éclaire de manière
+originale les processus et les règles des rituels. Elle
+peut détecter les régularités, les glissements, les
+emprunts et les ratés, en comparant les situations.
+Ainsi, bien que l'analyse d'un rituel donné (par exemple
+l'échange des dons) puisse adopter une perspective
+macro, en essayant de dégager les traits constitutifs du
+don diplomatique en tant que tel, l'attention portée à la
+situation fait ressortir la singularité d'une interaction,
+d'une relation diplomatique, d'une occasion, etc. La
+performance du rituel est toujours en situation ; on ne
+peut donc comprendre les rituels sans prendre au
+sérieux ce qui se trame entre acteurs au moment où ils
+ritualisent. En somme, l'ordre diplomatique qui émerge
+des rituels se donne à voir de situation en situation.
+
+
+C'est en cela qu'il est une « chaîne interactionnelle de
+rituels » (Collins, 2005).
+
+
+*
+
+
+L'examen des rituels peut ouvrir tout un nouveau
+champ de travail en études diplomatiques. Il peut, par
+exemple, permettre de comprendre comment des
+institutions développent une représentation partagée
+du monde. L'existence des communautés politiques, de
+la tribu aux organisations internationales les plus
+complexes, est à la fois le produit et la source de rituels
+plus ou moins élaborés. De même, à partir des rituels,
+on peut dévoiler comment les institutions construisent
+et maintiennent leur pouvoir et leur légitimité sur le
+long terme, ou comment des pratiques se diffusent à
+travers le système international. Grâce aux rituels,
+donc, toute une série de pratiques peut acquérir une
+nouvelle signification (exemples : la dissuasion, la
+torture, les exercices militaires, les sommets
+internationaux, etc.). Où l'on voit que le rituel ne peut
+être synonyme de l'analyse des symboles. En effet, le
+rituel peut avoir plusieurs référents, y compris les
+mythes et les symboles. D'ailleurs, les mythes et les
+symboles sont généralement exprimés autrement qu'à
+travers le rituel, ce qui montre l'autonomie respective
+de ces termes.
+
+
+Bibliographie commentée
+
+
+DELOYE Yves, HAROCHE Claudine, IHL Olivier (dir.), Le Protocole ou la
+mise en forme de l'ordre politique, Paris, L'Harmattan, 1999.
+
+
+Ce volume rassemble des travaux à la fois historiques et
+contemporains sur la pratique du protocole dans son acception la
+plus large. Il constitue, à ce titre, une entrée originale dans l'étude
+de l'évolution du protocole. Enfin, le livre comporte des chapitres
+
+
+qui permettent de mieux apprécier la philosophie qui sous-tend le
+protocole.
+
+
+DURKHEIM Émile, Les Formes élémentaires de la vie religieuse. Le
+système totémique en Australie, Paris, Presses universitaires de
+France, 1912.
+
+
+Ce livre est un classique de la sociologie. Il est à bien des égards
+un des textes majeurs de l'étude des rituels et continue d'en
+influencer l'analyse aujourd'hui, au-delà de ceux qui souscrivent à
+une approche fonctionnaliste des rituels.
+
+
+GEERTZ Clifford, <<< Centre, rois et charisme : réflexions sur les
+symboliques du pouvoir », dans Clifford Geertz, Savoir local, savoir
+global, Paris, Presses universitaires de France, 1986.
+
+
+Rassemblant une série d'essais, le texte a un centre de gravité
+essentiel: la méthodologie et l'épistémologie des sciences sociales.
+Il peut aider à revenir aux fondamentaux de l'interprétativisme et
+de ses ramifications dans la pratique socio-anthropologique. La
+discussion relative à la situation dans ce chapitre en est inspirée.
+
+
+GOFFMAN Erving, Les Rites d'interaction, Paris, Minuit, 1974.
+
+
+L'intérêt de ce travail réside à la fois dans la diversité des situations
+rituelles couvertes et dans l'illustration d'une approche qui accorde
+une place centrale au << sens commun ».
+
+
+FORET François, Légitimer l'Europe. Pouvoir et symbolique à l'ère de la
+gouvernance, Paris, Presses de Sciences Po, 2008.
+
+
+Ce livre étudie la place du symbolique dans le contexte de l'Union
+européenne. Il montre comment la flexibilité inhérente aux
+pratiques symboliques de l'Union européenne lui permet de
+construire sa légitimité.
+
+
+1. Toutes les citations de textes en langue étrangère sont traduites par
+nous, sauf indication contraire.
+
+
+Deuxième partie
+
+
+LES ACTEURS
+
+
+Chapitre 8
+
+
+Les États et leur outil
+diplomatique
+
+
+Christian Lequesne
+
+
+es États - quels que soient leur taille et leur régime
+
+
+Lpolitique
+entretiennent un outil diplomatique
+destiné à conduire leur politique étrangère. Cet outil se
+matérialise par l'institution d'un ministère des Affaires
+étrangères dans lequel travaillent des agents de l'État
+que sont les diplomates. Alors que la fabrication de la
+politique étrangère se caractérise par la concurrence
+entre une multitude d'acteurs gouvernementaux et non
+gouvernementaux d'une part, nationaux, internationaux
+et transnationaux d'autre part, ce chapitre pose
+essentiellement deux questions : quelle est encore, en
+ce début de $XXI^{e}$ siècle, la valeur ajoutée d'un outil
+diplomatique d'État dans la fabrication de la politique
+
+
+étrangère ? Quel est le sens des pratiques qu'exercent
+les acteurs qui sont chargés de faire fonctionner l'outil
+diplomatique d'État ?
+
+
+Les
+
+
+origines
+
+
+diplomatique
+
+
+de
+
+
+l'outil
+
+
+La plupart des manuels sur la diplomatie font
+correspondre la création d'outils diplomatiques
+permanents à l'Europe de l'Ouest de la fin du Moyen
+Age. Les administrations
+diplomatiques
+contemporaines seraient des créations occidentales qui
+se seraient imposées comme un référentiel universel
+aux autres États du monde. Malgré les appels réguliers
+de Nehru à une voie
+>>
+indienne en politique
+étrangère, de nombreuses études postulent ainsi que le
+service diplomatique de l'Inde s'est constitué en 1947 à
+partir de la proto-organisation que le gouvernement
+britannique avait mise en place pour gérer les relations
+extérieures de sa colonie. C'est récemment que des
+auteurs indiens, portés par le mouvement des études
+postcoloniales et des histoires connectées, ont
+commencé à mettre en cause ces explications euro-
+centriques, affirmant que l'Inde ancienne connaissait
+des institutions diplomatiques reposant sur les mêmes
+principes de représentation et de médiation que ceux
+de l'Europe, et que celles-ci constituaient un héritage.
+Deep K. Datta-Ray fait ainsi remonter les principes
+contemporains de la diplomatie indienne à l'Empire
+indo-mongol (Datta-Ray, 2015).
+Historiens et
+anthropologues des civilisations non européennes ont
+encore de vastes chantiers à explorer pour répondre à
+la question des racines occidentales ou non de l'outil
+diplomatique tel qu'il se déploie aujourd'hui.
+
+
+En Europe, la fonction de consul est considérée par
+les historiens comme la plus ancienne. Dans les villes
+grecques antiques, les proxènes, choisis parmi les
+citoyens d'une cité dont la protection était sollicitée,
+sont chargés de représenter les étrangers dans leurs
+rapports avec les organes politiques et la justice locale.
+Les proxènes de Sparte sont autorisés à se servir de
+sceaux sur lesquels sont gravés les emblèmes et
+armoiries du pays dont ils représentent les intérêts.
+Soucieuses de protéger l'activité des marchands, les
+villes méditerranéennes et hanséatiques commencent,
+à partir du $x^{e}$ siècle, à accepter la présence de consuls
+marchands chargés de défendre les nationaux d'autres
+pays dans les litiges maritimes et commerciaux. La
+situation évolue à partir du $XV^{e}$
+siècle avec l'envoi entre
+les cités italiennes (Gênes,
+Venise, Florence) des
+premiers ambassadeurs. $\dot{A}$ la différence des consuls, les
+ambassadeurs ne sont plus chargés de défendre
+seulement leurs nationaux impliqués des litiges, mais
+de représenter leur souverain auprès des autorités
+politiques. La formule se généralise en Europe aux
+${XVI^{e}-XVII}^{e}$ siècles. Le roi François $I^{er}$ envoie ainsi le
+premier ambassadeur permanent auprès de la Sublime
+Porte d'Istanbul en 1536.
+
+
+C'est également à partir des $XVI^{e}-XVII^{e}$ siècles que les
+États européens commencent
+à
+créer des
+administrations diplomatiques permanentes au sein des
+machines gouvernementales. En France, le règne
+d'Henri II voit la création, en 1589, du premier poste
+de secrétaire d'État chargé des affaires étrangères. Il
+est confié à Louis de Revol, qui devient le premier
+titulaire du poste de ministre français des Affaires
+étrangères. Le poste est pérennisé par la suite dans
+l'organigramme de l'État français, quelle que soit la
+nature du régime politique. En Grande-Bretagne, il faut
+
+
+attendre 1782 pour que soit créé le Foreign Office. Aux
+États-Unis, le Département d'État voit le jour en 1789.
+C'est enfin au milieu du $XIX^{e}$ siècle que la Chine, le
+Japon et l'Empire ottoman procèdent à la création
+d'une administration permanente des affaires
+étrangères. En Occident, le $XIX^{e}$ siècle est marqué par
+l'apparition d'une spécialisation fonctionnelle des outils
+diplomatiques : les ministères des Affaires étrangères
+se voient dotés de départements et de bureaux
+géographiques et thématiques.
+
+
+Après la seconde guerre mondiale, le processus de
+décolonisation puis l'éclatement de grands États
+fédéraux (URSS, Yougoslavie) voient se multiplier le
+nombre d'États et donc d'ambassades et de consulats
+dans le monde. La France compte ainsi 163
+ambassades bilatérales en 2017 contre 47 à la fin de
+l'année 1945. C'est dans la seconde partie du $XX^{e}$ siècle
+que se développent beaucoup de nouveaux
+départements chargés des négociations multilatérales
+dans les ministères ainsi que des représentations
+permanentes auprès des organisations internationales
+(Organisation des Nations unies, Union européenne,
+Union africaine). $\dot{A}$ partir des années 1960, les outils
+diplomatiques deviennent aussi de nouveaux enjeux de
+débat public dans les États démocratiques. Les
+parlements et la presse s'interrogent plus
+régulièrement sur leur efficacité, leur coût, et le sur
+bien-fondé de leurs méthodes, en particulier celles
+concernant les activités sociales de représentation. Le
+début du $XXI^{e}$ siècle voit se produire, sous l'effet de ce
+débat, une réduction de la carte des ambassades et
+consulats par les pays occidentaux. Mais à l'inverse, il
+est marqué par la création de nouveaux postes
+diplomatiques par les États émergents (Brésil, Chine,
+Turquie). Longtemps placée au deuxième rang mondial
+
+
+après les États-Unis pour le nombre de ses postes
+diplomatiques, la France est dépassée en 2017 par la
+Chine qui a ouvert des ambassades dans l'ensemble du
+monde, et notamment dans les régions considérées plus
+importantes pour sa diplomatie, comme l'Afrique.
+
+
+Design institutionnel
+
+
+Les ministères des Affaires étrangères ont le plus
+souvent des effectifs modestes comparés à d'autres
+administrations. Le Quai d'Orsay compte ainsi en 2015
+seulement 14 000 agents, dont 1 650 cadres. Le service
+diplomatique indien est plus réduit encore. Il ne
+compte en 2016 que 900 cadres pour faire fonctionner
+119 ambassades et consulats. Malgré ces petits
+effectifs, les ministères des Affaires étrangères ne
+continuent pas moins d'occuper une place élevée dans
+l'échelle de prestige des gouvernements, en raison de
+la symbolique que revêt la représentation de l'État
+dans les relations internationales. Lors de la
+composition d'un gouvernement, il n'est pas rare
+qu'une personnalité politique influente soit appelée à
+diriger l'outil diplomatique de l'État. En fonction des
+pays et des moments, les ministères sont en charge des
+seules affaires étrangères, comme en Allemagne, aux
+États-Unis ou au Brésil. Ils peuvent aussi se voir
+adjoindre les questions d'aide au développement
+comme en France et en Grande-Bretagne, les questions
+de commerce extérieur comme en Australie et en
+Hongrie, ou les deux comme au Canada.
+
+
+Les ministres des Affaires étrangères sont rarement
+issus de l'administration diplomatique. Cela peut
+arriver, comme Jean-François Poncet de 1978 à 1981 et
+Dominique de Villepin de 2002 à 2004 en France, mais
+sans que cette pratique soit la norme. Les ministres des
+
+
+Affaires étrangères
+sont le plus souvent des
+généralistes de la politique qui découvrent l'outil
+diplomatique lors de leur nomination. Ils sont suppléés
+par des ministres adjoints chargés d'un domaine
+fonctionnel. Ils sont appelés, selon les pays, vice-
+ministres, ministres délégués ou secrétaires d'État. Les
+ministres des Affaires étrangères des États de l'Union
+européenne ont ainsi tous sous leur responsabilité un
+ministre adjoint aux Affaires européennes, qui se
+concentre sur les dossiers négociés à Bruxelles.
+
+
+Les ministères des Affaires étrangères sont organisés
+autour de deux univers professionnels différenciés :
+d'une part, l'administration centrale située dans la
+capitale du pays et, d'autre part, les représentations
+diplomatiques et consulaires situées dans les États
+partenaires et auprès des organisations internationales.
+
+
+Les administrations centrales sont généralement
+structurées en directions géographiques (Asie, Europe,
+Afrique, Amériques) et en directions thématiques
+(direction économique, direction politique, direction
+juridique). Le degré de spécialisation dépend de
+l'agenda de politique étrangère du pays. Le ministère
+des Affaires étrangères de Trinidad et Tobago, île des
+Caraïbes, ne possède ainsi que trois directions : l'une
+dédiée aux affaires caribéennes et les deux autres aux
+affaires bilatérales et aux affaires multilatérales. Dans
+de nombreux États, des réformes ont visé à introduire,
+à partir des années 1990, de nouvelles directions
+chargées de traiter de nouveaux enjeux de politique
+étrangère. C'est le cas, par exemple, du développement
+durable ou de la diplomatie publique. Les réformes ont
+souvent appelé à un renforcement des structures de
+gestion de crise au sein des administrations centrales.
+En France, un Livre blanc sur la politique étrangère et
+européenne de 2008 aboutit à la création d'un centre
+chargé de la gestion des crises humanitaires et
+
+
+sécuritaires au Quai d'Orsay. En Allemagne, la réforme
+entamée en 2014 par le ministre
+Frank-Walter
+Steinmeier débouche sur peu de
+changements
+
+
+structurels,
+
+
+excepté la création d'un nouveau
+département de prévention des crises. Les
+administrations centrales ont enfin tendance à déléguer
+certains pans de la diplomatie (comme la culture ou
+l'économie) à des agences dotées d'une certaine
+autonomie de gestion. En Allemagne, le Goethe Institut
+et, en Grande-Bretagne, le British Council, sont des
+agences chargées de la diplomatie culturelle des deux
+pays. La raison de l'autonomie est d'abord budgétaire :
+il est demandé aux instituts culturels d'autofinancer
+autant que possible leurs activités, notamment par la
+vente des cours de langue. Mais elle est aussi politique
+: une diplomatie culturelle qui paraît pilotée par une
+agence autonome et non directement par un ministère
+est censée produire plus d'influence auprès des
+sociétés du monde, qui y voient davantage un gage de
+pluralisme. En France, la réforme visant à créer
+l'Institut français en 2010, pour traiter de la diplomatie
+culturelle, est portée par les mêmes arguments. Elle
+n'aboutit pas complètement, en raison de l'opposition
+du corps des diplomates français qui sont soucieux de
+préserver les intérêts bureaucratiques de leur
+ministère dans ce domaine.
+
+
+Les représentations diplomatiques et consulaires sont
+des excroissances administratives des ministères des
+Affaires étrangères à l'étranger. La représentation
+diplomatique, tout d'abord, est l'institution qui
+officialise la présence d'un État accréditant auprès d'un
+État accréditaire ou d'une organisation internationale.
+Dans le premier cas, il s'agit d'une ambassade
+bilatérale. Dans le second cas, il s'agit d'une
+représentation permanente (lorsque l'État est membre
+de l'organisation internationale concernée) et d'une
+
+
+;
+
+
+mission ou délégation permanente (lorsque l'État n'est
+pas membre de l'organisation internationale
+concernée). Une représentation diplomatique est
+dirigée par un ambassadeur : elle jouit des privilèges et
+immunités reconnus par la Convention sur les relations
+diplomatiques signée à Vienne en 1961. En particulier,
+l'ambassade et la représentation permanente
+demeurent parties intégrantes du territoire de l'État
+accréditant conformément au principe juridique de
+l'extraterritorialité. Toute intervention de l'État
+accréditaire dans l'enceinte de l'ambassade est
+considérée comme une violation du droit international.
+
+
+Une représentation consulaire est une institution
+établie sur le territoire d'un État de résidence en vue
+de remplir trois missions : la protection de l'intérêt des
+ressortissants
+;
+le développement des relations
+commerciales, culturelles, scientifiques et économiques
+la délivrance de documents administratifs aux
+ressortissants et de documents de voyage
+aux
+ressortissants étrangers. $\dot{A}$ la différence d'une
+ambassade, un consulat n'assure pas la représentation
+politique de l'État. Il existe une hiérarchie dans la
+dénomination des représentations consulaires :
+consulat général, consulat, vice-consulat et agence
+consulaire ou consulat honoraire. Dans ce dernier cas,
+la tâche y est souvent assurée par un agent bénévole
+qui peut être un national expatrié ou un ressortissant
+de l'État de résidence. Le personnel d'un poste
+consulaire jouit des privilèges et immunités reconnus
+par la Convention sur les relations consulaires signée à
+Vienne en 1963.
+
+
+La densité du réseau diplomatique et consulaire d'un
+État dépend de ses ressources internes, mais aussi de
+ses ambitions de politique étrangère. Si l'on se limite
+aux seules ambassades bilatérales, cinq États disposent
+en 2017 d'un réseau qui couvre une très grande partie
+
+
+des 193 États reconnus par l'ONU : les États-Unis (170
+ambassades), la Chine (166 ambassades), la France
+(163 ambassades), le Royaume-Uni (152 ambassades)
+et la Russie (146 ambassades). À l'inverse, l'État de
+Malte, avec ses 446 000 habitants, dispose seulement
+de 23 ambassades et de 2 représentations permanentes
+dans le monde. Les petits États, qui sont les plus
+nombreux, pratiquent souvent l'accréditation multiple
+d'un ambassadeur pour mieux satisfaire leur présence
+diplomatique. En 2017, l'ambassadeur du Ghana à
+Prague est accrédité en République tchèque, mais aussi
+en Slovaquie, en Hongrie, en Roumanie et en
+Macédoine. Ses services sont dès lors concernés par les
+relations diplomatiques avec cinq pays d'Europe
+centrale et balkanique.
+
+
+Les budgets des ministères des Affaires étrangères
+sont rarement les postes qui pèsent le plus lourd dans
+les finances publiques d'un État. Dans les pays
+démocratiques, ils sont toutefois facilement sujets à
+réduction lors de l'examen des budgets annuels. Les
+ministères français et britannique des Affaires
+étrangères ont ainsi connu une réduction de 20 % de
+leur budget entre 1990 et 2010. La relative aisance
+avec laquelle les budgets des administrations
+diplomatiques sont réduits s'explique par deux
+facteurs. Le premier est la perception encore très
+établie chez les parlementaires et dans la presse que le
+travail se limiterait beaucoup à de la représentation
+(cocktails et dîners). Le second est que les ministères
+des Affaires étrangères disposent rarement de groupes
+d'intérêt pour les soutenir, à l'exception des diplomates
+eux-mêmes et des communautés d'expatriés. Sous
+l'effet des pratiques du nouveau management public,
+les années 2000 introduisent dans de nombreux États
+(Japon, Singapour, Grande-Bretagne, France) l'idée que
+les ministères des Affaires étrangères devraient évaluer
+
+
+leurs activités à l'aide d'indicateurs de performance.
+C'est l'époque où sont introduites des batteries de
+critères quantitatifs destinés à évaluer l'efficacité de la
+diplomatie. Vingt ans plus tard, de telles procédures se
+révèlent partout très décevantes, la diplomatie étant
+une activité largement immatérielle qui se laisse peu
+mesurer à l'aide de critères quantitatifs.
+
+
+Le corps des diplomates
+
+
+La création de missions diplomatiques permanentes à
+partir du $XVII^{e}$ siècle donne naissance en Europe à la
+profession de diplomate, exercée le plus souvent par
+des représentants de la noblesse qui développent des
+codes communs. François de Callières, diplomate
+auprès de Louis XIV, auteur en 1716 d'un traité intitulé
+De la manière de négocier avec les souverains, parle
+des intérêts et des usages communs des diplomates
+européens comme d'une véritable « franc-maçonnerie
+». Ces liens de sociabilité entre personnes bien nées
+donnent naissance au concept de « corps diplomatique
+», dont les pratiques sont institutionnalisées d'abord
+par le Vatican puis par les empires. Le congrès de
+Vienne reconnaît en 1815 le titre de « doyen » du corps
+diplomatique attribué à l'ambassadeur ayant la plus
+longue ancienneté en poste dans un État. Il faut
+attendre la seconde moitié du $XIX^{e}$ siècle pour que des
+concours d'accès à la carrière diplomatique soient
+instaurés. En France, le premier concours est organisé
+en 1880 par la Troisième République.
+
+
+En 2017, le mode de recrutement des cadres de la
+diplomatie au sein des ministères des Affaires
+étrangères varie d'un État à l'autre. Dans les grands
+États (Brésil, Chine, États-Unis, France, Japon, Grande-
+Bretagne), les diplomates sont recrutés par concours.
+
+
+Ils deviennent des fonctionnaires de carrière, ce
+dernier terme, parfois écrit avec un grand C, étant
+utilisé par les diplomates eux-mêmes pour se qualifier.
+En Allemagne, au Brésil ou encore en Norvège, il existe
+une voie d'accès qui est le concours annuel de
+l'Auswärtiges Amt. Dans d'autres États, il peut exister
+plusieurs modes d'accès. En France, les cadres du Quai
+d'Orsay sont recrutés soit par l'intermédiaire de l'École
+nationale d'administration, soit par des concours
+propres au ministère, notamment ceux de conseiller et
+secrétaire du cadre d'Orient. Au sein du Gaimusho, le
+ministère japonais des Affaires étrangères, il existe
+également deux concours : l'un recrutant les
+diplomates généralistes et l'autre les experts d'une
+politique ou d'un sujet particulier. Aux États-Unis, se
+présenter au concours du Département d'État requiert
+de choisir une spécialité parmi cinq, qui déterminera la
+spécialisation future du diplomate : gestion, affaires
+consulaires, affaires économiques, affaires politiques,
+diplomatie publique.
+
+
+Après la réussite au concours, la formation diffère
+selon les États. En France, elle ne dure que trois mois
+et demi et s'apparente davantage à un programme de
+socialisation au fonctionnement du Quai d'Orsay qu'à
+un véritable apprentissage de connaissances. Au Brésil
+à l'inverse, les candidats reçus au concours suivent dix-
+huit mois de cours (droit, histoire, économie, langues,
+etc.) au sein de l'institut diplomatique Rio Branco de
+Brasilia, avant d'intégrer un premier poste de troisième
+secrétaire au sein de l'Itamaraty, le ministère brésilien
+des Affaires étrangères. En général, l'existence d'une
+diplomatie de carrière s'accompagne d'un fort
+corporatisme. Cette tendance est renforcée par le fait
+que les ministères des Affaires étrangères disposent de
+petits effectifs comparés aux autres administrations.
+
+
+Les États démocratiques peuvent avoir un
+recrutement mixte qui combine le système de la
+carrière avec des nominations temporaires par le
+pouvoir politique. C'est le cas en France, au Brésil et
+aux États-Unis. Les nominations politiques concernent
+surtout les postes d'ambassadeur et sont souvent très
+mal perçues par les diplomates de carrière qui y voient
+une concurrence à l'obtention des postes les plus
+importants. En
+France, le président Mitterrand,
+
+
+convaincu que
+les diplomates français étaient
+majoritairement de droite, nomme en mai 1981
+plusieurs personnalités extérieures au Quai d'Orsay à
+des postes d'ambassadeur (États-Unis, Italie, Pays-Bas),
+ce qui suscite le malaise des diplomates de carrière.
+Aux États-Unis, la nomination d'ambassadeurs
+extérieurs à la carrière est davantage considérée
+comme légitime, car elle prend place dans le système
+dit des dépouilles (spoil system) qui autorise chaque
+président nouvellement élu à nommer des proches aux
+principaux postes de l'État. 30 % des ambassadeurs
+américains sont ainsi recrutés en dehors du
+Département d'État. Il s'agit le plus souvent d'une
+récompense attribuée à un grand donateur de la
+campagne, comme Jane D. Hartley, ambassadeur des
+États-Unis en France et à Monaco de mai 2014 à
+janvier 2017, qui a contribué pour plus de 600 000
+dollars au Comité national démocrate lors de la
+deuxième élection de Barack
+Obama. Dans certains
+États, comme le Brésil, les diplomates nommés
+ambassadeurs sans appartenir à la carrière ne peuvent
+jamais prétendre être intégrés au ministère des Affaires
+étrangères. En France, ils le peuvent parfois, mais en
+étant soumis à des conditions de procédure très
+restrictives.
+
+
+Dans les États démocratiques où il existe une
+diplomatie de carrière, les gouvernements sont de plus
+
+
+en plus soucieux de veiller à la représentation du corps
+diplomatique par rapport au corps social. Cela peut se
+traduire par des politiques volontaristes consistant à
+promouvoir les femmes ou la diversité sociale et
+ethnique. $\hat{A}$ l'exception des États d'Europe du Nord,
+comme la Finlande et la Norvège, les femmes sont
+encore sous-représentées par rapport aux hommes
+dans les emplois d'encadrement des ministères des
+Affaires étrangères. C'est particulièrement le cas pour
+les emplois d'ambassadeur. En 2015, les femmes
+occupent ainsi 36% des postes d'ambassadeur en
+Norvège et seulement 19 % en Grande-Bretagne. En
+France, la loi Sauvadet de 2012 visant à promouvoir les
+femmes dans les emplois les plus élevés de la fonction
+publique aboutit à une augmentation sensible du
+nombre de femmes ambassadeurs au sein du Quai
+d'Orsay : 30% en 2015 contre 14 % en 2013. La
+deuxième réflexion en rapport avec la représentativité
+du corps diplomatique concerne les origines sociales et
+ethniques. Des pays comme l'Allemagne, le Brésil, la
+France et la Norvège se fixent chacun un objectif de
+diversité dans le recrutement. En France, un tel
+objectif est informel, car la loi ne permet pas de faire
+de l'origine sociale ou ethnique un critère de
+recrutement au sein de l'administration publique. La
+situation est différente en Norvège où les jurys du
+concours diplomatique affichent officiellement la
+préoccupation de recruter davantage de citoyens
+norvégiens dont les parents sont issus de l'immigration.
+Au Brésil, l'Itamaraty recrute traditionnellement dans
+les couches supérieures blanches de la société,
+reflétant peu la population du pays dans sa diversité
+sociale et ethnique. Ce décalage par rapport à la
+société réelle fait l'objet de critiques dans le débat
+public, parce qu'il se traduit par une infime proportion
+de diplomates noirs. Il faut attendre 2011 pour que le
+
+
+premier ambassadeur de carrière noir soit nommé au
+sein de l'Itamaraty. En réponse à ces critiques, l'État
+brésilien commence à accorder en 2002 des bourses
+aux candidats qui se déclarent « afro-descendants »,
+afin de leur permettre de suivre les onéreux cours de
+préparation au concours diplomatique. En 2011, le
+gouvernement dirigé par le Parti des travailleurs fait
+franchir une étape supplémentaire à la politique
+d'action affirmative en réservant 10 % des places au
+sein de l'institut Rio Branco aux afro-descendants. En
+2015, ce quota de 10 % est cependant relativisé par la
+nécessité d'obtenir une certaine note à l'examen
+d'entrée. Alors que les sociétés sont devenues des
+acteurs à part entière de la diplomatie, toutes ces
+mesures montrent que les ministères des Affaires
+étrangères ne peuvent plus échapper au débat
+démocratique sur la représentativité du corps social en
+leur sein.
+
+
+Mais ces considérations sur les concours dans les
+États démocratiques ne doivent pas faire oublier que,
+dans de nombreux États non ou semi-démocratiques, le
+recrutement des diplomates dépend encore
+essentiellement de la proximité du régime politique en
+place. C'est le cas dans de nombreux pays du continent
+africain et d'Asie centrale. Dans certains États où le
+gouvernement repose sur un compromis
+multiconfessionnel, comme la Bosnie-Herzégovine ou le
+Liban, l'accès à la carrière diplomatique requiert le
+soutien d'une communauté ou d'un parti politique
+confessionnel. En Chine, l'appartenance au parti
+communiste demeure une obligation pour faire une
+carrière au sein du ministère des Affaires étrangères.
+Plus l'État est régi par des pratiques politiques
+autoritaires, plus le recrutement du diplomate se
+traduit par un contrôle de sa fiabilité politique et non
+de sa seule compétence.
+
+
+Si les pratiques sont variables d'un État à l'autre, un
+diplomate passe en moyenne un tiers de sa carrière à
+l'administration centrale et deux tiers en poste.
+Lorsqu'il est en fonction au sein d'une ambassade ou
+d'un consulat, le diplomate est exempté du paiement
+des taxes dans le pays de résidence, selon les termes
+des deux conventions de Vienne. Sa personne et sa
+famille, ainsi que leur domicile privé, ne peuvent pas
+être perquisitionnées par les autorités du pays de
+résidence. De même, le diplomate ne peut pas être
+condamné par un tribunal, ce qui crée des tensions
+entre États en cas d'acte criminel. Des diplomates
+responsables d'accidents de la circulation ayant coûté
+la vie à des citoyens de pays de résidence n'ont ainsi
+jamais été jugés. En poste, le diplomate est souvent
+mieux rémunéré qu'à l'administration centrale, car il
+bénéficie d'indemnités de résidence. Dans des pays où
+les salaires de la fonction publique restent faibles,
+comme certains États d'Europe centrale membres de
+l'Union européenne (Pologne, République tchèque,
+Slovaquie), la différence de rémunération entre un
+emploi à l'administration centrale et un emploi en
+ambassade peut varier d'un à cinq. Une telle différence
+incite peu les diplomates à travailler dans la capitale,
+ce qui pose aux ministères des Affaires étrangères des
+problèmes de gestion des ressources humaines.
+
+
+Les ambassadeurs ne peuvent représenter leur État
+dans un autre État que s'ils obtiennent d'abord un
+agrément et s'ils présentent ensuite leurs lettres de
+créance au chef d'État du pays. La réponse à une
+demande d'agrément intervient généralement dans une
+période d'un mois. Le refus - qui se traduit en pratique
+par un défaut de réponse - est une procédure très rare,
+qui empêche la nomination de l'ambassadeur pressenti
+par son État. Les quelques cas récents de refus
+d'agrément le sont soit pour des raisons politiques, soit
+
+
+pour des raisons strictement liées aux personnes. Le
+refus politique traduit un différend de politique
+étrangère. Par exemple, le gouvernement du Brésil
+refuse en 2015 de donner son agrément à la
+nomination de Danny Cohen, ambassadeur pressenti
+par le Premier ministre israélien Netanyahou. Dans ce
+cas, Brasilia ne souhaite pas que Tel-Aviv soit
+représenté par un membre influent d'un comité de
+colons israéliens de Cisjordanie. Mais d'autres cas de
+refus liés strictement aux personnes existent.
+$\dot{A}$ deux
+reprises, en 2008 et en 2015, les autorités du Vatican
+refusent de donner leur agrément à des ambassadeurs
+de France, parce que les candidats pressentis par Paris
+sont homosexuels. Cependant, le droit international ne
+l'exigeant pas, la véritable raison du refus n'est jamais
+motivée officiellement par le Saint-Siège. La France est
+dans ce cas réduite à prendre acte d'un défaut
+d'agrément qui soulève pourtant des questions au
+regard de toutes les conventions de protection des
+droits de l'homme.
+
+
+Les pratiques diplomatiques
+
+
+Alors que les technologies permettent une diffusion
+accélérée de l'information, les pratiques diplomatiques
+sont soumises à des dynamiques profondes de
+changement dans tous les États, en particulier pour ce
+qui concerne la collecte de l'information et son
+traitement. En revanche, certaines pratiques comme la
+représentation et la négociation ont peu évolué par
+rapport au $XIX^{e}$ siècle.
+
+
+La collecte d'informations reste un élément essentiel
+du travail des ministères des Affaires étrangères. Les
+diplomates, qu'ils soient à l'administration centrale ou
+en poste, continuent à produire un immense nombre de
+
+
+notes et de rapports pour informer leurs
+gouvernements. Il s'agit pour eux de décrypter les
+événements dans d'autres États et au sein des
+organisations internationales, afin de faciliter la
+décision de politique étrangère. Les sources
+d'information du diplomate restent les échanges avec
+les homologues des États et, de plus en plus, les
+acteurs non gouvernementaux, la participation aux
+réunions publiques, et l'analyse des médias. Le support
+de communication privilégié reste le télégramme
+chiffré. Dans les pays occidentaux, de nombreuses
+réformes des ministères des Affaires étrangères ont
+appelé en vain à la diminution du nombre de
+télégrammes diplomatiques. L'organisation Wikileaks,
+qui a diffusé illégalement en 2010 plusieurs milliers de
+télégrammes rédigés par les diplomates américains,
+montre la précision avec laquelle les agents du
+Département d'État informent. Plus l'État possède de
+postes diplomatiques, plus l'information échangée est
+variée. Le ministère des Affaires étrangères du
+Luxembourg, qui possède 37
+représentations permanentes, ne
+quotidien d'une information aussi
+homologues allemand, français et britannique. C'est la
+raison pour laquelle il soutient la création des 150
+délégations de l'Union européenne dans le monde, qui
+complètent son information sur les pays dans lesquels il
+ne possède pas d'ambassade bilatérale. Il n'en demeure
+pas moins que, même dans les grands pays, les
+ministères des Affaires étrangères ne peuvent plus
+prétendre disposer du monopole de l'information sur
+l'international. De nombreux autres acteurs (agences
+de presse, grandes entreprises, ONG internationales)
+sont en mesure de collecter et de diffuser de
+l'information, parfois même à un rythme plus rapide
+que les ministères des Affaires étrangères.
+
+
+ambassades et
+
+
+dispose pas au
+précise que ses
+
+
+concurrence
+
+
+Soumis à la
+de nombreux autres
+ministères, mais aussi des chefs d'État et de
+gouvernement lors de la fabrication de la politique
+étrangère, les diplomates affirment volontiers que leur
+principale valeur ajoutée reste la maîtrise de la
+négociation internationale. Les ministères des Affaires
+étrangères continuent à beaucoup négocier au nom de
+l'État, dans un format qui est bilatéral (avec un autre
+État) ou multilatéral (au sein des organisations
+internationales). Le développement du multilatéralisme
+depuis la fin de la seconde guerre mondiale a sécrété
+des pratiques consistant à anticiper davantage les
+positions d'acteurs multiples et à construire des
+coalitions. Au sein de l'Union européenne, les pratiques
+de négociation multilatérales sont soumises à une autre
+variable: l'introduction du vote majoritaire au Conseil
+des ministres depuis le milieu des années 1980. Dans
+un tel contexte institutionnel, le diplomate doit
+apprendre à construire des majorités ou des minorités
+de blocage en sachant qu'il ne lui est plus possible de
+recourir au couperet du veto. Si les départements en
+charge respectivement de la diplomatie multilatérale et
+de la diplomatie bilatérale restent des entités séparées
+dans la plupart des ministères des Affaires étrangères,
+leur interaction s'impose dans le travail quotidien.
+Alors que 60 % des résolutions du Conseil de sécurité
+des Nations unies concernent l'Afrique, les directions
+traitant des questions onusiennes et des questions
+africaines au sein des cinq États membres permanents
+doivent ainsi travailler ensemble. Il en va de même
+pour les représentations permanentes auprès des
+Nations unies et les ambassades bilatérales dans les
+pays d'Afrique. De la même manière, une part
+croissante du travail d'une ambassade d'un État
+membre de l'Union européenne installée dans un autre
+État membre consiste à décrypter en bilatéral les
+
+
+positions qui seront négociées dans les enceintes
+multilatérales de l'Union européenne. Les formats de
+négociation multilatéraux et bilatéraux sont donc
+profondément imbriqués.
+
+
+Par ailleurs, la politique étrangère (y compris dans
+certains États autoritaires) est fabriquée par des États
+qui sont rarement des monolithes, mais plutôt des
+entités segmentées reposant sur des compromis
+permanents entre les ministères des Affaires
+étrangères et les autres ministères, les chefs d'État et
+de gouvernement, les parlements, les autorités
+infranationales et les groupes d'intérêt. L'idée d'une
+politique étrangère pilotée par un ministère des
+Affaires étrangères Léviathan relève largement du
+mythe. Aussi les ministères des Affaires étrangères
+consacrent-ils beaucoup de temps à coordonner les
+positions de politique étrangère de leur État, y compris
+lorsque ce dernier est réputé centralisé. Au sein des
+directions du Quai d'Orsay, les années 2000 se sont
+traduites par une augmentation de la coordination
+interministérielle. Les questions de commerce extérieur
+demandent de travailler avec le ministère de
+l'Économie, les opérations militaires extérieures, avec
+le ministère de la Défense, les questions migratoires,
+avec le ministère de l'Intérieur. En Allemagne et aux
+États-Unis, les ministères des Affaires étrangères
+doivent s'assurer en permanence de la position des
+parlements nationaux, auxquels les Constitutions ont
+conféré des pouvoirs de blocage des négociations
+internationales. Dans les États fédéraux que sont la
+Belgique et le Canada, les ministères des Affaires
+étrangères veillent à associer de plus en plus aux
+négociations internationales les provinces, régions et
+communautés linguistiques, afin d'éviter toute réaction
+de rejet lors de la ratification des traités.
+
+
+Les ministères des Affaires étrangères ont perdu
+parfois l'exercice de la coordination au profit des
+centres de gouvernement. En France et en Grande-
+Bretagne, les affaires de l'Union européenne sont
+coordonnées directement par les services des Premiers
+ministres (par le secrétariat général des affaires
+européennes à Paris et par l'European Secretariat du
+Cabinet Office à Londres). Dans certains États où le
+président dispose de forts pouvoirs sur la politique
+étrangère, les tensions entre l'entourage présidentiel et
+le ministère des Affaires étrangères font partie de la
+pratique décisionnelle ordinaire. C'est le cas aux États-
+Unis, où le conseiller du président pour la sécurité
+nationale à la Maison-Blanche est investi d'un pouvoir
+concurrent à celui du ministre responsable du
+Département d'État. Cette situation explique que les
+théories du bureaucratic politics appliquées à l'étude
+de la politique étrangère, notamment le livre fondateur
+d'Allison The Esssence of Decision, ont été élaborées à
+partir de l'exemple américain. La remontée de la
+coordination de la politique étrangère au niveau des
+présidents et des Premiers ministres est, en outre, un
+phénomène général lié au développement de la
+diplomatie au sommet (G8, G20, Conseil européen). La
+diplomatie franco-allemande a ainsi tendance à être
+coordonnée par les entourages du président de la
+République et du chancelier fédéral sans que
+l'intervention des ministères des Affaires étrangères et
+des ambassades dans les deux pays joue un rôle
+prépondérant. La coordination au sein de leur État
+occupe ainsi autant les ministères des Affaires
+étrangères que les négociations avec les partenaires,
+faisant écho à ce que Robert Putnam appelle les « jeux
+à deux niveaux ».
+
+
+Dans l'imaginaire social, le diplomate est une
+personne qui continue à passer beaucoup de temps à
+
+
+recevoir, à être reçu et à fréquenter les événements
+sociaux. Cette activité, qui a peu changé depuis le $XIX^{e}$
+siècle, est souvent perçue comme mondaine et peu
+utile. Dans les ministères des Affaires étrangères, elle
+continue à être prise au sérieux et porte un nom précis
+qui est la représentation. Effectivement, cette dernière
+demeure une pratique importante en poste,
+particulièrement dans les ambassades bilatérales où le
+chef de poste et ses collaborateurs organisent et
+assistent à de nombreux repas, cocktails et réceptions.
+En 2014, l'ambassadeur de France au Royaume-Uni est
+soumis à pas moins d'un petit déjeuner et un cocktail
+quotidiens. La représentation ne vise pas uniquement à
+créer de la confiance avec l'État de résidence. Elle
+s'adresse à l'ensemble des acteurs sociaux et, en
+particulier, au monde économique. La diplomatie
+économique qui vise à faciliter le commerce et
+l'investissement des entreprises dans un pays de
+résidence est une tâche qui occupe de plus en plus les
+ambassadeurs.
+
+
+Pour comprendre le sens de la représentation, il faut
+dépasser le simple constat de la mondanité. Comme
+l'explique très bien James Der Derian, la pratique
+consiste à réduire une « séparation » (enstrangement)
+entre des mondes différents. Le diplomate se trouve
+ainsi dans une position de médiateur qui se matérialise
+par des relations interpersonnelles. Aussi la
+représentation fait-elle complètement partie du métier
+du diplomate. Produit-elle vraiment de l'influence ? La
+conduite d'entretiens et la consultation des archives
+montrent que l'appréciation portée par les diplomates
+aux relations interpersonnelles reste une donnée
+importante de la fabrication de la politique étrangère.
+Ce que les sociétés et les analystes ont tendance à
+considérer comme dépassé, voire futile, le diplomate
+
+
+continue à le ressentir comme une ressource. La
+représentation fait partie de ces savoir-faire pratiques
+que
+comprendre dans leur analyse de la diplomatie.
+
+
+les sciences sociales doivent davantage
+
+
+Enfin, les ministères des Affaires étrangères doivent
+de plus en plus apprendre à quitter le secret des
+négociations pour s'adresser directement aux acteurs
+sociaux qui sont des acteurs à part entière de la
+politique étrangère. Pour le diplomate, cette activité
+que l'on qualifie généralement de diplomatie publique,
+ou de diplomatie d'influence en France, consiste à
+communiquer avec des publics variés, à fréquenter des
+lieux aussi différents que les universités et les foires
+commerciales, à dialoguer avec la presse et à utiliser
+les médias sociaux. De nombreux ambassadeurs
+utilisent aujourd'hui un blog et envoient des messages
+sur Twitter ou Instagram. Encouragées par les
+ministères, ces pratiques de diplomatie publique
+requièrent aussi des formes de régulation. Une note de
+2015 du ministère allemand des Affaires étrangères
+rappelle ainsi aux agents qui utilisent les médias
+sociaux : <<< Ayez toujours à l'esprit que vous ne
+communiquez pas comme une personne privée, mais
+que vous représentez le ministère fédéral des Affaires
+étrangères.
+>>
+Des auteurs évoquent parfois le
+développement de la « cyberdiplomatie » ou de la «
+diplomatie digitale » comme une révolution qui amène
+les ministères des Affaires étrangères à engager les
+sociétés dans la fabrication de la politique étrangère.
+De telles conclusions sont exagérées. Les réactions des
+sociétés aux médias sociaux permettent surtout aux
+ministères des Affaires étrangères de mesurer la
+légitimité des décisions de politique étrangère chez les
+partenaires, mais aussi dans leur propre pays.
+Finalement, le recours accru à la diplomatie publique
+confirme l'importance qu'a acquise l'impératif de
+
+
+légitimité (et non pas seulement celui d'efficacité) dans
+la fabrication de la politique étrangère.
+
+
+*
+
+
+Dans un policy paper de février 2017, le chercheur
+canadien Andrew F. Cooper écrit que la diplomatie
+construite comme une quête de médiation est une
+activité de plus en plus contestée par les sociétés
+occidentales tentées par l'idée inverse de
+«
+désintermédiation » : refus des accords de commerce
+internationaux, rejet de la mobilité des populations
+étrangères, enfermement derrière les frontières de
+l'État. Après l'élection de Donald Trump aux États-Unis
+et la victoire du Brexit en Grande-Bretagne, les outils
+diplomatiques des pays occidentaux sont en effet
+déstabilisés. En Grande-Bretagne, le Fogn Office fait
+figure de défenseur vaincu de l'adhésion britannique à
+l'Union européenne. Malgré cela, les diplomaties
+continueront-elles à faire valoir le bien-fondé de l'idée
+de médiation (et de paix) dans le système international,
+ou
+céderont-elles à la vindicte des sociétés en
+reprenant à leur compte le scénario de la
+désintermédiation ? Après tout, le renoncement de
+certains ministères des Affaires étrangères à la
+médiation a marqué l'histoire européenne des années
+1930. La différence est toutefois que la diplomatie n'est
+plus dominée par les États occidentaux dans la période
+contemporaine. Les États non occidentaux (y compris
+non démocratiques) deviendront-ils les défenseurs des
+pratiques diplomatiques contre la vindicte des sociétés
+occidentales ?
+
+
+Bibliographie commentée
+
+
+ALLISON Graham T., ZELIKOW Philipp, The Essence of Decision.
+Explaining the Cuban Missile Crisis, Londres, Longman, 1999.
+
+
+Le grand Classique d'Allison revisité après la parution de nouvelles
+archives. On y retrouve les trois modèles de la première édition, et
+une réflexion a posteriori sur la crise et la diplomatie d'État face
+aux crises.
+
+
+BJOLA Corneliu, HOLMES Martin (eds), Digital Diplomacy. Theory and
+Practice, Londres, Routledge, 2015.
+
+
+L'ère digitale change les pratiques diplomatiques et la conception
+même de la diplomatie.
+
+
+CONSTANTINOU Costas M., KERR Pauline, SHARP Paul (eds), Sage
+Handbook of Diplomacy, Londres, Sage, 2016.
+
+
+Un manuel de diplomatie bien présenté, intégrant l'analyse de
+pratiques diplomatiques récentes.
+
+
+CROSS David, MAI'A K., The European Diplomatic Corps. Diplomats and
+International Cooperation from Westphalia to Maastricht,
+Basingstoke, Palgrave Macmillan, 2007.
+
+
+Une étude de cas sur le corps diplomatique européen et son
+évolution jusqu'à l'avènement de l'ambition d'une politique
+étrangère européenne commune, consacrée par le traité de
+Maastricht.
+
+
+HOCKING Brian (ed.), Foreign Ministries. Change and Adaptation,
+Basingstoke, Palgrave Macmillan, 1999.
+
+
+Un passage en revue, collectif, de l'organisation et du
+fonctionnement de quelques ministères des Affaires étrangères.
+
+
+KESSLER Marie-Christine, Les Ambassadeurs, Paris, Presses de Sciences
+Po, 2012.
+
+
+Une étude, entre politique publique et sociologie politique, sur la
+catégorie de personnel diplomatique bien particulière qui est celle
+des ambassadeurs, essentiellement fondée sur le cas français, mais
+avec des points de comparaison nombreux.
+
+
+LEQUESNE Christian, Ethnographie du Quai d'Orsay. Les pratiques des
+diplomates français, Paris, CNRS Éditions, 2017.
+
+
+Une étude documentée et chiffrée du fonctionnement du ministère
+français des Affaires étrangères, de sa sociologie, de ses
+recrutements.
+
+
+MELISSEN Jan (dir.), The New Public Diplomacy. Soft Power in
+International Relations, Basingstoke, Palgrave Macmillan, 2005.
+Le secteur très spécifique de la diplomatie publique, par l'un des
+spécialistes de la question.
+
+
+NEUMANN Iver B., At Home with the Diplomats. Inside a European
+Foreign Ministry, Ithaca (N. Y.), Cornell University Press, 2012.
+Une étude de cas diplomatique sous l'angle socio-anthropologique.
+Application au cas Norvégien.
+
+
+VAÏSSE Maurice, La Puissance ou l'influence ? La France dans le monde
+depuis 1958, Paris, Fayard, 2009.
+
+
+L'évolution historique des relations extérieures de la France (et de
+son obsession d'influence et de grandeur), sous le regard de l'un
+des historiens contemporains qui a le plus étudié le sujet.
+
+
+Chapitre 9
+
+
+Les organisations
+intergouvernementales
+
+
+Cédric Groulier, Simon Tordjman
+
+
+L
+e Yearbook of International Organizations recense
+actuellement
+environ 250 organisations
+intergouvernementales (OI) qui, toutes, présentent au
+moins trois caractéristiques communes. Elles résultent
+tout d'abord d'un acte institutif, volontaire et formalisé,
+qu'il s'agisse d'un traité, d'une charte ou d'une
+convention. Elles reposent également sur une
+matérialité et notamment sur l'existence d'un siège
+permanent. Elles constituent enfin un mécanisme de
+coordination
+à
+même de faciliter l'échange
+d'informations, la définition d'objectifs communs et la
+mise en place de politiques concertées. Marie-Claude
+Smouts, Dario Battistella et Pascal Vennesson insistent
+d'ailleurs sur cette dernière dimension en considérant
+
+
+une OI comme un
+«
+ensemble structuré où des
+participants appartenant à des pays différents,
+coordonnent leur action en vue d'atteindre des buts
+communs » (2003).
+
+
+L'essor des organisations internationales s'appuie en
+partie sur les diverses concertations sectorielles qui
+émergent à la fin du $XIX^{e}$ siècle. Le développement de
+ces unions administratives visait alors à résoudre un
+certain nombre de problèmes de coordination liés à
+l'intensification et à l'extension des échanges
+internationaux. En matière de commerce, de transports
+ou de communication, les traités bilatéraux ne
+suffisaient plus : il s'agissait désormais de s'accorder
+sur des dispositifs à même de s'étendre à d'autres
+participants. De premières unions internationales à
+vocation technique apparaissent alors afin de faciliter
+l'échange d'informations et le développement de
+standards communs Union télégraphique (1865),
+Comité météorologique permanent (1873), Union
+postale (1874), Union du mètre (1875), Union de la
+propriété industrielle (1883), instauration du méridien
+de Greenwich comme « méridien zéro » (1884), Union
+de la propriété littéraire (1886), Union pour le
+transport de marchandises par le chemin de fer (1890).
+Ces coopérations sectorielles restaient cependant
+éminemment fragiles : elles présentaient des degrés
+variables d'institutionnalisation et regroupaient bien
+souvent des experts techniques à défaut de
+représentants politiques de leurs États membres.
+
+
+L'approfondissement du multilatéralisme au $XX^{e}$
+siècle doit se lire dans la continuité de ces initiatives.
+La création de la Société des nations (SDN) en 1919 et
+plus encore celle de l'Organisation des Nations unies
+(ONU) en 1945 marquent cependant une nouvelle ère
+d'institutionnalisation et de politisation des OI. La
+
+
+concertation multilatérale ne se réduit désormais plus à
+de seules ambitions fonctionnelles mais relève d'un
+principe dynamique et politique de coopération, tourné
+vers la recherche d'objectifs convergents et d'intérêts
+communs. Les OI connaissent alors un essor quantitatif
+et qualitatif spectaculaire
+: leur nombre, leur
+composition
+et leurs missions s'élargissent
+simultanément. Guillaume
+Devin (2016, 104-110)
+distingue à cet égard quatre missions essentielles
+poursuivies par les OI. La première d'entre elles
+consiste à définir les droits de leurs membres et leurs
+modalités d'exercice. À l'image de l'ONU et de la
+norme de souveraineté ou de l'Organisation maritime
+internationale et du droit de la mer, les OI se
+présentent comme les garantes du droit international
+ou de certaines de ses dimensions. En
+facilitant
+l'échange, le recueil et la diffusion d'informations, de
+nombreuses organisations ont également pour vocation
+de permettre une gestion concertée des biens publics
+mondiaux (Organisation mondiale de la santé - OMS –,
+Organisation des Nations unies pour l'éducation, la
+science et la culture Unesco). En troisième lieu,
+certaines OI remplissent une mission d'assistance en
+contribuant notamment au redressement des pays les
+moins avancés et/ou en situation post-conflit (Fonds
+monétaire international FMI Banque mondiale,
+ ,
+Banque européenne pour la reconstruction et le
+développement - BERD). Elles peuvent enfin revêtir
+une dimension assurancielle, en constituant un moyen,
+sinon de prévenir, du moins de gérer des conflits
+(Union africaine, Communauté économique des États
+de l'Afrique de l'Ouest – Cedeao -, etc.).
+
+
+La diversification des missions des OI soulève en
+creux une interrogation quant à leur nature et au degré
+d'autonomie dont elles bénéficient. Robert Cox et
+Harold Jacobson distinguent notamment des
+
+
+à
+
+
+faciliter
+
+
+les
+
+
+organisations-forums destinées
+négociations entre leurs membres, et d'autres qui
+seraient exclusivement consacrées à la fourniture de
+services. Tandis que les premières se réduisent
+essentiellement à des arènes au sein desquelles la
+diplomatie multilatérale (voir chap. 2 par Franck
+Petiteville et Delphine Placidi-Frot, « La diplomatie
+multilatérale », p. 43) de leurs membres se déploie, les
+secondes bénéficieraient de marges de manœuvre
+élargies dans la définition et la poursuite de leur
+activité. La distinction entre ces deux faces est
+cependant moins marquée qu'il peut paraître et bon
+nombre d'institutions sont à la fois des sites et des
+acteurs de la gouvernance internationale (Thakur,
+2010). Si un voile est souvent posé sur la dimension
+organisationnelle des OI (pensons par exemple à la
+manière dont, en langue anglaise, la dénomination the
+United Nations a pris le pas sur the United Nations
+Organization), ces institutions sont également à saisir
+comme des bureaucraties à part entière qui, en
+pratique, ne se réduisent pas à la somme de leurs
+composantes. Dès 1964, Inis Claude (1964, 174)
+indiquait que le secrétariat d'une OI
+«
+est
+l'organisation ». L'insistance du secrétariat des Nations
+unies, du Programme alimentaire mondial ou de la
+Commission européenne sur leur impartialité souligne
+d'ailleurs la manière dont la neutralité d'une
+organisation peut sembler la condition de possibilité de
+son autonomisation. Michael Barnett et Martha
+Finnemore (2004) soulignent à cet égard que
+l'autorité des organisations internationales, et des
+bureaucraties plus généralement, repose sur leur
+capacité à se présenter comme neutres et
+impersonnelles - à ne pas exercer de pouvoir mais sur
+leur vocation à servir les autres ». En pratique, les OI
+constituent donc des institutions à la fois instituées et
+
+
+«
+
+
+instituantes qui, en formant de nouveaux espaces des
+relations interétatiques, sont à même de peser sur les
+négociations entre les États.
+
+
+Consacrer un chapitre aux OI dans un manuel
+traitant de diplomatie ne va pourtant pas de soi. La
+littérature consacrée à la pratique diplomatique reste
+en effet souvent ancrée dans une grille de lecture stato-
+territoriale et ne considère les OI qu'en tant que cadres
+de négociation réduits à prolonger les politiques
+étrangères étatiques. À contrepied de certaines
+analyses consacrées à la question (voir par exemple
+Karns et Mingst, 2013, 142-159), nous cherchons dans
+ce chapitre à apprécier la contribution des OI à la
+diplomatie en partant des usages et des pratiques
+diplomatiques plutôt que des fonctions explicites ou
+latentes - attribuées aux OI. La Convention de Vienne
+sur les relations diplomatiques (1961) reste aujourd'hui
+le texte de référence encadrant la pratique
+diplomatique. Son article 3 en souligne les trois
+missions principales et distingue entre la
+représentation, l'observation, et la négociation. Il
+s'agit, dans le premier cas, de représenter l'État
+d'origine auprès d'un État étranger. Cette dimension,
+outre des activités consulaires de communication et
+d'assistance
+aux
+ressortissants
+nationaux,
+s'accompagne le plus souvent d'une ambition de
+promotion et de valorisation des réalisations de l'État
+d'origine. La mission d'observation renvoie quant à elle
+à la collecte de renseignements, à l'analyse et à la
+transmission d'informations, notamment sur la
+situation intérieure de l'État étranger. Enfin,
+la
+négociation se trouve traditionnellement au cœur du
+métier diplomatique, à tel point qu'elle est parfois
+confondue avec l'activité diplomatique elle-même.
+Selon des degrés variables de formalisation, la
+négociation renvoie à l'idée de transaction, de
+
+
+marchandage. Historiquement pensée comme une
+alternative et un moyen de réduire ou de résoudre des
+différends, elle s'affirme de plus en plus comme une
+modalité centrale d'une « gouvernance mondiale » en
+construction.
+
+
+Si les fonctions traditionnelles de la diplomatie ne se
+superposent a priori qu'imparfaitement avec les
+missions dévolues aux OI, il s'agira de montrer ici
+qu'une interdépendance forte les associe. Instituées
+par les États, les organisations créées voient souvent
+leur légitimité indexée sur leur représentativité
+politique. Toutefois, si les OI n'ont connu qu'une
+reconnaissance tardive de leur personnalité juridique,
+elles rencontrent, dans la période récente, une
+affirmation croissante de leur autonomie et de leur
+force représentative. Si par ailleurs la création des OI
+peut se comprendre comme un moyen pour les États de
+réduire les coûts d'information et de favoriser ainsi
+l'émergence de relations coopératives, les ressources
+cognitives dont elles sont dotées donnent également à
+voir des usages prescriptifs et une recherche
+d'influence accrue, menée par les OI elles-mêmes.
+Enfin, en matière de négociation, ces institutions
+excèdent bien souvent la neutralité qu'elles peuvent
+revendiquer pour contribuer plus ou moins directement
+au cadrage à la fois des objets et des pratiques de
+négociation.
+
+
+De la
+enjeu
+
+
+représentativité
+
+
+comme
+
+
+à la représentation des Ol pour
+elles-mêmes
+
+
+Dans le cadre de la diplomatie étatique, la
+représentation fait figure de préalable aux
+négociations. L'incarnation permanente et durable d'un
+État sur un territoire étranger permet en effet de
+renforcer la fréquence et la densité des interactions
+entre acteurs. Elle constitue dès lors une condition de
+possibilité et d'ouverture aux jeux diplomatiques.
+Transposée à l'échelle des OI, la dimension
+représentative de l'activité diplomatique soulève la
+question de leur autonomisation relative et de leur
+à
+représenter davantage que leurs
+
+
+capacité
+composantes.
+
+
+La représentativité comme vecteur de légitimité
+et objet de négociation
+
+
+À mesure que le nombre et la portée des
+organisations internationales augmentent, la « bonne
+représentativité
+>>
+de leur processus décisionnel
+constitue un enjeu politique fort, étroitement lié à la
+légitimité et à l'autonomisation relative des institutions
+en question. La capacité d'une OI à « bien représenter
+» ceux qu'elle regroupe constitue en effet un élément
+fort de sa légitimité. Marieke Louis (2016, 27-48)
+montre
+à
+cet égard comment l'Organisation
+internationale du travail (OIT) est animée depuis sa
+création par une prétention à « bien » représenter le
+monde du travail dans son ensemble. A contrario, la
+perception d'un manque de représentativité d'une
+organisation pèse sur sa légitimité et sur son efficacité
+(Devin, 2016). Au niveau général de l'organisation,
+l'absence ou la sous-représentation d'un membre
+pourtant jugé indispensable à son bon fonctionnement
+affecte directement les résultats de son action. Ce
+phénomène est particulièrement visible dans le cas
+d'organisations universelles ou régionales confrontées
+au retrait ou à la non-adhésion de certains États
+
+
+considérés comme
+emblématiques de l'identité
+revendiquée par l'institution. Les difficultés
+institutionnelles causées par le Brexit se doublent par
+exemple de craintes plus générales sur les effets
+d'entraînement du retrait britannique et sur la
+pérennité plus générale d'une organisation ainsi
+dépourvue de l'un de ses membres les plus importants.
+
+
+Comme en témoignent les critiques aussi nombreuses
+que répétées qui visent la composition du conseil de
+sécurité des Nations unies, une représentativité perçue
+comme défaillante peut également alimenter des
+craintes quant à l'instrumentalisation de l'OI par ses
+membres les mieux représentés et/ou les plus
+puissants. Les débats suscités par les réformes de 2008
+et de 2010 du FMI témoignent également de
+l'importance attribuée à la représentativité politique
+des différents membres au sein de l'institution. Au FMI,
+le mode de décision repose en effet sur une répartition
+des droits de vote par quotes-parts indexées sur le
+niveau d'investissement des États. Pour autant, ces
+quotes-parts ne s'échangent pas librement et leur
+attribution résulte toujours de tractations et de
+négociations entre les membres de l'organisation, sur
+la base de leurs droits de vote préexistants. La dernière
+réforme approuvée en 2010 et entérinée en 2015 par le
+Congrès américain a par exemple permis une
+augmentation du volume total des quotes-parts (660
+milliards) et une revalorisation de celles des puissances
+économiques les moins dotées (Chine, Corée, Mexique,
+Turquie). Elle a parallèlement modifié les droits de vote
+des États-Unis, désormais établis à près de 17 %. Pour
+autant, cette réforme ne revêt qu'un caractère partiel.
+Dans la mesure où une majorité de 85 % des votes
+reste nécessaire pour toute modification des statuts du
+fonds, elle ne remet pas en cause la détention en
+
+
+pratique d'un droit de veto par la puissance états-
+unienne.
+
+
+Moyen de consacrer ce que les États membres
+estiment être leur <<< juste place » sur la scène
+internationale, le poids relatif de leur contribution aux
+processus décisionnels des OI constitue un enjeu de
+négociations souvent âpres et disputées. La
+représentativité intervient alors comme un vecteur fort
+de légitimité, à même de peser sur l'autonomisation
+relative des institutions.
+
+
+La personnalité juridique des OI :
+une représentation contrainte d'elles-mêmes
+
+
+Le droit international a contribué, bien que
+tardivement, à l'affirmation des OI en leur
+reconnaissant la personnalité juridique. Au début du
+$XX^{e}$ siècle, la doctrine majoritaire ne l'envisageait
+absolument pas : les États avaient le monopole de la
+personnalité juridique internationale et les OI ne
+pouvaient avoir d'existence autonome, distincte de
+celle de leurs membres. Alors que le principe restait
+bien ancré, la Cour internationale de justice (CIJ) a fini
+par admettre que les OI pouvaient être dotées de la
+personnalité juridique. Dans son avis consultatif du 11
+avril 1949, Réparation des dommages subis au service
+des Nations unies, elle relève que « la Charte ne s'est
+pas bornée à faire simplement de l'Organisation créée
+par elle un centre où s'harmonisent les efforts des
+Nations vers les fins communes définies par elle [...].
+Elle lui a donné des organes ; elle lui a assigné une
+mission propre. Elle a défini la position des membres
+par rapport à l'organisation en leur prescrivant de lui
+donner pleine assistance dans toute action entreprise
+par elle [...], d'accepter et d'appliquer les décisions du
+Conseil de sécurité, en autorisant l'Assemblée générale
+à leur adresser des recommandations, en octroyant à
+
+
+l'Organisation une capacité juridique, des privilèges et
+immunités sur le territoire de chacun de ses membres,
+en faisant prévision d'accords à conclure entre
+l'Organisation et ses Membres ». La plupart des traités
+institutifs récents reconnaissent expressément la
+personnalité juridique aux OI. Il en va ainsi du traité
+sur l'Union européenne, dont l'article 46 A dispose que
+« l'Union a la personnalité juridique », ou de l'article
+176 de la convention de Montego Bay de 1982 sur le
+droit de la mer, à propos de l'autorité des fonds marins.
+En l'absence de reconnaissance explicite dans les
+traités, la personnalité juridique des OI est présumée,
+jusqu'à ce que l'examen des termes de leur traité
+institutif confirme ou infirme cette présomption.
+
+
+Les OI constituent donc, au côté des États, des
+personnes morales, des sujets de droit international
+public, avec cette double signification : elles sont à la
+fois dotées d'une capacité juridique et soumises au
+droit. Les OI tirent de leur traité institutif leur
+personnalité juridique, leurs compétences, qui leur
+permettent de conclure des traités avec leurs États
+membres, des États tiers et d'autres OI, d'adopter des
+actes juridiques unilatéraux, de porter des réclamations
+internationales pour les dommages subis, etc.
+Cependant, elles sont simultanément circonscrites dans
+leur être et leurs prérogatives par ces mêmes traités. À
+la différence des États qui naissent d'un fait (la réunion
+d'un territoire, d'une population et d'une autorité
+politique exclusive) et jouissent d'une capacité
+juridique primordiale et plénière (liée à leur
+souveraineté), les OI sont le fruit d'un
+acte juridique,
+qui ne leur accorde qu'une capacité fonctionnelle,
+finalisée au regard des buts qui leur sont assignés par
+les États qui les créent. Les OI paraissent donc des
+sujets de droit secondaires, dont les compétences sont
+gouvernées par un principe de spécialité, qui se
+
+
+rappelle à l'occasion. Ainsi la CIJ considérait-elle, dans
+son avis du 8 juillet 1996, Licéité de l'utilisation des
+armes nucléaires par un État dans un conflit armé, que
+l'OMS n'est pas compétente pour demander un avis sur
+la licéité de l'emploi des armes nucléaires, dans la
+mesure où sa compétence se limite à la coopération
+internationale en matière de protection de la santé.
+Dans un avis $2/94$ du 28 mars 1996, la Cour de justice
+des Communautés européennes (CJCE) avait pour sa
+part estimé que la Communauté européenne ne pouvait
+pas adhérer à la Convention européenne des droits de
+l'homme, dans la mesure où elle ne disposait pas, au
+titre de l'article 235 CE (aujourd'hui 352 TFUE), de la
+compétence nécessaire.
+
+
+Le champ des compétences attribuées, et
+l'interprétation des traités institutifs sur ce point,
+représentent donc un enjeu important pour
+l'autonomisation des OI.
+L'existence d'un organe
+juridictionnel propre à l'OI, compétent pour interpréter
+le traité, peut favoriser une lecture extensive de ses
+compétences. La jurisprudence de la CJCE en rend
+compte globalement. En particulier, la théorie des
+compétences implicites a permis de reconnaître à la
+Communauté des compétences externes (permettant de
+négocier des accords internationaux), non prévues
+expressément par les traités, là où ces derniers lui
+avaient attribué une compétence interne (CJCE, 31
+mars 1971, AETR). Cependant, les États, sujets de droit
+de premier ordre et créateurs des OI, gardent toujours
+le pouvoir d'interpréter leurs propres engagements
+(sentence arbitrale du 9 décembre 1978, Accord relatif
+aux services aériens du 27 mars 1946, États-
+Unis/France). Ils ont donc toujours, en vertu de leur
+souveraineté, la possibilité de contester les
+interprétations faites des traités institutifs par les
+organes des OI, et en particulier les éventuelles
+
+
+extensions de compétences. Ce faisant, ils tentent de
+faire primer la logique conventionnelle sur celle,
+institutionnelle, qui régit l'organisation en tant que
+personne morale autonome (Raspail, 2013, 937-967).
+
+
+De telles controverses sur l'étendue des compétences
+des OI révèlent un conflit de légitimité entre leurs
+composantes et l'institution auxquelles elles
+appartiennent. Elles témoignent également de
+l'ambivalence des relations entre les États et les ΟΙ.
+Mises en œuvre par les États mais irréductibles à la
+somme de leurs seuls intérêts, les OI bénéficient
+progressivement d'une autonomie relative, également
+entretenue par des usages spécifiques des ressources
+cognitives dont elles sont dotées.
+
+
+Recueil et usage de l'information
+
+
+En permettant de renforcer la transparence de la
+politique internationale et de s'assurer de la conformité
+de chacun avec les engagements pris, le recueil et
+l'échange d'information sont à même d'encourager les
+États à dépasser leur méfiance initiale et de participer
+à des logiques d'action coopérative. Vecteurs de
+prévisibilité de la politique internationale, ces
+dispositifs cognitifs constituent une dimension
+essentielle de la mission de coordination des OI. Ils
+contribuent également à transformer les pratiques
+diplomatiques de leurs membres, soumis à une double
+injonction de transparence et de publicité. Mais la
+contribution des OI à l'activité diplomatique s'apprécie
+aussi à la lumière d'usages davantage prescriptifs de
+l'information, intégrés à de nouvelles modalités
+d'action normative.
+
+
+L'information comme condition de coopération
+
+
+Qu'elles revêtent une dimension strictement
+technique à l'image des unions administratives créées
+au $XIX^{e}$ siècle ou une ambition plus politique, les
+organisations internationales fournissent toutes un
+cadre formel à la coopération interétatique. Ce
+formalisme ne se réduit cependant pas à une seule
+dimension procédurale. En rupture avec le traditionnel
+secret des rencontres bilatérales, l'exigence de
+transparence qui accompagne les négociations
+multilatérales contribue à en réduire l'incertitude et à
+faciliter l'émergence de comportements coopératifs
+(Keohane, 1984). La prévisibilité est en effet une
+condition de la coopération : lorsque les acteurs sont
+dénués de la capacité d'anticiper et de s'assurer du
+comportement futur de leurs interlocuteurs, le self-help
+s'impose. En matière de désarmement, l'absence de
+garantie suffisante quant au respect des engagements
+mutuellement pris peut expliquer la reprise de logiques
+d'escalade. Les approches dites
+libérales
+>>
+des
+relations internationales insistent alors sur la capacité
+des OI à user de la collecte d'informations et/ou de
+mécanismes de suivi (monitoring) pour contribuer à
+l'émergence de relations de confiance et de
+comportements
+
+
+<<
+
+
+coopératifs. Dans le cas de
+
+
+négociations
+touchant
+aux
+questions
+environnementales, sanitaires ou économiques, la mise
+en commun d'informations permet de mieux saisir la
+connaissance des problèmes traités. L'entremise des OI,
+par la mise en place de mécanismes de suivi et
+d'évaluation, contribue également à renforcer le
+respect des accords conclus. Les opérations
+multilatérales de maintien de la paix peuvent ici
+illustrer les effets coopératifs induits par la collecte et
+la diffusion d'informations par les OI. Initialement
+instituées pour suivre l'application d'un cessez-le-feu
+
+
+entre États belligérants, les opérations onusiennes de
+maintien de la paix n'ont pas été conçues comme des
+instruments de coercition mais comme des
+interventions destinées
+à
+faciliter l'échange
+d'informations. Sur le terrain, les casques bleus ont en
+effet pour missions essentielles de suivre les
+mouvements de troupes, d'enquêter sur des allégations
+de violations d'accords éventuels de cessez-le-feu et de
+publiciser ces infractions afin d'encourager les États à
+respecter l'accord.
+
+
+se
+
+
+La collecte et la transmission d'informations
+trouvent ainsi placées au cœur de la mission de
+coordination des OI. L'augmentation de la quantité
+d'informations et l'accessibilité renforcée de celles-ci
+s'accompagnent également d'un principe de publicité
+et d'une exigence de transparence qui transforment
+significativement les modalités des négociations
+interétatiques (Colson, 2009, 31-41). En cela, la montée
+en puissance des OI vient rompre avec une tradition
+ancienne qui faisait du secret des processus et des
+produits des négociations le paradigme incontesté de la
+diplomatie. $\dot{A}$ partir du XVIIIe siècle, les espoirs kantiens
+d'une paix universelle et perpétuelle et les critiques
+lancées notamment par les philosophes des Lumières à
+l'encontre de toute forme de pouvoir personnel
+contribuent à faire de la publicité un nouvel impératif
+de la politique internationale. Cette exigence sera
+d'ailleurs reprise dans le Pacte de la SDN qui, à son
+article 18, impose que « tout traité ou engagement
+international conclu à l'avenir par un membre de la
+Société devra être immédiatement enregistré par le
+Secrétariat et publié par lui aussitôt que possible ».
+Cette obligation est rappelée en 1945 à l'article 102 de
+la Charte des Nations unies. Mais si la charte impose
+ainsi une publicité des résultats, elle reste cependant
+
+
+muette quant à la conduite des négociations qui restent
+encore souvent conduites de manière secrète. Depuis la
+fin de la guerre froide, marquée notamment par un
+déblocage partiel de nombreuses organisations
+internationales, l'exigence de publicité ne concerne
+plus uniquement les résultats mais va désormais porter
+sur les processus eux-mêmes. Elle se présente
+notamment comme un moyen de résorber le « déficit
+démocratique » d'organisations fortement intégrées et
+considérées comme insuffisamment lisibles. La
+déclaration $n^{o}$ 17 attachée au Traité de Maastricht
+soulignait en ce sens que
+«
+la transparence du
+processus décisionnel renforce le caractère
+démocratique des institutions, ainsi que la confiance du
+public envers l'administration
+».
+Plus récemment,
+l'article 15 du Traité sur le fonctionnement de l'Union
+européenne dispose que « le Parlement européen siège
+en public, ainsi que le Conseil lorsqu'il délibère et vote
+sur un projet d'acte législatif » (nous soulignons). Ce
+refus de l'opacité est également à lier aux mobilisations
+croissantes d'acteurs non étatiques qui vont
+revendiquer une intégration plus étroite aux processus
+décisionnels des OI et exiger une transparence accrue
+de leur fonctionnement.
+
+
+La diffusion et la mise à disposition d'informations se
+situent au cœur de l'établissement et du
+fonctionnement des OI. Ces dimensions ne suffisent
+pourtant pas à conclure en la neutralité passive de ces
+dernières. L'information collectée au sein des OI leur
+permet en effet d'exercer des formes d'influence qui
+dessinent de nouvelles modalités d'intervention
+normative et traduisent, en creux, un glissement de
+l'information vers la prescription.
+
+
+Les usages prescriptifs de l'information
+
+
+Les modes contemporains de collecte et
+d'exploitation de l'information ayant cours dans les OI
+tendent à exercer une influence normative, sans que
+l'adoption de normes formelles soit nécessaire. Cette
+évolution est l'une des conséquences du recours aux
+instruments managériaux, fondés sur la logique
+évaluative et reposant sur la force agissante de faits,
+objectivement collectés et comparés (evidence based
+decisions), dans une démarche qui se veut neutre :
+l'information recueillie vise
+
+
+à
+objectiver des
+performances à partir desquelles chacun sera incité à
+orienter son comportement et ses pratiques.
+
+
+La combinaison de plusieurs techniques donne
+naissance à de véritables séquences normatives
+informelles, via lesquelles les OI jouent un rôle
+prescriptif. Importé du monde des affaires et largement
+usité dans les administrations nationales comme dans
+les OI, le benchmarking consiste à comparer des
+pratiques et à mesurer les performances d'agents (en
+l'occurrence, les membres de l'OI) sur la base
+d'indicateurs et d'objectifs préalablement définis. Cet
+outil de collecte et d'ordonnancement de l'information
+est fréquemment mis en œuvre entre pairs (examen par
+les pairs/peer review) : les États membres d'une OI,
+tantôt examinateurs, tantôt examinés, sont amenés à
+comparer et à évaluer systématiquement leurs
+performances, dans une optique d'optimisation. Cet
+examen par les pairs repose sur une démarche
+volontaire et suppose que les États se fassent
+mutuellement confiance et accordent le même crédit au
+processus, le cadre de l'OI étant supposé favoriser ces
+conditions. L'Organisation de coopération et de
+développement économiques (OCDE, 2003) manifeste
+un engouement pour cette technique, qu'illustrent
+également le dispositif de surveillance du FMI, le
+mécanisme d'examen des politiques commerciales à
+
+
+l'Organisation mondiale du commerce (OMC),
+ou
+encore la méthode ouverte de coordination (MOC) des
+politiques économiques et sociales, pratiquée dans
+l'Union européenne. L'examen par les pairs
+s'accompagne par ailleurs d'une pression des pairs
+(peer pressure), qui n'est autre que l'influence et la
+persuasion exercées par les autres États au cours de
+l'examen : du dialogue informel à la publication de
+rapports d'évaluation, l'examiné est incité à améliorer
+ses performances et surtout à jouer le jeu - y compris
+en se soumettant au contrôle  , afin de ne pas perdre
+de crédit et de préserver sa réputation. Ces
+instruments, déployés le plus fréquemment entre les
+membres d'une organisation, sont également mobilisés
+entre les OI elles-mêmes. L'Union européenne, comme
+ses États membres, se soumet par exemple à l'examen,
+par l'OCDE, des performances de sa politique
+réglementaire. Lorsque l'OCDE évalue le programme «
+Mieux légiférer développé par la Commission
+européenne, elle assimile d'ailleurs cette dernière à un
+« pays » (OCDE, 2015).
+
+
+La démarche évaluative se fait d'autant plus
+normative qu'outre des rapports, les OI produisent des
+classements qui en font de fait de puissantes
+prescriptrices. Mis en œuvre en 2002, les classements
+issus des rapports Doing Business de la Banque
+mondiale mesurent par exemple la réglementation des
+affaires et son effectivité dans 190 États et plusieurs
+grandes métropoles. Comparant leurs performances
+respectives sur la base de dix indicateurs, les
+classements établis contribuent à orienter les choix
+stratégiques des investisseurs internationaux vers les
+États présentant l'environnement juridique le plus
+favorable, et conduisent les gouvernements nationaux à
+mener les réformes internes qui leur permettront de
+remonter dans le classement (assouplissement du droit
+
+
+du travail, sécurisation des investissements, attractivité
+de
+la fiscalité,
+diminution des charges
+administratives...). De manière comparable, le
+programme international pour le suivi des acquis des
+élèves (PISA), lancé en 1997 par l'OCDE, produit des
+effets normatifs sur les membres de l'organisation, en
+fournissant une information visant à comparer les
+performances des systèmes éducatifs.
+
+
+L'aboutissement prévisible de ce type de démarches
+est l'identification de « bonnes pratiques » (Klein,
+Laporte et Saiget, 2015), qui exerceront une fonction
+normative en influençant ou en cherchant à influencer
+les comportements des acteurs. Leur force normative,
+en revanche, dépendra du degré d'institutionnalisation
+dont elles bénéficieront au sein de l'OI et du
+déploiement éventuel d'une panoplie d'outils visant à
+en assurer l'observance (suivi périodique, contrôle par
+les pairs, etc.). De telles démarches et interventions se
+déploient le plus souvent en amont du processus de
+production normative. Les
+<<
+bonnes pratiques
+>>
+remplissent alors une fonction légitimatrice des choix
+faits au sein de l'OI, en ce qu'elles font participer leurs
+initiateurs à l'orientation des politiques communes et à
+l'adoption de nouvelles normes, dotées d'un ancrage
+empirique qui en a validé l'efficacité.
+
+
+Les organisations internationales
+dans les processus de négociation
+
+
+Si, étymologiquement et historiquement, les termes «
+négociation » et « diplomatie » ont pu se superposer,
+les deux pratiques sont toutefois à distinguer. En
+facilitant la recherche de compromis, la négociation
+constitue à la fois le moyen et l'objectif de la
+diplomatie. Dans ce processus, les OI occupent une
+
+
+place duale. Elles constituent à la fois l'espace où se
+déploient les négociations multilatérales, et un acteur
+de plus en plus autonome, à même de peser à la fois
+sur les objets et sur les pratiques des négociations. Cet
+aspect se révèle notamment dans les cas où les OI, par
+l'entremise de leurs secrétariats généraux, assurent et
+mettent en œuvre des stratégies de médiation.
+
+
+Les Ol et la négociation des normes
+
+
+Bien que toute négociation n'ait pas pour finalité la
+conclusion d'accords juridiques, l'adoption de normes
+nouvelles constitue souvent l'objectif des États dans
+leur activité de négociation. Les juristes appellent
+d'ailleurs éloquemment negotium le contenu des règles
+de droit. Dans cette perspective, les OI constituent des
+sites où les États conduisent cette activité et pour
+laquelle leur contribution substantielle est variable. De
+prime abord, la définition de l'agenda renvoie
+essentiellement
+aux jeux diplomatiques entre les
+membres. L'Assemblée générale des Nations unies, à la
+fois garante du principe d'égalité juridique entre États
+et chargée de « discuter toutes questions ou affaires
+rentrant dans le cadre de la Charte » (art. 10), est
+traditionnellement investie par les États membres,
+petits ou grands, pour tenter d'y faire résonner de
+nouvelles préoccupations. Mais forts d'une
+autonomisation croissante et de connaissances qu'ils
+ont pu progressivement accumuler, les bureaucraties et
+secrétariats des OI se trouvent également de plus en
+plus à même d'impulser, de cadrer et d'orienter les
+négociations.
+
+
+Un membre du secrétariat de la Convention sur la
+diversité biologique des Nations unies déclare : « En
+tant que délégué national, mon ambition la plus haute
+consistait à modifier au moins un mot du texte ; en tant
+que membre du secrétariat, je peux influencer tout le
+
+
+texte » (Biermann et Siebenhuner, 2009, 322). Les
+modalités de cette influence sont toutefois rarement
+directes et explicites. Les rapports que les OI
+produisent, les
+<<
+bonnes pratiques
+>>
+qu'elles
+formalisent, les éventuelles recommandations qu'elles
+adoptent préfigurent assez souvent les engagements
+conventionnels qui lieront ensuite les États. Ce faisant,
+les actes de soft law adoptés par les OI peuvent
+s'apparenter à des actes préparatoires, une lex feranda
+
+
+le droit en train de se faire, qui sera négocié par les
+États. Exemple classique, la Résolution 1962 (XVIII) de
+l'Assemblée générale des Nations unies portant
+Déclaration des principes juridiques régissant les
+activités des États en matière d'exploration et
+d'utilisation de l'espace extra-atmosphérique, adoptée
+le 13 décembre 1963, est à l'origine des principes
+consacrés ensuite par les traités internationaux, comme
+le traité éponyme conclu le 27 janvier 1967.
+
+
+La compétence capitalisée par certaines OI, ou
+l'importance des pouvoirs qui leur sont conférés,
+autorise aussi parfois les OI à investir une fonction
+quasi législative vis-à-vis de leurs membres (Alvarez,
+2005). C'est bien sûr le cas dans les organisations
+d'intégration régionale comme l'Union européenne via
+le droit dérivé adopté par ses institutions, mais aussi
+lorsque des OI spécialisées sont habilitées à
+réglementer certains secteurs (voir par exemple les «
+normes et pratiques recommandées
+
+
+l'Organisation de l'aviation civile
+
+
+par
+
+
+internationale
+
+
+(OACI)1 ou les  règlements » de l'Assemblée de
+l'OMS)2. La logique conventionnelle, horizontale et
+fondée sur la négociation, qui préside aux rapports
+normatifs entre États est alors éclipsée au profit d'une
+
+
+logique institutionnelle, unilatérale et descendante où
+
+
+les OI gagnent en autonomie.
+
+
+Enfin, parfois, les OI participent elles-mêmes
+directement aux processus normatifs internationaux en
+prenant part aux négociations en leur qualité de sujets
+de droit. Dans le cadre de leurs compétences, elles
+peuvent ainsi se lier par convention à des États, y
+compris tiers à l'organisation, et à d'autres OI. L'Union
+européenne est par exemple engagée dans environ 140
+accords commerciaux ; elle est membre de l'OMC
+depuis le 1er janvier 1995; récemment, elle a ratifié
+l'Accord de Paris sur le climat adopté le 12 décembre
+2015. L'article 6 § 2 du Traité sur l'Union européenne
+(TUE) prévoit également qu'elle devienne partie à la
+Convention européenne des droits de l'homme.
+
+
+Le poids des Ol sur le cadrage et les modalités de la négociation
+Les institutions multilatérales ne sont pas sans
+incidence
+sur les négociations qu'elles peuvent
+contribuer à entreprendre et/ou auxquelles elles
+peuvent plus directement participer. Leur implication
+s'apprécie également à la lumière de dimensions plus
+informelles liées aux processus d'apprentissage et
+d'intériorisation progressive des pratiques en vigueur
+au sein de l'OI concernée. En favorisant la participation
+des acteurs au jeu collectif et permanent de la
+négociation multilatérale, les OI contribuent à la
+diffusion de conceptions communes relatives aux
+pratiques attendues et légitimes en leur sein.
+L'appropriation effective de ces normes est variable et
+peut donner lieu à des résistances explicites ou à des
+ralliements de façade. Les approches constructivistes
+ont pu néanmoins souligner comment, en pesant sur les
+formes du jeu collectif, les OI sont également à même
+d'influer sur leur issue. La diffusion de la grammaire
+développée par les OI quant aux << problèmes à
+résoudre » (de la « sécurité humaine » au gender
+
+
+mainstreaming) contribue en effet à l'édification de
+référentiels communs qui orientent la définition des
+enjeux et les réponses à y apporter.
+
+
+À défaut d'être plus visibles, ces opérations de
+cadrage peuvent revêtir un tour plus direct dans le
+cadre des opérations de médiation menées par les OI.
+Ces initiatives se multiplient depuis la fin des années
+1980, en parallèle à une implication grandissante des
+OI dans la gestion de conflits (conflict management) et
+la consolidation de la paix (peacebuilding). Les
+secrétaires généraux (ou leurs
+représentants)
+d'organisations universelles
+comme l'ONU ou
+d'institutions régionales (Union européenne,
+Organisation pour la sécurité et la coopération en
+Europe
+OSCE
+Union africaine, Cedeao
+ ,
+principalement) (Tenenbaum, 2009) se trouvent alors
+chargés, sur le terrain, de coordonner des acteurs aux
+statuts variés agences onusiennes, organisations non
+gouvernementales, experts, acteurs gouvernementaux
+et leaders (para-) militaires, etc.
+afin de faciliter
+l'engagement de pourparlers de paix. Ces « diplomates
+aux rôles non nationaux  (Leguey-Feilleux, 2009)
+doivent alors user de tout ce que le savoir-faire du
+diplomate implique d'habilité, d'audace et de prudence
+pour garantir le maintien des discussions et
+l'identification de points de consensus entre les
+belligérants. Ils peuvent également endosser un rôle
+plus actif en proposant des versions préalables des
+textes ultérieurement amendés et négociés par les
+délégations. Dans le cas des négociations techniques
+menées entre la Serbie et le Kosovo de 2011 à 2012,
+Robert Cooper, le représentant de l'Union européenne
+chargé de faciliter les négociations, a produit la
+première version du texte finalement accepté par les
+deux parties. $\dot{A}$ ce titre, il a non seulement contribué à
+cadrer et séquencer les discussions, mais aussi émis
+
+
+des propositions plus substantielles quant au contenu
+de l'accord final.
+
+
+La contribution des OI au processus de négociation
+ne se limite pas à de simples dimensions procédurales.
+En définissant les comportements attendus en leur
+sein, elles participent au cadrage et aux issues in fine
+possibles de la négociation. Elles peuvent également
+être amenées à intervenir plus directement en tant que
+médiatrices auprès de tiers belligérants dont elles
+doivent rendre possible et orienter le dialogue.
+
+
+*
+
+
+Le pouvoir diplomatique des OI, plastique et
+ambivalent, s'apprécie à la lumière de tensions qui se
+manifestent sur deux plans distincts. Si elles
+prolongent et catalysent les jeux de puissance et les
+stratégies différenciées des politiques étrangères
+étatiques, elles ne s'y réduisent pas. Par des opérations
+de cadrage, d'impulsion normative et des effets de
+socialisation, les OI pèsent à la fois sur la nature des
+relations entre les États et sur les objets de la
+gouvernance mondiale. Leurs contributions se
+déploient par ailleurs selon un continuum allant
+d'initiatives implicites peu formalisées à des
+interventions juridiquement encadrées et qui
+bénéficient d'un fort degré de publicité. Si certaines OI
+peuvent négocier des textes, ratifier des traités, et
+constituer ainsi en propre des acteurs influents de la
+scène internationale, leurs marges d'action effective
+sont toujours à saisir dans leur capacité à jouer de leur
+position particulière, à la fois liées à l'exercice de la
+souveraineté de leurs membres et à même de s'en
+autonomiser selon des registres plus ou moins formels.
+
+
+Bibliographie commentée
+
+
+ALVAREZ José E., International Organizations as Law-makers, Oxford,
+Oxford University Press, 2005.
+
+
+Cet ouvrage porte sur les organisations internationales à vocation
+universelle comme l'ONU ou l'OMC. Il propose une analyse de
+leurs impacts sur les mécanismes, les logiques de fabrication, et les
+formes de mise en œuvre du droit international.
+
+
+BARNETT Michael, FINNEMORE Martha, Rules for the World. International
+Organizations in Global Politics, Ithaca (N. Y.), Cornell University
+Press, 2004.
+
+
+Ce livre propose une analyse du comportement des organisations
+internationales et de leurs effets sur la politique mondiale. Se
+refusant de les réduire à de simples instruments des États, Michael
+Barnett et Martha Finnemore analysent la face bureaucratique des
+organisations internationales pour mettre en avant leur autonomie
+et leur capacité à exercer une forme d'autorité sur les acteurs
+internationaux.
+
+
+DEVIN Guillaume, Les Organisations internationales, Paris, Armand
+Colin, 2016.
+
+
+Ouvrage de référence en langue française, ce manuel développe
+une approche sociologique des relations internationales pour ouvrir
+la << boîte noire  des organisations internationales de leur genèse
+des organisations internationales à leurs fonctions et dynamiques
+plus contemporaines.
+
+
+INIS L. Claude Jr., Swords into Plowshares. The Problems and Progress
+of International Organization, New York (N. Y.), Random House,
+1964.
+
+
+Cet ouvrage offre une analyse riche et illustrée des fondements
+théoriques, des évolutions et des contraintes qui affectent les
+organisations internationales et notamment le système onusien.
+
+
+KARNS Margaret P., MINGST Karen A., « International organizations and
+diplomacy », dans Andrew F. Cooper, Jorge Heine, Ramesh Thakur
+(eds), The Oxford Handbook of Modern Diplomacy, Oxford, Oxford
+University Press, 2013,  . 142-159.
+
+
+Une entrée consacrée aux organisations internationales dans un
+manuel de diplomatie en langue française.
+
+
+KEOHANE Robert, After Hegemony. Cooperation and Discord in the
+World Political Economy, Princeton (N. J.), Princeton University
+Press, 1984.
+
+
+Cet ouvrage constitue une étude fouillée des formes et des
+évolutions de la coopération interétatique, notamment depuis la
+
+
+seconde guerre mondiale. Robert Keohane y défend la thèse selon
+laquelle les
+«
+régimes
+>>
+et les institutions internationales
+représentent des leviers de coopération entre acteurs égoïstes.
+
+
+KLEIN Asmara, LAPORTE Camille, SAIGET Marie (dir.), Les Bonnes
+Pratiques des organisations internationales, Paris, Presses de
+Sciences Po, 2015.
+
+
+Cet ouvrage collectif explore la diversité des formes et des usages
+faits par les organisations internationales des  bonnes pratiques »,
+dans des domaines aussi variés que la santé, l'éducation, l'aide au
+développement ou la protection de l'environnement.
+
+
+LEGUEY-FEILLEUX Jean-Robert, The Dynamics of Diplomacy, Boulder
+(Colo.), Lynne Rienner, 2009.
+
+
+Cet ouvrage est rédigé sous la forme d'un manuel visant à faire le
+point sur l'état actuel de la diplomatie et à répondre à quelques
+questions fondamentales sur les évolutions contemporaines de la
+pratique diplomatique.
+
+
+LOUIS Marieke, « Un parlement mondial du travail ? Enquête sur un
+siècle de représentation tripartite à l'Organisation internationale du
+travail », Revue française de science politique, 66 (1), 2016,  . 27-
+48.
+
+
+Issu d'une recherche doctorale menée sur l'Organisation
+internationale du travail, cet article revient sur la genèse de l'OIT
+et sur ses prétentions à incarner un véritable  parlement mondial
+du travail ».
+
+
+SMOUTS
+Marie-Claude,
+BATTISTELLA Dario, PETITEVILLE Franck,
+VENNESSON Pascal (dir.), Dictionnaire des relations internationales,
+Paris, Dalloz, 2003.
+
+
+Dictionnaire encyclopédique de plus de 130 entrées présentant les
+approches, concepts et méthodes de l'analyse des relations
+internationales (définition, histoire, application contemporaine).
+
+
+1. Annexes de la Convention relative à l'aviation civile internationale du 7
+décembre 1944.
+
+
+2. Art. 21 de la Constitution de l'OMS du 22 juillet 1946.
+
+
+Chapitre 10
+
+
+Diplomaties supra-
+étatiques
+
+
+Stephanie C. Hofmann, Olivier Schmitt
+
+
+A
+u cours des dernières décennies, les organisations
+internationales régionales ou globales se sont
+établies comme des instruments majeurs de production
+et de mise en œuvre de biens publics supra-étatiques.
+La prolifération des organisations internationales (et
+l'augmentation de leur champ de responsabilité) a été
+accompagnée d'une émergence continue d'acteurs
+diplomatiques localisés en dehors des gouvernements
+nationaux et opérant à la place au sein de structures
+supra-étatiques¹.
+
+
+Ainsi, alors que les relations diplomatiques sont
+généralement comprises comme conduites par les
+États, ou plus précisément par les gouvernements
+nationaux (qui établissent des parcours de formation
+
+
+pour leurs diplomates avant de les envoyer en poste ou
+formulent une politique étrangère depuis un ministère
+basé dans la capitale), le nombre de fonctionnaires
+internationaux a continuellement augmenté, le nombre
+de personnel temporaire a diminué, et la délégation de
+personnel par les États membres est bien moins
+fréquente qu'au début du $XX^{e}$ siècle. De plus, les
+fonctionnaires internationaux prêtent souvent serment
+auprès de l'organisation internationale pour laquelle ils
+travaillent. Et cette question est d'une importance
+cruciale puisque, d'une
+générale,
+fonctionnaires nationaux ou internationaux sont loin
+
+
+d'être nécessairement en accord.
+
+
+manière
+
+
+Les travaux de recherche actuels ont démontré que
+les fonctionnaires internationaux (qui sont basés dans
+et travaillent pour une organisation internationale) ont
+un rôle actif dans la formulation de politiques publiques
+multilatérales (Haas, 1958 ; Snidal et Thompson, 2003 ;
+Hawkins et Jacoby, 2006). Toutefois, leur indépendance
+est variable (Haftel et Thompson, 2006), que l'on se
+place sur le plan des structures organisationnelles
+formelles ou sur celui des structures organisationnelles
+informelles (Mérand et al., 2011). Toutes les
+organisations internationales ne disposent pas d'une
+large bureaucratie, mais beaucoup ont obtenu une
+délégation d'autorité leur permettant de contribuer de
+manière substantielle au développement et à la mise en
+œuvre d'un agenda de politiques publiques, ce qui leur
+a donné une influence sur le processus de prise de
+décision dans son ensemble.
+
+
+Ce chapitre présente les principaux travaux traitant
+de l'action politique supranationale. Afin de mieux
+saisir les différents moyens de comprendre la
+diplomatie supranationale, nous analysons quatre
+approches différentes en relations internationales : le
+
+
+néofonctionnalisme, les approches principal-agent, les
+pratiques diplomatiques et l'autorité internationale. La
+plupart de ces travaux ont été initialement développés
+afin de théoriser les développements de l'Union
+européenne (UE), et c'est pour cette raison que nous
+illustrons ces quatre approches à partir de l'analyse de
+l'UE (ou plus spécifiquement du Service européen
+d'action extérieure). Néanmoins, il convient de
+rappeler que ces travaux ont au fil du temps été utilisés
+pour étudier d'autres organisations internationales,
+qu'elles soient régionales ou globales.
+
+
+Le néofonctionnalisme
+
+
+et l'intégration des diplomaties
+nationales
+
+
+Le néofonctionnalisme (conceptualisé par Ernst Haas
+dans son ouvrage de 1958, The Uniting of Europe) est
+une évolution du fonctionnalisme, une approche
+initialement proposée par David Mitrany. Ce dernier
+pensait qu'un système toujours plus étendu
+d'organisations internationales gérées par des experts
+pouvait être une force transformatrice au sein du
+système international et surpasser les logiques
+nationalistes compétitives. Haas reformula cette vision
+technocratique et élitiste en une approche plus
+politique, étudiant les multiples manières dont les
+intérêts sectoriels sub-nationaux, toujours en
+compétition ou en coopération entre eux, pouvaient
+être réconciliés à travers l'intervention créative
+d'acteurs technocratiques supranationaux.
+
+
+Le néofonctionnalisme est une approche difficile à
+classifier selon les critères habituels, car elle emprunte
+à la fois aux théories des relations internationales et à
+la politique comparée. Le néofonctionnalisme reconnaît
+
+
+l'importance fondamentale du rôle des États,
+notamment lors de la création des organisations
+internationales ou lors des renégociations des traités.
+Néanmoins, il met également l'accent sur deux
+catégories d'acteurs non étatiques qui mettent en
+œuvre une dynamique en faveur de plus d'intégration :
+
+
+les groupes d'intérêt et les mouvements sociaux
+transnationaux qui se forment à une échelle régionale ;
+les secrétariats internationaux des organisations.
+Les États nations établissent les termes des accords
+initiaux, et peuvent tenter d'en contrôler les
+développements, mais ils ne sont pas les seuls à
+influencer la direction et le rythme du changement. Au
+contraire, les fonctionnaires internationaux, en
+coopération (ou non) avec des acteurs dont les intérêts
+ou les valeurs poussent vers des solutions intégrées à
+des problèmes concrets, ont naturellement tendance à
+exploiter les « effets de débordement » (spillover effect)
+qui surviennent lorsque les États consentent à un degré
+de
+supranationalisme pour régler un problème
+spécifique, mais se rendent ensuite compte que la
+résolution du problème requiert l'extension du
+supranationalisme à d'autres domaines liés.
+
+
+Selon cette approche, l'intégration régionale est
+forcément un processus conflictuel et sporadique, fait
+de va-et-vient. Mais l'approche considère que des
+gouvernements démocratiques et pluralistes dirigeant
+des sociétés complexes vont graduellement se trouver
+soumis à des dynamiques économiques, politiques et
+sociales à l'échelle d'une région, et vont résoudre leurs
+différends en acceptant de déléguer un certain nombre
+de compétences à des entités supranationales. Haas ne
+précisait pas d'horizon temporel pour la confirmation
+empirique de sa théorie d'une intégration croissante, et
+une erreur classique consiste à oublier la dimension
+conflictuelle du processus qu'il analyse au profit d'une
+
+
+lecture téléologique de « toujours plus » d'intégration.
+Cette erreur a conduit de nombreux travaux à avancer
+
+
+régulièrement que le néofonctionnalisme
+
+
+dépassé
+
+
+à chaque difficulté
+
+
+d'intégration européenne. 2
+
+
+du
+
+
+«
+
+
+était
+
+
+processus
+
+
+Plusieurs chercheurs ont cherché à aller au-delà du
+travail empirique de Haas (centré sur la Commission)
+en intégrant d'autres acteurs dans l'analyse, et en
+sortant d'une approche qui pouvait être perçue comme
+finaliste. En particulier, l'approche
+néo-néo-
+fonctionnaliste
+>>
+de Philippe Schmitter (1970)
+représente le processus non pas comme un continuum
+comprenant des hauts et des bas (ou même une
+multitude de continua) comme le fait Haas, mais plutôt
+comme des cycles successifs impliquant des
+phénomènes d'intégration ou de relâchement
+simultanés en fonction des domaines. De même,
+Sandholtz et Stone Sweet (1998) ont insisté sur
+l'importance de l'interaction entre acteurs
+économiques privés, législateurs et juges dans la
+dynamique d'intégration européenne opéenne. Le processus
+d'intégration trouve sa source dans le développement
+des échanges économiques, politiques ou sociaux
+transnationaux, qui rend coûteux le maintien d'un
+mode de gouvernance national. En conséquence, les
+acteurs non gouvernementaux engagés dans ces
+transactions font pression, souvent avec le soutien des
+institutions communautaires, sur les gouvernements
+par exemple en multipliant les recours devant la Cour
+de justice de la Communauté européenne (CJCE) en
+vue de mettre en place un mode de gouvernance
+supranational où les institutions communautaires
+seront capables de réguler un secteur et de contraindre
+le comportement des acteurs, y compris étatiques, qui y
+interviennent. L'apparition de ces règles et
+organisations entraîne un nouveau développement de
+
+
+la société transnationale. Cette approche a notamment
+été critiquée pour sa montée en généralité excessive,
+notamment car elle ne peut pas s'appliquer à tous les
+secteurs, mais elle offre une illustration forte du rôle
+croissant joué par certains fonctionnaires
+internationaux en faveur d'une plus grande intégration.
+
+
+Dès lors, comment expliquer la création du Service
+européen pour l'action extérieure au regard de
+l'approche néofonctionnaliste ? La création du SEAE
+peut être interprétée comme une conséquence du spill-
+over effect répondant aux faiblesses de la coopération
+en matière de politique étrangère et de sécurité comme
+l'avaient attesté les Balkans : les États avaient décidé,
+lors du traité de Maastricht, de doter l'Union
+européenne d'un pilier « politique étrangère et de
+sécurité commune
+>>
+(dirigée par un
+«
+haut
+représentant »), mais se rendirent compte de sa
+difficile place institutionnelle auprès du commissaire
+européen chargé des relations extérieures et du
+président du Conseil de l'UE dans sa formation «
+affaires étrangères ». Les trois postes furent fusionnés
+lors de l'adoption du traité de Lisbonne, et le nouveau
+poste de « haut représentant » fut doté d'un service
+administratif dédié, le SEAE, illustrant ainsi la
+dynamique croissante d'intégration. Ainsi, les acteurs
+du SEAE sont toujours des experts internationaux, à
+l'interface des États (puisque des diplomates nationaux
+y sont détachés) et de l'organisation supranationale
+(accueillant des experts issus du Conseil et de la
+Commission).
+
+
+Les approches principal-agent
+
+
+De manière similaire aux néofonctionnalistes, les
+approches principal-agent étudient la manière dont des
+
+
+fonctionnaires internationaux (ou
+«
+agents  )
+augmentent leur champ de responsabilité et peuvent
+pousser les États vers de nouveaux domaines ou
+problèmes de politique publique. Du point de vue de
+l'État (ou « principal »), il s'agit souvent d'un problème
+causé par l'agent. Toutefois, contrairement
+au
+néofonctionnalisme, cette approche ne suppose pas une
+direction univoque (bien que conflictuelle) de
+l'intégration et n'assume pas a priori que les
+fonctionnaires internationaux œuvrent nécessairement
+pour le bien commun. Les chercheurs de cette tradition
+sont plus intéressés par les conditions dans lesquelles
+les États délèguent une autorité aux agents des
+organisations internationales, et par la manière dont
+des agents dotés d'une autonomie et d'une relative
+liberté d'agir peuvent mettre en œuvre des actions non
+prévues par le principal (l'État) (Hawkins et Wade,
+2006; Pollack, 2003; Nielson et Tierney, 2003). En
+d'autres termes, le degré d'autonomie et de liberté
+d'action des agents est le principal champ
+d'investigation. Ici, la réflexion en termes de choix
+rationnel postule un intérêt des agents à augmenter
+leur pouvoir au détriment du principal et cherche donc
+à élaborer les conditions d'une bonne maîtrise des
+agents par leurs principaux.
+
+
+L'approche principal-agent a été importée des études
+de politique domestique et économique. Les
+internationalistes désignent l'État comme principal et
+les fonctionnaires internationaux comme agents. Les
+États peuvent anticiper et tenter de contrôler les
+tentatives des agents de travailler à la mise en œuvre
+de leurs propres préférences. Quand les États mettent
+en place les structures d'une organisation
+internationale, ils tentent de contrôler les agents en
+mettant en place divers mécanismes : les plus
+fréquents sont la gestion des ressources, la supervision
+
+
+des institutions, ou des procédures de décision limitant
+l'influence des fonctionnaires. Mais les États ne
+peuvent jamais entièrement contrôler ceux-ci.
+
+
+Les fonctionnaires internationaux sont
+compris
+comme des acteurs stratégiques : leurs objectifs
+comprennent la sécurité matérielle, la légitimité et la
+promotion des politiques publiques qui ont leur
+préférence. Les variations de la capacité d'agir des «
+agents » sont souvent expliquées par la variation de la
+taille des effectifs et des ressources dont ils disposent,
+ainsi que par l'importance que les États attachent à une
+question et par les capacités que les États investissent
+dans le contrôle des agents.
+
+
+La plupart des approches principal-agent avancent
+que les fonctionnaires internationaux développent
+progressivement leur capacité de manœuvre au fil du
+temps. Néanmoins, Tana Johnson (2013) a récemment
+avancé que les fonctionnaires internationaux
+contribuent activement aux politiques publiques dès la
+phase de création d'une organisation internationale.
+
+
+Cette approche a été appliquée à une variété
+d'organisations internationales (régionales ou globales)
+couvrant un large éventail de domaines. L'UE a été
+particulièrement étudiée, notamment la manière dont
+des « agents » comme la Commission européenne ou la
+Cour européenne de justice se comportent de manière
+imprévue par rapport à leurs « principaux », les États
+membres.
+
+
+Avec les outils fournis par les approches principal-
+agent pour étudier la création et le fonctionnement du
+SEAE, on peut analyser ses structures et sa marge de
+manœuvre. Le SEAE est composé non seulement de
+personnels issus de la Commission et du Conseil, mais
+comprend aussi un tiers de personnels fournis par les
+États membres. Dans cette configuration, les États
+membres souhaitaient s'assurer que des mécanismes
+
+
+de contrôle endogènes et exogènes existeraient sur
+l'organisme international auquel ils déléguaient un
+degré d'autorité. Le SEAE a eu des difficultés à
+s'établir comme acteur entre la Commission et le
+Conseil, mais s'est lentement créé un espace
+d'opérations. Ainsi, les États membres sont toujours
+réticents à utiliser le SEAE pour négocier les grands
+contours d'une politique. Néanmoins, comme le
+montrent les discussions sur la relation entre l'OTAN et
+l'UE, une fois que les grands paramètres ont été
+établis, le SEAE a pour mission de mettre en œuvre la
+déclaration commune aux deux institutions, disposant
+donc d'un degré de flexibilité interprétative des
+consignes établies par les États membres.
+
+
+Les pratiques diplomatiques
+régionalisation
+
+
+et
+
+
+la
+
+
+diplomaties
+
+
+des
+
+
+Des internationalistes toujours plus nombreux
+s'intéressent depuis une dizaine d'années à l'étude des
+«
+pratiques
+internationales, définies dans leur
+acception sociologique minimale comme des actions
+régulières ayant une signification sociale. L'origine des
+pratiques ne se trouve ni dans les choix rationnels des
+individus, ni dans des mécanismes supérieurs ou
+extérieurs aux agents imposés par la structure sociale,
+mais ces pratiques sont le résultat d'interactions
+répétées qui deviennent elles-mêmes constitutives du
+monde social. Cette approche de l'étude de la
+diplomatie est directement influencée par les travaux
+sociologiques, s'inspirant de la praxéologie
+bourdieusienne, des « communautés de pratiques »
+théorisées par Lave et Wenger, des théories de l'acteur-
+réseau (particulièrement associées à l'œuvre de Bruno
+
+
+Latour) ou de la sociologie pragmatique telle que la
+conçoit Boltanski.
+
+
+En relations internationales, les travaux d'Emmanuel
+Adler (2008), Vincent Pouliot (2016), Rebecca Adler-
+Nissen (2014) ou Iver Neumann (2012) sont
+particulièrement associés à l'étude des pratiques
+diplomatiques. L'approche relève aussi de l'engagement
+épistémologique puisque les pratiques ne sont pas
+simplement comprises comme une variable dépendante
+résultant de causes qu'il s'agirait d'élucider. Au
+contraire, les pratiques elles-mêmes sont constitutives
+de l'ordre international. Cette approche permet de
+sortir des analyses positivistes et théoriques sur le
+fonctionnement du système international (telles que
+l'approche néoréaliste), qui tendent à considérer les
+diplomates comme des rouages mettant en œuvre des
+dynamiques structurelles sur lesquelles ils n'ont
+aucune influence ou qu'ils ne perçoivent généralement
+pas. Au contraire, une approche en termes de pratiques
+permet de remettre l'accent sur les praticiens eux-
+mêmes, leurs interactions et leurs rituels
+professionnels étant eux-mêmes générateurs d'ordres
+sociaux qui constituent les relations internationales.
+
+
+Les relations diplomatiques sont régies par un
+ensemble de rituels (dont le « protocole » ne constitue
+que la partie formalisée) comprenant notamment des
+formes d'éloquence spécifiques, des symboles partagés
+compréhensibles par tous les membres du corps
+diplomatique, des échanges de cadeaux et parfois
+même des manières de s'habiller particulières. La
+diplomatie multilatérale n'échappe pas à ces règles, et
+les organisations internationales sont le siège de
+nombreuses pratiques diplomatiques ritualisées qui
+sont le résultat d'ordres sociaux pré-existants, mais qui,
+une fois mises en œuvre par les diplomates, renforcent
+ou contestent cet ordre social. Ainsi, à l'OTAN, être
+
+
+considéré comme un « allié fiable » implique un certain
+nombre de pratiques très concrètes qui, mises en
+œuvre ou non par les diplomates des pays concernés,
+contribuent à établir une hiérarchie de statut
+informelle au sein de l'organisation (Schmitt, 2017). À
+l'ONU, faire partie des membres non permanents du
+Conseil de sécurité implique pour les États qui le
+rejoignent de s'engager sur un certain nombre de
+politiques publiques perçues de manière favorable (par
+exemple, déployer des troupes dans des missions de
+maintien de la paix afin de démontrer un engagement
+concert), mais signifie aussi pour les diplomates de ces
+pays adopter un ensemble de pratiques (quand parler
+lors des réunions du Conseil, comment commenter une
+résolution,
+qui contacter lors des réunions
+préparatoires, etc.) qui signalent leur statut.
+Évidemment, les membres permanents du Conseil de
+sécurité ont également leurs pratiques diplomatiques
+propres qui signalent (et justifient) leur statut au
+sommet symbolique de l'espace social des Nations
+unies.
+
+
+Comment expliquer l'émergence du SEAE à travers
+une approche inspirée par les pratiques ? Tout d'abord
+en observant, comme le montre Christian Lequesne
+(2015), que la création du service est le résultat d'un
+compromis entre représentants de quatre institutions
+(la Commission européenne, le Parlement européen, le
+secrétariat général du Conseil de l'UE et les États
+membres) ayant chacune des pratiques
+professionnelles différentes, et attachant des
+significations différentes au terme
+«
+diplomatie
+
+
+européenne ».
+
+
+Deuxièmement, une fois le SEAE créé, l'étude des
+pratiques aide à observer l'émergence (ou non) d'une
+culture professionnelle commune au sein du SEAE. En
+particulier, il est toujours possible d'observer deux «
+
+
+groupes » au sein du SEAE : d'un côté, les anciens
+membres de la Commission ou du Conseil, de l'autre,
+les diplomates nationaux, chacun nourrissant des
+suspicions sur les compétences de l'autre. Les
+membres du premier groupe considèrent que les
+diplomates nationaux détachés au SEAE comprennent
+mal le fonctionnement de l'UE, et notamment les
+implications budgétaires de propositions de politiques
+publiques, tâches auxquelles ils ne se consacrent pas
+dans leurs ministères nationaux mais qui font partie de
+la compétence professionnelle d'un fonctionnaire
+européen. Les membres du second groupe considèrent
+que les membres du premier manquent de compétence
+dans l'écriture de rapports efficaces et pertinents sur
+des situations politiques précises (une
+tâche
+diplomatique classique). L'étude des pratiques permet
+aussi d'établir comment le travail diplomatique
+s'effectue au sein d'une diplomatie régionale,
+notamment des tâches comme la coordination des
+outils, le partage d'informations au sein du SEAE ou la
+réflexion stratégique sur les tâches et les rôles de la
+diplomatie européenne.
+
+
+L'étude des pratiques diplomatiques permet ainsi
+d'observer la manière dont une diplomatie régionale se
+construit, à travers une analyse empirique fine du
+quotidien de l'élaboration de cette diplomatie et des
+luttes symboliques dont elle est l'enjeu pour ceux-là
+mêmes qui la conçoivent et la mettent en œuvre.
+
+
+L'autorité internationale
+
+
+Récemment, l'étude de la supranationalisation de la
+diplomatie a connu des développements importants à la
+suite de la création et de la publication de nouvelles
+bases de données sur l'autorité internationale. Les
+
+
+travaux théoriques fondateurs sont ceux de Haftel et
+Thompson (2006), qui montrent que de nombreux
+chercheurs posent l'hypothèse d'un degré
+d'indépendance des fonctionnaires internationaux vis-à-
+vis des États, mais que ces études n'ont pas
+conceptualisé, ou mesuré, les caractéristiques
+institutionnelles formelles ou informelles permettant
+d'étayer l'hypothèse du degré d'autonomie. Cet appel à
+étudier de manière systématique les caractéristiques
+institutionnelles a été entendu et mis en œuvre par
+plusieurs groupes de recherche. En particulier, Liesbet
+Hooghe, Gary Marks et leurs collaborateurs, ainsi que
+l'équipe réunie autour de Michael Zürn ont attiré
+l'attention sur les manières de mesurer l'autorité des
+organisations internationales. Hooghe, Marks et leurs
+collaborateurs s'attachent à mesurer les degrés de
+délégation et de partage des ressources, tandis que
+Zürn et al. (2012) étudient la définition des règles, ainsi
+que leur surveillance, interprétation et mise en œuvre.
+
+
+Le néofonctionnalisme et les modèles principal-agent
+s'intéressent aux mécanismes par lesquels des acteurs
+supranationaux établissent une graduelle liberté
+d'action pour eux-mêmes. Il est donc important de
+connaître les préférences des États membres et des
+fonctionnaires internationaux en termes de contenus de
+politiques publiques ou de design des institutions.
+Comme la section précédente l'a montré, l'étude des
+pratiques se focalise sur la politique quotidienne de la
+diplomatie supranationale et la manière dont elle
+influence la politique internationale en général. Les
+travaux attirant l'attention sur l'autorité internationale
+se focalisent au contraire sur les pouvoirs et les
+fonctions dont disposent les fonctionnaires
+internationaux en termes absolus : le cœur de l'analyse
+n'est pas le type de diplomatie que les fonctionnaires
+internationaux conduisent (alignée ou non sur les
+
+
+États), mais le type de ressources dont ils disposent
+pour éventuellement conduire des politiques
+autonomes, ainsi que leur degré d'indépendance.
+
+
+Selon Hooghe et Marks (2014),
+l'autorité
+internationale doit être comprise et mesurée selon deux
+dimensions conceptuellement et empiriquement
+distinctes : la délégation et le partage des ressources.
+La délégation intervient quand les États souhaitent
+réduire les coûts de transaction liés à la coopération, et
+le partage des ressources est lié à la possibilité pour les
+États de garder leurs pouvoirs de veto. La délégation se
+mesure en observant l'existence et les compétences des
+secrétariats
+internationaux des organisations
+internationales, tandis que les indicateurs du partage
+de ressources comportent un maintien important ou
+non de capacités de veto pour les États durant les
+phases de prise de décision et de ratification, montrant
+ainsi l'autonomie plus ou moins large dont disposent les
+fonctionnaires internationaux. Par la délégation, ceux-ci
+peuvent aider les États à surmonter les problèmes de
+récurrence des mêmes sujets,
+maintenir leur
+engagement et fournir des informations : en d'autres
+termes, réduire les coûts de transaction.
+
+
+À partir de ces mesures empiriques, des auteurs ont
+analysé jusqu'à présent la manière dont le design
+institutionnel rend possible ou contraint l'autorité
+internationale (Hooghe et Marks, 2014), ou comment
+l'autorité internationale peut conduire à l'extension du
+champ de compétence d'une organisation
+internationale vers des domaines imprévus (Haftel et
+Hofmann, 2017). Pour leur part, Zürn et al. (2012)
+observent la manière dont de hauts niveaux d'autorité
+s'accompagnent d'une contestation, qui est l'expression
+d'un haut niveau de politisation. Grâce à cet agenda de
+recherche largement motivé par des questions
+empiriques, il sera possible de montrer la manière dont
+
+
+le SEAE va se développer au fil du temps, notamment
+sur les questions d'autorité déléguée et de partage de
+ressources.
+
+
+*
+
+
+Les différentes
+
+
+approches présentées dans се
+chapitre mettent l'accent sur des variables explicatives
+différentes, et ne partagent pas les mêmes fondements
+épistémologiques : des divergences importantes
+existent donc. Néanmoins, tous étudient la manière
+dont les interactions entre structures des organisations
+internationales, rôle des fonctionnaires internationaux
+et stratégies des États contribuent à redéfinir les
+contours de la diplomatie multilatérale. Certaines
+approches se concentrent plus sur le rôle des pratiques
+quotidiennes, d'autres s'intéressent aux <<< grandes
+décisions ». Certaines approches mettent l'accent sur
+des facteurs matériels, et d'autres sur des facteurs
+idéationnels. Ainsi, et sans minimiser les divergences
+épistémologiques, un degré de complémentarité des
+approches peut être envisagé. Des travaux s'inspirant
+de l'étude de l'autorité internationale (étudiant donc les
+possibilités institutionnelles
+à
+disposition des
+fonctionnaires internationaux) pourraient par exemple
+être compatibles avec une recherche sur les pratiques
+diplomatiques (étudiant la manière dont les
+fonctionnaires
+internationaux utilisent ces moyens
+institutionnels dans leur travail quotidien). La
+régionalisation de la diplomatie est ainsi un enjeu
+majeur à la fois pour les chercheurs et pour les
+praticiens.
+
+
+Bibliographie commentée
+
+
+ADLER Emmanuel, « The spread of security communities. Communities
+
+
+of practice, self-restraint, and NATO's post-cold war transformation
+>>, European Journal of International Relations, 2 (14), 2008, p. 195-
+230.
+
+
+Cet article illustre l'importance des communautés de pratique
+(groupe d'individus partageant les mêmes pratiques sociales) dans
+la création de la politique internationale.
+
+
+ADLER-NISSEN Rebecca, Opting out of the European Union. Diplomacy,
+Sovereignty and European Integration, Cambridge, Cambridge
+University Press, 2014.
+
+
+Ce livre montre la manière dont les exemptions nationales au
+processus d'intégration européenne (opt-outs) sont mises en œuvre
+par les diplomates britanniques et danois, et renforcent
+paradoxalement l'intégration au sein de l'UE.
+
+
+HAAS Ernst B., The Uniting of Europe, Palo Alto (Calif.), Stanford
+University Press, 1958.
+
+
+Livre fondateur pour l'étude de l'Union européenne et notamment
+les << effets de débordement  . Ces << effets de débordement >> ont
+lieu principalement car les fonctionnaires européens promeuvent
+une augmentation de leur compétence administrative du fait des
+effets d'interdépendance fonctionnelle.
+
+
+HAFTEL Yoram Z., HOFMANN Stephanie C., « Institutional authority and
+security cooperation within regional economic organizations »,
+Journal of Peace Research, online advanced publication.
+
+
+Dans cet article, Haftel et Hofmann démontrent que les
+fonctionnaires internationaux qui bénéficient d'une autorité
+déléguée et d'un partage des ressources sont capables de
+promouvoir des questions de sécurité et de les mettre à l'agenda
+d'organisations régionales à but économique.
+
+
+«
+
+
+HAFTEL Yoram Z., THOMPSON Alexander,
+The independence of
+international organizations. Concept and applications », Journal of
+Conflict Resolution, 2 (50), 2006, p. 253-275.
+
+
+Les auteurs présentent une mesure de l'indépendance des
+organisations internationales combinant de multiples dimensions
+inspirées des travaux précédents.
+
+
+HAWKINS Darren, JACOBY Wade, « How agents matter  , dans Darren
+Hawkins, David Lake, Daniel Nielson, Michael Tierney (eds),
+Delegation and Agency in International Organizations, Cambridge,
+Cambridge University Press, 2006.
+
+
+Dans ce chapitre, les auteurs attirent l'attention sur les stratégies
+que les fonctionnaires internationaux utilisent pour contourner les
+mécanismes de contrôle mis en place par les États. Certaines de
+ces stratégies sont très visibles, d'autres beaucoup plus discrètes.
+
+
+HOOGHE Liesbet, MARKS Gary,  Delegation and pooling in international
+organizations », Review of International Organizations, 10, 2014, p.
+305-328.
+
+
+Cet article est le premier d'une série de livres et d'articles
+présentant la base de données sur l'autorité internationale.
+
+
+JOHNSON Tana, « Looking beyond states. Openings for international
+bureaucrats to enter the institutional design process  , Review of
+International Organizations, 8, 2013, p. 499-519.
+
+
+Cet article est le premier d'une série et la base d'un livre
+démontrant que les fonctionnaires internationaux sont capables de
+mettre en avant certains types de design institutionnel au moment
+de la création d'une organisation internationale, mais seulement
+sous certaines conditions.
+
+
+LEQUESNE Christian, « EU foreign policy through the lens of practice
+theory. A different approach to the European external action service
+ , Cooperation and Conflict, 50 (3), 2015, p. 351-367.
+
+
+Cet article étudie la genèse et la mise en œuvre du SEAE à travers
+ses pratiques diplomatiques, montrant les différentes attentes et
+manières de travailler en fonction des socialisations
+professionnelles.
+
+
+«
+
+
+MÉRAND Frédéric, HOFMANN Stephanie C., IRONDELLE Bastien,
+Governance and state power. A network analysis of European
+security », Journal of Common Market Studies, 49 (1), 2011,  . 121-
+147.
+
+
+Les auteurs démontrent que les diplomates européens influencent
+les processus de prise de décision dans le champ de la sécurité
+européenne dans une certaine mesure, mais seulement
+coordination avec les diplomates nationaux basés à Bruxelles.
+
+
+en
+
+
+NEUMANN Iver, At Home with the Diplomats. Inside a European Foreign
+Ministry, Ithaca (N. Y.), Cornell University Press, 2012.
+
+
+Ce livre étudie la pratique de l'élaboration quotidienne des
+politiques publiques dans un ministère des Affaires étrangères.
+
+
+«
+
+
+NIELSON Daniel, TIERNEY Michael,
+Delegation to international
+organizations. Agency theory and World Bank environmental reform
+ , International Organization, 57, 2003, p. 241-276.
+
+
+Cet article basé sur la théorie  principal-agent > se focalise sur les
+longues chaînes de délégation. Celles-ci expliquent les divergences
+entre les préférences des États membres et le comportement des
+organisations internationales, mais présentent
+aussi des
+opportunités pour les États de maintenir le contrôle.
+
+
+POLLACK Mark, The Engines of European Integration. Delegation,
+Agency, and Agenda Setting in the EU, Oxford, Oxford University
+
+
+Press, 2003.
+
+
+Dans ce livre, l'auteur démontre la manière dont des acteurs
+supranationaux de l'UE tels que la Commission européenne, la
+Cour européenne de justice et le Parlement européen ont obtenu,
+utilisé et redéfini leurs pouvoirs délégués de manière variable.
+
+
+POULIOT Vincent, International Pecking Orders, Cambridge, Cambridge
+University Press, 2016.
+
+
+Ce livre étudie la manière dont les pratiques diplomatiques créent
+un ordre hiérarchique au sein du système international.
+
+
+SANDHOLTZ Wayne, STONE SWEET Alec (eds), European Integration and
+Supranational Governance, Oxford, Oxford University Press, 1998.
+Cet ouvrage collectif repose les bases d'une théorie
+néofonctionnaliste de l'intégration européenne en insistant sur
+l'interaction entre acteurs transnationaux et supranationaux.
+
+
+SCHMITT Olivier, <<< International organization at war. NATO practices in
+the Afghan campaign », Cooperation and Conflict, online first, 2017.
+Cet article étudie les pratiques diplomatiques à l'OTAN et leur
+influence sur la gestion de l'intervention militaire en Afghanistan. Il
+montre la hiérarchie implicite existant dans l'organisation, ainsi
+que le rôle du secrétariat international.
+
+
+SCHMITTER Philippe C., « A revised theory of regional integration »,
+International Organization, 24 (4), 1970,  . 836-868.
+
+
+Cet article constitue un développement du néofonctionnalisme en
+proposant de nouvelles hypothèses sur les mécanismes
+d'intégration régionale.
+
+
+SNIDAL Duncan, THOMPSON Alexander,  International commitments and
+domestic politics. Institutions and actors at two levels  , dans Daniel
+Drezner (ed.), Locating the Proper Authorities, Ann Arbor (Mich.),
+University of Michigan Press, 2003, p. 197-233.
+
+
+Ce chapitre étudie les interactions entre institutions internationales
+et domestiques, en montrant la manière dont les engagements
+internationaux contraignent la politique nationale.
+
+
+ZÜRN Michael, BINDER Martin, ECKER-EHRHARDT
+Matthias,
+<<
+International authority and its politicization », International Theory.
+A Journal of International Politics, Law and Philosophy, 4 (1), 2012,
+p. 69-106.
+
+
+Cet article combine les travaux sur la politisation de la prise de
+décision internationale avec des éléments issus des travaux sur
+l'autorité et la compétence croissante des organisations
+internationales.
+
+
+1. Nous utilisons indifféremment les termes << internationaux », « supra-
+étatiques  ou « supranationaux ».
+
+
+2. Haas reconnaissait néanmoins lui-même les limites de son approche.
+Les travaux des années 1970, tentant d'utiliser le néofonctionnalisme hors
+du contexte européen, ont conduit à souligner l'exceptionnalité de
+l'expérience européenne, notamment du fait qu'elle regroupait des pays
+démocratiques au niveau de vie élevé, et dont la sécurité était largement
+prise en charge par les États-Unis à travers une organisation dédiée
+(l'OTAN). De plus, l'Union européenne a finalement été rattrapée par un
+phénomène que Haas avait anticipé sa graduelle politisation. Les
+citoyens européens ont commencé à prêter attention à la manière dont
+l'Union européenne affectait leur vie, et les responsables politiques se
+sont rendu compte qu'ils pouvaient gagner ou perdre des élections sur
+des enjeux traités non plus au niveau de leur État, mais au niveau
+régional. Cette politisation a remis en cause le mécanisme explicatif
+néofonctionnaliste qui reposait largement sur une coopération discrète
+des fonctionnaires internationaux, des délégués nationaux et des
+représentants des groupes d'intérêt.
+
+
+Chapitre 11
+
+
+Diplomaties sub-
+
+
+étatiques :
+
+
+régions, parlements
+
+
+et collectivités locales
+
+
+Benjamin Puybareau, Renaud Takam
+Talom
+
+
+a diplomatie a longtemps été considérée comme le
+L
+<< domaine réservé » du souverain. À ce terme est
+associé l'idée d'États entretenant des relations entre
+eux, avec pour principes cardinaux l'égalité souveraine
+et la non-ingérence dans les affaires intérieures. Il
+s'agirait de la chasse gardée du pouvoir exécutif,
+représenté par les chefs d'État, de gouvernement, et
+les ministres des Affaires étrangères. Cette
+compréhension restrictive exclut de fait du champ
+
+
+diplomatique tout acteur ne possédant pas ce critère de
+la souveraineté. Ainsi, parler de diplomaties sub-
+étatiques pourrait paraître oxymorique au premier
+abord. Pourtant, force est de constater que cette vision
+classique et fort ancienne de la diplomatie est caduque
+et révolue. Depuis plusieurs décennies, l'État central
+perd progressivement son monopole sur l'activité
+extérieure et doit composer avec un nombre croissant
+de nouveaux acteurs qui investissent la scène
+internationale, parmi lesquels des entités territoriales
+sub-étatiques telles que les régions, les parlements
+locaux, les communes ou encore les municipalités. On
+parle alors de diplomatie sub-étatique, quand d'autres
+parlent de « paradiplomatie », de « protodiplomatie »,
+voire de diplomatie
+«
+à paliers multiples ». Ce
+foisonnement d'appellations n'est pas sans poser de
+problèmes et manifesterait même une forme
+d'incertitude face à un phénomène en pleine expansion
+mais encore mal appréhendé. Ces termes sont-ils
+synonymes ? Ont-ils un même référent ? Quels sont les
+modes de déploiement de ces nouvelles formes de
+diplomatie ? Nous procéderons d'abord à une
+clarification conceptuelle, afin d'analyser les
+spécificités des diplomaties sub-étatiques en les situant
+dans leur trajectoire historique. Nous mettrons ensuite
+en évidence les particularités des pratiques
+diplomatiques des trois principaux types d'acteurs sub-
+étatiques.
+
+
+Diplomatie
+définition,
+
+
+sub-étatique
+
+
+:
+
+
+trajectoire et instruments
+
+
+Le saisissement de l'international par les acteurs sub-
+étatiques est désigné par divers concepts selon les
+
+
+auteurs, et il est parfois difficile de déterminer
+véritablement les nuances et les différences. Ce
+foisonnement
+conceptuel, s'il peut marquer une
+richesse terminologique, peut prêter à confusion et
+souligne sans doute la difficulté à cerner un phénomène
+ondoyant.
+
+
+Qu'est-ce que la diplomatie sub-étatique ?
+
+
+La diplomatie sub-étatique désigne l'ensemble des
+activités extérieures entreprises par des entités infra-
+étatiques. C'est le moyen par lequel les régions, les
+parlements, les collectivités territoriales mettent en
+œuvre leurs agendas au-delà des frontières nationales.
+Certains parlent à ce sujet de paradiplomatie, de
+diplomatie à paliers multiples, de protodiplomatie ou
+encore de microdiplomatie.
+
+
+Diplomatie sub-étatique, paradiplomatie et protodiplomatie
+
+
+<<< Paradiplomatie » et « diplomatie sub-étatique » sont
+souvent utilisés de manière interchangeable. C'est
+précisément le cas lorsqu'on définit la paradiplomatie
+comme « les activités internationales des entités sub-
+étatiques » (Paquin, 2004, 17). Cependant, d'autres
+auteurs réduisent son horizon en la définissant comme
+« l'action extérieure des gouvernements infra-étatiques
+» (Massart-Pierard, 2005). Elle est, au sens de Soldatos
+Panayotis, « une poursuite directe et à divers degrés,
+de la part d'États fédérés, d'activités étrangères ». Il
+s'agirait alors de l'activité internationale des exécutifs
+des États fédérés.
+
+
+Un concept connexe également utilisé est celui de «
+protodiplomatie ». Ce terme décrit la << politique
+étrangère d'un État sub-étatique qui cherche à
+entreprendre une sécession ». Elle se distingue du
+précédent concept par son objectif qui est de passer de
+l'autonomie interne à la souveraineté internationale.
+
+
+Elle est plus conflictuelle car suppose des
+antagonismes entre l'exécutif fédéral et l'exécutif
+fédéré (Paquin, 2004, 17). Cette dynamique
+conflictuelle inhérente à la protodiplomatie semble
+exclure toute logique de concertation et donne l'image
+d'une politique étrangère à plusieurs vitesses.
+Cependant, l'un peut constituer un moyen pour
+atteindre l'autre. Autrement dit, la paradiplomatie
+classique peut déboucher sur une protodiplomatie.
+
+
+C'est dire que les deux concepts ne sauraient être
+considérés comme des synonymes du concept de
+diplomatie sub-étatique. Ils traduisent plutôt des
+spécificités d'un phénomène plus général. Dans ce
+sens, <<< paradiplomatie et protodiplomatie » sont
+utilisés pour décrire des phénomènes propres au
+système fédéral. Ce qui met en marge l'activité
+internationale entreprise par des acteurs infra-
+étatiques issus d'un système unitaire décentralisé. Par
+ailleurs, l'expression « gouvernement infra-étatique »
+est exclusive puisqu'elle n'intègre pas les actions
+extérieures menées dans divers cadres par les entités
+parlementaires. La paradiplomatie intègre donc
+l'espace de la diplomatie sub-étatique sans pour autant
+représenter tout le phénomène.
+
+
+Diplomatie sub-étatique, diplomatie parallèle
+et diplomatie à paliers multiples
+
+
+Il est aussi courant de rencontrer dans la littérature
+ces termes pour représenter l'investissement
+international des entités infra-étatiques. Dans une
+perspective comparative, la diplomatie parallèle
+suppose une conduite indépendante et non concertée
+de l'action extérieure portée par des entités infra-
+étatiques. Elle porte l'idée de l'éclatement de la
+politique étrangère d'un État. C'est notamment le cas
+lorsqu'un exécutif régional suit une ligne différente et
+
+
+même contradictoire par rapport à celle proposée par
+le gouvernement central.
+
+
+En revanche, l'idée de diplomatie à paliers multiples
+développée principalement par Brian Hocking (1993)
+présente l'activité extérieure d'un État comme une
+politique publique pensée et unifiée où différents
+acteurs nationaux et sub-nationaux négocient et
+s'accordent sur les orientations. Chacun des acteurs
+joue alors sa partition sans empiéter sur le domaine de
+l'autre. On se rapproche ici du partage de compétence
+en matière de politique étrangère. Cela traduit l'idée
+que les relations internationales des unités sub-
+nationales sont « le fruit de stratégies formellement
+élaborées et convergentes » (Gagnon et Palard, 2005).
+La politique étrangère, comme les autres politiques
+publiques, n'échappe pas à la dynamique de
+redistribution des rapports nationaux de pouvoirs entre
+les autorités centrales et les autorités locales : les
+rapports de pouvoir, initialement hiérarchiques, sont
+désormais « reliés dans un partenariat de négociation
+entre les échelons de pouvoir et les différents acteurs
+de politique interne » (Nagelschmidt, 2005). Cette
+approche appelle deux remarques. D'abord, elle tend à
+réduire l'émancipation des acteurs infra-étatiques et la
+perspective concurrentielle pour mettre l'accent sur la
+coopération dans la mise en œuvre d'une politique
+publique. Ensuite, elle présuppose la prépondérance du
+système diplomatique de l'État central ; les acteurs
+sub-étatiques sont simplement intégrés à un système
+préexistant, et agissent sous le contrôle du
+gouvernement central. Cette conception tend à
+nuancer, voire à nier une quelconque « autonomie »
+aux acteurs infra-étatiques. Ces deux derniers concepts
+décrivent moins l'activité extérieure des acteurs infra-
+étatiques que les rapports que ces derniers ont avec les
+autorités centrales. L'objectif est alors d'appréhender
+
+
+les relations que les divers acteurs entretiennent, plus
+que le contenu même de la diplomatie sub-étatique.
+
+
+Diplomatie sub-étatique : trajectoire historique
+et principaux catalyseurs
+
+
+L'incursion des entités sub-nationales au niveau
+supranational n'est pas un phénomène nouveau.
+Nombre d'auteurs s'accordent pour situer le
+développement de celle-ci au lendemain de la seconde
+guerre mondiale. Cependant, l'intensité du phénomène
+et l'élargissement de l'horizon d'activité semblent
+néanmoins bien récents et apparaissent à la
+conjonction de divers facteurs dont la mondialisation,
+l'intégration régionale et la crise de l'État.
+
+
+La mondialisation et les processus d'intégration
+régionale constituent des enzymes essentiels au
+déploiement des activités internationales des entités
+sub-nationales. La mondialisation, caractérisée par la
+libre circulation des hommes, des biens et services, et
+par la révolution numérique, rend quasi inopérante la «
+frontière
+»,
+et impertinente la
+dichotomie
+intérieur/extérieur ». Les territoires nationaux sont
+continuellement traversés par des flux transnationaux,
+et les activités systématiquement déterritorialisées,
+dématérialisées. Dans cet environnement dynamique,
+les entités fédérées, régionales et municipales ont plus
+de facilités à nouer des contacts avec l'étranger.
+Utilisant les ressources du numérique, elles cherchent
+à améliorer la compétitivité de leur territoire et à
+conquérir de nouvelles parts de marché, des
+investissements internationaux. Quant à l'intégration
+régionale, elle entraîne la chute des différentes
+barrières, crée des cadres formels supranationaux de
+consultation des entités infra-étatiques et facilite
+d'ailleurs leur intégration dans la sphère
+internationale. Profitant de ce contexte favorable, les
+
+
+unités sub-étatiques développent des réseaux de
+relation, de solidarité avec d'autres entités nationales
+ou sub-nationales. Ces solidarités outrepassent le
+simple cadre de la « promotion économique » pour se
+développer sur les plans religieux, culturel, voire
+politique. Ainsi, la mondialisation, en offrant aux
+pouvoirs locaux toujours plus de possibilités, facilite
+leur autonomie voire leur émancipation des pouvoirs
+centraux, et accélère la fragmentation interne des
+États.
+
+
+Un autre enzyme non négligeable de l'investissement
+supranational des unités infra-étatiques est sans doute
+la fragmentation des États, << la transformation de
+systèmes politiques nationaux en étroit rapport avec la
+division territoriale du pouvoir » (Gagnon et Palard,
+2005) et l'exigence de nouveaux modes de gouvernance
+fondés sur « l'exercice partagé du pouvoir ». En effet,
+les gouvernements centraux, qu'il s'agisse des
+systèmes fédérés ou des systèmes unitaires
+décentralisés, accordent continuellement davantage de
+compétence voire d'autonomie aux entités infra-
+étatiques. C'est le localisme, entendu comme une forme
+de bonne gouvernance consistant à renforcer les
+attributions des autorités fédérées régionales,
+municipales. Ces entités cherchent par la suite à
+exercer leurs nouvelles compétences à tous les niveaux,
+y compris au-delà de leur frontière. Il s'agit de
+défendre ce qui est acquis, voire de conquérir de
+nouvelles compétences : « Plus nombreuses sont les
+compétences des entités sub-étatiques, plus les aspects
+de l'environnement international sont susceptibles
+d'interpeller les entités sub-étatiques » (Paquin, 2005).
+
+
+Le nationalisme est aussi un facteur à prendre en
+considération. En effet, plusieurs entités infra-étatiques
+investissent l'international pour marquer leur
+différence, affirmer leurs particularités vis-à-vis de
+
+
+l'État nation auquel elles appartiennent. On parle alors
+de << paradiplomatie identitaire », définie comme
+l'ensemble des actions entreprises à l'extérieur par un
+acteur infra-étatique dont le but est de « renforcer une
+identité régionale dans le cadre d'un pays multinational
+» (Paquin, 2005). Le déploiement international est alors
+un moyen de légitimer les velléités irrédentistes et la
+reconnaissance internationale. C'est dire que l'État
+semble faire face à une véritable concurrence des
+acteurs sub-nationaux sur la scène internationale. Cette
+concurrence fait dire à certains que l'État est supplanté
+sur la scène internationale par de nouveaux acteurs qui
+contribuent à rendre sa parole plus flottante, voire
+inaudible.
+
+
+Diplomatie sub-étatique et diplomatie classique :
+entre complémentarité, rivalité et résilience
+
+
+L'activité internationale des entités sub-nationales
+soulève de nombreux questionnements. Ainsi, faut-il
+voir en la diplomatie infra-étatique un « simple »
+renouvellement de l'art d'entretenir des rapports entre
+États ou une
+<<
+nouvelle forme de diplomatie »,
+remodelant en profondeur la gestion des affaires
+internationales dans ses principes, ses méthodes ?
+Quels rapports entre diplomatie classique et diplomatie
+sub-étatique ?
+
+
+Entre rupture et conflit
+
+
+Les entités sub-nationales introduisent à certains
+égards une véritable rupture dans les pratiques
+diplomatiques. Du point de vue stylistique, ces acteurs
+non conventionnels investissent la scène en faisant
+abstraction des apparats protocolaires, des rites et
+cérémonials, considérés comme consubstantiels à la
+diplomatie d'État. Leur style diplomatique est marqué
+davantage par la discrétion et la sobriété. Au
+
+
+traditionnel langage cadré et connoté, à la rigueur
+gestuelle, la diplomatie sub-étatique substitue une
+approche plus directe, moins empreinte de formalités.
+Par ailleurs, les acteurs sous-étatiques sont moins en
+quête de puissance que des partenaires avec lesquels
+ils peuvent développer des rapports économiques ou
+politiques. Ils préfèrent des
+approches moins
+agressives, consensuelles à la
+Realpolitik, où les
+moyens sont jugés à l'aune des fins. Jouissant d'une
+plus grande liberté, ils semblent plus à même de
+défendre les « biens publics internationaux », car peu
+enclins aux calculs stratégiques. Ils échappent ainsi au
+code de la diplomatie conventionnelle, cherchant
+davantage leur autonomie, la coopération que la force
+(Badie, 1998, 50).
+
+
+«
+
+
+De telles orientations entrent souvent en conflit
+ouvert avec les choix de politique étrangère opérés par
+les gouvernements centraux. On aboutit à une
+confusion » dans la mise en œuvre de la politique
+étrangère, avec des signaux discordants. D'aucuns y
+voient une « contre-diplomatie » ; une implosion de
+l'unité de la diplomatie et de la politique étrangère. La
+diplomatie étatique s'adapte de cette nouvelle
+présence, et finit par développer des stratégies de
+coopération.
+
+
+Résilience et coopération
+
+
+Mieux que s'adapter, la diplomatie étatique fait
+preuve d'une résilience remarquable. Nonobstant la
+forte concurrence des acteurs sub-nationaux sur la
+scène internationale, la diplomatie classique reste au
+cœur du système international. Elle constitue le moyen
+privilégié de « régulation des conflits internationaux »,
+de << préservation des équilibres géopolitiques
+(Cohen, 2005). Ainsi, seuls les États réunis au sein du
+Conseil de sécurité des Nations unies peuvent décider
+
+
+>>
+
+
+de l'utilisation de la force armée. Même les domaines
+dans lesquels la diplomatie sub-nationale est très active
+restent tributaires de l'engagement de la diplomatie
+classique. En effet, face à un enjeu global comme celui
+des changements climatiques, la diplomatie des villes
+et des régions a été plus que remarquable. Cependant,
+les États nations, par leur capacité d'engagement,
+étaient les seuls susceptibles de permettre une
+véritable réduction des gaz à effet de serre.
+
+
+Certains États, conscients de се que la
+paradiplomatie peut avoir une valeur ajoutée dans leurs
+stratégies internationales, s'accordent souvent avec les
+autorités sub-nationales. Elle peut aussi permettre à un
+État de s'exprimer implicitement sur des sujets sans
+pour autant en porter l'entière responsabilité. Fort de
+cela, l'État central ouvre quelquefois ses canaux
+diplomatiques aux entités internes. Il peut aussi y avoir
+une forme de répartition des compétences. Elle est
+même quelquefois consacrée par des lois. C'est le cas
+avec la Belgique qui, en vertu du principe « in foro
+interno, in foro externo » inscrit dans sa Constitution,
+reconnaît aux entités fédérées le droit d'exercer à
+l'extérieur du territoire les compétences qu'elles
+exercent sur le territoire national. Ce faisant, on
+remarque une véritable concertation et répartition des
+tâches. Dans cette lancée, le pouvoir fédéral belge a
+signé en 1994 avec les autorités fédérées un accord
+réglant les questions de représentation au sein des
+formations du conseil de l'Union européenne. Cet
+accord implique les entités fédérées dans le processus
+de prise de décision, mais définit aussi des situations
+particulières dans lesquelles les entités fédérées ont
+des compétences exclusives. Cette
+<<
+flexibilité
+institutionnelle » (Gagnon et Palard, 2005), si elle
+réduit les risques de conflit, n'est cependant pas une
+panacée. C'est du moins ce que démontre le blocage
+
+
+par les parlements wallons et de la communauté
+française du projet d'accord économique et commercial
+global UE-Canada (CETA) en octobre 2016. Ce projet
+d'accord, souhaité par l'exécutif fédéral, n'a pas reçu
+l'assentiment des parlementaires wallons, empêchant
+de fait la Belgique de ratifier le texte. Une situation qui
+remettait en cause un accord longuement négocié pour
+l'ensemble des pays membres de l'Union européenne
+(UE).
+
+
+Les diplomaties sub-étatiques :
+
+
+une
+
+
+diversité
+
+
+d'instruments
+
+
+d'acteurs
+
+
+et
+
+
+On ne peut parler de façon générale et indifférenciée
+de l'action diplomatique des entités sub-étatiques.
+Distinction doit être faite entre les collectivités
+territoriales des États unitaires et les entités étatiques
+réunies dans les États fédéraux. Il faut tenir compte
+également du mode de répartition des compétences et
+du mode d'exercice de la tutelle étatique, qui varient
+considérablement d'un État à un autre en fonction des
+particularismes historiques. Il faut prendre en
+considération enfin le type de pouvoir impliqué dans
+ces échanges diplomatiques : pouvoir exécutif, s'il
+s'agit d'un gouvernement local, ou pouvoir législatif,
+s'il s'agit d'un parlement régional.
+
+
+Dans le cadre de ce chapitre, nous nous penchons
+successivement sur trois
+types
+d'acteurs de la
+diplomatie sub-étatique : les gouvernements des
+régions, les parlements et les collectivités locales.
+Chacun de ces acteurs se caractérise par des pratiques
+diplomatiques qui lui sont propres.
+
+
+La diplomatie des régions
+
+
+Parmi les différents types d'acteurs sub-étatiques, les
+régions - comprises ici comme les entités fédérées ou
+les territoires disposant d'un statut d'autonomie
+spécifique dans certains États unitaires (comme la
+Catalogne en Espagne) sont les premières à avoir
+engagé une diplomatie parallèle à celle des États et à
+avoir attiré l'attention des chercheurs. C'est pourquoi
+la diplomatie des régions est celle qui est le plus
+souvent associée au terme « paradiplomatie », d'autant
+plus qu'elle est parfois le fait d'entités fédérées qui
+revendiquent une plus grande autonomie sur la scène
+internationale, voire leur indépendance.
+
+
+Principaux acteurs et intensité de la diplomatie des régions
+
+
+Au début du $XXI^{e}$ siècle, certains spécialistes
+avançaient le chiffre de 350 entités régionales actives
+sur le plan international. Les provinces canadiennes,
+les États américains, les Länder allemands et les
+cantons suisses ont intensifié leur présence
+internationale à partir des années 1960, bientôt
+rejoints par les Länder autrichiens, les régions et les
+communautés belges, les États australiens et les
+communautés autonomes espagnoles (Paquin, 2005,
+131). On trouve également des exemples de diplomatie
+régionale en Asie du Sud-Est, en Asie centrale, en
+Amérique latine et en Afrique. Les situations de ces
+régions sont très variables d'un pays à l'autre, voire
+parfois à l'intérieur d'un même pays. En raison de
+l'intensité et de l'extensivité du phénomène, il est
+difficile de décrire celui-ci de manière homogène.
+L'ambition, le poids réel ainsi que les formes de la
+politique internationale des entités régionales varient
+grandement d'un exemple à l'autre. Ainsi, le budget
+annuel que le Québec accorde à sa politique
+internationale équivaut à celui de la moitié de tous les
+États américains. Celui de la Flandre représente pour
+
+
+sa part plus du double de celui de tous les États
+américains réunis (Paquin, 2005, 133).
+
+
+Les instruments
+
+
+Les formes que prend la politique étrangère des États
+fédérés sont nombreuses. En effet, à l'exception du
+recours à la force militaire, qui reste une prérogative
+exclusive de l'État souverain, la gamme des outils et
+instruments diplomatiques utilisés par les entités
+régionales est aussi large que celle des États. Les plus
+courants de ces instruments sont les réseaux de
+représentation et de délégation à l'étranger, qui
+permettent d'établir un contact permanent avec un
+pays, une région ou une institution internationale. Les
+réseaux des entités régionales peuvent parfois être plus
+importants que ceux de certains États souverains.
+Ainsi, parmi les régions les plus actives sur la scène
+internationale, la Flandre compte aujourd'hui une
+centaine de représentations à l'étranger, la Catalogne
+une cinquantaine et le Québec 26. $\dot{A}$ titre de
+comparaison, Israël en compte une centaine, la Côte
+d'Ivoire, la Finlande et la Corée du Nord une
+cinquantaine.
+
+
+ententes
+
+
+>>
+
+
+Des traités, accords ou
+«
+peuvent
+également être négociés entre ces régions ou entre une
+région et un État souverain. Le Québec, très actif sur
+ce plan, a conclu plus de 755 ententes internationales
+dont 388 sont toujours en vigueur, comme l'entente
+franco-québécoise sur la reconnaissance des
+qualifications professionnelles, signée en 2008, ou
+encore l'entente portant sur le développement de la
+coopération en recherche industrielle et en innovation
+technologique, signée en 2017 avec Israël.
+
+
+Par ailleurs, certaines régions participent, au sein de
+la délégation de leur pays, à des rencontres dans de
+grandes organisations et institutions internationales
+
+
+telles que l'Organisation des Nations unies (ONU),
+l'Organisation mondiale du commerce (OMC) ou encore
+l'Union européenne. Parfois, une entité fédérée peut
+même être membre de plein droit d'une organisation
+internationale, comme le Québec au sein de
+l'Organisation internationale de la francophonie (OIF),
+ce qui permet d'influencer directement des décisions
+dans de nombreux domaines.
+
+
+Les missions d'étude et de prospection à l'étranger, le
+financement de campagnes de relations publiques pour
+accroître leurs exportations et attirer les
+investissements, l'organisation de visites officielles
+pour accueillir des leaders d'autres pays ou régions, ou
+encore la mise en place d'institutions de coopération
+régionales ou transrégionales complètent cette liste
+non exhaustive des instruments utilisés par les régions
+pour accroître leur influence sur le plan diplomatique.
+
+
+La diplomatie parlementaire des régions
+
+
+La diplomatie est traditionnellement considérée
+comme un privilège de l'exécutif, un domaine dans
+lequel le pouvoir législatif a peu d'influence et de
+leviers d'action. L'argument souvent utilisé pour
+justifier cette répartition des rôles est l'opposition
+entre la délibération, qui est « le fait de plusieurs », et
+la négociation, qui est « le fait d'un seul » (Maus, 2012,
+14). Mais si, à l'origine, les relations internationales
+constituaient un domaine dans lequel la marge de
+manœuvre des Parlements était limitée, ces derniers
+ont réussi progressivement à investir ce champ. En
+effet, de nombreux parlements entretiennent
+aujourd'hui des liens avec l'extérieur, que ce soit dans
+un cadre bilatéral ou au sein d'institutions
+parlementaires multilatérales. Bien connue pour sa
+fonction législative et de contrôle des actions du
+gouvernement à l'échelle interne,
+l'institution
+
+
+parlementaire connaît ainsi un rôle en plein essor sur la
+scène internationale, au point qu'on peut
+incontestablement parler aujourd'hui d'activités
+internationales des parlements. Depuis une trentaine
+d'années, ces activités qu'ils mènent en marge et en
+complément de la diplomatie gouvernementale
+constituent ce qu'il est convenu d'appeler la
+diplomatie parlementaire ». Même si la littérature
+académique sur la diplomatie parlementaire est encore
+peu développée et si sa définition suscite encore
+interrogations et débats (Maus, 2012), sa pertinence en
+tant qu'objet de recherche se confirme lorsque l'on
+constate que le concept est couramment utilisé par de
+nombreux politiciens et fonctionnaires parlementaires à
+travers le monde.
+
+
+La diplomatie parlementaire est un objet d'étude
+intéressant parce qu'elle n'est pas l'apanage des
+parlements d'États souverains. En effet, à côté d'une
+diplomatie parlementaire supranationale, qui prend
+notamment forme dans des institutions telles que
+l'Union interparlementaire ou l'Assemblée
+parlementaire de l'organisation du traité de
+l'Atlantique nord (OTAN), s'est développée
+diplomatie des parlements régionaux. Les parlements
+régionaux coexistent avec les parlements nationaux et
+ils se complètent, les premiers se concentrant sur les
+grands dossiers nationaux alors que les seconds
+exercent une autorité décentralisée pour légiférer dans
+les domaines d'importance locale ou régionale.
+
+
+une
+
+
+Le développement d'une diplomatie parlementaire
+des entités régionales s'explique en partie par le
+principe de séparation des pouvoirs, qui interdit aux
+gouvernements des États souverains de s'immiscer
+dans les affaires des parlements des régions qui les
+constituent. Ces dernières sont donc libres d'investir ou
+non la scène internationale. L'absence de hiérarchie
+
+
+dans les relations interparlementaires est également un
+facteur explicatif de l'existence de ce qui est parfois
+qualifié de << paradiplomatie parlementaire » : de
+nombreuses
+organisations
+parlementaires
+internationales ouvrent leurs portes à des parlements
+régionaux en tant que membres à part entière. Ainsi, la
+communauté française de Belgique et le Québec sont
+membres de l'Assemblée parlementaire de la
+francophonie (APF), au même titre que le Canada, la
+France ou le Luxembourg.
+
+
+Les parlements connaissent une multitude de canaux
+à travers lesquels ils échangent avec l'extérieur. On
+peut les diviser en deux catégories : les canaux
+bilatéraux et les canaux multilatéraux.
+
+
+Les canaux bilatéraux (groupes d'amitié, visites, rencontres)
+
+
+Parmi les formes que peuvent prendre les échanges
+diplomatiques entre parlements, les groupes d'amitié
+sont sans doute la plus fréquente. Il s'agit d'un groupe
+ayant pour but de tisser des relations diplomatiques
+avec les parlementaires d'un État ou d'une région
+donnée, à travers des échanges, des missions, des
+colloques, l'entretien d'un réseau d'influence ou encore
+des interactions entre des personnalités et ces groupes.
+Un groupe d'amitié essaye généralement d'organiser
+une mission à l'étranger au cours d'une mandature ou
+d'accueillir au moins une fois des représentants du
+pays ou de la région auquel il est lié. Ces échanges de
+missions ont pour objectif de renforcer les liens
+personnels, de mieux faire connaître sa région et de
+mieux connaître un pays ou une région, mais il est
+difficile de dresser le bilan d'activité des groupes
+d'amitié et d'évaluer leur impact réel (Maus, 2012).
+
+
+Les premiers groupes d'amitié recensés sont nés
+après la première guerre mondiale, avec la création à
+la Chambre des députés d'un groupe France-Grande-
+
+
+Bretagne afin d'établir des liens d'amitié et de
+solidarité entre les parlementaires anciens combattants
+des assemblées concernées. En ce qui concerne les
+parlements régionaux, on pourra citer notamment en
+exemple le groupe d'amitié France-Québec, qui a été
+formé en 1986 et à travers lequel l'Assemblée nationale
+du Québec a créé avec l'Assemblée nationale et le
+Sénat français des liens privilégiés. Plus récemment, un
+groupe parlementaire helvético-catalan a créé l'émoi en
+Espagne. En avril 2016, trois parlementaires suisses
+ont en effet pris l'initiative de créer un groupe d'amitié
+parlementaire afin $d^{\prime}\ll$ attirer l'attention du Conseil
+fédéral sur la question catalane ».
+
+
+Plus rarement, des parlements peuvent également
+créer des commissions interparlementaires, avec pour
+objectif de développer les actions de coopération
+menées conjointement par chaque assemblée. Ainsi, la
+commission interparlementaire franco-québécoise,
+créée en 1979 et composée de cinq députés québécois
+et de cinq députés français, se réunit tous les ans
+alternativement en France et au Québec pour échanger
+sur l'actualité politique et sur des thèmes définis à
+l'avance.
+
+
+se
+
+
+Outre les groupes d'amitié et les commissions
+interparlementaires, les visites et rencontres entre
+parlementaires de différents pays et régions
+multiplient ces dernières années, encouragées par la
+mondialisation et la facilité des communications (Maus,
+2012). Généralement, c'est le président de l'Assemblée
+nationale et le président du Sénat qui incarnent cette
+forme de diplomatie parlementaire. Les présidents des
+assemblées parlementaires reçoivent ainsi de
+nombreuses personnalités effectuant un voyage officiel
+ou une visite d'État, tandis qu'eux-mêmes se rendent
+fréquemment à l'étranger, à titre également officiel,
+pour rendre visite à leurs homologues ou renforcer les
+
+
+liens entre parlements. Là encore, il est difficile de
+juger de l'influence et de la portée de ce type de
+rencontre, la part de l'entretien protocolaire étant
+souvent assez importante.
+
+
+Les canaux multilatéraux
+
+
+La coopération interparlementaire, c'est-à-dire
+les
+différentes actions qui contribuent, d'une manière ou
+d'une autre, à la diplomatie parlementaire, passe
+notamment par
+les assemblées parlementaires
+internationales. Ces organisations multilatérales se
+caractérisent par leur grande diversité, tant sur leurs
+intérêts thématiques, leurs objectifs, leurs structures
+que leurs méthodes de travail. La doyenne de ces
+assemblées parlementaires internationales est l'Union
+interparlementaire qui, depuis 1889, fait office
+d'organisation mondiale des parlements des États
+souverains. Mais dans la liste des organisations au sein
+desquelles les parlements des entités sub-étatiques
+sont particulièrement actifs, on pourra citer notamment
+l'APF ou la Conférence des assemblées législatives
+régionales européennes (Calre). Parmi les membres de
+plein droit de l'APF, organe consultatif de la
+francophonie dont les objectifs vont du rayonnement de
+la langue française à la promotion de la démocratie et
+des droits de l'homme, on trouve ainsi le canton du
+Jura, le canton de Vaud, le Québec, Manitoba, la
+Nouvelle-Écosse ou encore l'Ontario. La
+Calre réunit
+pour sa part les présidents des
+assemblées
+parlementaires régionales qui ont en commun de
+disposer de pouvoirs législatifs et d'appartenir à des
+États membres de l'Union européenne, notamment les
+communautés autonomes d'Espagne, les régions
+d'Italie, les régions et communautés de Belgique, les
+Länder autrichiens et les Länder allemands. Ses
+objectifs vont de la promotion du rôle des parlements
+
+
+régionaux au sein de l'Union européenne à la défense
+des valeurs et principes de la démocratie régionale et à
+la promotion de la coopération et de l'échange
+d'expériences entre ses membres.
+
+
+La diplomatie des collectivités locales
+
+
+Le terme de « collectivité locale » peut avoir des
+significations légèrement différentes en fonction de la
+culture politique et du degré de centralisation des
+États. Dans le monde anglophone, on parlera plutôt de
+local government. Nous utiliserons ici une définition
+assez générale qui comprend les collectivités locales
+comme toute partie du territoire d'un État qui dispose
+d'une certaine autonomie de gestion  même partielle  ,
+certaines compétences lui étant dévolues par l'État
+dans un processus de décentralisation. Les collectivités
+locales peuvent notamment être des communes ou
+municipalités, des départements, des cercles ou des
+régions (s'il s'agit d'un État unitaire).
+
+
+diplomatie territoriale
+
+
+»,
+
+
+Parfois qualifiée de
+«
+l'action diplomatique de ces collectivités trouve son
+origine dans la politique des jumelages franco-
+allemands née au lendemain de la seconde guerre
+mondiale, et dont l'objectif était la réconciliation. En se
+penchant sur les jumelages noués entre communes de
+part et d'autre du Rhin, des chercheurs ont mis en
+avant le poids des acteurs privés et des associations
+locales pour faire advenir un rapprochement durable
+entre les deux pays, illustrant dès sa création le rôle
+important que pouvait être amené à jouer cette
+diplomatie territoriale.
+
+
+Favorisée par la globalisation et le processus
+d'intégration européenne depuis les années 1980,
+l'action internationale des collectivités locales s'est
+largement développée ces dernières décennies. Elles
+sont de plus en plus nombreuses à agir sur la scène
+
+
+mondiale, dans des domaines très divers. Certaines
+communes vont par exemple développer des stratégies
+économiques au niveau international. D'autres, comme
+la ville de San Francisco, vont sanctionner un pays qui
+ne respecte pas les droits de l'homme.
+
+
+Au-delà des relations bilatérales nouées avec d'autres
+collectivités locales étrangères, dans le cadre d'abord
+des jumelages puis, plus largement, de la coopération
+décentralisée (un terme qui désigne toutes les relations
+d'amitié, de jumelage ou de partenariat nouées entre
+les collectivités locales de différents pays), les
+gouvernements locaux s'associent aujourd'hui dans de
+multiples réseaux internationaux, comme l'Association
+internationale villes et ports (AIVP), le Réseau mondial
+des villes portuaires, ou Cités et gouvernements locaux
+unis (CGLU), la principale organisation mondiale de
+villes jumelées qui agit notamment dans les domaines
+de la démocratie locale, de la décentralisation et de la
+coopération décentralisée. Ces collectivités et ces
+réseaux sont aujourd'hui en quête de reconnaissance
+internationale auprès d'organisations régionales et
+d'organisations internationales. Ainsi, CGLU est engagé
+dans différents partenariats avec l'ONU et certaines de
+ses agences.
+
+
+La « diplomatie des villes » constitue une catégorie
+particulière de « diplomatie territoriale » qui, par sa
+vitalité, attire singulièrement l'attention des
+chercheurs (Viltard, 2010). Lors de la première
+conférence mondiale organisée sur ce thème à La Haye
+en 2008, CGLU, la ville de La Haye et l'Association des
+communes néerlandaises se sont mis d'accord sur la
+définition suivante : « La diplomatie des villes est l'outil
+des gouvernements locaux et de leurs associations en
+vue de la promotion de la cohésion sociale, de la
+prévention des conflits, de la résolution des conflits et
+de la reconstruction post-conflit, dans le but de créer
+
+
+un environnement stable dans lequel les citoyens
+peuvent vivre ensemble dans la paix, la démocratie et
+la prospérité. » Cette définition présente donc la
+résolution des conflits et la construction de la paix
+comme des objectifs fondamentaux de la diplomatie des
+villes. Depuis la fin des années 1990, le nombre
+d'autorités locales qui ont apporté leur soutien à des
+villes affectées par un conflit violent est en constante
+augmentation. Des contacts ont été établis et des liens
+créés avec des villes de l'ex-Yougoslavie, de Palestine,
+d'Israël, de Colombie, du Sri Lanka, ou encore d'Irak et
+d'Afghanistan, avec pour objectif d'aider la démocratie
+à progresser dans ces zones. Cette évolution est peu à
+peu reconnue à l'échelle internationale : des
+organisations de l'ONU et des ONG invitent de plus en
+plus les collectivités locales à participer à leurs efforts
+de construction de la paix.
+
+
+Il est intéressant de souligner à cet égard que les
+objectifs pacifistes, universalistes et
+«
+droit-de-
+l'hommiste » que les collectivités locales donnent à leur
+action internationale sont identiques à ceux auxquels
+les États souscrivent habituellement dans le cadre des
+organisations internationales (Viltard, 2010, 595). À
+l'inverse de la « paradiplomatie » de certaines entités
+fédérées, la « diplomatie territoriale » des collectivités
+doit s'entendre avant tout comme un prolongement de
+la diplomatie étatique au niveau local. Elle se construit
+d'ailleurs en coopération et en complémentarité avec la
+politique étrangère de l'État central. Les collectivités
+locales, dépourvues de compétences régaliennes, «
+sont dans l'obligation de promouvoir des valeurs
+universelles de paix et de solidarité pour pouvoir
+prétendre agir dans un partenariat avec les États et
+
+
+participer à la régulation de
+international » (Viltard, 2010, 604).
+
+
+l'ordre
+
+
+politique
+
+
+Néanmoins, dans certains rares cas, une diplomatie
+locale peut émerger pour protester contre la politique
+étrangère de l'État central. Aux États-Unis par
+exemple, l'action internationale des collectivités
+territoriales s'est beaucoup développée à la suite d'une
+mobilisation des populations locales pendant les années
+1980 contre la politique internationale de Ronald
+Reagan. Certaines municipalités ont ainsi boycotté des
+investissements jugés non éthiques dans certains pays
+ou ont favorisé l'accueil des réfugiés illégaux fuyant les
+conflits en Amérique latine. Plus récemment, des
+centaines de villes américaines faisaient partie des
+signataires d'une déclaration remise au secrétaire
+général de l'ONU, dans laquelle elles s'engageaient à
+respecter les objectifs de l'Accord de Paris sur le
+climat, peu après la décision de Donald Trump de
+retirer les États-Unis de ce traité.
+
+
+*
+
+
+sub-étatiques
+
+
+se
+
+
+En définitive, les diplomaties
+caractérisent avant tout par leur diversité. Le
+foisonnement de concepts qui cherchent à décrire ce
+phénomène hétérogène témoigne de la pluralité des
+acteurs, des formes et des instruments qui le
+constituent. Mais qu'elles soient initiées par des
+régions, des parlements locaux ou des collectivités
+territoriales, les diplomaties sub-étatiques trouvent une
+cohérence et une unité dans l'idée d'une remise en
+cause du monopole étatique dans le domaine de la
+politique internationale. En cela, elles s'inscrivent en
+droite ligne avec les dynamiques internationales
+contemporaines de mondialisation et de régionalisation
+qui conduisent à l'effacement progressif de l'État
+westphalien face à un nombre croissant de nouveaux
+acteurs.
+
+
+Bibliographie commentée
+
+
+COHEN Samy, « Les États face aux nouveaux acteurs », Politique
+internationale, 107, 2005,  . 409-424.
+
+
+Cette contribution questionne la pertinence de la diplomatie sub-
+étatique. L'auteur montre que les États, en dépit de la présence de
+nouveaux acteurs, restent maîtres de la scène internationale, les
+acteurs sub-étatiques renforçant par leurs activités la
+prépondérance de l'État nation.
+
+
+«
+
+
+GAGNON Bernard, PALARD Jacques,
+Relations internationales des
+régions et fédéralisme. Les provinces canadiennes dans le contexte
+de l'intégration nord-américaine  , Revue internationale de politique
+comparée, 12 (2), 2005.
+
+
+Les auteurs s'intéressent à la diplomatie des régions dans un
+contexte politique particulier la double inscription des provinces
+canadiennes dans un processus d'intégration régionale et dans un
+mouvement de mondialisation des échanges.
+
+
+HOCKING Brian, Localizing Foreign Policy. Non-Central Governments
+and Multilayered Diplomacy, Basingstoke, Palgrave Macmillan,
+1993.
+
+
+Brian Hocking conteste les concepts de paradiplomatie ou de
+protodiplomatie, créés selon lui afin de renforcer la distinction et
+les éléments de conflits entre l'État central et les entités sub-
+étatiques. Dans cet ouvrage, il affirme que la diplomatie ne peut
+pas être considérée comme un processus segmenté entre les
+acteurs mais doit plutôt être analysée comme un système où
+s'enchevêtrent les acteurs au sein d'une structure étatique. Ainsi, il
+est préférable, pour Hocking, de parler de « diplomatie catalytique
+>> ou de << diplomatie à paliers multiples ».
+
+
+HOCKING Brian, « Les intérêts internationaux des gouvernements
+régionaux: désuétude de l'interne et de l'externe ? », Études
+internationales, 253, 1994,  . 409-420.
+
+
+Brian Hocking synthétise ici les principaux apports de son ouvrage
+de 1993, en insistant particulièrement sur les impératifs de
+coopération entre les gouvernements centraux et les
+gouvernements régionaux, et sur le fait que le nouvel
+environnement politique à plusieurs paliers crée de nouveaux types
+de rôles et de relations sur la scène internationale.
+
+
+LACHAPELLE Guy, MALTAIS Bruno, « Diversité culturelle et stratégie sub-
+étatiques: le cas du Québec », Revue internationale de politique
+comparée, 12 (2), 2005.
+
+
+Dans cet article, les auteurs étudient le rôle du Québec dans le
+processus qui a mené l'Unesco à préparer un avant-projet de
+
+
+convention sur la protection de la diversité des contenus culturels
+et des expressions artistiques. Selon eux, ce cas illustre comment
+les entités sub-étatiques ont pu développer, à travers les
+mécanismes de la coopération internationale, leurs propres réseaux
+de soutien.
+
+
+MAUS Didier, « Le cadre institutionnel de la diplomatie parlementaire »,
+Parlement[s]. Revue d'histoire politique, 1 (17), 2012,  . 14-36.
+
+
+Cette contribution décrit les spécificités, le cadre institutionnel et
+les instruments de la diplomatie parlementaire, en accordant une
+attention particulière au cas français. L'auteur n'aborde pas
+spécifiquement le sujet des parlements locaux mais le texte permet
+de comprendre les ressorts de l'activité de ces derniers sur la
+scène internationale.
+
+
+MCHUGH James T., « Paradiplomacy, protodiplomacy and the foreign
+policy aspirations of Quebec and other Canadian provinces »,
+Canadian Foreign Policy Journal, 21 (3), 2015, p. 238-256.
+
+
+S'inscrivant dans une perspective réaliste, James T. Hughes affirme
+que si la « paradiplomatie » et la « protodiplomatie  ne peuvent
+être assimilées à de la diplomatie au sens classique du terme, elles
+fournissent néanmoins des outils permettant de faire avancer des
+objectifs diplomatiques. L'auteur montre en quoi ces derniers
+bénéficient simultanément au Canada et à ses provinces, en
+particulier au Québec, à la fois à l'échelle régionale et à l'échelle
+globale.
+
+
+NAGELSCHMIDT Martin, « Les systèmes à niveaux multiples dans les
+régions transfrontalières en Europe. Le cas du Rhin supérieur et des
+nouvelles coopérations à la frontière est de la RFA », Revue
+internationale de politique comparée, 12 (2), 2005, p. 223-236.
+L'émergence de systèmes européens à niveaux multiples est
+analysée ici à l'aide de l'exemple de la coopération transfrontalière
+dans la vallée du Rhin supérieur. L'introduction de cette notion de <<<
+système à niveaux multiples  dans l'étude de la diplomatie sub-
+étatique renouvelle sans doute la compréhension de l'évolution du
+phénomène.
+
+
+PAQUIN Stéphane, Paradiplomatie identitaire en Catalogne, Laval,
+Presses de l'université de Laval, 2003.
+
+
+Stéphane Paquin, spécialiste du phénomène paradiplomatique,
+montre dans cet essai que le développement d'une paradiplomatie
+identitaire, dont l'objectif est le renforcement de la nation
+minoritaire au sein d'un État, n'est pas forcément synonyme de
+conflits. L'auteur s'appuie sur le cas de la Catalogne, qui a réussi à
+consolider ses relations avec l'extérieur tout en favorisant une
+normalisation de ses relations avec le gouvernement espagnol.
+
+
+PAQUIN Stéphane, Paradiplomatie et relations internationales. Théorie
+des stratégies internationales des régions face la mondialisation,
+Bruxelles, PIE/Peter Lang, 2004.
+
+
+Cette monographie offre une analyse très complète du phénomène
+paradiplomatique. L'auteur revient sur les origines du concept et
+étudie ses formes et sa place dans les relations internationales.
+
+
+PAQUIN Stéphane, « Les actions extérieures des entités sub-étatiques :
+quelle signification pour la politique comparée et les relations
+internationales ? », Revue internationale de politique comparée, 12
+(2), 2005, р. 129-142.
+
+
+Dans cet article, Stéphane Paquin explique en quoi le phénomène
+paradiplomatique est important dans l'étude des relations
+internationales. Il met en évidence la marge d'autonomie, les
+nombreuses ressources et l'influence des acteurs sub-étatiques sur
+la scène internationale.
+
+
+VILTARD Yves,  Diplomatie des villes : collectivités territoriales et
+relations internationales  , Politique étrangère, 3, 2010,  . 593-604.
+Cet article constitue une excellente introduction à la thématique de
+la << diplomatie des villes  . L'auteur revient sur l'identité spécifique
+des collectivités territoriales sur la scène internationale et
+s'intéresse plus particulièrement à l'internationalisation des
+grandes métropoles. Il analyse l'émergence de formes de
+diplomatie << locales  à la fois isomorphes et complémentaires de
+l'action des États.
+
+
+Chapitre 12
+
+
+La diplomatie des acteurs
+non étatiques
+
+
+Auriane Guilbaud
+
+
+U
+
+
+ne firme transnationale comme Total, une ONG
+comme Médecins sans frontières (MSF), une
+fondation privée comme la fondation Bill et Melinda
+Gates sont des acteurs internationaux : leurs activités
+s'effectuent à l'échelle transnationale (par exemple, la
+fondation Gates mène des projets de développement
+dans plus de cent pays), ils influencent l'agenda
+international (ainsi de MSF appelant les États à se
+mobiliser contre l'épidémie d'Ebola en Afrique de
+l'Ouest en 2014), mais peut-on pour autant dire qu'ils
+déploient des activités diplomatiques et mettent en
+œuvre une véritable diplomatie ?
+
+
+La diplomatie est traditionnellement comprise comme
+la conduite des relations extérieures d'un État, la mise
+
+
+en œuvre de sa politique étrangère, avant tout par
+l'intermédiaire de la négociation, à l'exclusion de la
+guerre et des opérations militaires. Le « diplomate
+gouvernemental » remplit trois fonctions principales :
+de représentation, de communication (information et
+observation) et de négociation. Cette définition s'inscrit
+dans le cadre d'une « approche interétatique » (Devin,
+2016, 217), qui voit dans les États les acteurs
+principaux du système international interagissant par
+l'intermédiaire de deux figures structurantes des
+relations internationales chères à Raymond Aron : le
+soldat, qui intervient en temps de guerre, et le
+diplomate, qui représente l'État en temps de paix
+(Aron, 1962).
+
+
+Cette conception restrictive de la diplomatie a été
+affinée sur plusieurs points, en particulier par la mise
+en évidence de l'existence d'un continuum dans la
+conduite des relations extérieures d'un État. Ainsi, les
+activités de négociation continuent en temps de guerre,
+et la diplomatie mobilise des techniques qui vont de la
+persuasion à la coercition. Non seulement la menace de
+l'utilisation de la force fait partie des instruments
+mobilisables par le diplomate, mais le champ de
+l'activité
+diplomatique
+s'est également
+considérablement élargi, au-delà de la question de la
+guerre et de la paix. Aujourd'hui, la diplomatie est
+davantage conçue comme « l'art de répondre à tout
+problème lié aux effets de séparation et de distinction
+entre espaces de souveraineté proclamée » (Badie,
+2008), et comprend aussi bien la résolution de conflits
+territoriaux que les négociations climatiques, en
+passant par celles sur l'annulation ou
+le
+rééchelonnement de la dette des États. De nombreux
+acteurs autres que les États s'impliquent désormais
+dans l'« art de répondre » à des problèmes mondiaux.
+
+
+Une érosion de la conception purement régalienne de
+la diplomatie s'est produite à la fin du $XX^{e}$ siècle avec la
+multiplication et la diversification des acteurs des
+relations internationales et la redécouverte, notamment
+grâce à des travaux d'historiens, de la contingence
+historique du monopole de l'État sur la diplomatie. Des
+acteurs dits non étatiques, comme des ONG, firmes
+transnationales, groupes criminels, peuples
+autochtones, acteurs religieux, think tank, fondations
+privées, etc., peuvent mener des activités
+diplomatiques de représentation, de négociation, de
+collecte d'information. Les exemples sont très
+nombreux, mais on peut prendre celui de la
+communauté de San't Egidio, organisation catholique
+qui œuvre
+
+
+entre autres dans le domaine de la
+résolution de conflits, et a mené des activités de
+médiation et de négociation dans le cadre de la
+résolution de la guerre civile au Mozambique en 1992,
+ou, ces dernières années, en République centrafricaine.
+
+
+Différents concepts ont été forgés pour rendre
+compte de cette ouverture de la diplomatie. Diamond et
+McDonald (1996) parlent de <<< diplomatie à voies
+multiples », système où différents types d'acteurs
+négocient parallèlement, dans des enceintes distinctes :
+les gouvernements et dirigeants de groupements quasi
+gouvernementaux (comme des mouvements rebelles)
+négocient officiellement dans la
+<<
+voie 1 », les
+représentants d'institutions influentes (organisations
+politiques, religieuses, institutions académiques, etc.)
+sont inclus dans les négociations dites de « voie 2 »,
+tandis que les négociations de « voie 3 » réunissent des
+acteurs « de terrain », comme des ONG locales, des
+représentants de communautés, etc. Wiseman (2010)
+évoque, lui, la « diplomatie polylatérale » pour rendre
+compte de la conduite de relations entre des entités
+
+
+étatiques (État ou organisation intergouvernementale)
+et des entités non étatiques. Ces relations ont un
+caractère systémique, c'est-à-dire
+qu'elles sont
+marquées par la régularité et la réciprocité, notamment
+dans le domaine de l'échange d'information et la
+communication, la représentation, la négociation, mais
+n'impliquent en aucun cas une reconnaissance mutuelle
+en tant qu'entités souveraines.
+
+
+Certains acteurs souhaitant être reconnus comme
+État ou gouvernement d'un État (groupes
+sécessionnistes ou rebelles par exemple) peuvent être
+qualifiés de quasi étatiques plutôt que de non étatiques.
+Cette situation de contestation du pouvoir « étatique »
+d'un gouvernement est la marque des guerres civiles
+par exemple, dont la résolution est un objet important
+de l'activité diplomatique. Mais de par leur volonté de
+se voir reconnue une qualité étatique et leur prise en
+compte par la diplomatie « traditionnelle », ces acteurs
+sont exclus du champ d'étude de ce chapitre, tout
+comme les entités supra et infra-étatiques (qui restent
+organiquement liées à l'État), ainsi que les individus,
+dont le cas est traité dans un autre chapitre.
+
+
+Néanmoins, la catégorie d'acteurs non étatiques
+reste poreuse, car elle se contente d'une définition par
+la négative. Englobant tout acteur collectif organisé (au
+sens d'entité dotée d'une certaine autonomie, d'une
+identité et de ressources propres, qui dispose donc de
+la capacité d'agir pour poursuivre ses intérêts
+spécifiques) qui n'est pas un État ou constitué d'États
+(une organisation internationale intergouvernementale
+comme l'ONU), elle reste très hétérogène. Cette
+dénomination n'a en outre de sens que dans une
+conception interétatique de la scène internationale, au
+sein de laquelle seuls les États, sujets de droit
+
+
+international, ont un rôle clairement défini – conception
+qui émerge en Europe au $XVII^{e}$ siècle.
+
+
+Pourtant, depuis 1945, le nombre et la visibilité de
+ces acteurs non étatiques se sont accrus, sous
+l'influence de trois phénomènes principaux : la
+démocratisation des États (qui donne davantage de
+liberté d'association aux individus), la révolution de
+l'information et de la communication (qui accroît la
+capacité des individus et des groupes à se mobiliser), et
+le soutien croissant des organisations internationales
+intergouvernementales qui les associent à leurs
+activités (Devin, 2016, 149). Ils ont non seulement
+bouleversé le jeu diplomatique, obligeant les États à les
+prendre en compte, mais ont également développé des
+activités diplomatiques propres, parfois sur délégation
+des États, parfois en concurrence ou en opposition avec
+eux. Quelle est la nature de ces activités diplomatiques
+? Assiste-t-on à un renouvellement des pratiques
+diplomatiques ? Forment-elles un système tel que l'on
+puisse parler de diplomatie des acteurs non étatiques ?
+
+
+Après avoir analysé la constitution puis l'érosion du
+monopole diplomatique régalien, nous étudierons les
+activités diplomatiques perpétuées et les pratiques
+renouvelées par les acteurs non étatiques, avant de
+nous intéresser à l'adaptation des diplomaties
+gouvernementales et aux limites à la formation d'un «
+système diplomatique » des acteurs non étatiques.
+
+
+Constitution et érosion
+
+
+du
+
+
+monopole
+
+
+régalien
+
+
+diplomatique
+
+
+Sous différentes formes, les relations internationales,
+c'est-à-dire les relations entre des entités politiques
+
+
+distinctes, sont aussi anciennes que l'existence de
+collectivités humaines, mais c'est à partir du moment
+où se stabilise l'existence d'agencements politiques
+indépendants et où s'installent des relations régulières
+entre eux qu'il est possible de parler de la conduite de
+relations extérieures par l'intermédiaire de la
+diplomatie, ce qui se produit dès l'Antiquité (Allès et
+Guilbaud, 2017). La distinction étatique/non étatique
+quant à elle commence à prendre son sens à partir du
+$XVII^{e}$ siècle, lorsqu'un nouvel ordre politique européen
+naît de la guerre de trente ans (1618-1648). Des États
+dits modernes se consolident alors, avec une
+concentration des pouvoirs (politiques, économiques,
+religieux) dans les mains de chefs d'État qui établissent
+peu à peu un monopole sur la conduite des relations
+extérieures.
+
+
+Les activités diplomatiques des acteurs non étatiques
+sont donc très anciennes, et se développent du $XVII^{e}$ au
+$XIX^{e}$ siècle parallèlement et en lien avec la
+consolidation des États modernes. Ces activités
+diplomatiques peuvent être
+propre compte
+(lorsqu'ils
+extérieures
+>>
+à
+maintenir),
+politiques (États, cités-États,
+distinction entre les deux ne soit forcément claire.
+
+
+menées soit pour leur
+ont des
+relations
+soit pour des entités
+empires...), sans que la
+
+
+La découverte des Amériques, les progrès dans les
+moyens de transport (navigation, puis chemin de fer) et
+de communication (perfectionnement de l'imprimerie)
+permettent des contacts accrus entre sociétés. Ainsi, la
+compagnie des Jésuites, ordre religieux catholique,
+arrive en Chine à la fin du $XVI^{e}$ siècle, et au moins deux
+de ses membres participent aux négociations entre la
+Chine et la Russie pour la délimitation de frontières
+entre les deux pays (traité de Nerchinsk, 1689). De
+nouvelles entités se développent également, comme les
+
+
+différentes compagnies européennes des Indes
+orientales. Créées au XVIIe siècle¹, elles peuvent être
+vues comme des « proto-multinationales » autorisées
+par les souverains à commercer avec des puissances
+étrangères. Ils donnaient à ces firmes le pouvoir de les
+représenter pour négocier avec des autorités locales
+et/ou d'autres États des routes et des échanges
+commerciaux. Un des enjeux des négociations était
+notamment l'établissement de zones où le droit
+européen serait reconnu sur les questions
+commerciales (respect des contrats, etc.) (Pigman,
+2013). Par exemple, la Compagnie des Indes orientales
+néerlandaise est, de 1639 à 1799 (date de sa
+dissolution), la seule compagnie étrangère autorisée
+par les autorités japonaises à effectuer du commerce
+avec le Japon par l'intermédiaire de l'île artificielle de
+Dejima située dans la baie de Nagasaki. Son directeur
+était traité comme le représentant d'un État,
+effectuant, avec une petite délégation néerlandaise,
+une visite annuelle au Shogun (chef politique), à Edo
+(capitale, ancien nom de Tokyo).
+
+
+Néanmoins, à partir du $XIX^{e}$ siècle, le monopole
+étatique sur la conduite des relations extérieures
+s'affirme grâce à la professionnalisation et à la
+bureaucratisation de la diplomatie. Ses trois fonctions
+principales (représentation, observation-information,
+négociation) sont désormais confiées à des
+diplomates gouvernementaux professionnels », qui ne
+sont plus seulement des représentants accrédités
+ponctuellement mais des agents qui effectuent toute
+leur carrière au sein de l'administration des affaires
+étrangères. En France par exemple, des arrêtés sont
+pris en 1800 afin de définir les droits des agents des
+affaires étrangères (recrutement,
+rémunération,
+avancement), premier pas de la transformation des «
+
+
+commis » des affaires étrangères, soumis au pouvoir
+royal, en agents de la fonction publique (Outrey, 1953,
+499). Des interactions avec des acteurs non étatiques
+continuent d'exister, en particulier dans le domaine de
+l'échange d'information, mais elles sont centralisées
+par les États. Cet « âge d'or
+de la diplomatie
+traditionnelle est marqué par la primauté accordée aux
+relations entre États, une culture du secret et un
+caractère élitiste.
+
+
+Les deux guerres mondiales et le développement du
+droit humanitaire viennent transformer ces pratiques
+diplomatiques et donner une nouvelle importance à la
+diplomatie des acteurs non étatiques. Dès 1918, le
+Président américain Woodrow Wilson plaide pour une «
+diplomatie ouverte
+»,
+davantage transparente,
+multilatérale, à rebours des pratiques secrètes et
+bilatérales qui n'avaient pu empêcher des conflits
+meurtriers. Cette diplomatie renouvelée, qui pourrait
+même conduire à impliquer les peuples à travers une «
+diplomatie publique », permet l'implication d'acteurs
+non étatiques, mieux à même de s'adresser aux
+sociétés et à l'opinion publique (rôle des médias, des
+associations culturelles, sportives, etc.). Le fait que la
+Charte des Nations unies reconnaisse dès 1945 que le
+Conseil économique et social (Ecosoc, un des organes
+de l'ONU) « peut prendre toutes dispositions utiles
+pour consulter les organisations non gouvernementales
+qui s'occupent de questions relevant de sa compétence
+» (chapitre X, article 71) va jouer un rôle de catalyseur
+à cet égard (les ONG ayant un statut consultatif auprès
+de l'Ecosoc passent de 40 en 1946 à plus de 4 000
+aujourd'hui). Enfin, les conflits meurtriers des $XIX^{e}$ et
+$XX^{e}$ siècles ont également
+d'associations humanitaires,
+international de la Croix-Rouge, formé en 1863 par des
+
+
+entraîné la création
+comme le Comité
+
+
+citoyens suisses autour d'Henry Dunant afin de porter
+secours aux victimes des conflits. Ses interventions
+requièrent des actions diplomatiques de négociation
+avec les parties au conflit, que ce soit lors de la guerre
+franco-prussienne de 1870 ou aujourd'hui, en Syrie par
+exemple.
+
+
+Depuis 1945, l'accélération des flux transnationaux et
+la densification des interdépendances à l'échelle
+mondiale ont entraîné une transformation des modes
+d'action internationale, avec une prédilection pour un
+fonctionnement en partenariat avec des acteurs non
+étatiques désormais reconnus « parties prenantes »
+(stakeholders) des politiques publiques mondiales.
+Celui-ci est par exemple explicitement promu par les
+Objectifs du millénaire pour le développement (2000-
+2015) puis par les Objectifs du développement durable
+(2015-2030) qui fixent les orientations de la diplomatie
+en matière de développement. Parallèlement, les États
+ont connu une transformation de leur fonctionnement
+administratif,
+notamment avec l'application de
+principes du « nouveau management public » visant à
+une réorganisation bureaucratique selon un calcul
+coût/efficacité. L'action étatique se caractérise
+désormais par davantage de délégations à des acteurs
+extérieurs pour mener des actions de service public, et
+traditionnellement régaliennes, par l'intermédiaire de
+contractualisation sous la forme de partenariats public-
+privé par exemple. La plus grande circulation des
+individus et la multiplication des contrats courts
+(stages, contrats temporaires à durée déterminée), y
+compris au sein des administrations régaliennes
+comme les Affaires étrangères, contribuent également
+à la diffusion des pratiques diplomatiques entre
+différents types d'acteurs. C'est désormais dans ce
+cadre que des acteurs non étatiques déploient des
+activités diplomatiques.
+
+
+Activités
+
+
+perpétuées
+
+
+diplomatiques
+
+
+et pratiques renouvelées
+
+
+Les acteurs non étatiques mènent toujours des
+activités diplomatiques
+«
+classiques
+de
+représentation, de communication (information et
+observation) et de négociation. Ce qui a changé par
+rapport à la manière dont ils les menaient auparavant,
+au XVIIe siècle par exemple, est la régularité, la
+visibilité et la reconnaissance parfois institutionnalisée
+de ces activités.
+
+
+Le changement le plus saillant a peut-être trait à leur
+participation aux négociations internationales. Celle-ci
+ne concerne plus seulement leur consultation pour la
+phase de mise en œuvre des décisions adoptées, mais
+leur inclusion dans les processus menant à la création
+de normes internationales. Des ONG comme Handicap
+international ou Human Rights Watch ont ainsi
+participé au lancement d'une campagne internationale
+pour interdire les mines terrestres, premier pas vers
+l'adoption, en 1997, de la Convention d'Ottawa sur
+l'interdiction des mines antipersonnel. Ces ONG ne se
+sont pas contentées d'actions médiatiques pour mettre
+le sujet à l'agenda international et convaincre certains
+États (Canada, Allemagne...) de porter leurs demandes
+d'interdiction par un traité, elles étaient présentes lors
+des conférences de négociations, aux côtés d'experts et
+de personnes de la société civile (victimes des mines
+par exemple).
+
+
+La légitimité de la participation des acteurs non
+étatiques aux négociations internationales repose en
+effet sur leurs capacités d'expertise, qui leur
+permettent de fournir des informations reconnues
+comme nécessaires au bon déroulement des
+
+
+négociations, et sur leur fonction de représentation des
+populations (organisations de la société civile
+représentant
+les intérêts sectoriels de groupes
+d'individus, organisations à but lucratif défendant des
+intérêts commerciaux liés aux intérêts des
+consommateurs ou des actionnaires par exemple). Si la
+qualité ou le bien-fondé de cette fonction de
+représentation fait parfois débat (cf. infra), les
+négociations internationales sont désormais ouvertes à
+la prise en compte explicite d'intérêts divers, qui ne
+s'expriment plus seulement par l'intermédiaire des
+États.
+
+
+Avec l'augmentation des flux mondiaux
+(commerciaux, d'informations, de données, etc.) et la
+densification des interdépendances, de plus en plus
+d'acteurs non étatiques mènent des activités
+diplomatiques pour leur propre compte et développent
+des structures organisationnelles à cette fin. En effet, à
+partir du moment où un acteur non étatique a des
+activités transnationales, il doit interagir avec de
+multiples interlocuteurs et représenter ses intérêts.
+Firmes, ONG, fondations privées bien dotées en
+ressources financières développent des bureaux ou des
+départements
+pour gérer ces relations
+(bureau/département des « relations gouvernementales
+» ou des « affaires publiques » généralement) qui sont
+de véritables équivalents des ministères des Affaires
+étrangères des États. Les firmes transnationales ont
+l'habitude de négocier avec d'autres acteurs pour
+obtenir l'accès à des marchés, des licences
+d'exportation/d'importation ou gérer des crises, mais
+ces relations avec les gouvernements, les organisations
+internationales ou régionales, et la société civile se sont
+multipliées. En 2010, Total a ainsi regroupé différents
+départements au sein d'une « direction des affaires
+publiques », qui gère les relations internationales,
+
+
+européennes, et avec les ONG de la firme. La fondation
+Bill et Melinda Gates, quant à elle, compte 1 400
+employés répartis entre le siège à Seattle et les
+bureaux de Washington D.C., New Delhi, Londres,
+Beijing, Addis Abeba, Abuja et Johannesburg. Ceux-ci
+mènent des programmes internationaux à travers trois
+départements de la fondation : « Développement
+mondial », « Santé mondiale » et « Global policy and
+advocacy », soit un département des relations
+extérieures qui établit des relations avec les
+partenaires de la fondation (gouvernements, experts en
+politiques publiques, philanthropes...). La fondation
+Gates est par ailleurs le second contributeur du budget
+de l'Organisation mondiale de la santé, à hauteur de 18
+%, derrière les États-Unis. Cela lui donne une place
+importante au sein de l'organisation, lui permettant de
+pousser certaines priorités sanitaires comme peuvent
+le faire les États membres ainsi, ses financements
+sont principalement dirigés vers le programme de
+l'Organisation mondiale de la santé (OMS) de lutte
+contre la poliomyélite. Les acteurs non étatiques
+peuvent également être à l'origine de l'organisation de
+sommets pour discuter de problèmes mondiaux, comme
+le Forum économique mondial, formé par 1 000
+grandes entreprises, qui organise chaque année le
+sommet de Davos (auquel des représentants de
+gouvernements viennent assister) ou le Forum social
+mondial, qui réunit, lui, la société civile.
+
+
+Est-ce à dire que les acteurs non étatiques se
+comportent désormais comme des États dans le
+domaine de la diplomatie ? Si on retrouve des activités
+diplomatiques et des structures similaires, on peut
+noter le développement de pratiques nouvelles, avec
+l'usage d'outils de négociation propres par exemple.
+Ainsi, les ONG peuvent mener une diplomatie
+coercitive, non par l'intermédiaire des instruments
+
+
+classiques que sont les sanctions économiques ou la
+menace de l'usage de la force, réservées aux États,
+mais par le shaming/la dénonciation, le boycott. Les
+acteurs non étatiques ont également davantage recours
+aux outils de la diplomatie publique : diffusion
+d'information, campagnes d'affichage, appels à
+l'opinion publique grâce à l'utilisation des médias et
+réseaux sociaux sur internet. Cette diplomatie non
+étatique se pratique également en réseau : formation
+de coalitions d'ONG, mouvements sociaux
+transnationaux, associations d'entreprises, etc. Ainsi,
+c'est grâce à l'établissement de liens entre un groupe
+de lobbying américain, l'Intellectual Property
+Committee (constitué de douze dirigeants de grands
+groupes américains des secteurs pharmaceutiques et
+chimiques, des nouvelles technologies de l'information
+et de la communication et du divertissement), et des
+associations d'entreprises japonaises et européennes
+que ces firmes ont pu élaborer à la fin des années 1980
+une position commune qui forme la base de négociation
+de l'accord sur les Aspects des droits de propriété
+intellectuelle liés au commerce (Adpic), adopté par les
+États membres de l'OMC.
+
+
+L'adaptation
+
+
+des
+
+
+gouvernementales
+
+
+diplomaties
+
+
+et les limites de la délégation
+sans souveraineté
+
+
+Les États se sont dans une certaine mesure adaptés à
+ces activités diplomatiques accrues des acteurs non
+étatiques. Le Danemark a ainsi annoncé la création
+d'un « ambassadeur du numérique » afin de gérer les
+relations du royaume avec les entreprises du
+
+
+numérique de la Silicon Valley (Google, Airbnb,
+Facebook, Netflix, Apple...), assimilant finalement ces
+entreprises à un nouvel État, avec lequel le pays
+devrait entretenir des relations diplomatiques. Anne-
+Marie Slaughter, universitaire américaine et directrice
+de la planification politique du département d'État
+d'Hillary Clinton (2009-2011), estime quant à elle que
+cette adaptation est incomplète, que l'organisation en
+réseaux d'acteurs non étatiques n'a pas suffisamment
+été prise en compte, et que l'enjeu est désormais de les
+intégrer à des réseaux étatiques (Slaughter, 2016).
+
+
+Dans la grande majorité des cas, les États se sont
+contentés d'ouvrir certains lieux aux acteurs non
+étatiques, comme les grandes conférences mondiales
+des Nations unies. Par exemple, les conférences dites «
+Sommets de la Terre
+>>
+pour promouvoir le
+développement durable (Stockholm, 1972 ; Rio, 1992;
+Johannesburg, 2002; Rio+20, 2012) rassemblent un
+nombre très élevé d'acteurs non étatiques (environ 10
+000 en 2012). Les réunions des organes directeurs des
+organisations internationales (assemblées annuelles
+des
+
+
+conseils
+s'ouvrent
+
+
+États membres, réunions des
+d'administration ou bureaux exécutifs)
+également à leur présence, limitée néanmoins au statut
+d'observateur. Par exemple, à la suite d'une réforme
+adoptée en 2016, l'OMS a développé un cadre
+d'engagement avec les acteurs non étatiques,
+reconnaissant également un statut aux entreprises, aux
+fondations privées et aux institutions académiques
+distinct de celui, déjà existant, des ONG. Cette
+présence dans les enceintes internationales se marque
+non seulement par la participation aux négociations
+(notamment en amont, lors des réunions préparatoires,
+cf. supra), mais aussi par l'organisation d'événements
+parallèles ou side-events (près d'une centaine sont par
+exemple organisés chaque année à l'occasion de
+
+
+l'Assemblée mondiale de la santé, réunion annuelle des
+États membres de l'OMS à Genève), voire de contre-
+conférences (comme le Sommet des peuples pour la
+justice sociale et environnementale organisé par et
+pour la société civile en 2012 lors de Rio+20). Au-delà
+de la création de liens avec les diplomates
+gouvernementaux, l'organisation de ces événements
+parallèles et contre-conférences
+encourage le
+développement d'activités diplomatiques propres aux
+acteurs non étatiques et leur organisation en réseaux
+pour mettre sur pied les structures et trouver les
+financements qui permettront la tenue de ces
+événements.
+
+
+Mais les États ont également créé de nouvelles
+institutions internationales au caractère hybride, au
+sein desquelles siègent des acteurs non étatiques, avec
+parfois le droit de vote, c'est-à-dire de prendre des
+décisions au même titre qu'un État. Le Fonds mondial
+de lutte contre le sida, la tuberculose et le paludisme
+par exemple, est un mécanisme de financement pour
+lutter contre ces trois maladies (autrement dit, il
+mobilise, gère et distribue des fonds mais n'est pas une
+organisation de terrain exécutant des programmes)
+créé en 2001 sur le modèle d'un partenariat public-
+privé. Cela signifie que la participation des acteurs non
+étatiques est envisagée dès sa conception (en
+décembre 2001, une trentaine de représentants de
+grandes entreprises Pfizer, Merck, Novartis, GSK,
+AngloAmerican, ExxonMobil, etc. participe d'ailleurs
+à
+une réunion de travail sur la structure de
+l'organisation) (Guilbaud,
+
+
+2015). Le conseil
+d'administration du Fonds mondial, « organe suprême »
+de l'organisation d'après les statuts du Fonds mondial
+révisés en 2016, se compose de 20 membres votants : 7
+représentants des pays en développement (PED), 8
+représentants des pays donateurs, 5 représentants de
+
+
+la société civile et du secteur privé (1 ONG des PED, 1
+ONG des pays développés, 1 fondation privée, 1
+entreprise du secteur privé et 1 représentant des
+communautés vivant avec les malades). Ces
+représentants sont choisis par les parties prenantes
+(constituencies) de chaque secteur (ONG, entreprises,
+etc.), qui définissent une procédure pour ce faire. Au
+sein du Fonds mondial, les acteurs non étatiques sont
+donc amenés à mettre en place une véritable
+diplomatie afin de participer (discussions en amont au
+sein des groupes pour désigner un représentant au
+conseil, élaboration des positions de négociation, de
+vote, etc.).
+
+
+C'est également le cas au sein du Comité de la
+sécurité alimentaire mondiale (CSA) qui, à la différence
+du Fonds mondial, est un comité des Nations unies,
+créé en 1974 et réformé en 2009 pour que puissent y
+participer des acteurs non étatiques. Les organisations
+de la société civile et du secteur privé siègent au sein
+du groupe consultatif, l'organe stratégique du CSA, ce
+qui leur permet d'intervenir lors des réunions et dans
+les groupes de travail thématiques, de contribuer à la
+préparation des ordres du jour, de présenter des
+documents et des propositions. Cette participation
+s'effectue de manière autonome, par l'intermédiaire
+d'un « mécanisme de la société civile » et d'un «
+mécanisme du secteur privé » qui organisent la
+coordination et la consultation de leurs membres. Par
+exemple, le mécanisme de la société civile réunit des
+organisations réparties en 11 <<< secteurs sociaux » :
+petits agriculteurs, petits éleveurs, pêcheurs
+artisanaux, peuples autochtones, travailleurs agricoles
+et de l'industrie alimentaire, paysans sans terre,
+femmes, jeunes, consommateurs, populations urbaines
+en situation d'insécurité alimentaire et ONG. Elles
+élisent ensuite chacune un membre au sein du comité
+
+
+de coordination, qui prend les décisions politiques. La
+mise en place de ce mécanisme a demandé un
+important travail diplomatique : instauration de
+relations régulières et suivies entre les membres,
+mécanismes de coordination (essentiellement par
+internet), élaboration d'un intérêt commun, discussions
+sur la représentativité (ainsi, les ONG ne constituent
+qu'une partie de la société civile, aux côtés de
+représentants
+des travailleurs, des peuples
+autochtones, etc.). Toutefois, ni les organisations de la
+société civile, ni celles du secteur privé ne détiennent
+le droit de vote, compétence réservée aux États.
+
+
+Ce n'est pas seulement le fait des États membres, qui
+souhaiteraient garder leurs privilèges d'acteurs
+internationaux au sein des Nations unies. Certaines
+organisations de la société civile n'y sont pas
+favorables, argumentant qu'elles ne représentent que
+des intérêts sectoriels, que seuls les États peuvent
+représenter l'ensemble de leur population, et qu'il est
+nécessaire de ne pas diluer la responsabilité des États
+qui sont ensuite chargés de respecter et d'implémenter
+les décisions prises au sein du CSA. Ce cas est
+intéressant, car il met en évidence une des limites à
+l'institutionnalisation de la participation des acteurs
+non étatiques au sein des arènes diplomatiques : le
+problème de la représentation, lié à celui de la
+responsabilité et de la « redevabilité », de la capacité à
+rendre des comptes aux individus représentés. Si les
+États ont pu déléguer certaines activités diplomatiques
+et reconnaître la légitimité de la participation d'acteurs
+non étatiques dans des instances internationales, si
+certains acteurs non étatiques ont pu développer une
+véritable diplomatie pour leur propre compte, afin de
+gérer et développer leurs relations transnationales, les
+limites de cette « délégation sans souveraineté
+continuent de se faire sentir.
+
+
+*
+
+
+L'activité diplomatique des acteurs non étatiques
+n'est pas un phénomène récent, et le monopole
+diplomatique régalien correspond davantage à un effet
+déformant d'analyses se concentrant sur la
+consolidation des Etats nations et de leurs appareils
+bureaucratiques. Ce qui l'est en revanche, c'est
+l'aspect systémique de ce phénomène : multiplication
+et diversification des acteurs non étatiques qui
+développent des activités diplomatiques, structuration
+de leurs organisations pour ce faire (création de
+départements
+dédiés aux relations extérieures,
+de représentants équivalents
+
+
+de
+
+
+nomination
+d'ambassadeurs,
+etc.),
+densification
+des
+interdépendances et donc régularité des interactions
+(des liens entre acteurs transnationaux : entre acteurs
+non étatiques, avec des États, etc.), et reconnaissance
+par les autres acteurs du système international
+(institutionnalisation de la participation des acteurs
+non étatiques dans les organisations internationales
+intergouvernementales, délégation des États dans le
+cadre de partenariats public-privé/procédures
+contractualisation, etc.). Ces évolutions légitiment
+l'existence d'une diplomatie des acteurs non étatiques,
+pour la promotion de leurs propres intérêts
+(commerciaux, sociaux, etc.), et qui se déploie à la fois
+en direction d'autres acteurs non étatiques et d'États.
+Parler de diplomatie des acteurs non étatiques implique
+donc de reconnaître que le système international n'est
+pas seulement interétatique, sans que ne soit pour
+autant résolue la question de la fragmentation de la
+représentation des individus entre différents types
+d'acteurs (États, mouvements sociaux, ONG, firmes...)
+alors que la souveraineté continue d'être détenue par
+les États.
+
+
+Bibliographie commentée
+
+
+ARON Raymond, Paix et guerre entre les nations, Paris, Calmann-Lévy,
+1962.
+
+
+Reconnu comme un classique des relations internationales, le livre
+propose une réflexion sociologique, philosophique et historique des
+interactions internationales.
+
+
+BADIE Bertrand, Le Diplomate et l'Intrus. L'entrée des sociétés dans
+l'arène internationale, Paris, Fayard, 2008.
+
+
+À partir d'une analyse du système international contemporain et de
+ses impasses, cet ouvrage montre comment l'irruption des sociétés
+vient bouleverser les logiques classiques des relations
+internationales. Il propose une réflexion sociologique sur les
+conditions qui pourraient permettre à ces sociétés d'imposer leurs
+préoccupations aux acteurs étatiques et supra-étatiques.
+
+
+DEVIN Guillaume, Les Organisations internationales, Paris, Armand
+Colin, 2016.
+
+
+Ce livre propose une lecture des organisations internationales, sous
+trois angles: celui de leur genèse, celui de leurs fonctions et celui
+de leur évolution dans le temps. Il situe le phénomène des
+organisations internationales dans leurs rapports au
+multilatéralisme et à la coopération internationale.
+
+
+DIAMOND Louise, MCDONALD John, Multi-Track Diplomacy. A System
+Approach to Peace, West Hartford (Conn.), Kumarian Press, 1996.
+L'ouvrage est célèbre pour son approche systémique de la
+résolution des conflits. Il analyse autant les acteurs que les types
+de processus mobilisés pour construire la paix.
+
+
+GUILBAUD Auriane, Business Partners. Firmes privées et gouvernance
+mondiale de la santé, Paris, Presses de Sciences Po, 2015.
+
+
+Ce livre montre comment les acteurs privés se sont
+progressivement insérés dans la gouvernance mondiale de la santé.
+Il est à la fois une sociologie des modes d'action et une étude
+historique sur les transformations des institutions internationales
+de la santé.
+
+
+1. Compagnie des Indes orientales anglaise, créée en 1600, néerlandaise
+en 1602, danoise en 1616, portugaise en 1628, française en 1664,
+suédoise en 1731.
+
+
+Chapitre 13
+
+
+Individu et diplomatie
+
+
+Pierre Grosser
+
+
+eir Dagan, à la tête du Mossad de 2002 à 2011,
+
+
+Merlinquette
+
+
+ le
+
+
+moral, en plus d'un effet pratique : « Je ne pense pas
+qu'il y avait tant de personnes qui auraient pu
+remplacer Napoléon, ou un Président comme
+Roosevelt, ou un Premier ministre comme Churchill »
+(cité par Bergman, 2018). Un calcul similaire est
+effectué pour justifier la décapitation des groupes
+terroristes; on cite volontiers le cas d'Abimael Guzman
+au Pérou, dont l'arrestation en 1992 a conduit au déclin
+rapide du groupe maoïste Sentier lumineux. En mai
+2011, le Time a mis en couverture la photo de Ben
+Laden barrée d'une croix rouge, comme le magazine
+l'avait fait en 1945 après la mort d'Hitler. Toute une
+littérature existe partant du « What if ? », et prenant
+
+
+comme point de bifurcation la disparition précoce d'un
+grand homme (Hitler assassiné), la non-disparition d'un
+autre (les Américains seraient-ils entrés en guerre au
+Vietnam si Kennedy n'avait pas été assassiné ?), ou
+bien la non-élection d'un autre (Gore, le candidat
+démocrate, aurait-il attaqué l'Irak s'il avait été élu en
+2000 et avait donc été président lors du 11 septembre
+2001 ?).
+
+
+En effet, la manière la plus traditionnelle d'aborder
+les relations internationales est de se concentrer sur
+les
+grands hommes. L'histoire fut longtemps la
+chronique de leurs faits et la peinture de leur
+caractère. En contrepoint, le réalisme classique, point
+de référence fréquent de la science politique, insiste
+sur leurs responsabilités. Incarnations de l'intérêt
+national, ils conduisent le navire que les passions
+populaires et les intérêts particuliers ne devraient pas
+faire dévier. Raymond Aron insistait sur l'importance
+des individus dans l'histoire, qui empêche toute science
+générale des relations internationales, et sur leurs
+passions qui mènent aux guerres. Le fardeau de la
+responsabilité ne pèse pas seulement sur le sommet de
+l'État; nombre de diplomates et de militaires ont dû
+prendre des décisions graves dans l'urgence, sans avoir
+d'instructions claires de leur hiérarchie.
+
+
+La philosophie a pourtant interrogé la toute-
+puissance du grand homme à faire l'histoire : soit celui-
+ci ne serait que le produit de forces profondes (comme
+la lutte des classes), soit il ne connaîtrait pas l'histoire
+qu'il fait, soit sa volonté de faire l'histoire produirait
+avant tout des drames (notamment au $XX^{e}$ siècle), soit
+enfin sa puissance serait désormais diluée dans le flot
+des actions de millions d'anonymes, qui votent,
+produisent, communiquent, et sont de plus en plus
+mobiles. De fait, des années 1950 aux années 1970,
+
+
+l'École des annales a raillé l'agitation des prétendus
+grands hommes qui ne représenteraient que l'écume
+d'une histoire faite dans les profondeurs du temps ou
+dans le rythme des vagues, notamment les cycles
+économiques. Structuralismes et analyses systémiques,
+notamment en science politique, ont privilégié l'unité
+qu'est l'État, les interactions entre ces unités, et le
+déterminisme du tout sur le particulier. Le mode de
+polarisation du système international contraindrait les
+choix de politique étrangère, voire les déterminerait.
+
+
+La « redécouverte » de l'individu intervient dans le
+cadre de la contestation de l'étatisme, de la crise du
+marxisme, de l'impasse du systémisme à expliquer les
+bifurcations et les surprises de l'histoire, et d'un
+postmodernisme promouvant l'indétermination de
+celle-ci. $\dot{A}$ partir des années 1970, les historiens
+redécouvrent les délices de la biographie et du narratif,
+les politistes ouvrent la boîte noire de l'État et
+s'intéressent à la psychologie politique, tandis que les
+sociologues se focalisent sur le sujet ou sur l'individu
+maximisant ses intérêts. Les appels adressés aux
+politistes pour qu'ils repensent le leader interviennent
+juste avant qu'un super empowered individual,
+Oussama Ben Laden, devienne l'homme le plus
+recherché après les attentats du 11 septembre, et que
+le président de la plus grande puissance mondiale,
+George W. Bush, se lance dans une « guerre de choix »
+en Irak, mais également après une génération de best-
+sellers américains prétendant enseigner, souvent par
+l'exemple, les secrets pour devenir un vrai leader dans
+les affaires et la société.
+
+
+L'individu devient un horizon du droit international,
+longtemps concentré sur les États. Le droit
+international pénal met en valeur la victime, mais
+surtout vise le bourreau en tant qu'individu
+responsable. Pour les historiens, la première guerre
+
+
+mondiale n'est plus le produit inévitable de forces
+profondes (militarisme, nationalisme ou impérialisme),
+ou l'engrenage fatal emportant des acteurs dépassés,
+mais le résultat de décisions et de non-décisions de
+dirigeants qui ont entraîné le monde dans l'abîme.
+L'histoire mondiale comme la microstoria se délectent
+d'individus significatifs dont on suit au mieux la trace.
+Le « charisme » du leader (et notamment d'Hitler) fait
+l'objet d'études renouvelées, tandis qu'on s'intéresse
+au « siècle des chefs » (Cohen, 2013), correspondant à
+la haute modernité de la première moitié du $XX^{e}$ siècle.
+
+
+Ce « retour » du grand homme reflète aussi une
+certaine nostalgie pour les grands architectes de
+l'ordre international et les hommes qui ont eu le
+courage de faire de grands pas pour la paix, comme
+Gorbatchev ou Rabin, en un temps où les conflits
+durent et où la compétition internationale semble
+renaître. En France, la nostalgie pour de Gaulle (voire
+Napoléon) chez les tenants d'un réenchantement de la
+présidence, et pour Jean Monnet chez les partisans
+d'une intégration européenne renforcée, témoigne de
+cette même demande. En France, Emmanuel Macron
+évoque une présidence jupitérienne, qui pourrait
+encore entraîner et faire rêver. Il existe en effet une
+demande d'héroïsme face à la gouvernance
+technocratique, admirée hors du monde politique
+(sportifs, notamment de l'extrême, entrepreneurs aux
+trajectoires fulgurantes, célébrités des médias, héros
+anonymes lors des catastrophes...), mais également une
+passion de plus en plus généralisée pour l'homme fort
+(de Poutine à Dutertre en passant par Erdogan), alors
+même que le culte de personnalité à l'égard d'un Hitler
+ou d'un Staline, d'un Kim Il-sung ou d'un Bokassa
+semble appartenir à un autre âge. En ces temps, déjà,
+les grandes puissances s'appuyaient sur des leaders au
+
+
+Sud dont ils vantaient les mérites (notamment en Asie
+pour les États-Unis et en Afrique pour la France),
+tandis que les révolutionnaires puis les dissidents ont
+été héroïsés (de Soljenitsyne à Aung San Suu Kyi).
+Durant les années 1990-2000, les discours sur la
+démocratisation laissaient entendre que l'élimination
+d'un « mauvais berger » (Milosevic, Saddam Hussein),
+conduirait inévitablement les populations vers la
+démocratie, comme ce fut le cas avec l'élimination des
+dirigeants nazis en Allemagne après 1945. En réalité, la
+question est posée de savoir si un chef d'État peut
+encore répondre aux attentes sans privilégier le
+symbolique sur l'efficacité, en un temps où les
+questions sont plus nombreuses et plus complexes, les
+bureaucraties plus lourdes, les médias plus prompts à
+réagir; la question a été posée pour les présidents
+américains, pour lesquels les commentateurs sont
+prompts à pointer les erreurs et les insuffisances.
+
+
+Les « rencontres au sommet » fascinent toujours,
+dans la lignée des grands moments de l'histoire,
+comme la conférence de Yalta en février 1945, les
+sommets américano-soviétiques des années 1970-1980,
+ou le voyage de Nixon en Chine en 1972. La fin de la
+guerre froide ne peut se comprendre sans constater
+que l'Ouest était dirigé par une poignée de leaders qui
+se respectaient entre eux, se parlaient et s'écrivaient
+beaucoup, et qui sont restés longtemps au pouvoir
+durant les années 1980 (Reagan, Thatcher, Kohl,
+Mitterrand, Nakasone). Mais on sait aussi que les
+moyens de communication directs, notamment les
+appels téléphoniques, ont fait exploser le nombre
+d'interactions entre les chefs d'État et entre les autres
+décideurs. L'élection de Donald Trump a montré à quel
+point la personnalisation pouvait être importante, avec
+une tweet-diplomatie.
+
+
+Dès lors, l'étude des individus dans la diplomatie
+s'oriente dans trois directions. Premièrement, braquer
+la focale sur l'acteur, à savoir qui il est ; deuxièmement,
+élargir la focale sur les grands défis de la décision et du
+leadership, sur le mode comparatif ; troisièmement,
+multiplier les focales sur les acteurs divers qui, d'une
+manière ou d'une autre, font de la diplomatie.
+
+
+L'anatomie de l'individu-acteur
+
+
+Régulièrement, les décideurs reçoivent des
+diplomates et des services de renseignement des fiches
+sur leurs interlocuteurs étrangers, ou sur les nouvelles
+personnalités à la tête de pays ou de
+leurs
+administrations. La biographie et la personnalité des
+individus sont donc considérées comme importantes.
+Des bases de données sur le personnel soviétique
+étaient constituées durant la guerre froide, sur des
+ordinateurs États-Unis (à la Rand) ou sur des fiches
+cartonnées en France (par le journaliste Michal Tatu).
+Les experts en psychologie sont parfois sollicités.
+L'Office of Strategic Services (OSS), l'ancêtre de la
+Central Intelligence Agency (CIA) demanda en 1943 au
+psychanalyste William Langer de dresser un portrait
+psychologique d'Hitler à partir de montagnes de
+sources qui lui furent fournies ; son opuscule ne fut pas
+publié avant 1972. La méthode du « profilage à
+distance » est ainsi utilisée. Dans le cadre de l'Office of
+Net Assessment créé en 1973, sous l'impulsion d'Andy
+Marshall, les Américains ont cherché à accumuler
+toutes les données possibles sur les perceptions des
+dirigeants soviétiques ; ils ont jugé que l'élite au
+pouvoir se sentirait vulnérable si elle pouvait être
+spécifiquement ciblée par des frappes. Une nouvelle
+stratégie américaine a été alors formulée pour
+
+
+accentuer ces craintes. La psychobiographie et la
+psychanalyse à distance ont connu un nouvel élan
+durant les années 1990, afin de comprendre le
+comportement de Saddam Hussein ou du leader nord-
+coréen Kim Jong-il. Le leader des Serbes de Bosnie,
+Radovan Karadzic, intéressait d'autant plus qu'il était
+lui-même psychiatre.
+
+
+L'individu se construit en fonction de ses expériences.
+Les trajectoires individuelles sont donc scrutées.
+Région et milieu d'origine, nature des études, parcours
+professionnel, milieu dans lequel l'individu évolue
+(famille, réseaux, partis...) deviennent autant d'indices
+pour prétendre comprendre une personnalité.
+Néanmoins, ces déterminismes sont souvent
+trompeurs, comme lorsque des espoirs ont été placés
+en Bachar Al-Assad ou Kim Jong-un parce qu'ils ont
+séjourné en Occident, notamment pour leurs études.
+Ces trajectoires et ces expériences sont souvent
+rappelées lorsqu'il est question des « visions du monde
+ 
+des acteurs majeurs de la diplomatie. Cette
+expression, qui rivalise avec celle de
+<<
+code
+opérationnel » ou de « carte mentale », fait penser qu'il
+existe un ensemble de prismes à travers lesquels tout
+individu analyse la réalité, notamment internationale.
+Le
+Président Wilson promouvait certes
+l'internationalisme, la généralisation de la démocratie
+et le droit des peuples à disposer d'eux-mêmes, mais,
+marqué par le racisme du Sud des États-Unis, il
+restreignait ces bienfaits aux nations « civilisées » et ne
+remettait pas en cause les dominations coloniales, à la
+différence de Roosevelt. Celui-ci avait une vision assez
+romantique de la Chine, et plutôt négative des Japonais
+; la famille de sa mère s'était enrichie en Chine. Il n'est
+pas possible de penser la politique extérieure de
+Staline sans prendre en compte ses origines
+géorgiennes et surtout sa vision eurasiatique de la
+
+
+sécurité et des intérêts soviétiques. Les études se
+multiplient depuis quelques années sur les convictions
+religieuses des présidents américains, et de plusieurs
+secrétaires d'État (comme John Foster Dulles). Les
+ouvrages aux titres commençant par « Dans la tête de »
+se multiplient aujourd'hui, pour Poutine, Erdogan, Xi
+Jinping ou Kim Jong-un.
+
+
+La biographie « totale » de l'individu implique que
+soient explorées deux dimensions délicates : la vie
+privée et la santé. La vie privée est souvent un sujet
+sensible, puisque les services de renseignement y
+voient un facteur de vulnérabilité. Au début des années
+1950, le maccarthysme s'en est pris à l'homosexualité
+de membres du Département d'État pour pointer leur
+vulnérabilité aux chantages de l'espionnage soviétique.
+L'influence de la vie privée sur la décision reste souvent
+difficile à peser. Elle a peut-être joué dans le caractère
+va-t-en-guerre du chef d'état-major autrichien en 1914,
+Franz Conrad von Hötzendorf, obsédé par une victoire
+triomphale qui lui permettrait de « faire sauter les
+barrières » qui le séparaient de sa maîtresse, femme
+mariée. La santé physique et mentale des hommes
+d'État ne doit pas être négligée, puisqu'elle affecte
+leurs jugements et leur disponibilité. Dans les derniers
+mois de sa vie, Roosevelt ne pouvait se concentrer que
+deux ou trois heures par jour sur son travail, et les
+Républicains ont considéré qu'il avait été faible à Yalta
+face à Staline à cause de ses problèmes de santé.
+Redevenu Premier ministre en 1951, Churchill était en
+piètre santé, comme Anthony Eden, en charge de la
+politique étrangère. Dès lors, la conférence des
+Bermudes, qui devait réunir Américains, Britanniques
+et Français pour faire face aux conséquences de la
+mort de Staline en mars 1953, a été reportée plusieurs
+fois, et ne se tient qu'en décembre, dans un contexte
+fort différent. Eden lui-même est accusé de s'être
+
+
+engagé dans l'intervention de Suez en 1956, de
+manière assez solitaire, sous l'emprise de médicaments
+qui altéraient son tempérament et son jugement.
+Depuis la crise de Cuba notamment, la question du
+stress durant une crise majeure est un objet d'étude
+important.
+
+
+La question de la socialisation de l'individu se pose à
+l'amont. Il est souvent fait état de l'Ivy League,
+d'Oxbridge et de l'École nationale d'administration
+(ENA) pour expliquer la vision du monde commune et
+les relations personnelles des diplomates et décideurs
+américains, britanniques et français. Les grandes
+universités rivalisent aujourd'hui pour attirer les futurs
+dirigeants, tout en favorisant leur mobilité
+géographique, avec un discours sur le cosmopolitisme,
+les valeurs communes, et la capacité à être un global
+leader. Lors des négociations sur l'Accord de libre-
+échange nord-américain (Alena) à l'orée des années
+1990, nombre de négociateurs mexicains connaissaient
+parfaitement les pratiques de leurs interlocuteurs
+américains, car ils avaient fréquenté les mêmes
+universités aux États-Unis. De même, les Israéliens ont
+eu face à eux au cours des années 1990 une nouvelle
+génération de négociateurs palestiniens, formés dans
+les universités américaines au droit et aux techniques
+de négociation. Des programmes existent, par exemple
+aux États-Unis et en France, pour faire venir de jeunes
+leaders prometteurs, en misant sur la pérennité des
+contacts qu'ils auront établis. La cooptation au sein du
+club de Bilderberg, conclave discret d'élites
+transatlantiques créé en 1954, qui a suscité bien des
+fantasmes de complot mondial, fonctionne davantage
+comme une confirmation que comme une pépinière.
+
+
+À l'aval, la participation régulière à des instances de
+négociations crée une forme de socialisation. La
+maîtrise des
+«
+codes
+>>
+et des techniques de la
+
+
+négociation multilatérale explique pourquoi il existe
+une spécialisation dans les affaires onusiennes et de
+l'Union européenne. Le diplomate français Pierre Sellal
+est un exemple de cette continuité « bruxelloise »,
+puisqu'il a à maintes reprises travaillé à la
+Représentation permanente de la France à Bruxelles,
+qu'il a dirigée deux fois. De la même manière, il existe
+des professionnels du « développement », même si leur
+profil évolue en fonction de la pensée sur le sujet : au
+sein de la Communauté économique européenne (CEE),
+се furent d'abord d'anciens
+«
+coloniaux
+>>
+qui
+peuplèrent la direction générale consacrée aux
+politiques de développement et de coopération. Il a
+fallu que des diplomates deviennent des spécialistes
+des questions environnementales lorsque celles-ci ont
+pris un poids important dans l'agenda international. En
+effet, à côté de la maîtrise des codes, nombre de
+dossiers demandent une expertise technique. Durant la
+guerre froide s'est forgée une « communauté » de
+l'arms control, spécialisée dans les négociations
+complexes de maîtrise des armements conventionnels
+et nucléaires. Les spécialistes des questions
+stratégiques, notamment nucléaires, forment aussi
+communauté à l'intérieur de l'organisation du traité de
+l'Atlantique nord (OTAN) et avec certains pays qui en
+sont proches, comme Israël. On trouve à la tête des
+banques centrales dans le monde entier nombre
+d'individus qui ont travaillé au Fonds monétaire
+international (FMI). La multiplication des interactions
+et les pratiques quotidiennes sont gage de prévisibilité,
+et donc de confiance mutuelle, voire de relations
+personnelles. Néanmoins, il faut se méfier des discours
+sur les « grandes familles », par exemple celle les
+juristes internationaux,
+car le degré
+d'internationalisation des communautés nationales de
+
+
+juristes est très inégal : il est plus important au
+Royaume-Uni qu'en France ou en Russie.
+
+
+Cognition, décision et émotion
+
+
+Depuis les années 1970, la possibilité même d'une
+décision rationnelle de l'individu-décideur
+est
+interrogée. Ce dernier serait dépendant de ses
+perceptions (souvent biaisées), et de ses croyances. Il
+filtrerait les informations nouvelles en fonction d'un
+biais de confirmation, qui lui fait écarter celles qui
+remettraient en cause ses croyances. La densité du
+filtre dépend de l'ouverture cognitive de l'individu :
+parmi les leaders israéliens, cette ouverture était faible
+chez Yitzhak Shamir, et plus forte chez Yitzhak Rabin
+qui a jugé qu'il était nécessaire de négocier avec
+l'Organisation de libération de la Palestine (OLP).
+Même quand les croyances de l'individu changent, il
+n'en a pas toujours conscience, et reste persuadé qu'il
+a toujours pensé ce qu'il pense désormais.
+
+
+Comme les choix dits rationnels sont toujours ancrés
+dans des convictions (beliefs), il faut savoir comment
+celles-ci se sont construites, et quels repères elles
+fournissent. Ainsi de l'analogie hitlérienne, qui n'est
+pas commune aux décideurs du monde entier, mais qui
+fait interpréter les actions agressives d'un État en
+fonction des conquêtes hitlériennes. La prudence de
+George H. W. Bush à l'égard de l'évolution rapide dans
+les démocraties populaires d'Europe de l'Est à
+l'automne 1989 s'explique en grande partie par des
+analogies : celle de 1956, lorsque les radios
+américaines basées en Allemagne ont encouragé les
+révoltés hongrois face aux chars de l'Armée rouge et
+leur ont donné des faux espoirs, et celle de juin 1989,
+lorsque les dirigeants chinois ont utilisé la force contre
+
+
+les protestataires, ce que les régimes communistes en
+Europe auraient pu faire en arguant d'une ingérence
+des Etats-Unis. Depuis les années 1970, des historiens
+et des praticiens américains très mainstream
+s'efforcent de trouver les moyens d'enseigner la «
+bonne » utilisation de l'histoire aux décideurs, sous
+prétexte notamment d'éviter le mirror imaging, à savoir
+la croyance que les autres décideurs agissent comme
+on le ferait, bref, l'ethnocentrisme (Brands et Inboden,
+2018).
+
+
+Les interactions entre adversaires provoquent de
+mauvaises perceptions. L'individu A considère qu'il agit
+de manière réactive alors que l'individu B agirait avant
+tout en fonction de ce qu'il est, et non en réaction aux
+actions de A. En revanche, quand B change
+positivement de comportement, cela est considéré par
+A comme une validation de ses propres actions. Ainsi,
+dans une phase d'escalade, B serait mû par ce qu'il est,
+et non par ce qu'A fait, alors qu'en phase de
+désescalade, la causalité du comportement de B serait
+inversée. Ces biais sont confirmés par l'étude de crises
+: ainsi des mauvaises perceptions des Soviétiques et
+des Chinois durant leur court affrontement frontalier
+de 1969, aucun ne comprenant que l'autre ne le
+considère pas comme modéré, et chacun exagérant la
+menace potentielle. Tout en abusant de l'analogie
+hitlérienne, les leaders occidentaux ont eu tendance à «
+orientaliser » les leaders du Moyen-Orient (de Nasser à
+Saddam Hussein) qui, eux aussi, ont souvent exagéré
+l'hostilité occidentale. Les mauvaises perceptions
+n'entraînent pas forcément des mauvais résultats ; les
+deux Grands se sont en partie mépris sur les intentions
+de l'Autre durant la détente, mais celle-ci a permis de
+limiter les tensions et de donner plus de prévisibilité à
+la politique étrangère.
+
+
+À cause de convictions prédéterminées, la vérité
+devient aisément ce qu'on veut qu'elle soit. Dès lors, il
+existe fréquemment un excès de confiance des
+décideurs dans leur propre jugement. Il leur est difficile
+de reconnaître qu'ils se sont trompés, car cela
+remettrait en cause leurs convictions. De plus, ils
+prennent rarement au sérieux des convictions qu'ils ne
+partagent pas, notamment celles des adversaires. Or,
+comprendre ces convictions est indispensable pour
+interpréter et anticiper leurs actions. Comme la plupart
+des individus, le décideur est davantage sensible aux
+pertes qu'aux gains. Il intègre l'« effet domino » : une
+perte aura des répercussions en chaîne. Il y a ainsi la
+tentation de prendre de gros risques pour éviter une
+petite perte. Il faut donc être ferme par anticipation, à
+cause des conséquences possibles sur des événements
+ailleurs. C'est pour cela qu'il était difficile pour les
+Français d'abandonner l'Indochine (les communistes
+auraient pu progresser dans toute l'Asie du Sud-Est,
+l'Afrique du Nord aurait voulu secouer la dépendance
+coloniale comme le Vietnam, et la France aurait perdu
+son statut), puis pour les Américains d'abandonner le
+Sud Vietnam. Le décideur ne s'intéresse que rarement
+aux récepteurs des signaux qu'il veut envoyer, et peut
+se tromper sur leur interprétation. Les Américains ont,
+à tort, pensé que la menace nucléaire avait amené les
+Chinois à accepter de mettre fin à la guerre de Corée
+en 1953. En sens inverse, les décideurs et les
+bureaucraties ont tendance à surestimer leurs propres
+capacités à décoder les indices sur les intentions des
+autres, à voir des « signaux » en tout, et souvent à mal
+les interpréter.
+
+
+La capacité à apprendre (le learning) est donc un vrai
+enjeu. Dans le domaine du renseignement,
+l'apprentissage et les « leçons tirées >> expliquent
+pourquoi le succès intervient parfois après l'échec се
+
+
+qui est souvent mis en avant pour éclaircir pourquoi il
+n'y a pas eu d'événement terroriste catastrophique aux
+États-Unis depuis le 11 septembre. Mais pour cela, les
+spécialistes conseillent aux leaders d'encourager leur
+entourage décisionnel à réfléchir aux raisons de
+l'échec, dans un environnement où ils ne craignent pas
+d'admettre leurs erreurs sans risquer leur emploi (voire
+leur vie). Le narcissisme, ainsi que la certitude d'avoir
+l'expérience et de savoir mieux que les autres, peut
+rendre aveugle et sourd. Les temps sont d'ailleurs à
+valoriser la modestie et le doute systématique dans
+l'analyse du renseignement, et à multiplier les
+hypothèses contre-intuitives qui permettent de penser
+<<< en dehors de la boîte ». Mais restent toutefois les
+questions de l'appétence du décideur pour le
+renseignement, sa volonté ou non d'en entendre ce qui
+ne rentre pas dans ses schémas cognitifs, et la réalité
+quotidienne de la décision dans l'incertitude, car
+fondée sur une information nécessairement incomplète
+et ambivalente.
+
+
+Cela renvoie à la nature même du leadership de
+l'individu-acteur, qu'il soit à la tête d'un État, d'une
+organisation internationale, d'une grande entreprise ou
+d'une ONG. Le style de leadership est
+«
+scientifiquement » étudié depuis un siècle, mais il
+faudrait tenir compte de toute la littérature de conseil
+aux princes et de manuels du bon ambassadeur,
+lesquels ont fleuri à l'époque moderne. On distingue
+souvent le leadership de situation, capable de
+comprendre les tenants et aboutissants d'une situation
+donnée, du leadership de relations, centré sur les
+hommes, qu'il s'agisse d'être suivi (leadership
+charismatique) ou de créer un consensus. Une autre
+distinction est faite entre leadership transactionnel, qui
+négocie, avec une certaine flexibilité, recherche la
+solution optimale qui préserve les intérêts des parties
+
+
+prenantes, et le leadership transformationnel, qui
+motive, stimule, crée de l'émulation, mais surtout
+cherche à transformer l'existant, à l'interne et sur la
+scène internationale. Le style de leadership entraîne
+certaines pathologies : l'équilibre est difficile entre
+intuition et efficacité d'une part, et consultation de
+points de vue différents, voire opposés au leader,
+d'autre part. Trop de réflexion mène à la
+procrastination, trop de hâte à des erreurs. Le «
+groupthink », comme lors de la guerre israélienne au
+Liban en 1982, est un effet de meute ou moutonnier,
+tandis que le « polythink » est cacophonie parce qu'il y
+a une trop grande diversité de voix dans l'entourage du
+leader.
+
+
+Un facteur important dans la prise de décision est le
+souci de réputation, interne et international, qui semble
+prendre la place de l'honneur de l'Europe ancienne, et
+être un équivalent de la « face » en Asie, qui a obsédé
+tous les diplomates et militaires postés en l'Extrême-
+Orient. Depuis qu'à l'été 2013, le Président américain
+Obama n'a pas bombardé le régime syrien qui avait
+franchi, par l'utilisation d'armes chimiques, une ligne
+rouge définie par Washington, la réputation a été
+assimilée à la crédibilité, à l'égard des ennemis et des
+alliés. Il n'est pas sûr que ne pas mettre une menace à
+exécution nuise réellement à la crédibilité vis-à-vis de
+l'adversaire, car il y a une incertitude sur le coup
+suivant, qui peut même se manifester par une
+surréaction. À l'égard des alliés, cela peut provoquer
+un sentiment d'abandon, mais aussi relever de l'autre
+pathologie des alliances, à savoir la crainte d'être
+entraîné dans une aventure non voulue. Si l'alliance est
+solide et si le coût de la non-exécution n'est pas trop
+fort, il n'est pas certain que la crédibilité souffre.
+Vouloir sauvegarder sa crédibilité peut entraîner dans
+des aventures militaires ; c'est en se comparant à
+
+
+Kennedy (qui lui-même avait en vue sa crédibilité
+personnelle lors de la crise de Cuba) que Johnson s'est
+enferré dans la guerre du Vietnam. La « stratégie du
+fou
+>>
+de Nixon n'a pas été efficace, Moscou ne
+bougeant guère, mais elle a été destructrice au
+Vietnam et risquée pour le monde. Elle témoignait du
+narcissisme du président, de son impatience et de sa
+volonté de  sauver la face » par un retrait « honorable
+>>> du Vietnam.
+
+
+Derrière la séparation souvent effectuée entre acteur
+rationnel et acteur irrationnel, acte raisonné et réaction
+émotionnelle, il semble désormais que cognition et
+affect ne peuvent être vraiment séparés, ce que la
+neurobiologie a confirmé. La rationalité pure ne serait
+qu'un fantasme, et il serait absurde de juger une
+décision selon son degré de déviation par rapport à une
+rationalité construite. Il n'empêche que la colère ou
+même l'inimitié contribuent au biais de perception,
+puisqu'elles empêchent souvent de tenir compte des
+arguments émis par une personne exécrée ou
+méprisée. Le manque d'empathie empêche de
+connaître son ennemi, et peut mener à mal juger ses
+intentions et à ne pas anticiper ses choix : ainsi de
+Staline à l'égard d'Hitler ou du leader nord-vietnamien
+Le Duan à l'égard des présidents américains.
+L'optimisme et le pessimisme à l'égard de la
+prolifération nucléaire, et à l'égard de la possibilité de
+dissuader un État qui a accédé au nucléaire, sont une
+variable importante pour comprendre le choix d'utiliser
+ou non des frappes préventives sur des installations
+nucléaires. Jacques Hymans a mis en valeur le
+nationalisme oppositionnel » de certains leaders (qui
+mêle inquiétude à l'égard d'une menace extérieure et
+fierté d'avoir des capacités modernes pour y faire face)
+pour expliquer pourquoi certains pays se sont lancés
+dans des programmes nucléaires militaires.
+
+
+L'humiliation, la frustration, la peur, la volonté de
+restaurer un statut ou un honneur, ou de réaffirmer des
+formes de masculinité constituent aujourd'hui pour les
+constructivistes une dimension importante des marches
+à la guerre, aux conflits civils et aux révolutions. La
+haine et le dégoût ne doivent pas être oubliés : en
+Indochine puis en Algérie, les « coloniaux » ont montré
+aux responsables parisiens (Marius Moutet puis
+Jacques Soustelle) les horreurs commises par les «
+rebelles », afin de créer un fossé insurmontable et de
+durcir les politiques de la métropole. Les témoignages
+se déversent pour montrer la barbarie d'un tyran dès
+qu'il devient un ennemi ou après qu'il a été abattu,
+comme pour Saddam Hussein ou Kadhafi. Désormais, la
+bascule se fait même nettement du côté de l'émotion,
+qui peut se présenter comme explication et comme
+excuse, puisqu'elle n'est pas une passion détestable
+nuisant à la raison mais une réalité incontournable qui
+permet le pire comme le meilleur. Elle n'est pas une
+excuse pour l'adversaire (l'impact des bombardements
+américains massifs de 1950-1953 pour la Corée du
+Nord, de la guerre Iran-Irak pour l'Iran), mais pour soi,
+lorsqu'il faut « comprendre » la réaction instantanée
+des États-Unis après le 11 septembre 2001, ou l'impact
+durable du génocide des Juifs sur la psyché des
+dirigeants israéliens.
+
+
+Si la confiance a été érigée en vertu cardinale du
+capitalisme résilient, elle semble également être l'huile
+indispensable aux relations internationales. Le
+multilatéralisme et les institutions internationales
+assurent en partie cette fonction lubrifiante, facilitant
+les relations entre États aux puissances et aux valeurs
+différentes. Des processus spécifiques (track-two,
+mesures de confiance, de transparence ou de
+vérification) doivent permettre de bâtir un lien durable
+et de limiter les mauvaises perceptions. Le mensonge
+
+
+en diplomatie, comme l'interprétation abusive d'un
+accord, peut créer des fossés durables. Mais la
+confiance et la défiance relèvent également de
+l'émotion. La défiance est difficile et parfois impossible
+à surmonter : le sourire et la main tendue de
+l'adversaire sont dès lors perçus comme des pièges, et
+prendre le moindre risque est considéré comme
+coûteux. La confiance se fonde souvent sur des liens
+interpersonnels. Roosevelt s'est efforcé de la créer avec
+Staline durant la seconde guerre mondiale. La force de
+la première impression, à partir du visage d'autrui
+souvent (c'est l'œuvre d'une partie très spécialisée du
+cerveau, FFA, fusiform face area), est durable ; il est
+bien difficile de changer ensuite, mais aussi de décoder
+de manière certaine les expressions faciales d'autrui.
+L'alchimie qui crée la confiance, voire l'amitié, est fort
+complexe. En 2001 en Slovénie, Bush regarde Poutine
+dans les yeux et voit son âme (« J'ai pu percevoir son
+âme : celle d'un homme profondément dévoué à son
+pays et aux intérêts de son pays », dira-t-il après leur
+première rencontre en 2001), et donc lui fait confiance.
+Il existe néanmoins de nombreux cas montrant que les
+contacts personnels ont permis de créer un climat de
+confiance, même en se parlant franchement, et ont
+abouti à dénouer des situations tendues depuis
+longtemps et qui semblaient sans issue (Wheeler,
+2018). Les relations personnelles entre Reagan et
+Gorbatchev, Schultz et Chevardnadze, et des deux côtés
+du rideau de fer, ont eu un rôle certain dans la fin de la
+guerre froide. Notamment, la confiance permet de
+comprendre les contraintes de politique intérieure qui
+pèsent sur l'Autre, alors qu'elles sont
+traditionnellement minimisées. Néanmoins, la
+confiance reste toujours fragile, à la merci de faux pas
+et de blessures symboliques.
+
+
+Les individus qui comptent à
+l'international
+
+
+Ces réflexions sur les décideurs étatiques peuvent
+être transposées sur les multiples autres individus qui
+comptent dans les relations internationales. L'histoire
+de la « galaxie » onusienne montre que des secrétaires
+généraux ou des directeurs ont compté, pour
+promouvoir des idées et des politiques. La circulation
+des élites de l'international entre administrations, think
+tanks, missions dans des groupes de haut niveau,
+enseignement académique, voire fondations qu'ils ont
+créées ou entreprises dont ils ont facilité l'action,
+dessine des modes de pouvoir plus réticulaires que la
+simple hiérarchie d'autorité de la haute modernité. Le
+terme « gouvernance » permet de rendre compte de
+cette action transnationale, qui repose souvent sur des
+réseaux d'acteurs
+socialisés ». De même, on
+considère souvent que tout individu concourt à l'action
+internationale par ses actions à impact international,
+par toutes ses formes de mobilité, provisoire ou
+définitive, par tous ses modes de consommation, par
+ses communications et ses relations, etc. Cette
+importance de l'anonymat, en situation de paix ou de
+conflit, a été mise en valeur dans la mondialisation
+récente, surtout lorsqu'il s'agit de
+réseaux de
+mobilisation ou d'expertise, et elle fascine désormais
+dans l'étude des réseaux terroristes.
+
+
+«
+
+
+Les
+
+
+Les historiens ont basculé leur regard vers les formes
+anciennes d'internationalisme et d'interactions
+transnationales, et vers l'individu-acteur hors des
+projecteurs traditionnels (Grosser, 2013).
+biographies d'ambassadeurs ou de vétérans de la
+diplomatie se sont multipliées, et on insiste sur le rôle
+d'individus qui ont eu une fonction importante dans les
+
+
+politiques étrangères, tels que le private secretary for
+Foreign Affairs to the Prime Minister au Royaume-Uni,
+ou bien les conseillers juridiques des ministères des
+Affaires étrangères. Il apparaît qu'une partie des choix
+politiques sont contraints par les actions et les
+documentations
+produites par des niveaux
+intermédiaires des bureaucraties : il est difficile de
+comprendre le début de la guerre d'Indochine sans voir
+le rôle des colonels de la coloniale, sur place et à Paris.
+Aux
+États-Unis, les généraux à la tête de
+commandements de théâtre, en particulier du United
+States Central Command (Centcom, le Grand Moyen-
+Orient) et l'United States Pacific Command (Pacom),
+ont un vrai rôle diplomatique. Les hommes d'État
+utilisent des réseaux parallèles et des envoyés spéciaux
+qui court-circuitent parfois la bureaucratie installée,
+comme les réseaux Foccart en Afrique à l'époque du
+général de Gaulle. Le conseiller de sécurité nationale
+aux États-Unis a parfois eu un rôle majeur, qu'il
+s'agisse de Kissinger ou de Brzezinski, le premier
+s'efforçant sans cesse de contourner le Département
+d'État. Laurence Tubiana a tenu un rôle important dans
+la COP21 de Paris en 2015, à côté des ministres en
+place Laurent Fabius et Ségolène Royal. Les banquiers
+centraux sont considérés comme des acteurs majeurs :
+déjà pendant les années 1920, l'Américain Benjamin
+Strong et le Britannique Montagu Norman semblaient
+être, de par leurs relations et leurs activités, les
+maîtres du système financier international.
+L'affrontement entre le Britannique Keynes et
+l'Américain White à Bretton Woods en 1944 a pesé
+lourd sur l'ordre monétaire et financier d'après-guerre.
+
+
+Les individus entrepreneurs de normes sont de plus
+en plus étudiés. On ne compte plus les travaux sur
+Henri Dunant, l'« inventeur » de la Croix-Rouge, sur
+Raphael Lemkin, dont le rôle fut fondamental dans la
+
+
+rédaction de la Convention sur la prévention et la
+répression du génocide, et sur les individus qui ont
+construit la justice pénale internationale jusqu'au
+procureur général de la Cour pénale internationale,
+Luis Moreno Ocampo, starifié avant de se voir cerné
+par nombre d'affaires. Certains de ces entrepreneurs
+sont des membres d'un gouvernement, tel William
+Hague, membre du Foreign Office de 2010 à 2014, sur
+la question les violences sexuelles dans les conflits. Des
+experts du monde académique ont aussi tenu des rôles
+importants (Lowenthal et Bertucci, 2014): ainsi de
+Thomas Biersteker pour les sanctions ciblées ou du
+politiste John G. Ruggie pour le Global Compact des
+Nations unies. Des progrès dans le domaine de
+l'humanitaire et des droits de l'homme ont été poussés,
+après la grande guerre, par René Cassin pour les droits
+des anciens combattants, par Albert Thomas pour les
+droits sociaux des travailleurs, par Fridjof Nansen pour
+le statut des réfugiés, ou par Eglantyne Jebb pour les
+droits des enfants. Il est difficile de faire l'histoire de
+l'humanitaire et du droit d'ingérence sans suivre les
+biographies d'un Bernard Kouchner et d'un Rony
+Brauman. Des juristes vantent le rôle majeur de leurs
+collègues du début du siècle dernier, qui, en
+promouvant le pacte Briand-Kellogg de 1928, auraient
+œuvré à une révolution « copernicienne », à savoir
+rendre la guerre anormale, et même à la criminaliser.
+
+
+Enfin, il existe un intérêt inépuisable pour les super
+empowered individuals. Il peut s'agir, dans le passé,
+des icônes de la révolution (Mao, Ho Chi Minh, Che
+Guevarra, Malcolm X), qui
+ont inspiré à travers le
+monde les mouvements
+de contestation ou de
+révolution durant les années
+1960, ou bien des icônes
+de la non-violence (Gandhi, Martin Luther King, John
+Lennon), dont l'influence mondiale s'est manifestée de
+l'Afrique du Sud à l'Europe de l'Est communiste. La
+
+
+méga-philanthropie ne fut pas toujours associée à un
+individu particulier, malgré les fondations américaines
+éponymes (Carnegie, Rockefeller, Ford); aujourd'hui
+pourtant, les hommes qui les dirigent sont à la fois
+considérés comme des héros et comme des menaces,
+comme Bill et Melinda Gates pour les questions de
+santé globale ou George Soros pour la démocratisation.
+Si les engagements des célébrités du show-business
+sont l'objet de nombreuses critiques, notamment celle
+de reproduire une situation coloniale en voulant «
+sauver » des victimes dans les pays du Sud, celles-ci
+ont, comme les grands philanthropes, des modes
+d'accès privilégiées à de nombreux chefs d'État et de
+gouvernement, et aux organisations internationales.
+Elles symbolisent un agenda (Angelina Jolie et les
+réfugiés, George Clooney et la question du Darfour,
+Leonardo Di Caprio et les questions
+environnementales), popularisent des idées (ainsi, celle
+de Jeffrey Sachs sur le développement, lui qui avait
+auparavant été le symbole des « théories de choc »
+hyperlibérales en Amérique latine et en Europe post-
+communiste), et créent des attentes pour les hommes
+politiques, par leur utilisation des réseaux sociaux
+(Grosser, 2013).
+
+
+Bibliographie commentée
+
+
+BRANDS Hal, INBODEN William,  Wisdom without tears. Statecraft and
+the uses of history », Journal of Strategic Studies, à paraître, 2018.
+Un bilan d'une longue tradition de questionnement sur les usages
+de l'histoire et sur l'utilité des analogies historiques, autres
+qu'intuitives. Des universitaires ont proposé un « conseil historique
+>> qui pourrait éclairer le président américain.
+
+
+GROSSER Pierre, Traiter avec le diable ? Les vrais enjeux de la
+diplomatie au $XXI^{e}$ siècle, Paris, Odile Jacob, 2013.
+
+
+La première partie du livre est consacrée aux analogies historiques
+qui contraignent la décision, et la deuxième aux biais cognitifs qui
+
+
+rendent difficiles tout dialogue et toute négociation avec un
+adversaire qui a été diabolisé.
+
+
+JERVIS Robert, Perception and Misperception in International Politics,
+Princeton (N. J.), Princeton University Press, 2017.
+
+
+Le classique sur l'importance des biais cognitifs des décideurs,
+publié en 1976. Cette nouvelle édition comprend en introduction le
+bilan des nouvelles recherches sur le sujet et l'apport des sciences
+cognitives. Le bilan peut être complété par le dossier << Psychology
+and international politics », International Organization (2017,
+supplément).
+
+
+LOWENTHAL Abraham F., BERTUCCI Mariano E. (eds), Scholars,
+Policymakers, and International Affairs. Finding Common Cause,
+Baltimore (Md.), Johns Hopkins University Press, 2014.
+
+
+Ensemble d'études de cas montrant comment des personnalités du
+monde académique (chercheurs, professeurs) peuvent intégrer
+leurs idées dans l'agenda diplomatique international, et parfois être
+intégrées dans les processus de décision.
+
+
+WHEELER Nicholas J., Trusting Enemies. Interpersonal Relationships in
+International Conflict, Oxford, Oxford University Press, 2018.
+Aboutissement d'un long programme de recherche, ponctué de
+publications, sur l'importance de la confiance dans la haute
+diplomatie, mais également pour résoudre les conflits.
+
+
+Troisième partie
+
+
+LES SECTEURS
+
+
+Chapitre 14
+
+
+Diplomatie économique,
+diplomatie d'entreprise
+
+
+Laurence Badel
+
+
+ise sur le devant de la scène en France, en mai
+M
+2012, par le ministre des Affaires étrangères
+Laurent Fabius, qui en fait « une priorité pour la
+France » (Fabius, 2012), la diplomatie économique est
+un instrument de la politique extérieure des États qui
+s'est imposé à la fin du $XIX^{e}$ siècle comme outil de
+projection de leur puissance dans le monde, dans le
+contexte de l'essor des rivalités impériales. Elle fait
+l'objet, pendant la première guerre mondiale, d'une
+réflexion et d'une pratique multilatérales relatives aux
+moyens d'œuvrer de manière concertée pour stabiliser
+les relations économiques et financières internationales
+au lendemain du conflit. Dans le premier cas, la
+
+
+diplomatie économique désigne la mobilisation des
+acteurs publics, parapublics et privés, sous l'égide des
+pouvoirs publics, tant au niveau national, régional que
+local pour défendre les intérêts économiques nationaux
+en soutenant l'expansion commerciale et financière des
+entreprises nationales sur les marchés extérieurs et en
+promouvant l'attractivité du territoire national auprès
+des investisseurs étrangers. Elle relève d'une pratique
+bilatérale et exprime une approche oscillant entre le
+patriotisme et la guerre économiques. Dans le second
+cas, elle désigne une pratique de négociation
+multilatérale dans le domaine économique et financier
+et repose sur une approche coopérative des relations
+internationales. Notion fondamentalement ambivalente,
+la diplomatie économique porte en elle la démarche de
+la guerre et celle de la concertation économique.
+Comment concilier l'intérêt national avec la nécessaire
+régulation du marché mondial pour assurer la sécurité
+collective et la prospérité et, par conséquent, la
+stabilité du système international ? Les réponses
+apportées ont été tributaires de l'interdépendance
+croissante des économies, de la capacité des
+entreprises à affronter la concurrence internationale et
+des cultures diplomatiques nationales.
+
+
+Le champ d'étude que constitue la diplomatie
+économique était tombé en relative déshérence durant
+les années 1980. Sous l'effet du « tournant culturel »
+qui imprimait sa marque sur le choix de nouveaux
+objets et promouvait des approches s'opposant aux
+lectures réalistes de la scène internationale, elle était
+doublement condamnée. L'économie qui avait saturé les
+débats historiographiques pendant les années 1960 et
+1970 s'effaçait comme objet d'étude. La diplomatie, qui
+exprimait l'essence de la souveraineté étatique, était
+observée de loin et avec dédain. En France, seuls les
+anciens praticiens traitaient encore de la diplomatie
+
+
+économique (Carron de La Carrière, 1998). Seuls, ou
+presque, au cours des années 1980, respectivement
+dans le domaine historique et dans celui de l'économie
+politique internationale, les livres de Marc
+Trachtenberg (1980) et Georges-Henri Soutou (1989),
+et celui de Susan Strange (1988), développaient une
+réflexion forte et inédite. Le premier révisait la
+conception d'une diplomatie économique française mue
+par la vengeance contre l'Allemagne, le second
+soulignait, entre autres, l'importance des premières
+conférences économiques interalliées dans la
+construction du nouvel ordre mondial. Susan Strange
+analysait la mutation de la relation des entreprises et
+des États dans la phase nouvelle de la mondialisation
+marquée par la dérégulation et l'essor des
+investissements à l'étranger. Depuis les années 2000,
+les études se multiplient, portant à la fois sur l'essor de
+la diplomatie économique multilatérale dans l'entre-
+deux-guerres (Fink, Frohn et Heideking, 2002) et sa
+diversification à partir des années 1970 (Woolcock et
+Bayne, 2007; Mourlon-Druol, Romero, 2014), sur
+l'arme et la sanction économiques (Dobson, 2012 ;
+Zhang, 2014) et sur la politique de pénétration des
+marchés en développement que la diplomatie
+économique des États a constituée en temps de guerre
+froide (Bagnato, 2003; Lorenzini, 2003; Badel, 2010).
+Enfin, la question de l'autonomie des acteurs
+économiques vis-à-vis des acteurs publics, au cœur de
+la réflexion historique dans les décennies 1960 et 1970,
+a été renouvelée par les chercheurs en diplomatic
+studies et en international management ou
+international business studies qui, dans la foulée d'un
+article fondateur de Susan Strange (1992), développent
+les notions de diplomatie d'entreprise (corporate
+diplomacy), de diplomatie des affaires (business
+diplomacy) (Muldoon, 2005 ; Saner et Yiu, 2008; Ruël
+
+
+et Wolters, 2016) et de
+«
+multilatéralisme privé »
+(private multilateralism) (Harvie, Kimura et Lee, 2005).
+Parler de diplomatie économique n'épuise pas, au
+début du $XXI^{e}$ siècle, la variété des relations existant
+entre les acteurs économiques privés et les acteurs
+publics, et la notion de diplomatie d'entreprise
+s'impose dorénavant à parts égales.
+
+
+Structurée progressivement par les grandes
+puissances européennes, rejointes par le Japon et les
+États-Unis, à la fin du $XIX^{e}$ siècle, la diplomatie
+économique est à la fois l'un des instruments de la
+domination impériale en Orient, en Extrême-Orient et
+en Afrique, de la pénétration des marchés nouvellement
+indépendants d'Amérique centrale et du Sud, et un
+outil d'affirmation des petits États européens dans un
+monde concurrentiel. L'affermissement de la diplomatie
+économique multilatérale autour de la première guerre
+mondiale confirme l'interdépendance accrue des
+économies et des sociétés enclenchée lors de la
+première phase de la mondialisation contemporaine
+pendant les années 1860, la diversification des objets
+de la négociation et l'imbrication fondamentale des
+questions économiques avec les enjeux culturels,
+sociaux et stratégiques. La diplomatie économique
+devient un outil à la main de certains États en
+développement à la fin des années 1960, ou émergents
+dans les décennies 1990 et 2000, qui tentent, toujours,
+de trouver une place dans une architecture
+internationale construite après 1945 par les puissances
+alliées. S'affirmant par des politiques réalistes où la
+recherche de richesses coïncide avec la volonté de
+puissance, les pays émergents ont obligé les États
+développés à repenser leur propre approche de la
+diplomatie économique. L'étude de cette dernière est
+celle d'un marqueur essentiel pour réfléchir aux
+
+
+nouvelles hiérarchies de la puissance qui ne
+correspondent pas toujours à celles héritées de l'après-
+seconde guerre mondiale.
+
+
+Un outil économique et financier
+de domination
+
+
+La diplomatie économique, voire la diplomatie tout
+court, naît comme diplomatie commerciale : ainsi à
+Venise où les premiers représentants de la République
+ont été des consuls investis de fonctions commerciales
+et administratives. Elle a commencé à se structurer
+avec l'étatisation progressive de la fonction consulaire
+qui débute à partir du milieu du $XVII^{e}$ siècle en
+Angleterre et en France. Traités de commerce puis
+accords financiers et conventions monétaires scandent
+l'intensification des relations économiques
+et
+financières internationales tant entre les États
+occidentaux qu'entre ces États et ceux placés sous leur
+domination (Empire ottoman, États asiatiques et sud-
+américains). Dans le contexte de la première
+mondialisation de l'époque contemporaine marquée par
+la révolution technologique des transports et des
+télécommunications, ainsi que par des migrations
+humaines et une circulation des capitaux sans
+précédent, les États européens construisent les
+premières structures publiques destinées à mettre en
+œuvre leur diplomatie économique.
+
+
+Elle peut être définie, à partir des années 1880,
+comme un dispositif public au service de la collecte de
+l'information sur les marchés extérieurs, de la
+négociation d'accords tarifaires, de l'encouragement
+aux investissements directs à l'étranger et de la
+promotion des intérêts nationaux. Les réseaux d'agents
+locaux publics (consulats), parapublics ou privés
+
+
+(chambres de commerce et d'industrie, chambres de
+commerce à l'étranger, associations patronales)
+apparaissent insuffisants et les États entreprennent
+une première rationalisation du dispositif.
+Dans
+l'ensemble des pays européens, ils spécialisent
+progressivement certains consuls dans leur seule
+mission commerciale, puis créent un poste nouveau au
+sein des ambassades : celui d'attaché commercial. En
+Grande-Bretagne, le premier attaché commercial
+britannique est l'ancien consul général en Westphalie :
+il est nommé à Berlin en 1880 avec compétence sur
+l'Allemagne et l'Autriche-Hongrie. En France, la loi du
+7 décembre 1908 crée six emplois d'attachés
+commerciaux. Pour les petits
+États européens, neutres
+pour certains (la Suède, la
+Suisse), une diplomatie
+commerciale active, conduite par les consuls, est un
+moyen de s'affirmer sur la scène internationale pour
+pallier l'absence d'une politique de puissance. Le
+réseau consulaire de l'Union suédo-norvégienne (1814-
+1905) connaît ainsi une expansion notable dans la
+seconde partie du $XIX^{e}$ siècle. Avant la première guerre
+mondiale, deux États extra-européens (le Japon et les
+États-Unis) gagnent leurs galons de puissance
+régionale grâce à une diplomatie économique active.
+Sous les présidences Roosevelt et Taft, les États-Unis
+d'Amérique inaugurent la « diplomatie du dollar », une
+politique d'investissement dans
+pays
+économiquement plus faibles de l'Amérique centrale.
+L'île de Saint-Domingue a été un laboratoire des
+méthodes de réforme des États-Unis pour restaurer les
+finances défaillantes d'États étrangers : le Département
+d'État travailla étroitement avec des économistes et
+des banquiers (Rosenberg, 2003). Le schéma, théorisé
+pour la France, d'un « triptyque finance-industrie-
+diplomatie » (Thobie, 1974) affermi à la fin du siècle,
+
+
+les
+
+
+peut être étendu à la pratique des autres puissances
+européennes, avec des modulations liées à la place
+reconnue à l'État dans le traitement des affaires
+économiques.
+
+
+des
+
+
+La première guerre mondiale accentue la relation
+établie entre milieux d'affaires et États au service de
+l'effort de guerre et de la formulation de buts de guerre
+économiques (Soutou, 1989). Dans la mesure où les
+ministères des Affaires étrangères n'ont pas forgé de
+services dédiés à l'expansion économique extérieure
+avant les années 1920, ce sont les ministères du
+Commerce ou des Finances qui développent
+et
+renforcent, pendant la première guerre mondiale, leur
+vocation d'acteur international. Au sortir de celle-ci, les
+Affaires étrangères sont maintenant obligées de créer
+de véritables services en charge des questions
+économiques, tels en 1919 la sous-direction
+Relations commerciales en France, le
+bureau du
+Commerce extérieur (Außenhandelsstelle) en
+Allemagne, devenu un département autonome dès
+juillet 1920, ou de créer des structures hybrides
+comme, en 1917, le Departement of Overseas Trade,
+rattaché au Foreign Office et au Board of Trade, au
+Royaume-Uni. Les réseaux extérieurs s'étoffent (on
+dénombre une cinquantaine d'attachés commerciaux
+français vers 1930). Les États mettent aussi en place
+des systèmes d'assurance-crédit destinés à couvrir le
+risque politique pris par les exportateurs sur les
+marchés extérieurs (Grande-Bretagne, 1919; Belgique,
+1921; Danemark, 1922; Pays-Bas, 1923; Allemagne,
+1926; Italie, 1927 ; France, 1928) (Badel, 2010).
+Stoppés dans leurs ambitions hégémoniques, le Japon
+et l'Allemagne se redressent en affermissant une
+diplomatie économique dynamique, le premier via le
+renforcement de ses grands zaibatsu (Mitsui,
+Mitsubishi, etc.), conglomérats d'entreprises proches
+
+
+des partis politiques, la seconde portée par une
+industrie cartellisée et des grands patrons (Hugo
+Stinnes, Walther Rathenau) convaincus que
+l'interdépendance des économies conduira les Alliés à
+admettre la révision du Traité de Versailles. En donnant
+à la monnaie une place nouvelle et centrale dans les
+relations internationales, la guerre met aussi les États-
+Unis, devenus créanciers des Alliés, en position
+d'étendre la diplomatie du dollar à l'Europe en pesant
+sur sa reconstruction via l'adoption du plan Dawes
+(1924) qui lie le remboursement des dettes de guerre
+dues par leurs Alliés à la reprise du versement des
+réparations dues par l'Allemagne à ceux-ci. Enfin, la
+guerre fait prendre conscience du caractère vital des
+ressources en matières premières et, parmi celles-ci, le
+pétrole va occuper aux $XX^{e}$ et $XXI^{e}$ siècles une place
+particulière en raison de son caractère stratégique.
+L'usage qu'en font les pays de l'Organisation des pays
+exportateurs de pétrole (OPEP) en 1973 souligne la
+dimension coercitive, voire punitive, que peut avoir la
+diplomatie économique. Les sanctions sont de fait de
+divers types : le blocus, le boycott, l'embargo (Dobson,
+2012). Le $XX^{e}$ siècle est marqué par des exemples
+majeurs en la matière : arme du blocus employée par
+l'Entente contre les Empires centraux dès 1915, contre
+l'URSS à Berlin en 1948-1949, contre Cuba par les
+États-Unis en 1962 ; embargo sur les exportations de
+matériel stratégique vers les pays communistes et la
+Chine pendant toute la guerre froide avec la création
+du Cocom (Coordinating Committee for Multilateral
+Export Controls 1949-1994) et du China Committee
+(Chincom) établi en 1952 (Cain, 2007; Zhang, 2014).
+Le boycott est une arme fréquemment utilisée par les
+producteurs de matières premières : ce fut le cas en
+1956 (crise de Suez) et en 1967 (guerre des six jours)
+
+
+des pays arabes
+
+
+lorsque les gouvernements
+producteurs ont institué un boycott des pays
+agresseurs.
+
+
+Après 1945, les dispositifs publics se renforcent dans
+de nombreux pays la France crée même en 1950 un
+nouveau corps de fonctionnaires, le corps de
+l'Expansion économique
+encore favorisés par
+ ,
+l'intensification des politiques d'aide au développement
+durant les années 1960. Ces politiques sont très
+ambivalentes : l'aide est souvent une aide « liée ». Les
+dons et les prêts, d'origine publique ou bénéficiant d'un
+soutien public, servent à financer des achats de biens
+et de services dans le seul pays donneur ou dans un
+groupe de pays qui ne comprend pas la quasi-totalité
+des pays bénéficiaires de l'aide. Les États intègrent les
+instruments de l'aide au développement dans une
+stratégie globale d'expansion économique nationale,
+destinée à assurer la croissance, l'équilibre de la
+balance des paiements, et aussi, à partir de 1973,
+l'emploi. Ainsi, les politiques d'aide au développement
+ont eu des motivations complexes mêlant la solidarité
+internationale et la préoccupation de sortir les sociétés
+du Sud de la misère, mais aussi l'objectif de vendre à
+l'étranger à la fois des produits industriels, des savoir-
+faire techniques, et d'assurer ainsi l'influence, voire la
+domination, du pays créditeur (Badel, 2010). Cela a été
+particulièrement vrai des deux Allemagnes après 1945
+(Lorenzini, 2003).
+
+
+Un outil de la
+
+
+gouvernance
+
+
+mondiale : les enceintes
+
+
+multilatérales de la diplomatie
+
+
+économique
+
+
+La pratique de la coopération multilatérale prend son
+essor au cours des années 1860. La monnaie et la
+douane étant deux prérogatives régaliennes, la
+politique monétaire et la politique commerciale sont
+historiquement deux grands domaines à la main des
+États européens et des lieux privilégiés de la
+concertation intergouvernementale. Les relations
+monétaires internationales ont fait l'objet d'une
+coopération multilatérale qui débute en 1865, année de
+la création de l'Union monétaire latine (Thiemeyer,
+2009). La première guerre mondiale favorise la
+naissance d'une coopération économique interalliée
+appelée à se poursuivre dans l'après-guerre, au sein de
+la Société des nations (Soutou, 1989). Les questions
+monétaires deviennent l'un des domaines centraux de
+la coopération entre l'Europe et les États-Unis. La
+conférence de Gênes, en 1922, s'inscrit dans cette
+continuité en refondant le système monétaire
+international (Fink et al., 2002). Pour faciliter le retour
+aux parités fixes et économiser les réserves d'or
+mondial, le Gold exchange standard est substitué à
+l'ancien Gold standard. La crise économique, née en
+octobre 1929, et l'impossibilité de trouver une solution
+globale lors des négociations de la conférence
+économique de Londres, en juillet 1933, marquent les
+limites de cette dynamique qui se brise sur la
+résistance des intérêts nationaux, à commencer par
+ceux des États-unis, et le repli sur des marchés
+protégés.
+
+
+La coopération intergouvernementale a aussi pour
+objectif de favoriser les échanges commerciaux et les
+investissements : c'est le cas de la conférence
+économique internationale de Genève de 1927, restée
+dans les mémoires, au lendemain des guerres
+douanières qui avaient marqué la fin du siècle
+précédent, comme l'apogée des efforts libre-
+
+
+échangistes des années 1920. À partir d'octobre 1947,
+le General Agreement on Trade and Tariffs (GATT)
+devient le cadre des négociations commerciales
+internationales, et en particulier de l'affrontement des
+États-Unis et de la Communauté économique
+européenne sur la question de la libéralisation des
+échanges (Dillon round, Kennedy round, Tokyo round,
+Uruguay round). Le réengagement politique des États
+se marque par la multiplication des réunions
+ministérielles et des rencontres de chefs d'État et de
+gouvernement : naissance du Conseil européen en 1974
+et du G6 en 1975, devenu G7 en 1976, puis G8 en 1998,
+à la suite de l'entrée du Canada, puis de la Russie, aux
+côtés des États fondateurs : Allemagne, États-Unis,
+France, Italie, Japon et Royaume-Uni (Mourlon-Druol et
+Romero, 2014). Les États s'entendent aussi pour
+réguler l'emploi des crédits à l'exportation et signent
+en 1978, dans le cadre de l'Organisation de coopération
+et de développement économiques (OCDE), un premier
+Arrangement relatif à des lignes directrices pour les
+crédits à l'exportation bénéficiant d'un soutien public
+(Arrangement on guidelines for officially supported
+export credits). La Communauté économique
+européenne est une enceinte régionale de négociation
+où la Commission européenne dispose de pouvoirs
+spécifiques pour faire respecter la libre concurrence.
+Le règlement $n^{o}$ 17 de 1962, dit règlement 17/6214,
+impose la notification à la Commission de tous les
+accords entre les entreprises pouvant affecter les
+échanges entre les pays dans le marché commun
+(Warlouzet, 2016). Il est au fondement du renforcement
+de la politique de la concurrence pendant les années
+1980.
+
+
+À partir de la naissance de l'Organisation mondiale
+du commerce (OMC) en 1995, la diplomatie
+
+
+économique multilatérale est marquée par la
+diversification des objets de la négociation (normes
+environnementales, sociales, etc.) dans la continuité du
+premier élargissement de ces objets (technologiques,
+sanitaires, etc.), effectué à partir du milieu du $XIX^{e}$
+siècle, par la participation des États anciennement
+communistes, l'affirmation des États émergents, et par
+la redéfinition de la relation entre des États et les
+acteurs
+privés.
+D'autres
+enceintes
+intergouvernementales sont apparues à la faveur de
+l'essor des dialogues interrégionaux durant les années
+1990 et des négociations d'accords de libre-échange :
+l'Union européenne a ainsi établi des cadres de
+dialogues privilégiés avec les États-Unis, le Canada, les
+pays latino-américains et les pays asiatiques. L'Asia-
+Pacific Economic Cooperation (APEC) structure depuis
+1989 la relation entre les États riverains du Pacifique.
+Autre évolution sensible : devant la fonte de leurs
+ressources financières, les États recherchent la
+participation des acteurs privés (banques,ONG) et
+intègrent de plus en plus leurs représentants dans les
+délégations pour les conférences internationales.
+D'autre part, si les ONG peuvent organiser des contre-
+manifestations lors des négociations internationales
+comme ce fut le cas à Seattle en 1999, elles sont,
+parallèlement, associées aux négociations onusiennes
+sur l'environnement ou de la Banque mondiale sur le
+développement. En outre, les milieux d'affaires créent
+leurs propres enceintes de négociations parallèles :
+Transatlantic Business Dialogue (TABD), Asia-Europe
+Business Forum (AEBF), etc. (Badel, 2013). Le mode de
+négociation fait aussi l'objet d'une demande accrue de
+transparence : le 9 octobre 2014 est intervenue la
+déclassification du mandat de négociation du traité
+
+
+transatlantique confié à la Commission européenne en
+2013.
+
+
+Les négociations cherchent également à « délier » la
+question de l'aide aux pays pauvres. Les dons ou les
+prêts du secteur public, destinés à soutenir le
+développement des pays récipiendaires du tiers-monde,
+sont soumis à l'obtention des marchés par les
+entreprises du pays donateur ou d'un petit groupe de
+pays donateurs. Les signataires de l'Arrangement de
+1978 acceptent en 1991 un cadre réglementaire,
+nommé les Règles d'Helsinki : elles restreignent de
+façon drastique l'utilisation des crédits d'aide liée. Par
+la suite, durant les années 1990, la question du
+déliement de l'aide est au centre des discussions entre
+les pays de l'OCDE. Au terme de débats engagés en
+1998, l'OCDE fait admettre en 2001 la nécessité de
+progresser vers la fin du mécanisme de l'aide liée, dans
+le cadre de la passation de marchés, par
+une
+Recommandation sur le déliement de l'aide publique au
+développement aux pays les moins avancés (DAC
+recommendation on untying ODA to the least developed
+countries and heavily indebted poor countries). On
+estime qu'entre 1999-2001 et 2008, le pourcentage de
+l'aide bilatérale non liée est progressivement passé de
+46% à 82%. Toutefois, le débat est relancé au cours
+des années 2010 autour de l'idée d'une aide déliée,
+assortie néanmoins d'un faible degré de
+concessionnalité pour soutenir le financement à long
+terme des infrastructures.
+
+
+La
+
+
+diplomatie
+
+
+économique
+
+
+des
+
+
+émergents
+
+
+Les pays non occidentaux ont, à l'exception du Japon,
+développé de manière plus récente les outils de
+
+
+promotion de leur diplomatie économique. Le choc
+pétrolier de 1973 a conduit le gouvernement indien à
+structurer une diplomatie économique, tournée vers le
+Golfe persique et reposant sur l'envoi d'experts et de
+techniciens indiens bien formés (Rana, 2007). Après
+1978, la Chine fait reposer son intégration et son
+affirmation dans la communauté internationale sur une
+diplomatie économique active. Elle est, comme le
+Japon, un bailleur d'aide au développement et un grand
+investisseur tant régional que mondial. Elle accède à
+l'OMC en 2001.
+
+
+Durant les années 2000, le réalisme de fond des pays
+émergents va de pair avec la mobilisation de pratiques
+novatrices en matière de diplomatie publique et de
+nation branding destinées à soutenir leur expansion
+économique à l'étranger. La démocratisation des
+relations internationales oblige en effet tous les États, y
+compris autoritaires, à mettre en place des structures
+en charge de leur diplomatie publique, à développer
+des partenariats public-privé et à les appliquer, non
+seulement à leurs relations culturelles, mais encore à
+leurs relations économiques. À la suite des sanctions
+économiques prises par les États-Unis, l'Allemagne et
+le Japon contre l'Inde en raison de ses essais nucléaires
+en mai 1998, la Confederation of Indian Industry et le
+ministère indien du Commerce créent un India Brand
+Equity Fund pour aider les entreprises indiennes à
+construire leur image de marque à l'étranger, et le
+gouvernement indien institue en 2006 une Public
+Diplomacy Division au sein du ministère des Affaires
+étrangères, qui orchestre, avec le ministère du
+Tourisme, des campagnes publicitaires assez
+spectaculaires (Rana, 2007). La stratégie économique
+de la Chine se double, elle aussi, d'une diplomatie
+d'influence qui repose depuis 2004 sur le réseau des
+
+
+instituts Confucius. C'est également le cas de la Russie
+et de la Turquie.
+
+
+L'affirmation de la diplomatie économique des
+émergents correspond à une phase d'intensification des
+relations interrégionales. La structuration des
+dispositifs
+nationaux se double d'une diplomatie
+économique multilatérale foisonnante dont deux
+enceintes principales sont le Trans Pacific Partnership
+(TPP) lancé en 2008 entre douze États, dont les États-
+Unis mais pas la Chine, et l'Asian Regional
+Comprehensive Economic Partnership (RCEP), établi en
+2012 entre seize pays membres, dont la Chine mais pas
+les États-Unis. L'Afrique du Sud ne partait pas de rien
+au moment de l'arrivée au pouvoir de l'African National
+Congress (ANC) en 1994. L'Afrikaanse Handelsinstituut
+avait été créé en 1942 pour lutter contre la
+prédominance britannique sur le monde des affaires
+(Pfister, 2005). La rapide libéralisation du commerce au
+cours des années 1990 va de pair avec un engagement
+multilatéral illustré par le Programme du millénaire
+pour le redressement de l'Afrique présenté par le
+président sud-africain Thabo Mbeki au forum de Davos
+de 2001, l'une des sources de la Nouvelle initiative
+africaine (NIA) adoptée par le Sommet de
+l'organisation de l'Union africaine de Lusaka en 2001,
+et rebaptisée Nepad, New Partnership for Africa's
+Development. Parallèlement, un accord-cadre a été
+signé en 2000 par l'Afrique du Sud et le Marché
+commun du Sud (Mercosur), et a débouché sur l'accord
+commercial préférentiel signé en 2008 entre le
+Mercosur et la Southern African Custom Union (SACU),
+l'Union douanière d'Afrique australe.
+
+
+Souvent mus par des contraintes budgétaires
+internes, les États occidentaux ont aussi dû s'adapter à
+l'apparition de ces concurrents nouveaux et modifier
+leur propre stratégie en conséquence. Ils peuvent
+
+
+franchir un nouveau palier en recourant à des
+consultants pour construire l'image de marque (nation-
+branding) du pays. Il ne s'agit plus tant de promouvoir
+un pays que de le
+«
+vendre >> aux touristes, aux
+investisseurs étrangers, aux industriels, pratique qui,
+en réalité, s'enracine dans le $XIX^{e}$ siècle . Enfin, les
+dispositifs publics sont restructurés pendant les années
+1990 et 2000, et certains, comme la France, achèvent
+une mue difficile et lente. Membre du groupe des sept
+grands pays industrialisés (G7), le Canada a été un
+pays pionnier en la matière. En 1993, le ministère des
+Affaires étrangères prend le nom de Department of
+Foreign Affairs and International Trade (DFAIT),
+rebaptisé en juin 2013 Department of Foreign Affairs,
+Trade and Development (DFATD), puis en novembre
+2015, Global Affairs Canada, par le gouvernement de
+Justin Trudeau. Le Canada a, en outre, une diplomatie
+économique multilatérale très active, tant dans le
+domaine de l'aide au développement que dans le
+domaine commercial. Il est le pays du G8 disposant
+d'un accès préférentiel aux marchés des États-Unis
+(North American Free Trade Agreement
+Nafta  ,
+décembre 1992) et, depuis peu, de l'Union européenne.
+L'accord de libre-échange avec l'UE a été ratifié en
+octobre 2016 : Comprehensive Economic and Trade
+Agreement (CETA) et approuvé par le Parlement
+européen en février 2017.
+
+
+Durant les années 2000, de grandes agences voient le
+jour et incarnent la diplomatie économique « New Look
+» de nombreux États post-modernes ou émergents. Le
+gouvernement Blair crée en mai 1999 un nouvel
+organisme qui a centralisé les fonctions de la
+diplomatie commerciale jusque-là dispersées entre
+plusieurs agences : récolter l'information, promouvoir
+les produits britanniques et développer les contacts
+
+
+dans les pays d'accueil. Dépendant conjointement du
+Foreign and Commonwealth Office et du Department of
+Trade and Industry, cet organisme (British Trade
+International BTI) comprenait deux parties : Trade
+Partners UK, pour la diplomatie commerciale, et Invest
+UK, pour les investissements étrangers. En 2003, ces
+deux départements internes ont fusionné et le BTI a
+pris le nom de UK Trade and Investment (UKTI) (Lee,
+2004). En Allemagne, la Gesellschaft für
+Außenwirtschaft und Standortmarketing, ou encore
+GTAI (Germany Trade and Invest MBH), est instituée
+en 2009 afin d'assurer : le « marketing de l'Allemagne
+en tant que site économique, d'investissement et de
+technologie,
+y
+compris l'acquisition active
+d'investisseurs (marketing de lieu d'implantation) ainsi
+que l'assistance aux entreprises étrangères souhaitant
+étendre leurs activités au marché allemand et aux
+entreprises allemandes orientées vers l'exportation lors
+de la conquête de marchés étrangers 1
+».
+Les
+restructurations en Autriche donnent naissance à
+Außenwirtschaft Austria en 2012. En rattachant le
+commerce extérieur et le tourisme à son ministère en
+avril 2014, en parachevant le mouvement de fusion,
+engagé vingt ans plus tôt, des différents organismes en
+charge du commerce extérieur et des investissements
+étrangers, Laurent Fabius a normalisé le dispositif
+français de diplomatie économique (Badel, 2010).
+L'agence Business France naît le 1er janvier 2015 de la
+fusion d'Ubifrance (2003) et de l'Agence française pour
+les investissements internationaux (AFII, 2001) avec
+pour objectif de soutenir l'internationalisation des
+petites et moyennes entreprises françaises et d'attirer
+les entreprises étrangères sur le sol national. La
+Brazilian Trade and Investment Promotion Agency
+(Apex-Brazil) voit le jour en 2003, l'Agence marocaine
+
+
+de développement des investissements
+exportations (AMDIE) en décembre 2017.
+
+
+et des
+
+
+Le cas de la Belgique rappelle enfin que la diplomatie
+économique n'a jamais été uniquement une affaire
+d'États mais qu'elle a pu être orchestrée à une échelle
+infra-nationale. Ce fut le cas au $XIX^{e}$ siècle avec les
+missions des chambres de commerce, des villes
+hanséatiques ou des Länder allemands. La Belgique n'a
+jamais eu de ministère du Commerce extérieur (à la
+différence de la France qui en crée un au milieu des
+années 1970), et ce domaine a toujours été du ressort
+du ministère des Affaires étrangères. Mais ce sont
+surtout les régions (Flandres, Wallonie, Bruxelles) qui
+sont compétentes en matière de diplomatie
+commerciale. Elles ont créé au début des années 1990
+leurs propres agences de promotion des exportations :
+l'Agence wallonne à l'exportation aux investissements
+étrangers (AWEX), Bruxelles Invest & Export (BIE) et
+Flanders Investment & Trade (FIT). Chacune peut
+s'appuyer sur un réseau d'attachés économiques et
+commerciaux comme sur le réseau des ambassades
+belges dans le monde (Coolsaet,
+2004). Le
+gouvernement fédéral garde la main sur la politique
+commerciale multilatérale.
+
+
+Diplomatie
+
+
+diplomatie
+
+
+économique
+
+
+d'entreprise
+
+
+versus
+
+
+une
+
+
+histoire à
+
+
+:
+
+
+mettre en perspective
+
+
+En raison du constat de la forte augmentation des
+investissements directs à l'étranger (IDE) pendant les
+années 1990, beaucoup d'études estiment que l'entrée
+des entreprises multinationales dans l'arène
+
+
+diplomatique s'effectue dans cette décennie-là afin de
+tenir compte des diverses lois et règlements locaux,
+nationaux ou internationaux et, surtout, de traiter avec
+les États ou les collectivités territoriales où elles
+souhaitent s'implanter et de répliquer à des ONG très
+incisives. En d'autres termes, elles doivent répondre à
+une contrainte double : obtenir le soutien des pouvoirs
+publics et faire en sorte que leur implantation soit
+perçue comme légitime par le grand public. Elles
+doivent aussi souvent répondre d'actions qui suscitent
+des mouvements transnationaux de réprobation comme
+les activités du groupe Total en Birmanie au début des
+années 2000 ou le Volkswagengate de 2015.
+
+
+Dans ce contexte, les grandes entreprises créent des
+services, directions ou départements aux intitulés
+variables : relations institutionnelles,
+relations
+publiques, etc., qui sont en charge de la « diplomatie
+d'entreprise
+>>
+et leur permettent en particulier
+d'intervenir dans deux grands domaines : le sociétal et
+l'environnemental. La page d'accueil du site internet du
+groupe pétrolier Total proclame ainsi en 2016 son
+engagement pour « protéger les personnes, répondre
+aux défis environnementaux, contribuer à un
+développement partagé », et invite à prendre
+connaissance des trois valeurs fondatrices de l'«
+éthique >> du groupe : respect, responsabilité,
+exemplarité ». Total édite aussi un code de conduite en
+dix-neuf langues sur lequel veille, depuis 2001, un
+comité d'éthique. De manière similaire, la page
+d'accueil de l'entreprise de communication et de
+divertissement Vivendi affiche sa
+sociétale » et permet de télécharger le « Cahier des
+indicateurs extra-financiers » où se trouvent exposées
+les relations avec les partenaires.
+
+
+<<
+
+
+responsabilité
+
+
+Ces entreprises semblent donc inaugurer des
+pratiques nouvelles en mettant en place des structures
+
+
+de représentation spécifiques, que ni les services de
+communication internes, ni les services de marketing
+ou de publicité ne pouvaient réellement assurer
+(Muldoon, 2005). Deux concepts nouveaux viennent les
+désigner, parfois distingués, parfois utilisés de manière
+interchangeable (c'est le cas chez Ruël et Wolters,
+2016). La notion de corporate diplomacy s'applique au
+processus visant à renforcer la cohésion interne de
+l'entreprise. Elle met en jeu la capacité du dirigeant
+d'entreprise à maîtriser tant la culture globale de
+l'entreprise que celle de la filiale qu'il dirige dans un
+pays donné, et les autres cultures qui imprègnent aussi
+la culture de l'entreprise. La seconde, business
+diplomacy, recouvre les relations de la firme avec ses
+partenaires extérieurs (Saner et Yiu, 2008).
+De
+nombreuses multinationales emploient, aujourd'hui,
+des diplomates à ce type de poste. C'est le cas aux
+États-Unis ; ça l'est aussi en France. Ambassadeur à
+Athènes, Christophe Farnaud est mis en disponibilité de
+2012 à 2016 pour assumer la fonction de vice-président
+des relations internationales pour le groupe Thalès
+avant de prendre la tête de l'ambassade de France à
+Pretoria. Sylvie Forbin, entrée au Quai d'Orsay en
+1983, est nommée vice-présidente des affaires
+institutionnelles et européennes de Vivendi en 2001
+avant de devenir en juillet 2016 directrice générale du
+secteur culture et industries créatives de l'Organisation
+mondiale de la propriété intellectuelle (OMPI). Le rôle
+de ces « diplomates d'entreprise » ne peut être réduit à
+un rôle de représentation de l'entreprise auprès des
+pouvoirs publics et des entrepreneurs locaux (Lucas,
+2012). Il oscille entre communication d'influence,
+lobbying, collecte d'une information stratégique et
+action culturelle au sens large.
+
+
+Pour autant, l'adaptation des grandes entreprises aux
+évolutions
+internationales et sociétales, leur
+
+
+comportement de « firms as diplomats » (Strange,
+1988) doivent être mis en perspective à l'aune des
+premiers travaux historiques de fond dont on
+commence à disposer. La Compagnie française des
+pétroles (CFP), futur Total, a été l'avant-garde de l'État
+français dans un Golfe persique encore sous
+domination britannique et a tenu un rôle de diplomate
+informel non seulement en soutenant l'essor des
+exportations françaises dans la région mais aussi en y
+exerçant une action culturelle, développée à partir de
+1954 par un ingénieur civil des Mines, Jean Rondot
+qui a le titre de « représentant de la CFP dans les États
+du Levant
+>>
+(Wursthorn, 2017). Son poste est
+institutionnalisé lors de sa reprise en 1958 par François
+de Laboulaye, diplomate de carrière qui crée un
+département des relations extérieures au sein de
+l'entreprise. En 1970, l'ancien ambassadeur de France
+à Séoul, Roger Chambard, devient directeur du service
+de l'information et des relations publiques de Pechiney-
+Ugine-Kuhlmann, dans une décennie où le groupe
+s'affirme comme l'un des deux principaux investisseurs
+français, avec Rhône-Poulenc, en Corée du Sud (Fauvet,
+2016). Les associations patronales ont pu aussi assurer
+une fonction de représentation et de négociation. C'est
+le cas du Conseil national du patronat français, créé en
+1945. En Allemagne de l'Ouest, le Comité de l'Est de
+l'économie allemande (Ost-Ausschuss der Deutschen
+Wirtschaft) créé à l'automne 1952 (Jüngerkes, 2012)
+tint un rôle central pour nouer des relations avec les
+États communistes d'Europe orientale et d'Asie avec
+lesquels la RFA n'entretenait aucune relation
+diplomatique officielle. Il conclut le premier traité
+commercial avec la République populaire de Chine en
+1957, quinze ans avant l'établissement des relations
+diplomatiques entre les deux États (Jüngerkes, 2012).
+Lorsque les États-Unis interdisent au Japon, entre 1945
+
+
+et 1952, de nommer à l'étranger des diplomates, ce
+sont les membres des zaikai, les syndicats patronaux
+parmi lesquels le Keidanren créé en 1946 joue, jusqu'à
+nos jours, un rôle crucial qui se substituent aux
+diplomates pour conduire la reprise des relations
+économiques extérieures et tiennent un rôle dans la
+négociation du traité de San Francisco de 1951
+(Bryant, 1975). Ainsi, bien avant les années 1990, les
+entreprises ont mis en place structures et individus
+destinés à développer des canaux de représentation,
+d'information, de négociation et de promotion des
+intérêts nationaux soit pour servir de palliatif à une
+fonction que l'État ne pouvait remplir structurellement
+ou ne voulait tenir politiquement, soit pour promouvoir
+leurs propres intérêts.
+
+
+La question qui se pose est celle du conflit potentiel
+entre les objectifs poursuivis par cette diplomatie
+d'entreprise et ceux de l'État dont l'entreprise est
+originaire, par les pressions exercées sur la puissance
+publique pour obtenir une mise à l'agenda de la
+négociation des objets servant les intérêts
+de
+l'entreprise aux dépens de ceux des États. Les débats
+qui entourent, durant les années 2010, la négociation
+du « Traité transatlantique » (Transatlantic Trade and
+Investment Partnership – TTIP) engagée en juin 2013
+entre l'Union européenne et les États-Unis, sont un bon
+exemple de la complexité qui préside aux négociations
+économiques du début du $XXI^{e}$ siècle. C'est à la
+demande du département du Commerce des États-Unis
+et de la Commission européenne que plusieurs
+dirigeants d'entreprises Allaire (Xerox), Trotman
+(Ford), Mead (Tenneco), Luke (Westvaco), Hudson
+(AMP Incorporated), Murphy (Dresser Industries),
+Strube (BASF), Sutherland (Goldman Sachs
+International), etc. – acceptèrent en 1995 de participer
+
+
+à la constitution du Dialogue transatlantique des
+entrepreneurs (Transatlantic Business Dialogue
+TABD) qui constitua un des principaux forums
+d'élaboration du TTIP. Ce dialogue entre entreprises
+américaines et européennes s'inscrit aujourd'hui au
+sein d'une instance plus large, le TABC (Transatlantic
+Business Council), issu de la fusion en 2013 du TABD et
+du EABC (European-American Business Council). Cette
+forme renouvelée de partenariat « public-privé » est un
+nouvel exemple permettant d'explorer la notion de «
+multilatéralisme privé » et ses limites tant la porosité
+des sphères est patente.
+
+
+*
+
+
+Traiter de la diplomatie économique requiert donc de
+ne pas se laisser enfermer dans une vision
+compartimentée de l'action extérieure. En ce début de
+$XXI^{e}$ siècle, la diplomatie économique participe
+étroitement d'une diplomatie publique comme d'une
+vision stratégique des relations internationales.
+Davantage peut-être que dans d'autres domaines de
+l'action extérieure, la question de l'indépendance des
+acteurs privés par rapport aux acteurs publics est
+discutée avec une vigueur renouvelée au début des
+années 2000, et elle alimente le débat sur les « méfaits
+» de « la » mondialisation. Elle induit une réflexion sur
+la conduite éventuelle d'une diplomatie économique
+sans diplomate.
+
+
+Bibliographie commentée
+
+
+BADEL Laurence, Diplomatie et grands contrats. L'État français et les
+marchés extérieurs au $XX^{e}$ siècle, Paris, Publications de la Sorbonne,
+2010.
+
+
+1.
+
+
+Ouvrage de référence sur la diplomatie économique de la France
+au $XX^{e}$ siècle jusqu'à l'orée des réformes parachevées par Laurent
+Fabius entre 2012 et 2016. Il analyse la difficile coordination de ses
+acteurs publics, parapublics et privés, les mécanismes de
+financement et de garantie des exportations pour favoriser
+l'internationalisation des entreprises françaises et met en lumière
+les enjeux politiques et culturels de pratiques inscrites dans le
+contexte particulier de la guerre froide et de l'émergence de
+nouveaux marchés en développement.
+
+
+CARRON DE LA CARRIÈRE Guy, La Diplomatie économique. Le diplomate et
+le marché, Paris, Economica, 1998.
+
+
+Écrit par l'ancien directeur adjoint des relations économiques
+extérieures et ancien directeur du Centre français du commerce
+extérieur, en activité dans les années 1960-1980, cet ouvrage
+apporte une analyse réflexive sur l'évolution de la mobilisation des
+États au service des entreprises.
+
+
+LUCAS Didier (dir.), Les Diplomates d'entreprise. Pouvoirs, réseaux,
+influence, Paris, Choiseul, 2012.
+
+
+Ouvrage collectif qui comprend de nombreux témoignages de
+praticiens. Il présente la manière dont les entreprises françaises se
+sont restructurées, dans les années 2000, pour répondre aux
+nouveaux défis sociétaux et environnementaux et à la concurrence
+des États émergents, en créant des services en charge de la
+communication institutionnelle.
+
+
+SOUTOU Georges-Henri, L'Or et le Sang. Les buts de guerre
+économiques de la première guerre mondiale, Paris, Fayard, 1989.
+Un ouvrage majeur d'histoire comparée de la formulation et de
+l'évolution des buts de guerre économiques de l'Allemagne, des
+États-Unis, de la France et du Royaume-Uni. Il met l'accent sur la
+collaboration des milieux privés et gouvernementaux et
+l'affermissement de pratiques interétatiques coopératives qui vont
+imprimer durablement leur marque sur le xx siècle.
+
+
+STRANGE Susan, States and Markets, Londres, Pinter, 1988.
+
+
+Un classique de l'économie politique internationale. Susan Strange
+bouleverse l'interprétation réaliste des relations internationales en
+se concentrant sur les stratégies internationales des
+multinationales dans un contexte de dérégulation du système
+financier mondial et en examinant la redistribution du pouvoir
+entre les entreprises et les États.
+
+
+www.gtai.de/GTAI/Navigation/FR/Meta/Nous-
+
+
+concernant/historique.html [consulté le 23 avril 2018].
+
+
+Chapitre 15
+
+
+La diplomatie culturelle
+
+
+Marie-Christine Kessler
+
+
+P
+
+
+our parler de la diplomatie culturelle, il faut en
+donner une définition. Officiellement, il s'agit d'un
+secteur de la politique étrangère. La diplomatie
+culturelle est en effet une politique publique qui vise,
+dans le cadre de la politique étrangère, à l'exportation
+de données représentatives de la culture nationale, et à
+des interactions avec d'autres pays dans ce même
+domaine culturel. La politique étrangère, prérogative
+régalienne, étant formulée par l'État qui cherche à
+défendre ses intérêts sur la scène internationale, on ne
+s'étonnera pas de voir le plus souvent le secteur
+culturel traité sous forme de conventions de
+coopération culturelle signées entre représentants de
+deux États pour conduire une opération conjointe ayant
+leur accord mutuel. La France et l'Allemagne ont ainsi
+
+
+des « sommets culturels » où se règlent des problèmes
+et s'organisent des actions croisées. Des actions ciblées
+peuvent aussi être engagées, comme la création du
+Louvre Abou Dhabi, qui procède d'un accord
+intergouvernemental signé le 6 mars 2007 entre la
+France et les Émirats arabes unis.
+
+
+Cette définition de la diplomatie culturelle liée à une
+conception traditionnelle du fruit de l'action étatique a
+toutefois ses limites. D'abord parce que dans la
+pratique, les États n'apparaissent pas toujours de façon
+visible ou officielle. La diplomatie culturelle s'affiche de
+plus en plus comme une action coopérative, où l'État
+s'appuie sur d'autres forces ; lesquelles sont davantage
+mises en valeur. La diplomatie culturelle procède alors
+de ce que Joseph Nye a appelé le soft power, c'est-à-
+dire la recherche du pouvoir (ou de l'influence) par
+d'autres moyens que la force (Nye,
+1990).
+La
+diplomatie culturelle est une arme de choix dans cette
+perspective d'augmenter un pouvoir d'attraction et
+d'influence.
+
+
+Une politique culturelle extérieure a pour
+destinataires des publics étrangers qu'elle cherche à
+séduire, influencer, attirer par des moyens divers. La
+palette d'interventions potentielles est large car le mot
+« culture » est flou, et ses vecteurs se sont diversifiés,
+notamment avec l'audiovisuel, la presse, internet, les
+réseaux sociaux... Les acteurs qui animent ces espaces
+peuvent être nombreux, et leurs contours peu lisibles.
+Le mot « culture » peut alors servir d'alibi, et les
+notions de propagande, de déstabilisation, d'action
+psychologique planent sur ces activités. Mais le mot «
+culture » se réclame aussi d'un sens noble : celui de la
+préservation du patrimoine, du développement
+artistique, intellectuel, littéraire, de la circulation des
+idées, du respect des normes dépassant les intérêts
+particuliers. Cette diplomatie culturelle repose sur les
+
+
+efforts internationaux de sauvegarde des biens
+communs, de partage des ressources de l'intelligence
+et de la créativité humaine. Elle peut s'inscrire dans
+des diplomaties bilatérales, mais surtout, de plus en
+plus, dans la vocation multilatérale d'organisations
+internationales, au premier rang desquelles figure
+l'Organisation des Nations unies pour l'éducation, la
+science et la culture (Unesco).
+
+
+Les acteurs étatiques nationaux
+de la diplomatie
+
+
+culturelle
+
+
+Les acteurs de la diplomatie culturelle font partie du
+système étatique et de la diplomatie d'État, dans la
+perspective d'un interventionnisme volontariste de ce
+dernier. On rencontre néanmoins des configurations
+variées, en fonction des régimes politiques impliqués
+(Roche, 2006).
+
+
+Le cas particulier des régimes autoritaires
+
+
+Il faut dire un mot, d'abord, de l'approche qui est
+celle des régimes autoritaires, avant d'entrer plus
+directement dans l'acception contemporaine classique
+du terme « diplomatie culturelle », plus propre aux
+démocraties. L'exemple le plus classique est celui de
+l'URSS et des démocraties populaires qui disposaient, à
+l'époque de la bipolarité (1947-1991), d'un système
+diplomatique très centralisé, qui supervisait la conduite
+des négociations officielles dans le domaine culturel.
+Les démocraties populaires d'Europe de l'Est, dans la
+période post-stalinienne (1953-1991), conduisaient par
+exemple leurs relations culturelles avec la France au
+travers de commissions mixtes qui régulaient avec
+précision le nombre des boursiers ou de missions
+
+
+constitutives des échanges culturels et artistiques.
+Certains pays ont superposé à ce système diplomatique
+un réseau d'organisations dites culturelles chargées
+d'organiser des rencontres, des cours ou séminaires,
+destinés au public du pays d'implantation. Peu après sa
+naissance, l'URSS avait également mis en place les
+VOKS - All Unions Society for Cultural Relations With
+Foreign Countries (Fayet, 2013), imitée ensuite par
+plusieurs pays du Pacte de Varsovie (instituts culturels,
+bibliothèques ont peuplé les capitales européennes,
+comme l'institut culturel de la RDA à Paris, situé
+boulevard Saint-Germain).
+
+
+Depuis la fin de l'URSS, la Russie, surtout depuis la
+période poutinienne inaugurée en 2000, a maintenu ces
+pratiques, entre relations culturelles et propagande
+d'État. Les chaînes de télévision russes (Russia Today)
+ou d'obédience russe (Sputnik TV), les sites internet ou
+activistes de la toile (les « trolls ») favorables aux
+thèses du Kremlin l'attestent, au point qu'un débat
+s'est ouvert dans les démocraties occidentales sur leur
+impact lors de consultations électorales importantes.
+
+
+Autre régime autoritaire, la Chine peut également
+tabler sur un système et un réseau diplomatiques
+efficaces (deuxième réseau diplomatique du monde en
+termes d'ambassades bilatérales) pour développer une
+diplomatie culturelle voulue, elle aussi contrôlée par
+l'État et favorable à ses thèses. Elle a depuis 2004
+travaillé à la mise en place des instituts Confucius
+souvent considérés comme l'émanation directe du
+pouvoir politique. Ils relèvent du Hanban à Pékin
+(Bureau de la Commission pour la diffusion
+internationale du chinois), qui finance ces instituts et
+coordonne leur activité. Le ministère de l'Éducation de
+la République populaire de Chine choisit leur
+implantation. En 2010, on comptait 316 instituts dans
+94 pays. Ces instituts nouent des partenariats à but non
+
+
+lucratif avec des universités ou autres institutions, non
+sans controverse, puisque plusieurs universités
+occidentales ont refusé de s'associer à un organisme
+considéré comme une émanation du parti communiste
+chinois (Arodirik, 2015) et ne jouant pas le jeu de la
+diplomatie culturelle désintéressée telle qu'on la
+conçoit dans les démocraties libérales.
+
+
+Le cas de la France, exemple de diplomatie culturelle
+démocratique d'État
+
+
+La France est le seul pays démocratique qui conduise
+sa politique culturelle extérieure au travers de
+structures étatiques et administratives spécifiques, et y
+consacre une part significative du budget de l'État.
+Depuis la fin du $XIX^{e}$ siècle s'est construit un système
+gouvernemental de politique culturelle extérieure qui
+illustre à bien des égards le schéma du « tout État ».
+Cet héritage remonte à François Ier et aux
+Capitulations de 1536, qui lui donnaient un droit et un
+devoir de protection de ses marchands, de ses religieux
+et des chrétiens au Proche-Orient (Kessler, 1999).
+
+
+Depuis 1840, le ministère des Affaires étrangères
+accorde des billets de bateau gratuits aux
+missionnaires enseignants. Les premiers accords
+culturels bilatéraux officiels sont signés à cette époque
+par les diplomates français. En 1883 est fondée à
+l'initiative de plusieurs personnalités administratives,
+politiques et universitaires (et avec le soutien du
+ministère des Affaires étrangères) l'Alliance française,
+réseau de comités locaux privés à l'étranger
+coordonnés à Paris et voués à l'enseignement du
+français et à la diffusion de la culture française.
+
+
+À partir des débuts du $XX^{e}$ siècle, un édifice
+administratif spécifique, doté de fonds publics et voué
+au développement d'une implantation culturelle
+
+
+française à l'étranger et à sa gestion se met en place. Il
+se développera dans l'entre-deux-guerres avec la
+consécration d'un « service des œuvres » chargé des
+affaires culturelles au ministère des Affaires
+étrangères, et avec la création de l'Association
+française d'expansion et d'échanges artistiques à
+l'étranger. Des instituts culturels français, des lycées
+français, s'implantent à l'étranger, toujours plus
+nombreux (Roche et Piniau, 1995).
+
+
+Aux lendemains de la seconde guerre mondiale, la
+place prédominante de l'État dans l'action culturelle
+extérieure s'accroît. Une direction des affaires
+culturelles est créée en 1945 (ordonnance du 13 avril
+et décret du 17 juillet), chargée de « démontrer la
+vitalité de la pensée française ». Ses champs d'action
+ne cessent de croître. La France est le seul pays qui
+regroupe, sous l'égide du ministère des Affaires
+étrangères, une très large palette de domaines
+d'intervention. La Direction des relations culturelles
+devient en 1967 Direction des relations culturelles
+scientifiques et techniques. Elle est responsable de la
+diffusion de la langue et de l'enseignement du français
+à l'étranger, des échanges artistiques, de la
+coopération scientifique et technique, d'une large
+partie de la coopération au développement, de
+l'audiovisuel extérieur. Elle a des crédits importants.
+Des années 1960 à 1980, ses ressources atteignent 53
+% du budget du Quai d'Orsay. Cet appareil central
+s'appuie sur une solide infrastructure à l'étranger. Les
+conseillers culturels apparaissent dans les ambassades
+en 1949. Déjà ancien, le « réseau » français s'est étoffé
+pour devenir l'un des plus denses dans le monde. Il
+comporte, en 1996, 300 lycées, 132 centres et instituts
+culturels, 1 060 Alliances françaises, 25 instituts de
+recherche, 200 missions de fouilles archéologiques et
+un personnel composé de 9 000 Français et 15 000
+
+
+recrutés locaux. Ce système fut cependant critiqué au
+sein même de l'institution. De nombreux rapports ont
+considéré qu'il devait être modernisé et simplifié. On a
+ainsi mis en cause le caractère obsolète des modes
+d'apprentissage du français et de la programmation des
+instituts culturels, ainsi que les rivalités de terrain
+entre Alliances française et instituts culturels.
+
+
+Mais le rôle primordial de l'État et du ministère des
+Affaires étrangères dans le domaine des relations
+culturelles n'est jamais mis en question. La doctrine de
+l'intervention directe de l'État dans la politique
+culturelle extérieure est un postulat officiel
+pratiquement immuable au fil des années, et partagé
+par tous les acteurs politiques et administratifs. Il
+s'inscrit également sous le sigle de la défense de la
+francophonie. L'enseignement du français demeure la
+priorité de la diplomatie culturelle française en 2017.
+La raréfaction des crédits, la diminution du budget des
+affaires étrangères l'atteignent moins que les autres
+secteurs de l'action culturelle extérieure, fortement
+touchés. On compte, en 2017, 492 établissements
+homologués par l'Éducation nationale, 74 gérés
+directement par l'AEFE (Agence pour l'enseignement
+du français à l'étranger), établissement public placé
+sous la tutelle du ministère des Affaires étrangères.
+
+
+Le pilier en est la nécessité de maintenir
+l'apprentissage du français à l'étranger pour conserver
+le prestige et le poids de la France dans le monde, et
+défendre par la promotion de sa culture son idéal
+démocratique né en 1789. S'ajoute à cela la certitude
+du lien entre culture et commerce. Cette croyance qui
+fut à la base de la création des Alliances françaises
+subsiste depuis plus de cent ans. Sur la première page
+du Bulletin de l'Alliance française en 1884 figurait la
+mention suivante : « La langue française donne des
+habitudes françaises ; les habitudes françaises amènent
+
+
+l'achat de produits français. Celui qui sait le français
+devient le client de la France » (Rosselli, 1996). On
+saisit, dans cette présentation, qui ne serait sans doute
+plus assumée comme telle aujourd'hui, l'un des enjeux
+véritables de la diplomatie culturelle, à savoir
+l'économie, en plus de la politique.
+
+
+L'autre instrument de cette diplomatie est d'ailleurs
+la constitution d'opérations croisées
+«
+promotion
+artistique/promotion économique ». Un exemple peut
+être donné, avec les Saisons qui ont fait dialoguer la
+France avec plus de soixante pays, depuis 1984.
+Centrées à l'origine exclusivement sur les arts et la
+culture, elles s'ouvrent aujourd'hui à la recherche, à
+l'enseignement supérieur, à l'éducation, au sport, au
+tourisme, à l'économie ou encore à la gastronomie.
+D'une durée de trois à six mois (Saison) ou de six à
+douze mois (Année), les Saisons et Années croisées
+sont décidées au plus haut niveau de l'État et reflètent
+les orientations de la France en matière culturelle.
+
+
+Depuis 2008, avec la mise en place d'un nouveau
+schéma, le modèle français de diplomatie culturelle
+tend à se rapprocher de modèles étrangers européens,
+moins étatisés, et sous-traitant davantage à des
+agences, et surtout à des acteurs privés. Les nouveaux
+médias (chaînes d'information globales par exemple),
+utiles pour leur vaste diffusion mais dont les contenus
+sont difficiles à imposer dans le cadre d'une diplomatie
+démocratique, le rayonnement d'entreprises privées
+(luxe, ou marques françaises de référence),
+personnalités (artistes, intellectuels,
+sportifs...)
+participent ainsi de la diffusion de la culture
+française,
+sans que les Affaires étrangères en soient les
+initiatrices. Sur le terrain, l'ambassade et les
+conseillers culturels se font de plus en plus promoteurs
+ou accompagnateurs d'initiatives, et moins
+organisateurs uniques d'événements. La diplomatie
+
+
+culturelle est de la compétence de la Direction générale
+de la mondialisation du développement et des
+partenariats (la Direction générale des relations
+culturelles a disparu). Trois nouvelles agences ayant le
+statut d'établissement public à caractère industriel et
+commercial lui sont liées : l'une est dédiée à la
+promotion de la culture française, l'institut français,
+l'autre à la valorisation et à la promotion du système
+d'enseignement supérieur français, Campus France, et
+la dernière est vouée à promouvoir l'assistance
+technique et à l'expertise internationale, Expertise
+France.
+
+
+Les modèles européens de diplomatie culturelle coopérative
+
+
+Le recours à des opérateurs dépendants de l'État
+mais ayant une autonomie plus ou moins importante est
+en effet le modèle le plus fréquent de diplomatie
+culturelle dans le monde actuel (Roche et Piniau,
+1998), en partie inspiré de pratiques anglo-saxonnes.
+Ces opérateurs peuvent être nombreux et avoir des
+spécialisations différentes dans un même pays.
+
+
+L'Allemagne, par exemple avec les instituts Goethe
+pour l'apprentissage linguistique et les échanges
+culturels, le DAAD (Deutscher
+Akademischer
+Austauschdienst), créée en 1925, pour les bourses et
+les jeunes artistes, les fondations privées mais
+subventionnées par l'État, comme la Friedrich Ebert
+Stiftung, ou la Konrad Adenauer Stiftung, qui financent
+et publient des études à caractère plus politique
+(Dakowska, 2014). Ailleurs, un acteur majeur peut
+détenir une position surplombante dans le dispositif
+culturel, comme le British Council au Royaume-Uni, les
+instituts Cervantès en Espagne (Jacques, 2015).
+
+
+La dépendance à l'égard de l'État peut alors prendre
+des formes diverses. La formule la plus courante est un
+cofinancement public/privé. Les contrôles des autorités
+
+
+gouvernementales et politiques peuvent être plus ou
+moins forts. Dans certains cas comme celui du DAAD,
+l'autonomie est presque totale. Dans d'autres comme
+celui du British Council, elle est moins réelle que ce
+que l'on en dit souvent : ses grandes orientations sont
+arrêtées au Foreign and Commonwealth Office, et il
+existe un contrôle parlementaire sur le budget (Haize,
+2012).
+
+
+Le modèle américain de la diplomatie culturelle étatique
+masquée
+
+
+Le dernier modèle est celui de la non-intervention
+apparente de l'État, qui caractérise surtout le cas des
+États-Unis. Officiellement, la diplomatie culturelle
+américaine ne bénéficie d'aucune structure officielle
+étatique ou para-étatique. Celle-ci relève du secteur
+privé, du mécénat, des fondations privées, des
+collectionneurs. Pour autant, il serait inexact d'en
+conclure à l'absence d'une diplomatie culturelle des
+États-Unis. L'État intervient sous l'angle de normes
+protectrices, d'une superposition entre politiques
+culturelles extérieures et politiques commerciales et
+industrielles. Les industries culturelles ou de
+l'entertainment (loisir, culture, information) peuvent
+bénéficier de l'organisation du marché et de systèmes
+commerciaux et douaniers. Les États-Unis sont
+fortement conditionnés par l'exemple de leur cinéma
+qui s'est structuré autour d'une logique commerciale,
+laquelle a vu les entreprises américaines, par leurs
+pratiques anticoncurrentielles, conquérir et contrôler le
+marché national puis international.
+
+
+L'arme politique culturelle existe également aussi aux
+États Unis, par-delà cette logique privée. L'utilisation
+d'une diplomatie intellectuelle comme instrument de la
+lutte contre l'expansionnisme idéologique soviétique de
+l'après-seconde guerre mondiale en témoigne. Le
+
+
+Congrès pour la liberté de la culture (Congres for
+Cultural Freedom  CCF), fondé en 1950 et domicilié à
+Paris, fut une association culturelle anticommuniste
+totalement apolitique en apparence (Grémion, 2015).
+Ses instruments d'action étaient indirects et
+sophistiqués : création de réseaux
+d'intellectuels
+européens accueillis dans des universités américaines,
+rencontres scientifiques, publication de revues de haut
+niveau (Preuves, en France). En 1967, il fut révélé que
+la CIA finançait secrètement le CCF au travers de
+fondations écrans tout comme la fondation Ford. À son
+apogée, le CCF était actif dans trente-cinq pays et
+s'était acquis l'aide de grands intellectuels européens
+anticommunistes (Charpier, 2008).
+
+
+Les acteurs internationaux
+
+
+La diplomatie culturelle est certes une politique
+publique d'État, et à ce titre elle fait l'objet d'ambitions
+nationales, formulées à l'échelle gouvernementale.
+Mais la multiplication de ses acteurs, l'imbrication
+entre enjeux politiques, intellectuels, commerciaux, en
+font une interaction internationale marquée
+l'interdépendance complexe.
+
+
+Diplomatie culturelle et négociations internationales
+
+
+par
+
+
+Depuis la fin de la seconde guerre mondiale, des
+organisations internationales sont entrées dans le jeu
+culturel international. C'est d'abord le cas de l'Unesco,
+seule organisation du système des Nations unies vouée
+explicitement à la culture. Elle a pour objectif selon son
+acte constitutif de « contribuer au maintien de la paix
+et de la sécurité en resserrant, par l'éducation, la
+science et la culture, la collaboration entre nations, afin
+d'assurer le respect universel de la justice, de la loi,
+
+
+des droits de l'homme et des libertés fondamentales
+pour tous, sans distinction de race, de sexe, de langue
+ou de religion, que la Charte des Nations unies
+reconnaît à tous les peuples ».
+
+
+Par la suite, d'autres institutions internationales ont
+acquis une compétence en la matière ; ainsi, le Conseil
+de l'Europe, l'Organisation mondiale de la
+francophonie. La culture fait aussi partie de l'agenda
+de l'Union européenne. Elle s'est immiscée dans les
+négociations concernant la télévision et le cinéma,
+conduites par la Commission européenne. Elle est
+devenue officiellement une des composantes de la
+politique étrangère et de sécurité commune. La
+stratégie de l'UE dans le domaine des relations
+culturelles internationales
+
+
+«
+
+
+>>
+présentée par la
+Commission européenne et la haute représentante de
+l'Union pour les affaires étrangères et la politique de
+sécurité vise à encourager la coopération culturelle
+entre l'UE et ses pays partenaires, et à promouvoir un
+ordre mondial fondé sur la paix, l'État de droit, la
+liberté d'expression, la compréhension (Commission
+européenne, 2016). La culture est également un thème
+récurrent dans de grandes réunions internationales,
+ainsi celles qui ont pour objet le développement ou
+l'environnement (Matsuura, 2006).
+
+
+Les fonctionnements particuliers de ces acteurs,
+leurs modes opératoires obligent les États à avoir, en
+quelque sorte, une  diplomatie de la diplomatie
+culturelle », c'est-à-dire une stratégie pour définir leurs
+objectifs politiques, leurs intérêts, leurs moyens, leur
+comportement dans et vis-à-vis de ces organisations
+internationales. Les revirements américains à l'égard
+de l'Unesco (annonce par l'administration Trump, en
+novembre 2017, que les États-Unis allaient quitter
+l'organisation, considérée comme
+manquant de
+réformes structurelles, et accusée de partis pris anti-
+
+
+israéliens), la compétition pour leur contrôle (élection
+d'une Franco-Marocaine, à la tête de l'Unesco en
+octobre 2017, contre au moins deux candidats arabes)
+l'attestent. Le domaine culturel international n'échappe
+plus  ou toujours pas au rapport de force politique, ni
+aux manœuvres diplomatiques, aux alliances, aux
+stratégies d'État.
+
+
+Aller au-delà du jeu national du soft power
+
+
+Le souhait officiel de ces organismes est que la
+diplomatie culturelle dépasse sa réputation de vecteur
+de soft power, et qu'elle ne serve pas d'instrument
+d'influence aux États. On désire, à l'inverse, le dialogue
+pacifique des cultures, dont la diversité serait
+respectée et sauvegardée par la diplomatie
+multilatérale. En 1945, la vocation initiale essentielle
+de l'Unesco était la sauvegarde du patrimoine de
+l'humanité et l'édification d'un socle universel
+d'éducation dans le monde. Les échanges entre pays,
+réunis en sessions de travail et assemblées générales,
+ont abouti à ce titre à des règles de bonne conduite
+structurant un droit international nouveau. Aujourd'hui,
+la culture est également devenue un élément constitutif
+du développement durable, de la cohésion sociale, de la
+protection de l'environnement. Elle apparaît souvent
+dans les thèmes évoqués au cœur de la diplomatie
+internationale et devrait dans l'idéal aboutir à des
+principes et normes fondateurs d'un avenir pacifié.
+
+
+Les organisations internationales s'efforcent donc
+d'échapper au jeu des États, pour faire de la culture un
+bien commun de l'humanité, un enjeu transversal
+animé également par des acteurs transnationaux. Cette
+tentative
+est
+souvent
+rattrapée par
+l'instrumentalisation politique étatique de la culture.
+
+
+La culture comme un objet de pouvoir
+
+
+L'action culturelle demeure en effet au centre de
+conflits sans cesse renouvelés entre pays et groupes de
+pays. Parfois ces conflits sont directement liés à des
+logiques de pouvoir, à des préoccupations
+commerciales et industrielles. L'organisation des
+professions cinématographique et télévisuelle a été au
+centre de débats aigus dans plusieurs enceintes
+internationales : l'Organisation mondiale du commerce
+(OMC), l'Organisation de coopération et de
+développement économiques (OCDE), l'Union
+européenne, l'Unesco. Jacques Lang, alors ministre de
+la Culture de François Mitterrand pendant les années
+1980, a lancé une bataille diplomatique européenne et
+internationale, reprise depuis par les autorités
+françaises, pour que le cinéma ne soit pas considéré
+comme une industrie classique, ce qui aurait abouti à
+l'interdiction d'aides de l'État au nom des principes de
+la libre concurrence commerciale. C'est à cette époque
+qu'est apparue la notion d'exception culturelle
+garantissant à la France la possibilité de subventionner
+son cinéma.
+
+
+Le débat est réapparu par la suite sous la pression
+des États-Unis et de leur industrie cinématographique.
+Ces pressions ont été repoussées à l'Unesco, en partie
+grâce aux diplomaties française et canadienne.
+L'exception culturelle, prônée par ces deux pays en
+matière de diplomatie et de négociations multilatérales,
+était un terme combattu par d'autres en tant que
+symbole d'un protectionnisme français et européen. On
+lui a substitué le devoir de protection de toutes les
+cultures, baptisé principe universel de respect de la
+diversité culturelle. En 2001, le principe de la diversité
+culturelle est inscrit dans le droit positif. L'organisation
+internationale de la francophonie reprendra à son
+compte ce principe. La diversité culturelle a été incluse
+
+
+dans les missions de cette organisation par la
+déclaration de Ouagadougou 27 novembre 2004.
+
+
+Les intérêts matériels ou commerciaux ne sont pas
+les seuls à expliquer les tensions culturelles. Des
+politiques étrangères opposées continuent, après la fin
+de la guerre froide, de s'affronter jusqu'au sein des
+organisations culturelles internationales, où elles
+trouvent une caisse de résonance. Parmi de multiples
+exemples significatifs, en 2014, le Comité de l'Unesco
+pour la protection des biens culturels en temps de
+guerre a dénoncé lors de son neuvième congrès « des
+attaques délibérées et répétées contre le patrimoine
+culturel, notamment en Syrie et en Irak ». Irina Bokova,
+alors directrice générale de l'Unesco, affirme que les
+destructions de Mossoul constituent une violation de la
+résolution 2199 du Conseil de sécurité de l'ONU et
+qualifie la destruction de Nimrud de crime de guerre ;
+l'Assemblée générale des Nations unies a voté à
+l'unanimité une résolution en ce sens, proposée par
+l'Allemagne et l'Irak et soutenue par quatre-vingt-onze
+États membres. Pour autant, sur le plan juridique, le
+sujet est discutable, et l'Unesco est parfois accusée de
+ne pas dénoncer d'autres phénomènes, comme le non-
+accueil des réfugiés de guerre en Europe, avec la
+même vigueur que les crimes de lèse-patrimoine
+perpétrés par les fondamentalistes au Proche-Orient.
+Elle procéderait ainsi à une fétichisation du
+patrimoine », au détriment d'autres causes, dont les
+implications culturelles existent tout autant.
+
+
+*
+
+
+Ces derniers exemples, comme les rivalités plus
+anciennes de la guerre froide, mettent en lumière un
+obstacle que les sciences sociales connaissent : la
+difficulté qu'il y a à définir la culture. Transposée à
+
+
+l'analyse de la diplomatie et de ses déploiements
+sectoriels, cette difficulté ouvre la voie à de multiples
+stratégies. La diplomatie culturelle a été analysée ici
+comme une politique publique extérieure, c'est-à-dire
+comme une action intégrée dans un système politique
+et administratif d'État. Des acteurs privés peuvent
+néanmoins y conduire des projets relevant d'une
+logique de diplomatie privée, en participant à des
+actions qui confortent leur image et leurs intérêts dans
+des pays donnés, sous couvert de mécénat. De la
+propagande d'État au mécénat en passant par la
+protection multilatérale, des biens communs,
+la
+découverte intellectuelle de l'Autre ou l'apprentissage
+des langues, la diplomatie culturelle s'est
+considérablement diversifiée, entre les mains d'acteurs
+toujours plus nombreux. Les diplomaties d'État
+pourront difficilement faire l'économie d'une réflexion
+poussée sur les implications de ce secteur d'activité à
+l'ère moderne, entre compétition et coopération, et sur
+les moyens qu'il convient de mettre en œuvre pour
+permettre aux politiques étrangères d'y rester des
+acteurs structurants.
+
+
+Bibliographie commentée
+
+
+GOFF Patricia M., « Cultural diplomacy  , dans Andrew F. Cooper, Jorge
+Heine, Ramesh Thakur (eds), The Oxford Handbook of Modern
+Diplomacy, Oxford, Oxford University Press, 2013.
+
+
+HAIZE Daniel, L'Action culturelle et de coopération de la France à
+l'étranger. Un réseau, des hommes, Paris, L'Harmattan, 2012.
+
+
+Un travail sur le cas français. L'article revient sur les contextes de
+la diplomatie culturelle, le rôle joué par le gouvernement, la
+diplomatie en réseau et les limites de la diplomatie culturelle.
+
+
+KESSLER Marie-Christine, La Politique étrangère de la France. Acteurs
+et processus, Paris, Presses de Sciences Po, 1999.
+
+
+Voir notamment le chapitre consacré à la diplomatie culturelle et à
+ses acteurs.
+
+
+ROCHE François, PINIAU Bernard, Histoires de diplomatie culturelle des
+origines à 1995, Paris, Ministère des Affaires étrangères/ADPF,
+1995.
+
+
+Une étude des années 1990 qui montre le regard posé alors sur le
+concept de diplomatie culturelle.
+
+
+Chapitre 16
+
+
+La diplomatie
+environnementale
+
+
+Amandine Orsini
+
+
+a diplomatie environnementale internationale est
+L
+┗récente comparée à d'autres, puisqu'elle ne
+s'officialise qu'au cours des années 1970. Pourtant, elle
+se démarque très tôt par un dynamisme exemplaire et
+soutenu au cours du temps. En 2013, Rakhyun Kim
+(Kim, 2013) recensait déjà 747 accords multilatéraux
+d'environnements. $\dot{A}$ ceux-ci s'ajoutent de nouveaux
+accords adoptés régulièrement par les États, comme la
+Convention de Minamata sur le mercure de 2013 qui
+vise à réduire les effets nocifs du mercure, ou l'Accord
+de Paris de 2015 de la Convention-cadre des Nations
+unies sur les changements climatiques (CCNUCC) qui a
+pour objectif, entre autres, de limiter les changements
+climatiques et leurs effets. Portés par ce dynamisme,
+
+
+certains événements de la diplomatie environnementale
+ont pris une ampleur vertigineuse. Par exemple, 25 903
+participants ont pris part à la COP22 de la CCNUCC à
+Marrakech en décembre 2016. Près d'un quart étaient
+notamment des observateurs non étatiques.
+
+
+Mais tout d'abord, qu'est-ce que la diplomatie
+environnementale
+?
+A priori, la
+diplomatie
+environnementale se comprend comme une diplomatie
+qui traite uniquement de questions d'environnement.
+En pratique pourtant, la diplomatie environnementale
+côtoie régulièrement beaucoup d'autres thématiques
+comme les questions commerciales (commerce des
+espèces protégées par exemple), de propriété
+intellectuelle (droit des populations indigènes et locales
+concernant l'usage des ressources génétiques
+naturelles), énergétiques (atteinte des objectifs de
+réduction des gaz à effet de serre, utilisation des
+biocarburants), de santé (impacts sur la santé de la
+consommation d'organismes génétiquement modifiés
+OGM), et même de sécurité (conséquences du
+réchauffement climatique sur les migrations
+transnationales).
+
+
+Comprise initialement par les décideurs selon la
+première acception, la diplomatie environnementale a
+été longtemps jugée secondaire aux yeux des
+gouvernements. Cette mise à l'écart lui a permis de
+bénéficier d'une plus grande liberté. Elle a ainsi
+développé des particularités qui expliquent son
+dynamisme actuel, particularités que ce chapitre
+propose de détailler. Une première partie s'intéresse au
+contenu de la diplomatie environnementale, une
+deuxième à son format.
+
+
+Le contenu de la diplomatie
+environnementale
+
+
+La diplomatie environnementale se développe
+timidement dès le $XIV^{e}$ siècle par des accords
+bilatéraux sur le continent européen (Angleterre-
+Portugal, Angleterre-France, etc.), pour la gestion de
+ressources halieutiques. Aux $XVII^{e}$ et $XVII^{e}$, plusieurs de
+ces accords s'intéressent à l'accès à certains territoires
+ou rivières en Europe et en Amérique du Nord. Outre
+ces accords sur des ressources ou territoires précis,
+c'est au $XIX^{e}$ siècle que l'environnement prend
+résolument une dimension multilatérale. En effet,
+l'action bilatérale se révèle souvent insuffisante pour
+gérer des biens communs, non exclusifs et non rivaux,
+menacés. En outre, la plupart des ressources (comme
+les poissons) et problématiques environnementales ne
+connaissent pas de frontières. En 1857, le premier
+accord multilatéral, impliquant donc plus de trois États,
+engage les États limitrophes du lac de Constance pour
+la gestion du pompage de l'eau du lac. Puis
+progressivement, les accords multilatéraux se
+développent et commencent à traiter des problèmes
+plus directement environnementaux comme le
+transport de substances dangereuses ou la protection
+d'espèces menacées.
+
+
+Après le développement progressif des accords
+environnementaux aux $XIX^{e}$ et $XX^{e}$ siècles, il faut
+attendre les grands sommets environnementaux, et
+notamment le sommet de Stockholm de 1972, pour que
+l'environnement prenne son acception véritablement
+globale et pour que la diplomatie environnementale
+s'oriente vers la protection des ressources naturelles
+mondiales plutôt que vers de simples questions de
+gestion des stocks.
+
+
+Dès 1972, les sommets, qui se réunissent tous les dix
+ans, donnent le la de la diplomatie environnementale
+(Morin et Orsini, 2015), et sont l'occasion de faire le
+
+
+bilan, de proposer des principes généraux enchâssés
+dans
+des déclarations officielles, de créer des
+institutions internationales dédiées à l'environnement
+(Death, 2011).
+
+
+Le sommet de Stockholm, ou conférence des Nations
+unies sur l'environnement humain de 1972, est le
+premier sommet multilatéral dédié à l'environnement.
+Grâce à la participation active des pays en
+développement, le sommet fut l'une des plus grandes
+conférences internationales jamais organisées. Des
+délégations de 114 pays y participèrent, alors que les
+Nations unies ne comptaient à l'époque que 131 États
+membres et que l'environnement n'était pas encore
+devenu un enjeu central des relations internationales.
+Le sommet souligne, à la suite de la participation des
+pays en développement, la priorité des préoccupations
+environnementales, mais reconnaît du même souffle
+l'importance du développement économique. Cette
+association entre environnement et développement
+restera très présente lors des autres sommets sur la
+protection de l'environnement. En particulier, elle
+répond rapidement au souci des pays
+en
+développement de ne pas pouvoir mettre en œuvre des
+mesures coûteuses en technologie, ou restrictives pour
+leur développement économique. Alors que les pays en
+développement étaient initialement méfiants face aux
+initiatives multilatérales en matière de protection de
+l'environnement, le sommet démontra qu'un compromis
+était possible. La déclaration finale énonce vingt-six
+principes généraux sur l'environnement. Elle consacre
+notamment la création des premiers ministères
+nationaux spécialisés sur l'environnement et la mise en
+place du programme des Nations unies sur
+l'environnement (ONU Environnement).
+
+
+Pour consolider les acquis de Stockholm,
+un
+deuxième sommet, la conférence des Nations unies sur
+
+
+l'environnement et le développement, est organisé à
+Rio en 1992. Le sommet affirme les liens entre
+environnement et développement. En effet, il fut décidé
+que la conférence se tiendrait cette fois dans un pays
+en développement, en l'occurrence le Brésil (Tolba,
+1998). Le sommet est de grande ampleur et rassemble
+108 chefs d'État, 187 délégations, environ 10 000
+délégués gouvernementaux, plus de 1 400
+organisations non gouvernementales (ONG)
+officiellement accréditées et près de 9 000 journalistes.
+Il est particulièrement productif. Les États y adoptent
+une déclaration politique qui clarifie des principes
+généraux en héritage de ceux adoptés à Stockholm
+ainsi qu'un plan d'action ambitieux, portant le nom
+d'Action 21, pour identifier les problèmes, définir les
+objectifs et préciser les moyens d'action sur des thèmes
+aussi divers que les substances chimiques, l'accès à
+l'eau potable et le transport. Un principe majeur adopté
+est le principe de responsabilité commune mais
+différenciée. D'après ce principe, tous les États doivent
+s'engager à faire des efforts pour protéger
+l'environnement, mais ces efforts doivent être calculés
+de façon proportionnelle à leur capacité. Autrement dit,
+les efforts demandés aux pays développés doivent être
+beaucoup plus importants que ceux demandés aux pays
+en développement. Le sommet marque également
+l'adoption de deux traités internationaux : la CCNUCC
+et la Convention sur la diversité biologique (CDB), alors
+que deux processus diplomatiques internationaux y
+sont mis en œuvre sur la désertification et la gestion
+des forêts. Du point de vue des institutions, le sommet
+réforme le Fonds mondial pour l'environnement et
+marque la création d'une toute nouvelle institution, la
+Commission du développement durable, pour assurer le
+suivi d'Action 21. Enfin, le sommet confirme une
+tendance majeure : le libéralisme dans le domaine de la
+
+
+protection de l'environnement. Cette tendance souligne
+l'accent mis sur la valeur économique de
+l'environnement qui permettrait, en instaurant des
+marchés, de le préserver, comme le veut la logique du
+marché carbone, ou des paiements pour services éco-
+systémiques.
+
+
+En 2002, le sommet mondial sur le développement
+durable organisé à Johannesburg se détourne en partie
+des priorités environnementales et ouvre la porte aux
+acteurs non étatiques. En effet, les organisateurs du
+sommet encouragent surtout activement la conclusion
+de « partenariats de type II », c'est-à-dire des ententes
+conclues non pas uniquement entre États, mais entre
+partenaires de diverses natures, dont des entreprises,
+des organisations intergouvernementales, des ONG ou
+des États. Plus de 200 partenariats de type II sont
+conclus à Johannesburg, totalisant des investissements
+de plus de 23 millions de dollars. Cette tendance
+s'inscrit dans la dynamique du libéralisme
+environnemental, mais marque également la volonté
+d'améliorer l'efficacité des mesures environnementales,
+en déléguant la mise en œuvre aux acteurs de terrain.
+
+
+Vingt ans après le sommet de Rio, les membres des
+Nations unies tentent une nouvelle percée diplomatique
+en organisant un sommet sur le développement durable
+à Rio de Janeiro, le sommet $Rio+20$ (Foyer, 2015).
+Malgré un contexte international moins favorable (crise
+économique de 2008, montée des émergents), $Rio+20$
+innove à nouveau à plusieurs égards. Le sommet
+introduit le concept $d^{\prime}\ll$ économie verte ». L'économie
+verte serait, d'après la déclaration L'Avenir que nous
+voulons adoptée à Rio+20, « un des moyens précieux
+dont nous disposons pour parvenir au développement
+durable » (paragraphe 56). Il s'agirait d'un instrument
+flexible, qui ne constitue pas une « réglementation
+rigide  (paragraphe 56). Une autre innovation majeure
+
+
+du sommet est de miser sur la collecte et la divulgation
+d'information pour encourager des comportements plus
+respectueux de l'environnement. Du point de vue des
+innovations institutionnelles, la
+
+
+Commission
+
+
+du
+
+
+développement durable, créée à Rio en 1992, est
+
+
+<<
+
+
+>>
+
+
+remplacée par un
+forum politique
+intergouvernemental de haut niveau
+auquel
+participent des « décideurs de haut niveau » de façon à
+lui donner une visibilité et un pouvoir décisionnel
+accrus. L'Avenir que nous voulons appelle également
+l'Assemblée générale des Nations unies à renforcer la
+structure institutionnelle de l'ONU Environnement.
+
+
+En parallèle des grands sommets, une multitude de
+traités environnementaux est conclue sur des
+thématiques très diverses comme les déchets
+dangereux, les produits chimiques, la pollution marine,
+etc. Ces traités n'ont pas de rattachement institutionnel
+unique
+(l'ONU Environnement notamment) car
+l'institutionnalisation des traités environnementaux
+dans le paysage organisationnel international s'est faite
+pas à pas. Dans certains cas, des organisations
+internationales préexistantes ont souhaité étendre leur
+domaine d'action plutôt que de déléguer ce rôle à des
+institutions internationales environnementales. Par
+exemple, l'Organisation des Nations unies pour
+l'éducation, la science et la culture (Unesco) a pris sous
+sa coupe la Convention concernant la protection du
+patrimoine mondial, culturel et naturel de 1972, gérant
+dès lors des sites naturels. Par ailleurs,
+progressivement, des organisations et leurs traités, qui
+n'avaient
+pas
+initialement
+d'objectifs
+environnementaux, en ont embrassé. C'est le cas de
+
+
+l'Organisation internationale des bois tropicaux et de la
+Commission baleinière internationale, qui avaient, au
+moment de leur création, des objectifs plutôt
+commerciaux, à savoir d'assurer respectivement la
+
+
+pérennité du commerce du bois et de la chasse à la
+baleine et qui, progressivement, basculent vers la
+protection des espèces naturelles concernées. Dans ces
+deux cas, les traités adoptés se trouvent en dehors du
+système des Nations unies. Enfin, de nombreux traités
+environnementaux ont une dimension régionale et sont
+donc adossés à des organisations régionales. C'est le
+cas par exemple du protocole au traité sur
+l'Antarctique relatif à la protection de l'environnement
+adopté en 1991. Du fait de leur institutionnalisation
+très différente, les traités environnementaux ont eu
+tendance à s'autonomiser, mettant en place leurs
+propres secrétariats par exemple.
+
+
+Malgré leurs origines et liens institutionnels
+différents, les traités environnementaux forment une
+famille de traités, où certaines dispositions perdurent
+d'un accord à l'autre (Kim, 2013). On y retrouve des
+dispositions qui traduisent les grandes orientations
+scandées lors des sommets environnementaux (le
+développement durable,
+l'importance du
+développement, les partenariats, etc.) ainsi qu'un
+certain nombre de principes plus spécifiques comme le
+principe de précaution, celui d'accord préalable en
+connaissance de cause ou celui de responsabilité
+commune mais différenciée.
+
+
+diplomatiques.
+
+
+La
+
+
+Par ailleurs, l'absence de rattachement institutionnel
+unique pour les différents traités aide à la diffusion des
+normes et principes environnementaux vers d'autres
+instances
+diplomatie
+environnementale contamine ainsi d'autres champs
+dans une double dynamique : d'un côté, elle étend ses
+compétences et s'applique à des thématiques non
+environnementales ; de l'autre, elle participe à la
+diffusion de ses propres principes.
+
+
+se
+
+
+D'un côté, la diplomatie environnementale
+prononce régulièrement sur des questions qui vont au-
+
+
+delà de sa compétence stricte. Plusieurs traités
+environnementaux se sont ainsi développés en
+opposition aux principes de l'Organisation mondiale du
+commerce (OMC) et/ou de son Accord sur les aspects
+des droits de propriété intellectuelle qui touchent au
+commerce (Adpic). Par exemple, la CDB de 1992
+reconnaît la souveraineté des États sur leurs
+ressources naturelles (jusqu'alors en libre accès) pour
+contrer le développement des droits de propriété
+intellectuelle de type brevets qui permettent de
+privatiser les innovations issues de ces ressources.
+Aussi, le protocole de Cartagena sur la biosécurité de
+2000, portant sur les OGM, s'oppose au principe de la
+preuve scientifique de l'OMC en adoptant le principe de
+précaution. Alors que le premier reconnaît l'innocuité
+des OGM jusqu'à preuve du contraire, le second
+reconnaît les risques potentiels liés aux OGM, jusqu'à
+preuve de leur innocuité. Le protocole de Cartagena
+s'oppose également au principe de libre circulation en
+adoptant le principe de l'accord préalable en
+connaissance de cause qui demande que les États
+soient informés de tout transfert d'OGM destiné à
+l'alimentation et à l'agriculture sur leur territoire, et
+qu'ils valident ce transfert avant qu'il ne soit effectif.
+Ce principe est utilisé également par plusieurs traités
+environnementaux s'appliquant aux transports de
+substances dangereuses.
+
+
+D'un autre côté, la diplomatie environnementale
+tente de faire adopter ses objectifs par d'autres. Dès les
+années 1980, la Banque mondiale est accusée de
+dégrader l'environnement, à la suite de l'octroi de prêts
+de plusieurs millions de dollars pour des projets de
+développement aux impacts environnementaux
+désastreux. Par exemple, le projet de construction de la
+route Polonoroeste à travers l'Amazonie, qui commença
+en 1981, a eu un impact catastrophique sur la
+
+
+biodiversité et sur les conditions de vie des populations
+autochtones de cette région. La banque devint alors
+l'objet de critiques d'ONG mais aussi d'États,
+notamment du Congrès américain, qui menaça de
+suspendre ses contributions. La banque a dû modifier
+ses pratiques et tente aujourd'hui d'être davantage en
+accord avec un objectif de développement durable.
+Autre exemple : les questions climatiques s'invitent
+pour la première fois au Conseil de sécurité des
+Nations unies en 2007 lorsque les États y évoquent les
+conséquences des changements climatiques sur la
+sécurité mondiale avec des menaces comme la montée
+du niveau des océans ou la multiplication des réfugiés
+climatiques.
+
+
+De cet enchevêtrement institutionnel résulte que la
+diplomatie environnementale forme, depuis les années
+2000 environ, pour chaque sous-thématique traitée,
+une structure pluri-institutions qui ne se résume plus à
+un régime international unique. Au contraire, elle se
+trouve à la croisée de plusieurs régimes, formant bien
+souvent des complexes de régimes. Par exemple, la
+question des investissements dans les biocarburants se
+pose aujourd'hui à la croisée de quatre régimes
+internationaux : le régime des changements
+climatiques avec entre autres le mécanisme de
+développement propre de la CNUCC ; le régime du
+commerce représenté par l'OMC ; le régime du
+développement représenté par la Banque mondiale ; et
+le régime énergétique représenté par la Directive
+européenne sur les énergies renouvelables. De même,
+la question de l'accès aux ressources génétiques
+naturelles entrecroise les régimes de la protection de
+l'environnement avec le protocole de Nagoya ; des
+droits de propriété intellectuelle avec l'Organisation
+mondiale de la propriété intellectuelle ; de la santé
+avec l'Organisation mondiale de la santé
+
+
+;
+
+
+de
+
+
+des
+
+
+l'agriculture avec notamment l'Organisation
+nations unies pour l'alimentation et l'agriculture.
+Ces complexes de régimes peuvent présenter
+différentes structures plus ou moins cohérentes qui, de
+ce fait, favorisent les synergies ou les confits. Dans tous
+les cas, le prix à payer en termes de participation à la
+diplomatie environnementale est relativement élevé.
+Alors que, pendant les années 1990, il était encore
+possible de suivre une seule arène de négociation pour
+se tenir informé et influencer une thématique, l'effort
+doit être démultiplié aujourd'hui. En outre, une fois
+qu'ils auront payé le ticket d'entrée dans le jeu de la
+diplomatie, les acteurs devront aussi investir leurs
+ressources à en comprendre les règles.
+
+
+Les règles du jeu de la diplomatie
+environnementale
+
+
+La diplomatie environnementale repose sur trois
+règles tacites principales qui rythment les décisions
+gouvernementales.
+
+
+Premièrement, la diplomatie
+environnementale
+repose sur la règle du consensus, dans un jeu où la
+dimension collective est importante. Ainsi, la très
+grande majorité des décisions sont présentées à
+l'ensemble des diplomates et adoptées, sauf réaction
+contraire de la part d'un ou plusieurs gouvernements.
+Le vote est très rarement pratiqué. L'adage « qui ne dit
+mot consent » et le silence qui précède chaque décision
+ont l'avantage de permettre en théorie à tout intérêt en
+présence de s'exprimer, tout en argumentant sa
+position. C'est donc une règle plutôt inclusive. En
+pratique cependant, elle empêche les absents
+d'exprimer une éventuelle opposition (alors que la
+multiplication des arènes de négociation pose problème
+
+
+simplement en termes de présence aux discussions).
+Elle crée également une certaine pression sur les
+diplomates puisque le poids en termes de réputation
+est important pour l'éventuel pays qui élèverait la voix
+contre les autres.
+
+
+Deuxièmement, la diplomatie
+environnementale
+s'organise pour chaque accord ou déclaration comme
+un tout, mais combinable, à savoir que chaque
+négociation est découpée en sous-thématiques mais
+que l'accord final porte sur la totalité, un paquet global,
+combinant différents possibles de chaque sous-unité
+d'après la formule selon laquelle rien n'est convenu
+tant que tout n'est pas convenu (Nothing is agreed until
+everything is agreed) (Jepsen, 2013). Les accords
+suivent habituellement une structure similaire dont les
+principaux éléments sont une déclaration générale en
+préambule, suivie par des définitions, la description des
+mesures, des mécanismes de contrôle et enfin des
+procédures juridiques d'entrée en vigueur. Pour chacun
+de ces points, les négociations sont subdivisées en
+différents groupes de travail souvent eux-mêmes
+subdivisés en groupes de contact, concernant des
+questions qui deviennent souvent très techniques et
+très variées : économiques mais aussi juridiques ou
+éthiques, etc. Par exemple, lors des dernières
+négociations du forum des Nations unies sur les forêts,
+les États mirent en place deux groupes de travail. Un
+pour travailler à la rédaction d'une déclaration
+ministérielle ; l'autre pour travailler à une résolution
+commune. Entre autres, le deuxième groupe de travail
+établit un groupe de contact pour discuter de
+l'éventuelle mise en place d'un Comité sur la mise en
+application et les avis techniques. Ce groupe de contact
+a dû, entre autres, envisager les fonctions, les
+modalités et les compétences possibles de ce comité.
+Parce que chaque point, même technique, est
+
+
+important, les diplomates ne se prononcent que
+lorsqu'ils estiment avoir une vision assez précise de
+l'ensemble des modalités.
+
+
+Troisièmement, les négociations multilatérales
+d'environnement correspondent très bien, en théorie
+des jeux, au jeu de la poule mouillée. C'est un jeu à
+somme non nulle, qui implique deux joueurs, où la
+coopération est récompensée. Le jeu s'inspire des
+scènes de duels automobiles de plusieurs grands films
+américains. Deux pilotes se trouvent face à face des
+deux côtés de la même piste. Ils s'élancent l'un vers
+l'autre. Le premier des deux qui quittera son véhicule
+pour éviter le crash perd la partie et devient la « poule
+mouillée ». L'objectif de chaque pilote est donc de se
+montrer déterminé, de faire le dur, pour pousser son
+adversaire à céder le plus tôt possible. Ce qui permet
+également aux deux pilotes de rester en vie. Dans le
+cas contraire, le jeu serait contre-productif puisque les
+deux perdraient la vie. Si l'on remplace les pilotes par
+des diplomates, et l'action de sauter par celle
+d'accepter un accord, alors ce jeu reflète bien la
+dynamique de la diplomatie environnementale.
+
+
+D'un côté, les États voient un intérêt à adopter un
+accord commun. Ils investissent en effet du temps et de
+l'argent dans de nombreuses réunions internationales :
+bien que les réunions officielles pour chaque traité ne
+s'organisent souvent que sur une base biennale et ne
+durent que deux semaines, elles sont le résultat de
+dizaines voire de centaines de réunions préparatoires
+aux quatre coins du monde. L'absence d'un accord final
+ne permettrait pas de rentabiliser l'investissement
+matériel fait par les États. Par
+ailleurs, si cet
+investissement est tel, c'est qu'une
+partie des États
+reconnaît l'urgence des problèmes à traiter, et
+reconnaît que les thématiques environnementales ne
+peuvent être résolues que de façon collective. La
+
+
+gestion des déchets radioactifs n'a de sens que si elle
+est multilatérale, ce qui permet d'éviter le dumping de
+déchets dangereux dans des pays n'ayant pas les
+moyens de participer à cette diplomatie, sans, de fait,
+résoudre les problèmes environnementaux. Les efforts
+pour limiter les changements climatiques n'ont de sens
+que si l'ensemble des États s'engage (Aykut et Dahan,
+2015). De се fait, l'issue de la diplomatie
+environnementale doit être celle d'un accord global.
+
+
+D'un autre côté, aucun des négociateurs ne souhaite
+faire le premier pas. Des inquiétudes en termes de
+compétitivité économique freinent les élans de la
+plupart des pays développés. Au contraire, les petites
+délégations ont soit des difficultés à suivre les
+discussions, soit une incapacité à investir dans des
+solutions satisfaisantes. Par ailleurs, la segmentation
+des négociations en groupes de travail et de contact
+pousse l'ensemble des diplomates à attendre le plus
+longtemps possible avant de conclure un accord,
+puisqu'on ne sait souvent qu'au dernier moment ce
+qu'il contiendra. Il en résulte que les accords sont
+conclus au finish, tard dans la nuit, à l'issue de
+véritables marathons diplomatiques. Il n'est pas rare de
+trouver des négociateurs endormis à leurs pupitres, sur
+les divans des couloirs ou à même le sol des salles de
+négociation. Les sites de négociation sont d'ailleurs
+organisés comme de vraies villes miniatures, pour
+permettre la présence continue des diplomates.
+Restauration, mais aussi salles de prière, de méditation
+ou de yoga y fleurissent.
+
+
+La plupart des délégations connaissent cette
+dynamique et ménagent leurs meilleurs diplomates
+qu'elles n'envoient que pour la deuxième semaine des
+négociations1. Mais certaines petites délégations tirent
+leur épingle du jeu grâce à la force physique et de
+caractère de leurs représentants. Tewolde Berhan
+
+
+Gebre Egziabher, délégué éthiopien, a impressionné
+tous les négociateurs du Protocole de Cartagena sur la
+biosécurité par sa présence active, nuit et jour, à
+l'ensemble des réunions de négociation. Le mythe des
+marathoniens éthiopiens semble s'être vérifié en
+diplomatie internationale.
+
+
+Dès lors que la diplomatie environnementale suit le
+jeu de la poule mouillée, comment expliquer que les
+accords soient conclus ? En plus de la motivation des
+États, deux éléments de la procédure de négociation
+augmentent les chances de voir un accord adopté : la
+transparence des débats et l'importance des présidents
+de séance.
+
+
+La diplomatie environnementale est, à plusieurs
+titres, un jeu diplomatique transparent suivi par de
+nombreux acteurs non étatiques ayant le rôle de garde-
+fous. Non seulement le nombre de pays impliqués dans
+la diplomatie environnementale est impressionnant,
+mais la diversité des acteurs l'est tout autant, avec une
+participation importante d'acteurs non étatiques de
+nature diverse (Canal-Forgues, 2015 ; Kuyper et
+Bäckstrand, 2016). Dès le sommet de Rio, des maires,
+des chefs autochtones, des agriculteurs, des
+représentants d'associations étudiantes, des dirigeants
+de multinationales et des délégués syndicaux
+participèrent aux débats.
+
+
+Au nombre et à la diversité des acteurs s'ajoute la
+gamme variée des rôles politiques qu'ils peuvent jouer.
+Alors que, traditionnellement, les observateurs sont
+confinés à un rôle passif, plusieurs dispositions de la
+diplomatie environnementale leur donnent des
+possibilités de faire entendre leur voix. Au sommet de
+Rio déjà, certains acteurs de la société civile assistèrent
+aux réunions préparatoires où ils purent transmettre
+des documents aux représentants gouvernementaux et
+prendre la parole lors des séances statutaires. Les
+
+
+observateurs ont par ailleurs la possibilité de
+s'exprimer lors des négociations environnementales,
+une fois cependant que l'ensemble des diplomates
+étatiques s'est exprimé. À ces prises de parole
+officielles s'ajoutent toutes les interactions
+quotidiennes que forme le lobbying et qui influencent
+les décisions finales (Orsini, 2010).
+
+
+Plusieurs aménagements officiels sont d'ailleurs
+prévus pour favoriser les interactions entre
+observateurs et diplomates officiels. C'est le cas des
+événements parallèles (side-events) qui ont
+généralement lieu dans des salles adjacentes aux
+négociations officielles, mais aussi d'un nombre
+croissant d'installations qui servent de lieu
+d'exposition, de dialogues et de rencontres. Lors de la
+COP21 sur le climat à Paris, bon nombre d'échanges
+eurent lieu dans le cadre du village des alternatives à
+Montreuil, de l'Espace génération climat au Bourget,
+de la Zone d'action climat au CentQuatre, du Global
+Landscape Forum au Palais des congrès, ou des deux
+Galeries des solutions au Grand palais et au Bourget.
+Entre le in (diplomatie officielle) et le off (diplomatie
+informelle), les frontières sont multiples et deviennent
+floues.
+
+
+En plus d'une transparence in situ, la plupart des
+réunions
+diplomatiques
+multilatérales
+environnementales font l'objet de comptes rendus
+détaillés disponibles en ligne, et plus récemment de
+retransmissions sur le web. Depuis le sommet de Rio de
+1992, le Earth Negotiation Bulletin (IISD, n.d.) produit
+très régulièrement des bulletins sur les principales
+négociations en cours, présentant un résumé très
+détaillé des négociations officielles tout en apportant
+également de l'importance aux bruits de couloir. Depuis
+la COP21 de Paris, il est possible, par streaming en
+direct ou par webcast par la suite, de réaliser une
+
+
+véritable participation virtuelle aux COP de la
+CCNUCC. Cette transparence augmente l'attention
+portée par la société civile à la diplomatie
+environnementale et, même si elle complique la
+décision en multipliant les intérêts en présence, joue en
+faveur de l'adoption d'un accord.
+
+
+Le second élément procédural qui favorise la prise de
+décision est l'importance prise progressivement par les
+présidents de séance qui sont, par tradition, désignés
+au début de chaque réunion officielle, ou pour
+l'ensemble d'un mandat de négociation, et dont le rôle
+est de plus en plus essentiel. Ces véritables
+ambassadeurs de la négociation sont souvent au
+nombre de deux et représentent traditionnellement
+deux pays aux intérêts opposés par rapport à la
+thématique traitée. Par exemple, pour les négociations
+du protocole de Nagoya sur l'accès aux ressources
+génétiques, les coprésidents étaient un diplomate
+canadien, le Canada étant un pays utilisateur de
+ressources génétiques, et un diplomate colombien, la
+Colombie étant un pays fournisseur de ressources
+génétiques. Les coprésidents sont sélectionnés par les
+secrétariats des institutions auxquelles les négociations
+sont rattachées, leur choix étant ensuite approuvé par
+l'ensemble des parties lors de l'ouverture des
+négociations.
+
+
+Le rôle des présidents de séance est officiellement de
+gérer les processus diplomatiques pour les mener à bon
+terme. En pratique, ces acteurs clés prennent souvent
+le rôle de véritables rédacteurs des textes des accords.
+Il n'est pas rare également qu'ils mobilisent des
+techniques de négociation novatrices pour favoriser
+une conclusion positive des débats. Par exemple, lors
+des négociations finales du Protocole de Cartagena en
+septembre 1999 puis janvier 2000, les diplomates ne
+parviennent pas à se mettre d'accord. Les débats sont
+
+
+impossibles entre pro et anti-OGM. Le président de
+séance, Juan Mayr, ministre de l'Environnement
+colombien, décide alors d'utiliser des balles de couleur
+pour orchestrer le tour de parole entre intervenants.
+Ne trouvant plus de balles colorées lors de la dernière
+session de négociation, il choisit cinq ours en peluche
+de couleurs différentes qu'il baptise Justice,
+Testaverde, Brown, Rodriguez et Smith. Comme les
+balles colorées, les ours sont utilisés pour gérer l'ordre
+des interventions des diplomates. Aucun diplomate n'a
+le droit de s'exprimer sans avoir d'abord choisi un ours
+et l'avoir pris dans ses bras. Les ours aident ainsi à
+dissiper les tensions en apportant une touche d'humour
+et de chaleur humaine (l'ours en peluche comme
+symbole de douceur et d'enfance). Le Protocole de
+Cartagena sera adopté le 29 janvier 2000 et les ours
+présents lors de sa signature par les parties (Bail et al.,
+2002). Dans le cas où les présidents de séance ne
+parviendraient pas à conclure les négociations, ou en
+appui des efforts de ces derniers, le pays hôte de la
+rencontre joue également souvent un rôle important.
+Par exemple, le texte adopté à Rio+20, L'Avenir que
+nous voulons, sera rédigé in extremis par les
+diplomates brésiliens.
+
+
+*
+
+
+dynamique,
+gagnerait à
+
+
+Comme l'a expliqué en détail ce chapitre, la
+diplomatie environnementale est
+innovante, inventive. Pour cela, elle
+s'exporter davantage comme modèle pour d'autres
+domaines diplomatiques, même si ses performances
+pourraient également être améliorées (Susskind et al.,
+2014). Dans le contenu, d'autres ont à apprendre de la
+diplomatie environnementale sa capacité à proposer
+constamment de nouveaux principes sans hésiter à se
+
+
+placer en porte-à-faux par rapport à des modèles
+préexistants pour ne pas perdre en efficacité. Dans les
+règles, d'autres ont à apprendre de la diplomatie
+environnementale l'importance de la transparence des
+débats, la participation de tous, et les dynamiques
+collectives qui permettent la prise en compte d'intérêts
+très divers : des pays développés et en développement,
+des générations présentes et futures, de l'homme et du
+vivant, etc.
+
+
+Pourtant, plus qu'un modèle pour les autres, la
+diplomatie environnementale décrite ci-dessus est
+plutôt en proie à la menace, parce qu'elle est de plus en
+plus politisée. C'est le cas notamment pour la
+thématique des changements climatiques. Comme le
+signale un observateur attentif de la COP21 de Paris de
+2015, « l'arène du changement climatique est devenue
+le lieu où parler, où venir se faire entendre, où venir
+chercher de l'argent » (Foyer, 2016, 4). Certes, cette
+politisation donne plus de visibilité à l'environnement
+sur la scène internationale, mais elle risque également
+de paralyser les négociations. D'une part car cette
+audience amplifiée dilue les impératifs
+environnementaux. D'autre part car elle alerte de façon
+plus directe les décideurs clés généralistes qui,
+contrairement aux diplomates spécialisés en
+environnement, ne sont pas toujours favorables aux
+politiques environnementales. La diplomatie
+environnementale devient ainsi davantage dépendante
+des intérêts des grandes puissances, pour le pire et
+pour le meilleur. $\hat{A}$ ce titre, le résultat des élections
+américaines de 2016 laisse planer le doute sur le futur
+dynamisme de la diplomatie environnementale.
+
+
+Bibliographie commentée
+
+
+AYKUT Stefan, DAHAN Amy, Gouverner le climat ? 20 ans de négociations
+internationales, Paris, Presses de Science Po, 2015.
+
+
+Cette monographie retrace tous les mécanismes et enjeux de la
+diplomatie climatique internationale pré-accord de Paris. Elle
+retrace ainsi les principales étapes d'un des domaines de la
+diplomatie environnementale les plus médiatisés.
+
+
+BAIL Christoph, FALKNER Robert, MARQUARD Helen (eds), The Cartagena
+Protocol on Biosafety. Reconciling Trade in Biotechnology with
+Environment and Development ?, Londres, RIIA/Earthscan, 2002.
+Cet ouvrage collectif rassemble les témoignages de plus de
+cinquante diplomates ayant participé à la négociation du Protocole
+de Cartagena sur la biosécurité. Ces diplomates, représentant les
+principales positions en présence, s'expriment sur le contenu de
+l'accord mais également sur le processus de négociation.
+
+
+CANAL-FORGUES Éric, Démocratie et diplomatie environnementales.
+Acteurs et processus en droit international, Paris, Pedone, 2015.
+Cet ouvrage rassemble les contributions de juristes sur la
+négociation, l'application et le contrôle de la diplomatie
+environnementale au plan international. Il présente une synthèse
+intéressante et complémentaire des approches de science politique.
+DEATH Carl,
+«
+Summit theatre. Exemplary governmentality and
+environmental diplomacy in Johannesburg and Copenhagen »,
+Environmental Politics, 20 (1), 2011,  . 1-19.
+
+
+Cet article pose la question de l'utilité des sommets internationaux
+d'environnement. Alors que ces sommets réunissent un nombre
+considérable de diplomates et d'observateurs, les résultats qui y
+sont produits en termes de textes sont souvent en dessous des
+attentes. Cet article montre que les sommets jouent surtout un rôle
+important en termes de rituel, car ils sont de véritables théâtres de
+légitimité et d'autorité où les exemples de bonne conduite sont mis
+en lumière.
+
+
+FOYER Jean (dir.), Regards croisés sur Rio+20. La modernisation
+écologique à l'épreuve, Paris, CNRS Éditions, 2015.
+
+
+Cet ouvrage collectif rassemble les témoignages de chercheurs de
+disciplines variées ayant participé au dernier sommet international
+sur l'environnement. On y retrouve ainsi des analyses précises du
+rôle de certains acteurs, du processus de fabrication de certains
+paragraphes de l'accord ou encore des paradigmes dominants.
+
+
+FOYER Jean, « Dans les coulisses de la COP21 », La Vie des idées, 23
+février
+
+
+COP21.html
+
+
+2016,
+
+
+www.laviedesidees.fr/Dans-les-coulisses-de-la-
+
+
+Un court mais non moins intéressant témoignage sur le contenu et
+le processus de négociation de l'Accord de Paris lors de la COP21
+
+
+sur les changements climatiques.
+
+
+IISD, N.d., Bulletins des négociations de la Terre.
+
+
+Ces bulletins en ligne, rédigés par l'ONG International Institute for
+Sustainable Development, résument les principales négociations
+environnementales depuis mars 1992, jour par jour. En plus d'un
+résumé détaillé des prises de parole officielles, les rapporteurs
+s'attachent à livrer, chaque jour, un compte-rendu des bruits de
+couloir et des impressions personnelles de certains diplomates. La
+plus importante source d'archives sur la diplomatie
+environnementale internationale, incontournable.
+
+
+JEPSEN Henrik, « Nothing is Agreed until Everything is Agreed ».
+Issue Linkage in the International Climate Change Negotiations,
+Århus, Politica, 2013.
+
+
+Cette thèse de l'université d'Aarhus présente une des techniques
+les plus répandues de la diplomatie environnementale :
+le
+croisement de thématiques et de points de négociations importants.
+L'ouvrage montre les conditions de réussite d'une telle technique.
+
+
+KIM Rakhyun E., « The emergent network structure of the multilateral
+environmental agreement system », Global Environmental Change,
+23 (5), 2013,  . 980-991.
+
+
+Cet article utilise l'analyse de réseau pour retracer l'évolution du
+contenu des accords internationaux d'environnement. En codant
+toutes les dispositions des différents accords environnementaux
+multilatéraux, l'auteur montre comment plusieurs dispositions
+naviguent d'un accord à l'autre, formant de véritables sous-familles
+d'accords.
+
+
+«
+
+
+KUYPER Jonathan W., BACKSTRAND Karin,
+Accountability and
+representation. Nonstate actors in UN climate diplomacy  , Global
+Environmental Politics, 16 (2), 2016,  . 61-81.
+
+
+Avec l'augmentation croissante du nombre d'acteurs non étatiques
+souhaitant participer aux débats internationaux sur
+l'environnement, la question de leur représentation et de la
+responsabilité de leurs représentants devient cruciale. Cet article
+explore les forces et faiblesses de ces deux éléments.
+
+
+MORIN Jean-Frédéric, ORSINI Amandine, « Sommets des Nations unies :
+entre environnement et développement  , dans Jean-Frédéric Morin,
+Amandine Orsini, Politique internationale de l'environnement, Paris,
+Presses de Sciences Po, 2015,  . 133-156.
+
+
+Ce chapitre de manuel retrace les étapes importantes de la
+diplomatie de sommets en politique internationale de
+l'environnement. Il détaille les succès et échecs de ces sommets
+tout en rappelant les cadres discursifs qui y sont mis en place.
+
+
+ORSINI Amandine, La Biodiversité sous influence ? Les lobbies
+industriels face aux politiques internationales d'environnement,
+Bruxelles, Éditions de l'université de Bruxelles, 2010.
+
+
+Basée sur une enquête de terrain approfondie et sur cinquante-six
+entretiens, cette monographie présente en détail le rôle des
+groupes de pression industriels lors de l'adoption de deux accords
+internationaux en lien avec la biodiversité : le Protocole de
+Cartagena sur la biosécurité et le Protocole de Nagoya sur l'accès
+aux ressources génétiques.
+
+
+SUSSKIND Lawrence E., ALI Saleem H., Environmental Diplomacy.
+Negotiating More Effective Global Agreements, Oxford, Oxford
+University Press, 2014.
+
+
+Se voulant résolument concret et pertinent politiquement, cet
+ouvrage présente des propositions de réforme de la diplomatie
+environnementale internationale, pour lui permettre de devenir
+plus efficace.
+
+
+TOLBA Mostafa K. (ed.), Global Environmental Diplomacy, Negotiating
+Environmental Agreements for the World (1973-1992), Cambridge
+(Mass), The MIT Press, 1998.
+
+
+Dirigé par l'un des diplomates les plus reconnus en politique
+internationale de l'environnement, ce livre retrace dans les détails
+et à partir d'une expérience de terrain l'apparition des sujets
+environnementaux sur l'agenda intergouvernemental.
+
+
+1. Cette dynamique est également importante à connaître pour toute
+personne qui souhaiterait organiser un terrain de recherche lors de
+négociations internationales d'environnement. Pour rencontrer un
+maximum de personnes et réaliser des entretiens, il est préférable de
+s'investir lors de la première semaine où les diplomates ont davantage de
+temps. Pour comprendre l'issue des négociations ou tenter de rencontrer
+des acteurs politiques d'importance, mieux vaut s'investir lors de la
+deuxième semaine de négociation, et prévoir un retour un à deux jours
+après la date de clôture officielle annoncée au début de la rencontre et de
+fait sans cesse repoussée.
+
+
+Chapitre 17
+
+
+La diplomatie
+humanitaire
+
+
+Élise Rousseau, Achille Sommo
+
+
+D
+
+
+estruction d'Alep, épidémie d'Ebola en Afrique de
+l'Ouest, afflux massif de réfugiés en Europe,
+inondations au Bangladesh, déplacements internes en
+Irak, guerre civile au Soudan sont autant de situations
+où la vie de millions d'êtres humains est en péril, et qui
+appellent une réponse urgente. Un foisonnement
+d'acteurs locaux et internationaux entre alors en scène
+pour prévenir ces dangers, pour secourir et protéger
+les personnes vulnérables, ou pour promouvoir le
+respect des droits fondamentaux. Mais ces actions ne
+sont pas automatiques. Dans la plupart des cas, les
+acteurs doivent obtenir l'aval d'entités étatiques ou
+non, civiles ou (para)militaires, afin de se déployer.
+Longtemps cette interaction a été perçue sous le seul
+
+
+prisme de l'action humanitaire. Or, dans leurs pratiques
+quotidiennes, les acteurs humanitaires développent une
+expertise, mobilisent des méthodes innovantes pour
+atteindre leurs objectifs et, de fait, démontrent un
+véritable savoir-faire diplomatique avec une efficacité
+telle qu'est née l'idée d'une « diplomatie humanitaire ».
+Jusqu'ici, le concept a été très peu théorisé, il est même
+parfois contesté. Sa formulation est, en elle-même, un
+oxymore (Smith, 2007). En effet, alors qu'un certain
+idéal humanitaire voudrait se tenir à l'écart des jeux du
+politique, la diplomatie règne en maître sur les
+rapports entre États. Quand l'humanitaire prend l'habit
+du diplomate, il entre par défaut dans l'action politique,
+et la question de son impartialité peut parfois se poser.
+Quelle définition de la « diplomatie humanitaire » ?
+Quel en est le fondement ? Qui sont ses acteurs ?
+Quelles sont ses pratiques ? Ce chapitre se veut une
+entrée en matière pour saisir les contours de la
+diplomatie humanitaire et la place de plus en plus
+importante qu'elle est vouée à occuper dans le champ
+de la diplomatie.
+
+
+Définition
+
+
+La diplomatie humanitaire désigne toutes les activités
+de négociation entreprises auprès des gouvernements,
+des organisations (para)militaires ou des personnalités
+afin d'intervenir de manière sécurisée et neutre dans
+un contexte où l'humanité est en péril. Elle a également
+pour vocation de persuader les décideurs et les leaders
+d'opinion d'agir, en toutes circonstances, dans le
+respect des principes fondamentaux des droits
+humains. Cette définition reste vague car elle en dit
+peu sur les acteurs habilités à mener ces activités de
+négociation et de plaidoyer. $\dot{A}$ ce propos, deux
+
+
+«
+
+
+principales conceptions s'opposent. Une conception
+restrictive qui considère que ces activités sont
+l'apanage des organisations privées dites
+humanitaires » et de certains organes de l'Organisation
+des Nations unies (Minear et Smith, 2007). Une
+conception extensive considère que les organisations
+humanitaires, les personnalités, les États ou les
+organisations internationales pratiquent une diplomatie
+humanitaire à partir du moment où leurs actes visent la
+préservation de la dignité humaine (Veuthey, 2012). En
+réalité, ce débat masque une interrogation plus
+générale sur la pertinence même du concept de «
+diplomatie humanitaire ». En effet, la majorité des
+acteurs impliqués dans ces activités de négociation et
+de plaidoyer ne se considère pas comme des
+«
+diplomates » à proprement parler (Minear et Smith,
+2007). Pour plusieurs organisations, ces activités sont
+des tâches ordinaires qui relèvent de leur mission
+humanitaire. Elles ne sont pas perçues comme relevant
+d'une compétence spécifique faisant l'objet d'une
+attention particulière. Par ailleurs, il n'existe pas de «
+régime » de la diplomatie humanitaire équivalant aux
+Conventions de Vienne de 1961 et 1963 pour la
+diplomatie dite
+<<
+traditionnelle
+».
+La diplomatie
+humanitaire n'obéit donc pas à un ensemble
+d'institutions, de principes, de procédures et de règles
+qui organiseraient les interactions entre les acteurs
+impliqués dans des missions humanitaires. Pour autant,
+la diplomatie humanitaire s'impose peu à peu comme
+un champ singulier, notamment parce qu'elle repose
+sur un fondement propre et des pratiques privilégiées.
+
+
+« L'impératif d'humanité » :
+le fondement de la diplomatie
+
+
+humanitaire
+
+
+La diplomatie humanitaire repose sur un fondement
+essentiel : la reconnaissance de l'impératif d'humanité.
+Autrement dit, la reconnaissance de l'autre - quel qu'il
+soit comme être humain, et de la nécessité de
+protéger sa vie et préserver sa dignité (Dunant, 1862).
+Cet impératif d'humanité se décline en un ensemble de
+principes prévus par le droit international humanitaire
+(DIH) et les instruments internationaux des droits de
+l'homme (voir tableau p. 294). Le DIH est la branche du
+droit international qui régit la conduite des conflits
+armés internationaux et non internationaux, et vise à
+en limiter les conséquences. Les conventions de
+Genève de 1949 et leurs trois protocoles additionnels
+en constituent la pierre angulaire. Ils encadrent la
+protection des personnes qui ne participent pas ou plus
+aux hostilités : les civils, les malades et les blessés des
+forces armées, les naufragés, les prisonniers de guerre
+et les membres du personnel sanitaire ou des
+organisations humanitaires venues porter secours.
+Mais davantage, ces textes consacrent le principe d'une
+assistance désintéressée et sans discrimination à toute
+victime ou personne vulnérable dans un conflit. Le DIH
+a dû s'adapter à l'évolution des formes de conflictualité
+marquée par les avancées technologiques ainsi que
+l'implication active et récurrente des civils dans les
+conflits. Désormais, il régule également le déroulement
+des combats afin de limiter la violence de la guerre sur
+les soldats ou ses conséquences sur l'environnement et
+les biens immatériels.
+
+
+A
+priori, les principes du DIH engagent
+essentiellement les États parties aux différents textes.
+Cet engagement consiste en une obligation négative
+(s'abstenir de procéder à ou d'encourager une violation
+du droit) et en une obligation positive (agir
+
+
+collectivement ou individuellement pour faire cesser les
+violations). À notre sens, cette double obligation se
+heurte à deux limites. La première est que les
+Conventions n'engagent que les États qui y ont
+légalement consenti à travers un processus de
+ratification. Ce qui exclut, de facto, l'opposabilité de
+ces textes aux États qui ne les ont pas ratifiés.
+Deuxièmement, la ratification des textes n'est pas
+synonyme de leur respect strict et immédiat.
+L'application des principes reste assujettie à la volonté
+des dirigeants politiques qui peuvent brandir la
+souveraineté de leur État : soit pour se soustraire à des
+obligations, soit pour exiger de les mettre en œuvre par
+leurs propres moyens. Ces deux limites, illustrées par
+les tragédies survenues dans la région du Biafra au
+Nigeria (1967-1970), au Rwanda et dans les Balkans au
+cours des années 1990, ont motivé l'adoption par
+l'ONU du principe de la « responsabilité de protéger »
+(R2P) en septembre 2005 (Bettati, 2007). Ce principe
+entérine le droit d'outrepasser la souveraineté
+nationale d'un État en cas de crise humanitaire, dans le
+cadre d'un mandat émanant d'une autorité
+supranationale. Il a été invoqué la première fois par le
+Conseil de sécurité le 17 mars 2011 pour autoriser une
+intervention armée collective en Libye (Résolution
+1973), puis le 30 mars 2011 pour autoriser une
+intervention individuelle en Côte d'Ivoire (Résolution
+1975).
+
+
+Tableau 1 - Les principaux instruments internationaux
+des droits de l'homme et du droit international humanitaire
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Tableau élaboré par les auteurs
+
+
+Toutefois, les cas susmentionnés ainsi que d'autres
+théâtres conflictuels (Somalie, Darfour, Timor oriental,
+Irak, Syrie) ont montré que les États ne sont plus les
+seuls acteurs de la violence conflictuelle. Depuis la fin
+de la guerre froide, les conflits impliquent des acteurs
+armés non étatiques (AANE) qui agissent à l'intérieur
+d'un ou de plusieurs États. Or, ceux-ci sont également
+encouragés à respecter l'impératif d'humanité. Depuis
+2000, une ONG nommée Appel de Genève (Geneva
+Call) incite, en effet, les AANE à respecter les principes
+du DIH. L'intérêt de cette initiative est de contourner
+l'incapacité juridique des AANE à ratifier les
+conventions internationales, en leur proposant des «
+actes d'engagement
+».
+Ces actes concernent
+l'interdiction des mines antipersonnel, la protection des
+
+
+enfants dans les conflits armés, l'interdiction de la
+violence sexuelle dans les conflits armés et
+l'élimination de la discrimination basée sur le genre.
+Bien qu'ils soient non contraignants, ces actes
+permettent aux AANE de démontrer leur adhésion à
+certains << standards humanitaires » (Veuthey, 2012).
+
+
+Malgré l'existence d'un lien privilégié entre la
+diplomatie humanitaire et le DIH, il faut se garder de
+deux amalgames. Le premier est celui de considérer
+que la diplomatie humanitaire est l'apanage des
+juristes internationaux (Veuthey, 2012). Certains
+auteurs de violations du DIH ont connaissance du
+caractère illégal de leurs actes mais affichent leur
+volonté de ne pas s'y conformer. Brandir des arguments
+juridiques pour les inciter à adopter une démarche
+serait donc inutile, voire contre-productif. Le second
+amalgame est de réduire le spectre de la diplomatie
+humanitaire aux interventions dans les situations
+conflictuelles. Son fondement, l'impératif d'humanité,
+implique également des interventions dans des
+situations où les populations sont vulnérables à la suite
+de catastrophes naturelles, sanitaires, voire de crises
+sociales.
+
+
+Acteurs
+
+
+diplomatiques
+
+
+et
+
+
+pratiques
+
+
+Dans cette section, nous présentons les acteurs de la
+diplomatie humanitaire et leurs pratiques selon la
+conception extensive. Il ne faut pas y voir une prise de
+position concernant le débat évoqué. Notre objectif est
+plutôt d'offrir un panorama des différents agents qui
+pourraient, selon les chercheurs mobilisant le concept,
+entrer dans la catégorie des « diplomates humanitaires
+». Ainsi, sont présentées selon l'ordre chronologique,
+
+
+les pratiques du Comité international de la Croix-Rouge
+(CICR), celles de certaines ONG et celles des États et
+de l'ONU.
+
+
+Le CICR: un acteur incontournable de la scène humanitaire
+
+
+Le CICR, une association privée de droit suisse créée
+en 1863, est un acteur diplomatique unique en son
+genre. Cette identité spéciale résulte des Conventions
+de Genève par lesquelles les États parties lui ont
+assigné le mandat spécifique d'assister et de protéger
+les victimes des conflits armés. Ce mandat implique
+également de prévenir la souffrance par la promotion et
+le renforcement des principes du DIH. Les États parties
+aux Conventions de Genève ont doté le CICR d'une
+personnalité juridique internationale. Celle-ci
+lui
+permet d'obtenir, dans plusieurs pays, un statut de
+nature diplomatique équivalant à celui de la
+représentation d'un État ou à celui de l'ONU ou de
+l'Union européenne. Ainsi, le CICR jouit de privilèges
+tels que l'exonération d'impôts et de droits de douane,
+l'inviolabilité de ses locaux et documents, l'immunité de
+juridiction. Qui plus est, le CICR bénéficie d'un statut
+d'observateur à l'Assemblée générale de l'ONU, au
+même titre que la Palestine ou le Saint-Siège, depuis
+une résolution adoptée le 16 octobre 1990. Il en est de
+même au Conseil de l'Europe, à l'Organisation des
+États américains, l'Union africaine, l'Organisation de la
+Conférence islamique, ainsi qu'au Mouvement des pays
+non alignés. Compte tenu de ce statut juridique, des
+droits et des privilèges qui y sont associés, il serait
+tentant d'assimiler le CICR à un acteur de la diplomatie
+traditionnelle
+telle
+qu'une
+organisation
+intergouvernementale. Cette impression est accentuée
+par le fait que le portail des offres d'emploi du CICR
+propose régulièrement des postes de conseiller
+
+
+diplomatique et que le site internet propose un onglet <<<
+diplomatie humanitaire ».
+
+
+En réalité, la personnalité juridique internationale du
+CICR est strictement fonctionnelle (Harroff-Tavel,
+2005). Le CICR ne jouit de ce statut, ainsi que de ses
+droits et privilèges, que dans l'accomplissement du
+mandat confié par les Conventions de Genève.
+Autrement dit, les activités diplomatiques du CICR ne
+s'exercent que dans ses fonctions d'assistance ou de
+protection des victimes de conflits et de promotion du
+DIH. Sa représentation au sein des différentes
+institutions internationales est motivée par
+l'opportunité que ces espaces offrent pour échanger
+avec les délégations des États sur les questions qui
+relèvent de son mandat. Ces attributs fonctionnels
+permettent également au CICR de discuter avec toutes
+les parties impliquées dans les conflits, y compris les
+AANE, sans que cela ne soit considéré comme une
+ingérence et sans qu'il ne soit obligé de divulguer la
+teneur et le contexte de ces échanges. D'ailleurs, le
+CICR bénéficie de l'exemption de l'obligation de
+témoigner ou de fournir la preuve auprès des tribunaux
+pénaux nationaux et internationaux. Elle est prévue par
+la règle 73 du règlement de procédure et de preuve de
+la Cour pénale internationale, et par une décision de la
+chambre de première instance du Tribunal pénal
+international pour l'ex-Yougoslavie le 27 juillet 1999
+concernant l'affaire Le Procureur c/ Simiç et consorts.
+Celle-ci a affirmé ce privilège sur le fondement de «
+l'immense intérêt général » que représente l'action du
+CICR.
+
+
+La diplomatie humanitaire du CICR a deux objectifs
+principaux. Le premier est opérationnel : étendre
+l'acceptabilité du CICR (et de son mandat) à tous les
+acteurs impliqués dans les conflits armés. Cela lui
+permet d'avoir accès aux victimes, de leur prodiguer
+
+
+l'assistance et la protection nécessaires, de rendre
+visite aux prisonniers de guerre, de livrer des messages
+familiaux et d'aider à retrouver des personnes portées
+disparues dans des zones de guerre. Le second objectif
+est juridique : promouvoir le DIH auprès des États et
+des AANE. Dans ce cadre, le CICR organise tous les
+quatre ans la Conférence internationale de la Croix-
+Rouge pour débattre des enjeux humanitaires
+contemporains et faire évoluer le DIH. Elle réunit les
+composantes du Mouvement international de la Croix-
+Rouge et du Croissant-Rouge, les États parties aux
+Conventions de Genève, des organisations
+internationales, l'ONU et certaines de ses institutions
+spécialisées, des ONG et des institutions académiques.
+Selon Harroff-Tavel, pour atteindre ces deux objectifs,
+le CICR privilégie la persuasion par une négociation
+discrète et confidentielle. Dans une certaine mesure, il
+peut mobiliser des alliés potentiels (États,
+organisations internationales, ONG, acteurs religieux
+ou économiques, personnalités politiques, sportives ou
+culturelles) capables « d'influencer [discrètement] les
+parties au conflit pour qu'elles respectent le droit
+humanitaire » (Harroff-Tavel, 2005, 78). Dans ce cas de
+figure, lorsqu'il s'agit d'États tiers, le CICR se contente
+de rappeler leur obligation de « faire respecter » le
+DIH, en vertu de l'article 1 commun aux quatre
+Conventions de Genève. Quand il s'agit d'autres
+acteurs, le CICR leur laisse la liberté de définir leurs
+moyens d'intervention, mais dans le respect du DIH. Le
+choix de recourir à des alliés risque cependant de
+porter atteinte au principe d'indépendance du CICR.
+
+
+Organisations non gouvernementales :
+deux approches humanitaires de la diplomatie
+
+
+Le CICR occupe le devant de la scène internationale
+en matière d'action humanitaire pendant la première
+
+
+moitié du $XX^{e}$ siècle. Dès les années 1960, dans le
+milieu associatif, des voix commencent à s'opposer à la
+vision de l'humanitaire prônée par l'institution et, plus
+précisément, à son principe de confidentialité.
+Quelques ONG de défense des droits de l'homme voient
+le jour et la création de Médecins sans frontières (MSF)
+par quatorze médecins français après la guerre du
+Biafra (1967-1970) marque une véritable rupture avec
+les pratiques du CICR. Le mouvement s'intensifie et un
+véritable réseau transnational de défense des droits de
+l'homme existe dès 1980 (Sikkink, 1993). Au tournant
+de la décennie 1980, MSF sera traversé par deux
+visions opposées de l'humanitaire et de son rapport au
+politique; illustrant ainsi une tension qui traverse
+l'ensemble de l'aide humanitaire non gouvernementale
+(Maillard, 2008). À notre sens, ces deux conceptions
+induisent deux approches différentes de la diplomatie
+humanitaire : l'une publique, l'autre pragmatique.
+
+
+L'approche publique est portée chez MSF par
+Bernard Kouchner. Celle-ci considère que le principe de
+confidentialité qui caractérise l'humanitaire avant les
+années 1960-1970 doit être rejeté. Sous l'influence de
+Kouchner, MSF, et puis Médecins du monde après la
+rupture de 1980, refuse de garder le silence face aux
+dérives autoritaires et veut relayer vers le monde les
+exactions commises durant les conflits. Les violations
+des droits de l'homme sont dénoncées, l'opinion
+publique occidentale interpellée. Plus que jamais,
+l'action humanitaire veut se faire politique : en forgeant
+le concept de droit d'ingérence, Bernard Kouchner,
+avec Mario Bettati, a pour ambition de théoriser
+l'action humanitaire d'État. Outre les activités de cette
+branche de MSF, cette approche recouvre également
+celles des ONG de défense des droits de l'homme telles
+Amnesty International, ou encore Human Rights Watch.
+
+
+Ses pratiques peuvent se décliner selon cinq angles
+
+
+d'action.
+
+
+Une première
+
+
+l'organisation
+
+
+pratique
+
+
+diplomatique
+
+
+est
+
+
+de
+sensibilisation. Les ONG procèdent au « cadrage »
+d'une situation où l'humanité est en péril dans l'espoir
+de susciter l'émotion, d'éveiller l'attention, et, surtout,
+de pousser des États tiers à l'action. Une deuxième
+pratique est la mise en place de campagnes de naming
+and shaming dénonçant la complicité des États qui
+n'agissent pas sur le territoire où des exactions sont
+commises. Durant ces campagnes, l'identité
+démocratique libérale des États et des institutions leur
+est rappelée, ainsi que leur attachement aux droits de
+l'homme et au droit humanitaire (Risse et Sikkink,
+1999, 23). Les campagnes de sensibilisation et celles de
+naming and shaming transmettent des informations
+que les ONG sont parfois les seules à posséder. En
+effet, quand un gouvernement bloque les voies
+traditionnelles de communication, des organisations
+locales peuvent faire passer leur message par le biais
+des ONG internationales. Ces dernières pousseraient
+alors les autres États et les organisations
+intergouvernementales à agir. Cette action peut
+prendre la forme d'une condamnation internationale,
+de sanctions, ou encore d'une intervention. Cette
+stratégie d'action par les réseaux transnationaux a été
+théorisée par Margaret Keck et Kathryn Sikkink sous le
+nom d' effet boomerang » (Keck et Sikkink, 1998, cf.
+figure 1). On remarquera que, dans ces deux premiers
+cas, les ONG exercent une forme de lobbying auprès
+des gouvernements et des institutions internationales
+afin de pousser la mise à l'agenda du problème
+identifié. Ces pratiques de diplomatie humanitaire sont
+donc indirectes : il s'agit de pousser d'autres acteurs à
+agir.
+
+
+campagnes internationales de
+
+
+État A
+
+
+XXXXXXXXXXXX
+Blocage
+
+
+ONG
+
+
+ONG
+
+
+Figure 1 - L'effet boomerang
+
+
+Pressions
+
+
+Pressions
+
+
+Organisations
+intergouvernementales
+
+
+Informations
+
+
+État B
+
+
+ONG
+
+
+ONG
+
+
+Source: Keck et Sikkink, 1998
+
+
+Une troisième
+pratique
+«
+humanitaires » non gouvernementaux est la mise en
+place d'actions publiques directement dirigées contre
+l'acteur déviant, par le lancement, là aussi, de
+campagnes de naming and shaming. Cette fois, les
+campagnes visent à dénoncer l'action déviante d'un
+acteur sans passer par l'intermédiaire d'autres États.
+Elles peuvent être perçues comme l'arme de David
+contre Goliath, celle de l'acteur non gouvernemental
+faible contre l'acteur étatique puissant, avec des succès
+parfois mitigés (Friman, 2015). Une autre pratique
+diplomatique directe semble, quant à elle, promise à un
+
+
+des
+
+
+diplomates
+
+
+bel avenir : la participation à l'élaboration de traités
+internationaux. Outre la mise à l'agenda international
+d'un problème humanitaire, des ONG peuvent parfois
+participer pleinement à la négociation d'un traité. Cette
+quatrième pratique est, par exemple, illustrée par les
+négociations ayant abouti à la Convention d'Ottawa sur
+l'interdiction des mines antipersonnel (1997),
+présentée comme « l'un des cas les plus emblématiques
+de la diplomatie humanitaire » (Ryfman, 2010, 573). En
+effet, des ONG ont directement participé aux
+négociations du traité, grâce au soutien d'une série
+d'Etats. Par exemple, Handicap international a pu
+accompagner la délégation française lors d'une
+première conférence internationale sur le sujet,
+organisée au Canada. Les humanitaires participent à la
+rédaction du traité et en commentent certaines
+formulations. Enfin, une cinquième pratique de la
+diplomatie humanitaire non gouvernementale est la
+surveillance de la mise en place des dispositions d'un
+traité dans les États parties. Ce rôle est, par exemple,
+prévu par la Convention d'Ottawa mais aussi par le
+Processus de Kimberley, un forum international
+réglementant la vente des diamants bruts.
+
+
+La deuxième approche de la diplomatie humanitaire
+par des acteurs non gouvernementaux est qualifiée de
+pragmatique. Il s'agit de l'approche défendue par Rony
+Brauman, président de MSF de 1982 à 1994. Refusant
+d'exclure le principe de confidentialité de
+l'humanitaire, et se rapprochant ainsi de la vision du
+CICR, il considère que le soin doit l'emporter sur le
+devoir de témoigner. En dénonçant des exactions
+commises sur le territoire où elle se trouve, l'ONG
+risque, en effet, de perdre tout accès aux victimes. Le «
+savoir-faire » s'oppose ici au devoir du « faire savoir »
+(Maillard, 2008). L'approche pragmatique possède deux
+fondements : l'urgence et la neutralité entendue
+
+
+comme
+«
+une retenue que l'on s'impose dans la
+manifestation de nos sympathies ou de nos rejets >
+(Brauman, 2009, 107). La logique humanitaire y est
+érigée comme distincte des logiques d'action
+économique, politique et émotionnelle. Tout d'abord,
+l'humanitaire s'éloigne de la logique économique des
+organismes d'aide au développement, qui prônent une
+résolution des problèmes par la voie de la
+transformation économique (Calhoun, 2010). En effet,
+les travailleurs humanitaires évoluent dans l'urgence :
+ils doivent parer au plus pressé, sauver des vies, avant
+d'envisager une transformation structurelle de l'État
+touché. Les tenants de cette conception refusent,
+ensuite, les logiques politiques à la base de l'approche
+publique de l'humanitaire. La neutralité assure un
+accès au terrain et aux victimes de crises humanitaires
+: si les ONG ne sont pas perçues comme des menaces,
+les États dans lesquels elles évoluent ne devraient pas
+entraver leurs actions (Calhoun, 2010). Outre un rejet
+de la logique politique, la conception de la neutralité
+comporte un refus de la logique émotionnelle : « Les
+individus ont des émotions, mais une institution
+humanitaire doit servir au contraire à “lisser” les
+émotions, à se défaire de leur emprise pour agir en
+fonction des situations constatées et non des
+emportements du moment » (Brauman, 2009, 111). En
+effet, pour les promoteurs de cette approche, la
+diplomatie humanitaire n'emprunte pas la voie du
+naming and shaming ou d'autres campagnes visant à
+susciter l'émotion. De manière générale, les pratiques
+diplomatiques s'inscrivent ici au niveau opérationnel.
+Les ONG traitent avec les États notamment pour
+négocier le passage de matériels et de personnels
+humanitaires, la livraison de l'aide alimentaire, l'accès
+aux victimes, l'obtention de visas pour les acteurs
+humanitaires, ou encore la coordination de l'aide
+
+
+(Veuthey, 2012, 95-196). Dans de tels contextes, les
+travailleurs humanitaires démontrent de réelles
+aptitudes diplomatiques : ils négocient en utilisant les
+techniques, méthodes et instruments propres à la
+diplomatie afin d'atteindre leurs objectifs (Smith,
+2007).
+
+
+Les approches diplomatiques de l'humanitaire
+
+
+Après la fondation du CICR, la plupart des États se
+sont désintéressés des questions humanitaires et des
+droits de l'homme dans la poursuite de leur politique
+étrangère. Ce n'est qu'au lendemain de la seconde
+guerre mondiale que ces questions reviennent sur le
+devant de la scène internationale, comme en
+témoignent la promulgation des quatre Conventions de
+Genève (1949) et la Déclaration universelle des droits
+de l'homme (1948). Après ce moment clé, quelques
+pays européens continuent progressivement
+à
+développer un régime régional de protection des droits
+de l'homme en créant, notamment, la Cour européenne
+des droits de l'homme en 1959. Au sein de l'ONU,
+l'organisation de l'aide humanitaire se met en place
+avec, entre autres, la création du Fonds des Nations
+unies pour l'enfance (Unicef) en 1946 et celle du Haut-
+Commissariat des Nations unies pour les réfugiés
+(UNHCR) en 1950. Aux États-Unis, la doctrine du
+containment prend rapidement le dessus en matière de
+politique étrangère et efface toute considération liée à
+l'humanitaire ou à la protection des droits de l'homme.
+Ce n'est qu'à partir de la décennie 1970, face à
+l'influence grandissante des ONG et à la suite de
+l'arrivée de Jimmy Carter à la présidence, que les États-
+Unis réintégreront des considérations liées au respect
+des droits de l'homme à l'étranger dans leur prise de
+décision. Au même moment, sur le continent européen,
+certains États, tels que la Norvège ou les Pays-Bas,
+
+
+développent de manière explicite une politique
+étrangère axée vers la protection des droits de
+l'homme. Au sein de l'ONU, l'organisation de l'aide
+humanitaire intergouvernementale se précise,
+notamment avec la création du Bureau de la
+coordination des affaires humanitaires (OCHA) en
+1991. Dans cette section, nous présenterons la
+diplomatie humanitaire d'État et celle de l'ONU.
+
+
+L'insertion de considérations liées aux droits de
+l'homme dans la prise de décisions en politique
+étrangère aurait poussé certains États à redéfinir leur
+approche de l'intérêt national en y intégrant des
+éléments moraux (Brysk, 2009). Cette évolution dans le
+chef de certains politiciens ne signifie pas pour autant
+l'abandon de toute notion d'intérêt au profit d'un
+altruisme mondial inconditionnel : le respect des droits
+de l'homme sur le territoire d'un autre État n'est
+parfois qu'un facteur parmi d'autres influençant la
+prise de décision en politique étrangère (Hafner-
+Burton, 2013). La diplomatie humanitaire de ces États,
+généralement libéraux démocratiques, mêlerait donc
+l'intérêt national et la promotion de valeurs liées aux
+droits de l'homme. Dans son ouvrage consacré à la
+politique étrangère de ces États, Alison Brysk met en
+avant cinq moyens qui permettraient à leur diplomatie
+humanitaire de s'exercer (Brysk, 2009, 20-22).
+Premièrement, les États peuvent opter pour la voie
+multilatérale et rejoindre des organes de défense des
+droits fondamentaux, participer à l'élaboration de
+traités, ou encore promouvoir le DIH. Deuxièmement,
+la diplomatie humanitaire peut s'insérer dans les
+relations bilatérales entre États. Un gouvernement
+peut, par exemple, tenter d'améliorer la situation
+humanitaire au sein d'un autre pays à l'aide de
+processus de médiation, ou encore par la mise en place
+de sanctions ou de récompenses. Troisièmement, des
+
+
+mécanismes d'aide au développement peuvent aider à
+améliorer la situation humanitaire d'États incapables
+de les prendre en charge seuls. Quatrièmement, la
+situation humanitaire peut s'améliorer grâce à des
+mécanismes promouvant la paix, tels que la pré...
+vention de conflit ou la
+
+
+reconstruction
+
+
+post-
+
+
+conflictuelle. Finalement, une forme de diplomatie
+humanitaire peut également se retrouver dans l'accueil
+des réfugiés. Outre les pratiques mentionnées, certains
+États ont explicitement placé le concept de
+«
+diplomatie humanitaire » au cœur de leur politique
+étrangère. Dans un texte publié en 2013, le ministre
+turc des Affaires étrangères de l'époque entendait, par
+exemple, développer la diplomatie humanitaire de son
+pays selon trois axes : le bien-être des citoyens turcs, la
+promotion d'une approche humaine de la résolution des
+conflits et une action proactive au sein de l'ONU
+(Davutoglu, 2013). Le concept de « sécurité humaine »,
+cher aux tenants de la politique étrangère canadienne
+et japonaise, offre, quant à lui, des similitudes avec
+celui qui nous occupe. Lors d'un symposium sur les
+relations turco-japonaises organisé en 2016, certains
+chercheurs ont d'ailleurs déclaré que les deux pays
+possédaient une vision commune de la diplomatie
+humanitaire (Orsam, 2016).
+
+
+Aux côtés du CICR, des ONG et des diplomates
+d'États, l'ONU est un acteur incontournable de la
+diplomatie humanitaire contemporaine. Son action
+s'articule autour de quatre axes : les crises
+humanitaires (catastrophes naturelles et conflits
+armés), le secours des victimes, la protection des
+personnes vulnérables et la prévention des crises.
+L'action de l'organisation est coordonnée par le Bureau
+de coordination des affaires humanitaires (OCHA).
+Concrètement, elle est prise en charge par cinq
+organismes principaux : l'UNHCR, l'Unicef, le
+
+
+Programme des Nations unies pour le développement
+(PNUD), le Programme alimentaire mondial (PAM), ou
+encore l'Organisation mondiale de la santé (OMS). Pour
+Larry Minear et Hazel Smith (2007), les membres du
+personnel de ces organismes sont parmi les seuls à
+pouvoir être appelés « diplomates humanitaires ».
+Contrairement à la diplomatie humanitaire étatique, la
+diplomatie humanitaire onusienne s'inscrit à un niveau
+très opérationnel. Les agences de l'ONU doivent
+notamment établir leur présence et celle de leur
+personnel dans certains pays, surveiller les
+programmes d'assistance, ou encore encourager le
+respect du DIH. Tout comme les diplomates d'États,
+certains membres du personnel onusien possèdent des
+laisser-passer particuliers, ils bénéficient de l'immunité
+diplomatique et ils négocient avec des figures
+politiques (Minear
+et
+Smith, 2007). Toutefois,
+contrairement à eux, ils ne doivent pas prendre en
+compte des considérations liées à l'intérêt national. Ce
+qui prime avant tout ici, c'est de protéger l'humanité en
+péril.
+
+
+*
+
+
+La diplomatie humanitaire suscite déjà moins de
+scepticisme qu'à ses débuts. Si certains la percevaient
+comme une entreprise distincte, discrète et limitée
+(Smith, 2007, 38), d'autres considèrent qu'elle est une
+forme de diplomatie alternative (Ryfman, 2010, 576).
+En réalité, la diplomatie humanitaire a ceci de
+particulier qu'elle est capable de faire face à l'urgence
+et de surmonter de profonds clivages, pour obtenir des
+solutions à des situations considérées comme
+insolubles. Ses techniques de
+persuasion sont relativement
+praticiens de la diplomatie
+
+
+négociation et de
+peu connues des
+traditionnelle. Cela
+
+
+s'explique surtout parce que les acteurs humanitaires
+n'ont pas conscience de posséder, dans leurs tâches
+ordinaires, une réelle expertise diplomatique qui peut
+faire l'objet d'un intérêt et d'une transmission. Cela dit,
+parler de la diplomatie humanitaire comme d'un bloc
+homogène serait une erreur. Jusqu'ici, il n'existe pas de
+règles absolues. Si certains acteurs majeurs, comme le
+CICR, font preuve d'une extrême régularité dans leurs
+pratiques diplomatiques, et l'assument, cela est moins
+évident pour les autres. De fait, la pratique de
+diplomatie humanitaire varie d'un contexte à l'autre,
+mais elle garde toujours pour exigence l'impératif
+d'humanité. Quoi qu'il en soit, cette diversité d'acteurs,
+de domaines d'interventions et de pratiques implique
+de se confronter à des défis permanents, notamment
+pour éviter les pièges de l'instrumentalisation de
+l'action humanitaire et de la compétition entre les
+différents acteurs là où une coordination des efforts
+serait à favoriser.
+
+
+Bibliographie commentée
+
+
+BETTATI Mario,  Du droit d'ingérence à la responsabilité de protéger »,
+Outre-terre, 20 (3), 2007,  . 381-389.
+
+
+Réflexion qui lève le voile et justifie les raisons du passage du droit
+d'ingérence à la responsabilité de protéger. L'auteur a directement
+contribué à cette évolution en tant que praticien influent de la
+diplomatie humanitaire dès le début des années 1970.
+
+
+BRAUMAN Rony, Humanitaire, diplomatie et droits de l'homme, Paris,
+Éditions du Cygne, 2009.
+
+
+Recueil d'articles et d'interviews de Rony Brauman, président de
+Médecins sans frontières de 1982 à 1994. Les textes de l'ouvrage
+ont été publiés entre 1988 et 2009 dans divers médias français.
+
+
+BRYSK Alison, Global Good Samaritans. Human Rights as Foreign Policy,
+Oxford, Oxford University Press, 2009.
+
+
+Cet ouvrage opte pour une approche constructiviste des relations
+internationales et étudie en profondeur la politique étrangère de
+
+
+six puissances moyennes en matière de droits de l'homme :
+Canada, Suède, Japon, Costa Rica, Pays-Bas et Afrique du Sud.
+
+
+CALHOUN Craig,  The idea of emergency. Humanitarian action and
+global (dis)order  , dans Didier Fassin, Mariella Pandolfi (eds),
+Contemporary States of Emergency. The Politics of Humanitarian
+Interventions, New York (N. Y.), Zone Books, 2010,  . 29-58.
+
+
+Le chapitre retrace la généalogie de l'imaginaire social de
+l'urgence depuis le tremblement de terre de Lisbonne de 1755.
+L'auteur met cette idée en relation avec les concepts de charité,
+d'impérialisme et de progrès avant d'en explorer la dimension
+exceptionnelle dans le cadre des actions humanitaires.
+
+
+DAVUTOGLU Ahmet, « Turkey's humanitarian diplomacy. Objectives,
+challenges and prospects », Nationalities Papers. The Journal of
+Naitonalism and Ethnicity, 41 (6), 2013,  . 865-870.
+
+
+Article présentant la diplomatie humanitaire turque. Ahmet
+Davutoglu a été ministre des Affaires étrangères de la Turquie de
+2009 à 2014 et Premier ministre d'août 2014 à mai 2016.
+
+
+DUNANT Henri (1862), Un souvenir de Solferino, Genève, Comité
+international de la Croix-Rouge, 1990.
+
+
+À l'origine, ce récit sur la bataille de Solferino, dont l'auteur a été
+témoin, était destiné à des amis pour rendre compte de la violence
+de la guerre et de l'assistance dérisoire aux victimes. Aujourd'hui,
+cet ouvrage en accès libre est considéré comme le fondement
+philosophique du droit international humanitaire et de l'action du
+CICR.
+
+
+FRIMAN H. Richard (ed.), The Politics of Leverage in International
+Relations. Name, Shame, and Sanctions, New York (N. Y.), Palgrave
+Macmillan, 2015.
+
+
+Cet ouvrage a pour ambition de théoriser les moyens de pression
+internationaux que sont les sanctions et les campagnes de naming
+and shaming.
+
+
+HAFNER-BURTON Emilie M., Making Human Rights a Reality, Princeton
+(N. J.), Princeton University Press, 2013.
+
+
+L'auteure présente une stratégie pragmatique de politique
+étrangère qui devrait permettre, selon elle, la diffusion efficace des
+droits de l'homme dans certains pays.
+
+
+«
+
+
+HARROFF-TAVEL Marion,
+La diplomatie humanitaire du Comité
+international de la Croix-Rouge », Relations internationales, 121 (5),
+2005,  . 73-89.
+
+
+L'auteure aborde la spécificité du CICR en tant que sujet de droit
+international, les traits caractéristiques de sa diplomatie
+
+
+humanitaire et sa réaction face aux défis de l'évolution du rôle et
+du comportement des différents acteurs de la scène internationale.
+
+
+KECK Margaret E., SIKKINK Kathryn, Activists Beyond Borders. Advocacy
+Networks in International Politics, Ithaca (N. Y.), Cornell University
+Press, 1998.
+
+
+L'ouvrage offre une première étude constructiviste de l'action des
+réseaux transnationaux d'activistes. Les auteurs y développent le
+célèbre boomerang pattern et étudient les réseaux de défense des
+droits de l'homme, de défense de l'environnement, et de lutte
+contre la violence à l'égard des femmes.
+
+
+MAILLARD Denis, « 1968-2008: le Biafra ou le sens de l'humanitaire »,
+Humanitaire,
+18,
+
+
+2008,
+https://journals.openedition.org/humanitaire/182 [consulté le 24
+février 2017].
+
+
+Dans cet article, Denis Maillard, ancien responsable de la
+communication chez Médecins du monde, relate l'histoire de
+Médecins sans frontières et évoque les visions de l'humanitaire de
+Bernard Kouchner et de Rony Brauman. La revue Humanitaire est
+éditée par l'ONG Médecins du monde.
+
+
+MINEAR Larry, SMITH Hazel,  Introduction  , dans Larry Minear, Hazel
+Smith (dir.), Humanitarian Diplomacy. Practitioners and their Craft,
+New York (N. Y.), United Nations University Press, 2007, p. 1-4.
+Après une partie sur l'origine du concept de la diplomatie
+humanitaire, l'essentiel de cet ouvrage aborde les pratiques de
+négociation des professionnels de la diplomatie humanitaire dans
+différents théâtres (post-)conflictuels du globe.
+
+
+ORSAM,  Symposium Japan-Turkey. Dialogue on global affairs »,
+Meeting Evaluation, 8, août 2016.
+
+
+Le symposium, organisé par le Centre d'études stratégiques du
+Moyen-Orient, avait pour but d'entamer une série de réflexions sur
+les relations turco-japonaises et sur leurs coopérations possibles
+sur le plan mondial. La diplomatie humanitaire a été évoquée à
+cette occasion.
+
+
+RISSE Thomas, SIKKINK Kathryn, « The socialization of international
+human rights norms into domestic practices: introduction », dans
+Thomas Risse, Stephen C. Ropp, Kathryn Sikkink (eds), The Power of
+Human Rights. International Norms and Domestic Change,
+Cambridge, Cambridge University Press, 1999, p. 1-38.
+
+
+S'inscrivant dans une approche constructiviste, cet ouvrage étudie
+la diffusion des normes internationales des droits de l'homme dans
+des contextes domestiques au travers d'une série d'études de cas.
+Ce premier chapitre introduit le fameux spiral model pour
+expliquer cette diffusion.
+
+
+RYFMAN Philippe, « L'action humanitaire non gouvernementale : une
+diplomatie alternative ? », Politique étrangère, 3, 2010, p. 565-578.
+L'article offre une excellente introduction à la diplomatie
+humanitaire. Il en présente les contours et les acteurs avant de la
+qualifier d'<< alternative » à la diplomatie classique, plutôt que de <<<
+parallèle  à celle-ci.
+
+
+SIKKINK Kathryn, « The power of principled ideas. Human rights policies
+in the United States and Western Europe  , dans Judith Goldstein,
+Robert O. Keohane (eds), Ideas and Foreign Policy. Beliefs,
+Institutions, and Political Change, Ithaca (N. Y.), Cornell University
+Press, 1993,  . 139-170.
+
+
+Le chapitre de Kathryn Sikkink retrace, notamment, l'émergence
+des considérations liées aux droits de l'homme dans la prise de
+décision en politique étrangère en Europe et aux États-Unis.
+
+
+SMITH Hazel, « Humanitarian diplomacy. Theory and practice », dans
+Larry Minear, Hazel Smith (eds), Humanitarian Diplomacy.
+Practitioners and their Craft, Tokyo/New York/Paris, United Nations
+University Press, 2007, p. 36-62.
+
+
+Ce texte fait partie des chapitres d'introduction du livre qu'Hazel
+Smith codirige avec Larry Minear. Il présente le concept de <<<
+diplomatie humanitaire » et défend l'intérêt de son étude à côté de
+celle de la diplomatie classique. $\dot{A}$ notre connaissance, il s'agit du
+
+
+seul ouvrage entièrement consacré à la diplomatie humanitaire.
+
+
+VEUTHEY Michel,  Humanitarian diplomacy. Saving it when it is most
+needed  , dans Alexandre Vautravers, Yivita Fox (eds), Humanitarian
+Space and the International Community. 16th Humanitarian
+Conference, Genève, Webster University, 2012, p. 195-209.
+
+
+Ce chapitre est recommandé pour une entrée en matière car il
+examine brièvement la définition de la diplomatie humanitaire, ses
+acteurs, ses contextes juridiques, ses modes opératoires, ses
+limites et ses perspectives. Une version similaire de ce texte existe
+en français sous le titre << Préserver les chances de la diplomatie
+humanitaire au moment où elle est la plus nécessaire  , 2011,
+www.diploweb.com/Diplomatie-humanitaire.html [consulté le 24
+avril 2018].
+
+
+Chapitre 18
+
+
+La diplomatie de défense
+
+
+Frédéric Charillon, Thierry Balzacq,
+Frédéric Ramel
+
+
+S
+
+
+i la complémentarité entre le soldat et le diplomate
+est connue (Aron, 1962, 770), si le rapport entre
+outil diplomatique et outil militaire a ses spécialistes
+(Doise et Vaïsse, 2015), les études académiques
+consacrées explicitement à la diplomatie de défense
+sont peu nombreuses. C'est récemment que le terme
+s'est imposé dans le vocabulaire des praticiens, avec
+une connotation bien particulière.
+
+
+L'idée de diplomatie de défense, dans son acception
+contemporaine, a émergé durant les années 1990 et
+suggère (plus qu'elle ne « désigne », car aucune
+définition officielle ni définitive ne s'impose) l'ambition
+d'utiliser le canal militaire, ou celui des experts des
+questions de défense, pour contribuer à un climat de
+
+
+confiance et à une convergence des intérêts. Elle est
+donc, comme son nom l'indique, au service de la
+diplomatie, davantage qu'au service de l'efficacité
+militaire proprement dit (Hills, 2000). Par rapport à des
+époques plus lointaines, le renversement
+de
+perspective est important : c'est la collaboration dans
+le domaine militaire qui sert le rapprochement
+politique, et non l'entretien d'une relation politique qui
+doit permettre de forger des alliances militaires.
+
+
+Cette dynamique est née dans le contexte d'un
+double impératif de reconstruction de l'Europe. Une
+reconstruction, d'abord, de la relation des puissances
+occidentales aux pays anciennement communistes, dont
+les armées avaient été formées à lutter contre
+l'Organisation du traité de l'Atlantique nord (OTAN),
+mais étaient désormais appelées à le rejoindre (ainsi
+que l'Union européenne). La strategic defence review
+britannique de 1998 est l'une des premières sources
+officielles à évoquer explicitement, parmi ses
+nouvelles missions¹ », l'objectif d'une « diplomatie de
+défense » destinée à « dissiper l'hostilité, construire la
+confiance, participer au développement de forces
+armées sous contrôle démocratique (contribuant par là
+même à la prévention et à la résolution de conflits) »,
+essentiellement avec l'Europe post-communiste (House
+of Commons, 1998). L'Allemagne a ainsi rapidement
+pratiqué un dialogue de défense avec l'Europe centrale
+et orientale, la Norvège avec la Russie, la Finlande ou
+la Suède avec les pays Baltes (Cottey et Forster, 2004).
+
+
+Reconstruction, également, des Balkans après le
+drame yougoslave, qui a vu des exactions graves
+commises par des milices ou forces armées nationales
+de pays de l'ex-Yougoslavie, défiant toute éthique et
+toute injonction internationale. L'après-guerre
+et
+l'horizon d'une intégration des nouveaux Balkans dans
+l'Union européenne (UE) ou dans l'OTAN posèrent la
+
+
+question de la réforme du secteur militaire et de
+sécurité dans la région.
+
+
+Par la suite, l'utilisation du canal militaire et de
+défense comme facilitateur de dialogue politique s'est
+répandue dans le monde, dépassant le seul cadre des
+pays démocratiques, toujours avec le même objectif de
+coopération et de gain diplomatique (Matsuda, 2006).
+La Chine entretient un dialogue militaire avec l'Inde,
+l'Australie avec l'Indonésie, ou les pays de l'Asean
+entre eux.
+
+
+Après les attentats du 11 septembre 2001, la
+diplomatie de défense trouva un nouveau souffle
+(Blannin, 2017), et la Strategic Defence Review
+britannique de 1998, déjà citée, fut augmentée en 2002
+d'un nouveau chapitre insistant sur la diplomatie de
+défense comme outil de lutte antiterroriste, à travers
+l'établissement de liens de confiance entre armées
+(Ministry of Defence, 2002).
+
+
+Sur le plan des pratiques, le concept de diplomatie de
+défense renvoie à plusieurs registres distincts. Sur le
+plan théorique, il participe de plusieurs familles de
+problématiques. La sociologie des acteurs qui
+l'animent, enfin, connaît une évolution constante qui
+pose la question de l'avenir du concept.
+
+
+La diplomatie de défense : limites
+du concept,
+
+
+variations des pratiques
+
+
+Ce contexte contemporain, marqué par l'idée de
+construction de confiance, nous amène à rejeter
+d'autres utilisations toujours en cours, mais en réalité
+caduques ou anachroniques, du concept de diplomatie
+de défense. Car cette dernière demeure avant tout un
+canal de dialogue militaire, et un domaine d'expertise
+
+
+partagé par une communauté d'acteurs de nationalités
+différentes.
+
+
+Ce que n'est pas la diplomatie de défense
+
+
+On exclura d'abord ici une utilisation à vrai dire
+fréquente, qui renvoie à l'usage (ou à la menace) de la
+force, à l'appui de la diplomatie. Or il s'agit là en réalité
+de la vieille  diplomatie de la canonnière », qui
+consiste à jouer de la démonstration de force militaire
+pour amener une puissance donnée à des concessions,
+ce qui se situe précisément aux antipodes de la
+catégorie de soft power dans laquelle la diplomatie de
+défense contemporaine souhaite s'inscrire.
+
+
+On ne parlera pas non plus de « diplomatie de
+défense » lorsque la politique étrangère est mise en
+œuvre par des acteurs qui se trouvent être militaires,
+mais opèrent en tant que dirigeants. C'est le cas des
+régimes militaires (junte birmane, dictatures militaires
+sud-américaines...) ou dans lesquels l'armée détient
+une forte influence (Algérie, Pakistan, Égypte...). Ce
+peut être le cas également de régimes civils
+démocratiques, dans lesquels, à titre temporaire, un
+individu, certes militaire de formation, exerce les
+fonctions civiles de chef de l'État (les États-Unis du
+général Eisenhower, la France du général de Gaulle),
+de chef de gouvernement (Israël sous Yitzhak Rabin,
+Ehud Barak ou Ariel Sharon), ou de ministre (Alexander
+Haig, Secrétaire d'État américain de 1981 à 1982).
+Leur diplomatie est alors celle de l'État tout entier, et
+non une seule diplomatie de défense.
+
+
+On ne confondra pas non plus diplomatie de défense
+avec « communication de défense », c'est-à-dire avec
+l'activité qui consiste, pour les services de
+communication concernés, à communiquer de façon
+purement informationnelle (et naturellement sous un
+
+
+jour favorable), sur la vie d'une armée, ses faits
+d'armes, ou les opérations militaires en cours.
+
+
+La pratique classique (et toujours d'actualité) de
+l'envoi de conseillers militaires auprès d'armées
+étrangères, ou d'assistance militaire financière, ne
+reflète pas non plus l'impératif post-guerre froide d'un
+dialogue militaire à des fins diplomatiques, lorsque le
+seul objectif reste un surcroît d'efficacité militaire dans
+un conflit ou dans la préparation de celui-ci.
+
+
+On souscrira davantage, en revanche, à l'esprit de
+l'une des définitions proposées par Juan Emilio Cheyre
+dans sa contribution au Oxford Handbook of Modern
+Diplomacy (Cheyre, 2013), et qui voit en la diplomatie
+de défense « l'utilisation libre [ou sans contrainte
+internationale ni nationale pressante], en temps de
+paix, des ressources de la défense afin d'atteindre des
+objectifs nationaux spécifiques, principalement par des
+relations avec d'autres acteurs [de défense, situés à
+l'étranger] ». Il nous faut préciser encore cette piste,
+en distinguant plusieurs attentes vis-à-vis de ce type de
+pratique.
+
+
+La diplomatie de défense comme canal de dialogue militaire
+L'utilisation par un pays donné de ses acteurs
+militaires (principalement des officiers ou acteurs de
+haut niveau) à des fins diplomatiques, pour établir un
+dialogue et un réseau de confiance avec des militaires
+d'autres pays, constitue l'essence de la diplomatie de
+défense. Ce dialogue s'entretient en temps de paix par
+la coopération militaire, la formation d'une armée
+étrangère par une autre, des visites ou escales d'une
+armée dans un pays donné, des exercices militaires
+conjoints qui serviront d'apprentissages croisés afin de
+créer un climat de connaissance mutuelle et de
+confiance entre les autorités et les personnels de deux
+ou plusieurs armées, ou la multiplication de liens
+
+
+interpersonnels entre militaires. Cet objectif ne pourra
+certes être exempt de finalités militaires (une plus
+grande efficacité en cas d'opérations conjointes par
+exemple), mais il demeure diplomatique et politique, en
+ce qu'il facilitera l'utilisation du canal militaire pour
+établir un dialogue, notamment en cas de crise.
+
+
+Ainsi, lors des soulèvements arabes de 2011, le refus
+par le chef d'état-major tunisien, le général Rachid
+Ammar, d'obéir aux ordres du président Ben Ali, fit-il de
+lui un acteur clé de la situation, ce qui n'a pas échappé
+aux militaires américains (Atkinson, 2014, 2). $\hat{A}$ ce
+moment précis, l'historique des relations personnelles
+entre militaires américains et tunisiens (comme
+d'ailleurs plus tard entre Américains et Égyptiens) et la
+formation antérieure de militaires tunisiens aux États-
+Unis ont favorisé un canal de dialogue que la relation
+diplomatique civile traditionnelle ne pouvait explorer
+de la même manière. L'enjeu n'était pas de renforcer
+l'armée tunisienne, mais de jouer sur les contacts avec
+ses acteurs clés pour peser sur la situation politique.
+
+
+2003),
+2012),
+
+
+C'est là tout le pari de la diplomatie de défense que
+de capitaliser sur les liens tissés ou rendus possibles
+par la conscience des militaires d'appartenir à une
+même communauté que l'on peut parfois dépeindre,
+sinon comme une société fermée, du moins comme un
+environnement fortement différencié (Gresles,
+en tout cas conscient de sa spécificité (Joana,
+avec ses codes et ses hiérarchies  afin de constituer un
+canal privilégié à des fins politiques ou diplomatiques.
+Dans cette perspective, si certains des outils utilisés
+depuis longtemps dans une logique plus purement
+militaire peuvent être réutilisés, ce n'est qu'au prix de
+leur conversion à la finalité de convergence politique.
+Ainsi la coopération militaire telle qu'elle pouvait être
+conçue par la France à l'égard de ses anciennes
+colonies pour former les armées africaines pendant les
+
+
+années 1960 a-t-elle laissé la place à des dialogues de
+sécurité plus multilatéraux sur le continent africain
+(comme le « G5 Sahel » depuis 2014), dans lesquels
+l'accent est mis sur l'échange et les valeurs partagées.
+Plutôt que de viser l'augmentation des capacités
+militaires (comme jadis l'aide militaire ou les
+conseillers militaires), la diplomatie de défense a pour
+priorité la prévention de conflit et la promotion d'une
+culture de stabilité.
+
+
+La diplomatie de défense comme domaine d'expertise
+
+
+Dès lors que sont mobilisés des acteurs militaires
+partageant non seulement une même appartenance à
+une communauté (l'armée) mais également une
+formation et une connaissance communes de certains
+domaines spécifiques (armements, stratégie,
+techniques de combat...), elles-mêmes déclinables par
+armée (Terre, Air, Marine), c'est aux codes partagés
+d'une véritable communauté épistémique qu'il est
+possible de faire appel. En y ajoutant ingénieurs
+d'armement ou spécialistes civils de la
+défense, la
+diplomatie de défense confine à une diplomatie
+sectorielle (Devin, 2002), en mesure de servir des
+objectifs politiques liés à des secteurs d'activité
+exigeant une maîtrise technique particulière. Deux cas
+méritent d'être mentionnés à cet égard : le secteur de
+l'industrie d'armement et la réforme du secteur de la
+sécurité.
+
+
+L'industrie d'armement comporte un objectif essentiel
+et lourd d'enjeux économiques pour une diplomatie
+d'État : l'exportation ou l'importation d'armes. Pour les
+principales
+puissances exportatrices (États-Unis,
+
+
+Russie,
+Chine, France, Allemagne, Royaume-Uni,
+Espagne, Italie...), l'enjeu s'assimile à un type
+spécialisé de commerce extérieur. Pour les principaux
+pays acquisiteurs (Inde, Arabie Saoudite, Émirats
+
+
+arabes unis, Australie...), c'est en termes de besoins
+capacitaires que cette expertise s'exprime (Sorenson,
+2008). Le choix des matériels à acquérir, les conditions
+du transfert de technologies d'armement
+à
+l'exportation comme à l'importation, la mise en
+concurrence de fournisseurs exigent une connaissance
+pointue des besoins des pays acheteurs comme des
+technologies concernées, dont les militaires seront les
+utilisateurs. Dans les différentes étapes de ce processus
+d'importation/exportation, les contacts entre militaires
+et spécialistes de défense, non seulement, cette fois, en
+tant que membres d'une même communauté
+professionnelle, mais également en tant qu'experts,
+seront mobilisés pour faciliter ces échanges.
+
+
+Autre domaine spécifique : la réforme du secteur de
+sécurité (ou RSS) est devenue une activité importante
+depuis les années 1990 (Hills, 2000). Son objectif est de
+réformer, par des formations ou conseils extérieurs, les
+institutions d'un État tiers liées au maintien de la
+sécurité (forces armées, police, éventuellement
+services de renseignement, douanes, justice...), de
+manière à accroître leur efficacité dans le respect des
+principes démocratiques (transparence du
+fonctionnement, contrôle parlementaire, usage modéré
+de la force...). Le rôle des acteurs de la sécurité
+(militaires, policiers...) issus de pays démocratiques
+dans la formation de leurs homologues moins habitués
+à ces pratiques démocratiques est donc central dans ce
+processus, même si de nombreux acteurs privés (ONG,
+think tanks, comme le centre Democratic Control of
+Armed Forces  DCAF - de Genève) se sont largement
+saisis de cet enjeu de la RSS. C'est l'expertise de
+professionnels de la sécurité et de la défense qui est
+sollicitée ici à l'appui d'un enjeu politique important :
+l'évolution de forces de sécurité étrangères vers des
+
+
+pratiques plus vertueuses et moins génératrices de
+tensions.
+
+
+Les problématiques théoriques :
+une inscription libérale
+
+
+L'analyse académique de ces pratiques recoupe
+plusieurs problématiques connues des relations
+internationales. On en abordera deux ici : celle de la
+diplomatie publique (qui peut rejoindre aussi plus
+largement les débats sur le soft power), et celle de la
+sécurité collective.
+
+
+Diplomatie publique et soft power
+
+
+Si l'on entend par diplomatie publique le fait pour un
+État donné de développer des initiatives visant à
+informer et influencer favorablement des publics
+étrangers, dans le but d'améliorer ou d'entretenir
+l'image de son action extérieure, alors la diplomatie de
+défense y participe pleinement. Elle permet de faire
+connaître la défense ou les forces armées d'un pays à
+des communautés de spécialistes ou à des segments de
+l'opinion internationale, et de promouvoir la
+compétence d'un outil militaire, ce qui bénéficie à
+l'image d'une diplomatie en général.
+
+
+Les opérations extérieures à but humanitaire ou
+démocratique, les opérations de maintien de la paix
+jouent à ce titre un rôle clé. L'image favorable d'une
+armée, de ses généraux ou de ses soldats contribue à la
+réputation d'un pays et/ou de son gouvernement. Du
+souvenir des troupes alliées débarquant en Normandie
+en 1944 jusqu'aux images du président français
+François Hollande reçu triomphalement à Bamako
+quelques mois après le déclenchement de l'opération
+Serval qui refoula les combattants jihadistes du nord du
+
+
+Mali, les exemples de mise en valeur d'une armée
+nationale ne manquent pas, et à travers elle d'une
+politique étrangère que l'on montre déterminée dans sa
+bienveillance. Mais c'est aux professionnels de la
+défense qu'il appartient ensuite, dans des cercles
+spécifiques, de capitaliser sur l'impact réputationnel
+ainsi acquis, pour convaincre du rôle joué par leur pays
+dans la sécurité internationale. Ainsi, en juin 2013,
+s'est tenue au ministère de la Défense chinois à Pékin
+une rencontre entre officiers français auditeurs du
+Centre des hautes études militaires (CHEM) et des
+officiers chinois, destinée à échanger sur plusieurs
+sujets, dont le succès de l'opération française Serval au
+Mali.
+
+
+L'utilisation de réseaux établis entre militaires eux-
+mêmes, en permettant l'intervention d'un nombre
+suffisant d'interlocuteurs pour exercer le maximum
+d'influence et permettre une compréhension mutuelle
+entre « soldats », s'inscrit également dans la définition
+du soft power tel que le résumait Joseph Nye : « la
+capacité d'aboutir aux résultats souhaités par le
+développement d'un agenda de coopération, la
+persuasion, l'attraction
+>>
+(Nye, 2011, 17). Cette
+construction se fait sur le temps long et s'analyse à des
+niveaux microsociaux puisqu'elle est le fait d'individus
+(ici, les officiers) qui, après avoir été socialisés dans
+des unités collectives temporaires (par exemple les
+écoles de guerre américaines),
+transforment,
+socialisent eux-mêmes à leur retour les approches, les
+idées ou les normes d'unités macro-politiques plus
+larges et cette fois permanentes : leur propre pays
+(Atkinson, 2014, 5). Ainsi le Département d'État
+américain indiquait-il en 2009 que plus de 1 500
+personnels militaires formés dans les écoles militaires
+américaines occupaient des fonctions nationales de
+
+
+responsabilité au plus haut niveau dans leur pays
+d'origine (Département d'État, 2010, 282).
+
+
+Mise en place d'un champ international de sécurité collective
+par ses propres acteurs
+
+
+Plus généralement, les objectifs in fine de la
+diplomatie de défense rejoignent en partie l'idée
+libérale de la paix et de la sécurité par le dialogue, et la
+croyance selon laquelle l'institutionnalisation de
+l'échange politique exercé à travers des cadres
+réguliers contribue (avec la démocratie et, pour
+d'autres libéraux, le commerce) à la stabilité par la
+coopération. $\dot{A}$ ce titre, on fait le pari que des
+professionnels de la défense qui dialoguent, échangent,
+se connaissent, construiront ensemble une confiance
+préférable à une dynamique de méfiance générée par
+un cloisonnement entre communautés militaires,
+comme celui qui a marqué l'époque de la guerre froide.
+
+
+La spécificité de la diplomatie de défense, à cet
+égard, réside une fois de plus dans le fait qu'elle est
+animée par les acteurs de la défense eux-mêmes. Et
+tout ce qui peut réunir cette communauté est alors
+encouragé, si possible routinisé, pour reproduire à
+intervalles réguliers les occasions de dialogue, depuis
+les exercices militaires conjoints jusqu'aux conférences
+internationales sur la sécurité. C'est la mise en œuvre,
+par les militaires et spécialistes de défense, du principe
+libéral de coopération et de dialogue institutionnalisé,
+ainsi appliqué à une communauté caractérisée par ses
+propres codes. Les principaux objectifs édictés dans les
+brochures ou travaux issus d'acteurs institutionnels ou
+de think tanks spécialistes des questions de sécurité
+empruntent largement au vocabulaire libéral des
+relations internationales : réduction du niveau de
+tension ou d'hostilité, volonté de travailler en
+confiance, transparence des capacités et des intentions,
+
+
+transformation des cultures et des perceptions à des
+fins de paix et de coopération, encouragement des
+dynamiques de confiance par des incitations et des
+récompenses, responsabilité démocratique et mondiale
+des armées 2...
+
+
+Sociologie de la diplomatie de
+défense
+
+
+au xxi
+
+
+siècle : fin ou réinvention
+
+
+du concept ?
+
+
+Le concept de diplomatie de défense n'a pas échappé
+à la critique, notamment sur deux points : son
+optimisme inhérent à la période de l'immédiat après-
+guerre froide, et son usage limité dès lors que les
+tensions internationales viennent bousculer ses bonnes
+intentions. Mais sa principale remise en cause provient
+aujourd'hui de la relativisation possible de sa spécificité
+militaire. Cette évolution prend deux aspects : la
+dilution du domaine de la défense dans le champ plus
+vaste de la « sécurité », et la reprise en main des
+activités de défense par les acteurs civils de la
+diplomatie.
+
+
+De la défense à la sécurité globale ?
+
+
+L'imbrication désormais fréquente de la défense dans
+une préoccupation plus vaste de sécurité, mais
+également dans une stratégie internationale civilo-
+militaire placée sous le signe d'une « approche globale
+» (Wendling, 2010), pose la question de la spécificité
+militaire. Les attentats terroristes de septembre 2001
+ayant inauguré une ère marquée par un lien entre
+sécurité intérieure et nécessité d'action militaire
+extérieure, la fusion entre les registres de la défense,
+
+
+de la sécurité intérieure, du renseignement et de la
+diplomatie s'est accélérée. Or il s'agit de métiers
+différents, aux cultures et finalités spécifiques, parmi
+lesquels le métier militaire, comme on l'a vu, présente
+de nombreuses singularités (qui vont de sa nature non
+civile au rapport spécifique à la mort, en passant par
+les grades, l'entraînement physique, la maîtrise de
+certaines techniques, les parcours de carrière...). La
+question se pose donc de savoir si la diplomatie de
+défense est soluble dans l'action de sécurité globale,
+c'est-à-dire si l'apport spécifique que constitue pour
+une diplomatie d'État le canal de dialogue entre
+militaires peut être maintenu dans се nouveau
+contexte.
+
+
+«
+
+
+La rhétorique de la fin des années 2010 évoque
+désormais une
+diplomatie intégrée », souvent
+interministérielle et incluant une « brique défense ».
+On parle ainsi au Royaume-Uni de fusion doctrine
+articulant des briques d'expertise, ou différents
+domaines d'action ministériels fusionnés autour de
+thèmes particuliers (cybersécurité par exemple) ou de
+régions du monde, le tout piloté par le cabinet Office au
+niveau du National Security Secretariat. Le Ministry of
+Defence, le Home Office, le Department for
+International Development, le Foreign and
+Commonwealth Office et d'autres se retrouvent alors
+régulièrement sur les priorités ainsi définies, et une
+supervision est attribuée à l'un des ministères. Au sein
+du Ministry of Defence, c'est le département Defence
+Engagement (l'un des grands adjoints du chef d'état-
+major britannique) qui est impliqué dans ce processus.
+Ici, la spécificité défense, ou militaire, est appelée à se
+combiner avec d'autres.
+
+
+Le cas des grands rendez-vous internationaux de
+sécurité, qui se développent pour mêler civils et
+militaires, est également intéressant. Outils d'une
+
+
+diplomatie parallèle de défense et de sécurité, ils
+réunissent une vaste palette d'acteurs
+et
+d'observateurs, qui tend à diluer la spécificité du
+dialogue entre militaires. De l'ADMM (Asean Defence
+Ministers' Meeting, créée en 2006) à la Conference of
+Central American Armed Forces (CFAC) établie en
+1997, en passant par les sommets institutionnels (ceux
+de l'OTAN par exemple) mais aussi les rendez-vous
+imposés au fil des années par les think tanks (comme le
+Shangri-La Dialogue à Singapour, chaque année, à
+l'initiative de l'International Institute for Strategic
+Studies de Londres), les forums sont nombreux, leur
+impact médiatique dans le paysage politique
+international est fort (songeons aussi aux conférences
+annuelles de Munich ou de Genève sur la sécurité).
+Certains sont qualifiés de réunion de type « track 1 »,
+réunissant uniquement des acteurs officiels (comme
+l'Asean Regional Forum Inter-Sessional Meeting on
+Maritime Security), d'autres de « track 1.5 », mêlant
+des acteurs officiels et académiques (comme
+l'Expanded Asean Maritime Forum).
+
+
+Diplomatie militaire sans militaires ?
+
+
+L'ambiguïté du concept resurgit alors : si la
+diplomatie de défense est le fruit de l'action du
+ministère de la Défense et de ses différentes directions,
+en jouant sur la spécificité des réseaux de spécialistes
+de la défense, elle doit néanmoins s'inscrire dans le
+cadre plus large de la politique étrangère de l'État et
+de ses principales priorités ou lignes de conduite
+(Cheyre, 2013). À qui revient-il de la penser, de la
+superviser, de l'animer ? D'un côté, la carte « défense »
+voudrait que l'optimisation de ce canal de dialogue
+spécifique soit laissée aux militaires et à leurs codes
+partagés. De l'autre, la conduite de la diplomatie, à la
+
+
+fois par souci de cohérence d'action et de principe
+démocratique, impose une supervision civile.
+
+
+En France par exemple, la coopération militaire et de
+défense est du ressort de la Direction de la coopération
+militaire et de défense du ministère des Affaires
+étrangères (DCMD), la tutelle du réseau bilatéral
+diplomatique de défense dans les ambassades de
+France à l'étranger est sous la supervision de la
+Direction des relations internationales et stratégiques
+(DGRIS) du ministère de la Défense, et cette dernière
+est à la fois dirigée par un diplomate et fortement
+composée de militaires. Comme dans toute situation
+semblable du point de vue de la sociologie des
+organisations, cette configuration peut à la fois illustrer
+une parfaite complémentarité ou une confusion (Zipper
+de Fabiani, 2002).
+
+
+Au cœur de cette question se trouve notamment la
+figure de l'attaché de défense affecté aux ambassades,
+dont le nombre dans le monde a d'abord augmenté
+fortement pendant les années 1990, avant de subir
+depuis la fin des années 2000 un rétrécissement dû aux
+contraintes budgétaires, alors même que les défis se
+faisaient plus nombreux : réforme du secteur de la
+défense et de la sécurité dans les pays en voie de
+démocratisation, soutien aux opérations de paix et
+d'urgence civile, lutte antiterroriste... Dans un
+troisième temps, un contrôle accru de ces attachés, de
+la définition de leur mission, de leur nomination et de
+leur notation administrative, par les autorités civiles
+plutôt que militaires, a été mis en place dans certains
+pays (comme en France depuis le milieu des années
+2010). Cela pose la question de savoir si une diplomatie
+de défense est toujours une diplomatie de défense
+lorsqu'elle n'est plus mise en œuvre ou animée par des
+militaires.
+
+
+Le rôle d'un attaché de défense a été résumé comme
+suit par un institut de recherche genevois (DCAF, 2007)
+: 1) représenter (et défendre) les intérêts militaires et
+de sécurité de son pays ; 2) représenter les autorités
+militaires et établir des contacts avec celles du pays
+hôte; 3) mettre en place un réseau de politique
+sécuritaire et militaire capable d'opérer y compris en
+temps de frictions ou de relations politiques bilatérales
+restreintes ; 4) agir en tant que conseiller auprès des
+ambassadeurs et du personnel de son pays ; 5)
+observer les conditions ayant un impact sur la sécurité
+dans le pays hôte ; 6) superviser les activités dans le
+domaine de l'assistance militaire, de la diplomatie de
+défense et de la coopération sécuritaire ; 7) promouvoir
+les industries d'armement du pays d'origine ; 8) jouer
+un rôle dans les situations d'urgence et dans les efforts
+de soutien lorsque des crises surviennent.
+
+
+Si l'attaché de défense est un acteur clé du dispositif
+d'une diplomatie de défense, c'est donc à la fois comme
+acteur d'un canal de dialogue spécifique et comme
+expert de questions techniques. Son appartenance au
+monde militaire ou de la défense (ingénieurs de
+l'armement par exemple) fait sa valeur ajoutée. Son
+autonomie d'action pour jouer cette carte à plein sera
+un enjeu de la diplomatie au cours des années à venir.
+
+
+*
+
+
+Le concept de diplomatie de défense aura-t-il
+accompagné une parenthèse ouverte par la fin de la
+guerre froide, et en voie de se refermer à mesure que
+la compétition multipolaire et la Realpolitik reprennent
+leur place dans le système international ? Ou a-t-il au
+contraire de beaux jours devant lui, à l'heure du
+développement de nouvelles diplomaties publiques
+dans lesquelles il s'inscrit incontestablement ? Devra-t-
+
+
+on, après une période de priorités libérales données à
+la démocratisation et à la réforme du secteur de
+sécurité, faire de la diplomatie de défense davantage
+une diplomatie de sécurité globale, et beaucoup moins
+une diplomatie militaire ? Est-ce pertinent compte tenu
+de la multiplication des perspectives de nouveaux
+conflits, de l'importance des évolutions des rapports de
+force militaires ? Sur le plan des doctrines et des
+pratiques, comme sur le plan plus académique de la
+définition du concept, c'est un vaste agenda de
+réflexion qui s'ouvre, dont les évolutions ne seront pas
+sans conséquence sur les pratiques de relations
+internationales.
+
+
+Bibliographie commentée
+
+
+ATKINSON Carol, Military Soft Power. Public Diplomacy Through Military
+Educational Exchanges, New York (N. Y.), Rowman & Littlefield
+Publishers, 2014.
+
+
+Sur le rôle de l'enseignement militaire destiné notamment aux
+militaires étrangers, dans la poursuite des objectifs américains de
+démocratisation et de socialisation d'une communauté militaire
+internationale.
+
+
+CHEYRE Juan Emilio, « Defence diplomacy  , dans Andrew F. Cooper,
+Jorge Heine, Ramesh Thakur (eds), The Oxford Handbook of Modern
+Diplomacy, Oxford, Oxford University Press, 2013.
+
+
+L'auteur aborde la diplomatie de défense comme composante de la
+diplomatie publique, dont la vocation plus spécifique serait le
+maintien de la paix.
+
+
+COTTEY Andrew, FORSTER Anthony, « Reshaping defence diplomacy. New
+roles for military cooperation and assistance  , Adelphi Papers, 44
+(365), Londres, Routledge, 2004, p. 1-84.
+
+
+Une étude qui insiste sur le développement, depuis les années
+1990, des dialogues de défense, bilatéraux ou multilatéraux, entre
+militaires (depuis les conférences internationales ou le Partenariat
+pour la paix de l'OTAN jusqu'aux opérations de maintien de la
+paix).
+
+
+GENEVA CENTRE FOR THE DEMOCRATIC CONTROL OF ARMED FORCES, Les
+Attachés de défense, Genève, DCAF, 2008.
+
+
+Une brève étude sur le rôle de l'attaché de défense, publiée par un
+think tank genevois spécialisé aujourd'hui dans la réforme du
+secteur de sécurité.
+
+
+HILLS Alice, « Defence diplomacy and security sector reform »,
+Contemporary Security Policy, 21 (1), 2000, p. 46-67.
+
+
+Une définition de la diplomatie de défense, liée principalement à
+son rôle dans la RSS.
+
+
+JOANA Jean, Les Armées contemporaines, Paris, Presses de Sciences Po,
+2012.
+
+
+Un panorama complet et comparatif de la sociologie militaire, en
+particulier de l'insertion des armées dans leur environnement
+politique.
+
+
+SORENSON David, The Process and Politics of Defense Acquisition. A
+Reference Handbook, New York (N. Y.), Prager, 2008.
+
+
+Une analyse des processus d'acquisition du matériel de défense et
+de leur évolution récente, qui insiste sur l'interaction entre
+industries privées, expertise militaire et impératifs politiques.
+
+
+1. Trois  tâches militaires  sont évoquées: la maîtrise des armements
+(incluant non-prolifération et mesures de confiance et de sécurité), une
+politique de main tendue en direction de l'ancienne Europe communiste,
+Russie comprise, et $d^{\prime}\ll$ autres activités de coopération militaire outre-mer
+
+
+».
+
+
+2. $\dot{A}$ titre d'exemple: Centre for Strategic Studies, « Regional defence
+diplomacy. What is it and what are its limits », Strategic Background
+Paper, 21, Auckland, Nouvelle-Zélande, CSS, 2015.
+
+
+3. Depuis 2008, les Livres blancs français de la défense insistent sur << la
+défense et la sécurité nationale ». D'autres pays connaissent la même
+évolution, comme le Royaume-Uni.
+
+
+Chapitre 19
+
+
+Les diplomaties de
+l'entertainment
+
+
+Maud Quessard-Salvaing
+
+
+'est à l'heure du retour des jeux de puissance,
+C
+power politics (Mandelbaum, 2016), qu'en janvier
+2017, le CSIS (Center for Strategic and International
+Studies) et le CPD (Center on Public Diplomacy)
+rendaient public un rapport sur l'évolution et le rôle
+des soft tools gouvernementaux (« Public diplomacy
+and national security in 2017 »); en insistant sur la
+complémentarité des actions menées par les acteurs
+privés et paragouvernementaux dans leurs missions de
+renforcement
+des alliances (coopérations
+transgouvernementales) et de
+lutte contre
+l'extrémisme violent terrorisme ». À l'heure du «
+chaos stratégique » (Hassner, 2003) et d'un pouvoir
+grandissant des acteurs non gouvernementaux dans le
+
+
+jeu des relations internationales, les États-Unis ne
+pourraient plus se permettre de favoriser des formes
+d'engagement qui privilégient seulement les relations
+interétatiques. Ils devraient encourager toute initiative
+susceptible de redorer leur image de marque, tant les
+externalités positives, politiques ou économiques qui en
+découlent participent du maintien de la puissance. Ce
+constat n'est pas récent ; il est même caractéristique
+de la diplomatie publique moderne des $XX^{e}$ et $XXI^{e}$
+siècles.
+
+
+Le développement suivant propose une réflexion sur
+l'évolution des formes d'engagement en politique
+étrangère, et plus particulièrement sur le rôle et la
+typologie des soft tools non étatiques ou para-étatiques
+caractéristiques des $XX^{e}$ et $XXI^{e}$ siècles susceptibles de
+promouvoir les intérêts de sécurité nationale. Cette
+réflexion insistera sur trois concepts clés qui
+permettent de repenser la relation entre entertainment
+(comme fait culturel américain) et diplomatie : le soft
+power, la diplomatie publique et le nation branding.
+Dans un contexte international de compétition accrue
+entre les puissances, le recours à la soft diplomacy
+encouragerait l'utilisation de la culture populaire, pop
+culture (divertissement, sport, infotainment, traditions
+et célébrités nationales), pour assurer la promotion de
+son image de marque et faire valoir ses objectifs de
+politique étrangère ; l'entertainment pourrait alors être
+défini, dans се contexte, comme une partie
+incontournable de la diplomatie publique de toute
+nation (Burns et Kanji, 2016). Cependant,
+l'entertainment comme fait culturel américain du $XXI^{e}$
+siècle, s'impose comme un outil privilégié du nation
+branding (Anholt, 1998, 2013) états-unien, qui implique
+l'ensemble des acteurs privés nationaux susceptibles de
+promouvoir l'image de la « marque Amérique » alors
+
+
+que la diplomatie publique requiert le concours des
+acteurs institutionnels (Melissen, 2003, 19).
+
+
+Ces évolutions du soft power américain requièrent
+une mise en perspective historique des interactions
+entre propagande, diplomatie publique
+et
+entertainment. Elles conduisent à repenser les
+articulations entre le rôle et le pouvoir des acteurs
+institutionnels de la diplomatie américaine (Maison-
+Blanche, Département d'État, Pentagone) et celui des
+acteurs privés ou non gouvernementaux, plus
+particulièrement ceux chargés de promouvoir une
+certaine idée des États-Unis et de leurs valeurs, ces
+acteurs pouvant tenir des rôles complémentaires ou
+contradictoires (individus, acteurs économiques). Dès
+lors, c'est une réflexion, non sur la, mais sur les
+projection(s) de l'Amérique qui s'impose, une Amérique
+pensée et perçue au $XXI^{e}$ siècle dans une perspective
+internationaliste, non plus comme un État nation mais
+un État réseau, l'État du $XXI^{e}$ siècle (Slaughter, 2009),
+capable de projeter la réussite du modèle américain,
+notamment via l'entertainment et la société des loisirs,
+ou de permettre la poursuite d'un bonheur au-delà des
+frontières états-uniennes. Un bonheur défini comme le
+fondement de l'éthos américain, un droit inaliénable
+affirmé dès la Déclaration d'indépendance, qui invite à
+penser l'individu comme étant naturellement orienté
+vers la félicité.
+
+
+Le modèle américain de diplomatie de
+l'entertainment est né d'une privatisation de la
+diplomatie publique états-unienne du $XX^{e}$ siècle pour
+servir les stratégies d'influence américaine en temps de
+guerre ouverte ou de guerre froide. La fin de ce siècle
+américain et la concurrence accrue entre les
+puissances proposent un qualificatif plus explicite
+concurrente (Iran, Qatar), émergente (Inde), émergée
+
+
+(Chine) ou ré-émergente (Russie) pour faire valoir
+leur soft power, favorisant la diversification et la
+globalisation des formes d'entertainment. Or, on peut
+se demander si ces stratégies d'influence
+paradiplomatiques, qui requièrent une maîtrise
+indispensable des problématiques de la réception des
+opinions publiques visées, favorisent durablement les
+intérêts diplomatiques ou stratégiques de l'ensemble
+de ces puissances concurrentes.
+
+
+Le
+
+
+modèle
+
+
+américain
+
+
+de
+
+
+diplomatie
+
+
+de l'entertainment au xxº siècle :
+
+
+une privatisation de la diplomatie
+
+
+publique
+
+
+au
+
+
+service
+
+
+des
+
+
+d'influence
+
+
+stratégies
+
+
+Diplomatie et entertainment en temps de guerre(s) :
+
+
+les précédents du CPI et de l'OWI,
+
+
+la démocratie américaine en propagande
+
+
+Aux lendemains de la première guerre mondiale,
+Harold
+Lasswell, célèbre professeur en science
+politique à l'université de Yale, prédisait que, compte
+tenu de la manière dont les gouvernements impliqués
+dans la première guerre totale du $XX^{e}$ siècle avaient
+mobilisé les masses, la propagande deviendrait sans
+doute un des traits caractéristiques de la vie moderne.
+La propagande était à l'aube d'une nouvelle ère, celle
+des experts en relations publiques, des spécialistes de
+la guerre psychologique, des conseillers en image et
+autres mentors. Ces bouleversements s'inscrivaient
+dans une révolution des moyens, des techniques et des
+
+
+usages de la communication. La concomitance de la
+première guerre mondiale et de la révolution de la
+communication internationale a en effet transformé les
+relations internationales et les pratiques de la politique
+étrangère. Avant le conflit, la diplomatie était avant
+tout considérée, particulièrement par les États-Unis,
+comme la relation formelle existant entre les
+gouvernements. $\dot{A}$ quelques rares exceptions près, il ne
+paraissait ni nécessaire ni approprié de tenter d'entrer
+en contact avec la population d'une autre nation sans
+passer par la voie officielle.
+
+
+Les exceptions à la règle devinrent nécessaires
+lorsque les États-Unis furent la cible privilégiée d'une
+guerre des propagandes entre les Britanniques et les
+Allemands, pour empêcher que toute forme
+d'assistance militaire ou financière venue d'outre-
+Atlantique ne soit accordée à l'adversaire. La
+supériorité des Britanniques en matière de réseaux de
+communication et de guerre de l'information conféra à
+Londres un avantage certain dans la lutte pour la
+conquête de l'opinion publique américaine. Pour
+Washington, cela signifiait qu'une fois que les troupes
+américaines auraient rejoint le conflit, il faudrait être
+capable de rivaliser avec les moyens de communication
+britanniques pour assurer les intérêts américains
+(Taylor, 1990).
+
+
+Le Président Wilson pensait que, pour mettre en
+œuvre sa vision d'un nouvel ordre mondial reposant sur
+des notions telles que : gouvernements démocratiques,
+libre-échange, diplomatie « ouverte
+>>
+ou sécurité
+collective, il faudrait mettre fin au contrôle de
+l'information par les nations étrangères, et plus
+particulièrement européennes. Il devait faire de la
+communication une priorité nationale, et dans ce but, il
+encouragea les industries du secteur privé à améliorer
+la puissance américaine en matière de transmissions
+
+
+télégraphiques, de services d'information, de
+production cinématographique, de transports aériens
+ou encore de communication par câble (Rosenberg,
+1982, 79).
+
+
+Immédiatement après que les États-Unis furent
+entrés en guerre, le Président Wilson crée la première
+agence de propagande officielle du gouvernement
+américain, et nomme le journaliste progressiste George
+Creel pour la diriger. Son but, pour soutenir l'effort de
+guerre, était de faire connaître le plus largement
+possible les intentions des États-Unis dans le conflit en
+utilisant les techniques modernes d'information et en
+ayant recours, le cas échéant, à la propagande et à la
+censure. Le Comité pour l'information publique
+(Committee on Public Information CPI) devint
+rapidement une organisation d'envergure comprenant
+une vingtaine d'unités dont les bureaux ou services
+étaient répartis sur le territoire américain comme à
+l'étranger. Le CPI employait des centaines de
+professionnels issus du monde de la publicité, du
+journalisme, des relations publiques (Creel, How We
+Advertised America, 1920), et comprenait trois services
+principaux : the Wireless Cable Service (pour la
+diffusion des messages radio à destination des pays
+amis), the Foreign Press Bureau (pour la transmission
+des textes et photos à la presse étrangère) et the
+Foreign Film Division, chargé de diffuser les films de
+propagande du CPI auprès des mêmes distributeurs
+étrangers friands des productions hollywoodiennes,
+dont ils auraient été privés s'ils refusaient de diffuser
+également les productions de George Creel (Green,
+1988, 13-14).
+
+
+Malgré les efforts considérables entrepris par le CPI
+à l'étranger et l'issue du conflit à l'avantage des
+Américains, le Congrès demeura très méfiant à l'égard
+de la collusion entre George Creel et le Président
+
+
+Wilson, et une fois la guerre terminée, il estima que ce
+type d'activités ne pouvait être acceptable en temps de
+paix (Lasswell, 1927, 216-217). En supprimant les
+financements du CPI, il démantela en 1919 ce que l'on
+appelait désormais le Creel Comittee (Mock et Larson,
+1939, 193), et empêcha la création d'une structure
+officielle dédiée à l'information internationale, pendant
+toute la période isolationniste de l'entre-deux-guerres.
+
+
+Pourtant, les succès manifestes remportés par la
+propagande, durant le conflit, avaient ouvert les yeux
+d'une classe de gens avisés, appartenant à toutes les
+sphères de la société, sur les nombreuses possibilités
+de gouverner l'opinion. Pendant cette période, les
+métiers de publicitaire et de chargé de relations
+publiques se développèrent de manière significative
+dans de nombreuses industries du secteur privé, tandis
+que l'on assistait à l'émergence de véritables
+spécialistes de la propagande issus des sciences
+sociales ou des métiers du journalisme (Bernays, 1928,
+27). Parmi eux, Walter Lippmann ou Edward Bernays,
+tous deux ex-membres du CPI, peuvent être considérés
+comme des archétypes de cet essor de la propagande
+aux États-Unis pendant la période d'entre-deux-
+guerres.
+
+
+La concurrence des diplomaties culturelles européennes
+et la montée des propagandes fascistes de l'entre-deux-guerres
+à la seconde guerre mondiale
+
+
+Jusqu'aux années 1930, Washington a en effet
+rechigné à soutenir financièrement les activités
+culturelles à l'étranger ; le gouvernement américain a
+préféré laisser aux fondations le soin des échanges
+intellectuels et éducatifs, et à Hollywood celui de la
+diffusion des valeurs américaines. Mais face à
+l'influence grandissante des propagandes fascistes et
+nazies clairement anti-américaines en Argentine, au
+
+
+Brésil ou au Chili où nombre d'immigrants italiens et
+allemands sont sympathisants de ces régimes,
+l'administration Roosevelt prend conscience que la
+sécurité américaine dépend de sa capacité à s'adresser
+aux autres nations et à gagner leur soutien. En
+Amérique latine, les bibliothèques publiques et
+universitaires regorgent alors de livres, de magazines
+et de journaux en provenance d'Italie ou d'Allemagne.
+La présence américaine, quant à elle, est cantonnée à
+quelques films hollywoodiens. Si les États-Unis veulent
+concourir dans un monde où la culture devient de plus
+en plus intimement liée à la politique étrangère et
+participe à l'élaboration de l'image nationale, alors
+Washington doit adopter des stratégies identiques à
+celles des États totalitaires. En 1938, le Président
+Roosevelt encourage la création d'un Comité
+interministériel pour la coopération scientifique
+(Interdepartemental Committee for Scientific
+Cooperation) et culturelle au sein du Département d'
+État (Division of Cultural Cooperation) ; celle-ci doit se
+consacrer dans l'immédiat à la mise en place de la
+politique dite de good neighbourg (bon voisinage) avec
+l'Amérique latine (Pells, 1997, 32-33).
+
+
+Le gouvernement américain fut ainsi la dernière
+grande puissance à entrer dans le jeu des relations
+culturelles
+
+
+dévolues
+
+
+intergouvernementales,
+jusqu'alors, en raison d'une forte volonté politique, au
+secteur privé. La seconde guerre mondiale, avec la
+création de l'OWI (Office of War Information) en 1942
+sur le modèle du CPI, devait accélérer
+considérablement ce processus et faire la preuve que
+l'industrie culturelle hollywoodienne était devenue un
+atout diplomatique pour la puissance américaine. Ce
+vecteur d'influence n'échappe d'ailleurs pas aux
+Britanniques qui s'associent aux productions
+hollywoodiennes pour faire valoir les mérites de leur
+
+
+engagement contre le fascisme (dont le film archétype
+est Mrs. Miniver de William Wyler, 1942). Juste après le
+conflit, le gouvernement Truman fait adopter au
+Congrès l'IMG (Informational Media Guarantee, 1949)
+qui permet d'exporter un large catalogue de films
+américains en Europe, en appui au plan Marshall.
+Hollywood va devenir un atout de la diplomatie
+américaine de guerre froide (Cull, 2011).
+
+
+Entertainment
+
+
+et
+
+
+publique de guerre
+
+
+diplomatie
+
+
+froide : le modèle hollywoodien au
+
+
+service
+
+
+des
+
+
+stratégies
+
+
+américaines
+
+
+d'influences
+
+
+C'est au cours des années années 1950, que
+l'entertainment, sa culture et ses acteurs sont placés au
+cœur des stratégies de promotion du modèle américain
+de guerre froide. Or, contrairement au système de
+communication soviétique cloisonné, l'entertainment
+américain ne connaît pas de frontière. Cette conscience
+du pouvoir des images hollywoodiennes fut très
+présente chez le Président Eisenhower, la collaboration
+avec certains dirigeants de grandes majors pour
+encourager la production de films militants fut de се
+fait encouragée (NA RG 306, Streibert files, entry 1069,
+box 29). Les premières initiatives sont en effet pilotées
+directement par l'exécutif et le Département d'État via
+l'Agence d'information des États-Unis (l'USIA  United
+States Information Agency), créée par le Président
+Dwight Eisenhower en 1953. Fort de l'expérience de la
+seconde guerre mondiale et des stratégies d'influence
+
+
+mises en œuvre en temps de guerre ouverte, le
+président républicain est à l'initiative des premiers
+contrats entre Hollywood et le gouvernement fédéral. À
+cette époque le conseiller spécial auprès de l'Agence
+d'information en matière de production
+cinématographique (Agency's chief motion picture
+consultant) est le célèbre réalisateur Cecil B. DeMille.
+Entre 1953 et 1954, les studios soutiennent le combat
+du Président Eisenhower contre le communisme en
+produisant Path to Peace (MGM), Falcon Dam (RKO),
+Atomic Power for Peace (Universal), Life of President
+Eisenhower (20th Century Fox), The Korea Story
+(Warner Bros) ; la Paramount va même jusqu'à soutenir
+un projet de film intitulé The Poles are a Stubborn
+People, mettant en scène deux rescapés polonais du
+communisme fuyant vers la liberté. Les services
+diplomatiques américains facilitent alors la diffusion
+des films américains destinés plus particulièrement aux
+populations d'Europe de l'Ouest et de l'Est. Par la suite,
+les services d'information des États-Unis à l'étranger
+(United States Information Services - USIS) favorisent
+les velléités des majors de s'implanter au Maghreb et
+au Moyen-Orient, comme en Iran, au moment où les
+États-Unis s'inquiètent de l'émergence d'un
+gouvernement nationaliste pro-communiste, conduit
+par Mohammad Mossadegh (Mingant, 2011).
+
+
+Cependant, malgré les efforts de la rhétorique
+présidentielle, peu de films hollywoodiens contribuent
+vraiment à la croisade anticommuniste des politiques
+de libération menées par les organes d'information
+officiels, Radio Free Europe, Radio Liberty ou Voice of
+America. C'est réellement avec les œuvres de
+commande de l'administration Kennedy participant de
+la Kennedy mystique, et surtout avec le développement
+de la télévision transfrontières et de la vidéo des
+années Reagan, que l'entertainment hollywoodien
+
+
+à
+
+
+contribue
+sensiblement
+l'occidentalisation
+progressive des populations est-européennes ; pour
+attirer l'intérêt et l'engouement des peuples de l'Est, le
+Département d'État et Hollywood ont uni leurs efforts
+pour produire et diffuser des émissions de
+divertissement à message (Snyder, 1995). Ces deux
+exemples de guerre froide des années 1960 et des
+années 1980, représentent des moments clés de
+l'utilisation de l'entertainment comme outil de la
+diplomatie publique américaine.
+
+
+La diplomatie publique d'Edward Murrow
+durant les années 1960: Hollywood sous influence
+
+
+Sous la direction d'Edward Murrow, célèbre
+journaliste de CBS, professionnel de la télévision et de
+la communication, le cinéma, les documentaires et
+l'utilisation de l'image en général prennent une place
+jusqu'alors inégalée dans les activités de la diplomatie
+publique de l'administration Kennedy (NA RG 306,
+Murrow files, 1962, box 18). Il ne faut alors pas
+manquer une occasion d'exposer aux yeux du monde
+les aspects les plus sombres des politiques de
+l'adversaire soviétique ; et, à l'inverse, les responsables
+de la diplomatie publique doivent veiller à ce que
+l'image des États-Unis à l'étranger ne soit pas trop
+écornée, en particulier par les productions
+hollywoodiennes. L'Europe d'après-guerre avait été en
+effet abreuvée par les films de gangsters venus
+d'Hollywood. La violence, le crime et la corruption qui
+caractérisaient ce genre du cinéma américain
+projetaient à l'étranger une image peu compatible avec
+la mission de l'USIA, qui était entre autres de
+promouvoir l'American way of life. Pour sensibiliser les
+professionnels de l'industrie cinématographique à cette
+question, Edward Murrow propose de financer les
+thèses documentaires ou les films des étudiants
+
+
+d'UCLA (University of California Los Angeles) ou d'USC
+(University of Southern California) dès 1961.
+En
+contrepartie d'une formation offerte par le
+gouvernement, ces étudiants des prestigieuses écoles
+de cinéma de Californie devaient devenir les cinéastes
+attitrés de l'USIA, au service de la diplomatie publique
+américaine (NA RG 306, Murrow files, 1962, box 18).
+
+
+Par ailleurs, la collaboration entre l'Agence et les
+milieux cinématographiques hollywoodiens, afin
+d'encourager la production de films de « qualité »
+susceptibles d'être appréciés et reconnus par les
+populations étrangères, conduit à la création d'un
+festival du film international à Washington qui devait
+rivaliser avec ceux de Cannes, de Venise ou de Moscou.
+Il était important de ne pas négliger le rayonnement
+que pouvait avoir l'organisation de се type
+d'événement, particulièrement auprès des populations
+européennes. Un Festival international du film à
+Washington devait manifester de la puissance culturelle
+des États-Unis (NA RG 306, Murrow files, 1962, box
+18).
+
+
+Dès lors, l'USIA réalise, sur commande de la Maison-
+Blanche, un grand nombre de documentaires de
+propagande, dont les plus remarquables furent sans
+doute The Five Cities of June de Bruce Herschensohn
+(1963), puis, l'année suivante, The March de James
+Blue (1964) (Cull, 1998). Au début des années 1960,
+l'agence para-gouvernementale débauche en effet les
+meilleurs réalisateurs de films documentaires
+d'Hollywood : Bruce Herschensohn qui, à travers ses
+films, réalise de véritables essais didactiques sur la
+politique étrangère des États-Unis, ou encore le fils
+d'un des réalisateurs les plus respectés d'Hollywood,
+George Stevens Jr., qui prend la tête du service Cinéma
+de l'agence d'information américaine. Sur le plan
+opérationnel, les agents
+du service Cinéma à
+
+
+Washington étudient et corrigent de très nombreux
+scénarios de films ou de documentaires susceptibles
+d'être diffusés à l'étranger. À titre d'exemple, le
+contenu des films sur la question des droits civiques est
+à cette période scrupuleusement analysé et peut être
+soumis à des coupes sévères, comme pour The Negro
+American. A Progress Report, en 1961, où les scènes
+sur les Freedom Riders ou sur les événements de Little
+Rock, Birmingham, furent écartées (NA RG 306,
+Murrow files, 1962, box 18).
+
+
+Par allieurs, Le Dernier Rivage (1959) de Stanley
+Kramer ou, de manière plus caustique, le Dr. Folamour
+(1963) de Stanley Kubrick participent d'une stratégie
+duale en sensibilisant les spectateurs, en Amérique
+comme outre-Atlantique, aux dangers d'une menace
+bien plus grande que la guerre idéologique, celle de la
+puissance nucléaire détenue désormais aussi bien par
+les États-Unis que par l'URSS. Quant aux productions
+réalisées par la seule Agence d'information, il faut
+rappeler qu'elles étaient elles-mêmes interdites de
+diffusion sur le territoire américain en raison de leur
+caractère trop polémique. Bien que certains élus aient
+pu considérer qu'il était discutable de priver le public
+américain de productions très réussies, telle que John
+F. Kennedy. Years of Lightening. Days of Drums, la
+majorité des membres du Congrès jugeaient que ces
+films de propagande officielle ne pouvaient être
+diffusés sur le territoire national sans porter atteinte
+aux fondements de la démocratie américaine (Human
+Events, 1965, 6).
+
+
+plus
+
+
+Or, au grand étonnement de certains cold warriors
+des plus endurcis, de manière beaucoup
+prosaïque, loin de toute science-fiction
+ou
+communication politique, ce qui était particulièrement
+craint des autorités communistes à l'Est était avant
+tout les représentations de la richesse de la population
+
+
+américaine, et notamment de la « classe ouvrière ».
+Comme le rapporta de manière retentissante le
+directeur de la MPIC (Motion Picture Industry Council),
+Eric Johnston, la diffusion de l'image d'un parking
+d'usine en Californie ou dans le Wisconsin, rempli de
+voitures appartenant aux ouvriers, était aussitôt taxée
+de propagande. Pour les ministres de la Culture
+concernés, il ne s'agissait pas de laisser croire à la
+population polonaise ou tchèque qu'un simple ouvrier
+américain pouvait s'offrir une voiture (Schweizer, 2002,
+23).
+
+
+Cependant, le cheval de Troie de l'entertainment
+américain, en termes d'impact sur les populations est-
+européennes, et notamment tchèques ou slovaques, fut
+sans conteste la musique de jazz (Von Eschen, 2004).
+Alors que le Président Eisenhower considérait le jazz
+comme « le meilleur diplomate de l'Amérique », la
+meilleure stratégie pour promouvoir la culture
+américaine de l'autre côté du rideau de fer fut sans
+doute l'émission de jazz de Willis Conover, Music USA,
+diffusée six jours sur sept depuis Washington (Dizard,
+1961, 76).
+
+
+Quasi inconnu aux États-Unis, cet animateur radio de
+la Voix de l'Amérique (Voice of America) a incarné
+pendant plus de quarante ans la voix du divertissement
+venue de l'Ouest dans le cœur et les esprits de milliers
+de foyers à l'Est (Heil, 2003). Ces émissions, dont le
+précurseur à l'Ouest avait été l'officier radio Sim
+Copans (Oriano, 2001), auraient permis à plus de
+trente millions de personnes d'apprécier à nouveau la
+musique de jazz, interdite par les régimes communistes
+jusqu'au début des années 1950, et par ce biais de se
+familiariser avec la culture américaine (Nelson, 1997,
+197). Par ailleurs, le sentiment de transgression
+éprouvé par la jeunesse tchèque comme par la jeunesse
+hongroise, roumaine ou polonaise est d'autant plus fort
+
+
+que les autorités communistes ne cessent de taxer le
+jazz comme le rock'n'roll de musique décadente
+entraînant des comportements subversifs propres à la
+jeunesse occidentale qui, dit-on, se saoule au Coca-
+Cola. Cet engouement populaire s'est particulièrement
+mesuré à l'aune des foules nombreuses rassemblées, en
+Pologne, lors de la venue de Willis Conover en 1959, ou
+en Tchecoslovaquie lors du premier festival de jazz
+autorisé par les autorités communistes en 1964 (Cull,
+2008, 139-140).
+
+
+L'explosion du bloc soviétique : l'impact des nouvelles
+technologies et de la culture de l'entertainment
+
+
+Le premier coup d'éclat de la nouvelle ère de la
+diplomatie publique eut lieu après les accords
+d'Helsinki, point d'orgue de la Détente (lors de la
+Conférence sur la sécurité et la coopération en Europe
+réunie à Helsinki de 1973 à 1975, les États-Unis,
+l'URSS, le Canada et les États européens de l'Est et de
+l'Ouest étaient parvenus à des accords majeurs
+encouragent la coopération entre les pays et affirmant
+l'obligation de respecter les droits de l'homme et les
+libertés fondamentales comme la liberté de circulation).
+En 1981, la première émission satellite de l'USIA,
+intitulée Let Poland Be Poland, fut retransmise dans
+toute l'Europe jusque de l'autre côté du rideau de fer
+(grâce au satellite Worldnet). Ce show télévisé, mettant
+en scène, entre autres, Frank Sinatra et Glenda
+Jackson, fut imaginé par Charles Wick, le producteur
+hollywoodien et ami du Président Reagan, alors
+directeur de l'Agence d'information des États-Unis. Il
+était destiné à déstabiliser les Soviétiques au moment
+de la répression des grèves orchestrées par le syndicat
+d'opposition polonais Solidarnosc (ADST, Morand,
+1994). Wick était intimement convaincu qu'une telle
+émission représentait la manière la plus spectaculaire
+
+
+de condamner les violences en Pologne (Tuch, 1990,
+49).
+
+
+Or, ce recours au divertissement devait s'inscrire
+dans les nouvelles stratégies de la libéralisation du bloc
+de l'Est. Durant la décennie qui suivit les accords
+d'Helsinki, les États-Unis ont en effet eu recours à
+l'entertainment comme une arme, d'autant plus non
+conventionnelle qu'elle n'était pas considérée comme
+une propagande possible (Ellul, 1990, 76). C'est à cette
+époque que les responsables des services audiovisuels
+de l'USIA encouragent notamment la création de
+vidéoclubs et la mise en circulation de centaines de
+cassettes vidéo (duplicables) à partir des bibliothèques
+des postes diplomatiques en Europe de l'Est. L'idée de
+développer des vidéoclubs à l'Est vint à Charles Wick
+en 1984; un catalogue de plus de 250 titres de films
+documentaires et de fiction fut alors proposé aux
+populations est-européennes. Face à l'énorme succès
+de ce dispositif, le directeur de l'USIA fut convaincu
+que les USIS pouvaient devenir de véritables centres
+de
+divertissement et, dans ce but, il voyait la
+contribution des dirigeants d'Hollywood aux stratégies
+de la diplomatie publique comme une formidable
+opportunité. Avec le soutien affiché du Président
+Reagan, il contacta les majors pour constituer un
+comité consultatif de professionnels hollywoodiens, à la
+tête duquel fut placée une des personnalités les plus
+influentes d'Hollywood, Leo Jaffe,
+directeur de
+Columbia Pictures (RRPL entry 11425 Rusthoven Files
+1981-1989). D'après les témoignages de certains
+diplomates en poste à l'étranger, des films tels que
+Kramer vs Kramer ou The Texas Chain Saw Massacre
+pouvaient être perçus par les populations est-
+européennes comme des représentations crédibles de
+la vie américaine (Snyder, 1995, 144-147).
+
+
+En URSS, les cassettes vidéo de films américains
+représentèrent un trafic important sur le marché noir
+et remportèrent un grand succès, comme le Docteur
+Jivago, et surtout Rambo, et Rocky (symbolisant
+spécifiquement la lutte que représentait la guerre
+froide). Or, l'essor de ces films clandestins constitua
+une formidable arme de persuasion pour les
+mouvements de dissidents. Le film polonais
+L'Interrogatoire (Ryszard Bugajski, The Interrogation,
+1982), censuré par les autorités officielles, fut récupéré
+par les activistes de la culture clandestine et recopié à
+des centaines d'exemplaires. Cette fiction illustre les
+violations des droits de l'homme dans les prisons
+polonaises à travers le martyre d'une actrice de cabaret
+emprisonnée et interrogée à tort, dans le but de lui
+faire accuser un de ses amis de trahison et
+d'espionnage. Ce film eut un impact considérable
+auprès de la population et obtint de nombreux prix, une
+fois la censure levée - Festival du film Polonais (1990),
+Festival de Cannes et de Chicago (1990). La révolution
+technologique que représentait la vidéo pouvait alors
+être considérée comme un vecteur fondamental de la
+libéralisation à l'Est.
+
+
+Or, à ces formes traditionnelles de divertissement,
+susceptibles de toucher un large public au-delà des
+frontières états-uniennes, ont succédé d'autres formes
+et outils caractéristiques du $XXI^{e}$ siècle, qui échappent
+souvent au contrôle de la diplomatie officielle.
+
+
+Competing
+diversification
+
+
+et
+
+
+soft powers
+
+
+:
+
+
+de
+
+
+globalisation
+
+
+l'entertainment au service
+
+
+des intérêts diplomatiques du xxı
+siècle
+
+
+Entertainment et celebrity diplomacy au service des opérations
+de smart power : les ambassadeurs non institutionnels
+du nation branding
+
+
+Depuis les premières analyses de Daniel Boorstin
+(1961), les travaux transdiciplinaires sur le rôle des
+célébrités dans les relations internationales se sont
+développés à tel point que les Celebrity Studies se sont
+imposées en tant que champ d'études à part entière
+(Bennett, 2010), représenté par l'ouvrage de référence
+d'Andrew Cooper en 2008,
+Lorsque les acteurs officiels
+américaine ne remplissent
+
+
+Celebrity Diplomacy.
+diplomatie
+leur rôle
+
+
+plus
+
+
+de la
+d'ambassadeur de la démocratie exemplaire, comme ce
+fut le cas pour l'administration de George W. Bush au
+moment de la guerre d'Irak ou de l'administration
+Trump, plus récemment, au moment du retrait de la
+COP21, les acteurs hollywoodiens, « Brandgelinas » ou
+Leonardo Di Caprio, peuvent faire office
+d'ambassadeurs d'une autre image de l'Amérique. Ils le
+font à titre privé pour les plus grandes institutions
+internationales, comme l'Organisation des Nations
+unies (ONU) et son agence, le Fonds des Nations unies
+pour l'enfance (Unicef), ce qui leur confère une
+fonction officielle et une image de garants des valeurs
+de l'exceptionnalisme américain. Or, les études
+d'impact et les sondages d'opinion le montrent, ces
+ambassadeurs du monde du spectacle mettent leur
+image de marque au service des intérêts américains. Ils
+recueillent ainsi des taux record d'opinions favorables
+auprès des populations étrangères de l'ensemble des
+régions du monde, quel que soit le contexte de tensions
+
+
+e
+
+
+diplomatiques à l'œuvre impliquant les États-Unis
+(Wike et al., 2017).
+
+
+Réciproquement, ce champ d'étude constitue un
+pourvoyeur potentiel d'expertise pour que les acteurs
+institutionnels, les diplomates de métier ou les chefs
+d'État accroissent leur capacité d'influence sur les
+populations étrangères, et deviennent eux-mêmes des
+célébrités, celebrity diplomats, projetant ou incarnant
+la félicité. On en a eu un exemple archétypique avec
+Barack Obama (Kellner, 2010), véhiculant une image de
+président « cool » à la une des plus grands magazines
+d'information comme de divertissement (Rolling
+Stones, Time, GQ); ou sur le terrain, avec l'ex-
+ambassadeur américain en Russie Mike McFaul,
+ambassadeur des réseaux sociaux et de la diplomatie
+digitale au service de la liberté d'expression,
+composante fondamentale du bonheur américain et de
+sa projection à l'étranger.
+
+
+Sport diplomacy, célébrités et anti-diplomates ?
+
+
+Dans le même temps, la globalisation de la société
+des loisirs et du spectacle a favorisé l'émergence d'une
+autre catégorie de diplomaties de l'entertainment,
+participant de la projection et de l'adhésion à une
+forme de réussite par le sport qui diffère des
+délégations
+officielles. Les délégations sportives
+américaines ont pourtant représenté un ressort
+classique de la diplomatie publique de guerre froide.
+L'exemple archétypique fut certainement le voyage du
+Président Nixon à Pékin, en 1972, succédant à l'équipe
+de ping-pong américaine invitée quelques mois
+auparavant par le gouvernement chinois de manière
+totalement inédite, en signe d'ouverture au dialogue
+avec les États-Unis. Cet exemple célèbre a été souvent
+mis en avant pour tenter d'identifier précisément, s'il
+
+
+en est, les acteurs de la ping-pong diplomacy du $XXI^{e}$
+siècle (Griffin, 2014). Il existait notamment un
+programme privilégié du Bureau des affaires
+éducatives et culturelles du Département d'État,
+jusqu'à l'avènement de l'administration Trump,
+consacré aux échanges sportifs et à la promotion de la
+culture américaine par le basket-ball, programme de
+diplomatie culturelle « classique », modernisé et adapté
+à l'engouement des populations étrangères pour les
+sportifs stars de la NBA.
+
+
+Parallèlement à ces exemples officiels, des
+ambassadeurs privés d'un nouveau genre mettent en
+lumière les limites et les dérives du rôle que peuvent
+jouer les acteurs non gouvernementaux. Le rôle
+controversé joué par l'ex-star de la NBA Dennis
+Rodman en Corée du Nord illustre particulièrement la
+limite des initiatives privées en matière de diplomatie
+du sport et des célébrités. La visite du Worm des
+Chicago Bulls, grand champion de la NBA, à l'invitation
+de Kim Jong-un en 2013, alors que les États-Unis et la
+Corée du Nord n'entretiennent pas de relations
+diplomatiques, avait suscité bien des critiques, allant
+même jusqu'à démontrer que Dennis Rodman
+entretenait davantage la propagande du régime nord-
+coréen (propaganda regime) que la diplomatie publique
+américaine. D'autant que cette rencontre avait été
+organisée par des médias privés, en l'occurrence HВО
+et Vice Medias, et Dennis Rodman, désormais connu
+pour ses prises de parole véhémentes et ses
+débordements violents. Cet ambassadeur improvisé,
+
+
+censé représenter la
+américain, en se liant
+
+
+«
+
+
+magie
+d'amitié
+
+
+>>
+du basket-ball
+affichée
+
+
+avec
+le
+dictateur nord-coréen,
+semblait alors incarner
+l'archétype de l'anti-diplomate. Néanmoins, ironie de
+l'histoire, ce personnage hors norme est devenu malgré
+
+
+lui, en 2017, du fait de son amitié avec le Président
+Trump, le seul trait d'union entre les deux États
+adversaires sans pour autant ouvrir la possibilité d'une
+forme de dialogue officiel (Hunter, 14 septembre 2017).
+
+
+Ces confusions des rôles et des genres qui peuvent
+conduire à contredire ou entraver les intérêts
+diplomatiques officiels s'expliquent également au $XXI^{e}$
+siècle par une réappropriation du concept et des
+pratiques de soft power par les puissances
+concurrentes des États-Unis.
+
+
+L'entertainment mondialisé vs  ' entertainment
+post-mondialisation : l'émergence de modèles de soft powers
+concurrents et la réaffirmation des États nations
+
+
+Malgré la multiplication des conflits de toutes
+natures, des niveaux et des espaces de guerre, le $XXI^{e}$
+siècle semble être également le siècle des rivalités de
+puissance via les soft tools, y compris pour les États les
+plus autoritaires capables de trouver, par le truchement
+de ces outils ou de ces atouts, les moyens de réaffirmer
+la présence des États nations. Élargissant le champ des
+premières définitions du politiste du Belfer Center de
+l'université de Harvard, Joseph Nye, les puissances
+concurrentes des États-Unis ont depuis une dizaine
+d'années investi de manière croissante dans les outils
+de soft power ; le meilleur exemple de cet intérêt tout
+particulier porté aux autres éléments de la puissance
+que ceux de la force militaire ou économique est sans
+conteste l'exemple chinois.
+
+
+La Chine, depuis le début du $XXI^{e}$ siècle, s'intéresse
+et investit de plus en plus dans son soft power. En
+témoigne le nombre croissant de centres de recherches
+universitaires ou think tanks consacrés à l'étude et au
+développement des activités de diplomatie publique sur
+le territoire chinois (Xie, 2015). Encore récemment,
+Jospeh Nye contestait toute comparaison possible entre
+
+
+la Chine et les États-Unis sur le terrain du soft power,
+pour trois raisons : la trop grande implication du
+gouvernement chinois dans les outils de communication
+extérieure officielle comme CCTV, des faibles budgets
+dédiés à la diplomatie publique et culturelle en
+comparaison de ceux du Département d'État (10
+millions de dollars contre 660), et aussi et surtout le
+manque d'attractivité du régime communiste pour les
+populations étrangères. Mais ces analyses ne tenaient
+pas compte du développement des investissements
+chinois dans de nombreuses activités d'entertainment
+étrangères.
+
+
+Les entrepreneurs chinois, soutenus par le
+gouvernement, investissent depuis quelques années
+dans des stratégies de diffusion en s'invitant au capital
+de groupes hollywoodiens, à l'instar du groupe de
+commerce en ligne AliBaba, qui est entré au capital des
+studios de Steven Spielberg, Amblin Partners (ex-
+DreamWorks), en septembre 2016. Cette stratégie
+commerciale épiphyte permet au géant chinois de
+contrôler les contenus (du fait de la coproduction des
+œuvres cinématographiques), tout en donnant accès
+aux studios américains à l'immense marché chinois qui,
+bien que fortement réglementé et censuré, demeure
+considérable (Xie, 2015). Cependant, cette stratégie
+d'investissement commercial, qui rappelle dans une
+certaine mesure les stratégies des grands groupes
+japonais comme Sony pendant les années 1980, ne tient
+pas compte de la nécessité de produire des contenus
+exportables susceptibles de contribuer au soft power
+chinois. Les dernières tentatives de production de films
+chinois à grand public ont visé essentiellement le
+marché intérieur avec des essais de reproduction des
+codes des blockbusters hollywoodiens des années 1980,
+dans lequels étaient vantées les qualités des héros de
+série B de l'adversaire américain. Ainsi à l'occasion du
+
+
+$90^{e}$ anniversaire de la création de l'Armée populaire de
+libération, le film de propagande The Founding of an
+Army (juillet 2017) devait, selon les autorités chinoises,
+susciter un engouement de la part du public
+comparable à celui provoqué par les archétypes
+américains Avengers ou Captain America. Par le plus
+grand des paradoxes, la culture de l'entertainment
+américain aurait aidé à promouvoir le film de
+propagande du gouvernement chinois auprès de la
+population locale.
+
+
+Conscients de la nécessité de faire participer
+l'entertainment à la valorisation de leur marque
+nationale auprès des populations et des puissances
+étrangères, d'autres États autoritaires n'hésitent pas à
+investir dans des stratégies de diplomatie publique des
+plus variées, souvent ciblées mais confondant de la
+même manière pouvoir de diffusion et capacité de
+séduction ou de persuasion. Il s'agit pour la plupart de
+ces régimes de vanter les avancées de la modernisation
+de la société civile. Les Qataris ont ainsi fait le choix,
+dans le cadre de leur sport diplomacy, de miser sur le
+sport occidental et l'entertainment que peuvent
+représenter les rencontres footbalistiques ou leurs
+retransmissions par les chaînes de télévision câblées
+telle que Bein Sport, s'arrogeant parfois le monopole de
+la diffusion, et confondant pouvoir de diffusion et
+capacité d'attraction ; quant à elle, la Russie de
+Vladimir Putin, contrairement à la Russie soviétique,
+n'a pas investi dans le rayonnement culturel qui relève
+de « la haute culture » ou de la culture populaire et de
+l'entertainment, préférant les chaînes d'information,
+Sputnik ou RT,
+
+
+2017),
+
+
+Russia Today (Audinet,
+
+
+susceptibles de produire parfois une
+d'infotainment (de divertissement et d'information).
+
+
+forme
+
+
+Par ailleurs, pour des nations comme le Qatar ou la
+Corée du Sud, le choix de la diplomatie de
+l'entertainement s'inscrit dans une volonté, pour de
+petits États potentiellement menacés par la puissance
+militaire de leurs voisins, moyen-orientaux
+ou
+asiatiques, d'exister ou de s'affirmer sur la scène
+internationale en s'attirant les faveurs des
+Occidentaux, et en s'appropriant leur culture. Les
+retombées économiques du sport power pour le Qatar,
+qui se voudrait être une capitale mondiale du sport et
+du football, ne se mesurent pas seulement aux
+bénéfices liés aux droits de diffusion ou de
+retransmission des rencontres sportives; elles incluent
+également la possibilité de développer des
+infrastructures à l'intérieur du pays et de prévoir une
+transition économique post-hydrocarbures (Boniface,
+Verschuuren, Billion, Aby, 2012). Quant à la Corée du
+Sud, elle a fait le choix de la pop diplomacy comme
+diplomatie culturelle favorisant le rapprochement avec
+l'allié américain, à travers des icônes populaires qui
+adoptent et subliment tous les codes de la culture
+américaine côte ouest, et surtout le festival de musique
+KCON, illustration de la Korean wave (la nouvelle
+vague coréenne) dont les Américains sont
+particulièrement friands, à tel point qu'elle est devenue
+un cas d'étude pour les experts de la diplomatie
+publique des universités de Californie (Norman Lear
+Center, 2017).
+
+
+Or, faut-il le rappeler, pour ces soft powers
+émergents, le modèle de référence en matière de
+diplomatie publique alliant culture, information et
+entertainment n'est pas le seul modèle états-unien; le
+modèle britannique, souvent proche de ce dernier dans
+les classements des puissances en fonction de leur soft
+power (Portland), a maintenu de manière constante sa
+capacité d'attraction des populations étrangères en
+
+
+haute culture
+
+
+de
+
+
+associant, via la BBC, la
+«
+>>
+l'information indépendante et les programmes de
+divertissements, ainsi que la culture populaire, le sport,
+le football en particulier, et les célébrités de la pop
+culture, du cinéma et de la littérature telles qu'Adèle
+ou Harry Potter.
+
+
+<<
+
+
+>>
+
+
+Dans ce contexte de réaffirmation des États-nations
+par le soft power, les débats académiques actuels
+autour de la puissance américaine
+douce
+contredisent les premières analyses de Joseph Nye.
+Ceux-ci voient dans « l'empire culturel américain »
+contemporain, mis en œuvre en particulier par les
+oligopoles des industries culturelles américaines
+pourvoyeuses de jeux vidéo, de stars planétaires de la
+musique pop, du cinéma ou de la télévision, une
+réaffirmation de l'État nation et d'une forme de
+
+
+nationalisme culturel ; celle-ci prendrait la place des
+ambitions des internationalistes libéraux quant à la
+puissance d'un « État du $XXI^{e}$ siècle », susceptible, par
+le truchement de l'ensemble des acteurs et des outils
+du soft power, de constituer
+«
+un État-réseau »,
+champion de l'influence globale (Mirrelees, 2016).
+
+
+*
+
+
+Si l'entertainment, ses pratiques et ses acteurs
+demeurent un atout premier du soft power américain,
+qui lui permet de maintenir sa puissance d'influence et
+sa diplomatie culturelle au premier rang du classement
+de Portland, il représente au sein de la société du
+spectacle mondialisée du $XXI^{e}$ siècle un outil peu
+maîtrisé; conséquence de la digitalisation des modes
+de communication et de la balkanisation des opinions
+publiques qui en découle, à l'heure ou les principaux
+diffuseurs de contenu favorisent de plus en plus «
+l'entertainment à la carte » (comme le géant Netflix).
+
+
+Or, la projection d'une image et de valeurs aléatoires
+peut conduire, de manière dystopique, à une forme de
+balkanisation de la diplomatie culturelle, en privilégiant
+le bonheur ou la satisfaction individuelle sans garantie
+d'un impact plus large. À l'évidence, l'évaluation du
+degré d'influence effectif de ces pratiques para-
+diplomatiques dépend de l'épineuse question des
+problématiques de la réception, véritable défi pour les
+sciences sociales, même dans les études les plus
+abouties comme le classement de Portland.
+
+
+Bibliographie commentée
+
+
+ANHOLT Simon, « Beyond the nation brand. The role of image and
+identity in international relations », Exchange. The Journal of Public
+Diplomacy, 2 (1), 2013,  . 6-12.
+
+
+Le nation branding, entre storytelling et diplomatie publique, a ses
+stratégies (à l'exemple de la Corée du Sud) qui ouvrent des
+discussions sur de nombreux concepts, comme la réputation et la
+politique publique de son entretien dans les relations
+internationales.
+
+
+ARNDT Richard T., The First Resort of Kings. American Cultural
+Diplomacy in the Twentieth Century, Washington D.C., Potomac
+Books, 2005.
+
+
+L'exemple de la diplomatie culturelle américaine, particulier à la
+fois par l'ampleur de sa portée internationale et par le fait qu'elle
+ne fait pas officiellement l'objet d'une politique publique en tant
+que telle.
+
+
+CULL Nicholas, The Cold War and the United States Information Agency.
+American Propaganda and Public Diplomacy
+(1945-1989),
+
+
+Cambridge, Cambridge University Press, 2008.
+
+
+L'exemple des activités américaines de diplomatie publique et de
+propagande sous la guerre froide, ou « l'intelligence de l'anti-
+communisme  (P. Grémion).
+
+
+KANJI Laura, « Illustrations and influence. Soft diplomacy and nation
+branding through popular culture », Harvard International Review,
+18, 2016.
+
+
+La mobilisation de la culture populaire au service de la réputation
+nationale et de sa diplomatie publique.
+
+
+MELISSEN Jan (dir.), The New Public Diplomacy. Soft Power in
+International Relations, Basingstoke, Palgrave Macmillan, 2005.
+Le livre examine l'évolution du concept dans les années 2000, en
+lien avec la notion de soft power.
+
+
+MIRRELEES Tanner, Hearts and Mines. The US Empire's Culture
+Industry, Vancouver, Toronto, UBC Press, 2016.
+
+
+Oncle Sam et Hollywood, Katy Perry et Call of Duty, ou la double
+face d'une domination culturelle américaine, à la fois de loisir et de
+violence.
+
+
+PELLS Richard, Not Like US. How Europeans Have Loved, Hated and
+Transformed American Culture Since World War II, New York (N. Y.),
+Basic Books, 1997.
+
+
+L'influence américaine sur l'Europe... et ses limites du fait de la
+réinterprétation/captation par les Européens d'une culture qui leur
+
+
+reste étrangère.
+
+
+Chapitre 20
+
+
+L'expertise internationale
+et la diplomatie
+d'influence
+
+
+Nicolas Tenzer
+
+
+I'expertise internationale constitue l'un des concepts
+simultanément les moins définis de la politique
+internationale et les plus multiformes. Le terme est peu
+employé dans les discours officiels et, lorsqu'il est
+récupéré par les structures administratives, il n'est
+souvent cantonné qu'à une seule de ses dimensions. En
+tant que politique publique, l'expertise internationale
+manque de densité, d'unité et de visibilité tant elle
+réunit de dimensions différentes. Elle est naturellement
+d'abord un moyen, mais au service d'objectifs
+fortement dissemblables. La force et l'adéquation des
+
+
+actions d'expertise des différents pays sont étroitement
+liées à une évaluation en amont des politiques ciblées.
+
+
+Pour en résumer la nature, la politique d'expertise
+consiste en la mobilisation d'experts, nationaux ou non,
+au service d'objectifs définis préalablement. Ces
+experts exercent donc une influence ou effectuent un
+travail précis qui servent, intentionnellement ou non,
+une série de fins liées à la politique extérieure d'un
+État dans toutes ses composantes. L'expertise constitue
+la dimension première de la diplomatie d'influence  et
+de contre-influence et est l'une des composantes
+majeures de la diplomatie économique.
+
+
+Anatomie
+
+
+internationale
+
+
+de
+
+
+l'expertise
+
+
+L'expertise internationale recouvre essentiellement
+cinq modalités d'action qui ne sont que rarement
+perçues dans leur globalité et encore plus coordonnées.
+Leur mise en œuvre avec une ampleur suffisante
+dépend des priorités que l'État s'est assignées et du
+sérieux avec lequel il considère son soft power. Ces
+modalités peuvent être de nature immatérielle autant
+que matérielle, mais le succès de toutes dépend de la
+qualité et de la force d'une infrastructure pour la
+porter.
+
+
+Le premier type d'action relève de ce qu'on appelle
+en général l'expertise technique internationale. Les
+institutions multilatérales (Union européenne, Banque
+mondiale, Programme des Nations unies pour le
+développement, etc.), les États (notamment les grands
+émergents et pays jouissant de ressources tirées de
+matières premières), les grandes collectivités
+territoriales et certaines grandes ONG lancent des
+appels d'offres internationaux ayant trait à l'expertise.
+
+
+Ils concernent les domaines les plus variés, depuis
+l'aménagement urbain à la sécurité publique, la justice
+et la santé, la réforme de l'administration et
+l'assistance à la démocratie, le développement
+universitaire et la lutte contre le changement
+climatique. Des organisations publiques, privées et
+universitaires peuvent répondre à ces appels d'offres et
+les experts déployés dans ce cadre sont, eux aussi, de
+métiers, de niveaux et d'affiliation très différents,
+depuis le technicien en matière hydraulique jusqu'au
+prix Nobel d'économie, depuis le policier ou militaire
+jusqu'au juge, depuis le médecin spécialisé en matière
+tropicale jusqu'à l'expert en finances locales. Ces
+appels d'offres liés à l'expertise, qui ont pu être estimés
+à environ 100 milliards d'euros par an, ont logiquement
+un impact indirect sur les marchés de travaux et
+fourniture en aval, quand bien même sur un plan légal
+les entités sur ces marchés doivent être différentes.
+
+
+Le deuxième est lié à notre stratégie au sein des
+organisations internationales, qui revêt plusieurs
+dimensions. D'abord, la plupart de ces institutions
+réunissent des comités d'experts qui concourent à
+donner les grandes lignes stratégiques de celles-ci ou
+produisent des avis sur des questions techniques.
+Ensuite, elles réunissent régulièrement des
+conférences qui produisent des idées que ces
+organisations peuvent reprendre à leur compte. Elles
+recrutent aussi des experts qui, au niveau du siège ou
+dans leurs délégations, contribuent à déterminer des
+plans d'action ou les termes de référence des appels
+d'offres. Enfin, ces organisations se nourrissent des
+travaux d'experts réalisés ailleurs, notamment dans les
+think tanks et les universités, sans parler de l'action
+des experts des cabinets de lobbying qui avancent
+parfois leurs idées sous couvert.
+
+
+Le troisième type d'action concerne le débat d'idées.
+Celui-ci, notamment dans le domaine de la sécurité et
+de la stratégie extérieure des États, est largement
+produit par les think tanks et certaines universités
+d'envergure mondiale, essentiellement en langue
+anglaise. Même s'il existe une distance entre la
+production intellectuelle et l'action des États, cette
+expertise, souvent relayée par la presse spécialisée ou
+globale, nourrit la pensée des conseillers des princes.
+La participation à ces travaux, soit en tant qu'expert de
+ces organismes, soit en tant que débatteur lors des
+conférences qu'ils organisent, est devenue un passage
+obligé pour faire entendre sa voix. Si la plupart des
+experts sont indépendants des gouvernements, leur
+action contribue au travail d'influence et à l'image des
+pays.
+
+
+Un quatrième concerne la stratégie diplomatique.
+Celle-ci ne provient pas de rien au-delà des lignes de
+force, notamment en termes de valeurs, définies par le
+chef de l'exécutif. Dans son application  positions de
+négociation, analyse des effets indirects, modification
+des équilibres de puissance, parts respectives laissées
+au bilatéral et au multilatéral, etc. -, les experts jouent
+un rôle majeur qui peut aboutir à des points d'inflexion,
+mais également influencer les « éléments de langage »
+qui seront décortiqués par les chancelleries
+diplomatiques. Cette expertise est aussi cruciale pour
+apprécier la manière dont les parties à une négociation,
+alliées ou adversaires, vont réagir. Elle ne concerne dès
+lors pas uniquement la seule politique étrangère, mais
+aussi les éléments sociologiques, voire psychologiques,
+qui structurent les positions des parties. Cette
+expertise peut conduire, au stade de l'évaluation et de
+la prise de décision, à influencer un dirigeant qui doit
+souvent recourir à son intuition pour démêler le vrai du
+faux et la certitude de l'hypothèse.
+
+
+Un cinquième est nécessaire dans l'action de riposte,
+tant sur le plan économique que stratégique. En elle-
+même, la désinformation n'est pas neuve : la fausse
+nouvelle est depuis longtemps un élément utilisé dans
+la diplomatie et la guerre. Elle a acquis une dimension
+sans précédent avec la diffusion des médias de masse
+et les réseaux sociaux. Dans l'action économique, des
+entreprises se voient ainsi contrariées dans leur
+développement par des rumeurs entretenues sur la
+qualité de leurs produits ou la manière dont ils ont été
+fabriqués. Dans le domaine diplomatique, les fausses
+nouvelles constituent un instrument à part, soit pour
+tenter de démontrer aux leaders d'opinion ou au grand
+public que leur cause est juste et que celle de
+l'adversaire est indéfendable, soit pour endormir
+l'opinion sur des dangers réels. L'expertise consiste dès
+lors à démontrer la fausseté des informations diffusées
+et à la faire connaître largement. Il s'agit là d'une
+rectification des faits afin de prouver la vérité. Ce
+travail peut être l'œuvre des journalistes, notamment
+mais
+aussi
+des
+experts
+gouvernementaux. Elle est d'autant plus nécessaire que
+des pays hostiles disposent souvent de relais dans les
+pays qu'ils visent, autant dans les milieux universitaires
+ou les think tanks ou chez les têtes d'affiche des
+réseaux sociaux que dans les cercles politiques.
+
+
+d'investigation,
+
+
+A priori, l'expertise internationale constitue donc une
+notion large et infiniment diverse de par les tâches
+qu'elle suppose, les compétences qu'elle exige, les
+organisations qu'elle implique et les objectifs qui la
+gouvernent. Pour autant, elle révèle des continuums
+nécessaires dès lors qu'on saisit le concept d'expertise
+avec la visée d'une action et tout simplement pour
+construire une politique publique : continuum entre
+l'expert de terrain en ingénierie environnementale et
+l'expert qui écrit un article sur les bonnes pratiques en
+
+
+ce domaine dans une revue internationale, continuum
+aussi entre l'officier de police qui forme les forces d'un
+pays venant de sortir d'une dictature ou le journaliste
+qui en forme d'autres dans des pays où la liberté de la
+presse a été longtemps muselée et notre action dans les
+enceintes internationales en matière de droits de
+l'homme, continuum enfin entre l'expert en stratégie
+nucléaire dans un think tank et le conseil au
+gouvernement lors des négociations de l'accord avec
+l'Iran ou la définition de nos positions sur la Corée du
+Nord.
+
+
+Dans tous les cas, la promotion de notre expertise
+suppose en amont que la définition de notre priorité à
+l'international ait été clairement effectuée et que le
+gouvernement, mais aussi les acteurs privés et
+universitaires, soient prêts à y consacrer les moyens
+adéquats, et à créer une forme d'unité d'intention sur
+ce sujet.
+
+
+L'expertise à l'épreuve de la
+coordination
+
+
+Pour qui suit l'expertise sur un plan mondial, et pour
+ne s'en tenir qu'aux États qui disposent des moyens et
+de la volonté de cette ambition, trois schémas
+apparaissent, sans toutefois qu'aucun des pays ne
+coche toutes les cases d'une promotion de l'expertise
+dans toutes ses dimensions.
+
+
+regroupe
+
+
+Une première
+catégorie
+les
+offensifs/volontaristes. Ces pays ont non seulement pris
+conscience de la nécessité politique, économique et
+intellectuelle d'une stratégie d'influence, mais ils se
+sont donné les moyens de le faire. En raison de leur
+puissance, les États-Unis constituent le champion
+toutes catégories, sans qu'on puisse toutefois parler
+
+
+d'un plan d'ensemble et d'une stratégie entièrement
+articulée. Cette action est le fait des think tanks qui
+disposent parfois d'un réseau international, invitent
+régulièrement des experts étrangers, et qui peuvent
+former les futures élites de certains pays, garantissant
+ainsi des liens forts. Les grandes universités
+fonctionnent parfois de fait selon le même modèle.
+Plusieurs importantes entreprises américaines,
+notamment dans le domaine du conseil et de l'audit,
+répondent de leur côté à des appels d'offres
+internationaux
+et conseillent souvent les
+gouvernements étrangers et certaines organisations
+multilatérales, sans parler des entreprises elles-mêmes.
+Les fondations humanitaires (fondation Bill et Melinda
+Gates, fondation Clinton) et de plaidoyer (les
+différentes organisations placées sous le parapluie du
+National Endowment for Democracy - NED) exercent
+une influence réelle dans le domaine de l'aide au
+développement et de l'assistance à la démocratie. Il en
+va de même pour l'Agence américaine
+développement international - Usaid
+et le Millenium
+Challenge Corporation (MCC). Dans le domaine du
+lobbying en matière juridique, la puissance de
+l'American Bar Association dans les négociations
+juridiques internationales est sans comparaison.
+L'absence de coordination d'ensemble et la diversité
+des orientations de ces différentes organisations
+permettent de faire justice du mythe d'un plan de «
+conquête  du monde, mais par sa seule force, le
+déploiement tous azimuts des différents organismes
+des États-Unis crée un effet d'attraction indéniable.
+
+
+de
+
+
+Le cas allemand est le deuxième exemple d'un
+déploiement en profondeur de l'expertise. Il n'a pas la
+portée globale, notamment dans le domaine de la
+sécurité et des affaires internationales, des États-Unis,
+mais il met en œuvre deux instruments uniques à cette
+
+
+échelle. Le premier est la présence d'un réseau
+exceptionnel d'experts techniques, largement fédéré
+par la Gesellschaft für internationale Arbeit (GIZ), et de
+financement d'accompagnement au-delà des pays en
+développement sous l'égide du Kreditanstalt für
+Wiederaufbau (KFW). Le second instrument
+est
+constitué par les six fondations politiques allemandes
+qui conduisent des actions d'influence, notamment par
+le biais de la formation des futures élites dans
+quasiment toutes les zones du monde. Sur le terrain, la
+coordination, notamment sur les appels d'offres et le
+conseil en amont des représentations régionales des
+organisations internationales, entre les services de
+l'État et les représentants des milieux économiques, est
+constante. Enfin, les industriels allemands autant que
+les organismes étatiques ne rechignent pas à engager
+des sommes importantes en dons pour illustrer
+l'excellence de leur expertise.
+
+
+Plus discret, mais présent dans les domaines les plus
+divers de l'expertise, depuis le débat d'idées jusqu'à la
+stratégie de placement dans les organisations
+internationales en passant par le lobbying et le
+déploiement de réseaux d'experts, le Royaume-Uni est
+le troisième exemple d'un volontarisme assumé en ce
+domaine. Jusqu'à présent, même dans les périodes de
+restriction budgétaire, le Department for International
+Development (DFID) n'a jamais connu de coupes
+sévères. Il n'y a pas à proprement parler de
+coordination rigoureuse entre les différents acteurs,
+mais, d'une part, la fluidité de l'information est très
+grande, d'autre part, l'investissement du royaume dans
+les affaires mondiales a produit une forme de
+communauté d'esprit.
+
+
+Une deuxième catégorie comprend les nouveaux
+conquérants. Sans avoir la puissance d'action des trois
+précédents pays, le Japon, le Canada, l'Italie et, de plus
+
+
+en plus, la Corée du Sud, ont développé une diplomatie
+d'expertise et d'influence cohérente et efficace. Le
+Japon, en particulier, a défini depuis plus de deux
+décennies des territoires prioritaires pour son expertise
+largement liée à ses intérêts économiques : il va au-
+delà de la région asiatique et de l'Afrique, et concerne
+une partie de l'Europe et de l'Amérique latine. Les
+dimensions liées à la sécurité ne sont pas premières
+dans l'esprit de Tokyo, mais la volonté de faire
+contrepoids à la puissance chinoise n'est pas étrangère
+à
+son ambition. Le Japon investit aussi
+considérablement dans le débat d'idées, notamment sur
+les questions liées au développement et aux
+transformations technologiques et sociales. Quant à la
+Chine, si elle développe une stratégie ambitieuse de
+présence sur l'ensemble des marchés, son régime lui
+interdit sans doute d'être aussi active dans la
+fabrication de concepts, et le soft power chinois, à
+l'exception peut-être du projet One belt, one road,
+peine encore à trouver preneur. La prochaine décennie
+devrait voir aussi l'Inde et la Turquie, déjà offensives
+sur les marchés tiers, développer des outils plus
+complets d'intervention. La Suède mène également une
+politique très ciblée géographiquement, mais efficace
+et fondée sur des valeurs.
+
+
+Une troisième catégorie est composée des hésitants.
+Ceux-ci sont les puissances régionales potentielles qui
+ont commencé à explorer les marchés d'expertise et
+essaient aussi de vendre leur image : Maroc, Brésil,
+voire Sénégal. C'est le cas de la France qui, d'un côté,
+dispose du troisième réseau diplomatique au monde et
+d'un statut diplomatique exceptionnel, et a montré sa
+capacité à porter des actions diplomatiques de niveau
+mondial (notamment accord de Paris), d'un autre côté,
+reste incomparablement faible par rapport aux pays
+équivalents dans le domaine du débat d'idées sur les
+
+
+questions stratégiques, ne dispose pas d'un instrument
+d'expertise d'ampleur suffisante, n'a pas défini de plan
+d'action par pays, domaine ou zone, et peine à fédérer
+les efforts des milieux publics, privés et académiques.
+La France est l'exemple d'un pays où l'investissement
+budgétaire insuffisant, tant privé que public, a pu peser
+sur l'affirmation de ses atouts économiques.
+
+
+Les
+
+
+d'une
+
+
+conditions
+globale d'influence
+
+
+stratégie
+
+
+Le déploiement d'une expertise tous azimuts dans de
+multiples domaines constitue logiquement la condition
+préalable d'une stratégie d'influence. Il existe un
+continuum entre l'expertise intellectuelle
+académique, appliquée aux questions stratégiques ou
+techniques, et le déploiement sur les marchés.
+
+
+et
+
+
+Cette stratégie d'influence doit ainsi articuler quatre
+dimensions : l'échelle temporelle, la visée stratégique,
+les cibles et les acteurs. Ces dimensions valent autant
+pour la conquête des marchés qu'accompagne
+notamment l'expertise technique que pour la politique
+internationale qui requiert souvent la mise en place
+d'actions de conviction en amont.
+
+
+Les actions d'influence peuvent se dérouler sur trois
+échelles de temps : court, moyen et long termes. Leur
+succès dépend de l'articulation de ces trois
+temporalités et, en particulier, de la dernière. Sans une
+politique sur le temps long et en profondeur, l'influence
+à court et moyen terme risque de rester imparfaite.
+Cela vaut tant dans le domaine économique  stratégie
+d'image de l'entreprise mais aussi du pays, dont les
+volets sont tant internes qu'externes, déploiement
+d'experts sur le terrain à fonds perdu  qu'intellectuel
+
+
+la construction de la crédibilité d'une université ou
+
+
+d'un think tank prend du temps et diplomatique
+fabrication en amont de nos messages et actions de
+conviction auprès des leaders d'opinion, voire d'un plus
+large public. Les dernières étapes d'une négociation,
+commerciale ou diplomatique, seront d'autant plus
+aisées que le terrain aura été préparé.
+
+
+La deuxième dimension est la stratégie, là aussi
+économique, intellectuelle ou diplomatique. Si elle n'est
+pas guidée par des objectifs précis - tout le contraire
+d'un « rayonnement » indifférencié -, toute politique
+d'influence est vouée à échouer. Le déploiement
+d'experts sans masse critique ni hiérarchie
+des
+priorités conduit à des résultats limités et peu durables.
+Les responsables d'une politique d'influence doivent
+donc en amont préciser ses objectifs, définir des cibles
+et organiser la mise en place de moyens humains et
+financiers. Trop souvent, les actions d'influence
+manquent ainsi de cette rigueur stratégique.
+
+
+En troisième lieu, il convient, dans le cadre de cette
+stratégie pensée, de définir des « cibles ». Après la
+question « pour quoi influencer ? » se pose celle du «
+qui influencer ? ». Alors que, jadis, l'influence visait
+essentiellement les chancelleries diplomatiques et les
+acteurs politiques susceptibles de relayer les politiques
+des États ou les intérêts privés, celle-ci concerne
+désormais des catégories plus nombreuses et variées
+qui, toutes, requièrent des modes d'action spécifiques :
+leaders d'opinion, dirigeants et cadres d'entreprises,
+universitaires, membres des think tanks, agents des
+organisations
+internationales, partis politiques,
+syndicats, ONG, journalistes et même grand public.
+Sans évoquer les moyens illégaux (corruption) que
+peuvent utiliser certains États, les instruments d'action
+deviennent aussi plus divers : articles dans la presse
+internationale et spécialisée, contacts directs avec les «
+cibles », lobbying, présence massive sur les réseaux
+
+
+sociaux, interventions lors des conférences
+internationales et régionales, action d'influence en
+amont auprès des organisations internationales
+(contribution à la définition des priorités ou à la
+définition des appels d'offres internationaux), mais
+aussi systèmes de bourse pour les étudiants talentueux
+des pays cibles, programmes de visite des
+universitaires ou des leaders d'opinion, dons en nature
+de matériel, etc. Ces actions supposent d'adapter le
+discours à la cible.
+
+
+organisations
+
+
+Enfin, les acteurs de l'influence suivent une évolution
+largement analogue aux cibles. Les ambassades et les
+dirigeants d'entreprise doivent trouver des relais
+auprès des experts de terrain, des ONG, des
+universitaires,
+journalistes,
+professionnelles, voire syndicales, blogueurs, figures de
+proue des réseaux sociaux, etc. L'ensemble de ces
+acteurs doit se démultiplier dans l'ensemble des lieux
+d'influence et, si chacun doit disposer de sa liberté et
+de son éthique, une forme de coordination souple doit
+être trouvée. Les pays qui ont pu mettre en place avec
+succès une stratégie d'influence et construire une
+expertise de poids, à tous les niveaux, sont ceux dont
+l'ensemble de ces parties prenantes agissent peu ou
+prou dans le même sens.
+
+
+L'expertise
+
+
+désinformation
+
+
+contre
+
+
+La dernière dimension de l'expertise, tant stratégique
+qu'économique, est celle de la riposte. Elle requiert
+d'identifier en amont la menace et le mode d'action de
+nos adversaires en termes notamment de
+désinformation, mais aussi de préparer les conditions
+de la contre-offensive, qui constitue de l'expertise par
+
+
+la
+
+
+nature, et exige l'influence pour lui conférer toute sa
+portée. Les menaces liées à la désinformation sont
+d'une triple portée : économique, intellectuelle et
+stratégique.
+
+
+Sur le plan économique, de nombreuses entreprises
+sont souvent les victimes de concurrents diversement
+honnêtes qui visent à saper leur réputation et à mettre
+en cause les produits ou services qu'elles procurent.
+Certes, certaines dénonciations paraissent pleinement
+justifiées si elles sont avérées : produits toxiques,
+services déficients, violations diverses du droit, y
+compris des normes sociales et environnementales, ou
+complaisance envers des pays dictatoriaux, voire des
+groupes terroristes. D'autres, en revanche, relèvent de
+la désinformation : dénonciations calomnieuses auprès
+des organisations internationales de pratiques
+prétendument illégales pour les retirer des short-lists
+ou des soumissionnaires autorisés, campagnes de
+presse, développement de rumeurs sur les réseaux
+sociaux, etc. La riposte passe certes par une veille
+permanente et, le cas échéant, par des actions
+judiciaires et les différents moyens de la
+communication de crise, mais aussi par des actions
+d'expertise. Pour les entreprises visées, il faut non
+seulement défendre les produits et les services
+incriminés, mais aussi mettre en place des stratégies
+d'influence auprès des décideurs comme du grand
+public. Là aussi, une stratégie d'influence et de
+communication en amont peut rendre moins invasives
+les actions de désinformation.
+
+
+Sur le plan intellectuel, les
+stratégies de
+désinformation de la part des États ont plusieurs
+dimensions, notamment informations erronées sur un
+pays, fausses nouvelles, dissimulation de réalités
+gênantes, « récits » erronés sur le plan historique
+visant à cacher la vérité, relativisation, mais aussi
+
+
+(la
+
+
+offensive contre les nations adversaires avec l'intention
+de les discréditer ou de les salir. Ces actions trouvent
+des relais chez des leaders d'opinion, politiques,
+intellectuels ou journalistes, et naturellement sur les
+médias sociaux qui peuvent viser une population
+crédule et sensible aux thématiques de la propagande.
+Les techniques rhétoriques de cette propagande sont
+aussi bien documentées
+: whataboutism
+dénonciation
+entraînant
+immédiatement une
+dénonciation adverse pour produire un effet de
+relativisation), mise en avant de thèmes qui peuvent
+conduire à saper le consensus national, arguments
+économiques (notamment pour des pays sous un
+régime de sanction), jeu sur les sentiments, et discours
+souvent résumé par les expressions de « post-vérité »
+et de faits alternatifs. La contre-offensive emprunte, là
+aussi, à l'expertise et à l'influence : rectification des
+mensonges, notamment historiques, démonstrations
+appuyées sur des faits, mise en lumière des faits
+perpétrés par des États criminels ou soutien de
+groupes qui le sont. En raison de la moindre crédibilité
+de la parole officielle, cette contre-offensive demande
+une mobilisation des intellectuels et des journalistes
+spécialisés dans la traque des faux, et une présence
+massive sur les réseaux sociaux. Elle suppose de
+dénoncer, voire d'investiguer, les organes et les
+personnes qui relaient la propagande, et, si la parole
+est libre, de mettre au jour leur affiliation. Si une partie
+de la presse et des milieux universitaires et think tanks
+a commencé à mettre en place de tels outils, au-delà de
+la cybersécurité, les États démocratiques marquent
+encore souvent le pas, traduisant un manque de
+résolution de ceux-ci devant les actions de nations qui
+ne le sont pas.
+
+
+Enfin, sur le plan stratégique, la riposte doit utiliser
+les instruments intellectuels évoqués précédemment.
+
+
+Elle suppose aussi de mieux expliquer les arguments
+qui fondent nos positions et nos alliances et de
+démultiplier la présence, sur les plans international et
+intérieur, et de nouer vision géopolitique et valeurs. De
+même que l'expertise technique n'est pas neutre en
+termes de principes elle peut favoriser ou non le
+développement, le
+respect
+des
+normes
+environnementales et sociales, le bon gouvernement et
+la précellence de la règle de droit -, de même notre
+politique étrangère, voire militaire, reste fondée sur
+des principes que les actions de propagande visent à
+éroder, sinon discréditer. Peut-être trouvons-nous ici le
+sens ultime de l'expertise et la légitimation de toute
+action d'influence : nouer l'action à des règles que nous
+nous imposons parce que nous les considérons comme
+bonnes.
+
+
+Bibliographie commentée
+
+
+COLONOMOS Ariel, La Politique des oracles. Raconter le futur
+aujourd'hui, Paris, Albin Michel, 2014.
+
+
+Ou comment la prospective, surtout aux États-Unis, a ses acteurs
+spécifiques, ses codes, ses travers.
+
+
+KENNEDY David, A World of Struggle. How Power, Law, and Expertise
+Shape Global Political Economy, Princeton (N. J.), Princeton
+University Press, 2018.
+
+
+Le pouvoir de l'expertise et de l'influence juridique dans le domaine
+économique.
+
+
+LANXADE Jacques, TENZER Nicolas, Organiser la politique européenne et
+internationale de la France, Paris, La Documentation française,
+2002.
+
+
+Un plaidoyer pour une vision internationale de la France qui
+prenne davantage en compte les questions d'expertise et
+d'influence.
+
+
+LITTOZ-MONNET Annabel (ed.), The Politics of Expertise in International
+Organizations. How International Bureaucracies Produce and
+Mobilize Knowledge, Londres, Routledge, 2017.
+
+
+Une analyse plus globale de l'expertise et des politiques dont elle
+fait l'objet au sein des organisations internationales.
+
+
+NYE Joseph, Soft Power. The Means to Success in World Politics, New
+York (N. Y.), Public Affairs, 2004.
+
+
+Un ouvrage pionnier et de référence, fort connu, sur l'avènement
+des méthodes non coercitives en relations internationales, qui a
+donné lieu au développement de l'étude du soft power, de
+l'influence, et de leurs méthodes.
+
+
+TENZER Nicolas, L'Expertise internationale au cœur de la diplomatie et
+de la coopération du $XXI^{e}$ siècle. Instruments pour une stratégie
+française de puissance et d'influence, rapport au Premier ministre,
+au ministre des Affaires étrangères et européennes, au ministre de
+l'Économie, de l'Industrie et de l'Emploi et au ministre du Budget,
+des Comptes publics et de la Fonction publique, Paris, La
+Documentation française, 2008.
+
+
+Un rapport qui tentait d'alerter sur l'insuffisance française en
+matière d'expertise et d'influence.
+
+
+TENZER Nicolas, Quand la France disparaît du monde, Paris, Grasset,
+2008.
+
+
+Un développement de l'analyse précédente, dans un ouvrage plus
+grand public.
+
+
+TENZER Nicolas, « Les marchés internationaux du droit une clé pour
+notre stratégie extérieure  , Les Petites Affiches, 238, 2010.
+Le cas particulier de l'expertise juridique et de son marché
+mondial.
+
+
+TENZER Nicolas,  L'expertise internationale », dans Thierry Balzacq,
+Frédéric Ramel (dir.), Traité de relations internationales, Paris,
+Presses de Sciences Po, 2013,  . 1169-1182.
+
+
+Un chapitre de traité faisant le point sur cette question de
+l'expertise.
+
+
+Conclusion
+
+
+Les diplomates engloutis
+
+
+?
+
+
+Frédéric Ramel, Thierry Balzacq, Frédéric
+Charillon
+
+
+« S
+
+
+avoir l'instruction et l'intelligence, le Négocier et
+le traiter, l'Écrire et tenir son maître bien
+
+
+informé » (Danès, 1914-1915, 608). Telles sont,
+aux yeux de l'évêque de Lavaur, Pierre Danès,
+ambassadeur de François Ier auprès du Concile de
+Trente en 1542, les dispositions dont tout diplomate
+doit faire preuve une fois en fonction. Dans ses Conseils
+à un ambassadeur publiés en 1561, il associe chacune
+d'entre elles à des qualités spécifiques : « la diligence
+et la dextérité », « la prudence et la candeur », « le
+jugement et le savoir
+».
+Ses Conseils feront
+l'admiration du poète Ronsard; preuve que le style
+
+
+littéraire est partie intégrante du métier de diplomate.
+Ils s'inscrivent dans toute une série de traités
+(trattatistica) consacrée à l'ambassadeur et à l'art de
+négocier depuis l'Ambaxiatorum brevilogus (1436) de
+Bernard de Rosier. Ils relèvent d'un genre nouveau qui
+va des modalités du droit d'ambassade aux consignes
+de comportement (Andretta, Péquignot et Waquet,
+2015). Cet intérêt des théoriciens et des praticiens
+européens pour la diplomatie se révèle plus tardif par
+rapport aux traditions non occidentales, notamment
+dans les mondes iranien et arabe. Celles-ci s'appuient
+sur le Secret des secrets, un texte de conseils formulés
+par Aristote à Alexandre en tant que précepteur, dont
+plusieurs passages donnent déjà une série
+de
+recommandations quant à l'emploi des messagers à
+l'étranger, comme s'assurer de leur fidélité et de leur
+sobriété à l'égard de l'alcool. Mais ses Conseils et ses
+traités publiés à partir des $XV^{e}$ et $XVI^{e}$ siècles1
+demeurent enchâssés dans une conception moderne de
+la diplomatie conçue comme une pratique réservée aux
+représentants de l'État. Celui-ci ne repose pas
+seulement sur un monopole de la coercition physique
+légitime. Il suppose à la fois confiscation et
+concentration des moyens alloués à la conduite des
+affaires extérieures. Aron cristallise cette idée en
+faisant du diplomate, avec le soldat, l'une des deux
+figures symboliques des relations internationales, tous
+deux étant employés par l'État.
+
+
+Or, cette façon d'appréhender l'activité diplomatique
+mérite examen, que ce soit dans les configurations
+passées ou bien surtout dans le contexte présent. $\hat{A}$ cet
+égard, les recompositions actuelles de la diplomatie
+débordent
+les
+transformations
+bureaucratiques affectées par le New Public
+Management. Elles concernent tout autant l'outil  qui
+
+
+largement
+
+
+ne se résume plus aux ministères des Affaires
+étrangères que l'environnement de plus en plus
+concurrentiel dans lequel évoluent les diplomates. Les
+chapitres rassemblés dans ce manuel interrogent en
+effet le monopole étatique de l'activité diplomatique.
+Les États, leurs personnels d'ambassade et leurs
+délégations deviennent ainsi des acteurs diplomatiques
+parmi d'autres. Cette transformation de la scène
+internationale fait que les fonctions d'information et de
+négociation, voire aujourd'hui de représentation ne
+sont plus totalement confisquées par les agents de
+l'État. C'est ce que rendent compte les expressions de
+diplomatie plurale (Cornago, 2013)
+ou de
+polylatéralisme (Wiseman, 2010).
+
+
+Les trois parties du présent manuel rendent compte
+de l'ensemble de ces recompositions. Elles décrivent
+respectivement ce que nous pourrions résumer par les
+3D de la diplomatie contemporaine :
+
+
+la démultiplication des cadres diplomatiques
+(première partie) ;
+
+
+la diversification des intervenants diplomatiques
+(deuxième partie) ;
+
+
+la densification
+
+
+(troisième partie).
+
+
+des
+
+
+matières
+
+
+diplomatiques
+
+
+Ces trois processus ne sont pas, néanmoins,
+totalement inédits dans l'histoire de la diplomatie, en
+particulier les deux premiers (Moeglin et Péquignot,
+2017). Les lieux au sein desquels se nouent les
+relations diplomatiques n'ont jamais fait l'objet d'une
+restriction aux cadres officiels et visibles. Les
+rencontres informelles participent pleinement du
+rapport diplomatique. Quant aux formats dans lesquels
+celui-ci se manifeste, ils se révélaient déjà fort
+nombreux au $XIX^{e}$ siècle, y compris au travers de la
+diplomatie de groupes ou de clubs à l'instar du Concert
+
+
+européen mis en place à Vienne en 1815. En ce qui
+concerne la pluralité des acteurs, elle aussi se donne à
+voir dans le temps long. Certes, les États s'appuient sur
+une monopolisation de l'activité diplomatique à partir
+de la Renaissance grâce à un transfert des innovations
+que l'on doit aux cités de la péninsule italienne à partir
+du $Xv^{e}$ siècle, notamment la mise en place des
+ambassades permanentes. Néanmoins, d'autres acteurs
+s'immiscent aussi dans les relations interétatiques, que
+ce soient des compagnies commerciales, des églises ou
+des partis politiques.
+
+
+Deux éléments de nouveauté toutefois apparaissent.
+Le premier réside dans le processus de densification en
+raison d'une technicisation et d'une sophistication
+accrues des discussions diplomatiques. Les objets
+dépassent largement les enjeux de high politics, c'est-à-
+dire ceux de la guerre et de la paix entre les États. Les
+questions économiques, financières, commerciales,
+écologiques, culturelles sont elles aussi objets de
+négociation bilatérale et multilatérale. Elles requièrent
+une connaissance particulièrement fine, tant des
+positions défendues par les interlocuteurs que des
+interprétations scientifiques et expertes dans le
+domaine considéré. Le second élément de nouveauté
+tient non seulement à la superposition de ces trois
+processus mais aussi à leur intensification. Des cadres
+démultipliés, des intervenants diversifiés et des
+matières densifiées ont pour conséquence de créer des
+pressions nouvelles sur les agents de l'État et plus
+généralement sur la conduite étatique de la diplomatie.
+Pétri par l'« esprit de chancellerie », le diplomate de
+carrière se doit d'éprouver une loyauté sans faille à
+l'égard du gouvernement qu'il sert. La figure littéraire
+du marquis de Norpois imaginée par Marcel Proust
+dans la Recherche du temps perdu est fréquemment
+
+
+convoquée afin de décrire ces traits de caractère : à la
+fois conservateur, maître dans l'art de recevoir et la
+conversation tout en étant soucieux des « intérêts
+permanents » de l'État. Une telle description pourrait
+faire croire à une vie de « patachon » (Delcorde, 2014,
+51) recroquevillée dans les salons. Rien de plus éloigné
+de la réalité vécue car la diplomatie ne se déploie pas à
+l'ombre des jeunes filles en fleurs mais bien des crises
+voire des conflits armés. Les pressions exercées par les
+trois processus soulignés aboutissent à la formulation
+d'une tension majeure et d'une nécessité impérieuse
+quant à l'action diplomatique des États.
+
+
+La tension majeure se situe entre pratique du secret
+(ou de la discrétion) et souci de transparence envers les
+« opinions publiques ». Dans l'abord mais aussi la
+gestion des crises et des conflits, les contacts avec les
+interlocuteurs clés bénéficient bien souvent d'une
+absence de communication officielle. Rester dans
+l'ombre constitue alors un atout. De manière
+simultanée, aucune chancellerie ne peut se permettre
+d'occulter la diplomatie publique ainsi que la
+dissémination des positions officielles, quelle que soit
+l'enceinte internationale considérée. La BD française
+Quai d'Orsay (Blain et Lanzac, 2010) offre une parfaite
+illustration de cette tension. Alors qu'Alexandre Taillard
+de Worms, le ministre des Affaires étrangères, obsédé
+par l'explication des relations internationales pour le
+grand public, prépare son discours devant le Conseil de
+sécurité avec fracas et envolées lyriques, son chef de
+cabinet réclame de ne pas être dérangé pendant une
+petite heure afin de trouver une solution à une crise
+internationale majeure. Il évolue dans le silence avec
+une économie de geste tout en utilisant un coffre-fort
+rempli de documents secret-défense ainsi qu'une ligne
+sécurisée pour se connecter à l'étranger.
+
+
+La nécessité impérieuse n'est autre que l'effort de
+coordination qui incombe aux ministères des Affaires
+étrangères (Hocking, 1999). Un tel effort ne se limite
+pas aux objectifs de coopération interministérielle qui,
+en période de crise, sont centraux lorsqu'il s'agit
+d'intervenir à l'étranger. Il vise à faire de ce ministère
+une sorte de vaisseau amiral en vue de naviguer au
+cœur des turbulences mondiales. Les diplomates
+donnent corps aux orientations gouvernementales au
+sein de n'importe quelle négociation et dans tous les
+cadres diplomatiques existants. Leur fonction première
+dans notre temps consiste à rendre cohérentes les
+prises de position, que ce soit pour rassurer un allié,
+pour informer un partenaire, pour clarifier une
+interprétation d'un texte juridique au cours d'une
+négociation... Mais dans une telle configuration, cette
+coordination devient un exercice fort périlleux. La
+diplomatie étatique se révèle de plus en plus délicate
+car en proie à des défis d'une rare intensité. Ces défis
+ont tous comme particularité de souligner l'exposition à
+des carences, voire à des manques :
+
+
+Une diplomatie sans pilote ? Le développement des
+diplomaties sectorielles entraîne parfois une
+autonomisation par rapport aux objectifs généraux de
+politique étrangère. Cette tendance est due aux limites
+de la coordination des ministères des Affaires
+étrangères qui se heurtent à « l'internationalisation des
+bureaucraties domestiques » (Karvonen et Sundelius,
+1987). Elle résulte également de l'enchevêtrement des
+forums de négociation, lequel, dans un domaine donné,
+interroge la cohérence des positions défendues par les
+États.
+
+
+Une diplomatie sans politique ? Sous l'effet des
+entrepreneurs sociétaux de normes et de leur
+participation tant formelle que rédactionnelle de plus
+en plus consistante dans les négociations
+
+
+diplomatiques, la marge de manœuvre des États fait
+l'objet d'une redéfinition. Les choix opérés se font sous
+observation voire sous contrainte de ces acteurs,
+lesquels entendent imprimer leur façon de concevoir
+les intérêts du milieu au-delà de ceux des États.
+
+
+Une diplomatie sans horizon ? Les dirigeants
+étatiques sont soumis à la dictature de l'instant qui les
+oblige à réagir de façon rapide à une urgence, à une
+crise, à un événement non anticipé. Cette difficulté à
+inscrire l'action diplomatique dans la durée réside
+également dans les effets d'agenda électoral. La
+sanction possible des urnes fonctionne alors comme un
+spectre qui dissuade l'acteur politique d'inscrire ses
+objectifs sur le temps long.
+
+
+Une diplomatie sans diplomates ? L'effacement du
+rôle des ambassadeurs ne résulterait pas seulement
+d'une concurrence accrue de la part de nouveaux
+intervenants de la société civile (des associations
+internationales aux firmes multinationales). Que ceux-ci
+agissent pour leur propre compte (à l'instar de la
+business diplomacy ou de la corporate diplomacy) ou
+qu'ils s'engagent dans des actions pré-diplomatiques
+dont les États peuvent bénéficier à plus ou moins long
+terme. L'inclusion voire le recrutement au cœur même
+des administrations diplomatiques d'individus venant
+du secteur privé ou associatif interroge la singularité
+de la pratique diplomatique, et donc le maintien d'une
+activité étatique spécifique avec des diplomates formés
+spécialement pour cette fonction.
+
+
+Une diplomatie sans impact ? La diplomatie a
+indéniablement produit des effets dans la structuration
+même de l'ordre international en tant qu'activité
+partagée par ses membres (c'est là l'une des thèses
+majeures de l'École anglaise des relations
+internationales). Cette structuration ne se limite pas à
+la sphère politico-stratégique à travers les négociations
+
+
+de paix. Elle se situe aussi dans d'autres domaines
+allant de l'environnement, au commerce jusqu'à
+l'établissement de scènes culturelles par exemple
+(Ramel et Prévost-Thomas, 2018). Cette efficacité est
+aujourd'hui interrogée quel que soit l'enjeu, de
+l'irruption ou la continuité d'une guerre à la
+dégradation de l'environnement.
+
+
+Au-delà de ces défis qui tiennent à la pratique
+diplomatique, un spectre hante les relations
+internationales, celui d'une fin de la diplomatie elle-
+même... plusieurs phénomènes contemporains dont
+l'explication et la manifestation ne sont pas forcément
+connectées altèrent l'activité diplomatique. Des
+tentations populistes aux expressions nationalistes
+(Badie et Foucher, 2017), du Brexit à l'élection de
+Donald Trump, c'est l'institution même de la diplomatie
+qui fait l'objet de vacillement. Les affres de la
+désintermédiation (Cooper, 2017), c'est-à-dire l'envers
+même de la diplomatie conçue comme tissage de liens
+entre acteurs politiques, pointent jusqu'à donner corps
+à des mouvements antidiplomatiques : contestation et
+insultes des personnels diplomatiques au sein même
+des États, présence d'individualités puissantes sur le
+plan médiatique, qui agissent pour leur nom propre,
+absence d'application des us et coutumes en matière de
+pratiques diplomatiques de la part de certains
+dirigeants étatiques, atteinte à l'intégrité du corps des
+diplomates via des assassinats. N'est-ce donc pas la «
+raison de système » qui, opposée à la raison d'État et
+faisant de la diplomatie le « but ultime de toute société
+internationale d'États indépendants » (Watson, 1984,
+203), fait l'objet d'une remise en question ? Ne serions-
+nous pas sortis ainsi de la phase contre-révolutionnaire
+de la diplomatie telle que décrite par G. R. Berridge
+(2011)2 ?
+
+
+Néanmoins, ce scénario pessimiste d'une fin de la
+diplomatie ne remettra pas en question certains
+invariants quant à la manière de pratiquer la
+diplomatie, laquelle transcende les catégories d'acteurs
+impliqués: de l'agent employé par l'État à l'expert
+d'une organisation non gouvernementale en passant
+par le chef d'entreprise... Au-delà des procédures de
+représentation, des méthodes de communication et des
+instruments de gestion des conflits (Bjola et
+Kornprobst, 2013), la diplomatie en tant que pratique
+suppose trois arts cumulatifs : l'ajustement, la
+reconnaissance, l'écoute.
+
+
+En 1953, devant les membres de la Foreign Policy
+Association, le secrétaire général des Nations unies
+Dag Hammarskjöld souligne que la technique doit en
+permanence demeurer ajustée avec la diplomatie. Dans
+une certaine mesure, cette recherche correspond selon
+lui à « la véritable substance de la diplomatie »
+(Hammarskjöld, 1953). Cet ajustement est multiple. Il
+ne se restreint pas à l'identification des moyens mis à
+disposition des diplomates. Il suppose aussi une
+adéquation au monde dans lequel ces derniers
+évoluent. À cet égard, l'ajustement contemporain passe
+par l'usage raisonné et raisonnable des réseaux
+sociaux. Cette diplomatie digitale (Bjola, Holmes, 2015)
+s'impose à tous les intervenants.
+
+
+La pratique diplomatique suppose également l'art de
+la reconnaissance. Cette caractéristique entre en
+résonance avec « ce qui fait la diplomatie ». Pour
+Rebecca Adler-Niessen, il s'agit du relationalisme
+(Adler-Niessen, 2015). Pour James der Derian, il s'agit
+de l'estrangement, à savoir réconcilier la séparation
+(Der Derian, 1987). Ces deux façons d'envisager la
+diplomatie révèlent bien que celle-ci réside d'abord et
+avant tout dans la reconnaissance d'une altérité. La
+diplomatie consiste à tisser du lien avec un autre qui
+
+
+peut se révéler très différent et éloigné en termes de
+valeurs. Accepter cette altérité et engager une
+communication avec elle constituent la base nécessaire
+à toute diplomatie.
+
+
+Comme le révèle la célèbre peinture d'Holbein Les
+Ambassadeurs (1533), la diplomatie suppose une
+observation fine car l'information majeure est bien
+souvent cachée. Savoir regarder à côté (da dicosto
+comme le suggèrent Machiavel et Guichardin) se révèle
+fondamental3. Former au regard est donc nécessaire.
+Mais il est une autre qualité qu'il ne faut pas négliger
+en diplomatie : l'art de l'écoute. Comme le souligne un
+diplomate japonais de manière quelque peu radicale
+mais non moins significative : le diplomate « doit
+utiliser ses oreilles, et non sa bouche >> (cité dans
+Freeman, 1994, 117). La diplomatie n'est donc pas
+qu'un art oratoire fondé sur le magistère de la parole.
+Si l'on se réfère à l'origine sémantique que donne
+Robert de Rosier à l'ambassadeur qui aurait pour tâche
+de lever les ambiguïtés (ambigua) pour aboutir à la
+paix, l'une des principales sources du discernement en
+diplomatie ne serait-elle pas plutôt de bien savoir
+écouter ?
+
+
+Bibliographie commentée
+
+
+ANDRETTA Stefano, PÉQUIGNOT Stéphane, WAQUET Jean-Claude (dir.), De
+l'ambassadeur. Les écrits relatifs à l'ambassadeur et à l'art de
+négocier du Moyen Âge au début du $XIX^{e}$ siècle, Rome, Collection de
+l'École française de Rome, 2015.
+
+
+Les écrits relatifs à l'ambassadeur et à l'art de négocier du Moyen
+Âge au début du $XIX^{e}$ siècle. Un ouvrage collectif qui présente la
+nature, les références et les usages des principaux écrits relatifs à
+l'activité diplomatique depuis le Moyen Âge.
+
+
+BJOLA Corneliu, HOLMES Marcus (eds), Digital Diplomacy. Theory and
+Practice, Londres, Routledge, 2015.
+
+
+Comprendre les transformations de la pratique diplomatique en
+partant du recours au digital dans les chancelleries. Cet ouvrage
+offre une présentation synthétique des modalités à travers
+lesquelles les diplomates enrichissent leur répertoire d'action
+numérique.
+
+
+CORNAGO Noé, Plural Diplomacies. Normative Predicaments and
+Functional Imperatives, Leiden, Martinus Nijhoff Publishers, 2013.
+Un ouvrage qui participe du décentrement dans les études
+diplomatiques. Spécialiste de la coopération décentralisée et de la
+paradiplomatie, l'auteur met en perspective ce décentrement en
+l'inscrivant à la fois dans le temps long et au cœur de la pensée
+politique.
+
+
+DELCORDE Raoul, « L'évolution du métier de diplomate  , dans Tanguy
+de Wilde d'Estmael, Michel Liégeois, Raoul Delcorde (dir.), La
+Diplomatie au cœur des turbulences internationales, Louvain,
+Presses de l'UCL, 2014, p. 41-54.
+
+
+Un témoignage qui rend compte à la fois des changements et des
+invariants qui affectent le travail des diplomates.
+
+
+HOCKING Brian (ed.), Foreign Ministries. Change and Adaptation,
+Basingstoke, Palgrave Macmillan, 1999.
+
+
+Paradoxalement, les études des ministères des Affaires étrangères
+ne sont pas légion. Une exception, celle de Hocking, qui propose
+une lecture des transformations bureaucratiques et
+organisationnelles.
+
+
+1. Dès la fin du Moyen Âge, même si les Miroirs des princes qui entendent
+clarifier la fonction du gouvernant demeurent silencieux sur la diplomatie,
+quelques écrits élaborés sur la base des expériences diplomatiques
+montrent un intérêt grandissant pour les affaires du dehors. Entre 1250 et
+1440, « au Portugal comme en Castille, en France comme dans la
+couronne d'Aragon et dans l'Empire sous des formulations diverses, la
+fidélité, le dévouement, le discernement, la connaissance des manières de
+l'efficacité qui en résulte constituent des exigences récurrentes, qui
+doivent garantir une bonne exécution du mandat imparti, pour le bénéfice,
+l'honneur et l'utilité du prince représenté >> (Péquignot, 2015, 110).
+
+
+2. Berridge perçoit trois grandes périodes dans l'histoire moderne des
+relations internationales, celle de l'ancienne diplomatie fondée sur le
+secret, celle de la nouvelle revendiquée par Wilson à la suite de la
+première guerre mondiale, qui s'appuie sur les organisations
+intergouvernementales et la transparence, celle de la contre-révolution
+depuis les années 1960, dont la particularité serait de renouer en partie
+avec les principes de l'ancienne diplomatie.
+
+
+3. Face à cette peinture, l'observateur ne perçoit que dans un second
+temps en se déplaçant et en regardant << de côté  - la figure d'un crâne
+
+
+humain dessiné en anamorphose sur le sol.
+
+
+Liste des sigles
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+RCEP
+
+
+RSS
+
+
+SACU
+
+
+SDN
+
+
+SEAE
+
+
+SIDS
+
+
+SOM
+
+
+PNUD
+
+
+PNUE
+
+
+PTCI
+
+
+R2P
+
+
+Programme des Nations unies pour le développement
+
+
+Programme des Nations unies sur l'environnement
+
+
+Partenariat transatlantique
+
+
+l'investissement
+
+
+Responsabilité de protéger
+
+
+pour le commerce et
+
+
+Asian Regional Comprehensive Economic Partnership
+
+
+Réformes du secteur de sécurité
+
+
+Southern African Custom Union
+
+
+Société des nations
+
+
+Service européen pour l'action extérieure
+
+
+Petits États insulaires en développement (Small Island
+
+
+Developing States)
+
+
+Réunion des fonctionnaires de haut niveau
+
+
+SWPD
+
+
+Dialogue entre les pays du Pacifique du Sud-Ouest
+
+
+(Southwest Pacific Dialogue)
+
+
+TABC
+
+
+Conseil transatlantique des entrepreneurs (Transatlantic
+
+
+Business Council)
+
+
+TABD
+
+
+Dialogue transatlantique des entrepreneurs (Transatlantic
+
+
+Business Dialogue)
+
+
+TIC
+
+
+Technologies de l'information et de la communication
+
+
+Ticad
+
+
+Conférence internationale de Tokyo sur le développement
+de l'Afrique (Tokyo International Conference on African
+
+
+TPP
+
+
+TTIP
+
+
+TUE
+
+
+UE
+
+
+UFM
+
+
+UKTI
+
+
+Unesco
+
+
+UNHCR
+
+
+Haut-Commissariat des Nations unies pour les réfugiés
+
+
+Unicef
+
+
+Fonds des Nations unies pour l'enfance
+
+
+URSS
+
+
+Union des Républiques socialistes soviétiques
+
+
+Usaid
+
+
+Agence des États-Unis pour le développement international
+
+
+(United States Agency for International Development)
+
+
+USIA
+
+
+Agence américaine de l'information (United
+
+
+States
+
+
+Information Agency)
+
+
+USIS
+
+
+Services d'information des États-Unis à l'étranger (United
+
+
+States Information Services)
+
+
+Development)
+
+
+Trans Pacific Partnership
+
+
+Partenariat transatlantique
+d'investissement (Transatlantic
+
+
+Partnership)
+
+
+Traité sur l'Union européenne
+
+
+Union européenne
+
+
+Union pour la Méditerranée
+
+
+UK Trade and Investment
+
+
+Organisation des Nations unies pour l'éducation, la science
+
+
+et la culture
+
+
+de commerce
+
+
+et
+
+
+Trade and Investment
+
+
+Index
+
+
+Ambassadeur 10, 11, 12, 13, 14, 18, 77, 133, 135, 141, 146, 151, 155, 221,
+318, 333, 353, 357
+
+
+Apartheid 119
+
+
+Arbitrage 11
+
+
+Archives d'Amarna 10
+
+
+Attaché militaire 30, 317, 318
+
+
+Autorité internationale 165, 187, 189, 190, 191
+
+
+Benchmarking 173
+
+
+Camp David 120, 122
+
+
+Cercle de Bilderberg 83, 233
+Celebrity diplomacy 333, 334
+Club de Rome 83
+
+
+Commission Trilatérale 83
+
+
+Comité international de la Croix-Rouge (CICR) 218, 240, 295
+
+
+Communication 9, 16, 27, 98, 99, 100, 101, 108, 109, 125, 130, 131, 132,
+
+
+156, 213, 219, 221, 258, 299, 323, 324, 325, 326, 328, 338, 356, 359
+Comprehensive Economic and Trade Agreement (CETA) 26, 202, 225
+Coalition 26, 32, 33, 55, 75, 91, 157, 221
+
+
+Confiance 14, 76, 78, 79, 80, 108, 115, 119, 123, 124, 126, 137, 159, 171,
+173, 174, 233, 235, 238, 239, 307, 308, 309, 310, 314, 315
+
+
+Congrès
+
+
+Berlin 14
+
+
+Paris 14
+
+
+Vienne 14, 44, 122, 133, 151, 355
+
+
+Westphalie 14, 25, 44, 45, 56, 248
+
+
+Conseil de sécurité 34, 46, 49, 53, 76, 77, 157, 162, 167, 188, 201, 219, 281,
+294, 356
+
+
+Consensus 51, 53, 54, 101, 120, 178, 236, 282, 350
+Consul 25, 29, 63, 67, 147, 152, 166, 247, 248
+
+
+Convictions 231, 234, 235
+
+
+Coopération 19, 26, 28, 29, 30, 33, 37, 38, 39, 40, 60, 67, 68, 79, 86, 87, 88,
+90, 91, 113, 164, 170, 171, 172, 173, 185, 200, 201, 204, 207, 208, 234,
+235, 251, 263, 267, 271, 272, 283, 308, 311, 314, 315, 317, 321, 326, 331
+Corps diplomatique 18, 149, 150, 151, 152, 153, 188
+
+
+Désinformation 105, 349
+
+
+Diplomatie parlementaire 45, 197, 202, 204, 205
+
+
+Diplomate 10, 15, 16, 20, 107, 108, 109, 123, 125, 135, 145, 152, 155, 156,
+
+
+157, 158, 159, 178, 188, 189, 213, 258, 259, 282, 285, 354, 356, 357
+Diplomatie
+
+
+Étymologie 17, 18
+
+
+Bilatérale 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+Catalytique 60
+
+
+Coercitive 53, 115, 221
+
+
+Digitale 100, 101, 102, 103
+
+
+Multilatérale 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
+
+
+Numérique 98, 99, 100
+
+
+Proche-Orient ancien 8, 9, 10
+
+
+Moderne 12, 13, 14
+
+
+Classique 10, 11, 12
+
+
+Polylatérale 215, 354
+
+
+Droit d'ingérence 241, 298
+
+
+Droit international humanitaire 128, 293
+
+
+Efficacité 130, 151, 160, 167, 175, 230, 236, 278, 354, 358
+
+
+Émotion 19, 113, 125, 136, 234, 235, 236, 237, 238, 239, 298, 301
+
+
+Florence 146
+
+
+Francophonie 49, 62, 71, 88, 89, 204, 205, 207, 267, 271, 273
+
+
+Grèce antique 8, 9, 10, 11
+
+
+Guerre économique 249
+
+
+Hollywood 324, 325, 326, 327, 328, 329, 331, 332, 336
+
+
+Infotainment 322, 337
+
+
+Leader 33, 76, 85, 86, 87, 88, 89, 90, 91, 178, 204, 228, 229, 230, 231, 232,
+
+
+233, 234, 235, 236, 292, 343, 347, 348, 350
+
+
+Leadership 54, 81, 96
+
+
+Légitimité 84, 85, 160, 140, 166, 167, 168, 170, 186, 219, 224
+Lettre de créance 14, 134, 135, 155
+
+
+Lobbying 31, 32, 102, 221, 258, 299, 342, 345, 346, 348
+
+
+Maintien de la paix 172, 188, 313
+
+
+Médécins sans frontières (MSF) 298
+
+
+Médias sociaux 94, 98, 103, 106, 107, 108, 110, 160, 350
+Ministère des Affaires étrangères (MAE) 105, 106, 107, 108
+
+
+Naming and shaming 298, 299, 301
+
+
+Négociation
+
+
+Définition 135, 175
+
+
+Approche comportementale 123
+
+
+- Approche stratégique 124
+
+
+Approche culturelle 122, 123
+Néofonctionnalisme 182, 183, 184, 185, 190
+Nonce 12, 13
+
+
+Organisation internationale du travail (OIT) 48
+
+
+Organisation des Nations unies (ONU) 26, 34, 43, 45, 46, 47, 49, 53, 55, 56,
+
+
+69, 86, 89, 107, 108, 150, 164, 178, 188, 204, 208, 209, 210, 215, 218, 277,
+279, 294, 295, 296, 297, 301, 302, 303, 333, 373
+
+
+Organisation mondiale du commerce (OMC) 34, 47, 49, 52, 53, 54, 55, 177,
+204, 221, 252, 253, 272, 280, 281
+
+
+Ouverture cognitive 234
+
+
+Partenariats bilatéraux 35
+
+
+Peer pressure 173, 174
+
+
+Perception 55, 118, 119, 123, 124, 125, 231, 234, 235, 237, 238, 315
+Personnalité juridique 168, 169, 170, 296
+
+
+Pratiques diplomatiques 9, 14, 15, 19, 130, 133, 155, 160, 166, 171, 182,
+
+
+187, 188, 189, 191, 196, 200, 202, 216, 217, 218, 219, 304, 358
+Poignée de main 118, 136, 137, 138
+
+
+Politique étrangère 8, 15, 18, 20, 60, 69, 71, 77, 87, 98, 100, 105, 107, 108,
+145, 149, 159, 156, 157, 158, 160, 165, 178, 181, 185, 196, 197, 200, 209,
+213, 228, 232, 235, 240, 263, 271, 273, 274, 301, 302, 303, 309, 313, 317,
+321, 322, 323, 343, 357
+
+
+Pourparlers 80, 81, 116, 120, 178
+
+
+Procurateur 12, 13
+
+
+Protocole 8, 9, 10, 36, 94, 129, 130, 133, 134, 135, 136, 139, 188
+Protodiplomatie 61, 63, 195, 196, 197
+
+
+Quai d'Orsay 34, 89, 147, 149, 152, 153, 157, 258, 267, 356
+
+
+Régime autoritaire 45, 264, 265, 335, 336
+
+
+Représentation 13, 16, 30, 39, 56, 68, 99, 109, 129, 149, 150, 151, 153, 156,
+
+
+157, 159, 166, 167, 203, 213, 214, 215, 217, 219, 224, 257, 259, 296, 354,
+359
+
+
+Réputation 174, 237, 271, 282, 313, 349
+
+
+Réseau diplomatique 69, 99, 105, 106, 107, 150, 203, 257, 317, 347
+
+
+Responsabilité de protéger 293, 294, 295
+
+
+Rituel 10, 11, 20, 130, 131, 132, 133, 134, 188
+
+
+Sécurité collective 45, 79, 246, 313, 314, 324
+
+
+Situation 139, 140
+
+
+Société civile 27, 30, 32, 33, 39, 102, 113, 219, 220, 221, 222, 223, 224, 285,
+286, 311, 336, 357
+
+
+Société des nations (SDN) 43, 164
+
+
+Soft power 90, 96, 263, 271, 309, 313, 314, 322, 323, 333, 335, 337, 338,
+342, 346
+
+
+Sommet
+
+
+Paris 286
+
+
+Rio 278, 285, 286
+Stockholm 276, 277
+
+
+Transatlantic Trade and Investment Partnership (TTIP) 26
+Twitter 94, 95, 100, 103, 104, 107, 108, 109, 159
+
+
+Union européenne 30, 31, 35, 40, 49, 54, 55, 60, 64, 68, 69, 70, 71, 78, 79,
+80, 84, 85, 102, 107, 147, 148, 155, 157, 158, 160, 169, 173, 174, 176, 177,
+178, 182, 185, 201, 202, 204, 233, 259, 271, 272, 296, 307, 308, 342
+
+
+Véto 46, 53, 55, 157, 168, 190
+
+
+Visites 27, 28, 30, 32, 36, 68, 136, 137, 139, 204, 205, 206, 207, 334, 348
+
+
+Wikileaks 96, 156
+
+
+Table des documents
+
+
+Illustration
+1
+
+
+Effectifs de la diplomatie multilatérale onusienne à New
+York
+
+
+Illustration
+
+
+Effectifs de la diplomatie multilatérale onusienne à Genève
+
+
+2
+
+
+Illustration
+
+
+Effectifs de la diplomatie multilatérale onusienne à Vienne
+
+
+3
+
+
+Tableau 1
+
+
+Typologie de divers régimes politiques en relation avec
+l'autonomie des gouvernements non centraux
+
+
+Tableau 1
+
+
+Les principaux instruments internationaux des droits de
+l'homme et du droit international humanitaire
+
+
+Figure 1
+
+
+L'effet boomerang
+
+
+Bibliographie générale
+
+
+ADLER Emmanuel, « The spread of security communities. Communities of
+practice, self-restraint, and NATO's post-cold war transformation »,
+European Journal of International Relations, 2 (14), 2008, p. 195-230.
+
+
+ADLER-NISSEN Rebecca, Opting out of the European Union. Diplomacy,
+Sovereignty and European Integration, Cambridge, Cambridge University
+Press, 2014.
+
+
+ADLER-NISSEN Rebecca, « Relationalism or why diplomats find international
+theory strange », dans Ole J. Sending, Vincent Pouliot, Iver B. Neumann
+(eds), Diplomacy and the Making of World Politics, Cambridge,
+Cambridge University Press, 2015, p. 284-308.
+
+
+ALDECOA Francisco, KEATING Michael (eds), Paradiplomacy in Action. The
+Foreign Relations of Subnational Governments, Londres, Frank Cass
+Publishers, 1999.
+
+
+ALLES Delphine, GUILBAUD, Auriane, « Les relations internationales: genèse et
+évolutions d'un champ d'étude  , dans Christophe Roux, Eric Savarese
+(dir.), Manuel de science politique, Bruxelles, Larcier, 2017, p. 239-254.
+ALLISON Graham T., ZELIKOW Philipp, The Essence of Decision. Explaining the
+
+
+Cuban Missile Crisis, Londres, Longman, 1999.
+
+
+ALVAREZ José E., International Organizations as Law-makers, Oxford, Oxford
+University Press, 2005.
+
+
+ANDRETTA Stefano, PÉQUIGNOT Stéphane, WAQUET Jean-Claude (dir.), De
+l'ambassadeur. Les écrits relatifs à l'ambassadeur et à l'art de négocier
+du Moyen Âge au début du $XIX^{e}$ siècle, Rome, Collection de l'École
+française de Rome, 2015.
+
+
+ANHOLT Simon, « Beyond the nation brand. The role of image and identity in
+international relations », Exchange. The Journal of Public Diplomacy, 2
+(1), 2013,  . 6-12.
+
+
+ARCHETTI Cristina << The impact of new media on diplomatic practice. An
+evolutionary model of change  , Hague Journal of Diplomacy, 7 (2), 2012,
+p. 181-206.
+
+
+ARNDT Richard T., The First Resort of Kings. American Cultural Diplomacy in
+the Twentieth Century, Washington D.C., Potomac Books, 2005.
+ARODIRIK Hakan D., « La diplomatie culturelle comme un instrument de la
+diplomatie publique la diplomatie culturelle chinoise dans le contexte
+
+
+d'institut Confucius », independent.academia.edu/arodirikhakandavid,
+2015.
+
+
+ARON Raymond, Paix et guerre entre les nations, Paris, Calmann-Lévy, 1962.
+ATKINSON Carol, Military Soft Power. Public Diplomacy Through Military
+Educational Exchanges, New York (N. Y.), Rowman & Littlefield
+Publishers, 2014.
+
+
+AUDINET Maxime, « La voix de Moscou trouble le concert de l'information
+internationale  , Le Monde diplomatique, avril 2017.
+
+
+AXELROD Robert, The Complexity of Cooperation, Princeton (N. J.), Princeton
+University Press, 1997.
+
+
+AYKUT Stefan, DAHAN Amy, Gouverner le climat ? 20 ans de négociations
+internationales, Paris, Presses de Science Po, 2015.
+
+
+AZEMA Jean-Pierre, BEDARIDA François, 1938-1948. Les années de tourmente
+
+
+de Munich à Prague, Paris, Flammarion, 1995.
+
+
+BADEL Laurence, Diplomatie et grands contrats. L'État français et les marchés
+extérieurs au $XX^{e}$ siècle, Paris, Publications de la Sorbonne, 2010.
+
+
+BADEL Laurence, « CNPF-International, acteur du dialogue Asie-Europe
+(ASEM): jalons pour une recherche historique sur les interrégionalismes
+>», dans Pierre Tilly, Vincent Dujardin (dir.), Hommes et réseaux. Belgique,
+Europe et Outre-Mers. Liber amicorum Michel Dumoulin, Bruxelles, Peter
+Lang, 2013, p. 193-202.
+
+
+BADIE Bertrand, Le Diplomate et l'Intrus. L'entrée des sociétés dans l'arène
+internationale, Paris, Fayard, 2008.
+
+
+BADIE Bertrand, FOUCHER Michel, Vers un monde néo-national ?, Paris, CNRS
+Éditions, 2017.
+
+
+BAGNATO Bruna, Prove di Ostpolitik. Politica ed economia nella strategia
+italiana verso l'Unione Sovietica (1958-1963), Florence, Leo S. Olschli,
+2003.
+
+
+BAIL Christoph, FALKNER Robert, MARQUARD Helen (eds), The Cartagena
+Protocol on Biosafety. Reconciling Trade in Biotechnology with
+Environment and Development ?, Londres, RIIA/Earthscan, 2002.
+
+
+BALZACQ Thierry, RAMEL Frédéric (dir.), Traité de relations internationales,
+Paris, Presses de Sciences Po, 2013.
+
+
+BARBER Brian, What Diplomats Do. The Life and Work of Diplomats, Lanham
+(Md.), Rowman and Littlefield, 2016.
+
+
+BARNETT Michael, FINNEMORE Martha, Rules for the World. International
+Organizations in Global Politics, Ithaca (N. Y.), Cornell University Press,
+2004.
+
+
+BENNETT James,  Historicising celebrity studies », Journal of Celebrity
+Studies, 1 (3), 2010, p. 358-359.
+
+
+BERCOVITCH Jacob, Theory and Practice of International Mediation. Selected
+Essays, Londres, Routledge, 2014.
+
+
+BERNAYS Edward L., Propaganda, New York (N. Y.), Liveright Publishing,
+1928.
+
+
+BERRIDGE Geoffrey R., Diplomacy. Theory and Practice, Basingstoke, Palgrave
+Macmillan, 2010.
+
+
+BERRIDGE Geoffrey R., The Counter-Revolution in Diplomacy and Other
+Essays, Basingstoke, Palgrave Macmillan, 2011.
+
+
+BERRIDGE Geoffrey R., Diplomacy. Theory and Practice, Basingstoke, Palgrave
+Macmillan, 2015.
+
+
+«
+
+
+BETTATI Mario, « Du droit d'ingérence à la responsabilité de protéger »,
+Outre-terre, 20 (3), 2007, p. 381-389.
+BIERMANN Frank, SIEBENHUNER Bernd,
+The influence of international
+bureaucracies in world politics. Findings from the MANUS Research
+Program  , dans Frank Biermann, Bernd Siebenhuner (eds), Managers of
+Global Change. The Influence of International Environmental
+Bureaucracies, Cambridge (Mass.), The MIT Press, 2009.
+
+
+BJOLA Corneliu, HOLMES Marcus (eds), Digital Diplomacy. Theory and
+Practice, Londres, Routledge, 2015.
+
+
+BJOLA Corneliu, JIANG Lu, « Social media and public diplomacy. A comparative
+analysis of the digital diplomatic strategies of the EU, US and Japan in
+China », dans Corneliu Bjola, Marcus Holmes (eds), Digital Diplomacy.
+Theory and Practice, Londres, Routledge, 2015.
+
+
+BJOLA Corneliu, KORNPROBST Markus, Understanding International Diplomacy.
+Theory, Practice and Ethics, Londres, Routledge, 2013.
+
+
+BLAIN Christophe, LANZAC Abel, Quai d'Orsay, Paris, Dargaud, 2010.
+BLANNIN Patrick, Defence Diplomacy in the Long War, Leiden, Martinus
+
+
+Nijhoff, Brill Research Perspectives, 2017.
+
+
+BOGART Leo, Cool Words, Cold War, Washington D.C., The American
+University Press, 1995.
+
+
+BONIFACE Pascal, VERSCHUUREN PIM Billion, DIDIER ROMAIN Aby, « La diplomatie
+sportive qatarie. Le "sport power" : le sport au service de la
+reconnaissance internationale du Qatar  , Diplosport, IRIS/CSFRS, 2012.
+BOORSTIN Daniel, The Image or What Happened to the American Dream,
+
+
+Londres, Weidenfeld & Nicholson, 1961.
+
+
+«
+
+
+BORGER Julian, RANKIN Jennifer, LYONS Kate,
+The rise and rise of
+international diplomacy by WhatsApp  , The Guardian, 4 novembre, 2016,
+www.theguardian.com/technology/2016/nov/04/why-do-diplomats-use-this-
+alien-whatsapp-emoji-for-vladimir-putin [consulté le 13 juin 2018].
+
+
+BRANDS Hal, INBODEN William,  Wisdom without tears. Statecraft and the
+uses of history  , Journal of Strategic Studies, à paraître, 2018.
+BRAUMAN Rony, Humanitaire, diplomatie et droits de l'homme, Paris, Éditions
+du Cygne, 2009.
+
+
+BROWN Katherine A., GREEN Shannon N., WANG Jian "Jay", « Public diplomacy
+and national security in 2017. Building alliances, fighting extremism, and
+dispelling disinformation  , CSIS, 2017,  . 1-17.
+
+
+BRYANT William, Japanese Private Economic Diplomacy. An Analysis of
+Business Governement Linkages, New York (N. Y.), Praeger, 1975.
+
+
+BRYSK Alison, Global Good Samaritans. Human Rights as Foreign Policy,
+Oxford, Oxford University Press, 2009.
+
+
+BUHLER Pierre, La Puissance au $XXI^{e}$ siècle. Les nouvelles définitions du
+monde, Paris, CNRS Éditions, 2011.
+
+
+BURKE Peter, « La reconstruction des rituels politiques au siècle de Louis XIV
+> , dans Yves Deloye, Claudine Haroche, Olivier Ihl (dir.), Le Protocole ou
+la mise en forme de l'ordre politique, Paris, L'Harmattan, 1999,  . 171-
+183.
+
+
+BURNS N., Kanji L., « Illustrations and influence. Soft diplomacy and nation
+branding through popular culture », Harvard International Review, 18
+avril 2016.
+
+
+CAIN Frank, Economic Statecraft during the Cold War. European Responses
+to the US Embargo, Londres, Routledge, 2007.
+
+
+CALHOUN Craig,  The idea of emergency. Humanitarian action and global
+(dis)order », dans Didier Fassin, Mariella Pandolfi (eds), Contemporary
+States of Emergency. The Politics of Humanitarian Interventions, New
+York (N. Y.), Zone Books, 2010, p. 29-58.
+
+
+CALLIÈRES François (DE), De la manière de négocier avec les souverains,
+Genève, Droz, 2002.
+
+
+CAMPBELL Brian, « Diplomacy in the Roman world (c. 400 BC-AD 235) »,
+Diplomacy and Statecraft, 12 (1), 2001, p. 1-22.
+
+
+CANAL-FORGUES Éric, Démocratie et diplomatie environnementales. Acteurs et
+processus en droit international, Paris, Pedone, 2015.
+
+
+CARRON DE LA CARRIÈRE Guy, La Diplomatie économique. Le diplomate et le
+marché, Paris, Economica, 1998.
+
+
+CENTRE FOR STRATEGIC STUDIES, « Regional defence diplomacy. What is it and
+what are its limits  , Strategic background paper, 21, 2015.
+CERTEAU Michel (DE), L'Invention du quotidien, vol. I, Arts et faire, Paris,
+Gallimard, 1980.
+
+
+CHALOUX Annie, PAQUIN Stéphane, SÉGUIN Hugo, « Federalism and climate
+change negotiations. The role of Québec  , International Negotiations, 15
+(1), 2015,  . 291-318.
+
+
+CHAMBON Albert, Mais que font ces diplomates entre deux cocktails ?, Paris,
+Pédone, 1983.
+
+
+CHARPIER Frédéric, La CIA en France. 60 ans d'ingérence dans les affaires
+françaises, Paris, Seuil, 2008.
+
+
+CHATIN Mathilde, GALLAROTTI Giulio (eds), Emerging Powers in International
+Politics. The BRICS and Soft Power, Londres, Routledge, 2017.
+
+
+CHEYRE Juan Emilio, « Defence diplomacy  , dans Andrew F. Cooper, Jorge
+Heine, Ramesh Thakur (eds), The Oxford Handbook of Modern
+Diplomacy, Oxford, Oxford University Press, 2013.
+
+
+COHEN Samy,
+«
+Les États face aux nouveaux acteurs », Politique
+internationale, 107, 2005,  . 409-424.
+
+
+COHEN Raymond, WESTBROOK Raymond, Amarna Diplomacy. The Beginning of
+International Relations, Baltimore (Md.), Johns Hopkins University Press,
+2000.
+
+
+COHEN Raymond,  The great tradition. The spread of diplomacy in the ancien
+world  , Diplomacy and Statecraft, 1 (1), 2001, p. 23-38.
+
+
+COHEN Raymond, « Diplomacy through the ages », dans Pauline Kerr,
+Geoffrey Wiseman (eds), Diplomacy in a Globalizing World. Theories and
+Practices, Oxford, Oxford University Press, 2017, p. 21-36.
+
+
+COLLINS Randall, Interaction Ritual Chain, Princeton (N. J.), Princeton
+University Press, 2005.
+
+
+COLONOMOS Ariel, La Politique des oracles. Raconter le futur aujourd'hui,
+Paris, Albin Michel, 2014.
+
+
+COLSON Aurélien, « La négociation diplomatique au risque de la transparence
+: rôles et figures du secret envers des tiers  , Négociations, 1 (1), 2009.
+COMMISSION EUROPÉENNE, « Une nouvelle stratégie pour placer la culture au
+cœur des relations internationales de l'UE », Bruxelles, Communiqué de
+presse, 8 juin 2016.
+
+
+CONSTANTINOU Costas M., On the Way to Diplomacy, Minneapolis (Minn.),
+University of Minnesota Press, 1996.
+
+
+CONSTANTINOU Costas M., KERR Pauline, SHARP Paul (eds), Sage Handbook of
+Diplomacy, London, Sage, 2016.
+
+
+COOPER, Andrew F., Celebrity Diplomacy, Londres, Routledge, 2008.
+COOPER, Andrew F., The Disintermediation Dilemma and its Impact on
+Diplomacy, Project
+«
+Diplomacy in the 21st Century », Stiftung
+Wissenschaft und Politik (SWP)/German Institute for International and
+Security Affairs, 2017.
+
+
+COOPER Andrew, HEINE Jorge, THAKUR Ramesh (eds), The Oxford Handbook of
+Modern Diplomacy, Oxford, Oxford University Press, 2013.
+COPELAND Daryl, Guerrilla Diplomacy. Rethinking International Relations,
+Boulder (Colo.), Lynne Rienner, 2009.
+
+
+CORNAGO Noé, Plural Diplomacies. Normative Predicaments and Functional
+Imperatives, Leiden/Boston, Martinus Nijhoff Publishers, 2013.
+COTTEY Andrew, FORSTER Anthony, « Reshaping defence diplomacy. New roles
+for military cooperation and assistance  , Adelphi Papers, 44 (365),
+Londres, Routledge, 2004,  . 1-84.
+
+
+CREEL G., How We Advertised America, New York (N. Y.), Harper & Brothers,
+1920.
+
+
+CRIEKEMANS David (ed.), Regional Sub-State Diplomacy Today, Leiden, Brill,
+2011.
+
+
+CROSS David, MAI'A K., The European Diplomatic Corps. Diplomats and
+International Cooperation from Westphalia to Maastricht, Basingstoke,
+Palgrave Macmillan, 2007.
+
+
+CULL Nicholas J.,  Auteurs of ideology. USIA documentary film propaganda in
+the Kennedy Era  , Film History, 10, 1998, p. 298-310.
+
+
+CULL Nicholas J., The Cold War and the United States Information Agency.
+American Propaganda and Public Diplomacy (1945-1989), Cambridge,
+Cambridge University Press, 2008.
+
+
+CULL Nicholas, COWAN Geoffrey, « Public diplomacy in a changing world »,
+Annals of the American Academy of Political and Social Science, 616 (1),
+2008,  . 6-8.
+
+
+DAKOWSKA Dorota, Le Pouvoir des fondations. Des acteurs de la politique
+étrangère allemande, Rennes, Presses universitaires de Rennes, 2014.
+DANES Pierre, « Conseils à un ambassadeur », Revue d'histoire diplomatique,
+28-29, [1561] 1914-15,  . 607-612.
+
+
+DANIELS Alison, CHILDS Rosie,  A digital campaign like no other. Supporting
+the preventing sexual violence in conflict initiative  , Foreign and
+Commonwealth Office, 2014.
+
+
+DATTA-RAY Deep K., The Making of Indian Diplomacy. A Critique of
+Eurocentrism, Oxford, Oxford University Press, 2015.
+
+
+DAVUTOGLU Ahmet, « Turkey's humanitarian diplomacy. Objectives, challenges
+and prospects », Nationalities Papers. The Journal of Naitonalism and
+Ethnicity, 41 (6), 2013, p. 865-870.
+
+
+DEATH Carl, <«< Summit theatre. Exemplary governmentality and environmental
+diplomacy in Johannesburg and Copenhagen », Environmental Politics, 20
+(1), 2011,  . 1-19.
+
+
+DEJAMMET Alain, L'Archipel de la gouvernance mondiale. ONU, G7, G8, G20,
+Paris, Dalloz, 2012.
+
+
+DELCORDE Raoul, « L'évolution du métier de diplomate  , dans Tanguy de
+Wilde d'Estmael, Michel Liégeois, Raoul Delcorde (dir.), La Diplomatie au
+cœur des turbulences internationales, Louvain, Presses de l'UCL, 2014, p.
+41-54.
+
+
+DELOYE Yves, HAROCHE Claudine, IHL Olivier (dir.), Le Protocole ou la mise en
+forme de l'ordre politique, Paris, L'Harmattan, 1999.
+
+
+DELOYE Yves, « Protocole et politique. Formes, rituels, préséances », dans
+Yves Deloye, Claudine Haroche, Olivier Ihl (dir.), Le Protocole ou la mise
+en forme de l'ordre politique, Paris, L'Harmattan, 1999,  . 11-18.
+
+
+DER DERIAN James,  Mediating estrangement. A theory of diplomacy »,
+Review of International Studies, 13 (2), 1987,  . 91-110.
+
+
+DER DERIAN James, On Diplomacy. A Genealogy of Western Enstrangement,
+Oxford, Basil Blackwell, 1987.
+
+
+DEVIN Guillaume,  Les diplomaties de la politique étrangère  , dans Frédéric
+Charillon (dir.), Politique étrangère. Nouveaux regards, Paris, Presses de
+Sciences Po, 2002.
+
+
+DEVIN Guillaume, « Paroles de diplomates: comment les négociations
+multilatérales changent la diplomatie  , dans Franck Petiteville, Delphine
+Placidi-Frot (dir.), Négociations internationales, Paris, Presses de
+Sciences Po, 2013, p. 77-104.
+
+
+DEVIN Guillaume, Les Organisations internationales, Paris, Armand Colin,
+2016.
+
+
+DIAMOND Louise, MCDONALD John, Multi-Track Diplomacy. A System Approach
+to Peace, West Hartford (Conn.), Kumarian Press, 1996.
+
+
+DIZARD Wilson P., The Strategy of Truth. The Story of the US Information
+
+
+Service, Washington D.C., Public Affairs Press, 1961.
+
+
+DOBSON Alan P., US Economic Statecraft for Survival (1933-1991). Of
+Embargoes, Strategic Embargoes, and Economic Warfare, Londres,
+Routledge, 2012.
+
+
+DOISE Jean, VAÏSSE Maurice, Diplomatie et outil militaire. Politique étrangère
+de la France (1871-2015), Paris, Seuil, 2015.
+
+
+DOLCOS Sanda, « The power of a handshake. Neural correlates of evaluative
+judgments in observed social interactions », Journal of Cognitive
+Neuroscience, 24 (12), 2012, p. 2292-2305.
+
+
+DROUHAUD Pascal, <<< L'UMP et les relations internationales  , Revue
+internationale et stratégique, 55 (3), 2004,  . 11-18.
+
+
+DUCHACEK Ivo D., « Perforated sovereignties. Towards a typology of new
+actors in international relations  , dans Hans J. Michelmann, Panayotis
+Soldatos (eds), Federalism and International Relations. The Role of
+Subnational Units, Oxford, Oxford University Press, 1990, p. 1-33.
+
+
+DUNANT Henry (1862), Un souvenir de Solferino, Genève, Comité
+international de la Croix-Rouge, 1990.
+
+
+DUPONT Christophe, La Négociation post-moderne. Bilan des connaissances,
+acquis et lacunes, perspectives, Paris, Publibook, 2006.
+
+
+DURKEIM Émile, Les Formes élémentaires de la vie religieuse. Le système
+totémique en Australie, Paris, Presses universitaires de France, 1912.
+DYER MACCANN Richard, « Film and foreign policy. The USIA (1962-1967) »,
+Cinema Journal, 1969, p. 23-42.
+
+
+EILERS Claude, Diplomats and Diplomacy in the Roman World, Leiden/Boston,
+Brill, 2009.
+
+
+ELIAS Norbert, La Société de cour, Paris, Calmann-Lévy, 1974.
+
+
+ELLUL Jacques, « Les caractères de la propagande », dans Propagandes,
+Paris, Economica, 1990.
+
+
+FABIUS Laurent, « La diplomatie économique, une priorité pour la France >>,
+Les Échos, 23 août 2012, http://lecercle.lesechos.fr
+
+
+FAURE Guy Olivier, ZARTMAN William I., Negotiating with Terrorists. Strategy,
+Tactis and Politics, Londres, Routledge, 2010.
+
+
+FAUVET Anne, « Au cœur des réseaux d'affaires français en Asie du Nord-Est.
+Roger Chambard, premier ambassadeur de France en Corée du Sud
+(années 1950-1980) », Relations internationales, 3 (167), 2016,  . 113-
+126.
+
+
+FAYET Jean-François, « VOKS. The third dimension of Soviet foreign policy »,
+dans Jessica C. E. Gienow-Hecht, Mark C. Donfried (eds), Searching for a
+cultural Diplomacy, New York (N. Y.)/Oxford, Berghahn, 2013, p. 33-50.
+
+
+FINK Carol, FROHN Axel, HEIDEKING Jürgen (eds), Genoa, Rapallo, and
+European Reconstruction in 1922, Cambridge, Cambridge University
+Press, 2002.
+
+
+FITRIANI Evi, Southeast Asians and the Asia-Europe Meeting (ASEM),
+Singapour, ISEAS, 2014.
+
+
+FLETCHER Catherine, Diplomacy in Renaissance Rome. The Rise of the
+Resident Ambassador, Cambridge, Cambridge University Press, 2015.
+FLETCHER Tom, Naked Diplomacy. Power and Statecraft in the Digital Age,
+Londres, William Collins, 2016.
+
+
+FONTANA Alessandro, « Les ambassadeurs après 1494. La diplomatie et la
+politique nouvelles », Cahiers de la Renaissance italienne, 3, 1994,  . 143-
+178.
+
+
+FORET François, Légitimer l'Europe. Pouvoir et symbolique à l'ère de la
+gouvernance, Paris, Presses de Sciences Po, 2008.
+
+
+FOYER Jean (dir.), Regards croisés sur Rio+20. La modernisation écologique à
+l'épreuve, Paris, CNRS Éditions, 2015.
+
+
+FOYER Jean, « Dans les coulisses de la COP21 », La Vie des idées, 23 février
+2016, www.laviedesidees.fr/Dans-les-coulisses-de-la-COP21.html
+
+
+FREEMAN Chas W. Jr, The Diplomat's Dictionary, Institute for National
+Strategic Studies, Washington D.C., National Defense University Press,
+1994.
+
+
+FRIMAN H. Richard (ed.), The Politics of Leverage in International Relations.
+Name, Shame, and Sanctions, Basingstoke, Palgrave Macmillan, 2015.
+FRY Earl H., «The role of US state governments in international relations and
+international negotiations (1980-2016) », International Negotiation, 22
+(1), 2017.
+
+
+GAGNON Bernard, PALARD Jacques, « Relations internationales des régions et
+fédéralisme. Les provinces canadiennes dans le contexte de l'intégration
+nord-américaine », Revue internationale de politique comparée, 12 (2),
+2005.
+
+
+GEERTZ Clifford, Savoir local, savoir global, Paris, Presses universitaires de
+France, 1986.
+
+
+GENEVA CENTRE FOR THE DEMOCRATIC CONTROL OF ARMED FORCES, Les Attachés
+de défense, Genève, DCAF, 2008.
+
+
+GEROLYMATOS Andre, Espionage and Treason. A Study of the Proxeny in
+Political and Military Intelligence Gathering in Classical Greece, Leiden,
+Brill, 1986.
+
+
+GILBOA Eytan, « Digital diplomacy  , dans Constantinou Costas, Pauline Kerr,
+Paul Sharp (eds), The SAGE Handbook of Diplomacy, Londres, Sage,
+2016.
+
+
+GLUCKMAN Max, « Les rites de passage  , dans Max Gluckman (ed.), Essays
+on the Rituals of Social Relations, Manchester, Manchester University
+Press, 1966.
+
+
+GOFF Patricia M., « Cultural diplomacy », dans Andrew F. Cooper, Jorge
+Heine, Ramesh Thakur (eds), The Oxford Handbook of Modern
+Diplomacy, Oxford, Oxford University Press, 2013.
+
+
+GOFFMAN Erving, The Presentation of Self in Everyday Life, Londres, Penguin,
+1959.
+
+
+GOFFMAN Erving, Strategic Interaction, Philadelphie (Pa.), University of
+Pennsylvania Press, 1969.
+
+
+GOFFMAN Erving, Relations in Public. Microstudies of the Public Order, New
+York (N. Y.), Basic Books, 1971, p. 62-94.
+
+
+GOFFMAN Erving, Les Rites d'interaction, Paris, Minuit, 1974.
+
+
+GOMART Thomas,  La relation bilatérale: un genre de l'histoire des relations
+internationales  , Matériaux pour l'histoire de notre temps, 65-66, 2002,
+p. 65-68.
+
+
+GRANDPIERRE Véronique, Histoire de la Mésopotamie, Paris, Gallimard, 2010.
+GREEN F., American Propaganda Abroad, New York (N. Y.), Hippocrene Book,
+1988.
+
+
+GREMION Pierre, Intelligence de l'anticommunisme. Le congrès pour la liberté
+de la culture à Paris (1950-1975), Paris, Fayard, 1995.
+
+
+GRESLES François, « La "société militaire": son devenir à la lumière de la
+professionnalisation  , Revue française de sociologie, 44 (4), 2003,  . 777-
+798.
+
+
+GRIFFIN Nicholas, Ping-Pong Diplomacy. Ivor Montagu and the Astonishing
+Story Behind the Game, New York (N. Y.), Simon & Schuster, 2014.
+
+
+GROSSER Pierre, Traiter avec le diable ? Les vrais enjeux de la diplomatie au
+$XXI^{e}$ siècle, Paris, Odile Jacob, 2013.
+
+
+GUILBAUD Auriane, Business Partners. Firmes privées et gouvernance
+mondiale de la santé, Paris, Presses de Sciences Po, 2015.
+
+
+HAAS Ernst B., The Uniting of Europe, Palo Alto (Calif.), Stanford University
+Press, 1958.
+
+
+HAFNER-BURTON Emilie M., Making Human Rights a Reality, Princeton (N. J.),
+
+
+Princeton University Press, 2013.
+
+
+HAFTEL Yoram Z., HOFMANN Stephanie C., « Institutional authority and
+security cooperation within regional economic organizations », Journal of
+Peace Research, 54 (4), p. 484-498.
+
+
+HAFTEL Yoram Z., THOMPSON Alexander, « The independence of international
+organizations. Concept and applications  , Journal of Conflict Resolution,
+2 (50), 2006,  . 253-275.
+
+
+HAIZE Daniel, L'Action culturelle et de coopération de la France à l'étranger.
+Un réseau, des hommes, Paris, L'Harmattan, 2012.
+
+
+HAJNAL Peter, The G8 System and the G20. Evolution, Role, Documentation,
+Londres, Routledge, 2013.
+
+
+HAMMARSKJOLD Dag, « Address by the secretary general, foreign policy
+association  , Press Release SG/344, 21 octobre 1953.
+
+
+HANSON Fergus, « Baked in and Wired. eDiplomacy@State », Foreign Policy
+Paper Series, 30, Washington D.C., Brookings Institution, 2012.
+
+
+HAROCHE Claudine, « L'ordre dans les corps gestes, mouvements, postures.
+Éléments pour une anthropologie politique des préséances $(XVI^{e}-XVII^{e}$
+siècles) », dans Yves Deloye, Claudine Haroche, Olivier Ihl (dir.), Le
+Protocole ou la mise en forme de l'ordre politique, Paris, L'Harmattan,
+1999,  . 213-229.
+
+
+HARRISON Jane, Ancient Art and Ritual, Londres, Williams and Northgate,
+1913.
+
+
+HARROFF-TAVEL Marion, « La diplomatie humanitaire du Comité international
+
+
+de la Croix-Rouge », Relations internationales, 121 (5), 2005, p. 73-89.
+HARVIE Charles, KIMURA Fukunari, LEE Hyun-Hoon, New East Asian
+Regionalism. Causes, Progress and Country Perspectives, Northampton,
+Edward Elgar, 2005.
+
+
+HASSNER Pierre, La Terreur et l'Empire, vol. II, La Violence par la paix, Paris,
+Seuil, 2003.
+
+
+HAWKINS Darren, JACOBY Wade,  How agents matter  , dans Darren Hawkins,
+David Lake, Daniel Nielson, Michael Tierney (eds), Delegation and Agency
+in International Organizations, Cambridge, Cambridge University Press,
+2006.
+
+
+HEIL Jr., ALAN L., Voice of America. A History, New York (N. Y.), Columbia
+University Press, 2003.
+
+
+HILLS Alice, « Defence diplomacy and security sector reform », Contemporary
+Security Policy, 21 (1), 2000, p. 46-67.
+
+
+HOCHSTETLER Kathryn, « Civil society  , dans Andrew F. Cooper, Jorge Heine,
+Ramesh Thakur (eds), The Oxford Handbook of Modern Diplomacy,
+Oxford, Oxford University Press 2013,  . 176-191.
+
+
+HOCKING Brian, Localizing Foreign Policy. Non-Central Governments and
+Multilayered Diplomacy, Basingstoke, Palgrave Macmillan, 1993.
+HOCKING Brian, « Les intérêts internationaux des gouvernements régionaux :
+désuétude de l'interne et de l'externe ? », Études internationales, 253,
+1994,  . 409-420.
+
+
+HOCKING Brian,  Regionalism. An international relations perspective  , dans
+Michael Keating, John Loughlin (eds), The Political Economy of
+Regionalism, Londres, Frank Cass, 1995.
+
+
+HOCKING Brian, Foreign Ministries. Change and Adaptation, Basingstoke,
+Palgrave Macmillan, 1999.
+
+
+HOCKING Brian,  Gatekeepers and boundary spanners. Thinking about
+Foreign Ministries in the European Union », dans Brian Hocking, David
+Spence (eds), Foreign Ministries in the European Union. Integrating
+Diplomats, Basingstoke, Palgrave Macmillan, 2005, p. 1-17.
+
+
+HOCKING Brian, « The Ministry of Foreign Affairs and the national diplomatic
+system », dans Pauline Kerr, Geoffrey Wiseman, Diplomacy in a
+
+
+Globalizing World. Theories and Practices, Oxford, Oxford University
+Press, 2012, p. 123-140.
+
+
+<<
+
+
+HOCKING Brian,
+Diplomacy and foreign policy  , dans Costas M.
+Constaninou, Pauline Kerr, Paul Sharp (eds), The Sage Handbook of
+Diplomacy, Londres, Sage, 2016, p. 67-78.
+
+
+HOCKING Brian, MELISSEN Jan, Diplomacy in the Digital Age, La Hague,
+Clingendael Institute, 2015.
+
+
+HOCKING Brian, MELISSEN Jan, RIORDAN Shaun, SHARP Paul, « Integrative
+diplomacy for the 21st Century », China International Strategy Review, 1,
+2013,  . 53-88.
+
+
+HOCKING Brian, SPENCE David (eds), Foreign Ministries in the European
+Union. Integrating Diplomats, Basingstoke, Palgrave Macmillan, 2002.
+HOOGHE Liesbet, MARKS Gary, Multi-level Governance and European
+Integration, Lanham (Md.), Rowman and Littlefield Publishers, 2001.
+HOOGHE Liesbet, MARKS Gary, « Delegation and pooling in international
+organizations », Review of International Organizations, 10, 2014,  . 305-
+328.
+
+
+HOUSE OF COMMONS, The Strategic Defence Review White Paper, Londres,
+House of Commons, 1998.
+
+
+HUNTER Felt, « How NBA star Dennis Rodman came to stand between the
+world and nuclear war  , The Guardian, 14 septembre 2017.
+
+
+IISD, N.d., Bulletins des négociations de la Terre.
+
+
+INIS L. Claude Jr., Swords into Plowshares. The Problems and Progress of
+International Organization, New York (N. Y.), Random House, 1964.
+
+
+JACKSON Ian, The Economic Cold War. America, Britain, and East-West Trade
+
+
+(1948-1963), Basingstoke, Palgrave, 2001.
+
+
+JACQUES Julien, « L'Espagne en France. Les centres culturels espagnols dans
+l'Hexagone au $XX^{e}$ siècle », Paris, Université Paris-I Panthéon-Sorbonne,
+mémoire de master histoire des relations internationales et des mondes
+étrangers, 2015.
+
+
+JEONG Ho-Won, International Negotiation, Cambridge, Cambridge University
+Press, 2016.
+
+
+JEPSEN Henrik, « Nothing is Agreed until Everything is Agreed ». Issue
+Linkage in the International Climate Change Negotiations, Århus, Politica,
+2013.
+
+
+JERVIS Robert, Perception and Misperception in International Politics,
+Princeton (N. J.), Princeton University Press, 2017.
+JOANA Jean, Les Armées contemporaines, Paris, Presses de Sciences Po, 2012.
+JOHNSON Tana,
+Looking beyond states. Openings for international
+bureaucrats to enter the institutional design process », Review of
+International Organizations, 8, 2013, p. 499-519.
+
+
+<<
+
+
+JÖNSSON Christer, HALL Martin, « Communication an essential aspect of
+diplomacy », International Perspectives, 4 (2), 2003,  . 195-210.
+
+
+JÜNGERKES Sven, Diplomaten der Wirtschaft. Die Geschichte des Ost-
+Ausschusses der Deutschen Wirtschaft, Osnabrück, Fibre, 2012.
+KABIR Arafat,  Twiplomacy and the Iran nuclear deal  , The Diplomat, 11
+décembre 2013.
+
+
+KANDEL Maya, QUESSARD Maud (eds), Les Stratégies du smart power
+américain, Paris, Irsem, 2014.
+
+
+KANJI Laura, « Illustrations and influence. Soft diplomacy and nation branding
+through popular culture », Harvard International Review, 18, 2016.
+KANTCHEV Georgi, « Diplomats on Twitter. The good, the bad and the ugly »,
+Wall Street Journal, 24 février 2015.
+
+
+KARNS Margaret P., MINGST Karen A., « International organizations and
+diplomacy  , dans Andrew F. Cooper, Jorge Heine, Ramesh Thakur (eds),
+The Oxford Handbook of Modern Diplomacy, Oxford, Oxford University
+Press, 2013,  . 142-159.
+
+
+KARVONEN Lauri, SUNDELIUS Bengt, Internationalization and Foreign Policy
+Management, Aldershot, Gower, 1987.
+
+
+KECK Frédéric,  Goffman, Durkheim et les rites de la vie quotidienne »,
+Archives de philosophie, 75 (3), 2012,  . 471-492.
+
+
+KECK Margaret E., SIKKINK Kathryn, Activists Beyond Borders. Advocacy
+Networks in International Politics, Ithaca (N. Y.), Cornell University Press,
+1998.
+
+
+KELLNER Douglas, « Celebrity diplomacy, spectacle and Barack Obama »,
+Journal of Celebrity Studies, 1 (1), 2010, p. 121-123.
+
+
+KENNEDY David, A World of Struggle. How Power, Law, and Expertise Shape
+Global Political Economy, Princeton (N. J.), Princeton University Press,
+2018.
+
+
+KEOHANE Robert, After Hegemony. Cooperation and Discord in the World
+Political Economy, Princeton (N. J.), Princeton University Press, 1984.
+KEOHANE Robert, International Institutions and State Power, Boulder (Colo.),
+Westview, 1989.
+
+
+KERR Pauline, WISEMANN Geoffrey, « Introduction », dans Pauline Kerr,
+Geoffrey Wisemann (eds), Diplomacy in a Globalizing World. Theories and
+Practices, Oxford, Oxford University Press, 2017, p. 1-18.
+
+
+KERRY John, « Digital diplomacy. Adapting our diplomatic engagement »,
+DipNote, 6 mai 2013.
+
+
+KESSLER Marie-Christine, La Politique étrangère de la France. Acteurs et
+processus, Paris, Presses de Sciences Po, 1999.
+
+
+KESSLER Marie-Christine, Les Ambassadeurs, Paris, Presses de Sciences Po,
+2012.
+
+
+KIM Rakhyun E., « The emergent network structure of the multilateral
+environmental agreement system  , Global Environmental Change, 23 (5),
+2013,  . 980-991.
+
+
+KINGAH Stephen, QUILICONI, Cintia (eds), Global and Regional Leadership of
+BRICS Countries, New York (N. Y.), Springer, 2017.
+
+
+KIRTON John, G20 Governance for a Globalized World, Londres, Routledge,
+2015.
+
+
+KLEIN Asmara, LAPORTE Camille, SAIGET Marie (dir.), Les Bonnes Pratiques des
+organisations internationales, Paris, Presses de Sciences Po, 2015.
+KNUDSEN Dino, The Trilateral Commission and Global Governance. Informal
+
+
+Elite Diplomacy (1972-1982), Londres, Routledge, 2016.
+KRISHNAN Aparna, KURTZBERG Terri, NAQUIN Charles, « The curse of the
+smartphone. Electronic multitasking in negotiations », Negotiation
+Journal, 30 (2), 2014, p. 191-208.
+
+
+KROTZ Ulrich, SCHILD Joachim, Shaping Europe. France, Germany and
+Embedded Bilateralism from the Elysee Treaty to Twenty-First Century
+Politics, Oxford, Oxford University Press, 2012.
+
+
+KURBALIJA Jovan, « The impact of the internet and ICT on contemporary
+diplomacy  , dans Kerr Pauline, Wiseman Geoffrey (eds), Diplomacy in a
+Globalizing World. Theories and Practices, Oxford, Oxford University
+Press, 2012,  . 141-159.
+
+
+KUYPER Jonathan W., BACKSTRAND Karin, « Accountability and representation.
+Nonstate actors in UN climate diplomacy  , Global Environmental
+Politics, 16 (2), 2016,  . 61-81.
+
+
+«
+
+
+KUZNETSOV Alexander, Theory and Practice of Paradiplomacy. Subnational
+Governments in International Affairs, Londres, Routledge, coll.
+Routledge New Diplomatic Studies  , 2014.
+
+
+LACHAPELLE Guy, MALTAIS Bruno, « Diversité culturelle et stratégie sub-
+étatiques: le cas du Québec », Revue internationale de politique
+comparée, 12 (2), 2005.
+
+
+LANGHORNE Richard, « The regulation of diplomatic practice. The beginnings
+to the Vienna Convention on diplomatic practice (1961) », dans Christer
+Jönsson, Richard Langhorne (eds), Diplomacy, vol. II, History of
+Diplomacy, Londres, Sage, 2004, p. 315-333.
+
+
+LANXADE Jacques, TENZER Nicolas, Organiser la politique européenne et
+internationale de la France, Paris, La Documentation française, 2002.
+LASSWELL Harold, Propaganda Techniques in the World War, New York (N. Y.),
+Alfred A. Knopf, 1927.
+
+
+LEBOURG Nicolas, « Les dimensions internationales du Front national »,
+Pouvoirs, 57 (2), 2016,  . 105-113.
+
+
+LEE Donna, « The growing influence of business in UK diplomacy  ,
+International Studies Perspectives, 5, 2004, p. 50-54.
+
+
+LEE Donna, HUDSON David,  The old and new significance of political
+economy in diplomacy  , Review of International Studies, 30 (3), 2004,  .
+343-360.
+
+
+LEGUEY-FEILLEUX Jean-Robert, The Dynamics of Diplomacy, Boulder (Colo.),
+Lynne Rienner, 2009.
+
+
+LEIRA Halvard, « A conceptual history of diplomacy  , dans Costas M.
+Constaninou, Pauline Kerr, Paul Sharp (eds), The Sage Handbook of
+
+
+Diplomacy, Londres, Sage, 2016, p. 28-38.
+
+
+LEQUESNE Christian, « EU foreign policy through the lens of practice theory. A
+different approach to the European external action service », Cooperation
+and Conflict, 50 (3), 2015, p. 351-367.
+
+
+LEQUESNE Christian, Ethnographie du Quai d'Orsay. Les pratiques des
+diplomates français, Paris, CNRS Éditions, 2017.
+
+
+LEQUESNE Christian, PAQUIN Stéphane (eds), numéro spécial de la revue
+International Negotiation, « Federalism and international negotiation », 2
+(22), 2017.
+
+
+LITTOZ-MONNET Annabel (ed.), The Politics of Expertise in International
+Organizations. How International Bureaucracies Produce and Mobilize
+Knowledge, Londres, Routledge, 2017.
+
+
+LOMENIE (DE) L. H., comte de Brienne, Mémoires, Paris, 1919, vol. I.
+
+
+LORENZINI Sara, Due Germanie in Africa. La cooperazione allo sviluppo e la
+competizione per i mercati di materie prime e tecnologia, Florence,
+Polistampa, 2003.
+
+
+LORIOL Françoise, PIOTET Marc, DELFOLIE David, Splendeurs et misères du
+travail des diplomates, Paris, Hermann, 2013.
+
+
+LOUIS Marieke, « Un parlement mondial du travail ? Enquête sur un siècle de
+représentation tripartite à l'Organisation internationale du travail »,
+Revue française de science politique, 66 (1), 2016, p. 27-48.
+
+
+LOWENTHAL Abraham F., BERTUCCI Mariano E. (eds), Scholars, Policymakers,
+and International Affairs. Finding Common Cause, Baltimore (Md.), Johns
+Hopkins University Press, 2014.
+
+
+LUCAS Didier (dir.), Les Diplomates d'entreprise. Pouvoirs, réseaux, influence,
+Paris, Choiseul, 2012.
+
+
+MAILLARD Denis, « 1968-2008: le Biafra ou le sens de l'humanitaire »,
+Humanitaire, 18, 2008 https://journals.openedition.org/humanitaire/182
+[consulté le 24 février 2017].
+
+
+MANDELBAUM Michael, Mission Failure. America and the World in the Post
+Cold War Era, Oxford, Oxford University Press, 2016.
+
+
+MANOR Ilan, « The social network of foreign embassies in Israel  , Exploring
+Digital Diplomacy, 30 juillet 2014.
+
+
+MAULDE LA CLAVIÈRE M., La Diplomatie au temps de Machiavel, 3 vol., Paris,
+Ernest Leroux, 1892-1893.
+
+
+MATSUDA Yasuhiro, « An essay on China's military diplomacy. Examination of
+intentions in foreign strategy  , NIDS Security Reports, 7, 2006.
+MATSUURA Κoïchiro, « L'enjeu culturel au cœur des relations internationales »,
+
+
+Politique étrangère, 4, 2006,  . 1045-1057.
+
+
+MAUS Didier, « Le cadre institutionnel de la diplomatie parlementaire »,
+Parlement[s]. Revue d'histoire politique, 1 (17), 2012, p. 14-36.
+MAUSS Marcel, Essai sur le don. Forme et raison de l'échange dans les
+sociétés archaïques, Paris, Presses universitaires de France, 2007.
+
+
+MCHUGH James T., « Paradiplomacy, protodiplomacy and the foreign policy
+aspirations of Quebec and other Canadian provinces », Canadian Foreign
+Policy Journal, 21 (3), 2015, p. 238-256.
+
+
+MELISSEN Jan (dir.), The New Public Diplomacy. Soft Power in International
+Relations, Basingstoke, Palgrave Macmillan, 2005.
+
+
+MÉRAND Frédéric, HOFMANN Stephanie C., IRONDELLE Bastien, « Governance
+and state power. A network analysis of European security  , Journal of
+Common Market Studies, 49 (1), 2011,  . 121-147.
+
+
+MICHELMANN Hans (ed.), Foreign Relations in Federal Countries, Montréal,
+McGill University Press, 2009.
+
+
+MICHELMANN Hans J., SOLDATOS Panayotis (eds), Federalism and International
+Relations. The Role of Subnational Units, Oxford, Oxford University Press,
+1990.
+
+
+MINEAR Larry, SMITH Hazel, « Introduction  , dans Larry Minear, Hazel Smith
+(eds), Humanitarian Diplomacy. Practitioners and their Craft, New York
+(N. Y.), United Nations University Press, 2007, p. 1-4.
+
+
+MINGANT Nolwenn, « Hollywood et le Département d'État : une liaison
+dangereuse ? », Géo-économie, 58 (3), 2011,  . 67-73.
+MINISTRY OF DEFENCE, The Strategic Defence Review. A new Chapter, Londres,
+Ministry of Defence, 2002.
+
+
+MIRRELEES Tanner, Hearts and Mines. The US Empire's Culture Industry,
+Vancouver, Toronto, UBC Press, 2016.
+
+
+MOCK James R., LARSON Cedric, Words that Won the War. The Story of the
+Committee on Public Information (1917-1919), Princeton (N. J.), Princeton
+University Press, 1939.
+
+
+«
+
+
+MOEGLIN Jean-Marie, PÉQUIGNOT Stéphane, Diplomatie et
+relations
+au Moyen Âge $(IX^{e}-XV^{e}$ siècle), Paris, Presses
+
+
+internationales
+
+
+»
+universitaires de France, 2017.
+
+
+MORAN W. L., Les Lettres d'El Amarna, Paris, Cerf, 1987.
+
+
+MORAND James L., interview, Foreign Affairs Oral History Project Information
+Series, Arlington (Va.), The Association for Diplomatic Studies and
+Training, 9 juin 1994, VA: ADST 1998.
+
+
+MORGAN Roger, BRAY Caroline (eds), Partners and Rivals in Western Europe.
+Britain, France and Germany, Adlreshot, Gower Publishing Company,
+1986.
+
+
+MOURLON-DRUOL Emmanuel, ROMERO Federico (eds), International Summitry
+and Global Governance. The Rise of the G-7 and the European Council,
+Londres, Routledge, 2014.
+
+
+MULDOON James P. Jr., « The diplomacy of business  , Diplomacy & Statecraft,
+16 (2), 2005,  . 341-359.
+
+
+MULDOON James P., AVIEL JoAnn F., REITANO Richard, SULLIVAN Earl (eds), The
+New Dynamics of Multilateralism. Diplomacy, International Organizations,
+and Global Governance, Boulder (Colo.), Westview, 2010.
+
+
+NAGELSCHMIDT Martin, « Les systèmes à niveaux multiples dans les régions
+transfrontalières en Europe. Le cas du Rhin supérieur et des nouvelles
+coopérations à la frontière est de la RFA », Revue internationale de
+politique comparée, 12 (2), 2005, p. 223-236.
+
+
+NELSON Michael, War of the Black Heavens. The Battles of Western
+Broadcasting in the Cold War, Syracuse (N. Y.), Syracuse University Press,
+1997.
+
+
+NEUMANN Iver B., At Home with the Diplomats. Inside a European Foreign
+Ministry, Ithaca (N. Y.), Cornell University Press, 2012.
+
+
+NEWMAN Edward, THAKUR Ramesh, TIMAN John (eds), Multilateralism under
+Challenge ? Power, International Order and Structural Change, Tokyo,
+United Nations University Press, 2006.
+
+
+NICOLSON Harold, Diplomacy, Londres, Thornton Butterworth, 1939.
+NIELSON Daniel, TIERNEY Michael, « Delegation to international organizations.
+Agency theory and World Bank environmental reform », International
+Organization, 57, 2003, p. 241-276.
+
+
+NORMAN
+
+
+LEAR CENTER, USC,
+«
+https://learcenter.org/cultural-diplomacy-kcon [consulté le 13 juin 2018].
+
+
+The cultural diplomacy of KCON »,
+
+
+NYE Joseph,  Soft power  , Foreign Policy, 80, 1990,  . 153-171.
+
+
+NYE Joseph, Soft Power. The Means to Success in World Politics, New York (N.
+
+
+Y.), Public Affairs, 2004.
+
+
+NYE Joseph, The Future of Power, New York (N. Y.), Public Affairs, 2011.
+OCDE, L'Examen par les pairs, un instrument de l'OCDE pour la coopération
+
+
+et le changement, Paris, 2003.
+
+
+OCDE, Perspectives de l'OCDE sur la politique de la réglementation 2015.
+Commission européenne, Paris, 2015.
+
+
+ORIANO Michel << "Play it again, Sim": Sim Copans ambassadeur de la
+musique américaine en France », Revue française d'études américaines
+(RFEA), hors série, 2001,  . 6-15.
+
+
+ORSAM, « Symposium Japan-Turkey. Dialogue on global affairs », Meeting
+Evaluation, 8, août 2016.
+
+
+ORSINI Amandine, La Biodiversité sous influence ? Les lobbies industriels face
+aux politiques internationales d'environnement, Bruxelles, Éditions de
+l'université de Bruxelles, 2010.
+
+
+OUTREY Amédée, « Histoire et principes de l'administration française des
+Affaires étrangères », Revue française de science politique, 3, 1953, p.
+491-510.
+
+
+PAQUIN Stéphane, Paradiplomatie identitaire en Catalogne, Laval, Presses de
+l'université de Laval, 2003.
+
+
+PAQUIN Stéphane, Paradiplomatie et relations internationales. Théorie des
+stratégies internationales des régions face la mondialisation, Bruxelles,
+PIE/Peter Lang, 2004.
+
+
+PAQUIN Stéphane, « Les actions extérieures des entités sub-étatiques : quelle
+signification pour la politique comparée et les relations internationales ?
+
+
+ , Revue internationale de politique comparée, 12 (2), 2005,  . 129-142.
+PAQUIN Stéphane,  La paradiplomatie identitaire: le Québec, la Flandre et la
+Catalogne en relations internationales », Politique et sociétés, 23 (3),
+2005, р. 176-194.
+
+
+PAQUIN Stéphane,
+«
+Federalism and compliance with international
+agreements. Belgium and Canada compared  , The Hague Journal f
+Diplomacy, 5, 2010, p. 173-197.
+
+
+PAQUIN Stéphane, « Federalism and the governance of international trade
+negotiations in Canada. Comparing CUSFTA with CETA », International
+Journal, 68 (4), 2013,  . 545-552.
+
+
+PAQUIN Stéphane, KRAVAGNA Marine, MIN Reuchamps, « Paradiplomacy and
+international treaty making. Quebec and Wallonia compared  , dans Min
+Reuchamps (ed.), Minority Nations in Multinational Federations. A
+comparative study of Quebec and Wallonia, Londres, Routhledge, 2015, p.
+160-180.
+
+
+PELLS Richard, Not Like US. How Europeans Have Loved, Hated and
+Transformed American Culture Since World War II, New York (N. Y.),
+Basic Books, 1997.
+
+
+PÉQUIGNOT Stéphane, << Figure et normes de comportement des ambassadeurs
+dans les documents de la pratique. Un essai d'approche comparative (CA.
+1250-CA. 1440) », dans Stefano Andretta, Stéphane Péquignot, Jean-
+Claude Waquet (dir.), De l'ambassadeur. Les écrits relatifs à
+l'ambassadeur et à l'art de négocier du Moyen Âge au début du $XIX^{e}$
+siècle, Rome, École française de Rome, 2015,  . 87-111.
+
+
+PETITEVILLE Franck, PLACIDI-FROT Delphine (dir.),
+internationales, Paris, Presses de Sciences Po, 2013.
+
+
+Négociations
+
+
+PFISTER Roger, Apartheid South Africa and African States. From Pariah to
+Middle Power (1961-1994), Londres, Tauris Academic Studies, 2005.
+PIATTONI Simona, The Theory of Multi-level Governance. Conceptual,
+Empirical and Normative Challenges, Oxford, Oxford University Press,
+2010.
+
+
+PIGMAN Geoffrey Allen, Contemporary Diplomacy. Representation and
+Communication in a Globalized World, Cambridge, Polity Press, 2010.
+
+
+PIGMAN Geoffrey Allen, « The diplomacy of global and transnational firms »,
+dans Andrew F. Cooper, Jorge Heine, Ramesh Thakur (eds), The Oxford
+Handbook of Modern Diplomacy, Oxford, Oxford University Press, 2013,
+р. 192-208.
+
+
+PLANTEY Alain, La Négociation internationale au $XXI^{e}$ siècle, Paris, CNRS
+Éditions, 2002.
+
+
+POLLACK Mark, The Engines of European Integration. Delegation, Agency, and
+Agenda Setting in the EU, Oxford, Oxford University Press, 2003.
+
+
+POST Emily, Etiquette. The Blue Book of Social Usage, New York (N. Y.), Funk
+and Wagnall, 1940.
+
+
+POSTEL-VINAY Caroline, Le G20, laboratoire d'un monde émergent, Paris,
+Presses de Sciences Po, 2011.
+
+
+POULIOT Vincent, International Pecking Orders, Cambridge, Cambridge
+University Press, 2016.
+
+
+POULIOT Vincent, L'Ordre hiérarchique international, Paris, Presses de
+Sciences Po, 2017.
+
+
+POULIOT Vincent, CORNUT Jérémie, « Practice theory and the study of
+diplomacy. A research agenda », Cooperation and Conflict, 50 (3), 2015,
+p. 297-315.
+
+
+Public Diplomacy Magazine, « The power of non-state actors », University of
+Southern California, Los Angeles, 2014.
+
+
+PUTNAM Robert, « Diplomacy and domestic politics. The logic of two-level
+games  , International Organization, 42, 1988, p. 427-460.
+
+
+QUELLER Donald E., Dictionnary of the Middle Ages, New York (N. Y.),
+Scribner, 1984.
+
+
+RAMEL Frédéric, PRÉVOST-THOMAS Cécile, International Relations, Music and
+Diplomacy, Basingstoke, Palgrave Macmillan, 2018.
+
+
+RANA Kishan, Asian Diplomacy. The Foreign Ministries of China, India, Japan,
+Singapore and Thailand, Genève, DiploFoundation, 2007.
+
+
+RAPPAPORT Roy, Ritual and Religion in the Making of Humanity, Cambridge,
+Cambridge University Press, 1999.
+
+
+RASPAIL Hélène, « Contrôle de validité des actes juridiques des organisations
+internationales », dans Évelyne Lagrange, Jean-Marc Sorel (dir.), Droit
+des organisations internationales, Paris, LGDJ, 2013
+
+
+REWIZORSKI Marek, The European Union and the BRICS. Complex Relations in
+the Era of Global Governance, New York (N. Y.), Springer, 2016.
+RICHARDSON Ian, KAKABADSE Andrew, KAKABADSE Nada, Bilderberg People. Elite
+Power and Consensus in World Affairs Londres, Routledge, 2011.
+
+
+RISSE Thomas, SIKKINK Kathryn,  The socialization of international human
+rights norms into domestic practices: introduction », dans Thomas Risse,
+Stephen C. Ropp, Kathryn Sikkink (eds), The Power of Human Rights.
+International Norms and Domestic Change, Cambridge, Cambridge
+University Press, 1999, p. 1-38.
+
+
+ROCHE François, La Crise des institutions nationales d'échanges culturels en
+Europe, Paris, L'Harmattan, 1998.
+
+
+ROCHE François, « La diplomatie culturelle dans les relations bilatérales. Un
+essai d'approche typologique », Sens public, revue web, Université de
+Montréal, 2006.
+
+
+ROCHE François, PINIAU Bernard, Histoires de diplomatie culturelle des
+origines à 1995, Paris, Ministère des Affaires étrangères/ADPF, 1995.
+ROOSEN William,  Early modern diplomatic ceremonial. A system approach »,
+The Journal of Modern History, 52 (3), 1980,  . 452-476.
+
+
+ROSENAU James, Turbulance in World Politics. A Theory of Change and
+Continuity, Princeton (N. J.), Princeton University Press, 1990.
+
+
+ROSENBERG Emily, Spreading the American Dream. American Economic and
+Cultural Expansion (1890-1945), New York (N. Y.), Hill and Wang, 1982.
+ROSENBERG Emily, Financial Missionaries to the World. The Politics and
+Culture of Dollar Diplomacy (1900-1930), Durham (N.-C.), Duke
+University Press, 2003.
+
+
+Rosoux Valérie, <<< Négociation internationale », dans Thierry Balzacq,
+Frédéric Ramel (eds), Traité de relations internationales, Paris, Presses
+de Sciences Po, 2013, p. 795-821.
+
+
+ROSSELLI Mariangela,  Le projet politique de la langue française. Le rôle de
+l'alliance française  , Politix, 9 (36), 1996,  . 73-94.
+
+
+Roux Georges, La Mésopotamie, Paris, Seuil, 1995.
+
+
+ROZENTAL Andrés, BUENROSTO Alicia, « Bilateral diplomacy  , dans Cooper
+Andrew F., Heine Jorge, Thakur Ramesh (eds), The Oxford Handbook of
+Modern Diplomacy, Oxford, Oxford University Press, 2013, p. 229-246.
+RÜEL Huub, WOLTERS Tim, « Business diplomacy  , dans Costas Constantinou,
+Pauline Kerr, Paul Sharp (eds), The SAGE Handbook of Diplomacy,
+Londres, Sage, 2016, p. 564-576.
+
+
+RUGGIE John G. (ed.), Multilateralism Matters. The Theory and Praxis of An
+Institutional Form, New York (N. Y.), Columbia University Press, 1993.
+RYFMAN Philippe,
+
+
+«
+
+
+L'action humanitaire non gouvernementale : une
+
+
+diplomatie alternative ? », Politique étrangère, 3, 2010,  . 565-578.
+SANDHOLTZ Wayne, STONE SVWEET Alec (eds), European Integration and
+Supranational Governance, Oxford, Oxford University Press, 1998.
+
+
+SANER Raymond, YIU Lichia, « Business-governement-NGO relations. Their
+impact on global economic governance », dans Andrew F. Cooper, Brian
+Hocking, William Maley (eds), Global Governance and Diplomacy. Worlds
+Apart?, Basingstoke, Palgrave Macmillan, 2008, p. 85-103.
+
+
+SATOW Ernest M., A Guide to Diplomatic Practice, Londres, Longmans, Green
+& Co, 1922.
+
+
+SAULNIER Christine, « Le rôle des prêtres fétiaux et l'application du ius fetiale
+à Rome », Revue historique du droit français et étranger, 58 (2), 1980, р.
+171-199.
+
+
+SCHELLING Thomas C., Arms and Influence, New Haven (Conn.), Yale
+University Press, 1966.
+
+
+SCHELLING Thomas C., Stratégie du conflit, Paris, Presses universitaires de
+France, 1986.
+
+
+SCHIFFRIN Deborah,  Handwork as ceremony. The case of the handshake »,
+Semiotica, 12 (3), 1998,  . 189-202.
+
+
+SCHMIDT E., COHEN J., The New Digital Age. Reshaping the Future of People,
+Nations and Business, Londres, John Murray, 2013.
+
+
+SCHMITT Olivier, « International organization at war. NATO practices in the
+Afghan campaign  , Cooperation and Conflict, 52 (4), 2017,  . 502-518.
+SCHMITTER Philippe C.,
+A revised theory of regional integration »,
+
+
+«
+
+
+International Organization, 24 (4), 1970,  . 836-868.
+
+
+SCHWEIZER Peter, Reagan's War. The Epic Story of His Forty Years Struggle
+and First Triumph over Communism, New York (N. Y.), Doubleday, 2002.
+SEIB Philip, Real-Time Diplomacy. Politics and Power in the Social Media Era,
+Basingstoke, Palgrave Macmillan, 2012.
+
+
+SERRES Jean, Manuel politique du protocole, Paris, Éditions de la Bièvre,
+1992.
+
+
+SHARLACH T. M., « Diplomacy and the rituals of politics at the ur III court »,
+Journal of Cuneiform Politics, 57, 2005, р. 17-29.
+
+
+SHARP Paul, Diplomatic Theory of International Relations, Cambridge,
+Cambridge University Press, 1999.
+
+
+SIKKINK Kathryn, « The power of principled ideas. Human rights policies in
+the United States and Western Europe  , dans Judith Goldstein, Robert O.
+Keohane (eds), Ideas and Foreign Policy. Beliefs, Institutions, and Political
+Change, Ithaca (N. Y.), Cornell University Press, 1993,  . 139-170.
+
+
+SLAUGHTER Anne-Marie, A New World Order, Princeton (N. J.), Princeton
+University Press, 2004.
+
+
+SLAUGHTER Anne-Marie, « America's edge. Power in the networked century »,
+88 (1), 2009,  . 94-113.
+
+
+SLAUGHTER Anne-Marie, « How to succeed in the networked world. A grand
+strategy for the digital age  , Foreign Affairs, 95 (6), 2016,  . 76-89.
+SMITH Hazel, « Humanitarian diplomacy. Theory and practice », dans Larry
+Minear, Hazel Smith (eds), Humanitarian Diplomacy. Practitioners and
+their Craft, New York (N. Y.), United Nations University Press, 2007, p.
+36-62.
+
+
+SMOUTS Marie-Claude, BATTISTELLA Dario, PETITEVILLE Franck, VENNESSON
+Pascal (dir.), Dictionnaire des relations internationales, Paris, Dalloz,
+2003.
+
+
+SNIDAL Duncan, THOMPSON Alexander,  International commitments and
+domestic politics. Institutions and actors at two levels  , Daniel Drezner
+(ed.), dans Locating the Proper Authorities, Ann Arbor (Mich.), University
+of Michigan Press, 2003,  . 197-233.
+
+
+SNYDER Alvin, Warriors of Dinsinformation, New York (N. Y.), Arcade
+Publishing, 1995.
+
+
+SOLDATOS Panayotis, « An explanatory framework for the study of federated
+states as foreign-policy actors », dans Hans J. Michelmann, Panayotis
+Soldatos, Federalism and International Relations. The Role of Subnational
+Units, Oxford, Oxford Press, 1990, p. 34-38.
+
+
+SORENSON David, The Process and Politics of Defense Acquisition. A
+Reference Handbook, New York (N. Y.), Prager, 2008.
+
+
+SOUTOU Georges-Henri, L'Or et le Sang. Les buts de guerre économiques de la
+première guerre mondiale, Paris, Fayard, 1989.
+
+
+SPARKS Colin, « Global integration, state policy and the media  , dans Terry
+Flew, Petros Iosifidis, Jeannette Steemers (eds), Global Media and
+
+
+National Policies. The Return of the State, Basingstoke, Palgrave
+Macmillan, 2016, p. 49-74.
+
+
+STATE DEPARTMENT, Congressional Budget Justification for Foreign Operations,
+
+
+Washington D.C., SD, 2010.
+STOLLBERG-RILINGER
+Barbara,
+ 
+Zeremoniell, Ritual, Symbol. Neue
+Forschungen zur Symbolischen Kommunikation in Spätmittelalter und
+Früher Neuzeit », ZHF, 27, 2000, p. 389-405.
+
+
+STOLLBERG-RILINGER Barbara, ALTHOFF Gerd, GOETZMANN Jutta, PUHLE Matthias
+(Hrsg.), Spektakel der Macht. Rituale im Alten Europa (800-1800).
+Katalog- und Essayband zur Ausstellung des Kulturhistorischen Museums,
+Magdeburg, Darmstadt, 2008.
+
+
+STRANGE Susan, States and Markets, Londres, Pinter Publishers, 1988.
+
+
+STRANGE Susan, « States, firms and diplomacy  , International Affairs, 68 (1),
+1992,  . 1-15.
+
+
+STUENKEL Oliver, India-Brazil-South Africa Dialogue Forum (IBSA). The Rise of
+Global South, Londres, Routledge, 2016.
+
+
+SUSSKIND Lawrence E., ALI Saleem H., Environmental Diplomacy. Negotiating
+More Effective Global Agreements, Oxford, Oxford University Press, 2014.
+TAMBIAH Stanley J., « A performative approach to ritual », Proceedings of the
+British Academy, 65, 1979,  . 113-169.
+
+
+TANNOUS Manon-Nour, Chirac, Assad, et les autres. Les relations franco-
+syriennes depuis 1946, Paris, Presses universitaires de France, 2017.
+TAVARES Rodrigo, Paradiplomacy. Cities and States as Global Players, Oxford,
+Oxford University Press, 2016.
+
+
+TAYLOR Philip M., The Projection of Britain British Overseas Publicity and
+Propaganda (1919-1939), Cambridge, Cambridge University Press, 1981.
+TAYLOR Philip M., Munitions of the Mind. War Propaganda from the Ancient
+World to the Nuclear Age, Glasgow, Patrick Stephens, 1990.
+
+
+TENENBAUM Charles, « La médiation des organisations intergouvernementales
+: un maillon essentiel », dans Guillaume Devin (dir.), Faire la paix. La part
+des institutions internationales, Paris, Presses de Sciences Po, 2009, p.
+101-131.
+
+
+TENZER Nicolas, L'Expertise internationale au cœur de la diplomatie et de la
+coopération du $XXI^{e}$ siècle. Instruments pour une stratégie française de
+puissance et d'influence, rapport au Premier ministre, au ministre des
+Affaires étrangères et européennes, au ministre de l'Économie, de
+l'Industrie et de l'Emploi et au ministre du Budget, des Comptes publics
+et de la Fonction publique, Paris, La Documentation française, 2008.
+TENZER Nicolas, Quand la France disparaît du monde, Paris, Grasset, 2008.
+TENZER Nicolas,  Les marchés internationaux du droit une clé pour notre
+
+
+stratégie extérieure », Les Petites Affiches, 238, 2010.
+
+
+TENZER Nicolas, « L'expertise internationale », dans Thierry Balzacq, Frédéric
+Ramel (dir.), Traité de relations internationales, Paris, Presses de
+Sciences Po, 2013,  . 1169-1182.
+
+
+THAKUR Ramesh,  Multilateral diplomacy and the United Nations. Global
+governance. Venue or actor? », dans James P. Muldoon, JoAnn F. Aviel,
+Richard Reitano, Earl Sullivan (eds), The New Dynamics of
+Multilateralism. Diplomacy, International Organizations, and Global
+Governance, Boulder (Colo.), Westview, 2010.
+
+
+THERWATH Ingrid, « La diaspora indienne aux États-Unis comme acteur
+international », dans Christophe Jaffrelot (ed.), New Dehli et le monde,
+Paris, Autrement, 2008.
+
+
+THIEMEYER Guido, Internationalismus und Diplomatie. Währungspolitische
+Kooperation im europäischen Staatensystem (1865-1900), München,
+Oldenbourg, 2009.
+
+
+THOBIE Jacques,  L'emprunt ottoman 4% (1901-1905): le triptyque finance-
+industrie-diplomatie  , Relations internationales, 1, 1974, p. 71-85.
+THUDEROZ Christian, Petit traité du compromis. L'art des concessions, Paris,
+Presses universitaires de France, 2015.
+
+
+TOLBA Mostafa K. (ed.), Global Environmental Diplomacy, Negotiating
+Environmental Agreements for the World (1973-1992), Cambridge
+(Mass.), The MIT Press, 1998.
+
+
+TRACHTENBERG Marc, Reparation in World Politics. France and European
+Economic Diplomacy (1916-1923), New York (N. Y.), Columbia University
+Press, 1980.
+
+
+TUCH Hans, Communicating with the World, New York (N. Y.), St. Martin's
+Press, 1990.
+
+
+TWOMEY Anne, « Commonwealth of Australia  , dans Hans Michelmann (ed.),
+Foreign Relations in Federal Countries, Montréal, McGill University
+Press, 2009.
+
+
+<<< USIA. Films for export only  , Human Events, 27 février 1965, p. 6.
+
+
+VAÏSSE Maurice, La Puissance ou l'influence ? La France dans le monde
+
+
+depuis 1958, Paris, Fayard, 2009.
+
+
+VAN HAM Peter, Social Power in International Politics, Londres, Routledge,
+2010.
+
+
+VAN LANGENHOVE Luk, « The transformation of multilateralism. Mode 1.0 to
+
+
+Mode 2.0 », Global Policy, 1 (3), 2010,  . 263-270.
+
+
+VASSORT-ROUSSET Brigitte (ed.), Building Sustainable International Couples in
+International Relations. A Strategy Towards Peaceful Cooperation,
+Basingstoke, Palgrave Macmillan, 2014.
+
+
+VEUTHEY Michel, « Humanitarian diplomacy. Saving it when it is most needed
+> , dans Alexandre Vautravers, Yivita Fox (dir.), Humanitarian Space and
+the International Community. 16th Humanitarian Conference, Genève,
+Webster University, 2012,  . 195-209.
+
+
+VEYNE Paul, L'Empire gréco-romain, Paris, Seuil, 2005.
+
+
+VILTARD Yves,  Diplomatie des villes collectivités territoriales et relations
+internationales  , Politique étrangère, 3, 2010, p. 593-604.
+
+
+VON ESCHEN Penny M., Satchmo Blows up the World. Jazz Ambassadors Play
+the Cold War, Harvard (Mass.), Harvard University Press, 2004.
+WALDER Francis, Saint-Germain ou la négociation, Paris, Gallimard, 1992.
+WARLOUZET Laurent, << The centralization of EU competition policy. Historical
+institutionalist dynamics from cartel monitoring to merger control (1956-
+1991) », Journal of Common Market Studies, 2016,  . 725-741.
+WATSON Adam, Diplomacy. The Dialogue Between States, Londres, Eyre
+Methuen, 1984.
+
+
+WEINFELD Moshe,  Covenant making in Anatolia and Mesopotamia », Journal
+of the Ancient Near Eastern Society of Columbia University, 22, 1993,  .
+135-139.
+
+
+WENDLING Cécile,  L'approche globale dans la gestion civilo-militaire des
+crises: analyse critique et prospective du concept », Cahiers de l'Irsem,
+6, 2010.
+
+
+WENKEL Christian, Auf der Suche nach einem « anderen Deutschland ». Das
+Verhältnis Frankreichs zur DDR im Spannungsfeld von Perzeption und
+Diplomatie, Munich, De Gruyter Oldenbourg Verlag, 2014.
+
+
+WHEELER Nicholas J., Trusting Enemies. Interpersonal Relationships in
+International Conflict, Oxford, Oxford University Press, 2018.
+
+
+WIGHT Martin, Power Politics, Londres, Penguin Books, 1979.
+
+
+WIKE Richard, STOKES Bruce, POUSHTER Jacob, FETTEROLF Janell, « US image
+suffers as publics around world question Trump's leadership, America still
+wins praise for its people, culture and civil liberties », Pew Research
+Center, 2017,  . 1-108.
+
+
+WINHAM Gilbert, <<< Negotiation as a management process », World Politics, 30
+(1), 1977, p. 86-113.
+
+
+WIQUEFORT Abraham (DE), L'Ambassadeur, La Haye, Jean & Daniel Steucker,
+1680-1681.
+
+
+WISEMAN Geoffrey, << "Polylateralism". Diplomacy's third dimension », Public
+Diplomacy Magazine, 4, 2010,  . 24-39.
+
+
+WISEMAN Geoffrey, <<< Diplomatic practices at the United Nations »,
+
+
+Cooperation and Conflict, 50 (3), 2015, p. 316-333.
+
+
+WOOLCOCK Stephen, BAYNE Nicholas (eds), The New Economic Diplomacy.
+Decision-Making and Negotiation in International Economic Relations,
+Aldershot, Ashgate, 2007.
+
+
+WURSTHORN Kévin, « S'adapter en milieu hostile : l'institutionnalisation de la
+diplomatie d'entreprise du groupe Total au Moyen-Orient des années
+1950 aux années 1960 », Conférence à la journée d'étude De nouvelles
+pratiques diplomatiques ?, Paris, Paris-I Panthéon-Sorbonne, 14 octobre
+2016.
+
+
+WURSTHORN Kévin, « La Compagnie française des pétroles au Moyen-Orient :
+une diplomatie d'entreprise à l'avant-garde de la présence française dans
+les années 1950, Relations internationales 171 (3), 217,  . 85-96.
+
+
+XIE Tao, << China's soft power obsession  , The Diplomat, 2015, p. 27-34.
+
+
+ZARTMAN William I., « La politique étrangère et le règlement des conflits »,
+dans Frédéric Charillon (dir.), Politique étrangère. Nouveaux regards,
+Paris, Presses de Sciences Po, 2002, p. 275-300.
+
+
+ZARTMAN William I., Negotiation and Conflict Management. Essays in Theory
+and Practice, Londres, Routledge, 2008.
+
+
+ZARTMAN William I., « La multilatéralité internationale: essai de modélisation
+ , Négociations, 17 (1), 2012,  . 37-50.
+
+
+ZARTMAN William I., Preventing Deadly Conflict, Cambridge, Polity, 2015.
+ZHANG Shuguang, Beijing's Economic Statecraft during the Cold War (1949-
+1991), Baltimore (Md.), Johns Hopkins University Press, 2014.
+
+
+«
+
+
+ZIPPER DE FABIANI Henry,
+La "diplomatie de défense", composante
+essentielle de la diplomatie préventive. Vers une nouvelle symbiose entre
+diplomatie et défense », dans Centre Thucydide, Annuaire français des
+relations internationales, Paris, Bruylant, 2002, p. 614-629.
+
+
+ZÜRN Michael, BINDER Martin, ECKER-EHRHARDT Matthias,  International
+authority and its politicization », International Theory. A Journal of
+International Politics, Law and Philosophy, 4 (1), 2012,  . 69-106.
+
+
+Table des matières Liste
+des contributeurs
+
+
+Introduction - Histoire et théorie de la diplomatie
+Thierry Balzacq, Frédéric Charillon, Frédéric Ramel
+Le phénomène diplomatique dans l'histoire
+
+
+Réflexions théoriques sur la diplomatie
+Retour sur le concept de  diplomatie >>>
+À propos de ce manuel
+
+
+PREMIÈRE PARTIE - LES VECTEURS
+
+
+Chapitre 1 - La relation bilatérale
+Alice Pannier
+
+
+La conduite des relations bilatérales
+
+
+Les relations entre chefs d'État et de gouvernement
+Le rôle des ambassades
+
+
+Les autres acteurs politiques: parlements et partis
+
+
+Les entreprises
+
+
+La société civile
+
+
+Les relations bilatérales et le contexte multilatéral
+
+
+Qualifier les relations bilatérales
+
+
+Les relations bilatérales privilégiées
+
+
+Les relations bilatérales conflictuelles
+
+
+Les limites de la qualification
+
+
+Chapitre 2 - La diplomatie multilatérale
+Franck Petiteville, Delphine Placidi-Frot
+
+
+L'historicité de la diplomatie multilatérale
+
+
+L'adaptation des appareils diplomatiques des États au multilatéralisme
+
+
+L'omniprésence des négociations multilatérales dans les relations
+internationales
+
+
+Chapitre 3 - La paradiplomatie
+
+
+Stéphane Paquin
+
+
+Le concept de paradiplomatie en débats
+
+
+Intensité du phénomène
+
+
+Constitution et gouvernements non centraux
+
+
+Quel type d'acteurs internationaux ?
+
+
+Chapitre 4 - Diplomaties de clubs et de groupes
+Christian Lechervy
+
+
+Quelques raisons pour travailler en groupes restreints et informels
+Une praxis durable
+
+
+Se réunir informellement pour réfléchir et agir en toute confidentialité
+
+
+Le format restreint comme expression de la puissance
+
+
+Des partenariats à géométrie variable
+
+
+Se regrouper informellement pour être plus influent
+
+
+Chapitre 5 - De la communication à la diplomatie publique et digitale
+Brian Hocking
+
+
+La diplomatie dans un monde complexe
+
+
+Analyser la diplomatie numérique
+
+
+Les méthodes diplomatiques dans l'ère digitale
+
+
+Effets sur les structures et les institutions diplomatiques
+
+
+Rôles et compétences
+
+
+Chapitre 6 - De la négociation à la médiation
+Valérie Rosoux
+
+
+Faut-il négocier ?
+
+
+Quand faut-il négocier ?
+
+
+Comment négocier ?
+
+
+Chapitre 7 - Rituels et diplomatie
+
+
+Thierry Balzacq
+
+
+Qu'est-ce qu'un rituel ?
+
+
+Le protocole, support et expression de l'ordre diplomatique
+
+
+La poignée de main
+
+
+Répercussions méthodologiques: l'importance de la situation
+
+
+DEUXIÈME PARTIE - LES ACTEURS
+
+
+Chapitre 8 - Les États et leur outil diplomatique
+Christian Lequesne
+
+
+Les origines de l'outil diplomatique
+
+
+Design institutionnel
+
+
+Le corps des diplomates
+
+
+Les pratiques diplomatiques
+
+
+Chapitre 9 - Les organisations intergouvernementales
+
+
+Cédric Groulier, Simon Tordjman
+
+
+De la représentativité comme enjeu à la représentation des OI pour elles-
+mêmes
+
+
+La représentativité comme vecteur de légitimité et objet de négociation
+La personnalité juridique des OI: une représentation contrainte d'elles-
+mêmes
+
+
+Recueil et usage de l'information
+
+
+L'information comme condition de coopération
+
+
+Les usages prescriptifs de l'information
+
+
+Les organisations internationales dans les processus de négociation
+Les OI et la négociation des normes
+
+
+Le poids des OI sur le cadrage et les modalités de la négociation
+
+
+Chapitre 10 - Diplomaties supra-étatiques
+Stephanie C. Hofmann, Olivier Schmitt
+
+
+Le néofonctionnalisme et l'intégration des diplomaties nationales
+
+
+Les approches principal-agent
+
+
+Les pratiques diplomatiques et la régionalisation des diplomaties
+L'autorité internationale
+
+
+Chapitre 11 Diplomaties sub-étatiques : régions, parlements et
+collectivités locales
+
+
+Benjamin Puybareau, Renaud Takam Talom
+
+
+Diplomatie sub-étatique: définition, trajectoire et instruments
+
+
+Qu'est-ce que la diplomatie sub-étatique ?
+
+
+Diplomatie sub-étatique, paradiplomatie et protodiplomatie
+
+
+Diplomatie sub-étatique, diplomatie parallèle et diplomatie à paliers
+multiples
+
+
+Diplomatie sub-étatique: trajectoire historique et principaux catalyseurs
+Diplomatie sub-étatique et diplomatie classique entre complémentarité,
+rivalité et résilience
+
+
+Entre rupture et conflit
+
+
+Résilience et coopération
+
+
+Les diplomaties sub-étatiques: une diversité d'acteurs et d'instruments
+La diplomatie des régions
+
+
+Principaux acteurs et intensité de la diplomatie des régions
+Les instruments
+
+
+La diplomatie parlementaire des régions
+
+
+Les canaux bilatéraux (groupes d'amitié, visites, rencontres)
+Les canaux multilatéraux
+
+
+La diplomatie des collectivités locales
+
+
+Chapitre 12 - La diplomatie des acteurs non étatiques
+Auriane Guilbaud
+
+
+Constitution et érosion du monopole diplomatique régalien
+
+
+Activités diplomatiques perpétuées et pratiques renouvelées
+
+
+L'adaptation des diplomaties gouvernementales et les limites de la délégation
+sans souveraineté
+
+
+Chapitre 13 - Individu et diplomatie
+
+
+Pierre Grosser
+
+
+L'anatomie de l'individu-acteur
+
+
+Cognition, décision et émotion
+
+
+Les individus qui comptent à l'international
+
+
+TROISIÈME PARTIE - LES SECTEURS
+
+
+Chapitre 14 - Diplomatie économique, diplomatie d'entreprise
+Laurence Badel
+
+
+Un outil économique et financier de domination
+
+
+Un outil de la gouvernance mondiale: les enceintes multilatérales de la
+diplomatie économique
+
+
+La diplomatie économique des émergents
+
+
+Diplomatie d'entreprise versus diplomatie économique: une histoire à mettre
+en perspective
+
+
+Chapitre 15 - La diplomatie culturelle
+
+
+Marie-Christine Kessler
+
+
+Les acteurs étatiques nationaux de la diplomatie culturelle
+
+
+Le cas particulier des régimes autoritaires
+
+
+Le cas de la France, exemple de diplomatie culturelle démocratique d'État
+
+
+Les modèles européens de diplomatie culturelle coopérative
+
+
+Le modèle américain de la diplomatie culturelle étatique masquée
+
+
+Les acteurs internationaux
+
+
+Diplomatie culturelle et négociations internationales
+
+
+Aller au-delà du jeu national du soft power
+
+
+La culture comme un objet de pouvoir
+
+
+Chapitre 16 - La diplomatie environnementale
+Amandine Orsini
+
+
+Le contenu de la diplomatie environnementale
+
+
+Les règles du jeu de la diplomatie environnementale
+
+
+Chapitre 17 - La diplomatie humanitaire
+
+
+Élise Rousseau, Achille Sommo
+
+
+Définition
+
+
+<< L'impératif d'humanité  : le fondement de la diplomatie humanitaire
+
+
+Acteurs et pratiques diplomatiques
+
+
+Le CICR: un acteur incontournable de la scène humanitaire
+Organisations non gouvernementales: deux approches humanitaires de la
+diplomatie
+
+
+Les approches diplomatiques de l'humanitaire
+
+
+Chapitre 18 - La diplomatie de défense
+
+
+Frédéric Charillon, Thierry Balzacq, Frédéric Ramel
+
+
+La diplomatie de défense: limites du concept, variations des pratiques
+
+
+Ce que n'est pas la diplomatie de défense
+
+
+La diplomatie de défense comme canal de dialogue militaire
+
+
+La diplomatie de défense comme domaine d'expertise
+
+
+Les problématiques théoriques: une inscription libérale
+
+
+Diplomatie publique et soft power
+
+
+Mise en place d'un champ international de sécurité collective par ses
+propres acteurs
+
+
+Sociologie de la diplomatie de défense au $xXI^{e}$ siècle : fin ou réinvention du
+concept ?
+
+
+De la défense à la sécurité globale ?
+
+
+Diplomatie militaire sans militaires ?
+
+
+Chapitre 19 - Les diplomaties de l'entertainment
+Maud Quessard-Salvaing
+
+
+Le modèle américain de diplomatie de l'entertainment au $xx^{e}$ siècle : une
+privatisation de la diplomatie publique au service des stratégies d'influence
+
+
+Diplomatie et entertainment en temps de guerre(s): les précédents du CPI
+et de l'OWI, la démocratie américaine en propagande
+La concurrence des diplomaties culturelles européennes et la montée des
+propagandes fascistes de l'entre-deux-guerres à la seconde guerre
+mondiale
+
+
+Entertainment et diplomatie publique de guerre froide : le modèle
+hollywoodien au service des stratégies d'influences américaines
+
+
+La diplomatie publique d'Edward Murrow durant les années 1960 :
+Hollywood sous influence
+
+
+L'explosion du bloc soviétique : l'impact des nouvelles technologies et de la
+culture de l'entertainment
+
+
+Competing soft powers: diversification et globalisation de l'entertainment au
+service des intérêts diplomatiques du $XXI^{e}$ siècle
+
+
+Entertainment et celebrity diplomacy au service des opérations de smart
+power: les ambassadeurs non institutionnels du nation branding
+Sport diplomacy, célébrités et anti-diplomates ?
+
+
+L'entertainment mondialisé vs l'entertainment post-mondialisation
+l'émergence de modèles de soft powers concurrents et la réaffirmation des
+États nations
+
+
+Chapitre 20 - L'expertise internationale et la diplomatie d'influence
+Nicolas Tenzer
+
+
+Anatomie de l'expertise internationale
+
+
+L'expertise à l'épreuve de la coordination
+
+
+Les conditions d'une stratégie globale d'influence
+
+
+L'expertise contre la désinformation
+
+
+Conclusion - Les diplomates engloutis ?
+
+
+Frédéric Ramel, Thierry Balzacq, Frédéric Charillon
+
+
+Liste des sigles
+
+
+Index
+
+
+Table des documents
+
+
+Bibliographie générale
+
+
+Remerciements
+
+
+:
+
+
+Remerciements
+
+
+Ce Manuel de diplomatie a bénéficié du concours de
+plusieurs personnes dont nous tenons à reconnaître
+l'investissement. À l'université de Namur, les jeunes
+chercheurs de la chaire Tocqueville en politiques de
+sécurité ont assuré la délicate mise en forme du
+manuscrit. Benjamin Puybareau, Achille Sommo Pende
+et Renaud Takam Talom nous ont permis de collecter
+les références, de les hiérarchiser et d'harmoniser la
+présentation générale du manuscrit. $\dot{A}$ Sciences Po,
+nous remercions Corentin Cohen, dont la contribution à
+la traduction d'un chapitre de l'anglais vers le français
+nous a permis de dégager du temps pour assurer
+d'autres tâches éditoriales relatives à ce volume. Par
+ailleurs, nous avons pu compter sur le soutien et le
+suivi permanents de Julie Gazier, la directrice
+exécutive. Elle a veillé au maintien du périmètre initial
+du projet et, bien sûr, au respect des délais. Sans
+prétendre avoir répondu à toutes ses attentes, nous
+espérons que le résultat justifie quelque peu les
+détours que nous avons pris. Guillaume Devin s'est
+montré intéressé par le projet et a bien voulu
+l'accueillir dans la collection « Relations internationales
+ qu'il dirige. Enfin, le livre n'aurait pas été possible
+sans l'abnégation de tous les auteurs qui ont bien voulu
+consacrer une attention particulière à ce premier
+Manuel de diplomatie en langue française.
+
+
+Collection
+
+
+internationales
+
+
+Dirigée par Guillaume Devin Comité scientifique :
+
+
+Relations
+
+
+Louis Bélanger (Université de Laval), Barbara Delcourt (Université libre
+de Bruxelles), Guillaume Devin (Sciences Po Paris), Franck Petiteville
+(Sciences Po Grenoble), Thomas Lindemann (Université de Versailles
+Saint-Quentin-en-Yvelines), Carlos Milani (Institut d'études sociales et
+politiques de l'Université d'État de Rio de Janeiro).
+
+
+Publier des travaux originaux sur les relations internationales, entendues
+comme toutes formes d'interactions entre les acteurs des sociétés, qu'ils
+soient individuels ou collectifs, gouvernementaux
+ou non
+gouvernementaux, telle est l'ambition de la collection Relations
+internationales. En encourageant les approches pluridisciplinaires et les
+études empiriques précises, elle contribue à une réflexion sur les
+transformations et les défis des relations internationales et s'adresse à
+tous, étudiants, enseignants, praticiens des relations internationales et
+grand public.
+
+
+L'Union européenne et la paix L'invention d'un modèle européen de
+gestion des conflits Anne Bazin, Charles Tenenbaum (2017)
+
+
+L'Ordre hiérarchique international Les luttes de rang dans la diplomatie
+multilatérale Vincent Pouliot (2017)
+
+
+Les Finances de l'ONU ou la crise permanente Morgan Larhant (2016)
+Méthodes de recherche en relations internationales Guilluame Devin
+(dir.) (2016)
+
+
+Business Partners
+
+
+Firmes privées et gouvernance mondiale de la santé Auriane Guilbaud
+(2015)
+
+
+Les Bonnes Pratiques dans les organisations internationales Asmara
+Klein, Camille Laporte, Marie Saiget (dir.) (2015) Intégration et déviance
+au sein du système international Soraya Sidani (2014)
+
+
+Puissances moyennes dans le jeu international Le Brésil et le Mexique
+aux Nations unies Mélanie Albaret (2014)
+
+
+Cette édition électronique du livre Manuel de diplomatie,
+sous la direction de Thierry Balzacq, Frédéric Charillon,
+Frédéric Ramel, a été réalisée le 7 septembre 2018 par les
+Presses de Sciences Po. Elle repose sur l'édition papier du
+même ouvrage (ISBN : 978-2-7246-2290-4).
+
+
+Consultez toutes nos parutions sur
+www.pressesdesciencespo.fr

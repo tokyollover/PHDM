@@ -1,0 +1,20679 @@
+# Jean-Frederic-Morin-La-politique-etrangere-Theories-methodes-et-references-Armand-Colin-2013-pdf.pdf
+
+collection
+
+
+SCIENCE POLITIQUE
+
+
+Jean-Frédéric MORIN
+
+
+LA POLITIQUE ÉTRANGÈRE
+THÉORIES, MÉTHODES ET RÉFÉRENCES
+
+
+ARMAND COLIN
+
+
+collection
+
+
+SCIENCE POLITIQUE
+
+
+Jean-Frédéric MORIN
+
+
+U
+
+
+LA POLITIQUE ÉTRANGÈRE
+THÉORIES, MÉTHODES ET RÉFÉRENCES
+
+
+ARMAND COLIN
+
+
+JEAN-FRÉDÉRIC MORIN
+
+
+La politique étrangère
+
+
+Théories, méthodes et références
+
+
+Illustration de couverture :
+
+
+Jean-Paul Riopelle, Eskimo Mask, 1955 © Albright-Knox Art
+
+
+Gallery/CORBIS
+
+
+Armand Colin
+
+
+21, rue du Montparnasse
+
+
+75006 Paris
+
+
+Armand Colin, 2013
+
+
+www.armand-colin.com
+
+
+ISBN: 978-2-200-28879-2
+
+
+Collection U
+
+
+Science politique
+
+
+Parmi nos récentes publications :
+
+
+Guillaume Devin, Marie-Claude Smouts, Les organisations
+
+
+internationales, 2011.
+
+
+Bérengère Marques-Pereira, David Garibay, La politique en
+Amérique latine, 2011.
+
+
+Aux étudiants du cours
+
+
+POLI-D-434 Foreign Policy Analysis
+
+
+Sommaire
+
+
+Couverture
+
+
+Page de titre
+
+
+Page de Copyright
+
+
+Collection U
+
+
+Introduction
+
+
+Qu'est-ce qu'une politique ?
+
+
+Quand la politique devient étrangère
+
+
+Un éventail d'explications
+
+
+L'évolution de l'APE
+
+
+Une introduction à l'APE
+
+
+Chapitre 1 - L'identification de la politique étrangère
+
+
+Les objectifs de la politique étrangère
+
+
+Les objectifs communiqués
+
+
+Déduire les objectifs poursuivis
+
+
+La mobilisation des ressources
+
+
+Les ressources
+
+
+Le paradoxe de la puissance
+
+
+La mobilisation et l'exploitation
+
+
+Les instruments de la politique étrangère
+
+
+La socialisation
+
+
+La coercition
+
+
+L'intervention
+
+
+Les bases de données événementielles
+
+
+Le résultat de la politique étrangère
+
+
+Mesurer l'efficacité
+
+
+Expliquer l'efficacité
+
+
+Chapitre 2 - Le niveau d'analyse
+
+
+L'agent et la structure
+
+
+Du néo-réalisme aux relations internationales behaviorales
+
+
+Du constructivisme au cognitivisme
+
+
+Le cycle du processus décisionnel
+
+
+Une segmentation en six phases
+
+
+Un processus linéaire, cyclique ou chaotique
+
+
+Le jeu à deux niveaux
+
+
+La variation de l'ensemble gagnant
+
+
+Les prédictions de la théorie du jeu à deux niveaux
+
+
+Les rétroactions
+
+
+Les rétroactions positives et négatives
+
+
+L'institutionnalisme historique
+
+
+Les systèmes complexes
+
+
+Chapitre 3 - La rationalité
+
+
+Le choix rationnel
+
+
+De la micro-économie à la politique étrangère
+
+
+La substituabilité des politiques étrangères
+
+
+La dissuasion rationnelle
+
+
+La modélisation de la rationalité
+
+
+La théorie des jeux
+
+
+La théorie cybernétique
+
+
+Rationalité et cognition
+
+
+La théorie des perspectives
+
+
+La théorie poliheuristique
+
+
+Chapitre 4 - La culture
+
+
+Les normes
+
+
+La conformité aux normes
+
+
+La promotion des normes
+
+
+Les identités nationales
+
+
+Le soi et l'autre
+
+
+L'évolution des identités
+
+
+La politique étrangère comme affirmation de l'identité
+
+
+Altérité et adversité
+
+
+Les rôles nationaux
+
+
+La conception des rôles
+
+
+Les rôles comme guides de la politique étrangère
+
+
+Les genres
+
+
+Femmes, féminité et féminisme
+
+
+La nation et l'État dans la grammaire féministe
+
+
+Les nations et les États étrangers
+
+
+Les cultures organisationnelles
+
+
+La stabilité des cultures organisationnelles
+
+
+Interactions entre les cultures organisationnelles
+
+
+Cultures et pratiques organisationnelles
+
+
+Les discours
+
+
+Les discours comme champ d'interaction
+
+
+Les méthodes d'analyse de discours
+
+
+Chapitre 5 - Les acteurs sociaux
+
+
+L'opinion publique
+
+
+Le consensus Almond-Lippmann et ses critiques
+
+
+La structure de l'opinion publique
+
+
+L'influence de l'opinion publique
+
+
+La diversion
+
+
+Le ralliement au drapeau
+
+
+La tentation de la guerre comme levier de ralliement
+
+
+Les médias
+
+
+L'influence des médias
+
+
+L'influence des dirigeants sur les médias
+
+
+L'effet CNN
+
+
+Les groupes d'intérêt
+
+
+L'action des groupes d'intérêt en politique étrangère
+
+
+Difficultés méthodologiques
+
+
+Des cas extrêmes à la généralisation
+
+
+Les experts
+
+
+Les think tanks
+
+
+Les communautés épistémiques
+
+
+Les prédictions des experts
+
+
+Chapitre 6 - Les institutions
+
+
+La paix démocratique
+
+
+Le constat de la paix démocratique
+
+
+Définir les variables de la paix démocratique
+
+
+La nature pacifique des démocraties
+
+
+Expliquer la paix démocratique par les normes
+
+
+L'échange d'information et la crédibilité
+
+
+Le libéralisme économique
+
+
+De la démocratie au libre-échange
+
+
+Du libre-échange à la paix et vice-versa
+
+
+Critiques de la paix libérale
+
+
+Le système parlementaire et électoral
+
+
+Les régimes présidentiels et parlementaires
+
+
+Les parlementaires et leur préférence
+
+
+Cohabitations et coalitions
+
+
+L'État fort et l'État faible
+
+
+Déterminer la force relative de l'État
+
+
+La force de l'État et sa politique étrangère
+
+
+Chapitre 7 - La bureaucratie
+
+
+Le modèle organisationnel
+
+
+Les stratégies organisationnelles
+
+
+Les effets pervers des procédures opérationnelles
+
+
+Le modèle bureaucratique
+
+
+Un jeu et plusieurs joueurs
+
+
+Les interactions entre les joueurs
+
+
+La position du ministère des Affaires étrangères
+
+
+Les critiques du modèle bureaucratique
+
+
+Les dynamiques de groupe
+
+
+La théorie de la pensée groupale
+
+
+Établir le phénomène
+
+
+Les styles de gestion
+
+
+Définir les styles de gestion
+
+
+Le style de gestion le plus approprié
+
+
+Chapitre 8 - Le décideur
+
+
+Les perceptions
+
+
+La méfiance
+
+
+Les biais d'attribution
+
+
+Les probabilités
+
+
+La cognition
+
+
+La cohérence cognitive
+
+
+Le code opérationnel
+
+
+Les raccourcis heuristiques
+
+
+La cartographie cognitive
+
+
+La complexité cognitive
+
+
+Les schémas
+
+
+Les émotions
+
+
+De la psychobiographie à la statistique
+
+
+Une voie médiane : les dimensions affectives
+
+
+Les typologies combinant les dimensions affectives
+
+
+Conclusion
+
+
+Au-delà de l'éclectisme
+
+
+Au-delà du cadre américain
+
+
+Au-delà du prisme stato-centré
+
+
+Au-delà de la tour d'ivoire
+
+
+Bibliographie
+
+
+Liste des tableaux et figures
+
+
+Index
+
+
+L'AUTEUR TIENT À REMERCIER Lorenzo Angelini, Philippe Bourbeau, Alexis
+Carles, Dario Battistella, Barbara Delcourt, Erick Duchesne, Maria Martin
+de Almagro, Josué Mathieu, Frédéric Mérand, Valentina Morselli,
+Amandine Orsini, Stéphane Paquin et Christophe Wasinski pour leurs
+commentaires et suggestions.
+
+
+Introduction
+
+
+L'ANALYSE DE LA POLITIQUE ÉTRANGÈRE (APE) exerce un fort attrait chez
+les étudiants, et plus généralement chez les curieux de tous âges et de tous
+acabits. Certains espèrent y trouver un champ d'études plus concret, plus
+appliqué que les théories des relations internationales. D'autres sont
+fascinés par les grandes figures historiques, d'Otto von Bismarck à Winston
+Churchill, ou encore attirés, sans toujours vouloir l'admettre, par le
+romantisme attribué à la pratique diplomatique.
+
+
+Ce ne sont, bien sûr, que des leurres (Smouts, 1999). Le néophyte réalise
+rapidement que les modèles théoriques de l'APE sont tout aussi complexes
+que ceux des autres champs des relations internationales. Il s'aperçoit
+également que la majorité des décisions de politique étrangère, loin d'être
+arbitrées dans les salons capitonnés des ambassades, entre un cigare et un
+martini, résultent de processus bureaucratiques similaires à ceux des autres
+domaines de politiques publiques.
+
+
+Alors que la complexité se dévoile et que la pratique diplomatique se
+désacralise, d'autres attraits prennent le relais. Au premier chef se trouve
+l'opportunité unique qu'offre l'APE d'intégrer différents niveaux d'analyse.
+Au croisement des théories des relations internationales et de l'analyse des
+politiques publiques, l'APE ne se cantonne ni à l'étude d'un système
+international qui fait abstraction des unités qui le composent, ni à l'étude de
+processus décisionnels isolés de l'environnement international (Kessler,
+2002).
+
+
+L'APE s'intéresse plutôt à l'interaction constante entre l'acteur et son
+milieu. Il est indispensable, pour comprendre et expliquer la politique
+étrangère, de prendre en compte les spécificités de l'environnement
+international. La distribution de la puissance entre les pays, l'influence des
+acteurs transnationaux et les organisations intergouvernementales
+déterminent en partie la politique étrangère. Cela étant, l'autorité publique
+qui adopte une politique étrangère perçoit cet environnement international à
+travers des filtres qui lui sont propres, qu'ils soient culturels,
+
+
+organisationnels ou cognitifs. Il est donc tout aussi indispensable, pour
+comprendre et expliquer une politique étrangère, d'étudier les processus de
+prise de décision et les dynamiques internes à l'État (Sprout et Sprout,
+1965).
+
+
+Si l'APE n'est pas unifiée par un niveau d'analyse qui lui est propre, elle
+se définit plutôt par sa variable dépendante. La majorité des travaux en APE
+tente d'expliquer pourquoi une ou plusieurs autorités publiques adoptent
+une politique donnée dans certaines conditions. Pourquoi les grandes
+puissances cherchent-elles activement à forger des alliances avec de petits
+pays qui ont pourtant des ressources militaires limitées (Fordham, 2010) ?
+Pourquoi la Jordanie a-t-elle renoncé à ses revendications territoriales sur la
+Palestine (Legrand, 2009) ? Pourquoi les membres de l'Organisation des
+pays exportateurs de pétrole ont-ils adhéré au Protocole de Kyoto alors que
+celui-ci vise à réduire la consommation de leur principale exportation
+(Depledge, 2008) ? Pourquoi la France concentre-t-elle davantage son aide
+publique au développement dans ses anciennes colonies que ne le fait le
+Royaume-Uni (Alesina et Dollar, 2000) ? Pourquoi la Norvège a rejoint
+l'OTAN mais a refusé de rejoindre l'Union européenne alors que la Suède a
+fait le choix inverse (Reiter, 1996) ? Les questionnements sont illimités,
+mais le point de départ est le même : identifier une politique étrangère,
+souvent étonnante ou contre-intuitive, que l'on cherche ensuite à expliquer.
+
+
+Qu'est-ce qu'une politique ?
+
+
+Malgré ce point de ralliement autour de la politique étrangère, ou peut-
+être en raison de celui-ci, il n'existe aucune définition consensuelle de ce
+que constitue au juste la politique étrangère. $\hat{A}$ vrai dire, la question ne fait
+pratiquement pas débat. La majorité des analystes évitent tout simplement
+d'aborder la notion de front, bien qu'elle soit néanmoins au cœur de leurs
+travaux. D'autres champs des relations internationales se sont pourtant
+articulés autour de définitions, servant de repères à la fois pour les débats
+théoriques et l'opérationnalisation des variables. L'APE ne connaît pas
+d'équivalent.
+
+
+Après tout, la conception de la politique étrangère que retiennent les
+analystes est en mutation constante, en fonction de l'évolution des pratiques
+
+
+et de celle des théories. Il est illusoire de vouloir figer la politique étrangère
+dans une réalité empirique précise, intemporelle et universelle. Ce que l'on
+considère aujourd'hui comme une politique étrangère ne l'était pas hier et
+ne le sera pas demain. Toute définition demeure plus ou moins tributaire de
+son contexte.
+
+
+Cet ouvrage d'introduction à la politique étrangère, qui se veut le reflet
+du champ d'études dans son ensemble et de son évolution au cours des
+dernières décennies, propose une définition particulièrement large. Les
+politiques étrangères y sont ainsi définies comme les actions ou les règles
+gouvernant les actions d'une autorité politique indépendante déployée dans
+l'environnement international.
+
+
+Si la définition de la politique étrangère retenue se réfère aux « actions ou
+aux règles gouvernant les actions », c'est que la notion de politique est elle-
+même polysémique. Pour les uns, une politique est constituée d'actions, de
+réactions ou d'inactions, certaines ponctuelles, d'autres répétées (Frankel,
+1963; Stein, 1971). Sous cette première perspective, la décision de la
+France de se retirer des négociations de l'Accord multilatéral sur
+l'investissement en 1998, tout comme la pratique répétée d'offrir une
+assistance d'urgence en cas de catastrophe naturelle majeure d'un pays
+voisin, seraient considérées comme des exemples de politiques étrangères.
+
+
+Pour les autres, une politique étrangère n'est pas l'action elle-même,
+mais la vision sous-jacente, c'est-à-dire la conception particulière
+qu'entretient un État à propos de sa place dans les relations internationales,
+de ses intérêts nationaux et des grands principes qui permettent de les
+défendre. Selon cette deuxième conception, la politique américaine de
+l'endiguement du communisme lors de la guerre froide, ou la politique de la
+<< Chine unique » de Pékin à l'égard de Taiwan seraient des exemples de
+politique étrangère.
+
+
+Une troisième voie situe la politique étrangère entre ces deux extrêmes.
+C'est la voie médiane que privilégie notamment James Rosenau, qui juge
+les doctrines trop spécifiques à un pays pour pouvoir étudier leur variation
+et les décisions trop ponctuelles pour dégager des généralisations (1980,
+p. 53).
+
+
+La définition de la politique étrangère proposée dans ce manuel s'abstient
+de trancher ce débat. Certains travaux qui s'inscrivent explicitement dans le
+courant de l'APE portent sur des décisions bien circonscrites, et d'autres
+encore sur des pratiques si répétées qu'elles sont prises pour acquises.
+Certains se concentrent sur ce que les États font matériellement, et d'autres
+sur ce que les États déclarent oralement. Compte tenu de cette diversité, il
+n'y a pas d'impératifs à restreindre a priori le champ de l'APE à une
+définition étroite de politique, quelle qu'elle soit (Snyder et al., 2002
+[1962],  . 74).
+
+
+Quand la politique devient étrangère
+
+
+Marcel Merle, pionnier de l'école française de la sociologie des relations
+internationales, distingue la politique étrangère des autres politiques
+publiques par son domaine particulier. Pour Merle, la politique étrangère est
+<< la partie de l'activité étatique qui est tournée vers le dehors, c'est-à-dire
+qui traite, par opposition à la politique intérieure, des problèmes qui se
+posent au-delà de la frontière » (1984, p. 7). Cette distinction entre l'interne
+et l'externe est toujours valide. C'est d'ailleurs la raison pour laquelle ce
+manuel définit la politique étrangère comme celle « qui est déployée dans
+l'environnement international ».
+
+
+Il faut toutefois reconnaître que la ligne de démarcation entre l'extérieur
+et l'intérieur est poreuse. Plusieurs questions, autrefois considérées comme
+strictement internationales, intègrent la politique interne. Inversement,
+d'autres questions traditionnellement perçues comme nationales ont
+maintenant des ramifications internationales évidentes.
+
+
+À l'époque de la guerre froide, certains assimilaient la distinction entre
+l'externe et l'interne à celle entre high politics et low politics. Sous cet
+angle, la politique étrangère était perçue comme un instrument au service
+des intérêts vitaux de l'État, visant plus particulièrement à garantir sa
+sécurité ou à maximiser sa puissance (Morgenthau, 1948). La perspective
+d'une guerre nucléaire renforçait cette impression que tous les objectifs de
+politique publique, de la santé publique au transport en passant par
+l'éducation, devaient être subordonnés aux priorités sécuritaires de la
+
+
+politique étrangère. C'est ce qu'exprimait John F. Kennedy en 1951, alors
+représentant au Congrès :
+
+
+<< La politique étrangère, aujourd'hui, indépendamment de ce qu'on
+peut souhaiter, dans ses impacts sur nos vies quotidiennes, éclipse tout le
+reste. Le budget, les taxes, la prospérité, la portée des sciences sociales
+tout dépend de la question fondamentale de la guerre ou de la paix. >>
+
+
+(Dallek, 2003,  . 158)
+
+
+En réalité, malgré ce que prétend Kennedy, les questions économiques et
+sociales n'ont jamais été systématiquement soumises aux enjeux
+sécuritaires de la politique étrangère. De la même manière, la sécurité de
+l'État n'a jamais été exclusivement abordée à travers le prisme de la
+politique étrangère. La distinction factice entre high politics et low politics,
+se superposant à celle entre la politique interne et externe, est un prisme qui
+a longtemps été alimenté par les manuels d'introduction à la politique
+étrangère mais qui n'a jamais vraiment correspondu avec les réalités de
+l'exercice du pouvoir (Fordham, 1998).
+
+
+Cette interconnexion de l'interne et de l'externe s'illustre bien par les
+opérations croisées des forces armées et des forces policières. Le discours
+traditionnel dirige les premières contre les menaces externes et
+interétatiques et les secondes contre les menaces internes et civiles. Or, les
+forces armées ont toujours joué un certain rôle dans l'ordre interne,
+notamment dans les colonies ou dans les opérations de maintien de la paix ;
+et les forces policières entretiennent depuis longtemps des relations
+internationales, que ce soit dans leur lutte contre les organisations terroristes
+ou celle contre le crime organisé (Sheptycki, 2000; Bigo, 2006; Balzacq,
+2008 et 2009).
+
+
+L'assimilation fictive de la high politics à la politique étrangère et de la
+low politics à la politique interne a pu néanmoins se maintenir relativement
+intacte dans les discours politiques jusqu'au premier choc pétrolier de 1973.
+Mais lorsque les répercutions du conflit au Moyen-Orient se firent
+directement sentir dans les stations-service du monde entier, la distinction
+stricte et rigide entre la sécurité et l'économie, comme celle entre l'interne
+et l'externe, devinrent surannées (Keohane et Nye, 1977).
+
+
+L'opposition entre la high et la low politics est définitivement disparue du
+vocabulaire de l'APE à la fin de la guerre froide. Dans le monde
+contemporain, le conflit nucléaire n'apparaît plus aussi menaçant que les
+crises financières, les nouvelles épidémies, les mouvements migratoires, les
+biotechnologies ou les changements climatiques. Pour affirmer que la
+politique étrangère n'a encore que l'objectif unique d'assurer la sécurité de
+l'État, il faudrait élargir cette notion pour y inclure la sécurité économique,
+sanitaire, énergétique, humaine, alimentaire, sociétale et environnementale,
+jusqu'à ce que tous les domaines d'actions de l'État y soient inclus et
+qu'elle soit dès lors vidée de tout son sens (Buzan et al., 1998).
+
+
+Il est sans doute plus simple de reconnaître que la politique étrangère est
+multisectorielle. Elle porte tout autant sur la promotion de la diversité
+culturelle, le respect des Droits de l'homme, la prohibition des armes
+chimiques, les restrictions aux subventions agricoles, la conservation des
+bancs de poissons océaniques, etc.
+
+
+Le domaine de la politique étrangère, contrairement aux domaines des
+autres politiques publiques, ne se définit pas par une question, un objectif,
+une cible, ou une fonction. Il se définit plutôt par un critère géographique :
+toute action (ou inaction) d'une autorité politique déployée dans
+l'environnement hors des frontières de l'État peut être considérée comme
+une composante de la politique étrangère, qu'elle soit prise en charge par le
+ministère des Affaires étrangères ou par n'importe laquelle autre autorité
+publique.
+
+
+C'est d'ailleurs ce passage de l'interne vers l'externe qui confère à la
+politique étrangère sa spécificité : l'autorité politique qui l'adopte et la met
+en œuvre a un contrôle particulièrement limité sur son résultat puisque
+celui-ci dépend de variables qui échappent à sa souveraineté : le
+gouvernement brésilien ne peut réformer le Conseil de sécurité de l'ONU
+comme il réforme ses propres institutions ; le gouvernement français ne
+peut s'attaquer aux navires de Greenpeace qui naviguent dans les eaux
+internationales comme il régule les activités des ONG en France; et le
+gouvernement chinois ne peut protéger ses investissements en Afrique
+comme il le fait sur son territoire.
+
+
+Certes, on peut mettre en doute l'idée que les modes de gouvernance du
+système international sont fondamentalement différents de ceux des
+
+
+systèmes nationaux. Après tout, les catégories d'acteurs, leurs moyens
+d'action et les déterminants de leur influence sont relativement similaires.
+La distinction traditionnelle entre l'environnement national, où seul l'État
+détient le monopole de la violence légitime, et l'environnement
+international anarchique, dépourvu d'autorité hiérarchique, tend à s'effacer.
+Il n'en demeure pas moins que, du point de vue des autorités politiques, il
+s'agit de deux environnements distincts qui soulèvent toujours des
+contraintes et des opportunités radicalement différentes (Walker, 1993).
+
+
+Un éventail d'explications
+
+
+Une vaste gamme de variables indépendantes et intermédiaires peut être
+proposée pour expliquer une politique étrangère donnée. Ces explications
+vont de la structure sociale à la personnalité du chef de gouvernement en
+passant par les groupes d'intérêts, l'architecture institutionnelle, l'influence
+des médias et les forces bureaucratiques.
+
+
+Pour identifier les variables les plus appropriées, l'APE puise dans de
+multiples disciplines. En fait, peu de champs d'études ont accueilli avec le
+même enthousiasme des disciplines aussi variées que la sociologie,
+l'économie, l'administration publique, la psychologie et l'histoire. Alors
+que les appels à l'interdisciplinarité se font maintenant entendre dans toutes
+les sciences sociales, l'APE peut, sans conteste, se targuer d'être un chef de
+file dans l'intégration de différentes disciplines.
+
+
+Cette interdisciplinarité a permis de générer un formidable foisonnement
+de modèles théoriques et d'approches méthodologiques. Un même numéro
+d'une revue consacrée à l'APE peut très bien rassembler le profil
+psychologique d'un chef d'État constitué à partir de ses discours, une étude
+sur l'identité nationale fondée sur l'iconographie, une modélisation
+cybernétique des raisonnements opérés par un ministère des Affaires
+étrangères, et une analyse statistique des relations entre les taux d'inflation
+et les déclarations de guerre au cours des deux derniers siècles.
+
+
+Au premier abord, cet éclectisme théorique et méthodologique peut
+donner le vertige. Une telle diversité peut sembler cacophonique, surtout
+pour le lecteur habitué aux débats structurés des théories des relations
+
+
+internationales, avec leurs lignes de fracture consensuellement reconnues.
+L'internationaliste qui ouvre la boite noire de l'État y trouve un
+amoncellement de différentes approches qui ne sont ni cataloguées ni
+ordonnées. Une impression d'incohérence peut alors s'en dégager.
+
+
+Cette impression est d'autant plus renforcée si on considère, à tort, que
+ces différentes approches rivalisent pour l'hégémonie du champ d'études.
+En réalité, l'APE a depuis longtemps renoncé à la formulation d'une théorie
+unique permettant d'expliquer avec parcimonie les politiques étrangères les
+plus importantes. On y développe plutôt des théories de moyenne portée, ne
+permettant d'expliquer qu'un nombre limité de décisions, voire qu'un
+aspect du processus de prise de décision, et ce, dans des circonstances bien
+définies. C'est une position intermédiaire entre, d'une part, les théories
+générales qui ne peuvent expliquer les particularismes et, d'autre part, la
+complexité du monde réel qui ne peut être rapportée de façon intelligible
+(Sil et Katzenstein, 2010; Lake, 2011)
+
+
+Cette modestie épistemologique, rappelée comme un leitmotiv dans la
+production scientifique de l'APE, permet d'éviter les affrontements
+sectaires et stériles. En APE, il n'y a pas de guerre de tranchées entre
+différents paradigmes. Nul ne prête allégeance à un courant particulier. Au
+contraire, la disponibilité d'une vaste gamme de théories de moyenne portée
+invite le chercheur à les combiner pour édifier de nouvelles constructions.
+L'APE n'est pas que multiniveau et multidisciplinaire, elle est résolument
+multicausale. S'émanciper de la quête d'une variable explicative unique
+permet de transformer une impression initiale de confusion en un élan
+créateur (Schafer, 2003).
+
+
+L'évolution de l'APE
+
+
+Cette ouverture disciplinaire et théorique a certainement contribué à la
+résurgence récente de l'APE. Dans les années 1980, l'APE semblait être un
+champ d'études en désuétude. Les tentatives de dégager de grandes
+régularités dans les comportements de politique étrangère se révélèrent
+infructueuses. Des générations entières de chercheurs s'y étaient pourtant
+consacrées, suite à l'appel lancé par James Rosenau dans les années 1960
+pour une analyse plus scientifique de la politique étrangère. Pour Rosenau,
+
+
+l'APE devait aller au-delà des simples études de cas, au-delà des approches
+descriptives et interprétatives traditionnellement privilégiées par l'histoire
+diplomatique, pour atteindre des niveaux supérieurs de généralisation
+(1968). De vastes bases de données ont alors été constituées pour observer
+de manière systématique la politique étrangère de plusieurs pays à la fois.
+Cependant, l'exploitation de ces bases de données s'est révélée décevante et
+peu de régularités ont été observées.
+
+
+À ces espoirs déçus, s'est ajoutée l'émergence, dans les années 1980, de
+nouvelles théories de relations internationales privilégiant une échelle
+exclusivement macroscopique. Le néo-réalisme et la théorie des régimes
+ont respectivement attiré l'attention des chercheurs sur les structures et sur
+les institutions internationales, tout en ignorant les processus internes de
+formulation de la politique étrangère. Toutes deux cherchaient à expliquer
+le résultat des interactions internationales plutôt que l'action spécifique
+d'un acteur ou d'un autre.
+
+
+Dès lors, le champ de l'APE fut pratiquement abandonné aux centres
+d'expertises privés, comme le Royal Institute of International Affairs ou le
+Council on Foreign Relations, et à des revues destinées davantage aux
+praticiens qu'aux universitaires, comme Foreign Policy et Foreign Affairs.
+Au grand dam de James Rosenau (1980), l'APE était alors tournée vers la
+résolution de problèmes plutôt que la construction de théories.
+
+
+Depuis la fin de la guerre froide, toutefois, les approches macroscopiques
+qui négligent les dynamiques internes aux États ont montré leurs limites.
+Quelques mois à peine avant la chute du mur de Berlin, l'auteur phare du
+néo-réalisme, Kenneth Waltz, affirmait encore que « la guerre froide est
+solidement ancrée dans la structure de la politique internationale de l'après-
+guerre et durera aussi longtemps que cette structure se maintiendra » (1989,
+p. 52). Or, l'éclatement de l'URSS a démontré que les structures
+internationales sont instables et que les politiques nationales, voire certains
+individus, peuvent profondément marquer les relations internationales.
+
+
+L'APE est réapparue en force depuis les années 2000. Les
+internationalistes tentent de plus en plus d'intégrer plusieurs niveaux
+d'analyse, de croiser différentes disciplines et de développer des théories de
+moyenne portée. L'APE, qui a comme fers de lance la multicausalité, la
+multidisciplinarité et l'analyse à niveaux multiples, semble de nouveau un
+
+
+champ prometteur (Smith, 1986; Gerner, 1991 et 1995; Light, 1994;
+Hudson et Vore, 1995; Neack et al., 1995; White, 1999; Hagan, 2001;
+Kaarbo, 2003; Stern, 2004 ; Hudson, 2005 ; Houghton, 2007).
+
+
+Les indicateurs de cette résurgence de l'APE sont nombreux. Sur le plan
+de l'enseignement, une enquête effectuée auprès des professeurs de
+relations internationales d'une dizaine de pays indique que les cours de
+politique étrangère sont maintenant plus nombreux que ceux consacrés à la
+sécurité internationale, à l'économie politique internationale ou au
+développement international (Jordan et al., 2009). Sur le plan de la
+recherche, une nouvelle revue entièrement consacrée à l'APE, Foreign
+Policy Analysis, a été créée en 2005 et sa diffusion témoigne déjà d'un écho
+favorable parmi les internationalistes. C'est donc dans un contexte de
+renouveau que cet ouvrage propose une introduction à l'APE, ancrée dans
+les classiques, et tournée vers la relève.
+
+
+Une introduction à l'APE
+
+
+Cet ouvrage de synthèse est conçu comme une boîte à outils dans
+laquelle étudiants et chercheurs peuvent puiser des idées, des concepts et
+des références bibliographiques pour mener à bien leurs propres recherches.
+Il ne s'attache pas à retracer l'évolution des pratiques diplomatiques, à
+présenter le processus classique de prise de décision, ou à décrire les
+grandes orientations de la politique étrangère d'un pays en particulier. Il
+propose plutôt un panorama de différentes approches, représentant autant de
+clés d'analyse.
+
+
+Parce que ces différentes clés se complètent plus qu'elles ne s'opposent,
+cet ouvrage se garde bien de trancher laquelle serait, dans l'absolu, la plus
+juste ou la plus pertinente. De toute façon, un tel arbitrage serait contraire à
+l'humilité épistemologique de l'APE et à son engagement envers la
+multicausalité, la multidisciplinarité et la multisectorialité. C'est bien
+évidemment l'objet d'analyse particulier et son contexte, ainsi que les
+objectifs du chercheur, qui doivent guider le choix d'une approche
+théorique et méthodologique.
+
+
+L'auteur de cet ouvrage navigue lui-même constamment, dans ses projets
+de recherche, entre le constructivisme et l'institutionnalisme, entre l'analyse
+de discours et les tables de régression. Je me sentirais bien dépourvu si je
+devais cantonner tous mes projets de recherche à une seule enseigne
+théorique ou méthodologique.
+
+
+Par le biais de cette introduction à l'APE, je souhaite justement relayer
+l'invitation de l'APE à s'approprier différentes approches théoriques et
+méthodologiques, non pas pour les reproduire aveuglément, mais pour les
+développer, les adapter ou, mieux encore, les combiner. Mener une
+recherche en APE signifie bien souvent bricoler une construction ad hoc,
+que l'on espère cohérente, en empruntant des idées à différentes approches.
+Pour moi comme pour d'autres, le principal intérêt de l'APE réside dans
+cette créativité intellectuelle qu'elle encourage.
+
+
+Or, les différentes approches qui composent l'APE ne sont pas toutes
+bien connues dans le monde francophone. Marie-Claude Smouts note avec
+justesse que « le contraste est saisissant entre le petit nombre d'ouvrages
+publiés sur ce thème en France et l'ampleur de la littérature américaine »
+(Smouts, 1999, p. 5). Cet ouvrage de synthèse se fait ainsi l'écho d'une
+production scientifique florissante aux États-Unis, que le monde
+francophone a tout intérêt à mieux connaître, ne serait-ce que pour mieux la
+critiquer. L'ambition de ce livre est de synthétiser la littérature sur la
+Foreign Policy Analysis dans toute sa diversité, en l'abordant de front, avec
+ses travers, ses excès, et ses réussites.
+
+
+Dans cette perspective, cet ouvrage porte une attention particulière aux
+œuvres devenues des classiques, comme celles de Graham Allison, Ole
+Holsti, Jack Levy, Margaret Hermann, Irving Janis, Robert Jervis,
+Alexander George, Helen Milner, Jack Snyder, Bruce Bueno de Mesquita et
+Robert Putnam. Revenir sur ces classiques est essentiel, puisqu'ils
+continuent d'inspirer et de fonder les débats, plusieurs décennies après leur
+publication.
+
+
+Par ailleurs, cet ouvrage s'ancre directement dans les travaux de
+recherches récents, publiés en Amérique du Nord, en Europe et ailleurs.
+C'est en s'appuyant sur ces travaux qu'il illustre la mise en application, les
+forces, mais aussi les faiblesses, des différents modèles théoriques et
+
+
+méthodologiques présentés. Les nombreuses références bibliographiques
+permettent au lecteur de s'orienter vers ces lectures plus spécialisées.
+
+
+Cet ouvrage débute par une présentation de la variable dépendante de
+l'APE, c'est-à-dire de la politique étrangère elle-même, et indique en quoi,
+justement, elle varie (chapitre 1). Les chapitres suivants s'attaquent à deux
+postulats fragiles sur lesquels repose une part significative des études
+internationales, soit la primauté du niveau systémique (chapitre 2) et la
+rationalité des acteurs (chapitre 3). Puis, l'ouvrage présente différents
+modèles explicatifs, en commençant par l'échelle macroscopique, proche de
+la sociologie, et en terminant par l'échelle microscopique, inspirée par la
+psychologie. Il s'attarde ainsi successivement sur les forces culturelles
+(chapitre 4), les acteurs sociaux (chapitre 5), les institutions politiques
+(chapitre 6), l'appareil bureaucratique (chapitre 7) et les individus
+(chapitre 8).
+
+
+Chapitre 1
+
+
+L'identification de la politique étrangère
+
+
+CE CHAPITRE PORTE SUR UN PRÉALABLE ESSENTIEL à toute analyse de la
+politique étrangère, celui qui consiste à identifier, avec le plus de précision
+possible, une politique étrangère à comprendre ou à expliquer. Cette étape
+est trop souvent escamotée et constitue le talon d'Achille de plusieurs
+travaux, si préoccupés par le processus de prise de décision qu'ils en
+viennent à négliger la politique étrangère elle-même. Or, il est indispensable
+que l'analyste définisse avec soin la politique qu'il souhaite expliquer
+puisque cette définition déterminera ensuite le type d'explication
+recherchée. Définir, c'est interpréter, c'est-à-dire donner un sens qui oriente
+déjà le type d'explication recherchée.
+
+
+Lors de la guerre du Golfe de 1990-1991, la Suisse refusa aux membres
+de la coalition de survoler son espace aérien pour le transport des troupes et
+des munitions vers l'Irak. Un premier chercheur pourrait interpréter cette
+décision comme la manifestation de la doctrine suisse de neutralité. Il
+cherchera alors à expliquer la persistance de cette neutralité : Est-ce
+l'identité nationale suisse qui mobilise cet héritage historique comme
+principe fédérateur ? Peut-être est-ce plutôt les particularités
+institutionnelles du système politique suisse qui dissuade le Conseil fédéral
+de réinterpréter ses obligations constitutionnelles ?
+
+
+Un deuxième chercheur, cependant, pourrait remarquer que le
+gouvernement helvétique imposa à l'Irak les sanctions économiques
+prévues dans la résolution 661 du Conseil de sécurité, pour en conclure
+qu'il s'agit d'un assouplissement de la politique de neutralité. Expliquer le
+changement plutôt que la continuité le conduira alors à étudier les
+bouleversements géopolitiques qu'entraîna la fin de la guerre froide, ou
+encore les rapports de pouvoir changeants au sein des membres du
+
+
+gouvernement. Cet exemple illustre bien que la politique d'un même État,
+concernant une même question et à une même période, peut être interprétée
+de différentes manières et l'interprétation choisie orientera dès le départ la
+recherche dans une direction plutôt qu'une autre.
+
+
+Pour interpréter correctement une politique étrangère, le chercheur se
+doit de la comparer minutieusement, que ce soit avec les politiques
+déployées précédemment, avec celles des autres États, ou avec celles qui
+relèvent de la politique interne. Même dans le cadre d'une étude qui se
+concentre sur un cas unique, l'exercice de comparaison est indispensable
+pour la mise en perspective de ce cas. C'est la raison pour laquelle James
+Rosenau exprima, dès les années 1960, un vibrant plaidoyer pour une
+approche résolument comparative de l'APE :
+
+
+« Comprendre les activités externes aux entreprises par un seul système
+national ne peut fournir une réponse suffisante aux questions portant sur
+l'adaptation systémique et le processus politique inhérent à la politique
+étrangère. Les expériences répétées de deux systèmes ou plus doivent être
+minutieusement comparées pour qu'une réponse à ces questions puisse
+émerger. C'est seulement de cette manière que l'analyste intéressé par la
+théorie peut satisfaire sa curiosité et que celui intéressé par la pratique
+peut acquérir des connaissances fiables sur lesquelles formuler des
+recommandations et appuyer des décisions. C'est seulement de cette
+manière qu'il sera possible d'aller au-delà des circonstances historiques et
+d'identifier des continuités dans un monde aux nations multiples. »
+
+
+(1968,  . 329)
+
+
+Pour des raisons similaires à celles évoquées par James Rosenau il y a
+bientôt 50 ans, la comparaison demeure une composante centrale de l'APE.
+Que la méthode soit quantitative ou qualitative, que l'entreprise soit
+positiviste ou post-positiviste, la comparaison entre différents États, entre
+différentes périodes ou entre différents champs reste essentielle pour
+identifier les particularismes et les généralités, de même que la continuité et
+le changement (Kaarbo, 2003).
+
+
+Comparer exige toutefois des points de repère permettant d'appréhender
+le réel et d'identifier les variations. Chaque analyste de la politique
+étrangère privilégie des points de repère différents. Charles Hermann, par
+
+
+exemple, en mobilise quatre : l'orientation, le problème, le programme et le
+niveau d'engagement de la politique étrangère (1990). Peter Katzenstein,
+quant à lui, compare les politiques commerciales en contrastant leurs
+objectifs et leurs instruments (1977).
+
+
+Ce chapitre se concentre sur quatre points de repère pouvant fonder une
+approche comparative, soit les objectifs (partie 1), la mobilisation (partie 2),
+les instruments (partie 3) et les résultats (partie 4). Comme il le met en
+exergue, cependant, c'est généralement moins l'identification de repères qui
+pose problème, que l'accès à des données comparables pour les
+documenter.
+
+
+Les objectifs de la politique étrangère
+
+
+Certains analystes des relations internationales attribuent à la politique
+étrangère un objectif général et prédéfini, valable pour tous et en toutes
+circonstances, et ce de façon universelle et intemporelle. Selon leurs
+inclinaisons théoriques, ils considèrent tour à tour que la politique étrangère
+vise la stabilité du système international, l'accumulation de richesses, la
+croissance de la puissance relative, le maintien des dirigeants au pouvoir ou
+encore la reproduction de l'identité nationale (Battistella, 2002). Stephen
+Krasner, par exemple, avance que la politique étrangère vise la protection
+de la souveraineté nationale et présume que « tous les groupes dans la
+société appuient la préservation de l'intégrité territoriale et politique >>>
+(1978,  . 329).
+
+
+Postuler de cette façon que les États poursuivent un objectif unique et
+prédéfini confère un avantage méthodologique indéniable. Le chercheur est
+alors dispensé de le démontrer et peut librement interpréter ou modéliser les
+comportements. Comme le note Hans Morgenthau, attribuer un objectif à la
+politique étrangère « impose une discipline intellectuelle à l'observateur,
+ordonne rationnellement le champ politique et rend sa compréhension
+théorique possible » (2005 [1948], p. 5).
+
+
+Il s'agit cependant d'une fiction méthodologique qui ne correspond pas
+aux réalités. Les dirigeants politiques poursuivent plusieurs objectifs, dont
+certains peuvent être contradictoires. La conception de l'intérêt national,
+
+
+plus généralement, varie en fonction des périodes, des pays et des individus.
+Pour Raymond Aron, par exemple, « Clemenceau voulait la sécurité,
+Napoléon la puissance, Louis XIV la gloire de la France1 » (1962, p. 84).
+Cette variation conduisit Aron à conclure qu'il ne peut y avoir de théorie
+générale des relations internationales, valide en toutes circonstances et sur
+toutes les questions (p. 102).
+
+
+En accord avec Aron, plusieurs analystes de la politique étrangère se
+refusent à définir arbitrairement l'objectif de la politique étrangère. Ils
+s'attachent plutôt à retracer et à comparer les objectifs véritables et
+spécifiques des acteurs qu'ils étudient. Pour ce faire, deux méthodes sont
+possibles: considérer que les objectifs que les dirigeants annoncent sont
+effectivement ceux qu'ils poursuivent, ou encore déduire les objectifs
+poursuivis en fonction de leurs comportements adoptés.
+
+
+Les objectifs communiqués
+
+
+Les analystes de la politique étrangère peuvent, dans certains cas,
+identifier les objectifs de la politique étrangère dans les déclarations
+publiques des gouvernements. Les énoncés de politique, les discours
+officiels, les rapports du gouvernement au Parlement et les livres blancs
+peuvent être mobilisés comme sources d'information. Bien que ces
+déclarations publiques soient généralement formulées comme des outils de
+communication, elles acquièrent parfois ex post le statut de doctrine et
+servent alors de guide d'action à l'appareil bureaucratique et aux
+successeurs de ceux qui les ont initialement énoncés (Michaud et Tremblay,
+2006).
+
+
+Un objectif de politique étrangère précisément énoncé dans une
+déclaration publique indiquerait quatre éléments, soit la cible, le
+mouvement, les effets de ce mouvement et un horizon temporel. Un objectif
+de politique étrangère précis serait, par exemple, « d'améliorer les
+conditions d'accès aux médicaments dans les pays d'Afrique subsaharienne
+pour enrayer la propagation du VIH dans les dix prochaines années » ou
+encore << de s'assurer que tous les pays du Caucase soient des démocraties
+
+
+représentatives d'ici cinq ans pour favoriser un approvisionnement stable en
+gaz naturel » (Snyder et al., 2002 [1962], p. 72).
+
+
+Si tous les États formulaient explicitement leurs objectifs aussi
+clairement et précisément, il serait facile pour l'analyste d'identifier des
+variations dans l'un ou l'autre des éléments qui composent leurs objectifs
+de politique étrangère. La variable dépendante pourrait facilement être
+documentée et l'analyste pourrait se concentrer sur les variables
+indépendantes. Pourquoi certains États ont-ils un horizon temporel plus
+limité que d'autres pour enrayer la propagation du VIH ? Comment
+expliquer que certains États, contrairement à d'autres, considèrent la
+démocratie comme un facteur de stabilité ?
+
+
+La difficulté résulte du fait que les objectifs de politique étrangère sont
+rarement énoncés avec autant de précision. Plusieurs dirigeants politiques
+se réfugient systématiquement derrière la notion d'intérêt national dès qu'il
+s'agit de préciser leurs objectifs. Le recours à ce concept leur permet de
+dépolitiser la politique étrangère et de générer une certaine légitimité.
+Comme le remarqua Henry Kissinger, « lorsque vous demandez aux
+Américains de mourir, il faut que vous puissiez l'expliquer dans les termes
+de l'intérêt national » (Weldes, 1999, p. 1). Ce sont néanmoins les objectifs
+politiques qui définissent la conception de l'intérêt national, et non
+l'inverse. La notion d'intérêt national est dépourvue en elle-même de toute
+signification pré-sociale (Rosenau, 1968 et 1980; Frankel, 1970;
+Finnemore, 1996; Weldes, 1996).
+
+
+Plus encore, lorsqu'un objectif précis est bel et bien communiqué,
+l'analyse peut légitimement suspecter qu'il existe un décalage entre cet
+objectif déclaré et l'objectif réellement poursuivi (Onuf, 2001). Au moins
+trois raisons peuvent justifier un tel décalage. Premièrement, les autorités
+publiques peuvent avoir intérêt, afin de préserver leur réputation et leur
+légitimité sur la scène internationale, de masquer leurs quêtes de gains
+relatifs en évoquant la recherche de gains absolus, ou pour reprendre les
+termes d'Arnold Wolfers, de cacher leurs objectifs de possession derrière
+des objectifs de milieu (1962, p. 73-77). Des restrictions commerciales
+visant à protéger une industrie nationale seront prises au nom de la
+protection de l'environnement ; une intervention militaire visant à garantir
+l'accès à des ressources naturelles sera lancée au nom de la stabilité du
+
+
+système international; et l'inaction devant des actes répréhensibles d'un
+allié sera justifiée au nom du droit international.
+
+
+Deuxièmement, les dirigeants politiques peuvent être tentés de réduire
+l'ambition déclarée de leur politique étrangère pour accroître leurs
+probabilités de succès et rehausser ainsi leur stature sur la scène politique
+nationale. Par exemple, l'administration Clinton affirma que les
+bombardements en Irak de 1998 visaient modestement à affaiblir la capacité
+du régime de Saddam Hussein de produire des armes de destruction
+massive. Plusieurs observateurs soupçonnent toutefois que les objectifs
+réels des États-Unis étaient plus ambitieux, allant de l'élimination de toute
+capacité de production d'armes de destruction massive au renversement de
+Saddam Hussein. Mais ces objectifs étant plus difficiles à atteindre,
+l'administration Clinton opta pour une stratégie de communication
+garantissant un succès aux yeux de l'opinion publique américaine (Zelikow,
+1994; Baldwin, 1999; Baum, 2004).
+
+
+Troisièmement, les décideurs éludent généralement la question des
+objectifs communicationnels plutôt que de les reconnaître ouvertement. Une
+intervention armée à l'étranger, par exemple, peut être officiellement
+justifiée par la nécessité de renverser un gouvernement hostile ou de
+prévenir une attaque imminente. Mais, derrière ces objectifs instrumentaux
+peuvent se cacher des objectifs communicationnels tout aussi importants.
+L'intervention armée peut également viser à exprimer une démonstration de
+force aux États tiers ou à alimenter le patriotisme sur la scène politique
+nationale. Reconnaître ouvertement ces objectifs communicationnels est
+toutefois contre-productif et risque d'entacher la crédibilité de l'autorité
+publique, tant sur la scène politique nationale qu'internationale.
+L'énonciation d'objectifs communicationnels mine paradoxalement leur
+réalisation (Lindsay, 1986; Kaempfer et Lowenberg, 1988).
+
+
+Par conséquent, l'analyse de discours n'est généralement pas suffisante
+pour identifier les objectifs précis réellement poursuivis par la politique
+étrangère. Plus généralement, toutes les sources qui énoncent explicitement
+des objectifs doivent être traitées avec précaution. Les déclarations
+politiques et les communiqués de presse sont souvent destinés à l'électorat
+et sont parfois en décalage avec la politique étrangère qu'ils évoquent. Les
+autobiographies des décideurs ne sont que des narrations construites a
+
+
+posteriori, à la lumière des événements que les politiques étrangères ont
+entraînés. Les comptes-rendus et les enregistrements de réunions, lorsqu'ils
+sont disponibles, sont quant à eux partiels et incomplets. Même les fuites
+apparentes de documents secrets doivent faire l'objet d'un examen attentif
+de leur authenticité et de leur représentativité.
+
+
+Déduire les objectifs poursuivis
+
+
+Plutôt que de se fier aux objectifs déclarés publiquement, quelques
+techniques permettent de déduire les objectifs de la politique étrangère du
+comportement des États. L'une d'elles consiste à analyser les résultats
+obtenus. Si une politique est maintenue sur une longue durée et que les
+décideurs ont eu maintes occasions de l'évaluer et de la modifier, on peut
+inférer que ses résultats correspondent aux objectifs poursuivis. Par
+exemple, de nombreuses études sur l'aide publique au développement
+notent que l'aide bilatérale a un impact minime sur le développement
+économique des pays bénéficiaires. Puisque cette pratique est répétée
+depuis plusieurs des décennies, on peut légitimement mettre en doute que
+l'objectif premier soit de favoriser le développement économique (Collier et
+Dollar, 2002; Easterly, 2006; Jensen et Paldam, 2006; Rajan et
+Subramanian, 2008).
+
+
+Plusieurs travaux révèlent toutefois une relation positive et
+statistiquement significative entre l'aide au développement et la
+concordance des votes dans les enceintes internationales. De façon
+générale, plus un pays reçoit de l'aide, plus ses prises de position à
+l'Assemblée générale des Nations unies ressemblent à celle de ses
+donateurs. L'analyste pourrait être tenté de conclure de cette observation
+que l'objectif cardinal de l'aide publique au développement est d'accroître
+l'influence politique du donateur (Rai, 1980; Lundborg, 1998; Wang,
+1999; Lai et Morey, 2006; Dreher et al., 2008).
+
+
+Une telle conclusion serait toutefois hâtive. D'abord, certaines études,
+minoritaires mais surprenantes, observent une relation statistique inverse.
+Selon elles, l'aide réduit plutôt qu'elle augmente la coopération du pays
+bénéficiaire avec celle du pays donateur (Sullivan et al., 2011). Ensuite,
+même si l'apparente corrélation entre l'aide et la concordance des votes
+
+
+s'avérait être une causalité, les effets ne correspondent pas toujours aux
+intentions. La réaction des pays bénéficiaires pourrait résulter de processus
+de socialisation qui accompagnent l'aide, sans nécessairement qu'elle en
+soit l'objectif premier.
+
+
+Une autre approche, plus convaincante, consiste à déduire les objectifs de
+la politique étrangère des variables qui l'influencent. En reprenant
+l'exemple de l'aide au développement, plusieurs études indiquent que les
+considérations politiques semblent avoir une plus grande influence que les
+besoins économiques sur les décisions concernant le choix des pays
+bénéficiaires et les montants accordés. Autrement dit, les pays qui ont le
+plus besoin d'aide humanitaire ne sont pas ceux qui en reçoivent le plus. La
+position géographique stratégique, la menace de renversement du pouvoir
+par une opposition hostile, l'alignement idéologique du gouvernement, le
+rayonnement dans une zone régionale et une clique de dirigeants
+suffisamment restreinte pour pouvoir être corrompue ont tous un effet
+positif sur l'aide au développement. L'élection d'un pays en développement
+au Conseil de sécurité, par exemple, fait en moyenne bondir l'aide
+américaine de 59%, avant que l'aide ne retourne à un niveau normal dès
+que ce pays perd son siège stratégique. On peut en conclure que les pays
+donateurs sont animés par la recherche de gains politiques plutôt que par
+des considérations humanitaires (Maizels et Nissanke, 1984; Trumball et
+Wall, 1994; Poe et Meernik, 1995; Katada et McKeown, 1998; Meernik et
+al., 1998; Schrader et al., 1998; Thacker, 1999; Alesina et Dollar, 2000;
+Palmer et al., 2002; Lai, 2003; Kuziemko et Weker, 2006; Roper et
+Barria, 2007; Bueno de Mesquita et Smith, 2007 et 2009).
+
+
+Il faut toutefois garder à l'esprit que l'identification d'un objectif
+n'exclut pas automatiquement les autres possibilités. Une même politique
+étrangère peut viser simultanément plusieurs objectifs, certains de
+possession et d'autres de milieu; certains instrumentaux et d'autres
+communicationnels; certains intermédiaires d'autres finaux ; certains de
+court terme et d'autres de long terme ; certains internes et d'autres externes.
+Si l'aide au développement vise effectivement la consolidation d'alliances
+politiques, rien n'exclut qu'elle soit également motivée par des
+considérations morales, commerciales ou électorales (Lindsay, 1986;
+Morgan et Palmer, 1997; Lahiri et Raimondos-Møller, 2000; Diven 2006).
+
+
+En fait, l'addition d'une longue série d'objectifs semble être la règle
+plutôt que l'exception dans les sociétés pluralistes. Les politiques étrangères
+sont souvent le résultat de compromis entre les différents acteurs impliqués
+dans le processus interne de prise de décision. Pour en arriver à une
+politique commune, ils sont incités à imaginer une formule qui leur permet
+de cumuler leurs objectifs respectifs.
+
+
+Tous les politiciens élus préfèrent annoncer une politique étrangère qui
+vise simultanément, par un même instrument, une vaste gamme d'objectifs.
+Inversement, ils évitent les situations qui les forcent à arbitrer entre
+différents objectifs, puisqu'ils doivent alors nécessairement décevoir une
+part de l'électorat. La question des sanctions commerciales contre la
+République populaire de Chine, par exemple, a placé plusieurs dirigeants
+occidentaux dans une position délicate en opposant la poursuite des intérêts
+commerciaux à la défense des Droits de l'homme (Drury et Li, 2006).
+
+
+Plus encore, l'idée même d'objectifs relativement stables et prédéfinis,
+antérieurs au déploiement de la politique étrangère, est sujette à
+controverse. Dans certains cas, les objectifs de politique étrangère semblent
+être eux-mêmes fonction des instruments qui ont été déployés
+précédemment. Est-ce les investissements dans l'armement qui servent des
+objectifs militaires ou plutôt les objectifs militaires qui servent à justifier les
+investissements dans l'armement ? Est-ce que la stabilisation politique des
+Balkans vise l'élargissement de l'Union européenne ou est-ce
+l'élargissement qui vise la stabilisation politique ? Il est parfois difficile de
+distinguer les objectifs de la mobilisation, des instruments et des résultats.
+Pour cette raison, plusieurs analystes préfèrent ignorer les objectifs de la
+politique étrangère dans leur exercice de comparaison et se concentrer sur
+les ressources mobilisées, soi-disant directement observables, voire
+quantifiables.
+
+
+La mobilisation des ressources
+
+
+<< La puissance, est comme la météo : tout le monde en parle, mais peu la
+comprennent » (Nye, 2000, p. 55). En effet, la puissance est sans conteste
+l'un des concepts les plus fondamentaux des relations internationales, mais
+
+
+aussi l'un des plus difficiles à définir et à opérationnaliser (Guzzini, 2004 ;
+Barnett et Duvall, 2005).
+
+
+Raymond Aron est l'un des rares analystes ayant proposé une vision à la
+fois claire et nuancée de la puissance. Pour Aron, la puissance est la mise en
+œuvre des ressources, quelles qu'elles soient, dans des circonstances
+déterminées. Il ne s'agit ni de la possession d'une ressource, ni du contrôle
+d'une structure particulière, mais de la mobilisation des ressources compte
+tenu d'une structure. Par exemple, dans un jeu de cartes, la puissance n'est
+pas la possession d'une quinte flush royale, ni la capacité de déterminer les
+règles du jeu, mais l'abattement d'une quinte flush royale dans un moment
+stratégique d'un jeu de poker. Les ressources et le contexte sont des
+éléments indispensables de la puissance, mais ils ne sont pas suffisants pour
+la constituer en eux-mêmes (Aron, 1962).
+
+
+De ce point de vue, la puissance n'est pas simplement un déterminant de
+la politique étrangère ou une donnée avec laquelle les gouvernements
+doivent composer. Elle est plutôt une composante de la politique étrangère
+qui peut être évaluée, comparée et expliquée il y a des politiques de
+puissance, comme il y a des politiques de repli.
+
+
+Les ressources
+
+
+La définition que propose Aron de la puissance s'inscrit en rupture avec
+le réflexe traditionnel d'évaluer la puissance uniquement à partir de la force
+potentielle, c'est-à-dire des ressources disponibles. Par ressources, il faut ici
+entendre le capital que les États peuvent mobiliser, mais rarement amplifier
+d'eux-mêmes, comme le territoire, la population et les matières premières.
+Cet indicateur de la puissance offre le double avantage d'être relativement
+stable et de pouvoir être quantifiable, que ce soit en kilomètre carré, tonne
+ou en millier d'habitants. Les ressources contrôlées par État ne sont qu'un
+indicateur indirect de la puissance, mais il facilite significativement les
+comparaisons.
+
+
+L'exercice de comparaison peut néanmoins être complexifié en prenant
+en compte toute l'étendue de la gamme de ressources pertinentes à la
+politique étrangère. Dans les années 1940, plusieurs analystes se
+
+
+concentraient encore uniquement sur les ressources matérielles ou
+démographiques. Mais depuis les travaux de Morgenthau (1948), la
+majorité d'entre eux prennent également en compte les ressources
+idéationnelles. En effet, le prestige et le patriotisme peuvent être tout aussi
+déterminants en politique étrangère que le nombre de cubes métriques de
+pétrole, les citoyens en diaspora ou la surface de terre arable (Posen, 1993 ;
+Hall, 1997; Nye, 2004; Fordham et Asal, 2007).
+
+
+La garde suisse pontificale, par exemple, n'est certainement pas le corps
+d'armée le plus imposant, mais le Vatican jouit néanmoins d'une influence
+considérable dans plusieurs régions du monde en raison de son autorité
+morale. De même, plusieurs se demandent si la véritable source de
+puissance de l'Union européenne ne réside pas dans sa capacité à définir ce
+qui est << normal », « éthique » ou « moral » sur la scène internationale
+plutôt que dans ses ressources économiques ou militaires (Duchêne, 1972 ;
+Hill, 1990; White, 1999; Manners, 2002; Nicolaïdis et Howse, 2003;
+Diez, 2005; Sjursen, 2006 ; Telo, 2007).
+
+
+Inversement, certains acteurs sont vraisemblablement handicapés par leur
+carence en capital symbolique. À l'époque de l'apartheid, l'Afrique du Sud
+ne connaissait évidemment pas un rayonnement politique important sur le
+continent africain, malgré son poids économique prépondérant. Dans une
+moindre mesure, l'intérêt de la Chine pour les ressources naturelles
+africaines est contraint par le fossé culturel qui les sépare. Malgré leur passé
+colonial, plusieurs pays européens ont conservé des relations privilégiées
+avec les sociétés africaines : les flux migratoires, le travail des ONG, le
+partage d'une langue commune et les communautés religieuses sont autant
+d'atouts qui favorisent indirectement les investissements occidentaux en
+Afrique (Alden et Hughes, 2009).
+
+
+Parallèlement à la multiplication des ressources et au dévoilement de leur
+dimension sociale, la majorité des analystes en sont également venus à
+reconnaître qu'elles sont nécessairement spécifiques à un champ particulier.
+Aucune ressource n'est pertinente pour tous les théâtres d'action. Il est
+illusoire comme certains tentaient encore de le faire durant la guerre
+froide - de développer un index de puissance absolue qui serait valide en
+toutes circonstances. La puissance est toujours spécifique à un contexte
+particulier (Ferris, 1973 ; Taber, 1989).
+
+
+C'est d'abord la géopolitique et les études stratégiques qui ont mis en
+lumière cette spécificité de la puissance : le type de ressources nécessaires
+pour vaincre militairement dépend fatalement du champ de bataille. Les
+frontières de l'Australie, de la Suisse et de la Russie sont si différentes, en
+nombre, en étendue et en nature, que les ressources mobilisées pour les
+défendre doivent inévitablement être adaptées à leur contexte respectif.
+Plusieurs travaux récents, d'ailleurs, continuent de souligner le rôle
+fondamental de la géographie dans les probabilités statistiques de conflits et
+de victoires militaires (Bremer, 1993; Vasquez, 1995; Senese, 1996 et
+2005; Mitchell et Prins, 1999; Reiter, 1999; Braithwaite, 2005).
+
+
+Mais la spécificité de la puissance est également valide dans les arènes
+diplomatiques et les différents champs politiques. Le nombre d'ONG
+déployées en Afrique, par exemple, ne peut être utilisé pour établir les
+rapports de force à l'Organisation mondiale du commerce, pas plus que la
+distribution des réserves de pétrole ne peut expliquer l'échec des réformes
+du Conseil de sécurité de l'ONU. La politique étrangère s'inscrit toujours
+dans un contexte particulier qui détermine la pertinence des ressources qui
+peuvent être mobilisées dans une politique de puissance (Baldwin, 1989).
+
+
+Il est vrai que certaines ressources, notamment financières, semblent
+relativement fongibles et peuvent être facilement transférées d'un domaine
+à un autre (Art, 1996). Le gouvernement Eisenhower a ainsi profité de ses
+réserves de livres sterling lors de la crise de Suez pour menacer le
+Royaume-Uni d'une crise financière si l'armée britannique ne se retirait pas
+d'Égypte. Mais un tel transfert de ressources entre deux domaines
+complètement distincts sur les plans cognitifs et institutionnels est
+exceptionnel. Les ressources ne peuvent être agrégées pour être mobilisées
+indifféremment dans tous les domaines de la politique étrangère.
+
+
+Le paradoxe de la puissance
+
+
+La possession de ressources pertinentes à un domaine particulier et en
+quantité supérieure à celles des autres pays n'est pas une condition
+suffisante pour exercer une influence. Encore faut-il que ces ressources
+soient effectivement mobilisées dans le cadre d'une politique de puissance.
+Or, il arrive fréquemment qu'un État ne traduise pas ses ressources en
+
+
+influence. C'est ce que plusieurs analystes de la politique étrangère
+appellent le « paradoxe de la puissance » (Ray et Vural, 1986; Maoz,
+1989; Baldwin, 1989).
+
+
+Par exemple, au lendemain de la Première Guerre mondiale, les États-
+Unis disposaient déjà de toutes les ressources économiques nécessaires pour
+imposer un ordre économique international conforme à leurs intérêts.
+Malgré cette opportunité, ils se replièrent sur eux-mêmes et privilégièrent
+une politique étrangère isolationniste. Lors de l'effondrement boursier de
+1929, le Congrès réagit de manière particulièrement défensive et
+protectionniste, en haussant drastiquement les tarifs douaniers au lieu
+d'œuvrer à maintenir un régime international stable et ouvert. Ce n'est qu'à
+partir de la présidence de Roosevelt que les États-Unis traduisirent leurs
+formidables ressources économiques en influence (Kindleberger, 1981;
+Frieden, 1988; Zakaria, 1998).
+
+
+D'une certaine manière, à l'image des États-Unis dans les années 1920,
+la Chine contemporaine fait également preuve de retenue. Compte tenu de
+ses capacités, Pékin demeure relativement effacé dans les négociations
+financières et commerciales. Il existe un décalage indéniable entre les
+ressources dont elle dispose et l'influence qu'elle exerce. C'est en raison
+d'exemples comme ceux-ci que Robert Keohane et Joseph Nye insistent
+pour définir l'hégémon économique comme un acteur qui a non seulement
+les ressources suffisantes pour maintenir un ordre économique, mais qui a
+également la volonté de les mobiliser en ce sens (Keohane et Nye, 1977,
+p. 44).
+
+
+Inversement, certains acteurs disposant de relativement peu de ressources
+parviennent à s'imposer (Neumann et Gstöhl, 2006). En Asie, de petites
+économies exercent une influence prépondérante dans l'intégration
+économique régionale, face aux grandes puissances économiques que sont
+le Japon et la République populaire de Chine (Montsion et Stubb, 2007). En
+Europe, des petits États comme le Danemark ou la Belgique réussissent
+parfois à exercer une influence prépondérante sur les politiques et le
+fonctionnement de l'Union européenne (König et Slapin, 2004; Slapin,
+2006; Nasra, 2011 ; Schneider, 2011).
+
+
+Les seuls pays dont les comportements semblent, à première vue,
+systématiquement correspondre à leurs ressources sont ceux que l'ont
+
+
+qualifie parfois de « puissances moyennes ». Mais ce n'est qu'une illusion,
+ou plutôt une tautologie. En effet, la notion de puissance moyenne réfère
+moins à la proportion de ressources dont dispose un État qu'à son
+comportement de politique étrangère. Une puissance moyenne est celle qui
+cherche les compromis, qui favorise le multilatéralisme, qui plaide pour la
+résolution pacifique des différends et qui se plie au droit et aux normes
+internationales. C'est un rôle socialement construit plutôt qu'un statut
+tributaire d'un certain niveau de ressources. C'est ce qui permet de qualifier
+de << puissance moyenne » des pays aussi différents que la France, le
+Canada et l'Irlande (Dewitt, 2000; Chapnick, 2000; Gecelovsky, 2009;
+Cooper, 2011).
+
+
+La mobilisation et l'exploitation
+
+
+Si on ne peut expliquer une politique étrangère spécifique par la
+distribution des ressources, c'est en raison des nombreuses variables
+intermédiaires qui se situent entre les ressources et l'influence. Les
+ressources naturelles ne peuvent pas d'elles-mêmes accroître le commerce
+extérieur et celui-ci ne peut pas s'exploiter lui-même pour imposer des
+sanctions économiques, pas plus qu'une population nombreuse ne se
+mobilise d'elle-même dans l'armée et que celle-ci ne s'engage d'elle-même
+dans des conflits internationaux. Ce sont des acteurs, œuvrant dans un cadre
+social et institutionnel particulier, qui transforment les ressources en
+capacités et les capacités en instruments de politique étrangère.
+
+
+Or, la faculté et la volonté d'exercer une politique de puissance varient
+d'un État à l'autre. C'est ce qu'admettent un nombre croissant de partisans
+du courant réaliste des relations internationales. S'ils considèrent que les
+États cherchent d'abord à assurer leur sécurité et à maximiser leur
+puissance, ils reconnaissent de plus en plus que des dynamiques internes
+propres à chaque État modulent leurs ambitions (Krasner, 1977 et 1978 ;
+Mastanduno et al., 1989; Lamborn, 1991; Rosecrance et Stein, 1993;
+Christensen, 1996; Rose, 1998; Zakaria, 1998; Schweller, 2006; Lobell et
+al., 2009; Cladi et Webber, 2011; Fordham, 2011; Kirshner, 2012).
+
+
+Ces variations d'un État à l'autre portent notamment sur la primauté
+relative des stratégies de mobilisation et sur celles d'exploitation. La
+
+
+mobilisation peut être définie comme la transformation des ressources
+disponibles pour en générer des capacités additionnelles. L'exploitation,
+quant à elle, est la transformation de capacités en instrument de politique
+étrangère. Tous les États poursuivent à la fois des stratégies de mobilisation
+et d'exploitation, mais l'équilibre entre ces deux pôles varie en fonction des
+préférences et des contraintes propres à chacun (Mastanduno et al., 1989).
+
+
+Dans certains cas, les stratégies de mobilisation et d'exploitation peuvent
+être contradictoires. Par exemple, libéraliser une économie par le biais
+d'accords commerciaux peut favoriser la mobilisation des ressources, mais
+restreindre la capacité d'imposer des sanctions commerciales. Inversement,
+augmenter significativement les impôts pour financer une intervention
+armée à l'étranger peut freiner plutôt que stimuler la croissance
+économique.
+
+
+La thèse des cycles des puissances impériales développée par Paul
+Kennedy repose précisément sur cette contradiction entre mobilisation et
+exploitation. Plusieurs pays qui sont effectivement parvenus à dominer
+l'ordre international ont misé l'essentiel de leurs efforts sur des stratégies
+d'exploitation. Ce faisant, ils ont négligé de mobiliser de nouvelles
+ressources et ont paradoxalement miné leurs propres assises, conduisant à
+leur déclin (Kennedy, 1987; Snyder, 1991).
+
+
+Une autre variation affectant le recours aux ressources concerne les
+arbitrages entre le contrôle, l'autonomie et la légitimité. En fonction de la
+structure sociale et du système politique en place, les dirigeants peuvent
+privilégier l'une ou l'autre de ces trois composantes du pouvoir. Or, une
+politique qui en favorise une peut défavoriser les deux autres. Par exemple,
+envahir un État voisin peut augmenter les ressources contrôlées, mais nuire
+à sa légitimité aux yeux des vaincus et de leurs alliés. Se plier aux
+recommandations des organisations intergouvernementales peut accroître la
+légitimité, mais restreindre l'autonomie politique. Et refuser l'aide
+extérieure peut rehausser l'autonomie politique, mais réduire le contrôle sur
+les ressources (Mastanduno et al., 1989; Litfin, 1997; Blanchard et
+Ripsman, 2008).
+
+
+En somme, si les approches fondées sur la comparaison de ressources
+potentielle offrent l'avantage appréciable de pouvoir être basées sur des
+données observables, et généralement quantifiables, elles ne sont que d'une
+
+
+utilité limitée pour expliquer la politique étrangère. Non seulement la
+politique étrangère n'est pas guidée par un porte-folio agrégé de ressources,
+mais elle contribue elle-même à définir la puissance. Autrement dit, la
+puissance est plus qu'un stock qui détermine la politique étrangère, elle est
+le flux qui la constitue.
+
+
+Les instruments de la politique étrangère
+
+
+Les instruments servent fréquemment de points de repère pour
+documenter les variations de politique étrangère, que ce soit à travers le
+temps, les domaines ou l'espace. Dans une certaine mesure, cet accent sur
+les instruments reflète le processus de prise de décision lui-même. Les
+décideurs sont souvent contraints de réagir rapidement à des crises
+internationales et ont rarement l'opportunité politique de réévaluer leurs
+objectifs ou de réfléchir à l'équilibre entre l'exploitation et la mobilisation
+de leurs ressources. Lorsque les chefs de gouvernement sont appelés à
+prendre une décision, ils doivent généralement choisir parmi une liste
+d'options préparée par l'administration concernant diverses possibilités
+
+
+d'intervention.
+
+
+Communication rationnelle
+
+
+Action rhétorique
+
+
+Socialisation
+
+
+Marchandage
+
+
+Dissuasion
+
+
+Coercition
+
+
+Contrainte
+
+
+Subversion
+
+
+Intervention année
+
+
+Intervention
+
+
+Figure 1. La gamme d'instruments de politique étrangère
+
+
+Plusieurs analystes et praticiens conçoivent les possibilités d'intervention
+comme une gamme d'instruments similaire à celle présentée ci-dessus. Elle
+
+
+s'étend de la diplomatie à la force armée ou, pour reprendre les termes de
+Joseph S. Nye (2004), de la puissance douce à la puissance forte. Entre ces
+deux extrêmes, se trouvent plusieurs types d'instruments que l'on peut
+regrouper en trois catégories, soit la socialisation, qui vise à maintenir ou à
+modifier les idées, la coercition, qui vise à maintenir ou modifier les
+intérêts, et l'intervention, qui vise à maintenir ou modifier les structures
+politiques internes d'un État étranger. Chacune de ces catégories peut, à son
+tour, être décomposée en sous-catégories.
+
+
+La socialisation
+
+
+La première catégorie d'instruments, la socialisation, peut être définie
+comme le transfert de croyances, de valeurs et d'idées d'un acteur à un
+autre (Schimmelfennig, 2000; Alderson, 2001). Comme l'écrit Thomas
+Risse, « les idées ne flottent pas librement » (1994) ; elles sont activement
+promues par des acteurs particuliers, du moins dans les premiers stades de
+leur diffusion.
+
+
+Les idées sont diffusées de différentes manières. Il peut arriver, dans le
+cadre d'un processus de communication rationnelle, qu'un acteur soit
+sincèrement convaincu de la justesse des arguments d'un autre et qu'il en
+vienne à modifier ses propres idées. La majorité des analystes considèrent
+toutefois qu'une communication sincère, dans laquelle tous les participants
+sont prêts à se laisser convaincre par les meilleurs arguments, est
+extrêmement rare en relations internationales (Gehring et Ruffing, 2008).
+
+
+La majorité des acteurs communiquent en relations internationales de
+manière stratégique. L'action rhétorique consiste à exprimer un ensemble
+d'arguments pour en arriver à des fins précises. L'acteur qui recourt à la
+rhétorique dramatise les événements, établit de nouvelles associations entre
+des idées jusque-là déconnectées, imagine des expressions évocatrices ou
+recours à des métaphores pour orienter les débats dans une direction
+spécifique (Kuusisto, 1998; Risse, 2000; Payne, 2001; Schimmelfennig,
+2001; Müller, 2004; Mitzen, 2005 ; Krebs et Jackson, 2007).
+
+
+Un échange rhétorique n'est pas l'équivalent d'un dialogue de sourds qui
+conduit nécessairement vers une impasse. Il peut conduire certains acteurs à
+
+
+modifier leurs discours ou leurs comportements. Par exemple, les pays
+africains ont réussi, en associant stratégiquement le droit des brevets à la
+diffusion du VIH, à convaincre les membres de l'Organisation mondiale du
+commerce de favoriser les exportations de médicaments génériques (Morin
+et Gold, 2010). De même, des représentants des Nations unies ont réussi,
+par leur action rhétorique sur le thème de l'avarice, à convaincre le
+gouvernement américain d'augmenter significativement son aide d'urgence
+aux victimes du tsunami dévastateur de 2004 (Steele, 2007).
+
+
+L'action rhétorique n'est pas uniquement utilisée par les plus faibles. Les
+grandes puissances l'utilisent continuellement. Le discours sur la « guerre
+contre le terrorisme » développé par l'administration de George W. Bush au
+lendemain des attentats terroristes du 11 septembre 2001 en est une
+illustration. Présenter ces attentats comme un acte de guerre contre la liberté
+et le style de vie américain, plutôt qu'un acte criminel, est une stratégie
+rhétorique qui légitime le recours à la force armée à l'étranger, réduit
+l'opposition au silence, autorise des mesures liberticides d'urgence et
+renforce l'unité nationale (Kuusisto, 1998; Heng, 2002 ; Jackson, 2005).
+
+
+Certains discours ne sont pas exprimés en mots, mais se traduisent en
+actions. En effet, le prestige peut être consciencieusement alimenté par des
+parades militaires, des explorations spatiales ou des performances
+olympiques. L'étude des achats militaires, par exemple, indique que
+l'armement peut avoir des fonctions plus symboliques que stratégiques
+(Eyre et Suchman, 1996). Certains pays se dotent d'une nouvelle flotte
+d'avions de chasse ou de sous-marins qui ne sont pas adaptés aux menaces
+auxquelles ils font face. L'impression de puissance que dégage ce type
+d'armement, cependant, peut avoir des effets bien réels. Un État qui recourt
+à de telles démonstrations de force peut effectivement espérer diffuser plus
+aisément ses idées à l'étranger (Fordham et Asal, 2007).
+
+
+La diplomatie publique, qui vise à « conquérir les cœurs et les esprits »
+des populations étrangères, est une autre stratégie de socialisation déployée
+à grande échelle. C'était déjà, lors de la guerre froide, la motivation
+première du financement public américain de Radio Free Europe et Voice of
+America. Aujourd'hui encore, plusieurs gouvernements investissent
+massivement dans la diplomatie publique. Le gouvernement français diffuse
+le point de vue français à l'étranger par le biais de plusieurs instruments,
+
+
+dont l'Agence pour l'enseignement français à l'étranger, l'Alliance
+française, TV5 Monde, France 24, Culturesfrance, Radio France
+International, les Offices franco-étranger pour la jeunesse, l'Agence France
+Presse et les bourses d'excellence Eiffel pour étudiants (Mathien, 2000;
+Goldsmith et al., 2005; Cull, 2008 ; Nye, 2008; Snow et Taylor, 2009).
+
+
+Dans d'autres cas, les États définissent plus précisément la cible de leur
+socialisation. Ils peuvent, par exemple, favoriser les interactions informelles
+et répétées entre leurs fonctionnaires et ceux d'un autre pays
+(Schimmelfenning, 1998; Checkel, 2001 et 2003; Pevehouse, 2002;
+Bearce et Bondanella, 2007; Cao, 2009; Greenhill, 2010; Morin et al.,
+2011). Des conférences intergouvernementales organisées par les pays
+exportateurs de capitaux auraient ainsi socialisé les pays en développement
+aux éventuels bienfaits des accords sur la libéralisation de l'investissement
+(Morin et Gagné, 2007). De même, la formation d'officiers étrangers dans
+les écoles militaires américaines aurait favorisé la diffusion de normes et de
+valeurs américaines (Atkinson, 2010).
+
+
+La coercition
+
+
+Alors que les divers mécanismes de socialisation sont encore
+relativement méconnus, la littérature sur la coercition est riche et fertile
+(Baldwin, 1985; Hirschman, 1980; De Wilde d'Estmael, 1998). Les
+mesures coercitives sont celles qui visent à influencer le comportement
+d'une cible en modifiant le calcul de ses intérêts, sans toutefois intervenir
+directement en territoire étranger. Sous ce vocable se cache une vaste
+gamme d'instruments découlant de processus différents et ayant des
+impacts distincts les uns des autres. Ils peuvent être ordonnés selon au
+moins cinq axes qui se superposent pour former une matrice
+multidimensionnelle.
+
+
+Le premier de ces axes distingue les instruments coercitifs qui emploient
+des sanctions positives de ceux qui recourent aux sanctions négatives
+(Crumm, 1995; Newnham, 2000). Les conditions européennes à
+l'élargissement peuvent être vues comme une forme de coercition reposant
+sur une sanction positive (Schimmelfenning et Sedelmeier, 2004).
+Inversement, les restrictions commerciales américaines imposées aux pays
+
+
+qui ne prennent pas les mesures nécessaires pour empêcher la contrebande
+d'animaux menacés d'extinction sont un exemple de sanction négative
+(Reeve, 2002).
+
+
+Un autre axe de différenciation des instruments coercitifs oppose d'un
+côté la menace de sanctions, et de l'autre, l'imposition effective des
+sanctions (Krustev, 2010). Selon certains historiens, la mobilisation des
+armées à la veille de la Première Guerre mondiale était une démonstration
+de forces visant l'intimidation et une ultime abdication avant le
+déclenchement des hostilités (Tuchman, 1962). Par contre, les décisions du
+gouvernement suisse de geler les avoirs de certains chefs d'État dans les
+banques helvétiques, de Robert Mugabe à Ben Ali en passant par Jean-
+Claude Duvalier, n'ont pas fait l'objet d'avertissement préalable (Dulin et
+Merckaert, 2009).
+
+
+Les instruments coercitifs peuvent également être distingués en fonction
+de leurs objectifs. La dissuasion est une forme de coercition qui vise à
+maintenir le statu quo alors que la contrainte en est une autre qui vise à le
+modifier. L'armement nucléaire est généralement perçu comme un
+instrument de dissuasion, c'est-à-dire une menace implicite à toute
+altération de l'équilibre des puissances (Kahn, 1966; Freedman, 1989).
+Inversement, le système américain du Super 301 qui identifie chaque année
+les pays qui ont des politiques commerciales jugées déloyales est un
+exemple de contrainte puisque les pays ciblés sont enjoints à modifier leurs
+pratiques sous peine de sanction (Sell, 2003).
+
+
+Un quatrième axe différencie les instruments coercitifs immédiats de
+ceux qui ont une portée générale (Morgan, 1977). Les premiers, parce qu'ils
+sont généralement adoptés en période de crise, s'inscrivent dans une
+logique différente des deuxièmes, dont la pratique est institutionnalisée. Le
+refus de l'administration Eisenhower d'appuyer la demande de financement
+du Royaume-Uni au FMI tant qu'il ne mettait pas fin à la Crise de Suez, ne
+peut ainsi être expliqué par les mêmes mécanismes qui ont conduit le
+Congrès à adopter une loi précisant qu'aucun pays appuyant le terrorisme
+ne peut bénéficier de l'appui des États-Unis au FMI (Kirshner, 1995).
+
+
+Un dernier axe oppose les sanctions qui visent uniquement l'élite de
+celles qui visent l'ensemble de la population. Par exemple, la décision des
+États-Unis, prise en janvier 2011, d'interdire aux citoyens américains de
+
+
+nouer des relations d'affaires avec la compagnie biélorusse d'hydrocarbure
+Belneftekhim visait principalement la garde rapprochée du président
+Alexandre Loukachenko. La réduction des exportations de pétrole par les
+pays arabes en 1973, afin de protester contre l'appui militaire américain à
+Israël, lors de la guerre du Kippour, visait quant à elle l'ensemble de
+l'opinion publique occidentale (Kaempfer et Lowenberg, 1988; Dashti-
+Gibson et al., 1997; Pape, 1997).
+
+
+L'intervention
+
+
+La troisième catégorie d'instruments regroupe les interventions et peut
+être décomposée en une typologie tout aussi complexe. Toutes les
+interventions sont des immixtions dans les affaires internes d'un État
+étranger pour en modifier les structures. Mais il importe de distinguer les
+interventions politiques des interventions militaires.
+
+
+Une intervention politique vise la subversion par l'appui aux groupes
+contestataires, ou encore la stabilisation par le soutien à un pouvoir en place
+encore fragile. Les États-Unis offrent ainsi un financement, du matériel et
+des formations à diverses forces politiques étrangères favorables à la
+démocratie libérale, incluant des médias, des partis politiques et des ONG.
+Ces interventions politiques sont parfois ouvertement déclarées, comme
+dans l'Iraq Liberation Act de 1999 qui détaillait les budgets alloués à la
+subversion irakienne. Plus souvent, les interventions sont clandestines,
+comme l'était l'appui américain au parti démocrate chrétien italien dans
+l'immédiat après-guerre (Miller, 1983; Collins, 2009).
+
+
+La gamme d'interventions militaires doit également être désagrégée.
+Contrairement à ce qu'il est parfois supposé, la majorité des recours à la
+force militaire à l'étranger ne conduisent pas à la guerre. Les escarmouches
+frontalières et les passages en territoire étranger peuvent n'être qu'une
+stratégie pour tester la détermination d'un État à défendre une frontière
+contestée. Le blocus maritime peut être utilisé simplement pour forcer des
+négociations en évitant les affrontements directs. La politique de la
+canonnière, quant à elle, n'est qu'une démonstration de forces visant
+l'intimidation. Certaines interventions militaires n'ont que des cibles
+précises qui peuvent être atteintes en quelques heures, que ce soit
+
+
+l'assassinat d'un chef politique ou le bombardement d'une usine chimique.
+Le recours à la guerre est une politique extrême qui, comparée à tous les
+instruments de politique étrangère, demeure relativement rare (Blechman et
+Kaplan, 1978; Russett et Oneal, 2001).
+
+
+L'aversion des dirigeants politiques pour les guerres ouvertes résulte en
+partie du fait que, en s'éloignant du pôle de la puissance douce et en se
+rapprochant du pôle de la puissance dure, les instruments deviennent
+progressivement plus intensifs et, par conséquent, plus risqués. Chaque
+échelon, en augmentant le niveau d'engagement, rend le retour en arrière
+plus difficile. Un gouvernement qui bat en retraite après avoir pris des
+mesures draconiennes reconnaît implicitement son erreur et prête le flanc à
+la critique sur les scènes nationale et internationale. Dans ce contexte, si un
+instrument s'avère inefficace, les dirigeants peuvent être contraints de
+s'enfoncer davantage dans le problème plutôt que de faire marche arrière.
+Or, cette fuite en avant peut les mener directement à leur perte (Staw, 1981;
+Brockner et Rubin, 1985; Bowen, 1987; Downs et Rocke, 1994; Fearon,
+1994; Billings et Hermann, 1998; Taliaferro, 2004 ; Baum, 2004 ; Tomz,
+2007).
+
+
+Les dirigeants politiques préfèrent généralement la persuasion à
+l'intervention. C'est ce qu'exprimait le Secrétaire d'État américain Colin
+Powell (2004): « Il est préférable, lorsque la situation le permet, de laisser
+la réputation de la puissance plutôt que son utilisation atteindre les objectifs
+fixés. » Bien que les résultats de la socialisation soient incertains et qu'une
+intervention massive dès le début d'un conflit puisse maximiser les chances
+de succès, les dirigeants préfèrent souvent, lorsqu'une nouvelle situation se
+présente, recourir à la socialisation puis à la coercition, avant d'envisager
+l'intervention militaire.
+
+
+Les analystes de politique étrangère, quant à eux, sont nombreux à
+préférer l'étude des interventions armées plutôt que celle de la socialisation.
+Cette préférence ne résulte ni d'un attrait pour la violence, ni d'une
+croyance que les conflits armés ont davantage d'impact que les échanges
+d'idées, mais de contraintes méthodologiques. La socialisation est
+effectivement particulièrement difficile à documenter, que ce soit à l'aide
+d'entretiens ou par le biais d'analyse de discours. Les interventions armées,
+
+
+par contre, sont directement observables et leur intensité peut être évaluée
+quantitativement.
+
+
+Il existe ainsi plusieurs bases de données sur les interventions militaires,
+librement disponibles aux chercheurs. Quatre d'entre elles sont
+fréquemment utilisées dans la recherche en APE. Il s'agit du Militarized
+Interstate Disputes (www.correlatesofwar.org), de l'International Crisis
+Behavior (www.cidcm.umd.edu), de l'Armed Conflict Dataset
+(www.prio.no/cscw), et de l'International Military Intervention
+(www.icpsr.umich.edu).
+
+
+Ces bases de données se distinguent les unes des autres en fonction de
+leur manuel d'encodage et de leur couverture spatio-temporelle. Certaines
+définissent la guerre comme une intervention militaire en territoire étranger
+et d'autres comme un conflit qui conduit à la mort d'au moins 1 000
+combattants; certaines remontent jusqu'aux guerres napoléoniennes et
+d'autres se limitent à la guerre froide ; certaines se concentrent sur les
+conflits interétatiques et d'autres intègrent également les guerres civiles. Il
+n'y a, par contre, aucune base de données équivalente portant
+exclusivement sur les efforts de socialisation des États.
+
+
+Les bases de données événementielles
+
+
+Bien entendu, les divers instruments ne sont pas mutuellement exclusifs.
+La négociation, par exemple, repose généralement sur une combinaison de
+socialisation et de coercition. L'Union européenne a convaincu ses voisins
+d'Europe de l'Est d'abandonner la peine de mort en recourant à la fois à un
+discours sur les Droits de l'homme et par des politiques de conditionnalité
+économique (Manners, 2002). Dans certains cas, la négociation peut même
+inclure une forme d'intervention militaire (Fearon, 1995; Wagner, 2000;
+Allen et Vincent, 2011). La politique étrangère combine davantage qu'elle
+n'arbitre entre les différents instruments. Or, lorsque plusieurs instruments
+sont déployés en même temps, il n'est pas toujours facile de déterminer le
+niveau d'engagement et le degré de coopération entre deux protagonistes.
+
+
+Les bases de données événementielles sont des outils méthodologiques
+qui permettent d'intégrer le déploiement simultané de différents types
+
+
+d'instruments de politique étrangère. Elles agrègent une grande quantité
+d'information et les rapportent sur une échelle numérique commune. Elles
+facilitent ainsi les comparaisons entre pays, entre domaines ou entre les
+époques (Rosenau et Ramsey, 1975).
+
+
+Techniquement, les bases de données événementielles sont générées à
+partir de plusieurs milliers d'événements ponctuels rapportés par les
+journaux. Chaque événement est rapporté sur une échelle graduée de
+coopération selon un manuel d'encodage détaillé. Une rencontre bilatérale
+entre deux chefs d'État peut ainsi avoir une valeur de + 1, une intervention
+militaire conjointe de + 5, et l'imposition d'une sanction commerciale de
+- 3. Cet encodage peut être fait manuellement par une équipe de chercheurs,
+ou encore, de façon automatique par un logiciel lexicométrique guidé par
+des mots-clés prédéfinis (Schrodt, 1995).
+
+
+Les bases de données événementielles les plus connues sont le Conflict
+and Peace Data Bank (COPDAB), le World Events Interaction Survey
+(WEIS), le Conflict and Mediation Event Observations (CAMEO),
+l'Integrated Data for Events Analysis (IDEA), le Penn State Event Data
+Project (KEDS) et le Comparative Research on the Events of Nations
+(CREON). La majorité d'entre elles sont accessibles à partir du site internet
+de l'Inter-University Consortium of Political and Social Research
+(www.icpsr.umich.edu). Des bases de données consacrées à une question
+spécifique sont également disponibles, comme l'International Water Event
+Database sur la coopération hydrique (www.transboundarywaters.orst.edu).
+
+
+Ces bases de données événementielles peuvent grandement faciliter la
+comparaison des politiques en fournissant une base numérique commune.
+Elles peuvent être utilisées, par exemple, pour déterminer si les petites et les
+grandes puissances ont tendance à être belliqueuses dans les mêmes
+circonstances (East, 1973; Clark et al., 2008) ou pour évaluer si l'arrivée
+d'un nouveau chef de gouvernement fait varier le degré de coopération
+(Hermann, 1980).
+
+
+Elles ne représentent toutefois pas une panacée. Au cœur de la guerre
+froide, le gouvernement américain a généreusement financé le
+développement de bases de données événementielles dans l'espoir qu'elles
+puissent servir de baromètre de la tension internationale et même de
+système d'alerte précoce d'un conflit imminent. C'était trop exiger de cet
+
+
+outil méthodologique : même avec l'utilisation de systèmes informatiques
+performants permettant de diversifier les sources, d'accroître le volume de
+données, et de supprimer l'influence des codeurs, des imprécisions
+inévitables demeurent (Smith, 1986 ; Laurance, 1990; Kaarbo, 2003).
+
+
+En fait, les données utilisées sont biaisées avant même qu'elles ne soient
+filtrées à travers une grille d'analyse. Puisque les informations brutes sont
+tirées des journaux, les bases de données reflètent davantage l'intérêt
+médiatique que suscite une relation bilatérale que la coopération réelle entre
+deux États. Elles ignorent en outre les non-événements, qui sont tout aussi
+significatifs dans le langage diplomatique que les événements qui ont bel et
+bien eu lieu.
+
+
+De plus, les bases de données événementielles, tout comme une part
+significative de la recherche sur les instruments, ne prennent pas en compte
+l'impact de la politique étrangère. Elles se concentrent sur ce que les États
+font, et non sur les conséquences de leurs actions. Or, la politique étrangère
+est dynamique et elle se fonde en partie sur les rétroactions reçues en
+réponse aux instruments déployés précédemment. Les interventions armées
+sont souvent des réactions aux échecs d'efforts coercitifs, qui peuvent eux-
+mêmes être des réactions aux échecs de la socialisation. C'est la raison pour
+laquelle la prochaine partie propose d'étudier les résultats comme quatrième
+repère pour la comparaison des politiques étrangères
+
+
+Le résultat de la politique étrangère
+
+
+Étudier les résultats de la politique étrangère d'un pays soulève des
+questions pratiques et théoriques fondamentales. Si l'on peut évaluer
+l'efficacité relative d'une série d'actions de politique étrangère, il devient
+alors possible de s'interroger sur les conditions qui déterminent leur succès
+ou leur échec. Un processus de prise de décision apparemment sans faille
+peut-il mener à une politique défaillante ? Inversement, une politique
+étrangère qui atteint parfaitement sa cible peut-elle émerger du chaos ?
+(Gelb et Betts, 1979; Herek et al., 1987 ; Schafer et Crichlow, 2002).
+
+
+Mesurer l'efficacité
+
+
+Évaluer l'impact d'une politique étrangère soulève des défis
+méthodologiques considérables. La difficulté d'identifier les objectifs
+réellement poursuivis, la multicausalité des résultats, les tensions entre le
+court et le long terme et le problème de la contrefactualité ne sont que
+quelques-uns des problèmes méthodologiques que pose l'évaluation de la
+politique étrangère.
+
+
+L'aide publique au développement et la diplomatie publique, par
+exemple, visent des objectifs si diffus et à si long terme qu'il serait
+pratiquement impossible d'évaluer toute l'étendue de leurs impacts
+(Goldsmith et al., 2005). Les politiques de dissuasion, quant à elles, ont la
+particularité de ne laisser aucune trace de leur succès. Le nombre
+d'attaques-surprises et d'attentats terroristes qui ont été découragés grâce à
+des politiques de dissuasion demeure inconnu (Lebow et Stein, 1990;
+Fearon, 2002). Même lorsqu'une guerre conduit à une capitulation sans
+condition, cela ne signifie pas pour autant que le vainqueur a atteint ses
+objectifs (Mandel, 2006). Plus fondamentalement, si la politique étrangère
+n'a que des visées internes, comme la reproduction de l'identité collective,
+il serait vain de rechercher des indicateurs de son efficacité hors des
+frontières de l'État (Bickerton, 2010).
+
+
+Ces contraintes méthodologiques expliquent sans doute que la littérature
+sur les résultats de la politique étrangère se soit concentrée sur les sanctions
+économiques. En effet, les sanctions offrent trois avantages
+méthodologiques indéniables. D'abord, leur fréquence est suffisante pour
+permettre des analyses statistiques fines. Ensuite, elles sont généralement
+imposées en invoquant des motifs spécifiques qui peuvent servir de repères
+pour évaluer leurs résultats. Enfin, leur emploi est relativement transparent,
+permettant à l'observateur externe de les situer précisément dans l'espace-
+temps et de quantifier leur ampleur en dollars ou en euros.
+
+
+Les nombreux travaux sur l'efficacité des sanctions économiques
+concluent de façon presque unanime qu'elles n'atteignent que rarement
+leurs objectifs. Ce constat a d'abord été établi par des études qualitatives
+portant sur des cas particuliers. Les sanctions multilatérales contre les
+régimes de la Rhodésie et de l'Afrique du Sud, par exemple, n'ont pas
+conduit les gouvernements de ces pays à réviser leurs politiques racistes. Le
+gouvernement rhodésien a bien été renversé en 1979 et l'apartheid sud-
+
+
+africain fut bien abrogé en 1991, mais ces révolutions ne sont pas
+directement liées aux sanctions imposées plusieurs années plus tôt (Doxey,
+1972; Klotz, 1995).
+
+
+L'embargo américain imposé contre Cuba est un échec encore plus
+frappant. Après plus d'un demi-siècle de sanctions, le gouvernement cubain
+n'a toujours pas indemnisé les États-Unis pour la nationalisation des
+investissements américains lors de la révolution cubaine. Le régime
+castriste a même utilisé les sanctions américaines pour justifier les carences
+de son économie communiste, susciter des réactions patriotiques et créer un
+effet de ralliement (Kaplowitz, 1998).
+
+
+Avec la multiplication des sanctions économiques à partir des
+années 1970, il devient possible d'étudier leur efficacité d'un point de vue
+quantitatif. Une des premières études quantitatives, qui demeure l'une des
+plus fréquemment citées, est celle de Gary Hufbauer, Jeffrey Schott et
+Kimberly Elliott. La première édition de leur étude, publiée en 1985,
+analysa systématiquement plus d'une centaine de sanctions imposées depuis
+1914 et conclut que leur taux de succès était d'environ 35%. Les rééditions
+plus récentes de cette étude concluent que le taux de succès, déjà
+relativement faible, est même en déclin marqué (Hufbauer et al., 1990 et
+2007; Elliott et Hufbauer, 1999).
+
+
+L'avancée quantitative de Hufbauer, Schott et Elliott souleva un vif débat
+méthodologique. Une première série de critiques concerne la sélection des
+cas. Selon plusieurs analystes, l'étude est biaisée en faveur des sanctions
+ayant les plus grandes probabilités de réussite. Elle ne tient pas compte, par
+exemple, des cas où des sanctions ont été envisagées par les décideurs avant
+d'être écartées parce qu'elles risquaient d'être infructueuses. Ce biais induit
+une surreprésentation des cas favorables et empêche d'établir les
+probabilités de succès d'une sanction hypothétique. Une deuxième série de
+critiques porte sur le contrôle de certaines variables influentes. Plusieurs
+exemples de succès seraient en réalité attribuables à d'autres variables,
+comme le recours à la force armée déployée en parallèle, qu'à la coercition
+économique. Des révisions et réestimations concluent que ce ne serait pas
+35% des sanctions économiques qui atteignent leurs objectifs, mais
+seulement 5% (Lam, 1990; Von Furstenberg, 1991; Kirshner, 1995; Pape,
+1997; Drury, 1998; Nooruddin, 2002).
+
+
+L'approche quantitative de Hufbauer, Schott et Elliott permit néanmoins
+de réorienter les recherches sur la portée des sanctions économiques, et plus
+généralement les recherches sur l'efficacité de la politique étrangère. Il ne
+s'agit plus désormais de savoir si les sanctions sont efficaces, mais
+d'identifier les facteurs qui font varier leur efficacité.
+
+
+Expliquer l'efficacité
+
+
+Poser la question des déterminants de l'efficacité de la politique étrangère
+soulève le problème du niveau d'analyse. En ce qui concerne les sanctions
+économiques, la majorité des analystes considèrent que les principales
+variables explicatives de l'efficacité des sanctions se trouvent au niveau
+national, dans les caractéristiques de l'État sanctionné.
+
+
+L'impact économique des sanctions sur l'État ciblé, calculé en
+pourcentage de son produit intérieur brut, est un des principaux
+déterminants de leur succès. Si ces coûts sont supérieurs à l'intérêt que
+représente le maintien des politiques incriminées, un changement de
+politique est probable. Sous cette perspective, les économies les plus
+dépendantes sont aussi les plus vulnérables aux sanctions (Daoudi et
+Dajani, 1983; Dashti-Gibson et al., 1997 ; Hufbauer et al., 2007).
+
+
+Le coût économique élevé n'est toutefois pas une condition suffisante
+pour assurer le succès d'une sanction. Il faut également tenir compte de la
+structure interne du pouvoir en place. Ainsi, plusieurs études statistiques
+concluent que les autocraties et les démocraties réagissent différemment
+aux sanctions. Les démocraties sont plus sensibles aux sanctions qui ont un
+impact diffus sur l'ensemble de la société, alors que les autocraties
+parviennent plus facilement à y résister. Les sanctions commerciales
+imposées à Haïti et à l'Irak dans les années 1990, par exemple, ont
+gravement affecté les populations civiles, mais elles n'ont pas menacé
+sérieusement les pouvoirs militaires en place. Elles ont, en réalité, soulevé
+davantage de controverses dans les pays qui les ont adoptées que dans ceux
+qui en ont été la cible. Afin de menacer véritablement les autocraties, les
+sanctions doivent cibler directement les ressources de l'élite au pouvoir
+(Kaempfer et Lowenberg, 1988; Dashti-Gibson et al., 1997; Bolks et Al-
+Sowayel, 2000; Brooks, 2002; Nooruddin, 2002; McGillivray et Stam,
+
+
+2004; Allen, 2005; Lai et Morey, 2006; Allen, 2008; Blanchard et
+Ripsman, 2008 ; Sechser, 2010).
+
+
+Au contexte national de l'État ciblé, certains analystes ajoutent le
+contexte national de l'État initiateur de la sanction. En effet, une sanction
+qui implique un coût élevé pour l'État qui l'adopte risque d'être
+infructueuse. C'est la raison pour laquelle les sanctions qui visent des
+économies complémentaires sont généralement moins efficaces que celles
+qui visent des économies concurrentes (Morgan et Schwebach, 1995 ; Zeng,
+2002).
+
+
+L'exemple le plus frappant à cet égard est celui des menaces exprimées
+par le Congrès américain au début des années 1990 envers la République
+populaire de Chine au motif de ses violations des Droits de l'homme. Ces
+menaces, répétées périodiquement, ont été si contreproductives qu'elles ont
+été suivies par une intensification plutôt qu'une réduction de la répression
+chinoise. La Chine pouvait se permettre une telle défiance puisque les
+premières victimes d'éventuelles sanctions commerciales auraient
+certainement été les investisseurs américains établis en Chine et les
+importateurs américains de produits chinois. En cas de sanction, ces deux
+poids lourds de l'économie américaine n'auraient pas manqué de faire
+pression sur le Congrès et de plaider la cause chinoise. L'intégration entre
+les économies américaines et chinoises est telle que les menaces du Congrès
+n'ont pas été jugées crédibles. Le gouvernement chinois a sans doute conclu
+que le Congrès n'exprimait des menaces que pour satisfaire quelques
+groupes militants et quelques syndicats sans réelle volonté de les mettre en
+œuvre (Drury et Li, 2006).
+
+
+Cela étant, l'efficacité des sanctions n'est pas entièrement déterminée par
+des calculs rationnels. Des jeux de perception, filtrés à travers des
+mécanismes cognitifs, contribuent également à expliquer les résultats des
+sanctions économiques. Une longue relation de coopération entre l'État
+sanctionné et l'État sanctionneur permet de nouer une relation de confiance
+et laisse croire au premier que le deuxième lèvera effectivement ses
+sanctions lorsque ses demandes seront satisfaites. Inversement, le souvenir
+d'antagonismes passés peut entretenir des relations de méfiance et faire
+craindre à l'État sanctionné qu'une concession soit interprétée comme un
+signal de faiblesse et mène à une multiplication de nouvelles sanctions
+
+
+(George et Williams, 1994; Drezner, 1999; Drury et Li, 2006; Giumelli,
+2011).
+
+
+L'environnement international dans lequel s'inscrivent les sanctions est
+un autre niveau d'analyse pertinent pour expliquer l'efficacité des sanctions.
+Des pays tiers peuvent notamment neutraliser les effets des sanctions en se
+proposant comme des partenaires économiques alternatifs. Plusieurs alliés
+traditionnels des États-Unis, comme le Royaume-Uni, le Canada et le
+Japon, profitent des sanctions unilatérales américaines pour développer
+leurs propres marchés. Le succès des sanctions varie donc en fonction de la
+capacité à assurer une coopération interétatique et à éviter que la cible
+puisse se tourner vers de nouveaux partenaires (Martin, 1992; Early, 2011
+et 2012).
+
+
+Assurer une telle coopération avec des États tiers peut s'avérer ardu. Des
+sanctions unilatérales fermes et ciblées peuvent être plus efficaces que des
+sanctions multilatérales floues et poreuses. C'est sans doute une des raisons
+pour laquelle les sanctions unilatérales sont généralement plus efficaces que
+les sanctions multilatérales (Kaempfer et Lowenberg, 1999). D'un autre
+côté, emprunter la voie unilatérale lorsqu'une option multilatérale est
+disponible peut être perçu comme illégitime et favoriser l'opposition plutôt
+que la concession. Selon une étude récente, la perception d'illégitimité
+associée à l'unilatéralisme réduirait de 34 % l'efficacité des sanctions (Pelc,
+2010).
+
+
+Les débats récents sur les sanctions économiques portent ainsi de moins
+en moins sur leur degré d'efficacité que sur l'identification des facteurs qui
+expliquent leur efficacité. Ce faisant, les problèmes ne sont plus seulement
+d'ordre méthodologique, mais également d'ordre théorique. Identifier une
+variable dépendante pose toujours des problèmes méthodologiques : les
+informations disponibles sont parcellaires et ne permettent pas toujours
+d'établir des comparaisons. Mais retracer les variables explicatives les plus
+pertinentes nécessite en plus des arbitrages théoriques délicats : Quel est le
+niveau d'analyse le plus pertinent pour expliquer une politique étrangère
+donnée ? Le niveau national ou international ? Et si ce sont les deux à la
+fois, comment les intégrer de manière cohérente ? Ces questions sont
+traitées dans le prochain chapitre.
+
+
+1. Cette trilogie caricaturale d'objectifs de la politique étrangère fait implicitement écho à Thomas
+Hobbes qui considérait déjà que « nous trouvons dans la nature humaine trois principales causes de
+querelle: premièrement, la rivalité; deuxièmement, la défiance; et troisièmement la fierté. La
+première fait que les hommes attaquent pour le gain, la seconde pour la sécurité, et la troisième pour
+la réputation >> (Leviathan, 1651, chap. 13).
+
+
+Chapitre 2
+
+
+Le niveau d'analyse
+
+
+LES THÉORIES SONT DES SIMPLIFICATIONS ABSTRAITES de réalités empiriques
+plus complexes. C'est précisément parce qu'elles simplifient la réalité
+qu'elles sont utiles aux chercheurs. Elles les orientent vers les éléments
+fondamentaux et les autorisent à ignorer les éléments secondaires qui ne
+sont pas indispensables pour comprendre ou expliquer un phénomène. Tous
+s'entendent pour affirmer qu'il s'agit bien de la fonction première des
+théories. Les analystes ne s'accordent pas, toutefois, sur ce que constituent
+au juste ces éléments fondamentaux.
+
+
+En relations internationales, l'une des principales lignes de démarcation
+entre les différentes théories concerne le niveau d'analyse (Waltz, 1959;
+Singer, 1961). Certains travaux se concentrent sur une échelle
+macroscopique et n'étudient que les phénomènes interétatiques ou
+transnationaux. D'autres adoptent un point de vue plus microscopique et se
+penchent sur des facteurs infranationaux, comme la personnalité des chefs
+de gouvernement. Tous les niveaux d'analyses peuvent être pertinents, en
+fonction des objectifs de recherche, mais ils mettent l'accent sur des acteurs
+et des processus différents. Pour David Singer qui contribua à diffuser le
+concept de « niveau d'analyse », l'important est moins le niveau choisi que
+les justifications qui fondent le choix :
+
+
+<<< Pour différentes raisons, le chercheur peut être plus intéressé par un
+niveau qu'un autre à un certain moment et changera certainement de
+niveau si son projet de recherche l'exige. Par conséquent, le problème
+n'est pas du tout de savoir quel est le niveau le plus pertinent pour la
+discipline dans son ensemble et ensuite d'y adhérer pour l'éternité. Il faut
+plutôt prendre conscience de ce problème conceptuel préliminaire et le
+résoudre temporairement avant d'entamer un projet de recherche donné. »
+
+
+(Singer, 1961,  . 90)
+
+
+Peter Gourevitch fut l'un des premiers à rompre avec les idées de Singer
+et de plaider en faveur de l'intégration des différents niveaux d'analyse.
+Jusque dans les années 1970, l'orthodoxie scientifique prônait une stricte
+distinction entre le niveau national et international. Le syncrétisme était
+perçu comme un manquement à l'impératif de la cohérence théorique. Mais
+comme Gourevitch le nota, « le système international n'est pas seulement
+une conséquence des politiques et des structures nationales, il en est aussi
+une cause ». Par conséquent, « les relations internationales et les politiques
+nationales sont si interreliées qu'elles devraient être analysées
+simultanément, comme des ensembles » (1978,  . 911).
+
+
+La tendance actuelle est toujours à l'intégration des niveaux d'analyse.
+Les différentes modalités d'intégration sont présentées dans ce chapitre à
+travers le débat sur la structure et l'agent (partie 1), la littérature sur le cycle
+décisionnel (partie 2), la théorie des jeux à deux niveaux (partie 3) et la
+notion de rétroaction (partie 4).
+
+
+L'agent et la structure
+
+
+La démarcation entre les différents niveaux d'analyse se superpose, dans
+une certaine mesure, au débat classique entre la primauté de la structure et
+celle des agents. En effet, plusieurs théories macroscopiques considèrent
+que l'étude de la structure internationale doit primer sur celle des agents.
+Que ce soit la théorie néo-réaliste de Kenneth Waltz, l'école anglaise des
+relations internationales initiée par Hedley Bull ou la théorie néo-marxiste
+du système-monde de Immanuel Wallerstein, chacune d'elles considèrent
+que les agents sont si enchâssés dans la structure internationale, c'est-à-dire
+dans les principes organisateurs des relations internationales, que celle-ci
+détermine largement leurs comportements.
+
+
+La majorité des théories, qui privilégient plutôt une échelle
+microscopique, se situent plus près du pôle des agents que celui de la
+structure. Elles avancent que les agents sont dotés d'une certaine autonomie
+et que ce sont eux qui, in fine, produisent la structure. Elles s'intéressent
+donc aux spécificités propres de chaque agent au lieu de les considérer
+
+
+comme des unités homogènes et fonctionnellement équivalentes, baignant
+dans une structure qui les conditionne entièrement.
+
+
+Si l'approche par les structures permet plus facilement d'expliquer la
+continuité de la politique étrangère, celle par les agents est plus adaptée
+pour l'étude de son changement. Des synergies semblent néanmoins
+possibles et souhaitables entre ces deux perspectives. Quelques propositions
+concrètes permettent de rapprocher ces deux points de vue, voire de les
+intégrer dans un tout cohérent. On peut ranger ces propositions en deux
+catégories: celles qui rapprochent les agents des structures matérielles,
+traditionnellement étudiées par les théories néo-réalistes, et celles qui les
+rapprochent plutôt des structures idéelles, traditionnellement étudiées par
+les théories constructivistes.
+
+
+Du néo-réalisme aux relations internationales behaviorales
+
+
+La structure matérielle des relations internationales est au cœur de la
+théorie néo-réaliste, parfois aussi appelée structuro-réaliste. Ce courant,
+dont la paternité est attribuée à Kenneth Waltz (1979), est l'un de ceux qui
+se désintéressent le plus des particularismes propres à chaque État pour se
+concentrer sur la structure matérielle internationale.
+
+
+Le néo-réalisme est conventionnellement défini par ses postulats plutôt
+que par ses hypothèses ou ses prédictions. On peut en dénombrer cinq,
+étroitement liés les uns aux autres et endossés, à divers degrés, par tous ses
+partisans. Premièrement, le néo-réalisme postule que les unités de base des
+relations internationales sont les États. L'autonomie et les capacités des
+autres acteurs internationaux, comme les ONG, les firmes ou les
+organisations intergouvernementales, sont limitées par le pouvoir étatique.
+Deuxièmement, les États sont considérés comme des acteurs rationnels,
+c'est-à-dire que leurs décisions visent égoïstement et systématiquement à
+maximiser leur propre utilité. Troisièmement, l'utilité des États se définit en
+termes de probabilité de survie. Que les États coopèrent ou qu'ils se fassent
+la guerre, c'est toujours en fonction de leur objectif ultime de maximiser
+leurs chances de survie. Quatrièmement, dans cette quête de survie, les
+États ne peuvent compter sur l'assistance d'aucune autorité hiérarchique
+supranationale. Le système international est fondamentalement anarchique,
+
+
+même lorsqu'il paraît stable et ordonné. Et cinquièmement, puisque les
+États ne peuvent compter que sur eux-mêmes, ils sont en concurrence
+constante pour l'accumulation de ressources. Les dynamiques interétatiques
+s'inscrivent dans un jeu à somme nulle : ce que l'un gagne, l'autre le perd.
+
+
+La combinaison de ces cinq postulats mène nécessairement à la
+conclusion que « le comportement des États, indépendamment de leurs
+caractéristiques internes, est structuré par la distribution de la puissance
+dans le système international entier » (Krasner, 1993, p. 21). Leur
+comportement respectif est ainsi déterminé en fonction de leurs ressources,
+relatives aux autres États, et de leur positionnement, par rapport aux autres
+États. Un État faible et isolé, voisin d'une grande puissance, aura tendance à
+éviter de heurter cette puissance pour assurer sa propre survie. Par contre,
+plusieurs États faibles regroupés dans une même région conviendront sans
+doute de créer une coalition pour contrer une puissance émergente et
+menaçante (Mouritzen, 1991).
+
+
+Kenneth Waltz est non seulement celui qui a formulé le premier cette
+théorie néo-réaliste, mais aussi celui qui a reconnu le plus explicitement ses
+limites. En effet, Waltz a plaidé toute sa carrière pour une rigide distinction
+entre l'étude de la structure et celle des acteurs. Après avoir distingué les
+différents niveaux d'analyse dans son ouvrage Man, State and War en 1959,
+il a délibérément ignoré le niveau individuel et le niveau national, pour se
+concentrer uniquement sur le troisième niveau, c'est-à-dire sur la structure
+internationale (1979). Dès lors, Waltz refuse catégoriquement de considérer
+le néo-réalisme comme une théorie de la politique étrangère. Pour lui, le
+néo-réalisme vise un niveau de généralité et d'abstraction trop élevé pour
+expliquer une politique étrangère particulière. Utiliser la structure
+internationale pour étudier un processus circonstancié ou une politique
+nuancée serait aussi vain, écrit-il, « que d'utiliser la théorie de la gravité
+universelle pour expliquer le trajet précis d'une feuille tombant d'un arbre »
+(1979,  . 121, 1986 et 1996).
+
+
+Malgré cet aveu, Waltz lui-même et plusieurs autres adeptes du néo-
+réalisme ont tenté d'expliquer une politique étrangère particulière en
+recourant uniquement à l'analyse de la structure internationale. Robert
+Kagan (2002), par exemple, explique l'attachement des pays européens au
+multilatéralisme par le déclin relatif de leur puissance et leur incapacité à
+
+
+parvenir autrement à leurs fins. De façon similaire, David Skidmore (2005)
+explique l'unilatéralisme américain par l'unipolarité qui caractérise le
+système international depuis la fin de la guerre froide et qui permet aux
+États-Unis d'ignorer les préférences des autres acteurs. John Mearsheimer
+(2001), autre figure de proue du néo-réalisme, prédit quant à lui que le
+potentiel de puissance allemand conduira à une dynamique de concurrence
+multipolaire entre les pays européens, qui contrecarrera leur processus
+d'intégration.
+
+
+Une part substantielle de la recherche en APE s'oppose avec force à cette
+primauté absolue de la structure pour expliquer, au-delà des tendances
+générales et abstraites, la politique étrangère d'un pays en particulier. Bien
+que le néo-réalisme ait fait couler beaucoup d'encre, il suscite relativement
+peu d'adhérents. En fait, il est bien plus souvent évoqué pour être critiqué
+que pour être louangé. Contrairement aux néo-réalistes, la vaste majorité
+des analystes de l'APE reconnaissent un certain degré d'autonomie aux
+acteurs, indépendamment de la structure dans laquelle ils évoluent. Prendre
+en compte les variables internes à l'État complexifie l'analyse, mais les
+ignorer complètement au nom de la parcimonie théorique conduit parfois à
+des modèles si simplifiés qu'ils en deviennent impotents (Ripley, 1993;
+Hagan, 2001).
+
+
+Dans leurs critiques du néo-réalisme, la métaphore de l'État comme une
+boule de billard sert fréquemment de repoussoir aux analystes de la
+politique étrangère. Selon eux, les États ne peuvent être assimilés à des
+boules opaques, monolithiques et fonctionnellement interchangeables, qui
+réagissent toutes de la même façon lorsqu'elles sont frappées, et dont seul le
+positionnement sur l'échiquier importe pour prédire leurs comportements.
+Une métaphore plus appropriée est celle des flocons de neige, dont les
+trajectoires, certes affectées par des forces communes comme la gravité et
+le vent, varient néanmoins en fonction de leurs caractéristiques internes,
+uniques et multidimensionnelles (Fordham et Asal, 2007).
+
+
+La Jordanie et la Syrie représentent de bons exemples à cet égard. Leur
+situation géographique et le type de ressources qu'elles contrôlent sont
+relativement similaires. Une analyse néo-réaliste anticiperait donc qu'ils
+aient également des comportements de politique étrangère similaires. Or, la
+Jordanie et la Syrie ont adopté des comportements diamétralement opposés,
+
+
+la première s'alliant aux puissances occidentales et la deuxième leur étant
+hostile. Cette différence de comportement ne peut s'expliquer qu'en
+examinant leurs parcours historiques, leurs systèmes politiques et les forces
+sociales qui sous-tendent à la fois la dynastie des Hachémites et le Parti
+Baas (Hinnebusch et Quilliam, 2006).
+
+
+Les tensions entre les partisans du point de vue structurel et ceux qui
+privilégient les dynamiques propres à chaque État se sont principalement
+cristallisées autour de la question du recours à la force armée. Certaines
+études indiquent que les interventions militaires ont une relation statistique
+plus significative et plus prononcée avec les variations dans la distribution
+des ressources militaires au niveau international qu'avec l'évolution des
+calendriers électoraux, de l'opinion publique ou des partis politiques au
+pouvoir (Meernik, 1994; Morgan et Palmer, 1997; Gowa, 1998). D'autres
+études statistiques, au contraire, concluent que l'utilisation de la force varie
+davantage en fonction des aléas de la politique interne que des changements
+dans l'environnement international (Ostrom et Job, 1986; James et Oneal,
+1991).
+
+
+Quelques auteurs prétendent que l'étude de la structure internationale et
+celle du processus décisionnel propre aux acteurs conduisent sensiblement
+aux mêmes résultats (Elman, 1996; Fearon, 1998). Affirmer que les
+puissances unipolaires ont tendance à multiplier les interventions militaires
+à l'étranger reviendrait au même que d'affirmer que les gouvernements qui
+interviennent le plus à l'étranger sont ceux dont l'opinion publique se sent
+en sécurité. Ce serait les deux faces d'une même pièce, ou plutôt deux
+mécanismes qui œuvrent en tandem, de façon synergique (Tang et Long,
+2012).
+
+
+Les travaux les plus convaincants sont, sans doute, ceux qui
+reconnaissent que l'action des agents et la force des structures sont
+distinctes, mais complémentaires. Autrement dit, les facteurs internes et
+externes interviennent à différentes étapes du processus menant à un conflit
+armé. Ces propos plus nuancés attirent toutefois moins l'attention que ceux
+qui défendent des positions plus tranchées (James et Hristoulas, 1994;
+Gaubatz, 1999; Huth et Allee, 2002).
+
+
+Si la réconciliation entre la perspective de la structure et celle de l'agent
+est encore loin d'être consensuel, un rapprochement de part et d'autre est
+
+
+néanmoins en marche. Partant de la perspective structurelle, le courant
+réaliste néo-classique développé dans les années 1990 s'ouvre
+explicitement à l'analyse des agents. En s'éloignant du néo-réalisme
+structurel de Kenneth Waltz, le réalisme néo-classique rejoint les auteurs
+réalistes classiques, comme Raymond Aron et Henry Kissinger, qui
+intégraient déjà les variables internes à l'État dans leurs analyses du
+système international. Comme le chapitre sur les institutions le souligne, ils
+avaient déjà compris que le système politique d'un État détermine en partie
+sa capacité à convertir des ressources nationales en influence internationale
+(Zakaria, 1992 et 1998; Schweller, 1994 et 2006; Christensen, 1996;
+Brooks, 1997; Rose, 1998; Legro et Moravcsik, 1999; Lobell et al., 2009 ;
+Cladi et Webber, 2011 ; Kirshner, 2012).
+
+
+De l'autre côté, partant de la perspective des agents, de nouveaux ponts
+sont jetés vers les théories structuralistes par le biais des « relations
+internationales béhaviorales ». Ce courant n'est pas une alternative aux
+théories structuralistes, ni même une théorie unifiée. Il s'agit plutôt d'un
+terme générique, développé dans les années 2000 et fédérant différentes
+théories existantes qui peuvent compléter les analyses structuralistes,
+comme la théorie des perspectives, celle des biais d'attribution ou celle de
+la cohérence cognitive, lesquelles sont abordées dans les prochains
+chapitres (Mintz, 2007 ; Walker et al., 2011).
+
+
+L'un des points de rencontre les plus prometteurs entre la perspective
+structurelle et celle des agents est sans doute l'analyse des biais induits par
+la perception. Des contraintes institutionnelles et cognitives empêchent les
+acteurs de percevoir la structure internationale comme elle est réellement.
+Ce n'est donc pas tout à fait le stock de ressources ou la position
+géographique qui importe, mais l'idée que se font les acteurs de leurs
+ressources et de leur position. En prenant en compte ces biais de perception
+de manière systématique, c'est-à-dire en étudiant la perception qu'ont les
+acteurs de la structure et non la structure elle-même, il est possible de
+trouver un compromis entre l'analyse de la structure et celle des agents
+(Jervis, 1976; Wohlforth, 1987 et 1993; van Evera, 1999; Goldgeier et
+Tetlock, 2001).
+
+
+Les positions extrêmes sont ainsi progressivement marginalisées. La
+vaste majorité des analystes, quelles que soient leurs inclinaisons
+
+
+théoriques, reconnaissent maintenant que le comportement des acteurs n'est
+pas entièrement déterminé par la structure, et que le choix des acteurs n'est
+pas entièrement dépourvu de contraintes structurelles. Le néo-réalisme est
+trop parcimonieux pour refléter la réalité de la politique étrangère, et l'étude
+détaillée des acteurs peut rapidement s'avérer trop complexe pour dégager
+des généralisations.
+
+
+Du constructivisme au cognitivisme
+
+
+Au début des années 1990, alors que plusieurs internationalistes se
+concentraient encore sur les structures matérielles, Nicholas Onuf,
+Alexander Wendt, Friedrich Kratochwil et les autres pionniers du
+constructivisme ont attiré l'attention des chercheurs sur les structures
+idéelles. Comme toutes structures, les structures idéelles guident le
+comportement des acteurs. Elles ont toutefois la particularité d'être
+socialement construites: elles ne sont pas des données exogènes
+immuables, mais des produits de l'interaction constante entre les agents.
+
+
+Les constructivistes ne nient pas la matérialité des faits empiriques, que
+ce soit la participation à une conférence intergouvernementale, le largage
+d'une bombe, ou la signature d'un traité. Ils considèrent cependant que ce
+sont les significations sociales que l'on attribue à ces faits empiriques qui
+importent avant tout. Sont-ils, par exemple, interprétés comme des gestes de
+continuité ou de rupture ? Comme des menaces ou des opportunités ?
+Comme des manifestations de relations amicales ou conflictuelles ? Pour
+reprendre la formule de Wendt, « un fusil dans les mains d'un ami et un
+autre dans les mains d'un ennemi ne sont pas la même chose, et l'amitié est
+une relation sociale plutôt que matérielle » (1996,  . 50).
+
+
+Bien entendu, toutes les idées sont, par définition, des constructions de
+l'esprit. Mais toutes les idées ne sont pas nécessairement des structures
+sociales. Les constructivistes ne s'intéressent pas aux idées strictement
+individuelles d'un philosophe, d'un scientifique ou d'un politicien
+particulier. Ils ne s'intéressent qu'aux idées intersubjectives, c'est-à-dire
+celles qui sont socialement produites et reproduites.
+
+
+Au moins trois catégories d'idées intersubjectives sont pertinentes pour
+l'APE (Goldstein et Keohane, 1993). La première regroupe les grandes
+conceptions du monde, comme le confucianisme ou la rationalité
+scientifique. La deuxième rassemble les normes sociales distinguant les
+comportements appropriés et déviants, comme le respect des Droits de
+l'homme ou la prohibition du commerce de narcotiques. La troisième est
+constituée des croyances causales, comme celles voulant que l'émission de
+gaz à effet de serre perturbe le climat ou que les concessions alimentent
+l'agressivité des adversaires.
+
+
+Le rôle de ces trois catégories d'idées intersubjectives dans la
+formulation de la politique étrangère est présenté dans les chapitres
+consacrés à la culture et aux acteurs sociaux. Pour l'instant, c'est la relation
+entre leur dimension structurelle et l'autonomie des agents qui retient notre
+attention. Or, sur cette question, les constructivistes se présentent en
+opposition aux néo-réalistes. Puisque les structures idéelles sont
+socialement construites par les agents, contrairement aux structures
+matérielles, les constructivistes ne perçoivent pas les agents comme des
+unités entièrement dominées par la structure, mais aussi, comme les
+producteurs de leur propre structure.
+
+
+La majorité des constructivistes recourent à la notion de co-constitution
+pour caractériser cette double relation entre la structure et les agents. La
+structure forge la perspective des agents et ceux-ci, par leurs discours et
+leurs pratiques, reproduisent la structure et peuvent même la modifier.
+L'idée que l'esclavage est contraire aux Droits de l'homme a contribué à
+modifier les pratiques des États, et la diffusion de la prohibition a contribué
+à renforcer les discours anti-esclavagistes. La co-constitutionnalité est ainsi
+présentée comme un outil conceptuel réconciliant les perspectives
+structuralistes et celles centrées sur les agents (Kubálková, 2001).
+
+
+Dans la pratique, toutefois, plusieurs auteurs adhérant à l'idée de co-
+constitutionnalité se sentent contraints de choisir entre la structure et l'agent
+comme point d'entrée de l'analyse, pour éviter l'argument circulaire que les
+idées dépendent du comportement des acteurs et que le comportement des
+acteurs dépend des idées dominantes. Dans ce dilemme de l'œuf ou de la
+poule, la majorité des auteurs constructivistes choisissent de se concentrer
+
+
+sur les structures pour appréhender les agents plutôt que l'inverse (Wight,
+1999).
+
+
+La perspective structuraliste de certain constructivisme est fréquemment
+l'objet de critiques. C'est une tendance que Jeffrey Checkel, lui-même un
+auteur phare du constructivisme, condamne sévèrement et tente de
+redresser, sans néanmoins parvenir à la renverser (1993, 1998 et 1999). La
+critique est encore plus acerbe lorsqu'elle vient de Valérie Hudson, un
+porte-étendard de l'APE qui privilégie résolument la perspective de l'agent
+sur celle de la structure, et qui ose, à ce titre, mettre le néo-réalisme et le
+constructivisme dans le même sac :
+
+
+« Il y a une critique de l'APE qui s'applique non seulement au monde
+des boules de billard de Waltz, mais aussi au monde des forces idéelles de
+Wendt. Cette critique est simple : seulement les êtres humains peuvent
+avoir des idées. [...] Si on évacue les humains de l'analyse, il ne reste
+qu'une machine. Waltz a évacué tant les humains que leurs idées, et il ne
+lui reste qu'une machine déterministe qui ne peut changer sans un
+changement matériel. Wendt a seulement évacué les humains, pas leurs
+idées : mais étrangement, il se retrouve lui aussi avec une machine une
+machine qui prétend pouvoir expliquer le changement, mais qui en est
+incapable. D'un point de vue de l'APE, ni Wendt ni Waltz ne sont
+parvenus à conceptualiser adéquatement l'agent. >>>
+
+
+(Hudson, 1997,  . 10)
+
+
+En réalité, l'approche de Wendt n'est pas représentative du
+constructivisme en entier (Price et Reus-Smit, 1998). La proposition de
+Wendt de considérer l'État comme une personne unitaire est vivement
+critiquée par la majorité des constructivistes (Jackson, 2004). Plusieurs
+autres figures centrales du courant, comme John Ruggie et Martha
+Finnemore s'intéressent aux points de vue des agents et parviennent à
+conceptualiser le changement dans une perspective constructiviste.
+
+
+L'une des pistes de réconciliation entre l'agent et la structure idéelle est
+l'approche morphogénétique développée par Margaret Archer. Plutôt que de
+concevoir la relation entre les structures et les agents comme co-
+constitutive, l'approche morphogénétique séquence l'action des structures
+et celle des agents à travers différentes échelles temporelles. Puisqu'une
+
+
+structure s'inscrit toujours dans la longue durée, elle peut être
+conceptualisée comme le contexte général dans lequel des agents au point
+de vue différent interagissent. Il émergera au terme de cette interaction une
+nouvelle structure, qui deviendra alors le contexte pour une nouvelle forme
+d'interaction (Carlsnaes, 1992).
+
+
+Une autre piste de réconciliation consiste à concentrer l'analyse sur les
+manifestations individuelles des structures idéelles, comme l'évocation
+d'une analogie ou les pratiques répétées, qui circulent constamment entre
+les différents niveaux d'analyse. En effet, les individus, en tant qu'acteurs
+sociaux, doivent adopter un discours et un comportement qui a non
+seulement un sens pour eux-mêmes, mais également pour autrui. Or, en se
+pliant aux attentes sociales qu'ils perçoivent pour mieux agir sur le monde,
+ils en viennent à modifier leurs propres conceptions du monde et leurs
+propres processus cognitifs (Carlsnaes, 1993; Doty, 1997; Epistein, 2010;
+Flanik, 2011).
+
+
+Une troisième piste consiste à associer directement le constructivisme à
+la théorie de l'identité sociale, présentée plus en détail dans un prochain
+chapitre. Cette théorie met en évidence les forces psychologiques qui
+animent certains comportements collectifs. Le besoin d'affiliation et celui
+d'estime de soi, entre autres, sont deux puissants moteurs qui expliquent les
+réactions individuelles aux normes sociales et aux identités nationales
+(Mercer, 1995; Goldgeier et Tetlock, 2001 ; Houghton, 2007).
+
+
+Le recours à des théories psychologiques pour mieux comprendre les
+structures idéelles doit toutefois éviter les écueils de l'anthropomorphisme.
+Un État n'adopte pas les normes internationales pour satisfaire son besoin
+d'affiliation ou d'estime de soi, pas plus qu'un État reproduit un
+comportement attendu pour atténuer le stress qu'il ressent face à
+l'incertitude. Rapprocher l'individu des structures idéelles ne signifie pas
+confondre le niveau individuel avec le niveau structurel.
+
+
+Pour l'instant, seules deux formes de structures ont été abordées, soit les
+structures matérielles qui intéressent les néo-réalistes et les structures
+idéelles qui intéressent les constructivistes. D'autres formes de structures,
+notamment les structures institutionnelles, se situent plus souvent au niveau
+national et ne posent pas le problème du niveau d'analyse de la même
+manière. C'est l'objet de la prochaine partie.
+
+
+Le cycle du processus décisionnel
+
+
+Les analystes qui s'intéressent aux processus décisionnels postulent
+généralement que le contexte interne aux États prime sur le contexte externe
+pour expliquer leurs décisions de politique étrangère. Cela étant, même en
+restant strictement au niveau infra-national, la gamme des niveaux
+d'analyse demeure étendue. Certains analystes se concentrent sur les
+mécanismes cognitifs du chef de gouvernement et d'autres prennent en
+compte les structures d'interaction entre les acteurs sociaux. Pour cibler
+plus précisément un niveau d'analyse pertinent, l'analyste peut segmenter le
+processus de prise de décision en plusieurs étapes, allant de l'identification
+du problème à l'évaluation des résultats.
+
+
+Les spécialistes des politiques publiques ont depuis longtemps compris
+qu'une segmentation du processus décisionnel permettait de distinguer
+différents niveaux d'analyse. Cet exercice de segmentation doit toutefois
+être légèrement adapté pour l'étude de la politique étrangère. En effet, en
+politique étrangère, les plus hautes autorités exécutives sont plus
+fréquemment interpellées, le pouvoir législatif est généralement moins
+directement impliqué, les groupes d'intérêt sont relativement moins
+mobilisés, et les débats sont souvent plus opaques que dans les autres
+domaines de politiques publiques. Cette partie propose une segmentation du
+processus décisionnel inspiré de différents travaux sur la politique
+étrangère, avant d'aborder les sous-entendus théoriques et les limites d'un
+tel exercice de segmentation (Zelikow, 1994 ; Billings et Hermann, 1998;
+Hermann, 2001; Knecht et Weatherford, 2006 ; Ozkececi-Taner, 2006).
+
+
+Une segmentation en six phases
+
+
+La figure 2 présente une segmentation classique du processus décisionnel
+en six phases (Jones, 1984). Il ne s'agit bien entendu que d'un schéma qui
+ne reflète pas toute la complexité du processus décisionnel. Mais c'est
+justement cette simplification qui lui confère sa valeur heuristique. À
+chaque étape correspond un niveau d'analyse. En traversant ce cycle, de la
+première à la dernière phase, l'analyse effectue un circuit, du niveau
+
+
+sociétal au niveau gouvernemental, puis au niveau individuel, avant de
+revenir au niveau gouvernemental, et finalement, sociétal.
+
+
+Selon ce cycle schématique, la première étape dans la formulation de la
+politique étrangère est le « cadrage » du problème à résoudre. La vaste
+majorité des problèmes demeurent dans les limbes de la politique étrangère
+parce qu'ils ne sont pas compris comme tel. La protection de
+l'environnement, par exemple, aurait pu interpeller les ministères des
+Affaires étrangères dès le $XIX^{e}$ siècle, puisque la pollution transnationale
+affectait déjà la qualité de vie des citoyens. Or, ce n'est qu'à partir des
+années 1970 que cette question a réellement été interprétée comme un enjeu
+de politique étrangère (Maoz, 1990; Snow et Benford, 1998; Mintz et
+Reed, 2003).
+
+
+6. L'évaluation
+
+
+5. La mise en
+œuvre
+
+
+1. Le cadrage
+
+
+4. La décision
+
+
+L'échelle sociale
+
+
+2. La mise à
+l'ordre du jour
+
+
+L'échelle gouvernementale
+
+
+3. L'examen
+des options
+
+
+L'échelle individuelle
+
+
+Figure 2. Le cycle de la formulation des politiques étrangères
+
+
+Pour qu'un problème émerge comme un enjeu politique et qu'il passe du
+monde de l'objectivité à celui de l'intersubjectivité, il doit d'abord être
+façonné par un ou plusieurs « entrepreneurs politiques ». Ceux-ci rendront
+
+
+le problème intelligible en le cadrant, c'est-à-dire en le nommant, en
+l'interprétant et en le schématisant. Le problème de l'accès aux
+médicaments dans les pays en développement peut ainsi être cadré comme
+un enjeu de justice sociale, de développement économique, ou de
+prévention des épidémies planétaires. L'interprétation privilégiée du
+problème orientera les termes du débat et déterminera les acteurs qui seront
+interpellés. En agissant en amont, les acteurs qui cadrent le débat exercent
+ainsi une influence considérable même lorsqu'ils sont dépourvus d'un accès
+direct aux décideurs publics (Nadelmann, 1990; Finnemore et Sikkink,
+1998; Sell et Prakash, 2004 ; Busby, 2007).
+
+
+La deuxième étape du cycle de la formulation de la politique étrangère
+est la mise à l'ordre du jour. Les dirigeants politiques sont interpellés sur
+une série de questions et ne peuvent raisonnablement pas se pencher sur
+chacune d'entre elles. Les capacités de mobilisation des acteurs non
+étatiques jouent ici un rôle déterminant pour convaincre les personnes clés,
+comme les fonctionnaires et les conseillers politiques, qui contrôlent l'accès
+aux dirigeants. Les convaincre de l'importance d'une question émergente
+est une étape indispensable pour l'inscrire à la liste des priorités politiques.
+
+
+Dans plusieurs cas, une crise ou un événement extraordinaire sont
+nécessaires pour créer une opportunité politique et qu'une nouvelle question
+puisse franchir le filtre des portiers et être enfin inscrite à l'ordre du jour.
+Les jeux Olympiques de Pékin de 2008 ont ainsi permis à plusieurs
+entrepreneurs politiques de forcer les dirigeants des pays occidentaux à
+s'exprimer publiquement sur le statut politique du Tibet, la liberté de la
+presse en République populaire de Chine ou la nécessité de l'aide publique
+au développement versée aux pays émergents (Tarrow, 1989; Joachim,
+2003; Carpenter, 2007).
+
+
+Le cadrage et l'opportunité politique déterminent, en grande partie,
+l'autorité politique appelée à examiner les différentes options. Présenter les
+négociations internationales sur les changements climatiques comme un
+enjeu d'investissement, d'équité internationale ou de protection de
+l'intégrité territoriale interpellera respectivement le ministère des Finances,
+de la Coopération internationale et de la Défense. Mais, dans tous les cas,
+lorsqu'une administration se saisit d'un enjeu, les débats deviennent plus
+techniques et les positions plus modérées. Les experts, qu'ils soient
+
+
+fonctionnaires, juristes ou scientifiques, remplacent progressivement les
+militants, les chroniqueurs ou les lobbyistes qui ont initialement cadré
+l'enjeu (Morin, 2011).
+
+
+Lors de la quatrième étape, les décideurs publics sont appelés à se
+prononcer sur un nombre limité d'options. Leur décision est ainsi largement
+structurée par les étapes précédentes. Cela dit, l'unité décisionnelle varie
+sensiblement d'un pays à l'autre, et d'un enjeu à l'autre. Un dictateur, un
+ministre, un état-major, un politburo et un parlement ont des procédures
+bien différentes, affectant invariablement leur décision et les modalités de
+son énoncé. Une part significative de la recherche en APE consiste
+précisément à déterminer l'unité décisionnelle et à identifier ses
+particularismes (Hermann et Hermann, 1989; Hermann et al., 2001 ;
+Hermann, 2001).
+
+
+Le processus de formulation de la politique étrangère ne s'arrête pas à
+l'étape de la décision. Son interprétation, sa mise en œuvre et son
+ajustement continuel aux circonstances extérieures reposent en grande
+partie sur les épaules de l'administration. Or, celle-ci n'a pas toujours les
+capacités matérielles, l'information, la légitimité ou même la volonté pour
+traduire parfaitement la décision des autorités en résultats concrets. Ces
+contraintes, déjà bien réelles en politique intérieure, semblent exacerbées
+lorsque la mise en œuvre s'effectue hors des frontières de l'État. Il s'agit
+cependant d'une étape qui demeure peu explorée par l'APE et à propos de
+laquelle on connaît encore relativement peu de choses.
+
+
+La sixième et dernière étape est l'évaluation. En politique étrangère,
+l'évaluation est particulièrement sujette à de multiples interprétations
+puisque les résultats sont généralement diffus et multicausaux. La course
+aux armements durant la guerre froide, par exemple, peut être interprétée à
+la fois comme un facteur de stabilité entre les deux pôles antagonistes ou
+comme un facteur d'instabilité générant des conflits locaux à travers le
+monde. Dans ce contexte, les mêmes catégories d'acteurs qui ont participé
+au cadrage initial du problème saisiront cette opportunité pour militer en
+faveur du maintien de la politique, de son ajustement, ou de sa
+reformulation complète. Le problème peut alors traverser à nouveau le
+cycle entier (Morin et Gold, 2010; Morin, 2011).
+
+
+Un processus linéaire, cyclique ou chaotique
+
+
+La figure 1 présente le processus décisionnel en forme cyclique puisque
+la majorité des enjeux centraux de la politique étrangère ne sont jamais
+définitivement réglés. Comme le remarque George Shultz, Secrétaire d'État
+sous Ronald Reagan, la formulation de la politique étrangère ne consiste
+pas à « être confronté à des problèmes les uns après les autres, mais aux
+mêmes foutus problèmes encore et encore » (Hoagland, 1994). Qu'il
+s'agisse du conflit israélo-palestinien, du prix des matières premières, du
+développement de l'Afrique, de la prolifération des armes de destruction
+massive, du déclin supposé de l'hégémonie américaine, de la réforme du
+Conseil de sécurité, de la dévaluation du Yuan chinois, ou de l'adhésion de
+la Turquie à l'Union européenne, les mêmes enjeux réapparaissent
+périodiquement.
+
+
+Néanmoins, à chaque fois qu'un enjeu traverse le cycle, il en émerge
+légèrement modifié. De nouveaux arguments sont formulés, de nouvelles
+institutions sont créées et des leçons sont tirées. Pour cette raison, il est plus
+juste de concevoir le cycle de formulation des politiques sous la forme
+d'une spirale évolutive plutôt que sous celle d'un cercle fermé (Billings et
+Hermann, 1998; Dreyer, 2010).
+
+
+Cela dit, même en concevant le cycle de formulation des politiques
+comme une spirale, il n'en demeure pas moins qu'il ne s'agit que d'un
+schéma simplificateur. En réalité, les différentes étapes se chevauchent plus
+qu'elles ne se succèdent. L'examen des options, par exemple, est souvent
+anticipé à l'étape du cadrage et le retour à l'ordre du jour peut parfois être
+prévu dès l'étape de la mise en œuvre.
+
+
+Certains modèles théoriques s'opposent explicitement à une vision
+séquentielle du processus de prise de décision. La théorie des corbeilles à
+papier, notamment, rejette l'idée que les solutions sont imaginées en
+fonction des problèmes. Selon cette théorie, la prise de décision résulte
+plutôt d'un assemblage plus ou moins aléatoire entre divers éléments
+classés dans quatre corbeilles à papier différentes. Une première corbeille
+rassemble des problèmes en quête de solutions, une deuxième des solutions
+en quête de problèmes à résoudre, une troisième des opportunités politiques
+en quête de décision, et une quatrième des décideurs publics en quête de
+
+
+résolution de problèmes. Les flux entrants et sortants de ces corbeilles sont
+indépendants les uns des autres. Un ministre du Commerce international
+peut profiter des élections prochaines pour présenter le droit de la propriété
+intellectuelle comme une solution au problème de l'accès aux médicaments
+dans les pays en développement. Rien, a priori, ne lie ces quatre éléments,
+si ce n'est le hasard du contenu respectif des corbeilles (Cohen et al., 1972;
+Kingdon, 1984 ; Bendor et al., 2001)
+
+
+Une schématisation en forme de spirale permet néanmoins de
+comprendre qu'il n'y a pas de moment unique et d'acteur unique dans la
+formulation de la politique étrangère. Si un chercheur mène des entretiens
+pour connaître l'origine d'une politique perçue favorablement, il ne serait
+pas surprenant que toutes les personnes interrogées se désignent
+respectivement et de bonne foi comme le véritable initiateur : les acteurs
+non étatiques l'ont soufflé à l'oreille des fonctionnaires, ceux-ci l'ont
+recommandé au ministre, qui l'a défendu au conseil des ministres, au sein
+duquel le chef de gouvernement l'a approuvé. Inversement, dans le cas
+d'une politique étrangère jugée défavorablement, tous peuvent attribuer la
+responsabilité à un tiers. Il s'avère généralement futile de mener des
+entretiens en vue d'identifier l'auteur unique d'une politique étrangère.
+
+
+Une définition précise de l'objet d'étude peut être suffisante pour orienter
+le chercheur vers une phase particulière du cycle des politiques publiques.
+Un projet qui vise à comprendre pourquoi un État est intervenu sur un enjeu
+en particulier peut se concentrer sur les deux premières étapes du cycle. Un
+autre qui cherche à expliquer pourquoi l'État a retenu une option spécifique
+plutôt qu'une autre peut se limiter aux deux étapes suivantes. Un troisième
+qui s'interroge sur le maintien d'une politique apparemment inefficace peut
+quant à lui ne retenir que les deux dernières étapes. L'étape retenue guidera
+ensuite le chercheur vers un niveau d'analyse sociétal, gouvernemental ou
+individuel.
+
+
+Le jeu à deux niveaux
+
+
+La théorie des jeux à deux niveaux permet d'étudier les interactions
+constantes entre le niveau national et celui international. Cette théorie,
+développée par Robert Putnam (1988), postule que chaque État est
+
+
+représenté par une figure unique appelée par convention le « négociateur en
+chef ». Pour conclure un accord international, ce négociateur en chef doit
+négocier simultanément à deux niveaux. D'une part, au niveau
+international, il doit trouver un terrain d'entente avec ses interlocuteurs
+étrangers. D'autre part, au niveau national, il doit s'assurer de l'appui des
+acteurs politiques devant ultimement approuver l'accord. Le négociateur en
+chef est ainsi coincé dans un étau, devant affronter des pressions de part et
+d'autre.
+
+
+La variation de l'ensemble gagnant
+
+
+Putnam utilise le concept « d'ensemble-gagnant  pour faire le pont entre
+les deux niveaux de négociation. Un ensemble-gagnant est défini comme
+l'ensemble des différentes possibilités d'accords internationaux qui, dans le
+cadre d'une négociation donnée, pourraient être approuvés au niveau
+national. Il s'agit, en quelque sorte, de la marge de manœuvre, plus ou
+moins étendue, conférée au négociateur en chef par les acteurs politiques
+nationaux.
+
+
+Trois principales variables affectent l'étendue de l'ensemble-gagnant. La
+première d'entre elles est le degré de contrainte institutionnelle. Par
+exemple, si la constitution d'un pays exige que la ratification d'un traité soit
+approuvée par le Parlement, par les États fédérés, ou encore, par
+référendum, cette contrainte risque de réduire la marge de manœuvre du
+négociateur. C'est notamment le cas aux États-Unis où l'ensemble-gagnant
+du négociateur en chef sur un enjeu aussi sensible que les changements
+climatiques est significativement réduit par les prérogatives du Sénat
+(Kaarbo, 2001; Milner, 1997; Harrison, 2007).
+
+
+La deuxième variable est le degré de cohésion et de mobilisation des
+acteurs sociaux, incluant les firmes, les ONG et les minorités ethniques. Si
+ces acteurs expriment avec force leurs préférences, le négociateur en chef
+ne peut les ignorer et sa marge de manœuvre s'en trouve réduite. Dans le
+cadre des négociations sur l'Accord multilatéral sur l'investissement, tenues
+à la fin des années 1990, la quasi-totalité des forces politiques françaises
+s'opposaient vivement à tout accord qui n'incluait pas une exception pour
+les industries culturelles, ce qui réduisit comme une peau de chagrin,
+
+
+l'ensemble-gagnant du gouvernement français (Trumbore, 1998; Morin et
+Gagné, 2007).
+
+
+La troisième variable déterminant l'étendue d'un ensemble-gagnant est
+constituée des stratégies déployées par les négociateurs eux-mêmes. Lier
+deux questions distinctes, favoriser la transparence externe, multiplier les
+acteurs impliqués, explorer des solutions alternatives et prévoir un
+échéancier flexible, sont autant de stratégies qui peuvent réduire
+l'ensemble-gagnant (Mayer, 1992; Schoppa, 1993). Le gouvernement
+indien est ainsi parvenu à maintenir un ensemble-gagnant relativement
+étroit en entamant des négociations pour un prêt avec le Fonds monétaire
+international dès 1980, avant que la crise monétaire ne le contraigne
+d'accepter des conditions plus sévères (Dash, 1999). Le gouvernement
+russe de Vladimir Poutin joua la stratégie inverse et retarda délibérément la
+ratification du Protocole de Kyoto pour faire monter les enchères entre les
+États-Unis et l'Union européenne, et les forcer à élargir leur ensemble-
+gagnant respectif (Henry et McIntosh Sundstrom, 2007).
+
+
+Les prédictions de la théorie du jeu à deux niveaux
+
+
+À partir de l'étendue relative des ensembles-gagnants de chacun des
+négociateurs en chef, la théorie des jeux à deux niveaux formule trois
+prédictions concernant l'issu des négociations. La première prédiction est
+que la réduction d'un ensemble gagnant réduit d'autant la probabilité de
+conclure un accord. En effet, un accord international n'est possible que si
+les ensembles-gagnants des différentes parties se chevauchent. Or, avec des
+ensemble-gagnants réduits de part et d'autre de la table de négociation, un
+accord acceptable pour une partie risque d'être systématiquement
+inacceptable pour une autre.
+
+
+Plusieurs négociations avortées peuvent s'expliquer par l'étroitesse des
+ensembles-gagnants. C'est notamment le cas de l'échec des négociations
+commerciales de Doha à l'Organisation mondiale du Commerce ou encore
+de la persistance du conflit entre la République populaire de Chine et le
+Japon sur les îles Senkaku/Diàoyútái. Des groupes nationaux,
+protectionnistes dans le premier cas et nationalistes dans le second, exercent
+une telle pression sur les négociateurs que leurs ensembles-gagnants
+
+
+respectifs ne se chevauchent pas et qu'aucun compromis ne semble possible
+(Downs et Saunders, 1998; He, 2007; Chung, 2007; Young, 2010).
+
+
+La deuxième prédiction, qui s'apparente à une reformulation de
+<< l'hypothèse de Schelling », est qu'un ensemble-gagnant étroit accroît le
+rapport de force d'un négociateur en chef. Ce phénomène s'explique par la
+possibilité de transformer des contraintes nationales en opportunités
+internationales. Avoir les mains liées sur la scène politique nationale
+confère une certaine crédibilité au négociateur en chef lorsqu'il affirme à
+ses interlocuteurs internationaux qu'il ne peut accepter un accord au-delà
+des limites fixées par les acteurs nationaux (Goldstein, 1996).
+
+
+Plusieurs gouvernements utilisent cette stratégie pour obtenir des accords
+qui correspondent davantage à leurs intérêts. Par exemple, parmi les
+gouvernements qui négocient des prêts au FMI, ceux qui font face à de
+vives contestations politiques obtiennent généralement des prêts plus
+avantageux que les autres (Caraway et al., 2012). Au niveau européen, le
+contrôle du Parlement danois sur l'exécutif fait du Danemark un des pays
+ayant le rapport de force le plus important dans les négociations
+institutionnelles européennes (Pahre, 1997; Slapin, 2006; König et Slapin,
+2004; Hug et König, 2002).
+
+
+La troisième prédiction dérivée de la théorie des jeux à deux niveaux est
+le pendant de la seconde : un négociateur en chef peut profiter de
+contraintes internationales pour imposer ses préférences aux acteurs
+nationaux. Le gouvernement français redirige ainsi fréquemment les
+critiques que soulèvent les réformes agricoles vers la Commission
+européenne ou l'Organisation mondiale du Commerce (Paarlberg, 1997;
+Patterson, 1997; Montpetit, 2000). De même, l'Italie s'est prémunie de la
+pression des groupes d'intérêts nationaux en faveur d'une politique
+monétaire laxiste en transférant le contrôle de cette politique vers la Banque
+centrale européenne (Dyson et Featherston, 1996). Autrement dit, les
+négociations nationales et internationales sont des vases communicants : ce
+que le négociateur en chef perd d'un côté, il peut le gagner de l'autre.
+
+
+Si la majorité des auteurs utilisant la théorie des jeux à deux niveaux
+s'intéressent aux négociations économiques, comme l'illustrent les
+exemples évoqués jusqu'à maintenant, elle peut tout aussi bien être
+mobilisée pour expliquer les conflits et les tensions sécuritaires, en
+
+
+l'absence d'un cadre formel de négociation. Un dirigeant politique peut en
+effet alimenter des contraintes sécuritaires internationales pour accroître sa
+marge de manœuvre sur la scène politique nationale. C'est une stratégie
+qu'utilisent plusieurs dictateurs, qui agitent une menace externe pour
+maintenir un régime autoritaire et centralisé. En Égypte, l'état d'urgence fut
+maintenu de façon presque continue pendant plus de quarante ans après la
+guerre des Six Jours, justifiant une répression contre les opposants
+politiques égyptiens (Trumbore et Boyer, 2000).
+
+
+C'est aussi une stratégie qui peut être utilisée dans les démocraties. La
+crainte de l'expansion communiste, alimentée par le président Truman, tout
+comme la guerre contre le terrorisme, articulée par le président Bush, leur
+ont permis d'obtenir des concessions majeures du Congrès et de susciter un
+effet de ralliement de la population. À un moindre niveau, les
+gouvernements canadiens et japonais, qui ont participé à la guerre froide et
+à la guerre contre le terrorisme au-delà des attentes d'une partie de leur
+population, ont pu eux aussi invoquer une pression extérieure, celle venant
+de leur influant allié américain, pour justifier des politiques militaristes
+(Carment et James, 1996; Christensen 1996; LeoGrande, 1998; Cooney,
+2007; Grove, 2007).
+
+
+Par ailleurs, le cadre théorique général développé par Putnam a été
+approfondi par plusieurs auteurs. Certains y ont contribué en reconnaissant
+une autonomie relative au négociateur en chef (Moravcsik, 1993; Simon et
+Starr, 1997; Hug et König, 2002; Milne, 2010) ou en ajoutant la
+dynamique de la mise en œuvre à celle de la ratification (Mertha et Pahre,
+2005). D'autres, adeptes de la théorie des jeux, l'ont traduit en modèle
+formel et débattent des équations algébriques qui reflètent le mieux sa
+complexité (Iida, 1993 ; Mo, 1994 ; Morgan et Schwebach, 1995; Milner et
+Rosendorff, 1997; Pahre, 1997; Smith et Hayes, 1997; Gaubatz, 2000;
+Butler, 2004; Tatar, 2005).
+
+
+Parmi ceux qui préfèrent une approche plus empirique, plusieurs l'ont
+adapté à différentes catégories d'acteurs, dont les réseaux transnationaux
+d'acteurs non étatiques (Morin, 2010) et les organisations régionales
+(Patterson, 1997 ; Larsén, 2007). Ces diverses contributions ont permis de
+répondre à certaines critiques formulées à l'encontre de la théorie originale
+
+
+de Putnam, dont l'ignorance des rivalités bureaucratiques et son caractère
+stato-centré.
+
+
+D'autres critiques de la théorie des jeux à deux niveaux demeurent
+toujours pertinentes. Un débat persiste notamment sur les conditions
+nécessaires ou suffisantes pour que les contraintes nationales se
+convertissent en opportunités internationales. Ce processus de conversion
+ne semble ni automatique ni systématique. Si l'opinion publique d'un pays
+donné ne tolère aucun mort au combat, par exemple, l'objectif de guerre à
+zéro mort peut devenir une contrainte tant nationale qu'internationale.
+
+
+On peut également reprocher à la théorie des jeux à deux niveaux son
+caractère statique. Les interactions entre les différents acteurs ne sont pas
+situées dans une dynamique évolutive. C'est la raison pour laquelle les
+études empruntant la théorie des jeux à deux niveaux se limitent
+généralement à une négociation spécifique et ne s'inscrivent pas dans la
+longue durée, contrairement à la théorie des systèmes complexes présentée
+dans la prochaine partie.
+
+
+Les rétroactions
+
+
+Certaines études d'APE intègrent les différents niveaux d'analyse à
+travers le concept de rétroaction. En APE, une rétroaction peut-être définie
+comme un message concernant l'action d'un acteur retourné à ce dernier
+par un système ou concernant l'état d'un système renvoyé à celui-ci par un
+acteur. L'accent n'est dès lors pas placé sur une décision unique de politique
+étrangère, mais sur des flux constants d'actions et de réactions échelonnés à
+travers le temps. Les causes de la politique étrangère deviennent ses effets,
+et ses effets deviennent ses causes (Snyder, Bruck et Sapin, 2002 [1962],
+p. 110; Pierson, 1993).
+
+
+Les rétroactions positives et négatives
+
+
+Pour y voir plus clair, il importe de distinguer deux types de rétroactions :
+celles qui sont négatives et celles qui sont positives. Dans le cas de
+rétroaction négative, la politique étrangère entraîne des effets qui minent sa
+
+
+propre continuation. Lors de la guerre opposant l'URSS à l'Afghanistan, les
+États-Unis ont appuyé la résistance des moudjahidin en imposant un
+embargo sur les exportations de grains vers l'Union soviétique. Si l'objectif
+initial de l'administration Carter était de limiter les capacités d'action
+soviétiques, l'embargo entraîna une chute des prix des produits céréaliers
+dont les premières victimes furent les agriculteurs américains. Cette
+rétroaction inattendue conduisit l'administration américaine à lever son
+embargo (Lindsay, 1986).
+
+
+Un autre exemple de rétroaction négative concerne la réaction que
+peuvent avoir les adversaires étrangers d'un gouvernement fragile.
+Quelques études indiquent que les gouvernements qui affrontent une grogne
+populaire ou qui viennent tout juste d'asseoir leur pouvoir courent
+statiquement plus de risques d'être l'objet d'attaques par une puissance
+étrangère (Prins, 2001; Bak et Palmer, 2010). La tentative d'invasion de
+l'Iran par l'Irak en 1980 devait ainsi capitaliser sur la faiblesse du régime de
+l'Ayatollah Khomeini, qui n'avait pas encore complètement assis son
+pouvoir depuis la révolution islamiste. Or, comme le chapitre consacré aux
+acteurs sociaux l'explique plus en détail, les attaques étrangères suscitent
+généralement un effet de ralliement dans la population. L'attaque irakienne
+renforça le contrôle de Khomeiny sur la population iranienne plutôt que de
+l'affaiblir encore davantage.
+
+
+Les rétroactions positives, quant à elles, permettent d'expliquer le
+renforcement progressif de certaines politiques étrangères. La coopération
+franco-allemande, par exemple, a nécessité une forte impulsion politique
+dans la période d'après-guerre, mais des relations de confiance se sont
+progressivement établies à tous les niveaux de l'administration, renforçant
+continuellement cette coopération (Krotz, 2010). Ce processus de
+rétroaction positive est d'ailleurs au cœur de la théorie néo-fonctionnaliste
+développée par Ernst Haas (1958) pour expliquer le processus d'intégration
+européenne.
+
+
+Le même phénomène de rétroaction positive peut également alimenter
+des relations de méfiance. Un conflit entre deux pays peut altérer leur
+perception réciproque et les amener à interpréter avec suspicion toutes les
+actions subséquentes. Les sanctions économiques imposées contre l'Afrique
+du Sud pour sa politique de l'apartheid ont ainsi conduit Pretoria à se sentir
+
+
+isolé politiquement et à développer un programme d'armement nucléaire,
+justifiant d'autant plus le maintien des sanctions. Ce cercle vicieux, nourri
+par des boucles de rétroaction positive, explique qu'une augmentation des
+dépenses militaires dans un premier pays conduit généralement à une
+augmentation similaire des dépenses de ses rivaux (Lepgold et McKeown,
+1995). Il explique également qu'un premier conflit augmente les
+probabilités statistiques de conflits ultérieurs (Bremer, 1993 ; Hensel, 1994,
+1999 et 2002; Drezner, 1999; Colaresi et Thompson, 2002; Dreyer, 2010).
+
+
+Un projet de recherche qui vise à évaluer la valeur relative d'une relation
+causale a tout avantage à tenir compte de ces rétroactions continuelles entre
+un acteur et son environnement. Les ignorer peut biaiser l'analyse. Si la
+rétroaction est positive, la relation directe entre une cause et son effet risque
+alors d'être surestimée en raison de la dynamique amplificatrice.
+Inversement, si la rétroaction est négative, la causalité peut être sous-
+estimée puisque la réaction compense en partie l'effet de l'action (Shepard
+et Goldwin, 1975; Rosenau, 1980).
+
+
+L'institutionnalisme historique
+
+
+L'institutionnalisme historique est l'une des nombreuses théories qui
+mobilisent le concept de rétroaction pour expliquer la politique étrangère.
+L'institutionnalisme historique s'intéresse notamment au phénomène de la
+dépendance au sentier, c'est-à-dire aux contraintes qu'exercent les décisions
+du passé sur le présent. Si un acteur s'engage dans une voie donnée, il peut
+lui être difficile de rebrousser chemin ou de bifurquer dans une autre
+direction, même s'il s'aperçoit que la voie choisie n'est pas la plus
+optimale. Cette difficulté s'accroît en outre avec le temps, au fur et à
+mesure qu'il s'engage dans cette voie, en raison des boucles de rétroactions
+positives qui renforcent continuellement la décision initiale (Thelen, 1999;
+Pierson, 2000; Mahoney, 2000; Fioretos, 2011).
+
+
+Un exemple classique de dépendance au sentier, que les francophones
+expérimentent souvent lorsqu'ils voyagent à l'étranger, est l'utilisation des
+claviers d'ordinateur. Tant les claviers QWERTY qu'AZERTY sont sous-
+optimaux, c'est-à-dire que la disposition de leurs touches n'est pas celle qui
+permet la frappe la plus rapide en langue française. Par contre, plus un
+
+
+utilisateur se familiarise avec une disposition particulière, plus il parvient à
+taper rapidement, et plus le passage à un autre type de clavier, même
+objectivement plus optimal, lui paraît difficile (Page, 2006).
+
+
+De façon similaire, les dirigeants politiques peuvent engager leur pays
+dans une voie sous-optimale sans en avoir véritablement conscience. Ils le
+font en fonction de considérations propres au contexte initial particulier,
+sans nécessairement anticiper les boucles de rétroaction et leurs
+conséquences à long terme. Ces moments critiques, déterminants pour
+l'avenir, surviennent généralement en période de crise. La crise économique
+des années 1930, les deux guerres mondiales et l'effondrement de l'Union
+soviétique représentent autant de moments critiques au cours desquels se
+sont prises des décisions de politique étrangère, concernant l'attitude à
+adopter dans un domaine en particulier ou envers un pays en particulier, qui
+ont ensuite persisté pendant des décennies (Mabee, 2011).
+
+
+Les boucles de rétroactions positives qui maintiennent les politiques dans
+une dépendance au sentier sont particulièrement évidentes dans le domaine
+économique. En effet, l'adoption d'une politique commerciale, quelle
+qu'elle soit, profite à certains acteurs économiques et en pénalise d'autres.
+Or, plus elle est maintenue, plus les acteurs qui en bénéficient se
+consolident, et plus leurs pressions sur le gouvernement pour la maintenir
+est forte. Aux États-Unis, l'octroi de préférences commerciales à la Chine
+dans les années 1980 a ainsi favorisé l'émergence de grands importateurs
+américains de produits chinois et le développement des investissements
+américains vers la Chine, qui ont ensuite limité la capacité du président
+Clinton à imposer des sanctions contre la Chine en raison de ses
+manquements aux droits humains, comme il s'y était pourtant engagé à le
+faire. Ces concessions commerciales ont plutôt pavé la voie vers
+l'admission de la Chine à l'Organisation mondiale du Commerce en 2001
+(Goldstein, 1988; Chorev, 2007).
+
+
+Des boucles de rétroaction similaires peuvent également contribuer à
+expliquer le maintien d'alliance militaire ou de tensions sécuritaires. Le cas
+d'Israël, à cet égard, est frappant. En autorisant l'établissement de colonies
+en territoire palestinien après la guerre des Six Jours, le gouvernement
+israélien a lui-même créé un groupe d'intérêt qui milite pour le maintien et
+l'expansion de ces colonies. Ils ont progressivement acquis une forte
+
+
+influence au sein des partis politiques conservateurs et nationalistes.
+Parallèlement, les États-Unis ont initialement manifesté leur soutien
+indéfectible à Israël dans le contexte de la guerre froide. Cette politique a
+ensuite forgé les attentes de la population américaine et du gouvernement
+israélien. La moindre variation serait interprétée comme un changement
+historique inacceptable, même lorsque l'intérêt premier des États-Unis
+serait de s'allier davantage aux gouvernements arabes (Dannreuther, 2011).
+
+
+Cela dit, l'institutionnalisme historique ne présente pas nécessairement
+une perspective déterministe de l'histoire. Les bifurcations de trajectoire
+demeurent toujours possibles; elles deviennent simplement plus difficiles
+avec le temps. Les changements radicaux surviennent généralement dans
+des circonstances exceptionnelles, comme le renversement de l'élite au
+pouvoir ou une défaite militaire. Mais ces occasions de rupture sont
+également des moments critiques pour l'adoption de nouvelles politiques
+qui risquent de devenir elles aussi enchâssées par des boucles de rétroaction
+positive.
+
+
+Les systèmes complexes
+
+
+Certaines boucles de rétroaction s'inscrivent dans un système complexe,
+comptant plusieurs catégories d'acteurs situés à des niveaux d'analyse
+différents. Dans ce contexte, un flux d'action et de réaction peut, avant de
+revenir à l'acteur d'origine, passer par plusieurs intermédiaires et s'être
+démultiplié. Des forces s'en trouvent amplifiées et d'autres annulées.
+Complexifiée de la sorte, la notion de rétroaction peut servir à expliquer le
+changement, et non seulement la continuité de la politique étrangère.
+
+
+Un exemple frappant d'un tel flux d'action et de réaction s'est produit
+dans le système économique international des années 1970. Ce système
+était alors caractérisé par des déséquilibres financiers et commerciaux à la
+défaveur des États-Unis. En 1971, l'administration Nixon réagit à ces
+déséquilibres en suspendant l'engagement américain d'assurer la
+convertibilité du dollar en or. Cette annonce soudaine provoqua à son tour
+l'effondrement du système de taux de change établi à Bretton Woods.
+Celui-ci fut progressivement remplacé par un système à taux flottants
+permettant au dollar de se déprécier par rapport aux autres devises. Les pays
+
+
+de l'Opep répondirent à la dévaluation du dollar, sur lequel est calculé le
+prix du baril de pétrole, en haussant drastiquement les prix de leurs
+exportations pétrolières. Or, cette hausse des prix des produits pétroliers
+contribua elle-même à créer une stagflation que les économistes keynésiens
+n'avaient pas anticipée. Les banques centrales donnèrent alors la priorité à
+la lutte contre l'inflation et décidèrent de rehausser significativement leurs
+taux d'intérêt. Cette hausse rapide créa une grave crise de la dette dans les
+pays qui avaient souscrit des emprunts majeurs lorsque les taux étaient
+encore faibles. En 1982, le ministre des Finances mexicain annonça la
+suspension unilatérale de son service de la dette. Cette annonce provoqua
+un choc systémique important, rendant les financiers particulièrement
+craintifs pour leurs investissements dans les pays latino-américains. Les
+États-Unis firent alors la promotion d'un système économique international
+plus prudent, conduisant au Consensus de Washington et aux politiques
+néo-libérales qui marquèrent les années 1980. Ces réactions en chaîne,
+étalées sur une décennie, illustrent bien que les interactions dans un système
+comptant plusieurs types d'acteurs et plusieurs types de relations sont
+complexes et imprévisibles.
+
+
+La théorie des systèmes complexes a été développée dans les
+années 1950 pour modéliser ces dynamiques rétroactives (Easton, 1957).
+Pour y parvenir, elle situe chaque décision dans un réseau liant les acteurs
+les uns aux autres par leurs actions. C'est une perspective conséquentialiste
+selon laquelle chaque mouvement est en fait une réaction à un mouvement
+précédant. Aucune variable, aucune politique étrangère, n'est totalement
+indépendante : un acteur ne génère une réponse que s'il perçoit un stimulus.
+
+
+La théorie des systèmes n'adhère toutefois pas à vision strictement
+mécanique de la politique étrangère qui se résume à la transmission d'un
+mouvement d'un élément à un autre. Au contraire, les métaphores les plus
+fréquemment utilisées en théorie des systèmes relèvent de la biologie plutôt
+que de la physique. Plusieurs font le parallèle entre le système international
+et un écosystème, dont la diversité des unités et la complexité de leur
+agencement permettent son évolution continuelle. Bien que le système
+international puisse être homéostatique, c'est-à-dire qu'il a tendance à
+revenir à l'équilibre, il n'est en rien statique : il évolue au fil des
+interactions (Sprout et Sprout, 1965; Parsons, 1971; Jervis, 1997).
+
+
+La dynamique évolutive des systèmes limite l'exploitation que peut en
+faire l'analyste. En effet, une variable qui est significative un jour ne le sera
+peut-être plus le lendemain si son action affecte le système qui la rendait
+significative. La théorie des systèmes ne permet donc pas d'identifier des
+relations causales hors de leur contexte, comme d'ailleurs la théorie
+darwinienne de l'évolution qui permet d'expliquer les caractéristiques
+morphologiques d'une espèce, mais pas de prédire son évolution au cours
+des prochains millénaires. Les relations internationales étant un système
+tout aussi complexe que la biosphère, sa modélisation ne peut pas être
+utilisée pour formuler des prédictions aussi précises que ne le font les
+physiciens traitant des systèmes plus simples.
+
+
+Bien que la théorie des systèmes renonce explicitement à toute ambition
+prédictive, elle n'est pas pour autant dépourvue d'utilité pour l'APE. Une
+cartographie systémique permet de mieux comprendre une décision
+particulière ou de situer un ensemble de décisions dans leur contexte. Elle
+peut également servir d'outil de comparaison pour comparer différents
+pays, différentes périodes ou différents domaines (Brecher et al., 1969 ;
+Brecher, 1972; Clarke, 1981; Cederman, 1997; Ginsberg, 2001).
+
+
+Le principal atout de la théorie des systèmes complexes est d'intégrer
+dans un tout cohérent plusieurs niveaux d'analyse. Contrairement à d'autres
+théories, elle reconnaît à la fois la dimension structurelle du système et
+l'importance des interactions entre les agents, elle peut prendre en compte
+les dynamiques transnationales en plus des processus infra-nationaux et des
+relations interétatiques, et elle permet d'expliquer tant le changement que la
+continuité. Ni le néo-réalisme, ni le constructivisme, ni la théorie des jeux à
+deux niveaux, ni l'institutionnalisme historique ni les autres théories
+étudiées dans ce chapitre n'offrent autant de possibilités d'intégration.
+
+
+Cette intégration des différents niveaux d'analyse, cependant, rend la
+théorie des systèmes complexes particulièrement... complexe ! Même à
+l'aide d'outils informatiques performants, la modélisation demeure difficile
+et l'analyste peut rapidement être noyé dans une mer de données sans être
+capable d'en dégager une certaine cohérence. C'est une des raisons pour
+laquelle plusieurs analystes des systèmes complexes en politique étrangère,
+notamment ceux privilégiant une approche cybernétique, adoptent le
+postulat de la rationalité des acteurs. Comme le prochain chapitre l'indique,
+
+
+ce postulat facilite significativement l'analyse et permet parfois de dégager
+des résultats intéressants de la modélisation, même s'il ne correspond pas
+toujours à la réalité et qu'il ignore des dynamiques bien réelles.
+
+
+Chapitre 3
+
+
+La rationalité
+
+
+LA RATIONALITÉ EST UN CONCEPT CENTRAL DANS TOUTES LES SCIENCES
+SOCIALES, et plus généralement dans toute la civilisation occidentale. Ce
+profond enracinement du paradigme rationaliste s'explique en partie par
+l'illusion de contrôle qu'il confère. Avancer que les comportements des
+acteurs sont rationnels implique qu'ils répondent à certaines régularités,
+qu'ils peuvent être expliqués par un observateur externe, voire qu'ils
+peuvent être modélisés, prédits et manipulés. Inversement, croire que les
+comportements sont gouvernés par le destin, le hasard ou des impulsions est
+profondément déstabilisant. Tant l'analyste que le décideur politique
+peuvent se sentir démunis face à un comportement interprété comme
+irrationnel (Mandel, 1984).
+
+
+Le paradigme rationaliste se décline dans une vaste gamme d'approches
+théoriques (Kahler, 1998 ; Quackenbush, 2004). Ce que l'on appelle parfois
+la  théorie du choix rationnel » n'est pas une théorie spécifique, mais un
+ensemble de postulats sur lesquels reposent plusieurs approches théoriques.
+La théorie de la guerre comme diversion et celle des jeux bureaucratiques,
+par exemple, se fondent toutes les deux sur la théorie du choix rationnel.
+
+
+Avant de présenter ces théories plus spécifiques dans les chapitres
+suivants, il convient d'abord, dans ce chapitre, de définir la notion de
+rationalité (partie 1), de relever les possibilités qu'offre la modélisation des
+comportements rationnels (partie 2), et de présenter quelques ajustements
+proposés en réponse aux critiques les plus fréquentes (partie 3).
+
+
+Le choix rationnel
+
+
+Le concept de rationalité revêt plusieurs significations. Dans le cadre de
+la théorie du choix rationnel, il ne faut pas entendre la rationalité comme la
+recherche du bien, du juste ou du vrai. Une décision de politique étrangère
+qualifiée de rationnelle n'est pas nécessairement celle qui découle d'un
+processus inclusif dans lequel des participants partagent un objectif
+commun et débattent en toute sincérité pour atteindre un consensus. Ce
+n'est pas non plus la décision qui permet effectivement à un acteur
+d'atteindre ses objectifs ou de contribuer au bien commun.
+
+
+La théorie du choix rationnel avance plutôt que les comportements des
+acteurs, quels qu'ils soient, sont motivés par la maximisation de leur utilité
+subjective. Au premier regard, cette conception de la rationalité peut
+sembler plutôt modeste, voire banale: un acteur agit parce qu'il pense
+pouvoir profiter de cette action. Cette définition soulève néanmoins des
+questions méthodologiques, théoriques et politiques fondamentales.
+
+
+De la micro-économie à la politique étrangère
+
+
+L'idée que les comportements des acteurs sont guidés par la
+maximisation de leur utilité dérive de la micro-économie. En effet, la
+micro-économie ne dicte pas les procédures qu'un consommateur doit
+suivre avant d'acheter un bien, pas plus qu'elle ne se prononce sur le
+meilleur achat possible pour l'ensemble des consommateurs. Elle postule
+simplement qu'un consommateur achètera le bien qui représente, à ses
+yeux, le meilleur rapport entre les coûts et les bénéfices, compte tenu des
+informations dont il dispose.
+
+
+Transposée à l'APE, cette forme de rationalité peut contribuer à
+expliquer la position des États dans les négociations internationales. Par
+exemple, les États qui plaident énergiquement pour l'adoption de normes
+environnementales internationales sont souvent ceux qui en bénéficient le
+plus, c'est-à-dire ceux qui sont à la fois les plus vulnérables à la dégradation
+de l'environnement et les moins affectés par les coûts d'abattement. Les
+pays scandinaves ont un taux de cancer de la peau particulièrement élevé et
+celui-ci risque d'être accru par l'appauvrissement de la couche d'ozone qui
+absorbe une partie des rayons solaires ultraviolets. Ils ont également
+toujours eu une faible production de CFC, un des principaux gaz qui
+
+
+s'attaque à la couche d'ozone. Pas étonnant, dans ce contexte, que les pays
+scandinaves aient été à l'initiative du Protocole de Montréal sur la
+protection de la couche d'ozone. La France, par contre, était un important
+producteur et exportateur de CFC dans les années 1980 et a initialement
+freiné les négociations relatives à la protection de la couche d'ozone. On
+peut en déduire, selon une approche du choix rationnelle, que
+l'enthousiasme des pays scandinaves comme la résistance de la France en
+matière de protection de la couche d'ozone étaient guidés par leur
+rationalité plutôt que par des valeurs collectives ou des impératifs moraux
+(Sprinz et Vaahtoranta, 1994).
+
+
+La théorie du choix rationnel considère ainsi que les acteurs fondent leurs
+comportements sur des analyses comparatives des coûts et des bénéfices
+associés aux différentes options en utilisant des critères qui leur sont
+propres. Sous cet angle, la notion de rationalité peut être décomposée en
+trois postulats distincts. Premièrement, les acteurs sont conscients
+d'effectuer des choix. Ils ne sont pas prisonniers de routines qui les
+conduisent à poursuivre aveuglément dans la même voie. Deuxièmement,
+les acteurs classent systématiquement les différentes possibilités d'action,
+incluant la possibilité de ne rien faire, par ordre de préférence. Cet ordre est
+à la fois complet et transitif, c'est-à-dire qu'il porte sur toutes les options et
+que les préférences sont cohérentes les unes avec les autres. Troisièmement,
+les acteurs agissent en conformité avec l'option qui maximise leur utilité,
+considérant les risques qui y sont associés et les informations dont ils
+disposent. Ils ne répriment pas leurs préférences simplement pour se
+conformer à la moralité ou à des traditions.
+
+
+La théorie du choix rationnel, en micro-économie comme en APE, est
+également fondée sur le paradigme de l'individualisme méthodologique. Ce
+paradigme ne signifie pas, malgré son nom, que les acteurs du système sont
+des individus en chair et en os. La théorie du choix rationnel repose au
+contraire sur une rationalité désincarnée de tout mécanisme cérébral
+individuel. Le paradigme de l'individualisme méthodologique signifie
+plutôt que ce sont les propriétés et les interactions des acteurs qui
+permettent d'expliquer les phénomènes collectifs. Ce sont les préférences
+des agents économiques qui déterminent le point d'équilibre entre l'offre et
+la demande, comme ce sont les préférences des États qui déterminent les
+
+
+possibilités de coopération internationale. C'est une vision ascendante, des
+unités vers le système. Dans ce contexte, la rationalité peut être attribuée à
+des êtres humains, mais aussi à des entités agrégées, comme des firmes, des
+ministères ou des États, pour autant que ces unités soient considérées
+comme les composantes d'un système.
+
+
+De plus, la théorie du choix rationnel ne formule aucun postulat sur les
+préférences des acteurs. Ce sont des théories plus spécifiques qui ajoutent à
+la rationalité un postulat sur l'utilité subjective. En micro-économie, l'utilité
+peut être définie en fonction du prix de vente, des délais de livraison, de la
+qualité du bien, de l'image de marque ou de tout autre facteur que les agents
+économiques jugent important. En politique étrangère, l'utilité peut
+notamment être définie en fonction d'une recherche de sécurité, de
+puissance, d'appuis électoraux ou de richesse des États.
+
+
+La majorité des théories qui reposent sur la notion de choix rationnel
+considèrent que les acteurs partagent une même fonction d'utilité, définie
+par un critère unique, et une même tolérance au risque. Cependant, la
+théorie du choix rationnel n'impose nullement de telles contraintes. On peut
+imaginer une théorie fondée sur des utilités variables, multicritères et
+intégrant des motivations intrinsèques comme l'estime de soi. Les
+comportements fondés sur cette forme d'utilité, même ceux aux apparences
+altruistes ou autodestructeurs, n'en seraient pas moins égoïstes et rationnels.
+
+
+La substituabilité des politiques étrangères
+
+
+La théorie du choix rationnel suppose que les acteurs sont confrontés à
+des choix. En APE, l'idée de choix s'exprime généralement à travers la
+notion de substituabilité des politiques. Cette notion signifie que, lorsqu'un
+décideur est confronté à un problème, il peut y répondre par différentes
+politiques. Cela n'implique pas que toutes les politiques sont
+fonctionnellement équivalentes et qu'elles conduisent toute au même
+résultat. La substituabilité des politiques suppose plus simplement que,
+selon le contexte, un décideur peut recourir à une politique ou une autre
+pour faire face à un même problème. Par exemple, devant la menace
+croissante d'une puissance hostile, un premier État mobilisera son armée,
+un deuxième aura recours à ses alliés traditionnels, un troisième initiera une
+
+
+attaque préventive, un quatrième financera des opérations clandestines
+ciblées, un cinquième imposera des sanctions, et un sixième ne modifiera en
+rien ses politiques. Sous cette perspective, ce qui détermine la politique
+étrangère n'est pas tant le problème qui se pose que les conditions affectant
+la disponibilité de chaque politique et l'intérêt relatif de chacune (Most et
+Starr, 1984; Most et Siverson, 1987; Diehl, 1994; Palmer et Souchet,
+1994; Palmer et Bhandari, 2000; Regan, 2000; Starr, 2000 ; Clark, 2001 ;
+Narizny, 2003 ; Milner et Tingley, 2011).
+
+
+Pour qu'une politique soit déployée, elle doit d'abord être disponible. La
+disponibilité d'une politique est elle-même fonction des conditions
+matérielles, humaines et financières. Certains pays parmi les moins avancés
+n'ont pas de représentation permanente à Genève et peuvent difficilement
+exercer une socialisation efficace, sans parler de sanction ou d'intervention.
+Même les pays les plus puissants, qui sont déjà surexposés sur la scène
+internationale, peuvent ne plus avoir suffisamment de ressources
+disponibles pour recourir à certains instruments.
+
+
+La disponibilité d'une politique dépend également des opportunités.
+Ainsi, pour qu'une guerre soit déclarée contre un pays avec lequel les
+tensions sont vives, mais stables et constantes, encore faut-il qu'un
+événement déclencheur se produise ou qu'un prétexte se présente pour la
+justifier. Or, dans une dynamique interactive, un État peut stratégiquement
+restreindre la gamme des politiques disponibles de son rival en se
+conformant à ses exigences (Leeds et Davis, 1997; Clark et Regan, 2003;
+Clark et Reed, 2005 ; Brulé et al., 2010 ; Mitchell et Thyne, 2010).
+
+
+En d'autres cas, ce sont des normes sociales ou juridiques qui
+restreignent la disponibilité d'une politique. Une loi américaine, par
+exemple, interdit à l'administration d'offrir de l'aide économique aux pays
+qui ont une pratique répétée de violation des Droits de l'homme. Cette
+contrainte conduisit l'administration américaine à substituer l'aide
+économique par l'aide alimentaire, offerte de manière disproportionnée aux
+pays connus pour leur peu d'égards envers les Droits de l'homme (Brulé,
+2006; Fariss, 2010).
+
+
+La disponibilité d'une politique n'est pas une condition suffisante pour
+expliquer son utilisation. Encore faut-il qu'elle représente un intérêt relatif,
+c'est-à-dire qu'elle permette de réaliser davantage de gains, de minimiser
+
+
+davantage les pertes ou de réduire davantage les risques que les autres
+politiques disponibles. Dans une perspective rationaliste, ce n'est pas
+l'intérêt absolu d'une politique qui explique son utilisation, mais son intérêt
+relatif, mesuré par rapport aux autres options disponibles. Autrement dit, le
+choix rationnel n'implique pas seulement l'établissement d'un rapport
+coûts/avantages pour une politique donnée, mais la comparaison des
+différents rapports coûts/avantages associés à différentes politiques. Il peut
+même être rationnel de choisir une politique apparemment inefficace pour
+atteindre un objectif donné, si elle est résolument moins risquée ou moins
+coûteuse que les autres politiques disponibles.
+
+
+David Baldwin explique ainsi le fait que les pays occidentaux recourent
+fréquemment aux sanctions économiques alors qu'il est bien établi qu'elles
+conduisent rarement à un changement de comportement du pays ciblé. Pour
+Baldwin, « si les possibilités d'action sont limitées à nager ou couler,
+conclure que la nage est une mode de transport notoirement inefficace pour
+se rendre d'un point à un autre n'est pas très pertinent » (1999,  . 84
+et 2000). Les sanctions économiques seraient le dernier échelon acceptable
+pour exprimer la dénonciation d'un comportement avant de mettre en
+marche un engrenage incontrôlable. Bien qu'insatisfaisantes, il s'agit
+parfois de la meilleure politique disponible du point de vue du choix
+rationnel (Whang, 2011).
+
+
+Des pans entiers de l'APE reposent sur cette idée de la substituabilité des
+politiques. C'est le cas, par exemple, des études comparant l'efficacité des
+divers instruments permettant d'effectuer le transfert d'une norme d'un État
+à un autre. Certaines indiquent que la socialisation est plus efficace que la
+coercition, alors que d'autres suggèrent l'inverse, que la manipulation des
+intérêts a plus d'impact que l'altération des idées. Bien que ces études
+aboutissent à des conclusions opposées, elles partagent néanmoins le
+postulat de la substituabilité des politiques puisqu'elles sous-entendent que
+les décideurs peuvent choisir entre la coercition et la socialisation pour
+atteindre un objectif donné (Berkowitz et al., 2003; Kelley, 2004;
+Meseguer, 2004; Schimmelfennig et Sedelmeier, 2004; Elkins et al.,
+2006; Cao, 2009).
+
+
+La substituabilité des politiques permet en outre de résoudre certains
+problèmes méthodologiques. En effet, un chercheur qui souhaite identifier
+
+
+une relation de causalité généralisable à partir d'une analyse quantitative ne
+peut pas sélectionner les cas particuliers qu'il étudie en fonction de la
+valeur de la variable dépendante. Un tel biais dans la sélection des cas serait
+une faute méthodologique capitale. Ainsi, un projet qui vise à expliquer les
+recours aux sanctions financières par la France ne peut pas se limiter aux
+cas où de telles sanctions ont effectivement été imposées. Il doit également
+tenir compte des cas où des sanctions financières n'ont pas été imposées.
+Or, puisque les non-événements sont difficiles à identifier, le chercheur peut
+se tourner vers des politiques substituables et les intégrer à l'analyse comme
+points de comparaison. Si on considère que les sanctions commerciales sont
+substituables aux sanctions financières, examiner le contexte dans lequel la
+France a eu recours aux sanctions commerciales permet de réduire les biais
+dans la sélection des cas et de mieux identifier les conditions spécifiques
+qui expliquent le recours aux sanctions financières.
+
+
+La substituabilité des politiques n'est, malgré tout, qu'un postulat. Le
+retrait d'une politique et le déploiement d'une autre peuvent être
+directement observés par l'analyste, mais rarement la décision elle-même
+qui a conduit à la substitution (Clark et Reed, 2005). Les rares études qui
+tentent de démontrer la substituabilité des politiques plutôt que de
+s'appuyer sur cette idée pour étudier un autre phénomène sont peu
+concluantes. Du moins, l'accroissement des ressources consacrées à un
+instrument n'entraîne généralement pas une diminution des ressources
+consacrées aux autres instruments, contrairement à ce que l'idée de
+substituabilité des politiques laisse entendre. Autrement dit, il n'y a pas de
+relation inverse dans l'utilisation des instruments généralement considérés
+comme substituables. Il semble que les politiques étrangères sont souvent
+davantage complémentaires que substituables (McGinnis, 2000; Morgan et
+Palmer, 2000 et 2003; Clark et al., 2008; Parlmer et al., 2002; Starr,
+2000; Arena, 2010).
+
+
+La dissuasion rationnelle
+
+
+La théorie du choix rationnel ne se limite pas à l'explication statique du
+comportement d'un acteur isolé de son environnement, mais permet
+également d'expliquer les interactions stratégiques entre les acteurs. Le
+
+
+terme << stratégie  signifie ici que les préférences des acteurs tiennent
+comptent des comportements attendus des autres acteurs, supposés eux
+aussi rationnels (Lake et Powell, 1999).
+
+
+Cette dimension stratégique est au cœur même de la théorie de la
+dissuasion rationnelle. Cette théorie avance qu'un État peut garantir sa
+sécurité s'il parvient à convaincre ses adversaires qu'une attaque
+engendrerait des représailles telles que les coûts seront assurément
+supérieurs aux bénéfices qu'ils peuvent espérer en tirer. Sous cette
+perspective, l'accumulation illimitée d'armements nucléaires s'inscrirait
+dans une logique défensive stratégique et rationnelle (Brodie, 1959;
+Snyder, 1961; Russett, 1967; Morgan, 1977; Jervis, 1989; Lebow et
+Stein, 1989; Archen et Snidal, 1989; Quackenbush, 2010).
+
+
+Les décideurs américains se sont largement inspirés de la théorie de la
+dissuasion rationnelle lors de la guerre froide. Plusieurs étaient persuadés
+que leurs adversaires soviétiques agissaient de façon rationnelle et en
+déduisirent qu'une dissuasion crédible et clairement exprimée pouvait être
+efficace. Le Secrétaire d'État américain John Foster Dulles a ainsi affirmé
+que  les Russes sont de grands joueurs d'échecs et leurs coups en politique
+internationale sont [...] calculés avec autant de minutie et de précaution que
+s'ils s'agissaient de coups dans un jeu d'échecs » (Jervis, 1976, p. 310 ; voir
+aussi Kaplan, 1983; Snyder, 1991; Adler, 1992; Etheredge, 1992).
+
+
+Cependant, l'acquisition de l'arme nucléaire par l'Union soviétique
+complexifia la stratégie américaine. Une attaque nucléaire de l'un ou l'autre
+des belligérants aurait assurément entraîné une riposte analogue, menant
+progressivement à une destruction mutuelle. Pour éviter ce scénario
+apocalyptique, les États-Unis mirent en œuvre une stratégie dérivée de la
+théorie de la dissuasion rationnelle : la stratégie du bord de l'abîme. La paix
+et la sécurité devaient être assurées par un niveau de risque et une capacité
+de rétorsion redoutablement élevés. Les États-Unis proposèrent ainsi à
+l'Union soviétique de conclure un traité restreignant les missiles
+antibalistiques puisque ce type d'armes défensives rend les attaques moins
+dangereuses et donc plus probables (Kahn, 1966).
+
+
+Il ne fait aucun doute que les États-Unis se préparaient également à une
+guerre nucléaire limitée. Sous le prisme rationaliste, une guerre nucléaire
+limitée est probable, puisqu'au-delà d'un certain seuil, un des belligérants
+
+
+préférera la défaite à l'anéantissement. Comme le notait Raymond Aron
+dans Paix et Guerre entre les nations : « L'égalité approximative du crime
+et du châtiment augmente l'improbabilité de la guerre totale et, du même
+coup, les risques de guerre limitée » (1962, p. 409). Cependant, divulguer
+ouvertement une préférence pour une guerre limitée serait un comportement
+irrationnel puisqu'elle atténuerait la crédibilité de la dissuasion.
+
+
+La clé de la dissuasion rationnelle est précisément de communiquer une
+menace claire et de la rendre le plus crédible possible. Plusieurs stratégies
+peuvent être utilisées à cette fin. L'une d'elles consiste à conclure
+formellement et publiquement des alliances avec d'autres pays. Le caractère
+public d'un traité, comme celui de l'Atlantique Nord (OTAN), accroît les
+probabilités que les alliés respectent leurs engagements de solidarité et
+ripostent aux attaques dirigées contre un de leurs membres. S'ils reniaient
+leurs engagements, leur réputation serait entachée, tant au niveau national
+qu'international.
+
+
+Les débats théoriques récents sur la dissuasion rationnelle portent
+justement sur ces coûts réputationnels. Pour certains, il s'agit d'une
+condition nécessaire pour rendre une dissuasion efficace, sans quoi les
+menaces seront interprétées comme un bluff qui ne peut être pris au sérieux.
+Les démocraties bénéficieraient ainsi de leur vulnérabilité aux coûts
+réputationnels. Puisqu'un représentant élu qui cède devant l'ennemi risque
+d'être sanctionné aux prochaines élections, ses menaces sont plus crédibles
+et sa dissuasion plus efficace que celles d'un dictateur fermement ancré au
+pouvoir. Pour d'autres analystes, cependant, les coûts réputationnels ne sont
+pas une condition nécessaire pour que la dissuasion prévienne les attaques
+de l'ennemi. La simple communication de menaces provoquerait des effets
+psychologiques, d'agressivité chez celui qui la formule et de peur chez celui
+qui la reçoit, ce qui rendrait la dissuasion efficace (Fearon, 1994 et 1995 ;
+Morrow, 2000; Danilovic, 2001; Schultz, 2001; Powell, 2003; Zagare,
+2004; Tomz, 2007 ; Allen et Fordham, 2011; Ramsay, 2011; Tingley et
+Walter, 2011; Trager, 2011).
+
+
+Chose certaine, les coûts réputationnels ne sont pas une condition
+suffisante et la transparence n'est pas une stratégie de dissuasion infaillible.
+Un adversaire peut estimer le coût réputationnel de la défection et offrir une
+compensation à l'élite au pouvoir pour qu'elle renie ses engagements et
+
+
+renonce à exécuter des mesures de rétorsion. À la suite de la guerre des Six
+Jours, par exemple, l'Égypte signa la résolution de Khartoum affirmant la
+solidarité arabe face à l'ennemi israélien. Dix ans plus tard, Israël et les
+États-Unis parviennent à convaincre le président égyptien Sadate de renier
+la résolution de Khartoum et de s'engager dans un processus de paix. Les
+Accords de Camp David de 1978 valurent à Sadate l'expulsion de l'Égypte
+de la Ligue arabe et de vives contestations des groupes islamistes égyptiens.
+Ce coût réputationnel fut cependant compensé par la restitution du Sinaï et
+une aide massive des États-Unis, à la fois économique et militaire (Sechser,
+2010).
+
+
+Une autre stratégie pour accroître la crédibilité de la dissuasion est de
+feindre l'irrationalité. En effet, un comportement de politique étrangère qui
+semble impulsif peut stratégiquement laisser croire aux adversaires que les
+représailles à d'éventuelles attaques risquent d'être disproportionnelles.
+C'est peut-être la stratégie de défense de la Corée du Nord qui, aux yeux
+des puissances étrangères, semble aussi hermétique qu'imprévisible.
+
+
+Au nom de la crédibilité de la dissuasion, certains analystes ont même
+imaginé un système de contre-attaque informatisé qui lance
+automatiquement des missiles nucléaires à la moindre offensive, sans
+qu'aucun individu ne puisse intervenir et empêcher ces lancements : un
+logiciel programmant la fin du monde pour sauver l'humanité de cette
+éventualité (Schelling, 1966 ; Howard, 1971 ; Powell, 1990).
+
+
+Durant la guerre froide, l'Union soviétique disposait effectivement d'un
+système semi-automatique de riposte nucléaire qui devait se déclencher si le
+commandement soviétique était décimé (Hoffman, 2009). Mais
+contrairement à la logique de la dissuasion rationnelle, l'Union soviétique
+n'a pas divulgué cette information aux Américains et n'en a donc pas
+profité pour accentuer son pouvoir de dissuasion. En fait, l'Union
+soviétique ne semblait tout simplement pas souscrire à logique de la
+dissuasion rationnelle que les États-Unis ont élaborée, tant pour définir leur
+comportement que pour anticiper ceux de leurs adversaires (Booth, 1979).
+
+
+Le comportement soviétique durant la guerre froide n'est pas la seule
+anomalie empirique mise en relief par les critiques de la théorie de la
+dissuasion rationnelle. L'histoire abonde d'exemples de menaces claires et
+crédibles qui n'ont pas permis de dissuader des adversaires. La persistance
+
+
+du gouvernement japonais qui refusa de rendre sa reddition après le premier
+bombardement atomique d'Hiroshima est sans doute un des cas les plus
+frappants. Au-delà du simple cas japonais, la détention de l'arme atomique
+ne semble pas représenter une dissuasion particulièrement efficace dans la
+majorité des conflits qui opposent les puissances nucléaires aux pays qui ne
+disposent que d'armes conventionnelles. Plus généralement, si chaque
+guerre se solde par la défaite d'au moins une des parties, on peut en déduire
+que le vaincu a commis une erreur d'appréciation en s'engageant dans le
+conflit, sous-estimant la capacité de riposte de son adversaire ou
+surestimant sa propre capacité de riposte (Huth et Russett, 1984; Geller,
+1990; Gartzke, 1999).
+
+
+Les tenants de la théorie des choix rationnels expliquent généralement
+ces décalages entre la logique de la dissuasion rationnelle et les erreurs de
+politique étrangère par l'asymétrie d'information. Les acteurs ne peuvent
+identifier toutes les options ni les évaluer correctement puisqu'ils ne
+disposent pas d'informations complètes et suffisantes sur la détermination,
+les capacités, les contraintes et les motivations de leurs adversaires. Plus
+encore, les acteurs peuvent être trompés par des informations erronées
+transmises stratégiquement par leurs adversaires. La métaphore du jeu
+d'échecs évoquée par Dulles n'est donc pas tout à fait juste. Aux échecs,
+chaque joueur connaît précisément et avec assurance l'objectif ultime de
+son adversaire et l'ensemble de ses coups antérieurs. Ce n'est pas le cas en
+politique étrangère (Morrow, 1989; Bueno de Mesquita et Lalman, 1992;
+Fearon, 1995).
+
+
+Même s'il est parfois possible pour les décideurs d'obtenir davantage
+d'informations, notamment par des activités d'espionnage, cette recherche
+d'informations est généralement coûteuse, longue et risquée. Il serait même
+irrationnel d'attendre de disposer de toutes les informations pertinentes pour
+agir. Un acteur rationnel doit raisonner par inférences bayésiennes, c'est-à-
+dire qu'il doit tenir compte des informations partielles dont il accumule
+progressivement et agir sur la seule base des diverses probabilités qu'il peut
+établir.
+
+
+Ainsi, si le comportement belliqueux de Nasser en 1967 s'est soldé par
+une défaite humiliante et une perte de territoire pour l'Égypte, ce n'est pas
+parce qu'il agit irrationnellement, mais plutôt parce qu'il agit dans
+
+
+l'incertitude à propos des politiques israéliennes (Mor, 1991). La théorie de
+la dissuasion rationnelle n'implique pas que les acteurs soient infaillibles et
+l'échec de certaines politiques de dissuasion ne l'invalide en rien.
+
+
+La modélisation de la rationalité
+
+
+Le principal atout de la théorie du choix rationnel, malgré la fragilité de
+ses postulats, est de permettre la modélisation des comportements. En effet,
+si les comportements répondent à une logique stable, prévisible et
+identifiable, il devient possible de les anticiper. C'est l'ambition de la
+théorie des jeux et de la théorie cybernétique.
+
+
+La théorie des jeux
+
+
+La théorie des jeux n'est pas stricto sensu une théorie. C'est plutôt une
+approche méthodologique qui peut être adaptée à toutes les théories
+rationalistes. Plus spécifiquement, la théorie des jeux est un mode de
+raisonnement déductif fondé sur la modélisation formelle. Le point de
+départ de la réflexion est toujours un ensemble de postulats sur les
+propriétés des acteurs, incluant généralement celui de la rationalité, que l'on
+introduit dans une matrice d'interactions. On déduit ensuite, à partir de ces
+<< règles de jeu », le comportement stratégique de chacun des acteurs et
+l'issue de leurs interactions. Cette approche méthodologique, initialement
+développée en économie, a rapidement été intégrée à l'APE (Snyder et
+Diesing, 1977; Jervis, 1978; Stein, 1982; Axelrod, 1984; Snidal, 1985;
+Martin, 1992; Morrow, 1994).
+
+
+Les matrices ci-après représentent des configurations simples ne mettant
+en scène que deux joueurs qui sont tous deux confrontés à un choix entre
+deux options. Leurs préférences sont exprimées sous forme numérique
+allant de 0 à 4. Ici, les joueurs cherchent à réaliser des gains absolus plutôt
+que relatifs, c'est-à-dire qu'ils tentent de se rapprocher le plus près possible
+de 4 sans nécessairement surpasser les gains réalisés par l'autre joueur. Il
+s'agit, autrement dit, de jeux à somme non nulle : l'addition des gains des
+deux joueurs ne donne pas nécessairement zéro. Néanmoins, les joueurs
+
+
+sont placés en contexte d'interdépendance. Les gains réalisés par un joueur
+dépendent non seulement de son propre comportement, mais également du
+comportement de l'autre joueur. Ils doivent donc agir stratégiquement, en
+tenant compte du comportement probable de leur vis-à-vis.
+
+
+La configuration de l'harmonie est à la fois la plus simple et la moins
+fréquente. Dans cette matrice, tant le joueur A que le joueur B opteront
+nécessairement pour l'option 1. Peu importe le comportement de l'autre
+joueur, les gains auxquels peut mener la première option – 3 ou 4 sont
+supérieurs aux gains auxquels peut mener la seconde option – 1 ou 2. Les
+joueurs étant rationnels, ils convergeront nécessairement vers le cadran
+supérieur gauche et obtiendront tous les deux un gain de 4. Ce cadran
+représente un équilibre de Nash, c'est-à-dire qu'aucun joueur n'a intérêt à
+dévier unilatéralement de sa stratégie. Ce cadran est également Pareto-
+optimal, c'est-à-dire qu'aucune autre combinaison ne peut accroître les
+gains d'un joueur sans faire baisser celui de l'autre. Puisque l'équilibre est
+optimal, cette configuration est qualifiée d'harmonie.
+
+
+Joueur B
+
+
+Option 2
+
+
+Option 1
+
+
+1
+
+
+Joueur A
+
+
+Option 1
+
+
+Option 2
+
+
+4
+
+
+3
+
+
+4
+
+
+2
+
+
+Figure 3. L'harmonie
+
+
+3
+
+
+2
+
+
+1
+
+
+Joueur B
+
+
+Option 2
+
+
+Option 1
+
+
+0
+
+
+Joueur A
+
+
+Option 1
+
+
+Option 2
+
+
+4
+
+
+0
+
+
+3
+
+
+3
+
+
+1
+
+
+4
+
+
+1
+
+
+Figure 4. La bataille des sexes
+
+
+Le problème connu sous le nom de « bataille des sexes » représente une
+situation plus fréquente. Cette dénomination renvoie à un problème auquel
+peuvent se heurter les amoureux aux intérêts divergents lorsqu'ils doivent
+choisir une activité commune. Si l'un préfère assister à un spectacle d'opéra
+et l'autre à un combat de boxe, mais que tous les deux préfèrent avant tout
+passer une soirée ensemble, comment vont-ils trancher entre ces deux
+équilibres de Nash ? L'un d'eux imposera peut-être ses préférences en
+prenant l'initiative de réserver des places. Mais ils devront nécessairement
+se coordonner sans quoi ils risquent de se retrouver respectivement seuls à
+un spectacle qu'ils n'apprécient guère.
+
+
+En APE, cette situation se présente dans plusieurs négociations portant
+sur l'établissement de normes et de standards techniques, notamment dans
+le domaine des télécommunications et du transport. Les pays francophones
+souhaitent sans doute que le français soit la langue officielle de l'aviation
+civile internationale, et les pays hispaniques préfèrent certainement
+l'espagnol. Mais tous veulent par-dessous tout que les pilotes et les tours de
+contrôle partagent une langue commune, même s'il ne s'agit pas de leur
+langue nationale. Une fois qu'une décision est prise, l'équilibre de Nash
+rend improbable une quelconque déviation unilatérale. La stratégie
+
+
+dominante sera maintenue même si elle ne conduit pas au résultat le plus
+favorable pour un joueur donné.
+
+
+Joueur B
+
+
+Option 2
+
+
+Option 1
+
+
+Joueur A
+
+
+Option 1 Option 2
+
+
+3
+
+
+4
+
+
+0
+
+
+3
+
+
+2
+
+
+0
+
+
+4
+
+
+2
+
+
+Figure 5. Le dilemme du prisonnier
+
+
+Le problème du « dilemme du prisonnier » se caractérise par la présence
+d'un optimum qui n'est pas en équilibre stable. Contrairement à la guerre
+des sexes, les deux joueurs ont ici un intérêt commun, situé dans le cadran
+supérieur gauche, plutôt qu'une aversion commune. Cet optimum est
+cependant instable, puisque la stratégie dominante des deux acteurs est
+l'option 2, faisant du cadran inférieur droit le point équilibre.
+
+
+C'est le problème qui se pose si deux criminels suspectés d'avoir commis
+un cambriolage sont interrogés séparément. En témoignant contre leur
+complice, ils peuvent espérer bénéficier d'un allégement de peine, sauf si
+leur complice témoigne également contre eux. L'issue optimale est qu'ils
+restent solidaires l'un de l'autre pour que les autorités policières n'aient
+aucune preuve accablante contre eux. Malgré cela, puisque chacun ignore
+comment répondra l'autre, ils risquent de se dénoncer mutuellement.
+
+
+Pour passer d'une situation d'équilibre à une situation optimale, les
+joueurs pris dans un tel dilemme doivent collaborer entre eux et non pas
+simplement se coordonner. Il n'est pas suffisant qu'ils s'entendent à
+l'avance sur le comportement à adopter puisque, au moment de prendre la
+
+
+décision, ils auront un fort incitatif à trahir leur engagement dans l'espoir de
+réaliser des gains supplémentaires.
+
+
+Pour surmonter cet incitatif, les deux joueurs doivent établir une relation
+de confiance. L'une des façons d'y parvenir est de répéter à plusieurs
+reprises l'interaction. L'itération permet à la fois de tirer des informations
+des expériences passées et de créer un incitatif à la coopération en
+fournissant une perspective future commune.
+
+
+Lorsque l'itération n'est pas possible, les joueurs peuvent accroître leur
+niveau de confiance en ajoutant aux règles du jeu des mécanismes de
+surveillance et de sanction qui neutralisent les incitatifs à la défection. Un
+groupe mafieux qui liquide systématiquement toute la famille de ceux qui
+les ont trahis peut avoir confiance dans le fait que leurs membres interrogés
+par la police ne deviendront pas des délateurs.
+
+
+Le dilemme du prisonnier est un problème typique des négociations de
+libre-échange et de celles sur la réduction des armements. Si la théorie
+économique de l'avantage comparatif conclut qu'une relation de libre-
+échange est bénéfique pour tous les partenaires, il n'en demeure pas moins
+que les signataires d'un traité de libre-échange ont un incitatif à ne pas
+respecter le principe de la réciprocité et à protéger leur marché intérieur tout
+en profitant d'un accès privilégié aux marchés étrangers. De même, si on
+admet que les puissances nucléaires peuvent contribuer à la paix en
+réduisant simultanément leur arsenal, elles ont individuellement intérêt à
+laisser les autres se désarmer tout en dissimulant une partie de leur propre
+armement. Les régimes commerciaux et ceux sur la réduction de
+l'armement tentent de pallier ces incitatifs à la défection par des
+mécanismes d'arbitrage pour les premiers et des inspections pour les
+seconds.
+
+
+Joueur B
+
+
+Option 2
+
+
+Option 1
+
+
+1
+
+
+Joueur A
+
+
+Option 1
+
+
+Option 2
+
+
+2
+
+
+0
+
+
+2
+
+
+1
+
+
+0
+
+
+1
+
+
+1
+
+
+Figure 6. La chasse au cerf
+
+
+La chasse au cerf représente une situation similaire au dilemme du
+prisonnier, mais l'incitatif à la défection est motivé par une stratégie de
+prudence face au comportement incertain de l'autre joueur plutôt que par la
+perspective de gains additionnels. Si un chasseur craint que son compagnon
+de chasse fasse feu sur le premier lièvre qui se présente, faisant ainsi fuir
+tous les cerfs du bois, il sera incité à chasser lui aussi le petit gibier, moins
+intéressant, mais plus sûr.
+
+
+C'est, par exemple, le problème auquel font face les pays créditeurs dans
+leur décision d'allouer un prêt à un pays dont la crédibilité est incertaine. Ils
+peuvent refuser un tel prêt, qui serait néanmoins bénéfique pour tous, s'ils
+craignent que les autorités du pays débiteur adoptent des politiques de
+courtes vues, comme une dévaluation de leur devise suffisante pour
+entraîner une inflation marquée, plutôt que de veiller à leurs propres intérêts
+à long terme, en réformant les grandes structures économiques du pays.
+Autrement dit, la crainte d'une politique inflationniste peut faire fuir les
+investisseurs étrangers, appauvrissant tant les créanciers que les débiteurs.
+
+
+Joueur B
+
+
+Option 2
+
+
+Option 1
+
+
+4
+
+
+3
+
+
+Joueur A
+
+
+Option 1
+
+
+Option 2
+
+
+2
+
+
+3
+
+
+0
+
+
+2
+
+
+0
+
+
+4
+
+
+Figure 7. La poule mouillée
+
+
+Le jeu de la poule mouillée combine les caractéristiques des jeux
+précédents. Il présente deux équilibres, comme dans la guerre des sexes,
+mais un optimum instable, comme dans le dilemme du prisonnier et la
+chasse au cerf. C'est un jeu qui rappelle une scène célèbre du cinéma
+américain: deux adolescents téméraires mesurent leur courage respectif en
+lançant leur voiture l'une contre l'autre, pour voir lequel d'entre eux sera le
+plus poltron et la fera dévier en premier. C'est une situation familière aux
+négociateurs qui ont intérêt à se montrer plus intransigeants qu'ils ne le sont
+en réalité, dans l'espoir que leurs interlocuteurs cèdent les premiers, mais au
+risque de faire achopper les négociations.
+
+
+Le jeu de la poule mouillée et les autres modèles présentés ici ne sont que
+des configurations de base. Les modèles développés en APE sont de plus de
+plus en plus complexes. Certains mettent en scène plusieurs séries d'actions
+situées dans le temps, d'autres reconnaissent que les joueurs n'ont accès
+qu'à une information imparfaite ou incomplète, et d'autres encore
+multiplient le nombre de joueurs, d'enjeux et d'options possibles (Kim et
+Bueno de Mesquita, 1995 ; Wagner, 2000 ; Reiter, 2003).
+
+
+Cela dit, la théorie des jeux demeure une approche méthodologique
+controversée. Elle catalyse un débat épistemologique qui porte plus
+
+
+généralement sur l'ensemble du paradigme rationaliste. Pour certains,
+minoritaires, la théorie des jeux permet de mettre en relief des mécanismes
+causaux invisibles, mais bien réels. Même si les acteurs n'ont pas
+nécessairement conscience de toutes les règles dans lesquelles ils opèrent,
+ce sont bien ces règles qui gouvernent leurs comportements. Pour une
+majorité d'analystes, toutefois, le postulat rationaliste au cœur de la théorie
+des jeux n'est qu'une fiction. Les humains et les organisations ne sont pas
+des acteurs purement rationnels et ne réagissent pas aux règles comme le
+feraient des ordinateurs (McDonald, 2003).
+
+
+Même au sein de ce groupe majoritaire qui considère la rationalité
+comme une fiction, les dissensions sont vives. Un premier sous-groupe juge
+qu'il s'agit d'une fiction nuisible, qui éloigne la recherche en APE des
+véritables processus de prise de décision. Selon eux, plus la théorie des jeux
+se complexifie, plus elle devient inepte et inutile (Green et Shapiro, 1994;
+Walt, 1999). D'autres, par contre, considèrent que la fiction rationaliste de
+la théorie des jeux peut être utilisée avec profit pour générer des hypothèses
+et formuler des prédictions. Même si les acteurs internationaux ne sont pas
+réellement rationnels, ils se comportent comme s'ils l'étaient. La théorie
+des jeux aurait ainsi une certaine valeur prédictive même si elle est
+dépourvue de valeur descriptive ou compréhensive. Après tout, les sciences
+physiques elles-mêmes se sont développées en intégrant des variables qui
+n'existent pas dans le monde empirique, comme le vide parfait (Bueno de
+Mesquita, 1981, 1984 et 1998; Archen et Snidal, 1989; Quackenbush,
+2004).
+
+
+Tous reconnaissent cependant qu'une modélisation, en physique ou APE,
+n'a qu'un faible intérêt si toutes les variables de ses équations
+correspondent à des idéaux fictifs (Lebow et Stein, 1989). C'est justement
+pour rendre la théorie des jeux plus conforme aux procédures de prise de
+décision réelles que certaines analystes assouplissent le postulat de la
+rationalité des joueurs. Ils recourent plutôt au postulat de la « rationalité
+limitée, tel que défini par la théorie cybernétique » (Bendor et Hammond,
+1992; Bueno de Mesquita, 1997).
+
+
+La théorie cybernétique
+
+
+Pour Herbert Simon, l'environnement est trop complexe et les capacités
+humaines trop limitées pour que le postulat d'une rationalité pure soit
+réaliste (1982). Les acteurs sont incapables d'accéder à toutes les
+informations pertinentes, d'assimiler toutes les informations qu'ils
+reçoivent, d'identifier toutes les possibilités d'action qui s'offrent à eux et
+d'évaluer toutes les conséquences d'une éventuelle action. Par conséquent,
+il est illusoire de croire que leurs comportements maximisent leur utilité.
+Simon considère que les acteurs manœuvrent à travers la complexité du
+monde réel en choisissant plus simplement la première option satisfaisante.
+C'est ce qu'il appelle la « rationalité limitée », un ajustement à la théorie du
+choix rationnel qui lui valut le prix Nobel d'économie de 1978.
+
+
+Plusieurs théories se sont édifiées sur cette notion de rationalité limitée,
+dont la théorie des corbeilles évoquée au chapitre précédent, le modèle
+organisationnel abordé dans un prochain chapitre et la théorie cybernétique,
+présentée ici. Ces trois théories peuvent être mobilisées pour l'analyse du
+processus décisionnel de n'importe quelle forme d'organisation. La théorie
+cybernétique est tout aussi pertinente pour analyser le comportement d'une
+firme que celui d'un État (March et Simon, 1958). En matière de politique
+étrangère, elle a particulièrement été développée par John Steinbruner dans
+son ouvrage sur la coopération nucléaire (1974 et 1976).
+
+
+La théorie cybernétique en APE est plus spécifiquement composée de
+trois postulats. Le premier avance que les décideurs considèrent une
+politique satisfaisante si elle permet de maintenir certains facteurs
+fondamentaux à l'intérieur de paramètres tolérables. Ces facteurs
+fondamentaux sont directement liés à leur survie politique. Il peut s'agir,
+par exemple, de maintenir un taux d'appui populaire au-delà de 40 %, une
+primauté militaire dans une région donnée ou un taux de croissance du
+produit intérieur brut à plus de 2%. Pour les décideurs, se concentrer ainsi
+sur un nombre limité de facteurs fondamentaux simplifie grandement leur
+recherche d'informations.
+
+
+Le deuxième postulat est que les politiques sont maintenues en place par
+les décideurs jusqu'à ce qu'un de ces facteurs fondamentaux sorte des
+paramètres de tolérance. C'est uniquement lorsqu'une telle rétroaction
+négative est perçue que les décideurs savent que leur politique n'est plus
+satisfaisante et qu'ils doivent l'ajuster. Inversement, si la rétroaction
+
+
+demeure positive ou qu'aucun stimulus n'est perçu, la politique en place est
+maintenue, même si elle est en réalité sous-optimale. Ce mode de
+raisonnement favorise la continuité et peut expliquer que la politique
+étrangère soit relativement stable et constante (Volgy et Schwarz, 1991;
+Sylvan et Majeski, 2009).
+
+
+Le troisième postulat de la théorie cybernétique est que, lorsqu'une
+rétroaction est négative et qu'un ajustement s'impose, les décideurs ne
+prennent pas leur décision en comparant systématiquement toutes les
+politiques disponibles, mais en examinant les différentes politiques les unes
+après les autres, au fur et à mesure qu'elles se présentent à eux. Dans ce
+processus séquentiel, ils retiennent la première politique qui leur permet de
+ramener les facteurs fondamentaux à l'intérieur des paramètres de
+tolérance. Ils n'ont donc pas besoin de calculer le rendement spécifique
+d'une politique particulière, et encore moins d'effectuer des analyses
+comparatives complexes. Ils ne font que s'adapter pour assurer leur survie
+(Lindblom, 1959).
+
+
+Une illustration de l'adaptation cybernétique serait le positionnement
+d'un chat par rapport à un foyer. La décision d'un chat de faire une sieste à
+un endroit plutôt qu'un autre dépend d'un nombre limité de facteurs
+fondamentaux, dont l'étendue du champ de vision et la chaleur. Si le chat
+dort à trois mètres d'une cheminée, il y restera jusqu'à ce que le feu soit
+moins ardent et que la température ressentie par son épiderme descende
+sous son seuil de tolérance. Il s'adaptera alors en marchant dans différentes
+directions jusqu'à ce qu'il trouve une nouvelle position satisfaisante,
+suffisamment près du foyer pour être réchauffé, mais pas trop pour éviter
+d'être brûlé. Un chat n'a certainement pas la rationalité que la théorie du
+choix rationnel attribue aux acteurs : il ne calcule pas le rayon optimal de
+radiation d'un feu en fonction de sa puissance calorifique. Néanmoins, il
+parvient toujours à s'adapter et à trouver une localisation satisfaisante.
+
+
+De façon similaire, les membres du Congrès américain ne calculent pas
+chaque année les sommes optimales à consacrer aux dépenses militaires. Ils
+ajustent plutôt les crédits militaires progressivement à partir des sommes
+octroyées l'année précédente. Pour savoir s'ils doivent les augmenter ou les
+diminuer, ils tiennent compte de certains facteurs fondamentaux, comme
+l'évolution de l'armement des principaux rivaux des États-Unis et de
+
+
+l'évolution des recettes fiscales. Si ces facteurs fondamentaux demeurent
+dans le cadre des paramètres acceptables, le budget octroyé l'année
+précédente sera vraisemblablement
+reconduit pour une année
+supplémentaire (Ostrom, 1977; Marra, 1985).
+
+
+Contrairement à la théorie du choix rationnel, la théorie cybernétique
+reconnaît ainsi que les décideurs peuvent choisir et maintenir des politiques
+qui ne maximisent pas leur utilité. D'un autre côté, compte tenu de la
+complexité de l'environnement et des capacités limitées des acteurs, ce
+mode de raisonnement fondé sur la satisfaction n'est pas irrationnel. Les
+acteurs orientent leurs comportements en fonction de leurs objectifs et
+parviennent à s'adapter à leur environnement de façon relativement rapide
+et efficace. Ils n'ont pas besoin d'être en mesure d'expliquer la continuité
+ou les changements de leur environnement pour s'y adapter. Ils doivent
+simplement se concentrer sur des paramètres particuliers (Jones, 1999).
+
+
+Cette régularité permet à l'analyste de décoder les règles de
+comportement en observant attentivement les variations dans les réactions
+des gouvernements (Kuperaman, 2001). Les règles déduites peuvent ensuite
+être intégrées dans un modèle visant à prédire, avec plus ou moins de
+succès, le comportement des États. Par exemple, dans un article remarqué,
+Charles Ostrom et Brian Job (1986) ont modélisé les décisions américaines
+de recourir à la force armée à partir de seulement dix paramètres, trois
+concernant l'environnement international, quatre concernant le contexte
+national et trois concernant la situation politique du président. En
+combinant ces dix paramètres, ils sont parvenus à expliquer 71% des
+recours à la force et 79% des non-recours à la force, laissant présager un
+taux de succès similaire pour anticiper le futur. La modélisation
+cybernétique est certes imparfaite, mais elle semble mieux correspondre
+aux réalités empiriques que la modélisation fondée sur une pure rationalité.
+
+
+Rationalité et cognition
+
+
+Les principales failles de la théorie du choix rationnel concernent moins
+les contraintes environnementales liées à l'accès à l'information que les
+contraintes intrinsèques aux acteurs eux-mêmes. En effet, il arrive
+fréquemment que des défaillances organisationnelles et des biais cognitifs
+
+
+conduisent à des erreurs de perception et d'interprétation. Ces erreurs font,
+à leur tour, dévier le comportement des acteurs des prédictions formulées
+par la théorie du choix rationnel (Mintz et Geva, 1997 ; Geva et al., 2000;
+Green et Shapiro, 1994).
+
+
+L'attaque-surprise de Pearl Harbor en est sans doute l'une des meilleures
+illustrations. Des agents américains disposaient bel et bien d'informations
+indiquant que le Japon s'apprêtait à passer à l'offensive. Ces informations,
+cependant, ne furent pas traitées et interprétées correctement. L'armée
+américaine anticipait tant et si bien des actes de sabotages qu'elle ne s'est
+pas préparée adéquatement à une attaque aérienne (Wohlstetter, 1962).
+
+
+Cela étant, les tenants de la théorie du choix rationnel se sont révélés
+particulièrement réactifs dans les dernières décennies. Plutôt que d'ignorer
+les critiques cognitivistes, ils ont sans cesse complexifié leurs modèles pour
+qu'ils correspondent davantage aux réalités empiriques. La théorie des
+perspectives et la théorie poliheuristique résultent toutes les deux de
+croisements entre la théorie du choix rationnel et les théories cognitivistes.
+
+
+La théorie des perspectives
+
+
+Le béhaviorisme est l'étude des comportements directement observables.
+Venant de la psychologie, ce courant a contribué aux recherches en
+économie et, par ce biais, exerce maintenant une influence croissante en
+APE (Bueno de Mesquita et McDermott, 2004; Mercer, 2005; Mintz,
+2007; Elms, 2008; Walker et al., 2011).
+
+
+Sur le plan méthodologique, le béhaviorisme repose généralement sur des
+expériences en laboratoire. Des sujets sont placés devant un scénario fictif
+selon lequel ils doivent opérer un choix entre plusieurs options possibles.
+On leur demande, par exemple, s'ils préfèrent avoir 40 % de chance de
+gagner 1 000 dollars ou 80% de chances de gagner 200 dollars. Leurs
+décisions sont ensuite analysées en fonction de diverses variables et des
+conclusions théoriques en sont tirées (Boettcher, 2004).
+
+
+L'une des principales contributions du courant béhavioriste à l'APE est la
+théorie des perspectives développée par Daniel Kahneman et Amos Tversky
+(1979). En effet, leurs travaux démontrent de façon convaincante que la
+
+
+majorité des individus ont une aversion particulière pour les pertes. La
+douleur psychologique qu'inflige une perte est supérieure au plaisir que
+génère un gain équivalant. Ainsi, lorsque l'on propose aux sujets d'une
+expérience d'être placés dans une situation où ils ont 50% de chance de
+gagner vingt dollars et 50% de chance de perdre vingt dollars, la majorité
+préfèrent ne prendre aucun risque et ne pas participer au jeu. Autrement dit,
+les vingt dollars déjà possédés, mais qui risquent d'être perdus ont une
+valeur supérieure aux vingt dollars qui ne sont pas possédés mais qui
+peuvent être gagnés. C'est donc le critère de la possession qui, en dehors de
+tout calcul rationnel, fait varier la valeur attribuée à un objet. Le simple fait
+d'acquérir un objet, aussi futile soit-il, augmente sa valeur aux yeux de son
+propriétaire par rapport aux objets équivalents qu'il souhaite néanmoins
+acquérir.
+
+
+La théorie des perspectives avance également que, lorsque les individus
+sont confrontés à une perte, la majorité d'entre eux sont prêts à prendre plus
+de risques pour éviter cette perte qu'ils ne le feraient en situation de gain.
+Ils préfèrent relever un pari impliquant une probabilité de 75% de perdre
+100 dollars et 25% de ne rien perdre du tout qu'une perte assurée de
+75 dollars. Par contre, ils préfèrent encaisser 75 dollars plutôt que de relever
+un pari impliquant 75% de chance de gagner 100 dollars et 25% de chance
+de ne rien gagner. Cette variation de la tolérance au risque a été confirmée
+par de multiples expériences avec des sujets humains de différentes
+cultures, par la recherche en imagerie neurologique et même par des
+expériences avec des singes capucins.
+
+
+La théorie des perspectives soulève des implications majeures pour la
+politique étrangère. Qu'il s'agisse de commerce international, de prestige,
+d'effectifs militaires, ou de la délimitation des frontières nationales, les
+gains doivent être presque deux fois supérieurs aux pertes encourues pour
+les compenser. Cette aversion pour les pertes explique qu'un État soit
+davantage prêt à se battre pour la défense d'un territoire que pour le
+conquérir, qu'il accepte des coûts plus élevés pour maintenir un régime
+international que pour le créer, qu'il investisse davantage pour pallier le
+déclin de sa réputation que pour la valoriser, et qu'il consacre plus d'efforts
+à contrer la formation de coalitions hostiles qu'à renforcer ses propres
+alliances. Plus généralement, l'aversion pour les pertes peut contribuer à
+
+
+expliquer la tendance des grandes puissances à la surextension, à la
+suractivité et à la surexposition, minant paradoxalement leur chance de
+survie (Snyder, 1991; Levy, 1992 et 1997).
+
+
+Sachant que les autres acteurs internationaux sont soumis à la même
+aversion pour les pertes, un État peut en tenir compte pour développer
+stratégiquement sa politique étrangère. La théorie des perspectives indique
+que dissuader à l'avance un État étranger pour empêcher une action est un
+investissement plus rentable que le recours à la contrainte pour le forcer à
+faire marche arrière. Compte tenu de l'aversion pour les pertes, il s'avère
+également plus efficace d'exercer une coercition en utilisant des menaces
+plutôt que des promesses (Davis, 2000; Schaub, 2004 ; Butler, 2007).
+
+
+Ces théorèmes ne sont valides, toutefois, que si la cible de la politique
+étrangère se situe à un point de référence neutre. Si, au contraire, la position
+de l'adversaire se situe déjà dans le domaine des pertes, la dissuasion peut
+s'avérer inefficace pour l'autre partie. Elle n'a pu contenir ni le
+revanchisme français de 1914 qui n'avait toujours pas digéré la perte de
+l'Alsace et de la Lorraine, ni le fascisme italien nostalgique de l'Empire
+romain, ni le nazisme allemand s'édifiant sur l'humiliation du traité de
+Versailles.
+
+
+Le point de référence permettant d'évaluer les gains et les pertes n'est
+pas stable. Il est fortement influencé par le cadrage du problème. Pour
+démontrer ce phénomène, Tversky et Kahneman ont effectué une
+expérience avec un groupe d'étudiants. Ils leur ont présenté un scénario
+fictif selon lequel ils sont les dirigeants d'un pays comptant 600 personnes,
+toutes menacées par un nouveau virus. Ils leur ont ensuite demandé de
+choisir entre deux politiques : une première qui a une probabilité de 100 %
+de sauver 200 personnes, mais d'entraîner la mort de 400 personnes, et une
+deuxième ayant une probabilité de 33% de sauver les 600 personnes
+infectées et une probabilité de 66 % de ne sauver personne. Lorsque ces
+deux possibilités ont été formulées en termes de nombre de personnes
+sauvées, 72 % des étudiants ont préféré la première plus prudente. Par
+contre, lorsque les mêmes options ont été présentées en termes de nombre
+de morts risquant d'être entraînés, 78 % des répondants ont préféré la
+deuxième plus risquée. Percevoir un verre à moitié vide ne suscite donc pas
+le même niveau de tolérance au risque que de le percevoir à moitié plein,
+
+
+même s'il s'agit objectivement du même contenu (Tversky et Kahneman,
+1981; Kahneman et Tversky, 1984; Mintz et al., 1997 ; Mintz et Redd,
+2003; Taylor-Robinson et Redd, 2003 ; Perla, 2011).
+
+
+Le point de référence permettant d'évaluer les gains et les pertes varie en
+fonction de l'interprétation des événements passés et des aspirations
+futures. De façon générale, les nouveaux gains sont rapidement intégrés et
+font rehausser le point de référence, créant un retour au niveau d'équilibre.
+Les retirer serait alors interprété comme une perte sur la base de ce nouveau
+point de référence plutôt que comme la suppression de gains réalisés
+antérieurement. Inversement, la majorité des individus s'acclimatent
+lentement et difficilement aux pertes. Le point de référence peut ainsi être
+celui d'un lointain passé glorieux, voire celui d'un passé fantasmé.
+
+
+Les variations du point de référence d'un État à un autre peuvent
+expliquer des différences fondamentales dans leur politique étrangère. La
+théorie des perspectives peut notamment expliquer que certains États
+souhaitent modifier le statu quo pour récupérer ce qu'ils perçoivent comme
+des pertes, alors que d'autres, tout aussi puissants ou faibles, œuvrent pour
+le maintenir afin de préserver leurs acquis. Les premiers se comportent
+comme le prédit la version offensive du réalisme (Schweller, 1994;
+Mearsheimer, 2001 et 2009; Layne, 2002; Sweeney et Fritz, 2004), alors
+que les seconds se conforment aux thèses de la version défensive du
+réalisme (Waltz, 1979; Gilpin, 1987 ; Grieco, 1990; Levy et Thompson,
+2005; Kirshner, 2012).
+
+
+L'agression, l'opportunisme, le rééquilibrage et le suivisme peuvent donc
+coexister dans un même système international. Lors de la Seconde Guerre
+mondiale, par exemple, les grandes puissances n'étaient pas animées par les
+mêmes motivations : les États-Unis cherchaient à préserver le statu quo
+alors que l'Allemagne souhaitait le renverser. De même, parmi les faibles
+puissances, certains comme la Hongrie ont tenté de profiter de la situation
+pour prendre de l'expansion, alors que d'autres comme la Turquie n'ont
+voulu que sauvegarder leur territoire. La recherche du statu quo n'est pas
+l'apanage des puissants, pas plus que le révisionnisme n'est celui des
+faibles. L'une des clés permettant de comprendre ces variations est de
+resituer les points de référence comme le perçoivent les décideurs pour
+
+
+évaluer leur vision des gains et des pertes (Jervis, 1976 et 1994; Snyder,
+1991; Stein et Pauly, 1993; McDermott, 1998).
+
+
+Les variations du point de référence peuvent également expliquer les
+variations dans la politique étrangère d'un même pays. Franklin D.
+Roosevelt, par exemple, se résolut à prendre le risque politique de défendre
+l'entrée des États-Unis dans la Seconde Guerre mondiale à partir du
+moment où il perçut ce conflit comme une menace immédiate pour les
+intérêts américains plutôt qu'une opportunité pour consolider la position
+stratégique des États-Unis (Farnham, 1997). Truman, quant à lui, prit
+davantage de risque en Europe avec la création d'une alliance régionale
+centralisée autour de l'OTAN, face à la pression communiste, que dans la
+région du pacifique, dont la sécurité moins menacée était fondée sur des
+alliances souples et bilatérales (Hemmer et Katzenstein, 2002; He et Feng,
+2012). Plus récemment, lors de la guerre du Golfe, George H. W. Bush fut
+prêt à lancer une opération militaire pour défendre les intérêts américains au
+Koweït, mais pas pour en tirer des gains additionnels et poursuivre son
+avancé jusqu'à Bagdad (McDermott, 2004). Puis, lors de la dissolution de
+la Yougoslavie, Slobodan Milošević fut bien davantage résolu à se battre
+pour conserver le Kosovo, qu'il situait dans le domaine des pertes
+potentielles, que lors de la guerre de Bosnie, qui visait plutôt à assurer des
+gains à la Serbie (White, 2000).
+
+
+Il est bien entendu possible que tous les belligérants se situent dans le
+domaine des pertes et soient particulièrement déterminés à défendre leurs
+intérêts. Plus ils s'y investissent, plus les pertes s'accroissent et plus leur
+détermination s'affermit. Les dirigeants politiques peuvent alors persister
+dans une politique étrangère qui mine objectivement leurs intérêts. Des
+chercheurs ont ainsi mobilisé la théorie des perspectives pour expliquer des
+comportements défiant la rationalité, comme l'intervention américaine au
+Vietnam alors que ce pays ne menaçait pas les intérêts fondamentaux des
+États-Unis (Taliaferro, 2004), l'appui rhétorique de l'Union soviétique à la
+Syrie alors que Moscou redoutait une guerre au Moyen-Orient (McInerney,
+1992); et le différend commercial entre le Japon et les États-Unis sur
+l'exportation des pommes, qui a persisté pendant plus de 30 ans alors que
+ce marché représente moins de 15 millions de dollars (Elms, 2004). C'est ce
+que les économistes béhavioristes appellent l'illusion des coûts
+
+
+irrécupérables, soit l'enlisement dans un problème dans l'espoir vain de
+récupérer les investissements perdus.
+
+
+En somme, la théorie des perspectives invalide l'idée d'une fonction
+d'utilité linéaire, telle que la conçoit généralement la théorie du choix
+rationnel. Cela étant, il est possible d'intégrer la théorie des perspectives
+dans le cadre rationaliste si la fonction d'utilité est conçue comme non
+linéaire. Il est même possible d'intégrer la théorie des perspectives à la
+modélisation formelle de la théorie des jeux (Berejikian, 2002).
+
+
+La méthode béhaviorale fondant la théorie des perspectives prête
+néanmoins le flanc à la critique. Plusieurs soulignent que des résultats
+obtenus en laboratoire ne correspondent pas nécessairement aux réalités de
+la politique étrangère. Dans l'environnement complexe des relations
+internationales, les options ne sont pas présentées aussi clairement qu'elles
+le sont en laboratoire. Les gains et les pertes se situent sur des échelles
+différentes qui ne peuvent être ramenées à un dénominateur commun.
+Même s'ils le pouvaient, les probabilités de succès et d'échec demeurent
+généralement de vagues estimations (Levy, 1992 ; O'Neill, 2001).
+
+
+Plus encore, attribuer les biais cognitifs des individus à l'ensemble d'un
+État peut être une forme d'anthropomorphisme, ou encore une exagération
+de la prépondérance du chef de gouvernement. La majorité des décisions de
+politique étrangère résultent d'un groupe ou de l'ensemble d'une
+organisation. $\hat{A}$ cette critique, la théorie des perspectives peut répondre que,
+même si les mécanismes de prise de décisions au sein d'un État ne
+correspondent pas aux processus cognitifs individuels, les résultats observés
+sont similaires (Mercer, 2005). C'est, en quelque sorte, la réplique
+habituelle de la théorie du choix rationnel qui insiste sur la validité des
+prédictions plutôt que sur la véracité des processus présumés.
+
+
+La théorie poliheuristique
+
+
+La théorie poliheuristique, développée au début des années 1990 par
+Alex Mintz et ses collègues, a la particularité de viser tant la validité des
+résultats que celle des processus. Autrement dit, elle souscrit à la fois à
+l'épistémologie instrumentale de la théorie du choix rationnel, centrée sur la
+
+
+formulation de prédictions, et à l'épistemologie réaliste des théories
+cognitivistes, centrée sur l'identification des processus réels qui gouvernent
+la prise de décision. Cette réconciliation de la théorie du choix rationnel
+avec le réalisme scientifique est un défi de taille : la théorie poliheuristique
+doit maintenir une certaine parcimonie permettant des généralisations tout
+en étant suffisamment complexe pour s'adapter aux particularismes (Mintz,
+1993; Mintz et al., 1994 et 1997 ; Mintz et Geva, 1997 ; Redd, 2002).
+
+
+Pour atteindre ce double objectif, la théorie poliheuristique avance que
+les décideurs politiques recourent à plusieurs (poly) raccourcis cognitifs
+(heuristiques). Contrairement à la théorie du choix rationnel et à la théorie
+cybernétique qui postulent que les décideurs répondent à une seule règle, la
+maximisation de l'utilité pour la première et la satisfaction des facteurs
+fondamentaux pour la deuxième, la théorie poliheuristique soutient qu'ils
+ont recours à différents procédés pour fonder leurs décisions.
+
+
+Plus précisément, la prise de décision conceptualisée par la théorie
+poliheuristique est scindée en deux phases successives qui reposent sur des
+procédés cognitifs distincts. La première consiste à éliminer, dès le départ,
+les options clairement inacceptables. Cette phase est dite dimensionnelle
+parce que les décideurs se concentrent sur une seule dimension à la fois,
+pour identifier les options inacceptables. Ils peuvent, par exemple, éliminer
+toutes les options qui ne seraient pas appuyées par la majorité des électeurs
+et ensuite, toutes celles qui favorisent leurs adversaires politiques.
+
+
+Les dimensions retenues varient d'un décideur à un autre, mais elles
+incluent toujours celles qui sont directement liées à leur survie politique.
+Lors de la crise iranienne des otages, le président Carter aurait ainsi éliminé
+toutes les options qui ne permettaient pas une libération rapide des otages
+américains, sachant que leur captivité prolongée handicaperait sa réélection.
+La négociation, les frappes aériennes punitives, le blocus maritime et
+l'attente passive ont rapidement été éliminés et la réflexion s'est concentrée
+sur l'ampleur de la mission de sauvetage (Brulé, 2005).
+
+
+Cette première phase du processus de prise de décision est non
+compensatoire, c'est-à-dire que les faiblesses d'une option dans une
+dimension ne peuvent être compensées par ses forces dans les autres
+dimensions. Une option politiquement défavorable sera éliminée, même si
+elle permet de tirer des gains économiques ou militaires importants. Par
+
+
+exemple, en mars 2003, la Turquie s'est opposée au déploiement de
+62 000 soldats américains sur son sol pour préparer une attaque contre
+l'Irak même si les États-Unis offraient en compensation une aide
+économique de plus de 30 milliards de dollars et un appui diplomatique
+dans le processus d'adhésion à l'Union européenne. Aucun gain
+économique, militaire ou diplomatique ne pouvait apparemment compenser
+une mesure aussi politiquement défavorable (Mintz, 1993 et 2004;
+Christensen et Redd, 2004 ; Kesgin et Kaarbo, 2010).
+
+
+Lorsque le nombre d'options envisageables est significativement réduit,
+les décideurs passent à la deuxième phase du processus de prise de décision.
+Cette deuxième phase correspond davantage aux logiques de la théorie du
+choix rationnel : elle est à la fois inter-dimensionnelle et compensatoire. Les
+différentes dimensions sont examinées simultanément et les forces de l'une
+peuvent compenser les faiblesses d'une autre. Ces comparaisons exigent
+assurément plus de réflexion et d'information que la première phase, mais
+cet exercice est néanmoins possible puisque le nombre d'options a
+préalablement été réduit.
+
+
+Choix rationnel
+
+
+Rationalité limitée
+
+
+Dion 1 (gain de 10)
+
+
+Option
+
+
+→ Option 2 (perte de 5)
+
+
+Option 3 (gain de 20)
+
+
+Option 4 (gain de 30)
+
+
+Option 1
+
+
+Gain de 10
+
+
+Option 2
+(perte de 5)
+
+
+Option 3
+(gain de 20)
+
+
+Poliheuristique
+
+
+Option 4
+(gain de 30)
+
+
+Option 1
+
+
+ Option 2
+Option 3
+
+
+-- Option 1 (gain de 10)
+
+
+→ Option 3 (gain de 20)
+
+
+Opion 4
+
+
+Figure 8. Comparaison schématique de la prise de décision
+selon la théorie du choix rationnel, la théorie de la rationalité limitée
+
+
+et la théorie polyheuristique
+
+
+La théorie poliheuristique, relativement récente, demeure marginale et
+repose encore sur les travaux d'un petit cercle d'initiés gravitant autour
+d'Alex Mintz. Contrairement à la théorie du choix rationnel, à la théorie de
+la rationalité limitée, à la théorie des jeux et à la théorie des perspectives,
+elle n'a pas encore été couronnée par un prix Nobel.
+
+
+La théorie poliheuristique semble néanmoins promise à une plus large
+diffusion. Un nombre croissant d'études de cas, d'expériences en
+laboratoire, d'analyses statistiques et de modélisations formelles tendent à
+confirmer la validité de ses prédictions empiriques et de ses postulats
+(Mintz, 2004). De plus, et contrairement à plusieurs autres théories de
+
+
+l'APE, la théorie poliheuristique ne semble pas limitée au contexte
+américain. Des chercheurs l'ont utilisé avec succès pour comprendre des
+décisions de politique étrangère prises par des régimes autocratiques
+(Kinne, 2005), dont le Pakistan (Sathasivam, 2003), la Chine (James et
+Zhang, 2005; Sandal et al., 2011) et la Syrie (Astorino-Courtois et Trusty,
+2000).
+
+
+Le principal attrait de la théorie poliheuristique est peut-être sa capacité
+d'établir des ponts entre les différentes approches théoriques. Elle permet
+d'intégrer à la fois la règle de la maximisation de l'utilité de la théorie du
+choix rationnel, la composante stratégique de la théorie de la dissuasion
+rationnelle, le projet méthodologique formel de la théorie des jeux, le
+concept de satisfaction de la théorie cybernétique, et l'aversion pour les
+pertes de la théorie des perspectives (DeRouen, 2000; Stern, 2004; Keller
+et Yang, 2009). La phase non compensatoire de la théorie poliheuristique
+peut même intégrer les approches constructivistes présentées dans le
+prochain chapitre, dont certaines s'éloignent résolument de l'individualisme
+méthodologique et du positivisme qui caractérisent la théorie du choix
+rationnel.
+
+
+Chapitre 4
+
+
+La culture
+
+
+L'ÉMERGENCE DU COURANT CONSTRUCTIVISTE DANS LES ANNÉES 1990 a été
+interprétée par quelques analystes comme le retour de la dimension
+culturelle dans l'étude des relations internationales (Lapid et Kratochwil,
+1996). En réalité, l'APE n'a jamais cessé de s'intéresser à la culture.
+Plusieurs chercheurs ont consacré toute leur carrière au rôle des identités,
+des discours, des normes et des pratiques culturels en politique étrangère. Si
+être constructiviste signifie s'intéresser de près à la culture, l'APE était
+constructiviste avant la lettre (Kubálková, 2001; Houghton, 2007).
+
+
+L'émergence du constructivisme a néanmoins entraîné avec lui un débat
+épistémologique fondamental, aux échos retentissants, qui ébranle toujours
+les fondements de l'APE. La position épistémologique traditionnelle de
+l'APE est de traiter la culture comme une variable indépendante qui peut
+être liée par des rapports causaux aux politiques étrangères. C'est une
+approche positiviste, calquée sur le modèle des sciences naturelles,
+qu'empruntent notamment Peter Katzentstein, Jeffery Checkel, Martha
+Finnemore, Katherine Sikkink et Judith Goldstein. Pour ces auteurs, la
+culture permet de documenter l'utilité subjective des acteurs rationnels,
+d'arbitrer les jeux en situation d'équilibres multiples ou d'éclairer les
+anormalités qui ne peuvent être expliquées par les théories rationalistes.
+
+
+Une minorité croissante d'analystes privilégient plutôt une approche
+post-positiviste. Pour des chercheurs comme David Campbell, Vendulka
+Kubálková, Cynthia Weber, Iver Neumann, Jutta Weldes et Roxanne Doty,
+l'objectif de la recherche en APE n'est pas d'expliquer les politiques
+étrangères en retraçant leurs causes, mais de mieux les comprendre en les
+resituant dans le contexte culturel qui en a rendu certaines possibles et
+
+
+d'autres inconcevables. Ils s'intéressent au comment, plutôt qu'au pourquoi
+de la politique étrangère.
+
+
+Les analystes post-positivistes
+favorisent généralement une
+épistémologie interprétative selon laquelle les données empiriques doivent
+être interprétées pour être transformées en résultats. Le chercheur est lui-
+même imprégné d'une culture et ne peut dès lors analyser son objet d'étude
+avec détachement. Tout discours, incluant le discours scientifique, est
+chargé culturellement, et par conséquent reproduit les relations de pouvoir.
+Ce constat réflexiviste conduit parfois à une approche explicitement critique
+selon laquelle, pour reprendre les termes de Robert Cox, « la théorie est
+toujours au service de quelqu'un et d'un objectif » (1981).
+
+
+Ce débat entre positivistes et post-positivistes transparaît dans toute la
+littérature contemporaine sur le rôle de la culture en politique étrangère. Ce
+chapitre s'en fait l'écho sans toutefois présenter distinctement les deux
+camps. Comme le remarque Peter Katzenstein, la culture est un référent si
+omniprésent et englobant que le concept lui-même a une valeur heuristique
+limitée (1996, p. 2; Duffield, 1999). Il est préférable de se concentrer sur
+certaines de ses composantes spécifiques plutôt que de l'aborder de front
+dans sa globalité. Ce chapitre présente ainsi les composantes culturelles qui
+ont le plus retenu l'attention des analystes de la politique étrangère, soit les
+normes, les identités, les rôles, les genres, les cultures organisationnelles et
+les discours.
+
+
+Les normes
+
+
+Les normes peuvent être définies comme les attentes socialement
+partagées par une communauté à propos des comportements jugés
+acceptables pour une identité donnée. Elles délimitent la frontière entre la
+conformité et la déviance (Krasner, 1983; Finnemore, 1996; Katzenstein,
+1996; Raymond, 1997).
+
+
+Une norme internationale, par exemple, prohibe l'embrigadement
+d'enfants soldats et leur envoi au front. Indépendamment de la légalité
+juridique de l'enrôlement de mineurs dans les forces armées, il s'agit d'un
+acte socialement considéré comme répréhensible. Par contre, le service
+
+
+militaire obligatoire des jeunes adultes ou l'opprobre réservé aux enfants
+issus des viols de guerre ne sont pas condamnés avec la même force et ne
+font pas l'objet de normes sociales internationales fermement établies
+(Carpenter, 2007).
+
+
+Deux principaux débats théoriques associent les normes aux
+comportements de politique étrangère : un premier situe les États comme
+les sujets visés par les normes, et un deuxième présente les États comme
+des acteurs de la diffusion des normes.
+
+
+La conformité aux normes
+
+
+Plusieurs types de normes sociales interpellent les États et orientent leurs
+comportements de politique étrangère. Il faut d'abord distinguer les normes
+nationales des normes internationales. Les normes internationales ont
+généralement une portée universelle bien que leur origine et leur impulsion
+puissent être limitées à une ère culturelle particulière. C'est évidemment le
+cas des Droits de l'homme, aux origines occidentales, mais aux visées
+universelles (Thomas, 2001; Rise et al., 1999.). Dans certains cas, les
+normes internationales s'adressent à un groupe spécifique d'États, comme
+celle qui commande aux pays développés de verser une partie de leurs
+revenus en aide au développement (Lumsdaine, 1993; Barnett et Weiss,
+2008) ou celle qui enjoint aux métropoles de garantir le droit à
+l'autodétermination de leurs colonies (Crawford, 1993 et 2002; Goertz et
+Diehl, 1992; Jackson, 1993).
+
+
+Des normes nationales, propres à une culture particulière, peuvent aussi
+orienter les comportements de politique étrangère. La culture politique
+canadienne, par exemple, valorise le compromis, le respect de la diversité et
+l'égalité des chances. Ces valeurs politiques se traduisent au niveau national
+par divers programmes sociaux et économiques et sont projetées au niveau
+international par un fort engagement envers le multilatéralisme (Stairs,
+1982; Thérien et Noël, 1994 ; Noël et Thérien, 1995).
+
+
+On peut également distinguer les normes substantielles des normes
+procédurales. Les normes substantielles sont celles qui guident le
+comportement des États relatifs à une question particulière. Certaines sont
+
+
+si spécifiques qu'elles entraînent des incohérences dans la politique
+étrangère d'un pays. Ainsi, plusieurs États s'engagent activement sur la
+scène internationale pour la protection d'espèces de mammifères marins,
+qui ne sont pourtant pas en voie de disparition, mais demeurent presque
+inactifs au sujet de la protection des végétaux et des micro-organismes
+gravement menacés (Nadelmann, 1990; Epstein, 2008; Blok, 2008). De
+même, en temps de guerre, plusieurs dirigeants politiques semblent juger
+moralement plus acceptable de cibler un plus grand nombre d'individus
+avec des armes dites conventionnelles qu'un nombre plus restreint avec des
+bombes chimiques ou des pratiques terroristes (Price, 1997 ; Farrell, 2001 ;
+Tannenwald, 2007; Carpenter, 2011).
+
+
+D'autres normes sont de nature procédurale et portent de façon
+transversale sur plusieurs domaines de la politique étrangère. Ces normes
+procédurales incluent celle en faveur du multilatéralisme (Dimitrov, 2005 ;
+Ruggie, 1993), de la recherche du consensus (Morin et Gold, 2010) et de la
+transparence (Florini, 1996). Elles contribuent à expliquer pourquoi, en
+1947, le général George Marshall a offert son plan d'aide éponyme à
+l'URSS et pourquoi, plus de cinquante ans plus tard, Colin Powell a tout
+mis en œuvre pour convaincre le Conseil de sécurité d'autoriser une
+intervention armée contre l'Irak. Le premier se doutait sans doute du refus
+soviétique et le deuxième du veto français, mais ils devaient néanmoins se
+plier, l'un comme l'autre, aux normes internationales procédurales.
+
+
+Parce que les normes s'expriment sous forme de prescription ou de
+proscription de comportement, elles agissent à l'instar de règles juridiques.
+D'ailleurs, le droit national et le droit international incarnent souvent des
+normes sociales. Mais une norme n'est pas nécessairement formalisée, ni
+même explicite, et le comportement déviant n'est pas nécessairement
+juridiquement sanctionnable (Nadelmann, 1990; Percy, 2007).
+
+
+Plusieurs raisons expliquent que les États se plient généralement aux
+normes sociales, même lorsqu'elles ne sont pas consacrées par une règle
+juridique. Selon une perspective rationaliste, les États socialisés à une
+norme adoptent le comportement attendu sans nécessairement croire en sa
+vertu. Ils s'y conforment simplement pour éviter l'ostracisme, prévenir des
+coûts réputationnels, coopérer en situation d'équilibre multiple, maintenir la
+confiance de leurs partenaires ou réduire la pression exercée par les
+
+
+mouvements sociaux. Les normes sont alors perçues comme des données
+contextuelles dont les États tiennent compte lorsqu'ils anticipent les
+conséquences de leurs comportements et tentent d'identifier l'option qui
+maximise leur utilité.
+
+
+Selon une perspective constructiviste, les États se plient aux normes
+parce qu'ils les perçoivent comme justes, naturelles ou légitimes. Ils
+internalisent les principes sous-jacents aux comportements attendus, les
+intègrent à leur identité et s'y conforment indépendamment des pressions et
+des perceptions extérieures. Dans ce deuxième scénario, contrairement au
+premier, les normes restreignent l'univers des possibles en amont du
+processus décisionnel et contribuent à définir ce que les États perçoivent
+comme leur intérêt (Checkel, 2001).
+
+
+Cette distinction entre une conformité rationnelle et constructiviste ne
+doit toutefois pas être surestimée. D'une part, sur le plan théorique, les deux
+formes de conformité ne sont pas mutuellement exclusives. En effet, une
+conformité motivée initialement par l'intérêt peut progressivement mener à
+une internalisation authentique. Un gouvernement qui adopte
+stratégiquement des politiques de réduction de la consommation d'énergie
+dans l'espoir de diminuer sa dépendance envers les pays exportateurs de
+gaz et de pétrole peut ultimement en venir à internaliser le discours
+environnemental et devenir un porte-étendard de la lutte contre les
+changements climatiques.
+
+
+De façon générale, les idées sont généralement en adéquation avec les
+intérêts. Il est bien établi en psychologie sociale que les dissonances
+qu'entraînent les incompatibilités entre les comportements et les croyances
+conduisent généralement les individus à modifier les secondes pour les
+rendre conformes aux premières plutôt que l'inverse (Festinger, 1957).
+
+
+D'autre part, sur le plan méthodologique, il peut s'avérer difficile
+d'établir si un acteur a véritablement internalisé une norme ou s'il ne s'y
+conforme que pour préserver sa réputation. L'analyse des pratiques et des
+discours peut attester de l'existence d'une norme, mais plus difficilement de
+son internalisation dans un système de croyances.
+
+
+L'une des façons d'y parvenir est de retracer les irrégularités dans la
+conformité aux normes. Si un État invoque une norme lorsqu'elle appelle
+
+
+un comportement qui sert manifestement ses intérêts, mais semble l'ignorer
+dans les autres circonstances, l'analyste peut légitimement douter de son
+internalisation (Howard, 2004).
+
+
+Cette stratégie méthodologique est cependant confrontée au problème de
+l'idiosyncrasie dans l'interprétation des normes (Checkel, 1997 et 1998). En
+effet, tous les États n'appréhendent pas les normes de la même façon, même
+celles qui ont une portée universelle et qui sont formalisées par écrit. Au
+sein des pays occidentaux, par exemple, il subsiste des différences majeures
+dans la façon dont la France, la Suède et le Japon intègrent les Droits de
+l'homme dans leur politique étrangère (Sikkink, 1993; Cardenas, 2004;
+Remacle, 2008). Ces variations ne révèlent pas nécessairement leur
+approche strictement rhétorique des Droits de l'homme, mais peuvent
+simplement témoigner de différentes interprétations qui sont toutes
+authentiquement internalisées.
+
+
+Plusieurs études tentent d'expliquer ces variations à propos de
+l'interprétation des normes internationales. Parmi les variables permettant
+d'expliquer ces différentes interprétations, il faut signaler la structure
+institutionnelle du régime politique (Checkel, 1999), le dynamisme des
+acteurs non étatiques locaux (Wilkwning, 1999), le positionnement de
+l'identité nationale face à la société internationale (Gurowitz, 1999;
+Subotic, 2011), la personnalité et les préférences des décideurs publics
+(Shannon, 2000; Shannon et Keller, 2007; Bratberg, 2011), la culture
+organisationnelle de l'administration publique (Legro, 1997), l'importance
+de l'enjeu en question dans les débats publics nationaux (Foot et Walter,
+2012) et la concordance avec les normes nationales (Cortell et Davis, 1996).
+
+
+Ce dernier élément est l'un de ceux qui ont attiré le plus d'attention. Les
+normes internationales émergentes ne se diffusent pas dans un vide
+normatif. Pour être assimilées par un État, elles doivent intégrer
+l'écosystème des normes nationales déjà en place. Or, les normes
+internationales sont rarement suffisamment spécifiques et explicites pour
+qu'une interprétation à propos de leur adéquation ou antinomie avec les
+normes nationales s'impose d'elle-même. Cette question n'est tranchée qu'à
+travers un processus interactif et discursif. Les normes nationales et
+internationales sont en mouvement constant et elles interagissent
+continuellement par le biais des discours et des pratiques des acteurs
+
+
+(Farrell, 2001; Blok, 2008; Stevenson, 2011; Zahar, 2012). Par exemple,
+la norme de non-violence de la société japonaise interagit continuellement
+avec la politique du gouvernement relative aux opérations militaires
+multilatérales. Cette interaction transforme à la fois la norme nationale
+japonaise et la compréhension que les autorités se font de la norme
+internationale. L'interprétation de l'une et de l'autre en sort transformée
+(Berger, 1998; Katzenstein, 1996 et 2002; Dobson, 2003; Catalinac,
+2007; Miyagi, 2009).
+
+
+La promotion des normes
+
+
+La recherche sur les normes en politique étrangère se heurte à deux
+écueils principaux. D'abord, sur le plan empirique, plusieurs chercheurs
+orientent leurs études de cas sur les normes qui ont effectivement mené à un
+changement de politique étrangère. Cet accent était peut-être nécessaire
+dans les années 1990 pour établir les normes comme objet de recherche
+légitime en APE, mais il serait maintenant utile, pour mieux comprendre les
+processus normatifs, d'identifier et d'approfondir les études de cas pour
+lesquels les normes entrent en conflit avec les comportements de politique
+étrangère.
+
+
+Ensuite, sur le plan théorique, les travaux sur les normes peuvent
+rapidement être prisonniers d'un raisonnement circulaire s'ils avancent
+qu'elles sont guidées par les comportements dominants et que ceux-ci
+définissent les normes dominantes. Certes, des boucles de rétroactions
+positives rendent les normes relativement stables et les inscrivent dans la
+longue durée. La reproduction des discours qui les sous-tendent, des
+pratiques qui les confirment et des institutions qui les consacrent ne cesse
+de les consolider. Mais les normes ne sont pas des données exogènes aux
+interactions. C'est justement parce qu'elles sont socialement produites et
+reproduites, qu'elles peuvent éventuellement être créées, modifiées ou
+renversées par les acteurs (Sandholtz, 2008; Wiener, 2009; Panke et
+Petersohn, 2012).
+
+
+Une méthode permettant d'éviter ce double écueil consiste à étudier la
+promotion de nouvelles normes internationales par des entrepreneurs
+normatifs. Cet angle d'étude offre l'avantage appréciable de reconnaître une
+
+
+certaine autonomie aux acteurs et d'autoriser des démonstrations causales
+plus linéaires.
+
+
+La recherche sur les entrepreneurs normatifs se concentre sur deux
+principaux types d'acteurs. La part du lion revient aux ONG et à leurs
+réseaux transnationaux qui ont effectivement permis d'impulser une
+dynamique internationale en faveur de l'établissement de nouvelles normes,
+notamment dans le domaine de l'environnement, des Droits de l'homme, du
+désarmement et de la sécurité humaine (Sikkink, 1993; Risse-Kappen,
+1994; Klotz, 1995; Price, 1997, Finnemore et Sikkink, 1998; Keck et
+Sikkink, 1998; Risse et al., 1999; Thomas, 2001; Clark, 2001).
+
+
+D'autres études soulignent également le rôle moteur des organisations
+intergouvernementales comme catalyseur et de diffuseur de normes.
+L'Union européenne est, sans conteste, l'exemple le plus fréquemment
+évoqué, faisant la promotion de normes émergentes à la fois parmi ses
+membres, auprès des candidats à l'adhésion et dans ses relations avec les
+pays tiers (Finnemore, 1993; Adler, 1998; Schimmelfennig, 1998;
+Manners, 2002; Nicolaîdis et Howse, 2003; Sjursen, 2006; Bearce et
+Bondanella, 2007; Telo, 2007; Cao, 2009; Greenhill, 2010; Rumelili,
+2011; Subotic, 2011).
+
+
+Le rôle des États à titre d'entrepreneurs normatifs demeure cependant
+plus méconnu. Quelques travaux seulement admettent que les États peuvent
+mobiliser leur politique étrangère pour faire la promotion de nouvelles
+normes internationales dès les premiers stades de leur diffusion. La majorité
+de ces travaux considèrent généralement que la politique étrangère diffuse
+au niveau international des normes qui sont déjà bien établies au niveau
+national. La politique étrangère suédoise, par exemple, a été parmi les
+premières dans les années 1950 à encourager les autres États à partager leur
+revenu avec les pays en développement parce que la norme de solidarité
+économique est déjà solidement ancrée dans la culture politique suédoise
+(Ingebritsen, 2006; Bergman, 2007). $\hat{A}$ la même époque, la promotion
+active de la norme du non-alignement auprès des pays en développement
+par le gouvernement indien faisant écho aux normes indiennes de non-
+intervention et de non-violence (Acharya, 2011).
+
+
+Outre ce basculement de l'interne vers l'externe, on peut observer un
+basculement similaire entre les niveaux de négociation. Un État qui accepte
+
+
+certaines normes au niveau bilatéral est généralement plus enclin à
+promouvoir ces mêmes normes au niveau régional ou multilatéral. Ce
+comportement s'explique en partie par des objectifs matériels, comme la
+volonté de réduire les coûts de transaction, mais aussi par des facteurs
+idéationnels. Il n'est pas rare, par exemple, que des États hésitent à adopter
+certaines normes commerciales dans un traité bilatéral de libre-échange,
+avant d'en devenir des promoteurs convaincus dans le cadre de
+négociations commerciales régionales ou multilatérales (Mace et Bélanger,
+2007).
+
+
+Une fois qu'un entrepreneur normatif étatique parvient à diffuser la
+norme qu'il promeut, ce succès devient une source de fierté et la promotion
+de cette norme internationale devient un caractère distinctif de l'identité
+nationale. L'aide suédoise au développement et la politique indienne de
+non-alignement sont devenues des composantes centrales de l'identité de la
+Suède et de l'Inde. Sous cet angle, les normes ne sont pas que régulatrices
+du comportement de l'État ; elles sont également constitutives de leur
+identité nationale (Katzenstein, 1996).
+
+
+Les identités nationales
+
+
+L'identité nationale est l'image socialement construite qu'une
+communauté politique projette sur elle-même. Elle se compose d'un
+ensemble d'éléments caractéristiques, incluant des normes constitutives, des
+catégories comparatives, des aspirations collectives et des références
+cognitives, qu'une communauté politique peut partager avec d'autres mais
+pas avec toutes (Abdelal et al., 2006).
+
+
+Il ne faut pas confondre l'identité nationale avec ce que certains
+internationalistes des années 1950 appelaient encore « le caractère
+national ». Alors que l'identité nationale est un construit social qui peut
+évoluer au gré de sa constante reproduction, la notion de « caractère
+national », maintenant désuète, renvoyait à un ensemble de caractéristiques
+immuables qui seraient objectivement celles d'une nation. Hans
+Morgenthau, par exemple, était parfois enclin à cette forme d'essentialisme.
+Il attribuait notamment aux Français une rationalité mécanique et un
+formalisme obsessionnel qui aurait contribué à la fois aux grandeurs et aux
+
+
+misères de la politique étrangère française (2005 [1948], p. 141). En
+poursuivant la logique de ce déterminisme culturel, on pourrait s'attendre à
+ce que la politique étrangère du Royaume-Uni soit flegmatique, celle de
+l'Italie flamboyante, celle des États-Unis grossière, et celle du Canada
+naïve. Il ne s'agit, bien entendu, que de stéréotypes culturels teintés
+d'anthropomorphisme. En tant que tels, ils peuvent intervenir dans les
+processus cognitifs, biaiser les perceptions et influencer la formulation de la
+politique étrangère de ceux qui entretiennent de tels préjugés à l'égard des
+nations étrangères. Mais ils ne correspondent ni à l'essence véritable d'une
+nation, ni à l'image qu'une nation se fait d'elle-même.
+
+
+Si la majorité des analystes contemporains s'entendent pour rejeter cette
+vision essentialiste, plusieurs débats demeurent, notamment au sujet du
+processus de formation d'une identité nationale, de sa capacité à évoluer,
+des finalités de sa reproduction et de ses relations avec le nationalisme.
+
+
+Le soi et l'autre
+
+
+La majorité des analystes considèrent avec Iver Neumann (1999) que
+l'identité se forge en transformant les différences en altérité. Autrement dit,
+le périmètre culturel du « Soi » est circonscrit par rapport à la représentation
+d'un « Autre » qui ne partage pas les caractéristiques que le « Soi »
+s'attribue. Pour l'Inde de Jawaharlal Nehru, par exemple, l'altérité
+constitutive de l'identité était le colonisateur britannique, alors que pour le
+Pakistan de Muhammad Ali Jinnah, elle était incarnée par l'Inde hindouiste.
+Ces différentes représentations de « l'Autre » contribuent à expliquer que
+l'Inde se soit distanciée de son ancien colonisateur en jouant un rôle moteur
+dans la création du Mouvement des non-alignés alors que le Pakistan s'est
+rapproché par sa politique étrangère de l'Occident sans craindre d'y perdre
+son identité (Banerjee, 1997).
+
+
+L'altérité constitutive, cependant, n'est pas nécessairement le résultat
+d'une interaction sociale entre l'acteur qui se définit et celui qui lui sert de
+pendant (Hopf, 2002; Rumelili, 2004). Si l'identité est toujours
+relationnelle, l'altérité peut très bien être une communauté fantasmée. Le
+monde  anglo-saxon » qui sert de repoussoir à l'identité française n'est
+plus, depuis longtemps, une entité culturelle forte qui structure l'identité
+
+
+américaine (Meunier, 2005 et 2007). De même, l'antisémitisme que
+l'identité israélienne attribue à ses voisins ne sert pas de porte-étendard à
+ceux-ci (Bar-Tal et Antebi, 1992; Stein, 2011).
+
+
+Par conséquent, il n'est pas nécessaire que les acteurs qui incarnent
+l'altérité renvoient une image conforme à celle que se forge une
+communauté d'elle-même pour qu'une identité se constitue (Hudson,
+1999). La reconnaissance de la République populaire de Chine par
+l'Assemblée générale des Nations unies en 1971 en est une illustration
+frappante. Pour que cet événement s'inscrive dans la continuité de l'identité
+chinoise, Pékin a toujours insisté sur l'humiliation ressentie par les États-
+Unis au lendemain du vote de l'Assemblée générale. Selon la narration
+chinoise de l'événement, le président Nixon aurait perdu la face devant
+l'émergence de la Chine communiste. Or, l'administration Nixon cherchait
+justement à se rapprocher de la Chine pour mieux isoler l'URSS, et ne s'en
+est jamais cachée. Aucune humiliation n'a été ressentie, du moins
+communiquée, ce qui n'a pas empêché la Chine de la percevoir ou, à tout le
+moins, de l'affirmer (Gries, 2005).
+
+
+L'altérité fondant l'identité peut même être un acteur qui n'a pas
+d'incarnation réelle et avec lequel la communauté n'interagit pas dans le
+monde empirique. L'identité allemande s'est ainsi constituée en réaction à
+son propre passé. L'Allemagne nazie, puissance militaire et guerrière, est
+l'altérité de l'Allemagne contemporaine, qui se définit comme une
+puissance civile et un pôle fédérateur de l'Europe (Marcussen et al., 2001 ;
+Vennesson, 2005; Ashizawa, 2008).
+
+
+Cela dit, l'identité nationale ne se crée pas exclusivement par des
+oppositions. Des alliances peuvent également contribuer à édifier des
+constructions identitaires. Les États-Unis, par exemple, ont noué au
+$XIX^{e}$ siècle une relation particulière avec leur ancienne métropole, le
+Royaume-Uni. Cette alliance découle à l'origine moins d'une logique
+commerciale ou sécuritaire, que d'une logique identitaire, voire d'une
+logique raciale, plaçant l'homme anglo-saxon comme phare de la
+civilisation (Vucetic, 2011).
+
+
+Plus récemment, lors de la guerre de Bosnie-Herzégovine, les États-Unis
+ont pu se représenter en justiciers équitables en s'alliant à la communauté
+
+
+musulmane de Bosnie. En dépeignant cette communauté comme une
+victime et comme le dernier bastion d'un État multiethnique, les États-Unis
+se sont démontrés à eux-mêmes qu'ils étaient en guerre contre toute forme
+de tyrannie, même quand l'oppresseur est chrétien et que la victime est
+musulmane (Messari, 2001).
+
+
+De façon similaire, joindre une organisation intergouvernementale peut
+consacrer une aspiration identitaire nationale. Depuis la fin de la guerre
+froide, l'adhésion à l'OTAN, à l'Union européenne ou au Conseil de
+l'Europe a contribué à confirmer l'identité de plusieurs pays d'Europe de
+l'Est (Risse-Kapen, 1995), de la Finlande (Arter, 1995; Browning, 2008),
+des pays baltes (Berg et Ehin, 2009) et de la Turquie (Rumelili, 2011).
+
+
+Sans nécessairement se substituer aux identités nationales, des identités
+supranationales se forgent progressivement. Dans les cas transatlantiques et
+européens, ces nouvelles identités collectives ont donné naissance à des
+communautés supranationales au sein desquelles les conflits armés sont
+devenus aussi impensables qu'au sein d'un État et qui s'édifient elles-
+mêmes en opposition à d'autres altérités (Bradley, 1990; Wendt, 1994;
+Adler et Barnett, 1998; Cronin, 1999; Mattern, 2001).
+
+
+Il importe de reconnaître que ces identités supranationales sont multiples
+et se chevauchent les unes aux autres. Une communauté politique peut se
+définir à la fois comme arabe, clanique, africaine, agraire, moderne,
+méditerranéenne, islamique et en développement. Si l'ouvrage Le Choc des
+civilisations de Samuel Huntington a été dénoncé avec force par plusieurs
+politologues, c'est justement parce qu'il masque ces chevauchements
+identitaires. Huntington n'a retenu qu'une seule unité culturelle, la
+civilisation, présentée comme un bloc homogène et délimitée par des lignes
+de fractures bien définies. En réalité, non seulement les références
+identitaires se chevauchent-elles, mais certaines peuvent sembler
+contradictoires les unes aux autres (Mungiu et Mindruta, 2002; Furia et
+Lucas, 2006).
+
+
+La possibilité de combiner différentes identités supranationales ne
+signifie pas pour autant qu'elles peuvent se constituer facilement et
+rapidement. Même en Europe, après plusieurs décennies de construction
+européenne, l'identité européenne demeure toujours fragile. Or, ce n'est pas
+faute d'efforts des autorités politiques. Les politiques commerciales et
+
+
+environnementales de la Commission européenne, notamment sur la
+question du bœuf aux hormones, des changements climatiques et des
+organismes génétiquement modifiés, lui ont plusieurs fois donné l'occasion
+de se définir face à l'altérité américaine. De même, la politique européenne
+du voisinage, les débats tenus sur le processus d'accession et la conclusion
+de partenariats stratégiques sont fréquemment mobilisés pour réaffirmer
+l'identité européenne face au Magheb, à la Turquie et à la Russie (Neumann
+et Welsh, 1991; Herrmann, Risse et Brewer, 2004; Rumelili, 2004 et
+2011; Jeandesboz, 2007; Cerutti et Lucarelli, 2008; Schoen, 2008;
+Rogers, 2009; Tora, 2011 ; Carta, 2012; Morozov et Rumelili, 2012).
+
+
+Il apparaît donc clairement que les identités, nationale ou supranationale,
+ne se décrètent pas par voie d'une simple déclaration sur l'altérité ou les
+alliances. Pour que l'identité européenne signifie autre chose qu'un point de
+ralliement pour l'élite du continent, elle doit se traduire, au-delà des
+déclarations politiques, par des expériences partagées et des pratiques
+quotidiennes (Wodak et al., 2009). C'est dans cette perspective que
+Christopher Hill note que « le concours Eurovision ou l'Union des
+associations européennes de football ont probablement davantage contribué
+à créer une impression d'expérience commune entre les peuples d'Europe
+que les discours de milliers de politiciens » (2003, p. 202).
+
+
+L'évolution des identités
+
+
+Une fois créées, les identités nationales peuvent difficilement dévier de
+leur trajectoire. Elles s'inscrivent dans un contexte historique qui balise leur
+évolution. Elles sont quotidiennement reproduites par les discours
+politiques, la culture médiatique, l'enseignement, les fêtes nationales, les
+spectacles d'humour, la valorisation des sites historiques, etc. Elles
+s'institutionnalisent et se renforcent continuellement dans une dynamique
+de  dépendance au sentier » (Goldstein, 1988; Ferguson et Mansbach,
+1996; Barnett, 1999).
+
+
+Même les nouvelles identités se présentent généralement comme les
+héritières des précédentes. Cet ancrage historique est nécessaire pour
+qu'elles soient perçues comme légitimes, se diffusent à travers la société et
+prennent racine. Elles doivent se fondre dans les institutions et les cultures
+
+
+politiques en place. Par conséquent, elles ne proposent souvent qu'une
+réinterprétation des identités antérieures.
+
+
+L'identité américaine, forgée dès les premières colonies des puritains, a
+ainsi évolué en réinterprétant constamment l'opposition entre liberté et
+tyrannie, que celle-ci ait été incarnée par la monarchie anglicane,
+l'impérialisme européen ou le communisme (Campbell, 1992; Peceny,
+1997; Balthazar, 2008). Il n'est pas anodin de remarquer que, dans les
+semaines qui ont suivi les attentats du 11 septembre 2001, le gouvernement
+de George W. Bush a réinterprété une nouvelle fois cette dualité en
+présentant les terroristes comme les ennemis de la liberté (Ivie et Giner,
+2007; Sjöstedt, 2007; Nabers, 2009).
+
+
+Cette dépendance au sentier explique que les identités survivent
+fréquemment à leur contexte d'origine et aux bouleversements de leur
+environnement. L'identité allemande, notamment, a remarquablement
+résisté à l'effondrement du mur de Berlin. Alors que plusieurs anticipaient
+une réorientation drastique de la politique étrangère allemande, celle-ci se
+démarque toujours par un engagement fort envers le projet européen, une
+aversion pour les offensives militaires et une préférence claire pour le
+multilatéralisme. Le choc de la réunification fut puissant, mais pas
+suffisamment pour déstabiliser l'identité allemande (Katzenstein, 1996;
+Berger, 1998; Duffield, 1999; Banchoff, 1999; Rittberger, 2001;
+Harnisch, 2001; Marcussen et al., 2001; Weber et Kowert, 2007; Malici,
+2006; Miskimmon, 2009).
+
+
+Dans certains cas, la stabilité de l'identité est telle qu'elle peut se révéler
+handicapante et les discours identitaires peuvent se retourner contre ceux
+qui les ont promus (Schimmelfennig, 2001). En 1947, par exemple, le
+président démocrate Truman tenta de convaincre le Congrès,
+majoritairement républicain, d'appuyer une intervention américaine dans la
+guerre civile grecque. Pour y parvenir, il recycla l'opposition entre liberté et
+tyrannie et présenta l'Union soviétique comme une puissance
+expansionniste qu'il fallait contenir par tous les moyens économiques et
+militaires. La doctrine Truman reçut immédiatement un écho favorable et
+permit au Président d'obtenir le soutien du Congrès. Mais une fois formulée
+et reconnue, elle contraignit ensuite tous les successeurs de Truman qui ne
+purent dévier de cette orthodoxie. Durant toute la durée de la guerre froide,
+
+
+l'identité américaine resta définie comme celle du leader du monde libre en
+guerre contre l'impérialisme soviétique. Lors de la Crise des missiles de
+Cuba, cette identité biaisa la perspective des conseillers du président
+Kennedy qui ne parvenaient pas à concevoir que Castro ne cherchait
+légitimement qu'à se défendre contre une agression probable des États-
+Unis. Quelques années plus tard, cette même identité conduisit plusieurs
+Américains à s'opposer fermement au rapprochement stratégique avec la
+Chine communiste qu'orchestraient Nixon et Kissinger (Weldes, 1999;
+Sjöstedt, 2007).
+
+
+La France est également prisonnière de son identité. Depuis de Gaulle,
+une partie de l'élite politique française alimente l'idée que la « Patrie des
+Droits de l'homme » occupe une place quasi inaliénable à la table des
+grandes puissances, ne serait-ce qu'en raison de son héritage historique.
+Cette élite minimise systématiquement l'impact de l'intégration européenne
+sur les dimensions républicaine, civilisatrice et prépondérante de l'identité
+française. Elle met plutôt en évidence le tremplin que l'Europe représente
+pour le rayonnement du modèle français et le rempart qu'elle constitue
+contre l'américanisation. Ce discours a toutefois perdu son pouvoir de
+persuasion et des incohérences identitaires sont progressivement apparues,
+comme l'illustra le résultat du référendum de 2005 sur la Constitution
+européenne. L'élite française semble maintenant à court d'arguments pour
+justifier l'approfondissement de la construction européenne sans renverser
+l'identité traditionnelle française fondée sur la prépondérance de son rang
+au sein de la communauté internationale (Cerny, 1980; Hoffmann, 1991;
+Gordon, 1993; Flynn, 1995; Larsen, 1997; Thumerelle et Le Prestre,
+1997; Risse et al., 1999; Sur, 2000; Risse, 2001; Macleod, 2002;
+Schmidt, 2007; Bratberg, 2011; Holsti, 2011 ; Krotz et Sperling, 2011).
+
+
+Les identités nationales ne sont pas immuables pour autant. Les crises
+politiques, qu'elles soient d'origine interne ou externe, permettent
+l'avènement de nouveaux discours, de nouveaux acteurs et de nouvelles
+identités (Marcussen et al., 2001; Mattern, 2001; Nabers, 2009; Abdelal et
+al., 2006).
+
+
+Le renversement du régime de l'apartheid en 1991 donna ainsi l'occasion
+de repenser l'identité sud-africaine. Desmond Tutu et Nelson Mandela
+participèrent activement à cette reconstruction identitaire sous la bannière
+
+
+de la « nation arc-en-ciel », valorisant la diversité et le multiculturalisme
+comme points de ralliement. Cette réconciliation sur la scène nationale se
+traduisit par une politique étrangère ouverte à tous les horizons, renouant
+avec l'Occident et agissant comme médiateur dans plusieurs conflits
+(Becker, 2010).
+
+
+Les crises ne conduisent pas toutes à un tel bouleversement identitaire.
+L'effondrement de l'URSS fut une opportunité politique majeure qui aurait
+pu permettre une réorientation identitaire radicale de la Russie. Cependant,
+aucune alternative identitaire crédible et fédératrice n'émergea dans les
+années 1990. La fin de la rivalité avec les États-Unis, l'indépendance de
+l'Ukraine, la remise en question du statut de grande puissance et la
+décrédibilisation du dogme marxiste-léniniste rayèrent plusieurs repères de
+l'identité russe sans qu'ils ne soient immédiatement remplacés. La Russie
+connaît depuis une crise identitaire dont, semble-t-il, elle tente de se sortir
+en déployant une politique étrangère valorisant puissance et indépendance
+(Neumann, 1996; Chafetz, 1996; Thibault et Lévesque, 1997; Prizel,
+1998; D'Anieri, 2002; Hopf, 2002; Larson et Shevcheko, 2003; Light,
+2004; Mankoff, 2009 ; Tsygankov et Tarver-Wahlquist, 2009).
+
+
+La politique étrangère comme affirmation de l'identité
+
+
+D'un point de vue post-structuraliste, la politique étrangère contribue
+justement à définir l'identité nationale et éviter les crises identitaires. Elle
+contribue à répondre à une demande sociale et étatique d'identité collective
+et de maintenir une certaine cohésion sociale (Campbell, 1992 et 1998;
+Walker, 1993; Hansen, 2006).
+
+
+La position post-structuraliste va bien au-delà du constructivisme
+d'Alexander Wendt (1999) selon lequel l'identité est un fondement stable et
+préexistant sur lequel s'établit la politique étrangère. Pour les post-
+structuralistes, l'identité n'est pas que le guide en amont de la politique
+étrangère, c'est aussi son objectif en aval. La politique étrangère reproduit
+constamment l'identité nationale pour qu'elle se maintienne en place. Sans
+cette constante reproduction, l'identité nationale s'effriterait et avec elle,
+l'État qui s'est édifié sur elle.
+
+
+La politique étrangère permet une constante reproduction identitaire bien
+mieux que ne le peuvent les autres politiques publiques. Le propre de la
+politique étrangère est de construire des menaces sécuritaires hors des
+frontières de l'État. Plutôt que d'atténuer l'insécurité, elle la construit ;
+plutôt que d'établir des ponts, elle édifie des murs. C'est le point de
+convergence des théories critiques et post-structuralistes les plus influentes,
+de l'école d'Aberystwyth sur les études critiques de la sécurité à l'École de
+Paris inspirée des travaux de Pierre Bourdieu et Michel Foucault en passant
+par l'École de Copenhague sur la sécurisation et l'École d’Essex autour de
+Ernesto Laclau et Chantal Mouffe (Desch, 1996; Larsen, 1997; Buzan et
+al., 1998; McSweeney, 1999; Weldes et al., 1999; Rasmussen, 2001;
+Zehfuss, 2001; Bigo, 2006; Epstein, 2010; Balzacq, 2011; Weber et Lacy,
+2011).
+
+
+Le Kazakhstan, par exemple, a largement construit son identité politique
+au lendemain de la dissolution de l'URSS par un rejet du passé et de
+l'arsenal nucléaire soviétique. Cette idée, diffusée dans la société civile, a
+rapidement été endossée par l'État. La souveraineté du Kazakhstan passe
+par la construction de la menace nucléaire et sa politique étrangère
+reproduit continuellement cette menace en faisant la promotion d'un monde
+dénucléarisé (Abzhaparova, 2011).
+
+
+Si la reproduction continuelle de l'identité est nécessaire, c'est qu'il
+n'existe pas d'unité nationale stable et préalable aux interactions sociales.
+Les nations ne sont pas des données intemporelles, mais des
+<< communautés imaginées » (Anderson, 1983). Ce ne sont pas elles qui se
+sont dotées d'institutions politiques pour assurer leur protection. Ce sont les
+États qui ont joué un rôle moteur dans leur construction en insufflant un
+sentiment d'appartenance à une collectivité, bien souvent par le biais de la
+guerre (Tilly, 1985; Ringmar, 1996; Fortmann, 2009).
+
+
+C'est donc l'insécurité de la nation qui fonde la sécurité de l'État.
+Comme le souligne Campbell, « l'articulation constante de dangers par le
+biais de la politique étrangère n'est pas une menace à l'identité ou à
+l'existence de l'État : c'est la condition même de sa possibilité » (1998,
+p. 13). Paradoxalement, si l'État parvenait à annihiler toutes les menaces
+portant atteinte à sa sécurité, il pourrait cesserait d'exister.
+
+
+Depuis la guerre de Trente Ans, les États se servent des conflits armés
+pour reproduire l'identité nationale et stabiliser leur emprise. La politique
+étrangère a cependant élargi son éventail d'actions dans les dernières
+années. Les frontières construites socialement ne sont plus que
+géographiques: elles sont également virtuelles et culturelles. Dans ce
+contexte, toute une gamme d'actions, de l'expulsion de réfugiés aux
+subventions de l'industrie culturelle, sert, comme la guerre, à maintenir les
+frontières de la communauté politique sur laquelle repose l'État (Bélanger,
+1999; Goff, 2000).
+
+
+On peut inférer de ces thèses que les États dont l'identité nationale est la
+plus fragile sont également ceux qui réagissent le plus activement en
+mobilisant leurs politiques à des fins identitaires (Posen, 1993; Van Evera,
+1994; Lindemann, 2011). Plusieurs études sur cette question se penchent
+sur les États multiculturels. La Suisse, par exemple, semble maintenir la
+cohésion entre ses cantons par une politique de résistance distinctive,
+incarnée par son armée de milice, sa politique de neutralité, ses politiques
+migratoires restrictives et son refus d'adhésion à l'Union européenne. De
+son côté, le Canada parvient à se distinguer des États-Unis et à démontrer sa
+capacité d'absorption du nationalisme québécois en mobilisant sa politique
+étrangère en faveur du multilatéralisme, de principes universalistes, du
+maintien de la paix et de la promotion de la diversité culturelle (Chapnick,
+2000; Roussel et Robichaud, 2004; Thomsen et Hynek, 2006; Potter,
+2008; Gecelovsky, 2009).
+
+
+L'idée que l'État est une construction fragile qui doit constamment être
+reproduite pour se maintenir demeure cependant marginale en APE. L'étude
+des relations internationales s'est édifiée sur le postulat de l'État, lui
+conférant une individualité propre, sans véritablement examiner ou critiquer
+ce point de départ. Même à propos de l'identité nationale, les théories
+critiques et post-stucturalistes sont concurrencées par une théorie plus
+psychologique que sociologique, et plus positiviste que post-positiviste : la
+théorie de l'identité sociale.
+
+
+Altérité et adversité
+
+
+La théorie de l'identité sociale suggère une relation directe entre le degré
+d'identification et les comportements belliqueux. Selon cette théorie, le
+besoin d'estime et de valorisation que ressentent les individus les conduit à
+percevoir négativement les groupes auxquels ils n'appartiennent pas, à leur
+attribuer la responsabilité de leurs malheurs et à les traiter de façon
+discriminatoire. Des expériences en laboratoire ont démontré que ces biais
+défavorables sont engendrés dès lors que des groupes sont créés, même si le
+critère pour distinguer ceux-ci est aussi banal que la couleur des yeux ou le
+résultat d'un tirage au sort (Tajfel et Turner, 1986).
+
+
+Plusieurs analystes s'appuient sur cette théorie de l'identité sociale pour
+expliquer les comportements de politique étrangère. Elle peut contribuer à
+expliquer, par exemple, que les États partageant une identité supranationale
+semblent avoir moins tendance à s'affronter militairement que ceux qui ne
+partagent pas de lien culturel. Il semble notamment qu'une religion
+commune puisse avoir un effet pacificateur particulièrement prononcé, bien
+que certains résultats statistiques sur cette question soient encore fragiles
+(Henderson, 1998; Gartzke et Gleditsch, 2006; Rousseau et Garcia-
+Retamero, 2007; Kupchan, 2010).
+
+
+La théorie de l'identité sociale peut également contribuer à expliquer la
+politique de deux poids deux mesures des pays occidentaux face aux
+violations du régime international de non-prolifération nucléaire. Alors que
+ces pays expriment généralement une certaine confiance envers les
+démocraties libérales et minimisent l'impact déstabilisateur de leurs
+programmes d'armement nucléaire, ils dénoncent fermement les éventuels
+programmes nucléaires des autocraties, avant même qu'ils ne soient
+confirmés. L'appartenance au groupe des démocraties libérales serait ici le
+facteur discriminant (Chafetz, 1995).
+
+
+La théorie de l'identité sociale avance en outre que les biais négatifs sont
+plus prononcés lorsque l'identification au groupe est élevée. Ce constat,
+observé en laboratoire chez les individus, semble également valide au
+niveau national. Il y aurait effectivement une relation statistiquement
+prononcée entre le nationalisme populiste et la sévérité des conflits armés
+(Cederman et al., 2011).
+
+
+Il semble aussi y avoir une relation entre le sentiment d'appartenance à
+l'identité européenne et l'opposition à la candidature turque à l'Union
+
+
+européenne. L'élite française, qui est davantage attachée au projet européen
+que l'élite britannique, est ainsi plus opposée que cette dernière à
+l'élargissement de l'Union. Parce qu'elle se sent plus européenne, elle a
+davantage tendance à percevoir la Turquie comme une altérité, et est
+davantage opposée à son intégration (Schafer, 1999; Curley, 2009).
+
+
+Dans un article remarqué, Jonathan Mercer (1995) a mobilisé cette
+théorie de l'identité sociale pour s'opposer à la thèse d'Alexander Wendt
+(1992) selon laquelle « l'anarchie est ce que les États en font ». Pour Wendt,
+les États construisent à travers leurs interactions des relations amicales,
+adverses ou compétitives, menant respectivement à une anarchie kantienne,
+hobbesienne ou lockienne. Selon Mercer, cette conception de la
+construction d'une structure par les agents ignore les contraintes cognitives.
+Si la tendance de tous les individus est de se méfier de ceux qui
+n'appartiennent pas à leur groupe, comme l'avance la théorie de l'identité
+sociale, il n'est pas surprenant que l'adversité domine les relations
+interétatiques et que l'anarchie hobbesienne soit la règle plutôt que
+l'exception. Autrement dit, bien que Mercer reconnaisse la construction
+sociale de la structure par les agents, il utilise la socio-psychologie pour
+défendre la conception réaliste des relations internationales (voir aussi
+Mowle, 2003).
+
+
+La thèse de Mercer ne fait pas l'unanimité parmi les tenants de la théorie
+de l'identité sociale. Certains rappellent que la méfiance envers ceux qui
+n'appartiennent pas au groupe ne se traduit pas nécessairement par une
+haine ou des comportements agressifs (Brewer, 2000; Gries, 2005). Au
+niveau national, différents sondages révèlent que les sentiments patriotiques
+ou nationalistes ne sont pas associés à une animosité envers les autres États,
+à un protectionnisme commercial ou à un appui pour des politiques
+étrangères belliqueuses. Quelques études indiquent même une relation
+inverse (Shulman, 2000; Herrmann et al., 2009; Gibson, 2006; Foster et
+Keller, 2010).
+
+
+La clé pour établir une relation entre l'intensité d'une identité nationale et
+l'orientation de la politique étrangère réside peut-être dans un examen plus
+attentif des variables intermédiaires et des conditions extrinsèques. Selon
+quelques études, par exemple, les menaces à l'encontre d'une identité
+n'entraineraient une réaction identitaire que si elles sont combinées à des
+
+
+menaces matérielles immédiates, qu'elles soient sécuritaires ou
+économiques (Roussel et Robichaud, 2004 ; Catalinac, 2007; Rousseau et
+Garcia-Retamero, 2007; Woodwell, 2007 ; Coş et Bilgin, 2010). D'autres
+situent plutôt ces conditions dans le monde idéationnel, en soulignant que
+seulement certains discours ou certaines combinaisons de normes peuvent
+faire d'une identité nationale forte un combustible pour une politique
+étrangère antagonistique (Furtado, 1994; Gries, 2005; Woodwell, 2007;
+Herrmann et al., 1999).
+
+
+Chose certaine, les identités ne sont pas des variables isolées de leur
+environnement matériel et idéationnel. À ce titre, le concept de « rôle
+national », présenté dans la prochaine partie, permet plus aisément d'étudier
+les relations entre l'identité nationale et l'environnement international.
+
+
+Les rôles nationaux
+
+
+Un rôle national peut être défini comme un ensemble d'attentes partagées
+relatives aux comportements d'un État en fonction de sa position sur la
+scène internationale. Les rôles de meneur, de médiateur et de protégé, par
+exemple, participent depuis longtemps à la dramaturgie traditionnelle des
+relations internationales. Chacun prescrit des comportements spécifiques à
+ceux qui les endossent, et leurs interactions se déroulent selon des scénarios
+relativement prévisibles. Le concept de rôle permet ainsi d'établir un pont
+entre la spécificité l'acteur et la structure générale dans laquelle il s'inscrit
+(Walker, 2011; Thies, 2012).
+
+
+Kal Holsti a introduit le concept de rôle
+en APE dès 1970 en
+l'empruntant à la socio-psychologie (Holsti, 1970). Curieusement, les
+théories constructivistes développées dans les années 1990 ne se
+revendiquent pas de cet héritage conceptuel et s'en inspirent rarement. La
+notion de rôle est pourtant voisine de celles d'identité et de normes.
+Certaines composantes de l'identité n'existent, comme les rôles, que sous
+une forme relationnelle spécifique à une altérité particulière. Les normes,
+quant à elles, partagent avec les rôles la particularité de prescrire des
+comportements plutôt que de les décrire ou de les représenter. Le rôle est
+toutefois un concept bien distinct de celui d'identité et de norme.
+
+
+La conception des rôles
+
+
+L'une des caractéristiques distinctives du concept de rôle est de se
+rapporter à une position particulière sur la scène internationale. Cette
+position peut être géographique, politique ou sociale, c'est-à-dire située
+dans l'espace (Dodds, 1993), sur une échelle de puissance (Holsti, 1970),
+ou au sein d'un groupe (Harnisch, 2011).
+
+
+À chaque position correspond un répertoire limité de rôles. Durant la
+guerre froide, par exemple, les États-Unis et l'Union soviétique avaient tous
+les deux une position prédominante dans l'échelle de puissance et ont ainsi
+tous les deux joué un rôle similaire de meneur (Wish, 1980; Jonnson et
+Westerlund, 1982).
+
+
+La distribution des rôles n'est cependant pas déterminée par les
+conditions objectives. La position est une donnée subjective, et non pas
+matérielle. La France, par exemple, maintient une puissance militaire et une
+représentation diplomatique qui est disproportionnée par rapport à son poids
+économique et aux menaces qui pèsent sur sa sécurité. Aux yeux des
+observateurs extérieurs, la présence française sur le continent africain
+semble parfois en décalage par rapport aux gains stratégiques et
+économiques qu'elle en retire. Ce décalage s'explique cependant par des
+conditions subjectives. Le déploiement militaire et diplomatique de
+l'Hexagone est le fruit du rôle que la France s'est forgé pour elle-même et
+non celui que lui imposent les conditions objectives (Gordon, 1993; Flynn,
+1995; Macleod, 2002; Krotz et Sperling, 2011; Fordham, 2011).
+
+
+Selon Holsti, un rôle national est conçu principalement à partir de
+<< l'idée que se font les dirigeants politiques du type de décisions,
+d'engagements, de règles et d'actions qu'ils jugent appropriés pour leur État
+et des fonctions que cet État doit régulièrement exécuter dans le système
+international ou dans un système régional » (1970, p. 245). Dans cette
+perspective, les dirigeants sont les principaux scénaristes de leur État et
+définissent leur rôle à partir de leur propre contexte culturel. Ce contexte
+peut être limité à leur garde rapprochée, mais il est généralement partagé à
+travers l'élite du pays, sinon à travers sa population entière (Cantir et
+Kaarbo, 2012).
+
+
+Cette endogénéité dans la conception des rôles nationaux peut brouiller
+les communications avec les différents acteurs qui ne partagent pas toujours
+les mêmes références culturelles. Ainsi, le rôle de la Chine repose en partie
+sur une conception proprement confucéenne du monde et sur des scénarios
+issus de la mémoire collective chinoise, qui n'ont de sens que pour les
+Chinois. Cet enracinement culturel rend la politique étrangère chinoise
+difficile à déchiffrer pour les Occidentaux. La combinaison de puissance et
+de retenue, notamment, laisse perplexes les observateurs habitués au
+prosélytisme et à l'interventionnisme des puissances occidentales (Shih,
+1993 et 2012; Feng, 2007; Deng, 2008).
+
+
+Dans ce contexte, la modification d'un rôle national résulte souvent d'un
+changement dans le contexte culturel interne plutôt que de pressions
+extérieures. Le Japon, par exemple, a réévalué son rôle sur la scène
+internationale entre la première guerre du Golfe et la guerre d'Irak.
+Contrairement à la majorité des autres États, il a démontré un appui plus
+enthousiaste envers l'intervention de 2003 qu'envers celle de 1991. Ce
+changement de politique résulte d'une reconceptualisation du rôle du Japon
+sur la scène internationale par les décideurs japonais eux-mêmes, et non
+d'un contexte international plus favorable à l'intervention japonaise (Lind,
+2004; Catalinac, 2007).
+
+
+Les rôles sont également le résultat de la perception que les dirigeants
+politiques entretiennent à propos de l'environnement international. Marijke
+Breuning (1995) et Philippe Le Prestre (1997) ont chacun développé une
+typologie des rôles qui repose sur cette perception du système international.
+Les rôles de « bon voisin » et de « militant » dans la typologie de Breuning
+ne peuvent être endossés que par les acteurs qui perçoivent le système
+international comme étant davantage ordonné que chaotique. Dans la
+typologie de Le Prestre, les rôles de « catalyseur » et de « stabilisateur » ne
+sont possibles que lorsque le système est perçu comme contraignant plutôt
+que laxiste.
+
+
+Selon la théorie des rôles, un des objectifs fondamentaux des États est
+d'imposer le rôle qu'ils ont défini pour eux-mêmes aux autres acteurs et au
+public. Lorsqu'ils sont en performance théâtrale, les différents acteurs et le
+public interagissent continuellement et s'échangent des signaux, qui leur
+permettent de s'ajuster. Ces signaux opèrent comme des rétroactions,
+
+
+renforçant les rôles qui correspondent aux attentes et sanctionnant ceux qui
+s'écartent du scénario attendu (Walker, 1979 et 1987).
+
+
+L'Union soviétique, par exemple, s'était initialement attribué un rôle de
+libérateur et promoteur d'un nouvel ordre. Les pays d'Europe de l'Est, par
+contre, lui renvoyèrent régulièrement l'image de la Russie impériale,
+forçant l'Union soviétique à se redéfinir (Hopf, 1998). De même, l'Union
+européenne s'est attribué un rôle de puissance normative qui a le devoir de
+se prononcer dans toutes les enceintes internationales. Ce rôle, cependant,
+ne lui est pas reconnu par les pays émergents qui la perçoivent plutôt
+comme un accessoire derrière lequel se cachent la France et l'Allemagne.
+Cette rétroaction négative force l'Union européenne à reconceptualiser son
+rôle (Elgstrom et Smith, 2006; Bengtsson et Elgström, 2012; Morozov et
+Rumelili, 2012).
+
+
+Le public peut également influencer la conception des rôles en exprimant
+ses préférences et en réagissant aux performances des acteurs (Walker,
+1979; Thies, 2012). Les États-Unis constituent un public particulièrement
+influent dans plusieurs conflits locaux, comme celui en Irlande du Nord
+(Grove et Carter, 1999) ou celui en Ossétie du Sud (Tsygankov et Tarver-
+Wahlquist, 2009). Ils n'ont pas directement été impliqués dans ces conflits,
+mais les acteurs interagissaient en ayant bien conscience d'être observés de
+près. Même lorsque le public est passif, sa simple attention est
+généralement suffisante pour assurer une certaine cohérence et une
+continuité dans la conception des rôles.
+
+
+Dans cette logique sociale, interactionniste et stratégique, un acteur qui
+souhaite redéfinir son rôle doit parfois modifier l'ensemble du scénario,
+incluant les rôles des autres acteurs. L'une des stratégies pour y parvenir est
+d'interagir avec les autres acteurs comme s'ils incarnaient déjà leurs
+nouveaux rôles. Gorbatchev aurait ainsi tenté de faire basculer le rôle des
+États-Unis de celui de rival à celui de pourvoyeur d'aide, en se comportant
+comme si Washington ne représentait soudainement plus de menace et en
+réduisant unilatéralement l'arsenal soviétique. Les politiques de Gorbachev
+ont ultimement clos le scénario de la guerre froide, fournissant à tous les
+acteurs l'opportunité de redéfinir leur rôle (Wendt, 1992, p. 421).
+
+
+Les changements brutaux de scénarios demeurent toutefois rares. Plus
+généralement, les rétroactions et les ajustements qu'ils suscitent favorisent
+
+
+une convergence progressive entre le rôle conçu par un acteur et les attentes
+des autres acteurs et du public à propos de ce rôle. Tous convergent vers
+une réalité intersubjective commune (Chafetz et al., 1996 ; Harnisch, 2012).
+C'est ce que suggère notamment une enquête menée par Valérie Hudson
+(1999) en Russie, au Japon et aux États-Unis qui révèle que les attentes
+relatives aux comportements d'un État particulier sont partagées à la fois
+par les nationaux de cet État et par les étrangers.
+
+
+Les rôles comme guides de la politique étrangère
+
+
+Plusieurs chercheurs s'intéressent moins au processus menant à la
+conception des rôles nationaux qu'à leur impact sur la politique étrangère.
+$\hat{A}$ ce sujet, la majorité des travaux confirment que les États soumettent
+généralement leurs comportements aux prescriptions déduites de leur rôle.
+Stephen Walker (1979), par exemple, a utilisé l'analyse de discours menée
+par Holsti pour étayer la conception des rôles de 71 États et a observé une
+forte concordance avec les comportements encodés dans la base de données
+WEIS. Naomi Bailin Wish (1980) a elle aussi observé une concordance
+entre les rôles exprimés par 29 dirigeants politiques de 17 États différents et
+les comportements repris dans la base de données CREON. Ces résultats
+confortent la conclusion de Holsti que « la conception des rôles est un
+indicateur relativement fiable des engagements diplomatiques » (1970,
+p. 288).
+
+
+Il arrive parfois qu'un acteur dévie de son script, mais ce n'est
+généralement qu'un écart temporaire. C'est ce qui est arrivé à l'Ukraine au
+lendemain de la guerre froide. Après une période d'hésitation, l'Ukraine
+s'est finalement résolue à abandonner ses armes nucléaires héritées de
+l'Union soviétique parce qu'elle n'avait pas la stature requise pour endosser
+le rôle de puissance nucléaire (Chafetz et al., 1996).
+
+
+La théorie des rôles n'est pas pour autant mécanique et déterministe. Les
+rôles sont joués de façon irrégulière et laissent toujours une certaine place à
+l'interprétation de l'acteur (Hollis et Smith, 1986). Un même rôle endossé
+par deux acteurs différents sera rendu de façon différente. Le rôle de
+supérieur hiérarchique, par exemple, est bien différent en France et au
+Japon, que ce soit en matière d'autorité, de responsabilité ou d'empathie.
+
+
+Ces différentes conceptions transparaissent dans leur politique étrangère,
+même lorsque la France et le Japon s'attribuent tous les deux des rôles de
+supérieurs hiérarchiques (Sampson et Walker, 1987). De même, l'image
+culturelle que ce font les Français et les Allemands d'un leader diverge à
+plusieurs égards, ce qui se reflète dans leurs différents comportements
+lorsqu'ils endossent ce rôle à l'échelle européenne (Aggestam, 2004). Les
+différences culturelles entre la France et les États-Unis sont également
+observables lorsqu'ils jouent tous les deux les rôles messianiques de
+libérateur et de phare des Droits de l'homme dans les pays en
+développement (Holsti, 2011).
+
+
+Une question plus délicate est celle du comportement des États qui ont
+endossé des rôles contradictoires. En effet, les États jouent simultanément
+plusieurs rôles sur plusieurs scènes. Holsti, qui a développé une typologie
+comptant dix-sept rôles différents, observe que les États en endossent en
+moyenne 4,6 (1970). Plus un pays est actif en relations internationales, plus
+il risque de compter un nombre de rôles élevé. Or, certains d'entre eux sont
+contradictoires. Tant qu'un État les incarne sur des scènes différentes, ils
+peuvent coexister sans interférence. Mais lorsque les événements forcent
+différentes scènes à se chevaucher, l'État doit faire un arbitrage entre ses
+rôles ou tenter de les fusionner pour en créer un nouveau.
+
+
+L'Arabie Saoudite a ainsi été forcée de prendre position lors des
+interventions militaires contre l'Irak, partagée entre ses rôles d'alliés des
+États-Unis, de pilier de l'arabisme et d'État jaloux de sa souveraineté
+(Barnett, 1993). Lors de crises économiques, les États-Unis sont eux-
+mêmes partagés entre leur rôle d'hégémon, qui doit assurer la stabilité du
+système international et celui de puissance unipolaire, qui peut adopter
+unilatéralement des mesures protectionnistes (Cronin, 2001). De même, lors
+de la guerre des Malouines, le Royaume-Uni dut choisir entre son rôle de
+puissance coloniale ou celui du gardien de la stabilité (McCourt, 2011).
+L'Allemagne, de son côté, fut plongée dans un dilemme à la fin de la guerre
+froide entre son rôle de meneur dans l'approfondissement de l'intégration
+européenne et celui d'intermédiaire entre l'Europe de l'Est et de l'Ouest
+(Tewes, 1998).
+
+
+Cette possibilité de conflit entre différents rôles nuance significativement
+la capacité prédictive des rôles. L'avenir de la recherche sur les rôles en
+
+
+APE consiste précisément à définir les conditions selon lesquelles un rôle
+prime sur un autre. L'ancrage historique dans une position particulière, les
+signaux des autres acteurs et les demandes du public constituent
+certainement des facteurs qui influencent les arbitrages entre différents
+rôles.
+
+
+Les genres
+
+
+Le genre est à la fois une identité et un rôle social. Une identité féminine,
+par exemple, peut se décliner en différents rôles sociaux en fonction de
+l'interlocuteur : un agresseur, un enfant, une victime, le père, un courtisan,
+etc. Sous cet angle, il n'est pas surprenant que le concept de genre ait suivi
+les concepts d'identité et de rôle et qu'il ait lui aussi été transposé du niveau
+des relations interpersonnelles à celui des relations interétatiques. Les
+auteurs qui effectuent cette transposition et mobilisent le concept de genre
+pour jeter un nouvel éclairage sur la politique étrangère sont généralement
+qualifiés de « féministes » bien que certains d'entre eux refusent que cette
+étiquette leur soit apposée.
+
+
+Femmes, féminité et féminisme
+
+
+Le féminisme en relations internationales est un courant particulièrement
+riche et diversifié, incluant des branches libérales, marxistes,
+psychanalytiques, post-structuralistes, environnementalistes et post-
+colonialistes. Tous les féministes n'articulent pas leurs travaux autour de la
+notion de genre. Ceux qui le font, toutefois, insistent systématiquement sur
+la distinction entre les notions de sexe et le genre (Shepherd, 2010).
+
+
+Si le sexe détermine les catégories  homme » et « femme » à partir
+d'attributs anatomiques, la notion de genre oppose la masculinité à la
+féminité à partir de réalités intersubjectives et socialement construites. Le
+sexe est biologique et inné alors que le genre est culturel et acquis. Les
+féministes qui travaillent sur le genre, comme Ann Tickner, Cynthia Enloe
+et Jean Elshtain, rejettent avec force l'idée essentialiste que le sexe puisse
+déterminer les comportements sociaux.
+
+
+Bien que la féminité et la masculinité ne soient pas déterminées par la
+nature, les femmes et les hommes ne naviguent pas pour autant en toute
+liberté entre les genres. Au contraire, pour les féministes, les genres sont
+des catégories sociales si omniprésentes et si profondément ancrées dans la
+culture que leur action structurante est masquée par les apparences d'un
+ordre naturel. Ce qui relève du féminin et du masculin est rarement reconnu
+et encore moins remis en question. Cette absence de réflexion critique sur le
+genre dans le paysage discursif favorise la reproduction des inégalités et le
+maintien des structures de domination patriarcales.
+
+
+D'un autre côté, les féministes considèrent qu'une émancipation des
+structures de domination patriarcales est possible. Les genres, en tant que
+catégorie sociale, ne sont pas des fatalités. Ils varient d'ailleurs selon les
+cultures, dans le temps et dans l'espace. Les années 1980, par exemple, ont
+été marquées par le triomphe de la masculinité, tant dans la culture
+populaire que dans la politique étrangère, avant de connaître un certain
+déclin dans les années 1990 (Jeffords, 1993). Les États-Unis seraient aussi
+plus enclins à valoriser la masculinité et à privilégier une identité masculine
+en politique étrangère que les pays d'Europe du Nord (Richey, 2001).
+Aucune catégorie de genre n'est intemporelle ni universelle.
+
+
+L'idéal social défendu par plusieurs féministes critiques est un
+rapprochement entre les genres. De façon générale, une plus grande égalité
+entre les genres est associée à une politique étrangère plus équilibrée entre
+les comportements jugés masculins, comme l'affrontement et le commerce,
+et ceux jugés féminins, comme l'aide et la coopération (Goldstein, 2002 ;
+Regan et Paskeviciute, 2003; Neocleous, 2012).
+
+
+Plusieurs féministes considèrent toutefois qu'intégrer davantage de
+femmes dans le processus décisionnel de la politique étrangère n'est pas
+suffisant pour atteindre cet objectif. Certes, les hommes sont encore
+majoritaires dans les cercles officiels de prise de décision, que ce soit dans
+les états-majors militaires, dans les cabinets ministériels ou dans les
+enceintes parlementaires (Dean, 2003). Jusqu'à récemment, les femmes
+jouaient principalement des rôles influents, mais ignorés, minimisés ou
+ridiculisés, comme ceux de conjointes d'ambassadeur, de secrétaires de
+ministre, de militantes pacifiques, ou de prostitués des militaires expatriés
+(Enloe, 1989 et 1993; Moon, 1997). Cette asymétrie de statut entre les
+
+
+rôles dévolus aux hommes et aux femmes n'est toutefois pas la cause, mais
+le symptôme du problème culturel qui intéresse les féministes.
+
+
+En fait, considérer qu'une femme ministre des Affaires étrangères
+favoriserait naturellement une politique étrangère moins belliqueuse qu'un
+homme ne contribue pas à dénoncer la structure de genre, mais à la
+reproduire (Tickner, 2002). C'est véhiculer le discours traditionnel qui
+associe les femmes à la paix et les situe politiquement à un rang inférieur,
+derrière les hommes.
+
+
+C'est également un discours qui ne correspond pas tout à fait aux réalités
+empiriques. Les sondages d'opinion indiquent bien que les femmes sont
+généralement moins favorables que les hommes aux dépenses militaires
+(Eichenberg et Stoll, 2012). Néanmoins, plusieurs femmes chefs d'État,
+comme Indira Gandhi, Margaret Thatcher et Golda Meir, se sont révélées
+aussi agressives que les hommes et ont plutôt joué des rôles masculins dans
+la conduite de leur politique étrangère (Cohn, 1993). Même les mères, les
+filles et les conjointes qui restent dans l'ombre de la politique étrangère ont
+parfois des comportements et des discours plus belliqueux que ce que l'on
+leur attribue généralement (Elshtain, 1995; Tessler et al., 1999).
+
+
+La nation et l'État dans la grammaire féministe
+
+
+Pour les féministes, s'émanciper des contraintes structurelles qu'exercent
+les genres nécessite d'abord et avant tout de les reconnaître. Pour cela, il
+faut aborder les genres comme une grammaire dont les règles divisent le
+monde des possibles en dichotomies. À l'opposition masculin/féminin, se
+superposent plusieurs autres binômes, comme ceux de fort/faible,
+actif/passif, rationnel/émotionnel
+, violence/compassion, objectif/subjectif,
+Occident/Orient, guerre/paix,
+modernité/tradition, extraverti/introverti,
+interne/externe, culture/nature,
+mature/immature, autonomie/dépendance,
+high politic/low politic, souillé/pur, avoir/être, froid/chaud, civilisé/sauvage,
+national/international, réfléchi/impulsif, exclusif/inclusif, prendre/donner et
+supérieur/inférieur. Non seulement le monde est-il dit et pensé à travers ces
+dichotomies, mais elles sont toutes associées les unes aux autres par la
+grammaire des genres.
+
+
+À la lumière de cette grammaire des genres, la politique étrangère, et
+particulièrement la politique de sécurité, apparait alors comme un domaine
+typiquement masculin. Elle commande un comportement froid et rationnel
+ainsi qu'une recherche de puissance et d'indépendance. En relations
+internationales, les conflits sont la norme et les démonstrations de forces
+sont socialement attendues. Par opposition, la grammaire des genres
+suggère que la politique interne est l'apanage du féminin. Elle appelle une
+certaine compassion et des gestes de solidarité, notamment à travers des
+politiques d'éducation, de santé et de sécurité sociale (Grant, 1991;
+Tickner, 1992).
+
+
+Tant l'iconographie que l'analyse de discours indiquent que la
+représentation sociale de la nation prend généralement des traits féminins.
+Marianne, Athena, Germania, Europa, Italia turrita, la Mère Russe et
+Britannia, sont quelques-unes des figures allégoriques qui incarnent
+l'essence d'une nation. Elles sont les gardiennes de la culture et assurent
+métaphoriquement la transmission des traditions et de la mémoire collective
+d'une génération à l'autre. La « mère-patrie » lègue à ses enfants, non
+seulement une langue « maternelle », mais une identité collective qui
+commande des comportements « fraternels » entre citoyens. Malgré cette
+représentation aux apparences édifiantes, les féministes soulignent bien que
+la nation est enracinée sur un territoire auquel elle est confinée. Dans
+l'imaginaire de la diplomatie occidentale, la nation n'entre en relation avec
+les autres qu'à travers l'intermédiaire de la figure masculine et autoritaire
+de l'État (Peterson, 1995).
+
+
+Toujours selon cette lecture féministe des représentations sociales,
+lorsque la nation aux traits féminins est menacée par des forces étrangères,
+c'est l'État masculin qui doit la protéger. Rien n'appelle plus aux armes que
+le « viol » du territoire national par des étrangers. Mais les préoccupations
+sécuritaires peuvent également servir de justification à l'asservissement.
+L'État adopte ni plus ni moins un comportement de proxénète en offrant
+une promesse de sécurité contre une subordination absolue (Peterson,
+1992; Pettman, 1996 ; Hooper, 2001; Wilcox, 2009).
+
+
+Les nations et les États étrangers
+
+
+Selon la grille de lecture des genres, la relation de l'État aux populations
+étrangères est particulièrement complexe. Lorsque l'État est en guerre, il
+tente généralement de limiter ses frappes aux incarnations masculines de
+l'ennemi. L'appareil étatique étranger, et a fortiori son armée, sont les
+premières cibles.
+
+
+Les civils, par contre, qu'ils soient hommes ou femmes, sont
+traditionnellement représentés comme féminins. Ils sont perçus comme
+faibles et passifs, ou alors inconscients de leur propre intérêt parce que
+victimes de la manipulation de leur propre État. Ils doivent, par conséquent,
+bénéficier de l'immunité, contrairement aux hommes et aux femmes
+militaires. Cette discrimination entre les militaires et les civils, qui fait
+inconsciemment écho à celle entre les hommes et les femmes, est même
+institutionnalisée en droit international (Kinsella, 2005; Carpenter, 2006).
+
+
+Certains conflits, notamment fratricides, sont si violents et passionnels
+que l'immunité des civils est ignorée. Selon les féministes, les agressions
+contre les civils constituent une attaque à la masculinité de l'ennemi. Les
+viols systématiques, tel qu'ils furent pratiqués par des militaires lors de la
+guerre de Bosnie-Herzégovine, seraient non seulement la reproduction
+d'une subordination des femmes au niveau interpersonnel, mais également
+une tentative de féminiser un ennemi au niveau international en démontrant
+son incapacité à protéger sa propre population. Dans une certaine mesure,
+cette féminisation forcée de la Bosnie-Herzégovine aurait perduré après la
+guerre. La Bosnie-Herzégovine « libérée » semble toujours faible et
+incapable d'assurer sa propre destinée sans la protection d'un Haut
+Représentant nommé par l'ONU (Hansen, 2006 ; Helms, 2008).
+
+
+Lorsque des violences sont commises contre des civils, la réaction des
+États tiers peut varier en fonction de la nature du conflit. Lors de conflits
+strictement internes, la pratique traditionnelle des États tiers est celle de la
+non-intervention. Alors que la violence internationale appelle une
+intervention coordonnée de tierces parties, la violence qui s'exerce entre un
+État et sa propre population est condamnée dans les discours, mais ignorée
+dans la pratique. Pour les féministes, le devoir d'ingérence en relations
+internationales, comme la répression de la violence conjugale, sont des
+idées relativement récentes et encore fragiles. Peu importe le niveau
+
+
+d'analyse, la violence privée demeure un tabou tenace que les autorités
+publiques préfèrent ignorer (Tickner, 1992).
+
+
+Par contre, si le conflit a une dimension internationale, une agression
+contre des civils peut contribuer à justifier une intervention militaire.
+L'oppression que le régime taliban réservait aux femmes, par exemple, a
+contribué à justifier l'intervention de l'OTAN en Afghanistan au-delà de la
+simple traque d'Al Qaida. La guerre contre le terrorisme fut
+progressivement amalgamée à la lutte pour la dignité des femmes, tant dans
+les discours politiques que dans ceux des médias. Les images promues par
+les forces de l'OTAN et diffusées dans les médias opposèrent souvent les
+hommes talibans, barbus et armés, aux écolières afghanes, souriantes sous
+la protection des militaires de l'OTAN. Selon plusieurs féministes, cette
+prise en charge paternaliste permit à la fois de justifier une politique de
+sécurité de l'OTAN et de reconstruire la masculinité des États-Unis,
+fortement ébranlée par l'effondrement des tours jumelles le 11 septembre
+2001 (Cloud, 2004; Stabile et Kumar, 2005).
+
+
+Paradoxalement, les tentatives de valorisation du rôle de la femme
+afghane n'ont fait que reproduire les structures de genre. Même les
+politiques d'aide au développement centrée sur la femme, comme
+l'instauration de micro-crédit, l'aide à la planification des naissances ou
+l'éducation alimentaire, sont fondées sur des rapports d'assistance. Ils
+supposent que les Occidentaux sont les uniques titulaires de savoirs experts
+et que les femmes étrangères sont dépendantes, passives et ignorantes. Pour
+les
+féministes, cette forme d'aide au développement reproduit
+essentiellement les structures traditionnelles. Plutôt que de favoriser
+l'égalité entre les genres, ils confortent l'identité de genre des États
+pourvoyeurs d'aide (Richey, 2001; Brenner, 2009 ; Naylor, 2011).
+
+
+Dans un ouvrage controversé, Cynthia Weber défend la thèse que la
+politique étrangère américaine relative à Cuba vise précisément à conforter
+l'identité masculine des États-Unis (1999). Jusqu'à la révolution de 1959,
+Cuba avait une identité féminine dans l'imaginaire des Américains. C'était
+l'île de tous les plaisirs, associée aux casinos, à la musique, au rhum, au
+sexe et aux cigares roulés sur les cuisses jeunes des Cubaines. Les États-
+Unis pouvaient, à juste titre, la considérer comme une conquête, puisque le
+régime de Battista leur était acquis, bénéficiant des largesses de
+
+
+Washington. Or, ce symbole de l'exotisme et de l'érotisme se travestit
+brutalement avec l'arrivée au pouvoir de Castro, avec sa barbe hirsute, son
+uniforme militaire, ses discours enflammés et ses missiles soviétiques
+érigés en direction de Washington. La prostituée des États-Unis se révéla
+soudainement hyper-masculine. La simple présence de cette île transgenre à
+quelques kilomètres de la péninsule de la Floride menaça l'identité sexuelle
+américaine. Pour Weber, Castro castra ni plus ni moins la masculinité des
+États-Unis. Par conséquent, tout au long de la guerre froide, Washington
+réagit de façon homophobe, en tentant de contraindre Cuba de revenir à sa
+féminité traditionnelle par des opérations clandestines et des embargos,
+mais en prenant soin de ne jamais l'affronter directement de crainte d'être
+souillé par cet « objet sexuel non identifié ». Pour Weber, cette narration
+féministe de la politique étrangère américaine, certes inhabituelle et
+surprenante, est émancipatrice, parce qu'elle révèle à la fois l'omniprésence
+et la superficialité des relations de genre.
+
+
+Tous ne partagent pas l'avis de Weber. Plusieurs critiquent la démarche
+interprétative empruntée par Weber et plusieurs autres féministes. Robert
+Keohane a bien tenté d'intégrer le féminisme au courant épistémologique
+dominant, en soulignant, par exemple, qu'il pouvait mener à une
+redéfinition du concept de puissance, non pas en termes de contrôle relatif
+sur les autres acteurs, mais comme potentiel d'épanouissement et de gains
+collectifs (1993). Plusieurs féministes ont toutefois vivement rejeté cette
+invitation de Keohane à rejoindre les rangs du positivisme. Tickner affirma
+que les théoriciens traditionnels des relations internationales
+«
+ne
+comprennent tout simplement pas » le projet féministe (1997) et qu'ils ne le
+<< comprendront peut-être jamais » (2010). Weber alla encore plus loin en
+dénonçant le ton paternaliste de Keohane qui infantilise les féministes par
+ses sermons et ses encouragements (1994).
+
+
+En fait, la majorité des féministes jugent que la discipline des relations
+internationales est elle-même profondément patriarcale (Youngs, 1984;
+Cohn, 1987; Tickner, 1988 et 1992). C'est une discipline qui se veut
+<< dure », fondée sur la rationalité de l'acteur, obsédée par des méthodes
+quantitatives qui donnent l'illusion de contrôler le monde. Le réalisme, en
+particulier, véhicule une vision résolument misogyne en rejetant les
+arguments moraux, en insistant sur la distinction entre la politique nationale
+
+
+et internationale, en postulant l'anarchie du système international, en se
+concentrant sur les acteurs étatiques et en ne reconnaissant que les gains
+relatifs. La définition de la puissance proposée par Morgenthau comme « le
+contrôle d'un homme sur les esprits et les actions des autres hommes »
+(1948, p. 13), ainsi que l'ouvrage classique de Waltz, L'homme, l'État et la
+Guerre (1959) seraient particulièrement révélateurs de ce biais misogyne.
+
+
+La relation entre les tenants des théories féministes et les icônes des
+théories classiques des relations internationales sont ainsi particulièrement
+conflictuelles. Néanmoins, même parmi ceux qui doutent de la
+démonstration empirique de certains travaux féministes, la majorité des
+analystes reconnaissent que leurs questionnements stimulent des réflexions
+critiques fondamentales sur la sociologique du champ d'études (Sorenu,
+2010).
+
+
+Les cultures organisationnelles
+
+
+La culture a des niveaux multiples, qui s'emboîtent et se chevauchent.
+Plusieurs éléments culturels présentés dans ce chapitre sont partagés par
+l'ensemble d'une communauté politique, voire par l'ensemble d'une
+civilisation. D'autres éléments ont une portée plus restreinte, limitée à une
+organisation.
+
+
+Une culture organisationnelle est un système intégré de constructions
+sociales, incluant des croyances causales, des principes normatifs, des
+rituels et des discours, propres à une organisation, que cette organisation
+soit comprise comme un ministère, un corps d'armée, ou même une
+organisation intergouvernementale. La culture organisationnelle permet aux
+membres de cette organisation de partager une certaine interprétation de
+leur environnement et une certaine compréhension de leur rôle.
+
+
+La recherche sur la culture organisationnelle en APE est fractionnée en
+deux grands courants, relativement indépendants l'un de l'autre. Le premier
+porte sur la culture organisationnelle relative aux questions sécuritaires,
+autrement appelée « culture stratégique ». Ce courant a été amorcé par des
+auteurs pionniers comme Snyder (1977) et Gray (1981), avant de connaître
+un nouvel essor après la guerre froide avec les travaux de Johnston (1995),
+
+
+Legro (1997) et Kier (1997). Cependant, toute culture stratégique n'est pas
+forcément délimitée par les frontières d'une culture organisationnelle. Le
+concept de culture stratégique s'adapte à divers niveaux d'analyse et
+certains y intègrent des dynamiques sociales qui ne sont pas formellement
+organisées. Cela dit, plusieurs auteurs associent la culture stratégique à un
+environnement institutionnel particulier, comme l'appareil étatique.
+
+
+Le deuxième courant de la recherche sur la culture organisationnelle
+s'intéresse plutôt aux doctrines économiques. Ces travaux ont notamment
+porté sur le keynésianisme de l'après-guerre (Ruggie, 1982; Hall, 1997), la
+dependencia des pays latino-américains (Sikkink, 1991), le néo-libéralisme
+des années 1980 (Rohrlich, 1987; Hall, 1993; Golob, 2003) et le
+régionalisme (McNamara, 1998; Hay et Rosamond, 2002). Ici encore, il
+faut bien souligner que les travaux sur les doctrines économiques ne se
+concentrent pas tous sur les cultures organisationnelles, mais plusieurs le
+font, pour des raisons théoriques ou méthodologiques (Béland, 2009).
+
+
+Qu'elles portent sur la sécurité ou l'économie, trois principaux débats
+animent les recherches sur la culture organisationnelle : 1) les conditions de
+son changement ; 2) les modes d'interactions entre des organisations
+différentes; 3) et la relation causale entre la culture et les comportements de
+politique étrangère.
+
+
+La stabilité des cultures organisationnelles
+
+
+La majorité des études sur les cultures organisationnelles notent leur
+remarquable stabilité. Par exemple, l'idée que la diffusion de la démocratie
+favorise la stabilité internationale et donc la sécurité nationale des États-
+Unis est au cœur de la culture stratégique américaine depuis plus d'un
+siècle. Cette idée a assurément évolué entre les 14 points du président
+Woodrow Wilson et les efforts de l'administration Obama pour établir la
+démocratie en Afghanistan, mais une certaine continuité idéologique est
+incontestable (Anthony, 2008).
+
+
+Inversement, certaines idées qui peuvent momentanément sembler
+omniprésentes ne parviennent jamais à s'ancrer durablement dans la culture
+organisationnelle. Elles sont tributaires des quelques entrepreneurs d'idées
+
+
+ou d'un contexte particulier et elles s'évaporent dès que les conditions qui
+ont permis leur émergence se dissipent. Il en fut ainsi du concept de
+<< sécurité humaine », qui fut pendant quelques années au cœur de la
+politique étrangère canadienne, mais qui fut relégué au deuxième plan avec
+le départ de l'influent ministre des Affaires étrangères Lloyd Axworthy
+(Ramel, 2003). L'idée de « mondialisation maitrisée » connu le même sort,
+activement promu par Pascal Lamy lorsqu'il était commissaire européen au
+commerce, mais disparu du discours de la Commission lorsqu'il la quitta
+(Meunier, 2007).
+
+
+Néanmoins, plusieurs processus contribuent à la stabilité des cultures
+organisationnelles. D'abord, dès l'étape du recrutement, les organisations
+attirent et sélectionnent des candidats qui sont déjà sensibles à leur mission.
+L'armée suscite peu de vocations parmi les militants pacifistes et les
+ministères du Commerce recrutent peu parmi les penseurs marxistes. Les
+fonctionnaires d'une même organisation reflètent rarement toute la diversité
+de la population dont ils sont issus.
+
+
+La diplomatie canadienne, par exemple, a longtemps été constituée
+essentiellement d'hommes, anglophones, venant des milieux urbains, aisés
+économiquement et diplômés d'universités étrangères. En comparaison,
+lorsque l'Agence canadienne du développement international fut fondée en
+1968, elle attira plusieurs francophones, près des milieux associatifs, et
+plutôt critiques envers la politique étrangère américaine. Ainsi, avant même
+d'intégrer un ministère particulier, les candidats partagent souvent une sous-
+culture commune (Lyon et Brown, 1977 ; Granatsetin, 1982).
+
+
+Puis, tout au long de leur carrière, les membres d'une organisation sont
+constamment socialisés à leur culture organisationnelle. Les mêmes
+discours et les mêmes pratiques sont continuellement reproduits. Ce
+renforcement constant, caractéristique de toute organisation, est encore plus
+prononcé dans les corps diplomatiques et les corps d'armée. L'expatriation
+ou la vie sur une base militaire isolent les diplomates et les militaires de la
+diversité culturelle de leur pays d'origine et favorise un sentiment de
+cohésion face au monde extérieur (Neumann, 2007; Lequesne et
+Heilbronn, 2012).
+
+
+Plus encore, certaines organisations alimentent délibérément cette
+tendance au repli culturel. Parce que la cohésion est jugée nécessaire à la
+
+
+cohérence de la représentation à l'étranger et à l'efficacité des opérations
+militaires, les services diplomatiques et les forces armées portent souvent
+une attention particulière à l'assimilation et l'homogénéisation de leurs
+membres. Plusieurs ont leurs propres services de formation et se montrent
+réticents à intégrer dans leurs rangs des fonctionnaires venant des autres
+ministères.
+
+
+Même les organisations qui ont mis sur pied des politiques pour valoriser
+une certaine diversité idéologique peinent à y arriver. La multiplication des
+modes de recrutement et l'établissement de procédures permettant aux
+fonctionnaires d'exprimer leur dissidence sont rarement suffisants pour
+briser la cohésion d'une culture organisationnelle (Gurman, 2011).
+
+
+Il n'est pas étonnant, dans ce contexte, que les membres d'une même
+organisation posent un même regard, adoptent un même discours et opèrent
+les mêmes gestes routiniers. Ainsi, la neutralité peut s'avérer inconcevable
+au sein d'une culture qui valorise les alliances ; des mesures de protection
+contre des menaces internes peuvent être ignorées si la culture se concentre
+sur les menaces externes ; et l'idée de désarmement peut être impensable
+dans une culture qui valorise l'offensive.
+
+
+Dès lors, en raison de cette stabilité, il arrive fréquemment que les
+cultures organisationnelles se retrouvent en décalage avec leur
+environnement. Les exemples à cet égard sont nombreux. En Europe, à la
+veille de la Première Guerre mondiale, les forces militaires européennes
+étaient si imprégnées d'une culture valorisant l'offensive qu'elles ne
+réalisèrent pas que les nouvelles technologies dont elles disposaient les
+mèneraient vers une guerre de tranchées (Snyder, 1984 ; van Evera, 1984).
+En Union soviétique, la culture organisationnelle était si hermétique au
+changement qu'elle traversa des décennies d'austérité économique et qu'il
+fallut attendre Gorbatchev pour que des réformes majeures soient opérées
+(Blum, 1993; Checkel, 1993 ; Mendelson, 1993; Stein, 1994; Evangelista,
+1995). Au Canada, le maintien de la paix est si ancré dans la culture
+stratégique que l'engagement de l'armée canadienne en Afghanistan
+provoqua une véritable crise de légitimité puisque le décalage entre les
+discours et la pratique devint difficilement tenable (Anker, 2005;
+Létourneau et Massie, 2006). Aux États-Unis, le paradigme interétatique est
+si enraciné dans les services de renseignement que ni la fin de la guerre
+
+
+froide ni les attentats terroristes du 11 septembre 2001 n'ont été suffisants
+pour conduire à une réelle redéfinition de la sécurité centrée sur les
+menaces transnationales (Parker et Stern, 2002; Zegart, 2007; Sjöstedt,
+2007).
+
+
+Cela dit, si les cultures organisationnelles sont stables, elles ne sont pas
+pour autant immuables. Plusieurs travaux visent précisément à mieux
+comprendre les conditions d'un changement culturel. La majorité d'entre
+eux s'accordent pour affirmer que les cultures organisationnelles évoluent
+progressivement, par une action combinée de longues gestations sur le plan
+des idées et d'événements ponctuels qui déstabilisent les institutions en
+place. Les chocs traumatiques, comme les guerres ou les crises
+économiques, sont des opportunités politiques qui permettent à certaines
+idées qui circulaient déjà à la marge d'une culture organisationnelle de
+l'intégrer et conduire à des ajustements.
+
+
+La culture commerciale américaine a ainsi progressé depuis la Seconde
+Guerre mondiale en intégrant peu à peu des idées protectionnistes et
+régionalistes, au rythme des crises économiques, mais sans jamais renier
+son héritage libéral et multilatéral. Le résultat peut apparaître comme un
+bricolage incohérent, mais il s'explique à la fois par de profonds ancrages
+institutionnels et une série d'ajustements idéationnels. Malgré quelques
+soubresauts, les États-Unis sont demeurés attachés, pendant plus de 50 ans,
+au système économique multilatéral qu'ils ont eux-mêmes contribué à
+mettre sur pied (Goldstein, 1988; Ruggie, 1993; Kupchan et Trubowitz,
+2007; Busby et Monten, 2008).
+
+
+Dans ce courant, le processus de formation d'une culture stratégique
+commune en Europe suscite beaucoup l'attention des spécialistes. Une telle
+culture commune est considérée comme une des conditions nécessaires à
+l'établissement d'une politique européenne de sécurité forte et tous
+reconnaissent qu'elle ne peut être formée que progressivement, sur la
+longue durée. Il subsiste néanmoins toujours un débat sur le degré
+d'avancement de cette convergence culturelle et sur le degré de résistance
+exercée par les organisations nationales (Cornish et Edwards, 2001 et 2005 ;
+Hyde-Price, 2004; Venneson, 2005; Meyer, 2006; Mérand, 2008; Roger,
+2009; Biava, 2011).
+
+
+Interactions entre les cultures organisationnelles
+
+
+Outre la question du changement et de la continuité, un axe de recherche
+en plein essor s'intéresse à la question de l'interaction entre des cultures
+organisationnelles différentes. En effet, un État est un conglomérat de
+différentes organisations ayant chacune leur propre culture. Au sein de
+l'appareil bureaucratique américain, la culture organisationnelle de la CIA
+n'est pas celle du FBI, même si leurs missions se chevauchent, pas plus que
+la culturelle organisationnelle de l'Agence pour le développement
+international n'est celle de la Société du compte du millénaire, qui ont
+pourtant des objectifs similaires (Hook, 2008).
+
+
+Lors de décisions importantes, comme celles d'intervenir ou non dans un
+conflit armé, différentes cultures organisationnelles peuvent s'affronter. De
+façon générale, on peut supposer que les corps d'armée préfèrent des
+interventions militaires massives et décisives qui maximisent les chances de
+victoire alors que les corps diplomatiques préfèrent des inventions
+graduelles qui peuvent être mobilisées dans le cadre d'une négociation. À
+cet égard, les tensions entre l'Armée populaire de libération et le ministère
+des Affaires étrangères de Chine sont fréquentes, la première prônant
+généralement une attitude plus ferme et le deuxième plus conciliants
+(Ripley, 2002; Johnston, 1995).
+
+
+Ce serait cependant une grossière caricature que de croire que les
+militaires privilégient toujours une politique offensive ou belliqueuse.
+Plusieurs exemples historiques, que ce soit en France dans la période de
+l'entre-deux-guerres ou aux États-Unis après les attentats terroristes du
+11 septembre 2001, illustrent bien que les militaires sont parfois plus
+réticents que les autorités civiles à utiliser la force armée (Kier, 1997).
+
+
+De plus, il peut y avoir plusieurs sous-groupes et dissensions au sein
+d'une même organisation. Les sous-mariniers et parachutistes, pour ne
+nommer qu'eux, ne partagent pas toujours la même culture stratégique et
+peuvent avoir des attitudes et des préférences différentes bien qu'ils
+appartiennent tous les deux à l'armée. Il est même plutôt fréquent que les
+différents corps d'armée constituent leur identité organisationnelle les uns
+envers les autres (Legro, 1997).
+
+
+Une organisation peut même être sensible à plusieurs inclinations
+culturelles. Au Canada, le ministère des Affaires étrangères est traversé
+simultanément par des courants européanistes, continentalistes et
+internationalistes, générant une culture organisationnelle polymorphe
+(Roussel, 2007; Mérand et Vandemoortele, 2009; Paquin, 2009). De
+même, en Italie, des courants nationalistes, atlantistes, et européanistes se
+croisent continuellement depuis un siècle (Brighi, 2006). Les déclarations
+des dirigeants politiques peuvent donner l'impression qu'un seul courant les
+anime à la fois, mais en dessous de ces fluctuations de surface, différents
+courants idéologiques continuent d'évoluer en parallèle.
+
+
+En fait, les cultures de deux organisations homologues de deux États
+distincts peuvent se ressembler davantage que celles de deux organisations
+appartenant au même État. Une agence d'aide aux pays en développement
+est probablement plus près culturellement d'une agence équivalente dans un
+État étranger que du ministère du Commerce international du même pays
+(Zimmerman, 1973).
+
+
+Il peut être frappant de constater que des professionnels travaillant dans
+un même domaine, mais pour des gouvernements différents, partagent un
+vocabulaire, des rituels et des pratiques communes alors que ces éléments
+culturels sont étrangers à leurs collègues travaillant pour d'autres unités
+bureaucratiques. Ils en arrivent à former des communautés trans-
+gouvernementales (Raustiala, 2002; Slaughter, 2004), dont certaines
+peuvent être qualifiées de communautés de pratiques (Adler, 2008 ; Pouliot,
+2008).
+
+
+Ces similarités peuvent néanmoins masquer des divergences profondes.
+Une des toutes premières contributions des études sur la culture stratégique
+en APE a précisément relevé les différences culturelles entre les
+organisations américaines et soviétiques équivalentes. Alors que l'armée
+américaine s'accrochait à la doctrine de la dissuasion rationnelle et se
+concentrait sur la question des capacités, l'armée soviétique cultivait une
+préférence pour l'attaque préventive et la planification opérationnelle.
+Aujourd'hui encore, et même sur des enjeux relativement techniques qui
+mobilisent de petites organisations en constante interaction les unes avec les
+autres, les différences de culture stratégique d'un pays à l'autre sont
+notables (Snyder, 1977; Booth, 1979; Gray, 1981; Krause, 1999).
+
+
+Cultures et pratiques organisationnelles
+
+
+Malgré ces avancées, la recherche sur la culture organisationnelle reste
+confrontée à un débat, à la fois conceptuel et méthodologique, qui peut
+sembler archaïque aux yeux des anthropologues et sociologiques. En effet,
+la relation entre la culture organisationnelle et les comportements de
+politique étrangère fait toujours l'objet de controverses. Celles-ci se sont
+cristalisées autour d'un débat entre Colin Gray et Alastair Iain Johnston qui,
+bien qu'ayant déjà une quinzaine d'années, n'est pas encore résolu.
+
+
+Pour Colin Gray (1999), il est tout simplement impossible de distinguer
+la culture et les pratiques puisque ces dernières sont des parties intégrantes
+de la première. Sous cette perspective, la recherche sur la culture
+organisationnelle peut simplement permettre de mieux comprendre le
+contexte général d'une décision de politique étrangère, mais ne peut pas
+l'expliquer.
+
+
+Alastair Iain Johnston (1999), par contre, considère qu'il est
+indispensable de distinguer la culture et les pratiques. Les amalgamer et
+prétendre ensuite que la culture organisationnelle a un impact sur les
+comportements de politique étrangère serait un raisonnement tautologique
+et non falsifiable. Johnston privilégie plutôt une définition limitée de la
+culture organisationnelle, qui n'inclut que des symboles, pour mieux étudier
+leurs relations de causalité avec les comportements de politique étrangère. Il
+a ainsi établi un lien entre la culture stratégique réaliste de la Chine et sa
+tendance accrue au recours à la force lors de crises ou de différends
+territoriaux (1995). Dans la même veine, Parsons (2002) établit un lien de
+causalité entre la culture organisationnelle française et l'insistance de la
+France pour une intégration européenne institutionnellement forte, mais
+géographiquement limitée.
+
+
+Établir de telles relations causales entre la culture et les pratiques
+demeure néanmoins hasardeux. Une majorité croissante d'analystes
+reconnaissent que les pratiques et les discours, loin de s'opposer, se
+chevauchent et interagissent continuellement pour former un tout culturel
+(Duffiled, 1999 ; Neumann et Heikka, 2005 ; Bloomfield et Nossal, 2007).
+
+
+Les discours
+
+
+Plusieurs travaux sur la culture en politique étrangère reposent sur
+l'analyse du discours. Certes, il ne s'agit pas de la seule approche
+méthodologique pertinente. L'analyse de contenu, l'observation
+participante, les sondages d'opinion et les expériences en laboratoire, parmi
+plusieurs autres méthodes, peuvent eux aussi contribuer à mieux
+comprendre le rôle de la culture en politique étrangère (Abdelal et al.,
+2006). Mais l'analyse du discours occupe une place centrale et sans cesse
+croissante en APE. Cette popularité n'est pas étrangère au fait qu'il s'agit
+bien plus que d'une méthode ; c'est aussi un point de ralliement théorique
+commun à plusieurs approches, dont le constructivisme, le post-
+structuralisme, l'institutionnalisme discursif et le marxisme néo-gramscien.
+
+
+Les discours comme champ d'interaction
+
+
+Malgré l'intérêt croissant pour l'analyse du discours, ou en raison de
+celui-ci, il n'existe aucune définition consensuelle de ce que constitue au
+juste un discours. Tous reconnaissent néanmoins que les discours sont des
+pratiques sociales. Ils ne renvoient pas à des objets qui existent
+indépendamment des relations sociales, mais véhiculent des interprétations
+intersubjectives qui donnent un sens aux objets.
+
+
+La signification d' arme conventionnelle » et celle d'<< arme de
+destruction massive », par exemple, sont partagées par l'ensemble des
+experts en armement. Elles n'ont pourtant rien de naturel ou d'évident. Si
+l'automobile n'est pas considérée comme une arme conventionnelle et
+qu'un avion n'est pas considéré comme une arme de destruction massive,
+ce n'est pas parce que leurs propriétés matérielles empêchent de les
+concevoir comme tels, mais en raison du contexte social et culturel qui ne
+leur attribue pas ces significations (Price, 1997 ; Mutimer, 2000).
+
+
+Pour les analystes du discours, la réalité en dehors des discours n'est pas
+pertinente pour comprendre la politique étrangère. Les réalités matérielles
+de la politique étrangère, comme des missiles ou des cargaisons de
+marchandises, peuvent exister indépendamment du discours et de la pensée.
+Mais, comme le note David Campbell, « nous ne le saurons jamais (au-delà
+
+
+de ce constat), puisque l'existence du monde est littéralement inconcevable
+hors du langage et de nos traditions d'interprétation » (1998, p. 6).
+Autrement dit, sans le discours, le monde n'a pas de sens et ne peut donc
+pas être étudié par les sciences sociales. C'est le discours qui donne un sens
+aux énoncés.
+
+
+Un discours ne se résume donc pas à un signifié linguistique. C'est plutôt
+un amalgame, parfois implicite, composé de différentes significations
+articulées les unes aux autres. Le discours sur la guerre contre le terrorisme,
+par exemple, résulte d'une articulation particulière entre une certaine idée
+de la guerre et une certaine idée du terrorisme. C'est la reproduction sociale
+de cette articulation qui constitue, d'abord, et stabilise, ensuite, le discours
+sur la guerre contre le terrorisme (Heng, 2002; Jackson, 2005; Croft,
+2006; Dryzek, 2006; Nabers, 2009 ; Holland, 2012).
+
+
+Plusieurs discours cultivent même l'ambiguïté permettant à différentes
+interprétations de coexister. Ils sont truffés de signifiants au sens glissant,
+comme « gouvernance », « équité » ou « démocratie ». Ces signifiants
+permettent de lier des idées disparates et d'interpeller des acteurs autrement
+irréconciliables. Les discours de Pékin et de Taipei à propos de la nation
+chinoise et du statut de Taiwan entretiennent ainsi une confusion permettant
+à la fois d'affirmer leur identité respective et d'éviter une confrontation.
+Une ambiguïté similaire caractérise plusieurs discours sur la politique
+européenne de sécurité, permettant des lectures différentes à Paris, Berlin et
+Londres (Cohen, 2000; Zheng, 2001; Howorth, 2004; Avruch et Wang,
+2005; Cabestan, 2009; Roger, 2009).
+
+
+Si les discours sont ambigus, ils sont néanmoins structurants. Leurs
+règles déterminent ce qui peut être pensé et énoncé. En attribuant à un objet
+une certaine signification et en situant cette signification dans un ensemble
+plus vaste, un discours définit des paramètres à propos des possibilités de
+penser et d'actions en relation à cet objet. Même les démocraties qui
+valorisent la pluralité des points de vue sont en réalité contraintes par leur
+propre discours sur l'éthique pluraliste (Gaskarth, 2006).
+
+
+Des discours différents à propos de l'Irak et de la Corée du Nord ont ainsi
+conduit l'administration de George W. Bush à adopter des politiques
+différentes à l'égard de ces deux pays. En 2003, tant l'Irak que la Corée du
+Nord avaient des régimes particulièrement répressifs, figueraient sur la liste
+
+
+des États appuyant le terrorisme, étaient soupçonnés de développer un
+programme nucléaire militaire et refusaient les inspections de l'Agence
+internationale de l'énergie atomique. Les États-Unis ne firent pourtant la
+guerre qu'à l'Irak. Cette différence de comportement s'explique, en partie,
+parce que, depuis le début des années 1990, l'Irak a systématiquement été
+abordé par la Maison Blanche à travers le discours du conflit alors que la
+Corée du Nord est comprise à travers celui de la négociation. Après plus
+d'une décennie de reproduction de ces discours, les actions envisagées
+envers l'un sont devenues inconcevables pour l'autre, malgré des situations
+matérielles similaires (Howard, 2004).
+
+
+Plus encore, les discours sont productifs. Ils ne font pas qu'imposer des
+ornières à la pensée et aux perceptions, mais ils construisent directement la
+réalité en générant des sujets, des objets et des relations les liant. Par
+exemple, le discours sur le droit d'asile développé après la Seconde Guerre
+mondiale a créé les identités contemporaines de réfugiés et de terres
+d'accueil. Comme plusieurs discours, il a ensuite été institutionnalisé sous
+diverses formes, incluant des organisations, des règles juridiques et des
+normes sociales concernant les réfugiés (Hardy et Phillips, 1997).
+
+
+Plusieurs travaux en APE étudient la dimension performative des
+discours à travers le concept de sécurisation, développée par l'École de
+Copenhague autour de chercheurs comme Ole Waever (Buzan et al., 1998).
+Selon l'École de Copenhague, les dirigeants politiques construisent eux-
+mêmes la sécurité de l'État, ou plutôt son insécurité, par leurs discours.
+Sécuriser un objet est un acte de langage. De la même façon qu'un
+célébrant qui affirme « je vous déclare mari et femme » ne fait pas que
+décrire une situation, mais la transforme, un décideur public qui affirme que
+l'immigration ou les changements climatiques menacent la sécurité de
+l'État contribue à créer cette même menace.
+
+
+La sécurisation d'un objet ne le soustrait pas aux débats politiques pour
+autant. Parce que les discours assemblent différentes idées et qu'ils
+demeurent ambigus, ils sont susceptibles d'être modifiés par les acteurs.
+C'est leur dimension interactive qui s'ajoute à leur dimension substantive.
+Les discours privilégient certains acteurs, mais ils sont aussi des lieux de
+luttes et de conflits. Des significations sont contestées, d'autres
+revendiquées. Au fil de ces interactions, des éléments discursifs sont
+
+
+progressivement ajoutés, supprimés ou réinterprétés. Sous cette perspective,
+les discours ne sont pas le reflet approximatif de la société, mais les champs
+mêmes où les interactions sociales se produisent (Schmidt, 2008 et 2010).
+
+
+Les dirigeants politiques modifient parfois leurs propres discours pour
+rendre certaines politiques étrangères concevables ou acceptables. Ce fut le
+cas lors de la signature de l'Accord de libre-échange nord-américain
+(ALENA). Du point de vue américain, cet accord évoqua à la fois le
+discours paternaliste des États-Unis à propos de l'Amérique latine et le
+discours libéral sur les échanges mutuellement bénéfiques entre partenaires
+égaux. Pour articuler ces deux discours, il fut nécessaire d'intégrer une
+troisième composante portant sur la libéralisation comme vecteur de
+stabilité et de démocratie, permettant aux États-Unis de se représenter
+comme pourvoyeur de développement (Skonieczny, 2001).
+
+
+Les discours existants donnent ainsi un sens aux nouvelles articulations,
+qui produisent elles-mêmes de nouveaux discours. C'est ce qui explique
+que les discours se transforment plus qu'ils ne se succèdent et que leur
+généalogie peut remonter à des contextes complètement étrangers les uns
+des autres. Le discours sur la guerre contre le terrorisme est lui-même
+dérivé de discours sur la « guerre juste » formulés dès le Moyen Âge. Une
+fois reformulé et diffusé par l'administration de George W. Bush, il a
+ensuite été altéré par d'autres acteurs qui se le sont approprié, dont les
+nationalistes serbes en quête de justification pour leurs revendications. Par
+conséquent, on peut remonter la généalogie du discours du Parti radical
+serbe jusqu'au Pape Urbain II, un millénaire plus tôt, bien que l'un et
+l'autre n'aient plus rien de commun (Graham et al., 2004; Erjavec et
+Volcic, 2007).
+
+
+Certains discours peuvent même générer différentes branches qui
+s'opposent les unes les autres. Un discours sur les mesures internationales
+pour la conservation des baleines, par exemple, a mué en deux versions qui
+sont aujourd'hui opposées, l'une plaidant pour un moratoire international
+sur la pêche à la baleine et l'autre pour des activités de chasse coordonnées
+et durables (Epstein, 2008). Ces basculements et renversements sont
+relativement fréquents et constituent une particularité des discours. Alors
+que les normes, les identités et les rôles se renforcent généralement par des
+
+
+boucles de rétroaction positive qui assurent leur stabilité, les discours sont
+plus dynamiques et sujets au changement (Schmidt, 2008).
+
+
+Les méthodes d'analyse de discours
+
+
+Sur le plan méthodologique, l'analyse de discours en politique étrangère
+peut se saisir de différents types de matériau. Les discours peuvent
+apparaître sous différentes formes et dans différents registres, du plus
+technique au plus populaire.
+
+
+Certains chercheurs se limitent à l'analyse des allocutions qui ont été
+prononcées par des représentants de l'État. Parmi eux, plusieurs se
+concentrent sur les déclarations spontanées, comme les réponses aux
+questions des journalistes ou encore, les transcriptions des débats en
+commissions parlementaires. Ils y voient une façon de contourner
+l'influence des rédacteurs de discours et de se rapprocher plus directement
+des croyances authentiques des dirigeants politiques.
+
+
+D'autres, au contraire, recherchent les discours qui ont été attentivement
+articulés par des experts en communication, comme ceux que l'on retrouve
+dans les communiqués de presse. Ils reflètent mieux les stratégies
+rhétoriques que les décideurs souhaitent communiquer pour orienter les
+débats publics. Le choix dépend des objectifs du projet de recherche, mais il
+doit être soigneusement opéré. Les analyses comparées des déclarations
+spontanées et des allocutions que les mêmes dirigeants politiques ont lues à
+partir d'un texte écrit montrent des différences considérables (Guttieri et al.,
+1995; Schafer et Crichlow, 2000; Shannon et Keller, 2007).
+
+
+On peut aussi distinguer les discours politiques de communication et
+ceux de coordination. Les premiers sont destinés au public alors que les
+deuxièmes sont destinés aux autres décideurs publics. Ici encore, l'analyse
+indique qu'un même dirigeant politique ajuste significativement son
+discours à propos d'une même question de politique étrangère selon
+l'auditoire auquel il s'adresse (Schmidt, 2008).
+
+
+Cela dit, plusieurs analystes du discours ne se limitent pas aux
+déclarations des dirigeants politiques. Puisque les discours sont culturels, ils
+sont partagés par l'ensemble d'une communauté. Cette communauté peut
+
+
+être limitée à un ministère ou à un parti politique, mais elle peut également
+s'étendre à une civilisation. Plusieurs analystes retracent les discours
+relatifs à la politique étrangère véhiculés dans la culture populaire en
+travaillant, par exemple, à partir de romans, de bandes dessinées ou de
+manuels scolaires (Lipschutz, 2001; Hopf, 2002; Sjöstedt, 2007).
+
+
+Si la transcription écrite d'un discours peut faciliter son analyse, il faut
+néanmoins reconnaître que tous les discours ne s'expriment pas
+nécessairement par des mots. Des agencements, des pratiques, et des rituels
+sont des moyens non verbaux de communiquer et de générer un sens à
+propos de la compréhension que les acteurs se font d'eux-mêmes, de leur
+environnement et de leur conduite. Les parades militaires, les funérailles
+des soldats morts au combat, et la mise en scène organisée pour les photos
+des ministres à l'étranger sont également des discours communiqués par
+l'État. Des travaux sur la politique étrangère ont même analysé les discours
+véhiculés par des caricatures, des jeux vidéos, des photographies de presse
+et des films hollywoodiens. Tant Star Trek que Harry Potter ont été
+mobilisés avec succès pour mieux comprendre comment une société se
+représente elle-même, définit l'insécurité et conçoit la politique étrangère
+(Campbell, 2003 ; Weldes, 2003; Neumann et Nexon, 2006; Der Derian,
+2009).
+
+
+Ces différentes sources sont généralement analysées à travers leur
+intertextualité. Analyser l'intertextualité, c'est comparer différentes sources
+pour identifier leurs relations, qu'il s'agisse de filiation, d'opposition, de
+renversement ou d'enveloppement. C'est aussi relever dans le discours les
+traces d'autres univers de représentations. Cette démarche permet de cerner
+les contours d'un discours et de retracer son évolution.
+
+
+Plusieurs techniques permettent d'analyser l'intertextualité (Shapiro et
+al., 1988; Milliken, 1999; Mattern, 2001; Hardy et al., 2004; Hopf,
+2004; Laffey et Weldes, 2004). La majorité des analystes recourent à une
+approche interprétative. Plutôt que d'aborder les sources avec une grille
+prédéterminée, comme c'est généralement le cas en analyse de contenu, ils
+préfèrent explorer les textes sans autre guide que leur connaissance du
+contexte pour retracer de façon inductive les références intertextuelles et les
+origines d'un discours. C'est une méthode qui permet de prendre en compte
+les fragiles et mouvantes articulations entre les éléments du discours. C'est
+
+
+aussi une méthode qui permet de relever les références implicites et les
+éléments ignorés des discours. Certains analystes vont même jusqu'à
+imaginer un discours alternatif, fictif, mais néanmoins vraisemblable
+compte tenu du contexte, pour démontrer la fragilité du construit social
+d'un discours (Rowley et Weldes, 2008).
+
+
+Un nombre croissant de chercheurs, inspirés par des techniques de
+linguistique, recourent également à l'analyse lexicométrique. Plusieurs
+logiciels, comme Lexico, Alceste et SATO, offrent des outils statistiques
+permettant de décrire ou de comparer des textes volumineux à travers leur
+lexique. Ces outils peuvent être mobilisés, non seulement dans une
+démarche hypothético-déductive, mais également dans une démarche
+inductive. Les logiciels peuvent notamment identifier les champs lexicaux
+les plus fréquents et les plus spécifiques à un texte afin de guider par la
+suite les recherches intertextuelles et contextuelles (Nabers, 2009).
+
+
+Par exemple, une analyse comparative des communiqués de presse des
+ONG et des entreprises pharmaceutiques relatifs à l'exportation de
+médicaments vers les pays en développement, a permis d'établir que les
+ONG utilisent un lexique plus technique et juridique, avec une
+surreprésentation statistique de termes comme « amendement », « mise en
+œuvre » ou « règlement ». Ce premier constat a ensuite conduit les
+chercheurs à s'interroger sur l'origine de la technicité de ce discours et sur
+son impact sur la politique commerciale (Bubela et Morin, 2010; Morin,
+2010).
+
+
+Une autre approche consiste à concentrer l'analyse du discours sur les
+métaphores. Les métaphores sont des figures de style qui facilitent
+l'articulation entre différentes idées. Elles peuvent en évoquer plusieurs
+dans une grande économie de mots. La métaphore de la « course aux
+armements  exprime à la fois la rivalité entre les États, la rupture
+éventuelle de la stabilité par la proclamation d'un vainqueur et
+l'impossibilité de faire marche arrière. Celle d'États « voyous » implique
+qu'un ensemble de règles s'applique à toute la communauté internationale,
+qu'une minorité d'États y dérogent de manière récurrente, que ceux-ci ne
+sont motivés que leurs intérêts matériels, et qu'ils doivent être sanctionnés
+avant qu'ils ne perturbent l'ordre établi (Doty, 1993; Shimko, 1994;
+
+
+Chilton, 1996; Kuusisto, 1998; Paris, 2002 ; O'Reilly, 2007; Kornprobst
+et al., 2008; Flanik, 2011).
+
+
+Le recours à une métaphore plutôt qu'à une autre n'est pas sans
+conséquence. Bien qu'implicitement, chacune prescrit des comportements
+spécifiques. Lors de la guerre froide, il était jugé nécessaire d'intervenir en
+Asie puisque seule une force extérieure pouvait contrer « la chute des
+dominos » et contrebalancer la pression communiste. Inversement, au début
+des années 1990, on jugeait inutilement dangereux d'intervenir dans les
+Balkans, puisque les conflits dans cette « poudrière » sont historiquement
+déterminés par des facteurs intrinsèques (Kuusisto, 1998).
+
+
+En fait, les métaphores structurent si puissamment la pensée qu'elles
+génèrent parfois les réalités que leurs auteurs prétendent simplement
+évoquer. L'expression de la « guerre contre la drogue » utilisée par le
+président Nixon a précédé plutôt que reflété les interventions militaires
+visant à comprimer l'offre de stupéfiants venant des pays latino-américains.
+L'administration Obama a d'ailleurs abandonné cette expression pour
+marquer sa détermination à aborder le problème des stupéfiants sous le
+prisme de la santé publique. C'est la reconnaissance que les métaphores,
+comme tous discours, ne sont pas que des mots qui reflètent la réalité, mais
+qu'elles produisent elles-mêmes la réalité (Whitford et Yates, 2009).
+
+
+Somme toute, analyser les discours pour mieux comprendre la politique
+étrangère n'est pas une nouvelle méthode. Elle était employée par les
+tenants de l'approche cognitiviste dès les années 1960. Ce qui l'est
+davantage, c'est cette reconnaissance que les discours, et la culture dans son
+ensemble, construisent la réalité. Plus de 25 ans après l'émergence du
+constructivisme en relations internationales, il s'agit encore d'une idée
+provocatrice, qui soulève toujours des controverses épistémologiques et
+méthodologiques. Les débats présentés dans ce chapitre en sont le reflet,
+notamment ceux sur l'internalisation des normes, la production de l'identité
+par la politique étrangère, la capacité prédictive des rôles sociaux,
+l'approche réflexive des théories féministes, la prise en compte des
+pratiques dans la définition de la culture organisationnelle, et
+l'interprétation en analyse de discours. Comme nous le voyons dans le
+prochain chapitre, les débats sur l'influence des acteurs sociaux en politique
+étrangère sont d'une tout autre nature, à la fois plus empirique et normative.
+
+
+Chapitre 5
+
+
+Les acteurs sociaux
+
+
+DANS UN ARTICLE REMARQUÉ, Andrew Moravcsik rappelle que la
+particularité des théories libérales en relations internationales est « de
+prendre les préférences au sérieux » (1997). Selon ces théories, les intérêts
+que l'État défend sur la scène internationale n'émanent pas de l'esprit de
+ses dirigeants ou de la nature du système international. Ils résultent plutôt
+des préférences des acteurs sociaux. Pour Moravcsik, le premier postulat
+des théories libérales est « la primauté des acteurs sociaux ».
+
+
+Plusieurs acteurs sociaux influencent ou tentent d'influencer la politique
+étrangère. Les ONG, les firmes, les médias, les minorités ethniques, les
+syndicats et les experts exercent tous une certaine pression sur l'État. Ils
+interagissent également les uns avec les autres : ils s'échangent de
+l'information, créent des coalitions et s'adaptent continuellement à leur
+environnement.
+
+
+L'État lui-même ne fait pas que recevoir passivement leurs doléances. Il
+intervient dans ces dynamiques sociales et tente lui aussi d'influencer les
+acteurs sociaux. Le tissu social est formé de flux d'influence bidirectionnels
+qui se chevauchent les uns aux autres pour former un enchevêtrement
+complexe.
+
+
+Prendre conscience de cette complexité permet de nuancer plusieurs lieux
+communs. On entend parfois que les électeurs s'intéressent peu aux
+relations internationales, qu'un nombre élevé de morts au combat est
+suffisant pour plomber l'appui du public envers une intervention armée, que
+les politiciens impopulaires exploitent les crises internationales pour
+détourner l'attention des problèmes nationaux, que l'opinion publique réagit
+de façon impulsive aux images transmises par la télévision, que les ONG
+sont par nature faibles et altruistes alors que les firmes sont puissantes et
+
+
+égoïstes, et que l'influence des experts est limitée aux questions techniques.
+Ce chapitre examine tour à tour chacun de ces lieux communs.
+
+
+L'opinion publique
+
+
+L'opinion publique est constamment sondée. Les sondages rapportés
+dans la presse ne constituent qu'une infime sélection. Plusieurs autres
+résultats sont librement accessibles, notamment via les bases de données du
+Roper Center, du Program on International Policy Attitudes, du Pew
+Research Center ou de l'Eurobaromètre de la Commission européenne.
+Mais ici encore, il ne s'agit que d'une fraction des sondages réalisés. Les
+dirigeants politiques eux-mêmes commandent des séries d'enquêtes
+d'opinion dont les résultats ne sont jamais divulgués.
+
+
+Selon Pierre Bourdieu, « l'opinion publique n'existe pas » (1972). Par
+cette formule provocante, Bourdieu souligne que les répondants n'ont pas
+nécessairement une opinion structurée, a priori, et que ce sont les questions
+qui forgent les réponses. Même en adoptant ce point de vue, il n'en
+demeure pas moins que les décideurs publics sont bombardés de résultats de
+sondage que l'on présente comme le reflet de l'opinion publique qui
+existerait bel et bien. Or, on peut légitimement se demander si une telle
+avalanche de sondage qui déferle sur leur bureau exerce une influence
+déterminante sur leur conduite de la politique étrangère.
+
+
+Le consensus Almond-Lippmann et ses critiques
+
+
+La recherche sur l'influence de l'opinion publique en politique étrangère
+a significativement évolué depuis quelques décennies. En fait, elle a opéré
+un virage à 180 degrés. Ce n'est pas que l'opinion publique, les techniques
+de sondage ou le processus de prise de décision aient radicalement changé
+de nature. Ce sont plutôt de nouvelles méthodes d'analyse et de nouvelles
+questions de recherche qui ont conduit les analystes à modifier leurs
+conclusions sur la nature de l'opinion publique et l'influence des sondages
+d'opinion (Holsti, 1992 et 1996).
+
+
+Jusqu'aux années 1970, la majorité des analystes posaient un regard
+sévère sur l'opinion publique. Elle était perçue comme incohérente, volatile
+et capricieuse. Plusieurs jugeaient dangereux de laisser les sondages
+d'opinion guider la politique étrangère. Selon les thèses dominantes de
+l'époque, l'opinion publique retarderait inutilement l'intervention des
+gouvernements dans les situations explosives et les pousserait à s'enliser
+profondément dans des conflits perdus d'avance. Elle serait, en somme,
+<< trop pacifique en période de paix et trop belliqueuse en temps de guerre »
+(Lippmann, 1955, р. 20).
+
+
+Alexis de Tocqueville et plusieurs de ses contemporains considéraient
+déjà que les rênes de la politique étrangère devaient être confiées à des
+mains expertes. La politique étrangère serait trop complexe pour être
+abandonnée à des citoyens plus préoccupés par leurs problèmes immédiats
+et quotidiens. Elle exigerait, en outre, des tractations secrètes qui ne
+peuvent être débattues sur la place publique. Cette position élitiste a teinté
+plusieurs constitutions qui font de la politique étrangère le domaine réservé
+du chef de l'État, limitant du même coup les prérogatives des
+parlementaires, plus vulnérables aux sauts d'humeur de l'opinion publique.
+
+
+Les théoriciens réalistes classiques partageaient largement cet avis
+(Nincic, 1992). Au lendemain de la Seconde Guerre mondiale, plusieurs
+notaient avec inquiétude l'appétit croissant des décideurs comme Roosevelt
+pour les sondages, la redoutable capacité des leaders charismatiques comme
+Hitler à mobiliser les foules, et la naïveté de l'opinion comme celle de la
+France qui se croyait protégée par la ligne Maginot. Pour Hans Morgenthau,
+« une politique étrangère fructueuse ne peut s'appuyer sur l'opinion
+publique, dont les préférences sont émotives plutôt que rationnelles » (2005
+[1948], p. 565). George Kennan alla encore plus loin :
+
+
+<< Je me demande parfois si, dans ce domaine, la démocratie n'est pas
+curieusement similaire à l'un de ces monstres préhistoriques avec un corps
+long comme cette pièce, mais un cerveau de la taille d'une épingle. Il reste
+là, dans sa boue primitive, sans vraiment porter attention à son
+environnement. Il réagit lentement. Il faut pratiquement lui frapper la
+queue pour lui faire réaliser que ses intérêts sont menacés. Mais une fois
+qu'il a saisi cette information, il se met dans une colère si aveugle, qu'il ne
+détruit pas seulement son adversaire, mais aussi son propre habitat. »
+
+
+(Kennan, 1951, in Holsti, 2004,  . 31-32)
+
+
+Depuis Morgenthau et Kennan, toutefois, la majorité des théoriciens
+réalistes n'intègrent pas l'opinion publique, aussi néfaste soit-elle, à leur
+conceptualisation des relations internationales. Malgré leur rejet de
+l'idéalisme et leur attachement à dépeindre les relations internationales
+comme elles apparaissent réellement, leur aversion pour l'opinion publique
+les conduit à ignorer cette variable. L'idée voulant que l'opinion publique
+ait un potentiel de nuisance et celle voulant qu'elle n'ait pas de réelle
+influence se confondent étrangement dans la tradition réaliste.
+
+
+D'autres chercheurs, qui n'appartiennent pas au courant réaliste, ont
+analysé le problème de l'opinion publique plus sérieusement, en l'abordant
+de front. Le politologue Gabriel Almond fut l'un des premiers à étayer
+empiriquement la thèse de la volatilité de l'opinion publique. En étudiant
+les sondages bisannuels de la maison Gallup, et plus particulièrement le
+classement des enjeux les plus importants selon la population américaine, il
+constata que l'opinion publique semblait incapable de maintenir des
+préférences stables et une attention continue (1950). Avec sa  théorie de
+l'humeur », Almond rejoignit les conclusions du journaliste Walter
+Lippmann qui avait déjà relevé le manque de discernement de l'opinion
+publique lors de la Première Guerre mondiale et de la révolution russe.
+Ensemble, ils forgèrent les bases empiriques ce que l'on appelle le
+<< consensus Almond-Lippmann » sur la volatilité de l'opinion publique.
+
+
+Ce n'est pas parce que l'opinion publique est différente de celle de l'élite
+qu'elle est nécessairement radicale ou insensée. À l'époque de la guerre du
+Vietnam, alors que les sondages indiquaient une opposition croissante à la
+politique étrangère américaine, quelques études mirent en doute le
+consensus Almond-Lippmann. Sidney Verba et son équipe, notamment,
+montrèrent que l'opinion publique américaine affichait un certain degré de
+complexité, de nuance et de modération en s'opposant à la fois à un retrait
+unilatéral du Vietnam et à un engagement accru, mais en privilégiant la
+négociation avec le Viêt-Cong (Verba et al., 1967).
+
+
+Robert Shapiro et Benjamin Page mirent résolument un terme au
+consensus Almond-Lippman (1988). En analysant des milliers de sondages,
+ils identifièrent plusieurs centaines de questions qui ont été posées plus
+
+
+d'une fois à des échantillons de la population américaine. Ils constatèrent
+alors que l'opinion publique américaine, loin d'être instable, demeure
+relativement constante. Entre 1930 et 1990, 73% des réponses aux
+questions posées au moins deux fois avaient fluctué de moins de 10%. Plus
+encore, lorsque l'opinion publique s'est brusquement retournée, c'était
+systématiquement en réponse à de nouvelles informations. Page et Shapiro
+en conclurent que l'opinion publique est plus rationnelle qu'incohérente,
+une conclusion qui demeure aujourd'hui partagée par la majorité des
+analystes (Russett, 1990; Holsti, 1992 ; Knopf, 1998; Isernia et al., 2002 ;
+La Balme, 2002; Colaresi, 2007; Ripberger et al., 2011).
+
+
+Si le consensus Almond-Lippmann est aujourd'hui largement abandonné
+par les analystes, un constat demeure néanmoins : les préférences révélées
+par les sondages d'opinion sont distinctes de celles exprimées par l'élite.
+Dans plusieurs pays arabes, l'opinion publique prône des politiques plus
+agressives envers Israël que ses dirigeants (Telhami, 1993). En Suisse,
+l'opinion publique est résolument plus isolationniste que ses représentants
+politiques (Marquis et Sciarini, 1999). Aux États-Unis, l'opinion publique
+privilégie des politiques commerciales plus mercantilistes que l'élite
+républicaine et démocrate attachée au libéralisme (Herrmann et Tetlock,
+2001). Sur certaines questions fondamentales de politique étrangère, l'écart
+entre l'opinion majoritaire de la population et celle exprimée par l'élite
+intellectuelle, médiatique et économique peut même atteindre 50 points de
+pourcentage (Oldendick et Bardes, 1982; Cunningham et Moore, 1997;
+Page et Barabas, 2000; Dolan, 2008; Ripberger et al., 2011).
+
+
+La structure de l'opinion publique
+
+
+L'opinion publique est relativement stable parce qu'elle est structurée sur
+des axes qui le sont également. Pour certains, l'axe gauche-droite, bien
+connu pour structurer l'opinion publique à propos des politiques sociales et
+économiques, serait également pertinent en politique étrangère (Aguilar et
+al., 1997). Mais ce n'est pas toujours le cas. Dans plusieurs régions du
+monde, par exemple, l'anti-américanisme n'est pas plus l'apanage de la
+droite que de la gauche (Katzenstein et Keohane, 2007).
+
+
+De façon générale, les opinions sur la politique étrangère se déclinent
+plus aisément sur des axes qui lui sont propres. Eugene Wittkopf a ainsi
+conceptualisé deux axes spécifiques à la politique étrangère : un premier
+opposant l'internationalisme à l'isolationnisme, et un deuxième, opposant la
+conciliation à l'action militante (1990). Cette structure à deux dimensions a
+été testée avec succès à la fois par Wittkopf à partir des sondages réalisés
+par le Chicago Council on Global Affairs et par Ole Holsti et James
+Rosenau à partir de sondages ciblant spécifiquement l'élite (1990). D'autres
+études ont ensuite complexifié l'analyse en ajoutant d'autres axes, comme
+un troisième, opposant unilatéralisme et multilatéralisme (Citrin et al.,
+1994; Chittick et al., 1995; Rosati et Creed, 1997; Bjereld et Ekengre,
+1999; Jenkins-Smith et al., 2004; Reifler et al., 2011). Dans tous les cas, il
+semble bien que l'opinion publique soit structurée et qu'elle s'articule sur
+des axes relativement stables.
+
+
+Si le positionnement des répondants sur ces axes est stable, on pourrait
+croire que les variables qui influencent les répondants le soient également.
+Sur cette question, plusieurs pistes sont explorées. Quelques travaux
+étudient l'impact des variables psychologiques sur l'opinion, comme le
+degré de confiance en la nature humaine (Brewer et Steenbergen, 2002;
+Binning, 2007) ou le degré de tolérance au risque (Mayda et Rodrik, 2005;
+Ehrlich et Maestas, 2010). Ces variables étant stables chez les individus,
+déterminés en partie par des facteurs génétiques, elles contribuent à
+expliquer la stabilité de l'opinion publique.
+
+
+D'autres travaux se penchent plutôt sur des variables culturelles, comme
+l'identité nationale (Schoen, 2008), la religion (Wuthnow et Lewis, 2008),
+la sensibilité culturelle (Hill, 1993), l'image des autres pays (Hurwitz et
+Peffley, 1990) et la proximité culturelle (Sulfaro et Crislop, 1997). Ici
+encore, la stabilité de la culture contribue à la stabilité de l'opinion
+publique.
+
+
+Deux modèles théoriques conceptualisent les relations entre ces variables
+psychologiques et sociales. Hurwitz et Peffley (1987) ont développé un
+modèle hiérarchique à trois niveaux : les préférences de politique étrangère
+reposent sur des normes sociales qui elles-mêmes s'appuient sur des valeurs
+personnelles. Par exemple, une position favorable à l'accroissement des
+sommes allouées à l'aide au développement peut découler d'une norme en
+
+
+faveur du devoir d'ingérence en cas de crise humanitaire, et celle-ci peut
+être véhiculée par ceux qui ont un degré de compassion élevé.
+
+
+Richard Herrmann, Philip Tetlock et Penny Visser (1999) proposent
+plutôt un modèle cognitiviste-interactionniste. Pour eux, les préférences de
+politique étrangère exprimées dans les sondages sont les résultats
+d'interactions constantes et systématiques entre les dispositions propres aux
+répondants et les perceptions sociales dominantes à propos du contexte
+international. Par exemple, l'identification personnelle au conservatisme et
+la perception généralisée du déclin du statut national peuvent s'amplifier
+l'une et l'autre pour générer une opinion forte en faveur d'investissements
+militaires accrus.
+
+
+D'autres études adoptent une approche plus rationaliste et établissent un
+lien direct entre les intérêts et les préférences des répondants. La majorité
+d'entre elles portent sur les politiques commerciales pour lesquels les
+intérêts matériels sont plus faciles à déduire. Elles soulignent notamment la
+concordance entre le niveau de compétence des travailleurs et leur appui au
+libre-échange. Plus les travailleurs sont spécialisés, plus ils peuvent profiter
+de la libéralisation et plus ils appuient effectivement les politiques
+commerciales libérales. Aux États-Unis, il y a même une relation statistique
+entre la consommation de biens importés et l'appui au libre-échange. Ces
+travaux suggèrent que les répondants sont étonnamment capables
+d'identifier leur intérêt économique, à la fois comme travailleurs et comme
+consommateurs (Scheve et Slaughter, 2001; Kaltenthaler et al., 2004;
+Baker, 2005; Fordham, 2008).
+
+
+Ces variations dans les gains économiques que les citoyens tirent de la
+mondialisation peuvent avoir des conséquences sur les autres domaines de
+la politique étrangère (Trubowitz, 1992). Le niveau d'éducation et
+d'exposition aux médias n'entraîne pas directement une sensibilité plus
+grande envers l'étranger. Tout dépend, bien entendu, du type d'éducation et
+de médias (Gentzhow et Shapiro, 2004; Mansfield et Mutz, 2009). Mais
+lorsque des individus tirent des gains économiques de la mondialisation, on
+peut supposer qu'ils sont davantage informés du contexte politique des pays
+étrangers et sensibilisés aux cultures étrangères. Ainsi, en Chine, la classe
+moyenne émergente est à la fois moins nationaliste et moins hostile envers
+l'Occident (Johnston, 2006).
+
+
+L'information affecte également l'appui aux interventions militaires à
+l'étranger. Le nombre de morts au combat, notamment, peut avoir un
+impact déterminant sur l'opinion publique. Ceteris paribus, plus le nombre
+de victimes augmente, plus l'appui à la guerre diminue. Mueller a même
+identifié une fonction logarithmique selon laquelle un petit nombre de
+morts dans les premières étapes d'un conflit provoquerait un déclin massif
+de l'appui public (Mueller, 1973 et 1994; Marra et al., 1990; Gartner et
+Segura, 1998; Koch et Gartner, 2005; Karol et Miguel, 2007 ; Gartner,
+2011).
+
+
+La relation entre le nombre de morts et l'appui public n'est toutefois pas
+directe ni linéaire. L'opinion publique peut parfois tolérer un nombre de
+victimes élevé et maintenir son appui à la guerre. Parmi les conditions
+affectant le degré de sensibilité de l'opinion aux morts au combat, on peut
+évoquer : 1) la probabilité qu'une conscription soit imposée ; 2) le cadre
+multilatéral de la mission; 3) la sévérité de la menace que représente
+l'ennemi; 4) les chances de succès militaire ; 5) et la cohésion de l'élite en
+faveur de l'intervention militaire. Tout indique que l'opinion publique
+puisse prendre en compte plusieurs critères (Jentleson, 1992; Downs et
+Rocke, 1994; Larson, 1996; Oneal et al., 1996; Powlick et Katz, 1998;
+Kull et Destler, 1999; Kull, 2002; Baum, 2004; Feaver et Gelpi, 2004;
+Gelpi et al., 2009; Eichenberg, 2005; Vasquez, 2005; Boettcher et Cobb,
+2006; Baum et Groeling, 2010 ; Horowtiz et al., 2011 ; Grieco et al., 2011 ;
+Perla, 2011).
+
+
+L'influence de l'opinion publique
+
+
+Une question demeure toutefois en suspens : l'opinion publique, aussi
+stable, nuancée et cohérente soit-elle, influence-t-elle la politique
+étrangère ? Il semble bien que la réponse soit affirmative. Du moins, dans
+les démocraties occidentales, l'opinion publique et la politique étrangère
+sont généralement en concordance. De plus, lorsque l'opinion publique
+bascule, ce changement est habituellement suivi par une modification de la
+politique étrangère (Monroe, 1979 et 1998; Page et Shapiro, 1983; Hartley
+et Russett, 1992; Foyle, 1999 ; Rottinghaus, 2007).
+
+
+Il ne s'agit toutefois pas d'une influence absolue, systématique et
+immédiate. Plusieurs exemples illustrent bien que l'opinion publique n'est
+pas toujours prise en compte. L'Italie et l'Espagne ont ainsi participé à la
+guerre en Irak dès 2003, malgré l'opposition de leur opinion publique
+(Schuster et Maier, 2006; Chan et Safran, 2006). D'un autre côté, tant
+l'Italie que l'Espagne se sont retirées d'Irak à la suite d'élections ayant
+mené au pouvoir des partis qui s'étaient clairement engagés à le faire.
+
+
+Pour la majorité des analystes, c'est précisément la perspective des
+élections qui exerce une pression auprès des représentants élus pour qu'ils
+tiennent compte de l'opinion publique. Contrairement à une idée reçue, la
+politique étrangère peut jouer un rôle déterminant dans les élections lorsque
+des différences marquées opposent les candidats. Plusieurs électeurs, même
+parmi ceux qui n'accordent pas une attention soutenue à l'actualité
+internationale, ont des opinions tranchées sur la conduite de la politique
+étrangère. Certes, ils ne s'intéressent pas tous aux mêmes questions.
+Certains sont préoccupés par l'immigration, d'autres par la lutte contre le
+terrorisme, et d'autres encore par les négociations sur la réduction des gaz à
+effet de serre. Mais lorsque tous ces groupes d'électeurs attentifs à un enjeu
+ou un autre de politique étrangère sont cumulés, leur impact sur l'issue d'un
+scrutin peut être déterminant (Aldrich et al., 1989 et 2006 ; Meernik, 1995 ;
+Baum, 2002; Anand et Krosnick, 2003; Reifler et al., 2011).
+
+
+Les analystes s'entendent également sur le type d'influence que l'opinion
+publique exerce en politique étrangère. Il est assez rare que l'opinion
+publique conduise les décideurs à adopter des politiques précises. L'opinion
+publique fixe plutôt des paramètres à l'intérieur desquels toute une gamme
+de politiques peuvent être jugées acceptables. Si la pression de l'opinion
+publique est insuffisante pour empêcher un gouvernement d'entrer en
+guerre, elle peut néanmoins forcer ce gouvernement à tenter de créer une
+coalition multilatérale ou lui interdire dès le départ le recours aux armes de
+destruction massive. Comme le conceptualise la théorie cybernétique
+présentée dans un chapitre précédent, l'opinion publique canalise les
+options disponibles sans en imposer une particulière (Russett, 1990;
+Hinckley, 1992; Jacobs et Shapiro, 2000; Sobel, 2001; Foyle, 2004;
+Fordham, 1998)
+
+
+Cette force canalisatrice de l'opinion contribue à la stabilité de la
+politique étrangère. Lorsqu'un gouvernement favorise un virage
+isolationniste et protectionniste, l'opinion publique exercera une pression en
+faveur de politiques internationalistes et libérales. Mais lorsqu'un
+gouvernement suivant prônera l'internationalisme et le libéralisme, il est
+probable que l'opinion publique le ramène vers davantage d'isolationnisme
+et de protectionnisme. Ce serait une force d'opposition plutôt que de
+proposition (Nincic, 1988).
+
+
+Alors que l'influence de l'opinion publique sur la politique étrangère est
+maintenant bien attestée, la recherche se concentre maintenant sur les
+conditions qui amplifient cette influence, ou au contraire la réduisent. Trois
+catégories de variables intermédiaires ont été identifiées, bien qu'aucune ne
+soit encore fermement établie.
+
+
+La première catégorie porte sur l'indépendance de l'État. Tant
+l'indépendance interne que l'indépendance externe peuvent avoir un impact
+sur l'influence de l'opinion publique. Sur le plan externe, un État qui est
+indépendant économiquement ou militairement de l'extérieur et qui est peu
+intégré dans les institutions internationales risque d'être plus sensible aux
+pressions de l'opinion publique. Sur le plan interne, un État
+institutionnellement décentralisé, pénétré par des réseaux sociaux et faisant
+face à une société homogène sera lui aussi plus sujet à l'influence de
+l'opinion publique (Risse-Kappen, 1991; Chan et Safran, 2006; Alons,
+2007; Kreps, 2010).
+
+
+La deuxième catégorie de variable intermédiaire est liée à la visibilité. En
+effet, certaines questions attirent davantage l'attention du public que
+d'autres. Sans surprise, l'influence de l'opinion publique est plus marquée à
+propos de la ratification d'un traité multilatéral ou de la participation à un
+conflit armé que sur la gestion des stocks de thon de l'Atlantique Nord ou
+l'exportation de déchets dangereux (Monroe, 1998; Petry et Mendelsohn,
+2004). La phase du processus de prise de décision est également
+déterminante sur le niveau de visibilité. L'influence de l'opinion publique
+est accrue lors des phases qui attirent l'attention du public, comme la mise à
+l'ordre du jour, alors qu'elle est réduite lors de la mise en œuvre (Knecht et
+Weatherford, 2006).
+
+
+La troisième et dernière catégorie de variables intermédiaires est propre
+aux croyances des décideurs politiques. Deux types de croyance importent,
+l'une normative et l'autre stratégique. D'abord, un dirigeant peut considérer
+qu'il a le devoir moral de prendre en compte l'opinion de sa population.
+Ensuite, un dirigeant peut juger que l'appui du public est une condition
+nécessaire au succès d'une politique étrangère. Ces deux croyances peuvent
+significativement accentuer l'influence de l'opinion publique. Elles
+contribuent même à expliquer que l'opinion publique ait une certaine
+influence dans des régimes autocratiques qui ne sont pourtant pas soumis à
+la pression des élections (Powlick, 1991 et 1995; Telhami, 1993; Foyle,
+1999; Hermann et al., 2001; Keller, 2005 ; Dyson, 2007 ; Forster et Keller,
+2010).
+
+
+Les dirigeants politiques peuvent toutefois mal interpréter l'opinion
+publique. Les présidents américains, par exemple, ont tendance à surestimer
+la sensibilité de l'opinion au nombre de soldats morts au combat et à sous-
+estimer son attachement aux normes et aux procédures multilatérales. Les
+États-Unis se sont ainsi retirés du Liban, en 1984, après qu'une attaque ait
+tué 241 soldats américains, craignant une vive réaction de l'opinion
+publique. Or, l'analyse rétrospective indique que, lors de cet événement, la
+chute du soutien de l'opinion publique n'était en rien inéluctable (Burk,
+1999; Kull et Destler, 1999; Kull et Ramsay, 2000).
+
+
+La diversion
+
+
+Dans certains cas, les dirigeants ne font pas qu'anticiper l'opinion
+publique : ils l'orientent. Du moins, ils investissent des efforts considérables
+pour l'orienter. Certains diplomates reconnaissent volontiers qu'ils
+consacrent autant d'énergie à convaincre la population de leur propre pays
+que les représentants des pays étrangers.
+
+
+Pour y parvenir, ils peuvent notamment articuler un discours mobilisateur
+en s'appuyant sur des principes partagés ou en suscitant un climat de peur
+(Western, 2005; Wolfe, 2008). Ils peuvent également mettre sur pied des
+programmes visant à convaincre les plus réticents, comme des programmes
+d'assurance emploi ou de reconversion industrielle pour favoriser l'appui au
+
+
+libre-échange (Ruggie, 1982; Bates et al., 1991; Rodrik, 1998; Hiscox,
+2002; Hays et al., 2005).
+
+
+On ne sait toutefois pas avec assurance si ces investissements portent
+leurs fruits. Certaines études indiquent qu'il s'agit d'efforts vains (Edwards,
+2003) alors que d'autres concluent que l'opinion publique est
+essentiellement guidée par l'élite politique (Herman et Chomsky, 1988;
+Witko, 2003).
+
+
+En fait, la majorité des travaux qui explorent la capacité réelle des
+décideurs à influencer l'opinion publique se concentrent sur une hypothèse
+bien spécifique, celle de « la politique étrangère comme diversion », qui
+s'appuie sur le phénomène de « ralliement au drapeau ».
+
+
+Le ralliement au drapeau
+
+
+Depuis les travaux pionnier de John Mueller (1973), il est bien établi que
+les événements dramatiques qui projettent un pays sur la scène
+internationale créent un effet temporaire de ralliement de la population de
+ce pays autour de son chef de gouvernement. L'attaque de l'Argentine sur
+les Îles britanniques malouines, par exemple, gonfla significativement le
+taux d'appui à Margaret Thatcher. L'effet dura suffisamment longtemps
+pour que la guerre des Malouines favorise la réélection de Thatcher en 1983
+(Lai et Reiter, 2005). C'est un phénomène que Mueller baptisa « le
+ralliement au drapeau ».
+
+
+Le << ralliement au drapeau » le plus impressionnant est certainement
+celui dont bénéficia le président George W. Bush au lendemain des attentats
+terroristes du 11 septembre 2001. Alors que le pourcentage d'opinion
+favorable à Bush était de 51% le 10 septembre, il bondit à 86 % le
+15 septembre et atteint même le sommet de 90% le 21 septembre
+(Hetherington et Nelson, 2003). Cette hausse drastique contribua à
+l'adoption quasi unanime par le Congrès de deux résolutions conférant au
+Président des pouvoirs remarquablement étendus pour sa lutte contre le
+terrorisme (Kassop, 2003).
+
+
+Les attaques ne sont pas les seuls événements susceptibles de provoquer
+un « ralliement au drapeau ». L'élément déclencheur peut être un
+
+
+événement dans n'importe quel domaine d'activité, positif ou négatif, subit
+ou initié, pour autant qu'il soit bien identifié, qu'il ait des implications
+majeures et qu'il soit soudain. Une avancée scientifique majeure, l'accueil
+d'un sommet international, une victoire sportive, une crise boursière ou une
+visite diplomatique importante peuvent tous générer un effet de ralliement
+(Mueller, 1973 ; Marra et al., 1990).
+
+
+La nature du régime politique ne semble pas être un facteur déterminant.
+Certes, le phénomène est particulièrement bien documenté aux États-Unis
+en raison de la richesse des données disponibles. Depuis la Seconde Guerre
+mondiale, la maison de sondage Gallup a mené des milliers de sondages sur
+l'appui au président américain en utilisant toujours les mêmes formulations
+de questions. Ces données permettent aujourd'hui aux chercheurs de
+documenter les moindres fluctuations dans l'opinion publique. Mais le
+phénomène du ralliement est également observable dans les systèmes
+parlementaires (Lai et Reiter, 2005) et même dans les autocraties (Heldt,
+1999; Pickering et Kisangani, 2005).
+
+
+D'autres facteurs contextuels, toutefois, peuvent amplifier « le ralliement
+au drapeau ». Aux États-Unis, du moins, il peut être magnifié si le Président
+n'a qu'un faible taux d'appui avant que l'événement dramatique ne
+survienne, si les républicains et les démocrates collaborent, si le pays n'est
+pas déjà engagé dans une guerre, si la couverture médiatique de
+l'événement est abondante, si le Président semble prendre suffisamment de
+risque pour mettre sa carrière en jeu, et si le Conseil de sécurité appuie la
+réponse américaine à la crise (Lian et Oneal, 1993 ; Ostrom et al., 1996 ;
+Baker et Oneal, 2001; Baum, 2002; Chapman et Reiter, 2004; Colaresi,
+2007; Groeling et Baum, 2008).
+
+
+Ces variables contextuelles ont un impact sur l'ampleur du ralliement,
+mais on n'en connaît pas exactement les raisons. Une incertitude subsiste à
+propos des processus causaux qui lient les événements dramatiques à la
+hausse de l'appui pour le chef de gouvernement. Pour certains, ce serait
+d'abord et avant tout une réaction patriotique de la population. Les
+événements dramatiques rehausseraient le sentiment d'appartenance à
+l'identité nationale, générant non seulement un appui accru pour le chef du
+gouvernement, mais aussi pour l'ensemble des institutions politiques
+nationales (Mueller, 1973; Parker, 1995).
+
+
+Pour d'autres, le phénomène de ralliement est plutôt le résultat du cycle
+des nouvelles. Lorsqu'une crise survient, les journalistes se tournent
+d'abord vers le chef de gouvernement, bénéficiant temporairement du
+monopole de l'interprétation. Ce n'est qu'ensuite que des critiques sont
+formulées, qu'elles sont relayées dans les médias et que l'effet de ralliement
+s'estompe (Brody, 1991; Oneal et al., 1996; Baum et Groeling, 2010).
+Mais, indépendamment de l'explication causale, si les crises internationales
+entraînent un accroissement du taux d'appui, les chefs de gouvernement
+pourraient être tentés d'en générer délibérément.
+
+
+La tentation de la guerre comme levier de ralliement
+
+
+Plusieurs analyses ont émis l'hypothèse que les dirigeants politiques aient
+davantage tendance à générer une crise internationale lorsqu'ils se trouvent
+dans une position fragile sur la scène politique nationale. Un conflit armé
+pourrait être déclaré dans l'intention de détourner l'attention de difficultés
+économiques ou de scandales politiques. Sous cette perspective, c'est
+l'instabilité politique interne qui serait un des premiers facteurs de
+l'instabilité des relations internationales.
+
+
+Les études de cas historiques sur la politique étrangère comme stratégie
+de diversion politique sont nombreuses. L'impérialisme de Bismarck à
+l'époque de la Conférence de Berlin et l'offensive de Guillaume II lors de la
+Première Guerre mondiale pourraient s'expliquer par la volonté de contrer
+les mouvements socialistes en Allemagne impériale (Kaiser, 1983). La
+mission de sauvetage particulièrement risquée des otages américains
+retenus à Téhéran pourrait avoir été approuvée par Jimmy Carter dans
+l'objectif de rehausser sa stature six mois avant l'élection présidentielle
+(Brulé, 2005). De même, les bombardements au Soudan et en Afghanistan,
+ordonné par Clinton le 20 aout 1998, peuvent être interprétés comme des
+tentatives pour détourner l'attention de son témoignage devant un grand
+jury, trois jours plus tôt, à propos de ces relations extraconjugales avec
+Monica Lewinsky (Hendrickson, 2002).
+
+
+Cependant, chacun de ces cas est complexe. Établir un véritable lien de
+causalité entre les difficultés politiques internes et la politique étrangère
+belliqueuse est ardu. Les interventions militaires sont multicausales et
+
+
+évaluer l'influence relative d'un facteur particulier lorsque l'on étudie un
+seul cas s'avère souvent impossible. En analysant plusieurs cas, par contre,
+on peut plus facilement isoler les variables et les comparer les uns aux
+autres. La statistique ne permet pas de retracer tous les processus causaux,
+mais permet d'identifier des relations significatives.
+
+
+Or, les travaux statistiques sur l'hypothèse de la politique étrangère
+comme stratégie de diversion sont plus mitigés que les études de cas (Levy,
+1988). Quelques études statistiques indiquent bien que les chefs de
+gouvernement recourent davantage à la force armée lorsque le taux de
+chômage ou le taux d'inflation est élevé ou que le taux de croissance
+économique est faible. D'autres études ajoutent que, en période de
+difficultés économiques ou en temps de guerre, les chefs de gouvernement
+qui sont candidats à un autre mandat intensifient le recours à la force à la
+veille des élections. D'autres encore révèlent que les chefs de gouvernement
+qui tentent de stimuler leurs appuis internes par des actions externes sont
+ceux qui ne disposent pas suffisamment de ressources pour utiliser les
+politiques de redistribution ou suffisamment de pouvoir pour utiliser la
+répression pour arriver aux mêmes fins (Stoll, 1984; Russett, 1990; James
+et Oneal, 1991; Lian et Oneal, 1993; Richards et al., 1993; Downs et
+Rocke, 1994; Hess et Orphanides, 1995; Miller, 1995; Meernik et
+Waterman, 1996; Wang, 1996; Gelpi, 1997; Fordham, 1998 et 2002;
+Gaubatz, 1999; Heldt, 1999; Morgan et Anderson, 1999 ; DeRouen, 2000 ;
+Prins, 2001; Baum, 2004; Clark et Reed, 2005; Pickering et Kisangani,
+2005; Colaresi, 2007; Brulé et al., 2010; Mitchell et Thyne, 2010;
+Williams et al., 2010; Kisangani et Pickering, 2011).
+
+
+Un des articles les plus fréquemment cités dans cette abondante
+littérature est celui de Charles Ostrom et Brian Job (1986). Leur analyse
+statistique conclut que le président américain recourt davantage aux
+interventions armées pour augmenter sa popularité lorsque ses taux d'appui
+sont déjà relativement élevés plutôt que lorsqu'il est faible. Ce résultat
+surprenant est difficile à intégrer à l'hypothèse originale de la politique
+étrangère comme stratégie de diversion. On s'attend plutôt à ce que la
+diversion soit utilisée en dernier recours, lorsque les chances de réélection,
+sans être nulles, sont suffisamment faibles pour justifier une stratégie
+risquée. Après tout, l'effet de ralliement peut être modeste, il est dans tous
+
+
+les cas temporaire, et la stratégie peut très bien se retourner contre son
+initiateur si le conflit s'enlise ou qu'une défaite semble probable
+
+
+Ostrom et Job n'infirment toutefois pas l'hypothèse du recours à la
+politique étrangère comme stratégie de diversion. Ils la reformulent
+simplement. Selon eux, un chef de gouvernement qui souhaite mobiliser un
+conflit armé pour rehausser sa popularité doit déjà bénéficier d'une marge
+suffisamment importante. Ce coussin serait nécessaire pour éviter
+l'hécatombe si l'opération militaire s'avérait être un échec. La stratégie de
+ralliement viserait plutôt les membres du parti du chef de gouvernement ou
+ceux de sa coalition. Quelques travaux identifient effectivement une relation
+entre le faible taux d'appui parmi les partisans traditionnels d'un chef de
+gouvernement et les recours à la force armée (Morgan et Bickers, 1992;
+Nicholls et al., 2010).
+
+
+En fait, plusieurs études statistiques vont bien au-delà de la critique
+d'Ostrom et Job et attaquent directement l'hypothèse de la politique
+étrangère comme stratégie de diversion. Elles observent que les pays
+démocratiques n'ont pas davantage tendance à s'engager dans des conflits
+en année électorale, même lorsqu'elles font face à des difficultés
+économiques. Ils auraient même tendance à éviter les conflits armés dans
+les mois précédant une élection. Ces études concluent que, dans plusieurs
+pays, il y aurait un accord tacite prohibant l'utilisation de la force armée sur
+la scène internationale pour mener des batailles politiques sur la scène
+nationale (Meernik, 1994, 2000 et 2001; Meernick et Waterman, 1996;
+Yoon, 1997; Gaubatz, 1999; Leeds et Davis, 1997; Gowa, 1998; Foster et
+Palmer, 2006).
+
+
+Si ces deux groupes d'études statistiques arrivent à des conclusions
+diamétralement opposées, c'est qu'elles ne mobilisent pas les mêmes
+données. Certaines définissent le recours à la force de façon dichotomique
+et d'autres introduisent une gradation pour tenir compte du degré de force
+déployée. Certaines se limitent à la période qui suit la Seconde Guerre
+mondiale et d'autres remontent jusqu'à la guerre franco-allemande de 1870.
+Certaines se concentrent sur l'appui au chef de gouvernement et d'autres
+prennent en compte la position et les préférences des autres acteurs qui
+participent au processus décisionnel. Certaines adoptent un modèle
+unilatéral et d'autres prennent en compte le fait que les variations dans le
+
+
+taux d'appui peuvent aussi affecter les comportements des autres
+gouvernements. Certaines fragmentent les données par trimestre et
+considèrent que l'opportunité de mobiliser la politique étrangère est
+constante, alors que d'autres prennent comme unités d'analyse chacune des
+crises qui offrent une occasion aux chefs de gouvernement d'intervenir.
+Certaines ignorent la nature de l'ennemi et d'autres les distinguent selon la
+nature de leur régime politique. Les controverses méthodologiques font
+toujours rage et les analystes s'appuient sur des modèles statistiques de plus
+en plus complexes. $\hat{A}$ l'heure actuelle, aucun verdict définitif ne peut être
+établi.
+
+
+Si certains chefs de gouvernement qui peuvent bénéficier d'un recours à
+la force armée, mais ne le font pas, c'est peut-être parce qu'ils se tournent
+vers des substituts. Ils peuvent notamment remplacer le recours à la force
+armée par un conflit commercial pour créer un effet de ralliement similaire
+et s'allier en plus les acteurs économiques qui en profiteront. Ainsi, lorsque
+le taux de chômage augmente aux États-Unis, les probabilités que le
+président américain provoque un différend commercial sont
+significativement augmentées (Clark, 2001; DeRouen, 1995; Whang,
+2011).
+
+
+Les chefs de gouvernement peuvent également substituer un conflit par
+une rhétorique d'opposition. Selon Sophie Meunier (2007), le président
+Jacques Chirac teintait ses discours d'anti-américanisme pour créer un
+<<< ralliement autour du drapeau » à peu de frais et à peu de risque. Mais,
+curieusement, alors que Mueller lui-même insistait il y a plus de quarante
+ans pour souligner que « le ralliement au drapeau » n'est pas généré que par
+des conflits armés, la littérature explorant l'hypothèse de la politique
+étrangère comme stratégie de diversion s'est, jusqu'à présent, concentrée
+sur cette seule possibilité.
+
+
+Les médias
+
+
+Les médias se situent dans une position délicate, entre les dirigeants
+politiques et la population. Ce ne sont ni des messagers qui transmettent
+servilement les communiqués de presse du gouvernement, ni des miroirs
+qui reflètent systématiquement l'opinion publique. Ce sont des acteurs,
+
+
+dotés d'une certaine autonomie, qui peuvent influencer tant les dirigeants
+que l'opinion publique.
+
+
+L'influence des médias
+
+
+Les médias jouent un rôle particulièrement important en politique
+étrangère. En politique locale ou nationale, ils ne constituent qu'une source
+d'information parmi d'autres. Les expériences personnelles et les échanges
+quotidiens contribuent aux diagnostics et aux pronostics que chacun peut
+établir à propos des politiques de santé publique, d'éducation ou
+d'urbanisme. En politique étrangère, par contre, ils représentent des
+intermédiaires incontournables pour la majorité de la population.
+
+
+C'est même une minorité de journalistes qui disposent des moyens
+nécessaires pour accéder à des sources de première main sur la portée et les
+effets de la politique étrangère. Les distances, les langues étrangères et les
+connaissances contextuelles représentent des obstacles significatifs. Cette
+concentration des sources d'information a pour effet d'amplifier l'influence
+des choix éditoriaux des quelques journalistes spécialisés en politique
+étrangère.
+
+
+Un de ces choix éditoriaux les plus déterminants consiste à identifier et à
+hiérarchiser les nouvelles de politique étrangère qui seront rapportées.
+Plusieurs événements se font quotidiennement concurrence, mais l'espace
+médiatique disponible est limité.
+
+
+Dans cette économie de l'actualité, ce sont souvent les mêmes thèmes qui
+dominent l'espace médiatique. Le conflit israélo-palestinien et les réactions
+qu'il suscite, par exemple, font davantage la une que d'autres conflits
+pourtant plus sanglants. Cette récurrence s'explique par un phénomène de
+dépendance au sentier : une couverture médiatique insistante sur un
+problème particulier éveille l'intérêt dans la population et provoque des
+réactions chez les décideurs, créant dès lors les conditions pour son
+maintien au palmarès de l'actualité internationale. Une fois qu'un problème
+de politique étrangère perce le filtre éditorial des médias, il est susceptible
+d'y revenir de façon périodique (Wood et Peake, 1998; Oppermann et
+Viehrig, 2009).
+
+
+Un autre choix éditorial opéré par les médias concerne le cadrage de la
+nouvelle. Le cadrage est la sélection et l'agencement des éléments
+d'information qui donnent corps à la nouvelle et structurent son
+interprétation. Un cadre définit le problème, identifie les protagonistes,
+qualifie leurs interactions et situe cet épisode dans son contexte. Le conflit
+opposant la Tchétchénie et la Russie, par exemple, peut être cadré comme
+une guerre d'indépendance entre un peuple et une puissance impériale,
+comme la manifestation d'un choc entre les civilisations musulmanes et
+chrétiennes, ou encore comme une vague de terrorisme menée par des
+groupes extrémistes (Oates, 2006).
+
+
+Bien que les possibilités de cadrage soient presque illimitées, une
+nouvelle cohérente et intelligible ne peut reposer que sur un seul cadre. Or,
+les médias privilégient les cadres familiers, qui s'appuient sur des normes
+sociales partagées ou qui reproduisent l'identité nationale établie (Snow et
+Benford, 1992; Snow et al., 1986; Entman, 2004). Malgré leur intérêt pour
+la nouveauté et l'actualité, les médias qui dominent la couverture de la
+politique étrangère prennent généralement des décisions conformistes, tant
+dans la sélection des nouvelles que dans leur traitement.
+
+
+Ces décisions éditoriales peuvent avoir un impact sur l'opinion publique.
+Dans un des premiers ouvrages sur l'influence des médias en politique
+étrangère, Bernard Cohen souligne que la presse « parvient rarement à
+dicter aux gens ce qu'ils pensent, mais elle parvient remarquablement bien
+à leur dire à quoi ils doivent penser » (1963, p. 13). La répétition a un
+puissant effet de persuasion sur le classement des priorités. Aujourd'hui
+encore, les questions de politique étrangère qui sont régulièrement
+couvertes par les médias deviennent ensuite celles que la majorité de la
+population considère comme les plus importantes (Soroka, 2003).
+
+
+Il semble toutefois que Cohen ait sous-estimé l'influence du cadrage. En
+effet, des travaux récents indiquent que la façon dont les nouvelles sont
+rapportées peut également avoir une influence sur l'opinion publique à
+propos de la politique étrangère (Jordan et Page, 1992). Même les articles et
+les reportages qui ne véhiculent aucun point de vue explicite structurent la
+pensée et orientent la réflexion dans une direction donnée. Ceux qui
+adoptent une échelle humaine plutôt qu'une échelle systémique entraînent
+ainsi une certaine méfiance envers les politiques étrangères
+
+
+internationalistes (Baum, 2004). Ceux qui présentent la colère plutôt que la
+tristesse des victimes d'un conflit incitent les lecteurs à réclamer que des
+actions soient entreprises contre les coupables (Small et al., 2006). Ceux,
+enfin, qui mettent l'accent sur les pertes plutôt que les gains que subit le
+pays sur la scène internationale conduisent les lecteurs à favoriser des
+politiques étrangères plus risquées (Wolfe, 2008).
+
+
+Cette influence des cadres véhiculés par les médias est particulièrement
+prononcée sur les individus qui ont un faible intérêt et des connaissances
+minimales sur la politique étrangère (Baum, 2004; Hiscox, 2006). On
+pourrait croire, à tort, que cette frange de la population désintéressée par la
+politique étrangère ne s'expose justement pas aux médias qui la couvrent.
+Mais les travaux de Matthew Baum montrent bien que même les émissions
+de variétés, les tabloïds et la presse à scandale exercent eux aussi une
+influence auprès de leur public à propos de la politique étrangère (Baum,
+2002).
+
+
+Loin d'influencer seulement le public désintéressé, les médias peuvent
+également avoir un impact sur les chefs de gouvernement et les ministres
+des Affaires étrangères. Les mécanismes causaux sous-jacents à cette
+influence peuvent emprunter trois canaux. Premièrement, les médias
+peuvent contraindre les dirigeants à se prononcer sur des problèmes qui
+n'avaient jusqu'alors pas mobilisé leur attention. Les questions des
+journalistes, ou même l'anticipation de leur question peuvent contribuer à
+mettre un enjeu de politique étrangère à l'ordre du jour du gouvernement.
+Deuxièmement, les reportages à l'étranger et les éditoriaux des grands
+journaux peuvent influencer les idées des dirigeants, qui les considèrent
+comme des sources d'information et d'analyses complémentaires aux
+rapports produits par l'administration. Dans leurs mémoires, plusieurs chefs
+d'État reconnaissent volontiers qu'ils ont été influencés par des images
+diffusées sur CNN ou des reportages du New York Times. Troisièmement,
+les dirigeants peuvent croire qu'une couverture médiatique donnée
+influence leurs électeurs et, par ce biais indirect, ajustent leurs politiques à
+des fins électoralistes. C'est même parfois les fonctionnaires qui favorisent
+les politiques promues dans les médias, pensant ainsi satisfaire leurs
+dirigeants sensibles aux fluctuations de l'opinion publique (O'Heffernan,
+
+
+1991; Powlick, 1995; Wood et Peake, 1998; Entman, 2000; van Belle et
+al., 2004).
+
+
+Certains facteurs peuvent accentuer l'influence des médias sur les
+dirigeants. Parmi eux, un niveau d'incertitude élevé et de vives critiques
+envers les politiques en place sont parmi les plus importantes. Il semble
+également que l'influence des médias est plus prononcée sur les questions
+les moins stratégiques et les pays les plus marginaux. La famine qui sévit en
+Éthiopie au milieu des années 1980, par exemple, réunit toutes ces
+conditions : le retrait de l'aide soviétique aux pays en développement créa
+un contexte d'incertitude, les médias condamnèrent sévèrement l'inaction
+des pays occidentaux, et il ne s'agissait pas d'une région particulièrement
+stratégique. Dès lors, les reportages sur la famine diffusés par la BBC
+contribuèrent à faire bondir l'assistance offerte à l'Éthiopie par les pays
+occidentaux (Mermin, 1997; Robinson, 2002 ; Miklian, 2008).
+
+
+L'influence des dirigeants sur les médias
+
+
+Si les médias peuvent avoir un impact sur la politique étrangère, les
+courants dominants de l'influence vont toutefois en sens inverse : ce sont
+plus souvent les dirigeants politiques qui influencent les journalistes.
+Plusieurs études le démontrent en encodant à la fois les opinions formulées
+par les dirigeants et celles émises dans les médias et en analysant leur
+évolution respective à travers le temps. D'autres études le confirment en
+mettant en évidence la complaisance des médias envers les politiques des
+pays alliés et leur biais négatif à l'égard des pays ennemis (Herman et
+Chomsky, 1988; Bennett, 1990; Suedfeld, 1992; Bennett et Manheim,
+1993; Wolfsfeld, 1997; Zaller et Chiu, 2000; Entman, 2004; Bennet et al.,
+2007; Groeling et Baum, 2009).
+
+
+Pour parvenir à influencer les journalistes, les dirigeants bénéficient de
+plusieurs atouts: 1) ils jouissent d'une aura de légitimité et de contrôle qui
+rehausse leur crédibilité ; 2) ils ont la capacité de provoquer l'actualité en
+formulant des annonces ou en entreprenant des actions; 3) ils sont libérés
+de la pression des parlementaires et des lobbyistes dont la majorité
+s'intéresse peu à la politique étrangère; 4) ils peuvent retenir de
+l'information stratégique ou au contraire lancer des ballons d'essai ; 5) ils
+
+
+choisissent les journalistes qui les accompagnent en voyage officiel et qui
+les interviewent; 6) et ils les alimentent en photos et vidéo officiels qu'eux
+seuls peuvent fournir.
+
+
+Cela dit, les relations entre les dirigeants et les médias sont plus
+coopératives que conflictuelles. Elles s'inscrivent dans un contexte
+d'interdépendance ou « d'exploitation mutuelle » (O'Heffernan, 1991).
+D'une part, les dirigeants veulent utiliser les médias pour rejoindre leur
+audience sans pour autant dévoiler les informations les plus sensibles.
+D'autre part, les journalistes souhaitent maintenir des relations privilégiées
+avec ceux qui les alimentent en informations sans pour autant ternir leur
+image d'impartialité.
+
+
+Dans ce contexte, l'influence des dirigeants sur les médias varie selon les
+circonstances. Les conflits armés, en particulier, accroissent à la fois leur
+intérêt et leur capacité à influencer les médias. Pour susciter et maintenir un
+appui à la guerre, il est nécessaire de transmettre des messages optimistes
+sur les probabilités de succès et de présenter l'ennemi comme une menace
+directe, opposée à la raison et la bonne volonté. La diabolisation d'un chef
+d'État étranger dans les stratégies de communication gouvernementale
+serait même un des préavis les plus fiables annonçant un conflit armé
+imminent (Hunt, 1987).
+
+
+Lors du conflit lui-même, les gouvernements contrôlent l'accès aux
+informations sensibles, que ce soit au sujet du déroulement des opérations,
+l'atteinte des objectifs ou le nombre de morts au combat. Ils peuvent fixer
+des conditions aux journalistes qui accompagnent les troupes militaires et
+éventuellement imposer la censure. Les guerres courtes et éloignées sont
+celles qui offrent le maximum de contrôle aux dirigeants. Inversement, les
+périodes de paix relative, comme celle qui a caractérisé la politique
+étrangère américaine dans les années 1990, sont celles durant lesquelles ils
+ont le plus de difficultés à influencer les médias (Berry, 1990; Entman,
+2000; Zaller et Chiu, 2000; Tumber et Palmer, 2004).
+
+
+Le contrôle des dirigeants sur les médias varie également d'un pays à
+l'autre. Dans les régimes autocratiques, l'État a souvent une influence
+directe sur les médias. Les analyses de politique étrangère transmises par
+ces médias correspondent essentiellement à celles privilégiées par leur
+gouvernement (Suedfeld, 1992; Whitten-Woodring, 2009). Même dans
+
+
+ou
+
+
+certaines démocraties, le gouvernement contrôle directement
+indirectement plusieurs médias et ceux-ci reflètent largement la perspective
+gouvernementale (Oates, 2006 ; D'Anieri, 2002; Archetti, 2008).
+
+
+Aux États-Unis, les débats sur la politique étrangère transmis par les
+médias traditionnels restent dans le domaine de la « zone de la controverse
+légitime » (Hallin, 1986). Lorsqu'une crise internationale survient, le
+Président et le Secrétaire d'État sont souvent les premiers interviewés, et
+c'est leur perspective qui est diffusée en premier. Ensuite, lorsque des
+critiques sont émises par le parti d'opposition, des experts reconnus, ou
+encore des dissidents du parti au pouvoir, elles sont abondamment relayées
+par les médias. Cependant, les points de vue déviants ou marginaux, qui ne
+sont pas partagés par un groupe ou un autre de l'élite politique, ne trouvent
+pratiquement aucun écho dans les principaux médias américains. Tant les
+nouvelles que les éditoriaux « indexent » la marge de la controverse
+publique à l'ampleur de débat au sein de l'élite politique (Bennett, 1990).
+
+
+Un exemple frappant de ce phénomène « d'indexation » est la couverture
+médiatique de la guerre du Vietnam. Contrairement à une idée reçue, cette
+couverture est demeurée largement favorable à la politique du
+gouvernement américain tant et aussi longtemps que les ténors républicains
+et démocrates furent eux-mêmes favorables à la guerre. Lorsque des
+critiques furent ensuite formulées dans les médias, elles ne concernèrent
+que le coût de la guerre et ses probabilités de succès. La perspective des
+mouvements pacifistes qui s'opposaient à la légitimité même de la guerre
+ne fut presque pas relayée par les médias (Hallin, 1986).
+
+
+Un demi-siècle pour tard, la couverture médiatique de la guerre en
+Afghanistan a suivi une évolution similaire. Après les attaques du
+11 septembre 2001, le gouvernement américain articula sa riposte contre le
+terrorisme en termes de guerre interétatique. Ce discours fut largement
+diffusé par les médias américains et, par ricochet, une majorité de la
+population américaine fut convaincue de la menace immédiate que
+représentaient, l'Afghanistan d'abord, et l'Irak ensuite. Ce n'est qu'à partir
+de la campagne présidentielle de 2004, et plus encore après celle de 2008,
+que des critiques sur les probabilités de succès et les coûts financiers de la
+guerre furent évoqués dans les médias. Le New York Times admit même que
+plusieurs articles rédigés par Judith Miller à propos de la menace iraquienne
+
+
+s'avéraient infondés et que ces erreurs résultaient d'une relation trop étroite
+entre la journaliste et l'administration Bush. Mais la légitimité même de la
+guerre en Afghanistan ne fut jamais sérieusement remise en question
+(Foyle, 2004; Hutcheson et al., 2004 ; Tumber et Palmer, 2004; Bennet et
+al., 2007; Wolfe, 2008; Aday, 2010; Baum et Groeling, 2010).
+
+
+L'effet CNN
+
+
+Ce suivisme des médias américains peut étonner ceux qui avaient cru que
+« l'effet CNN » avait bousculé les rapports de force entre les dirigeants et
+les médias. L'expression « effet CNN » est entrée dans le vocabulaire
+courant lors de la guerre du Golf de 1990 et 1991. À l'époque, ce réseau de
+télévision avait démontré sa capacité de diffuser un conflit armé en direct et
+à travers le monde. Il représentait à la fois une nouvelle source
+d'informations pour les gouvernements et une contrainte additionnelle sur
+les opérations militaires pouvant heurter la sensibilité du public. Certains
+journalistes en déduisirent que l'apparition des chaînes d'information
+internationale avait renversé les rapports de force en faveur des médias
+(Taylor, 1992).
+
+
+Ce soi-disant « effet CNN » n'est pourtant pas pleinement étayé par la
+recherche. En fait, sa validité dépend de sa définition exacte (Livingston,
+1997; Gilboa, 2005). Si « l'effet CNN » est compris comme la provocation
+de réactions émotives et spontanées par la diffusion d'images dramatiques à
+la télévision, l'arrivée des chaînes d'information internationale n'a pas
+significativement changé la donne. Les images de violence au Rwanda et en
+Bosnie, par exemple, n'ont pas été suffisantes pour mobiliser l'opinion
+publique et inciter les gouvernements occidentaux à intervenir rapidement.
+Même l'opération américaine Restore Hope visant à instaurer la paix en
+Somalie ne résiste pas à un examen détaillé. Les médias américains ne se
+sont intéressés à la Somalie que lorsque l'administration a attiré leur
+attention sur ce conflit et la décision politique de se retirer du conflit a
+précédé la diffusion des images les plus dramatiques sur la mort de soldats
+américains (Mermin, 1997; Livingston et Eachus, 1995). Les images
+diffusées sur les chaînes d'information, aussi dramatiques soient-elles, ne
+sont ni une condition suffisante ni une condition nécessaire aux
+
+
+interventions militaires. Tout au plus, les images de catastrophes peuvent
+détourner des fonds alloués au développement international vers des
+secours d'urgence (Jakobsen, 1996 et 2000).
+
+
+Par contre, il semble bien qu'il y ait un « effet CNN » si celui-ci est
+compris comme la compression du temps de réaction. Avec la diffusion
+d'information en direct 24 heures par jour, les responsables politiques
+doivent maintenant réagir instantanément aux crises internationales sous
+peine de voir leurs opposants mobiliser l'espace médiatique et imposer les
+paramètres du débat. Cette pression accrue peut avoir des répercussions
+majeures sur la conduite de la politique étrangère. Les chefs de
+gouvernement et les ministres des Affaires étrangères sont parfois appelés à
+prendre position avant qu'ils aient pu vérifier les informations auprès de
+leurs ambassades, consulter leurs conseillers, ou tenter des tractations
+diplomatiques secrètes à l'abri du regard des médias. La pression des
+chaînes d'information peut ainsi avoir des effets pervers sur le maintien des
+relations pacifiques. Elle ne se traduit toutefois pas par un renversement des
+rapports de forces ou une influence accrue des médias (Gilboa, 2003;
+Wolfsfeld, 2004).
+
+
+Un autre phénomène, encore imprécis et peu documenté, risque de
+bouleverser encore davantage la politique étrangère. Il s'agit de la
+transnationalisation des nouveaux médias. Jusqu'à récemment, les médias,
+l'opinion publique et les gouvernements se superposaient sur un même
+territoire. Les médias destinés à plusieurs pays étaient rares et peu
+d'analystes osaient parler d'une opinion publique mondiale. Par
+conséquent, la majorité des modèles théoriques qui conceptualisent la triade
+de l'État, des médias et de l'opinion publique insistent sur leur influence
+mutuelle, mais ignorent encore les flux d'influence transnationaux (Entman,
+2004; Baum et Potter, 2008 ; Sparrow, 2008).
+
+
+Or, la multiplication des chaînes d'information internationale et la
+diffusion des plateformes de réseaux sociaux sur internet rendent
+progressivement ces modèles anachroniques. Par le biais de ces médias
+transnationaux, les gouvernements communiquent directement avec des
+populations étrangères, des manifestants court-circuitent leurs autorités
+politiques et s'adressent à l'ensemble de la communauté internationale, et
+des chefs d'État continuent de s'échanger de l'information lorsque les
+
+
+canaux diplomatiques sont rompus. Ces communications transnationales
+ont toujours été possibles à une moindre échelle. Mais les nouveaux médias
+développent les relations transnationales à tel point que les acteurs
+traditionnels en modifient leurs comportements (van Belle, 2000; Badie,
+2005; Seib, 2008; Price, 2009; Nocetti, 2011).
+
+
+Tous ne bénéficient pas de la même façon de cette transnationalisation
+des médias. Comme les prochaines parties l'illustreront, les groupes
+d'intérêt et les communautés d'experts, eux-mêmes de plus en plus
+transnationaux, comptent parmi les principaux bénéficiaires de ce nouvel
+environnement communicationnel (Aday et Livingston, 2008).
+
+
+Les groupes d'intérêt
+
+
+Les groupes d'intérêt sont des organisations formellement instituées et
+vouées à la défense d'intérêts particuliers dans le processus décisionnel
+étatique. Ces intérêts particuliers peuvent être de différentes natures.
+Christopher Hill propose une typologie en fonction de la nature des intérêts
+défendus (2003). La première catégorie rassemble les groupes défendant
+des intérêts économiques, incluant les firmes, les associations de
+consommateurs et les syndicats. La deuxième est constituée des groupes
+défendant des intérêts territoriaux, dont les communautés autochtones, les
+minorités ethniques et les municipalités. Et la troisième catégorie concerne
+les groupes défendant des idées particulières, comme les ONG féministes
+ou les Églises. Mais quelle que soit la catégorie à laquelle ils appartiennent,
+les groupes d'intérêt actifs en politique étrangère ont des activités
+semblables et l'étude de leur influence pose des problèmes
+méthodologiques similaires.
+
+
+L'action des groupes d'intérêt en politique étrangère
+
+
+La majorité des groupes d'intérêts partagent, indépendamment de la
+nature des intérêts qu'ils défendent, trois caractéristiques communes.
+Premièrement, dans leurs efforts pour influencer les gouvernements, ils sont
+appelés à travailler étroitement avec leurs concurrents. Dans les arcanes du
+
+
+Quai d'Orsay, Renault collabore avec Citroën, comme Greenpeace avec les
+Amis de la Terre. En matière de représentation d'intérêt, les coalitions plus
+ou moins coordonnées sont la norme, alors que les actions isolées
+demeurent l'exception. La configuration de ces coalitions est même l'un des
+principaux déterminants de la capacité d'influence des groupes d'intérêt
+(Morin, 2010).
+
+
+Deuxièmement, les grandes coalitions défendent des intérêts
+économiques, territoriaux ou politiques recourent à des stratégies d'action
+similaires. Ils développent des discours qu'ils espèrent convaincants, ils
+tentent de s'allier l'opinion publique, ils communiquent leur message à
+travers les médias, ils mènent des recherches pour étayer leurs arguments,
+ils témoignent devant des commissions parlementaires, ils rencontrent les
+dirigeants politiques derrière des portes closes et ils offrent des
+contreparties à ceux qui veulent bien les appuyer. Le travail quotidien d'un
+lobbyiste de Human Rights Watch auprès de la Commission européenne
+n'est pas si différent que celui d'un autre défendant les intérêts d'Airbus
+auprès de la même organisation (Sell et Prakash, 2004).
+
+
+Troisièmement, les différents groupes d'intérêt peuvent exercer
+davantage d'influence durant les premières étapes du processus décisionnel.
+C'est lors de ces étapes qu'ils peuvent influencer le prisme par lequel une
+question sera comprise par les décideurs et s'assurer qu'elle soit bien
+inscrite à l'ordre du jour politique. Dans des étapes subséquentes, lors de
+l'examen des différentes options et de la mise en œuvre des politiques,
+l'influence des groupes d'intérêt diminue au profit de la bureaucratie et des
+communautés d'experts. C'est seulement lors de l'étape de l'évaluation que
+les groupes d'intérêt retrouvent leurs leviers d'influence d'origine
+(Nadelmann, 1990; Finnemore et Sikkink, 1998; Joachim, 2003; Busby,
+2007; Carpenter, 2007; Bernhagen, 2008; Morin, 2010; Bubela et Morin,
+2011).
+
+
+Ces trois caractéristiques sont communes, non seulement aux diverses
+catégories de groupes d'intérêt, mais aussi à travers les différents domaines
+des politiques publiques. Cela dit, la littérature portant sur l'influence des
+groupes d'intérêt dans le domaine spécifique de la politique étrangère est
+relativement moins développée. Peu de publications sont consacrées à ce
+thème et la majorité des résultats de recherche ont une portée de
+
+
+généralisation limitée. Les groupes d'intérêt constituent un des maillons
+faibles de l'APE.
+
+
+On pourrait être tenté d'expliquer cette carence par la faible activité des
+groupes d'intérêt dans le domaine de la politique étrangère
+comparativement aux autres domaines de politiques publiques. $\hat{A}$ première
+vue, les ministres des Affaires étrangères sont moins exposés aux pressions
+des lobbyistes que leurs collègues. Ils ne doivent pas interagir
+quotidiennement avec un groupe désigné, comme les ministres de
+l'Agriculture avec les agriculteurs, les ministres de l'Éducation avec les
+enseignants, et les ministres de la Culture avec les artistes. Sans surprise, les
+registres publics de lobbyistes comptent relativement peu d'organisations
+vouées spécifiquement à la politique étrangère (Broscheid et Coen, 2007).
+
+
+Néanmoins, cet argument n'est pas tout à fait convaincant. S'il permet
+d'expliquer que les chercheurs intéressés par les groupes d'intérêt trouvent
+un terreau plus fertile dans les domaines autres que la politique étrangère, il
+ne peut expliquer que la majorité des analystes de la politique étrangère
+négligent l'influence des groupes d'intérêts. Ce n'est pas parce que les
+groupes d'intérêt sont plus actifs dans les autres domaines de politique
+publique qu'ils n'exercent pas, dans certaines circonstances, une influence
+déterminante en politique étrangère.
+
+
+Difficultés méthodologiques
+
+
+Si peu d'analystes de la politique étrangère abordent de front la question
+des groupes d'intérêt, c'est probablement en raison d'obstacles
+méthodologiques majeurs. En effet, isoler l'influence d'un groupe d'intérêt
+est particulièrement difficile lorsque plusieurs groupes interagissent sans
+qu'aucun ne tienne, a priori, le haut du pavé.
+
+
+L'une des méthodes les plus prudentes pour démontrer l'influence d'un
+groupe d'intérêt particulier sur la politique étrangère est celle que suggèrent
+Michele Betsill et Elisabeth Corell (2007). Cette méthode se compose de
+trois éléments: d'abord, la triangulation de données de différentes sources
+et de différentes natures ; ensuite, l'identification de tous les éléments de la
+chaine causale reliant les actions entreprises par les groupes d'intérêt à la
+
+
+politique adoptée par l'État ; et enfin, l'analyse contrefactuelle permettant
+d'écarter, les unes après les autres, les explications rivales.
+
+
+Cette méthode est toutefois plus ardue qu'elle peut le sembler. Au moins
+quatre problèmes peuvent se poser. Le premier d'entre eux est
+l'identification de toutes les actions stratégiques que les groupes d'intérêt
+entreprennent et qui doivent être prises en compte dans l'analyse. Parce que
+certaines de ces actions ne visent les décideurs publics qu'indirectement,
+par le biais d'organisations tierces, de pays étranger ou de l'opinion
+publique, elles peuvent être difficiles à retracer (Wuthnow et Lewis, 2008).
+Par exemple, on peut supposer que les dons des compagnies
+pharmaceutiques aux pays africains effectués au début des années 2000
+visaient à contrer la campagne des ONG auprès des pays occidentaux pour
+qu'ils modifient les règles commerciales sur l'exportation de médicaments
+génériques. Mais aucun entretien auprès des représentants des compagnies
+pharmaceutiques ni aucun document écrit ne pourront le confirmer de
+manière définitive. Or, sans connaître les objectifs des différents groupes
+d'intérêt et les actions qui doivent être intégrées à l'analyse, il est malaisé
+d'évaluer les succès des uns et les échecs des autres (Bubela et Morin,
+2011).
+
+
+Une deuxième difficulté méthodologique est l'instabilité des préférences
+des groupes d'intérêt. Si leurs préférences étaient constantes à travers le
+temps et homogènes à travers l'espace, il serait possible de les déduire
+lorsqu'elles ne sont pas formulées explicitement. Ce n'est malheureusement
+pas le cas. En matière de libéralisation, les positions respectives de
+plusieurs firmes et syndicats américains se sont interversées dans les
+années 1970. L'accroissement de la mobilité du capital et la réduction de
+celle de la main-d'œuvre ont conduit certaines entreprises à abandonner
+leurs positions protectionnistes et certains syndicats à exprimer davantage
+de méfiance envers le libre-échange (Midford, 1993; Milner, 1987, 1988 et
+1999; Hiscox, 2002). À la même époque, en Amérique latine, des chefs
+d'entreprise aux intérêts pourtant similaires défendaient des positions
+radicalement différentes. Alors que les industriels brésiliens militaient en
+faveur de la substitution aux importations, leurs homologues argentins
+s'opposaient à ces mêmes stratégies commerciales (Sikkink, 1991). On ne
+peut donc déduire, et encore moins expliquer, les intérêts défendus par un
+
+
+groupe particulier sans un examen attentif de son contexte matériel et
+idéologique spécifique.
+
+
+Un troisième problème méthodologique concerne l'interprétation de la
+politique adoptée par les décideurs. Le maintien du statu quo ne signifie pas
+nécessairement que les actions entreprises par les groupes d'intérêt ont été
+inefficaces. Les pressions d'un premier groupe ont pu simplement
+contrebalancer celles d'un deuxième groupe. Plus fréquemment, des
+groupes d'intérêt opposés peuvent simultanément exercer une influence sur
+différents agents de l'appareil étatique. Les politiques étrangères
+incohérentes résultent souvent de pressions contradictoires des groupes
+d'intérêt. Sur la question des ressources génétiques, par exemple, le Japon
+exprime des positions variées dans les différentes enceintes internationales
+en fonction de l'influence relative des différents groupes d'intérêts qui y
+participent (Frieden, 1988 ; Morin et Orsini, 2013).
+
+
+Une quatrième difficulté méthodologique est la prise en compte de
+l'influence de l'État sur les groupes d'intérêt. L'État ne fait pas que réagir
+aux pressions: il agit également de lui-même, de façon autonome, et peut
+même influencer directement les groupes d'intérêt. Comme la théorie du jeu
+à deux niveaux présentée dans un chapitre précédent l'établit, un
+gouvernement qui participe à une négociation internationale peut accroître
+son rapport de force s'il démontre qu'il est contraint par de fortes pressions
+nationales. Par conséquent, certains négociateurs peuvent stimuler eux-
+mêmes la pression des groupes d'intérêt pour en tirer ensuite des dividendes
+au niveau international. Le général Musharraf aurait ainsi toléré des groupes
+islamistes extrémistes au Pakistan parce que ces groupes lui permettaient de
+justifier aux Occidentaux son régime autocratique et ses demandes d'aide
+économique (Grove, 2007). Un gouvernement peut inversement affaiblir
+des groupes d'intérêt par des stratégies de négociations croisées. Négocier
+conjointement la libéralisation des biens manufacturés et la réduction des
+subventions agricoles permit à la Commission européenne d'affaiblir le
+lobby agricole réclamant des subventions en l'opposant au lobby industriel
+réclamant l'abaissement des tarifs douaniers (Davis, 2004). Prendre en
+compte ces actions des pouvoirs publics et reconnaître que les flux
+d'influence sont bidirectionnels complexifient significativement les
+analyses sur l'influence des groupes d'intérêt.
+
+
+Des cas extrêmes à la généralisation
+
+
+Le choix minutieux du groupe étudié peut éventuellement permettre aux
+chercheurs de contourner quelques difficultés méthodologiques. Plusieurs
+études se penchent sur l'influence des groupes qui prétendent défendre les
+intérêts d'une communauté ethnique particulière précisément pour
+simplifier l'analyse (Ahrari, 1987; Shain, 1994; Smith, 2000; Ambrosio,
+2002; Kirk, 2008).
+
+
+En effet, les actions et les stratégies de ces groupes sont généralement
+plus transparentes que celles des firmes parce qu'elles reposent
+généralement sur l'ensemble d'une communauté. Leurs préférences et
+priorités, quant à elles, sont aussi stables que le contexte prévalant dans leur
+pays d'origine et peuvent demeurer inchangées pendant plusieurs
+décennies, contrairement à celles de certaines ONG plus sensibles aux
+effets mode. De plus, la majorité des groupes ethniques ne s'opposent pas
+frontalement à des rivaux particuliers, à la différence des syndicats qui ne
+peuvent être analysés sans tenir compte du comportement des firmes. Et
+enfin, plusieurs groupes ethniques sont plus autonomes que les groupes qui
+dépendent économiquement ou politiquement du gouvernement, comme les
+agriculteurs ou les associations caritatives.
+
+
+Cela dit, le degré d'influence des groupes d'intérêt représentant des
+communautés ethniques varie significativement. Aux États-Unis, ceux qui
+représentent les communautés mexicaine, grecque, cubaine, irlandaise,
+juive, polonaise, indienne et arménienne ont tous exercé une influence
+marquée sur la politique étrangère. Les groupes italiens, arabes et chinois,
+par contre, n'exercent pas une influence proportionnelle au poids
+démographique des communautés qu'ils représentent. Ces variations
+s'expliquent en partie par des facteurs contextuels, comme la compatibilité
+de leurs revendications avec l'intérêt général du pays, l'intégration de la
+communauté au sein du gouvernement et la sympathie exprimée par
+l'opinion publique. Des facteurs endogènes à un groupe lui-même peuvent
+également expliquer son degré d'influence, incluant sa force
+organisationnelle, son niveau d'activité politique, sa cohésion interne, sa
+représentativité, ses ressources financières et ses liens avec un secteur
+
+
+économique donné (Haney et Vanderbush, 2005; Shain et Barth, 2003;
+Rubenzer, 2008).
+
+
+Deux groupes d'intérêt américains représentant des communautés
+ethniques cumulent plusieurs de ces conditions et exercent une forte
+influence sur la politique étrangère des États-Unis. Il s'agit d'abord de
+l'American Israel Public Affairs Committee (AIPAC). Dans un livre
+remarqué, John Mearsheimer et Stephen Walt défendent l'idée que ce
+groupe d'intérêt serait si puissant qu'il aurait conduit les États-Unis à
+adopter une politique étrangère contraire à l'intérêt national américain
+(2007). Ils en veulent pour preuve que le volume de l'aide économique et
+militaire américaine offerte à Israël est disproportionné par rapport à
+l'importance stratégique que représente ce pays depuis la fin de la guerre
+froide, sans compter que l'appui américain à Israël complique les relations
+des États-Unis avec l'ensemble du monde musulman.
+
+
+L'AIPAC est toutefois un groupe d'intérêt dont l'influence demeure
+difficile à évaluer. D'une part, l'impulsion en faveur d'Israël est alimentée
+par divers groupes d'intérêt, allant bien au-delà de l'AIPAC et de la
+communauté juive. D'autre part, l'AIPAC fait régulièrement face à
+l'opposition des puissantes industries de l'armement et du pétrole lorsqu'il
+est question de soutenir les pays arabes. Il est impossible d'évaluer l'impact
+spécifique de l'AIPAC sans tenir compte de ces pressions, généralement
+discrètes, qu'exercent ses alliers et ses rivaux (Rosenson et al., 2009 ;
+Dannreuther, 2011).
+
+
+L'autre groupe d'intérêt particulièrement influant en politique étrangère
+américaine est la Cuban American National Fundation (CANF),
+représentant la communauté d'exilés cubains. La CANF fut créée en 1981
+sur le modèle de l'AIPAC, dont elle reproduit la structure organisationnelle,
+les stratégies de financement et les tactiques politiques. Un de ses atouts
+particuliers est la concentration de la majorité de ses membres en Floride et
+au New Jersey, formant ainsi des blocs d'électeurs influents aux élections
+législatives et présidentielles. De l'avis de tous les experts, le maintien de
+l'embargo américain envers Cuba depuis la fin de la guerre froide ne peut
+s'expliquer sans tenir compte de l'influence de la CANF et la surenchère
+qu'elle favorise entre les Démocrates et les Républicains. Mais ici encore,
+
+
+les flux d'influence ne sont pas aussi directs et unidirectionnels qu'ils
+peuvent le sembler.
+
+
+En réalité, l'administration Reagan a elle-même contribué à la création et
+au développement de la CANF dans les années 1980 dans l'espoir d'exercer
+une pression indirecte sur le Congrès en adéquation avec son idéologie
+conservatrice. Même après la guerre froide, la CANF continua de recevoir
+un financement public substantiel et de mettre en œuvre des projets élaborés
+par le gouvernement. Sous cet angle, l'influence de la CANF reflète en
+partie l'influence du pouvoir exécutif américain lui-même (LeoGrande,
+1998; Smith, 1998; Brenner et al., 2002 ; Haney et Vanderbush, 2005;
+Eckstein, 2009 ; Rubenzer, 2011).
+
+
+Cette imbrication des groupes d'intérêt et d'une partie de l'appareil
+étatique n'est pas propre aux communautés ethniques. Le plus célèbre
+exemple de confusion entre les intérêts publics et privés demeure
+certainement le complexe militaro-industriel dénoncé par le président
+Dwight Eisenhower dans son discours de fin de mandat :
+
+
+<<< La conjonction d'une institution militaire titanesque et d'une vaste
+industrie de l'armement est nouvelle dans l'expérience américaine. Son
+influence totale, économique, politique, même spirituelle, est ressentie
+dans chaque ville, chaque assemblée législative et chaque bureau du
+Gouvernement fédéral. [...] Nous devons donc nous garder de toute
+influence injustifiée, qu'elle ait ou non été sollicitée, de ce complexe
+militaro-industriel. Le risque potentiel d'une désastreuse ascension d'un
+pouvoir illégitime existe et persistera. Nous ne devons jamais laisser le
+poids de cette combinaison mettre en danger nos libertés et nos processus
+démocratiques. »
+
+
+(Eisenhower, 1961)
+
+
+À la suite de ce célèbre discours, plusieurs travaux de recherche ont
+effectivement confirmé les liens étroits qui unissent le ministère de la
+Défense à ses fournisseurs privés. En combinant leur force, ces groupes
+sont parvenus à la fois à convaincre le Congrès d'augmenter
+continuellement ses crédits budgétaires pour l'achat d'équipements
+militaires et à favoriser une politique étrangère musclée fondée sur
+l'accumulation de capacités militaires. Il s'agit toutefois d'un cas extrême,
+
+
+qui n'est représentatif ni des autres groupes d'intérêt ni des autres pays
+(Melman, 1970; Adams et al., 1982 ; Kotz, 1988).
+
+
+Une stratégie méthodologique permettant de dégager des conclusions
+plus généralisables consiste à analyser simultanément plusieurs cas. C'est
+l'approche qu'a retenue Elizabeth DeSombre pour étudier l'influence des
+groupes d'intérêt sur les positions américaines dans le cadre de différentes
+négociations environnementales (2000). Son analyse, à la fois comparative
+et qualitative, lui a permis d'observer que les États-Unis peuvent devenir
+des leaders internationaux en faveur de la protection de l'environnement
+lorsque les intérêts des ONG et des firmes américaines coïncident. Ce fut le
+cas lors des négociations internationales sur la protection des espèces
+menacées et celles sur la protection de la couche d'ozone, deux questions
+pour lesquelles tant les ONG que les firmes souhaitaient que les normes
+américaines soient diffusées à l'échelle planétaire. Par contre, les États-Unis
+n'ont jamais été des leaders dans la lutte contre la désertification ni celle
+contre les changements climatiques, la première question faisant l'objet
+d'une faible mobilisation des ONG et la deuxième faisant face à la ferme
+opposition de plusieurs entreprises. Ce constat ne signifie pas que
+l'unanimité parmi les groupes d'intérêt soit une condition essentielle ou
+suffisante à leur influence. Plus simplement, la concordance de leurs
+intérêts encourage une politique étrangère proactive.
+
+
+Lawrence Jacobs et Benjamin Page ont multiplié encore davantage le
+nombre de cas en privilégiant une approche quantitative (2005). Pour
+évaluer l'influence relative de différents groupes d'intérêt sur la politique
+étrangère, ils ont mobilisé des sondages d'opinion effectués à la fois auprès
+de ces groupes et des décideurs publics américains. En recourant à diverses
+techniques d'analyse statistique, ils ont pu observer que l'opinion des
+décideurs suit davantage celle des chefs d'entreprises que celle des leaders
+syndicaux à propos de plusieurs questions de politique étrangère. Au-delà
+de ce simple constat, cependant, il leur fut impossible d'établir que les
+préférences des décideurs résultaient bien des actions menées par les chefs
+d'entreprises.
+
+
+Une série d'études quantitatives portent sur l'influence des groupes
+ethniques dans les conflits internationaux. Ces études concluent que la
+présence d'une minorité ethnique importante accroît significativement les
+
+
+probabilités que leur pays d'accueil, s'il s'agit d'une démocratie,
+interviennent dans un conflit avec leur pays d'origine, surtout s'il s'agit
+d'une autocratie. Cette relation entre les structures ethniques et les conflits
+interétatiques est bien documentée, bien que les conditions et le détail des
+processus causaux soient encore incertains. L'identification de tendances
+généralisables se fait, sur cette question comme sur bien d'autres, au prix
+d'une analyse fine retraçant l'intégralité des processus causaux (Davis et
+Moore, 1997; Henderson, 1998; King et Melvin, 1999; Bélanger et al.,
+2005; Gartzke et Gleditsch, 2006; Paquin, 2008; Koga, 2011).
+
+
+Les experts
+
+
+Le discours de fin de
+mandat du président Eisenhower, cité
+précédemment, est bien connu
+pour sa dénonciation du complexe militaro-
+industriel. Dans ce même discours, cependant, Eisenhower dénonce
+également les dérives des universitaires, des scientifiques et des autres
+experts qui détiennent un savoir spécialisé et qui exercent une influence
+croissante sur les politiques publiques. Pour Eisenhower, l'association entre
+ces experts et la politique soulève autant de menaces pour la démocratie que
+celle entre l'industrie et l'armée.
+
+
+Les experts sont davantage guidés par leurs croyances causales que par
+leurs intérêts matériels. Certains, par exemple, militent en faveur de la
+libéralisation de l'investissement étranger, au motif qu'une telle politique
+favorise la croissance économique, sans nécessairement espérer profiter
+eux-mêmes de cette libéralisation (Chwieroth, 2007). Les idées et les
+intérêts des acteurs sont généralement compatibles, mais les préférences des
+experts s'expliquent davantage par les premières que par les deuxièmes.
+
+
+Les experts bénéficient d'un précieux capital symbolique pour faire la
+promotion de leurs idées auprès des dirigeants politiques. Ils ne disposent
+généralement pas eux-mêmes des leviers politiques et économiques
+nécessaires pour influencer l'opinion publique ou les calculs électoraux des
+élus. Par contre, ils sont socialement reconnus comme des titulaires
+privilégiés de savoir, ce qui leur confère une certaine autorité intellectuelle.
+Cette position leur permet non seulement d'alimenter les gouvernements en
+information, mais aussi de participer à la construction du prisme à travers
+
+
+lequel les informations reçues sont ensuite filtrées et interprétées. L'action
+des experts se situe ainsi dans le registre de la persuasion plutôt que dans
+celui de la pression (Antoniades, 2003).
+
+
+Les think tanks
+
+
+Certains experts tentent de persuader les décideurs de la justesse des
+relations causales qu'ils défendent à partir d'organisations spécifiquement
+créées à cette fin. Ce sont les groupes de réflexion communément appelés
+think tanks. Plusieurs sont particulièrement actifs en politique étrangère,
+dont le Center for Strategic and International Studies, le Carnegie
+Endowment for International Peace et le Council of Foreign Relation, la
+Chatham House, l'International Institute for Strategic Studies,
+l'International
+Crisis Group et l'Institut francais des relations
+internationales.
+
+
+Certains d'entre eux disposent de moyens considérables. À elle seule, la
+Rand Corporation a un budget annuel de plus de 200 millions de dollars et
+compte plus de 1 700 employés. Ses analyses sur la dissuasion rationnelle
+ont d'ailleurs exercé une influence déterminante sur la politique étrangère
+américaine lors de la guerre froide (Kaplan, 1983; Adler, 1992; Parmar,
+2004; Ahmad, 2008).
+
+
+Bien que ces think tanks se présentent généralement comme des
+organisations indépendantes et apolitiques, plusieurs travaillent étroitement
+avec un ministère ou un parti politique particulier. Dans certains cas,
+l'impulsion ayant mené à la création du think tank et l'essentiel de son
+financement proviennent des pouvoirs publics. Dans d'autres cas, les
+relations étroites entre les think tanks et le gouvernement sont alimentées
+par un roulement continu du personnel : les décideurs publics deviennent
+experts lorsqu'ils perdent les élections et les experts entrent au
+gouvernement lorsqu'ils les gagnent. Sous cet angle, conceptualiser les
+think tanks et les gouvernements comme des organisations indépendantes
+les unes des autres est une approximation qui peut masquer de fortes
+imbrications.
+
+
+Les communautés épistémiques
+
+
+Plusieurs analystes de la politique étrangère s'intéressent moins aux
+organisations des experts qu'à leurs réseaux, dénommés « communautés
+épistémiques ». Peter Haas définit plus précisément une communauté
+épistémique comme « un réseau de professionnels ayant une expertise et
+une compétence reconnues dans un domaine particulier et qui revendique
+avec autorité leur connaissance politique dans ce domaine » (1992,  . 3).
+
+
+Une communauté épistémique est un réseau plus restreint que l'ensemble
+d'une discipline ou d'une profession. Ses membres doivent partager non
+seulement des croyances causales et des critères de validité du savoir, mais
+aussi des principes normatifs et un projet politique commun.
+
+
+Par contre, les membres d'une communauté épistémique peuvent occuper
+différentes fonctions et se situer au sein de diverses organisations. Certains
+peuvent être universitaires, d'autres être à l'emploi de firmes et d'autres
+encore peuvent être fonctionnaires. Ils peuvent également être localisés
+dans plusieurs pays et exercer conjointement une influence sur plusieurs
+gouvernements. La communauté épistémique des économistes keynésiens,
+par exemple, a fortement influencé les gouvernements britanniques et
+américains, de l'intérieur comme de l'extérieur, lors des négociations de
+Bretton Woods (Ikenberry, 1992; Blyth, 2002).
+
+
+Bien que l'approche par les réseaux corresponde bien aux modes
+opératoires des experts, il peut être difficile pour l'analyste de délimiter le
+pourtour d'une communauté épistémique et d'identifier ses membres. Pour
+y parvenir, il est possible de recourir aux techniques cartographiques de
+l'analyse des réseaux sociaux et de construire une représentation graphique
+d'une communauté épistémique à partir des liens qui relient les experts,
+comme des publications conjointes, des références bibliographiques, ou des
+participations communes à des conférences. Une autre méthode consiste à
+identifier les experts qui partagent des principes, des croyances et des
+prescriptions politiques en réalisant une analyse de discours ou d'une
+analyse de contenu. Cependant, aucune de ces deux méthodes ne permet
+d'identifier précisément et assurément les membres d'une communauté
+épistémique. Dans le premier cas, l'analyste doit tenir pour acquis que les
+experts qui ont des liens étroits ont également une perspective commune.
+
+
+Dans le deuxième cas, il doit présumer que les experts qui partagent une
+même perspective opèrent dans un même réseau. À chaque fois, l'analyste
+risque de surestimer l'ampleur d'une communauté épistémique (Roth et
+Bourgine, 2004).
+
+
+Les problèmes méthodologiques que soulève la délimitation d'une
+communauté épistémique sont tels que plusieurs travaux s'arrêtent à cette
+étape et n'évaluent pas le degré d'influence qu'elle exerce (Sebenius,
+1992). Certes, quelques études de cas démontrent que des communautés
+épistémiques exercent parfois une influence sur la politique étrangère. C'est
+particulièrement le cas lors de négociations internationales sur
+l'environnement, dont celles sur la couche d'ozone, les pluies acides, le
+bassin méditerranéen et les changements climatiques (Haas, 1990 et 1992 ;
+Zito, 2001). Mais au-delà de ce constat, le degré d'influence des
+communautés épistémiques demeure incertain. Trop peu d'études prennent
+en compte les problèmes d'endogénéité (Chwieroth, 2007), isolent leur
+influence de celle de leurs alliés (Toke, 1999), ou la comparent à celle de
+leurs rivaux (Jacobs et Page, 2005).
+
+
+Quoi qu'il en soit, le degré d'influence des différentes communautés
+épistémiques varie. Il est déterminant dans certains cas et marginal dans
+d'autres. Si l'influence des communautés épistémiques semble avoir été
+majeure dans le cadre de plusieurs négociations sur l'environnement, ce
+n'est pas une règle absolue. En matière de protection des baleines, par
+exemple, l'industrie et les ONG environnementales ont tour à tour exercé
+une influence prépondérante à celle des cétologistes, tant auprès des pays
+qui militent en faveur du moratoire international sur la pêche à la baleine
+qu'auprès de ceux qui s'y opposent (Peterson, 1992).
+
+
+Cette variation pose le problème des conditions qui l'expliquent. Il
+semble, a priori, que ni la taille de la communauté épistémique ni l'étape du
+processus décisionnel ne soient des facteurs déterminants (Adler et Haas,
+1992). Par contre, une prédisposition idéologique des décideurs publics à
+recevoir les idées de la communauté épistémologique et une opportunité
+institutionnelle pour en faire la promotion semblent être des conditions
+incontournables (Haas, 1990; Checkel, 1993 ; Newman, 2008 ; Eriksson et
+Norman, 2010). À cela s'ajoute une série de facteurs qui peuvent amplifier
+l'influence d'une communauté épistémique, dont l'appui d'une coalition
+
+
+d'ONG, un degré d'incertitude élevé, un contexte de crise et une faible
+opposition (Zito, 2001).
+
+
+Les prédictions des experts
+
+
+L'influence accrue d'un groupe d'experts ne signifie pas pour autant que
+la politique étrangère qui en résulte soit prudente ou judicieuse. Bien au
+contraire. Non seulement les experts ont-ils souvent tort, mais plusieurs
+d'entre eux croient fermement le contraire.
+
+
+Telle est la conclusion à laquelle arriva Philip Tetlock au terme d'une
+expérience longitudinale de grande envergure (2005). Tetlock commença
+par demander à des experts reconnus de formuler une série de prédictions
+dans plusieurs domaines, incluant en politique étrangère, et d'évaluer à
+chaque fois leur degré de confiance dans leur justesse. Vingt ans plus tard,
+Tetlock constata que la capacité de prédiction des experts n'est
+généralement pas supérieure à celle des citoyens bien informés. En fait, plus
+un expert est spécialisé dans un domaine particulier et plus il est confiant
+dans ses prédictions, plus celles-ci s'avèrent erronées. Tetlock en conclut
+que le savoir peut renforcer une illusion de certitude et rendre les experts
+sourds et aveugles aux informations qui contredisent leurs présupposés.
+
+
+Lorsque les prédictions des experts s'avèrent exactes, ce n'est pas
+toujours parce qu'elles s'appuient sur une analyse rigoureuse et détaillée.
+C'est parfois l'influence des experts eux-mêmes qui contribue à générer les
+événements qu'ils prédisent. Ce sont des « prophéties autoréalisatrices ».
+
+
+Par exemple, si les experts en politique étrangère enseignent, à
+l'université de Tokyo ou à l'École nationale d'administration, que les
+démocraties ne se font pas la guerre entre elles, l'élite japonaise et française
+risque d'intégrer ce discours dans leur système de croyances et de percevoir
+le monde à travers ce biais. Une fois à la tête du pays, ils feront davantage
+confiance aux autres démocraties et auront tendance à résoudre leurs
+différends avec elles par des moyens pacifiques (Risse-Kappen, 1995;
+Houghton, 2009).
+
+
+Par contre, si les experts de l'Institut d'État des relations internationales
+de Moscou avancent que la rareté des ressources naturelles favorise les
+
+
+conflits armés, les pénuries alimenteront effectivement des relations de
+méfiance au Kremlin et certains dirigeants russes pourraient être tentés de
+lancer des attaques préventives (Haas, 2002). Si, de surcroît, les experts
+considèrent qu'une des principales lignes d'affrontement au cours des
+prochaines décennies opposera le monde occidental et la civilisation
+islamique, les gouvernements convaincus par cette prédiction risquent de
+contribuer eux-mêmes à sa réalisation (Bottici et Challand, 2006; Eriksson
+et Norman, 2010).
+
+
+Ainsi, les analystes de la politique étrangère ne se situent pas en dehors
+du monde qu'ils tentent de comprendre ou d'expliquer ; ils sont eux-mêmes
+des acteurs. Leurs idées ne font pas que refléter les politiques étrangères;
+elles contribuent également à les façonner. Sous cette perspective, les
+distinctions entre l'observateur et l'observé, comme celles entre la réalité et
+les idées, ne sont pas aussi claires qu'elles peuvent le sembler de prime
+abord ou que l'on veut bien croire. C'est un constat banal pour les
+anthropologues, mais encore nouveau et troublant pour plusieurs
+internationalistes.
+
+
+Cela dit, les idées des experts parviennent plus facilement à atteindre les
+cercles décisionnels dans certains pays. En fait, l'influence de l'ensemble
+des acteurs sociaux, qu'il s'agisse d'ONG, de firmes, de syndicats, de
+médias, de communautés ethniques, de think tank ou de communautés
+épistémiques, varie en fonction du contexte institutionnel. Le prochain
+chapitre traite précisément du contexte institutionnel au sein duquel les
+acteurs sociaux et les décideurs publics interagissent.
+
+
+Chapitre 6
+
+
+Les institutions
+
+
+LES DÉCISIONS DE POLITIQUE ÉTRANGÈRE S'INSCRIVENT TOUJOURS dans un
+contexte institutionnel qui structure les préférences et les comportements
+des acteurs. Il s'agit d'un des constats les plus fermement établis de l'APE.
+Il y a 2 500 ans, Thucydide notait déjà que les démocraties, les aristocraties
+et les monarchies sont animées par des mécanismes distincts qui conduisent
+à des politiques étrangères différentes. Aujourd'hui encore, chaque année,
+de nouvelles publications corroborent cette observation.
+
+
+Si de nombreux chercheurs continuent de s'intéresser à l'impact des
+structures institutionnelles sur la politique étrangère, c'est notamment en
+raison de la disponibilité des sources. Les rapports gouvernementaux
+secrets et les réflexions personnelles des chefs de gouvernement ne sont pas
+accessibles à tous. Mais chacun peut distinguer un système parlementaire
+d'un système présidentiel, ou un mode de scrutin majoritaire d'un mode de
+scrutin proportionnel. Ce sont des catégories stables qui correspondent à des
+définitions relativement consensuelles. Des bases de données, comme celle
+du projet Polity IV (www.systemicpeace.org/polity/polity4.htm),
+caractérisent les régimes politiques de tous les pays depuis le début du
+$XIX^{e}$ siècle et sont librement accessibles à tous les chercheurs. Il est, dès
+lors, possible d'établir des comparaisons et de dégager des tendances.
+
+
+Des innovations conceptuelles ont également favorisé le développement
+de la recherche. Depuis l'émergence du néo-institutionnalisme dans les
+années 1980, la notion même d'institution politique s'est élargie. Elle ne se
+limite plus simplement aux règles constitutionnelles qui déterminent, par
+exemple, comment les décideurs sont élus. Elles incluent plus généralement
+toutes les représentations, normes, règles et pratiques, formelles ou
+informelles, qui gouvernent la vie sociale et politique, à l'intérieur comme à
+
+
+l'extérieur de l'État (March et Olsen, 1984 ; Evans et al., 1985 ; Ikenberry,
+1988; Stone, 1992 ; Hall et Taylor, 1996).
+
+
+Ce faisant, les institutions ne sont plus perçues comme des données
+inertes et immuables. Elles sont maintenant considérées comme des
+variables intermédiaires, dotées d'une certaine autonomie et occupant une
+position intermédiaire entre les forces sociales et les comportements
+sociaux. D'une part, elles s'adaptent aux contextes changeants,
+généralement de façon lente et progressive, mais parfois de façon brutale et
+radicale. D'autre part, elles s'inscrivent dans la longue durée et sont
+suffisamment stables pour contraindre les acteurs et fonder leurs attentes
+
+
+Les institutions ainsi redéfinies et repositionnées, la recherche sur leur
+impact en politique étrangère peut être guidée par une vaste gamme
+d'approches théoriques, allant du rationalisme au constructivisme. Ce
+chapitre en présente quelques-unes en insistant sur quatre formes
+d'institutions, soit le régime politique, le régime économique, le système
+électoral et l'organisation étatique.
+
+
+La paix démocratique
+
+
+La paix démocratique est probablement la démonstration la plus
+convaincante que les institutions politiques peuvent avoir un impact majeur
+sur la politique étrangère. Il s'agit, pour reprendre les termes de Jack Levy,
+du phénomène « qui se rapproche le plus d'une loi empirique dans la
+discipline des relations internationales » (1988, p. 662). Mais il s'agit aussi
+d'un phénomène dont les rouages précis demeurent obscurs et qui suscite
+toujours des controverses théoriques majeures.
+
+
+Le constat de la paix démocratique
+
+
+La paix démocratique réfère au constat que les démocraties n'ont pas
+tendance à se faire la guerre entre elles. Leurs guerres sont presque
+systématiquement menées contre des autocraties. C'est un constat reproduit
+et validé maintes fois par des études statistiques. Même en contrôlant les
+autres facteurs qui contribuent à expliquer les variations dans les conflits
+
+
+armés, comme le degré d'interdépendance économique, le nombre d'États
+frontaliers, les liens culturels et ethniques, l'appartenance à une
+organisation régionale commune, la stabilité du système international,
+l'asymétrie de puissance, la proximité géographique et les alliances
+militaires, la relation entre la démocratie et la paix demeure statistiquement
+significative. La présence de deux démocraties est une condition presque
+suffisante en elle-même pour garantir des relations pacifiques entre elles.
+C'est une corrélation qui a toutes les apparences d'une causalité (Chan,
+1984 et 1997; Maoz et Abdolali, 1989; Bremer, 1992; Ember et al., 1992;
+Maoz et Russett, 1993; Dixon, 1993 et 1994; Ray, 1998; Maoz, 1997;
+Oneal et Russett, 1997 et 1999; Dixon et Senese, 2002; Oneal et al., 2003 ;
+Choi, 2011).
+
+
+La paix démocratique est essentiellement un phénomène dyadique. La
+majorité des auteurs considèrent que les démocraties ne sont pas
+particulièrement pacifiques. En dehors de leurs relations dyadiques avec les
+autres démocraties, elles semblent aussi belliqueuses que les autocraties.
+Les quelques analystes qui considèrent que les démocraties sont plus
+pacifiques que les autocraties envers tous les pays, quel que soit leur
+régime, reconnaissent généralement que ce comportement monadique qu'ils
+croient déceler est moins prononcé que le phénomène dyadique, qui
+demeure fermement établi (Morgan et Campbell, 1991; Benoit, 1996;
+Rousseau et al., 1996; Rioux, 1998; Leeds et Davis, 1999; Reiter et Stam,
+2003; Keller, 2005).
+
+
+Il faut bien noter, toutefois, qu'il ne s'agit pas d'une loi absolue, mais
+d'un constat probabiliste. La paix démocratique ne signifie pas qu'il n'y a
+jamais eu et qu'il n'y aura jamais d'affrontement militaire entre deux
+démocraties. La guerre entre Israël et le Liban de 2006, par exemple, est
+une exception notable à la paix démocratique. Cependant, la vaste majorité
+des conflits armés depuis deux siècles opposent soit une démocratie et une
+autocratie, soit deux autocraties. Cette tendance, évaluée par rapport à
+l'ensemble des conflits potentiels entre toutes les paires possibles de pays,
+indique que la probabilité d'une guerre entre deux démocraties est infime
+(Arfi, 2009).
+
+
+Certains analystes segmentent l'histoire et notent que la paix
+démocratique n'est statistiquement significative que durant une période
+
+
+particulière. En Grèce antique, les cités démocratiques s'opposaient
+fréquemment et aucune paix démocratique n'était observable. Il s'agirait
+d'un phénomène plus récent. Cependant, les analystes ne s'entendent pas au
+sujet de la période à laquelle elle aurait commencé. La majorité d'entre eux
+situent son émergence au début du $XIX^{e}$ siècle, mais quelques-uns la
+repoussent jusqu'à la guerre froide, ou même jusqu'aux années 1970. On
+pourrait en déduire qu'il s'agit peut-être d'un phénomène temporaire, qui
+risque de s'estomper aussi soudainement qu'il est apparu (Weede, 1984;
+Farber et Gowa, 1995).
+
+
+Inversement, on pourrait croire que la paix démocratique est un
+phénomène qui est appelé à s'accentuer. Le processus de démocratisation,
+conduisant un régime autocratique à la démocratie, est particulièrement
+déstabilisant et crée un contexte favorable aux conflits armés. Selon
+certains, la paix démocratique ne serait possible qu'entre les pays qui
+auraient complètement achevé leur processus de démocratisation. La
+démonstration empirique de cette hypothèse est cependant fragile et
+vivement contestée (Maoz, 1989; Mansfield et Snyder, 2002; Walt, 1996;
+Wolf et al., 1996; Ward et Gleditsh, 1998; Oneal et al., 2003; Mansfield et
+Pevehouse, 2006).
+
+
+Définir les variables de la paix démocratique
+
+
+Bien entendu, le constat probabiliste de la paix démocratique dépend de
+la définition des variables. La notion de démocratie est particulièrement
+polysémique. Plusieurs études statistiques retiennent les indicateurs du
+projet Polity IV pour définir la démocratie, comme le multipartisme et la
+tenue d'élections libres au suffrage universel. Mais au-delà de ces
+indicateurs objectifs, la démocratie peut avoir une dimension subjective. La
+majorité des gouvernements se considèrent démocratiques, incluant le Parti
+socialiste unifié de la défunte République démocratique allemande et le
+régime stalinien de l'actuelle République populaire démocratique de Corée.
+De même, la perception de la démocratie à l'étranger dépend tout autant de
+la proximité culturelle et des alliances politiques que de critères objectifs
+stables (Hermann et Kegley, 1995; Owen, 1997 ; Geva et Hanson, 1999;
+Widmaier, 2005).
+
+
+Ces biais dans la perception de la démocratie peuvent contribuer à
+expliquer quelques anomalies à la paix démocratique. À la fin du
+$XIX^{e}$ siècle, les États-Unis ne reconnaissaient pas la monarchie
+constitutionnelle espagnole comme une démocratie,
+malgré son
+multipartisme, sa liberté de presse et son suffrage universel. La lutte contre
+le despotisme espagnol fut ainsi invoquée pour justifier la guerre de 1898
+qui mena paradoxalement au développement de l'impérialisme américain à
+Cuba, à Porto Rico et aux Philippines (Peceny, 1997). Quelques années plus
+tard, lors de la Première Guerre mondiale, cette situation s'est reproduite.
+Le Royaume-Uni, la France et les États-Unis ne percevaient pas l'empire
+allemand comme une démocratie, bien qu'il en ait plusieurs caractéristiques
+(Oren, 1995). Il est toutefois difficile de déterminer si ce biais de perception
+est une cause ou une conséquence de l'animosité entre les belligérants.
+
+
+La notion de paix est elle aussi ambiguë. Les études statistiques sur la
+paix démocratique la définissent généralement par la négative, c'est-à-dire
+par une absence de guerre interétatique causant plus de 1 000 morts sur une
+période de 12 mois. Or, si les guerres ouvertes entre deux États
+démocratiques sont rares, les conflits par agents interposés et les opérations
+clandestines sont plus fréquents. À l'époque coloniale, les démocraties
+européennes se sont violemment opposées à des mouvements
+démocratiques dans leurs colonies. Plus tard, durant la guerre froide, la CIA
+a mené des opérations armées dans plusieurs démocraties pour lutter contre
+des mouvements socialistes ou révolutionnaires. La majorité de ces
+opérations ne sont pas prises en compte dans les études statistiques sur la
+paix démocratique parce qu'elles ne correspondent pas à la définition de
+guerre interétatique (Trumbore et Boyer, 2000; Barkawi, 2001; Ravlo et
+al., 2003).
+
+
+Cela étant, les études statistiques qui analysent les relations pacifiques
+sous différents angles tendent à confirmer la paix démocratique. Non
+seulement, les démocraties se font moins la guerre entre elles, mais elles ont
+aussi moins de différends de toutes sortes, elles cèdent plus difficilement
+aux tentations d'escalade et elles ont moins tendance à recourir à une forme
+quelconque de force armée l'une contre l'autre. Elles s'imposent moins
+fréquemment des sanctions économiques, et lorsqu'elles le font, elles
+recourent généralement à des formes de sanction qui ne ciblent que l'élite
+
+
+dirigeante pour épargner les citoyens. Les démocraties sont également plus
+enclines à accepter la négociation, la médiation par des tierces parties et les
+recours juridiques pour régler leurs différends. Cette relation pacifique entre
+les démocraties est même observable dans différents domaines, incluant le
+commerce, la gestion des ressources hydriques et l'émission de pollutions
+transfrontières (Moaz et Abdolali, 1989; Maoz et Russett, 1993; Dixon,
+1994; Raymond, 1994; Rousseau et al., 1996; Mousseau, 1998; Rioux,
+1998; Dixon et Senese, 2002; Lektzian et Souva, 2003; Bernauer et Kuhn,
+2010; Kalbhenn, 2011).
+
+
+Par ailleurs, si des définitions plus restrictives sont adoptées, le nombre
+de cas observés dans l'histoire moderne risque alors de devenir trop limité
+pour qu'une relation statistique puisse être fermement établie,
+particulièrement si plusieurs variables de contrôle sont prises en compte. La
+paix démocratique serait alors aussi exacte et dérisoire que de constater que
+les pays dont le nom commence par la lettre K se font rarement la guerre.
+Quelques auteurs évoquent d'ailleurs cette difficulté méthodologique pour
+évoquer la possibilité, improbable, mais possible, que la paix démocratique
+ne soit finalement que le fruit du hasard (Spiro, 1994 ; Thompson, 1996).
+
+
+La nature pacifique des démocraties
+
+
+Le véritable talon d'Achille de la paix démocratique est l'incertitude qui
+plane sur l'explication causale qui lie la démocratie à la paix. S'il est bien
+établi que les démocraties se font rarement la guerre entre elles, il n'y a
+aucun consensus sur les processus causaux qui expliquent ce phénomène.
+Plusieurs hypothèses ont été formulées, mais aucune n'est consensuelle.
+Comme l'a noté Ted Hopf, la paix démocratique « est une régularité
+empirique à la recherche d'une théorie » (1998,  . 191).
+
+
+La première explication qui vient spontanément à l'esprit est
+probablement la moins convaincante. Elle consiste à avancer que l'intérêt
+des États démocratiques est défini à partir des intérêts de ses citoyens, et
+que ceux-ci ont une aversion prononcée pour les guerres interétatiques.
+C'est pourtant une hypothèse fréquemment évoquée depuis Emmanuel Kant
+et Jeremy Bentham.
+
+
+Les individus sont généralement peu enclins à courir le risque de mourir
+au combat, ou de voir leurs proches courir ce risque. Ils peuvent également
+craindre une détérioration de leurs conditions matérielles, que ce soit en
+raison de relations commerciales déstabilisées par le conflit ou du
+financement des opérations militaires. Or, les gouvernements démocratiques
+ne peuvent ignorer cette aversion de leurs citoyens pour la guerre sous
+peine d'être eux-mêmes éjectés du pouvoir.
+
+
+On pourrait déduire de ces préférences individuelles que les démocraties
+ont tendance à privilégier le maintien du statu quo dans le système
+international alors que leurs homologues autocrates peuvent plus facilement
+être tentés par des politiques étrangères expansionnistes. On peut
+effectivement noter que les autocraties ont davantage tendance à intervenir
+dans les guerres civiles pour accaparer des richesses naturelles alors que
+l'appât du gain semble être plus rarement un facteur déterminant dans les
+décisions des démocraties concernant les interventions militaires dans les
+conflits internes. En fait, une forte participation électorale a tendance à
+réduire la propension des élus à mener des conflits armés. On peut
+également noter que les représentants élus semblent plus attachés à la
+résolution pacifique des conflits, puisqu'ils agissent plus souvent comme
+médiateurs dans les conflits internationaux et qu'ils parviennent mieux que
+les dictateurs à maintenir la paix (Doyle, 1986; Lake, 1992; Kydd, 2003;
+Reiter et Tillman, 2002; Reiter et Stam, 2003; Bélanger et al., 2005 ;
+Crescenzi et al., 2011 ; Horowtiz et al., 2011; Koga, 2011).
+
+
+Cette explication de la paix démocratique centrée sur la préférence
+pacifique des démocraties n'est pourtant pas entièrement convaincante.
+Dans plusieurs systèmes démocratiques, des groupes défendant des intérêts
+guerriers ou des idées belliqueuses, comme des entreprises d'armement ou
+des groupes nationalistes, ont suffisamment d'influence pour orienter leurs
+gouvernements vers des politiques guerrières. Les démocraties ont
+d'ailleurs initié plusieurs guerres d'agression, alors que certaines
+autocraties, comme l'Espagne de Franco ou l'Iran du Shah, ont tenté de les
+éviter. A priori, les démocraties ne semblent pas intrinsèquement plus
+raisonnables ou pacifiques (Kegley et Hermann, 1996 ; Geis et al., 2006)
+
+
+En fait, lorsqu'un conflit est amorcé, ce sont les démocraties qui se
+révèlent particulièrement menaçantes. Les élus savent bien qu'un échec
+
+
+militaire peut rapidement se traduire en échec électoral. Ils ont dès lors
+tendance à déployer davantage de ressources afin d'accroître leurs chances
+d'obtenir une victoire militaire. Pour des raisons électoralistes similaires, ils
+ont aussi tendance à viser des victoires totales plutôt qu'à négocier des
+sorties de crise. L'effet de ralliement qu'entraînent les guerres rend toute
+négociation avec l'ennemi politiquement risqué. Par conséquent, plusieurs
+études statistiques notent que les démocraties mènent des guerres qui sont
+plus dévastatrices et victorieuses que celles des autocraties (Lake, 1992;
+Reiter et Stam, 1998 et 2002 ; Desch, 2002 ; Merom, 2003; Biddle et Long,
+2004; Choi, 2004; Palmer et al., 2004; Lyall, 2010; Colaresi, 2012).
+
+
+Ce jusqu'au-boutisme est le fondement d'une autre explication à la paix
+démocratique. En effet, les démocraties ont un incitatif politique à
+minimiser les risques et à choisir des guerres qui ont une forte probabilité
+de succès. Sachant que les autres démocraties sont des adversaires
+particulièrement redoutables et tenaces, les démocraties préfèrent sans
+doute affronter des autocraties. Ce calcul expliquerait à la fois que les
+démocraties mènent autant de guerres que les autocraties, mais qu'elles
+évitent mutuellement de s'affronter. Il s'agit d'une hypothèse formulée en
+toute logique par Bruce Bueno de Mesquita et ses collègues, bien qu'elle ne
+soit pas encore démontrée empiriquement (1999 ; Lektzian et Souva, 2003).
+
+
+Expliquer la paix démocratique par les normes
+
+
+Davantage de travaux empiriques expliquent la paix démocratique par le
+biais des normes. Des études de cas historiques (Russett et Antholis, 1992 ;
+Owen, 1997; Friedman, 2008), des expériences en laboratoire (Mintz et
+Geva, 1993) et des analyses statistiques (Maoz et Russett, 1993; Raymond,
+1994; Mousseau, 1998) révèlent l'existence d'une norme sociale prohibant
+les guerres contre les autres démocraties. Les citoyens, et par extension
+leurs gouvernements, jugeraient que les différends entre les démocraties
+doivent être résolus par la négociation ou l'arbitrage. À leurs yeux, les
+guerres ne seraient légitimes qu'envers les autocraties, particulièrement si
+elles visent à libérer un peuple de ses oppresseurs et à diffuser la
+démocratie.
+
+
+Des analystes considèrent même qu'il existe une identité collective entre
+les démocraties qui préviendrait les conflits armés en leur sein. Les
+démocraties partagent déjà certaines valeurs qui favorisent la convergence
+de leur politique étrangère et réduisent les sources de tension (Gartzke,
+1998 et 2000). Cette affinité a servi de vivier à la création d'une identité
+collective, développée en opposition aux autocraties. L'expérience de la
+Seconde Guerre mondiale et celle de la guerre froide a notamment fourni
+une trame narrative commune. Aujourd'hui, cette identité collective teinte
+le regard que les démocraties posent sur le monde. Un même comportement
+peut être interprété comme défensif s'il est adopté par une autre démocratie,
+mais comme offensif s'il est adopté par une autocratie. Lorsqu'un conflit
+survient, les démocraties ont tendance à se regrouper et à s'appuyer les unes
+aux autres (Siverson et Emmons, 1991; Wendt, 1994; Risse Kappen,
+1995; Werner et Lemke, 1997 ; Peceny, 1997; Lai et Reiter, 2000; Hayes,
+2009; Vucetic, 2011).
+
+
+Curieusement, il semble y avoir un phénomène similaire entre les
+autocraties. Si on décompose les autocraties en trois catégories, soit les
+régimes militaires (comme la junte militaire en Birmanie), les régimes
+personnels (comme la Libye de Kadhafi) et les régimes à parti unique
+(comme la Chine communiste), il semble effectivement qu'il existe une
+certaine communauté d'appartenance entre les dictatures d'une même
+catégorie. Depuis 1945, il n'y a eu aucune guerre opposant deux régimes
+personnels ou deux régimes militaires, et les conflits entre les régimes à
+parti unique sont demeurés particulièrement rares. Une norme, tant dans les
+démocraties que dans les autocraties, prohiberait les guerres avec les
+régimes semblables (Peceny et al., 2002 ; Peceny et Beer, 2003).
+
+
+Cette explication de la paix démocratique par les normes et les identités
+collectives est toutefois critiquée. Quelques études soulignent que la nature
+du régime politique d'un pays étranger joue rarement un rôle clé dans les
+délibérations politiques. Par ailleurs, lors de la guerre froide, plusieurs
+démocraties se sont alliées à des régimes dictatoriaux particulièrement
+répressifs et ne sont pas intervenues lorsqu'une autre démocratie risquait de
+basculer vers l'autocratie. Il existe certainement une communauté
+d'appartenance européenne, voire atlantique, mais si une communauté
+fédérant toutes les démocraties existe bien dans l'esprit ou les pratiques des
+
+
+dirigeants politiques, elle semble encore fragile (Layne, 1994; Simon et
+Gartzke, 1996; Gibler et Wolford, 2006).
+
+
+L'échange d'information et la crédibilité
+
+
+De nombreux analystes expliquent plutôt la paix démocratique par la
+capacité des démocraties à échanger de l'information crédible. Avant
+d'initier une guerre, les gouvernements démocratiques doivent préparer
+l'opinion publique et, dans certains cas, ils doivent même obtenir l'aval des
+parlementaires. Il leur est généralement impossible de lancer une attaque-
+surprise de grande envergure. En fait, même lorsqu'ils n'envisagent pas de
+s'impliquer dans un conflit armé, ils sont constamment pressés de
+s'exprimer sur leurs intentions, leurs objectifs, leurs préférences et leurs
+moyens. Les démocraties sont ainsi beaucoup plus loquaces et transparentes
+que les autocraties.
+
+
+Ces
+informations transmises par l'intermédiaire des débats
+parlementaires ou des médias sont, en outre, crédibles. Les décideurs des
+démocraties ne peuvent transmettre des informations erronées ou dévier des
+intentions qu'ils ont annoncées sans subir un coût réputationnel et risquer
+d'en souffrir lors des prochaines élections. S'ils formulent une menace, ils
+créent un effet de ralliement et génèrent eux-mêmes un coût réputationnel
+qui les empêche de faire marche arrière. Sachant que le bluff n'est pas à la
+portée des démocraties, les signaux qu'ils envoient à leurs adversaires sont
+plus crédibles. Les démocraties peuvent donc les utiliser pour trouver des
+solutions à leurs conflits avant qu'ils ne s'enveniment (Fearon, 1994 et
+1997; Schultz, 1998, 1999 et 2001; Gartzke et Li, 2003; Slantchev, 2006;
+Tomz, 2007; Potter et Baum, 2010).
+
+
+Cette explication de la paix démocratique à travers la crédibilité des
+informations que s'échangent les démocraties fait l'objet de quelques
+critiques. Pour certains, la liberté de la presse joue effectivement un rôle
+crucial dans la transmission d'informations crédibles, mais elle ne
+correspond pas nécessairement à la nature du régime politique. Une
+démocratie peut exercer un contrôle sur la presse et quelques autocraties ont
+une presse libre. Il serait donc plus juste de parler de la « paix de la liberté
+de la presse » plutôt que de la « paix démocratique » (van Belle, 2000).
+
+
+D'autres considèrent que même les régimes autocratiques peuvent être
+vulnérables au coût réputationnel et se trouver dans l'impossibilité de faire
+marche arrière sans en payer le prix politique. Le premier secrétaire
+Khrouchtchev, par exemple, fut contraint de démissionner dans les mois qui
+suivirent sa volte-face lors de la Crise des missiles de Cuba. Les
+informations venant des autocraties seraient donc elles aussi suffisamment
+crédibles pour servir de base à la négociation (Weeks, 2008).
+
+
+En somme, aucune des explications à la paix démocratique n'est aussi
+bien documentée que la paix démocratique elle-même. L'inclinaison
+agressive de certaines démocraties, les tensions fréquentes entre elles, et les
+nombreux cas de coopération avec des autocraties font de la paix
+démocratique un phénomène particulièrement intriguant. En réalité, il s'agit
+probablement d'un phénomène multicausal. Les explications évoquées ne
+sont pas en contradiction les unes aux autres et il est tout à fait probable que
+plusieurs interviennent simultanément dans l'explication à la paix
+démocratique (Moaz et Russett, 1993 ; Owen, 1997; Starr, 1997).
+
+
+Le libéralisme économique
+
+
+L'idée du libre marché a émergé de la philosophie des Lumières,
+parallèlement avec celles des droits universels et de la paix perpétuelle. La
+Richesse des nations d'Adam Smith (1776), Du contrat social de Jean-
+Jacques Rousseau (1762), et Vers la paix perpétuelle d'Emmanuel Kant
+(1795) se fondent tous les trois sur le principe que la liberté individuelle
+conduit au bien-être collectif. Dès lors, plusieurs jugent qu'une politique
+étrangère libérale, pour rester cohérente avec elle-même, doit poursuivre ce
+triple héritage. Le libéralisme en politique étrangère signifierait à la fois
+faire la promotion du libre-échange, veiller à la défense des Droits de
+l'homme à travers le monde, et assurer le maintien de relations pacifiques
+(Doyle, 1986 et 2005 ; Russett et Oneal, 2001; Deblock, 2010).
+
+
+Le discours libéral a profondément orienté la recherche sur les relations
+triangulaires entre la paix, le commerce et les Droits de l'homme, tant et si
+bien que les autres perspectives normatives et théoriques sont presque
+ignorées (Neocleous, 2012). Le nouveau courant qui réinvestit depuis peu
+cette question, « l'économie politique ouverte », est lui aussi un des
+
+
+nombreux dérivés du libéralisme (Lake, 2009). Si la paix démocratique est
+un constat empirique à la recherche d'une théorie, la paix libérale est une
+théorie à la soif inextinguible pour les démonstrations empiriques. Elle est
+déjà relativement bien étayée par la recherche bien que des zones d'ombres
+subsistent toujours.
+
+
+De la démocratie au libre-échange
+
+
+La première vague de libéralisation commerciale découla effectivement
+d'un débat sur les droits individuels. Au milieu du $XIX^{e}$ siècle, la
+bourgeoisie britannique revendiquait avec insistance l'abrogation des Corn
+Laws, une série de mesures protectionnistes sur le commerce des céréales
+profitant principalement à l'aristocratie terrienne. Ce protectionnisme était
+dénoncé comme un privilège injustement accordé à une minorité. Le libre-
+échange, au contraire, devait profiter à ceux qui s'enrichissent par leur
+travail plutôt qu'à ceux qui ont hérité d'un domaine agricole. Il devait
+favoriser les importations de matières premières, abaisser le prix des
+denrées alimentaires, et maintenir des relations pacifiques stables avec les
+partenaires commerciaux étrangers. Malgré les résistances d'une partie de
+l'aristocratie, le Parlement britannique céda sous la pression en 1846,
+abrogea les Corn Laws et abaissa unilatéralement les tarifs douaniers. Ce
+faisant, il entraîna dans sa suite le premier mouvement de libéralisation
+commerciale à l'échelle planétaire (Kindleberger, 1981; Spall, 1988;
+Brawley, 2006).
+
+
+Aujourd'hui encore, les démocraties ont tendance à privilégier des
+politiques commerciales plus libérales que les autocraties. En effet, les
+systèmes politiques inclusifs encouragent les politiques qui profitent au plus
+grand nombre d'individus, et ce même lorsque les gains sont minimes pour
+la majorité et que les pertes sont fatales pour une minorité. Cette tendance
+est encore plus prononcée dans les systèmes électoraux ayant des
+circonscriptions suffisamment étendues pour que les préférences des
+différents groupes d'intérêt s'annulent ou soient dissoutes dans la masse des
+électeurs. Inversement, les autocraties ont davantage tendance à privilégier
+des politiques protectionnistes qui profitent aux minorités influentes. Elles
+maintiennent des tarifs douaniers plus élevés et offrent davantage de
+
+
+subventions aux industries qui appuient le pouvoir (Rogowski, 1987;
+Brawley, 1993; McGillivray et Smith, 2004; Li, 2006; Eichengreen et
+Leblang, 2008).
+
+
+Cette relation entre la démocratie et le commerce est particulièrement
+prononcée dans les pays en développement. Selon le théorème de Stolper-
+Samuelson du modèle Heckscher-Ohlin, lorsque le principal facteur de
+production est le travail plutôt que le capital ou la terre, les travailleurs ont
+collectivement intérêt à ce que leur économie s'ouvre aux investisseurs
+étrangers et s'oriente vers l'exportation, de façon à augmenter la demande
+pour la main-d'œuvre et à exercer une pression à la hausse sur les salaires.
+Un système politique démocratique peut permettre aux travailleurs de
+revendiquer cette préférence et de contrer les résistances protectionnistes.
+Ainsi, la vague de démocratisation des pays en développement dans les
+années 1980 et 1990 a probablement contribué à la libéralisation de leur
+économie (Rogowski, 1987 ; Dutt et Mitra, 2005; Milner et Kubota, 2005;
+O'Rourke et Taylor, 2007; Baccini, 2011).
+
+
+Les démocraties ont également davantage tendance à conclure des
+accords de libre-échange. Pour des représentants élus, un accord de libre-
+échange n'est pas uniquement une stratégie pour assurer la réciprocité de la
+libéralisation; c'est aussi une occasion symbolique de monter à leurs
+citoyens qu'ils s'attaquent activement aux problèmes économiques
+(Mansfield et al., 2002).
+
+
+Cela dit, les démocraties ne commercent pas nécessairement davantage
+entre elles qu'avec les autocraties. Les études statistiques sur le sujet sont
+contradictoires. Certaines concluent que les démocraties commercent
+davantage entre elles alors que d'autres infirment cette hypothèse (Bliss et
+Russett, 1998; Morrow et al., 1998; Verdier, 1998; Mansfield et al.,
+2000; Bartilow et Voss, 2006 et 2009).
+
+
+Il semble également que les forces démocratiques n'œuvrent pas à une
+libéralisation complète ni ne contribuent à la libéralisation dans tous les
+domaines. Les démocraties occidentales, particulièrement les États-Unis,
+les pays européens et le Japon, maintiennent des fortes mesures
+protectionnistes en matière agricole, que ce soit en termes de tarifs
+douaniers ou de subventions publiques ou d'obstacles phytosanitaires. Ces
+mesures protectionnistes ne découlent pas seulement de la capacité de
+
+
+mobilisation des agriculteurs supérieure à celle des consommateurs, mais
+aussi de la préférence des citoyens. Que ce soit en France ou au Japon, les
+citoyens qui pourraient bénéficier économiquement d'une réduction du
+protectionnisme agricole demeurent majoritairement favorables à son
+maintien, même lorsqu'ils sont bien informés des répercussions directes sur
+les prix à la consommation et les dépenses publiques. Ce paradoxe ne
+saurait être expliqué par les théories libérales classiques (Naoi et Kume,
+2011).
+
+
+Du libre-échange à la paix et vice-versa
+
+
+La théorie de la paix libérale avance que le libre commerce favorise des
+relations pacifiques. En effet, les conflits ont tendance à restreindre les
+échanges commerciaux entre les belligérants. Plus les relations
+commerciales sont intenses, plus le coût économique d'un conflit est élevé.
+Au-delà d'un certain seuil, les gains que peut éventuellement apporter une
+victoire militaire sont plus faibles que les pertes entrainées par le conflit.
+C'est du moins l'explication rationaliste la plus probable au constat
+empirique, maintes fois reproduit statistiquement, que l'interdépendance
+économique diminue les risques de conflits (Polachek, 1980; Oneal et
+Russett, 1999; Mansfield et Pevehouse, 2000; Li et Sacko, 2002; Oneal et
+al., 2003; Simmons, 2005; McDonald, 2004; Bussmann et Schneider,
+2007; Gartzke, 2007; Goldsmith, 2007; Xiang et al., 2007; Böhmelt,
+2010; Bussmann, 2010; Dorussen et Ward, 2010; Fordham, 2010; Hegre
+et al., 2010; Kelinberg et Fordham, 2010 ; Polachek et Xiang, 2010; Soysa
+et Fjelde, 2010).
+
+
+Cette relation positive entre l'interdépendance économique et les
+relations pacifiques est si bien établie que la recherche se concentre
+maintenant sur les conditions qui la font varier. Trois catégories de
+conditions ont été identifiées. L'effet pacificateur du commerce varie
+d'abord en fonction des caractéristiques propres aux pays impliqués. Il est
+ainsi davantage prononcé lorsque les pays impliqués sont des démocraties,
+des pays développés ou ont des systèmes électoraux qui favorisent les
+grands exportateurs (Papayoanou, 1996; Hegre, 2000; Krastner, 2007;
+Gelpi et Grieco, 2008).
+
+
+La paix libérale varie également en fonction de la nature des produits
+échangés. Le commerce d'armements, par exemple, est fortement corrélé
+aux relations pacifiques : aucun État ne vend des armes à ses adversaires !
+Le commerce du pétrole, par contre, augmente les probabilités statistiques
+de conflits entre les partenaires commerciaux (Goenner, 2010; Li et
+Reuveny, 2011).
+
+
+Enfin, la nature de l'interdépendance influe sur ses effets pacificateurs.
+La valeur du commerce sur celle de la production nationale, le degré
+d'institutionnalisation des relations commerciales, la symétrie de ces
+relations et les perspectives de croissance future interviennent tous dans la
+relation entre le commerce et la paix (Copeland, 1996; Gartzke et Li,
+2003; Hegre, 2004; McDonald, 2004).
+
+
+Sachant que, ceteris paribus, l'interdépendance économique favorise les
+relations pacifiques, il n'est pas surprenant que d'anciens belligérants se
+tournent vers le commerce pour mettre définitivement un terme à leurs
+différends passés. La Communauté européenne du Charbon et de l'Acier,
+édifiée sur les cendres de la Seconde Guerre mondiale, est loin d'être un
+exemple isolé. Les couples argentino-brésilien, indo-pakistanais et
+américano-vietnamien ont tous conclu des accords commerciaux pour
+marquer leur engagement à nouer des relations pacifiques. Cette pratique
+est si courante que les conflits passés augmentent statistiquement les
+probabilités de conclusion d'un accord de libre-échange (Martin et al.,
+2010).
+
+
+En fait, le choix d'un partenaire de libre-échange découle souvent plus
+d'une relation sécuritaire privilégiée que d'une logique commerciale. La
+vague d'accords de libre-échange conclus sous la présidence de
+l'administration de George W. Bush est particulièrement symptomatique à
+cet égard. Plusieurs accords furent conclus avec des pays qui ne
+représentent pas un marché important pour les États-Unis, mais qui ont
+appuyé la guerre en Irak, comme l'Australie, le Salvador, la Corée du Sud,
+le Nicaragua, la République dominicaine et le Honduras. D'autres accords
+furent conclus avec des pays qui ont étroitement collaboré à la guerre contre
+le terrorisme, comme le Maroc et le Bahreïn. Inversement, l'administration
+Bush s'est montrée peu enthousiaste à la proposition de négociation un
+accord de libre-échange avec la Nouvelle-Zélande, un pays qui n'a pas
+
+
+appuyé la guerre en Irak et qui refuse systématiquement de laisser les
+navires nucléaires américains naviguer dans ses eaux territoriales (Schott,
+2004).
+
+
+Curieusement, les États-Unis n'ont signé aucun accord de libre-échange
+avec l'Irak alors que leurs échanges commerciaux ont bondi durant la
+guerre. Les exportations américaines sont passées de 31 millions de dollars
+en 2002 à plus de 2 milliards en 2011. Cette situation n'est en rien
+exceptionnelle. Plusieurs travaux démontrent les alliances militaires, et plus
+encore les occupations militaires, accroissent significativement les flux de
+commerce et d'investissement (Pollins, 1989; Gowa et Mansfiled, 1993 et
+2004; Mansfield et Bronson, 1997; Long, 2003 et 2008 ; Bartilow et Voss,
+2006; Biglaiser et DeRouen, 2007).
+
+
+Critiques de la paix libérale
+
+
+Cette perspective libérale, selon laquelle il existerait une synergie entre la
+démocratie, le commerce et la paix, n'est pourtant pas exempte de critiques.
+Pour certains, l'endogénéité entre le commerce et la paix conduirait les
+études statistiques à surestimer les relations positives de l'un sur l'autre.
+Les mécanismes causaux vont en double sens, mais peu d'études en
+tiennent compte lorsqu'elles tentent de mesurer les effets du commerce ou
+ceux des alliances militaires (Keshk, 2004; Kim, 2005 ; Goenner, 2011).
+
+
+Des critiques plus radicales soulignent que, dans certains cas, le
+commerce peut favoriser les conflits armés. Plusieurs hypothèses sont
+évoquées, bien qu'elles soient en contradiction les unes aux autres et
+qu'aucune ne soit fermement confirmée (Martin et al., 2008; Peterson,
+2011).
+
+
+Une première hypothèse soutient que, si un pays est dépendant de l'accès
+aux marchés étrangers, il devient vulnérable à la coercition économique et à
+diverses formes d'intrusion. Il peut alors être tenté de s'engager dans un
+conflit armé pour regagner son autonomie.
+
+
+Une seconde hypothèse suggère que la libéralisation multilatérale, en
+atténuant les relations de dépendances bilatérales, favorise les conflits. Les
+
+
+négociations tenues à l'OMC réduiraient le coût d'opportunité des conflits
+bilatéraux, les rendant dès lors plus attractifs.
+
+
+Une troisième hypothèse se fonde sur le constat que l'intensification des
+relations commerciales entre deux pays peut conduire à un détournement de
+commerce au détriment d'un troisième. Celui-ci peut alors envisager de
+recourir à la force armée pour reconquérir ses parts de marché perdues.
+
+
+Il existe bien une quatrième hypothèse, plus radicale encore. Il s'agit de
+celle formulée par Lénine dans Impérialisme, stade suprême du capitalisme
+(1917). Selon Lénine, le libéralisme favorise l'édification de grands groupes
+industriels et bancaires qui, après avoir acquis une position dominante sur
+leur marché respectif, doivent s'affronter pour continuer leur expansion. La
+Première Guerre mondiale serait la manifestation exemplaire d'un tel
+affrontement.
+
+
+Si l'ouvrage de Lénine a disparu des références bibliographiques
+habituelles et que la vision libérale domine aujourd'hui la littérature, la
+Première Guerre mondiale demeure un cas intriguant. Comment expliquer
+que des démocraties ayant des relations commerciales particulièrement
+intégrées se soient livré une guerre aussi dévastatrice ? Les dichotomies
+démocratie/autocratie et libéralisme/protectionnisme sont probablement
+trop grossières pour éclairer cette apparente anomalie. Afin de comprendre
+la Première Guerre mondiale, il faut plutôt privilégier une analyse fine et
+porter une attention particulière aux institutions spécifiques de chaque pays,
+et notamment à leur système parlementaire (Tuchman, 1962 ; Kaiser, 1983 ;
+Papayoanou, 1996).
+
+
+Le système parlementaire et électoral
+
+
+Le terme polysémique « démocratie » agrège toute une gamme de
+configurations institutionnelles différentes. Les systèmes électoraux et
+parlementaires, notamment, varient significativement d'une démocratie à
+une autre. Or, ces variations institutionnelles au sein des démocraties
+peuvent contribuer à expliquer certaines différences dans leur politique
+étrangère.
+
+
+Les régimes présidentiels et parlementaires
+
+
+Une première distinction fondamentale oppose les régimes présidentiels
+aux régimes parlementaires. Les premiers sont caractérisés par une stricte
+séparation entre le pouvoir législatif et exécutif et les seconds par une
+interdépendance entre les deux pouvoirs. Dans les régimes présidentiels, la
+conduite de la politique étrangère est confiée au Président, mais celui-ci ne
+peut ignorer le contre-pouvoir exercé par le Parlement. Inversement, le
+Premier ministre à la tête d'un régime parlementaire est issu du Parlement
+et en contrôle généralement la majorité. Il bénéficie donc d'une plus grande
+autonomie dans la conduite de la politique étrangère.
+
+
+L'exemple le plus classique de président dont les pouvoirs sont limités
+par le Parlement est certainement le président américain. En effet, le
+Congrès américain peut intervenir en politique étrangère de plusieurs
+manières. Il peut notamment adopter des lois et des résolutions, fixer les
+politiques budgétaires et confirmer les nominations importantes. Ces
+pouvoirs ont permis au Congrès de se prononcer sur la qualification de
+génocide des massacres commis à l'encontre des Arméniens, de bloquer des
+prêts du Fonds monétaire international aux pays qui violent
+systématiquement les Droits de l'homme, et de mettre un terme à la carrière
+de John Bolton comme ambassadeur américain.
+
+
+La constitution américaine confère également au Congrès le pouvoir de
+réguler le commerce extérieur, de déclarer la guerre et de ratifier les traités.
+Woodrow Wilson n'a ainsi jamais pu convaincre le Sénat de ratifier le
+Traité de Versailles alors qu'il en était un des principaux architectes. La
+Charte de La Havane et le Traité d'interdiction complète des essais
+nucléaires ont connu un sort similaire, malgré certains appuis à la Maison
+Blanche. Comme John F. Kennedy le remarqua lui-même : « Le président
+[est] un homme disposant de pouvoirs extraordinaires, mais il est également
+vrai qu'il doit exercer ces pouvoirs sous des limitations extraordinaires »
+(Sorensen, 1965, p. xii).
+
+
+Le pouvoir du Congrès sur la politique commerciale américaine fut
+particulièrement frappant lors la crise de 1929. Dans la panique, le Congrès
+adopta en 1930 la loi Smoot-Hawley, resté tristement célèbre aux États-
+Unis. Cette loi haussa drastiquement les tarifs douaniers, accentuant par le
+
+
+fait même les effets de la crise et la diffusant à l'échelle internationale. Si le
+contrôle de la politique commerciale américaine avait été centralisé à la
+Maison Blanche, la réaction aurait sans doute été différente. Le Congrès est
+traditionnellement plus réceptif aux doléances des victimes immédiates
+d'une crise économique puisque les représentants sont élus à une échelle
+locale et qu'ils retournent en élections tous les deux ans. D'ailleurs, se
+sachant institutionnellement vulnérable aux pressions sociales, le Congrès
+transféra lui-même une partie du contrôle de la politique commerciale vers
+la branche exécutive après le fiasco de la loi Smoot-Hawley (Krasner,
+1977; Frieden, 1988; Haggard, 1988; Goldstein, 1988; Bailey et al.,
+1997; Hiscox, 1999; Ehrlich, 2008).
+
+
+En comparaison au président américain, le Premier ministre canadien
+jouit d'une marge de manœuvre considérable. En effet, le système
+parlementaire canadien ne prévoit pas que le Premier ministre doive
+consulter le Parlement avant d'engager dans un conflit armé ou de ratifier
+un traité international. C'est d'ailleurs cette particularité qui peut expliquer
+que le Canada ait ratifié le Protocole du Kyoto alors que l'administration
+Clinton, incluant le vice-président Al Gore, n'a pas osé le soumettre au
+Sénat. Le Canada n'est pas plus efficace sur le plan de la consommation
+énergétique que les États-Unis, il n'a pas d'avantage intérêt à réduire sa
+dépendance énergétique, il n'est pas significativement plus vulnérable aux
+changements climatiques, et il ne dispose pas d'une avancée plus
+importante dans la réduction des émissions de gaz à effet de serre. Par
+contre, le régime parlementaire canadien a permis au Premier ministre Jean
+Chrétien de ratifier le Protocole de Kyoto en ignorant les protestations de
+certains parlementaires, ce qui était hors de portée pour l'administration
+Clinton (Harrison, 2007).
+
+
+Ces règles constitutionnelles ne permettent pas à elles seules de bien
+cerner le rôle des parlements en politique étrangère. Différentes normes et
+pratiques peuvent accentuer leur influence, même dans les régimes
+parlementaires. Les députés canadiens, par exemple, contribuent
+fréquemment à la formulation de la politique étrangère en débattant des lois
+de mise en œuvre des traités, en prenant position publiquement sur
+l'actualité internationale, en questionnant le gouvernement sur ses
+politiques, en menant des missions à l'étranger, en collaborant avec les
+
+
+parlementaires des autres pays, et en produisant des rapports de recherche
+sur la politique étrangère (Nolan, 1985; Clark et Nordstrom, 2005; Carter
+et Scott, 2009).
+
+
+Inversement, dans les systèmes présidentiels, l'exécutif bénéficie
+généralement d'une marge de manœuvre qui va bien au-delà que ce que
+pourrait suggérer la lecture de la constitution. Les présidents américains
+exploitent fréquemment leur prestige et leur accès direct aux médias pour
+orienter les débats publics dans une direction donnée et inciter le Congrès à
+leur emboiter le pas (Meernik, 1993; Entman, 2004). Certains présidents
+ont même déjoué les compétences du Congrès en utilisant leur fonction de
+commandant en chef des armées pour s'engager dans des conflits sans
+attendre une autorisation du Congrès (Auerswald et Cowhey, 1997).
+Plusieurs ont qualifié des traités internationaux « d'accords exécutifs » pour
+éviter l'obligation d'obtenir l'approbation du Sénat (Caruson et Farrar-
+Myer, 2007). L'administration Reagan est allée jusqu'à vendre secrètement
+des armes à l'Iran pour financer des groupes d'insurgés au Nicaragua sans
+laisser de trace officielle dans les comptes budgétaires du Congrès (Koh,
+1988).
+
+
+Les relations entre le Congrès et le Président évoluent en fonction du
+contexte historique. Au début de la guerre froide, le président américain
+bénéficiait d'un fort appui du Congrès. S'il faisait souvent face à des
+objections majeures sur des questions de politique interne, les membres du
+Congrès firent preuve de retenue en politique étrangère, de peur d'affaiblir
+la position des États-Unis face à son rival soviétique. Cette « double
+présidence », plus forte en politique étrangère qu'en politique interne,
+s'effrita progressivement avec l'opposition à la guerre du Vietnam et le
+scandale du Watergate. Le Congrès intervint alors plus souvent en politique
+étrangère et contrecarra plus régulièrement les décisions de la Maison
+Blanche. Les Républicains et les Démocrates osèrent plus ouvertement
+afficher leurs désaccords sur la politique étrangère. C'est seulement avec les
+attaques du 11 septembre 2001 que le Président bénéficia d'un Congrès
+particulièrement docile en politique étrangère, du moins jusqu'à ce que les
+déboires de la guerre d'Irak deviennent manifestes (Wildavsky, 1966;
+McCormick et Wittkopf, 1990 et 1992; Wittkopf et McCormick, 1998;
+Fleisher et al., 2000; Sabbag, 2001; Scott et Carter, 2002; Kassop, 2003;
+
+
+Lindsay, 2003 ; Johnson, 2005; Souva et Rohde, 2007; Busby et Monten,
+2008; Meernik et Oldmixon, 2008; Carter et Scott, 2009; Newman et
+Lammert, 2011).
+
+
+En raison de ces fluctuations, la politique étrangère des régimes
+présidentiels ne se distingue pas toujours de celle des régimes
+parlementaires. De façon générale, on peut s'attendre à ce que la politique
+étrangère des systèmes présidentiels s'inscrive dans une plus grande
+continuité à long terme, alors que celle des systèmes parlementaires fluctue
+davantage en fonction du gouvernement en place. Le passage de
+l'administration de George W. Bush à celle de Barack Obama ne s'est pas
+traduit par une rupture de politique étrangère majeure, alors que le passage
+de l'administration de Silvio Berlusconi à celle de Mario Monti en Italie, et
+celui de Gordon Brown à David Cameron au Royaume-Uni, ont entraîné
+des modifications importantes (Andreatta, 2008 ; Beech, 2011).
+
+
+Néanmoins, si des règles formelles les opposent, les régimes présidentiels
+et parlementaires se rejoignent parfois en pratique. Dans les régimes
+présidentiels, les présidents n'ont pas formellement toutes les compétences
+pour agir unilatéralement, mais ils bénéficient, à certains moments, de
+forces politiques centrifugent. Dans les régimes parlementaires, les
+premiers ministres ont une plus grande marge de manœuvre, mais ils ne
+peuvent ignorer les préférences des parlementaires devant lesquels ils sont
+politiquement responsables, surtout lorsqu'ils n'en contrôlent pas une
+majorité absolue. C'est sans doute la raison pour laquelle plusieurs études
+recherchant des différences majeures dans leurs politiques étrangères
+arrivent à des conclusions ambiguës (Auerswald, 1999; Reiter et Tillman,
+2002; Leblang et Chan, 2003).
+
+
+Les parlementaires et leur préférence
+
+
+Une variable qui explique davantage les variations de politique étrangère
+que le régime politique est l'orientation idéologique du parti au pouvoir.
+Les gouvernements de droite et de gauche ont tendance à privilégier des
+politiques étrangères assez différentes.
+
+
+Des études statistiques indiquent que les gouvernements de droite, dont
+l'électorat est généralement moins pacifiste, sont plus fréquemment
+impliqués dans des conflits armés. Les gouvernements de gauche, par
+contre, font plus souvent l'objet d'attaques de pays étrangers et les conflits
+dans lesquels ils sont impliqués ont davantage tendance à dégénérer. Peut-
+être parce qu'ils se savent vulnérables aux attaques, les gouvernements de
+gauche investissent davantage dans les dépenses militaires que leurs
+homologues de droite. Les dépenses militaires, qui sont une forme
+d'intervention étatique dans l'économie, peuvent également s'inscrire dans
+le cadre d'une politique de redistribution (Marra, 1985; Prins, 2001;
+Narizny, 2003; Palmer et al., 2004 ; Schuster et Maier, 2006)
+
+
+En matière d'aide au développement, quelques études indiquent que les
+gouvernements contrôlés par un parti de gauche ont tendance à donner à un
+plus grand nombre de pays et à offrir à chacun davantage d'aide que les
+gouvernements de droite (Imbeau, 1989; Thérien et Noël, 2000; Travis,
+2010).
+
+
+En outre, les politiques commerciales des gouvernements de gauche
+correspondent davantage aux prédictions du modèle classique de
+Heckscher-Ohlin-Samuelson. Dans les pays qui ont une main-d'œuvre
+abondante, les gouvernements de gauche ont tendance à favoriser la
+libéralisation du commerce pour attirer les investisseurs et fournir des
+emplois. Dans les économies qui ont un taux de capital par tête plus élevé,
+ils privilégient plutôt le protectionnisme pour protéger les emplois de la
+délocalisation (Dutt et Mitra, 2005).
+
+
+Lorsque les parlementaires ne sont pas soumis à une stricte discipline de
+parti, les variations de leurs votes correspondent également aux prédictions
+du modèle Heckscher-Ohlin-Samuelson. Plusieurs études statistiques
+démontrent que les sénateurs et représentants américains se positionnent sur
+les questions de politique étrangère en concordance avec les intérêts
+économiques des électeurs du district ou de l'État qu'ils représentent
+(Fordham, 1998; Gartzke et Wrighton, 1998; Conley, 1999; Baldwin et
+Magee, 2000; Fordham et McKeown, 2003 ; Broz, 2005; Broz et Hawes,
+2006; Ladewig, 2006; Jeong, 2009 ; Milner et Tingley, 2011).
+
+
+Sur certains enjeux de politique étrangère, toutefois, les élus américains
+semblent particulièrement guidés par leurs croyances et leurs valeurs
+
+
+personnelles. C'est le cas notamment au sujet des sanctions économiques, la
+politique envers Israël et le contrôle des missiles antibalistiques (Bernstein
+et Anthony, 1974; McCormick et Black, 1983; Hill, 1993; Rosenson et
+al., 2009; Milner et Tingley, 2011).
+
+
+Malgré cette abondance d'analyses, les motivations réelles des membres
+du Congrès ne sont pas facilement identifiables. D'une part, il n'y a plus
+souvent une concordance qu'une opposition entre leurs inclinaisons
+idéologiques et leurs intérêts électoraux. D'autre part, différentes coalitions
+plus ou moins stables et informelles peuvent se former et influencer leurs
+votes, comme l'alliance traditionnelle entre les internationalistes et les
+libéraux ou celle, plus récente, entre les évangélistes et les partisans d'une
+politique étrangère agressive. Les partis politiques, aux États-Unis comme
+ailleurs, ne sont que des coalitions formalisées qui fédèrent plusieurs
+intérêts. Même lorsque leur discipline est souple, les partis demeurent des
+lieux centraux de marchandages entre différentes inclinaisons de politique
+étrangère (Avery et Forysthe, 1979 ; Cronin et Fordham, 1999; Rosenson et
+al., 2009).
+
+
+Cohabitations et coalitions
+
+
+Tout autant que le parti politique du chef de gouvernement et de la
+majorité parlementaire, le contexte politique particulier dans lequel l'un et
+l'autre se trouvent exerce une influence déterminante. Dans les systèmes
+présidentiels et semi-présidentiels, il peut arriver, selon le résultat des urnes,
+que le chef d'État et la majorité parlementaire appartiennent à deux
+formations politiques différentes. C'est notamment le cas en France où le
+Président et le Premier ministre peuvent appartenir à deux partis différents,
+contraignant l'un comme l'autre (Volgy et Schwarz, 1991).
+
+
+Plusieurs travaux démontrent que la cohabitation est un contexte
+politique particulièrement défavorable au déploiement d'une politique
+étrangère ambitieuse et risquée. Les gouvernements divisés favorisent
+généralement le maintien du statu quo. Ils ont statistiquement moins
+tendance à s'engager résolument vers une libéralisation commerciale ou à
+initier des conflits armés (Cowhey, 1993; Cohen, 1994; Lohmann et
+
+
+O'Halloran, 1994; Meernik, 1995; Milner et Rosendorff, 1997; Clark,
+2000; Howell et Pevehouse, 2005).
+
+
+Les systèmes fondés sur un mode de scrutin proportionnel, quant à eux,
+peuvent conduire à la formation de gouvernement de coalition entre
+plusieurs partis politiques différents. Ces coalitions sont généralement
+fragiles et imposent des négociations continuelles entre les partis impliqués.
+De petits partis, de droite ou de gauche, nationalistes ou écologistes peuvent
+alors en profiter pour réorienter la politique étrangère. Cependant, ces partis
+n'orientent pas systématiquement la politique étrangère dans une direction
+particulière. Les travaux qui étudient la tendance des gouvernements de
+coalition à recourir à la force armée aboutissent à des résultats
+contradictoires. Ceux qui étudient l'effet du mode de scrutin proportionnel
+sur la libéralisation commerciale sont tout autant contradictoires
+(Rogowski, 1987 ; Garrett et Lange, 1995; Prins et Sprecher, 1999; Ireland
+et Gartner, 2001 ; Reiter et Tillman, 2002; Leblang et Chan, 2003; Milner
+et Judkins, 2004 ; Palmer et al., 2004 ; Li, 2005 ; Chan et Safran, 2006).
+
+
+La principale tendance des gouvernements de coalition est plutôt
+d'adopter une politique étrangère momentanément plus extrême, dans une
+direction ou dans un autre. Les fluctuations de l'orientation européaniste de
+la Turquie ou les revirements dans les engagements de paix d'Israël, par
+exemple, s'expliquent en partie par leur mode de scrutin proportionnel et
+les aléas de leurs coalitions (Gallhofer et al., 1994 ; Kaarbo, 1996 et 2008;
+Ozkececi-Taner, 2005 ; Kaarbo et Beasley, 2008).
+
+
+Cette instabilité des gouvernements de coalition peut générer des craintes
+sur les marchés financiers. En effet, les risques d'attaques spéculatives sont
+statistiquement plus prononcés dans les pays dirigés par un gouvernement
+de coalition que par un gouvernement majoritaire. Les marchés sont
+également méfiants envers les gouvernements de cohabitation qui
+réagissent généralement moins rapidement et résolument en cas de crise.
+D'un autre côté, les gouvernements fortement centralisés dont la chute peut
+entraîner des modifications radicales de politique ne sont pas plus
+rassurants. Les structures institutionnelles les moins vulnérables aux
+attaques spéculatives sont celles qui offrent un certain équilibre entre
+stabilité et flexibilité (Leblang et Bernhard, 2000; MacIntyre, 2001; Broz,
+2002; Leblang et Satyanath, 2006).
+
+
+Les États, quant à eux, ont tendance à faire davantage confiance aux
+régimes qui assurent une participation active du Parlement dans le
+processus décisionnel. Ces régimes ont une politique étrangère plus
+transparente puisque les débats parlementaires informent continuellement
+les pays étrangers sur les intentions et les capacités du gouvernement. D'un
+autre côté, l'élection d'un chef de gouvernement au suffrage direct peut
+renforcer sa crédibilité aux yeux de ses partenaires étrangers. En cas de
+violation d'un engagement international, un dirigeant politique risque
+davantage d'être politiquement sanctionné s'il est responsable devant le
+peuple et non simplement devant une assemblée qui lui est acquise. Au bout
+du compte, ce sont peut-être les régimes semi-présidentiels, avec un chef
+d'État élu au suffrage universel et un chef de gouvernement responsable
+devant le Parlement, qui représentent l'équilibre optimal (Martin, 2000;
+McGillivray et Smith, 2005).
+
+
+L'État fort et l'État faible
+
+
+L'une des approches institutionnalistes les plus courantes consiste à situer
+sur une échelle graduée les rapports de forces entre l'État et la société. Il
+s'agit en quelque sort de renverser la thèse néo-réaliste et d'examiner la
+distribution de la puissance, non pas entre les États, mais en leur sein, pour
+expliquer leur politique étrangère.
+
+
+Déterminer la force relative de l'État
+
+
+Trois indicateurs sont généralement retenus pour évaluer la puissance
+interne d'un État, soit la centralisation étatique, la mobilisation sociale et les
+réseaux politiques (Krasner, 1978; Katzenstein, 1977 ; Mastanduno et al.,
+1989; Risse-Kappen, 1991; Evangelista, 1995; Schweller, 2006; Alons,
+2007).
+
+
+Le premier de ces indicateurs, la centralisation étatique, réfère au degré
+auquel le chef de gouvernement contrôle le pouvoir exécutif. Ce degré varie
+en fonction d'une série de facteurs institutionnels. De façon générale, les
+autocraties sont plus centralisées que les démocraties, les pays unitaires que
+
+
+les fédérations, les régimes parlementaires que les régimes présidentiels, les
+gouvernements majoritaires que les gouvernements de coalition, les
+parlements unicaméraux que les parlements bicaméraux et les systèmes
+bipartites que les systèmes multipartites (Lijphart, 1999).
+
+
+En retenant ces critères, on peut facilement conclure que les États belges
+et suisses sont plus décentralisés que l'étaient l'Irak de Saddam Hussein et
+la Libye de Kadhafi. Cependant, la majorité des États se trouvent dans la
+zone grise entre ces deux extrêmes. Même dans une autocratie, le pouvoir
+politique peut être fragmenté. La République populaire de Chine n'est pas
+une démocratie libérale, mais les rivalités entre le Conseil des affaires de
+l'État et l'Armée populaire de libération, comme celles entre les différents
+clans du Comité central du Parti communiste chinois, sont bien réelles
+(Chan, 1979; Lampton, 2001; Ripley, 2002).
+
+
+Pour ramener les différents régimes politiques à un dénominateur
+commun permettant de comparer leur degré de centralisation, plusieurs
+analystes utilisent la notion de « joueur veto » (Tsebelis, 2002). Un joueur
+veto est un acteur, individuel ou collectif, qui a la capacité effective de
+bloquer une décision donnée. Dans les monarchies constitutionnelles, même
+si le monarque dispose formellement d'un droit de veto sur certaines
+décisions, il n'a généralement pas la capacité effective de les bloquer en
+raison des pratiques et des normes en vigueur. Inversement, un ministre, un
+parlement, un parti politique et une entité fédérée peuvent tous être des
+joueurs veto en politique étrangère, dépendamment du contexte politique,
+de la structure institutionnelle et du type de décision, même s'ils n'ont pas
+formellement de droit de veto reconnu dans la constitution. Or, plus le
+nombre de joueurs veto augmente, plus la prise de décision est décentralisée
+et plus le maintien du statu quo en politique étrangère est probable (Kaarbo,
+1997). Le nombre de joueurs veto en politique commerciale, par exemple,
+est directement corrélé au maintien de politiques protectionniste (O'Reilly,
+2005; Mansfield et al., 2007).
+
+
+Le deuxième indicateur permettant de caractériser la structure interne
+d'un pays est la mobilisation sociale. Celle-ci dépend de deux principaux
+facteurs, soit le degré de cohésion et le degré d'organisation sociale. Plus
+une société est cohésive et organisée, plus elle est en mesure d'exercer une
+forte influence sur la politique étrangère.
+
+
+En France, ces deux facteurs sont relativement faibles. Même parmi les
+groupes qui défendent des intérêts similaires, comme les organisations
+patronales ou les partis de gauche, les dissensions internes sont nombreuses
+et fréquentes. Cette fragmentation de la société française est aux antipodes
+de la cohésion qui caractérise plusieurs sociétés asiatiques, valorisant
+davantage le consensus que le débat public. Malgré cette hétérogénéité
+idéologique, ou peut-être en raison de celle-ci, la mobilisation sociale sur
+des thèmes de politique étrangère est relativement peu organisée en France
+comparativement aux autres démocraties occidentales. L'hexagone est loin
+de connaître le même foisonnement d'ONG et de think tanks voués à la
+politique étrangère que l'on observe aux États-Unis, au Royaume-Uni ou
+dans les pays scandinaves. De même, les mouvements pacifistes français
+sont loin d'avoir l'ampleur et l'influence de ceux que l'on retrouve en
+Allemagne ou au Japon. Certaines associations sont particulièrement actives
+sur des thèmes spécifiques, comme le protectionnisme agricole, le conflit
+israélo-palestinien ou l'assistance humanitaire, ou encore, à des moments
+particuliers, comme lors de la négociation de l'Accord multilatéral sur
+l'investissement. Mais les groupes sociaux français se mobilisent bien
+davantage sur les questions de politique interne, laissant une plus grande
+marge de manœuvre au gouvernement français en matière de politique
+étrangère (Cohen, 2004 ; Anheier et Lester, 2006).
+
+
+Le troisième et dernier indicateur de la puissance interne d'un État est
+celui qui fait le pont entre les deux précédents. Il s'agit du degré de
+connexion entre les forces sociales et gouvernementales. Tant les
+gouvernements que les sociétés ont besoin de canaux de communication et
+d'interactions pour assurer leur prépondérance sur la politique étrangère.
+
+
+Les comités consultatifs sur la politique étrangère constituent un de ces
+canaux liant les gouvernements à leur société. Toute chose étant égale par
+ailleurs, on les retrouve davantage dans les cultures politiques qui
+considèrent le lobbying comme une activité politique saine permettant au
+gouvernement d'être continuellement alimenté par une diversité de points
+de vue. Ils sont plus rares dans celles qui craignent que la défense des
+intérêts particuliers se fasse au détriment de l'intérêt général (Risse-
+Kappen, 1991).
+
+
+D'autres courroies de transmission sont moins formalisées, comme la
+pratique des portes tournantes, c'est-à-dire le roulement de personnel entre
+l'université, l'industrie, les médias et la fonction publique. Lorsque les
+cloisons entre les différents mondes professionnels sont relativement
+perméables et que les parcours oscillants sont valorisés, la circulation des
+idées entre le gouvernement et la société est plus fluide. Inversement,
+lorsque les parcours professionnels sont plus linéaires et que les voies
+d'accès à la haute fonction publique sont restreintes à des bassins de
+candidats, l'administration s'isole davantage des influences sociétales
+(Seabrooke et Tsingou, 2009).
+
+
+Dans certains cas, les acteurs publics et privés sont si étroitement
+associés qu'il devient difficile de les distinguer. En Russie, l'imbrication
+des pouvoirs politiques, médiatiques et économiques constitue une forme de
+corporatisme d'État. On ne sait plus très bien si les politiciens qui siègent
+sur les conseils d'administration d'entreprises y défendent l'intérêt public
+ou si la politique étrangère russe dans la région de la mer Caspienne est au
+service des oligarques (D'Anieri, 2002 ; Dawisha, 2011).
+
+
+En combinant ces trois indicateurs, l'analyste peut déterminer si le
+rapport de force penche en faveur de l'État ou de la société. Peter
+Katzenstein (1977), Stephen Krasner (1978) et les autres pionniers de cette
+approche situent la France et les États-Unis aux deux extrêmes du
+continuum opposant les démocraties élitistes, gouvernées par le haut, à
+celles pluralistes, gouvernées par le bas. Les États-Unis sont considérés
+comme l'archetype de l'État faible, avec son système fédéral, son Congrès
+aux prérogatives hors du commun, sa société fortement mobilisée, sa
+fonction publique instable et ses réseaux politiques dominés par les acteurs
+privés. Inversement, parmi les démocraties, la France représente un État
+particulièrement fort, avec son système politique unitaire et centralisé, son
+président au « domaine réservé », sa fonction publique stable, ses
+mouvements sociaux fragmentés et ses réseaux d'élite dominés par le
+secteur public.
+
+
+La force de l'État et sa politique étrangère
+
+
+Au moins trois courants théoriques s'appuient sur cette opposition entre
+les États faibles et forts pour expliquer la politique étrangère. Le premier
+s'intéresse aux flux d'influence, descendants dans les États forts et
+ascendants dans les États faibles. Les États forts, par rapport à leur société,
+seraient davantage en mesure d'imposer leurs préférences de politique
+étrangère. Inversement, les États faibles seraient tributaires des forces
+sociales et de l'opinion publique.
+
+
+Thomas Risse (1991), par exemple, compare la prise en compte de
+l'opinion publique dans la politique étrangère de quatre démocraties
+libérales envers l'Union soviétique dans les années 1980. Il note que la
+politique des États-Unis et de l'Allemagne, deux États jugés faibles par
+rapport à leur société, était en concordance avec leur opinion publique
+respective. Par contre, les politiques étrangères française et japonaise, deux
+États forts, ont pu se permettre d'être en décalage avec leur propre opinion
+publique.
+
+
+D'autres travaux de ce même courant portent sur l'influence des
+entreprises sur la politique commerciale. En période de crise économique,
+tous les gouvernements doivent affronter de vives pressions en faveur de
+politiques protectionnistes. Or, les États plus forts parviennent généralement
+mieux à résister à cette pression et à maintenir une certaine ouverture
+commerciale et que les États plus faibles (Mansfield et Busch, 1995;
+Henisz et Mansfield, 2006).
+
+
+Le deuxième courant théorique mobilisant les concepts d'État fort et
+d'État faible est celui sur la diffusion transnationale des normes. Combinant
+constructivisme et institutionnalisme, les auteurs qui s'inscrivent dans ce
+courant notent que les gouvernements des États forts sont généralement
+plus imperméables aux idées émergentes, promues par les acteurs
+transnationaux ou les organisations intergouvernementales. Ils y résistent
+plus longtemps que les homologues plus faibles. Par contre, une fois qu'ils
+les ont internalisées, ils sont davantage en mesure d'assurer leur diffusion à
+l'intérieur du pays (Checkel, 1999; Hook, 2008).
+
+
+L'État soviétique des années 1980, par exemple, réduisit quelque peu son
+emprise à travers les réformes entreprises par Mikhail Gorbatchev. Cet
+affaiblissement favorisa la diffusion de normes libérales en Union
+soviétique, appelant à affaiblir encore davantage l'État. Paradoxalement,
+
+
+l'État perdit progressivement sa capacité à mettre en œuvre ces réformes
+libérales et un État russe fort survit à la dissolution de l'URSS (Evangelista,
+1995).
+
+
+Le troisième courant s'intéresse aux relations entre la puissance interne et
+externe d'un même État. L'hypothèse centrale examinée par les auteurs de
+ce courant est qu'un État puissant dans le système international peut être
+lourdement handicapé par sa faiblesse interne. Les flux d'influence de la
+société vers le gouvernement favorisent la défense des particularismes aux
+dépens des grands projets collectifs. Si le processus de conversion de
+ressources en influence menace des intérêts particuliers, l'État peut être
+contraint d'offrir une compensation. Or, ce coût d'ajustement
+supplémentaire accroît la vulnérabilité de l'État aux pressions extérieures
+(Krasner, 1977 et 1978 ; Mastanduno et al., 1989; Lamborn, 1991; Snyder,
+1991; Rosecrance et Stein, 1993; Zakaria, 1998; Clark et al., 2000;
+Schweller, 2006; Alons, 2007 ; Kirshner, 2012).
+
+
+L'État fort français est relativement libre d'exploiter et de mobiliser ses
+ressources nationales pour mettre en œuvre une politique étrangère
+ambitieuse et interventionniste. Le modèle économique dirigiste français,
+favorisant quelques grands « champions nationaux », en est un exemple. En
+comparaison, le président Franklin D. Roosevelt, par exemple, fut incapable
+d'engager militairement son pays dans la Seconde Guerre mondiale avant
+l'attaque-surprise de Pearl Harbor, en raison des préférences isolationnistes
+de la population américaine. Dans une certaine mesure, la faiblesse
+institutionnelle de l'Union européenne contraint également ses ambitions de
+politique étrangère. Son poids dans les enceintes internationales est loin
+d'être proportionnel à la population ou à la production économique
+européenne (Hill, 1993).
+
+
+Les analyses de la capacité d'un État à convertir ses ressources en
+influence à travers l'étude de variables institutionnelles font toutefois
+l'objet de deux principales critiques. La première est fondée sur l'analyse
+des jeux à deux niveaux, présentée dans un chapitre précédent. Selon cette
+perspective, les contraintes internes ne sont pas nécessairement transférées
+au niveau international. Dans le contexte d'une négociation, elles peuvent
+se traduire en opportunités. Une structure institutionnelle décentralisée et
+une forte contestation sociale permettent plus facilement à un négociateur
+
+
+d'imposer ses préférences à ses interlocuteurs étrangers. Dans une
+dynamique interactive, un négociateur peut même susciter ses contraintes
+internes pour accroître son rapport de force au niveau international.
+
+
+La seconde critique, faite autant aux approches institutionnalises qu'à la
+théorie des jeux à deux niveaux, est d'ignorer les dynamiques et les
+préférences individuelles au sein même du gouvernement. Se limiter à la
+structure institutionnelle d'un pays pour expliquer son comportement de
+politique étrangère est une approche apolitique. C'est sous-entendre que
+l'identité des dirigeants politiques ne joue aucun rôle fondamental
+(Gourevitch, 1978).
+
+
+Or, il arrive parfois que la politique étrangère ne découle ni de contraintes
+sociétales ni de contraintes internationales, mais reflète les préférences
+réelles des dirigeants. Par exemple, l'activisme international des États-Unis
+dans le domaine de l'environnement au début des années 1970 est
+davantage le résultat des préférences de quelques individus au sein du
+gouvernement, plutôt des pressions internes ou externes (Hopgood, 1982).
+Dans ce contexte, comme les deux prochains chapitres le soulignent, les
+contraintes auxquels les dirigeants font face ne sont pas
+qu'institutionnelles ; elles sont également administratives et cognitives.
+
+
+Chapitre 7
+
+
+La bureaucratie
+
+
+DANS LES DÉMOCRATIES MODERNES, la fonction publique est formellement
+subordonnée aux représentants élus. Elle doit demeurer politiquement
+neutre et s'assurer de la mise en œuvre des décisions du gouvernement.
+
+
+En réalité, les relations entre l'administration et les dirigeants politiques
+ne sont pas toujours aussi claires. Alors qu'Eisenhower s'apprêtait à
+occuper la Maison Blanche, le président sortant Truman glissa à l'oreille de
+ses conseillers : « Il s'assoira juste ici et ordonnera "faites-ci”, “faites ça”,
+et rien ne se produira. Pauvre Ike. Ce sera loin d'être comme à l'armée. Il
+va trouver ça très frustrant » (Neustadt, 1960).
+
+
+Effectivement, la fonction publique est difficilement malléable. Quelques
+ministères des Affaires étrangères disposent de budgets qui se calculent en
+centaine de millions de dollars et comptent des dizaines de milliers
+d'employés. Dans ces conditions, aucune réforme, qu'elle soit
+organisationnelle ou doctrinale, ne peut être opérée rapidement.
+
+
+D'ailleurs, le temps joue en faveur de la fonction publique.
+Contrairement aux représentants élus, elle n'est pas constamment sous la
+menace d'être éjectée du pouvoir aux prochaines élections. Elle était en
+place avant l'arrivée des dirigeants et le demeurera à leur départ. Si une
+décision ne lui convient pas, une mise en œuvre lente et partielle peut
+compromettre son effectivité, sinon son efficacité.
+
+
+Mais la principale ressource de la fonction publique est sans doute
+l'expertise dont elle dispose. C'est elle qui sélectionne les informations
+présentées aux dirigeants et qui les agence pour être intelligibles. Elle
+structure ainsi leurs prises de décision en exposant les problèmes sous un
+certain angle ou en présentant les possibilités d'action d'une certaine
+manière.
+
+
+Bien entendu, les élus ne sont pas impuissants devant la fonction
+publique. Ils nomment plusieurs hauts fonctionnaires, ils adoptent les
+crédits budgétaires et ils déterminent les grandes orientations politiques du
+gouvernement (Wood et Waterman, 1991). Il arrive parfois que leur
+décision aille à contre-courant des recommandations de la bureaucratie. Le
+gouvernement japonais, par exemple, a ratifié le Protocole de Kyoto sur les
+changements climatiques malgré un avis défavorable de plusieurs
+ministères influents (Tiberghien et Schreurs, 2007). De même,
+l'administration Clinton a privilégié une politique d'élargissement de
+l'OTAN aux pays d'Europe de l'Est malgré les oppositions soulevées par la
+bureaucratie (Goldgeier, 1999). Mais avant d'étudier plus en détail le rôle
+des chefs de gouvernement, ce chapitre se concentre plus particulièrement
+sur l'influence de la bureaucratie.
+
+
+Le modèle organisationnel
+
+
+Le modèle organisationnel en politique étrangère fut développé par
+Graham Allison lorsqu'il était encore doctorant à l'université d'Harvard. Il
+cherchait alors à expliquer les comportements américains et soviétiques lors
+de la Crise des missiles de Cuba de 1962. Pour y parvenir, il développa,
+avec l'aide d'un groupe de recherche sur la bureaucratie, trois modèles
+explicatifs. Il les présenta une première fois en 1969 dans un article de
+l'American Political Science Review. Puis, en 1971, il publia sa thèse sous
+le titre Essense of Decision: Explaining the Cuban Missile Crisis, dans
+laquelle il détaille chacun de ces trois modèles. Ce livre devint rapidement
+un classique de l'APE, et même plus généralement de la science politique.
+Allison en publia une nouvelle version en 1999, révisée avec l'aide de
+Philip Zelikow et à la lumière des archives que les gouvernements
+américain et russe divulguèrent après la guerre froide. Cette réédition
+réanima les discussions théoriques sur les trois modèles explicatifs
+d'Allison, dont le modèle organisationnel.
+
+
+Les stratégies organisationnelles
+
+
+Le modèle organisationnel de Graham Allison est directement inspiré des
+travaux d'Herbert Simon sur la rationalité limitée et de James March sur les
+organisations. Il rejette l'idée que la politique étrangère est le fruit de
+calculs rationnels opérés par une autorité centrale. La politique étrangère y
+est plutôt présentée comme le produit d'une mécanique organisationnelle,
+similaire à celle conceptualisée par la théorie cybernétique présentée dans
+un chapitre précédent.
+
+
+Plus particulièrement, le modèle organisationnel avance que les
+bureaucraties recourent à deux stratégies pour exécuter leur mandat et gérer
+la complexité des situations qui se présentent à elles. La première de ces
+stratégies est la décentralisation. La fonction publique est en fait un
+conglomérat composé de multiples unités organisationnelles relativement
+indépendantes les unes des autres. Lorsqu'un problème survient, il est
+automatiquement fragmenté en petites tâches qui peuvent être exécutées par
+ces unités organisationnelles.
+
+
+Par exemple, si un nouveau virus meurtrier déclenche une épidémie à
+l'étranger, le gouvernement mobilisera plusieurs ministères selon leurs
+compétences respectives. Chacun d'entre eux divisera ensuite les tâches à
+accomplir et les attribuera à différentes unités. Au sein du ministère des
+Affaires étrangères, une première unité sera responsable d'offrir de l'aide
+technique aux gouvernements étrangers, une deuxième de vérifier les
+informations qu'ils transmettent, une troisième d'exercer des pressions
+auprès de l'Organisation mondiale de la santé, une quatrième de fournir une
+assistance consulaire aux voyageurs, une cinquième d'imposer des
+restrictions sur les flux migratoires, une sixième de favoriser une
+coopération scientifique internationale et une septième de gérer le
+commerce de produits pharmaceutiques. Tous les autres ministères, de celui
+de la santé à celui de l'éducation en passant par la sécurité publique,
+diviseront eux aussi les tâches qu'ils ont à accomplir et les attribueront à de
+plus petites unités organisationnelles. La réaction à un problème comme
+celui d'une épidémie est trop complexe pour pouvoir être entièrement
+coordonnée par une autorité centrale.
+
+
+Le modèle organisationnel postule que la deuxième stratégie de la
+bureaucratie pour gérer la complexité est de s'appuyer sur des procédures
+opérationnelles permanentes (POP). Ces POP sont des règles qui
+
+
+prescrivent la conduite qu'une unité organisationnelle doit suivre si une
+situation donnée se présente. Elles sont disponibles dans tous les domaines
+d'action du gouvernement, de la rédaction de discours protocolaire
+(Neumann, 2007) jusqu'à la riposte aux attaques terroristes (Kuperaman,
+2001). Lorsqu'une unité bureaucratique doit accomplir une tâche, celle-ci
+est immédiatement assimilée à une situation prévue dans le répertoire des
+POP et la réaction prescrite est automatiquement mise en œuvre. Toute
+situation est interprétée et traitée comme si l'unité bureaucratique avait
+effectivement anticipé son éventualité. Ce mode opératoire permet de
+réduire le temps de réaction et de planifier à l'avance une certaine
+coordination.
+
+
+D'un autre côté, les POP augmentent la rigidité des bureaucraties et leur
+résistance au changement. En dehors des moments de crises qui peuvent
+entraîner des bouleversements majeurs, l'inertie domine et les processus
+d'apprentissage sont lents. Même dans les organisations qui font preuve
+d'autocritique et qui tentent de se renouveler, les POP exercent une telle
+contrainte sur les pratiques que les changements demeurent difficiles à
+opérer. Le président Franklin D. Roosevelt nota lui-même
+découragement la résilience de la bureaucratie américaine :
+
+
+avec
+
+
+<< Le Département du Trésor est si colossal, si apathique et si attaché à
+ses routines que je le considère presque incapable de faire et d'atteindre ce
+que je voudrais [...] Mais le Département du Trésor n'est rien comparé au
+Département d'État. Vous devriez essayer de modifier les modes de
+pensée, les politiques et les pratiques des diplomates de carrière et vous
+saurez alors ce qu'est un vrai problème. Mais le département du Trésor et
+le département d'État, mis ensemble, ne sont rien comparé à la Marine.
+Changer quoi que ce soit à la Marine est comme frapper un lit de plume.
+Vous le frappez de la droite, vous le frappez de la gauche, jusqu'à ce que
+vous soyez complètement épuisé, pour finalement vous apercevoir que ce
+foutu lit a repris exactement la même forme qu'il avait avant que vous ne
+le frappiez. >>>
+
+
+(Roosevelt, cité in Allison, 1969,  . 701-702)
+
+
+Ce n'est pas surprenant que Roosevelt ait considéré que la Marine soit
+particulièrement résiliente. Même si les pratiques des ministères des
+
+
+Affaires étrangères sont elles aussi lourdement codifiées, les corps d'armée
+reposent encore davantage sur des POP. Les forces militaires sont des
+organisations hiérarchiques et disciplinées qui s'entraînent continuellement
+à réagir à certaines situations. Des manuels d'opération déterminent en
+détail leurs actions qui doivent être effectuées en fonction d'une série
+d'indicateurs et de différents niveaux de risque. Des scénarios préétablis
+fixent le nombre d'unités à déployer, le déroulement de leur mission et leur
+stratégie de sortie. Des points de repère quantifiables et observables,
+comme le nombre de morts au combat ou la destruction d'une cible
+particulière, permettent de graduer les ripostes et d'évaluer le succès d'une
+mission. Pour les forces armées, les POP sont des outils indispensables pour
+assurer l'efficacité de leurs opérations.
+
+
+Les effets pervers des procédures opérationnelles
+
+
+La persistance des POP peut entraîner des conséquences dramatiques.
+Des stratégies éprouvées dans un contexte particulier peuvent se révéler
+inefficaces dans un contexte différent. Les tactiques militaires américaines
+développées durant la guerre de Corée s'avérèrent inadaptées contre la
+guérilla vietnamienne (Khong, 1992). De même, les procédures de
+renseignement mises en place durant la guerre froide n'ont pas permis au
+gouvernement américain de prévenir les attentats terroristes du
+11 septembre (Parker et Stern, 2002; Zegart, 2007). Certes, les
+organisations réagissent à leurs échecs en développant leur porte-folio de
+POP. Mais puisque le contexte est toujours changeant, les POP peuvent être
+en décalage par rapport aux réalités du moment.
+
+
+Dans certaines circonstances, les POP peuvent même contribuer aux
+déclenchements de conflits armés. Selon Barbara Tuchman (1962), les POP
+ont joué un rôle clé dans le déclenchement de la Première Guerre mondiale.
+L'ultimatum autrichien mena à la mobilisation russe, celle-ci conduisit à
+l'ultimatum allemand contre la Belgique, et celui-ci entraîna les
+déclarations de guerre française et britannique. Cette réaction en chaine ne
+pouvait pratiquement pas être enrayée en raison des POP. L'armée
+autrichienne rejeta l'idée d'un simple siège de Belgrade, l'armée russe celle
+d'une mobilisation partielle, et l'armée allemande celle d'une guerre limitée
+
+
+au front Est parce que l'une et l'autre n'avaient pas envisagé ces scénarios
+ou ne s'y étaient pas suffisamment préparées. Chacun considérait qu'une
+offensive rapide conférait un avantage stratégique majeur et les POP avaient
+été élaborées en conséquence. Comme le note Barbara Tuchman :
+
+
+<<< Une fois que le bouton de la mobilisation fut pressé, toute la
+mécanique pour appeler, équiper et transporter deux millions d'hommes se
+déclencha automatiquement. Les réservistes allèrent aux dépôts désignés,
+reçurent des uniformes, de l'équipement et des armes, constituèrent des
+compagnies, puis des bataillons, furent ensuite rejoints par des cavaliers,
+des cyclistes, de l'artillerie, des unités médicales, des wagons-cuisines,
+des wagons-forges et même des wagons-postaux, et se déplacèrent selon
+les horaires établis, des points de ralliement jusqu'aux frontières, où ils
+ont formé des divisions, les divisions ont formé des corps, et les corps ont
+formé des armées, prêtes à avancer et à combattre [...] Dès que l'ordre a
+été donné, tout se déroula comme prévu selon des horaires suffisamment
+précis pour savoir combien d'essieux passeraient au-dessus d'un pont
+donné durant une période donnée. »
+
+
+(Tuchman, 1962,  . 94-95)
+
+
+Bien entendu, les POP ne conduisent pas nécessairement à des résultats
+aussi dramatiques que la Première Guerre mondiale. Au contraire, dans
+d'autres circonstances, elles peuvent contribuer à désamorcer les conflits.
+Parce qu'elles sont régulières et stables, elles envoient des signaux clairs
+aux autres États et augmentent la crédibilité des menaces. Ce ne sont pas les
+POP elles-mêmes qui sont la cause de la Première Guerre mondiale. C'est
+plutôt un système dans lequel les gouvernements se sont laissés gouverner
+par elles (Levy, 1986).
+
+
+Lorsque les chefs de gouvernement sont bien conscients de la force des
+POP, ils peuvent forcer la bureaucratie à dévier des scénarios prévus et
+inciter leurs conseillers à imaginer des solutions plus créatives. C'est ce que
+John et Robert Kennedy ont fait lors de la Crise des missiles de Cuba. Pour
+éviter que la situation ne dégénère en guerre nucléaire, ils se sont assuré que
+la marine fasse preuve d'une flexibilité inhabituelle dans le maintien du
+blocus naval et que l'aviation s'abstienne de répliquer lorsqu'un de ses
+avions fut abattu (Allison et Zelikow, 1999).
+
+
+Les décideurs qui considèrent que les problèmes auxquels ils sont
+confrontés nécessitent de nouvelles POP peuvent aussi créer de toutes
+nouvelles organisations plutôt que de tenter de réformer celles existantes.
+C'est en partie ce qui a motivé l'administration Bush à créer le Département
+de la sécurité intérieure en 2002, après que les attentats du 11 septembre
+2001 aient exposé les failles des organisations existantes vouées aux
+renseignements (Johnson, 2005). L'administration Bush a également mis
+sur pied la Société pour le défi du millénaire en 2004, en raison de sa
+méfiance envers les procédures de l'Agence pour le développement
+international (Hook, 2008).
+
+
+En somme, les POP ne représentent un danger qu'auprès des dirigeants
+politiques qui n'ont pas conscience des mécanismes qui gouvernent la
+bureaucratie ou sur des questions qui ne sont pas suffisamment importantes
+pour attirer leur attention. Le modèle organisationnel d'Allison n'a ainsi
+qu'une portée limitée. Il est certainement pertinent pour étudier la mise en
+œuvre de décisions relativement techniques, mais il l'est moins pour
+comprendre le processus de prise de décision sur les questions cruciales de
+politique étrangère. C'est sans doute la raison pour laquelle, même s'il est
+fréquemment évoqué, il demeure rarement utilisé en APE. Le modèle
+bureaucratique, développé lui aussi par Allison, a inspiré bien davantage de
+travaux.
+
+
+Le modèle bureaucratique
+
+
+Comme le modèle organisationnel, le modèle bureaucratique a été
+développé par Graham Allison pour expliquer les comportements
+américains et soviétiques lors de la Crise des missiles de Cuba (1969 et
+1971). Allison s'inspira des travaux sur la bureaucratie et la politique
+étrangère de Richard Neustadt, Samuel Huntington, Warner Schilling et
+Roger Hilsman. Son modèle inspira à son tour plusieurs chercheurs, dont
+l'un des plus fidèles est sans doute Morton Halperin (Haplerin et Allison,
+1972; Halperin et al., 2006).
+
+
+Un jeu et plusieurs joueurs
+
+
+Le modèle bureaucratique conceptualise l'appareil gouvernemental
+comme une structure décentralisée et pluraliste au sein de laquelle plusieurs
+« joueurs » interagissent. Ces différents joueurs ne sont pas organisés selon
+une division claire et fonctionnelle du travail. Ils s'intéressent tous à
+plusieurs questions ; et toutes les questions intéressent plusieurs joueurs.
+Chacun défend sa propre perspective et ses propres intérêts. Les joueurs
+doivent donc négocier les uns avec les autres pour s'assurer que les actions
+du gouvernement reflètent leur vision et servent leurs intérêts.
+
+
+Le modèle original de Graham Allison précise bien que les joueurs sont
+des individus en chair et en os (1969). Cette perspective ontologique a
+d'ailleurs permis à d'autres analystes d'intégrer les apports de la
+psychologie sociale au modèle bureaucratique ('t Hart et Rosenthal, 1998;
+Ripley, 1995; Kaarbo et Gruenfeld, 1998 ; Kaarbo, 2008).
+
+
+Néanmoins, Allison insiste sur le fait que les idées et les intérêts des
+individus correspondent généralement à l'unité bureaucratique à laquelle ils
+appartiennent. La culture organisationnelle contribue à homogénéiser les
+idées au sein d'une unité bureaucratique et les perspectives de carrières
+qu'offre la croissance d'une organisation favorisent la convergence des
+intérêts. Allison s'est ainsi approprié l'adage « Where you stand depends on
+where you sit ». Autrement dit, la position d'un individu (sur une question)
+dépend de sa localisation (sur un organigramme). C'est la raison pour
+laquelle les joueurs sont souvent assimilés à des unités bureaucratiques qui
+s'affrontent les unes aux autres (Mitchell, 1999).
+
+
+Au sujet d'une question de politique étrangère donnée, les différents
+ministères impliqués peuvent avoir des points de vue radicalement
+différents. Par exemple, lorsque les États-Unis envisagèrent de supprimer
+les crédits agricoles offerts à l'Irak de Saddam Hussein, les tensions furent
+particulièrement vives au sein de l'administration Bush. Le Conseiller à la
+sécurité y voyait une opportunité de sanctionner Saddam Hussein, le
+Département d'État craignait que ce geste mine les efforts de dialogue
+constructif, le ministère du Trésor redoutait que l'Irak refuse de rembourser
+ses dettes, et le ministère de l'Agriculture souhaitait maintenir un
+programme qui bénéficiait aux agriculteurs américains (Holland, 1999;
+Edwards et Wayne, 2006).
+
+
+Les différentes équipes du jeu bureaucratique ne sont pas nécessairement
+des ministères entiers. Ce peut également être des groupes particuliers d'un
+même ministère. Des lignes de fracture hiérarchique peuvent opposer le
+personnel de terrain aux gestionnaires, qu'Allison appelle les « Indiens » et
+les « chefs ». Il peut aussi s'agir de divisions fonctionnelles opposant des
+unités qui se trouvent sur un même niveau hiérarchique. Au sein du
+ministère de l'agriculture japonais, par exemple, la Direction des affaires
+économiques est traditionnellement plus favorable à la libéralisation des
+marchés agricoles que les autres directions, plus sensible aux intérêts des
+producteurs locaux (Seizelet, 2001). Les lignes de fracture au sein d'un
+ministère peuvent même résulter des différents modes de recrutement,
+comme les diplomates français issus de l'École nationale d'administration
+(ENA) qui, des années après leur recrutement, suivent un parcours différent
+des << conseillers du cadre d'Orient » recrutés par le biais d'un concours
+spécifique (Lequesne et Heilbronn, 2012).
+
+
+Dans ce jeu bureaucratique, le chef de gouvernement est considéré
+comme un joueur additionnel, primus inter pares, qui défend sa propre
+vision et ses propres intérêts. Il ne détient pas le monopole du pouvoir et
+s'abstient généralement de trancher arbitrairement les débats. Même,
+lorsqu'il est résolu à prendre seul une décision, il demeure fortement
+influencé par les délibérations entre les différents joueurs bureaucratiques
+(Smith, 1980; Rosati, 1981; Christensen et Redd, 2004).
+
+
+Les interactions entre les joueurs
+
+
+Le résultat du jeu bureaucratique est déterminé par plusieurs facteurs.
+L'un d'eux est l'ensemble des règles de procédures qu'Allison appelle
+« canaux d'action ». Ces règles, formelles ou informelles, déterminent quels
+joueurs participent à quelle décision, à quel moment et à quel titre. Elles
+structurent la prise de décision et peuvent avantager ou désavantager
+certains joueurs. Ainsi, les organisations qui sont les plus marginalisées
+dans le processus décisionnel ont souvent des positions idéologiques
+tranchées, mais s'avèrent généralement incapables de les diffuser à l'échelle
+de l'appareil gouvernemental en raison de canaux d'action défavorables
+(Drezner, 2000).
+
+
+Le résultat du jeu bureaucratique est également déterminé par la
+distribution des ressources entre les joueurs et par leur volonté à les
+mobiliser. L'ampleur du budget, le niveau d'expertise, les appuis sociaux et
+les alliances transgouvernementales sont autant de ressources qu'un joueur
+peut mobiliser pour exercer une influence prépondérante.
+
+
+Un joueur structurellement désavantagé peut aussi recourir à différents
+procédés pour accroître son influence sur le processus décisionnel.
+Quelques travaux, inspirés par la psychosociologie ou le constructivisme
+social, soulignent que la qualité de l'argumentation joue un rôle décisif dans
+les jeux bureaucratiques (Weldes, 1998; Honig, 2008). Même des joueurs
+mineurs et marginaux peuvent, en jouant bien leurs cartes, exercer une forte
+influence (Kaarbo, 1998).
+
+
+Néanmoins, la décision de politique étrangère qui résulte d'un jeu
+bureaucratique n'est pas nécessairement celle que privilégie l'acteur qui
+domine les « canaux d'action », qui détient le plus de ressources ou qui est
+particulièrement stratégique. Il arrive fréquemment que la décision
+finalement adoptée ne fût privilégiée par aucun joueur en particulier. Il peut
+s'agir du plus petit dénominateur commun, d'une position médiane, ou du
+fruit d'un marchandage entre les différents joueurs impliqués. Les joueurs
+peuvent éventuellement se comporter comme le prédit la théorie des
+corbeilles évoquée dans un chapitre précédent, c'est-à-dire en associant les
+problèmes des uns aux solutions des autres. Ils peuvent même être
+incapables d'arriver à un accord et maintenir pour cette raison le statu quo.
+
+
+Le résultat de ces interactions risque ainsi d'être sous-optimal pour l'État
+dans son ensemble. Même si chaque joueur agit de façon rationnelle, leur
+interaction conduit à un résultat qui peut apparaître irrationnel (Gelb et
+Betts, 1979; Lebow, 1981). Par exemple, le Canada décida en 2004
+d'autoriser l'exportation de médicaments génériques vers les pays en
+développement, sans demander l'autorisation des titulaires des brevets. Le
+mécanisme canadien fut élaboré conjointement par les ministères du
+Commerce, de la Santé, de l'Industrie et des Affaires étrangères, en
+collaboration avec l'Agence canadienne de développement international. Ils
+parvinrent ensemble à un compromis que tous les joueurs jugèrent
+satisfaisant. Or, ce compromis combine tellement de préoccupations
+contradictoires qu'il s'avéra finalement inefficace. Les compagnies
+
+
+pharmaceutiques menacèrent de réduire leurs investissements au Canada, la
+stature internationale du pays ne fut pas rehaussée et l'accès aux
+médicaments ne fut pas amélioré (Morin et Gold, 2010; Morin, 2011).
+
+
+La position du ministère des Affaires étrangères
+
+
+La politique étrangère n'est plus l'apanage, si elle l'a jamais été, des
+ministères des Affaires étrangères. Jusqu'aux années 1960, il est vrai, ils
+détenaient encore un quasi-monopole sur les canaux d'action relatifs à la
+politique étrangère. Ce n'est plus le cas aujourd'hui.
+
+
+Les ministères des Affaires étrangères font maintenant face à une
+concurrence accrue dans leur domaine de prédilection. Toutes les
+principales agences gouvernementales des États modernes mènent
+aujourd'hui des activités internationales, sans toujours transiger ou être
+accompagnées par le ministère des Affaires étrangères. En plus des
+ministères consacrés à la défense et au commerce extérieur, qui ont toujours
+été associés à la politique étrangère, les ministères responsables de
+l'éducation, de la santé, et de la culture, entre autres, ont développé leur
+propre service des relations internationales. Certains déploient même des
+agents à l'étranger et participent directement aux négociations
+internationales. Lorsque cette activité internationale est institutionnalisée au
+travers des organisations intergouvernementales, les ministères des Affaires
+étrangères peuvent encore exercer une autorité de coordination. Mais une
+part non négligeable de l'activité internationale des ministères sectoriels est
+plus informelle, s'opère à travers les réseaux transgouvernementaux et
+échappe d'autant plus aux canaux d'action des ministères des Affaires
+étrangères (Hopkins, 1976 ; Smouts, 1999; Devin, 2002).
+
+
+La concurrence vient également des chefs de gouvernement eux-mêmes.
+Leur agenda est maintenant ponctué de fréquentes rencontres au sommet.
+En plus des rencontres régulières des différents groupes et coalitions,
+comme le G-20, l'OTAN, la Francophonie et l'APEC, les rencontres
+annuelles bilatérales se multiplient, comme celles entre l'Espagne et la
+France ou entre l'Allemagne et Israël (Dunn, 1996; Krotz, 2010). Quant
+aux sommets multilatéraux conviés par les Nations unies, ils sont de plus en
+plus courus par les chefs de gouvernement. Alors qu'Indira Gandhi était la
+
+
+seule chef de gouvernement présente au Sommet de Stockholm sur
+l'Environnement humain de 1972, près d'une centaine de chefs de
+gouvernement ont participé au Sommet de Johannesburg sur le
+Développement durable de 2002. Or, la préparation de ces sommets est
+généralement menée par des représentants directs des chefs de
+gouvernement, appelés sherpas, qui court-circuitent les canaux d'action de
+la hiérarchie diplomatique traditionnelle.
+
+
+Face à cette concurrence accrue, les ministères des Affaires étrangères ne
+disposent pas de ressources qui leur assurent le haut du pavé. Ils n'ont pas
+de budgets aussi importants que les ministères de la Défense, leurs actions
+sont généralement moins visibles que celles des ministères de l'Industrie, et
+ils ne bénéficient pas de l'appui de groupes sociaux influents comme ce
+peut être le cas des ministères de l'Agriculture.
+
+
+À l'ère de la communication instantanée, les canaux diplomatiques
+traditionnels sont même parfois critiqués pour leur lenteur, leur coût, leur
+formalisme, et leur carence d'expertise technique. Zbigniew Brzezinski,
+conseiller à la sécurité nationale sous le président Jimmy Carter, déclara que
+si les ministères des Affaires étrangères et les ambassades « n'existaient pas
+déjà, il ne serait certainement pas nécessaire de les inventer » (Hamilton et
+Langhorne, 1995, p. 232). Si Brzezinski n'exprima qu'une boutade, un
+rapport commandé par le Chancelier de l'Échiquier britannique en 1976
+recommanda sérieusement de démanteler le service extérieur (Wallace,
+1978). Les recommandations du rapport ne furent jamais adoptées, mais cet
+exemple radical illustre néanmoins la méfiance des différentes branches de
+l'administration publique envers le ministère des « Affaires étranges ».
+
+
+Les critiques du modèle bureaucratique
+
+
+Le modèle bureaucratique d'Allison a nourri un débat qui perdure depuis
+quarante ans. Le nombre de publications qui se fondent sur le modèle
+bureaucratique pour expliquer la politique étrangère rivalise avec le nombre
+d'études qui critiquent les postulats de ce même modèle (Krasner, 1971 ;
+Art, 1973; Perlmutter, 1974 ; Wagner, 1974; Freedman, 1976; Caldwell,
+1977; Steiner, 1977; Smith, 1980; Bendor et Hammond, 1992; Welch,
+1992 et 1998; Rhodes, 1994; Michaud, 1996).
+
+
+Trois principales critiques ont été formulées à l'encontre du modèle
+bureaucratique. La première concerne sa difficile opérationnalisation. Le
+modèle serait trop complexe, ambigu et imprécis pour pouvoir établir des
+relations de causalité stables et générer des prédictions. Il ne définit pas
+clairement quels sont les joueurs impliqués, quelles sont leurs préférences,
+et comment le résultat final est obtenu. Il se contente d'énumérer une série
+de facteurs et de fournir une trame narrative pour expliquer, a posteriori,
+une décision.
+
+
+La deuxième critique concerne les décalages entre les postulats du
+modèle et les réalités empiriques. En se limitant aux joueurs
+bureaucratiques, le modèle ignore l'influence des parlements, les pressions
+des groupes d'intérêts et les contraintes du système international. Plus
+encore, il sous-estime l'ascendance du chef de gouvernement. Sur les
+questions cruciales et lors des épisodes de crise, un chef de gouvernement
+peut généralement imposer ses préférences et couper court aux tractations
+bureaucratiques. Le modèle bureaucratique n'est, par conséquent, pertinent
+que sur un nombre limité de questions, qui ne sont ni suffisamment
+routinières pour être gouvernées par des POP, ni suffisamment importantes
+pour appeler une intervention directe du chef de gouvernement. Il est
+également inadapté pour l'étude des systèmes politiques centralisés qui
+favorisent le rôle du chef de gouvernement. Bien qu'il ait été mobilisé pour
+étudier la politique étrangère de différents pays, dont le Canada (Michaud,
+2002), la Chine (Chan, 1979) et l'URSS (Valenta, 1979), on peut supposer
+que ces pays sont généralement moins sujets aux rivalités bureaucratiques
+que peuvent l'être les États-Unis.
+
+
+La troisième critique, portée principalement par Stephen Krasner (1971),
+est de nature normative. Krasner craint que le modèle bureaucratique
+décharge les représentants élus de leurs responsabilités. Lorsqu'une erreur
+est commise, un chef de gouvernement pourrait s'appuyer sur la légitimité
+de ce modèle théorique pour blâmer la bureaucratie. Sous cette perspective,
+le modèle bureaucratique représenterait un danger pour la démocratie. À cet
+égard toutefois, l'antithèse des jeux bureaucratiques, la pensée groupale,
+n'est guère plus rassurante comme le montre la prochaine partie.
+
+
+Les dynamiques de groupe
+
+
+Les décisions de politique étrangère importantes sont souvent délibérées
+au sein de petits groupes de hauts responsables politiques. Certains groupes
+sont formellement institutionnalisés, comme, en République populaire de
+Chine, le Comité permanent du bureau politique du Parti communiste, ou au
+Canada, le Comité du Cabinet chargé des Affaires étrangères et de la
+Défense. D'autres sont plus informels, comme le Groupe du mardi midi qui
+réunissait à la Maison Blanche quelques personnes de confiance autour du
+président Jonhson pour discuter de la guerre du Vietnam. D'autres encore
+ne sont que ponctuels, établis lors des moments de crise, comme l'ExComm
+qui conseilla le président Kennedy durant la Crise des missiles de Cuba
+(Haney, 1997; Beasley et al., 2001 ; Hermann et al., 2001).
+
+
+Trois raisons principales expliquent que les chefs de gouvernement
+s'appuient fréquemment sur une délibération en groupe pour prendre une
+décision. D'abord, sur le plan socio-psychologique, c'est une façon de
+réduire le stress de la pression décisionnelle qui reposerait autrement sur les
+épaules d'une seule personne. Ensuite, sur le plan administratif, c'est une
+méthode qui peut éventuellement permettre aux différentes idées de se
+confronter et aux différents points de vue d'être pris en compte. Enfin, sur
+le plan politique, une décision prise en groupe renforce sa légitimité, tant
+auprès de l'administration chargée de la mettre en œuvre qu'auprès du
+public en général.
+
+
+Cette pratique de prise de décision invite les analystes de la politique
+étrangère à développer des théories particulièrement adaptées aux
+dynamiques de groupe. En effet, il est bien connu que les dynamiques de
+groupe modifient le comportement de leurs membres. Ceux-ci ajustent leurs
+attentes et leurs discours en fonction des interactions et de leur perception
+du groupe. Or, jusqu'à présent, une seule théorie de politique étrangère a
+véritablement relevé ce défi : celle de la pensée groupale. Il s'agit d'une
+théorie qui reçu un écho favorable bien au-delà de l'APE et qui semble
+empiriquement bien démontrée.
+
+
+La théorie de la pensée groupale
+
+
+Le psychologue Irving Janis a identifié une dynamique de groupe
+particulière, qu'il a baptisée « pensée groupale » (1972). Il s'agit d'un
+syndrome qui se produit lorsque la pression en faveur du consensus prime
+sur les objectifs du groupe. Les membres deviennent si obsédés par leur
+propre cohésion qu'ils répriment leurs divergences. Leurs capacités à
+analyser des événements et à formuler des jugements moraux s'en trouvent
+alors substantiellement affaiblies.
+
+
+Janis a observé le phénomène de la pensée groupale bien avant de
+travailler sur la politique étrangère, alors qu'il observait des groupes
+d'entraide de fumeurs souhaitant abandonner leurs habitudes. Il notait alors
+que la pression en faveur de la cohésion peut entrer en conflit avec
+l'objectif du groupe :
+
+
+« À la deuxième réunion d'un groupe de fumeurs, comptant une
+douzaine d'Américains de classe moyenne, hommes et femmes, deux des
+membres les plus dominants affirmèrent que fumer est une dépendance
+presque incurable. La majorité des membres acquiescèrent et conclurent
+qu'on ne peut s'attendre à ce qu'un fumeur cesse drastiquement. Un
+homme d'affaires d'âge moyen s’opposa à ce consensus et affirma que par
+sa seule volonté, il avait réussi à arrêter de fumer depuis qu'il a joint le
+groupe d'entraide et que tous les autres peuvent en faire autant. Cette
+déclaration fut suivie d'une discussion tendue qui se poursuivit dans les
+corridors, après que la rencontre formelle ait été ajournée. La majorité
+s'était ralliée contre celui qui défiait le consensus. Puis, au début de la
+réunion suivante, le fumeur déviant annonça qu'il avait pris une décision
+importante: “Lorsque j'ai joint le groupe, dit-il, j'ai accepté de suivre les
+deux principales règles exigées par la clinique – faire un effort pour arrêter
+de fumer et participer à toutes les réunions. Mais l'expérience de ce
+groupe m'a appris qu'il n'est possible de suivre qu'une de ces règles. On
+ne peut les suivre toutes les deux. J'ai donc décidé que je continuerai de
+participer à chaque réunion, mais j'ai recommencé à fumer deux paquets
+par jour et je ne ferai aucun effort pour arrêter de fumer jusqu'à la dernière
+réunion". Il fut alors applaudi chaudement et réintégré dans le groupe. »
+
+
+(Janis, reproduit in Hudson, 1997, p. 68-69)
+
+
+Janis fut ensuite frappé de constater à quel point ses observations sur la
+pensée groupale semblaient bien refléter la description que l'historien
+Arthur Schlesinger fit du processus décisionnel qui mena au fiasco de la
+Baie des Cochons. En 1961, l'administration Kennedy décida d'envoyer un
+millier d'exilés cubains renverser le régime de Fidel Castro. Kennedy et son
+équipe venaient alors tout juste d'arriver à la Maison Blanche et n'avaient
+pas encore établi clairement des procédures de prise de décision. La
+pression était néanmoins forte puisque, en pleine guerre froide, plusieurs
+craignaient que le nouveau président, jeune et démocrate, n'ait pas la
+fermeté et l'assurance de son prédécesseur, le général Eisenhower. Le
+débarquement de la Baie des Cochons fut d'ailleurs planifié sous la
+présidence d'Eiseihower, ce qui contribua à rassurer la nouvelle
+administration. Lorsque le plan fut présenté à Kennedy, aucun conseiller
+n'osa exprimer ses réserves, même ceux qui nourrissaient secrètement des
+doutes. L'opération souffrait pourtant de graves lacunes. Elle était fondée
+sur une nette sous-estimation des forces castristes et sur une surestimation
+de l'effet de surprise qui devait être créée. Le résultat fut lamentable : non
+seulement les exilés furent rapidement capturés, mais cette tentative
+d'invasion ratée renforça l'emprise du régime de Castro et contribua à le
+rapprocher de l'Union soviétique (Janis, 1972; Janis et Mann, 1976).
+
+
+Un certain nombre de facteurs peuvent contribuer à former une pensée
+groupale. Parmi ceux-ci, on peut relever un niveau de stress élevé, une forte
+homogénéité socioculturelle, un chef effacé ou dominant, un sentiment
+d'isolement, une surestimation des capacités du groupe, un mode de prise
+de décision incertain, une concentration des sources d'information et une
+faible estime de soi. Plusieurs de ces facteurs étaient bien présents lorsque
+Kennedy approuva le débarquement de la Baie des Cochons ( t Hart, 1990;
+Schafer et Crichlow, 1996).
+
+
+La pensée groupale elle-même se reconnaît par un ensemble de
+symptômes. Les plus importants sont l'illusion d'unanimité et
+d'invulnérabilité, la répression des opinions divergentes, la justification
+systématique des erreurs passées, la conviction d'une supériorité morale et
+la tendance à stéréotyper les acteurs qui n'appartiennent pas au groupe.
+Lorsque plusieurs de ces symptômes sont rassemblés, des éléments
+
+
+d'information cruciaux risquent d'être ignorés et les décisions prises par le
+groupe risquent d'être défaillantes.
+
+
+Outre le débarquement de la Baie des Cochons, la pensée groupale peut
+aussi contribuer à expliquer l'aval français et britannique donné à
+l'Allemagne nazie pour l'annexion des Sudètes (Walker et Watson, 1989;
+Ahlstrom et Wang, 2009) ou la décision de l'administration de George W.
+Bush d'envahir l'Irak en 2003 (Haney, 2005; Badie, 2010). De façon
+générale, il semble que les groupes aient tendance à prôner des politiques
+étrangères plus extrêmes que si les participants avaient été interrogés
+individuellement et qu'une moyenne en avait été tirée (Hermann et
+Hermann, 1989).
+
+
+L'approche pathologique d'Irving Janis et de ses successeurs les a
+naturellement conduits à formuler une série de prescriptions permettant de
+réduire les risques de pensée groupale. Parmi celles-ci, on peut relever
+l'abstention du chef à exprimer ses préférences dès le départ, la présentation
+structurée des différentes interprétations possibles des données, et la
+nomination d'un avocat du diable chargé de critiquer les idées des autres
+membres (George, 1972 ; George et Stern, 2002).
+
+
+Il semble que le président Kennedy ait tiré des leçons similaires de
+l'invasion ratée de la Baie des cochons. Du moins, l'année suivante, lors de
+la Crise des missiles de Cuba, il insista pour que des individus aux points de
+vue différents siègent sur l'ExComm; il tarda à leur communiquer son
+propre point de vue et il chargea son frère Robert d'identifier
+systématiquement toutes les options possibles. La Crise des missiles de
+Cuba est généralement présentée comme une situation où le risque de
+pensée groupale fut élevé, mais habilement évité (Herek et al., 1987 et
+1989; Haney, 1994).
+
+
+Établir le phénomène
+
+
+La théorie de la pensée groupale n'est toutefois pas exempte de critiques,
+principalement d'ordre méthodologique. Dans plusieurs études, le lien de
+causalité entre la dynamique de groupe et le résultat de politique étrangère
+relève davantage de la supposition que de la démonstration. $\hat{A}$ l'exception
+
+
+de Kennedy qui enregistra les délibérations de l'ExComm à l'insu de ses
+membres, la majorité des délibérations en groupe demeurent secrètes. Il
+n'existe ni enregistrements, ni compte rendu, ni archives librement
+accessibles aux chercheurs. Cette difficulté d'accès aux données empêche
+de retracer en détail les processus causaux et rend les études de cas
+particulièrement vulnérables aux interprétations multiples. Certains, par
+exemple, contestent les interprétations de Janis et considèrent que le
+processus menant au débarquement de la Baie des cochons ne relève pas de
+la pensée groupale (Stern, 1997) ou que la Crise des missiles en est un cas
+avéré (Welch, 1989). Les travaux sur la pensée groupale sont ainsi accusés
+de biais de sélection : Janis aurait d'abord identifié un échec de politique
+étrangère et se serait ensuite efforcé de trouver des symptômes de pensée
+groupale.
+
+
+Plusieurs stratégies méthodologiques permettent de riposter partiellement
+à ces critiques. En l'absence de sources premières sur les délibérations en
+groupe, certains chercheurs recourent à l'analyse de contenu pour
+décortiquer systématiquement les déclarations publiques des décideurs et
+évaluer leur perception du groupe auquel ils appartiennent (Tetlock, 1979).
+D'autres préfèrent l'environnement contrôlé du laboratoire pour vérifier si
+les groupes homogènes parviennent mieux à résoudre des problèmes
+complexes que les groupes hétérogènes (Flowers, 1977).
+
+
+Une autre stratégie méthodologique est l'étude comparative de plusieurs
+cas contre-vérifiés par au moins deux encodeurs différents (Herek et al.,
+1989). Cette méthode consiste à demander à plusieurs encodeurs de se
+pencher sur une série de cas historiques à partir de diverses sources écrites
+et à l'aide d'indicateurs précis. Pour chaque cas, ils doivent déterminer si
+des symptômes de pensée groupale sont apparents et s'ils considèrent que la
+décision adoptée était judicieuse. Les chercheurs ne retiennent ensuite que
+les cas historiques pour lesquels les différents encodeurs sont parvenus aux
+mêmes conclusions. En utilisant cette méthode pour 31 cas historiques,
+Mark Schafer et Scott Crichlow suggèrent que ce n'est pas le niveau de
+stress élevé qui conduit directement à des décisions de politique étrangère
+déficientes, mais bien la pensée groupale tel que définie par Janis (Schafer
+et Crichlow, 2002).
+
+
+Le style de gestion du chef de gouvernement joue donc un rôle
+fondamental (Schafer, 1999). La pensée groupale résulte moins
+d'impondérables contextuels, comme les situations de crises ou le manque
+d'information, que des indications que le chef de gouvernement donne à ses
+conseillers, de l'ambiance qu'il réussit à créer et de la façon dont il organise
+le processus de prise de décision. En fait, comme la prochaine partie le
+souligne, le style de gestion du chef de gouvernement est bien plus
+déterminant que les probabilités de pensée groupale.
+
+
+Les styles de gestion
+
+
+Le processus de prise de décision en politique étrangère varie en fonction
+du style de gestion des dirigeants, c'est-à-dire de la façon dont ils gèrent les
+informations et les personnes qui les entourent. Les dirigeants privilégient
+des styles de gestion particulièrement différents les uns des autres. Au
+Royaume-Uni, Margaret Thatcher s'appuyait principalement sur la petite
+équipe de son propre bureau alors que son successeur immédiat, John
+Major, faisait davantage confiance à ses ministres et à la fonction publique
+(Kaarbo, 1997). En Union soviétique, Nikita Khrouchtchev privilégiait un
+style autoritaire et centralisé alors que Léonid Brejnev cherchait plutôt à
+dégager un consensus au sein du Politburo (Stewart et al., 1989). Ces
+variations ne dépendent ni du régime politique ni du type de problème à
+résoudre, mais des préférences et des capacités des dirigeants politiques.
+
+
+Ces différents styles de gestion influent sur le processus de prise de
+décision et, ultimement, sur la politique étrangère elle-même (Kaarbo et
+Hermann, 1998). Par exemple, si Major avait été Premier ministre à la place
+de Thatcher, il n'aurait sans doute pas eu la détermination nécessaire pour
+s'engager dans la guerre des Malouines malgré l'objection de plusieurs
+ministres (Kaarbo, 1997). De même, si Khrouchtchev avait été Secrétaire
+général à la place de Brejnev, il n'aurait peut-être pas changé de position à
+propos de l'aide militaire offerte à l'Égypte en fonction des préférences du
+Politburo (Stewart et al., 1989).
+
+
+La recherche sur les styles de gestion en politique étrangère se
+décompose en deux branches complémentaires. La première se penche sur
+les différentes variables qui permettent de distinguer les styles de gestion et
+
+
+de dégager des idéaux types. La seconde, plus normative que descriptive,
+vise à identifier les styles de gestion les plus adaptés pour la prise de
+décision en politique étrangère.
+
+
+Définir les styles de gestion
+
+
+Aux fins d'analyse, le style de gestion d'un dirigeant peut être
+décomposé en quatre principales variables. La première concerne l'étendue
+du cercle de conseillers consultés avant de prendre une décision. Certains
+dirigeants s'entourent d'une garde rapprochée, constituée de fidèles alliés
+en qui ils ont une confiance indéfectible. Cette garde rapprochée peut alors
+exercer un filtre entre le dirigeant et le reste de l'appareil gouvernemental.
+D'autres préfèrent, au contraire, étendre leur cercle de conseillers pour
+avoir un accès plus direct aux informations de première main et aux experts
+qui se trouvent sur le terrain (Link et Kegley, 1993).
+
+
+La deuxième variable qui compose le style de gestion est la structure
+d'interaction entre les conseillers. Une classification classique, développée
+par Richard Johnson (1974) et Alexander George (1980), distingue les
+structures formelles, collégiales, et compétitives. Les structures formelles
+visent à produire des solutions aussi rationnelles et efficaces que possible
+par l'emploi de règles de procédures claires et hiérarchiques. Les structures
+collégiales sont plutôt fondées sur le travail en équipe et guidées par des
+règles souples et informelles qui facilitent l'atteinte de consensus. Les
+structures compétitives, quant à elles, favorisent la confrontation entre les
+différents conseillers qui doivent s'affronter pour exercer une influence
+prédominante. Aux États-Unis, on reconnaît généralement que Ronald
+Reagan privilégiait une structure formelle, Bill Clinton une structure
+collégiale et Franklin Roosevelt une structure compétitive (Haney, 1997).
+
+
+La troisième variable est le degré de centralisation du processus de prise
+de décision. Indépendamment du nombre de conseillers consultés et de la
+structure de leurs interactions, le chef d'État peut se réserver la décision
+finale ou la déléguer à un groupe. Un mode de prise de décision
+décentralisée dans une structure compétitive, par exemple, laissera une
+grande place aux rivalités bureaucratiques. La politique étrangère reflétera
+la distribution du pouvoir entre les différents joueurs impliqués. Mais si,
+
+
+dans une même structure compétitive, le dirigeant privilégie plutôt un mode
+centralisé, il laissera d'abord ses conseillers s'affronter, pour qu'il jaillisse
+de leur confrontation un maximum d'informations et d'idées et il tranchera
+ensuite en fonction de ses propres préférences et perceptions, sans
+nécessairement pencher en faveur du conseiller qui contrôle le plus de
+ressources (Rosati, 1981; Herman et Preston, 1994; Kaarbo, 1997;
+Hermann et al., 2001; Beasley et al., 2001; George et Stern, 2002;
+Mitchell, 2005; Garrison, 2007).
+
+
+La quatrième et dernière variable constitutive du style de gestion est
+l'habileté interpersonnelle du dirigeant. S'il est éloquent et charismatique, il
+peut parvenir à convaincre ses propres conseillers et à donner une impulsion
+commune à l'ensemble de son équipe. Il peut également recourir à diverses
+stratégies manipulatrices pour modifier la dynamique de groupe. Il peut, par
+exemple, formuler de nouvelles propositions pour diviser la majorité,
+modifier l'ordre du jour d'une réunion pour qu'une première décision en
+structure stratégiquement une deuxième, ou encore associer deux
+thématiques pour créer de nouvelles coalitions au sein même de son
+administration (Maoz, 1990).
+
+
+Le style de gestion le plus approprié
+
+
+En retenant une ou plusieurs de ces variables, quelques travaux tentent de
+dégager un style de gestion qui serait plus adéquat pour la prise de décision
+en politique étrangère. La majorité de ces travaux concluent qu'il est
+généralement préférable d'éviter les extrêmes : le groupe décisionnel doit
+n'être ni trop limité ni trop étendu ; les participants doivent pouvoir
+représenter différents points de vue, mais partager des valeurs communes ;
+et la prise de décision doit se trouver à mi-chemin entre l'autoritarisme
+centralisé et le pluralisme éclaté. Les extrêmes, dans une direction ou dans
+une
+autre, handicapent les capacités d'analyse, d'adaptation et
+d'apprentissage (George, 1972; Destler, 1977; Myers, 1998; Kowert,
+2002)
+
+
+Un excès d'informalité et un excès de formalité peuvent conduire à des
+erreurs similaires. Aux États-Unis, par exemple, le président Lyndon B.
+Johnson privilégiait un style particulièrement informel. Le Groupe du mardi
+
+
+midi qu'il établit pour discuter de politique étrangère ne rassemblait pas
+toujours les mêmes conseillers, n'avait pas d'ordre du jour établi à l'avance,
+et n'était pas structuré en fonction d'une prise de décision. Cette informalité
+aurait constitué un obstacle à la prise en compte de tous les éléments
+d'information et aurait contribué aux erreurs du président Johnson, qui s'est
+enfoncé dans la guerre du Vietnam, sans véritablement prévoir un plan de
+retrait (Burke et Greenstein, 1989; Preston et 't Hart, 1999).
+
+
+Le président George W. Bush employa à la Maison Blanche un style
+aussi formel que celui des conseils d'administration des grandes sociétés,
+combiné à une importante délégation à la garde rapprochée et relativement
+homogène du Président. Cette structure rigide et hermétique de prise de
+décision empêcha une véritable confrontation des idées et une remise en
+question des présupposés admis par le Président. Ce formalisme contribua
+aux erreurs d'analyse de l'administration Bush, qui s'est engagée en Irak
+sans suffisamment réfléchir à la situation sécuritaire qui prévaudrait en Irak
+après la chute de Saddam Hussein. L'informalisme de Johnson et le
+formalisme de Bush ont ainsi contribué à des échecs similaires, au Vietnam
+pour l'un et en Irak pour l'autre (David, 2004; Burke, 2005; Haney, 2005;
+Mitchell, 2005; Rudalevige, 2005; Mitchell et Massoud, 2009; Badie,
+2010).
+
+
+Chef
+de gouvernement
+
+
+Passif
+
+
+Actif
+
+
+Structure
+décisionnelle
+
+
+Verticale
+
+
+Horizontale
+
+
+Risque
+de personnalité
+autoritaire
+
+
+Risue
+de pensée
+groupale
+
+
+Risque
+de gouvernance
+par le POP
+
+
+Rique de jeux
+bureaucratiques
+
+
+Figure 9. Risques associés aux styles de gestion
+
+
+Cela dit, certains styles de gestion peuvent engendrer des déficiences
+spécifiques (Hermann et al., 2001). Une structure d'interaction formelle
+combinée à une forte décentralisation dans la prise de décision peut
+favoriser une gouvernance par les POP, comme celle conceptualisée par le
+modèle organisationnel de Graham Allison. C'est un mode décisionnel qui
+permet des réactions rapides et efficaces sur des questions routinières, mais
+qui peut s'avérer catastrophique dans les situations de crise. Une structure
+compétitive et décentralisée, quant à elle, risque de favoriser les rivalités
+bureaucratiques. Une concurrence peut être salutaire pour que différents
+points de vue soient exprimés, mais comme mode de prise de décision, elle
+peut conduire des politiques incohérentes. Enfin, une structure collégiale et
+décentralisée est particulièrement vulnérable au syndrome de la pensée
+groupale identifié par Irving Janis. Le chef d'État doit alors recourir à
+différentes stratégies de gestion de groupe, comme l'a fait Kennedy lors de
+la Crise des missiles de Cuba, pour éviter les pièges de la pensée groupale.
+
+
+Si certains styles de gestion sont contre-indiqués, aucun n'est optimal
+pour toutes les situations et pour tous les dirigeants. Le style de gestion
+retenu doit d'abord correspondre aux capacités cognitives du dirigeant, à
+son niveau d'expérience et de connaissance, à son endurance au stress et à
+son besoin de contrôle. Des dirigeants différents et des situations différentes
+appellent des styles de gestion différents (Preston et ‘t Hart, 1999; Preston,
+1997 et 2001; Kowert, 2002; Mitchell, 2010).
+
+
+Par exemple, alors que le Premier ministre indien Jawaharlal Nehru
+cherchait à forger des consensus entre ses conseillers, sa fille et successeur,
+Indira Gandhi, adopta un style de gestion plus centralisé et autoritaire. Ces
+différents styles correspondaient bien à leur personnalité respective, le
+premier ayant tendance à chercher l'approbation de son entourage alors que
+la deuxième, plus méfiante, ayant tendance à percevoir le monde de
+manière conflictuelle. Le style de l'un n'aurait pas convenu à l'autre. Ces
+différences de personnalité et de style se reflétèrent ultimement dans leur
+politique étrangère respective. Nehru tenta d'apaiser les tensions avec la
+Chine et de se soustraire aux conflits de la guerre froide, alors que la
+
+
+politique étrangère Gandhi fut résolument plus agressive (Steinberg, 2005;
+Pavri, 2002).
+
+
+Le prochain chapitre porte justement sur cette relation entre la
+personnalité du dirigeant et la politique étrangère. Le style de gestion est
+certainement une variable intermédiaire cruciale, puisqu'elle peut faire
+fluctuer l'influence relative de la bureaucratie et des conseillés. Mais dans
+plusieurs situations, notamment dans les régimes autoritaires ou lors des
+moments de crise qui centralisent le processus décisionnel, une relation plus
+directe peut être établie entre la personnalité du chef de gouvernement ou
+du chef d'État et leurs décisions de politique étrangère.
+
+
+Chapitre 8
+
+
+Le décideur
+
+
+L'INDIVIDU DEMEURE UNE UNITÉ D'ANALYSE CONTROVERSÉE en relations
+internationales. Jusqu'aux années 1950, plusieurs internationalistes
+centraient encore leurs analyses sur les « grands hommes » de l'Histoire,
+comme Pierre le Grand, Napoléon, Bolívar, Bismarck ou Churchill. Ils
+étaient présentés comme des personnalités exceptionnelles et
+indépendantes, dont les actions ont davantage marqué l'Histoire que le
+contexte historique les a forgés. Leur force de caractère, leur génie
+stratégique et leur charisme étaient même parfois considérés comme des
+attributs fondant la puissance de leur État respectif, au même titre que les
+capacités militaires et les ressources naturelles (Morgenthau, 2005 [1948]).
+
+
+Puis, avec la révolution behavioraliste des années 1960, les
+internationalistes abandonnèrent l'étude des « grands hommes ». Kenneth
+Waltz, le premier, reconnut que les chefs d'État jouent parfois un rôle
+déterminant, mais jugea qu'ils sont trop complexes et idiosyncrasiques pour
+être analysés de façon systématique (1959). Selon Waltz et ses héritiers
+intellectuels, les variables structurelles permettent plus facilement
+d'identifier des lois généralisables. C'est d'ailleurs l'approche théorique qui
+a été privilégiée durant toute la guerre froide : les tensions entre les États-
+Unis et l'Union soviétique furent davantage analysées à travers le prisme
+impersonnel de la bipolarité qu'à travers la personnalité des dirigeants
+américains et soviétiques.
+
+
+Bien des dirigeants, par contre, n'ont jamais cessé de croire qu'ils sont
+les moteurs des relations internationales. Non seulement certains ont
+l'impression d'être en plein contrôle de leur politique étrangère, mais
+plusieurs personnalisent leurs relations avec les États étrangers. Les couples
+Reagan-Thatcher et Mitterrand-Kohl ont autant marqué les médias que les
+
+
+protagonistes eux-mêmes. C'est ce que Henry Kissinger reconnut, lorsqu'il
+devint conseiller du président Nixon : « En tant que professeur, j'avais
+tendance à considérer que l'Histoire est animée par des forces
+impersonnelles ; mais quand vous la voyez en pratique, vous constatez que
+les personnalités font une différence » (cité in Byman et Pollack, 2001).
+
+
+Depuis quelques années, l'individu réintègre progressivement sa place
+dans l'analyse des relations internationales. Plusieurs internationalistes
+reconnaissent maintenant qu'ignorer complètement le rôle des individus est
+aussi réducteur que percevoir la politique étrangère comme la projection
+d'une seule personnalité (Byman et Pollack, 2001; Post et al., 2003).
+Parallèlement, ils commencent à s'intéresser à d'autres décideurs que les
+seuls chefs d'État et de gouvernement. Les généraux, les parlementaires, les
+commissaires, les conseillers et les ministres sont eux aussi de plus en plus
+analysés à travers leur individualité (Smith, 2003; Crichlow, 2005).
+
+
+Certes, les individus ne sont pas toujours déterminants. Leur influence
+varie en fonction des circonstances particulières (Hermann, 1976). Au
+moins trois principaux facteurs peuvent accentuer ou atténuer leur rôle. Le
+premier est leur capacité institutionnelle et politique d'agir sur la politique
+étrangère. Comme les chapitres précédents l'ont souligné, le degré de
+concentration de l'autorité varie significativement d'un État à l'autre. À
+certains égards, le président de Gaulle bénéficiait d'une marge de
+manœuvre plus grande que celle dont disposait le président chinois Hu
+Jintao. On peut dès lors supposer que de Gaulle ait davantage marqué la
+politique étrangère française que Hu Jintao la politique étrangère chinoise
+(Hermann et Hermann, 1989; McGillivray et Smith, 2004).
+
+
+Le second facteur est la volonté des individus eux-mêmes d'exercer une
+forte influence sur la politique étrangère. Ils ont tous des intérêts, des
+motivations et des styles de leadership qui leur sont propres. Le général
+Francisco Franco, par exemple, préférait déléguer l'essentiel de la politique
+étrangère espagnole à ses subalternes, à condition qu'ils n'entreprennent
+aucune action déstabilisante. Le général Murtala Mohammed, par contre,
+était particulièrement intéressé par les relations internationales et était
+déterminé à entreprendre un virage majeur dans la politique étrangère du
+Nigéria (Beasley et al., 2001).
+
+
+Le troisième facteur est l'opportunité politique offerte aux décideurs pour
+orienter la politique étrangère. Les crises, en particulier, concentrent le
+pouvoir décisionnel autour des chefs d'État et leur permettent d'imprégner
+leurs personnalités sur la politique étrangère. Ce sont des situations
+incertaines et ambiguës, qui leur donnent l'occasion de trancher, dans une
+direction ou une autre. Qu'il s'agisse d'attaques terroristes, de catastrophes
+naturelles ou de récessions, les crises offrent l'opportunité aux décideurs
+d'exercer une influence accrue sur la politique étrangère (Holsti, 1979;
+Brecher et Wilkenfeld, 1982; Stern, 2003; Balzacq, 2004).
+
+
+Si les circonstances qui amplifient l'influence des décideurs sont
+relativement bien connues, les analystes ne s'entendent toujours pas sur les
+outils théoriques et méthodologiques qui permettent de comprendre dans
+quelle direction ils orientent la politique étrangère lorsqu'ils en ont la
+capacité, la volonté et l'opportunité. Comme ce chapitre l'expose, certains
+chercheurs tentent de dégager de grandes tendances dans la façon dont les
+décideurs, de manière générale, perçoivent et interprètent leur
+environnement. D'autres, au contraire, se concentrent sur les
+caractéristiques cognitives et affectives propres à un individu en particulier.
+
+
+Les perceptions
+
+
+Dans les années 1960, Richard Snyder (1962) et le couple Harold et
+Margaret Sprout (1969) insistaient déjà sur l'importance des perceptions en
+politique étrangère. Ils soulignèrent à grands traits que si les analystes
+veulent pleinement comprendre les décisions de politique étrangère, il leur
+faut reconstruire le monde tel que les décideurs politiques l'ont perçu, et
+non comme il est réellement ou comme les analystes l'imaginent (Gold,
+1978).
+
+
+En effet, il existe toujours un décalage entre le monde réel et le monde
+perçu. L'environnement ne peut être assimilé par un être humain qu'en
+omettant certains éléments, en palliant les données inconnues par des
+suppositions et en restructurant des informations éparses pour leur donner
+un sens. Or, les dirigeants politiques réagissent à cette vision biaisée de la
+réalité, et non à la réalité elle-même. Si les analystes ignorent ces biais, ce
+sont leurs analyses elles-mêmes qui risquent de devenir distordues.
+
+
+Malgré cette mise en garde des pionniers de l'APE, la majorité des
+analystes de politique étrangère renoncent à prendre en compte les
+perceptions des acteurs qu'ils étudient. Reconstruire les perceptions des
+décideurs est méthodologiquement hasardeux puisqu'il est impossible de se
+glisser dans leur esprit pour voir le monde à travers leur regard. Par
+conséquent, plusieurs analystes préfèrent s'appuyer sur des indicateurs
+objectifs plutôt que subjectifs et adhérer à la fiction, méthodologiquement
+commode, que le monde réel est directement assimilé par les décideurs.
+
+
+Robert Jervis, dans son ouvrage phare Perception and Mispercetion in
+International Politics (1976), contribua à surmonter ces difficultés
+méthodologiques. Dans cet ouvrage, Jervis avance que les biais de
+perception en politique étrangère ne sont pas totalement idiosyncrasiques et
+imprévisibles. Certains biais reviennent de manière récurrente chez la
+majorité des individus et peuvent d'ailleurs être observés en laboratoire de
+manière systématique. Le postulat central de Jervis est que les dirigeants
+politiques perçoivent eux aussi le monde à travers ces mêmes biais.
+
+
+La méfiance
+
+
+Un des biais de perceptions les plus fréquents, et aux conséquences les
+plus dramatiques, est celui de surestimer l'hostilité de ses rivaux (Jervis,
+1976). Des actions strictement défensives sont fréquemment perçues et
+interprétées comme des actions offensives. La Chine et la Japon, par
+exemple, se regardent en chiens de faïence depuis plusieurs décennies. Bien
+qu'ils soient économiquement interdépendants et qu'il est peu probable que
+l'un d'eux ait des visées expansionnistes, chacun continue d'interpréter les
+actions de l'autre avec méfiance (Yahuda, 2006; He, 2007).
+
+
+Parallèlement, les individus ont tendance à sous-estimer la méfiance
+qu'entretiennent les autres à leur égard. Peu d'individus se définissent eux-
+mêmes comme menaçants ou agressifs et il leur est difficile d'imaginer
+qu'ils puissent être perçus comme tels. Ils considèrent à tort que leurs
+intentions sont claires et que les autres peuvent interpréter correctement
+leurs comportements (Jervis, 1976).
+
+
+Nehru a ainsi gravement sous-estimé la menace que l'Inde représentait
+aux yeux de la Chine de Mao Zedong. Or, les autorités chinoises craignaient
+bel et bien une attaque de l'Inde. Nehru n'a donc pas anticipé que la Chine
+mènerait une attaque préventive contre l'Inde (Vertzberger, 1984; Garver,
+2006).
+
+
+Plus récemment, l'administration de George W. Bush a tout aussi
+gravement sous-estimé la méfiance des populations irakienne et afghane.
+Alors que les États-Unis s'attendaient à être accueillis en libérateur, une
+part substantielle de la population irakienne et afghane en est venue à
+percevoir l'armée américaine comme une force d'occupation hostile
+(Mandel, 2009).
+
+
+Selon un sondage du Pew Research Center, la majorité de la population
+jordanienne considérait, dès 2004, que la politique de guerre contre le
+terrorisme des États-Unis était en réalité motivée par le désir de contrôler le
+pétrole du Moyen-Orient (71%), de protéger Israël (70%) ou de dominer le
+monde (61%). Aux États-Unis, par contre, la vaste majorité de la
+population excluait ces explications. Elles ne rallièrent respectivement que
+18%, 11% et 13% des Américains (marge d'erreur de 3,5 avec un
+intervalle de confiance de 95 %).
+
+
+La conjugaison de cette surestimation de l'hostilité d'autrui et de cette
+sous-estimation de la menace perçue par autrui peut conduire à une spirale
+de malentendus et de méfiance (Jervis, 1976; Larson, 1997). Un dirigeant
+politique qui craint pour la sécurité de son État peut réagir en augmentant
+ses capacités militaires, ce qui sera interprété comme une menace par les
+gouvernements étrangers, qui réagiront eux aussi en augmentant leurs
+capacités militaires. C'est le fameux dilemme de la sécurité dans lequel les
+mesures défensives, au lieu d'accroître la sécurité, alimentent l'insécurité.
+L'exemple le plus manifeste est certainement celui de la Première Guerre
+mondiale. Alors que la majorité des principaux protagonistes ne
+souhaitaient pas réaliser des gains territoriaux, tous avaient l'impression de
+devoir préparer une opération offensive pour éviter d'être pris de court par
+une attaque de l'ennemi. Le résultat dévastateur est bien connu (Wohlforth,
+1987; Walt, 1996; Williamson, 2011).
+
+
+Plusieurs facteurs contribuent à susciter cette méfiance réciproque. Sur le
+plan organisationnel, elle peut être amplifiée par l'attitude ultra-prudente de
+
+
+certains conseillers ou de certaines organisations bureaucratiques qui
+considèrent qu'il est de leur devoir d'imaginer le pire scénario et de se
+préparer en conséquence. Sur un plan plus sociopsychologique, il semble
+que les individus de toutes les cultures aient tendance à définir leurs rivaux
+comme leur reflet, c'est-à-dire comme une projection d'eux-mêmes aux
+concordances diamétralement opposées. Selon cette théorie du miroir, si
+l'un se considère humble et pondéré, il aura tendance à juger ses rivaux
+arrogants et nerveux. Puisque les individus ont généralement une image
+positive d'eux-mêmes, ils ont tendance à diaboliser leurs rivaux. Ce biais
+les empêche d'éprouver de l'empathie envers eux et oriente négativement
+leur perception (Eckhardt et White, 1967 ; White, 1968 ; Garthoff, 1978).
+
+
+Les biais d'attribution
+
+
+La méfiance réciproque peut également être alimentée par un autre biais
+de perception, tout aussi fréquent : celui d'attribuer aux actions inamicales
+d'autrui des motivations strictement intrinsèques. Lors de la Crise des
+missiles de Cuba, par exemple, plusieurs conseillers du président Kennedy
+ont immédiatement interprété l'envoi de missiles soviétiques à Cuba
+comme la démonstration que Moscou avait soudainement décidé d'adopter
+une politique hostile et agressive. Ce faisant, les conseillers de Kennedy ont
+négligé la possibilité que le Kremlin ne faisait peut-être que réagir à des
+actions américaines, notamment à l'installation de missiles en Turquie
+(Jervis, 1976; Herrmann, 1985).
+
+
+De plus, les individus ont naturellement tendance à interpréter les gestes
+amicaux de leurs ennemis comme le résultat d'une contrainte. C'est le
+constat qu'a tiré Daniel Heradstveit de ses entretiens avec des décideurs
+égyptiens, israéliens, libanais et syriens (1979). Dans le conflit au Moyen-
+Orient, chacun considère les comportements agressifs d'autrui comme
+l'expression de sa véritable volonté, mais les comportements pacifiques
+comme le résultat de pressions extérieures. Parce qu'ils ont une image
+positive d'eux-mêmes et qu'ils sont familiers avec leurs propres actions
+stratégiques, ils ont tendance à s'attribuer le crédit pour les gestes
+d'apaisement de leurs adversaires.
+
+
+Inversement, lorsque les décideurs adoptent eux-mêmes des politiques
+agressives, ils sont prompts à les justifier par des contraintes hors de leur
+contrôle. Ils rejettent alors le blâme sur l'opinion publique, les partis
+politiques adverses ou la pression d'un groupe d'intérêt. Toutefois,
+lorsqu'ils adoptent des politiques pacifiques, ils soulignent volontiers
+qu'elles reflètent leurs intentions authentiques et véritables.
+
+
+Dans tous les cas, les individus cherchent naturellement des explications
+causales simples à leurs comportements et à ceux d'autrui. Le hasard, les
+coïncidences, les impulsions, les conséquences imprévues et la
+multicausalité semblent intellectuellement insatisfaisants, tant pour les
+décideurs politiques que pour les universitaires qui les analysent. L'esprit
+est naturellement attiré par des mécanismes causaux simples et directs qui
+donnent l'illusion réconfortante que tout peut être compris et expliqué. Les
+théories du complot suscitent toujours plus d'adhérents que les explications
+complexes qui reposent en partie sur les aléas du hasard (Jervis, 1976).
+
+
+Ces biais d'attribution sont eux-mêmes liés à des biais dans la perception
+du processus décisionnel. Les décideurs sont bien conscients des différentes
+factions qui s'opposent au sein de leur propre appareil gouvernemental. Ils
+ont néanmoins tendance à surestimer le degré de centralisation et de
+cohésion des autres pays. Le discours controversé de Nicolas Sarkozy
+prononcé à Dakar en 2007 put être interprété en Afrique comme le reflet de
+l'état d'esprit de l'ensemble de la classe politique française. De même, les
+déclarations enflammées du président iranien Mahmoud Ahmadinejad
+peuvent être interprétées en France comme l'opinion de l'ensemble du
+gouvernement iranien (Jervis, 1976; Vertzberger, 1990; Malici et Buckner,
+2008).
+
+
+Cette surestimation de la cohésion d'autrui est également valide en
+matière de coalition internationale. Durant la guerre froide, les pays
+occidentaux étaient bien conscients des tensions au sein de l'OTAN, mais
+surestimaient le contrôle de Moscou sur les membres du Pacte de Varsovie.
+Aujourd'hui, vu de Pékin, les pays andins peuvent sembler former une
+coalition homogène et coordonnée, et vues de Dakar, les nuances entre les
+différents pays occidentaux s'estompent.
+
+
+Surestimer la cohésion de son interlocuteur peut, dans certains cas,
+entraîner l'échec des politiques de dissuasion. Les dirigeants politiques qui
+
+
+disposent de ressources économiques importantes sont parfois tentés
+d'offrir des compensations aux gouvernements étrangers pour qu'ils
+renoncent à mener une attaque. Si ces dirigeants surestiment la cohésion de
+ces gouvernements étrangers et leur contrôle des différentes fractions
+politiques et sociales, ils risquent d'offrir des compensations insuffisantes
+pour apaiser les groupes les plus belliqueux. Sous cette perspective,
+surestimer la centralité des adversaires diminue les probabilités de succès
+des stratégies de dissuasion et accroît les probabilités de conflits (Sechser,
+2010).
+
+
+Les probabilités
+
+
+Si la cohésion des coalitions étrangères a tendance à être surévaluée, les
+capacités militaires d'un ennemi en particulier sont souvent sous-estimées.
+Les guerres résultent fréquemment d'un excès d'optimisme de part et
+d'autre. Ainsi, à la veille de la Seconde Guerre mondiale, la France et le
+Royaume-Uni sous-estimaient nettement la résilience de l'économie
+allemande. Les capacités des pays alliés, par contre, ont tendance à être
+surestimées. C'est l'erreur qu'ont commise la France et le Royaume-Uni
+lors de la Première Guerre mondiale, en surestimant gravement les
+capacités de leur allié russe (Jervis, 1976; Wohlforth, 1987).
+
+
+La surestimation des probabilités de succès va bien au-delà des
+dimensions militaires. La même erreur est fréquente chez les diplomates
+dans le contexte d'une négociation. En 2002, dans les coulisses du Conseil
+de sécurité, les diplomates américains étaient encore persuadés de pouvoir
+convaincre la France de ne pas opposer son veto à l'autorisation d'une
+intervention armée en Irak. Les diplomates français, de leur côté, étaient
+encore persuadés de pouvoir convaincre les États-Unis que les menaces
+exprimées à l'Irak étaient suffisantes et qu'il n'était pas nécessaire de
+contourner le mécanisme onusien (Marfleet et Miller, 2005).
+
+
+Ces biais ne sont pas propres aux militaires et aux diplomates. Les êtres
+humains, dans un contexte d'incertitude, éprouvent beaucoup de difficultés
+à évaluer correctement les probabilités de succès et d'échec. Les
+probabilités élevées sont rapidement assimilées à une certitude absolue. Les
+
+
+faibles probabilités, quant à elles, sont souvent considérées comme des
+invraisemblances.
+
+
+L'hypothèse vraisemblable que Saddam Hussein était sur le point
+d'acquérir des armes de destruction massive devint une certitude au sein des
+hauts responsables de l'administration de George W. Bush. En 1941, par
+contre, parce qu'il était peu probable que l'aviation japonaise attaque la
+base navale américaine de Pearl Harbor, l'armée américaine ne s'y était pas
+préparée adéquatement (Wohlstetter, 1962).
+
+
+En combinant tous ces biais de perception, de la tendance à surestimer
+l'hostilité des ennemis jusqu'à celle de surestimer les probabilités de succès
+militaires, on comprend que les conflits militaires sont plus fréquents que ce
+que la théorie du choix rationnel le prédit (Blainey, 1988; Fearon, 1995;
+Kim et Bueno de Mesquita, 1995; van Evera, 1999). Comme le remarque
+Robert Jervis, « bien qu'une guerre puisse survenir en l'absence d'erreurs
+de perception, le fait demeure que les guerres sont presque toujours
+accompagnées d'erreurs de perception » (1988, p. 699).
+
+
+La cognition
+
+
+L'esprit humain est limité et ne peut analyser toutes les informations qu'il
+perçoit. Ces informations sont analysées à travers des filtres cognitifs, qui
+permettent de repérer les éléments qui semblent importants et de leur
+donner un sens. La « cognition » réfère à ces processus mentaux qui
+permettent aux individus d'interpréter leur environnement.
+
+
+La théorie cybernétique présentée dans un chapitre précédent est un
+exemple de théorie cognitiviste. Elle propose une vision de la cognition
+inspirée de l'étude de l'intelligence artificielle. L'esprit humain y est conçu
+comme un ordinateur qui répond de façon systématique à son
+environnement en fonction d'un nombre limité de règles, simples et stables.
+C'est une vision mécanique de l'esprit que la majorité des cognitivistes
+contemporains rejettent. Ils ne s'entendent pas, toutefois, sur le modèle
+théorique qui reflète le mieux les processus cognitifs.
+
+
+La cohérence cognitive
+
+
+Plusieurs cognitivistes adhèrent à l'idée que l'esprit humain est gouverné
+par son besoin de maintenir une cohérence interne. Pour éviter un sentiment
+d'ambiguïté, psychologiquement inconfortable, les informations
+incompatibles avec le système de croyances établies sont ignorées.
+Inversement, les informations qui sont compatibles avec ce système de
+croyances peuvent facilement venir s'y greffer. De façon similaire, les
+aspirations des individus ont tendance à être en concordance avec leurs
+attentes, et leurs croyances en adéquation avec leurs comportements.
+Lorsqu'une incohérence interne est identifiée, l'esprit humain s'ajuste
+rapidement pour rétablir une impression de cohérence, en imaginant une
+explication circonstanciée ou en formulant une exception aux règles de
+pensée qu'il s'est lui-même fixées, sans toutefois altérer l'essence même de
+ces règles (Festinger, 1957 ; Jervis, 1976 ; Janis et Mann, 1976).
+
+
+Selon cette théorie de la cohérence cognitive, le système de croyances
+d'un individu se forme dès ses premières expériences. Il prend ensuite de
+l'expansion, mais son noyau central demeure relativement stable tout au
+long de la vie. Comme Henry Kissinger le nota : « les dirigeants politiques
+s'élèvent sur le capital intellectuel qu'ils ont constitué avant d'occuper leurs
+fonctions » (1979, p. 54). Plus un individu acquiert de l'expérience, plus
+son système de croyances se densifie, plus ses réflexions s'affermissent, et
+plus ses réactions deviennent automatiques et intuitives. Ainsi, les
+croyances religieuses que les dirigeants ont intégrées dans leur enfance
+peuvent orienter durablement leur façon d'interpréter le monde, et par
+extension, leur politique étrangère (Inboden, 2008). Il en va de même de
+leur formation universitaire et de leurs expériences professionnelles
+antérieures à leur entrée en fonction (Hermann, 1980).
+
+
+En raison de cette tendance à maintenir un système de croyances
+cohérent, les dirigeants éprouvent parfois de la difficulté à s'adapter à des
+contextes évolutifs. Même lorsqu'ils se disent ouverts aux nouvelles idées
+et qu'on leur présente une démonstration convaincante que leur perception
+du monde est dépassée, ils ne parviennent pas toujours à se débarrasser de
+leurs vieux réflexes cognitifs. Ole Hosti, par exemple, remarqua que John
+Foster Dulles était si imprégné par son image de l'Union soviétique qu'il
+n'arrivait pas à intégrer correctement les informations contredisant la
+prétendue hostilité viscérale des dirigeants soviétiques à l'égard des États-
+
+
+Unis (1962). De même, dans les années 1980, plusieurs dirigeants niaient
+que les profonds changements qui bouleversaient l'URSS allaient
+résolument modifier les relations internationales. Certains, au cours des
+années 1990, n'étaient toujours pas parvenus à se défaire du prisme de la
+guerre froide (Chollet et Goldgeier, 2003; Malici et Malici, 2005).
+
+
+Le code opérationnel
+
+
+Une des méthodes les plus fréquemment utilisées par les analystes de la
+politique étrangère pour appréhender le système de croyances des dirigeants
+politiques consiste à définir leur code opérationnel. Cette méthode a été
+développée par Alexander George (1969), lui-même inspiré par les travaux
+de Nathan Leites sur les croyances des dirigeants soviétiques (1951). La
+méthode du code opérationnel consiste à identifier les croyances propres à
+chaque dirigeant à propos de dix questions fondamentales. Ces dix
+questions sont organisées hiérarchiquement, de la plus fondamentale et
+inflexible à la plus marginale et fluctuante. Les cinq premières sont de
+nature philosophique et les cinq suivantes de nature utilitaire : 1) La vie
+politique est-elle conflictuelle ou harmonieuse ? 2) Quel est le caractère
+fondamental des rivaux politiques ? 3) Peut-on être optimiste à propos de
+ses aspirations politiques ? 4) L'avenir politique est-il prévisible ? 5) Est-il
+possible d'influencer la marche de l'histoire ? 6) Quelle est la meilleure
+méthode pour définir ses objectifs politiques ? 7) Comment ses objectifs
+peuvent-ils être atteints le plus efficacement ? 8) Comment les risques de
+l'action politique sont-ils calculés, contrôlés et acceptés ? 9) Quel est le
+meilleur moment d'action pour atteindre ses objectifs ? 10) Quelle est la
+valeur des différents moyens d'action disponibles ?
+
+
+Bien que l'approche du code opérationnel ait initialement été développée
+aux États-Unis pour mieux comprendre les dirigeants soviétiques, les
+chercheurs ont rapidement braqué leurs projecteurs vers Washington. Les
+dix questions qui constituent le code opérationnel ont en effet guidé des
+recherches sur plusieurs présidents américains, secrétaires d'État et
+conseillers à la sécurité, comme Woodrow Wilson (Walker et Shafer, 2007),
+Dean Acheson (McLellan, 1971), John Foster Dulles (Holsti, 1970 et 1972 ;
+Stuart et Starr, 1981), John Kennedy (Stuart, 1979; Stuart et Starr, 1981),
+
+
+Lyndon Johnson (Walker et Shafer, 2000), Henry Kissinger (Starr, 1984;
+Walker, 1977), Jimmy Carter (Walker et al., 1998), George Bush (Walker et
+al., 1999), Bill Clinton (Schafer et Crichlow, 2000) et George W. Bush
+(Renshon, 2011). Des travaux récents ont également mobilisé les dix
+questions imaginées par Alexander George pour étudier les dirigeants de
+différents pays, dont les premiers ministres israéliens (Crichlow, 1998), les
+chanceliers allemands (Malici, 2006) et les présidents russes (Dyson, 2001).
+Au total, l'approche du code opérationnel a permis d'aborder le système de
+croyances de plus d'une centaine de dirigeants politiques (Crichlow, 2005 ;
+Schafer et Walker, 2006 ; Malici et Buckner, 2008).
+
+
+La comparaison des études de cas les plus récentes a été grandement
+facilitée par la généralisation d'une technique d'encodage commune,
+proposée par Stephen Walker, Mark Schafer et Michael Young (1998). Au
+lieu de trouver les réponses aux dix questions du code opérationnel par une
+approche qualitative combinant recherche dans les archives, entretiens avec
+des personnes clés et analyse de contenu, Walker, Shafer et Young ont
+développé une technique quantitative d'analyse de discours. Cette
+technique, appelée <<<< verbes en contexte », consiste à analyser
+systématiquement les verbes dans un vaste corpus de discours à l'aide d'un
+logiciel spécialisé. Par exemple, la proportion de verbes employés à la voix
+active et ayant comme complément d'objet un rival politique reflète une
+certaine confiance en la capacité à contrôler les événements et à marquer le
+sens de l'histoire, ce qui correspond à la cinquième question du code
+opérationnel. Cette base statistique commune permet ensuite d'établir des
+comparaisons entre les systèmes de croyances des différents dirigeants
+politiques.
+
+
+Le talon d'Achille de l'analyse de la cognition par le code opérationnel
+est la difficulté d'établir des liens entre les réponses obtenues et les
+comportements de politique étrangère (Karawan, 1994). Plusieurs études
+dressent des portraits détaillés du code opérationnel d'un décideur
+particulier, mais se contentent ensuite de vagues allusions sur l'impact que
+ce code opérationnel a pu avoir sur les actions entreprises de ce décideur.
+Autrement dit, la documentation de la variable dépendante fait rarement
+l'objet d'autant d'attention que celle de la variable indépendante. Havery
+Starr (1984) est même arrivé à la conclusion qu'il ne pouvait pas identifier
+
+
+de relations significatives entre le code opérationnel de Henry Kissinger et
+les politiques étrangères américaines adoptées lorsqu'il était Secrétaire
+d'État.
+
+
+Les raccourcis heuristiques
+
+
+Une méthode permettant d'aborder plus directement l'influence de la
+cognition des dirigeants sur la politique étrangère est d'étudier les
+stéréotypes qu'ils entretiennent à propos des pays étrangers. Les
+stéréotypes, parfois appelés « images » en APE, sont des raccourcis
+heuristiques véhiculés culturellement ou formés dès les premiers contacts
+avec l'étranger. Ils ont tendance à persister durablement une fois qu'ils sont
+enracinés dans l'esprit, même contre le gré de ceux qui souhaitent s'en
+libérer (Holsti, 1962)
+
+
+Les stéréotypes pertinents pour l'APE varient en fonction d'une série de
+perceptions relatives aux États étrangers, dont celles relatives à leur
+puissance, à leur statut culturel et à leurs objectifs politiques. Par exemple,
+le stéréotype de l'État immature correspond à l'État faible, culturellement
+inférieur et aux objectifs amicaux. Il renvoie à un stéréotype
+d'autodéfinition paternaliste et suggère certains types de comportement de
+politique étrangère, comme ceux qu'a entretenus la France vis-à-vis de
+l'Afrique et les États-Unis vis-à-vis des Philippines (Doty, 1993 ; Hermann
+et al., 1999; Morgan, 2001; Alexander et al., 2005).
+
+
+Une autre voie d'entrée vers les processus cognitifs des dirigeants
+politiques est l'étude des analogies qu'ils emploient dans leurs discours. Les
+analogies permettent d'interpréter le présent à l'aide des leçons tirées
+d'événements passés, qu'ils aient été vécus personnellement ou qu'ils
+s'inscrivent dans la mémoire collective. Elles sont, comme les stéréotypes,
+des raccourcis intellectuels : il est plus facile de se souvenir d'expériences
+analogues que de réfléchir de façon logique en prenant en compte tous les
+éléments pertinents du cas présent. En transposant les leçons du passé au
+présent, les décideurs ont l'impression de pouvoir plus facilement définir la
+situation à laquelle ils font face, anticiper les événements à venir, et
+identifier la conduite la plus appropriée (Vertzberger, 1986; Neustadt et
+May, 1986; Vertzberger, 1990; Shimko, 1994; Sylvan et al., 1994 ;
+
+
+Peterson, 1997; Hehir, 2006; Dyson et Preston, 2006; Barthe et David,
+2007; Layne, 2008; Brunk, 2008; Flanik, 2011).
+
+
+L'une des études les plus classiques sur le recours aux analogies en
+politique étrangère fut conduite par Yuen Foong Khong (1992). Il y montre
+que, lors de la guerre du Vietnam, les décideurs américains se sont laissé
+guider par les leçons des guerres précédentes. Ils ont notamment retenu de
+la crise de Munich, au cours de laquelle la France et le Royaume-Uni ont
+accepté de négocier avec Hitler, qu'il faut agir rapidement et fermement
+contre des rivaux agressifs. Ils ont également retenu de la guerre de Corée
+qu'une intervention massive permet effectivement de limiter les ambitions
+de l'ennemi. Mais comme l'exemple de la guerre du Vietnam l'illustre, les
+analogies ne sont pas toujours de bons conseils. Parce qu'elles occultent les
+particularismes et confortent les certitudes, elles conduisent souvent à des
+erreurs d'interprétation.
+
+
+Les études cognitivistes qui se concentrent sur les raccourcis heuristiques
+sous-estiment parfois la complexité des processus cognitifs. Les analogies
+pourraient tout simplement être évoquées ex post par les décideurs pour
+justifier leurs actions et convaincre le public du bien-fondé de leurs
+politiques. Sous cette perspective, elles révèleraient davantage leurs
+stratégies rhétoriques que leurs processus cognitifs. Les décideurs
+puiseraient dans l'histoire les analogies qui correspondent à leurs
+préférences, plutôt que de déterminer leurs préférences en fonction des
+analogies (Breuning, 2003).
+
+
+Cette éventualité expliquerait qu'il ne semble pas y avoir d'effet
+générationnel dans les analogies évoquées par les dirigeants politiques
+(Holsti et Rosenau, 1980). Même si George W. Bush se disait lui-même être
+un produit de la génération du Vietnam, ce sont les attaques de Pearl Harbor
+et la lutte contre le nazisme qui furent évoquées au lendemain des attaques
+du 11 septembre. Ce recours à des analogies vagues et lointaines, qui
+résonnent néanmoins fortement auprès de l'opinion publique, ne fut peut-
+être qu'une stratégie rhétorique pour justifier la guerre contre l'Irak
+(Western, 2005).
+
+
+La cartographie cognitive
+
+
+Certains chercheurs attachés à reconstituer les processus cognitifs des
+décideurs dans leur complexité recourent plutôt à la technique de la
+cartographie cognitive. Cette technique a été développée par Robert
+Axelrod (1973), Michael Shapiro et Matthew Bonham (1973) pour
+représenter graphiquement la structure des croyances causales des
+décideurs. Il s'agit essentiellement d'identifier les repères de la pensée à
+partir d'une analyse de discours et de lier ces repères par des relations
+causales positives ou négatives. Par exemple, si un Premier ministre
+soutient que la signature d'un traité de libre-échange contribuera à réduire
+la pauvreté, une relation ponctuée d'un signe négatif sera tracée entre le
+concept de libre-échange et celui de pauvreté. En analysant tout un corpus
+de discours et en multipliant l'identification des croyances causales, le
+chercheur en arrive à une carte cognitive qui peut compter plusieurs
+dizaines de concepts et des centaines de relations entre eux.
+
+
+La constitution de cartes cognitives peut viser trois objectifs différents.
+L'objectif initial d'Axelrod était de les mobiliser dans un exercice réflexif
+avec les dirigeants politiques eux-mêmes, pour les aider à réfléchir à leur
+propre système de croyances et à identifier d'éventuelles incohérences.
+Avec le développement de l'informatique dans les années 1980, certains
+espéraient utiliser les cartes cognitives pour modéliser les processus
+cognitifs et formuler des prédictions sur les réactions des dirigeants
+étrangers. Aujourd'hui, les cartes cognitives sont plus souvent utilisées pour
+comparer le degré de complexité des systèmes de croyances de différents
+individus. Un décideur ayant un degré de complexité cognitive élevé aura
+une carte cognitive comptant plus de concepts et de relations causales.
+
+
+La complexité cognitive
+
+
+La complexité cognitive varie d'un dirigeant politique à un autre. Outre
+les cartographies cognitives, l'analyse statistique des termes utilisés dans
+les discours peut permettre d'établir des comparaisons à cet égard. Il s'agit
+d'une approche développée initialement par Margaret Hermann (1980) et
+utilisée depuis par un nombre croissant de chercheurs.
+
+
+Selon Hermann, plusieurs termes indiquent un niveau de complexité
+élevé dont << parfois », « probablement » et « quelques ». Dans un discours,
+
+
+ils dénotent une compréhension équivoque et nuancée du monde. Ceux
+indiquant un niveau de complexité plus faible révèlent des catégories
+mentales plus générales, absolues et grossières, comme « toujours »,
+« certainement » et « tous ». En établissant le ratio de ces deux groupes de
+mots-clés dans un corpus de discours, un chercheur peut obtenir une
+estimation du niveau de complexité cognitive sur une échelle quantitative,
+permettant d'établir des comparaisons entre différents individus.
+
+
+Cette méthode a ainsi permis d'établir que les dirigeants ayant un faible
+niveau de complexité cognitive, comme Ronald Reagan et Margaret
+Thatcher, ont tendance à voir le monde de manière dichotomique. Ils
+associent rapidement les puissances étrangères, aux ennemis et au mal, et
+les forces internes aux amis et au bien. Ce manichéisme réduit leur capacité
+d'empathie, leur tolérance aux contestations, leurs inclinaisons à se plier
+aux contraintes internationales et leur volonté à négocier des compromis.
+Lorsqu'ils font face à une situation menaçante, ils sont prompts à recourir
+rapidement à la force armée, sans considérer toutes les autres possibilités
+d'intervention.
+
+
+Les dirigeants ayant une complexité cognitive plus élevée, au contraire,
+sont généralement plus à l'aise avec les situations ambiguës, s'entourent de
+conseillers qui osent exprimer leurs désaccords, s'adaptent mieux aux
+changements contextuels, considèrent un répertoire d'action plus étendue,
+trouvent des analogies qui correspondent plus adéquatement aux situations
+données, respectent davantage les normes internationales, acceptent plus
+volontiers de négocier des ententes avec leurs adversaires, et ont finalement
+moins tendance à recourir à la force armée (Adorno et al., 1950; Hermann,
+1980, 1983, 1984 et 1987; Glad, 1983; Purkitt et Dyson, 1986;
+Vertzberger, 1990; Hermann et al., 1991; Hermann et Kegley, 1995;
+Preston, 1997; Dyson et Preston, 2006 ; Dyson, 2009).
+
+
+La faiblesse de certaines de ces études est de postuler que la complexité
+cognitive est une donnée invariable, qui demeure stable chez un dirigeant
+tout au long de sa carrière politique. Or, les quelques travaux qui analysent
+distinctement différents discours d'un même dirigeant indiquent que la
+complexité cognitive fluctue selon le contexte. Les crises internationales, en
+particulier, engendrent un niveau élevé de stress et celui-ci peut réduire la
+complexité cognitive des dirigeants. Comme le relate Robert Kennedy à
+
+
+propos du stress ressentit lors de la Crise des missiles de Cuba : « Ce type
+de pression a des effets étranges sur les êtres humains, même sur les
+hommes brillants, sûrs d'eux-mêmes, matures et expérimentés » (1969,
+p. 22).
+
+
+En effet, plusieurs études indiquent qu'un stress intense et prolongé
+atrophie momentanément la complexité du système de croyances des
+décideurs, réduit leur tolérance pour l'ambiguïté et favorise le recours aux
+stéréotypes et aux analogies. Tous ces symptômes peuvent être décelés par
+l'analyse de discours. Par conséquent, quelques chercheurs suggèrent que
+les fluctuations dans le degré de complexité cognitive soient utilisées pour
+déceler les bluffs lors d'une négociation tendue ou même pour anticiper les
+probabilités d'attaque-surprise de l'ennemi (Holsti et George, 1975;
+Suedfeld et Tetlock, 1977 ; Holsti, 1979; Suedfeld et Bluck, 1988 ; Guttieri
+et al., 1995; Wallace et al., 1996; Astorino-Courtois, 2000; Suedfeld et
+Leighton, 2002; Conway et al., 2003; Mintz, 2004 ; Post, 2004).
+
+
+Il semble également que le niveau de complexité cognitive fluctue en
+fonction des objectifs des dirigeants politiques. Leurs discours ont tendance
+à révéler un système de croyances plus simple lorsqu'ils tentent de gagner
+le pouvoir que lorsqu'ils l'occupent effectivement. Ils ont également
+tendance à exprimer des relations causales plus rudimentaires lorsqu'ils
+lancent des appels à la guerre et à tenir des propos plus nuancés lorsqu'ils
+font des appels à la paix. C'est ce qui émerge de la comparaison, par
+exemple, des discours de Yasser Arafat à l'époque de la guerre des Six
+Jours avec ceux exprimés trente ans plus tard lors du processus d'Oslo ; ou
+encore de la comparaison des discours de Richard Nixon comme sénateur, à
+l'époque du McCarthysme, avec ceux exprimés vingt ans plus tard lors de
+son rapprochement avec la Chine communiste (Suedfeld et Rank, 1976;
+Tetlock, 1981; Maoz et Shayer, 1987; Crichlow, 1998 ; DiCicco, 2011).
+
+
+Les schémas
+
+
+L'évolution des systèmes de croyances des dirigeants est peu conciliable
+avec la théorie de la cohérence cognitive. Selon les premières formulations
+de cette théorie, le système de croyances est relativement rigide et stable.
+Les diverses expériences de vie le densifient continuellement, le rendant
+
+
+plus hermétique aux informations qui peuvent le contredirent. La théorie de
+la cohérence cognitive reconnaît bien que des ajustements progressifs en
+périphérie du système de connaissances sont possibles, précisément pour
+maintenir la cohérence du système. Mais les changements en son centre
+sont rares, et lorsqu'ils se produisent, ils se font brutalement, à la suite d'un
+événement marquant. Un décideur doit être confronté frontalement avec
+l'inadéquation de son système de croyances pour qu'il accepte
+éventuellement de le modifier en profondeur. L'attaque soviétique en
+Afghanistan aurait provoqué un tel changement brutal dans le système de
+croyances de Jimmy Carter, tout comme les attaques terroristes du
+11 septembre 2001 pour George W. Bush (Walker et al., 1998; Renshon,
+2008).
+
+
+La théorie des schémas, plus récente, reconnaît une plus grande
+flexibilité dans les processus cognitifs des dirigeants politiques. Les
+schémas sont des constructions de l'esprit qui agrègent des connaissances et
+des croyances à propos d'un domaine particulier. Contrairement à la vision
+concentrique et hiérarchique du système de croyances que propose la
+théorie de la cohérence cognitive, la théorie des schémas soutient que les
+croyances sont fragmentées et relativement indépendantes les unes des
+autres. Différentes croyances, appartenant à différents domaines, peuvent
+sembler incohérentes à un observateur externe, mais être néanmoins
+maintenues parce que cognitivement dissociées. La théorie des schémas est
+ainsi davantage compatible à l'idée d'une adaptation continuelle de la
+cognition aux changements environnementaux (Larson, 1994; Renshon et
+Larson, 2003; Sohn, 2012).
+
+
+La théorie des schémas soutient que les individus apprennent
+continuellement de leurs interactions avec l'environnement (Levy, 1994;
+Reiter, 1996). Ils ne sont pas présentés comme des filtres passifs qui
+absorbent certaines informations et en rejettent d'autres en fonction de leur
+système de croyances. Ce sont des acteurs qui testent continuellement des
+hypothèses et s'ajustent aux rétroactions que leur renvoie l'environnement.
+Les dirigeants soviétiques, par exemple, ont appris par essais et erreurs de
+leurs diverses politiques déployées dans les 1970 et 1980. Selon plusieurs
+soviétologues, si Mikhail Gorbatchev a radicalement changé la politique
+étrangère soviétique, ce n'est pas tellement en raison d'une modification du
+
+
+système international ou de sa personnalité exceptionnelle, mais parce qu'il
+a tiré des enseignements des échecs soviétiques précédents. Ses
+prédécesseurs, Louri Andropov et Konstantin Chernenko, furent confrontés
+aux mêmes difficultés structurelles que Gorbatchev, mais maintinrent
+néanmoins l'approche de confrontation avec les États-Unis (Nye, 1987;
+Blum, 1993; Checkel, 1993 ; Mendelson, 1993; Stein, 1994; Evangelista,
+1995; Wallace et al., 1996; Bennett, 1999; Laucella, 2004).
+
+
+Cela dit, les capacités d'adaptation cognitives varient d'un dirigeant à un
+autre. Certains se montrent relativement inflexibles et d'autres manifestent
+une remarquable capacité d'apprentissage. Le code opérationnel de Yitzhak
+Rabin, par exemple, est demeuré beaucoup plus stable au fil des décennies
+que celui de Shimon Peres, qui fluctuait fréquemment en fonction du
+contexte (Crichlow, 1998). De même, le système de croyances de Kim Il
+Sung semble avoir été relativement peu affecté par la fin de la guerre froide
+alors que celui de Fidel Castro s'est davantage ajusté au nouveau contexte
+(Malici et Malici, 2005 ; Malici, 2011).
+
+
+La théorie de la cohérence cognitive n'est donc pas nécessairement
+incompatible avec celle des schémas (Larson, 1985). La première est plus
+appropriée pour analyser les dirigeants dogmatiques, qui s'appuient sur un
+mode de raisonnement déductif à partir d'une grande théorie générale, et la
+seconde, pour les dirigeants pragmatiques, qui privilégient plutôt
+l'induction à partir de leurs observations empiriques. Paradoxalement, les
+dirigeants dogmatiques ont tendance à être plus confiants dans la justesse de
+leur raisonnement, mais ce sont les dirigeants pragmatiques qui sont les
+plus aptes à saisir les complexités de leur environnement et à anticiper
+l'évolution des relations internationales (Tetlock, 2005; Hermann et al.,
+2001).
+
+
+Les émotions
+
+
+Ce livre se clôt sur la variable la plus personnelle de l'APE, soit la vie
+affective et émotive des dirigeants politiques. Pour certains, il s'agit
+justement d'un aspect si intime qu'il n'intervient que marginalement en
+politique étrangère. Les travaux les plus récents tendent toutefois à
+démontrer le contraire.
+
+
+La culture occidentale oppose traditionnellement la raison aux émotions,
+comme s'il s'agissait de deux registres de réflexion indépendants l'un de
+l'autre. En réalité, ils sont étroitement imbriqués l'un à l'autre. Plusieurs
+recherches dans le domaine de la neurologie, conduites à l'aide d'imagerie
+médicale par résonance magnétique, confirment que, dans le processus
+menant à une prise de décision, les zones du cerveau gouvernant les
+émotions s'activent avant que les raisonnements cognitifs ne soient
+consciemment formulés. Plus encore, les sujets dont la partie du cerveau
+contrôlant les émotions est endommagée, mais dont les habiletés cognitives
+demeurent intactes, éprouvent des difficultés à prendre de banales
+décisions. Les émotions semblent donc être une composante essentielle de
+toute forme de prise de décision. En s'appuyant sur ces travaux de
+neurologie, plusieurs spécialistes plaident pour une plus grande intégration
+des dimensions affectives dans l'APE (Crawford, 2000; Greenstein, 2001;
+Bleiker et Hutchison, 2008; Stein, 2008; Mercer, 2010; Sasley, 2010 et
+2011; Zak et Kugler, 2011).
+
+
+Cependant, intégrer les émotions à l'APE n'est pas une tâche facile. Le
+principal obstacle est d'ordre méthodologique. En effet, les présidents et
+premiers ministres n'acceptent pas d'être scrutés à l'aide d'un appareil
+d'imagerie par résonnance magnétique, de s'allonger sur le divan d'un
+psychanalyste, ou de répondre en toute sincérité à un questionnaire sur leur
+vie affective. Une partie de leurs actions et de leurs discours peut être
+directement observée par les analystes, mais les dirigeants peuvent tenter de
+masquer leurs émotions (Greenstein, 1982).
+
+
+De la psychobiographie à la statistique
+
+
+La difficulté à mesurer les fluctuations émotives des dirigeants a conduit
+plusieurs chercheurs à s'engager dans la voie de la psychobiographie. Cette
+méthode consiste à dresser un portrait aussi complet et détaillé que possible
+du parcours d'un dirigeant particulier en remontant jusqu'à son enfance.
+Des sources d'information de différentes natures sont généralement
+croisées, dont les entretiens avec les membres de la famille, les amis et les
+collègues, ainsi que l'analyse de documents d'archives, comme les travaux
+scolaires, la correspondance personnelle et les journaux intimes.
+
+
+Jerrold Post est sans doute l'un des analystes qui a le plus contribué au
+développement de la psychobiographie. Psychiatre de formation, il a
+travaillé pendant une vingtaine d'années au Centre de l'analyse de la
+personnalité de la CIA, où il était chargé de dresser le profil psychologique
+des dirigeants étrangers. Devenu professeur, ses études ont établi des liens
+entre les événements marquants de la vie des dirigeants, leur personnalité et
+leurs comportements de politiques étrangères. Post s'est notamment penché
+sur la personnalité de Slobodan Milosevic, Bill Clinton, Fidel Castro, Kim
+Jong Il et Woodrow Wilson (1983, 1991, 1993, 2004 et 2006).
+
+
+La psychobiographie la plus connue de Woodrow Wilson n'est pourtant
+pas celle de Jerrold Post. Ce n'est pas non plus celle réalisée par Sigmund
+Freud lui-même (1969), souvent jugée partiale. C'est plutôt celle coécrite
+par Alexander et Juliette George, Woodrow Wilson and Colonel House,
+devenue un classique dans le domaine de la psychobiographie (1964).
+Woodrow Wilson y est présenté comme un homme ayant une faible estime
+de lui-même. Son père, exigeant et moralisateur, aurait instillé en lui une
+angoisse ne pouvant être atténuée que par des performances
+exceptionnelles. Ce trait de personnalité aurait propulsé la carrière de
+Wilson, d'abord comme universitaire jusqu'à la présidence de l'université
+Princeton, puis comme politicien jusqu'à la Maison Blanche. Mais une fois
+ce sommet atteint, Wilson n'aurait pas eu l'assurance en lui nécessaire pour
+accepter des concessions et négocier avec le Congrès la ratification du
+Traité de Versailles. Ce serait sa propre intransigeance, inconsciemment
+cultivée pour répondre aux attentes de son père, qui expliquerait que les
+États-Unis soient restés à l'écart de la Société des Nations.
+
+
+Wilson n'est certainement pas le seul dirigeant dont les mêmes traits
+affectifs qui ont contribué à son ascension politique l'ont handicapé une fois
+arrivé au pouvoir. On peut affirmer sans risque que les ambitions grandioses
+de Napoléon Bonaparte, Adolf Hitler et Saddam Hussein les ont également
+conduits à leur propre perte. C'est un schéma relativement fréquent chez les
+dirigeants souffrants, à des degrés divers, de narcissisme et de paranoïa.
+Certains chercheurs, d'ailleurs, n'hésitent pas à recourir au célèbre et
+controversé Manuel diagnostique et statistique des troubles mentaux, publié
+par l'Association américaine de psychiatrie, pour diagnostiquer les
+
+
+dirigeants politiques (Birt, 1993; Glad, 2002; Post, 2003 et 2004; Byman
+et Pollack, 2001).
+
+
+Les psychobiographies des dirigeants qui n'ont pas une personnalité
+flamboyante et qui ne souffrent pas d'une pathologie évidente s'avèrent
+toutefois plus difficiles à réaliser. Outre le problème d'accès aux données,
+leur interprétation repose parfois sur des présomptions fragiles. Certaines
+psychobiographies ne sont pas falsifiables, d'autres ne sont pas
+reproductibles, et la majorité s'inscrivent dans une approche strictement
+idiosyncrasique. Elles n'offrent aucune base de comparaison et n'ont
+aucune prétention à la généralisation.
+
+
+Quelques travaux sur l'influence des dimensions affectives versent
+cependant dans l'autre extrême : ils ignorent les particularités propres à
+chaque décideur et se limitent à l'étude de variables objectives, directement
+accessibles et facilement comparables. Ils étudient, par exemple, l'impact
+de l'âge des décideurs, de leur sexe, ou de leur ordre de naissance. Il est
+bien établi que, dans la population générale, ces caractéristiques
+démographiques sont étroitement corrélées avec des inclinaisons affectives
+particulières, en raison de facteurs psychologiques ou physiologiques.
+Toutefois, les travaux qui tentent de discerner ces mêmes corrélations chez
+les dirigeants politiques arrivent généralement à des résultats ambigus.
+Jusqu'à présent, il n'est pas démontré statistiquement que l'âge, le sexe ou
+l'ordre de naissance aient un impact sur la vie affective des dirigeants qui
+soit suffisamment important pour qu'il soit identifiable à travers leur
+politique étrangère (Holsti et Rosenau, 1980; Walker et Falkowski, 1984;
+Hudson, 1990; McDermott et Cowden, 2001 ; Horowitz et al., 2005).
+
+
+Une voie médiane: les dimensions affectives
+
+
+Une voie médiane, plus prometteuse, consiste à concentrer l'analyse sur
+une dimension affective particulière. Il ne s'agit ni de dresser le profil
+psychologique complet d'un individu, ni de se limiter à la comptabilisation
+d'un indicateur indirect. Il s'agit plutôt d'isoler une dimension affective et
+de l'opérationnaliser de façon à pouvoir la documenter directement, à
+établir des comparaisons et à tirer des conclusions généralisables.
+
+
+Certains travaux qui privilégient cette voie médiane portent sur
+l'attachement affectif des dirigeants à leur nation. Jacques Hymans (2006) a
+ainsi montré qu'une forme particulière de nationalisme suscite un cocktail
+de peur et de fierté qui incite les dirigeants à doter leur pays de l'arme
+nucléaire. Il a notamment identifié cette forme particulière de nationalisme
+chez les décideurs indiens et français qui ont initié un programme
+d'armement nucléaire, mais pas chez leurs homologues australiens et
+argentins qui ont rejeté l'armement nucléaire. Brent Sasley (2010), quant à
+lui, a établi que les différentes formes de nationalisme des premiers
+ministres israéliens influençaient leur position dans les négociations de
+paix. Alors que Yitzhak Shamir était particulièrement attaché à la terre
+israélienne, Yitzhak Rabin semblait plus attaché à la population israélienne.
+Cette variation pourrait expliquer leurs différentes politiques lors du
+processus d'Oslo.
+
+
+Une autre dimension affective fréquemment étudiée est le rapport
+qu'entretiennent des dirigeants politiques avec les normes (Gaskarth, 2011).
+Certains individus se sentent liés par les normes, qu'elles soient formelles
+ou informelles. D'autres, au contraire, ne se sentent pas personnellement
+contraints par elles. En politique étrangère, il semble que les décideurs les
+moins sensibles aux normes aient davantage tendance à recourir à la force
+armée, même lorsqu'une intervention militaire est impopulaire ou contraire
+au droit international. C'est ce que conclut Jonathan Keller (2005) de sa
+comparaison entre les présidents John Kennedy et Ronald Reagan, et
+Stephen Dyson (2006 et 2007) de sa comparaison entre les premiers
+ministres britanniques Harold Wilson et Tony Blair.
+
+
+Une troisième dimension affective, qui peut être étudiée dans une
+approche à la fois comparative et qualitative, est la motivation des
+dirigeants. David Winter, qui a consacré sa carrière à cette question,
+distingue trois principales motivations politiques : le désir de conquérir et
+de maintenir le pouvoir, le désir de réaliser un projet politique ambitieux, et
+le désir de développer des relations d'affiliation avec autrui. Dans une étude
+sur les dirigeants africains, Winter observe que ceux animés par une soif de
+pouvoir recourent plus souvent à la force armée dans leur politique
+étrangère et sont moins enclins à accepter de nouvelles normes
+
+
+internationales sur la limitation des armements (Winter, 1980 et 2007;
+Winter et Carlson, 1988; Winter et al., 1991).
+
+
+Les typologies combinant les dimensions affectives
+
+
+Les différentes dimensions affectives peuvent être combinées pour
+former des idéaux types. James David Barber (1972), par exemple, a
+développé une typologie du caractère des présidents américains en croisant
+deux dimensions affectives, soit le besoin de s'investir dans le travail et le
+plaisir tiré du travail. Barber a obtenu, comme le montre le tableau ci-
+dessous, quatre idéaux-types allant des présidents qui s'investissent peu
+émotionnellement dans leur travail, mais en retirent néanmoins un certain
+plaisir, comme Ronald Reagan, à ceux qui s'y investissent complètement,
+mais n'en obtiennent qu'un sentiment de frustration, comme Richard
+Nixon. Barber considère que les présidents actifs et positifs, comme Bill
+Clinton, sont généralement ceux qui sont les plus aptes à déployer une
+politique étrangère efficace, bien qu'ils puissent avoir tendance à disperser
+leurs énergies dans plusieurs théâtres d'action en même temps.
+
+
+La simplicité de la typologie de Barber a certainement contribué à son
+succès. Elle ne compte que deux variables, chacune documentée de façon
+dichotomique. D'un autre côté, précisément en raison de cette simplicité, il
+peut s'avérer difficile de catégoriser un dirigeant particulier. Il est difficile
+d'établir, par exemple, si Dwight Eisenhower était vraiment absorbé par son
+travail ou s'il en retirait une véritable satisfaction (Greenstein, 1982).
+
+
+Affectivité
+
+
+Négative
+
+
+Positive
+
+
+Forte
+
+
+Activité
+
+
+Faible
+
+
+Clinton
+
+
+Reagan
+
+
+Nixon
+
+
+Eisenhower
+
+
+Figure 10. Typologie des caractères selon James Barber
+
+
+Margaret Hermann (1980) a développé une typologie plus complexe et
+une méthode qui permet plus facilement d'établir une catégorisation. Cette
+typologie combine sept traits de personnalité classiques, tant cognitifs
+qu'affectifs, qui ont tous été abordés distinctement dans ce chapitre, soit :
+1) le niveau de complexité cognitive, 2) la soif de pouvoir, 3) la méfiance
+envers les autres, 4) la confiance en soi, 5) le nationalisme, 6) les sources de
+motivation, et 7) la croyance dans sa capacité à contrôler les événements.
+
+
+Selon la méthode privilégiée par Hermann, ces traits de personnalité sont
+documentés par une analyse statistique de discours. Chacun est associé à
+une série de termes dont la fréquence relative dans un corpus de discours
+indique le degré auquel le trait en question est prononcé. Les résultats sont
+ensuite comparés à la moyenne des dirigeants politique : un écart type au-
+dessus et en dessous de la moyenne signifie respectivement que le trait est
+particulièrement marqué ou effacé.
+
+
+Les résultats obtenus pour les sept traits de personnalité sont ensuite
+combinés pour être associés à l'une des nombreuses personnalités types
+imaginées par Hermann. La personnalité dite « agressive », par exemple,
+
+
+correspond à une faible complexité cognitive, une soif de pouvoir, une forte
+méfiance des autres, un nationalisme prononcé et une croyance dans sa
+capacité à contrôler les événements. Les travaux statistiques d'Hermann
+montrent que les dirigeants à la personnalité agressive ont effectivement
+tendance à s'engager davantage dans les conflits armés.
+
+
+L'approche de Margaret Hermann a séduit de nombreux chercheurs.
+Comme les psychobiographies, elle permet une analyse nuancée,
+réconciliant cognition et affection. Mais à la différence de celles-ci, la
+méthode quantitative d'Hermann permet d'établir des relations statistiques
+avec diverses variables dépendantes et de dégager des généralisations.
+
+
+Parce que l'approche d'Hermann a été utilisée pour cerner la personnalité
+de plusieurs dirigeants, il existe maintenant une base comparative fiable.
+Les moyennes pour chacun des traits de personnalités sont de plus en plus
+stables puisqu'elles sont calculées à partir un nombre croissant de dirigeants
+politiques. Ce point de repère favorise un retour vers les études de cas,
+éclairées par cette base comparative. Si Hermann a repris des variables
+définies par des recherches précédentes pour constituer sa typologie, ses
+travaux redynamisent maintenant les études centrées sur un seul individu,
+analysé dans sa complexité (Mastors, 2000; Preston, 2001; Cricholow,
+2005; Dyson, 2006 et 2009; Shannon et Keller, 2007).
+
+
+Conclusion
+
+
+IL EST DÉCONCERTANT DE CONSULTER UN OUVRAGE sur les relations
+internationales et la politique étrangère publiée dans les années 1960,
+comme celui de Richard Snyder (1962), celui de Raymond Aron (1962) ou
+celui du couple Harold et Margaret Sprout (1965). Alors que le jeune
+chercheur peut s'attendre à trouver dans ces livres poussiéreux un catalogue
+d'idées reçues et de lieux communs, invalidés par la recherche depuis
+longtemps, c'est tout le contraire qu'il y découvre.
+
+
+En fait, la majorité des idées cardiales de l'APE contemporaine ont été
+formulées il y a plus d'un demi-siècle. Dès le début des années 1960, les
+politiques étrangères aux apparences irrationnelles étaient expliquées par
+les rivalités bureaucratiques (avant le modèle d'Allison !), l'identité sociale
+(avant le constructivisme !), le phénomène de dépendance au sentier (avant
+le néo-institutionnalisme !), les biais de perceptions (avant la théorie des
+perspectives !) et les interactions entre les niveaux d'analyse (avant
+Putnam !). Le jargon n'est plus le même, les cas étudiés ont changé et les
+méthodes sont plus sophistiquées, mais les conclusions fondamentales sont
+largement demeurées les mêmes.
+
+
+Ce fil conducteur ne signifie pas pour autant que l'APE ait stagné
+pendant un demi-siècle. Au contraire, entre son développement dans les
+années 1960 et sa régénérescence dans les années 2000, l'APE a effectué
+une traversée du désert. Dans les années 1970 et 1980, les théories
+dominantes des Relations internationales négligeaient l'autonomie des
+acteurs pour se concentrer sur les structures et les institutions
+internationales. Pour regagner sa place, l'APE ne s'est pas réinventée
+théoriquement, mais s'est plutôt immergée dans les démonstrations
+empiriques. Les idées formulées dans les années 1960 ont été testées et
+contre-vérifiées rigoureusement. L'APE est ainsi parvenue à confirmer
+plusieurs de ses hypothèses, comme celle de la paix démocratique, et à en
+infirmer d'autres, comme celle sur la volatilité de l'opinion publique.
+Quelques hypothèses sont toujours en suspens, comme celle de la guerre
+
+
+comme stratégie de diversion, mais les méthodes déployées pour les arbitrer
+se sont considérablement raffinées. C'est grâce à cette rigueur
+méthodologique que l'APE a pu regagner ses galons.
+
+
+Parce que l'APE s'est davantage développée empiriquement que
+théoriquement dans les dernières décennies, la vision que proposait
+Rosenau dans les années 1960 pour son développement théorique demeure
+valide aujourd'hui (1966 et 1968). Maintenant que l'APE a démontré
+empiriquement plusieurs de ses idées cardinales, elle devra, dans les
+prochaines années, relever quatre grands défis pour assurer son
+renouvellement théorique, soit : 1) établir des ponts entre ses différents
+modèles théoriques ; 2) accentuer la comparaison des contextes nationaux ;
+3) élargir son objet d'étude à de nouvelles catégories d'acteurs; 4) et
+engager un véritable dialogue avec les praticiens sans pour autant perdre
+son identité.
+
+
+Au-delà de l'éclectisme
+
+
+L'APE a renoncé dans les années 1970 à formuler une théorie générale
+permettant d'expliquer toutes les politiques étrangères. Les théories de
+l'APE sont de moyenne portée : elles ne sont valides que dans des
+circonstances bien définies et elles n'expliquent qu'une facette des
+politiques étrangères. Cette humilité épistémologique, caractéristique de
+l'APE, est à la fois sa force et sa faiblesse.
+
+
+La recherche de théories de moyenne portée a permis à l'APE d'éviter les
+débats sectaires et dogmatiques entre des écoles rivales. En APE, il n'y a
+pas de paradigmes concurrents qui s'affrontent de manière dialectique en
+passant d'un débat inter-paradigmatique à un autre. Il y a plutôt une
+multiplicité de programmes de recherche complémentaires qui ont évolué
+en parallèle. Comme cet ouvrage en témoigne, l'APE a conquis tous les
+niveaux d'analyse possibles. Les études sur les identités nationales côtoient
+sans affronter celles sur les contraintes institutionnelles ou encore celles sur
+les processus cognitifs des décideurs. Sachant que les dynamiques sociales
+sont complexes et multicausales, l'éclectisme de l'APE représente un atout
+indéniable pour la compréhension du monde politique.
+
+
+À terme, cependant, cet éclectisme a entraîné un certain repliement
+autour des différents programmes de recherche qui constituent l'APE.
+Plutôt que d'apparaître comme un champ d'études cohérent, l'APE semble
+parfois être un archipel d'îles théoriques qui communiquent peu entre elles
+et avec le monde extérieur. Les travaux sur la personnalité des décideurs,
+ceux sur la pensée groupale, ou encore ceux sur les rôles nationaux, par
+exemple, ne mobilisent chacun qu'une poignée de chercheurs et en laissent
+plusieurs autres indifférents. Chaque réseau de recherche poursuit son
+propre programme en ignorant largement ses voisins. Or, ce repliement peut
+éventuellement conduire à une asphyxie intellectuelle.
+
+
+Après avoir approfondi différents modèles théoriques, l'APE doit
+maintenant se pencher sur leur articulation. Pour y parvenir, certains
+proposent de réanimer l'ambition de développer une théorie générale qui
+fédérerait toutes les théories de moyenne portée (Welch, 2005). C'était, dès
+le départ, le projet de James Rosenau (1966). Pour Rosenau, l'APE ne
+devait pas seulement identifier les variables indépendantes qui affectent les
+décisions de politique étrangère, mais aussi les variables contextuelles qui
+déterminent la pertinence relative d'une variable indépendante par rapport à
+une autre. Il espérait notamment que les variations entre les niveaux de
+développement économique ou entre les systèmes politiques des différents
+pays puissent permettre de déterminer quels sont les modèles théoriques
+pertinents pour expliquer la politique étrangère d'un pays donné.
+
+
+Dans une certaine mesure, c'est aussi le projet de Margaret Hermann
+(2001). Selon Hermann, ce sont les caractéristiques de l'unité décisionnelle
+qui doivent guider le choix d'un modèle théorique. Une première décision
+prise par un chef autoritaire, une deuxième par un petit groupe et une
+troisième par une large coalition conduiront à des modèles théoriques
+différents. Hermann ordonne ainsi les différents modèles théoriques de
+l'APE dans un système unique, guidant de manière systématique le
+chercheur vers un modèle spécifique en fonction du cas particulier qui
+l'intéresse.
+
+
+Une autre façon d'établir des ponts entre les modèles de l'APE consiste,
+non pas à se questionner sur leur pertinence relative pour un cas donné,
+mais à en amalgamer quelques-uns pour en créer de nouveaux. Des
+analystes proposent ainsi de séquencer le processus décisionnel en
+
+
+différentes étapes, chacune correspondant à un modèle différent. C'est
+l'idée même de la théorie poliheuristique, qui résulte d'une fusion entre la
+théorie cognitiviste et la théorie du choix rationnel. Dans une perspective
+similaire, certains chercheurs s'appuient sur la théorie des perspectives ou
+le code opérationnel pour déterminer les préférences des acteurs, et ensuite
+sur un modèle interactionniste, comme la théorie des jeux ou le modèle
+bureaucratique, pour expliquer leurs comportements (Bueno de Mesquita et
+McDermott, 2004; Devlen, 2010).
+
+
+Un nombre croissant d'études vont encore plus loin et analyse
+l'interaction entre plusieurs processus simultanés. L'opinion publique et
+l'identité nationale interagissent, comme les analogies et les perspectives,
+ou les émotions et la rationalité (Kaarbo, 2008; Cantir et Kaarbo, 2012).
+Étudier les interactions entre ces processus, segmentés artificiellement par
+la recherche, est à la fois l'occasion de revenir aux ouvrages fondateurs de
+l'APE et l'une des voies les plus prometteuses pour assurer son
+développement futur.
+
+
+Au-delà du cadre américain
+
+
+Un autre défi qui attend l'APE dans les prochaines années est sa
+transposition hors du cadre américain. À l'image des relations
+internationales dans leur ensemble, l'APE s'est développée dans les
+universités américaines et c'est, aujourd'hui encore, aux États-Unis que se
+situe son centre de gravité (Hoffmann, 1977 ; Waever, 1998; Larsen, 2009).
+
+
+Bien entendu, plusieurs analystes de la politique étrangère se sont
+distinguées hors des États-Unis. Les travaux de Walter Carlsnaes (Suède),
+Knud Erik Jørgensen (Danemark), Christopher Hill (Royaume-Uni),
+Thomas Risse (Allemagne), Kal Holsti (Canada), Alex Mintz (Israël),
+Douglas van Belle (Nouvelle-Zélande), et Iver Neumann (Norvège), parmi
+plusieurs autres, ont eu une influence sur l'APE bien au-delà de leur pays
+respectif. Mais c'est encore aux États-Unis que l'on retrouve la majorité des
+centres de recherche, des revues scientifiques, des bases de données et des
+conférences annuelles consacrés à l'APE.
+
+
+Cette concentration géographique n'a pas empêché l'APE de connaître
+une remarquable diversité théorique. Même si plusieurs universitaires
+américains privilégient une épistémologie positiviste, on retrouve aussi aux
+États-Unis des analystes critiques, réflexivistes et poststructuralistes. Après
+tout, John Mearsheimer, Jerrold Post, Cynthia Enloe et Bruce Bueno de
+Mesquita sont tous des universitaires américains qui ont contribué
+significativement à l'APE, mais ils s'appuient sur des approches
+radicalement différentes les unes des autres.
+
+
+La concentration géographique de l'APE a cependant contribué à
+maintenir une certaine confusion entre l'APE en général et l'analyse de la
+politique étrangère américaine en particulier. Plusieurs universitaires
+américains ont développé leur modèle théorique en ayant la politique
+étrangère américaine à l'esprit et n'ont testé leurs hypothèses qu'en les
+confrontant au cas américain.
+
+
+Or, il n'est pas certain que les théories développées à partir de ce cas
+aient une portée de généralisation universelle et qu'elles soient les plus
+pertinentes pour comprendre la politique étrangère des autres pays. Les
+rivalités bureaucratiques, par exemple, sont-elles particulièrement
+prononcées dans les organes décisionnels américains ? Les opinions
+publiques des autres pays sont-elles aussi structurées sur un axe opposant
+isolationnisme et internationalisme ? Les minorités ethniques exercent-elles
+la même influence en Europe qu'aux États-Unis ?
+
+
+Sur ces questions, l'APE n'a, pour l'instant, pas de réponse définitive à
+offrir. Malgré l'appel de Rosenau dès les années 1960 pour accentuer la
+comparaison entre les différents pays, les véritables comparaisons et non
+pas simplement la juxtaposition d'études de cas sont encore trop rares
+(Kaarbo et Hermann, 1998; Jenkins-Smith et al., 2004; Larsen, 2009;
+Oppermann et Viehrig, 2009; Balabanova, 2010).
+
+
+On peut néanmoins s'attendre à ce que l'APE s'ouvre davantage à la
+comparaison dans les prochaines années. Un nombre croissant de
+chercheurs américains s'intéresse à la politique des pays étrangers et les
+modèles théoriques développés aux États-Unis se diffusent à l'échelle
+planétaire. En raison de cette double évolution, il y a tout lieu de croire
+d'espérer - que la portée de généralisation des théories de l'APE sera mieux
+établie et que son américano-centrisme s'estompera.
+
+
+et
+
+
+Au-delà du prisme stato-centré
+
+
+L'APE doit non seulement élargir sa portée géographique et s'intéresser à
+des pays jusqu'ici négligés par la recherche, mais aussi élargir son objet
+d'étude et se pencher sur de nouvelles catégories d'acteurs. Il y a quelques
+décennies encore, la conception dominante de l'ordre international justifiait
+que les analystes attribuent le monopole de la politique étrangère aux États
+souverains et qu'ils concentrent leurs travaux sur cette seule catégorie
+d'acteur. L'ordre westphalien, fondé sur le principe de la souveraineté
+étatique, établissait une distinction fondamentale entre les systèmes
+nationaux et le système international. La seule courroie de transmission
+entre ces deux systèmes était l'État. Par conséquent, seul l'État souverain
+pouvait avoir une politique étrangère et celle-ci était principalement dirigée
+vers les autres États souverains. Cette conception stato-centrée des relations
+internationales a largement structuré le prisme par lequel les analystes de la
+politique étrangère percevaient leur objet d'étude (Krasner, 1993; Ruggie,
+1993; Caporaso, 2000; Ossiander, 2001; Ringmar, 1996; Schmidt, 2011).
+
+
+Depuis la fin de la guerre froide, force est de constater que l'ordre
+westphalien s'effrite progressivement. Dans un monde à dimensions, à
+niveaux et à acteurs multiples, les repères s'effondrent et l'on ne sait plus
+avec assurance quel est le titulaire, quel est le domaine, et quelle est la cible
+de la politique étrangère.
+
+
+Pour certains, la politique étrangère contemporaine, en s'éloignant du
+modèle westphalien, se rapproche curieusement des normes médiévales.
+Aujourd'hui comme au Moyen Âge, plusieurs sources d'autorité se
+chevauchent et l'on ne peut départager aisément les intérêts publics des
+intérêts privés. Les quêtes de pouvoir, de richesse et de vertu se confondent
+comme elles se confondaient alors (Kobin, 1998; Spiro, 1996; Cutler,
+1999; Hall, 1997).
+
+
+Pour d'autres, il ne peut y avoir de retour aux pratiques moyenâgeuses,
+puisque l'ordre westphalien interétatique est un mythe qui n'a jamais
+véritablement existé hors des manuels scolaires. Les forces transnationales
+ont toujours joué un rôle clé dans les relations internationales et la soi-
+disant << nouvelle diplomatie » n'est en rien nouvelle (Sofer, 1988; Coolsaet
+et Vandervelden, 2004; Carvalho et al., 2011). Mais que l'ordre
+
+
+westphalien se soit effrité empiriquement ou conceptuellement, le résultat
+est le même : l'APE ne peut plus ignorer les autres catégories d'acteurs
+internationaux (White, 1999).
+
+
+Parmi ces nouveaux acteurs internationaux que l'APE doit intégrer à ses
+analyses figurent les villes, les régions et les états fédérés, dont plusieurs
+sont suffisamment autonomes pour élaborer et mettre en œuvre leur propre
+politique étrangère. Leur « paradiplomatie » est d'ailleurs plus active que
+jamais. Plusieurs États fédérés signent des accords internationaux, sont
+représentés à l'étranger par leurs délégations, approuvent les ventes
+d'armement à l'étranger, ont un droit de parole dans certaines organisations
+intergouvernementales, et participent aux sanctions économiques (Coolsaet,
+2002; Lecours, 2002; Massart-Piérard, 2004; Blatter et al., 2008;
+McMillan, 2008).
+
+
+Il arrive parfois que les positions des autorités locales et régionales aillent
+à contre-courant de celles de leur gouvernement central, comme ce fut le
+cas des villes et États américains qui se sont engagés à respecter le
+protocole de Kyoto (Betsill et Bulkeley, 2004; Koehn, 2008). Dans la
+majorité des cas, cependant, l'action internationale des autorités locales et
+régionales ne se heurte pas aux États centraux (Paquin, 2002 et 2004). Il est
+même de plus en plus fréquent que le développement de leur politique
+étrangère soit activement favorisé par les autorités centrales.
+
+
+Au niveau supra-étatique, les organisations intergouvernementales ont
+aussi des politiques qui peuvent être analysées à la lumière de l'APE. Ce ne
+sont pas que des enceintes de négociations passives ou des agents mettant
+servilement en œuvre les décisions prises par les États. Ce sont des
+bureaucraties ayant leurs propres conceptions du monde et leurs propres
+intérêts, et leurs dirigeants ont leurs propres personnalités et leur propre
+style de gestion. Comme les États, les organisations intergouvernementales
+créent des coalitions avec des acteurs transnationaux, font la promotion de
+certaines idées et adoptent des politiques (Finnemore, 1993; Risse et al.,
+1999; Barnett et Finnemore, 2004; Chwieroth, 2007; Thakur et Weiss,
+2009).
+
+
+L'Union européenne est sans doute l'organisation intergouvernementale
+la plus fréquemment étudiée avec les outils théoriques et méthodologiques
+de l'APE (White, 1999; Carlsnaes, 2004; Hill et Smith, 2005). Néanmoins,
+
+
+plusieurs modèles de l'APE n'ont pas encore été appliqués et adaptés à
+l'Union européenne. Quant aux autres organisations intergouvernementales,
+incluant les Nations unies et l'Organisation mondiale du Commerce, ce sont
+encore des champs nouveaux qui restent à défricher pour l'APE.
+
+
+Certains analystes vont encore plus loin et imaginent une « politique
+étrangère privée », appartenant non pas à des autorités publiques infra ou
+supra étatiques, mais à des ONG ou à des firmes transnationales. Certains
+acteurs non étatiques calquent effectivement leur comportement sur celui
+des États : ils créent des alliances, adoptent des normes communes,
+organisent des sommets, interagissent directement avec les organisations
+intergouvernementales (OIG), saisissent des tribunaux internationaux,
+menacent de sanctions économiques les acteurs qui ne se conforment pas à
+leurs préférences, et se présentent comme les défenseurs de l'intérêt
+commun.
+
+
+En fait, les prérogatives de l'État qui ne souffrent d'aucune exception
+sont de plus en plus difficiles à repérer, même dans les aspects les plus
+symboliques de la politique étrangère : L'ONG britannique FIELD a
+formellement représenté de petits États insulaires lors des négociations du
+Protocole de Kyoto, le chanteur rock Bono participe aux côtés de chefs de
+gouvernement à des conférences de presse sur l'aide au développement, et
+des sociétés militaires privées participent à des opérations armées. Les
+acteurs non étatiques sont omniprésents sur tous les terrains d'action de la
+politique étrangère (Bestill et Corell, 2007; Cooper, 2007). Dans ce
+contexte, on peut légitimement croire que les modèles de l'APE peuvent
+contribuer à éclairer leur action internationale sur un nouveau jour.
+
+
+Au-delà de la tour d'ivoire
+
+
+Le quatrième défi qui attend l'APE est d'élargir son public. Il subsiste
+notamment en un véritable fossé entre l'étude scientifique et la pratique de
+la politique étrangère. Certains travaux de l'APE, il est vrai, ont exercé une
+forte influence sur la formulation de la politique étrangère. Ce fut le cas
+notamment des thèses sur la dissuasion rationnelle lors de la guerre froide,
+et plus récemment des études sur les conditions qui déterminent le succès
+des sanctions économiques. Il s'agit cependant d'exceptions. Plusieurs
+
+
+universitaires s'intéressent peu aux applications pratiques de leurs travaux
+et les praticiens le leur rendent bien. Même si certains think tanks se
+présentent comme des intermédiaires, faisant le pont entre les milieux
+universitaires et diplomatiques, le fossé entre ces deux univers demeure
+profond (George, 1994; Hill et Bshoff, 1994; Lepgold, 1998; Walt, 2005;
+Jentleson et Ratner, 2011).
+
+
+Les modèles théoriques et méthodologiques de l'APE sont néanmoins
+pertinents pour la pratique de la politique étrangère. Certains ont des
+applications évidentes, permettant d'accroître l'efficacité d'un instrument
+ou d'anticiper les comportements d'un interlocuteur. Mais la valeur
+politique de l'APE ne s'arrête pas là. Elle permet aux praticiens, non
+seulement de trouver de nouvelles solutions, mais peut-être plus
+fondamentalement de réfléchir à la définition des problèmes. Elle contribue
+à démystifier certains stéréotypes, à mettre en doute certaines analogies, à
+reconnaître certains biais de perception, et à inculquer un sens de
+l'ambiguïté et de la complexité. En somme, l'APE brise les certitudes.
+
+
+Dès lors, pour que les chercheurs de l'APE contribuent à la pratique de la
+politique étrangère, ils ne doivent pas nécessairement réfléchir aux
+applications concrètes de leurs théories ou prendre position sur les
+questions brûlantes de l'actualité internationale. Ils peuvent, plus
+simplement, tenter d'éviter le jargon inutile et expliciter les postulats trop
+souvent restés sous-entendus.
+
+
+Cet ouvrage, je l'espère, participe à cette déconstruction émancipatrice.
+
+
+Bibliographie
+
+
+ABDELAL R., HERRERA Y. M., JOHNSTON A. I. et MCDERMOTT R., 2006,
+ Identity as a Variable”, Perspectives on Politics, vol. 4(4), p. 695-711.
+ABZHAPAROVA A., 2011,  Denuclearisation Practices of Kazakhstan",
+Review of International Studies, vol. 37(4), p. 1537-1553.
+
+
+ACHARYA A., 2011, “Norm Subsidiarity and Regional
+Sovereignty, Regionalism and Rule-Making in the Third
+International Studies Quarterly, vol. 55(1), p. 95-123.
+
+
+Orders:
+
+
+World",
+
+
+ADAMS G. et SOKOLOFF N., 1982, The Politics of Defense Contracting:
+The Iron Triangle, New Brunswick, Transaction.
+
+
+ADAY S. et LIVINGSTON S., 2008, “Taking the State Out of the State-Media
+Relations Theory”, Media, War and Conflict, vol. 1(1), p. 99-107.
+
+
+ADAY S., 2010, “Chasing the Bad News , Journal of Communication,
+vol. 60(1), p. 144-164.
+
+
+ADLER E. et BARNETT M., 1998, Security Communities, Cambridge,
+Cambridge University Press.
+
+
+Adler E. et HAAS P. M., 1992, “Epistemic Communities, World Order
+and the Creation of a Reflective Research Program", International
+Organization, vol. 46(1), p. 367-390.
+
+
+ADLER E., 1992, “National Epistemic Communities and the International
+Evolution of the Idea of Nuclear Arms Control", International
+Organization, vol. 46(1), p. 101-145.
+
+
+ADLER E., 1998, "Seeds of Peaceful Change”, in Adler E. et Barnett M.
+(dirs), Security Communities, Cambridge, Cambridge University Press,
+p. 11-29.
+
+
+ADLER E., 2008, "The Spread of Security Communities: Communities of
+Practice, Self-Restraint, and NATO's Post-Cold War Transformation",
+European Journal of International Relations, vol. 14(2), p. 195-230.
+
+
+ADORNO T. W., FRENKEL-BRUNSWIK E., LEVRENSON D. J. et SANFORD R. N.,
+1950, The Authoritarian Personality, New York, Harper & Bros.
+
+
+AGGESTAM L., 2004, “Role Identity and the Europeanisation of Foreign
+Policy", in Tonra B. et Christiansen T. (dirs), Rethinking European Union
+Foreign Policy, Manchester, Manchester University Press, p. 81-98.
+
+
+AGUILAR E. E., FORDHAM B. O. et LYNCH G. P., 1997, “The Foreign Policy
+Beliefs of Political Campaign Contributors”, International Studies
+Quarterly, vol. 41(2), p. 355-366.
+
+
+AHLSTROM D. et WANG L. C., 2009, “Groupthink and France's Defeat in
+the 1940 Campaign , Journal of Management History, vol. 15(2), p. 159-
+177.
+
+
+AHMAD M., 2008, “US Think Tanks and the Politics of Expertise: Role,
+Value and Impact , Political Quarterly, vol. 79(4), p. 529-555.
+
+
+AHRARI M. E. (dir.), 1987, Ethnic Groups and US Foreign Policy, New
+York, Greenwood Press.
+
+
+ALASTAIR I. J., 1995, Cultural Realism: Strategic Culture and Grand
+Strategy in Chinese History, Princeton, Princeton University Press.
+
+
+ALASTAIR I. J., 1999, "Strategic Culture Revisited: Reply to Colin Gray ,
+Review of International Studies 25 (3), p. 519-523.
+
+
+ALDEN C. et HUGHES C. R., 2009, “Harmony and Discord in China's
+Africa Strategy”, The China Quarterly, vol. 199(1), p. 563-584.
+
+
+ALDERSON K., 2001, “Making Sense of State Socialization", Review of
+International Studies, vol. 27(3), p. 415-433.
+
+
+ALDRICH J. H., GELPI C., FEAVER P., REIFLER J. et SHARP K. T., 2006,
+"Foreign Policy and the Electoral Connection”, Annual Review of Political
+Science, vol. 9(1), p. 477-502.
+
+
+ALDRICH J. H., SULLIVAN J. L. et BORGIDA E., 1989, “Do Presidential
+Candidates 'Waltz Before a Blind Audience'?", American Political Science
+Review, vol. 83(1),  . 123-141.
+
+
+ALESINA A. et DOLLAR D., 2000, “Who Gives Foreign Aid to Whom and
+Why?", Journal of Economic Growth, vol. 5(1), p. 33-63.
+
+
+ALEXANDER M. G., LEVIN S. et HENRY P. J., 2005, “Image Theory, Social
+Identity and Social Dominance”, Political Psychology, vol. 26(1), p. 27-45.
+ALLEN M. A. et FORDHAM В. О., 2011, “From Belos to Baghdad",
+International Studies Quarterly, vol. 55(4), p. 1025-1045.
+
+
+ALLEN S. H., 2005, “The Determinants of Economic Sanctions Success
+and Failure", International Interactions, vol. 31(2), p. 117-138.
+
+
+ALLEN S. H., 2008, “Political Institutions and Constrained Response to
+Economic Sanctions”, Foreign Policy Analysis, vol. 4(3), p. 255-274.
+
+
+ALLEN S. H. et VINCENT T., 2011, “Bombing to Bargain?”, Foreign Policy
+Analysis, 7(1), p. 1-26.
+
+
+ALLISON G. T., 1969, “Conceptual Models and the Cuban Missile Crisis",
+American Political Science Review, vol. 63(3), p. 689-718.
+
+
+ALLISON G. T. et HAPERIN M., 1972, “Bureaucratic Politics: A Paradigm
+and Some Policy Implications”, World Politics, vol. 24 (suppl.), p. 40-79.
+ALLISON G. T. et ZELIKOW P., 1999, Essence of Decision: Explaining the
+Cuban Missile Crisis, New York, Addison Wesley Longman.
+
+
+ALMOND G., 1950, The American People and Foreign Policy, New York,
+Harcourt Brace.
+
+
+ALONS G. C., 2007, “Predicting a State's Foreign Policy , Foreign Policy
+Analysis, vol. 3(3), p. 211-232.
+
+
+AMBROSIO T. (dir.), 2002, Ethnic Identity Groups and US Foreign Policy,
+Westport, Praeger.
+
+
+ANAND S. et KROSNICK J. A., 2003, “The Impact of Attitudes toward
+Foreign Policy Goals on Public Preferences among Presidential
+Candidates", Presidential Studies Quarterly, vol. 33(1). p. 31-71.
+
+
+ANDERSON B., 1983, Imagined Communities: Reflections on the Origins
+and Spread of Nationalism, Londres, Verso.
+
+
+ANDREATTA P., 2008, "Italian Foreign Policy: Domestic Politics,
+International Requirements and the European Dimension", European
+Integration, vol. 30(1), p. 169-181.
+
+
+ANHEIER H. K. et LESTER M. S., 2006, "The Nonprofit Sector in
+Comparative Perspective , in Powell W. W. et Steinberg R. (dirs), The Non-
+
+
+Profite Sector: A Research Handbook, New Haven, Yale University Press,
+
+
+p. 89-115.
+
+
+ANKER L., 2005, « Le maintien de la paix et l'opinion publique », Revue
+militaire canadienne, vol. 6(2), p. 23-32.
+
+
+ANTHONY C., 2008, "American Democratic Interventionism: Romancing
+the Iconic Woodrow Wilson”, International Studies Perspectives, vol. 9(3),
+p. 239-253.
+
+
+ANTONIADES A., 2003, “Epistemic Communities, Epistemes and the
+Construction of (World) Politics”, Global Society, vol. 17(1), p. 21-38.
+
+
+ARCHEN C. H. et SNIDAL D., 1989, “Rational Deterrence Theory and
+Comparative Case Studies", World Politics, vol. 41(2), p. 143-169.
+
+
+ARCHETTI C., 2008, “Unamerican Views", Westminster Papers in
+Communication and Culture, Media and Foreign Policy Special Issue,
+vol. 5(3), p. 4-26.
+
+
+ARENA P., 2010, “Why Not Guns and Butter: Responses to Economic
+Turmoil , Foreign Policy Analysis, vol. 6(4), p. 339-348.
+
+
+ARFI B., 2009,  Probing the Democratic Peace Argument Using
+Linguistic Fuzzy Logic”, International Interactions, vol. 35(1), p. 30-57.
+ARON R., 1962, Paix et guerre entre les nations, Paris, Calmann-Lévy.
+ARROW K., 1970, Social Choice and Individual Values, New Haven, Yale
+University Press.
+
+
+ART R. J., 1973, “Bureaucratic Politics and American Foreign Policy: A
+Critique", Policy Sciences, vol. 4(4), p. 467-490.
+
+
+ART R. J., 1996, “American Foreign Policy and the Fungibility of Force",
+Security Studies, vol. 5(4), p. 7-42.
+
+
+ARTER D., 1995, “The EU Referendum in Finland on 16 October 1994",
+Journal of Common Market Studies, vol. 33(3), p. 361-387.
+
+
+ASHIZAWA K., 2008, "When Identity Matters", International Studies
+Review, vol. 10(3), p. 571-598.
+
+
+ASTORINO-COURTOIS A. et TRUSTY B., 2000, "Degrees of Difficulty: The
+Effect of Israeli Policy Shifts on Syrian Peace Decisions", Journal of
+Conflict Resolution, vol. 44(3), p. 359-377.
+
+
+ASTORINO-COURTOIS A., 2000, "The Effects of Stakes and Threat on
+Foreign Policy Decision Making”, Political Psychology, vol. 21(3), p. 489-
+510.
+
+
+ATKINSON C., 2010,  Does Soft Power Matter? A Comparative Analysis
+of Student Exchange Programs 1980-2006", Foreign Policy Analysis,
+vol. 6(1), p. 1-22.
+
+
+AUERSWALD D. P. et Cowhey P., 1997, “Ballot box Diplomacy",
+International Studies Quarterly, vol. 41(3), p. 505-528.
+
+
+AUERSWALD D. P., 1999, "Inward Bound: Domestic Institutions and
+Military Conflict”, International Organization, vol. 53(3), p. 469-504.
+
+
+AVERY W. P. et FORSYTHE D. P., 1979, “Human Rights, National Security
+and the US Senate , International Studies Quarterly, vol. 23(3), p. 303-320.
+AVRUCH K. et WANG Z., 2005, “Culture, Apology and International
+Negotiation", International Negotiation, vol. 10(2), p. 337-353.
+
+
+AXELROD R. M., 1973, “Schema Theory: An Information Processing
+Model of Perception and Cognition”, American Political Science Review,
+vol. 67(4), p. 1248-1266.
+
+
+AXELROD R. M., 1984, The Evolution of Cooperation, New York, Basic
+Books.
+
+
+BACCINI L., 2011, “Democratization and Trade Policy", European Journal
+of International Relations, vol. 17(1), p. 1-25.
+
+
+BADIE B., 2005, « L'opinion à la conquête de l'international », Raisons
+Politiques, vol. 19(3), p. 9-24.
+
+
+BADIE D., 2010, “Groupthink, Iraq and the War on Terror: Explaining US
+Policy Shift toward Iraq”, Foreign Policy Analysis, vol. 6(4), p. 277-296.
+
+
+BAILEY M., GOLDSTEIN J. et WEINGAST B., 1997, "The Institutional Roots
+of American Trade Policy , World Politics, vol. 49(3), p. 309-338.
+
+
+BAK D. et PALMER G., 2010, “Testing the Biden Hypotheses: Leader,
+Tenure, Age and International Conflict", Foreign Policy Analysis, vol. 6(3),
+p. 257-273.
+
+
+BAKER A., 2005, “Who Wants to Globalize? Consumer Tastes and Labor
+Markets in a Theory of Trade Policy Beliefs", American Journal of
+
+
+Political Sciences, vol. 49(2), p. 924-938.
+
+
+BAKER W. D. et O'NEAL J. R., 2001, "Patriotism or Opinion
+Leadership?", Journal of Conflict Resolution, vol. 45(5), p. 661-687.
+
+
+BALDWIN D. A., 1971, “Thinking About Threats", Journal of Conflict
+Resolution, vol. 15(1), p. 71-78.
+
+
+BALDWIN D. А., 1985, Economic Statecraft, Princeton, Princeton
+University Press.
+
+
+BALDWIN D. A., 1989, The Paradoxes of Power, New York, Basil
+Blackwell.
+
+
+BALDWIN D. A., 1999, “The Sanctions Debate and the Logic of Choice",
+International Security, vol. 24(3), p. 80-107.
+
+
+BALDWIN D. A., 2000, “Success and Failure in Foreign Policy”, Annual
+Review of Political Science, vol. 3(1), p. 167-182.
+
+
+BALDWIN R. E. et MAGEE C. S., 2000, Congressional Trade Votes: From
+NAFTA Approval to Fast-Track Defeat, Washington, Institute of
+International Economics.
+
+
+BALTHAZAR L., 2008, « Le contexte de la formulation de la politique
+étrangère », in David C.-P., Balthazar L. et Vaïsse J. (dirs), La Politique
+étrangère des États-Unis, Paris, Presses de Sciences Po., p. 17-188.
+
+
+BALZACQ T. (dir.), 2009, The External Dimension of EU Justice and
+Home Affairs: Neighbors, Governance, Security, New York, Palgrave
+Macmillan.
+
+
+BALZACQ T. (dir.), 2011 Securitization Theory, Abingdon, Routledge.
+BALZACQ T., 2004, « Crise et politique étrangère », in Rossen C.,
+Rosoux V. et Wilde D'Estmael T. (dirs), La Politique étrangère: le modèle
+classique à l'épreuve, Bruxelles, Peter Lang, p. 327-351.
+
+
+BALZACQ T., 2008, “The Policy Tools of Securitization: Information
+Exchange, EU Foreign and Interior Policies”, Journal of Common Market
+Studies, vol. 46(1),  . 75-100.
+
+
+BANCHOFF T., 1999, “German Identity and European Integration",
+European Journal of International Relations, vol. 5(3), p. 259-289.
+
+
+BANERJEE S., 1997, “The Cultural Logic of National Identity Formation”,
+in Hudson V. M. (dir.), Culture and Foreign Policy, Boulder, Rienner, p. 27-
+44.
+
+
+BARBER J. D., 1972, The Presidential Character: Predicting Performance
+in the White House, Englewood Cliff, Prentice Hall.
+
+
+BARKAWI T., 2001, “War inside the Free World”, in Barkawi T. et Laffey
+M. (dirs), Democracy, Liberalism and War, Boulder, Lynne Rienner Press,
+p. 107.
+
+
+BARNETT M. et FINNEMORE M., 2004, Rules for the World: International
+Organizations in Global Politics, Ithaca, Cornell University Press.
+
+
+BARNETT M. et DUVALL R., 2005, “Power in International Politics",
+International Organization, vol. 59(1), p. 39-75.
+
+
+BARNETT M. et WEISS T. (dirs), 2008, Humanitarianism in Question:
+Politics, Power, Ethics, Ithaca, Cornell University Press.
+
+
+BARNETT M., 1993, “Institution, Roles and Disorder: The Case of the
+Arab States System", International Studies Quarterly, vol. 37(3), p. 271-
+296.
+
+
+BARNETT M., 1999, “Culture, Strategy and Foreign Policy Change:
+Israel's Road to Oslo , European Journal of International Relations,
+vol. 5(1), p. 5-36.
+
+
+BAR-TAL D. et ANTEBI D., 1992, “Beliefs about Negative Intentions of the
+World: A Study of the Israeli Siege Mentality , Political Psychology,
+vol. 13(4), p. 633-645.
+
+
+BARTHE S. et DAVID C.-P., 2007, “Clinton, Coercive Diplomacy, and the
+Use of Analogies in Decision Making”, The Whitehead Journal of
+Diplomacy and International Relations, vol. 8(2), p. 85-101.
+
+
+BARTILOW H. A. et Voss S., 2006, "No Guns, No Butter", International
+Politics, vol. 43(3), p. 362-383.
+
+
+BARTILOW H. A. et Voss S., 2009. "Market Rules", International Studies
+Quarterly, vol. 53(1), p. 103-124.
+
+
+BATES R. H., BROCK P. et TIEFENTHALER J., 1991, "Risk and Trade
+Regimes: Another Exploration”, International Organization, vol. 4(5), p. 1-
+18.
+
+
+BATTISTELLA D., 2002, « L'intérêt national. Une notion, trois discours », in
+Charillon F. (dir.), Politique étrangère : nouveaux regards, Paris, Presses de
+Sciences Po., p. 139-166.
+
+
+BAUM M. A. 2009, "Shot by the Messenger: Partisan Cues and Public
+Opinion Regarding National Security and War”, Political Behavior, 31(2),
+p. 157-186.
+
+
+BAUM M. A. et JAMISON A. S., 2006, “The Oprah Effect: How Soft News
+Helps Inattentive Citizens Vote Consistently , Journal of Politics,
+vol. 68(4), p. 946-959.
+
+
+BAUM M. A. et POTTER P. B. K., 2008, “The Relationships between Mass
+Media, Public Opinion and Foreign Policy”, Annual Review of Political
+Science, vol. 11(1),  . 39-65.
+
+
+BAUM M. A. et GROELING T., 2008, "New Media and the Polarization of
+American Political Discourse", Political Communication, vol. 25(4),
+p. 345-365.
+
+
+BAUM M. A. et GROELING T., 2010, “Reality Asserts Itself: Public Opinion
+on Iraq and the Elasticity of Reality", International Organization,
+vol. 64(3), p. 443-479.
+
+
+BAUM M. A., 2002, “Sex, Lies and War: How Soft News Brings Foreign
+Policy to the Inattentive Public , American Political Science Review,
+vol. 96(1), p. 91-109.
+
+
+BAUM M. A., 2002, “The Constituent Foundations of the Rally-Round-
+the-Flag Phenomenon”, International Studies Quarterly, vol. 46(2), p. 263-
+298.
+
+
+BAUM M. A., 2004, “Circling the Wagons: Soft News and Isolationism in
+American Public Opinion , International Studies Quarterly, vol. 48(2),
+p. 313-338.
+
+
+BAUM M. A., 2004, “Going Private: Public Opinion, Presidential Rhetoric
+and the Domestic Politics of Audience Costs in US Foreign Policy Crises”,
+Journal of Conflict Resolution, vol. 48(6), 603-631.
+
+
+BAUM M. A., 2004, “How Public Opinion Constrains the Use of Force:
+The Case of Operation Restore Hope”, Presidential Studies Quarterly,
+vol. 34(2), p. 187-226.
+
+
+BEARCE D. et BONDANELLA S., 2007, "Intergovernmental Organizations,
+Socialization and Member-State Interest Convergence”, International
+Organization, vol. 61(4), p. 703-733.
+
+
+BEASLEY R., KAARBO J., HERMANN C. F. et HERMANN M. G., 2001, “People
+and Processes in Foreign Policymaking , International Studies Review,
+vol. 3(2), p. 217-250.
+
+
+BECKER D., 2010, “The New Legitimacy and International Legitimation:
+Civilization and South African Foreign Policy", Foreign Policy Analysis,
+vol. 6(2), p. 133-146.
+
+
+BEECH M., 2011, “British Conservativism and Foreign Policy", British
+Journal of Politics and International Relations, vol. 13(3), p. 348-363.
+
+
+BÉLANGER L., 1999,  Redefiing Cultural Diplomacy: Cultural Security
+and Foreign Policy in Canada", Political Psychology, vol. 20(4), p. 677-
+699.
+
+
+BÉLANGER L., DUCHESNE $\hat{E}$. et PAQUIN J., 2005, “Foreign Interventions and
+Secessionist Movements: The Democratic Factor", Canadian Journal of
+Political Science, vol. 38(2), p. 435-462.
+
+
+BENDOR J. et HAMMOND T. H., 1992, “Rethinking Allison's Models",
+American Political Science Review, vol. 86(2), p. 301-322.
+
+
+BENDOR J., MOE T. et SHOTTS K., 2001, “Recycling the Garbage Can: An
+Assessment of the Research Program , American Political Science Review,
+vol. 95(1), p. 169-190.
+
+
+BENGTSSON R. et ELGSTRÖM O., 2012, “Conflicting Role Conception? The
+European Union in Global Politics , Foreign Policy Analysis, vol. 8(1),
+p. 93-108.
+
+
+BENNETT A., 1999, Condemned to Repetition? The Rise, Fall and Reprise
+of Soviet-Russian Military Interventionism, 1973-1996, Cambridge, MIT
+Press.
+
+
+BENNETT C. J., 1991, “What is Policy Convergence and What Causes it?”,
+British Journal of Political Science, vol. 21(2), p. 215-233.
+
+
+BENNETT L. W. et ManHEIM J. В., 1993, “Taking the Public by Storm",
+Political Communication, vol. 10(4), p. 331-351.
+
+
+BENNETT L. W., 1990, “Toward a Theory of Press-State Relations in the
+United States", Journal of Communication, vol. 40(2), p. 103-125.
+
+
+BENNETT L. W., LAWRENCE R. G. et LIVINGSTON S., 2007, When the Press
+Fails: Political Power and the News Media from Iraq to Katrina, Chicago,
+University of Chicago Press.
+
+
+ΒΕΝΟΙΤ Κ., 1996, “Democracies Really Are More Pacific (in General)”,
+Journal of Conflict Resolution, vol. 40(4), p. 636-657.
+
+
+BEREJIKIAN J. D., 2002, “A Cognitive Theory of Deterrence", Journal of
+Peace Research, vol. 39(2), 165-84.
+
+
+BEREJIKIAN J. D., 2002, “Model Building with Prospect Theory: A
+Cognitive Approach to International Relations", Political Psychology,
+vol. 23 (4), p. 759-786.
+
+
+BERG E. et EHIN P., 2009, Identity and Foreign Policy: Baltic-Russian
+Relations and European Integration, Farnham, Ashgate.
+
+
+BERGER T. U., 1998, Cultures of Antimilitarism: National Security in
+Germany and Japan, Baltimore, Johns Hopkins University Press.
+
+
+BERGMAN A., 2007, "Co-Constitution of Domestic and International
+Welfare Obligations , Cooperation and Conflict, vol. 42(1), p. 73-99.
+
+
+BERKOWITZ D., PISTOR K. et RICHARD J.-F., 2003, “The Transplant Effect",
+American Journal of Comparative Law, vol. 51(1), p. 163-203.
+
+
+BERNAUER T. et KUHN P., 2010, "Is There an Environmental Version of the
+Kantian Peace?", European Journal of International Relations, vol. 16(1),
+p. 77-102.
+
+
+BERNHAGEN P., 2008, “Business and International Environmental
+Agreements", Global Environmental Politics, vol. 8(1), p. 78-110.
+
+
+BERNSTEIN R. A. et ANTHONY W. W., 1974, "The ABM Issue in the Senate,
+1968-1970: The Importance of Ideology", American Political Science
+Review, vol. 68(3),  . 1198-1206.
+
+
+BERRY N., 1990, Foreign Policy and the Press: An Analysis of the New
+York Times' Coverage of US Foreign Policy, Westport, Greenwood Press.
+BETSILL M. M. et BULKELEY H., 2004, "Transnational Networks and
+Global Environmental Governance: The cities for Climate Protection
+
+
+Program", International Studies Quarterly, vol. 48(2), p. 471-493.
+
+
+Environmental
+
+
+BETSILL M. M. et CORELL E., 2007, NGO Diplomacy: The Influence of
+Nongovernmental Organizations in International
+Negotiations, Cambridge, MIT Press.
+
+
+BIAVA A. 2011, Vers une culture stratégique européenne ?, Louvain la
+Neuve, L'Harmattan.
+
+
+BICKERTON C., 2010, “Functionality in EU Foreign Policy: Towards a
+New Research Agenda?”, European Integration, vol. 32(2), p. 213-227.
+
+
+BIDDLE S. et LONG S., 2004, "Democracy and Military Effectiveness: A
+Deeper Look", Journal of Conflict Resolution, vol. 48(4), p. 525-546.
+
+
+BIGLAISER G. et DEROUEN K. Jr., 2007, “Following the Flag: Troop
+Deployment and US Foreign Direct Investment”, International Studies
+Quarterly, vol. 51(4), p. 835-854.
+
+
+BIGO D., 2005, « La mondialisation de l'(in)sécurité », Cultures et
+Conflits, 58, p. 53-101.
+
+
+BIGO D., 2006, “Internal and External Aspects of Security , European
+Security, vol. 15(4), 385-404.
+
+
+BILLINGS R. S. et HERMANN C. F., 1998, "Problem Identification in
+Sequential Policy Decision Makings", in Sylvan D. A. et Voss J. (dirs),
+Problem Representation in Foreign Policy Decision Making, Cambridge,
+Cambridge University Press, p. 53-79.
+
+
+BINNING K. R., 2007, “It's Us against the World”, Political Psychology,
+vol. 28(6), p. 777-799.
+
+
+BIRT R., 1993, “Personality and Foreign Policy: The Case of Stalin",
+Political Psychology, vol. 14(4), p. 607-626.
+
+
+BJERELD U. et EKENGREN A.-M., 1999, “Foreign Policy Dimensions",
+International Studies Quarterly, vol. 43(3),  . 503-518.
+
+
+BLAINEY G., 1988, The Causes of War, New York, Free Press.
+BLANCHARD J.-M. F. et RIPSMAN N. M., 2008, “A Political Theory of
+Economic Statecraft , Foreign Policy Analysis, vol. 4(4), p. 371-398.
+
+
+BLATTER J., KREUTZER M., RENTL M. et THIELE J., 2008, "The Foreign
+Relations of European Regions", West European Politics, vol. 31(3), p. 464-
+
+
+490.
+
+
+BLECHMAN B. M. et KAPLAN S. S., 1978, Force Without War: US Armed
+Force as a Political Instrument, Washington, The Brookings Institution.
+
+
+BLEIKER R. et HUTCHISON E., 2008, "Fear No More: Emotions and World
+Politics", Review of International Studies, vol. 34(1), p. 115-135.
+
+
+BLISS H. et RUSSETT B., 1998, “Democratic Trading Partners: The Liberal
+Connection, 1962-1989”, Journal of Politics, vol. 60(4), p. 1126-1147.
+BLOK A., 2008, "Contesting Global Norms: Politics of Identity in
+Japanese
+Pro-Whaling
+Countermobilization", Global Environmental
+Politics, vol. 8(2), p. 39-66.
+
+
+BLOOMFIELD A. et NOSSAL K. R., 2007, “Toward an  Explicative
+Understanding' of Strategic Culture", Contemporary Security Policy,
+vol. 28 (2), p. 285-306.
+
+
+BLUM D., 1993, “The Soviet Foreign Policy Belief System: Beliefs,
+Politics and Foreign Policy Outcomes , International Studies Quarterly,
+vol. 37(3), p. 373-394.
+
+
+BLYTH M., 1997, “Any More Bright Ideas? The Ideational Turn of
+Comparative Political Economy”, Comparative Politics, vol. 29(2), p. 229-
+250.
+
+
+BOETTCHER W. A. et Совв М. D., 2006, “Echoes of Vietnam?", Journal of
+Conflict Resolution, vol. 50(6), p. 831-854.
+
+
+BOETTCHER W. A., 2004, “The Prospects of Prospect Theory , Political
+Psychology, vol. 25(3), p. 331-362.
+
+
+BÖHMELT T., 2010, “The Impact of Trade on International Mediation",
+Journal of Conflict Resolution, vol. 54(4), p. 566-592.
+
+
+BOLKS S. M. et AL-SOWAYEL D., 2000, “How Long Do Economic
+Sanctions Last?", Political Research Quarterly, vol. 53(2), p. 241-265.
+
+
+Воотн К., 1979, Strategy and Ethnocentrism, New York, Holmes &
+Meier.
+
+
+BOTTICI C. et CHALLAND B., 2006, “Rethinking Political Myth”, European
+Journal of Social Theory, vol. 9(3), p. 315-336.
+
+
+BOURDIEU P., 1973, « L'opinion publique n'existe pas », Temps modernes,
+$n^{\circ}$ 318, p. 1292-1309.
+
+
+BOWEN M. G., 1987, “The Escalation Phenomenon Reconsidered:
+Decision Dilemmas or Decision Errors?", Academy of Management
+Review, vol. 12(2), 52-66.
+
+
+BRADLEY S. K. 1990, “How the West Was One: Representational Politics
+of NATO", International Studies Quarterly, vol. 24(3), p. 311-325.
+
+
+BRADLEY S. K. 1994, Strategic Stides and World Order, Cambridge,
+Cambridge University Press.
+
+
+BRAITHWAITE A., 2005, “Location, Location, Location... Identifying
+Conflict Hotspots”, International Interactions, vol. 31(3), 251-73.
+
+
+BRATBERG O., 2011, “Ideas, Tradition and Norm Entrepreneurs", Review
+of International Studies, vol. 37(1), p. 327-348.
+
+
+BRAWLEY M. R., 1993, “Regime Types, Markets and War: The
+Importance of Pervasive Rents in Foreign Policy", Comparative Political
+Studies, vol. 26(2),  . 178-197.
+
+
+BRAWLEY M. R., 2006, “Agricultural Interests, Trade Adjustment and
+Repeal of the Corn Laws , British Journal of Politics and International
+Relations, vol. 8(4), p. 467-488.
+
+
+BRECHER E. M. et WILKENFELD J., 1982, “Crises in World Politics", World
+Politics, vol. 34(30), p. 380-417.
+
+
+BRECHER E. M., 1972, Foreign Policy System of Israel: Setting, Images,
+Process, Oxford, Oxford University Press.
+
+
+BRECHER E. M., STEINBERG B. et STEIN J., 1969, “A Framework for
+Research on Foreign Policy Behavior", Journal of Conflict Resolution,
+vol. 13(1), p. 75-101.
+
+
+BREMER S. A., 1992, “Dangerous Dyads: Conditions Affecting the
+Likelihood of Interstate War, 1816-1965", Journal of Conflict Resolution,
+vol. 36(2), p. 309-341.
+
+
+BREMER S. A., 1993, “Advancing the Scientific Study of War",
+International Interactions, vol. 19(1), p. 1-26.
+
+
+BRENNER A., 2009, "Speaking of Respect for Women", Journal of
+International Women's Studies, vol. 10(3), p. 18-32.
+
+
+BRENNER P., HANEY P. J. et VANDERBUSH W., 2002, "The Confluence of
+Domestic and International Interests”, International Studies Perspectives,
+vol. 3(2), p. 192-208.
+
+
+BREUNING M., 1995, “Words and Deeds: Foreign Assistance Rhetoric and
+Policy Behavior in the Netherlands, Belgium and the United Kingdom",
+International Studies Quarterly, vol. 39(2), p. 235-254.
+
+
+BREUNING M., 2003, “The Role of Analogies and Abstract Reasoning in
+Decision-Making”, International Studies Quarterly, vol. 47(2), p. 229-245.
+
+
+BREWER M. B., 2000, “Ingroup Identification and Intergroup Conflict", in
+Ashmore R., Jussim L. et Wilder D. (dirs), Social Identity, Intergroup
+Conflict and Conflict Resolution, Oxford, Oxford University Press, p. 17-
+41.
+
+
+BREWER P. et STEENBERGEN M., 2002, “All Against All: How Beliefs about
+Human Nature Shape Foreign Policy Opinions", Political Psychology,
+vol. 23(1), p. 39-58.
+
+
+BRIGHI E., 2006, “One Man Alone? A Longue Durée Approach to Italy's
+Foreign Policy under Berlusconi”, Government and Opposition, vol. 41(2),
+p. 278-297.
+
+
+BROCKNER J. et RUBIN J. Z., 1985, Entrapment in Escalating Conflicts,
+New York, Springer-Verlag.
+
+
+BRODIE B., 1959, Strategy in the Missile Age, Princeton, Princeton
+University Press.
+
+
+BRODY R., 1991, Assessing the President: The Media, Elite Opinion and
+Public Support, Stanford, Stanford University Press.
+
+
+BROOKS R., 2002, “Sanctions and Regime Type: What Works and When",
+Security Studies, vol. 1(1), p. 11-50.
+
+
+BROOKS S. G., 1997, “Dueling Realism", International Organization,
+vol. 51(3), p. 445-477.
+
+
+BROSCHEID A. et COEN D., 2007, “Lobbying Activity and Fora Creation in
+the EU", Journal of European Public Policy, vol. 14(3), p. 346-365.
+
+
+BROWNING C. S., 2008, Constructivism, Narrative and Foreign Policy
+Analysis: A Case Study of Finland, Oxford, Peter Lang.
+
+
+BROZ L. et HAWES M. B., 2006, “Congressional Politics of Financing the
+International Monetary Fund”, International Organization, vol. 60(2),
+p. 367-399.
+
+
+BROZ L., 2005, “Congressional Politics of International Financial
+Rescues", American Journal of Political Science, vol. 49(3), p. 479-496.
+
+
+BRULÉ D. et Mintz A., 2006, “Blank Check or Marching Orders? Public
+Opinion and Presidential Use of Force in the United States", in Starr H.
+(dir.), Approaches, Levels and Methods of Analysis in International
+Politics: Crossing Boundaries, New York, Palgrave Macmillan, p. 157-72.
+
+
+BRULÉ D., 2005, “Explaining and Forecasting Foreign Policy Decisions:
+A Poliheuristic Analysis of the Iran Hostage Rescue Decision",
+International Studies Perspectives, vol. 6(1),  . 99-113.
+
+
+BRULÉ D., 2006, “Congressional Opposition, the Economy and US
+Dispute Initiation, 1946-2000”, Journal of Conflict Resolution, vol. 50(4),
+p. 463-483.
+
+
+BRULÉ D., MARSHALL B. et PRINS B., 2010, “Opportunities and
+Presidential Use of Force", Conflict Management and Peace, vol. 27(5),
+p. 486-510.
+
+
+BRUNK D. C., 2008, “Curing the Somalia Syndrome", Foreign Policy
+Analysis, vol. 4(3), p. 301-320.
+
+
+BUBELA T. et MORIN J.-F., 2010, “Lost in Translation: From Transnational
+Activism to Domestic Implementation , Health Law Journal, vol. 18(1),
+p. 113-157.
+
+
+BUENO DE MESQUITA B. et Smith A., 2007, “Foreign Aid and Policy
+Concessions", Journal of Conflict Resolution, vol. 51(2), p. 251-284.
+
+
+BUENO DE MESQUITA B. et SMITH A., 2009, “A Political Economy of Aid",
+International Organization, vol. 63(2), p. 309-340.
+
+
+BUENO DE MESQUITA B. et Lalman D., 1992, War and Reason, New
+Haven, Yale University Press.
+
+
+BUENO DE MESQUITA B. et MCDERMOTT R., 2004, “Crossing No Man's
+Land: Cooperation from the Trenches", Political Psychology, vol. 25(2).
+
+
+P. 271-287.
+
+
+BUENO DE MESQUITA B., 1981, The War Trap, New Haven, Yale
+University Press.
+
+
+BUENO DE MESQUITA B., 1984, “Forecasting Policy Decisions", PS:
+Political Science and Politics, vol. 17(2), p. 226-236.
+
+
+BUENO DE MESQUITA B., 1997, “A Decision Making Model: Its Structure
+and Form", International Interactions, vol. 23(3), p. 235-266.
+
+
+BUENO DE MESQUITA B., 1998, “The End of the Cold War: Predicting an
+Emergent Property , Journal of Conflict Resolution, vol. 42(2), p. 131-155.
+BUENO DE MESQUITA B., 2006, Principles of International Politics:
+People's Power, Preferences and Perceptions, Washington, CQ Press.
+
+
+BUENO DE MESQUITA B., MORROW J., SIVERSON R. et SMITH A., 1999, “An
+Institutional Explanation of the Democratic Peace", American Political
+Science Review, vol. 93(4), p. 791-807.
+
+
+BURK J. P., 1999, “Public Support for Peacekeeping in Lebanon and
+Somalia", Political Science Quarterly, vol. 114(1), p. 53-78.
+
+
+BURKE J. P. et GREENSTEIN F. I., 1989, How Presidents Test Reality:
+Decisions on Vietnam, 1954 and 1965, New York, Russell Sage Foundation.
+BURKE J. P., 2005, “The Contemporary Presidency: Condoleezza Rice as
+NSC Advisor", Presidential Studies Quarterly, vol. 35(3), p. 229-259.
+
+
+BUSBY J. W. et MONTEN J., 2008, “Without Heirs?", Perspectives on
+Politics, vol. 6(3), p. 451-472.
+
+
+BUSBY J. W., 2007, “Bono Made Jesse Helms Cry“, International Studies
+Quarterly, vol. 51(2), p. 247-275.
+
+
+BUSSMANN M. et SCHNEIDER G., 2007, "When Globalization Discontent
+Turns Violent", International Studies Quarterly, vol. 51(1),  . 79-97.
+
+
+BUSSMANN M., 2010, “Foreign Direct Investment and Militarized
+International Conflict , Journal of Peace Research, vol. 47(2), p. 143-153.
+
+
+BUTLER C. K., 2004, “Modeling Compromise at the International Table ,
+Conflict Management and Peace Science, vol. 21(3), p. 159-177.
+
+
+BUTLER C. K., 2007, “Prospect Theory and Coercive Bargaining",
+Journal of Conflict Resolution, vol. 51(2), p. 227-250.
+
+
+BUZAN B., WAEVER O. et DE WILDE J., 1998, Security: A New Framework
+for Analysis, Boulder, Lynne Rienner.
+
+
+BYMAN D. et POLLACK K., 2001,  Let Us Now Praise Great Men: Bringing
+the Statesman Back In , International Security, vol. 25(4),  . 107-146.
+
+
+CABESTAN J.-P., 2009, "Taiwan: An Internal Affair! How China's
+Domestic Politics and Foreign Policy Interact on the Taiwan Issue?", East
+Asia, vol. 26(1), p. 1-20.
+
+
+CALDWELL D., 1977, “Bureaucratic Foreign Policy-Making", American
+Behavioral Scientist, vol. 21(1),  . 87-110.
+
+
+CAMPBELL D., 1992, Writing Security: United States Foreign Policy and
+the Politics of Identity, Minneapolis, University of Minnesota Press.
+
+
+CAMPBELL D., 1998, National Deconstruction: Violence, Identity and
+Justice in Bosnia. Minneapolis, University of Minnesota Press.
+
+
+CAMPBELL D., 2003, “Salgado and the Sahel: Documentary Photography
+and the Imaging of Famine", in Debrix, C. et Weber C., Rituals of
+Mediation: International Politics and Social Meaning, Minneapolis,
+University of Minnesota Press, p. 69-95.
+
+
+CANTIR C. et KAARBO J., 2012, "Contested Roles and Domestic Politics:
+Reflexions on Role Theory in Foreign Policy Analysis and IR Theory",
+Foreign Policy Analysis, vol. 8(1), p. 5-24.
+
+
+CAO X., 2009, “Network of Intergovernmental Organizations and
+Convergence in Domestic Economic Policies , International Studies
+Quarterly, vol. 53(4), p. 1095-1130.
+
+
+CAPORASO J., 2000, “Changes in the Westphalian Order , International
+Studies Review, vol. 2(2), p. 1-28.
+
+
+CAPORASO J., 2000, Continuity and Change in the Westphalian Order,
+Malden, Blackwell.
+
+
+CARAWAY T. L, RICKARD S. J. et ANNER M. S., 2012, "International
+Negotiations and Domestic Politics", International Organization,
+vol. 66(1), p. 27-61.
+
+
+CARDENAS S., 2004, "Norm Collision", International Studies Review,
+vol. 6(2), p. 213-231.
+
+
+CARLSNAES W., 1992, “The Agency-Structure Problem in Foreign Policy
+Analysis", International Studies Quarterly, vol. 36(3), p. 245-270.
+
+
+CARLSNAES W., 1993, “On Analyzing the Dynamics of Foreign Policy
+Change: A Critique and Reconceptualization”, Cooperation and Conflict,
+vol. 28(1), p. 5-30.
+
+
+Carment D. et James P., 1996, “Two-Level Games and Third-Party
+Intervention", Canadian Journal of Political Science, vol. 29(3), p. 521-
+554.
+
+
+CARNEVALE P. J. et CHOI D.-W., 2000, “Culture in the Mediation of
+International Disputes , International Journal of Psychology, vol. 35(2),
+p. 105-110.
+
+
+CAROTHERS T., 1999, Aiding Democracy Abroad: The Learning Curve,
+Washington, Carnegie Endowment for International Peace.
+
+
+CARPENTER C. 2011 “Vetting the Advocacy Agenda: Network Centrality
+and the Paradox of Weapons Norms , International Organization, vol. 65,
+p. 69-102.
+
+
+CARPENTER C., 2006, Innocent Women and Children: Gender, Norms and
+the Protection of Civilians, Aldershot, Ashgate.
+
+
+CARPENTER C., 2007, “Setting the Advocacy Agenda , International
+Studies Quarterly, vol. 51(1), p. 99-120.
+
+
+CARTA C., 2012, The European Union Diplomatic Service: Ideas,
+Preferences and Identities, Abingdon, Routledge.
+
+
+CARTER R. G. et Scott J. M., 2009, Choosing to Lead, Durham, Duke
+University Press.
+
+
+CARUSON K. et FARRAR-MYERS V., 2007,  Promoting the President's
+Foreign Policy Agenda , Political Research Quarterly, vol. 60(4), p. 631-
+644.
+
+
+CARVALHO B., LEIRA H. et HOBSON J. M., 2011, "The Big Bangs of IR: The
+Myths That Your Teachers Still Tell You about 1648 and 1919",
+Millennium, vol. 39(3), p. 735-758.
+
+
+CATALINAC A. L., 2007, “Identity Theory and Foreign Policy", Politics &
+Policy, vol. 35(1),  . 58-100.
+
+
+CEDERMAN L.-E., WARREN T. C. et SORNETTE D., 2011, “Testing
+Clausewitz", International Organization, vol. 65(4), p. 605-635.
+
+
+Cederman L.-E., 1997, Emergent Actors in World Politics: How States
+and Nations Develop and Dissolve, Princeton, Princeton University Press.
+CERNY P. C., 1980, The Politics of Grandeur: Ideological Aspects of de
+Gaulle's Foreign Policy, Londres, Cambridge University Press.
+
+
+CERUTTI F. et LUCARELLI S., 2008, The Search for a European Identity:
+Values Policies and Legitimacy of the European Union, Abingdon,
+Routledge.
+
+
+CHAFETZ G., 1995, “The Political Psychology of the Nuclear
+Nonproliferation Regime , Journal of Politics, vol. 57(3), p. 743-775.
+
+
+CHAFETZ G., 1996, “The Struggle for a National Identity in Post-Soviet
+Russia", Political Science Quarterly, vol. 111(4),  . 661-688.
+
+
+CHAFETZ G., ABRAMSON H. et GRILLOT S., 1996, “Role Theory and Foreign
+Policy", Political Psychology, vol. 17(4), 727-757.
+
+
+CHAN S. et Safran W., 2006, “Public Opinion as a Constraint Against
+War”, Foreign Policy Analysis, vol. 2(2), p. 137-156.
+
+
+CHAN S., 1979, “Rationality, Bureaucratic Politics and Belief System",
+Journal of Peace Research, vol. 16(4), p. 333-347.
+
+
+CHAN S., 1984, "Mirror, Mirror on the Wall... Are the Freer Countries
+More Pacific?", Journal of Conflict Resolution, vol. 28(4), 617-648.
+
+
+CHAN S., 1997, "In Search of Democratic Peace: Problems and Promise",
+Mershon International Studies Review, vol. 41(1), p. 59-91.
+
+
+CHAPMAN T. et REITER D., 2004, "The United Nations Security Council
+and the Rally Round the Flag Effect", Journal of Conflict Resolution,
+vol. 48(6), p. 886-909.
+
+
+CHAPNICK A., 2000, “The Canadian Middle Power Myth", International
+Journal, vol. 55(2), p. 188-206.
+
+
+CHARILLON F. (dir.), Politique étrangère: nouveaux regards, Paris, Presses
+de Sciences Po.
+
+
+CHECKEL J. T., 1993, “Ideas, Institutions and the Gorbachev Foreign
+Policy Revolution , World Politics, vol. 45(2), p. 271-300.
+
+
+CHECKEL J. T., 1998, "The Constructivist Turn in International Relations
+Theory", World Politics, vol. 50(2), p. 169-195.
+
+
+CHECKEL J. T., 1999, “Norms, Institutions and National Identity in
+Contemporary Europe”, International Studies Quarterly, vol. 43(1), p. 84-
+114.
+
+
+CHECKEL J. T., 2001, “Why Comply? Social Learning and European
+Identity Change”, International Organization, vol. 55(3), p. 553-588.
+
+
+CHECKEL J. T., 2003, “Going Native in Europe? Theorizing Social
+Interaction in European Institutions", Comparative Political Studies,
+vol. 36(2), p. 209-231.
+
+
+CHILTON P., 1996, Security Metaphors: Cold War Discourse from
+Containment to Common House, New York, Peter Lang.
+
+
+CHITTICK W. O., BILLINGSLEY K.R. et TRAVIS R., 1995, "A Three-
+Dimensional Model of American Foreign Policy Beliefs , International
+Studies Quarterly, vol. 39(3), p. 313-332.
+
+
+CHOI A., 2004, “Democratic Synergy and Victory in War, 1816-1992",
+International Studies Quarterly, vol. 48(3), p. 663-682.
+
+
+CHOI S.-W., 2011, “Re-Evaluating Capitalist and Democratic Peace
+Models", International Studies Quarterly, vol. 55(3), p. 759-769.
+
+
+CHOLLET D. H. et GOLDGEIER J. M., 2003, “Once Burned, Twice Shy?", in
+Wohlforth W. C. (dir.), Cold War Endgame, University Park, Pennsylvania
+State University Press, p. 141-174.
+
+
+CHOREV N., 2007, "A Fluid Divide: Domestic and International Factor in
+US Trade Policy Formation , Review of International Political Economy,
+vol. 14(4), p. 653-689.
+
+
+CHRISTENSEN E. et REDD S., 2004, "Bureaucrats versus the Ballot Box in
+Foreign Policy Decision-Making", Journal of Conflict Resolution,
+vol. 48(1), p. 69-90.
+
+
+CHRISTENSEN T., 1996, Useful Adversaries: Grand Strategy, Domestic
+Mobilization and Sino-American Conflict, 1947-1958, Princeton, Princeton
+University Press.
+
+
+CHUNG C.-P., 2007, “Resolving China's Island Disputes: A Two-Level
+Game Analysis", Journal of Chinese Political Science, vol. 12(1), p. 49-70.
+
+
+CHWIEROTH J., 2007, “Neoliberal Economists and Capital Account
+Liberalization in Emerging Markets", International Organization,
+vol. 61(2), p. 443-463.
+
+
+CHWIEROTH J., 2007, “Testing and Measuring the Role of Ideas: The Case
+of Neoliberalism in the International Monetary Fund", International Studies
+Quarterly, vol. 51(1), p. 5-30.
+
+
+CITRIN J., HAAS E. et MUSTE C., 1994, "Is American Nationalism
+Changing?", International Studies Quarterly, vol. 38(1), p. 1-31.
+
+
+CLADI L. et WEBBER M., 2011, “Italian Foreign Policy in the Post-Cold
+War Period: A Neoclassical Realist Approach", European Security,
+vol. 20(2), p. 205-219.
+
+
+CLARK A. M., 2001, Diplomacy of Conscience: Amnesty International
+and Changing Human Rights Norms, Princeton, Princeton University Press.
+CLARK D. H. et REGAN P. M., 2003, “Opportunities to Fight”, Journal of
+Conflict Resolution, vol. 47(1), p. 94-115.
+
+
+CLARK D. H. et NORDSTROM T., 2005, “Democratic Variants and
+Democratic Variance”, Journal of Politics, vol. 67(1), p. 250-270.
+
+
+CLARK D. H. et REED W., 2005, "The Strategic Sources of Foreign Policy
+Substitution", American Journal of Political Science, vol. 49(3), p. 609-
+624.
+
+
+CLARK D. H., 2000, “Agreeing to Disagree: Domestic Institutional
+Congruence, and US Dispute Behavior", Political Research Quarterly,
+vol. 53(2), p. 375-401.
+
+
+CLARK D. H., 2001, “Trading Butter for Guns: Domestic Imperatives for
+Foreign Policy Substitution", Journal of Conflict Resolution, vol. 45(5),
+p. 636-660.
+
+
+CLARK D. H., NORDSTROM T. et REED W., 2008, "Substitution Is in the
+Variance: Resources and Foreign Policy Choice", American Journal of
+Political Science, vol. 52(4), p. 763-773.
+
+
+CLARK W. R., DUCHESNE E. et MEUNIER S., 2000, "Domestic and
+International Asymmetries in United States European Union Trade
+Negotiations", International Negotiation, vol. 5(1), p. 69-95.
+
+
+CLARKE M., 1981, “The Foreign Policy System , in Clarke M. et White
+B. (dirs), An Introduction to Foreign Policy Analysis, Lancashire, Hesketh,
+p. 15-34.
+
+
+CLOUD D., 2004, “To Veil the Treat of Terror", Quarterly Journal of
+Speech, vol. 90(3),  . 285-306.
+
+
+COHEN, B.C., 1963, The Press and Foreign Policy, Princeton, Princeton
+University Press.
+
+
+Cohen M., MARCH J. G. et OLSEN J. P., 1972, "A Garbage Can Model of
+Organizational Choice”, Administrative Science Quarterly, vol. 17(1), p. 1-
+25.
+
+
+COHEN R., 2000, “Meaning, Interpretation and International Negotiation",
+Global Society, vol. 14(3), p. 317-335.
+
+
+COHEN S., 1994, La monarchie nucléaire, Paris, Hachette.
+
+
+COHEN S., 1998, « Décision, pouvoir et rationalité dans l'analyse de la
+politique étrangère », in Smouts M.-C. (dir.), Les nouvelles relations
+internationales : pratiques et théories, Paris, Presses de Sciences Po., p. 75-
+101.
+
+
+COHEN S., 2000, « Démocratie et politique étrangère : repenser les termes
+du débat », Annuaire français des relations internationales, vol. 1(1), p. 3-
+11.
+
+
+COHEN S., 2003, « Cohabiter en diplomatie : atout ou handicap »,
+Annuaire français des relations internationales, vol. 4(3), p. 344-358.
+
+
+COHEN S., 2004, A Model of Its Own? State-NGO Relations in France,
+Washington, Brookings Institution.
+
+
+COHN C., 1987, "Sex and Death in the Rational World of Defense
+Intellectuals", Signs, vol. 12(4), p. 687-698.
+
+
+COHN C., 1993, "Wars, Wimps and Women: Talking Gender and
+Thinking War”, in Cooke M. et Woollacott A. (dirs), Gendering War Talk,
+Princeton, Princeton University Press, p. 227-246.
+
+
+COLARESI M., 2012, “A Boom with Review", American Journal of
+Political Science, vol. 56(1),  . 1-19.
+
+
+COLARESI M. P. et THOMPSON W. R., 2002, "Strategic Rivalries, Protracted
+Conflict and Crisis Escalation", Journal of Peace Research, vol. 39(3),
+p. 263-287.
+
+
+COLARESI M. P., 2007, “The Benefit of the Doubt: Testing an
+Informational Theory of the Rally Effect , International Organization,
+vol. 61(1), p. 99-143.
+
+
+COLLIER P. et DOLLAR D., 2002, “Aid Allocation and Poverty Reduction",
+European Economic Review, vol. 46(8), p. 1475-1500.
+
+
+COLLINS S., 2009, “Can America Finance Freedom? Assessing US
+Democracy Promotion via Economic Statecraft”, Foreign Policy Analysis,
+vol. 5(4), p. 367-389.
+
+
+CONLEY R. S., 1999, “Derailing Presidential Fast-Track Authority",
+Political Research Quarterly, vol. 52(4), p. 785-799.
+
+
+Conway L. G. III, SUEDFELD P. et CLEMENTS S. M., 2003, "Beyond the
+American Reaction , Psicologia Politica, vol. 27(1), p. 93-103.
+
+
+COOLSAET R. et VANDERVELDEN T., 2004, « Nouvel ordre mondial,
+nouvelle diplomatie ? », in Roosens C., Rosoux V. et Wilde D'Estmael R.
+(dirs), La politique étrangère : le modèle classique à l'épreuve, Bruxelles,
+Peter Lang, p. 107-123.
+
+
+COOLSAET R., 2002, La politique extérieure de la Belgique : au cœur de
+l'Europe, le poids d'une petite puissance, Bruxelles, De Boeck.
+
+
+COONEY K., 2007, Japan's Foreign Policy since 1945, New York, Shape.
+COOPER A. F., 2007, Celebrity Diplomacy, Boulder, Paradigm.
+
+
+COOPER D. A., 2011, “Challenging Contemporary Notion of Middle
+Power Influence , Foreign Policy Analysis, vol. 7(3), p. 317-336.
+
+
+COPELAND D. C., 1996, “Economic Interdependence and War: A Theory
+of Trade Expectations , International Security, vol. 20(4), p. 5-41.
+
+
+CORNISH P. et EDWARDS G., 2001, “Beyond the EU/NATO Dichotomy ,
+International Affairs, vol. 77(3), p. 587-603.
+
+
+CORNISH P. et EDWARDS G., 2005, “Identifying the Development of an EU
+Strategic Culture , International Affairs, vol. 77(3), p. 587-604.
+
+
+CORTELL A. et DAVIS J., 1996, "How Do International Institutions
+Matter?", International Studies Quarterly, vol. 40(4), p. 451-478.
+
+
+Coş K. et BILGIN P., 2010, "Stalin's Demands: Constructions of the Soviet
+Other in Turkey's Foreign Policy, 1919-1945", Foreign Policy Analysis,
+vol. 6(1), p. 43-60.
+
+
+COWHEY P. F., 1993, “Domestic Institutions and the Credibility of
+International Commitments”, International Organization, vol. 47(2),
+p. 299-326.
+
+
+Cox R., 1981,  Social Forces, States and World Orders", Millennium,
+vol. 10(2), p. 126-155.
+
+
+CRAWFORD N., 1993. “Decolonization as an International Norm", in Reed
+L. et Kaysen C. (dirs), Emerging Norms of Justified Intervention,
+Cambridge, American Academy of Arts & Sciences, p. 37-61.
+
+
+CRAWFORD N., 2000, “The Passion of World Politics: Propositions on
+Emotion and Emotional Relationships , International Security, vol. 24(4),
+p. 116-156.
+
+
+CRAWFORD N., 2002, Argument and Change in World Politics: Ethics,
+Decolonization and Humanitarian Intervention, Cambridge, Cambridge
+University Press.
+
+
+CRESCENZI M. J. C., KADERA K. M., MITCHELL S. M. et THYNE C. L., 2011,
+"A Supply Side Theory of Mediation”, International Studies Quarterly,
+vol. 55(4), p. 1069-1094.
+
+
+CRICHLOW S., 1998, “Idealism or Pragmatism? An Operational Code
+Analysis of Yitzhak Rabin and Shimon Peres”, Political Psychology,
+vol. 19(4), p. 683-706.
+
+
+CRICHLOW S., 2005, “Psychological Influences on the Policy Choices of
+Secretaries of State and Foreign Ministers", Cooperation and Conflict,
+vol. 40(2), p. 179-205.
+
+
+CROFT S., 2006, Culture, Crisis and America's War on Terror, Cambridge,
+Cambridge University Press.
+
+
+CRONIN B., 1999, Community Under Anarchy: Transnational Identity and
+the Evolution of Cooperation, New York, Columbia University Press.
+
+
+CRONIN B., 2001, “The Paradox of Hegemony", European Journal of
+International Relations, vol. 7(1), p. 103-130.
+
+
+CRONIN P. et FORDHAM B. O., 1999, “Timeless Principles or Today's
+Fashion?", Journal of Politics, vol. 61(4), p. 967-998.
+
+
+CRUMM E., 1995, "The Value of Economic Incentives in International
+Politics", Journal of Peace Research, vol. 32(1), p. 313-330.
+
+
+CULL N. J., 2008, The Cold War and the United States Information
+Agency, Cambridge, Cambridge University Press.
+
+
+Cunningham J. et MOORE M. K., 1997, “Elite and Mass Foreign Policy
+Opinion: Who is Leading This Parade?", Social Science Quarterly,
+vol. 78(3), p. 641-656.
+
+
+CURLEY T. M., 2009, “Social Identity Theory and EU Expansion",
+International Studies Quarterly, vol. 53(3). p. 649-668.
+
+
+D'ANIERI P., 2002, “Russia's Foreign Policy", in Beasley R., Kaarbo J.,
+Lantis J. et Snarr M. (dirs), Foreign Policy in Comparative Perspective,
+Washington, CQ Press, p. 95-120.
+
+
+DALLEK R., 2003, An Unfinished Life: John F. Kennedy, 1917-1963, New
+York, Little Bown and Company.
+
+
+DANILOVIC V., 2001, “Conceptual and Selection Bias Issues in
+Deterrence", Journal of Conflict Resolution, vol. 45(1), p. 97-125.
+
+
+DANNREUTHER R., 2011, “Understanding the Middle East Peace Process:
+A Historical Institutionalist Approach , European Journal of International
+Relations, vol. 17(2), p. 187-208.
+
+
+DAOUDI M. S. et DAJANI M. S., 1983, Economic Sanctions: Ideals and
+Experience, Londres, Routledge & Kegan Paul.
+
+
+DASH K., 1999, “India's International Monetary Fund Loans: Finessing
+Win-Set Negotiations within Domestic and International Politics", Asian
+Survey, vol. 39(6), p. 884-907.
+
+
+DASHTI-GIBSON J., DAVIS P. et RADCLIFF B., 1997, "On the Determinants of
+the Success of Economic Sanctions: An Empirical Analysis", American
+Journal of Political Science, vol. 41(2), p. 608-618.
+
+
+DAVID C.-P., 2004, « La politique étrangère de Bush: formulation et
+décision », Politique étrangère, vol. 69, p. 833-847.
+
+
+DAVIS C., 2004, “International Institutions and Issue-Linkage", American
+Political Science Review, vol. 98(1), p. 153-169.
+
+
+DAVIS D. et MOORE W., 1997, “Ethnicity Matters: Transnational Ethnic
+Alliances and Foreign Policy Behavior , International Studies Quarterly,
+vol. 41(1), p. 171-184.
+
+
+DAVIS J. W. Jr, 2000, Threats and Promises: The Pursuit of International
+Influence, Baltimore, Johns Hopkins University Press.
+
+
+DAWISHA K., 2011 “Is Russia's Foreign Policy That of a Corporatist-
+Kleptocratic Regime?", Post-Soviet Affairs, vol. 27(4), p. 331-365.
+
+
+DE WILDE D'ESTMAEL T. 1998, La dimension politique des relations
+économiques extérieures de la Communauté Européenne, Bruxelles,
+Bruylant.
+
+
+DEBLOCK C. 2010, « La politique commerciale américaine – Promenade
+guidée dans le jardin des théories », Recherche internationales, $n^{\circ}$ 88,
+p. 127-154.
+
+
+DENG Y., 2008, China's Struggle for Status: The Realignment of
+International Relations, Cambridge, Cambridge University Press.
+
+
+DEPLEDGE J., 2008, “Striving for No: Saudi Arabia in the Climate Change
+Regime", Global Environmental Politics, vol. 8(4), p. 9-35.
+
+
+DER DERIAN J. 2009, Virtuous War: Mapping the Military-Industrial-
+Media-Entertainment Network, Abingdon, Routledge.
+
+
+DEROUEN K., 1995, “The Indirect Link: Politics, the Economy and the
+Use of Force", Journal of Conflict Resolution, vol. 39(4), p. 671-695.
+DEROUEN K., 2000, “Presidents and the Diversionary Use of Force: A
+Research Note”, International Studies Quarterly, vol. 44(2), p. 317-328.
+
+
+DESCH M., 1996, “War and Strong States, Peace and Weak States?",
+International Organization, vol. 50(2), p. 237-268.
+
+
+DESCH M. C., 2002, “Democracy and Victory: Why Regime Type Hardly
+Matters", International Security, vol. 27(2), p. 5-47.
+
+
+DESOMBRE E., 2000, Domestic Sources of International Environmental
+Policy: Industry, Environmentalists and US Power, Cambridge, MIT Press.
+DESTLER I. M., 1977, “National Security Advice to US Presidents", World
+Politics, vol. 29(1), p. 143-176.
+
+
+DEVETAK R. et TRUE J., 2006, “Diplomatic Divergence in the Antipodes",
+Australian Journal of Political Science, vol. 41(2), p. 241-256.
+
+
+DEVIN G., 2002, « Les diplomaties de la politique étrangère », in
+Charillon F. (dir.), Politique étrangère : nouveaux regards, Paris, Presses de
+Sciences Po., p. 215-242.
+
+
+DEVLEN B. 2010,  Dealing or Dueling with the United States?",
+International Studies Review, vol. 12, p. 53-68.
+
+
+DEWITT D. B., 2000, “Directions in Canada's International Security
+Policy", International Journal, vol. 55(2), p. 177.
+
+
+DICICCO J. M., 2011, “Fear, Loathing and Cracks in Reagan's Mirror
+Images", Foreign Policy Analysis, vol. 7(3), p. 253-274.
+
+
+DIEHL P. F., 1994, "Substitutes or Complements?", International
+Interactions, vol. 19(3), p. 159-176.
+
+
+DIEZ T., 2005, “Constructing the Self and Changing Others , Millennium,
+vol. 33(3), 2005, p. 613-636.
+
+
+DIMITROV R., 2005, "Hostage to Norms: States, Institutions and Global
+Forest Politics”, Global Environmental Politics, vol. 5(4), p. 1-24.
+
+
+DIVEN P., 2006, "The Hyperpluralism of US Food Aid Policy , Foreign
+Policy Analysis, vol. 2, p. 361-384.
+
+
+DIXON W. J. et SENESE P. D., 2002, “Democracy, Disputes and Negotiated
+Settlements", Journal of Conflict Resolution, vol. 46(4), p. 547-571.
+
+
+DIXON W. J., 1993, “Democracy and the Management of International
+Conflict", Journal of Conflict Resolution, vol. 37(1), p. 42-68.
+
+
+DIXON W. J., 1994, “Democracy and the Peaceful Settlement of
+International Conflict", American Political Science Review, vol. 88(1),
+p. 14-32.
+
+
+DOBSON H., 2003, Japan and United Nations Peacekeeping: New
+Pressures and New Responses, Londres, Routledge Curzon.
+
+
+DODDS K., 1993,  Geopolitics, Expert and the Making of Foreign
+Policy", Area, vol. 23(1), p. 70-74.
+
+
+DOLAN C. J., 2008, “The Shape of Elite Opinion on US Foreign Policy,
+1992 to 2004", Politics and Policy, vol. 36(4), p. 542-585.
+
+
+DORUSSEN H. et WARD H., 2010, "Trade Networks and the Kantian
+Peace", Journal of Peace Research, vol. 47(1), p. 29-42.
+
+
+DOTY R. L., 1993, "Foreign Policy as Social Construction: A Post-
+Positivist Analysis of US Counterinsurgency Policy in the Philippines ,
+International Studies Quarterly, vol. 37(3), p. 297-302.
+
+
+DOTY R. L., 1997, “Aporia: A Critical Exploration of the Agent-Structure
+Problematique in International Relations Theory", European Journal of
+International Relations, vol. 3(3), p. 365-392.
+
+
+Downs E. S. et SAUNDERS P. C., 1998, “Legitimacy and the Limits of
+Nationalism: China and the Diaoyu Islands , International Security,
+vol. 23(3), p. 114-146.
+
+
+DOWNS G. W. et ROCKE D. M., 1994, “Conflict, Agency and Gambling for
+Resurrection: The Principal-Agent Problem Goes to War", American
+Journal of Political Science, vol. 38(2), p. 362-380.
+
+
+DOXEY M., 1972, “International Sanctions: A Framework for Analysis
+with Special Reference to the UN and Southern Africa”, International
+Organization, vol. 26(3), p. 527-550.
+
+
+DOYLE M. W., 1986, "Liberalism and World Politics", American Political
+Science Review, vol. 80(4), p. 1151-1169.
+
+
+DOYLE M.W., 2005, “Three Pillars of the Liberal Peace", American
+Political Science Review, vol. 99(3), p. 463-466.
+
+
+DREHER A., NUNNENKAMP P. et THIELE R., 2008, “Does US AID buy UN
+General Assembly Votes? A Disaggregated Analysis", Public Choice,
+vol. 136(1), p. 139-164.
+
+
+DREYER D. R., 2010, “One Issue Leads to Another: Issue Spirals and the
+Sino-Vietnamese War”, Foreign Policy Analysis, vol. 6(4), p. 297-315.
+
+
+DREZNER D., 1999, The Sanctions Paradox: Economic Statecraft and
+International Relations, Cambridge, Cambridge University Press.
+
+
+DREZNER D., 2000, “Ideas, Bureaucratic Politics and the Crafting of
+Foreign Policy”, American Journal of Political Science, vol. 44(4), p. 733-
+749.
+
+
+DRURY A. C. et Li Y., 2006, “US Economic Sanction Threats Against
+China: Failing to Leverage Better Human Rights”, Foreign Policy Analysis,
+vol. 2(2), p. 307-324.
+
+
+DRURY A. C., 1998, “Economic Sanctions Reconsidered", Journal of
+Peace Research, vol. 35(7), p. 497-509.
+
+
+DRYZEK J., 2006, Deliberative Global Politics: Discourse and Democracy
+in a Divided World, Cambridge, Cambridge Polity Press.
+
+
+DUCHÊNE F., 1972, Europe's Role in World Peace, Londres, Fontana.
+
+
+DUFFIELD J. S., 1999, "Political Culture and State Behavior: Why
+Germany Confounds Neorealism , International Organization, vol. 53(4),
+p. 765-803.
+
+
+DULIN A. et MERCKAERT J., 2009, Bien mal acquis : a qui profite le
+crime?, Paris, CCFD Terre Solidaire.
+
+
+DUNN D., 1996, Diplomacy at the Highest Level: The Evolution of
+International Summitry, Londres, Palgrave Macmillan.
+
+
+DUTT P. et MITRA D., 2005, “Political Ideology and Endogenous Trade
+Policy: An Empirical Investigation", The Review of Economics and
+Statistics, vol. 87(1), p. 59-72.
+
+
+DYSON K. et FEATHERSTON K., 1996, “Italy and EMU as a 'Vincolo
+Esterno", South European Society and Politics, vol. 1(2), p. 272-299.
+
+
+DYSON S. B. 2001, “Drawing Policy Implication from the Operational
+Code of a New Political Actor”, Policy Sciences, vol. 34(3), p. 329-346.
+
+
+DYSON S. B. et PRESTON T., 2006, “Individual Characteristics of Leaders
+and the Use of Analogy in Foreign Policy Decision Making", Political
+Psychology, vol. 27(2), p. 265-288.
+
+
+DYSON S. B., 2006, “Personality and Foreign Policy: Tony Blair's Iraq
+Decisions", Foreign Policy Analysis, vol. 2(3), p. 289-306.
+
+
+Politics and Leader
+
+
+DYSON S. В., 2007, "Alliance, Domestic
+Psychology", Political Psychology, vol. 28(6), p. 647-666.
+
+
+DYSON S. B., 2009, “Cognitive Style and Foreign Policy: Margaret
+Thatcher's Black-and-White Thinking , International Political Science
+Review, vol. 30(1), p. 33-48.
+
+
+DYSON S. B., 2009, “Stuff Happens: Donald Rumsfeld and the Iraq War",
+Foreign Policy Analysis, vol. 5(4), p. 327-347.
+
+
+EARLY B. R., 2011, “Unmasking the Black Knights: Sanctions Busters
+and Their Effects on the Success of Economic Sanctions", Foreign Policy
+Analysis, vol. 7(4), p. 381-402.
+
+
+EARLY B. R., 2012, “Alliance and Trade with Sanctioned States", Journal
+of Conflict Resolution, vol. 56(3), p. 547-572.
+
+
+EAST M. A., 1973, “Size and Foreign Policy Behavior: A Test of Two
+Models", World Politics, vol. 25(4), p. 556-576.
+
+
+EASTERLY W., 2006, White Man's Burden: Why the West's Efforts to Aid
+the Rest Have Done So Much Ill and So Little Good, New York, Penguin
+Press.
+
+
+EASTON D., 1957, "An Approach to the Analysis of Political Systems",
+World Politics, vol. 9(2), p. 383-400.
+
+
+ECKHARDT W. et WHITE R. K., 1967, “A Test of the Mirror-Image
+Hypothesis: Kennedy and Khrushchev”, Journal of Conflict Resolution,
+vol. 11(3), p. 325-332.
+
+
+ECKSTEIN S., 2009, "The Personal Is Political: The Cuban Ethnic Electoral
+Policy Cycle", Latin American Politics and Society, vol. 51(1),  . 119-148.
+
+
+EDWARDS G. C. et WAYNE S. J., 2006, Presidential Leadership, Belmont,
+Thomson.
+
+
+EDWARDS G. C., 2003, On Deaf Ears: The Limits of Bully Pulpit, New
+Haven, Yale University Press.
+
+
+EHRLICH S. et MAESTAS C., 2010, “Risk Orientation, Risk Exposure and
+Policy Opinions: The Case of Free Trade , Political Psychology, vol. 31(5),
+p. 657-684.
+
+
+EHRLICH S., 2008, "The Tariff and the Lobbyist”, International Studies
+Quarterly, vol. 52(2), p. 427-445.
+
+
+EICHENBERG R. C. et STOLL R. J., 2012, "Gender Difference or Parallel
+Publics?", Journal of Conflict Resolution, vol. 56(2), p. 331-348.
+
+
+EICHENBERG R. C., 2005, “Victory Has Many Friends: US Public Opinion
+and the Use of Military Force, 1981-2005”, International Security,
+vol. 30(1), p. 140-177.
+
+
+EICHENGREEN B. et LEBLANG D., 2008, "Democracy and Globalization",
+Economics & Politics, vol. 20(3), p. 289-334.
+
+
+ELGSTROM O. et SMITH M. (dirs), 2006, The European Union's Roles in
+International Politics: Concepts and Analysis, Londres, Routledge.
+
+
+ELKINS Z., Guzman A. T. et SIMMONS B. А., 2006, “Competing for
+Capital", International Organization, vol. 60(4), p. 811-846.
+
+
+ELLIOTT K. A. et HUFBAUER G. C., 1999 "Same Song, Same Refrain?
+Economic Sanctions in the 1990's”, American Economic Review, vol. 23(1),
+p. 403-408.
+
+
+ELMAN C., 1996, “Horses for Courses: Why not Neo-Realist Theories of
+Foreign Policy?”, Security Studies, vol. 6(1), p. 7-53.
+
+
+ELMS D. K., 2004, “Large Costs, Small Benefits: Explaining Trade
+Dispute Outcomes”, Political Psychology, vol. 25 (2), p. 241-270.
+
+
+ELMS D. K., 2008, “New Directions for IPE: Drawing from Behavioral
+Economics", International Studies Review, vol. 10(2), p. 239-265.
+
+
+ELSHTAIN J. B., 1995, Women and War, Chicago, University of Chicago
+Press.
+
+
+EMBER C., EMBER M. et. RUSSETT B, 1992, "Peace Between Participatory
+Polities: A Cross-Cultural Test of the Democracies Rarely Fight Each
+Other's Hypothesis”, World Politics, vol. 44(4), p. 573-599.
+
+
+ENLOE C., 1989, Bananas, Beaches and Bases: Making Feminist Sense of
+International Politics, Berkeley et Los Angeles, University of California
+Press.
+
+
+ENLOE C., 1993, The Morning After: Sexual Politics at the End of the
+Cold War, Berkeley, University of California Press,
+
+
+ENLOE C., 2004, " Gender' is not Enough: The Need for a Feminist
+Consciousness”, International Affairs, vol. 80(1), p. 95-97.
+
+
+ENTMAN R., 2000,  Declarations of Independence", in Nacos B. L.,
+Shapiro R. et Isernia P. (dirs), Decision-Making in a Glass House, Londres,
+Rowman and Littlefield, p. 11-26.
+
+
+Entman R., 2004, Projections of Power: Framing News, Public Opinion
+and US Foreign Policy, Chicago, University of Chicago Press.
+
+
+EPSTEIN C., 2008, The Power of Words in International Relations: Birth of
+an Anti-Whaling Discourse, Cambridge, Cambridge MIT Press.
+
+
+EPSTEIN C., 2011,  Who Speaks? Discourse, the Subject and the Study of
+Identity in International Politics , European Journal of International
+Relations, vol. 17(2), p. 327-350.
+
+
+ERIKSSON J. et NORMAN L., 2010, “Political Utilisation of Scholarly
+Ideas", Review of International Studies, vol. 36(1), p. 1-20.
+
+
+ERJAVEC K. et VOLCIC Z., 2007, "War on Terrorism as a Discursive
+Battleground", Discourse Society, vol. 18(2), p. 123-137.
+
+
+ETHEREDGE L. 1992, “On Being more Rational than the Rationality
+Assumption", in Singer E. et Hudson V. M. (dirs), Political Psychology and
+Foreign Policy, Boulder, Westview, p. 59-75.
+
+
+EVANGELISTA M., 1995, “The Paradox of State Strength", International
+Organization, vol. 49(1), 1995, p. 1-38.
+
+
+EVANS P., SKOCPOL T. et RUESCHEMEYER D., 1985, Bringing the State Back
+In, Cambridge, Cambridge University Press.
+
+
+EYRE D. et SUCHMAN M., 1996, "Status, Norms and the Proliferation of
+Conventional Weapons , in Katzenstein P. (dir.), The Culture of National
+Security, New York, Columbia University Press, p. 79-113.
+
+
+FARBER H. S. et Gowa J., 1995, "Politics and Peace", International
+Security, vol. 20(2), p. 123-146.
+
+
+FARISS C., 2010, "The Strategic Substitution of United States Foreign
+Aid", Foreign Policy Analysis, vol. 6(2), p. 107-131.
+
+
+FARNHAM B., 1997, Roosevelt and the Munich Crisis, Princeton,
+Princeton University Press.
+
+
+FARRELL T. 2001, “Transnational Norms and Military Development:
+Constructing Ireland's Professional Army", European Journal of
+
+
+International Relations, vol. 7(1), p. 63-102
+
+
+FEARON J. D., 1994, "Domestic Political Audiences and the Escalation of
+International Disputes", American Political Science Review, vol. 88(3),
+p. 577-592.
+
+
+FEARON J. D., 1995, “Rationalist Explanations for War", International
+Organization, vol. 49(3), p. 379-414.
+
+
+FEARON J. D., 1997, “Signaling Foreign Policy Interests: Tying Hands
+versus Sinking Costs”, Journal of Conflict Resolution, vol. 41(1), p. 68-90.
+
+
+FEARON J. D., 1998, “Domestic Politics, Foreign Policy and Theories of
+International Relations", Annual Review of Political Science, vol. 1(1),
+p. 289-323.
+
+
+FEARON J. D., 2002, "Selection Effects and Deterrence", International
+Interactions, vol. 28(1), p. 5-29.
+
+
+FEAVER P. D. et GELPI C., 2004, Choosing Your Battles: American Civil-
+Military Relations and the Use of Force, Princeton, Princeton University
+Press.
+
+
+FENG H., 2007, Chinese Strategic Culture and Foreign Policy Decision-
+Making, Londres, Routledge.
+
+
+FERGUSON Y. H. et. MANSBACK R. W, 1996, "The Past as Prelude to the
+Future?", in Lapid Y. et Kratochwil F. (dirs), The Return of Culture and
+Identity in IR Theory, Boulder, Lynne Rienner, p. 21-44.
+
+
+FERRIS W., 1973, The Power Capabilities of Nation-States: International
+Conflict and War, Lexington, Lexington Books.
+
+
+FESTINGER L., 1957, A Theory of Cognitive Dissonance, Stanford,
+Stanford University Press.
+
+
+FINNEMORE M. et SIKKINK K., 1998, “International Norm Dynamics and
+Political Change”, International Organization, vol. 52(4), 887-917.
+
+
+FINNEMORE M., 1993, “International Organizations as Teachers of
+Norms , International Organization, vol. 47(4), p. 565-597.
+
+
+FINNEMORE M., 1996, National Interests in International Society, Ithaca,
+Cornell University Press.
+
+
+FIORETOS O., 2011, “Historical Institutionalism in International
+Relations", International Organization, vol. 65(2), p. 367-399
+
+
+FLANIK W., 2011, “Briging FPA Back Home: Cognition, Constructivism
+and Conceptual Metaphor , Foreign Policy Analysis, vol. 7(1),  . 1-24.
+FLEISHER R., BOND J. R., KRUTZ G. S. et HANNA S., 2000, "The Demise of
+the Two Presidencies”, American Politics Quarterly, vol. 28(1), p. 3-25.
+
+
+FLORINI A., 1996, “The Evolution of International Norms", International
+Studies Quarterly, vol. 40(3), p. 363-389.
+
+
+FLOWERS M., 1977, “A Laboratory Test of Some Implications of Janis's
+Groupthink Hypothesis", Journal of Personality and Social Psychology,
+vol. 35(12), p. 888-896.
+
+
+FLYNN G. (dir.), 1995, Remaking the Hexagon: The New France in the
+New Europe, Boulder, Westview Press.
+
+
+FOOT R. et WALTER A., 2012, “Global Norms and Major State
+Behaviour", European Journal of International Relations, à paraître.
+
+
+FORDHAM B. O. et SARVER C. C., 2001, “Militarized Interstate Disputes
+and United States Uses of Force", International Studies Quarterly,
+vol. 45(3), p. 455-466.
+
+
+FORDHAM B. O. et MCKEOWN T. J., 2003, "Selection and Influence Interest
+Groups and Congressional Voting on Trade Policy”, International
+Organization, vol. 57(3), p. 519-549.
+
+
+FORDHAM B. O. et ASAL V., 2007, “Billiard Ball or Snowflakes? Major
+Power Prestige and the International Diffusion of Institutions and
+Practices", International Studies Quarterly, vol. 51(1), p. 31-52.
+
+
+FORDHAM B. O., 1998, “Economic Interests, Party and Ideology in Early
+Cold War Era US Foreign Policy , International Organization, vol. 52(2),
+p. 359-396.
+
+
+FORDHAM B. O., 1998, “Partisanship, Macroeconomic Policy and US
+Uses of Force, 1949-1994", Journal of Conflict Resolution, vol. 42(4),
+p. 418-439.
+
+
+FORDHAM B. O., 1998, “The Politics of Threat Perception and the Use of
+Force: A Political Economy Model of US Uses of Force, 1949-1994",
+International Studies Quarterly, vol. 42(3), p. 567-590.
+
+
+FORDHAM B. O., 2002, “Another Look at Parties, Voters and the Use of
+Force Abroad", Journal of Conflict Resolution, vol. 46(4), p. 572-596.
+
+
+FORDHAM B. O., 2008, “Economic Interests and Public Support for
+American Global Activism”, International Organization, vol. 62(1), p. 163-
+182.
+
+
+FORDHAM B. O., 2010, “Trade and Asymmetric Alliances", Journal of
+Peace Research, vol. 47(6),  . 685-696.
+
+
+FORDHAM B. O., 2011, “Who Wants to Be a Major Power", Journal of
+Peace Research, vol. 48(5), p. 587-603.
+
+
+FORTMANN M., 2009, Les cycles de Mars: Révolutions militaires et
+édification étatiques de la Renaissance à nos jours, Paris, Economica.
+
+
+FOSTER D. et PALMER G., 2006, “President, Public Opinion and
+Diversionary Behavior , Foreign Policy Analysis, vol. 2(3), p. 269-287.
+FOSTER D. et KELLER J., 2010, “Rallies and the First Image", Conflict
+Management and Peace, vol. 27(5), p. 417-441.
+
+
+FOSTER D., 2006, "State Power, Linkage Mechanisms and Diversion
+against Nonrivals", Conflict Management and Peace Science, vol. 23(1),
+p. 1-21.
+
+
+FOYLE D. C., 1999, Counting the Public in: Presidents, Public Opinion
+and Foreign Policy, New York, Columbia University Press.
+
+
+FOYLE D. C., 2004, “Leading the Public to War? , International Journal
+of Public Opinion Research, vol. 16(3), p. 269-294.
+
+
+FRANKEL J., 1963, The Making of Foreign Policy: An Analysis of Decision
+Making, Londres, Oxford University Press.
+
+
+FRANKEL J., 1970, The National Interest, New York, Praeger.
+
+
+Freedman L., 1989, The Evolution of Nuclear Strategy, Basingstoke,
+Palgrave.
+
+
+FREEDMAN L., 1976, “Logic, Politics and Foreign Policy Processes: A
+Critique of the Bureaucratic Politics Model”, International Affairs,
+vol. 52(3), p. 434-449.
+
+
+FREUD S. et BULLITT C., 1932, Thomas Woodrow Wilson: A Psychological
+Study, New York, Houghton Mifflin.
+
+
+FRIEDEN J., 1988, “Sectoral Conflict and Foreign Economic Policy, 1914-
+1940", International Organization, vol. 42(1), p. 59-90.
+
+
+FRIEDMAN G., 2008, "Identifying the Place of Democratic Norms in
+Democratic Peace”, International Studies Review, vol. 10(3), p. 548-570.
+
+
+FURIA P. A. et Lucas R. E., 2006, “Determinants of Arab Public Opinion
+on Foreign Relations”, International Studies Quarterly, vol. 50(3), p. 585-
+605.
+
+
+FURTADO C. F., 1994, “Nationalism and Foreign Policy in Ukraine",
+Political Science Quarterly, vol. 109(1), p. 81-104.
+
+
+GALLHOFER I. N., SAIRS W. E. et VoOGT R., 1994, "From Individual
+Preference to Group Decisions in Foreign Policy Decision Making: The
+Dutch Council of Ministers", European Journal of Political Research,
+vol. 25(2), p. 151-170.
+
+
+GARRISON J., 1999, Games Advisors Play: Foreign Policy in the Nixon
+and Carter Administrations, College Station, Texas A&M University Press.
+
+
+GARRISON J., 2007, “Constructing the National Interest in US-China
+Policy Making", Foreign Policy Analysis, vol. 3(2), p. 105-126.
+
+
+GARTHOFF R. L., 1978, “On Estimating and Imputing Intentions",
+International Security, vol. 2(1), p. 22-32.
+
+
+GARTNER S., 2011, “On Behalf of a Grateful Nation: Conventional Images
+of Loss and Individual Opinion Change in War", International Studies
+Quarterly, vol. 55 (2), p. 545-561.
+
+
+GARTNER S. S. et SEGURA G. M., 1998, "War, Casualties and Public
+Opinion", The Journal of Conflict Resolution, vol. 42(3), p. 278-300.
+
+
+GARTZKE E. et WRIGHTON J. M., 1998, “Thinking Globally or Acting
+Locally?", Legislative Studies Quarterly, vol. 23(1), p. 33-55.
+
+
+GARTZKE E. et GLEDITSCH K. S., 2006, “Identity and Conflict: Ties That
+Bind and Differences That Divide , European Journal of International
+Relations, vol. 12(1), p. 53-87.
+
+
+GARTZKE E. et Li Q., 2003, "War, Peace and the Invisible Hand: Positive
+Political Externalities of Economic Globalization", International Studies
+Quarterly, vol. 47(4), p. 561-586.
+
+
+GARTZKE E., 1998, “Can't We All Just Get Along? Opportunity,
+Willingness and the Origins of the Democratic Peace”, American Journal of
+Political Science, vol. 42(1), p. 1-27.
+
+
+GARTZKE E., 1999, "War is in the Error Term", International
+Organization, vol. 53(3), p. 567-587.
+
+
+GARTZKE E., 2000,  Preferences and the Democratic Peace”,
+International Studies Quarterly, vol. 44(2), p. 191-212.
+
+
+GARTZKE E., 2007, “The Capitalist Peace”, American Journal of Political
+Science, vol. 51(1),  . 166-191.
+
+
+GARVER J., 2006, "China's Decision for War with India in 1962", in
+Johnston A. I. et Ross R. (dirs), New Direction in the Study of China's
+Foreign Policy, Stanford, Stanford University Press, p. 86-129.
+
+
+GASKARTH J., 2006, “Discourses and Ethics: The Social Construction of
+British Foreign Policy”, Foreign Policy Analysis, vol. 2(4), p. 325-341.
+
+
+GASKARTH J., 2011, "Where Would We Be without Rules", Review of
+International Studies, vol. 37(1),  . 393-415.
+
+
+Gaubatz K. T., 1999, Elections and War, Stanford, Stanford University
+Press.
+
+
+GAUBATZ K. T., 2000, “Political Competition and Foreign Policy Power
+Sharing", International Interaction, vol. 26(1),  . 1-19.
+
+
+GECELOVSKY P., 2009, “Constructing a Middle Power: Ideas and Canadian
+Foreign Policy”, Canadian Foreign Policy, vol. 15(1), p. 77-93.
+
+
+GEHRING T. et RUFFING E., 2008, “When Arguments Prevail Over Power”,
+Global Environmental Politics, vol. 8(2), p. 123-148.
+
+
+GEIS A., BROCK L. et MÜLLER H. (dirs), 2006, Democratic Wars: Looking
+at the Dark Side of Democratic Peace, Basingstoke, Palgrave Macmillan.
+GELB L. et BETTS R., 1979, The Irony of Vietnam: The System Worked,
+Washington, Brookings.
+
+
+GELLER D. S., 1990, “Nuclear Weapons, Deterrence and Crisis
+Escalation", Journal of Conflict Resolution, vol. 34(2), p. 291-310.
+
+
+GELPI C. et. GRIECO J. M, 2008, “Democracy, Interdependence and the
+Sources of the Liberal Peace", Journal of Peace Research, vol. 45(1), p. 17-
+
+
+36.
+
+
+GELPI C., 1997, "Democratic Diversions: Governmental Structure and the
+Externalization of Domestic Conflict", Journal of Conflict Resolution,
+vol. 41(2), p. 225-282.
+
+
+GELPI C., FEAVER P. D. et. REIFLER J, 2009, Paying the Human Costs of
+War, Princeton, Princeton University Press.
+
+
+GENTZHOW M. et SHAPIRO J., 2004, "Media, Education and Anti-
+Americanism in the Muslim World , Journal of Economic Perspectives,
+vol. 18(3), p. 117-133.
+
+
+GEORGE A. L. et GEORGE J. L., 1964, Woodrow Wilson and Colonel
+House: A Personality Study, New York, Dover.
+
+
+GEORGE A. L. et Stern E., 2006, “Harnessing Conflict in Foreign Policy
+Making", Presidential Studies Quarterly, vol. 32(3), p. 484-505.
+
+
+GEORGE A. L. et SIMMONS W., 1994, Limits of Coercive Diplomacy,
+Boulder, Westview Press.
+
+
+GEORGE A. L., 1969, “The Operational Code: A Neglected Approach to
+the Study of Political Leaders and Decision-Making”, International Studies
+Quarterly, vol. 13(2), p. 190-222.
+
+
+GEORGE A. L., 1972, “The Case for Multiple Advocacy in Making
+Foreign Policy”, American Political Science Review, vol. 66(4),  . 751-795.
+GEORGE A. L., 1980, Presidential Decision-making in Foreign Policy:
+The Effective Use of Information and Advice, Boulder, Westview.
+
+
+GEORGE A. L., 1994, “The Two Cultures of Academia and Policy-
+Making: Bridging the Gap , Political Psychology, vol. 15(1), p. 143-172.
+
+
+GERNER D. J., 1991, “Foreign Policy Analysis: Renaissance, Routine or
+Rubbish?", in Crotty W. (dir.), Political Science: Looking to the Future,
+Evanston, Northwestern University Press, p. 123-185.
+
+
+GERNER D. J., 1995, “The Evolution of the Study of Foreign Policy", in
+Neack L., Hey J. et Haney P. (dirs), Foreign Policy Analysis: Continuity
+and Change in Its Second Generation, Englewood Cliffs, Prentice Hall,
+p. 17-32.
+
+
+Geva N. et HANSON D. C., 1999, “Cultural Similarity, Foreign Policy
+Actions and Regime Perception”, Political Psychology, vol. 20(4), p. 803-
+827.
+
+
+GEVA N., MAYHAR J. et SKORICK M., 2000, "The Cognitive Calculus of
+Foreign Policy Decision Making: An Experimental Assessment", Journal of
+Conflict Resolution, vol. 44(4), p. 447-471.
+
+
+GIBLER D. M. et WOLFORD S., 2006, "Alliances, Then Democracy: An
+Examination of the Relationship between Regime Type and Alliance
+Formation", Journal of Conflict Resolution, vol. 50(1), p. 129-153.
+
+
+GIBSON J., 2006, “Do Strong Group Identities Fuel Intolerance? Evidence
+from the South African Case , Political Psychology, vol. 27(5), p. 665-705.
+
+
+GILBOA E., 2003, “Television News and US Foreign Policy: Constraints
+of Real-Time Coverage , International Journal of Press/Politics, vol. 8(4),
+p. 97-113.
+
+
+GILBOA E., 2005, “Global Television News and Foreign Policy Debating
+the CNN Effect”, International Studies Perspectives, vol. 6(3), p. 325-341.
+
+
+GINSBERG R., 2001, The European Union in World Politics, Boulder,
+Rowman and Littlefield.
+
+
+GIUMELLI F., 2011, Coercing, Constraining and Signaling. Explaining UN
+and EU Sanctions after the Cold War, Colchester, ECPR Press.
+
+
+GLAD B., 1983, “Black-and-White Thinking: Ronald Reagan's Approach
+to Foreign Policy”, Political Psychology, vol. 4(1), p. 33-76.
+
+
+GLAD B., 2002, "Why Tyrants Go Too Far: Malignant Narcissism and
+Absolute Power”, Political Psychology, vol. 23(1), p. 1-37.
+
+
+GOENNER C., 2010, “From Toys to Warships: Interdependence and the
+Effects of Disaggregated Trade on Militarized Disputes”, Journal of Peace
+Research, vol. 47(5), p. 547-559.
+
+
+GOENNER C., 2011, “Simultaneity between Trade and Conflict:
+Endogenous Instruments of Mass Descruction”, Conflict Management and
+Peace Science, vol. 28(5), p. 459-477.
+
+
+GOERTZ G. et DIEHL P., 1992, “Toward a Theory of International Norms:
+Some Conceptual and Measurement Issues , Journal of Conflict Resolution,
+vol. 36(4), p. 634-664.
+
+
+GOFF P. M., 2000, “Invisible Borders: Economic Liberalization and
+National Identity”, International Studies Quarterly, vol. 44(4), p. 533-562.
+GOLD H., 1978, “Foreign Policy Decision-Making and the Environment ,
+International Studies Quarterly, vol. 22(4), p. 569-586.
+
+
+GOLDGEIER J. M. et TETLOCK Р. Е., 2001, “Psychology and International
+Relations Theory”, Annual Review of Poltical Science, vol. 4(1), p. 67-92.
+GOLDGEIER J. M., 1999, Not Whether but When: The US Decision to
+Enlarge NATO, Washington, Brookings Institution Press.
+
+
+GOLDSMITH B., 2007, “A Liberal Peace in Asia”, Journal of Peace
+Research, vol. 44(1), p. 5-27.
+
+
+GOLDSMITH B., HORIUCHI Y. et INOGUCHI Т., 2005, “American Foreign
+Policy and Global Opinion , Journal of Conflict Resolution, vol. 49(3),
+p. 408-429.
+
+
+GOLDSTEIN J. et KEOHANE R. O., 1993, “Ideas and Foreign Policy: An
+Analytical Framework”, in Goldstein J. et Keohane R. O. (dirs), Ideas and
+Foreign Policy: Beliefs, Institutions and Political Change, Ithaca, Cornell
+University Press, p. 3-29.
+
+
+GOLDSTEIN J., 1988, “Ideas, Institutions and American Trade Policy",
+International Organization, vol. 42(1), p. 179-218.
+
+
+GOLDSTEIN J., 1996, "International Law and Domestic Institutions",
+International Organization, vol. 50(4), p. 541-564.
+
+
+GOLDSTEIN J., 2002, War and Gender, Cambridge, Cambridge University
+Press.
+
+
+GOLOB S. R., 2003, “Beyond the Policy Frontier: Canada, Mexico and the
+Ideological Origins of NAFTA”, World Politics, vol. 55(3),  . 361-398.
+
+
+GORDON P. H., 1993, A Certain Idea of France: French Security Policy
+and the Gaullists Legacy, Princeton, Princeton University Press.
+
+
+GOUREVITCH P., 1978, “The Second Image Reversed: The International
+Sources of Domestic Politics”, International Organization, vol. 32(4),
+p. 881-912.
+
+
+GOWA J. et MANSFIELD E., 2004, “Alliances, Imperfect Markets and
+Major-Power Trade”, International Organization, vol. 58(4), p. 775-805.
+
+
+GOWA J. et MANSFIELD E. D., 1993, "Power Politics and International
+Trade", American Political Science Review, vol. 87(2), p. 408-420.
+
+
+GOWA J., 1998, "Politics at the Water's Edge: Parties, Voters and the Use
+of Force Abroad”, International Organization, vol. 52(2), p. 307-324.
+
+
+GRAHAM P., KEENAN T. et DOWD A.-M., 2004, "A Call to Arms at the End
+of History", Discourse Society, vol. 15(2), p. 199-221.
+
+
+GRANATSEIN J., 1982, The Ottawa Men: The Civil Service Mandarins,
+1935-1957, Oxford, Oxford University Press.
+
+
+GRANT R., 1991, “The Sources of Gender Bias in International Relations
+Theory", in Grant R. et Newland K. (dirs), Gender and International
+Relations, Bloomington, Indiana University Press, p. 8-26.
+
+
+GRAY C. S. 1999, "Strategic Culture as Context: The First Generation of
+Theory Strikes Back”, Review of International Studies, vol. 25(1), p. 49-69.
+
+
+GRAY C. S., 1981, “National Style in Strategy: The American Example”,
+International Security, vol. 6(2), p. 21-47.
+
+
+GREEN D. P. et SHAPIRO I., 1994, Pathologies of Rational Choice Theory:
+A Critique of Applications in Political Science, New Haven, Yale
+University Press.
+
+
+GREENHILL B., 2010, “The Company You Keep: International
+Socialization and the Diffusion of Human Rights Norms”, International
+Studies Quarterly, vol. 54(1), p. 127-145.
+
+
+GREENSTEIN F. I., 1982, The Hidden-Hand Presidency: Eisenhower as
+Leader, New York, Basic Books.
+
+
+GREENSTEIN F. I., 2001, The Presidential Difference: Leadership Style
+From FDR to Clinton, Princeton, Princeton University Press.
+
+
+GRIECO J. M., 1990, Cooperation Among Nations: Europe, North
+America and Non-Tariff Barriers to Trade, Ithaca, Cornell University Press.
+
+
+GRIECO J. M., GELPI C., REIFLER J. et FEAVER P. D., 2011,  Let's Get a
+Second Opinion: International Institutions and American Public Support for
+War", International Studies Quarterly, vol. 55(2), p. 563-583.
+
+
+GRIES P. H., 2005, “Social Psychology and the Identity-Conflict Debate:
+Is a China Threat Ineviatable?", European Journal of International
+
+
+Relations, vol. 11(2), p. 235-265.
+
+
+GROELING T. et BAUM M., 2008, "Crossing the Water's Edge: Elite
+Rhetoric, Media Coverage and the Rally-Round-the-Flag Phenomenon”,
+Journal of Politics, vol. 70(4),  . 1-21.
+
+
+GROELING T. et BAUM M., 2009, “Journalists Incentives and Coverage of
+Elite Foreign Policy Evaluations”, Conflict Management and Peace
+Science, vol. 26(5), p. 437-470.
+
+
+GROSSER A., 2001, « Au-delà des événements », in Charillon F. (dir.), Les
+politiques étrangères : ruptures et continuités, Paris, La documentation
+française, p. 7-11.
+
+
+GROVE A. et CARTER N., 1999, “Not All Blarney Is Cast in Stone:
+International Cultural Conflict in Nothern Ireland , Political Psychology,
+vol. 20(4), p. 725-765.
+
+
+GROVE A., 2007, Political Leadership in Foreign Policy: Manipulating
+Support across Borders, New York, Palgrave Macmillan.
+
+
+Gurman H., 2011, The Dissent Papers: The Voices of Diplomats in the
+Cold War and Beyond, New York, Columbia University Press.
+
+
+GUROWITZ A., 1999, “Mobilizing International Norms: Domestic Actors,
+Immigrants and the Japanese State", World Politics, vol. 51(3), p. 413-445.
+
+
+GUTTIERI K., WALLACE M. D. et SUEDFELD P., 1995, "The Integrative
+Complexity of American Decision Makers in the Cuban Missile Crisis",
+Journal of Conflict Resolution, vol. 39(4), p. 595-621.
+
+
+GUZZINI S., 2004, “The Enduring Dilemmas of Realism in International
+Relations", European Journal of International Relations, vol. 10(4), p. 533-
+568.
+
+
+HAAS E. B., 1958, The Uniting of Europe, Stanford, Stanford University
+Press.
+
+
+HAAS P. M., 1989, “Do Regimes Matter? Epistemic Communities and
+Mediterranean Pollution , International Organization, vol. 43(3), p. 377-
+440.
+
+
+HAAS P. M., 1990, Saving the Mediterranean: The Politics of
+International Environmental Cooperation, New York, Columbia University
+Press.
+
+
+HAAS P. M., 1992, “Banning Chlorofluorocarbons: Epistemic Community
+Efforts to Protect Stratospheric Ozone", International Organization,
+vol. 46(1), p. 187-224.
+
+
+HAAS P. M., 1992, “Epistemic Communities and International Policy
+Coordination", International Organization, vol. 46(1), p. 1-35.
+
+
+HAAS P. M., 2002, “Constructing Environmental Conflicts from Resource
+Scarcity", Global Environmental Politics, vol. 2(1), p. 1-11.
+
+
+HAGAN J. D., EVERTS P. P., FUKUI H. et STEMPEL J. D. (dirs), 2001,
+"Foreign Policy by Coalition: Deadlock, Compromise and Anarchy",
+International Studies Review, vol. 3(2), p. 169-216.
+
+
+HAGAN J. D., 1994, “Domestic Political Systems and War Proneness",
+Mershon International Studies Review, vol. 38(2), p. 183-207.
+
+
+HAGAN J. D., 2001, “Does Decision Making Matter? Systemic
+Assumptions vs. Historical Reality in IR Theory , International Studies
+Review, vol. 3(2), p. 5-47.
+
+
+HAGGARD S., 1988, “The Institutional Foundations of Hegemony",
+International Organization, vol. 42(1), p. 91-119.
+
+
+HALL P. et TAYLOR R., 1996, "Political Science and the Three New
+Institutionalisms”, Political Studies, vol. 44(5), p. 936-957.
+
+
+HALL P., 1993, “Policy Paradigms, Social Learning and the State: The
+Case of Economic Policymaking in Britain", Comparative Politics,
+vol. 25(3), p. 275-296.
+
+
+HALL R., 1997, “Moral Authority as a Power Resource”, International
+Organization, vol. 51(4), p. 591-622.
+
+
+HALLIN D., 1986, The “Uncensored War": The Media and Vietnam,
+Berkeley, University of California Press.
+
+
+HALPERIN M., CLAPP P. A. et KANTER A., 2006, Bureaucratic Politics and
+Foreign Policy, Washington, Brookings Institution Press.
+
+
+HAMBY A., 1991, "An American Democrat: A Reevaluation of the
+Personality of Harry S. Truman”, Political Science Quarterly, vol. 106(1),
+p. 33-55.
+
+
+HAMILTON K. et LANGHORN R., 1995, The Practice of Diplomacy  Its
+Evolution, Theory and Administration, Londres et New York, Routledge.
+
+
+HANEY P. J. et VANDERBUSH W., 2005, The Cuban Embargo: The
+Domestic Politics of an American Foreign Policy, Pittsburgh, University of
+Pittsburgh Press.
+
+
+HANEY P. J., 1994, “Decision Making during International Crises: A
+Reexamination”, International Interactions, vol. 19(4), p. 177-191.
+
+
+HANEY P. J., 1997, Organizing for Foreign Policy Crises: Presidents,
+Advisors and the Management of Decisionmaking, Ann Arbor, University
+of Michigan Press.
+
+
+HANEY P. J., 2005, “Foreign-Policy Advising: Models and Mysteries from
+the Bush Administration , Presidential Studies Quarterly, vol. 34(2),
+p. 289-302.
+
+
+HANSEN L., 2006, Security as Practice: Discourse Analysis and the
+Bosnian War, Londres, Routledge.
+
+
+HARDY C. et PHILLIPS N., 1999, “No Joking Matter: Discursive Struggle in
+the Canadian Refugee System”, Organization Studies, vol. 20(1),  . 1-24.
+
+
+HARDY C., HARLEY B. et PHILLIPS N., 2004, "Discourse Analysis and
+Content Analysis: Two Solitudes?”, Qualitative Methods, vol. 2(1), p. 19-
+21.
+
+
+HARNISCH S., 2001, “Change and Continuity in Post-Unification German
+Foreign Policy”, German Politics, vol. 10(1), p. 35-60.
+
+
+HARNISCH S., 2011, “Role Theory: Operationalization of Key Concepts",
+in Harnisch S., Frank C. et Maull H. (dirs), Role Theory in International
+Relations: Approaches and Analyses, Londres, Routledge, p. 7-15.
+
+
+HARNISCH S., 2012, “Conceptualizing in the the Minefield: Role Theory
+and Foreign Policy Learning , Foreign Policy Analysis, vol. 8(1), p. 47-69.
+HARRISON K., 2007, “The Road not Taken: Climate Change Policy in
+Canada and the United States , Global Environmental Politics, vol. 7(4),
+p. 92-117.
+
+
+HARTLEY T. et RUSSETT B., 1992, “Public Opinion and the Common
+Defense", American Political Science Review, vol. 86(2),  . 361-87.
+
+
+HATTORI T., 2001, “Reconceptualizing Foreign Aid", Review of
+International Political Economy, vol. 8(4), p. 633-660.
+
+
+HAY C. et RosAMOND B., 2002, “Globalization, European Integration and
+the Discursive Construction of Economic Imperatives", Journal of
+European Public Policy, vol. 9(2), p. 147-167.
+
+
+HAYES J., 2009, "Identity and Securitization in the Democratic Peace",
+International Studies Quaterly, vol. 53(4), p. 977-999.
+
+
+HAYS J., EHRLICH S. D. et PEINHARDT C., 2005, “Government Spending
+and Public Support for Trade in the OECD”, International Organization,
+vol. 59(2), p. 473-494.
+
+
+HE K. et FENG H., 2012, “Why Is There No NATO in Asia? Revisited:
+Prospect Theory, Balance of Threat and US Alliance Strategies", European
+Journal of International Relations, vol. 18(2), p. 227-250.
+
+
+HE Y., 2007, “History, Chinese Nationalism and the Emerging Sino-
+Japanese Conflict”, Journal of Contemporary China, vol. 16(50),  . 1-24.
+HEGRE H., 2000, “Development and the Liberal Peace: What Does It Take
+to Be a Trading State?", Journal of Peace Research, vol. 37(1), p. 5-30.
+
+
+HEGRE H., 2004, “Size Asymmetry, Trade and Militarized Conflict ,
+Journal of Conflict Resolution, vol. 48(3), p. 403-429.
+
+
+HEGRE H., ONEAL J. et RUSSETT B., 2010, “Trade Does Promote Peace:
+New Simultaneous Estimates of the Reciprocal Effect of Trade and
+Conflict , Journal of Peace Research, vol. 46(6), p. 763-774.
+
+
+HEHIR A., 2006, “The Impact of Analogical Reasoning on US Foreign
+Policy towards Kosovo”, Journal of Peace Research, vol. 43(1), p. 67-81.
+
+
+HELDT B., 1999, “Domestic Politics, Absolute Deprivation and the Use of
+Armed Force in Interstate Territorial Disputes, 1950-1990", Journal of
+Conflict Resolution, vol. 43(4), p. 451-478.
+
+
+HELMS E., 2008, "East and West Kiss: Gender, Orientalism and
+Balkanism in Muslim-Majority Bosnia-Herzegovina , Slavic Review,
+vol. 67(1), p. 88-119.
+
+
+HEMMER C. M. et KATZENSTEIN P. J., 2002, "Why is There No NATO in
+Asia? Collective Identity, Regionalism and the Origins of Multilateralism",
+International Organization, vol. 56(3), p. 575-607.
+
+
+HENDERSON E. A., 1998, “The Democratic Peace through the Lens of
+Culture, 1920-1989”, International Studies Quarterly, vol. 42(3), p. 461-
+484.
+
+
+HENDRICKSON R., 2002, “Clinton's Military Strikes in 1998: Diversionary
+Uses of Force?”, Armed Forces and Society, vol. 28(2), p. 309-332.
+
+
+HENG Y.-K., 2002, “Unraveling the War on Terrorism: A Risk-
+Management Exercise in War Clothing?", Security Dialogue, vol. 33(2),
+p. 227-242.
+
+
+HENISZ W. et MANSFIELD E., 2006, "Votes and Vetoes: The Political
+Determinants of Commercial Openness , International Studies Quarterly,
+vol. 50(1), p. 189-211.
+
+
+HENRY L. A. et McIntosh SUNDSTROM L., 2007, “Russia and the Kyoto
+Protocol", Global Environmental Politics, vol. 7(4), p. 47-69.
+
+
+HENSEL P. R., 1994, “One Thing Leads to Another: Recurrent Militarized
+Disputes in Latin America, 1816-1986", Journal of Peace Research,
+vol. 31(3), p. 281-298.
+
+
+HENSEL P. R., 1999, “An Evolutionary Approach to the Study of Interstate
+Rivalry", Conflict Management and Peace Science, vol. 17(4), p. 175-206.
+
+
+HENSEL P. R., 2002, “The More Things Change... Recognizing and
+Responding to Trends in Armed Conflict”, Conflict Management and Peace
+Science, vol. 19(1), p. 27-52.
+
+
+HEREK G. M., JANIS I. L. et HUTH P., 1987, “Decision Making during
+International Crisis: Is Quality of Process Related to Outcome?", Journal of
+Conflict Resolution, vol. 31(2), p. 203-226.
+
+
+HEREK G. M., JANIS I. L. et HUTH P., 1989,  Quality of US Decision
+Making during the Cuban Missile Crisis , Journal of Conflict Resolution,
+vol. 33(4), p. 446-459.
+
+
+HERMAN E. et CHOMSKY N., 1988, Manufacturing Consent: The Political
+Economy of the Mass Media, New York, Panthon.
+
+
+HERMANN C. F., 1989, “On International Crises and National Security", in
+Kolodziej T. et Morgan P. (dirs), Security and Arms Control, New York,
+Greenwood Press.
+
+
+HERMANN C. F., 1990, “Changing Course: When Governments Choose to
+Redirect Foreign Policy , International Studies Quarterly, vol. 24(1), p. 3-
+21.
+
+
+HERMANN C. F., STEIN J. G., SUNDELIUS B. et WALKER S. G., 2001,
+"Resolve, Accept, or Avoid: Effects of Group Conflict on Foreign Policy
+Decisions", International Studies Review, vol. 3(2), p. 133-168.
+
+
+HERMANN C. F., EAST M. A., HERMANN M. G., SALMORE B. G. et SALMORE
+S. A., 1973, CREON: A Foreign Events Data Set, Los Angeles, Sage.
+
+
+HERMANN M. G., 1983, “Assessing Personality at a Distance: A Profile of
+Ronald Reagan”, Mershon Quarterly Report, vol. 7(6), p. 1-7.
+
+
+HERMANN M. G. et KEGLEY C. W. Jr., 1995, “Rethinking Democracy and
+International Peace , International Studies Quarterly, vol. 39(4), p. 511-
+533.
+
+
+HERMANN M. G. et Hermann C. F., 1989, “Who Makes Foreign Policy
+Decisions and How", International Studies Quarterly, vol. 33(4), p. 361-
+387.
+
+
+HERMANN M. G. et PRESTON T., 1994, “Presidents, Advisors and Foreign
+Policy", Political Psychology, vol. 15(1), p. 75-96.
+
+
+HERMANN M. G., 1974, “Effects of Leader Personality on National
+Foreign Policy Behavior , in Rosenau J. N. (dir.), Comparing Foreign
+Policies, Los Angeles, Sage, p. 201-224.
+
+
+HERMANN M. G., 1980, “Explaining Foreign Policy Behavior Using
+Personal Characteristics of Political Leaders", International Studies
+Quarterly, vol. 24(1), p. 7-46.
+
+
+HERMANN M. G., 1984, “Personality and Foreign Policy Decision
+Making", in Chan S. et Sylvan D. A. (dirs), Foreign Policy Decision
+Making: Perceptions, Cognition, and Artificial Intelligence, New York,
+Praeger, p. 53-80.
+
+
+HERMANN M. G., 2001, “How Decision Units Shape Foreign Policy: A
+Theoretical Framework”, International Studies Review, vol. 3(1), p. 47-82.
+
+
+HERMANN M. G., PRESTON T., KORANY B. et SHAW T. M., 2001, “Who
+Leads Matters: The Effects of Powerful Individuals", International Studies
+Review, vol. 3(2), p. 83-131.
+
+
+HERRMANN R. K. et TETLOCK P., 2001, “How Americans Think About
+Trade , International Studies Quarterly, vol. 45(2), p. 191-218.
+
+
+HERRMANN R. K., RISSE T. et BREWER M. B. (dirs), 2004, Transnational
+Identities: Becoming European in the EU, Lanham, Lowman and
+Littlefield.
+
+
+HERRMANN R. K., 1985, Perceptions and Behavior in Soviet Foreign
+Policy, Pittsburgh, University of Pittsburgh Press.
+
+
+HERRMANN R. K., TETLOCK P. et VISSER P., 1999, "Mass Public Decisions
+to Go to War", American Political Science Review, vol. 93(3), p. 553-573.
+
+
+HESS G. D. et ORPHANIDES A., 1995, "War Politics: An Economic,
+Rational- Voter Framework , The American Economic Review, vol. 85(5),
+p. 828-845.
+
+
+HETHERINGTON M. et NELSON M., 2003, “Anatomy of a Rally Effect:
+George W. Bush and the War on Terrorism , PS: Political Science and
+Politics, vol. 36(1), p. 37-42.
+
+
+HILL C., 1990, “European Foreign Policy: Power Bloc, Civilian Model
+or Flop?", in Rummel R. (dir.), The Evolution of an International Actor,
+Boulder, Westview, p. 31-55.
+
+
+Hill C et BSHOFF P. (dirs), 1994, Two worlds of International Relations,
+London, Routledge.
+
+
+HILL C., 2003, The Changing Politics of Foreign Policy, New York,
+Palgrave MacMillan.
+
+
+HILL K. A., 1993, “The Domestic Sources of Foreign Policymaking:
+Congressional Voting and American Mass Attitude toward South Africa",
+International Studies Quarterly, vol. 37(2),  . 195-214.
+
+
+HINCKLEY R. H., 1992, Peoples, Polls and Policymakers: American
+Public Opinion and National Security, New York, Lexington.
+
+
+HINNEBUSCH R. et QUILLIAM N., 2006, “Contrary Siblings: Syria, Jordan
+and the Iraq War", Cambridge Review of International Affairs, vol. 19(3),
+p. 513-528.
+
+
+HIRSCHMAN A. O., 1980, National Power and the Structure of Foreign
+Trade, Berkeley, University of California Press.
+
+
+HISCOX M. J., 1999, “The Magic Bullet? The RTAA, Institutional Reform
+and Trade Liberalization”, International Organization, vol. 53(4), p. 669-
+698.
+
+
+HISCOX M. J., 2002, “Commerce, Coalitions and Factor Mobility:
+Evidence from Congressional Votes on Trade Legislation", American
+Political Science Review, vol. 96(3), p. 593-608.
+
+
+HISCOX M. J., 2006, “Through a Glass and Darkly: Attitudes toward
+International Trade and the Curious Effects of Issue Framing ,
+International Organization, vol. 60(3), p. 755-780.
+
+
+HOAGLAND J., 25/09/1994, “Why Clinton Improvises”, Washington Post,
+p. c1.
+
+
+HOFFMAN D. E., 2009, The Dead Hand, New York, Doubleday.
+
+
+HOFFMANN S., 1977, "An American Social Science: International
+Relations", Daedalus, vol. 106(3),  . 41-60.
+
+
+HOFFMANN S., 1991, “French Dilemmas and Strategies in the New
+Europe", in Keohane R. O. et Hoffmann S. (dirs), After the Cold War,
+Cambridge, Harvard University Press, p. 124-147.
+
+
+HOFSTEDE G., 2001, Culture's Consequences: Comparing Values,
+Behaviors, Institutions and Organizations across Nations, Thousand Oaks,
+Sage.
+
+
+HOLLAND J., 2012, "Foreign Policy and Political Possibility", European
+Journal of International Relations, publication prochaine.
+
+
+HOLLAND L., 1999. “The US Decision to Launch Operation Desert Storm:
+A Bureaucratic Politics Analysis”, Armed Forces and Society, vol. 25(2),
+p. 219-242.
+
+
+HOLLIS M. et SMITH S., 1986, “Roles and Reasons in Foreign Policy
+Decision Making , British Journal of Political Science, vol. 16(2), p. 269-
+286.
+
+
+HOLSTI K. J., 1970, “National Role Conceptions in the Study of Foreign
+Policy", International Studies Quarterly, vol. 14(3), p. 233-309.
+
+
+HOLSTI K. J., 2011, “Exceptionalism in American Foreign Policy: Is It
+Exceptional?", European Journal of International Relations, vol. 17(3),
+p. 381-404.
+
+
+HOLSTI O. R. et GEORGE A., 1975, "The Effects of Stress on the
+Performance of Foreign Policy Makers", in Cotter C. P. (dir.), Political
+Science Annual, vol. 6(3), p. 255-319.
+
+
+HOLSTI O. R. et ROSENAU J., 1980, “Where You Stand Depend on When
+You Were Born?”, Public Opinion Quarterly, vol. 44(1), p. 1-22.
+
+
+HOLSTI O. R. et ROSENAU J., 1990, “The Structure of Foreign Policy
+Attitudes among American Leaders", Journal of Politics, vol. 52(1), p. 94-
+125.
+
+
+HOLSTI O. R., 1962, “The Belief System and National Images: A Case
+Study", Journal of Conflict Resolution, vol. 6(3), p. 244-252.
+
+
+HOLSTI O. R., 1970, “The ‘Operational Code' Approach to the Study of
+Political Leaders”, Canadian Journal of Political Science, vol. 3(1), p. 123-
+157.
+
+
+HOLSTI O. R., 1979, “Theories of Crisis Decision-Making”, in Lauren P.
+(dir.), Diplomacy: New Approaches in History, Theory and Policy, New
+York, Free Press, p. 99-136.
+
+
+HOLSTI O. R., 1992, “Public Opinion and Foreign Policy: Challenges to
+the Almond-Lippmann Consensus , International Studies Quarterly,
+vol. 36(4), p. 439-466.
+
+
+HOLSTI O. R., 1996, Public Opinion and American Foreign Policy, Ann
+Arbor, University of Michigan Press.
+
+
+HOLSTI O. R., 2002, “Public Opinion and Foreign Policy Analysis", in
+Harvey F. P. et Brecher M. (dirs), Millennial Reflections on International
+Studies, Ann Arbor, University of Michigan Press, p. 514-528.
+
+
+HONIG O., 2008, “The Whisper in the Leader's Ear: How Do Foreign
+Policy Advisors Perform Their Job?”, International Relations, vol. 22(2),
+p. 221-241.
+
+
+Ноок S., 2008, “Ideas and Change in US Foreign Aid: Inventing the
+Millennium Challenge Corporation", Foreign Policy Analysis, vol. 4(2),
+p. 147-167.
+
+
+HOOPER H., 2001, Manly States: Masculinities, International Relations
+and Gender Politics, New York, Columbia University Press.
+
+
+HOPF T., 1998, "The Promise of Constructivism in International Relations
+Theory", International Security, vol. 23(1), p. 171-200.
+
+
+HOPF T., 2004, "Discourse and Content Analysis: Some Fundamental
+Incompatibilities”, Qualitative Methods, vol. 1(1), p. 31-33.
+
+
+HOPFT T., 2002, Social Construction of International Politics: Identities
+& Foreign Policies: Moscow 1955 and 1999, Ithaca, Cornell University
+Press.
+
+
+HOPGOOD S., 1982, American Foreign Environmental Policy and the
+Power of the State, Oxford, Oxford University Press
+
+
+HOPKINS R. F., 1976, “The International Role of Domestic Bureaucracy",
+International Organization, vol. 30(3), p. 405-432.
+
+
+HOROWITZ M. C., SIMPSON E. M. et STAM A. C., 2011, “Domestic
+Institutions and Wartime Casualties", International Studies Quarterly,
+vol. 55(4), p. 909-936.
+
+
+HOUGHTON D. P., 2007, “Reinvigorating the Study of Foreign Policy
+Decision Making: Toward a Constructivist Approach", Foreign Policy
+Analysis, vol. 3(1), p. 24-45.
+
+
+HOUGHTON D. P., 2009, “The Role of Self-Fulfilling and Self-Negating
+Prophecies in International Relations", International Studies Review,
+vol. 11(3), p. 552-584.
+
+
+HOWARD N., 1971, Paradoxes on Rationality, Cambridge, MIT Press.
+
+
+HOWARD P., 2004, "Why Not Invade North Korea? Threats, Language
+Games and US Foreign Policy”, International Studies Quarterly, 48(4),
+p. 805-828.
+
+
+HOWELL W. et PeveHOUSE J., 2005, “Presidents, Congress and the Use of
+Force", International Organization, vol. 59(1), p. 209-232.
+
+
+HOWORTH J., 2004, “Discourse, Ideas and Epistemic Communities in
+European Security and Defense Policy", Western European Politics,
+vol. 27(1), p. 29-52.
+
+
+HUDSON V. (dir.), 1997, Culture and Foreign Policy, Boulder, Lynne
+Rienner.
+
+
+HUDSON V. et VORE C. S., 1995, “Foreign Policy Analysis Yesterday,
+Today and Tomorrow”, Mershon International Studies Review, vol. 39(2),
+p. 209-238.
+
+
+HUDSON V. et SAMPSON III M. W., 1999, "Culture Is More than a Static
+Residual", Political Psychology, vol. 20(4), p. 667-675.
+
+
+HUDSON V., 1990, “Birth Order of World Leaders: An Exploratory
+Analysis of Effects on Personality and Behavior , Political Psychology,
+vol. 11(3), p. 583-601.
+
+
+HUDSON V., 1997, Foreign Policy Analysis: Classic and Contemporary
+Theory, Landham, Rowman and Littlefield.
+
+
+HUDSON V., 1999, “Cultural Expectations of One's Own and Other
+Nations' Foreign Policy Action Templates", Political Psychology,
+vol. 20(4), p. 767-801.
+
+
+HUDSON V., 2005, “Foreign Policy Analysis: Actor-Specific Theory and
+the Ground of International Relations , Foreign Policy Analysis, vol. 1(1),
+p. 1-30.
+
+
+HUFBAUER G. et OEGG B., 2000, "Targeted Sanctions: A Policy
+Alternative , Law and Policy in International Business, vol. 32(1), p. 11-21.
+HUFBAUER G. et SCHOTT J., 1983, Economic Sanctions in Support of
+Foreign Policy Goals, Washington, Institute for International Economics.
+
+
+HUFBAUER G., SCHOTT J. et ELLIOTT К., 1990, Economic Sanctions
+Revisited: Supplemental Case Histories, Washington, Institute for
+International Economics.
+
+
+HUG S. et KÖNIG T., 2002, "In View of Ratification", International
+Organization, vol. 56(2), p. 447-476.
+
+
+HUNT M., 1987, Ideology and US Foreign Policy, New Haven, Yale
+University Press.
+
+
+HURWITZ J. et PEFFLEY M., 1987, “How Are Foreign Policy Attitudes
+Structured? A Hierarchical Model", American Political Science Review,
+vol. 81(4), p. 1099-1120.
+
+
+HURWITZ J. et PEFFLEY M., 1990, “Public Images of the Soviet Union: The
+Impact of Foreign Policy Attitudes , Journal of Politics, vol. 52(1), p. 3-28.
+
+
+HUTCHESON J., DOMKE D., BILLEAUDEAUX A. et GARLAND P., 2004, "US
+National Identity, Political Elites and a Patriotic Press Following September
+11", Political Communication, vol. 21(1), p. 27-50.
+
+
+HUTH P. K. et RUSSETT B., 1984, "What Makes Deterrence Work? Cases
+from 1900 to 1980”, World Politics, vol. 36(4), p. 496-526.
+
+
+HUTH P. K. et ALLEE T. L., 2002, “Domestic Political Accountability and
+the Escalation and Settlement of International Disputes", Journal of
+Conflict Resolution, vol. 46(6), p. 754-790.
+
+
+HYDE-PRICE A., 2004, “European Security, Strategic Culture and the Use
+of Force", European Security, vol. 13(4), p. 323-343.
+
+
+HYMANS J. E. C., 2006, The Psychology of Nuclear Proliferation:
+Identity, Emotions and Foreign Policy, Cambridge, Cambridge University
+Press.
+
+
+IIDA K., 1993, "When and How Do Domestic Constraints Matter? Two-
+Level Games with Uncertainty”, Journal of Conflict Resolution, vol. 37(3),
+p. 403-426.
+
+
+IKENBERRY G. J., 1988, “An Institutionalist Approach to American
+Foreign Economic Policy”, International Organization, vol. 42(1), p. 219-
+243.
+
+
+IKENBERRY G. J., 1992, “A World Economy Restored: Expert Consensus
+and the Anglo-American Postwar Settlement", International Organization,
+vol. 46(1), p. 289-321.
+
+
+IMBEAU L., 1989, Donor Aid The Determinants of Development
+Allocations to Third World Countries: A Comparative Analysis, New York,
+Peter Lang.
+
+
+INBODEN W., 2008, Religion and American Foreign Policy, 1945-1960:
+The Soul of Containment, Cambridge, Cambridge University Press.
+
+
+INGEBRITSEN C., 2006, Small States in International Relations,
+Washington, University of Washington Press.
+
+
+IRELAND M. J. et GARTNER S. S., 2001, “Time to Fight", Journal of
+Conflict Resolution, vol. 45(5), p. 547-568.
+
+
+ISERNIA P., Juhasz Z. et RATTINGER H. (dirs), 2002, “Foreign Policy and
+the Rational Public in Comparative Perspective”, Journal of Conflict
+
+
+Resolution, vol. 46(2), p. 201-224.
+
+
+IVIE R. et GINER O., 2007, “Hunting the Devil: Democracy's Rhetorical
+Impulse to War”, Presidential Studies Quarterly, vol. 37(4), p. 580-598.
+
+
+JACKSON P., 2004, “Forum introduction: Is the state a person?", Review of
+International Studies, vol. 30(2), p. 255-258.
+
+
+JACKSON R., 1993, “The Weight of Ideas in Decolonization , in Goldstein
+J. et Keohane R. O. (dirs.), Ideas and Foreign Policy, Ithaca, Cornell
+University Press, p. 111-137.
+
+
+JACKSON R., 2005, Writing the War on Terrorism: Language, Politics and
+Counter-Terrorism, Manchester, Manchester University Press.
+
+
+JACOBS L. R. et PAGE B. I., 2005, “Who Influences US Foreign Policy?",
+American Political Science Review, vol. 99(1),  . 107-123.
+
+
+JACOBS L. R. et SHAPIRO R.Y., 2000, Politicians Don't Pander, Chicago,
+University of Chicago Press.
+
+
+JAKOBSEN P. V., 1996, “National Interest, Humanitarianism or CNN: What
+Triggers UN Peace Enforcement after the Cold War?", Journal of Peace
+Research, vol. 33(2), p. 202-215.
+
+
+JAKOBSEN P. V., 2000, “Focus on the CNN Effect Misses the Point: The
+Real Media Impact on Conflict Management is Invisible and Indirect",
+Journal of Peace Research, vol. 37(2), p. 131-143.
+
+
+JAMES P. et HRISTOULAS A., 1994, “Domestic Politics and Foreign Policy",
+Journal of Politics, vol. 56(2), p. 327-348.
+
+
+James P. et ZHANG E., 2005, “Chinese Choices: A Poliheuristic Analysis
+of Foreign Policy Crises, 1950-1996 , Foreign Policy Analysis, vol. 1(1),
+p. 31-54.
+
+
+JAMES P. et O'NEAL J. R., 1991, "Influences of Domestic and International
+Politics on the President's Use of Force", Journal of Conflict Resolution,
+vol. 35(2), p. 307-332.
+
+
+JAMES P. et ONEAL J. R., 1991, "The Influence of Domestic and
+International Politics on the President's Use of Force", Journal of Conflict
+Resolution, vol. 35(2), p. 307-332.
+
+
+JANIS I. L. et Mann L., 1976, “Coping with Decisional Conflict: An
+Analysis of How Stress Affects Decision-Making Suggests Interventions to
+Improve the Process”, American Scientist, vol. 64(6), p. 657-667.
+
+
+JANIS I. L., 1972, Victims of Groupthink: A Psychological Study of Policy
+Decisions and Fiascoes, Boston, Houghton Mifflin.
+
+
+JEANDESBOZ J. 2007 “Labeling the Neighborhood: Towards a Genesis of
+the European Neighborhood Policy , Journal of International Relations and
+Development, vol. 10(4), p. 387-416.
+
+
+JEFFORDS S., 1993, Hard Bodies: Hollywood Masculinity in the Reagan
+Era, Chapel Hill, Rutgers University Press,
+
+
+JENKINS-SMITH H. C., MITCHELL N. J. et HERRON K. G., 2004, “Foreign and
+Domestic Policy Belief Structures in the US and British Publics”, Journal
+of Conflict Resolution, vol. 48(3), p. 287-309.
+
+
+JENSEN S. P. et PALDAM M., 2006, "Can the New Aid-Growth Models be
+Replicated?", Public Choice, vol. 127(1), p. 147-175.
+
+
+JENTLESON B. et RATNER E., 2011, “Bridging the Beltway-Ivory Tower
+Gap", International Studies Review, vol. 13(1),  . 6-11.
+
+
+JENTLESON B. et BRITTON R. L., 1998, “Still Pretty Prudent: Post-Cold War
+American Public Opinion on the Use of Military Force”, Journal of Conflict
+Resolution, vol. 42(4), p. 395-417.
+
+
+JENTLESON B., 1992, “The Pretty Prudent Public: Post Post-Vietnam
+American Opinion on the Use of Military Force”, International Studies
+Quarterly, vol. 36(1), p. 49-74.
+
+
+JEONG G.-H., 2009, “Constituent Influence on International Trade Policy
+in the United States, 1987-2006", International Studies Quarterly,
+vol. 53(2), p. 519-540.
+
+
+JERVIS R., 1976, Perception and Misperception in International Politics,
+Princeton, Princeton University Press.
+
+
+JERVIS R., 1978, “Cooperation Under the Security Dilemma", World
+Politics, vol. 30(2), p. 167-214.
+
+
+JERVIS R., 1988, “War and Misperception", Journal of Interdisciplinary
+History, vol. 18(4), p. 675-700.
+
+
+JERVIS R., 1989, “Rational Deterrence: Theory and Evidences", World
+Politics, vol. 41(2), p. 183-207.
+
+
+JERVIS R., 1989, The Meaning of the Nuclear Revolution: Statecraft and
+the Prospect of Armageddon, Ithaca, Cornell University Press.
+
+
+JERVIS R., 1994, "Political Implications of Loss Aversion”, in Farnham B.
+(dir.), Avoiding Losses/Taking Risks, Ann Arbor, University of Michigan
+Press, p. 23-40.
+
+
+JERVIS R., 1997, System Effect: Complexity in Political and Social Life,
+Princeton, Princeton University Press.
+
+
+JOACHIM J., 2003, “Framing Issues and Seizing Opportunities: The UN,
+NGOs and Women's Rights”, International Studies Quarterly, vol. 47(2),
+p. 247-274.
+
+
+JOHNSON L., 2005, “Accountability and America's Secret Foreign Policy",
+Foreign Policy Analysis, vol. 1(1), p. 99-120.
+
+
+JOHNSON R. T., 1974, Managing the White House: An Intimate Study of
+the Presidency, New York, Harper and Row.
+
+
+JOHNSTON A. I., 1995, Cultural Realism: Strategic Culture and Grand
+Strategy in Chinese History, Princeton, Princeton University Press.
+
+
+JOHNSTON A. I., 1999, “Strategic Cultures Revisited. Reply to Colin
+Gray", Review of International Studies, vol. 25(3), p. 519-523.
+
+
+JOHNSTON A. I., 2006, “The Correlates of Beijing Public Opinion toward
+the United States, 1998-2004", in Johnson A. et Ross R. (dirs), New
+Direction in the Study of China's Foreign Policy, Stanford, Stanford
+University Press, p. 340-377.
+
+
+JONES B., 1999, “Bounded Rationality , Annual Review of Political
+Science, vol. 2(1), p. 297-321.
+
+
+JONES C., 1984, An Introduction to the Study of Public Policy, Belmont,
+Wadsworth.
+
+
+JONNSON C. et WESTERLUND U., 1982, “Role Theory and Foreign Policy
+Analysis", in Jonnson C. (dir.), Cognitive Dynamics and International
+Politics, Londres, Frances Pinter, p. 122-157.
+
+
+JORDAN D. et PAGE B., 1992, “Shaping Foreign Policy Opinions: The Role
+of TV News", Journal of Conflict Resolution, vol. 36(2), p. 227-241.
+
+
+JORDAN R., MALINIAK D., OAKES A., PETERSON S. et TIERNEY M. (dirs),
+2009, “One Discipline or Many?”, Reves Center for International Studies,
+College of William and Mary, vol. 1(1).
+
+
+KAARBO J. et GRUENFELD D., 1998, “The Social Psychology of Inter- and
+Intragroup Conflict in Governmental Politics", Mershon International
+Studies Review, vol. 42(2), p. 226-233.
+
+
+KAARBO J. et HERMANN M. G., 1998, “Leadership Styles of Prime
+Ministers , Leadership Quarterly, vol. 9(3), p. 243-263.
+
+
+KAARBO J. et BEASLEY R. K., 2008, “Taking It to the Extreme: The Effect
+of Coalition Cabinets on Foreign Policy”, Foreign Policy Analysis,
+vol. 4(1), p. 67-81.
+
+
+KAARBO J., 1996, “Power and Influence in Foreign Policy Decision
+Making", International Studies Quarterly, vol. 40(4), p. 501-530.
+
+
+KAARBO J., 1997, “Prime Minister Leadership Styles in Foreign Policy
+Decision-Making , Political Psychology, vol. 18(3), p. 553-581.
+
+
+KAARBO J., 1998, “Power Politics in Foreign Policy: The Influence of
+Bureaucratic Minorities”, European Journal of International Relations,
+vol. 4(1), p. 67-97.
+
+
+KAARBO J., 2001, “The Domestic Politics of International Negotiations",
+International Interaction, vol. 27(3), p. 169-205.
+
+
+KAARBO J., 2003, “Foreign Policy Analysis in the Twenty-First Century:
+Back to Comparison, Forward to Identity and Ideas , International Studies
+Review, vol. 5(2),  . 156-163.
+
+
+KAARBO J., 2008, “Coalition Cabinet Decision Making: Institutional and
+Psychological Factors”, International Studies Review, vol. 10(1),  . 57-86.
+KAEMPFER W. H. et LOWENBERG A. D., 1988, “The Theory of International
+Economic Sanctions”, American Economic Review, vol. 78(4), p. 786-793.
+KAEMPFER W. H. et LoWENBERG A. D., 1999, "Unilateral Versus
+Multilateral International Sanctions", International Studies Quarterly,
+vol. 43(1), p. 37-58.
+
+
+KAGAN R., 2002, "Power and Weakness", Policy Review, vol. 113(1),
+
+
+p. 30-45.
+
+
+KAHLER M., 1998, "Rationality in International Relations , International
+Organization, vol. 52(4), p. 919-941.
+
+
+KAHN H., 1966, On Thermonuclear War, Princeton, Princeton University
+Press.
+
+
+KAHNEMAN D. et TVERSKY A., 1979, “Prospect Theory: An Analysis of
+Decision under Risk”, Econometrica, vol. 47(2), p. 263-291.
+
+
+KAHNEMAN D. et TVERSKY A., 1984, "Choices, Values and Frames ,
+American Psychologist, vol. 39(4), p. 341-350.
+
+
+KAISER D., 1983, “Germany and the Origins of the First World War",
+Journal of Modern History, vol. 55(5), p. 442-474.
+
+
+KALBHENN A., 2011, "Liberal Peace and Shared Resources
+A Fair-
+Weather Phenomenon?”, Journal of Peace Research, vol. 48(6), p. 715-735.
+KALTENTHALER K. C., GENLLENY R. D. et CECCOLI S. J., 2004, “Explaining
+Citizen Support of Trade Liberalization”, International Studies Quarterly,
+vol. 48(6), p. 829-851.
+
+
+KAPLAN F., 1983, The Wizards of Armageddon, New York, Tochstone.
+KAPLOWITZ D. R., 1998, Anatomy of a Failed Embargo: US Sanctions
+against Cuba, Boulder, Lynne Rienner.
+
+
+KARAWAN I. A., 1994, “Sadat and the Egyptian-Israeli Peace Revisited",
+International Journal of Middle East Studies, vol. 26(2), p. 249-266.
+
+
+KAROL D. et MIGUEL E., 2007, “The Electoral Cost of War: Iraq
+Casualties and the 2004 US Presidential Election , Journal of Politics,
+vol. 69(3), 633-648.
+
+
+KASSOP N., 2003, "The War Power and Its Limits", Presidential Studies
+Quarterly, vol. 33(3), p. 509-530.
+
+
+KATADA S. N. et MCKEOWN T. J., 1998, "Aid Politics and Electoral
+Politics: Japan, 1970-1992”, International Studies Quarterly, vol. 42(3),
+p. 591-600.
+
+
+KATZENSTEIN P. et KEOHANE R.
+Americanism", in Keohane R. O.
+
+
+O., 2007, "Varieties of Anti-
+et Katzenstein P. (dirs), Anti-
+
+
+Americanisms in World Politics, Ithaca, Cornell University, p. 9-37.
+
+
+KATZENSTEIN P., 1977, “Domestic Structures and Strategies of Foreign
+Economic Policy”, International Organization, vol. 31(4), p. 879-920.
+
+
+KATZENSTEIN P., 1977, "International Relations and Domestic Structures",
+International Organization, vol. 31(4), p. 1-45.
+
+
+KATZENSTEIN P., 1996, “Introduction: Alternative Perspectives on National
+Security", in Katzenstein P. (dir.), The Culture of National Security, New
+York, Columbia University Press, p. 1-32.
+
+
+KATZENSTEIN P., 1996, Cultural Norms and National Security: Police and
+Military in Postwar Japan, Ithaca, Cornell University Press.
+
+
+KATZENSTEIN P., 1997, “Change, Myth and the Reunification of China”, in
+Hudson V. (dir.), Culture and Foreign Policy, Boulder, Reinner, p. 45-72.
+KATZENSTEIN P., 2002, “Same War, Different Views: Germany, Japan and
+the War on Terrorism”, Current History, vol. 101(659), p. 427-435.
+
+
+KECK M. et SIKKINK K., 1998, Activists Beyond Borders: Transnational
+Advocacy Networks in International Politics, Ithaca, Cornell University
+Press.
+
+
+KEGLEY C. W. et HERMANN M. G., 1996, "How Democracies Use
+Intervention", Journal of Peace Research, vol. 33(3), p. 309-322.
+
+
+KELLER J. W. et Yang Y. E., 2009, “Empathy and Strategic Interaction in
+Crises: A Poliheuristic Perspective", Foreign Policy Analysis, vol. 5(2),
+p. 169-189.
+
+
+KELLER J. W., 2005, “Constraint Challengers, Constraint Respecters and
+Crisis Decision Making in Democracies”, Political Psychology, vol. 26(6),
+p. 836-866.
+
+
+KELLER J. W., 2005, “Leadership Style, Regime Type and Foreign Policy
+Crisis Behavior”, International Studies Quarterly, vol. 49(2), p. 205-231.
+
+
+KELLEY J., 2004, "International Actors on the Domestic Scene:
+Membership Conditionality and Socialization by International Institutions",
+International Organization, vol. 58(3), p. 425-457.
+
+
+KENNEDY P., 1987, The Rise and Fall of Great Powers, New York,
+Vintage Books.
+
+
+KENNEDY R., 1969, Thirteen days: A Memoir of the Cuban Missile Crisis,
+New York, W. W. Norton.
+
+
+KEOHANE R. O. et NYE J., 1977, Power and Interdependence, Boston,
+Little Brown.
+
+
+KEOHANE R. O., 1989, “International Relations Theory: Contributions of a
+Feminist Standpoint", Millennium Journal of International Studies,
+vol. 18(2), p. 245-253.
+
+
+KESGIN B. et KAARBO K., 2010, "When and How Parliaments Influence
+Foreign Policy: The Case of Turkey's Iraq Decision”, International Studies
+Perspectives, vol. 11(1), p. 19-36.
+
+
+KESHK O., POLLINS B. et REUVENY R., 2004, "Trade Still Follows the
+Flag", Journal of Politics, vol. 66(4), p. 1155-1179.
+
+
+KESSLER M.-С. 2002,  La politique étrangère comme politique
+publique », in Charillon F. (dir.), Politique étrangère : nouveaux regards,
+Paris, Presses de Sciences Po., p. 167-191.
+
+
+KHONG Y. F., 1992, Analogies at War: Korea, Munich, Dien Bien Phu and
+the Vietnam Decisions of 1965, Princeton. Princeton University Press.
+
+
+KIER E., 1997, Imagining War: French and British Military Doctrine
+between the Wars, Princeton, Princeton University Press.
+
+
+KIM W. et BUENO DE MESQUITA B., 1995, “How Perceptions Influence the
+Risk of War", International Studies Quarterly, vol. 39(1), p. 51-65.
+
+
+KIM H. M. et ROUSSEAU D., 2005, “The Classical Liberals Were Half
+Right (or Half Wrong): New Tests of the Liberal Peace, 1960-1988",
+Journal of Peace Research, vol. 42(5), p. 523-543.
+
+
+KINDLEBERGER C., 1981, “Dominance and Leadership in the International
+Economy", International Studies Quarterly, vol. 25(2), p. 242-254.
+
+
+KING C. et MELVIN N. J., 1999, "Diaspora Politics: Ethnic Linkages,
+Foreign Policy and Security in Eurasia , International Security, vol. 24(3),
+p. 108-138.
+
+
+KINGDON J. W., 1984, Agendas, Alternatives and Public Policies, Boston,
+Little Brown.
+
+
+KINNE B., 2005, “Decision Making in Autocratic Regime: A Poliheuristic
+Perspective", International Studies Perspectives, vol. 6(1), p. 114-128.
+
+
+KINSELLA H. M., 2005, “Securing the Civilian", in Barnatt M. et Duvall
+R. (dirs), Power in Global Governance, Cambridge, Cambridge University
+Press, p. 249-272.
+
+
+KIRK J., 2008, "Indian-Americans and the US
+Agreement", Foreign Policy Analysis, vol. 4(3), p. 275-300.
+
+
+India Nuclear
+
+
+KIRSHNER J., 1995, Currency and Coercion: The Political Economy of
+International Monetary Power, Ithaca, Cornell University Press.
+
+
+KIRSHNER J., 2012, “The Tragedy of Offensive Realism: Classical
+Realism and the Rise of China”, European Journal of International
+Relations, vol. 18(1), p. 53-75.
+
+
+KISANGANI E. F. et PICKERING J., 2011, “Democratic Accountability and
+Diversionary Force", Journal of Conflict Resolution, vol. 55(6), p. 1021-
+1046.
+
+
+KLEINBERG K. B. et FORDHAM В. О., 2010, "Trade and Foreign Policy
+Attitudes", Journal of Conflict Resolution, vol. 54(5), p. 687-714.
+
+
+KLOTZ A., 1995, Norms in International Relations: The Struggle against
+Apartheid, Ithaca, Cornell Univesity Press.
+
+
+KNECHT T. et WEATHERFORD M. S., 2006 “Public Opinion and Foreign
+Policy: The Stages of Presidential Decision Making”, International Studies
+Quarterly, vol. 50(3), p. 705-727.
+
+
+KNOPF J., 1998, “How Rational is ‘The Rational Public'?", Journal of
+Conflict Resolution, vol. 42(5), p. 544-571.
+
+
+KOCH M. et Gartner S. S., 2005, "Casualties and Constituencies", Journal
+of Conflict Resolution, vol. 49(6), p. 874-894.
+
+
+KOEHN P. H., 2008, “Underneath Kyoto: Emerging Subnational
+Government Initiatives and Incipient Issue-Bundling Opportunities in China
+and the United States”, Global Environmental Politics, vol. 8(1), p. 53-77.
+
+
+KOGA J., 2011, "Where Do Third Parties Intervene?", International
+Studies Quarterly, vol. 55(4), p. 1143-1166.
+
+
+Кон Н. Н., 1988, "Why the President (Almost) Always Wins in Foreign
+Affairs: Lessons of the Iran-Contra Affairs”, Yale Law Journal, vol. 97(7),
+p. 1255-1305.
+
+
+KÖNIG T. et SLAPIN J., 2004,  Bringing Parliaments Back In", Journal of
+Theoretical Politics, vol. 16(3), p. 357-393.
+
+
+KORNPROBST M., POULIOT V., SHAH N. et ZAIOTTI R. (dirs), 2008,
+Metaphors of Globalization: Mirrors, Magicians, and Mutinies, New York,
+Palgrave Macmillan.
+
+
+KOTZ N., 1988, Nick Wild Blue Yonder: Money, Politics and the B-1
+Bomber, New York, Pantheon.
+
+
+KOWERT P. et LEGRO J., 1996, “Norms, Identity, and Their Limits", in
+Katzenstein P. (dir.), The Culture of National Security, New York, Columbia
+University Press, p. 451-497.
+
+
+KOWERT P., 2002, Groupthink or Deadlock: When Do Leaders Learn from
+Their Advisors?, Albany, State University of New York Press.
+
+
+KRASNER S., 1971, “Are Bureaucracies Important? (Or Allison
+Wonderland)", Foreign Policy, vol. 7(3), p. 159-179.
+
+
+KRASNER S., 1977, “US Commercial and Monetary Policy: Unraveling
+the Paradox of External Strength and Internal Weakness”, International
+Organization, vol. 31(4), p. 635-671.
+
+
+KRASNER S., 1978, Defending the National Interest: Raw Materials
+Investments and US Foreign Policy, Princeton, Princeton University Press.
+KRASNER S., 1984, "Approaches to the State: Alternative Conceptions and
+Historical Dynamics”, Comparative Politics, vol., 16(2), p. 223-246.
+
+
+KRASNER S., 1993, “Westphalia and All That”, in Goldstein J. et Keohane
+R. O. (dirs), Ideas and Foreign Policy, Ithaca, Cornell University Press,
+p. 235-264.
+
+
+KRASTNER S., 2007, “When Do Conflicting Political Relations Affect
+International Trade”, Journal of Conflict Resolution, vol. 51(4), p. 664-688.
+
+
+KRAUSE K., 1999, "Cross-Cultural Dimensions of Multilateral Non-
+Proliferation and Arms Control Dialogues , in Krause K. (dir.), Culture and
+Security, Londres, Frank Cass, p. 1-21.
+
+
+KREBS R. R. et JACKSON P. T., 2007, “Twisting Tongues and Twisting
+Arms: The Power of Political Rhetoric , European Journal of International
+Relations, vol. 13(1), p. 35-66.
+
+
+Kreps S., 2010, “Elite Consensus as a Determinant of Alliance
+Cohesion", Foreign Policy Analysis, vol. 6(3), p. 191-215.
+
+
+KROTZ U. et SPERLING J., 2011, “Discord and Collaboration in Franco-
+American Relations", in Harnisch S., Frank C. et Maull H. (dirs), Role
+Theory in International Relations: Approaches and Analyses, Abingdon,
+Routledge, p. 213-232.
+
+
+KROTZ U., 2010, "Regularized Intergovernmentalism: France-Germany
+and Beyond (1963-2009)”, Foreign Policy Analysis, vol. 6(2),  . 147-185.
+
+
+KRUSTEV V. L., 2010, “Strategic Demands, Credible Threats, and
+Economic Coercion Outcomes”, International Studies Quarterly, vol. 54(1),
+p. 147-174.
+
+
+KUBÁLKOVÁ V., 2001, “Foreign Policy, International Politics and
+Constructivism", in Kubálková V. (dir.), Foreign Policy in a Constructed
+World, Armonk, M. E. Sharpe,  . 15-37.
+
+
+KULL S. et RAMSAY C., 2000, “Elite Misperceptions of US Public Opinion
+and Foreign Policy", in Nacos B. L., Shapiro R. Y. et Isernia P., (dirs),
+Decision-making in a Glass House, Lanham, Rowman and Littlefield.
+
+
+KULL S. et DESTLER I. M., 1999, Misreading the Public: The Myth of the
+New Isolationism, Washington, Brookings Institutions Press.
+
+
+KULL S., 2002, "Public Attitudes toward Multilateralism", in Patrick S. et
+Forman S. (dirs), Multilateralism and US Foreign Policy, Boulder, Lynne
+Rienner.
+
+
+KUPCHAN C. A. et TRUBOWITZ P. L., 2007, "Dead Center: The Demise of
+Liberal Internationalism in the United States , International Security,
+vol. 32(2), p. 7-44.
+
+
+KUPCHAN C. A., 2010, How Enemies Become Friends: The Sources of
+Stable Peace, Princeton, Princeton University Press.
+
+
+KUPERAMAN R., 2001, “Rules of Military Retaliation and Their Practice
+by the State of Israel", International Interactions, vol. 27(3), p. 297-326.
+
+
+KUUSISTO R., 1998, "Framing the Wars in the Gulf and in Bosnia: The
+Rhetorical Definitions of the Western Power Leaders in Action", Journal of
+Peace Research, vol. 35(5), p. 603-620.
+
+
+KUZIEMKO I. et WERKER É., 2006, “How Much is a Seat on the Security
+Council Worth?”, Journal of Political Economy, vol. 114(5), p. 905-930.
+KYDD A., 2003, “Which Side are You On? Bias, Credibility and
+Mediation", American Journal of Political Science, vol. 47(4),  . 597-611.
+
+
+LA BALME N. 2002, « Opinion publique et politique étrnagère », in
+Charillon F. (dir.), Politique étrangère : nouveaux regards, Paris, Presses de
+Sciences Po., p. 193-211
+
+
+LADEWIG J., 2006, "Domestic Influences on International Trade Policy",
+International Organization, vol. 60(1), p. 69-103.
+
+
+LAFFEY M. et WELDES J., 2004, “Methodological Reflections on Discourse
+Analysis", Qualitative Methods, vol. 1(1), p. 28-30.
+
+
+LAHIRI S. et RAIMONDOS-MØLLER P., 2000, “Lobbying by Ethnic Groups
+and Aid Allocation”, Economic Journal, vol. 110(462), p. C62-C79.
+
+
+LAI B. et MOREY D., 2006, “Impact of Regime Type of the Influence of
+US Foreign Aid , Foreign Policy Analysis, vol. 2(4), p. 385-404.
+
+
+LAI B. et REITER D., 2000, “Democracy, Political Similarity and
+International Alliances, 1816-1992", Journal of Conflict Resolution,
+vol. 44(2), p. 203-227.
+
+
+LAI B. et REITER D., 2005, “Rally ‘Round the Union Jack? Public Opinion
+and the Use of Force in the United Kingdom, 1948-2001”, International
+Studies Quarterly, vol. 29(2), p. 255-272.
+
+
+LAI B., 2003, “Examining the Goals of US Foreign Assistance in the
+Post-Cold War Period, 1991-1996 , Journal of Peace Research, vol. 40(1),
+p. 103-128.
+
+
+LAKE D. A. et POWELL R. (dir.), 1999, Strategic Choice and International
+Relations, Princeton, Princeton University Press.
+
+
+LAKE D. A., 1992, “Powerful Pacifists: Democratic States and War",
+American Political Science Review, vol. 86(1), p. 24-37.
+
+
+LAKE D. A., 1998, "The State and American Trade Strategy in the Pre-
+Hegemonic Era”, International Organization, vol. 42(1), p. 33-58.
+
+
+LAKE D. A., 2009, “Open Economy Politics: A Critical Review",
+International Organization, vol. 4(3), p. 219-244.
+
+
+LAKE D. A., 2011, “Why Isms Are Evil: Theory, Epistemology and
+Academic Sects as Impediments to Understanding and Progress",
+International Studies Quarterly, vol. 55(2), p. 465-480.
+
+
+LAM S. L., 1990, “Economic Sanctions and the Success of Foreign Policy
+Goals: A Critical Evaluation , Japan and the World Economy, vol. 2(3),
+p. 239-248.
+
+
+LAMBORN A. C., 1991, The Price of Power: Risk and Foreign Policy in
+Britain, France and Germany, Boston, Unwin Hyman.
+
+
+LAMPTON M. (dir.), 2001, The Making of Chinese Foreign and Security
+Policy in the Era of Reform, Berkeley, University of California Press.
+
+
+LAPID Y. et KRATOCHWIL F. (dirs), 1996, The Return of Culture and
+Identity in International Relations Theory, Boulder, Lynne Rienner.
+
+
+LARSEN H., 1997, Foreign Policy and Discourse Analysis: France,
+Britain and Europe, Londres, Routledge.
+
+
+LARSEN H., 2009, “A Distinct FPA for Europe?", European Journal of
+International Relations, vol. 15(3), p. 537-566.
+
+
+LARSÉN M. F, 2007, "Trade Negotiations between the EU and South
+Africa: A Three-Level Game", Journal of Common Market Studies,
+vol. 45(4), p. 857-881.
+
+
+LARSON D. W. et SHEVCHENKO A., 2003, "Shortcut to Greatness",
+International Organization, vol. 57(1), p. 77-109.
+
+
+LARSON D. W., 1985, Origins of Containment: A Psychological
+Explanation, Princeton, Princeton University Press.
+
+
+LARSON D. W., 1994, “The Role of Belief Systems and Schemas in
+Foreign Policy Decision-Making", Political Psychology, vol. 15(1), p. 17-
+33.
+
+
+LARSON D. W., 1997, “Trust and Missed Opportunities in International
+Relations", Political Psychology, vol. 18(3),  . 701-734.
+
+
+LARSON E. V., 1996, Casualties and Consensus: The Historical Role of
+Casualties in Domestic Support for US Military Operations, Santa Monica,
+Rand.
+
+
+LARSON H., 1997, Foreign Policy and Discourse Analysis, New York,
+Routledge.
+
+
+LAUCELLA M., 2004, “A Cognitive-Psychodynamic Perspective to
+Understanding Secretary of State Cyrus Vance's Worldview”, Presidential
+
+
+Studies Quarterly, vol. 34(2), p. 227-271.
+
+
+LAURANCE E. J., 1990, “Events Data and Policy Analysis", Policy
+Sciences, vol. 23(1), p. 111-132.
+
+
+LAYNE C., 1994, “Kant or Cant: The Myth of the Democratic Peace",
+International Security, vol. 19(2),  . 5-49.
+
+
+LAYNE C., 2002, "The Poster Child for Offensive Realism: America as a
+Global Hegemon”, Security Studies, vol. 12(2), p. 120-164.
+
+
+LAYNE C., 2008, "Security Studies and the Use of History: Neville
+Chamberlain's Grand Strategy Revisited", Security Studies, vol. 17(3),
+p. 397-437.
+
+
+LE PRESTRE P. G. (dir.), 1997, Role Quests in the Post-Cold War Era:
+Foreign Policies in Transition, Montreal et Kingston, McGill-Queen's
+University Press.
+
+
+LEBLANG D. et CHAN S., 2003, “Explaining Wars Fought by Established
+Democracies: Do Institutional Constraints Matter?", Political Research
+Quarterly, vol. 56(4), p. 385-400.
+
+
+LEBLANG D. et Satyanath S., 2006, “Institutions, Expectations and
+Currency Crises”, International Organization, vol. 60(1), p. 245-262.
+
+
+LEBLANG D. et BERNHARD W., 2000, “The Politics of Speculative Attacks
+in Industrial Democracies , International Organization, vol. 54(2), p. 291-
+324.
+
+
+LEBOW R. N. et GROSS STEIN J., 1990, “Rational Deterrence Theory: I
+Think, therefore I Deter”, World Politics, vol. 41(2), p. 208-224.
+
+
+LEBOW R. N., 1981, Between Peace and War: The Nature of International
+Crisis, Baltimore, John Hopkins University Press.
+
+
+LECOURS A., 2002, “Paradiplomacy: Reflections on the Foreign Policy
+and International Relations of Regions", International Negotiation,
+vol. 7(1), p. 91-114.
+
+
+LEEDS B. A. et Davis D. R., 1997, “Domestic Political Vulnerability and
+International Disputes", Journal of Conflict Resolution, vol. 41(6), p. 814-
+834.
+
+
+LEEDS B. A. et. Davis D. R, 1999, “Beneath the Surface: Regime Type
+and International Interaction, 1953-1978, Journal of Peace Research,
+vol. 36(1), p. 5-21.
+
+
+LEGRAND V. 2009, Prise de décision en politique étrangère et
+géopolitique : le triangle Jordanie-Palestine-Israël et la décision
+jordanienne de désengagement de Cisjordanie, Bruxelles, Peter Lang.
+
+
+LEGRO J. W. et MORAVCSIK А., 1999, “Is Anybody Still a Realist?",
+International Security, vol. 24(2), p. 5-55.
+
+
+LEGRO J. W., 1997, “Which Norms Matter? Revisiting the 'Failure' of
+Internationalism”, International Organization, vol. 51(1),  . 31-64.
+
+
+LEITES N., 1951, The Operational Code of the Politburo, New York,
+McGraw-Hill.
+
+
+LEKTZIAN D. et SOUVA M., 2003, “The Economic Peace between
+Democracies: Economic Sanctions and Democratic Institutions , Journal of
+Peace Research, vol. 40(6), p. 641-660.
+
+
+LEOGRANDE W., 1998, "From Havana to Miami: US-Cuba Policy as a
+Two-Level Game", Journal of Interamerican Studies and World Affairs,
+vol. 40(1), p. 67-86.
+
+
+LEPGOLD J. et MCKEOWN T., 1995, “Is American Foreign Policy
+Exceptional? An Empirical Analysis", Political Science Quarterly,
+vol. 110(3), p. 369-384.
+
+
+LEPGOLD J., 1998, “Is Anyone Listening? International Relations Theory
+and the Problem of Policy Relevance", Political Science Quarterly,
+vol. 113(1), p. 43-62.
+
+
+LEQUESNE C. et HEILBRONN J., 2012, “Senior Diplomats in the French
+Ministry of Foreign Affairs: When an Entrance Exam Still Determines the
+Career”, The Hague Journal of Diplomacy, vol. 7, p. 269-285.
+
+
+LÉTOURNEAU C. et MASSIE J., 2006, « Un symbole à bout de souffle ? Le
+maintien de la paix dans la culture stratégique canadienne », Études
+internationales, vol. 37(4), p. 547-573.
+
+
+LEVY J. S. et THOMPSON W. R., 2005, “Hegemonic Threats and Great
+Power Balancing in Europe, 1495-2000 , Security Studies, vol. 14(1), p. 1-
+30.
+
+
+LEVY J. S., 1986, “Organizational Routines and the Causes of War",
+International Studies Quarterly, vol. 30(2), p. 193-222.
+
+
+LEVY J. S., 1987, “Declining Power and the Preventive Motivation for
+War", World Politics, vol. 40(1), p. 82-107.
+
+
+LEVY J. S., 1988, “Domestic Politics and War", Journal of
+Interdisciplinary History, vol. 18(4), p. 653-673.
+
+
+LEVY J. S., 1992, “An Introduction to Prospect Theory", Political
+Psychology, vol. 13(2)
+
+
+, p. 171-186.
+
+
+LEVY J. S.,
+1992, "Prospect Theory and International Relations:
+Theoretical Applications and Analytical Problems”, Political Psychology,
+vol. 13(2), p. 283-310.
+
+
+LEVY J. S., 1994, “Learning and Foreign Policy: Sweeping a Conceptual
+Minefield , International Organization, vol. 48(2), p. 279-312.
+
+
+LEVY J. S., 1997, “Prospect Theory, Rational Choice and International
+Relations", International Studies Quarterly, vol. 41(1), p. 87-112.
+
+
+LI Q. et SACKO D., 2002, “The (Ir)Relavance of Militarized Interstate
+Disputes for International Trade", International Studies Quarterly,
+vol. 46(1), p. 11-43.
+
+
+LI Q. et REUVENY R., 2011, "Does Trade Prevent or Promote Interstate
+Conflict Initiation?”, Journal of Peace Research, vol. 48(4), p. 437-453.
+
+
+LI Q., 2005, “Does Democracy Promote or Reduce Transnational
+Terrorist Incidents?", Journal of Conflict Resolution, vol. 49(2), p. 278-297.
+
+
+LI Q., 2006, “Democracy, Autocracy and Tax Incentives to Foreign
+Direct Investors: A Cross National Analysis", Journal of Politics,
+vol. 68(1), p. 62-74.
+
+
+LIAN B. et ONEAL J., 1993, "Presidents, the Use of Military Force and
+Public Opinion , Journal of Conflict Resolution, vol. 37(2), p. 277-300.
+
+
+LIGHT M., 1994, “Foreign Policy Analysis", in Groom A. et Light M.
+(dirs), Contemporary International Relations: A Guide to Theory, Londres,
+Pinter, p. 93-108.
+
+
+LIGHT M., 2004, “In Search of an Identity: Russian Foreign Policy and
+the End of Ideology", in Fawn R. (dir.), Ideology and National Identity in
+
+
+Post-Communist Foreign Policy, Londres, Frank Cass, p. 42-59.
+
+
+LIJPHART A., 1999, Patterns of Democracy: Governments Forms and
+Performance in Thirty-Six Countries, New Haven, Yale University Press.
+LIND J. M., 2004, “Pacifism or Passing the Buck? Testing Theories of
+Japan's Security Policy”, International Security, vol. 29(1), p. 92-121.
+
+
+LINDBLOM C., 1959, “The Science of Muddling Through", Public
+Administration Review, vol. 19(2), p. 79-88.
+
+
+LINDEMANN T., 2011, “Peace through Recognition: An Interactionist
+Interpretation of International Crises , International Studies Sociology,
+vol. 5(1), p. 68-96.
+
+
+LINDSAY J. M., 1986, "Trade Sanctions as Policy Instruments: A Re-
+Examination", International Studies Quarterly, vol. 30(2), p. 153-173.
+
+
+LINDSAY J. M., 2003, "Deference and Defiance", Presidential Studies
+Quarterly, vol. 33(4), p. 530-547.
+
+
+LINK M. et KEGLEY C., 1993, “Is Access Influence? Measuring Adviser-
+Presidential Interactions in Light of the Iranian Hostage Crisis",
+International Interactions, vol. 18(4), p. 343-364.
+
+
+LIPPMANN W., 1955, Essays in the Public Philosophy, Boston, Little
+Brown.
+
+
+LIPSCHUTZ R., 2001, Cold War Fantasies: Film, Fiction and Foreign
+Policy, Lanham, Rowman et Littlefield.
+
+
+LITFIN K. T., 1997, “Sovereignty in World Ecopolitics", Mershon
+International Studies Review, vol. 41(2), p. 167-204.
+
+
+LIVINGSTON S. et EACHUS T., 1995, “Humanitarian Crises and US Foreign
+Policy: Somalia and the CNN Effect Reconsidered", Political
+Communication, vol. 12(4), p. 413-429.
+
+
+LIVINGSTON S., 1997, “Beyond the  CNN Effect': The Media-Foreign
+Policy Dynamic”, in Norris P. (dir.), Politics and the Press, Boulder, Lynne
+Rienner, p. 291-318.
+
+
+LOBELL S., RIPSMAN N. et TALIAFERRO J., 2009, Neoclassical Realism, The
+State, and Foreign Policy, Cambridge, Cambridge University Press.
+
+
+LOHMANN S. et O'HALLORAN S., 1994, "Divided Government and US
+Trade Policy", International Organization, vol. 48(4), p. 595-632.
+
+
+LONG A., 2003, “Defense Pacts and International Trade", Journal of
+Peace Research, vol. 40(5), p. 537-552.
+
+
+LONG A., 2008, "Bilateral Trade in the Shadow of Armed Conflict",
+International Studies Quarterly, vol. 52(1), p. 81-101.
+
+
+LUMSDAINE D., 1993, Moral Vision: The Foreign Aid Regime, 1949-1989,
+Princeton, Princeton University Press.
+
+
+LUNDBORG P., 1998, “Foreign Aid and International Support as a Gift
+Exchange", Economics & Politics, vol. 10(2), p. 127-142.
+
+
+LYALL J., 2010, “Do Democracies Make Inferior Counterinsurgents?
+Reassessing Democracy's Impact on War Outcomes and Duration",
+International Organization, vol. 64(2), p. 167-192.
+
+
+LYON P. V. et LEYTON-BROWN D., 1977, “Image and Policy Preference",
+International Journal, vol. 32(3),  . 654-659.
+
+
+MABEE B., 2011, “Historical Institutionalism and Foreign Policy
+Analysis", Foreign Policy Analysis, vol. 7(1), p. 27-44.
+
+
+MACE G. et BÉLANGER L., 2007, “Convergence or Divergence Effects:
+NAFTA and State Preferences toward the FTAA", in Mace G. (dir.),
+Regionalism and the State: NAFTA and Foreign Policy Convergence,
+Aldershot, Ashgate Publications, p. 13-31.
+
+
+MACINTYRE A., 2001, “Institutions and Investors: The Politics of the
+Financial Crisis in Southeast Asia”, International Organization, vol. 55,
+$n^{\circ}\rfloor$ 1, p. 81-122.
+
+
+MACLEOD A., 2002, « L'approche constructiviste de la politique
+étrangère », in Charillon, F. (dir.), Politique étrangère : nouveaux regards,
+Paris, Presses de Sciences Po, p. 65-89.
+
+
+MAHONEY J., 2000, “Path Dependence in Historical Sociology , Theory
+and Society, vol. 29(4), p. 507-548.
+
+
+MAIZELS A. et NISSANKE M. K., 1984, “Motivations for Aid to Developing
+Countries", World Development, vol. 12(9), p. 879-900.
+
+
+MALICI A., 2011, “Learning to Resist or Resisting to Learn?", in Walker
+S. G., Malici A. et Schafer M. (dirs), Rethinking Foreign Policy Analysis,
+Londres, Routledge, p. 153-167
+
+
+MALICI A. et BUCKNER A., 2008, “Empathizing with Rogue Leaders:
+Mahmoud Ahmadinejad and Bashar al-Asad", Journal of Peace Research,
+vol. 45(6), p. 783-800.
+
+
+MALICI A. et MALICI J., 2005, “The Operational Codes of Fidel Castro and
+Kim Il Sung: The Last Cold Warriors?”, Political Psychology, vol. 26(3),
+p. 387-412.
+
+
+MALICI A., 2006, "Germans as Venutians: The Culture of German
+Foreign Policy Behavior”, Foreign Policy Analysis, vol. 2(1), p. 37-62.
+
+
+MANDEL R., 1984, “The Desirability of Irrationality in Foreign Policy
+Making: A Preliminary Theoretical Analysis", Political Psychology,
+vol. 5(3), p. 643-660.
+
+
+MANDEL R., 2006, The Meaning of Military Victory, Boulder, Lynne
+Rienner.
+
+
+MANDEL R., 2009, “On Estimating Post-Cold War Enemy Intentions",
+Intelligence and National Security, vol. 24(2), p. 194-215.
+
+
+MANKOFF J., 2009, Russian Foreign Policy, Lanham, Rowman and
+Littlefield.
+
+
+MANNERS I., 2002, “Normative Power Europe: A Contradiction in
+Terms?", Journal Common Market Studies, vol. 40(2), p. 235-258.
+
+
+MANSFIELD E., MILNER H. et PEVEHOUSE J., 2007, "Vetoing Cooperation:
+The Impact of Veto Players on Preferential Trading Arrangements , British
+Journal of Political Science, vol. 37(3), p. 403-432.
+
+
+MANSFIELD E. D. et Mutz D. C., 2009, "Support for Free Trade",
+International Organization, vol. 63(3), p. 425-457.
+
+
+MANSFIELD E. D. et PEVEHOUSE J., 2000, "Trade Blocs, Trade Flows and
+International Conflict”, International Organization, vol. 54(4), p. 775-808.
+
+
+MANSFIELD E. D. et SNYDER J., 2002, “Incomplete Democratization and
+the Outbreak of Military Disputes", International Studies Quarterly,
+vol. 46(4), p. 529-549.
+
+
+MANSFIELD E. D. et BUSCH M., 1995, “The Political Economy of Nontariff
+Barriers: A Cross-National Analysis", International Organization,
+vol. 49(4), p. 723-749.
+
+
+MANSFIELD E. D. et BRONSON R., 1997, “Alliances, Preferential Trading
+Arrangements and International Trade”, American Political Science Review,
+vol. 91(1), p. 94-106.
+
+
+MANSFIELD E. D., MILNER H. et ROSENDORFF P., 2000, "Free to Trade:
+Democracies, Autocracies and International Trade", American Political
+Science Review, vol. 94(2), p. 305-321.
+
+
+MANSFIELD E. D., MILNER H. V. et ROSENDORFF B. P., 2002, “Why
+Democracies Cooperate More: Electoral Control and International Trade
+Agreements", International Organization, vol. 56(3), p. 477-513.
+
+
+MANSFIELD E. D. et PEVEHOUSE J., 2006, "Democratization and
+International Organizations , International Organization, vol. 60(1), p. 137-
+167.
+
+
+MAOZ Z. et SHAYER A., 1987, “The Cognitive Structure of Peace and War
+Argumentation”, Political Psychology, vol. 8(4), p. 575-604.
+
+
+MAOZ Z. et RUSSETT B., 1993, "Normative and Structural Causes of
+Democratic Peace, 1946-1986", American Political Science Review,
+vol. 87(3), p. 624-38.
+
+
+MAOZ Z. et ABDOLALI N., 1989, "Regime Types and International
+Conflict, 1816-1976”, Journal of Conflict Resolution, vol. 33(1), p. 3-35.
+
+
+MAOZ Z., 1989, "Joining the Club of Nations”, International Studies
+Quarterly, vol. 33(2), p. 199-231.
+
+
+MAOZ Z., 1989, Paradoxes of War: On the Art of National Self-
+Entrapment, Boston, Unwin Hyman.
+
+
+MAOZ Z., 1990, “Framing the National Interests: The Manipulation of
+Foreign Policy Decisions in Group Settings", World Politics, vol. 43(1),
+p. 77-110.
+
+
+MAOZ Z., 1997, “The Controversy over the Democratic Peace: Rearguard
+Action or Cracks in the Wall?", International Security, vol. 22(1), p. 162-
+198.
+
+
+MARCH J. G. et OLSEN J. P.,
+Organizational Factors in Political
+Review, vol. 78(3), p. 734-749.
+
+
+1984, "The New Institutionalism:
+Life", American Political Science
+
+
+MARCUSSEN M., RISSE T., ENGELMANN-MARTIN D., KNOPF H.-J. et ROSCHER
+K., 2001, “Constructing Europe?", in Christiansen T., Jorgensen K. E. et
+Wiener A. (dirs), The Social Construction of Europe, Londres, Sage, p. 614-
+633.
+
+
+MARFLEET G. et MILLER C., 2005, "Failure after 1441: Bush and Chirac in
+the UN Security Council , Foreign Policy Analysis, vol. 1(3), p. 333-359.
+
+
+MARQUIS L. et Sciarini P., 1999, “Opinion Formation in Foreign Policy:
+The Swiss Experience”, Electoral Studies, vol. 18(4), p. 453-471.
+
+
+MARRA R. F., 1985, “A Cybernetic Model of the US Defense Expenditure
+Policymaking Process”, International Studies Quarterly, vol. 29(4), p. 357-
+384.
+
+
+MARRA R. F., OSTROM C. et SIMON D., 1990, “Foreign Policy and
+Presidential Popularity , Journal of Conflict Resolution, vol. 34(4), p. 588-
+623.
+
+
+MARTIN L. A., 1992, Coercive Cooperation: Explaining Multilateral
+Economic Sanctions, Princeton, Princeton University Press.
+
+
+MARTIN P., MAYER T. et THOENIG M., 2010, “The Geography of Conflicts
+and Free Trade Agreements", CEPR Discussion Paper.
+
+
+MARTIN P., MAYER T. et THOENIG M., 2008, "Make Trade Not War?",
+Review of Economic Studies, vol. 75(3), p. 865-900.
+
+
+MASSART-PIÉRARD F., 2004, « Entités fédérées et politique étrangère », in
+Roosens C., Rosoux V. et Wilde D'Estamel T. (dirs), La politique
+étrangère : le modèle classique à l'épreuve, Bruxelles, Peter Lang, p. 239-
+266.
+
+
+MASTANDUNO M., LAKE D. et IKENBERRY G., 1989, "Towards a Realist
+Theory of Foreign Policy", International Studies Quarterly, vol. 33(4),
+p. 457-474.
+
+
+MASTERS D. et ALEXANDER R. M., 2008, “Prospecting for War: 9/11 and
+Selling the Iraq War", Contemporary Security Policy, vol. 29(3), p. 434-
+452.
+
+
+MASTORS E., 2000, “Gerry Adams and the Northern Ireland Peace
+Process", Political Psychology, vol. 21(4), p. 839-846.
+
+
+MATHIEN M. 2000, « L'agence France-Presse : un vecteur reconnu des
+relations internationales de la France mais un problème », Annuaire
+français de relations internationales, vol. 1(1), p. 676-689.
+
+
+MATTERN J. B., 2001, “The Power Politics of Identity , European Journal
+of International Relations, vol. 7(3), p. 349-397.
+
+
+MAYDA A. M. et RODRIK D., 2005, “Why Are Some People (and
+Countries) More Protectionist than Others?", European Economic Review,
+vol. 49(6), p. 1393-1430.
+
+
+MAYER F. W., 1992, "Managing Domestic Differences in International
+Negotiations", International Organization, vol. 46, p. 792-818.
+
+
+MCCORMICK J. M. et WITTKOPF E., 1992, "At the Water's Edge",
+American Politics Research, vol. 20(1), p. 26-53.
+
+
+MCCORMICK J. M. et WITTKOPF E. R., 1990, "Bipartisanship, Partisanship
+and Ideology in Congressional-Executive Foreign Policy Relations",
+Journal of Politics, vol. 52(4),  . 1077-1100.
+
+
+MCCORMICK J. M. et BLACK М., 1983, “Ideology and Voting on the
+Panama Canal Treaties , Legislative Studies Quarterly, vol. 8(1), p. 45-63.
+
+
+MCCOURT D. M., 2011, “Role-Playing and Identity Affirmation in
+International Politics , Review of International Studies, vol. 37, p. 1599-
+1621.
+
+
+MCDERMOTT R. et COWDEN J., 2001, “The Effects of Uncertainty and Sex
+in a Crisis Simulation Game”, International Interactions, vol. 27(3), p. 353-
+380.
+
+
+MCDERMOTT R., 1998, Risk-Taking in International Politics: Prospect
+Theory in American Foreign Policy, Ann Arbor, University of Michigan
+Press.
+
+
+MCDERMOTT R., 2004, “Prospect Theory in Political Science: Gains and
+Losses from the First Decade”, Political Psychology, vol. 25(2), p. 289-312.
+
+
+MCDONALD P. K., 2003, "Useful Fiction or Miracle Maker: The
+Competing Epistemological Foundations of Rational Choice Theory",
+American Political Science Review, vol. 97(4), p. 551-565.
+
+
+MCDONALD P. K., 2004, “Peace through Trade or Free Trade?", Journal
+of Conflict Resolution, vol. 48(4), p. 547-572.
+
+
+MCGILLIVRAY F. et Smith A., 2004, “The Impact of Leadership Turnover
+and Domestic Institutions on International Cooperation”, International
+Organization, vol. 58(3), p. 567-600.
+
+
+MCGILLIVRAY F. et STAM A. C., 2004, “Political Institutions, Coercive
+Diplomacy and the Duration of Economic Sanction , Journal of Conflict
+Resolution, vol. 48(2), p. 154-172.
+
+
+MCGINNIS M., 2000, “Policy Substitutability in Complex Humanitarian
+Emergencies", Journal of Conflict Resolution, vol. 44(1), p. 61-89.
+
+
+McInerney A., 1992, “Prospect Theory and Soviet Policy towards Syria,
+1966-1967", Political Psychology, vol. 13(2), p. 265-282.
+
+
+MCLELLAN D. S., 1971, “Operation Code Approach to the Study of
+Political Leaders: Dean Acheson's Philosophical and Instrumental Beliefs”,
+Canadian Journal of Political Science, vol. 4(1), p. 52-75.
+
+
+MCMILLAN S. L., 2008, “Subnational Foreign Policy Actors: How and
+Why Governors Participate in US Foreign Policy”, Foreign Policy Analysis,
+vol. 4(3), p. 227-253.
+
+
+MCNAMARA K., 1998, The Currency of Ideas: Monetary Politics in the
+European Union, Ithaca, Cornell University Press.
+
+
+MCSWEENEY B., 1999, Security, Identity and Interest. A Sociology of
+International Relations, New York, Cambridge University Press.
+
+
+MEARSHEIMER J. J. et WALT S., 2007, The Israel Lobby and US Foreign
+Policy, New York, Farrar, Straus and Giroux.
+
+
+MEARSHEIMER J. J., 2001, “The Future of the American Pacifier , Foreign
+Affairs, vol. 80(5), p. 46-61.
+
+
+MEARSHEIMER J. J., 2009, "Reckless States and Realism , International
+Relations, vol. 23(2), p. 241-256.
+
+
+MEERNIK J., 2001, “Domestic Politics and the Political Use of Military
+Force by the United States", Political Research Quarterly, vol. 54(4),
+p. 889-904.
+
+
+MEERNIK J. et WATERMAN P., 1996, “The Myth of the Diversionary Use of
+Force by American Presidents , Political Research Quarterly, vol. 49(3),
+p. 573-590.
+
+
+MEERNIK J. et OLDMIXON E., 2008, "The President, the Senate and the
+Costs of Internationalism”, Foreign Policy Analysis, vol. 4(2), p. 187-206.
+
+
+MEERNIK J., 1993, “Presidential Support in Congress: Conflict and
+Consensus on Foreign and Defense Policy , Journal of Politics, vol. 55(3),
+p. 569-587.
+
+
+MEERNIK J., 1995, “Congress, the President and the Commitment of the
+US Military", Legislative Studies Quarterly, vol. 20(3), p. 377-392.
+
+
+MEERNIK J., KRUEGER E. L. et POE S. C., 1998, "Testing Models of US
+Foreign Policy , Journal of Politics, vol. 60(1), p. 63-85.
+
+
+MEERNIK J., 2000, “Modeling International Crises and the Political Use of
+Military Force by the United States", Journal of Peace Research,
+vol. 37(5), p. 547-562.
+
+
+MEERNIK J., 1994, “Presidential Decision Making and the Political Use of
+Military Force”, International Studies Quarterly, vol. 38(1), p. 121-138.
+MELMAN S., 1970, Pentagon Capitalism, New York, McGraw-Hill.
+
+
+MENDELSON S., 1993, “Internal Battles and External Wars: Politics,
+Learning and the Soviet Withdrawal from Afghanistan", World Politics,
+vol. 45(3), p. 327-360.
+
+
+MÉRAND F. et VANDEMOORTELE A., 2009, « L'Europe dans la culture
+stratégique canadienne, 1949-2009 », Études internationales, vol. 60(2),
+p. 241-259.
+
+
+MÉRAND F., 2008, European Defense Policy: Beyond the Nation State,
+Oxford, Oxford University Press.
+
+
+MERCER J., 1995, “Anarchy and Identity", International Organization,
+vol. 49(2), p. 229-252.
+
+
+MERCER J., 2005, “Rationality and Psychology in International
+Relations", International Organization, vol. 59(1), p. 77-106.
+
+
+MERCER J., 2010, “Emotional Beliefs", International Organization,
+vol. 64(1), p. 1-31.
+
+
+MERLE M., 1984, La politique étrangère, Paris, Économica.
+
+
+MERMIN J., 1997, "Television News and American Intervention in
+Somalia: The Myth of a Media-Driven Foreign Policy , Political Science
+Quarterly, vol. 112(3), p. 385-403.
+
+
+MEROM G., 2003, How Democracies Lose Small Wars: State, Society and
+the Failures of France in Algeria, Israel in Lebanon and the United States
+in Vietnam, Londres, Cambridge University Press.
+
+
+MERTHA A. et PAHRE R., 2005, "Patently Misleading", International
+Organization, vol. 59(3), p. 695-729.
+
+
+MESEGUER C., 2004, "What Role for Learning? The Diffusion of
+Privatization in OECD and Latin American Countries , Journal of Public
+Policy, vol. 24(3), p. 299-325.
+
+
+MESSARI N., 2001, “Identity and Foreign Policy: The Case of Islam in US
+Foreign Policy”, in Kubálková V. (dir.), Foreign Policy in a Constructed
+World, Armonk, M. E. Sharpe, p. 227-246.
+
+
+MEUNIER S., 2005, "The Distinctiveness of French Anti-Americanism", in
+Katzenstein P. J. et Keohane R. O. (dirs), Anti-Americanisms in World
+Politics, Ithaca, Cornell University Press, p. 129-156.
+
+
+MEUNIER S., 2007, "Managing Globalization? The EU in International
+Trade Negotiations", Journal of Common Market Studies, vol. 45(4),
+p. 905-926.
+
+
+MEYER C., 2006, The Quest for a European Strategic Culture: Changing
+Norms on Security and Defence in the European Union, Palgrave,
+Macmillan.
+
+
+MICHAUD N. et TREMBLAY S., 2006, « Les livres blancs en matière de
+politique étrangère : épistémologie et perspectives analytiques », Études
+internationales, vol. 37(1), p. 7-33.
+
+
+MICHAUD N., 1996, « Graham Allison et le paradigme bureaucratique :
+vingt-cinq ans plus tard est-il encore utile? », Études internationales,
+vol. 27(4), p. 769-794.
+
+
+MICHAUD N., 2002, “Bureaucratic Politics and the Shaping of Policies",
+Canadian Journal of Political Science, vol. 35(2), p. 269-300.
+
+
+MIDFORD P., 1993, "International Trade and Domestic Politics",
+International Organization, vol. 47(4), p. 535-564.
+
+
+MIKLIAN J., 2008, "International Medias's Role on US-Small State
+Relations: The Case of Nepal”, Foreign Policy Analysis, vol. 4(4), p. 399-
+418.
+
+
+MILLER J. E., 1983, “Taking Off the Gloves: The United States and the
+Italian Election of 1949", Diplomatic History, vol. 7(1), p. 35-56.
+
+
+MILLER R., 1995, "Domestic Structures and the Use of Force", American
+Journal of Political Science, vol. 39(3), p. 760-785.
+
+
+MILLIKEN J., 1999, "The Study of Discourse in International Relations ,
+European Journal of International Relations, vol. 5(2), p. 225-254.
+
+
+MILNE D., 2011, “The 1968 Paris Peace Negotiations: A Two Level
+Game?", Review of International Studies, vol. 37(2), p. 577-599.
+
+
+MILNER H. et KUBOTA K., 2005, “Why the Move to Free Trade?
+Democracy and Trade Policy in the Developing Countries”, International
+Organization, vol. 59(1), p. 107-143.
+
+
+MILNER H. et TINGLEY D., 2011, “Who Supports Global Economic
+Engagement?", International Organization, vol. 65(1), p. 37-68.
+
+
+MILNER H. et ROSENDORFF P., 1997, “Democratic Politics and International
+Trade Negotiations”, Journal International Conflict Resolution, vol. 41(1),
+p. 117-146.
+
+
+MILNER H., 1987, “Resisting the Protectionist Temptation , International
+Organization, vol. 41(4), p. 639-665.
+
+
+MILNER H., 1988, “Trading Places: Industries for Free Trade", World
+Politics, vol. 40(3),  . 350-376.
+
+
+MILNER H., 1997, Interests, Institutions and Information: Domestic
+Politics and International Relations, Princeton, Princeton University Press.
+MILNER H., 1999, “The Political Economy of International Trade”,
+Annual Review of Political Science, vol. 2(1),  . 91-114.
+
+
+MINTZ A. et DeRouen K., 2009, Understanding Foreign Policy Decision
+Making, Cambridge, Cambridge University Press.
+
+
+MINTZ A. et GEVA N., 1993, "Why Don't Democracies Fight Each Other?
+An Experimental Study , Journal of Conflict Resolution, vol. 37(3), p. 484-
+503.
+
+
+MINTZ A. et GEVA N., 1997, “The Poliheuristic Theory of Foreign Policy
+Decision Making , in Geva N. et Mintz A. (dirs), Decision Making on War
+and Peace, Boulder, Lynne Reinner.
+
+
+MINTZ A. et REDD S., 2003, “Framing Effects in International Relations",
+Synthese, vol. 135(1), p. 193-213.
+
+
+MINTZ A., 1993, “The Decision to Attack Iraq: A Noncompensatory
+Theory of Decision Making, Journal of Conflict Resolution, vol. 37(4),
+p. 595-618.
+
+
+MINTZ A., 2004, "Foreign Policy Decision Making in Familiar and
+Unfamiliar Settings", Journal of Conflict Resolution, vol. 48(1),  . 91-104.
+
+
+MINTZ A., 2004, "How Do Leaders Make Decisions? A Poliheuristic
+Perspective", Journal of Conflict Resolution, vol. 48(1), p. 3-13.
+
+
+MINTZ A., 2005, “Are Leaders Susceptible to Negative Political
+Advice?", in Mintz A. et Russett B. M. (dirs), New Directions for
+International Relations, Lahman, Lexington, p. 223-238.
+
+
+MINTZ A., 2007, "Behavioral IR as a Subfield of International Relations",
+International Studies Review, vol. 9(1), p. 157-162.
+
+
+MINTZ A., 2007, “Why Behavioral IR?”, International Studies Review,
+vol. 9(1), 157-162.
+
+
+MINTZ A., GEVA N. et. DEROUEN K, 1994, "Mathematical Models of
+Foreign Policy Decision-Making: Compensatory vs Noncompensatory",
+Synthese, vol. 100(3), p. 441-460.
+
+
+MINTZ A., GEVA N., REDD S. B. et CARNES A., 1997, "The Effect of
+Dynamic and Static Choices on Political Decision Making , American
+Political Science Review, vol. 91(3), p. 553-566.
+
+
+MINTZ A., REDD S. B. et VEDLITZ A., 2006, "Can We Generalize from
+Student Experiments to the Real World in Political Science, Military
+Affairs, and International Relations?", Journal of Conflict Resolution,
+vol. 50(5), p. 757-776.
+
+
+MISKIMMON A., 2009, "Failing into Line? Kosovo and the Course of
+German Foreign Policy , International Affairs, vol. 85(3), p. 561-573.
+
+
+MITCHELL S. M. et THYNE C., 2010, “Contentious Issues as Opportunities
+for Diversionary Behavior", Conflict Management and Peace, vol. 27(5),
+p. 461-485.
+
+
+MITCHELL D. et MASSOUD T. G., 2009, “Anatomy of Failure: Bush's
+Decision-Making Process and the Iraq War", Foreign Policy Analysis,
+vol. 5(3), p. 265-286.
+
+
+MITCHELL D., 2005, “Centralizing Advisory Systems: Presidential
+Influence and the US Foreign Policy Decision-Making Process , Foreign
+Policy Analysis, vol. 1(1), p. 181-206.
+
+
+MITCHELL D., 2010, “Does Context Matter? Advisory Systems and the
+Management of the Foreign Policy Decision-Making Process”, Presidential
+Studies Quarterly, vol. 40(4), p. 631-659.
+
+
+MITCHELL P., 1999, “Ideas, Interests and Strategy: Bureaucratic Politics
+and the United States Navy , Armed Forces and Society, vol. 25(2), p. 243-
+265.
+
+
+MITCHELL S. M. et PRINS B. С., 1999, “Beyond Territorial Contiguity:
+Issues at Stake in Democratic Militarized Interstate Disputes , International
+Studies Quarterly, vol. 43(1), p. 169-183.
+
+
+MITZEN J., 2005, "Reading Habermas in Anarchy: Multilateral
+Diplomacy and Global Public Spheres", American Political Science
+Review, vol. 99(3), p. 401-417.
+
+
+MIYAGI Y., 2009, “Foreign Policy Making under Koizumi: Norms and
+Japan's Role in the 2003 Iraq War , Foreign Policy Analysis, vol. 5(4),
+p. 349-366.
+
+
+Mo J., 1994, “The Logic of Two-Level Games with Endogenous
+Domestic Coalitions", Journal of Conflict Resolution, vol. 38(3), p. 402-
+422.
+
+
+MONROE A., 1979 "Consistency between Public Preferences and National
+Policy Decisions”, American Politics Quarterly, vol. 7(1), p. 3-19.
+
+
+MONROE A., 1998, “Public Opinion and Public Policy, 1980-1993",
+Public Opinion Quarterly, vol. 62(1), p. 6-28.
+
+
+MONTPETIT É., 2000, “Europeanization and Domestic Politics: Europe and
+the Development of a French Environmental Policy for the Agricultural
+Sector", Journal of European Public Policy, vol. 7(4), p. 576-592.
+
+
+MONTSION J. M. et STUBBS R., 2007, « Le pouvoir des plus faibles :
+l'ANASE et le projet de coopération régionale en Asie de l'Est », Études
+internationales, vol. 38(2), p. 167-187.
+
+
+MOON Κ., 1997, Sex Among Allies: Militarized Prostitution in US-South
+Korea Relations, New York, Columbia University Press.
+
+
+MOR B. D., 1991, “Nasser's Decision-Making in the 1967 Middle East
+Crisis: A Rational-Choice Explanation", Journal of Peace Research,
+vol. 28(4), p. 359-375.
+
+
+MORAVCSIK A., 1993, “Integrating International and Domestic Theories of
+International Bargaining", in Evans P., Jacobson H. et Putnam R. (dirs),
+International Bargaining and Domestic Politics, Berkeley, University of
+California Press Diplomacy, p. 3-37.
+
+
+MORAVESICK A., 1997, “Taking Preference Seriously: A Liberal Theory of
+International Politics”, International Organization, vol. 51(4), p. 513-553.
+
+
+MORGAN C. T. et BICKERS K., 1992, "Domestic Discontent and the
+External Use of Force”, Journal of Conflict Resolution, vol. 36(1), p. 25-52.
+
+
+MORGA, C. T. et ANDERSON C. J., 1999, "Domestic Support and
+Diversionary External Conflict in Great Britain, 1950-1992", Journal of
+Politics, vol. 61(3), p. 799-814.
+
+
+MORGAN C. T. et Palmer G., 1997, “A Two-Good Theory of Foreign
+Policy", International Interactions, vol. 22(3), p. 225-244.
+
+
+MORGAN C. T. et PALMER G., 2000, “A Model of Foreign Policy
+Substitutability”, Journal of Conflict Resolution, vol. 44(1), p. 11-32.
+
+
+MORGAN C. T. et PALMER G., 2003, "To Protect an d to Serve: Alliances
+and Foreign Policy Portfolios”, Journal of Conflict Resolution, vol. 47(2),
+p. 180-203.
+
+
+MORGAN C. T. et CAMPBELL S. H., 1991, "Domestic Structure, Decisional
+Constraints and War", Journal of Conflict Resolution, vol. 35(2), p. 187-
+211.
+
+
+MORGAN C. T. et SCHWEBACH V., 1995, "Economic Sanctions As an
+Instrument of Foreign Policy”, International Interactions, vol. 21(3),
+p. 247-263.
+
+
+MORGAN C. T. et SCHWEBACH V., 1997, “Fools Suffer Gladly",
+International Studies Quarterly, vol. 41(1), p. 27-50.
+
+
+MORGAN P. M., 1977, Deterrence: A Conceptual Analysis, Los Angeles,
+Sage.
+
+
+MORGAN R., 2001, “Image, Identities and Foreign Policy", Government
+and Opposition, vol. 36(4), p. 583-590.
+
+
+MORGENTHAU H., 2005 [1948], Politics among Nations, $7^{e}$ edition révisée
+par Thompson K. W. et Clinton D. W., New York, McGraw-Hill.
+
+
+MORIN J.-F. et GagnÉ G., 2007, “Explaining the Lateralism Paradox of
+the Investment Regime , International Journal of Political Economy,
+vol. 36(1), p. 53-74.
+
+
+MORIN J.-F. et GOLD R., 2010, “Consensus-Seeking, Distrust and
+Rhetorical Action", European Journal of International Relations,
+vol. 16(4), p. 563-587.
+
+
+MORIN J.-F., 2010, “The Two-Level Game of Transnational Network",
+International Interactions, vol. 36(4), p. 309-334.
+
+
+MORIN J.-F., 2011, “The Life-Cycle of Transnational Issues: Lessons from
+the Access to Medicines Controversy”, Global Society, vol. 25(2), p. 227-
+247.
+
+
+MORIN J.-F., GOLD E. R. et DALEY K., 2011, “Having Faith in IP:
+Empirical Evidence of IP Conversion”, WIPO Journal, vol. 3(1), p. 93-103.
+
+
+MOROZOV V. et RUMELILI B., 2012, "The External Constitution of
+European Identity”, Cooperation and Conflict, vol. 47(1), p. 28-48.
+
+
+MORROW J. D., 1989, “Capabilities, Uncertainty and Resolve: A Limited
+Information Model of Crisis Bargaining", American Journal of Political
+Science, vol. 33(4), p. 941-972.
+
+
+MORROW J. D., 1994, Game Theory for Political Scientists, Princeton,
+Princeton University Press.
+
+
+MORROW J. D., 2000, "The Ongoing Game-Theoretic Revolution", in
+Midlarsky M. I. (dir.), Handbook of War Studies II, Ann Arbor, University
+of Michigan Press, p. 164-192.
+
+
+MORROW J. D., SIVERSON R. M. et TABARES T. E., 1998, "The Political
+Determinants of International Trade: The Major Powers", American
+Political Science Review, vol. 92(3), p. 649-661.
+
+
+MOST B. et STARR H., 1984, “International Relations Theory, Foreign
+Policy Substitutability and Nice Laws”, World Politics, vol. 36(3), p. 383-
+406.
+
+
+MOST B. et SIVERSON R. M., 1987, “Substituting Arms and Alliances,
+1870-1914: An Exploration in Comparative Foreign Policy", in Hermann
+C. F., Kegley C. W. et Rosenau J. N. (dirs), New Directions in the Study of
+Foreign Policy, Boston, Allan et Unwin, p. 131-157.
+
+
+MOURITZEN H., 1991, “Tension between the Strong and the Strategies of
+the Weak", Journal of Peace Research, vol. 28(2), p. 217-230.
+
+
+MOUSSEAU M., 1998, “Democracy and Compromise in Militarized
+Interstate Conflicts, 1816-1992 , Journal of Conflict Resolution, vol. 42(2),
+p. 210-230.
+
+
+MOWLE T. S., 2003, “Worldviews in Foreign Policy: Realism, Liberalism
+and External Conflict , Political Psychology, vol. 24(3), p. 561-592.
+
+
+MUELLER J., 1994, Policy and Opinion in the Gulf War, Chicago,
+University of Chicago Press.
+
+
+MUELLER J., 1973, War, Presidents and Public Opinion, New York, Wiley.
+MÜLLER H. M. et RISSE-KAPPEN T., 1993, "From the Outside-In and From
+the Inside-Out", in Skidmore D. et Hudson V., The Limits of State
+Autonomy, Boulder, Westview Press.
+
+
+MÜLLER H. M., 2004, “Arguing, Bargaining and All That", European
+Journal of International Relations, vol. 10(3), p. 395-435.
+
+
+MUNGIU-PIPPIDI A. et MINDRUTA D., 2002, “Was Huntington Right?
+Testing Cultural Legacies and the Civilization Border , International
+Politics, vol. 39(2), p. 193-213.
+
+
+MUTIMER D., 2000, The Weapons State: Proliferation and the Framing of
+Security, Boulder, Lynne Rienner.
+
+
+MYERS M., 1998, “When Biased Advice Is a Good Thing", International
+Interactions, vol. 24(4), p. 379-403.
+
+
+NABERS D., 2009, “Filling the Void of Meaning: Identity Construction in
+US Foreign Policy After September 11, 2001 , Foreign Policy Analysis,
+vol. 5(2), p. 191-214.
+
+
+NADELMANN E., 1990, “Global Prohibition Regimes: The Evolution of
+Norms in International Society , International Organization, vol. 44(4),
+p. 479-526.
+
+
+NAOI M. et KUME I., 2011, “Explaining Mass Support for Agricultural
+Protectionism", International Organization, vol. 65(4), p. 771-795.
+
+
+NARIZNY K., 2003, "Both Guns and Butter or Neither: Class Interests in
+the Political Economy of Rearmament", American Political Science
+Review, vol. 97(2), p. 203-220.
+
+
+NASRA S., 2011, “Governance in EU Foreign Policy: Exploring Small
+State Influence”, Journal of European Public Policy, vol.18(2), p. 164-180.
+
+
+NAYLOR T., 2011, “Deconstructing Development”, International Studies
+Quarterly, vol. 55(1), p. 177-197.
+
+
+NEACK L., HEY J. et HANEY P., (dirs), 1995, “Generational Change in
+Foreign Policy Analysis”, in Neack L., Hey J. et Haney P. (dirs), Foreign
+Policy Analysis: Continuity and Change in Its Second Generation,
+Englewood Cliffs, Prentice Hall, p. 1-15.
+
+
+NEOCLEOUS M., 2012, “O Effeminacy! Effeminacy! War, Masculinity and
+the Myth of Liberal Peace", European Journal of International Relations,
+publication prochaine.
+
+
+NEUMANN I. B, 2007, ““A Speech That the Entire Ministry May Stand for'
+or: Why Diplomats Never Produce Anything New”, International Political
+Sociology, vol. 1(2), p. 183-200.
+
+
+NEUMANN I. B. et NEXON D. H. (dirs), 2006, Harry Potter and
+International Relations, Lanham, Rowman & Littlefield Publishers.
+
+
+NEUMANN I. B. et GSTÖHL S., 2006, “Lilliputians in Gulliver's World?", in
+Ingebritsen C. et al. (dirs), Small States in International Relations, Seattle,
+University of Washington Press, p. 3-38.
+
+
+NEUMANN I. B. et HEIKKA H., 2005, “Grand Strategy, Strategic Culture,
+Practice. The Social Roots of Nordic Defence , Cooperation and Conflict,
+40(1), p. 5-23.
+
+
+NEUMANN I. B. et WELSH J. M., 1991, “The Other in European Self-
+definition", Review of International Studies, vol. 17(4), p. 327-348.
+
+
+NEUMANN I. B., 1999, Uses of the Other: “The East” in European Identity
+Formation, Minneapolis, University of Minnesota Press.
+
+
+NEUSTADT R. E. et MAY E. R., 1986, Thinking in Time: The Uses of
+History for Decision Makers, New York, Free Press.
+
+
+NEUSTADT R. E., 1960, Presidential Power: The Politics of Leadership,
+New York, Wiley.
+
+
+NEWMAN B. et LAMMERT K., 2011,  Polls and Elections: Divided
+Governments and Foreign Relations Approval", Presidential Studies
+Quarterly, vol. 41(2), p. 375-392.
+
+
+NEWMAN
+
+
+Transnational Civil Liberties",
+
+
+A., 2008, “Building
+International Organization, vol. 62(1), p. 103-130.
+
+
+NEWNHAM R., 2000, “More Flies with Honey: Positive Economic Linkage
+in German Ostpolitik from Bismark to Kohl", International Studies
+Quarterly, vol. 44(1), p. 73-96.
+
+
+NICHOLLS N. H., HUTH P. K. et APPEL B. J., 2010, “When Is Domestic
+Political Unrest Related to International Conflict?", International Studies
+Quarterly, vol. 54(4), p. 915-934.
+
+
+NICOLAÏDIS K. et Howse R., 2003, “ This is My EUtopia...': Narrative as
+Power", in Weiler J. H. H., Begg I. et Peterson J. (dirs), Integration in an
+Expanding European Union, Oxford, Blackwell, p. 341-366.
+
+
+NINCIC M., 1988, "The United States, the Soviet Union and the Politics of
+Opposites", World Politics, vol. 40(3), p. 452-475.
+
+
+NINCIC M., 1992, Democracy and Foreign Policy: The Fallacy of
+Political Realism, New York, Columbia University Press.
+
+
+NOCETTI J., 2011, « La diplomatie d'Obama à l'épreuve du web 2.0 »,
+Politique étrangère, vol. 76(1), p. 157-169.
+
+
+NOËL A. et THÉRIEN J.-P., 1995, "From Domestic to International Justice:
+The Welfare State and Foreign Aid”, International Organization, vol. 49(3),
+p. 523-553.
+
+
+NOLAN C. J., 1985, “The Influence of Parliament on Human Rights in
+Canadian Foreign Policy”, Human Rights Quarterly, vol. 7(3), p. 373-390.
+
+
+NOORUDDIN I., 2002, “Modeling Selection Bias in Studies of Sanctions
+Efficacy", International Interactions, vol. 28(1), p. 59-75.
+
+
+NYE J., 1987, “Nuclear Learning and US-Soviet Security Regimes",
+International Organization, vol. 41, p. 371-402.
+
+
+NYE J., 2004, "Soft Power: The Means to Success in World Politics",
+Public Affairs, vol. 1(2), p. 192-211.
+
+
+NYE J., 2008, “Public Diplomacy and Soft Power", Annals of the
+American Academy of Political and Social Sciences, vol. 616(1), p. 94-109.
+
+
+O'HEFFERNAN P., 1991, Mass Media and American Foreign Policy:
+Insider Perspectives on Global Journalism and the Foreign Policy Process,
+Santa Barbara, Greenwood.
+
+
+O'NEILL B., 2001, “Risk Aversion in International Relations Theory",
+International Studies Quarterly, vol. 45(4), p. 617-640.
+
+
+O'REILLY K. P. О., 2007, “Perceiving Rogue States", Foreign Policy
+Analysis, vol. 3(4), p. 295-315.
+
+
+O'REILLY R., 2005, “Veto Points, Veto Players and International Trade
+Policy", Comparative Political Studies, vol. 38(6), p. 652-675.
+
+
+O'ROURKE K. H. et TAYLOR A. M., 2007, “Democracy and
+Protectionism", in Hatton T. J., O'Rourke K. H. et Taylor A. M. (dirs), The
+New Comparative Economic History, Cambridge, MIT Press, p. 193-217.
+
+
+OATES S., 2006, “Framing Fear: Findings from a Study of Election News
+and Terrorist Threat in Russia”, Europe-Asia Studies, vol. 58(2), p. 281-
+290.
+
+
+OLDENDICK R. W. et BARDES B. A., 1982, “Mass and Elite Foreign Policy
+Opinions", Public Opinion Quarterly, vol. 46(3), p. 368-382.
+
+
+ONEAL J. R. et BRYAN A. L., 1995, “The Rally Round the Flag Effect in
+US Foreign Policy Crises, 1950-1985”, Political Behavior, vol. 17(4),
+
+
+p. 379-401.
+
+
+ONEAL J. R. et RUSSETT B., 1999, “Assessing the Liberal Peace with
+Alternative Specifications", Journal of Peace Research, vol. 36(4), p. 423-
+442.
+
+
+ONEAL J. R. et RUSSETT B., 1999, “The Kantian Peace", World Politics,
+vol. 52(1), p. 1-37.
+
+
+ONEAL J. R., LIAN B. et JOYNER J. H., 1996, “Are the American People
+Pretty Prudent?”, International Studies Quarterly, vol. 40(2), p. 261-280.
+
+
+ONEAL J. R., RUSSETT B. et BERBAUM М., 2003, “Causes of Peace:
+Democracy, Interdependence and International Organizations, 1885-1992",
+International Studies Quarterly, vol. 47(3), p. 371-393.
+
+
+ONUF N., 2001, “Speaking of Policy", in Kubálková V. (dir.), Foreign
+Policy in a Constructed World, Armonk, Sharpe, p. 77-95.
+
+
+OPPERMANN K. et VIEHRIG H., 2012, “The Public Salience of Foreign and
+Security Policy in Britain, Germany and France", West European Politics,
+vol. 32(5), p. 925-942.
+
+
+OREN I., 1995, “The Subjectivity of the Democratic Peace”, International
+Security, vol. 20(2), p. 147-184.
+
+
+OSIANDER A., 2001, “Sovereignty, International Relations, and the
+Westphalian Myth”, International Organization, vol. 55(2), p. 251-287.
+OSTROM C. et Job B., 1986, "The President and the Political Use of
+Force", American Political Science Review, vol. 80(2), p. 541-566.
+
+
+OSTROM C., 1977, “Evaluating Alternative Foreign Policy Decision-
+Making Models”, Journal of Conflict Resolution, vol. 21(2), p. 235-266.
+
+
+OSTROM E., 1999, “Coping with Tragedies of the Commons”, Annual
+Review of Political Science, vol. 2(3), p. 493-535.
+
+
+OWEN J. M., 1997, Liberal Peace, Liberal War: American Politics and
+International Security, Ithaca, Cornell University Press.
+
+
+OZKECECI-TANER B., 2005, “The Impact of Institutionalized Ideas in
+Coalition Foreign Policy Making: Turkey as an Example, 1991-2002",
+Foreign Policy Analysis, vol. 1(2), p. 249-278.
+
+
+on
+
+
+OZKECECI-TANER В., 2006, “Reviewing the Literature
+Sequential/Dynamic Foreign Policy Decision Making", International
+Studies Review, vol. 8(5), p. 545-554.
+
+
+PAARLBERG R., 1997, “Agricultural Policy Reform and the Uruguay
+Round: Synergistic Linkage in a Two-Level Game?”, International
+Organization, vol. 51(3), p. 413-444.
+
+
+PAGE B. et BARABAS J., 2000,  Foreign Policy Gaps between Citizens and
+Leaders", International Studies Quarterly, vol. 44(3), p. 339-364.
+
+
+PAGE, B. et SHAPIRO R., 1983, "Effects of Public Opinion on Policy",
+American Political Science Review, vol. 77(1),  . 175-190.
+
+
+PAGE, B. et SHAPIRO R., 1992, The Rational Public: Fifty Years of Trends
+in American Policy Preferences, Chicago, University of Chicago Press.
+
+
+PAGE S., 2006, “Path Dependence", Journal of Political Science,
+vol. 1(1), p. 87-115.
+
+
+PAHRE R., 1997, “Endogenous Domestic Institutions in Two-Level Games
+and Parliamentary Oversight of the European Union", Journal of Conflict
+Resolution, vol. 41(1), p. 147-174.
+
+
+PALMER G. et BHANDARI A., 2000, “The Investigation of Substitutability in
+Foreign Policy", Journal of Conflict Resolution, vol. 44(1), p. 3-10.
+
+
+PALMER G. et SOUCHET A., 1994, "Security, Autonomy and Defense
+Burdens", Defense and Peace Economics, vol. 5(2), p. 189-204.
+
+
+PALMER G., WOHLANDER S. B. et Morgan T. C., 2002, "Give or Take:
+Foreign Aid and Foreign Policy Substitutability", Journal of Peace
+Research, vol. 39(1), p. 5-26.
+
+
+PALMER G., LONDON T. et REGAN P., 2004, "What's Stopping You?",
+International Interactions, vol. 30(1), p. 1-24.
+
+
+PANKE D. et PETERSOHN U., 2012, “Why International Norms Disappear
+Sometimes", European Journal of International Relations, publication
+prochaine.
+
+
+PAPAYOANOU P., 1996, “Interdependence, Institutions and the Balance of
+Power: Britain, Germany and World War I , International Security,
+vol. 20(4), p. 42-76.
+
+
+PAPE R. A., 1997, "Why Economic Sanctions Do Not Work",
+International Security, vol. 22(2), p. 90-136.
+
+
+PAQUIN J. 2009, “Canadian Foreign and Security Policy: Reaching a
+Balance between Autonomy and North American Harmony in the Twenty-
+First Century", Canadian Foreign Policy, vol. 15(2), p. 99-108.
+
+
+PAQUIN J., 2008, “Managing Controversy: U.S. Stability-Seeking and the
+Birth of the Macedonian State”, Foreign Policy Analysis, vol. 4(4), p. 441-
+462.
+
+
+PAQUIN S., 2002, « Paradiplomatie identitaire en Catalogne et les relations
+Barcelone-Madrid », Études internationales, vol. 33(1), p. 57-90.
+
+
+PAQUIN S., 2004, « La paradiplomatie identitaire: Le Québec, la
+Catalogne et la Flandre en relations internationales », Politique et Société,
+vol. 23(2-3), p. 203-237.
+
+
+PARIS R. 2002, “Kosovo and the Metaphor War”, Political Science
+Quarterly, vol. 117(3), p. 423-450.
+
+
+PARKER C. F. et Stern E. K., 2002, “Blindsided: September 11 and the
+Origins of Strategic Surprise , Political Psychology, vol. 23(3), p. 601-630.
+
+
+PARKER S., 1995, “Toward an Understanding of 'Rally' Effects: Public
+Opinion in the Persian Gulf War , Public Opinion Quarterly, vol. 59(4),
+p. 526-546.
+
+
+PARMAR I., 2004, Think Tanks and Power in Foreign Policy, Houndmills,
+Palgrave MacMillan.
+
+
+PARSONS C., 2002, “Showing Ideas as Causes: The Origins of the
+European Union”, International Organization, vol. 56(1), p. 47-84.
+
+
+PARSONS T., 1971, The System of Modern Societies, New York, Free
+Press.
+
+
+PATTERSON L. A., 1997, “Agricultural Policy Reform in the European
+Community: A Three-Level Game Analysis”, International Organization,
+vol. 51(1), p. 135-165.
+
+
+PAVRI T., 2002, “Indian Foreign Policy: From Consensus to Disarray", in
+Beasley R., Kaarbo J., Lantis J. S. et Snarr M. T. (dirs), Foreign Policy in
+Comparative Perspective, Washington, CQ Press, p. 170-188.
+
+
+PAYNE R. A., 2001, "Persuasion, Frames and Norm Construction",
+European Journal of International Relations, vol. 7(1), p. 37-61.
+
+
+PECENY M. et BEER C. C., 2003, “Peaceful Parties and Puzzling
+Personalities", American Political Science Review, vol. 97(2), p. 339-342.
+PECENY M., 1997, “A Constructivist Interpretation of the Liberal Peace",
+Journal of Peace Research, vol. 34(4), p. 415-430.
+
+
+PECENY M., BEER C. C. et SANCHEZ-TERRY S., 2002, "Dictatorial Peace?",
+American Political Science Review, vol. 96(1),  . 15-26.
+
+
+PELC K. J., 2010, “Constraining Coercion? Legitimacy and Its Role in US
+Trade Policy, 1975-2000”, International Organization, vol. 64(1), p. 65-96.
+PERCY S. V., 2007, “Mercenaries: Strong Norm Weak Law , International
+Organization, vol. 61(2), p. 367-397.
+
+
+PERLA H., 2011, "Explaining Public Support for the Use of Military
+Force", International Organization, vol. 65(2),  . 139-167.
+
+
+PERLMUTTER A., 1974, “The Presidential Political Center and Foreign
+Policy", World Politics, vol. 27(1), p. 87-106.
+
+
+PETERSON M. J., 1992, “Whaler, Cetologists, Environmentalists and the
+International Management of Whaling", International Organization,
+vol. 46(1), p. 147-186.
+
+
+PETERSON M. J., 1997, “The Use of Analogies in Developing Outer Space
+Law , International Organization, vol. 51(2), p. 245-274.
+
+
+PETERSON T., 2011, “Third-Party Trade, Political Similarity and Dyadic
+Conflict", Journal of Peace Research, vol. 48(2), p. 185-200.
+
+
+PETERSON V. S., 1995, “The Politics of Identity and Gendered
+Nationalism", in Neack L., Hey J. et Haney P. (dirs), Foreign Policy
+Analysis: Continuity and Change in Its Second Generation, Englewood
+Cliffs, Prentice Hall, p. 167-186.
+
+
+PETRY F. et Mendelsohn M., 2004, “Public Opinion and Policy Making in
+Canada, 1994-2001 , Revue canadienne de science politique, vol. 37(3),
+p. 505-529.
+
+
+PETTMAN J. J., 1996, Worlding Women: A Feminist International Politics,
+Londres, Routledge.
+
+
+PEVEHOUSE J. C., 2002, “Democracy from the Outside-In? International
+Organizations
+and Democratization", International Organization,
+vol. 56(3), p. 515-549.
+
+
+PICKERING J. et. KISANGANI E. F, 2005, “Democracy and Diversionary
+Military Intervention”, International Studies Quarterly, vol. 49(1), p. 23-43.
+
+
+PIERSON P., 1993, “When Effect Becomes Cause: Policy Feedback and
+Political Change”, World Politics, vol. 45(4), p. 595-628.
+
+
+PIERSON P., 2000, “Increasing Returns, Path Dependence and the Study of
+Politics", American Political Science Review, vol. 94(2), p. 251-267.
+
+
+POE S. C. et MEERNIK J., 1991, “US Military Aid in the 1980s: A Global
+Analysis", Journal of Peace Research, vol. 32(4),  . 399-411.
+
+
+POLACHEK S. et XIANG, J. 2010, "How Opportunity Costs Decrease the
+Probability of War in an Incomplete Information Game”, International
+Organization, vol. 64(1), p. 133-144.
+
+
+POLACHEK S., 1980, “Conflict and Trade", Journal of Conflict Studies,
+vol. 24(1), p. 57-78.
+
+
+POLLINS B. M., 1989, “Conflict, Cooperation and Commerce”, American
+Journal of Political Science, vol. 33(3), p. 737-761.
+
+
+POSEN B. R., 1993, “Nationalism, the Mass Army, and Military Power",
+International Security, vol. 18(2), p. 80-124.
+
+
+POST J., 1983, “Woodrow Wilson Re-examined: The
+Controversy Redux and Other Disputations", Political
+vol. 4(2), p. 289-306.
+
+
+Mind-Body
+Psychology,
+
+
+POST J., WALKER S. et WINTER D., 2003, “Profiling Political Leaders , in
+Post J. (dir.), The Psychological Assessment of Political Leaders, Ann
+Arbor, University of Michigan Press, p. 1-10.
+
+
+POST J. M., 1991, “Saddam Hussein of Iraq: A Political Psychology
+Profile", Political Psychology, vol. 12(2), p. 279-289.
+
+
+POST J. M., 1993, “Current Concepts of the Narcissistic Personality:
+Implications for Political Psychology , Political Psychology, vol. 14(1),
+p. 99-122.
+
+
+POST J. M., 2004, Leaders and Their Followers in a Dangerous World,
+Ithaca, Cornell University Press.
+
+
+POST J. M., 2006, The Psychological Assessment of Political Leaders,
+Ann Arbor, University of Michigan Press.
+
+
+POTTER E. H., 2008, Branding Canada: Projecting Canada's Soft Power
+through Public Diplomacy, Montreal, McGill-Queen's University Press.
+
+
+POTTER P. B. K. et BAUM М. А., 2010,  Democratic Peace, Domestic
+Audience Costs and Political Communication , Political Communication,
+vol. 27(4), p. 453-470.
+
+
+POULIOT V., 2008, "The Logic of Practicality: A Theory of Practice of
+Security Communities”, International Organization, 62(2), p. 257-288.
+
+
+POWELL C., 2004, “The Craft of Diplomacy", Wilson Quarterly,
+vol. 28(3), p. 60-67.
+
+
+POWELL R., 1990, Nuclear Deterrence Theory: The Search for Credibility,
+Cambridge, Cambridge University Press.
+
+
+POWELL R., 2003, “Nuclear Deterrence Theory, Nuclear Proliferation and
+National Missile Defense , International Security, vol. 27(4), p. 86-118.
+
+
+POWLICK P. J. et Katz A. Z., 1998, “Defining the American Public
+Opinion/Foreign Policy Nexus”, Mershon International Studies Review,
+vol. 42(1), p. 29-61.
+
+
+POWLICK P. J., 1991, “The Attitudinal Bases for Responsiveness to Public
+Opinion among American Foreign Policy Officials , Journal of Conflict
+Resolution, vol. 35(4), p. 611-641.
+
+
+POWLICK P. J., 1995, “The Sources of Public Opinion for American
+Foreign Policy Official , International Studies Quaterly, vol. 39(4), p. 427-
+451.
+
+
+PRESTON T. et 't HART P., 1999, “Understanding and Evaluating
+Bureaucratic Politics , Political Psychology, vol. 20(1), p. 49-98.
+
+
+PRESTON T., 1997, "Following the Leader , in 't Hart P., Sundelius B et
+Stern E. (dirs), Beyond Groupthink: Group Decision Making in Foreign
+Policy, Ann Arbor, University of Michigan Press.
+
+
+PRESTON T., 2001, The President and His Inner Circle: Leadership Style
+and the Advisory Process in Foreign Affairs, New York, Columbia
+University Press.
+
+
+PRICE M., 2009, “End of Television and Foreign Policy , Annals of the
+American Academy of Political and Social Science, vol. 625(1), p. 196-204.
+
+
+PRICE R. et REUS-SMIT C., 1998, “Dangerous Liaisons? Critical
+International Relation Theory and Constructivism”, European Journal of
+International Relations, vol. 4(3), p. 259-294.
+
+
+PRICE R., 1997, The Chemical Weapons Taboo, Ithaca, Cornell University
+Press.
+
+
+PRINS B. C. et SPRECHER C., 1999, "Institutional Constraints, Political
+Opposition and Interstate Dispute Escalation”, Journal of Peace Research,
+vol. 36(3), p. 271-287.
+
+
+PRINS B. C., 2001,  Domestic Politics and Interstate Disputes: Examining
+US MID Involvement and Reciprocation, 1870-1992", International
+Interactions, vol. 26(4), p. 411-438.
+
+
+PRIZEL I., 1998, National Identity and Foreign Policy: Nationalism and
+Leadership in Poland, Russia and Ukraine, Cambridge, Cambridge
+University Press.
+
+
+PURKITT H. E. et DYSON J. W., 1986, “The Role of Cognition in US
+Foreign Policy toward Southern Africa”, Political Psychology, vol. 7(3),
+p. 507-532.
+
+
+PUTNAM R. D., 1988, “Diplomacy and Domestic Politics: The Logic of
+Two-Level Games”, International Organization, vol. 42(3),  . 427-460.
+
+
+QUACKENBUSH S. L., 2004, “The Rationality of Rational Choice Theory”,
+International Interactions, vol. 30(2), p. 87-107
+
+
+QUACKENBUSH S. L., 2010, “Deterrence Theory: Where Do We Stand?",
+Review of International Studies, vol. 37(2), p. 741-762.
+
+
+RAI K. B., 1980, “Foreign aid and voting in the UN General Asssembly,
+1967-1976", Journal of Peace Research, vol. 17(3), p. 269-277.
+
+
+RAJAN R. et SUBRAMANIAN A., 2008, “Aid and Growth", Review of
+Economics and Statistics, vol. 90(4), p. 643-665
+
+
+RAMEL F., 2003, « La sécurité humaine : une valeur de rupture dans les
+cultures stratégiques au Nord? », Études internationales, vol. 34(1),  . 79-
+104.
+
+
+RAMSAY K. W., 2011, “Cheap Talk Diplomacy, Voluntary Negotiations
+and Variable Bargaining Power , International Studies Quarterly,
+vol. 55(4), p. 1003-1023.
+
+
+RASMUSSEN M. V. 2001, “Reflexive Security: NATO and International
+Risk Society", Millenium, vol. 30(2), p. 285-309.
+
+
+RAUSTIALA K., 2002, “The Architecture of International Cooperation",
+Virginia Journal of International Law, vol. 43(1), p. 1-92.
+
+
+RAVLO H., GLEDITSH N. P. et DORUSSEN H., 2003, “Colonial War and the
+Democratic Peace”, Journal of Conflict Resolution, vol. 47(4), p. 520-548.
+
+
+RAY J. et VURAL A., 1986, “Power Disparities and Paradoxical Conflict
+Outcomes", International Interactions, vol. 12(4), p. 315-342.
+
+
+RAY J., 1998, “Does Democracy Cause Peace?", Annual Review of
+Political Science, vol. 1(1), p. 27-46.
+
+
+RAYMOND G., 1997, “Problems and Prospects in the Study of International
+Norms", Mershon International Studies Review, vol. 41(2), p. 205-245.
+RAYMOND G. A., 1994, “Democracies, Disputes and Third Party
+Intermediaries , Journal of Conflict Resolution, vol. 38(1), p. 24-42.
+
+
+REDD S., 2002, “The Influence of Advisors on Foreign Policy Decision
+Making", Journal of Conflict Resolution, vol. 46(3), p. 335-364.
+
+
+REEVE R., 2002, Policing International Trade in Endangered Species, The
+CITES Treaty and Compliance, Londres, The Royal Institute of
+International Affairs.
+
+
+REGAN P. M. et PASKEVICIUTE A., 2003, "Women's Access to Politics and
+Peaceful States”, Journal of Peace Research, vol. 40(3), p. 287-302.
+
+
+REGAN P. M., 2000, "Substituting Policies During US Interventions in
+Internal Conflicts: A Little of This, A Little of That", Journal of Conflict
+Resolution, vol. 44(1), p. 90-106.
+
+
+REIFLER J., SCOTTO T. J. et CLARKE H. D., 2011, “Foreign Policy Beliefs in
+Contemporary Britain”, International Studies Quarterly, vol. 55(1), p. 245-
+
+
+266.
+
+
+REITER D. et STAM A., 1998, "Democracy and Battlefiled Military
+Effectiveness", Journal of Conflict Resolution, vol. 42(3), p. 259-277.
+
+
+REITER D. et STAM A., 2002, Democracies at War, Princeton, Princeton
+University Press.
+
+
+REITER D. et STAM A., 2003, “Identifying the Culprit: Democracy,
+Dictatorship and Dispute Initiation”, American Political Science Review,
+vol. 97(2), p. 333-337.
+
+
+REITER D. et TILLMAN E. R., 2002, “Public, Legislative and Executive
+Constraints on the Democratic Initiation of Conflict , Journal of Politics,
+vol. 64(3), p. 810-826.
+
+
+REITER D., 1996, Crucible of Beliefs: Learning, Alliances and World
+Wars, Ithaca, Cornell University Press.
+
+
+REITER D., 1999, “Military Strategy and the Outbreak of International
+Conflict", Journal of Conflict Resolution, vol. 43(3), p. 366-387.
+
+
+REITER D., 2003, "Exploring the Bargaining Model of War”, Perspectives
+on Politics, vol. 1(1), p. 27-43.
+
+
+REMACLE E., 2008, “Approaches to Human Security: Japan, Canada and
+Europe in Comparative Perspective”, Journal of Social Science, $n^{\circ}$ 66, p. 5-
+34.
+
+
+RENSHON J. 2011,  Stability and Change in Belief Systems", in Walker S.,
+Malici G. et Schafer M. (dirs), 2011, Rethinking Foreign Policy Analysis,
+Londres, Routledge, p. 169-188.
+
+
+RENSHON J., 2008, "Stability and Change in Belief Systems , Journal of
+Conflict Resolution, vol. 52(6), p. 820-849.
+
+
+RENSHON S. A. et LARSON D. W. (dirs), 2003, Good Judgment in Foreign
+Policy: Theory and Application, Lanham, Rowand & Littlefield.
+
+
+RHODES E., 1994, “Do Bureaucratic Politics Matter? Some Disconfirming
+Findings from the Case of the US Navy", World Politics, vol. 47(1), p. 1-
+41.
+
+
+RICHARDS D., MORGAN T. C., WILSON R. K., Schwebach V. L. et Young
+G. D., 1993, “Good Times, Bad Times and the Diversionary Use of Force",
+
+
+Journal of Conflict Resolution, vol. 37(3), p. 504-535.
+
+
+RICHARDSON L., 1992, “Avoiding and Incurring Losses: Decision-Making
+in the Suez Crisis”, International Journal, vol. 47(2), p. 370-401.
+
+
+RICHEY L. A., 2001, “In Search of Feminist Foreign Policy: Gender,
+Development and Danish State Identity", Cooperation and Conflict,
+vol. 36(2), p. 177-212.
+
+
+RINGMAR E., 1996, Identity, Interest and Action: A Cultural Explanation
+of Sweden's Intervention in the Thirty Years' War, Cambridge, Cambridge
+University Press.
+
+
+RIOUX J. S., 1998, “A Crisis-Based Evaluation of the Democratic Peace
+Proposition", Canadian Journal of Political Science, vol. 31(2), p. 263-283.
+
+
+RIPBERGER J. T., RABOVSKY T. M. et HERRON K. G., 2011, “Public Opinion
+and Nuclear Zero: A Domestic Constraint on Ditching the Bomb , Politics
+& Policy, vol. 39(6), p. 891-923.
+
+
+RIPLEY B., 1993, “Psychology, Foreign Policy and International Relations
+Theory", Political Psychology, vol. 14(3), p. 403-416.
+
+
+RIPLEY B., 1995, “Cognition, Culture and Bureaucratic Politics”, in
+Neack L., Hey J. A. K. et Haney P. J. (dirs), Foreign Policy Analysis:
+Continuity and Change in Its Second Generation, Englewood, Prentice
+Hall, p. 85-97.
+
+
+RIPLEY B., 2002, “China: Defining Its Role in the Global Community , in
+Beasley R., Jaarbo J., Lantis J. et Snarr M. (dirs), Foreign Policy in
+Comparative Perspective, Washington, CQ Press, p. 121-144.
+
+
+RISSE T., 1991, “Public Opinion, Domestic Structure and Foreign Policy
+in Liberal Democracies”, World Politics, vol. 43(4), p. 479-512.
+
+
+RISSE T., 1994, “Ideas Do Not Float Freely: Transnational Coalition,
+Domestic Structures and the End of the Cold War", International
+Organization, vol. 48(2), p. 185-214.
+
+
+RISSE T., 1995, Cooperation among Democracies: The European
+Influence on US Foreign Policy, Princeton, Princeton University Press.
+
+
+RISSE T., 2000,  Let's Argue! Communicative Action in World Politics",
+International Organization, vol. 54(1), p. 1-39.
+
+
+RISSE T., ENGELMANN-MARTIN D., KNOPF H. J. et ROESCHER K., 1999, "Το
+Euro or Not to Euro?", European Journal of International Relations,
+vol. 5(2), p. 147-187.
+
+
+RISSE T., ROPP S. et SIKKINK K. (dirs), 1999, The Power of Human Rights:
+International Norms and Domestic Change, Cambridge, Cambridge
+University Press.
+
+
+RITTBERGER V. (dir.), 2001, German Foreign Policy since Unification,
+Manchester, Manchester University Press.
+
+
+ROBINSON P., 2002, The CNN Effect: The Myth of News, Foreign Policy
+and Intervention, Londres, Routledge.
+
+
+RODRIK D., 1998, “Why Do More Open Economies Have Bigger
+Governments?”, Journal of Political Economy, vol. 106(5),  . 997-1032.
+
+
+ROGERS J., 2009, “From Civilian Power to Global Power", Journal of
+Common Market Studies, vol. 47(4), p. 831-862.
+
+
+ROGOWSKI R., 1987, “Political Cleavages and Changing Exposure to
+Trade", American Political Science Review, vol. 81(4), p. 1121-1137.
+
+
+ROGOWSKI R., 1987, “Trade and the Variety of Democratic Institutions ,
+International Organization, vol. 41(2), p. 203-223.
+
+
+ROHRLICH P. E., 1987, “Economic Culture and Foreign Policy: The
+Cognitive Analysis of Economic Policy Making", International
+Organization, vol. 41(1), p. 61-92.
+
+
+ROOSENS C., Rosoux V., WILDE D'ESMAEL T. (dirs), 2004, La politique
+étrangère. Le modèle classique à l'epreuve, Bruxelles, Peter Lang.
+
+
+ROPER S. T et BARRIA L. A., 2007, “Gatekeeping versus Allocating in
+Foreign Assistance , Journal of Conflict Resolution, vol. 51(2), p. 285-304.
+
+
+ROSATI J. A. et CREED J., 1997, “Extending the Three- and Four-Headed
+Eagles", Political Psychology, vol. 18(3), p. 583-623.
+
+
+ROSATI J. A., 1981, “Developing a Systematic Decision Making
+Framework: Bureaucratic Politics in Perspective", World Politics,
+vol. 33(2), p. 235-252.
+
+
+ROSATI J. A., 2001, “The Power of Human Cognition in the Study of
+World Politics”, International Studies Review, vol. 2(3), p. 45-75.
+
+
+ROSATI J. A., HAGAN J. D. et SAMPSON III M. W. (dirs), 1994, Foreign
+Policy Restructuring, Columbia, University of South Carolina Press.
+
+
+ROSE G., 1998, “Neoclassical Realism and Theories of Foreign Policy",
+World Politics, vol. 51(1), p. 144-172.
+
+
+ROSECRANCE R. et STEIN A. A. (dirs), 1993, The Domestic Bases of Grand
+Strategy, Ithaca, Cornell University Press.
+
+
+ROSENAU J. N. et RAMSEY G. H., 1975, “External and Internal Typologies
+of Foreign Policy Behavior", Sage International Yearbook of Foreign
+Policy Studies, vol. 3, p. 245-262.
+
+
+ROSENAU J. N., 1966, “Pre-Theories and Theories of Foreign Policy", in
+Rosenau, J. N. (dir.), The Scientific Study of Foreign Policy, New York et
+Londres, Free Press, p. 95-149.
+
+
+ROSENAU J. N., 1968, "Comparative Foreign Policy: Fad, Fantasy or
+Field?", International Studies Quarterly, vol. 12(3), p. 296-329.
+
+
+ROSENAU J. N., 1980, The Scientific Study of Foreign Policy, Londres,
+Ponter.
+
+
+ROSENSON B., OLDMIXON E. et WIDE K., 2009, "Senators' Support for
+Israel Examined Through Sponsorship/Cosponsorship Decision, 1993-
+2002", Foreign Policy Analysis, vol. 5(1), p. 73-91.
+
+
+ROTH C. et BOURGINE P., 2004, “Epistemic Communities: Description and
+Hierarchic Categorization”, Mathematical Population Studies, vol. 12(2),
+p. 107-130.
+
+
+ROTTINGHAUS B., 2007, “Following the  Mail Hawks': Alternative
+Measures of Public Opinion on Vietnam in the Johnson White House ,
+Public Opinion Quarterly, vol. 71(3), p. 367-391.
+
+
+ROUSSEAU D. L. et GARCIA-RETAMERO R., 2007, "Identity, Power and
+Threat Perception , Journal of Conflict Resolution, vol. 51(5), p. 744-771.
+
+
+ROUSSEAU D. L., GELPI C., Reiter D. et Huth P. K., 1996, "Assessing the
+Dyadic Nature of the Democratic Peace, 1918-88 , American Political
+Science Review, vol. 90(3), p. 512-533.
+
+
+ROUSSEL S. (dir.), 2007, Culture stratégique et politique de défense :
+L'expérience canadienne, Outremont, Athena,
+
+
+ROUSSEL S. et ROBICHAUD C., 2004, « L'État postmoderne par excellence?
+Internationalisme et promotion de l'identité internationale du Canada »,
+Études internationales, vol. 35(1),  . 150-170.
+
+
+ROWLEY C. et WELDES J., 2008, "Identities and US Foreign Policy", in
+Cox M. et Strokes D. (dirs), US Foreign Policy, Oxford, Oxford University
+Press, p. 183-209.
+
+
+RUBENZER T., 2008, “Ethnic Minority Interest Group Attributes and US
+Foreign Policy Influence , Foreign Policy Analysis, vol. 4(2), p. 169-185.
+
+
+RUBENZER T., 2011, “Campaign Contributions and US Foreign Policy
+Outcome: An Analysis of Cuban American Interests , American Journal of
+Political Science, vol. 55(1), p. 105-116.
+
+
+RUDALEVIGE A., 2005, “The Structure of Leadership: Presidents,
+Hierarchies and Information Flow”, Presidential Studies Quarterly,
+vol. 35(2), p. 333-360.
+
+
+RUGGIE J. G., 1982, “International Regimes, Transactions and Change:
+Embedded Liberalism in the Postwar Economic Order", International
+Organization, vol. 36(2), p. 379-415.
+
+
+RUGGIE J. G., 1993, Multilateralism Matters: The Theory and Praxis of
+an Institutional Form, New York, Columbia University Press.
+
+
+RUMELILI B., 2004, “Constructing Identity and Relating to Difference:
+Understanding the EU's Mode of Differentiation , Review of International
+Studies, vol. 30(1),  . 27-47.
+
+
+RUMELILI B., 2011, “Turkey: Identity, Foreign Policy and Socialization in
+Post-Enlargement Europe", Journal of European Integration, vol. 33(2),
+p. 235-249.
+
+
+RUSSETT B., 1992, "Normative and Structural Causes of the Democratic
+Peace", American Political Science Review, vol. 87(3), p. 624-638.
+
+
+RUSSETT B. et ONEAL J. R., 2001, Triangulating Peace: Democracy,
+Interdependence and International Organizations, New York, Norton.
+
+
+RUSSETT B. et ANTHOLIS W., 1992, “Do Democracies Fight Each Other?
+Evidence from the Peloponnesian War", Journal of Peace Research,
+vol. 29(4), p. 415-434.
+
+
+RUSSETT B., 1967, “Deterrence Theory and Decision Theory , Journal of
+Peace Research, vol. 4(2), p. 89-105.
+
+
+RUSSETT B., 1990, Controlling the Sword: The Democratic Governance of
+National Security, Cambridge, Harvard University Press.
+
+
+SABBAG D. 2001, « Les déterminants internes de la politique étrangère des
+États-Unis », Revue internationale de politique comparée, vol. 8(1), p. 135-
+161.
+
+
+SAMPSON M. et WALKER S., 1987, Cultural Norms and National Roles,
+Durham, Duke University Press.
+
+
+SANDAL N. A., ZHANG E., JAMES C. Cet JAMES P., 2011, “Poliheuristic
+Theory and Crisis Decision Making", Canadian Journal of Political
+Science, vol. 44(1), p. 27-57.
+
+
+SANDHOLTZ W., 2008, "Dynamics of International Norm Change",
+European Journal of International Relations, vol. 14(1), p. 101-131.
+
+
+SASLEY B., 2010, “Affective Attachment and Foreign Policy: Israel and
+the 1992 Oslo Accords", European Journal of International Relations,
+vol. 16(4), p. 687-709.
+
+
+SASLEY B., 2011, “Theorizing States' Emotions”, International Studies
+Review, vol. 13(4), p. 452-476.
+
+
+SATHASIVAM KК., 2003, No Other Choice: Pakistan's Decision to Test the
+Bomb in Integrating Cognitive and Rational Theories of Foreign Policy
+Decision Making, New York, Palgrave Macmillan.
+
+
+SCHAFER M. et CRICHLOW S., 1996, “Antecedents of Groupthink: A
+Quantitative Study", Journal of Conflict Resolution, vol. 40(3), p. 415-435.
+
+
+SCHAFER M. et CRICHLOW S., 2000, “Bill Clinton's Operational Code:
+Assessing Source Material Bias , Political Psychology, vol. 21(3), p. 559-
+571.
+
+
+SCHAFER M. et CRICHLOW S., 2002, “ The Process  Outcome' Connection
+in Foreign Policy Decision Making , International Studies Quarterly,
+vol. 46(1), p. 45-68.
+
+
+SCHAFER M. et WALKER S. G., 2006, "Democratic Leaders and the
+Democratic Peace: The Operational Codes of Tony Blair and Bill Clinton ,
+International Studies Quarterly, vol. 50(3), p. 561-583.
+
+
+SCHAFER M., 1999, “Cooperative and Conflictual Policy Preference",
+Political Psychology, vol. 20(4), p. 829-844.
+
+
+SCHAFER M., 2003, “Science, Empiricism and Tolerance in the Study of
+Foreign Policy Making , International Studies Review, vol. 5(2), p. 171-
+177.
+
+
+SCHAUB G. Jr., 2004, "Deterrence, Compellence and Prospect Theory",
+Political Psychology, vol. 25(3),  . 389-411.
+
+
+SCHELLING T., 1966, Arms and Influence, New Haven, Yale University
+Press.
+
+
+SCHEVE K. F. et SLAUGHTER M. J., 2001, "What Determines Individual
+Trade Policy Preferences?", Journal of International Econonomy,
+vol. 54(2), p. 267-292.
+
+
+SCHIMMELFENNIG F. et SEDELMEIER U., 2004, “Governance by
+Conditionality”, Journal of European Public Policy, vol. 11(4), p. 661-679.
+
+
+SCHIMMELFENNIG F., 2000, “International Socialization in the New Europe:
+Rational Action in an Institutional Environment”, European Journal of
+International Relations, vol. 6(1), p. 109-139.
+
+
+SCHIMMELFENNIG F., 2001, “The Community Trap: Liberal Norms,
+Rhetorical Action and the Eastern Enlargement of the European Union",
+International Organization, vol. 55(1), p. 47-80.
+
+
+SCHIMMELFENNING F., 1998, “NATO Enlargement: A Constructivist
+Explanation", Security Studies, vol. 8(2), p. 198-234.
+
+
+SCHMIDT S., 2011, “To Order the Minds of Scholars , International
+Studies Quarterly, vol. 55(3), p. 601-623.
+
+
+SCHMIDT V. A., 2007, “Trapped by Their Ideas: French Elites Discourses
+of European Integration and Globalization”, Journal of European Public
+Policy, vol. 14(7),  . 992-1009.
+
+
+SCHMIDT V. A., 2008, “Discursive Institutionalism: The Explanatory
+Power of Ideas and Discourse , Annual Review of Political Science,
+vol. 11(1), p. 303-326.
+
+
+SCHMIDT V. A., 2010, “Taking Ideas and Discourse Seriously”, European
+Political Science Review, vol. 2(1), p. 1-25.
+
+
+SCHNEIDER C. J., 2011, “Weak States and Internationalized Bargaining
+Power in International Organizations", International Studies Quarterly,
+vol. 55(2), p. 331-355.
+
+
+SCHOEN H., 2008, "Identity, Instrumental Self-Interest and Institutional
+Evaluations , European Union Politics, vol. 9(1), p. 5-29.
+
+
+SCHOPPA L. J., 1993, “Two-Level Games and Bargaining Outcomes",
+International Organization, vol. 47(3), p. 353-86.
+
+
+SCHOTT J. J. (dir.), 2004, Free Trade Agreements: US Strategies and
+Priorities, Washington, Perterson Institute
+
+
+SCHRADER P. J., Hook S. W et Taylor B., 1998, "Clarifying the Foreign
+Aid Puzzle", World Politics, vol. 50(2), p. 294-323.
+
+
+SCHRODT P. A., 1995, “Event Data in Foreign Policy Analysis", in Neack
+L., Hey J. et Haney P. (dirs), Foreign Policy Analysis: Continuity and
+Change in Its Second Generation, Englewood Cliffs, Prentice Hall, p. 145-
+166.
+
+
+SCHULTZ K., 1998, “Domestic Opposition and Signaling in International
+Crises", American Political Science Review, vol. 92(4), p. 829-844.
+
+
+SCHULTZ K., 1999, “Do Democratic Institutions Constrain or Inform?",
+International Organization, vol. 53(2), p. 233-266.
+
+
+SCHULTZ K., 2001, Democracy and Coercive Diplomacy, Cambridge,
+Cambridge University Press.
+
+
+SCHUSTER J. et MAIER H., 2006, “The Rift: Explaining Europe's Divergent
+Iraq Policies in the Run-Up of the American-Led War on Iraq", Foreign
+Policy Analysis, vol. 2(3), p. 223-244.
+
+
+SCHWELLER R. L., 1994, “Bandwagoning for Profit: Bringing the
+Revisionist State Back in , International Security, vol. 19(1), p. 72-107.
+
+
+SCHWELLER R. L., 2006, Unanswered Threats: Political Constraints on
+the Balance of Power, Princeton, Princeton University Press.
+
+
+SCOTT J. et CARTER R., 2002, “Acting on the Hill: Congressional
+Assertiveness in US Foreign Policy", Congress and the Presidency,
+vol. 29(2), p. 151-169.
+
+
+SEABROOKE L. et TsingOU E., 2009, “Power Elites and Everyday Politics
+in International Financial Reform , International Political Sociology,
+vol. 3(4), p. 457-461.
+
+
+SEBENIUS J., 1992, “Challenging Convention Explanations
+of
+International Cooperation”, International Organization, vol. 46(1), p. 323-
+365.
+
+
+SECHSER T. S., 2010, “Goliath's Curse: Coercive Threats and Asymmetric
+Power", International Organization, vol. 64(3), p. 627-660.
+
+
+SEIB P., 2008, The Al Jazeera Effect: How the New Global Media Are
+Reshaping World Politics, Dulles, Potomac Books.
+
+
+SEIZELET $\hat{E}.$, 2001, « Japon: contraintes et défis de la puissance », in
+Charillon F. (dir.), Les politiques étrangères : ruptures et continuités, Paris,
+La documentation française, p. 179-196.
+
+
+SELL S. K. et PRAKASH А.,
+
+
+2001, “Using Ideas Strategically",
+
+
+International Studies Quarterly, vol. 48(1), p. 143-175.
+
+
+SELL S. K., 2003, Private Power, Public Law: The Globalization of
+Intellectual Property Rights, Cambridge et New York, Cambridge
+University Press.
+
+
+SENESE P. D., 1996, “Geographical Proximity and Issue Salience”,
+Conflict Management and Peace Science, vol. 15(1), p. 133-161.
+
+
+SENESE P. D., 2005, “Territory, Contiguity and International Conflict”,
+American Journal of Political Science, vol. 49(4), p. 769-779.
+
+
+SHAIN Y. et BARTH A., 2003, “Diasporas and International Relations
+Theory , International Organization, vol. 57(3), p. 449-479.
+
+
+SHAIN Y., 1994, “Ethnic Diasporas and US Foreign Policy", Political
+Science Quarterly, vol. 109(5),  . 811-841.
+
+
+SHANNON V. P., 2000, “Norms Are What States Make of Them”,
+International Studies Quarterly, vol. 44(4), p. 293-316.
+
+
+SHANNON V. P. et KELLER J. W., 2007, “Leadership Style and International
+Norm Violation”, Foreign Policy Analysis, vol. 3(1), p. 79-104.
+
+
+SHAPIRO M. J. et BONHAM G. M., 1973, “Cognitive Process and Foreign
+Policy Decision- Making", International Studies Quarterly, vol. 1(7),
+
+
+p. 147-174.
+
+
+SHAPIRO R. et PAGE B., 1988, “Foreign Policy and Rational Public",
+Journal of Conflict Resolution, vol. 32(2), p. 211-247.
+
+
+SHEPARD W. B. et GODWIN R. K., 1975, “Policy and Process: A Study of
+Interaction", The Journal of Politics, vol. 37(2), p. 576-582.
+
+
+SHEPHERD L., 2010, “Sex or Gender?", in Shepherd L. (dir.), Gender
+Matters in Global Politics, New York, Routledge, p. 3-15.
+
+
+SHEPTYCKI J. W. E., 2000, Issues in Transnational Policing, Londres,
+Routledge.
+
+
+SHIH C. Y., 1993, China's Just World: The Morality of Chinese Foreign
+Policy, Boulder, Rienner.
+
+
+SHIH C. Y., 2012, "Assigning Role Characteristics to China: The Role
+State Versus the Ego State , Foreign Policy Analysis, vol. 8(1), p. 71-91.
+
+
+SHIMKO K., 1994, "Metaphors and Foreign Policy Decision Making",
+Political Psychology, vol. 15(4), p. 655-671.
+
+
+SHULMAN S., 2000,  Nationalist Sources of International Economic
+Integration", International Studies Quarterly, vol. 44(3), p. 365-390.
+
+
+SIKKINK K., 1991, Ideas and Institutions: Developmentalism in Brazil and
+Argentina, Ithaca, Cornell University Press.
+
+
+SIKKINK K., 1993, “Human Rights, Principled Issue-Networks and
+Sovereignty in Latin America”, International Organization, vol. 47(3),
+ . 411-441.
+
+
+SIL R. et KATZENSTEIN P. J., 2010, “Analytic Eclectism in the Study of
+World Politics”, Perspectives on Politics, vol. 8(2), p. 411-431.
+
+
+SIMMONS B., 2005, “Rules over Real Estate", Journal of Conflict
+Resolutions, vol. 49(6), p. 823-848.
+
+
+SIMON H. A., 1982, Models of Bounded Rationality, Cambridge, MIT
+Press.
+
+
+SIMON M. V. et Starr H., 1997, “A Two Level Analysis of War and
+Revolution", in Mintz A. et Geva N. (dirs), Decision-Making on War and
+Peace: The Cognitive-Rational Debate, Boulder, Lynne Rienner, p. 131-
+161.
+
+
+SIMON M. W. et GarTZKE E., 1996, “Political System Similarity and the
+Choice of Allies”, Journal of Conflict Resolution, vol. 40(4), p. 617-635.
+SINGER D. J., 1961, “The Level of Analysis Problem in International
+Relations", World Politics, vol. 41(1), p. 77-92
+
+
+SINGER E. et HUDSON V. (dirs), Political Psychology and Foreign Policy,
+Boulder, Westview.
+
+
+SIVERSON R. et EMMONS J., 1991, "Birds of a Feather: Democratic Political
+Systems and Alliance Choices in the Twentieth Century", Journal of
+Conflict Resolution, vol. 35(2), p. 285-306.
+
+
+SJÖSTEDT R., 2007, “The Discursive Origins of a Doctrine", Foreign
+Policy Analysis, vol. 3(3), p. 233-254.
+
+
+SJURSEN H. (dir.), 2006, “What Kind of Power? European Foreign Policy
+in Perspective”, Journal of European Public Policy, vol. 13(2), p. 170-181.
+
+
+SKIDMORE D., 2005, “Understanding the Unilateral Turn in US Foreign
+Policy", Foreign Policy Analysis, vol. 2(2), p. 207-228.
+
+
+SKONIECZNY A., 2001, “Constructing NAFTA”, International Studies
+Quarterly, vol. 45(3), p. 433-454.
+
+
+SLANTCHEV B. L., 2006, “Politicians, the Media and Domestic Audience
+Costs", International Studies Quarterly, vol. 50(2), p. 445-477.
+
+
+SLAPIN J., 2006, “Who Is Powerful? Examining Preferences and Testing
+Sources of Bargaining Strength at European
+Intergovernmental
+Conferences", European Union Politics, vol. 7(1), p. 61-76.
+
+
+SLAUGHTER A. M., 2004, A New World Order, Princeton, Princeton
+University Press.
+
+
+SLAUGHTER A. M., 2004, “Sovereignty and Power in a Networked World
+Order", Stanford Journal of International Law, vol. 40(2), p. 283-327.
+
+
+SMALL D., LERNER J. et FISCHOFF B., 2006, “Emotion Priming and
+Attributions for Terrorism”, Political Psychology, vol. 27(2), p. 289-298.
+
+
+SMITH A. et HAYES D. R., 1997, "The Shadow of the Polls: Electoral
+Effects on International Agreements”, International Interactions, vol. 23(1),
+p. 79-108.
+
+
+SMITH A., 1998, "Testing Theories of Strategic Choice: The Example of
+Crisis Escalation", American Journal of Political Science, vol. 43(4),
+p. 1254-1283.
+
+
+SMITH A., 2003, “Why European Commissioners Matter", Journal of
+Common Market Studies, vol. 41(1), p. 137-155.
+
+
+SMITH A., 2004, Election Timing, Cambridge, Cambridge University
+Press.
+
+
+SMITH J. C., 1998, “Foreign Policy for Sale? Interest Group Influence on
+President Clinton's Cuba Policy, August 1994", Presidential Studies
+Quarterly, vol. 29(2), p. 207-220.
+
+
+SMITH S., 1980, “Allison and the Cuban Missile Crisis", Journal of
+International Studies, vol. 9(1), p. 21-40.
+
+
+SMITH S., 1986, “Theories of Foreign Policy: An Historical Overview",
+Review of International Studies, vol. 12(1), p. 13-29.
+
+
+SMITH T., 2000, Foreign Attachments: The Power of Ethnic Groups in the
+Making of American Foreign Policy, Cambridge, Harvard University Press.
+
+
+SMOUTS M. C., 1999, « Que reste-t-il de la politique étrangère? »,
+Pouvoir, vol. 88, p. 5-15.
+
+
+SNIDAL D., 1985, “The Game Theory of International Politics", World
+Politics, vol. 38(1), p. 25-57.
+
+
+SNOW D. A. et BENFORD R. D., 1998, “Ideology, Frame Resonance and
+Participant Mobilization", International Social Movement Research,
+vol. 1(2), p. 197-217.
+
+
+SNOW D. A., ROCHFORD E. B., WORDEN S. K. et BENFORD R. D., 1986,
+"Frame Alignment Processes , American Sociological Review, vol. 51(4),
+p. 464-481.
+
+
+SNOW N. et TAYLOR P. M. (dirs), 2009, Routledge Handbook of Public
+Diplomacy, New York, Routledge.
+
+
+SNYDER G. et DIESING P., 1977, Conflict among Nations, Princeton,
+Princeton University Press.
+
+
+SNYDER G., 1961, Deterrence and Defense, Princeton, Princeton
+University Press.
+
+
+SNYDER J., 1977, The Soviet Strategic Culture: Implications for Nuclear
+Options, R-2154-AF, Santa Monica, Rand Corporation.
+
+
+SNYDER J., 1984, The Ideology of the Offensive: Military Decision
+Making and the Disaster of 1914, Ithaca, Cornell University Press.
+
+
+SNYDER J., 1991, Myths of Empire: Domestic Politics and International
+Ambition, Ithaca, Cornell University Press.
+
+
+SNYDER R. C., BRUCK H. W. et SAPIN B., 2002 [1962], Foreign Policy
+Decision Making, New York, Palgrave Macmillan.
+
+
+SOBEL R., 2001, The Impact of Public Opinion on US Foreign Policy
+since Vietnam, New York, Oxford University Press.
+
+
+SOHN I., 2012, "After Renaissance: China's Multilateral Offensive in the
+Developing World", European Journal of International Relations,
+vol. 18(1), p. 77-101.
+
+
+SORENSEN T., 1965, Kennedy, New York, Harper & Row
+
+
+SOFER S. 1988, “Old and New Diplomacy", Review of International
+Studies, vol.14(3),  . 195-211.
+
+
+SORENU R. 2010, “Feminist Creativities and the Disciplinary Imaginary of
+International Relations , International Political Sociology, vol. 4(4), p. 380-
+400.
+
+
+SOROKA S., 2003, “Media, Public Opinion and Foreign Policy",
+International Journal of Press/Politics, vol. 8(3), p. 27-48.
+
+
+SOUVA M. et PRINS B. C., 2006, “The Liberal Peace Revisited",
+International Interactions, vol. 32(2), p. 183-200.
+
+
+SOUVA M. et ROHDE D., 2007, “Elite Opinion Differences and Partisanship
+in Congressional Foreign Policy, 1975-1996”, Political Research Quarterly,
+vol. 60(1), p. 113-123.
+
+
+SOYSA I. et FJELDE H., 2010, “Is the Hidden Hand an Iron Fist? Capitalism
+and Civil Peace, 1970-2005", Journal of Peace Research, vol. 47(3),
+p. 287-298.
+
+
+SPALL R. F., 1988, “Free Trade, Foreign Relations and the Anti-Corn-Law
+League", International History Review, vol. 10(3), p. 405-432.
+
+
+SPARROW B., 2008, "Who Speaks for the People? The President, the Press
+and Public Opinion in the United States", Presidential Studies Quarterly,
+vol. 38(4), p. 578-592.
+
+
+SPIRO D., 1994, “The Insignificance of the Liberal Peace , International
+Security, vol. 19(1), p. 50-86.
+
+
+Sprinz D. et VAAHTORANTA T., 1994, “The Interest-Based Explanation of
+International
+Environmental Policy", International Organization,
+
+
+vol. 48(1), p. 77-105.
+
+
+SPROUT H. et SPROUT M., 1965, The Ecological Perspective on Human
+Affairs with Special Reference to International Politics, Princeton,
+Princeton University Press.
+
+
+STABILE C. et KUMAR D., 2005, “Unveiling Imperialism: Media, Gender
+and the War on Afghanistan", Media, Culture and Society, vol. 27(5),
+p. 765-782.
+
+
+STAIRS D., 1982, “The Political Culture of Canadian Foreign Policy",
+Canadian Journal of Political Science, vol. 15(4), p. 667-690.
+
+
+STARR H., 1984, Henry Kissinger: Perceptions of International Politics,
+Lexington, University Press of Kentucky.
+
+
+STARR H., 1997, “Democracy and Intervention: Why Democracies Don't
+Fight Each Other?”, Journal of Peace Research. vol. 34(2),  . 153-162.
+
+
+STARR H., 2000, “Substitutability in Foreign Policy; Theoretically
+Central, Empirically Elusive”, Journal of Conflict Resolution, vol. 44(1),
+p. 128-138.
+
+
+STAW B. M., 1981, “The Escalation of Commitment to a Course of
+Action", Academy of Management Review, vol. 6(4), vol. 577-587.
+
+
+STEELE B., 2007, “Making Words Matter: The Asian Tsunami, Darfur and
+Reflexive Discourse in International Politics", International Studies
+Quarterly, vol. 51(4), p. 901-925.
+
+
+STEIN A., 1982, “Coordination and Collaboration: Regimes in an
+Anarchic World”, International Organization, vol. 36(2), p. 312-313.
+
+
+STEIN E. 2011, “The Camp David Consensus: Ideas, Intellectuals, and the
+Division of Labor in Egypt's Foreign Policy toward Israel”, International
+Studies Quarterly, vol. 55(3), p. 737-758.
+
+
+STEIN J. G. et PAULY L. W., 1993, Choosing to Co-Operate: How States
+Avoid Loss, Baltimore, Johns Hopkins University Press, p. 128-169.
+
+
+STEIN J. G., 1971, « L'analyse de la politique étrangère », Études
+internationales, vol. 2(3), p. 371-394.
+
+
+STEIN J. G., 1994, “Political Learning by Doing: Gorbachev as
+Uncommitted Thinker and Motivated Learner”, International Organization,
+vol. 48(2), p. 155-183.
+
+
+STEIN J. G., 2008, “Foreign Policy Decision-Making , in Smith S.,
+Hadfield A. et Dunne T. (dirs), Foreign Policy: Theories, Actors, Cases,
+Oxford, Oxford University Press, p. 101-116.
+
+
+STEINBERG B., 2005, “Indira Gandhi: The Relationship between
+Personality Profile and Leadership Style , Political Psychology, vol. 26(5),
+p. 755-789.
+
+
+STEINBRUNER J. D., 1974, The Cybernetic Theory of Decision, Princeton,
+Princeton University Press.
+
+
+STEINBRUNNER J., 1976, “Beyond Rational Deterrence", World Politics,
+vol. 28(2), p. 223-245.
+
+
+STEINER M., 1977, "The Elusive Essence of Decision", International
+Studies Quarterly, vol. 21(2), p. 389-422.
+
+
+STENVENSON H., 2011, “India and International Norms of Climate
+Governance", Review of International Studies, vol. 37(3), p. 997-1019.
+
+
+STERN E. et SUNDELIUS B., 1994, “The Essence of Groupthink , Mershon
+International Studies Review, vol. 38(1), p. 101-107.
+
+
+STERN E. et VERBEEK B. (dirs), 1998, "Whither the Study of
+Governmental Politics in Foreign Policymaking”, Mershon International
+Studies Review, vol. 42(2), p. 205-205.
+
+
+STERN E., 1997, “Probing the Plausibility of Newgroup Syndrome", in 't
+Hart P., Stern E. et Sundelius B. (dirs), Beyond Groupthink, Ann Arbor,
+University of Michigan Press.
+
+
+STERN E., 2003, “Crisis Studies and Foreign Policy Analysis: Insights,
+Synergies and Challenges”, International Studies Review, vol. 5(2), p. 184-
+191.
+
+
+STERN E., 2004, “Contextualising and Critiquing the Poliheuristic
+Theory", Journal of Conflict Resolution, vol. 48(1), p. 105-126.
+
+
+STERN E., SUNDELIUS B., NOHRSTEDT D., HANSEN D., NEWLOVE L. et 't
+HART P., 2002, “Crisis Management in Transitional Democracies”,
+Government and Opposition, vol. 37(4), p. 524-550.
+
+
+STEVENSON H. 2011, “India and International norms of Climate
+Governance", Review of International Studies, vol. 37, p. 997-1019.
+
+
+STEWART P. D., HERMANN M. G. et HERMANN C. F., 1989, "Modeling the
+1973 Soviet Decision to Support Egypt", American Political Science
+Review, vol. 83(1), p. 35-59.
+
+
+STOLL R., 1984, "The Guns of November. Presidential Re-elections and
+the Use of Force, 1947-1982”, Journal of Conflict Resolution, vol. 28(2),
+p. 231-246.
+
+
+STONE A., 1992, « Le néo-institutionalisme : défis conceptuels et
+méthodologiques », Politix, vol. 20(2), p. 156-168.
+
+
+STUART D. et STARR H., 1981, “The Inherent Bad Faith Model
+Reconsidered: Dulles, Kennedy and Kissinger", Political Psychology,
+vol. 3(3/4), p. 1-33.
+
+
+STUCKEY M. E., 1991, The President as Interpreter-in-Chief, Chatham,
+Chatham House Publishers.
+
+
+SUBOTIC J., 2011, “Europe is a State of Mind: Identity and
+Europeanization in the Balkans”, International Studies Quarterly, vol.
+55(2), p. 309-330.
+
+
+SUEDFELD P. et RANK D., 1976, “Revolutionary Leaders: Long-Term
+Success as a Function of Changes in Conceptual Complexity", Journal of
+Personality and Social Psychology, vol. 34(2), p. 169-178.
+
+
+SUEDFELD P. et LEIGHTON D. C., 2002, "Early Communications in the War
+against Terrorism”, Political Psychology, vol. 23(3), p. 585-599.
+
+
+SUEDFELD P. et TETLOCK Р. Е., 1977, "Integrative Complexity of
+Communications in International Crises , Journal of Conflict Resolution,
+vol. 21(1), p. 169-184.
+
+
+SUEDFELD P. et BLUCK S., 1988, “Changes in Integrative Complexity Prior
+to Surprise Attacks , Journal of Conflict Resolution, vol. 32(4), p. 626-635.
+
+
+SUEDFELD P., 1992, "Bilateral Relation between Countries and the
+Complexity of Newspaper Editorials”, Political Psychology, vol. 13(4),
+p. 601-611.
+
+
+SUEDFELD P., TETLOCK P. E. et RAMIREZ C., 1977, "War, Peace and
+Integrative Complexity , Journal of Conflict Resolution, vol. 21(3), p. 427-
+442.
+
+
+SULFARO V. et CRISLIP M., 1997, “How Americans Perceive Foreign
+Policy Threats: A Magnitude Scaling Analysis", Political Psychology,
+vol. 18(1), p. 103-126.
+
+
+SULLIVAN P. L, TESSMAN B. F. et Li X., 2011, “US Military Aid and
+Recipient State Cooperation", Foreign Policy Analysis, vol. 7(3), p. 275-
+294.
+
+
+SUR S., 2000, « La puissance et le rang revisités », Annuaire français des
+relations internationales, vol. 1, p. 269-290.
+
+
+SUR S., 2003, « Rationnel ou raisonnable? Le Projet d'une intervention
+militaire prochaine contre l'Iraq », Annuaire français des relations
+internationales, vol. 3 p. 584-595.
+
+
+SWEENEY K. et FRITZ P., 2004, “Jumping on the Bandwagon: An Interest-
+Based Explanation of Great Power Alliances", Journal of Politics,
+vol. 66(2), p. 428-449.
+
+
+SYLVAN D. et MAJESKI S., 2009, US Foreign Policy in Perspective:
+Clients, Enemies and Empire, Oxford, Taylor and Francis.
+
+
+SYLVAN D., OSTROM C. et GANNON K., 1994, "Case-Based, Model-Based
+and Explanation-Based Styles of Reasoning in Foreign Policy",
+International Studies Quarterly, vol. 38(1), p. 61-90.
+
+
+'t HART P. et ROSENTHAL U., 1998, “Reappraising Bureaucratic Politics",
+Mershon International Studies Review, vol. 42(2), p. 233-240.
+
+
+'t HART P., 1990, Groupthink in Government: A Study of Small Groups
+and Policy Failure, Baltimore, Johns Hopkins University Press.
+
+
+TABER C. S., 1989, “Power Capability Indexes in the Third World", in
+Stoll R. et Ward M. (dirs), Power in World Politics, Boulder, Lynne
+Rienner, p. 29-48.
+
+
+TAJFEL H. et TURNER J. C., 1986, “The Social Identity Theory of
+Intergroup Behavior”, in Worchel S. et Austin W. G. (dirs), Psychology of
+Intergroup Relations, Chicago, Nelson Hall, p. 7-24.
+
+
+TALIAFERRO J. W., 1998, “Quagmires in the Periphery: Foreign Wars and
+Escalating Commitment in International Conflict", Security Studies,
+vol. 7(1), p. 94-144.
+
+
+TALIAFERRO J. W., 2004, Balancing Risks: Great Power Intervention in
+the Periphery, Ithaca, Cornell University Press.
+
+
+TANG S. et LONG S. R. J., 2012, "America's Military Interventionism”,
+European Journal of International Relations, publication prochaine.
+
+
+TANNENWALD N., 2007, The Nuclear Taboo: The United States and the
+Non-Use of Nuclear Weapons Since 1945, Cambridge, Cambridge
+University Press.
+
+
+TARAR A., 2005, “Constituencies and Preferences in International
+Bargaining", Journal of Conflict Resolution, vol. 49(3), p. 383-407.
+
+
+TARROW S., 1989, Struggle, Politics and Reform: Collective Action,
+Social Movements and Cycles of Protest, Ithaca, Cornell University Press.
+
+
+TAYLOR P. M., 1992, War and the Media: Propaganda and Persuasion in
+the Gulf War, Manchester, Manchester University Press.
+
+
+TAYLOR-ROBINSON M. M. et. REDD S. B, 2003, “Framing and the
+Poliheuristic Theory of Decision”, in Mintz A. (dir.), Integrating Cognitive
+and Rational Theories of Decision Making, New York, Palgrave Macmillan.
+
+
+TELHAMI S., 1993, “Arab Public Opinion and the Gulf War , Political
+Science Quarterly, vol. 108(3), p. 437-452.
+
+
+TELO M., 2007, Europe: A Civilian Power?, New York, Palgrave
+Macmillan.
+
+
+TESSLER M., NACHTWEY J. et GRANT A., 1999, "Further Tests on the
+Women and Peace Hypothesis , International Studies Quarterly, vol. 43(3),
+p. 519-531.
+
+
+TETLOCK P. E., 1979, “Identifying Victims of Groupthink from Public
+Statements of Decision Makers", Journal of Personality and Social
+Psychology, vol. 37(8), p. 1314-1324.
+
+
+TETLOCK P. E., 1999, “Theory-Driven Reasoning about Possible Pasts and
+Probable Future”, American Journal of Political Science, vol. 43(2), p. 335-
+366.
+
+
+TETLOCK P. E., 2005, Expert Political Judgment: How Good Is It? How
+Can We Know?, Princeton, Princeton University Press.
+
+
+TETLOCK P. E., MCGUIRE C., PETERSON R., FELD P. et CHANG S., 1992,
+"Assessing Political Group Dynamics , Journal of Personality and Social
+Psychology, vol. 63(4), p. 402-423.
+
+
+TEWES H., 1998, “Between Deepening and Widening: Role Conflict in
+Germany's Enlargement Policy”, West European Politics, vol. 21(2), p. 117-
+133.
+
+
+THACKER S. C., 1999, “The High Politics of IMF Lending", World
+Politics, vol. 52(1), p. 38-75.
+
+
+THAKUR R. et WEISS T. G., 2009, “United Nations ‘Policy : An Argument
+with Three illustrations", International Studies Perspectives, vol. 10(1),
+p. 18-35.
+
+
+THELEN K., 1999, “Historical Institutionalism in Comparative Politics",
+American Review of Political Science, vol. 2(3), p. 369-404.
+
+
+THÉRIEN J. P. et NOËL A., 1994, "Welfare Institutions and Foreign Aid:
+Domestic Foundations of Canadian Foreign Policy”, Canadian Journal of
+Political Science, vol. 27(3), p. 529-558.
+
+
+THÉRIEN J. P. et NOËL A., 2000, “Political Parties and Foreign Aid",
+American Political Science Review, vol. 94(1),  . 151-162.
+
+
+THIBAULT J. F. et LÉVESQUE J., 1997, "The Soviet Union/Russia: Which
+Past for Which Future?”, in Le Prestre P. G. (dir.), Role Quests in the Post-
+Cold War Era, Montréal et Kingston, McGill-Queen's University Press,
+p. 15-39.
+
+
+THIES C., 2012, "International Socializaton Process vs. Israli National
+Role Conceptions”, Foreign Policy Analysis, vol. 8, p. 25-46.
+
+
+THOMAS D., 2001, The Helsinki Effect: International Norms, Human
+Rights and the Demise of Communism, Princeton, Princeton University
+Press.
+
+
+THOMPSON W. R., 1996, “Democracy and Peace: Putting the Cart before
+the Horse?", International Organization, vol. 50(1), p. 141-174.
+
+
+THOMSEN R. et HYNEK N., 2006, "Keeping the Peace and National Unity",
+International Journal, vol. 61(4), p. 845-858.
+
+
+THUMERELLE C. et LE PRESTRE P., 1997, “France: The Straitjacket of New
+Freedom", in Le Prestre P. (dir.), Role Quests in the Post-Cold War Era,
+Montreal, McGill-Queen's University Press.
+
+
+TIBERGHIEN Y. et SCHREURS M., 2007, “High Noon in Japan", Global
+Environmental Politics, vol. 7(4),  . 70-91.
+
+
+TICKNER J. A., 1988, “Hans Morgenthau's Principles of Political Realism:
+A Feminist Reformulation Millennium, vol. 17(3), p. 429-440.
+
+
+TICKNER J. A., 1992, Gender in International Relations: Feminist
+Perspectives on Achieving Global Security, New York, Colombia
+University Press.
+
+
+TICKNER J. A., 1997, “You just don't Understand , International Studies
+Quarterly, vol. 41(4), p. 611-632.
+
+
+TICKNER J. A., 2002, “Feminist Perspectives on 9/11”, International
+Studies Perspectives, vol. 3(4), p. 333-350.
+
+
+TICKNER J. A., 2010, “You May Never Understand: Prospects for Feminist
+Futures in International Relations", Australian Feminist Law Journal,
+vol. 32(1), p. 9-20.
+
+
+TILLY C., 1985, “War Making and State Making as Organized Crime", in
+Evans P., Rueschemeyer D. et Skocpoleds T. (dirs), Bringing the State Back
+In, Cambridge, Cambridge University Press, p. 169-191.
+
+
+TINGLEY D. et WALTER B., 2011, “Can Cheap Talk Deter: An
+Experimental Analysis”, Journal of Conflict Resolution, vol. 55(6), p. 996-
+1020.
+
+
+TOKE D., 1999, “Epistemic Communities and Environmental Groups",
+Politics, vol. 19(2), p. 97-102.
+
+
+Tomz M., 2007, "Domestic Audience Costs in International Relations:
+An Experimental Approach”, International Organization, vol. 61(4),
+p. 821-840.
+
+
+TRAGER R. F., 2011, “Mutlidimensional Diplomacy , International
+Organization, vol. 65(3), p. 469-506.
+
+
+TRAVIS R., 2010, “Problems, Politics and Policy Streams”, International
+Studies Quarterly, vol. 54(3), p. 797-821.
+
+
+TRUBOWITZ P., 1992, “Sectionalism and American Foreign Policy",
+International Studies Quarterly, vol. 36(2), p. 173-190.
+
+
+TRUMBALL W. N. et WALL H. J., 1994, "Estimating Aid-Allocation
+Criteria with Panel Data”, Economic Journal, vol. 104(425), p. 876-882.
+
+
+TRUMBORE P. F. et BOYER M. A., 2000, “International Crisis Decision-
+making as a Two-Level Process”, Journal of Peace Research, vol. 37(6),
+p. 679-697.
+
+
+TRUMBORE P. F., 1998, “Public Opinion as a Domestic Constraint in
+International Negotiations", International Studies Quarterly, vol. 42(3),
+p. 545-565.
+
+
+TSEBELIS G., 2002, Veto Players: How Political Institutions Work,
+Princeton, Princeton University Press.
+
+
+TSYGANKOV A. P. et TARVER-WAHLQUIST M., 2009, “Dueling Honors:
+Power, Identity and the Russia-Georgia Divide , Foreign Policy Analysis,
+vol. 5(4), p. 307-326.
+
+
+TUCHMAN B., 1962, The Guns of August, New York, Ballantine Books.
+TUMBER H. et PALMER J., 2004, Media at War: The Iraq Crisis, Londres,
+Sage.
+
+
+TVERSKY A. et KAHNEMAN D., 1981, “The Framing of Decisions and the
+Psychology of Choice”, Science, vol. 211(4481), p. 453-458.
+
+
+VALENTA J., 1979, “The Bureaucratic Politics Paradigm and the Soviet
+Invasion of Czechoslovakia”, Political Science Quarterly, vol. 94(1), p. 55-
+76.
+
+
+VAN BELLE D., 2000, Press Freedom and Global Politics, Westport,
+Praeger.
+
+
+VAN BELLE D., RIOUX J.-S. et POTTER D. M., 2004, Media, Bureaucracies
+and Foreign Aid, New York, Palgrave et St. Martin.
+
+
+VAN Evera S., 1984, “The Cult of the Offensive and the Origins of the
+First World War”, International Security, vol. 9(1), p. 58-107.
+
+
+VAN EVERA S., 1994, “Hypotheses on Nationalism and War",
+International Security, vol. 18(4), p. 5-39.
+
+
+VAN EVERA S., 1999, Causes of War: Power and the Roots of Conflicts,
+Ithaca, Cornell University Press.
+
+
+VASQUEZ J. A., 1995, “Why Do Neighbors Fight? Proximity, Interaction
+or Territoriality”, Journal of Peace Research, vol. 32(3), p. 277-293.
+
+
+VASQUEZ J. P., 2005, “Shouldering the Soldiering: Democracy,
+Conscription and Military Casualties”, Journal of Conflict Resolution,
+vol. 49(6), p. 849-873.
+
+
+VENNESSON P., 2005, « Les États-Unis et l'Europe face à la guerre »,
+Études internationales, vol. 36(4), p. 527-548.
+
+
+VERBA S., BRODY R. A., PARKER E. B., NIE N. H. et POLSBY N. W., 1967,
+"Public Opinion and the War in Vietnam”, American Political Science
+Review, vol. 61(2), p. 317-333.
+
+
+VERDIER D., 1998, “Democratic Convergence and Free Trade",
+International Studies Quarterly, vol. 42(1), p. 1-24.
+
+
+VERTZBERGER Y., 1984, Misperceptions in Foreign Policymaking: The
+Sino-Indian Conflict 1959-1962, Boulder, Westview.
+
+
+VERTZBERGER Y., 1986, “Foreign Policy Decision-Makers as Practical-
+Intuitive Historians: Applied History and Its Shortcomings , International
+Studies Quarterly, vol. 30(2), p. 223-247.
+
+
+VERTZBERGER Y., 1990, The World in Their Minds: Information
+Processing, Cognition and Perception in Foreign Policy Decision-making,
+Stanford, Stanford University Press.
+
+
+VOLGY T. et SCHWARZ J., 1991, "Does Politics Stop at the Water's Edge?",
+Journal of Politics, vol. 53(3), p. 615-643.
+
+
+VON FURSTENBERG G. M., 1991,  Scoring the Success of Sanctions", Open
+Economies Review, vol. 2(3), p. 305-313.
+
+
+VUCETIC S., 2011, “A Radicalized Peace? How Britain and the US Made
+Their Relationship Special", Foreign Policy Analysis, vol. 7(4), p. 403-421.
+
+
+WAEVER O., 1998, “The Sociology of a Not So International Discipline ,
+International Relations, vol. 52(4), p. 687-727.
+
+
+WAGNER R. H., 1974, “Dissolving the State: Three Recent Perspectives
+on International Relations”, International Organization, vol. 28(3), p. 435-
+466.
+
+
+WAGNER R. H., 2000, “Bargaining and War", American Journal of
+Political Science, vol. 44(3), p. 469-484.
+
+
+WALKER R. B. J., 1993, Inside/Outside: International Relations as
+Political Theory, Cambridge, Cambridge University Press.
+
+
+WALKER S. G., 1990, “The Evolution of Operational Code Analysis",
+Political Psychology, vol. 11(2), p. 403-418.
+
+
+WALKER S. G (dir.), 1987, Role Theory and Foreign Policy Analysis,
+Durham, Duke University Press
+
+
+WALKER S. G. et Watson G. L., 1989, “Groupthink and Integrative
+Complexity in British Foreign Policy-Making: the Munich Case",
+Cooperation and Conflict, vol. 24(3), p. 199-212.
+
+
+WALKER S. G. et FALKOWSKI L. S., 1984, “The Operational Codes of U.S.
+Presidents and Secretaries of State: Motivational Foundations and
+Behavioral Consequences”, Political Psychology, vol. 5(2), p. 237-266.
+
+
+WALKER S. G. et SCHAFER M., 2000, “The Political Universe of Lyndon B.
+Johnson and His Advisors”, Political Psychology, vol. 21(3), p. 529-543.
+
+
+WALKER S. G. et SCHAFER M., 2007, "Theodore Roosevelt and Woodrow
+Wilson as Cultural Icons of US Foreign Policy", Political Psychology,
+vol. 28(6), p. 747-776.
+
+
+WALKER S. G., 1977, "The Interface between Beliefs and Behavior:
+Henry Kissinger's Operational Code and the Vietnam War", Journal of
+Conflict Resolution, vol. 21(1), p. 129-168.
+
+
+WALKER S. G., 1979, “National
+Role Conceptions and Systemic
+Outcomes", in Falkowski L. (dir.), Psychological Models in International
+Politics, Boulder, Westview Press, p. 169-210.
+
+
+WALKER S. G., 1992, “Symbolic Interactionism and International
+Politics", in Cottam, M. et Shih C. (dirs), Contending Dramas, New York,
+Praeger, p. 19-38.
+
+
+WALKER S. G., 1995, “Psychodynamic Processes and Framing Effects in
+Foreign Policy Decision Making: Woodrow Wilson's Operational Code",
+Political Psychology, vol. 16(4), p. 697-718.
+
+
+WALKER S. G., 2011, “Binary Role Theory", in Walker S. G., Malici A. et
+Schafer M. (dirs), Rethinking Foreign Policy Analysis, New York,
+Routledge, p. 245-266.
+
+
+WALKER S. G., MALICI A. et SCHAFER M. (dirs), 2011, Rethinking Foreign
+Policy Analysis, Londres, Taylors & Fancis.
+
+
+WALKER S. G., SCHAFER M. et YOUNG M., 1998, “Systematic Procedures
+for Operational Code Analysis”, International Studies Quarterly, vol. 42(2),
+p. 175-190.
+
+
+WALKER S. G., SCHAFER M. et YOUNG M., 1999, “Presidential Operational
+Codes and Foreign Policy Conflicts in the Post-Cold War World", Journal
+of Conflict Resolution, vol. 43(5), p. 609-625.
+
+
+WALLACE M., SUEDFELD P. et THACHUK К. А., 1996, "Failed Leader or
+Successful Peacemaker?”, Political Psychology, vol. 17(3), p. 453-471.
+
+
+WALLACE W., 1978, “After Berril: Whitehall and the Management of
+British Diplomacy”, International Affairs, vol. 54(2), p. 220-239.
+
+
+WALT S. M., 1996, Revolution and War, Ithaca, Cornell University Press.
+WALT S. M., 1999, “Rigor or Rigor Mortis? Rational Choice and Security
+Studies", International Security, vol. 23(4), p. 5-48.
+
+
+WALT S. M., 2005, “The Relationship between Theory and Policy in
+International Relations", Annual Review of Political Science, vol. 8(1),
+p. 23-48.
+
+
+WALTZ K., 1959, Man, the State and War, New York, Colombia
+University Press.
+
+
+WALTZ K., 1979, Theory of International Politics, New York, McGraw-
+Hill.
+
+
+WALTZ K., 1986, “A Response to My Critics , in Keohane R. O. (dir.),
+Neorealism and Its Critics, New York, Columbia University Press, p. 322-
+344.
+
+
+WALTZ K., 1989, "The Origin of War in Neorealist Theory , in Rotberg
+R. et Rabb T. (dirs), The Origin and Prevention of Major Wars, Cambridge,
+Cambridge University Press, p. 39-52.
+
+
+WALTZ K., 1990, “Realist Thought and Neorealist Theory”, Journal of
+International Affairs, vol. 44(1), p. 21-37.
+
+
+WALTZ K., 1996, “International Politics is Not Foreign Policy", Security
+Studies, vol. 6(1), p. 54-57.
+
+
+WANG K., 1996, “Presidential Responses to Foreign Policy Crises",
+Journal of Conflict Resolution, vol. 40(1), p. 68-97.
+
+
+WANG T. Y., 1999, “US Foreign Aid and UN Voting: An Analysis of
+Important Issues , International Studies Quarterly, vol. 43(1),  . 199-210.
+
+
+WARD M. D. et GLEDITSCH K. S., 1998, “Democratizing Peace", American
+Political Science Review, vol. 92(1), p. 51-61.
+
+
+WEAVER O., 1996, "European Security Identities", Journal of Common
+Market Studies, vol. 34(1), p. 103-132.
+
+
+WEBER C. et LACY M., 2011, "Securing by Design", Review of
+International Studies, vol. 37,  . 1021-1043.
+
+
+WEBER C., 1994, “Good Girls, Little Girls and Bad Girls , Millenium,
+vol. 23(2), p. 337-349.
+
+
+WEBER C., 1999, Faking It: US Hegemony in a “Post-Phallic” Era,
+Minneapolis, University of Minneapolis Press.
+
+
+WEBER C., 2006, Imagining America at War: Morality, Politics, and Film,
+Londres, Routledge.
+
+
+WEBER K. et KOWERT P., 2007, “Cultures of Order: Leadership, Language
+and Social Reconstruction in Germany and Japan", Albany, State University
+of New York Press.
+
+
+WEEDE E., 1984, “Democracy and War Involvement”, Journal of Conflict
+Resolution, vol. 28(4), p. 649-664.
+
+
+WEEKS J., 2008, “Autocratic Audience Costs: Regime Type and Signaling
+Resolve", International Organization, vol. 62(1), p. 35-64.
+
+
+WELCH D., 1989, “Crisis Decision Making Reconsidered", Journal of
+Conflict Resolution, vol. 33(3), p. 430-445.
+
+
+WELCH D., 1992, “The Organizational Process and Bureaucratic Politics
+Paradigms: Retrospect and Prospect", International Security, vol. 17(2),
+p. 112-146.
+
+
+WELCH D., 1998, "A Positive Science of Bureaucratic Politics", Mershon
+International Studies Review, vol. 42(2), p. 210-216.
+
+
+WELCH D., 2005, Painful Choices: A Theory of Foreign Policy Change,
+Princeton, Princeton University Press.
+
+
+WELDES J., LAFFEY M., GUSTERSON H. et DUVALL R., 1999, Cultures of
+Insecurity: States, Communities and the Production of Danger,
+Minneapolis, University of Minnesota Press.
+
+
+WELDES J., 1996, “Constructing National Interests", European Journal of
+International Relations, 2(3), p. 275-318.
+
+
+WELDES J., 1998, “Bureaucratic Politics: A Critical Constructivism
+Assessment", Mershon International Studies Review, vol. 42(2), p. 216-
+225.
+
+
+WELDES J., 1999, Constructing National Interest: The United States and
+the Cuban Missile Crisis, Minneapolis, Minnesota University Press.
+
+
+WELDES J., 2003, To Seek Out New Worlds: Exploring Links between
+Science Fiction and World Politics, Londres, Palgrave.
+
+
+WENDT A., 1992, “Anarchy is What States Make of It: The Social
+Construction of Power Politics”, International Organization, vol. 46(2),
+p. 391-425.
+
+
+WENDT A., 1994, "Collective Identity Formation and the International
+State", American Political Science Review, vol. 88(2), p. 384-396.
+
+
+WENDT A., 1996, “Identity and Structural Change in International
+Politics", in Lapid Y. et Kratochwil F. (dirs), The Return of Culture and
+Identity in IR Theory, Londres, Lynne Rienner, p. 47-64.
+
+
+WENDT A., 1999, Social Theory of International Politics, Cambridge,
+Cambridge University Press.
+
+
+WERNER S. et LEMKE D., 1997, “Opposites Do Not Attract , International
+Studies Quarterly, vol. 41(3), p. 529-546.
+
+
+WESTERN J., 2005, Selling Intervention and War: The Presidency, the
+Media and the American Public, Baltimore, Johns Hopkins University
+Press.
+
+
+WHANG T., 2011,  Playing to the Home Crowd? Symbolic Use of
+Economic Sanctions in the United States", International Studies Quarterly,
+vol. 55(3), p. 787-801.
+
+
+WHITE, B., 1999, “The European Challenge to Foreign Policy Analysis",
+European Journal of International Relations, vol. 5(1), p. 37-66.
+
+
+WHITE R. K., 1968, Nobody Wanted War: Misperception in Vietnam and
+Other Wars, Garden City, Doubleday.
+
+
+WHITE R. K., 2000, “Psychological Aspects of the Kosovo Crisis”,
+Journal of Peace Psychology, vol. 6(1), p. 49-55.
+
+
+WHITFORD A. et YATES J., 2009, Presidential Rhetoric and the Public
+Agenda: Constructing the War on Drugs, Baltimore, John Hopkins
+University Press.
+
+
+WHITTEN-WOODRING J., 2009, "Watchdog or Lapdog?", International
+Studies Quarterly, vol. 53(3), p. 595-625.
+
+
+WIDMAIER W., 2005, "The Democratic Peace is What States Make of It",
+European Journal of International Relations, vol. 11(3), p. 431-455.
+
+
+WIENER A., 2009, "Enacting Meaning-In-Use: Qualitative Research on
+Norms and International Relations", Review of International Studies,
+vol. 35(2), p. 175-193.
+
+
+WIGHT C. 1999, "They Shoot Dead Horses Don't They?", European
+Journal of International Relations, vol. 5(1), p. 109-142.
+
+
+WILCOX L., 2009, "Gendering the Cult of the Offensive”, Security
+Studies, vol. 18(2), p. 214-240.
+
+
+WILDAVSKY A., 1966, “The Two Presidencies", Transaction, vol. 4(1),
+p. 7-14.
+
+
+WILLIAMS L., BRULÉ D. et Kock M., 2010, “Interstate Disputes, the
+Economy and Electoral Outcome , Conflict Management and Peace
+Science, vol. 27(5), p. 442-460.
+
+
+WILLIAMSON S. R., 2011, “German Perceptions of the Triple Entente after
+1911", Foreign Policy Analysis, vol. 7(2), p. 205-214.
+
+
+WINTER D. G., 1980, “Measuring the Motive Patterns of Southern African
+Political Leaders at a Distance”, Political Psychology, vol. 2(2), p. 75-85.
+
+
+WINTER D. G. et CARLSON L. A., 1988, "Using Motive Scores in the
+Psychobiographical Study of an Individual”, Journal of Personality,
+vol. 56(1), p. 75-103.
+
+
+WINTER D. G., 2007, “The Role of Motivation, Responsibility and
+Integrative Complexity in Crisis Escalation”, Journal of Personality and
+Social Psychology, vol. 92(5), p. 920-937.
+
+
+WINTER D. G., HERMANN M. G., WEINTRAUB W. et WALKER S. G., 1991,
+"The Personalities of Bush and Gorbachev Measured at a Distance",
+Political Psychology, vol. 12(2), p. 215-243.
+
+
+WISH N. B., 1980, “Foreign Policy Makers and Their National Role
+Conceptions", International Studies Quarterly, vol. 24(4), p. 532-554.
+
+
+WITKO C., 2003, “Cold War Belligerence and US Public Opinion toward
+Defense Spending , American Politics Research, vol. 31(4), p. 379-403.
+
+
+WITTKOPF E. R. et MCCORMICK Ј. М., 1998, "Congress, the President and
+the End of the Cold War", Journal of Conflict Resolution, vol. 42(4),
+p. 440-467.
+
+
+WITTKOPF E. R., 1990, Faces of Internationalism, Durham, Duke
+University Press.
+
+
+WITTLINGER R. et LAROSE M., 2007, “No Future for Germany's Past?
+Collective Memory and German Foreign Policy", German Politics,
+vol. 16(4), p. 481-495.
+
+
+WODAK R., de CILLIA R., REISIGL M. et LEIBHART K. (dirs), 2009, The
+Discursive Construction of National Identity, Edinbourg,
+Edinburgh
+University Press.
+
+
+WOHLFORTH W., 1987, "The Perception of Power: Russia in the Pre-1914
+Balance", World Politics, vol. 39(3), p. 353-381.
+
+
+WOHLFORTH W., 1993, The Elusive Balance: Power and Perceptions
+
+
+during the Cold War, Ithaca, Cornell University Press.
+
+
+WOHLSTETTER R., 1962, Pearl Harbor: Warning and Decision, Stanford,
+
+
+Stanford University Press.
+
+
+WOLF R., WEEDE E., ENTERLINE A. J., MANSFIELD E. D. et SNYDER J., 1996,
+"Democratization and the Danger of War", International Security,
+vol. 20(4), p. 176-207.
+
+
+WOLFE W. M., 2008, Winning the War of Words: Selling the War on
+Terror from Afghanistan to Iraq, Westport, Praeger Security International.
+
+
+WOLFERS A., 1962, Discord and Collaboration: Essays on International
+Politics, Baltimore, Johns Hopinks Press.
+
+
+WOLFSFELD G., 1997, Media and Political Conflict: News from the Middle
+East, Cambridge, Cambridge University Press.
+
+
+WOLFSFELD G., 2004, "Media and the Path to Peace", Cambridge,
+Cambridge University Press.
+
+
+WOOD B. D. et PEAKE J. S., 1998, “The Dynamics of Foreign Policy
+Agenda Setting”, American Political Science Review, vol. 92(1), p. 173-
+184.
+
+
+WOOD B. D. et WATERMAN R. W., 1991, “Dynamics of Political Control of
+the Bureaucracy", American Political Science Review, vol. 85(3), p. 801-
+828.
+
+
+WOODWELL D., 2007, Nationalism in International Relations: Norms,
+Foreign Policy and Enmity, New York, Palgrave Macmillan.
+
+
+WUTHNOW R. et Lewis V., 2008, “Religion and Altruistic US Foreign
+Policy Goals", Journal of the Scientific Study of Religion, vol. 47(2),
+p. 191-209.
+
+
+XIANG J., XU X. et KETEKU G., 2007, “Power: The Missing Link in the
+Trade Conflict Relationship", Journal of Conflict Resolution, vol. 51(4),
+p. 646-663.
+
+
+YAHUDA M., 2006, “The Limits of Economic Interdependence", in Buy
+A., Johnston I. et Ross R. (dirs), New Direction in the Study of China's
+Foreign Policy, Stanford, Stanford University Press, p. 162-184.
+
+
+YOON M. Y., 1997, “Explaining US Intervention in Third World Internal
+Wars, 1945-1989”, Journal of Conflict Resolution, vol. 41(4), p. 580-602.
+
+
+YOUNG A. R., 2010, “Transatlantic Intransigence in the Doha Round", in
+Narlikar A. (dir.), Deadlocks in Multilateral Negotiations: Causes and
+Solutions, Cambridge, Cambridge University Press, p. 123-141.
+
+
+YOUNG M. et SCHAFER M., 1998, “Is There Method in Our Madness: Ways
+of Assessing Cognition in International Relations", Mershon International
+Studies Review, vol. 42(1), p. 63-96.
+
+
+YOUNG O. R., 1994, International Governance: Protecting the
+Environment in a Stateless Society, Ithaca, Cornell University Press.
+
+
+YOUNGS G., 2004, "Feminist International Relations: A Contradiction in
+Term?", International Affairs, vol. 80(1), p. 75-87.
+
+
+ZAGARE F. C., 2004, “Reconciling Rationality with Deterrence , Journal
+of Theoretical Politics, vol. 16(2),  . 107-141.
+
+
+ZAHAR M. J., 2012 “Norm Transmission in Peace- and State-building",
+Global Governance, vol. 18(1), p. 73-88.
+
+
+ZAK P. J. et KUGLER K., 2011, “Neuroeconomics and International
+Studies: A New Understanding of Trust", International Studies Perspective,
+vol. 12(2), p. 136-152.
+
+
+ZAKARIA F., 1992, “Realism and Domestic Politics: A Review Essay",
+International Security, vol. 17(1),  . 177-188.
+
+
+ZAKARIA F., 1998, From Wealth to Power: The Unusual Origins of
+America's World Role, Princeton, Princeton University Press.
+
+
+ZALLER J. et CHIU D., 2000, “Government's Little Helper", in Nacos
+B. L., Shapiro R. Y. et Isernia P. (dirs), Decision-making in a Glass House,
+Oxford, Rowman & Littlefield, p. 61-84.
+
+
+ZEGART A., 2007, Spying Blind: The CIA, the FBI and the Origins of 9/11,
+Princeton, Princeton University Press.
+
+
+ZEHFUSS M., 2001, “Constructivism and identity: A Dangerous Liaison”,
+European Journal of International Relations, vol. 7(3), p. 315-348.
+
+
+ZELIKOW P., 1994, “Foreign Policy Engineering: From Theory to Practice
+and Back Again”, International Security, vol. 18(4), p. 143-171.
+
+
+ZENG K., 2002, "Trade Structure and the Effectiveness of America's
+Aggressive Unilateral Trade Policy", International Studies Quarterly,
+
+
+vol. 46(1), p. 93-115.
+
+
+ZHENG S., 2001, “Making Sense of the Conflict between Mainland China
+and Taiwan", in Kubálková V. (dir.), Foreign Policy in a Constructed
+World, Armonk, Sharpe, p. 203-226.
+
+
+ZIMMERMAN W., 1973, “Issue-Area and Foreign-Policy Process",
+American Political Science Review, vol. 67(2),  . 1004-1012.
+
+
+Zito A., 2001, “Epistemic Communities, Collective Entrepreneurship and
+European Integration”, Journal of European Public Policy, vol. 8(4),
+p. 585-603.
+
+
+Liste des tableaux et figures
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Figure 8. Comparaison schématique du la prise de décision
+selon la théorie du choix rationnel, la théorie de la rationalité limitée
+
+
+et la théorie polyheuristique
+
+
+95
+
+
+Figure 9. Risques associés aux styles de gestion
+
+
+217
+
+
+Figure 10. Typologie des caractères selon James Barber
+
+
+238
+
+
+Index
+
+
+Acteur non étatique Voir Organisation non gouvernementale, entreprise
+ou communauté épistémique 1
+
+
+Action rhétorique 1234567
+
+
+Afghanistan 1 2 3 4 5 6 7 8 9 10 11
+
+
+Afrique du Sud 1234
+
+
+Aide au développement 1 2 3 4 5 6 7 8 9 10
+
+
+ALENA 1
+
+
+Allemagne 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+
+Alliance militaire 1 2 3 4 5 6 7 8 9 10
+
+
+Altérité 123
+
+
+Analogie 123456789
+
+
+Analyse de discours 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+
+21 22 23 24 25 26 27 28 29 30 31
+
+
+24
+
+
+Angleterre Voir Royaume-Uni 1
+
+
+Arabie Saoudite 1
+
+
+Argentine 123
+
+
+Arme nucléaire 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Armée 12345 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+
+
+Australie 1 2
+
+
+Autocratie 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+
+Autriche 1
+
+
+Baie des Cochons 12345
+
+
+BARBER, James David 1 2 3
+
+
+Base de données 1234567 8 9 10 11 12
+
+
+Béhaviorisme 1234
+
+
+Belgique 12
+
+
+Biais d'attribution 1
+
+
+Bilatéralisme 123
+
+
+BLAIR, Tony 1
+
+
+Brésil 1
+
+
+Bretton Woods (accords de) 12
+
+
+Bureaucratique (modèle) 1
+
+
+BUSH, George H. W. 1
+
+
+BUSH, George W. 123456 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+
+Cadrer un problème 1 2 3 4 5 678
+
+
+Canada 12345678
+
+
+Capacités Voir Ressources 1
+
+
+CARTER, James E. (Jimmy) 12345
+
+
+Cartographie cognitive 1
+
+
+CASTRO, Fidel 1234567
+
+
+Changements climatiques Voir Environnement (protection de) 1
+
+
+Chine 12345 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+
+26 27 28
+
+
+CHIRAC, Jacques 1
+
+
+Choix rationnel (théorie du) 1 2 3 4 5 6 7 8 9 10 11 12
+
+
+CIA 12
+
+
+CLINTON, William J. (Bill) 1 2 3 4 5 6 7 8 9 10 11
+
+
+Code opérationnel 1
+
+
+Coercition 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+
+Cognition 1 2 3 4 5 6 7 8 9 10
+
+
+Cohérence cognitive 12345
+
+
+Colonie 1234567
+
+
+Commerce 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+
+Communauté épistémique 1 2 3
+
+
+Compagnies Voir Entreprises 1
+
+
+Complexité cognitive 12345
+
+
+Confiance 123456
+
+
+Consensus Almond-Lippmann 1
+
+
+Constructivisme 123456 7 8 9 10 11 12 13 14
+
+
+Corée du Nord 12
+
+
+Corée du Sud 1
+
+
+Coût réputationnel 12345678
+
+
+Crédibilité 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+
+
+Crise 12345 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+
+26 27 28 29 30 31 32
+
+
+Crise de Suez 1
+
+
+Crise des missiles 1 2 3 4 5 6 7 8 9 10 11
+
+
+Culture organisationnelle 1234
+
+
+Culture stratégique Voir Culture organisationnelle 1
+
+
+Cybernétique 1234567
+
+
+Danemark 12
+
+
+DE GAULLE, Charles 12
+
+
+Démocratie 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+
+Dépendance au sentier 123456
+
+
+Dictature Voir Autocratie 1
+
+
+Dilemme de sécurité 1 2
+
+
+Dilemme du prisonnier 123
+
+
+Diplomatie ouverte Voir Transparence 1
+
+
+Diplomatie publique 1 2 3
+
+
+Discours Voir Analyse de discours 1
+
+
+Dissonance cognitive 1 2
+
+
+Dissuasion 1 2 3 4 5 6 7 8 9 10
+
+
+Droits de l'Homme 123456 7 8 9 10 11 12 13
+Économie politique ouverte 1
+
+
+Effet CNN 1
+
+
+Égypte 123456
+
+
+EISENHOWER, Dwight D. 1234567
+
+
+Élection 1234 5 6 7 8 9 10 11 12 13 14 15
+
+
+Élite 1234567 8 9 10 11 12 13 14 15 16 17 18 19
+
+
+Entité fédérée Voir Fédération 1
+
+
+Entrepreneur normatif 123456
+
+
+Entreprises 1 2 3 4 5 6 7 8 9 10
+
+
+Environnement (protection de) 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Épistémologie 123456789
+
+
+Espagne 12345
+
+
+Évaluation des politiques 123
+
+
+Experts 12345678
+
+
+Fédération 123
+
+
+Féminisme 1 2
+
+
+Firmes Voir Entreprises 1
+
+
+Fonds monétaire international (FMI) 1
+
+
+France 12345 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+
+FRANCO, Francisco 1 2
+
+
+Genre Voir Féminisme 1
+
+
+GORBATCHEV, Mikhail 1 2 34
+
+
+Groupe d'intérêt Voir Entreprises, Organisations non gouvernementales
+ou minorités ethniques 1
+
+
+Guerre comme diversion (théorie de la) 1
+
+
+Guerre d'Irak 123456789 10 11 12 13 14
+
+
+Guerre de Corée 12
+
+
+Guerre des Malouines 1 2 3
+
+
+Guerre des Six Jours 1 2 3 4
+
+
+Guerre du Golfe 123
+
+
+Guerre du Vietnam 12345678
+
+
+Guerre froide 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+
+Guerre Iran-Irak 1
+
+
+Guerre Voir Recours à la force 1
+
+
+Hégémon 123
+
+
+HITLER, Adolf 123
+
+
+Honduras 1
+
+
+HUSSEIN, Saddam 1 2 3 4 5
+
+
+Identité 1 2 3 4 5 6 7 8 9 10 11 12
+
+
+Identité sociale (théorie de la) 12
+
+
+Inde 12345678
+
+
+Individualisme méthodologique 1
+
+
+Institutionalisme discursive 12
+
+
+Institutionalisme historique Voir Dépendance au sentier 1
+
+
+Instrument 123
+
+
+Intérêt national 1234
+
+
+Intersubjectivité 123456
+
+
+Intervention armée Voir Recours à la force 1
+
+
+Irak 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+
+Iran 12345
+
+
+Israël 12345 6 7 8 9 10
+
+
+Italie 1234567
+
+
+Japon 123456789
+
+
+Jeux (théorie des) 1234567
+
+
+Jeux à deux niveaux (théorie des) 1234
+
+
+JINTAO, Hu 1
+
+
+JOHNSON, Lyndon B 1 2 3
+
+
+Joueur véto 123
+
+
+KENNEDY, John F. 12345 6 7 8 9 10 11 12 13 14
+
+
+KHOMEINI, Rouhollah Mousavi 1
+
+
+KISSINGER, Henry 1234567
+
+
+Liban 123
+
+
+Libre-échange Voir Commerce 1
+
+
+Lobby Voir Organisations non gouvernementales, entreprises ou
+
+
+minorités éthniques 1
+
+
+Maroc 1
+
+
+Médias 123 4 5 6 7 8 9 10
+
+
+Méfiance Voir Confiance 1
+
+
+Métaphore 12345
+
+
+Mexique 1
+
+
+Militaires Voir Armée 1
+
+
+Minorité ethnique 12345
+
+
+Miroir (théorie du) 1
+
+
+Mobilisation Voir Ressource 1
+
+
+Morphogénétique 1
+
+
+Motivation 1 2
+
+
+Multilatéralisme 12345678 9 10 11 12 13 14 15 16
+
+
+Munich, crises de 1
+
+
+MUSHARRAF, Pervez 1
+
+
+Nationalisme 1 2 3 4 5 6 7 8 9 10 11 12
+
+
+NEHRU, Jawaharlal 1 2 3 4
+
+
+Nicaragua 1
+
+
+Niveau d'analyse 123 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+22 23 24 25 26 27 28
+
+
+NIXON, Richard M. 12345678
+
+
+Non compensatoire (principe) 12
+
+
+Norme 1234 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+
+
+Nouvelle-Zélande 1
+
+
+OBAMA, Barack 123
+
+
+Objectif de la politique étrangère 1234567
+
+
+Ontologie 1
+
+
+Opinion publique 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Organisation des Nations unies (ONU) 12 34
+
+
+Assemblée générale 12
+
+
+Conseil de sécurité 1 2 3 4
+
+
+Organisation du Traité de l'Atlantique Nord (OTAN) 1 2 3 45
+
+
+Organisation mondiale du Commerce 12345
+
+
+Organisation non gouvernementale (ONG) 1 2 3 4 5 6 7 8 9 10 11 12
+
+
+Organisationnel (modèle) 123
+
+
+Paix démocratique 1
+
+
+Paix libérale 1
+
+
+Pakistan 1 2
+
+
+Paradiplomatie 12
+
+
+Parlement 12 3 4 5 6 7 8 9 10
+
+
+Parti politique 123456789
+
+
+Pearl Harbor 1234
+
+
+Pensée groupale 12
+
+
+Perception 1 2 3 4 5 6 7 8 9 10 11 12
+
+
+PERES, Shimon 1
+
+
+Personnalité 123456789 10 11 12
+
+
+Perspectives (théorie des) 123
+
+
+Philippines 1
+
+
+Pluralisme 12345
+
+
+Polarité 1234
+
+
+Poliheuristique 12
+
+
+Positivisme 1234567
+
+
+POUTINE, Vladimir 1
+
+
+Première Guerre mondiale 1 2 3 4 5 6 7 8 9 10 11
+
+
+Procédures opérationnelles permanentes (POP) 12
+
+
+Prophétie autoréalisatrice 1
+
+
+Protectionnisme Voir Commerce 1
+
+
+Psychobiographie 1
+
+
+Puissance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+
+Puissance moyenne 1
+
+
+RABIN, Yitzhak 1
+
+
+Ralliement au drapeau (effet de) 1234
+
+
+Rationalité Voir Choix rationnel 1
+
+
+REAGAN, Ronald W. 1 2 3 456
+
+
+Réalisme 1
+
+
+Néo-réalisme 12345
+
+
+Réalisme défensif 1
+
+
+Réalisme offensif 1
+
+
+Recours à la force 1234567 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+22 23 24 25 26 27 28 29 30 31 32 33 34
+
+
+République dominicaine 1
+
+
+Réseau 1234 5 6 7 8 9 10 11 12
+
+
+Ressources 123456789 10
+
+
+Rétroaction 1 2 3 4 5 6 7 8 9 10
+
+
+Rôles nationaux (théorie des) 12
+
+
+ROOSEVELT, Franklin D. 1234567
+
+
+ROSENAU, James 1234567
+
+
+Royaume-Uni 12345678 9 10 11 12 13 14 15
+
+
+Russie 1234 5 6 7 8 9 10 11
+
+
+SADATE, Anouar el- 1
+
+
+Sanction économique 12345 6 7 8 9 10 11 12
+
+
+Schémas cognitifs 1
+
+
+Seconde Guerre mondiale 12345
+
+
+Sécurisation 1 23
+
+
+Socialisation 12345678 9 10 11 12 13 14 15
+
+
+Société des Nations 1
+
+
+Stéréotype 1 2
+
+
+Stress 123456
+
+
+Style de gestion 1
+
+
+Substituabilité des politiques 12
+
+
+Suède 12
+
+
+Suisse 12345
+
+
+Syrie 1234
+
+
+Système complexe 1
+
+
+Taliban 1
+
+
+Terrorisme 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+
+THATCHER, Margaret 12345
+
+
+Théorème de Stolper-Samuelson 123
+
+
+Théorie de moyenne portée 12345
+
+
+Théorie des corbeilles 1 2 3 4
+
+
+Think tanks 12
+
+
+Transparence 123
+
+
+TRUMAN, Harry S. 12345
+
+
+Turquie 123456
+
+
+Unilatéralisme 12345678
+
+
+Union européenne 123456 7 8 9 10 11
+
+
+URSS 1234 5 6 7 8 9 10
+
+
+Vatican 1
+
+
+Victoire militaire 123456789
+
+
+WILSON, Woodrow 123456
+
+
+ZEDONG, Mao 1

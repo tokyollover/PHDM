@@ -1,0 +1,19005 @@
+# Histoire de la guerre de l'Espagne avec le Maroc.pdf
+
+(BnF Gallica
+
+
+Histoire de la guerre de
+l'Espagne avec le Maroc,
+publiée sous la direction de
+MM. A. Baudoz et I. Osiris
+
+
+Source gallica.bnf.fr / Bibliothèque nationale de France
+
+
+(BnF Gallica
+
+
+Osiris, I.. Auteur du texte. Histoire de la guerre de l'Espagne avec
+le Maroc, publiée sous la direction de MM. A. Baudoz et I. Osiris.
+1860.
+
+
+1/ Les contenus accessibles sur le site Gallica sont pour la plupart
+des reproductions numériques d'oeuvres tombées dans le
+domaine public provenant des collections de la BnF. Leur
+réutilisation s'inscrit dans le cadre de la loi n°78-753 du 17 juillet
+1978:
+
+
+- La réutilisation non commerciale de ces contenus est libre et
+gratuite dans le respect de la législation en vigueur et notamment
+du maintien de la mention de source.
+
+
+- La réutilisation commerciale de ces contenus est payante et fait
+l'objet d'une licence. Est entendue par réutilisation commerciale la
+revente de contenus sous forme de produits élaborés ou de
+fourniture de service.
+
+
+CLIQUER ICI POUR ACCÉDER AUX TARIFS ET À LA LICENCE
+
+
+2/ Les contenus de Gallica sont la propriété de la BnF au sens de
+l'article L.2112-1 du code général de la propriété des personnes
+publiques.
+
+
+3/ Quelques contenus sont soumis à un régime de réutilisation
+particulier. Il s'agit :
+
+
+- des reproductions de documents protégés par un droit d'auteur
+appartenant à un tiers. Ces documents ne peuvent être réutilisés,
+sauf dans le cadre de la copie privée, sans l'autorisation préalable
+du titulaire des droits.
+
+
+des reproductions de documents conservés dans les
+bibliothèques ou autres institutions partenaires. Ceux-ci sont
+signalés par la mention Source gallica.BnF.fr / Bibliothèque
+municipale de (ou autre partenaire). L'utilisateur est invité à
+s'informer auprès de ces bibliothèques de leurs conditions de
+réutilisation.
+
+
+4/ Gallica constitue une base de données, dont la BnF est le
+producteur, protégée au sens des articles L341-1 et suivants du
+code de la propriété intellectuelle.
+
+
+5/ Les présentes conditions d'utilisation des contenus de Gallica
+sont régies par la loi française. En cas de réutilisation prévue dans
+un autre pays, il appartient à chaque utilisateur de vérifier la
+conformité de son projet avec le droit de ce pays.
+
+
+6/ L'utilisateur s'engage à respecter les présentes conditions
+d'utilisation ainsi que la législation en vigueur, notamment en
+matière de propriété intellectuelle. En cas de non respect de ces
+dispositions, il est notamment passible d'une amende prévue par
+la loi du 17 juillet 1978.
+
+
+7/ Pour obtenir un document de Gallica en haute définition,
+contacter
+
+
+utilisation.commerciale@bnf.fr.
+
+
+Source gallica.bnf.fr/ Bibliothèque nationale de France
+
+
+20
+
+
+go
+
+
+Oi
+
+
+ام
+
+
+HISTOIRE
+
+
+DE LA
+
+
+GUERRE DE L'ESPAGNE
+
+
+AVEC
+
+
+LE MAROC
+
+
+Tous les droits de traduction en toutes langues sont expressément réservés,
+
+
+les formalités exigées par les lois étant remplies
+
+
+PARIS.
+
+
+Edition spéciale, illustrée de plusieurs Portraits inédits
+
+
+C.
+
+
+TYP. FRANÇAISE-ESPAGNOLE DE MORRIS ET CE, RUE AMELOT, 64.
+
+
+TUPER
+
+
+IMPR
+
+
+S.M. LA REINE ISABELLE.
+
+
+bup. Lemercier Parts
+
+
+HISTOIRE
+
+
+DE LA
+
+
+GUERRE DE LESPAGNE
+
+
+HEOLE
+
+
+IMP
+
+
+AVEC
+
+
+LE MAROC
+
+
+Publiée sous la Direction
+
+
+DE
+
+
+MM. A. BAUDOZ ET I. OSIRIS
+
+
+PARIS
+
+
+LEBIGRE-DUQUESNE FRÈRES, ÉDITEURS
+
+
+RUE HAUTEFEUILLE, 16
+
+
+1860
+
+
+INTRODUCTION
+
+
+La glorieuse campagne de l'Espagne dans le Maroc
+n'a été que l'occasion de ce livre. Avant même que cette
+grande chose à raconter se fût produite et fût pour les
+historiens de l'Espagne une bonne fortune, nous pensions
+à publier une étude sur ce que nous appelons la Rénova-
+tion espagnole.
+
+
+Le règne d'Isabelle II nous avait frappés par un carac-
+tère trop rare pour que nous ne fussions pas tentés de
+le signaler. On a beaucoup trop dit que le passé des peu-
+ples et leur avenir étaient des faits inconciliables. Le règne
+d'Isabelle II est une réfutation de cette doctrine politique.
+
+
+La vieille Espagne, sous le gouvernement d'une femme,
+la vieille Espagne absolutiste, devient une jeune nation
+constitutionnelle, sans que la Reine en soit moins pour
+
+
+INTRODUCTION.
+
+
+cela la Reyna legitima de la vieille Espagne. En d'autres
+termes, c'est le sentiment monarchique, heureusement in-
+déracinable en Espagne, qui y assure le régime constitu-
+tionnel.
+
+
+Eh bien! c'est là précisément ce que nous avons voulu
+dire les premiers. C'est ce règne, si plein de choses accom-
+plies et de choses qui doivent s'accomplir encore, que
+nous avons voulu retracer.
+
+
+La gloire militaire que le maréchal O'Donnell vient d'a-
+jouter à la gloire politique de son pays a été, pour nous,
+une raison de plus pour la raconter, et ce n'a pas été la
+moins puissante.
+
+
+Conçu par nous dans des sentiments de justice et d'im-
+partialité, ce livre, quelle qu'en soit la valeur, se recom-
+mande par deux choses dont nous pouvons peut-être à
+l'avance nous honorer: le dévouement aux intérêts de
+l'Espagne, sans nous empêcher d'être Français avant tout,
+et aussi la conscience dans le renseignement.
+
+
+Nous croyons n'avoir rien négligé pour donner à ce
+livre le caractère d'une œuvre qui s'adresse à tous les es-
+prits impartiaux.
+
+
+Détails de guerre, de politique, de finances, nous avons
+tout étudié, tout passé au crible du plus sincère examen,
+et nous pouvons nous rendre cette justice que, si nous
+n'avons pas été éloquents, nous avons du moins été hon-
+nêtes et exacts.
+
+
+Ceux qui viendront après nous feront mieux sans doute,
+
+
+INTRODUCTION.
+
+
+111
+
+
+mais nous aurons l'avantage d'avoir appelé les premiers
+l'attention sympathique sur ce beau pays, digne de notre
+estime et de notre alliance, et surtout d'avoir porté sur les
+faits, quels qu'ils soient, une lumière qui doit y rester,
+nous y comptons bien.
+
+
+Nous avons cherché à détacher les figures marquantes
+de ce règne glorieux d'Isabelle II. Le caractère et la posi-
+tion personnelle des ministres qui, dans les derniers événe-
+ments, se sont groupés autour de la Reine et ont si ardem-
+ment soutenu la politique du maréchal O'Donnell, et qui
+ont contribué par là à rendre l'Espagne à sa gloire, méri-
+taient une étude approfondie. Puissions-nous avoir été à
+la hauteur de la tâche que les circonstances nous impo-
+saient!
+
+
+Quant aux intérêts matériels de l'Espagne, nous y avons
+consacré la troisième partie de ce livre, et nous espérons
+motiver et justifier amplement par là toute la confiance
+que mérite l'Espagne à cet égard. C'est un aspect que nous
+avons tenu à développer et dont les conséquences ne peu-
+vent tarder à être admises et reconnues hautement par
+toutes les nations de l'Europe.
+
+
+Paris, 30 juillet 1860.
+
+
+A. BAUDOZ. I. OSIRIS.
+
+
+S. M. ISABELLE II
+
+
+Reine des Espagnes.
+
+
+S. M. ISABELLE II (MARIE-LOUISE), Reine des Espagnes, est
+née le 10 octobre 1830. Parmiles reines qui l'auront précé-
+dée et celles qui la suivront, Isabelle II aura cette bonne for-
+tune d'avoir commencé une ère nouvelle dans l'histoire de son
+pays. Il y a des dynasties d'idées comme il y a des dynasties
+de races. Isabelle II, la première Reine de l'Espagne consti-
+tutionnelle, sera une fondatrice de dynastie dans l'ordre des
+idées, et le bonheur ne sera pas pour elle seule; c'est aussi
+une heureuse rencontre et un heureux augure que ce soit
+une femme, et une femme d'une bonté égale à son intelli-
+gence, qui ouvre l'ère des constitutions dans ce pays de Rey
+absoluto (Roi absolu), car on sait l'influence des femmes
+sur les pays chevaleresques, et quel pays fut jamais plus
+chevaleresque que l'Espagne? Dans les circonstances où
+cette noble terre était placée quand Isabelle a ceint la
+couronne, l'avénement d'un homme eût été moins visible-
+ment providentiel.
+
+
+Pendant que la dernière guerre de succession divisait
+l'Espagne et la tenait en suspens sur le système de gouver-
+
+
+1.
+
+
+VI
+
+
+HISTOIRE DE LA GUERRE
+
+
+nement qui heureusement a prévalu, Isabelle II, l'enfant
+de l'avenir et son espérance, était élevée chrétiennement
+par son illustre mère, Marie-Christine, dans les idées qui
+devaient faire de sa royauté une grande force, si elle ac-
+ceptait, comme elle l'a acceptée, la limite de cette haute
+fonction. La douleur est une grande culture, a dit Shakes-
+peare. Rien ne manqua à l'éducation d'Isabelle pour la ren-
+dre amère et féconde: ni les luttes qui ensanglantaient la
+patrie, ni les intrigues des camarillas et des palais, ni la
+perte d'une mère en fuite qui, en émigrant, la fit orphe-
+line, ni enfin l'incapacité de l'homme qui, chargé de régner
+provisoirement à sa place, sembla lui avoir gâté le pouvoir
+avant de le lui remettre, en le rendant d'autant plus diffi-
+cile à exercer pour elle que lui-même n'avait pas su s'en
+servir. Elle le prit pourtant sans embarras dans ses jeunes
+mains, ce pouvoir pesant de tant de fautes, et elle le porta
+dès les premiers pas avec une décision pleine de sagesse,
+croyant que le seul moyen d'en alléger le poids était de ne
+le partager avec personne. On la vit, pour le mieux garder,
+aller à travers tous les prétendants  sa main que lui of-
+fraient la France, Naples et l'Angleterre, choisir pour
+époux son cousin l'infant Don François d'Assise, simple
+colonel de cavalerie, qui, tout prince qu'il fût, vivait en
+Navarre avec la mâle austérité d'un colonel; mariage d'a-
+mour que la politique éleva encore! En le contractant, elle
+échappait aux influences et aux idées des diplomaties
+étrangères, elle restait plus Espagnole et plus elle-même ;
+et quoiqu'elle fût disposée à entendre les conseils de l'é-
+poux qu'elle s'était donné, elle ne lui attribua aucune part
+directe dans les affaires de son gouvernement.
+
+
+Une partie de l'Espagne était alors la proie de cette
+guerre civile qui devait encore durer sept ans. Ce n'était
+dans tout le royaume qu'agitation, anxiété et crises; les
+finances surtout étaient dans un état affreux. Tout sem-
+blait perdu sans une de ces mesures audacieuses qui sont
+le va-tout des États, la dernière partie qu'on engage quand
+il n'y en a plus d'autre à engager. Cette mesure, une des
+premières du règne d'Isabelle II, cette mesure d'État et de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+VIL
+
+
+salut public, presque révolutionnaire, fut la désamorti-
+sation ecclésiastique. On vendit les biens du clergé, et ce
+fut grâce à cette vente, audacieuse, mais nécessaire, que l'on
+put continuer et plus tard finir la guerre à la bataille de
+Morella. Seulement la mesure en question avait un carac-
+tère si blessant pour un pays d'un catholicisme comme
+l'Espagne, qu'un Roi eût probablement échoué en l'adop-
+tant, et qu'il fallait une Reine, mais une Reine à cœur de
+Roi, pour réussir. Et l'on réussit, car on l'avait !
+
+
+La guerre civile fut éteinte, et, pour que les brandons ne
+pussent s'en rallumer, le premier soin de la Reine fut de
+créer cette fameuse garde civile qui, avec six mille hom-
+mes d'infanterie et treize mille de cavalerie, occupa le pays,
+l'arme au pied, prête contre toutes les anarchies; la pro-
+priété fut surveillée, les provinces pacifiées, et la Reine,
+ayant rassemblé les Cortès, réalisa le plus immense chan-
+gement législatif qu'on eût jamais vu se produire d'un
+seul coup en Espagne, ce changement par lequel la vieille
+Espagne devint tout à coup, et sans rompre avec son passé,
+un État moderne, et se donna des institutions. La grande
+idée française, l'égalité devant la loi, l'unité et la simpli-
+cité dans les relations politiques, administratives et civiles,
+qui sont la conséquence de cette égalité, fut introduite
+dans un code de lois incomplet encore, mais qui s'achèvera
+glorieusement. La Grandesse fut maintenue dans le respect
+historique de son titre plus que dans ses priviléges, qui
+eussent été une contradiction avec l'esprit du temps qu'on
+faisait entrer si largement dans ces institutions vivantes.
+
+
+Cependant la désamortisation ecclésiastique, qui est le
+coup d'État du règne d'Isabelle II, avait interrompu les
+relations du gouvernement espagnol avec Rome; mais la
+politique de la Reine, sa piété, sa droiture, enfin la pro-
+fondeur de Rome, qui a toujours, quoi qu'en disent ses
+ennemis, compris avec une sagesse divine les nécessités
+qui pèsent souvent sur les maîtres incertains de la terre,
+et qui n'a jamais manqué d'y compatir, toutes ces choses,
+et particulièrement l'armée levée par la Reine et offerte si
+généreusement en 1849 au souverain pontife, Sa Sainteté
+
+
+VIII
+
+
+HISTOIRE DE LA GUERRE
+
+
+Pie IX, renouèrent les relations brisées et en resserrèrent
+le nœud davantage. Les Cortès avaient autorisé leur Reine
+bien-aimée à traiter avec Sa Sainteté. La cour de Rome
+accepta les modifications proposées par l'Espagne, et la ra-
+tification fut complète.
+
+
+Il ne faut pas cesser de le répéter, cette affaire des biens
+ecclésiastiques, qui pouvait, sans l'intervention personnelle
+d'Isabelle II, recommencer la révolution avec des forces
+nouvelles, cette affaire si longue, si difficile, si près de
+l'injustice, et qui a su l'éviter, est jusqu'ici, avec la guerre
+du Maroc, le plus grand fait du règne d'Isabelle. Ni les
+chemins de fer et les canaux, établis à travers ce pays, par-
+tagé par des sierras et des torrents, et qui n'était vraiment
+cohérent et unitaire que dans son patriotisme et son senti-
+ment religieux, ni les monuments dont Isabelle II aura
+paré sa terre natale, ni les universités améliorées et aug-
+mentées, ni même la protection qu'elle accorde aux let-
+tres, elle qui a couronné de ses mains de Reine la tête
+du poëte Quintana, ressuscitant pour lui dans son propre
+pays, joie et ivresse de plus ! le couronnement du Tasse
+au Capitole; ni enfin les établissements de charité, qui ne
+sont plus seulement des pierres élevées et alignées avec
+génie, et qu'elle a bâtis pour abriter toutes les misères,
+n'ont certainement aux yeux politiques l'importance de
+ce fait sans égal (le concordat) qui a fait en Espagne, par
+la main d'une femme, ce qui demanda en France la main
+d'un Napoléon! C'est de là que datera l'Espagne moderne
+dans l'ordre politique, comme, dans l'ordre militaire, elle
+datera de la guerre du Maroc.
+
+
+Tel a été jusqu'à ce jour le règne d'Isabelle II. Mais la
+femme qui a commencé de régner ainsi nous dit ce que
+nous pouvons attendre d'elle encore. Chez un peuple aussi
+profondément catholique et monarchique que le peuple
+espagnol, nul ne sait ce que dans une grande circonstance
+la fille de Ferdinand VII pourrait devenir.
+
+
+On l'a bien vu quand la guerre fut déclarée au Maroc,
+dans ce magnifique mouvement d'enthousiasme qui ressem-
+blait à la résurrection d'un peuple, Isabelle II offrit tous
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+IX
+
+
+ses bijoux, comme elle aurait donné ses fils, s'ils avaient
+été en âge de combattre, sûre qu'elle était que sa brave
+armée les changerait en une gloire plus belle que des dia-
+mants et des pierreries, en une gloire qui la couronnerait
+mieux!
+
+
+Déjà quand on parla, il y a quelques années, d'annexer
+Cuba au vaste territoire de l'Amérique du Nord, elle avait
+dit avec une impétuosité charmante qu'elle vendrait plu-
+tôt ses bijoux que de laisser consommer un acte aussi
+dommageable aux intérêts et à la fierté de l'Espagne!
+
+
+Reine, tellement Reine, des gouttes de son sang jus-
+qu'au fond de son âme, que la femme n'existe plus en
+Isabelle II, si ce n'est pourtant par la beauté qui rayonne
+en elle comme une bonté visible, et cette bonté du cœur
+qui est l'invisible beauté!.
+
+
+BIBLIOT
+
+
+IMPE
+
+
+IMPR
+
+
+LE MARECHAL O'DONNELL DUC DE TÉTOUAN
+
+
+S. E. LE MARÉCHAL O'DONNELL
+
+
+Comte de Lucena, Duc de Tétouan, Ministre de la Guerre
+et des Colonies, Président du Conseil des Ministres,
+
+
+Le maréchal LÉOPOLD O'DONNELL, comte de Lucena,
+duc de Tétouan, ministre de la guerre et président du
+Conseil des ministres, est né, le 12 janvier 1809, à Santa-
+Cruz de Ténériffe; sa famille, poursuivie en raison de son
+attachement à la cause des Stuarts, avait quitté son pays
+natal, l'Irlande, et s'était réfugiée en Espagne, où son
+grand-père avait été nommé général de brigade, et son
+père lieutenant général du régiment irlandais qu'on avait
+formé avec les partisans de cette race de rois malheureux.
+A l'âge de dix ans l'enfant avait déjà été nommé lieute-
+nant dans l'armée. Plus tard l'homme, le grand capitaine,
+paya par un dévouement absolu à la personne sacrée de
+la fille de son roi cette faveur toute spéciale de Ferdi-
+nand VII.
+
+
+En 1823, le jeune O'Donnell assista comme aide de camp
+du général en chef au siége de Ciudad-Rodrigo, et y
+fut nommé lieutenant le 17 mai de la même année. Le
+
+
+XII
+
+
+HISTOIRE DE LA GUERRE
+
+
+15 avril suivant, il entra avec le même grade dans la garde
+royale, où il devint capitaine quatre ans plus tard, au mo-
+ment de cette guerre civile qui, après la mort de Ferdi-
+nand VII, déchira l'Espagne en 1833.
+
+
+Quoique tous les siens se fussent déclarés pour Don Car-
+los, le jeune capitaine, s'élevant au-dessus de l'esprit de
+famille, n'hésita pas un instant sur le parti à prendre;
+il resta, comme toute sa vie, fidèle à la défense des droits
+de la fille de son roi, de son protecteur, que celui-ci, en
+abolissant la loi salique, avait déclarée être son seul et lé-
+gitime successeur.
+
+
+Dès le commencement de cette guerre malheureuse et
+fratricide qui a fait tant de mal à ce beau et noble pays, le
+jeune O'Donnell trouva l'occasion de se distinguer. Il fut
+incorporé, avec 150 grenadiers de la garde, à la brigade
+de Linarès, destinée à protéger les villes de l'Aragon con--
+tre les insurgés de Navarre sous Zumalacarreguy. Cette
+brigade, se trouvant à Lumbier, fut assaillie par trois ba-
+taillons de carlistes; O'Donnell, avec sa petite troupe de
+grenadiers soutenue par vingt-cinq cavaliers, repoussa
+victorieusement l'attaque des forces ennemies dix fois supé-
+rieures en nombre. En récompense de ce beau fait d'armes,
+il fut nommé colonel honoraire, à l'âge de 25 ans; deux
+mois plus tard, à l'armée du Nord, le colonel O'Donnell fut
+chargé, dans un combat, de défendre un poste extrême-
+ment important. Soutenue par l'exemple de son colonel, sa
+petite troupe héroïque, réduite à un tiers par le feu de
+l'ennemi, résista à toutes les attaques de ses adversaires,
+qui, revenus cinq fois à la charge, furent cinq fois re-
+poussés. Le poste dont dépendait le salut de l'armée resta
+entre les mains des christinos. Mais O'Donnell avait payé
+cher la croix de Saint-Ferdinand qui le récompensa de cette
+action d'éclat, dans laquelle il fut grièvement blessé. A
+peine guéri de sa blessure, l'intrépide officier, à la tête
+d'un bataillon, alla prendre part au débloquement de Bil-
+bao, où il fut nommé lieutenant-colonel-major en recon-
+naissance de sa conduite héroïque à la bataille de Mendi-
+gorria.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XHI
+
+
+Si nous voulions citer tous les hauts faits du jeune sol-
+dat, il faudrait pour cela entrer dans les détails de la guerre
+civile, car chaque action à laquelle il assistait était pour le
+brillant officier une nouvelle occasion de se distinguer.
+Après le combat de Guevara, le corps du général Cordova
+fut poursuivi par l'armée carliste; O'Donnell, avec deux
+compagnies de chasseurs seulement, barra le chemin à
+cette armée, et tint tête jusqu'à ce que le corps du général
+Cordova fût hors de danger. Cette brillante affaire attira
+sur lui l'attention de toute l'Espagne; par un ordre du
+jour, elle fut portée à la connaissance du peuple espagnol.
+
+
+Mis à la tête du régiment de Gerona en qualité de co-
+lonel, et chargé du commandement de la brigade à la-
+quelle ce régiment et celui de Mallorca appartenaient,
+O'Donnell se signalait dans tous les combats par sa bra-
+voure, par son coup d'œil militaire et surtout par la cir-
+conspection qui est un trait tout particulier de son carac-
+tère militaire.
+
+
+Nommé général de brigade, il gagna à la bataille de
+Galarreta la croix de Saint-Ferdinand de première classe,
+et il eut, ce qui est plus glorieux qu'une croix, une bles-
+sure qui le tint éloigné du service actif pendant plus d'un
+an; car son état de blessé s'était encore compliqué d'une
+attaque de typhus qui le mit à deux doigts de la mort.
+Seule, sa forte constitution le sauva.
+
+
+A peine guéri, il alla se mettre à la tête de sa brigade,
+chercher de nouveaux succès, et abtint de nouveaux hon-
+neurs à la prise d'Irun.
+
+
+Cependant la situation de l'armée espagnole était alors
+extrêmement critique; les soldats n'étaient que fort irré-
+gulièrement payés et manquaient des objets les plus indis-
+pensables, tels que souliers et vêtements. Il en était résulté
+un grand mécontentement et une profonde démoralisation
+parmi les troupes, qui se révoltèrent. C'était à Ernani, le
+16 juillet 1836; les soldats avaient chassé leurs officiers,
+s'étaient emparés des maisons les plus importantes, et re-
+fusaient net toute obéissance. O'Donnell, accourant en
+toute hâte, avait fait venir deux bataillons sur lesquels
+
+
+XAV
+
+
+HISTOIRE DE LA GUERRE
+
+
+il croyait pouvoir compter; ceux-ci arrivèrent en effet,
+mais refusèrent de rien entreprendre contre leurs cama-
+rades insurgés. Ajoutons, pour peindre d'un seul mot
+toute la difficulté et le péril de la situation du général, que
+huit bataillons de carlistes se trouvaient à Andouain, à trois
+kilomètres d'Ernani, et que, s'ils s'étaient avisés d'arriver
+dans ce moment, tout aurait été infailliblement perdu.
+Dans cet instant suprême, O'Donnell donna la mesure du
+sang-froid, de la présence d'esprit et du courage qui font
+de lui un chef militaire d'une irrésistible puissance de
+commandement. Seul et sans défense, il se rendit au mi-
+lieu de cette soldatesque soulevée, et, par cette hardiesse
+et au milieu du silence que sa présence imposait, il flé-
+trit en traits énergiques et indignés une conduite si lâche-
+ment criminelle.
+
+
+L'impression produite par ses paroles fut telle, que cette
+cohue, tout à l'heure si indisciplinée, demanda d'une seule
+voix à être menée à l'ennemi. Et il était temps, car les car-
+listes, informés de la situation des affaires dans le camp
+des christinos, étaient venus les attaquer. O'Donnell, à la
+tête de ses soldats repentants, repoussa l'ennemi; et sa-
+chant que le meilleur moyen contre l'indiscipline d'une
+armée démoralisée, c'est de prendre les avantages de l'of-
+fensive, il ne s'arrêta que quand il eut rejeté les carlistes
+derrière l'Oria. Le grade de maréchal de camp fut la
+récompense de cette intelligente et intrépide conduite.
+
+
+Dès lors O'Donnell fut compté au nombre des chefs les
+plus en renom parmi les partisans de la Reine. En 1839,
+on lui confia le commandement en chef de l'armée du
+centre, en le nommant capitaine général de l'Aragon, de
+Valence et de Murcie, poste aussi important que difficile à
+remplir.
+
+
+Les troupes mises sous ses ordres, dans ces provinces,
+étaient fort démoralisées par plusieurs défaites qu'elles
+avaient essuyées coup sur coup.
+
+
+Cabrera était maître de plusieurs places importantes du
+royaume de Valence, du bas Aragon et surtout de Mo-
+rella, dans le Maestrazgo.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XV
+
+
+O'Donnell, lui, ne pouvait compter sur d'autres res-
+sources que celles qu'il trouvait dans son génie militaire
+et dans sa prompte résolution.
+
+
+a
+
+
+A peine eut-il pris possession de son nouveau poste
+qu'il apprit la triste position du général Aznar, bloqué
+dans Lucena, et que le général Amor n'avait pas pu se-
+courir. Le nouveau gouverneur général ramasse à
+hâte ce qu'il peut de troupes, et réussit, par une tactique
+des plus habiles, à tromper Cabrera et à se réunir au
+général Amor. Ainsi renforcé, il offre, près de Lucena, la
+bataille à Cabrera, le bat complétement le 16 juillet, et
+réussit ainsi à débloquer la ville assiégée.
+
+
+Le grade de lieutenant général et le titre de Comte de
+Lucena sont la récompense d'un des plus beaux faits
+d'armes de cette triste période de guerres civiles.
+
+
+La convention de Bergara avait mis un terme à ces
+luttes fratricides. Nous verrons, dans le courant de ce
+livre, ce qui suivit cette convention; nous n'avons ici qu'à
+peindre le grand et habile général. Ayant pris parti pour
+la Régente contre Espartero, le comte de Lucena pro-
+tégea la retraite de Marie-Christine et son embarquement
+à Valence, puis il alla se réfugier à Paris, où il resta
+deux ans, de 1841 à 1843. Le retour de la Reine mère
+ramena aussi O'Donnell, qui alla occuper pendant cinq
+ans le poste de capitaine général de l'île de Cuba.
+
+
+Nommé en 1850 directeur général de l'infanterie, le
+comte eut l'occasion de déployer les plus rares talents
+administratifs. Il montra cette rigidité et ce désintéresse-
+ment que ses ennemis mêmes sont obligés d'admirer en
+lui. Un homme de cette pureté de caractère ne devait pas
+rester longtemps à ce poste. Destitué six mois après, il
+fut compris au nombre des généraux proscrits qu'on de-
+vait déporter dans les îles, et qui, pour éviter l'exil, furent
+obligés de se cacher.
+
+
+Le pronunciamiento de Vicalvaro rendit la liberté à
+O'Donnell et aux autres proscrits.
+
+
+Nommé Ministre de la guerre et Président du Conseil le
+30 juin 1858, le maréchal O'Donnell mit en œuvre cette
+
+
+XVI HISTOIRE DE LA GUERRE AVEC LE MAROC.
+
+
+politique sage et conservatrice qui, respectant toutes les
+convictions et toutes les nobles aspirations, cherche à les
+diriger toutes vers un seul but, le véritable bien de la pa-
+trie, l'amour de la Reine.
+
+
+Fortifiant de plus en plus l'esprit de discipline dans
+l'armée, il s'appliquait, en dépit des moyens financiers,
+souvent insuffisants et marchandés par une opposition
+méticuleuse ou taquine, à y introduire toutes les amélio-
+rations que les progrès de l'industrie et des sciences ont
+fait faire au matériel de l'armée.
+
+
+Grâce à cette discipline, grâce à l'esprit militaire qui
+en a été la conséquence, grâce enfin à une organisation
+nouvelle, l'Espagne possède une armée qui ne le cède en
+rien aux meilleures troupes qu'elle ait jamais possédées.
+L'armée espagnole devra à son chef illustre d'avoir abdi-
+qué cet esprit politique qui, depuis longues années, l'a-
+vait affaiblie et déconsidérée aux yeux du monde entier.
+
+
+En lui rendant cet esprit militaire qui fait des armées
+françaises les plus enviées et les plus belles, le maréchal
+O'Donnell, duc de Tétouan, s'est acquis une grande gloire
+dans les fastes militaires; et, comme l'ont solennellement
+déclaré hier les corps constitués de l'Espagne reconnais-
+sante, « l'armée espagnole et le maréchal O'Donnell ont
+>> bien mérité de la patrie. >>
+
+
+Nous examinerons dans le courant de ce livre la valeur
+du maréchal O'Donnell et de ses doctrines au point de vue
+politique.
+
+
+IMPER
+
+
+IMPR
+
+
+S.E.M.S.CALDERON COLLANTES
+
+
+Président par intérim du Conseil des Ministres,
+Ministre des Affaires Etrangères.
+
+
+S. E. M. S. CALDERON-COLLANTÈS
+
+
+Ministre des Affaires Etrangères.
+
+
+M. SATURNINO CALDERON COLLANTÈS, ministre des af-
+faires étrangères, est né dans la ville de Reinosa, province
+de Santander. Son père, M. Manuel Caldéron, juriscon-
+sulte éminent, magistrat renommé pour son intégrité,
+appartenait, de même que sa mère, madame de Collantes,
+ une famille d'une ancienne noblesse. Ses parents, qui
+savaient le prix de l'instruction, lui firent donner une
+éducation complète.
+
+
+En 1820, M. Manuel Caldéron fut nommé député aux
+ Cortès; le jeune Saturnino alla continuer ses études à
+l'Université centrale, et quitta celle de Valladolid, où il les
+avait commencées.
+
+
+Malgré sa jeunesse, les débats de cette mémorable
+assemblée, auxquels il assistait suivant les ordres de son
+père, ses relations avec les hommes éminents de cette
+époque, auxquels il fut présenté, eurent une grande in-
+fluence et lui furent fort utiles pour former son intelli-
+gence et déterminer la direction de ses idées.
+
+
+11.
+
+
+XVIII
+
+
+HISTOIRE DE LA GUERRE
+
+
+La mission des Cortès de 1820 une fois remplie, son
+père fut nommé chef politique ou préfet de Logrono.
+Plus tard, il administra Palencia, et il se joignit au géné-
+ral en chef de la quatrième armée d'opération, le comte
+de Carthagène, qui se trouvait à Valladolid lorsque l'armée
+française envahit l'Espagne sous les ordres du duc d'An-
+goulême.
+
+
+Le général comte de Carthagène portait une considéra-
+tion toute particulière au chef politique de Palencia; c'est
+ce qui l'engagea à utiliser ses connaissances en lui donnant
+la charge d'auditeur général de l'armée.
+
+
+Le jeune Saturnino suivit partout son père. Quand l'ar-
+mée fut dissoute et que l'ordre des choses existant en
+Espagne fut changé, il eut à subir les conséquences de
+l'intégrité de principes que son père avait montrée et de
+la part qu'il avait prise dans les dispositions adoptées par
+le général pour modérer une des réactions les plus vio-
+lentes qui aient jamais sévi dans un pays civilisé.
+
+
+Saturnino Caldéron en fut aussi victime. Expulsé d'a-
+bord de l'Université de Santiago, il fut blessé plus tard
+dans une émeute provoquée par un bataillon de royalistes;
+ce fut presque par miracle que sa vie fut sauvée.
+
+
+Le général Eguia, ayant été nommé capitaine général
+de la Galice, empêcha le renouvellement de pareils désor-
+dres. Eguia voulait bien opprimer et persécuter aussi,
+mais seul et sans collaborateurs.
+
+
+Le jeune Caldéron eut à éprouver aussi les effets de ses
+injustes préventions. Sans cesse surveillé, nombre de
+fois molesté et inquiété en dépit de toute la modération
+et de la prudence de sa conduite, il fut enfin expulsé.
+Cette mesure fut prononcée par Eguia sur une dénonciation
+absurde l'accusant de faire partie d'une de ces sociétés
+imaginaires que l'on prétendait préparer en Galice le ré-
+tablissement du système constitutionnel.
+
+
+Caldéron demanda justice au Roi: il l'obtint complète,
+quoiqu'un peu tard.
+
+
+Peu de temps après, Ferdinand VII descendit au tom-
+beau, et son auguste veuve jeta les premières bases de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XIX
+
+
+l'édifice qui s'est enfin élevé solidement et majestueuse-
+ment en Espagne.
+
+
+Les Cortès ayant été convoquées par Estamento, Caldéron
+fut nommé procureur du royaume par la province d'Orense.
+Son premier discours fut relatif à la loi excluant Charles
+de Bourbon et ses descendants de la succession à la cou-
+ronne d'Espagne. Ce discours, abondant en faits histo-
+riques et en considérations politiques, appela doublement
+l'attention sur lui, d'abord à cause de la circonstance
+même, puis à cause de la jeunesse de l'orateur.
+
+
+Il continua à prendre part aux graves et solennels débats
+de l'Estamento de procuradores, et ne tarda pas à acqué-
+rir la réputation qu'il méritait. Cette assemblée était
+divisée en deux partis: l'un désirait des réformes lentes,
+mûries par l'expérience et la raison; l'autre voulait préci-
+piter les choses et changer d'un seul coup toutes les con-
+ditions sociales du pays.
+
+
+Caldéron eut la prudence de se tenir sur un terrain
+neutre, tout en se montrant toujours partisan résolu des
+formes et des principes constitutionnels.
+
+
+Peu après la dissolution de ces Cortès, causée par des
+discussions sur la loi électorale auxquelles le député d'O-
+rense prit une part très-active comme membre de la com-
+mission qui fut chargée de faire un rapport sur le projet
+de loi, M. Caldéron fut nommé conseiller à l'audience d'O-
+viedo. Devenu plus tard conseiller à l'audience de Valla-
+dolid, il fut élu par la province d'Orense député aux
+Cortès de 1837. Il y soutint encore les principes qu'il avait
+embrassés dès sa jeunesse; aussi, quand le ministère
+Perez de Castro, après avoir subi diverses transforma-
+tions, dut encore se réorganiser après la convention de
+Vergara, pour mieux en développer les conséquences, on
+s'empressa d'appeler M. Caldéron aux fonctions de mi-
+nistre de l'intérieur.
+
+
+Les Cortès furent dissoutes; la nouvelle situation du
+pays en réclamait d'autres qui fussent plus en harmonie
+avec elle. M. Caldéron dirigea les élections avec une acti-
+vité et une énergie extrêmes, quoique toujours dans un
+
+
+XX
+
+
+HISTOIRE DE LA GUERRE
+
+
+esprit constant d'équité et de légalité. Vers le milieu de la
+période consacrée aux élections, le général Espartero, qui
+commandait l'armée du Nord et n'approuvait pas la politi-
+que du Cabinet, lança du quartier général de Mas de Mata,
+au moment où il était à la tête de l'armée qui avait pa-
+cifié les provinces du nord, un manifeste resté célèbre,
+destiné à influencer les résultats de la lutte électorale et à
+priver de toute force le ministère, qui avait la confiance
+de la couronne. M. Caldéron proposa immédiatement des
+mesures énergiques. Elles ne furent pas adoptées, et il
+manifesta l'intention de se retirer. Cependant, sur les vives
+instances qui lui furent faites, il consentit à rester au
+Ministère. Les élections arrivèrent à leur terme, et le gou-
+vernement obtint une majorité considérable.
+
+
+Le congrès se constitua au milieu de discussions ar-
+dentes et acharnées. Cependant le Ministère finit par
+triompher des obstacles de tout genre qui lui furent oppo-
+sés. Les procès-verbaux des élections furent approuvés, et,
+le mème jour, le ministère de l'intérieur présenta au
+Corps législatif les lois sur les municipalités et les dépu-
+tations provinciales, sur la liberté de la presse et sur les
+élections. Tout d'abord la première souleva de violentes
+récriminations. On allait cependant la discuter, lorsque le
+général Espartero présenta au gouvernement une propo-
+sition de nombreuses récompenses, à la tête desquelles
+figurait la nomination de son secrétaire de campagne,
+M. Francisco Linage, l'auteur du Manifeste de Mas de las
+Matas, au grade de maréchal de camp.
+
+
+Aussitôt qu'elle arriva à l'examen du conseil des Mi-
+nistres, M. Caldéron-Collantès annonça l'intention de se
+retirer, si elle était approuvée. Le ministre de la guerre,
+M. Francisco Narvaez, et celui de la marine, l'infortuné
+Manuel Montès de Oca, firent la même déclaration.
+S. M. la Reine Régente jugea convenable d'y donner son
+auguste approbation, et MM. Perez de Castro et Arrazola
+ayant été de la même opinion, les trois ministres dissi-
+dents présentèrent leurs démissions, donnant ainsi un
+exemple assez rare de dignité et d'indépendance.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXI
+
+
+Les événements se chargèrent de démontrer l'esprit de
+prévoyance qui les avait animés. Le $1^{er}$ septembre la ré-
+volution éclata. M. Caldéron avait éprouvé de nombreuses
+pertes domestiques, il rentra dès lors complétement dans
+la vie privée, et il y resta jusqu'à la fin de 1845. A cette
+époque, il fut élu représentant au congrès par la province
+de Lugo.
+
+
+En 1847, il fut nommé membre du Conseil royal. Dans
+ce poste important, il montra toujours le zèle et la droi-
+ture qui le distinguent et qui ne se sont jamais démentis.
+Il prit une part très-active à tous les travaux du Conseil
+royal. La question de l'achat par l'État du chemin de fer
+d'Aranjuez, qui occupa longtemps le Conseil, celle de la
+Réforme de la constitution, et nombre d'autres, d'une ex-
+trême gravité, donnèrent à. M. Caldéron-Collantès l'occa-
+sion de prouver que ce qui, selon son jugement im-
+partial, était avantageux à la chose publique, trouvait
+toujours en lui un promoteur et un défenseur exempt d'es-
+prit de parti et de vues d'intérêt personnel.
+
+
+Dans les derniers mois de 1850, le duc de Valence,
+président du Conseil des ministres, lui offrit le ministère
+du commerce, de l'instruction et des travaux publics, et,
+malgré la répugnance qu'il éprouvait à s'occuper d'une
+manière active de la direction des affaires publiques, il lui
+fallut céder aux instances de cet homme d'État, auquel
+l'unissaient d'anciennes relations d'amitié.
+
+
+Mais déjà le Ministère avait beaucoup perdu du pres-
+tige dont il avait joui dans les deux premières années de
+son existence. Combattu par des éléments opposés les uns
+aux autres, mais puissants, il dut céder la place à un
+autre Ministère qui invoquait des principes de légalité et
+d'économie que, plus tard, il n'observa point, mais qui
+sonnent toujours agréablement aux oreilles d'un pays
+avide de moralité et de justice.
+
+
+M. Caldéron-Collantès revint occuper le siége de séna-
+teur qu'il remplissait depuis 1847. Dans ce poste, il com-
+battit la politique qui commença à se dessiner nettement
+au commencement de 1852, et qui, à la fin de cette même
+
+
+XXII
+
+
+HISTOIRE DE LA GUERRE
+
+
+année, excita les alarmes de tous les amis sincères des
+institutions constitutionnelles. Néanmoins ses discours
+furent toujours modérés et exempts de toutes ces personna-
+lités familières aux partis, et que dédaignent les hommes
+vraiment politiques.
+
+
+Les souvenirs qu'ont laissés les sessions des années 1853
+et 1854 s'effaceront difficilement de la mémoire des Espa-
+gnols. La lutte entre le gouvernement et les oppositions
+augmentait de jour en jour de vivacité et d'acharnement.
+Enfin le ministère Sartorius fut formé. L'irritation arriva
+à son comble. Dans le Sénat, 105 sénateurs condamnè-
+rent solennellement la politique suivie. Sans aucun res-
+pect pour l'inviolabilité parlementaire, des persécutions
+furent dirigées contre plusieurs sénateurs..... Les graves
+événements de juillet 1854 éclatèrent. On sait le reste.
+
+
+M. Caldéron-Collantès était à cette époque éloigné de
+Madrid. Lors de la constitution du Cabinet que prési-
+dait le général Espartero, il fut nommé conseiller au Tri-
+bunal suprême de la guerre et de la marine et président
+du Tribunal du contentieux administratif. Ce dernier
+corps venait d'être créé. Il devait remplir la lacune
+qu'avait laissée le Conseil royal, imprudemment supprimé
+sans égard aux grands services qu'il avait rendus pendant
+les huit ou neuf années de son existence.
+
+
+Le Tribunal du contentieux avait été créé, mais les
+fonctions de ses membres étaient gratuites. Entre les
+fonctions gratuites de président et l'emploi rétribué de
+conseiller dans un Tribunal suprême, le choix de M. Cal-
+déron ne pouvait être douteux.
+
+
+Il occupa ce poste pendant les deux ans que dura ce
+Tribunal. Malgré toute la difficulté des circonstances et
+la gravité des affaires soumises à son examen, il donna
+dans ces fonctions de nouvelles preuves d'indépendance.
+
+
+La situation ayant changé, le Conseil royal fut rétabli.
+M. Caldéron fut nommé vice-président de la section des
+finances, emploi qu'il a occupé jusqu'à l'époque où, ayant
+été appelé à faire partie du Ministère actuel, il entra au
+ministère d'État.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXIII
+
+
+Chacun sait toute la gravité des questions soumises aux
+Cortès de 1856 à 1858. La Réforme constitutionnelle, la
+loi sur la presse, mesures présentées par le Cabinet du
+duc de Valence, préoccupèrent vivement les esprits.
+M. Caldéron les traita au point de vue des principes et en
+faisant abstraction absolue de tout intérêt de parti ou
+d'ambition personnelle.
+
+
+Néanmoins ses discours, joints aux antécédents de sa
+vie publique et à l'amitié qui l'unissait au comte de Lu-
+cena, lui ouvrirent de nouveau le chemin du pouvoir, bien
+que certainement il n'y aspirât pas.
+
+
+Devenu ministre, coopérant à la réalisation de la poli-
+tique du général O'Donnell, il n'a point démenti l'opinion
+que l'on a toujours eue de ses qualités morales.
+
+
+Il est certain, d'ailleurs, que ses actes, comme ceux de
+tout le Ministère dont il fait partie, ont été parfois l'objet
+de critiques acerbes et passionnées.
+
+
+Le pays n'a pas tardé à entendre les explications que,
+dans tout pays régi par des institutions constitutionnelles,
+les ministres sont dans l'obligation de donner pour justifier
+leur conduite. Les Cortès, expression légale de l'opinion
+publique, se sont prononcées irrévocablement.
+
+
+Aujourd'hui, les faits sont connus de tous; tous peuvent
+les juger; quelle que soit l'opinion que chacun puisse
+s'en faire, nul ne pourra nier que M. Caldéron-Collantès
+n'ait montré un zèle éclairé pour l'élévation du trône de
+sa Reine et pour la grandeur de sa patrie.
+
+
+AKLION
+
+
+IMPR
+
+
+S.E.M. POSADA HERRERA
+Ministre de l'Intérieur.
+
+
+S. E. M. J. DE POSADA HERRERA
+
+
+Ministre de l'Intérieur,
+
+
+M. JOSÉ DE POSADA HERRERA, ministre de l'intérieur,
+naquit à Llares, province d'Oviedo, en 1815. Il appartenait
+à une des familles nobles les plus anciennes et les plus
+riches du pays et, par conséquent, ayant naturellement de
+l'influence.
+
+
+Cette influence fut encore accrue par le rôle important
+que joua son père pendant la guerre de l'Indépendance et
+pendant la première époque constitutionnelle: il est donc
+aisé de comprendre que Don José de Posada Herrera,
+quoique étant encore très-jeune, ait dû appeler l'attention
+de ses concitoyens, qui le nommèrent pour défendre leurs
+intérêts aux Cortès; nomination bien justifiée, d'ailleurs,
+par les preuves de talent et de capacité qu'avait données le
+jeune candidat comme professeur d'économie politique à
+l'Université d'Oviedo.
+
+
+Cela eut lieu lors des élections si animées de 1839. Il
+
+
+111
+
+
+XXVI
+
+
+HISTOIRE DE LA GUERRE
+
+
+y fut nommé premier suppléant, conformément à loi élec-
+torale alors en vigueur.
+
+
+La prépondérance et l'activité qu'avaient alors les partis
+libéraux, la lutte acharnée qu'ils venaient de soutenir,
+et une foule d'incidents locaux dont le récit n'appartient
+pas à la biographie proprement dite, décidèrent les nota-
+bilités du parti modéré, dans les Asturies, à éliminer de la
+liste de leurs candidats M. José de Posada Herrera, libéral
+de bonne foi, mais pourtant encore plus amoureux de l'or-
+dre; suivant non-seulement ses inclinations naturelles,
+mais encore les traditions de sa famille, il devait nécessai-
+rement occuper une position dans le parti libéral, qui s'ap-
+pelait le parti modéré. L'élimination injuste de son nom,
+qui eut lieu alors, dut blesser sensiblement les fibres de
+son cœur jeune et enthousiaste. Réunissant donc ses
+moyens propres, que l'expérience montra être assez consi-
+dérables, et ceux que lui fournissaient dans le pays l'in-
+fluence légitime de sa famille, ses vastes relations et la
+clientèle qu'il avait su se créer dans la chaire, c'est, nous
+le répétons, tout ce qui fut exigé de lui et ce qu'il mit de
+bonne foi au service du parti progressiste, précisément au
+moment d'une nouvelle lutte électorale.
+
+
+La bataille s'engagea; la victoire fut disputée avec
+acharnement, et, si Posada ne vainquit pas complétement,
+il réussit au moins à empêcher ses adversaires de s'asseoir
+sur les bancs du parlement. Les protestations légales habi-
+lement élevées et magistralement soutenues par Posada
+devant la Commission générale des élections furent telles,
+que le Congrès se vit obligé de laisser vides les siéges des-.
+tinés aux représentants modérés des Asturies.
+
+
+La révolution ou pronunciamiento de septembre 1840,
+faite contre le parti modéré, produisit de nouvelles Cortès,
+et nécessairement M. Posada Herrera y alla figurer comme
+représentant de sa province. Comme un des plus jeunes
+députés, il fut secrétaire du bureau provisoire, et il ne tarda
+pas à s'y faire remarquer comme orateur habile et expéri-
+menté dans les nombreux discours qu'il prononca dans le
+Parlement, à tel point, qu'en dépit de sa jeunesse il prit une
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXVII
+
+
+grande influence sur la majorité. Si on lit ses discours
+pendant les luttes multipliées de ce parlement, on voit qu'il
+a constamment été du côté de la vérité et de la justice, que
+symbolisaient pour lui les mots de « ordre et liberté.  
+
+
+Lors du pronunciamiento contre Espartero, en 1843, il
+se refusa à y prendre la moindre part, et il se livra à des
+études pratiques, soit comme particulier, soit comme se-
+crétaire général du Conseil.
+
+
+Les différentes phases par lesquelles passa ensuite la
+politique espagnole jusqu'aux Cortès qui précédèrent le
+ministère du comte de San Luis, trouvèrent aussi
+Posada Herrera dans la retraite.
+
+
+On sait que dans les derniers temps de l'existence mi-
+nistérielle de M. Juan Bravo Murillo, les Cortès, se faisant
+l'écho de l'opinion publique, offrirent et livrèrent bataille
+au Ministère sur la question de la présidence. Il se pré-
+sentait deux candidats: M. Santiago Tejada, soutenu par
+le Ministère, et M. Francisco Martinez de la Rosa, ap-
+puyé par toutes les fractions de l'opposition. Ce dernier
+l'emporta, son triomphe fut là dalle funéraire qui recou-
+vrit pour jamais la tombe de la réforme projetée de la con-
+stitution. M. José de Posada Herrera prit à cette célèbre lutte
+parlementaire la part active que réclamaient de lui sa si-
+gnification politique et ses engagements publics: il fut un
+de ceux qui contribuèrent le plus à en finir avec les pro-
+jets d'un coup d'État.
+
+
+Les Cortès furent dissoutes; mais les élections ne furent
+point faites sous le ministère Bravo Murillo. Celui du
+comte d'Alcoy y présida le 4 février 1853, cinquante jours
+après son entrée au Ministère. M. Posada Herrera fut
+réélu député aux Cortès.
+
+
+A l'époque où le ministère San Luis ne voulut pas ou
+plutôt ne sut pas faire le sacrifice de son pouvoir, il décida
+la suspension des séances des Cortès on était alors au
+mois de décembre 1853. Ce fut le signal de la révolution.
+Ses premiers actes, ses premières réunions eurent lieu
+avec la coopération de Posada Herrera, qui avait été élu
+vice-président des Cortès. Partout il fut appelé, dans le
+
+
+XXVIII
+
+
+HISTOIRE DE LA GUERRE
+
+
+comité de la Mesta comme dans celui du Théâtre-Royal :
+c'est bien là une preuve évidente qu'on ne le croyait pas
+l'adversaire de cet événement important que l'abnégation
+du duc de San Miguel et le bon sens du peuple dè Ma-
+drid purent seuls contenir dans de certaines limites. Enfin,
+le gouvernement ayant été établi sous la présidence d'Es-
+partero, il s'agita une question d'une immense impor-
+tance qui préoccupa toute la nation. M. José Posada Her-
+rera disait publiquement sur cette question :  Si le gou-
+>> vernement conseille à Sa Majesté la réunion de Cortès
+>> ordinaires, je serai de son côté; s'il se décide pour la
+>> convocation de Cortès constituantes, je quitte aussitôt la
+>> capitale et j'irai m'enfermer dans les montagnes de mon
+>> pays. >>>
+
+
+Le maintien de la légalité politique par le général O'Don-
+nell, ministre de la guerre sous la présidence du duc de la
+Victoire, et l'immense service qu'il a rendu en 1856 à la
+cause de l'ordre, ne seront pas facilement oubliés par la
+nation espagnole; M. Posada Herrera l'admira du sein de
+la retraite où il s'était réfugié.
+
+
+Mais une de ces vicissitudes malheureusement si fré-
+quentes dans la politique intérieure de l'Espagne fit ino-
+pinément disparaître le ministère du général O'Donnell. II
+fut remplacé par celui du général Narvaez.
+
+
+Puis vint le ministère Isturiz, dans lequel on sait que
+M. Bravo Murillo eut une influence tant soit peu domi-
+nante. Après avoir remporté un triomphe, grâce au gou-
+vernement, sur une question réglementaire, ce ministère
+ne connut plus de limites. Il emporta de vive force la des-
+titution de tous les fonctionnaires publics qui avaient voté
+la proposition du député Goicoerrotea, pour la constatation
+d'un vote contraire à une décision de la majorité, dans
+laquelle M. Posada Herrera, qui avait soutenu cette propo-
+sition, était compris. Il était alors procureur fiscal du Con-
+seil d'État.
+
+
+On était au mois de mai 1858. M. Diaz, ministre de
+l'intérieur, ayant donné sa démission à la suite de cette
+question réglementaire, M. Isturiz offrit le portefeuille de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXIX
+
+
+l'intérieur à M. Posada Herrera. Le nom du nouveau mi-
+nistre signifiait, comme toujours, l'élément libéral; M. José
+de Posada Herrera, membre de la minorité des 71, déci-
+dait par son entrée au ministère les questions de suspen-
+sion et de dissolution des Cortès, l'intégrité du gouverne-
+ment représentatif, sa vérité pratique et le groupement en
+une seule famille de tous les hommes qui voulaient dé-
+fendre le seul système sur lequel pût s'appuyer solide-
+ment le trône constitutionnel d'Isabelle II et faire naître la
+prospérité et la grandeur de l'Espagne.
+
+
+Le 30 juin 1858, la Reine confia au général O'Donnell
+la présidence d'un nouveau ministère.
+
+
+Le 6 juillet suivant, le décret royal de rectification des
+listes électorales, qui avait été proposé au cabinet Isturiz
+par M. Posada Herrera, fut publié. Cet acte eut, à plus
+d'un titre, une extrême importance; il jeta les fondements
+du nouveau parti, composé de tous les débris restés sains
+des anciens; nous voulons dire « l'union libérale ».
+
+
+M. Posada Herrera, comme ses autres collègues, seconda
+avec zèle et persévérance le maréchal O'Donnell. Son admi-
+nistration s'est signalée par différentes mesures qui lui ont
+attiré toutes les sympathies. La presse est restée régie par
+la loi du ministère Narvaez; mais l'application en a été
+tellement différente, que les journaux qui, peu de temps
+auparavant, se trouvaient journellement poursuivis, purent
+publier leurs doctrines avec toute faculté. Il est fort remar-
+quable qu'une loi faite pour défendre les ministres, bien
+plutôt que les intérêts permanents de la nation et de la so-
+ciété, ait servi à l'objet opposé entre les mains de M. Posada
+Herrera.
+
+
+Non-seulement la tranquillité publique a été maintenue
+partout d'une manière inaltérable, mais encore tous ont
+acquis la conviction qu'elle ne pourrait être troublée impu-
+nément sous aucun prétexte; certitude que le pays n'a-
+vait pu encore éprouver dans d'autres circonstances, en dé-
+pit de tout le luxe de force et d'arbitraire que l'on avait
+déployé. Celui qui, sans arrêter ni poursuivre personne,
+reste simplement fidèle à sa mission de gouverner le pays
+
+
+111.
+
+
+XXX
+
+
+HISTOIRE DE LA GUERRE
+
+
+qui lui est confié, prouve deux choses: qu'il est appuyé
+par la nation, et que le système contraire est inutile et
+injuste. - En effet, jamais l'Espagne ne s'est trouvée dans
+une situation pareille à celle qu'elle doit au général
+O'Donnell: nous laissons aux lecteurs de ce livre le soin
+de décider la part de gloire que l'on peut attribuer au mi-
+nistre principalement chargé de l'ordre public et de la
+sécurité individuelle.
+
+
+La législature de 1859, pendant sa première session si
+longue et pendant sa seconde session, très-importante aussi,
+peut être comparée avantageusement aux plus renommées
+dont les annales espagnoles aient gardé le souvenir. Il suffit
+pour nous de renvoyer le lecteur à ses actes.
+
+
+Si nous nous bornons à étudier M. Posada Herrera dans
+son département, combien de pages ne pourrions-nous pas
+remplir en énumérant chacune des améliorations appor-
+tées aux postes, aux télégraphes, aux établissements péni-
+tentiaires et à l'administration proprement dite? Néanmoins
+nous nous permettrons de dire, à cause de l'importance
+que nous donnons à l'administration municipale et pro-
+vinciale de l'Espagne, que c'est à M. Posada Herrera que
+les localités sont redevables de l'approbation en temps op-
+portun des budgets à l'aide desquels elles doivent faire
+face à tous les services. C'est là qu'est la grande impor-
+tance qui implique, selon nous et sans prétentions, un
+système administratif excellent.
+
+
+Pendant la seconde session de la législature de 1859, il se
+présenta une question d'une importance transcendante, dont
+nous aurons à nous occuper dans le courant de ce livre,
+celle de la guerre avec l'empire du Maroc. Cet événement,
+réservé sans doute par la Providence pour réunir les Espa-
+gnols dans un sentiment commun, celui de venger les griefs
+de leur patrie, en lui ouvrant un vaste horizon de glorieux
+avenir, de grandeur, de puissance, de civilisation, d'in
+fluence, et même d'intérêt religieux car il y avait de
+tout cela un peu dans l'imagination exaltée du peuple es-
+pagnol en recommençant la lutte traditionnelle contre les
+Maures - trouva le ministère compacte et bien décidé à
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXXI
+
+
+poursuivre la grande œuvre de la régénération nationale;
+le ministère de l'intérieur ne fut pas le dernier à seconder
+l'impulsion. Ce sera pour le cabinet de l'union libérale un
+grand honneur que d'avoir provoqué la patriotique explo-
+sion du sentiment public, et d'avoir préparé, par sa vigi-
+lance et son activité administrative, les victoires de l'armée
+d'Afrique si éprouvée par les souffrances et les maladies.
+Si, comme nous l'espérons, une paix honorable et en har-
+monie avec les véritables intérêts nationaux vient couron-
+ner l'œuvre commencée (1), certes la place qui est réservée
+à ce ministère dans l'histoire contemporaine sera des plus
+enviables, même aux plus ambitieux de bonne renommée.
+
+
+L'idée dominante de M. Posada Herrera a été de réunir
+dans un centre commun toutes ou la plus grande partie des
+forces constitutionnelles du pays. Cette idée était toujours
+incarnée dans l'esprit de M. Posada Herrera; elle était née
+à son entrée dans la vie parlementaire, elle s'est enracinée
+plus tard par l'expérience, fortifiée par l'étude, par l'obser-
+vation, par la pratique; elle a fait de son existence politique
+la condition la plus remarquable du cabinet de l'union
+libérale. Le discours qu'il prononça à la séance des Cortès
+du 7 décembre 1843 justifie ce que nous disons.
+
+
+ « Nous ne voulons pas, disait M. Posada Herrera, le
+>>> triomphe exclusif des doctrines d'aucun parti; nous vou-
+>> lons autant que possible concilier les prétentions ex-
+>> trêmes des partis exagérés qui se sont divisé le pays;
+>>> nous voulons une transaction possible, sans pour cela
+>> que personne renonce aux doctrines et aux principes
+>> qu'il a pu professer une fois. Ceux qui, employant des
+>> paroles de dénigrement, veulent mettre en doute la con-
+>> duite et la probité de ceux qui soutiennent de certaines
+>>> doctrines, ceux-là emploient de mauvaises armes pour la
+>> défense d'une mauvaise cause. Je proteste ici, puisque
+>> j'ai ici occasion de le faire, que je n'ai jamais été un
+
+
+(1) Le résultat n'était pas obtenu quand nous écrivions ces paroles;
+mais il l'est maintenant, et ce qui est revenu en éclat et en honneur
+au ministère a justifié nos prévisions.
+
+
+XXXH HISTOIRE DE LA GUERRE AVEC LE MAROC.
+
+
+>>> homme exclusivement de parti, que j'ai eu mes convic-
+>> tions propres, et c'est d'accord avec elles que j'ai con-
+>> stamment agi. Quand un parti se trouvait sur le même
+>> chemin que moi, je le suivais, et quand ce parti s'éloi-
+>> gnait de moi, je m'éloignais de lui sans cesser pour cela
+>> de rester son ami. >>>
+
+
+Ces paroles ne paraissent pas avoir été prononcées en
+1843, mais en 1859; elles sont le meilleur éloge de la poli-
+tique de leur auteur.
+
+
+Comme ministre, M. Posada Herrera a aussi une grande
+importance par la clarté et la franchise avec laquelle il sait
+exprimer dans toutes les circonstances son opinion loyale
+et désintéressée touchant toutes les questions gouverne-
+mentales, quelque difficiles que soient les conjonctures;
+et il a toujours été tellement franc, tellement net, agissant
+comme le lui conseillait sa conscience, qu'il est étonnant
+que, dans plus d'une occasion, sa conduite ait été mal inter-
+prétée et qu'on lui ait attribué des vues et des intentions
+assurément fort éloignées de son esprit, comme on n'a pas
+tardé, du reste, à le reconnaître. A un talent reconnu, à
+une grande instruction, à une grande pratique des affaires,
+il joint une probité qui ne s'est jamais démentie.
+
+
+S. E. M. MAC-CROHON
+
+
+Lie utenant-Général, Ministre de la Marine (1)
+
+
+M. JOSÉ MAC-CROHON, lieutenant 'général, ministre de
+la marine, est né au Ferrol, en 1803; son père était major
+au régiment d'Ibernia. Le gouvernement lui accorda, en
+1807, le titre de cadet honoraire au même régiment, titre
+qui devint effectif en 1815, bien que le jeune cadet n'eût
+que huit ans. Il demeura auprès de ses parents jusqu'au
+moment de sa promotion au grade de sous-lieutenant;
+ceux-ci lui donnèrent une brillante éducation et l'en-
+voyèrent faire ses études au collège de l'Assomption de
+Cordoue, fort en renom à cette époque.
+
+
+C'est en 1817 qu'il fut nommé sous-lieutenant et en-
+voyé au régiment d'Aragon. En 1818, il passa avec le
+même grade au bataillon des guides, faisant partie de
+l'armée d'outre-mer. En 1820, il se trouvait avec son ba-
+
+
+(1) Par décret royal en date du 9 juillet 1860, M. Mac-Crohon a été
+nommé capitaine général des îles Philippines. Il est remplacé au mi-
+nistère de la marine par le général Don Juan de Zabala.
+
+
+XXXIV
+
+
+HISTOIRE DE LA GUERRE
+
+
+taillon dans la ville de San Fernando, sous les ordres du
+général don Antonio Quiroga, dont le corps d'armée pro-
+clama la Constitution de 1812. En janvier, il fut promu
+au grade de lieutenant et prit part aux engagements de
+Marbella et de Malaga sous les ordres de l'infortuné gé-
+néral Riego, alors simple chef de bataillon. Le jeune
+Mac-Crohon fut fait prisonnier un mois plus tard, près
+d'Antequera; mais le roi Ferdinand ayant accepté et juré
+la Constitution, il recouvra sa liberté et son grade dans
+le même bataillon, qui prit le nom de bataillon de la
+Constitution (12º léger).
+
+
+En 1821, se trouvant, toujours en Andalousie, adjudant
+du 12 léger, il alla à Cordoue avec son corps pour y ré-
+primer une insurrection, et en 1822, il passa dans la Na-
+varre et prit part aux combats de Sadaba, Puente la Reyna
+et autres, sous les ordres du général don José-Maria
+Torrijos.
+
+
+Lors de l'intervention française, en 1823, Mac-Crohon
+se trouva dans les engagements de Puente de San Payo,
+Cela, et dans plusieurs autres; mais son corps, poursuivi
+par des forces supérieures, fut contraint de capituler à
+Gallegos-del-Campos, le 27 août, et amené prisonnier en
+France, où il demeura jusqu'au 23 mai 1824. Rentré en
+Espagne, il se vit bientôt forcé d'émigrer à cause de ses
+opinions libérales et demeura alternativement à Gibraltar
+et en Portugal jusqu'en 1833, époque à laquelle l'amnistie
+accordée par la Reine Christine lui rouvrit les portes de la
+patrie.
+
+
+A peine rentré en Espagne, il sollicita son incorporation
+dans l'armée active, afin de combattre les ennemis de la
+Reine et des libertés publiques; mais le ministère de
+cette époque lui signifia que « les émigrés ne devaient
+pas rentrer dans les cadres de l'armée.  A la suite de
+cette signification, il songeait à s'expatrier volontairement
+et à retourner à Gibraltar, où il avait vécu honorablement
+de son travail pendant quatre ans, lorsque M. le duc de
+Gor, nommé subdelegado del fomento (préfet) à Grenade,
+proposa au jeune Mac-Crohon un emploi dans ses bu-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXXV
+
+
+reaux. L'acceptation d'un pareil poste exigeait en ce mo-
+ment beaucoup d'abnégation et de courage, car le cho-
+léra faisait de grands ravages dans toute cette province.
+Néanmoins il n'hésita pas et partit pour son poste avec
+son digne protecteur. Bien qu'élevé pour l'état militaire,
+M. Mac-Crohon fit preuve dans la carrière civile d'une
+grande capacité administrative.
+
+
+Lors de la promotion du duc de Gor au poste de gouver-
+neur civil de Madrid, M. Mac-Crohon sollicita et obtint
+son changement pour Malaga, où bientôt après il fut élu
+capitaine dans la garde nationale. Il occupait ces doubles
+fonctions lorsque les événements de 1835 se déclarèrent.
+
+
+L'histoire jugera cette révolution, où pour la première
+fois, depuis la mort de Ferdinand VII, toute la nation sou-
+levée posa sa volonté à la Reine régente. Toutes les pro-
+vinces de l'Espagne s'étaient déclarées indépendantes du
+gouvernement central, et chacune avait nommé une junte
+directrice. Les antécédents de M. Mac-Crohon étaient trop
+connus pour qu'on ne comptât pas avec lui. Il fut nommé
+membre de la junte et commandant du premier bataillon
+de la garde nationale; il accepta ces deux charges pour
+éviter de nouveaux malheurs  sa patrie. En effet, on doit
+dire à l'honneur de la junte de Malaga que pas un crime
+ne souilla cette province pendant cette période révolution-
+naire. Sa plus grande occupation était de chercher et de
+fournir les moyens d'en finir avec la guerre civile qui
+dévorait les plus belles provinces d'Espagne. Le résultat
+des travaux de la junte fut la création d'un corps franc
+de trois mille volontaires bien armés destinés à opérer
+en Catalogne. Le général Quiroga, commandant du district
+militaire, proposa à Mac-Crohon de se charger du com-
+mandement du corps franc; celui-ci accepta avec recon-
+naissance, parce qu'enfin il allait prendre part à la lutte
+active qui divisait alors la nation en deux partis presque
+égaux. Il serait trop long de décrire ici toutes les peines
+de Mac-Crohon pour arriver à mettre ce corps franc sur
+le pied d'une complète discipline et à lui donner de l'in-
+struction. Qu'il suffise de dire qu'à Carthagène, ville où
+
+
+XXXVI
+
+
+HISTOIRE DE LA GUERRE
+
+
+les vents contraires le forcèrent à arriver, ayant voulu in-
+fliger une punition corporelle (malheureusement encore
+en vigueur en Espagne) à un soldat coupable d'insubordi-
+nation, la garde nationale et la populace se révoltèrent.
+
+
+Des menaces de mort furent prononcées contre lui, et
+il ne dut son salut qu'à son sangfroid. Toutefois, la puni-
+tion du soldat dut être levée.
+
+
+Débarqué à Barcelone au commencement de l'année
+1836, il fit pendant sept ans, avec son corps, toute la cam-
+pagne de Catalogne. Les nombreuses batailles, les combats,
+engagements et escarmouches où il se trouva, seraient trop
+longs à énumérer ici.
+
+
+Pendant cette longue et terrible guerre, il exerça plu-
+sieurs commandements de postes importants. Chargé, en
+1836, de la défense du poste militaire del Bruch, il dut se
+charger également de conduire et protéger les courriers et
+les convois, depuis ce point jusqu'à la Panadella. Or, tous
+ceux qui ont lu les guerres du premier Empire dans la Pé-
+ninsule ibérique savent parfaitement que le passage del
+Bruch fut presque toujours funeste aux vaillantes troupes
+françaises. Qu'on se figure un chemin étroit surmonté et
+côtoyé d'une part, pendant plusieurs lieues, de forêts
+presque impénétrables et échelonnées sur de hautes mon-
+tagnes, et de l'autre par ce chemin formant le bord d'un
+précipice ou plutôt d'un abime, au fond duquel roule un
+torrent encaissé dans d'énormes rochers, et on aura une
+idée du terrain que M. Mac-Crohon avait à défendre contre
+les descendants des guerrilleros qui avaient fait essuyer
+tant de pertes aux vétérans de l'Empire. Remarquons, en
+outre, que lorsque le jeune commandant se chargea de
+ce poste périlleux, les troupes de la Reine venaient d'es-
+suyer une défaite. Sa position n'était pas rassurante, mais
+M. Mac-Crohon ne recula pas devant le danger. Et, disons-
+le hautement à sa louange et à celle du corps qu'il com-
+mandait, pendant cinq mois qu'il exerça ce commande-
+ment, non-seulement il n'éprouva pas le moindre revers,
+mais alors même qu'il ne pouvait disposer que de forces
+assez restreintes, il attaqua plusieurs fois l'ennemi dans
+
+
+DE L'ESPAGNE AVEC LE MAROC. XXXVII
+
+
+ses positions, le débusqua et le repoussa victorieusement
+chaque fois qu'il se présenta pour s'emparer des convois.
+
+
+Le mérite et l'habileté de ses dispositions ne furent mal-
+heureusement connus que plus tard, lorsque le jeune com-
+mandant fut relevé de ce poste important.
+
+
+Ses compatriotes de Malaga, voulant récompenser digne-
+ment les services qu'il rendait à la cause de la Reine et de
+la liberté, l'honorèrent de leurs suffrages dans les élections
+de 1837. M. Mac-Crohon connaissait bien les avantages
+d'une si haute position; mais les combats sur les champs
+de bataille étant alors plus utiles que les luttes parlemen-
+taires, il refusa l'offre des électeurs de Malaga : « Du mo-
+>> ment, disait-il, que j'ai pris les armes pour la défense
+>> du trône constitutionnel et de la patrie, j'ai juré de ne
+>> pas quitter le champ de bataille tant qu'il restera un
+>>> seul ennemi à combattre. >>>
+
+
+Il les combattit, en effet, et devint colonel dans les rangs
+de l'armée régulière, à la fin de la guerre; il fut nommé
+tour à tour chevalier des ordres d'Isabelle la Catholique,
+Saint-Ferdinand et San-Hermenegildo.
+
+
+En 1841, il fut nommé colonel du régiment d'Isabelle II,
+et envoyé avec son nouveau corps à l'île de Cuba, où il
+demeura à la tête de ses soldats jusqu'en 1843. Le capi-
+taine général Valdès l'envoya à la métropole avec l'impor-
+tante mission d'aller exposer au gouvernement les affaires
+particulières de cette riche colonie.
+
+
+Arrivé à Cadix en juin 1843, il se trouva en face des
+événements dont le résultat fut le renversement d'Espar-
+tero, à la majorité de la jeune Reine. Il se dirigea vers la
+capitale dans le but de s'acquitter de sa mission et de se
+mettre à la disposition du gouvernement constitué; il prit
+part à la défense de Madrid, bloquée par les troupes insur-
+gées sous les ordres du général Narvaez, jusqu'à la capi-
+tulation de la place.
+
+
+La révolution ayant été faite au nom du principe d'au-
+torité, M. Mac-Crohon accepta le grade de colonel du
+régiment de Zamora, et fut envoyé en Galice avec sa co-
+Jonne, qui devait pacifier cette province. Il prit une part
+
+
+IV
+
+
+XXXVII
+
+
+HISTOIRE DE LA GUERRE
+
+
+active à la soumission de la place de Vigo et de sa gar-
+nison, et força les troupes soulevées à se réfugier en Por-
+tugal. En récompense de sa belle conduite, il fut promu au
+grade de général de brigade.
+
+
+Il demeura dans la Galice avec son régiment, tenant la
+place de la Corogne, pendant les années 1844, 1845 et
+1846, lorsque le 2 avril de cette dernière année il apprit
+que le second bataillon de son régiment, se trouvant à
+Lugo, s'était prononcé contre le gouvernement avec cinq
+autres bataillons.
+
+
+M. Mac-Crohon, fidèle au drapeau qu'il avait juré, se
+joignit au général Puigsomper, et avec les deux bataillons
+restés fidèles alla combattre les insurgés. Ceux-ci succom-
+bèrent dans l'affaire de Santiago, et la plus grande partic
+se réfugia en Portugal. Quelques mois après, le 10 octo-
+bre 1846, le général de brigade Mac-Crohon était promu
+au grade de maréchal de camp.
+
+
+Un décret royal le nomma, en 1847, commandant gé-
+néral du district oriental de l'île de Cuba et gouverneur
+de Santiago. Il s'embarqua immédiatement pour son nou-
+veau poste. Par ses soins et sous sa direction, la ville de
+Santiago fut enrichie d'un bel aqueduc pour la conduite
+des eaux potables, d'un théâtre, d'une société d'assistance
+publique, d'une caisse d'épargne; les rues furent pavées,
+on planta des jardins dans les places publiques, on créa
+de nouvelles promenades, on améliora les prisons et on
+élargit le port. Son commandement fut caractérisé par la
+justice, l'équité, l'économie, les améliorations matérielles
+et la tranquillité publique. Les flibustiers de Lopez respec-
+tèrent le territoire placé sous ses ordres, lors de leur débar-
+quement à Cardenas, en 1850.
+
+
+Mais le climat avait tellement altéré sa santé qu'il dut
+demander son rappel à la Reine. Il obtint la permission
+de rentrer en Espagne, où il arriva en mai 1851. La Reine
+lui décerna les grand'croix de San-Hermenegildo et d'Isa-
+belle la Catholique.
+
+
+En 1852, il fut nommé membre du Conseil d'outre-mer.
+De 1854 à 1856, il remplit les fonctions de sous-secrétaire
+
+
+DE L'ESPAGNE AVEC LE MAROC. XXXIX
+
+
+au département de la guerre, dont le maréchal O'Donnell
+était ministre; en 1855, il remplaça celui-ci pendant sa
+maladie. En 1856, après la contre-révolution, il fut nommé
+inspecteur de la garde civique (gendarmerie) et promu au
+grade de lieutenant général.
+
+
+Retiré momentanément de la vie publique pendant les
+derniers ministères Narvaez-Nocedal, il fut nommé, en
+juin 1858, capitaine général de la Nouvelle-Castille. Il ne
+resta que trois mois dans ce nouveau poste, car Sa Majesté,
+désirant utiliser ses connaissances et faire profiter le pays
+de sa longue expérience, lui confia, au mois de novembre
+suivant, le portefeuille de la marine et des colonies, qu'il
+vient de quitter pour la capitainerie générale des îles Phi-
+lippines.
+
+
+Pendant la dernière et brillante guerre d'Afrique, il a
+rempli, par intérim, les fonctions de ministre de la guerre,
+tout le temps qu'a duré l'absence du maréchal O'Donnell.
+L'Armée d'Afrique lui sera reconnaissante pour l'acti-
+vité et la vigilance qui ont présidé aux actes de son admi-
+nistration.
+
+
+S. E. M. FERNANDEZ NEGRETE
+
+
+Ministre de Graces et Justice.
+
+
+M. SANTIAGO-FERNANDEZ NEGRETE, ministre de grâces et
+justice, naquit au commencement de ce siècle, dans la
+province des Asturies; il suivit la carrière de la jurispru-
+dence dans les universités d'Oviedo et d'Alcala de Henares;
+il en sortit très-jeune pour entrer dans l'administration.
+Lorsqu'il eut atteint l'âge fixé par la loi, il entra dans la
+magistrature: il revêtit la toge dans l'audience de Caceres.
+
+
+Nommé président de cour dans l'île de Cuba, position
+qu'il ne crut pas devoir accepter, il resta en disponibilité jus-
+qu'en 1843, époque où il fut appelé à remplir les fonctions
+de procureur fiscal au tribunal suprême de Cruzada. Peu de
+temps après, il fut élu député aux Cortès par la province
+de Badajoz, et, depuis l'époque de son arrivée au congrès,
+il se rangea constamment au parti modéré.
+
+
+Sous le ministère Pacheco, en 1847, il fut choisi comme
+l'un des députés qui devaient former le comité chargé de
+soutenir les principes du parti conservateur contre la poli-
+
+
+١٧٠
+
+
+XLII
+
+
+HISTOIRE DE LA GUERRE
+
+
+tique qui dès lors commençait à se qualifier de puritaine.
+Devenu membre de la commission chargée de faire le rap-
+port de la loi sur les biens personnels, il fit partie des op-
+posants, et dut, par conséquent, résigner son poste de fonc-
+tionnaire public. Peu de mois plus tard, il y fut rappelé
+par le général Narvaez, président du conseil; mais, ne
+voulant pas renoncer à son indépendance, il refusa. A la
+fin de 1850, M. Fernandez Negrete fut le premier député
+qui attaqua la politique du duc de Valence lors de la ques-
+tion de la vérification des procès-verbaux, où il se prononça
+fortement contre le ministère dans un discours remar-
+quable et qui fut fort applaudi.
+
+
+Au commencement de 1851, il occupa le poste de mi-
+nistre des travaux publics dans le cabinet Bravo Murillo.
+Il y resta jusqu'à la séance du 5 avril, où il se sépara avec
+éclat de ses collègues. Il y avait eu, en effet, une opposition
+très-vive au sujet du règlement de la dette, et M. Negrete
+exigeait qu'il y eût une discussion très-approfondie: il avait,
+dans cette pensée, promis à plusieurs députés que la dis-
+cussion ne serait pas close avant que tous ceux qui avaient
+demandé la parole contre le projet n'eussent été entendus.
+Cette prolongation de la discussion avait fait l'objet d'une
+proposition. M. Negrete crut qu'il avait à remplir un devoir
+de délicatesse. Il vota contre la clôture et donna immé-
+diatement sa démission.
+
+
+A l'époque où surgirent les craintes de modification des
+institutions politiques, M. Fernandez Negrete fit partie des
+comités de l'opposition conservatrice; il se tint sans cesse
+du côté de MM. Martinez de la Rosa, du marquis del
+Duero, du maréchal O'Donnell, etc. En 1854, il fut nommé
+juge au tribunal suprême du contentieux administratif,
+et, lors de la suppression de ce corps, il continua à rester
+dans le conseil royal jusqu'à l'arrivée du ministère Isturiz.
+Il donna alors sa démission.
+
+
+Le 30 juin 1858, le comte de Lucena l'appela au minis-
+tère de grâces et justice.
+
+
+M. Fernandez Negrete est l'un des plus anciens magis-
+trats de l'Espagne, non pas par l'âge, mais parce qu'il a
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XLIII
+
+
+commencé sa carrière très-jeune. Pendant tout le temps
+qu'a duré la guerre civile, il a vécu dans la retraite par des
+considérations de délicatesse et de famille. Un grand nom-
+bre de ses parents s'étaient rangés sous le drapeau de Don
+Carlos; il pensa qu'il ne convenait pas à sa dignité morale
+de prendre une part active aux affaires, tant que ne serait
+pas terminée une guerre qui apportait le trouble au sein
+des familles. C'est pourquoi, quoique ses opinions fus-
+sent d'accord avec les idées nouvelles, il ne lui parut pas
+honorable de déclamer contre un parti dans les rangs du-
+quel combattait une partie de sa famille. Quand la guerre
+civile fut terminée, il se présenta pour participer à la poli-
+tique, et depuis lors il a constamment été élu député, et
+n'a pas cessé de prendre part en cette qualité aux débats
+les plus solennels de la chambre.
+
+
+S. E. M. LE MARQUIS DE CORVERA
+
+
+Ministre des Travaux publics.
+
+
+ET
+
+
+S. E. M. SALAVERRIA
+
+
+Ministre des Finances.
+
+
+M. RAFAEL DE BUSTOS Y CASTILLA, marquis de CORVERA,
+ministre des travaux publics, et M. PEDRO SALAVERRIA,
+ministre des finances, n'ont pas été les derniers à sou-
+tenir la politique du maréchal O'Donnell.
+
+
+En même temps qu'ils donnaient leur concours à la po-
+litique extérieure du Cabinet, ils s'occupaient, l'un, des
+travaux publics, l'autre, des finances.
+
+
+L'un des plus importants travaux entrepris a été la
+solution de la question de la Puerta del Sol, à Madrid,
+que les administrations antérieures n'avaient pu résoudre.
+Dans quelques jours peut-être, la Puerta del Sol sera
+complétement terminée, et de belles maisons s'élèveront
+
+
+XLVI HISTOIRE DE LA GUERRE AVEC LE MAROC.
+
+
+dans ce quartier, le plus fréquenté de Madrid. Une ma-
+gnifique fontaine orne déjà cette place, située au centre
+de la Capitale.
+
+
+La bonne tenue des fonds espagnols pendant la guerre,
+l'envoi régulier des sommes destinées à l'armée, et enfin
+tous les détails administratifs que nécessite la guerre, sur-
+tout au ministère des finances, tout a bien marché. C'est
+grâce à la vigilance active de M. Salaverria que l'on a dû
+cette régularité.
+
+
+M. Salaverria est né en 1810. Tour à tour attaché à la
+comptabilité de Séville, à la direction du trésor à Madrid,
+il devint, sous le ministère Collado, sous-secrétaire d'État.
+Passé au secrétariat de la banque de San-Fernando, il de-
+vint en 1856 ministre des finances. Quelque temps après,
+il donna sa démission, et ne revint au même ministère
+qu'en 1838.
+
+
+De l'avis de tous, M. Salaverria est actif, intelligent et
+travailleur.
+
+
+Enfin, nous devons le reconnaître, et nous ne saurions
+trop le répéter, tout le ministère a bien compris la poli-
+tique du maréchal O'Donnell. La plus grande gloire qui
+pourra lui revenir sera d'avoir suivi la voie progressive
+dans laquelle l'illustre duc de Tétouan a engagé son pays.
+
+
+PREMIÈRE PARTIE
+
+
+COUP D'ŒIL RÉTROSPECTIF
+
+
+HISTOIRE
+
+
+DE LA
+
+
+GUERRE DE L'ESPAGNE
+
+
+AVEC
+
+
+LE MAROC
+
+
+IFQUE
+
+
+IMPE
+
+
+PREMIÈRE PARTIE
+
+
+AUCOUP D'OEIL RÉTROSPECTIF
+
+
+I
+
+
+Il ne faut qu'une heure dans l'histoire pour être
+grand; cette heure-là vient de sonner pour le
+maréchal O'Donnell. Général distingué, ayant mis
+longtemps aux ordres d'une politique que ce livre
+fera connaître des talents militaires dont on n'avait
+pas mesuré l'étendue, le maréchal O'Donnell s'est
+
+
+1
+
+
+2
+
+
+HISTOIRE DE LA GUERRE
+
+
+placé tout à coup, par sa guerre du Maroc si
+promptement achevée, au rang des plus illustres
+capitaines dans le pays des grands capitaines.
+
+
+Grâce à lui et à sa vaillante épée, l'Espagne est
+rentrée dans la tradition de sa gloire, et c'est là
+certainement le plus grand service qu'un homme
+puisse rendre à sa patrie. C'est aussi le service
+pour lequel les peuples qui ont de la fierté ont le
+plus de reconnaissance, car renouer la chaîne de
+leur gloire qu'on croyait brisée à jamais, touche plus
+les nations que d'en forger le premier anneau.
+
+
+Interprète de la reconnaissance d'une patrie, la
+noble Reine qui gouverne l'Espagne, en créant duc
+de Tétouan le maréchal O'Donnell, a voulu récom-
+penser, par la plus haute des dignités, l'homme à
+qui elle devait la première conquête de son règne;
+mais l'histoire fera plus encore, en racontantsimple-
+ment, avec cette voix qui ne meurt pas, cette guerre
+de cinq mois poussée victorieusement parmi tant
+d'obstacles, comme aux meilleurs temps de la gran-
+deur guerrière du pays des Gonzalve de Cordoue et
+des Cid Campéador.
+
+
+Eh bien! c'est cette guerre du Maroc que nous
+voulons être les premiers à raconter, et ce sont les
+conséquences qu'elle est nécessairement appelée à
+produire sur l'avenir de la Péninsule que nous vou-
+lons mettre en lumière.
+
+
+Il est évident que l'expédition victorieuse que le
+maréchal O'Donnell a commencée par la prise de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+3
+
+
+Tétouan, et qu'il vient de finir par une paix glo-
+rieuse, a rendu à l'Espagne un lustre qui doit lui
+créer une importance nouvelle, et la faire entrer
+dans le concert européen, dont elle avait pu paraître,
+non pas exclue, mais écartée. Avec de pareilles
+preuves d'une puissance qu'on a pu nier, mais que
+maintenant on ne saurait méconnaître, ce grand
+pays reprendra, sous l'égide du duc de Tétouan, au
+milieu des intérêts qui agitent le monde, la place
+due à la patrie de Charles-Quint, de Philippe II,
+de Ximenès de Cisneros et d'Albéroni.
+
+
+En effet, après une longue suite de révolutions,
+qu'on pourrait appeler des transitions qui peut-être
+ont eu, sinon leur utilité, du moins leur raison d'être,
+le régime constitutionnel semble s'être enfin dé-
+finitivement établi en Espagne. Il n'a pas fallu
+moins qu'une lutte formidable contre l'invasion
+étrangère et une guerre ou plutôt une succession de
+guerres civiles, plus terribles encore, pour opérer
+la transformation du régime absolutiste, arracher
+l'Espagne à la routine, aux préjugés antiques, créer
+les mœurs politiques là où se voyaient seulement le
+servilisme et les intérêts individuels, pour renou-
+veler, en un mot, le caractère, l'esprit d'une nation
+depuis longtemps plongée dans la plus déplorable
+ignorance, et qui, tout entière endormie dans les
+souvenirs de sa grandeur passée, semblait plus or-
+gucilleuse de sa servitude que l'Angleterre de sa
+liberté.
+
+
+4
+
+
+HISTOIRE DE LA GUERRE
+
+
+Pour bien faire comprendre les résultats consi-
+dérables que peut et que doit avoir l'expédition
+africaine, pour en apprécier exactement la portée
+et rechercher l'influence qu'elle est appelée à exercer
+sur les destinées de la Péninsule, il convient de
+jeter un coup d'œil rapide en arrière, de rappeler
+succinctement les principaux événements qui se sont
+accomplis en Espagne depuis un demi-siècle, et qui,
+en vertu de ces lois impérieuses dont la Providence
+seule a le secret, ont contribué à fonder le régime
+constitutionnel sur la vieille terre du plus pur abso-
+lutisme politique et religieux.
+
+
+II
+
+
+On sait quelle fut la cause de l'invasion française
+en 1808.
+
+
+Par le traité de Tilsitt, les deux empereurs de
+France et de Russic se partagèrent l'Europe à l'ex-
+ception de l'Angleterre et de la Turquie. Certains
+articles secrets de ce traité autorisaient le czar à
+s'emparer de la Finlande, et Napoléon à ajouter
+l'Espagne à un empire pour lequel ses vastes pro-
+portions mêmes étaient déjà un danger. Cet arran-
+gement autocratique pouvait paraître suffisant à
+Alexandre pour conquérir sans peine une contrée à
+peu près sauvage et sans défenseurs; il n'en était
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+5
+
+
+pas de même pour l'Empereur Napoléon, qui ne
+trouvait pas une proie aussi facile dans l'Espagne,
+pays civilisé, tout resplendissant de ses grandeurs
+passées, et conservant toujours de ses qualités hé-
+roïques un patriotisme que le grand conquérant
+lui-même ne put étouffer.
+
+
+On sait l'histoire lamentable des divisions de la
+cour et de la famille du roi Charles IV, et sans en-
+trer ici dans l'examen des motifs qui amenèrent
+l'intervention française, nous nous bornerons à rap-
+peler qu'après une guerre intérieure de plus de six
+années, l'Espagne rentra sous la domination de ses
+anciens rois, lorsque la chute de l'empire eut
+changé entièrement les conditions générales des
+États de l'Europe.
+
+
+Lorsqu'en 1814 le roi Ferdinand VII recouvra son
+trône, il se fit en Espagne un de ces mouvements
+de réaction qui ont lieu presque inévitablement au
+sein des peuples en pareilles circonstances. Ce que
+l'on a dit tant de fois des armées françaises qui ap-
+portaient avec elles l'idée libérale, avait été surtout
+vrai pour l'Espagne. La lutte terrible que soute-
+naient le peuple, le clergé, la noblesse, unis dans le
+plus noble des sentiments, ne donna pas naissance
+seulement à ce que nous pourrions appeler l'esprit
+public: les idées de nationalité que fit naître l'in-
+vasion, et à l'aide desquelles la nation armée put
+délivrer de l'étranger le sol de la patrie, ne se bornè-
+rent pas à l'expression d'un patriotisme encore pur
+
+
+1.
+
+
+6
+
+
+HISTOIRE DE LA GUERRE
+
+
+aux premiers jours du combat, elles fécondèrent,
+comme une compensation fatale de leur grandeur,
+l'esprit révolutionnaire caché d'abord sous le mas-
+que de l'opposition à la domination étrangère, et
+qui n'attendit pas même la fin de la lutte pour dé-
+poser dans la constitution de 1812 le germe des
+insurrections incessantes qui ont déchiré l'Espagne
+depuis cinquante ans.
+
+
+Cependant, il faut reconnaître que ce levain ré-
+volutionnaire, dont on ne pourrait nier l'existence,
+était en quelque sorte ignoré de ceux-là même qui
+l'entretenaient, et le libéralisme, sous lequel il se
+cachait, était lui-même, en 1814, assez méconnu
+pour que le roi Ferdinand n'eût point de peine à
+rétablir, en remontant sur son trône, le régime
+absolu sous lequel l'Espagne avait vécu si long-
+temps.
+
+
+Pendant six années à peu près, le règne de Fer-
+dinand VII ne fut troublé que par les conspirations
+de Mina, Lacy, Porlier, el Empecinado, Beltran
+de Lys et d'autres moins importantes. Cependant la
+situation générale de l'Espagne devenait chaque jour
+plus critique. En effet, à sa rentrée, le roi avait pris
+des engagements avec le libéralisme; il n'en tenait
+aucun. Imbu des traditions de l'ancien régime,
+étranger, en quelque sorte, aux besoins que le con-
+tact des idées françaises avait fait naître, absolu par
+caractère autant que par souvenir, Ferdinand ne
+comprit ni son temps, ni les nécessités que lui
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+7
+
+
+créaient les faits nouveaux, ni la marche inflexible
+de l'esprit public, ni les aspirations des générations
+nouvelles vers une liberté encore confuse et non dé-
+finie, mais dont la rayonnante image n'apparaissait
+qu'au travers des douleurs qu'on venait de traverser.
+Ce fut alors, c'est-à-dire en 1820, qu'éclata la
+fameuse insurrection de l'île de Léon, qui établit le
+régime monarchique constitutionnel, dit gouverne-
+ment des Cortès, en imposant au Roi une constitu-
+tion calquée sur les constitutions démocratiques
+françaises.
+
+
+Malheureusement, la révolution de 1820 parut
+avoir trop hérité des idées de 1812, car la constitu-
+tion rétablie en 1820 était textuellement celle de
+1812. C'est sa modification dans un sens qui offrît
+plus de garanties à la royauté que le roi Louis XVII
+demandait en 1823. La capitulation de Ballesteros
+avec le duc d'Angoulême stipula cette condition.
+
+
+Si le roi avait gouverné sans modération et sans
+intelligence, le parti révolutionnaire se montra d'au-
+tant plus violent qu'il était plus faible. En 1823,
+l'intervention française mit facilement fin à un
+ordre de choses qui se fût, sans doute, écroulé sans
+elle, mais, probablement, au prix des plus grands
+malheurs.
+
+
+A la suite de ces trois années de troubles et d'a-
+gitations, la nation, fatiguée et encore étrangère à la
+politique, se rejeta dans les bras de l'absolutisme,
+qui paya cette confiance par dix ans de repos.
+
+
+8
+
+
+HISTOIRE DE LA GUERRE
+
+
+III
+
+
+Lorsque Ferdinand VII mourut, l'Espagne offrait
+le spectacle d'une nation en quelque sorte dévoyée,
+soumise depuis plusieurs siècles au régime absolu,
+n'ayant vers un autre ordre social et politique que
+des aspirations vagues, indéfinies, nées du contact
+des idées françaises pendant la guerre de l'indépen-
+dance, réveillées par la révolution de 1830, et ne
+sachant quels moyens employer pour changer de ré-
+gime, si même elle sentait la nécessité d'en changer.
+
+
+Les questions morales et politiques n'étaient en
+quelque sorte pas nées dans ce pays; la discussion
+publique des intérêts généraux y était inconnue, et
+c'est à peine si les masses avaient la perception de
+ce que, en France, on appelait les droits de l'homme
+et du citoyen. L'immense fusion opérée de ce côté-ci
+des Pyrénées par la révolution de 1789 était à peine
+soupçonnée dans un pays où les besoins matériels
+n'existaient pas, pour ainsi dire. Une partie de la
+noblesse espagnole ne comprenait pas que le peuple
+pût avoir des droits et une égalité à revendiquer, et
+le peuple, quoiqu'il ne fût point absolument mal-
+heureux, subissait, sans y songer, le sort que lui
+imposaient les traditions et les préjugés.
+
+
+Le testament du roi Ferdinand alluma la foudre
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+9
+
+
+qui devait embraser l'Espagne et la livrer pour long-
+temps à la révolution, en plaçant ce malheureux
+pays en face d'une question dynastique.
+
+
+Si le but de cette étude était moins de raconter
+en abrégé les principaux événements politiques qui
+ont précédé la guerre du Maroc, que de rechercher
+les causes de la transformation des destinées du
+peuple espagnol, nous pourrions examiner quelles
+raisons avait le roi Ferdinand de changer l'ordre
+de succession au trône en instituant sa fille Isa-
+belle, encore enfant, héritière de la couronne, sous
+la régence de sa mère Marie-Christine.
+
+
+Mais cette œuvre n'est pas celle que nous nous
+sommes tracée; nous nous bornerons à raconter les
+faits et à en faire ressortir les conséquences inévi-
+tables.
+
+
+Le gouvernement de la jeune reine, sous la régence
+de Marie-Christine, parut, tout d'abord, ne devoir
+rencontrer aucune de ces difficultés si communes aux
+nouveaux règnes. On l'espéra du moins; mais cette
+illusion ne fut pas de longue durée. Peu de temps
+après l'avénement d'Isabelle, éclata le mouvement
+entrepris au nom du propre frère de Ferdinand VII.
+
+
+L'insurrection carliste, dont le but était le triom-
+phe d'une cause qui comptait encore de nombreuses
+sympathies en Espagne, sema, dans le pays, des
+germes de division dont l'esprit révolutionnaire s'em-
+para avec habileté. Abritée sous le prestige qui en-
+tourait encore la royauté absolue, la révolution
+
+
+10
+
+
+HISTOIRE DE LA GUERRE
+
+
+souleva et entretint les haines publiques, provo-
+qua l'ambition de la plupart des chefs militaires,
+couvrit l'Espagne de ruines, et bientôt ce beau pays,
+abandonné à lui-même et à ses passions, n'offrit
+plus qu'un vaste champ de bataille où les partis,
+vaincus et vainqueurs tour à tour, se succédaient au
+pouvoir, s'élevaient et tombaient sans que rien pût
+faire présager la fin de ce régime agité.
+
+
+Ce fut au milieu de ces guerres civiles que s'éle-
+vèrent et grandirent en peu de temps la plupart des
+hommes éminents qui ont illustré l'Espagne depuis
+vingt ans.
+
+
+Don Carlos, d'abord réfugié en Angleterre, avait
+réuni des partisans. Il avait trouvé des soldats; il
+trouva des généraux qui tinrent tête longtemps aux
+généraux de la monarchie.
+
+
+Parmi les défenseurs du trône, Espartero, le pre-
+mier, conquit dès le début des hostilités, une cer-
+taine célébrité; il rendit à la couronne des services
+qui lui valurent bientôt une position élevée, des hon-
+neurs et la confiance de la régente. Plus heureux et
+plus habile que quelques-uns de ses rivaux en re-
+nommée, il les dépassa bientot, et le résultat, glo-
+rieux pour lui, d'une lutte de sept ou huit années
+où il avait eu au moins autant de bonheur qu'il avait
+déployé de qualités militaires, fut la consolidation
+du régime constitutionnel et l'affermissement du
+trône d'Isabelle.
+
+
+En quelques années, Espartero avait chassé les
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+11
+
+
+carlistes des montagnes de Luchana, débloqué Bil-
+bao, repoussé Don Carlos lui-même au delà de
+l'Ebre, réorganisé son armée, battu Negri à Bur-
+gos, Guergué à Penacerrada; enlevé la position de
+la Pena del Moro, de Ramalés et de Guardamino.
+Ces succès lui valurent tour à tour les titres de comte
+de Luchana, de duc de la Victoire, et la grandesse
+d'Espagne de première classe.
+
+
+Mais s'il fut le premier à combattre pour la
+royauté constitutionnelle; s'il eut cet avantage im-
+mense, cette gloire réelle de vaincre pour les libertés
+de son pays, il subit également la conséquence fa-
+tale de l'inexpérience et des premiers entraînements.
+
+
+Presque malgré lui, pour ainsi dire, et poussé
+par ces forces secrètes, par cet esprit inconnu des
+nations qui règne à toutes les époques de transition
+et de troubles, et s'empare des hommes au moins
+autant que des masses, Espartero, emporté sur la
+pente de la popularité, perdit bientôt de vue le véri-
+table but de sa mission et le sentiment exact de ce
+qu'il était et de ce qu'il devait être.
+
+
+La reine régente, heureuse de voir défendu et
+sauvé le trône de sa fille Isabelle, et pensant, d'ail-
+leurs, que ce trône ne pourrait que s'affermir et du-
+rer à l'abri de cette épée protectrice, ne tarda pas
+à appeler le général dans les conseils de la cou-
+ronne.
+
+
+On était alors en 1839; la paix de Vergara, con-
+clue entre Espartero et le dernier chef carliste
+
+
+12
+
+
+HISTOIRE DE LA GUERRE
+
+
+Maroto, vint mettre fin à la guerre de succession, et
+rendre un peu de repos à la patrie épuisée.
+
+
+C'est à dater de ce moment que commence le rôle
+politique de l'homme qui dirigea le gouvernement
+de la reine Christine jusqu'à ce que lui-même eût
+été proclamé régent.
+
+
+En rentrant triomphant à Madrid, Espartero se
+trouva immédiatement en face d'une situation dont
+il est nécessaire de dire quelques mots pour bien
+faire comprendre les événements qui se succédèrent.
+
+
+IV
+
+
+La mort de Ferdinand VII avait créé en Espagne
+un conflit redoutable. En présence du parti car-
+liste, fort de son passé et de ses espérances, se
+trouvait une jeune reine, enfant de trois ans,
+possédant le pouvoir en vertu d'un droit incon-
+testable, disposant de l'administration, de l'armée,
+de tous les éléments réguliers du pays, et soutenue
+même par la noblesse qu'on aurait pu croire liée
+à la cause de Don Carlos, et qui, au contraire, se ran-
+geait autour du trône constitutionnel, comprenant
+les nécessités que les idées modernes ont créées, et
+avec lesquelles les gouvernements sont désormais
+obligés de compter.
+
+
+C'était là un premier danger; mais la cause car-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+13
+
+
+liste une fois vaincue, le débat allait s'engager entre
+l'esprit révolutionnaire, qui songeait à son rôle, et
+l'esprit conservateur, qui tentait déjà de protéger un
+trône à peine échappé à de terribles secousses.
+
+
+Pour un politique expérimenté, pour un esprit froid
+et sagace, le choix n'eût pas été douteux. A ce mo-
+ment encore, la révolution n'était rien ou bien peu
+de chose. Le parti libéral affectait d'en professer les
+maximes les plus hardies et dressait un large pro-
+gramme où il demandait beaucoup pour obtenir
+un peu.
+
+
+Au fond, les hommes qui paraissaient alors les
+plus avancés n'avaient aucune idée fixe de gouver-
+nement sur laquelle ils pussent opérer. Les princi-
+pes leur manquaient comme les idées, et, chose
+singulière, leur opposition n'allait pas au delà de
+certaines satisfactions politiques et individuelles ;
+elles s'arrêtaient au pied du trône d'Isabelle, qu'ils
+voulaient conserver tout autant que leurs adver-
+saires.
+
+
+Les conservateurs, résolûment unis autour de la
+dynastie régnante, avaient le sentiment de leur su-
+périorité et de leur force morale. En effet, Isabelle
+régnait en vertu d'un droit écrit, traditionnel et
+même populaire, car jamais le peuple espagnol n'a
+songé à renverser la monarchie. Ainsi que le fait
+observer très-justement un éminent écrivain fran-
+çais, M. de Mazade, dans un excellent ouvrage sur
+l'Espagne moderne, le droit héréditaire des femmes,
+
+
+2
+
+
+14
+
+
+HISTOIRE DE LA GUERRE
+
+
+au delà des Pyrénées, était attesté par une série
+d'actes politiques pendant sept siècles.
+
+
+La loi salique était, pour l'Espagne, un droit
+étranger, introduit à un moment donné contre le
+droit séculaire, et repoussé, quand il fut invoqué
+pour la première fois, non par la violence, mais par
+un acte régulier, le testament de Ferdinand VII
+sanctionné par les Cortès. Or, ce droit de la monar-
+chie constitutionnelle avait triomphé d'une guerre
+de sept ans; il n'était pas douteux qu'il ne vainquît
+un jour cette opposition se croyant révolutionnaire,
+et qui par cela même l'était virtuellement.
+
+
+C'était à cette cause qu'un homme habile se fût
+dévoué; Espartero se trompa par amour d'une pas-
+sagère popularité.
+
+
+A peine arrivé à Madrid, il se prononça contre
+le cabinet Calatrava, et à propos d'une insubordina-
+tion d'officiers, il renversa ce ministère, auquel il
+succéda bientôt.
+
+
+V
+
+
+La période de 1833 à 1840 avait été plus qu'au-
+cune autre féconde en troubles, en insurrections
+presque exclusivement militaires, en désordres de
+toutes sortes.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+15
+
+
+On a pu remarquer déjà qu'en Espagne, la révo-
+lution, dans ses plus grands excès et ses exigences les
+plus hardies, n'a jamais été au delà de l'obtention de
+certains droits politiques et surtout de certaines sa-
+tisfactions, quelquefois individuelles. Au milieu de
+leurs plus terribles saturnales, alors qu'ils combat-
+taient les troupes de la reine, jamais les révolution-
+naires, ou, pour être plus exact, les progressistes
+n'ont osé jeter leurs regards au delà du trône. Ils
+ne comprenaient pas qu'ils pussent obtenir un
+autre gouvernement que celui qu'ils combattaient;
+un 21 Janvier leur eût fait horreur. Il n'y avait
+parmi eux ni Robespierre ni Cromwell; Zumala-
+carregui ou Cabrera cherchaient à jouer le rôle
+de Monk en faveur de Don Carlos; Espartero,
+O'Donnell ou Narvaez l'eussent accepté sans doute en
+faveur de la royauté constitutionnelle d'Isabelle.
+Aucun ne se sentait assez de fanatisme ou de génie
+pour se faire déclarer protecteur après avoir immolé
+un roi; aucun n'aurait voulu s'emparer d'une cou-
+ronne alors même qu'il n'aurait eu qu'à la prendre
+sur un trône renversé.
+
+
+Il y eut cependant une de ces tentatives qui
+prouvent précisément la vérité de notre assertion.
+Ainsi que nous venons de le dire, Espartero
+avait renversé le cabinet Calatrava. Il était naturel
+qu'il en héritât le pouvoir; mais, soit crainte d'une
+responsabilité considérable, soit méconnaissance de
+la vraie situation et des nécessités chaque jour plus
+
+
+16
+
+
+HISTOIRE DE LA GUERRE
+
+
+impérieuses de son pays, il refusa la direction des
+affaires, et il la fit donner au général Alaix, son
+ami. Ici se dessine, dans son entier développement,
+le caractère du duc de la Victoire.
+
+
+Élevé aux plus hautes dignités, à la suite du
+triomphe de Luchana, riche par lui-même et par
+un mariage contracté quelques années auparavant,
+comblé d'honneurs, Espartero, qui dirigea le gou-
+vernement sous le nom du général Alaix, ne com-
+prit pas la mission conservatrice que les événements
+l'appelaient à remplir. Il ne vit dans son rôle qu'une
+popularité à acquérir aux dépens du pouvoir; il fit
+à la régente une opposition modérée, tout en se dé-
+clarant le chevalier servant de la reine Christine;
+et sentant grandir son influence, se croyant néces-
+saire au bonheur de l'Espagne, il voulut jouer cette
+partie terrible, dont le prix est le plus souvent la
+tête de celui qui perd. Ainsi que le disent ses bio-
+graphes, il devint un des hommes avec lesquels les
+rois eux-mêmes sont obligés de compter.
+
+
+Le renvoi du général Alaix du ministère, et la
+dissolution des Cortès par la reine Christine, furent
+les premiers prétextes qui servirent au général pour
+manifester son opposition. Espartero se montra
+froissé, et fit écrire à la régente une lettre où il té-
+moignait son mécontentement. Le cabinet voulut
+se retirer, et la reine régente demanda des explica-
+tions. Le duc de la Victoire ne répondit pas, mais il
+fit nommer général un de ses aides de camp, dont
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+17
+
+
+le ministère exigeait la destitution. La démission des
+ministres fut la conséquence de cet acte.
+
+
+Cependant la lutte se continuait entre la Régente
+et le général. De même que tout le parti modéré,
+Marie-Christine comprenait qu'il était impossible de
+ne pas ménager le duc de la Victoire, mais il était
+évident qu'elle n'attendait qu'une occasion de lui
+porter un coup décisif, au risque de se blesser elle-
+même. Cette occasion, elle la fit naître sans se dou-
+ter qu'elle serait la première atteinte par l'épée
+qu'elle tirait imprudemment du fourreau.
+
+
+A son instigation, le cabinet proposa aux Cortès la
+loi sur les ayuntamientos.
+
+
+Certes, il faut le reconnaître, rien n'était plus
+naturel, plus légitime ni plus favorable à l'Espagne
+telle que l'ont constituée la nature, ses mœurs, ses
+traditions et le régime politique sous lequel elle avait
+vécu plusieurs siècles, qu'une mesure combinée de
+façon à rendre au pouvoir toute sa force et tout son
+prestige, en l'investissant de la plus grande partie
+des attributions administratives, dont l'avait dé-
+pouillé la Constitution de 1812, et qui réunissait
+P'administration et la politique dans la main de la
+monarchie. Cette loi de centralisation avait pour
+but de chasser cet esprit fédératif vivace encore en
+Espagne, et dont l'existence devenait chaque jour
+plus incompatible avec les tendances actuelles; mais
+elle blessait des passions secondaires, des intérêts
+de clocher assez nombreux, et elle souleva d'au-
+
+
+2.
+
+
+18
+
+
+HISTOIRE DE LA GUERRE
+
+
+tant plus facilement l'Espagne qu'elle dépassait le
+but. La loi frappait, d'ailleurs, sur les associations
+populaires en menaçant leur prépondérance. Il y
+eut un large mouvement insurrectionnel. Les me-
+neurs principaux, connaissant fort bien la disposition
+d'esprit où se trouvait Espartero vis-à-vis de la Reine,
+songèrent à l'élire comme chef. On lui fit des propo-
+sitions qu'il eut la faiblesse d'accepter, et le minis-
+tère dut se retirer. Espartero rétablit l'ordre, et mit
+Madrid en état de siége.
+
+
+Arrivé à ce degré de fortune, le général, emporté
+par une vanité qui a été sans cesse l'obstacle où sont
+venues se briser ses meilleures résolutions, voulut
+parler en maître et dominer sans contrôle, ne se
+doutant pas du fardeau sous lequel il devait bientôt
+plier. Après des scènes très-vives entre la régente
+et le dictateur, ce dernier l'emporta, et le 10 octo-
+bre 1840, la reine Marie-Christine abdiqua, à Va-
+lence, en laissant la régence à l'homme qui lui déro-
+bait le pouvoir.
+
+
+Par une coïncidence remarquable, le capitaine
+général de la province de Valence, entre les mains
+duquel la reine Christine déposa son abdication,
+était le général O'Donnell.
+
+
+Le duc de la Victoire fut alors élu régent à sa
+place; ce fut l'un des succès de la révolution.
+
+
+De 1836 à 1843, Espartero a été, on peut le
+dire, tout le gouvernement en Espagne, comme gé-
+néral ou comme régent.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+19
+
+
+Mais il ne sut pas exploiter au profit de son
+pays les circonstances si favorables qui l'avaient
+élevé. Sa régence, plus encore peut-être que celle
+de la Reine Christine, fut troublée par des insur-
+rections fréquentes, une anarchie incessante. Cepen-
+dant, il réussit longtemps à faire face à ses ennemis,
+dont le nombre croissait chaque jour, et il maintint,
+d'une main assez ferme, la constitution de 1837.
+
+
+A peine une année s'était écoulée depuis le dé-
+part de la reine Christine et l'avénement du géné-
+ral à la régence, qu'il eut à vaincre une formidable
+révolte fomentée par Diego. Léon à Pampelune, celle
+des provinces Basques, puis enfin l'insurrection de.
+Barcelone en 1841 et 1842.
+
+
+Cependant la situation du Régent ne semblait plus
+offrir aucune chance de stabilité. Ses amis politi-
+ques prévoyaient une catastrophe prochaine, et
+lui-même, s'il faut en croire les nombreux témoigna-
+ges que l'histoire aura à enregistrer, ne se sentait
+pas fait pour son rôle. Il comprenait son insuffi-
+sance, et tout le monde la comprenait autour de
+lui. Doué de qualités naturelles brillantes, brave,
+aventureux, chevaleresque et libéral, son caractère
+facile et inconsistant ne comportait point ces hautes
+pensées, ces énergiques transports, cette sévérité qui
+distinguent les hommes que Dieu semble avoir choisis
+pour être les instruments de quelques-unes de ses
+volontés. Un pareil caractère devait être facilement
+entraîné; sa sagacité ne prévit pas sa chute.
+
+
+20
+
+
+HISTOIRE DE LA GUERRE
+
+
+Il s'était déclaré le soutien le plus zélé de la Con-
+stitution de 1837; nul doute qu'il aurait réussi
+dans un pays déjà constitué tel que l'Angleterre ;
+mais en Espagne, après une guerre de succession et
+de principes, pendant une minorité, et lorsqu'il
+n'existait pas un parti assez fort pour dominer les
+autres, il fallait nécessairement dominer tous les
+partis et protéger contre eux la constitution, ce dont
+Espartero était incapable.
+
+
+Après les victoires qu'il remporta sur les insur-
+gés, Espartero crut son pouvoir solidement établi;
+et il est certain que pendant un temps il régna en
+souverain, entouré d'un certain prestige et confiant
+dans un avenir dont il se croyait le maître. Il n'en
+fut pas ainsi. Une coalition, d'abord latente et fai-
+ble, se noua contre le Régent, et rallia bientôt
+autour d'elle un nombre considérable de députés et
+de personnages importants dans l'État.
+
+
+Les modérés, qui voyaient avec douleur le pouvoir
+confié à un homme dont ils ne pouvaient rien at-
+tendre dans les circonstances actuelles, observaient
+dans la marche politique des tendances fatales pour
+un pays si près des révolutions. Ils songèrent alors
+à susciter des obstacles à l'exercice de son gouverne-
+ment. Ils avaient d'ailleurs à leur tête un homme que
+ses facultés, ses victoires passées, les services qu'il
+avait rendus à la monarchie, posaient déjà comme
+un candidat au pouvoir, et que son ambition devait
+porter à des entreprises dont ses hautes capacités
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+21
+
+
+devaient justifier le succès; cet homme était le gé-
+néral Narvaez.
+
+
+Les progressistes, aussi peu satisfaits que leurs
+adversaires, ne songèrent bientôt qu'à renverser Es-
+partero, que les modérés appelaient progressiste, et
+que les progressistes appelaient modéré. Ils s'uni-
+rent au parti conservateur, sauf à lui arracher
+ensuite le pouvoir. Enfin à ces hommes si étran-
+gement accouplés se joignirent quelques débris
+d'opposants qui ne pardonnaient pas à Espartero
+leurs défaites, et qui, sans autre espoir que de
+bouleverser le pays, se rangeaient sous les volontés
+de Narvaez, dont ils n'avaient certes pas à se louer
+davantage, mais qui du moins n'était pas au pou-
+voir. Enfin le Régent rencontra la coalition jusque
+dans son propre ministère, qui se livra tout entier
+au parti dirigé par Narvaez.
+
+
+VI
+
+
+Ce général, autant par la nature de son esprit,
+par son caractère, que par suite de rivalités anciennes
+nées de la guerre civile, était l'ennemi et le rival
+d'Espartero. Une circonstance remarquable avait
+augmenté le dissentiment qui existait entre ces deux
+hommes.
+
+
+En 1838, pendant la régence de la reine Christine,
+
+
+22
+
+
+HISTOIRE DE LA GUERRE
+
+
+et alors qu'Espartero, commandant l'armée du Nord,
+voyait grandir chaque jour son autorité, un mouve-
+ment insurrectionnel éclata à Séville. Une junte se
+forma sous la présidence du général Cordova. Ce
+dernier sentit le besoin de s'appuyer sur une popu-
+larité plus réelle que la sienne; il fit faire des ouver-
+tures au général Narvaez, lui offrit la vice-prési-
+dence de la junte et un commandement militaire.
+Narvaez refusa d'abord. Cependant il vint à Séville,
+où son nom exerçait un grand prestige, et quelques
+jours après il ne restait plus rien de ce mouvement.
+Quel était le vrai sens de ce pronunciamiento?
+A quel résultat voulait-on en arriver? C'est ce
+qu'il est difficile de dire.
+
+
+Le mouvement de Séville, dit M. de Mazade dans
+son excellent livre déjà cité, est un des faits les plus
+obscurs de l'histoire contemporaine de l'Espagne.
+
+
+Dès son arrivée, Narvaez avait opposé une digue
+à l'esprit révolutionnaire. Il avait exigé la dissolu-
+tion de la junte, maintenu la discipline parmi les
+soldats. Au fond, cette prise d'armes ne pouvait
+avoir de signification que si l'on songeait au rôle
+prépondérant et dominateur qui, chaque jour, de-
+venait plus visiblement celui d'Espartero.
+
+
+Celui-ci ne s'y trompa point, et tandis que la
+régente se disposait peut-être à la clémence, il exi-
+gea de Marie-Christine le prompt châtiment des cou-
+pables. Cordova et Narvaez, jugés en dehors de
+ceux qui avaient pris part, comme eux, à l'insur-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+23
+
+
+rection, furent condamnés. Cordova se réfugia en
+Portugal, où il mourut peu de temps après; Narvaez
+vécut en France jusqu'à l'heure où il rentra à Ma-
+drid plus influent que jamais.
+
+
+Il est facile de comprendre dès lors la rivalité qui
+divisait ces deux hommes séparés par leurs opi-
+nions, leur caractère et leur ambition.
+
+
+Narvaez s'engagea avec ardeur dans une nouvelle
+croisade contre le Régent. Au mois de mai 1843, le
+cabinet força, en quelque sorte, Espartero à signer
+une amnistie générale que les modérés dénoncèrent
+à la tribune comme un attentat de lèse-nation.
+
+
+Tandis que se déchaînait cette tempête, le Régent,
+abandonné par son cabinet, fut accusé d'avoir fa-
+vorisé la signature d'un traité de commerce avan-
+tageux à l'Angleterre autant que désastreux pour
+l'Espagne. Cette accusation était particulièrement
+terrible, car personne alors n'ignorait à quelles in-
+trigues se livraient les Anglais, en vue de se créer
+des débouchés, et de satisfaire aux nécessités com-
+merciales que leur imposait leur immense produc-
+tion.
+
+
+L'opposition devint telle aux cortès que le Régent
+se décida à les dissoudre, et l'agitation se répandit
+bientôt dans le pays. En peu de jours l'insurrec-
+tion éclata sur tous les points de l'Espagne. La coa-
+lition qui s'était faite au cri de Dieu sauve le pays
+et la Reine! avait pour chef, dans le parti progres-
+siste, M. Lopez, le président même du cabinet. Les
+
+
+24
+
+
+HISTOIRE DE LA GUERRE
+
+
+principaux membres du parti modéré avaient émi-
+gré; mais tandis que le général Serrano, ministre
+de la guerre, se présentait en Catalogne, où le mou-
+vement avait pris les plus sérieuses proportions, le
+général Narvaez débarquait à Valence. Son arrivée en
+Espagne et sa prise de possession du commandement
+en chef de la révolution donnèrent au mouvement
+une importance dont Espartero comprit la portée. Il
+se décida alors à se mettre lui-même à la tête d'un
+corps d'armée destiné à combattre Narvaez; mais
+jes temps étaient changés, on n'était plus au pro-
+nunciamiento de Séville, et le général Narvaez avait
+à cette époque autant de chances contre son antago-
+niste que celui-ci en avait eues contre lui autrefois.
+
+
+A son entrée au ministère en 1838, le plan d'Es-
+partero n'était un mystère pour personne. Mille
+ambitions, mille intérêts se groupaient autour de
+lui et augmentaient ce cortége que forment à la suite
+d'un héritier désigné du pouvoir tous les mécon-
+tentements, toutes les convoitises déçues. En 1843,
+Espartero était l'homme qui avait exercé et exerçait
+encore le pouvoir; il avait eu le temps de faire des
+mécontents, de semer la désaffection, et, au point de
+vue politique, de détruire les illusions, les espé-
+rances que sa situation avait fait naître dans tous
+les partis. D'ailleurs, dans l'insurrection qui lui en-
+leva la régence, Espartero fut renversé autant par
+le fait militaire que par le mouvement général de
+l'opinion publique. Il se trouva en face de Narvaez
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+25
+
+
+et de la presque totalité du pays soulevé contre lui
+par les partis coalisés; mais, avec de tels adver-
+saires, il fallait agir rapidement, résolûment, et
+mettre de côté cette tactique de temporisateur qui
+avait pu réussir autrefois contre l'insurrection car-
+liste, mais dont le temps était passé.
+
+
+La Catalogne, l'Aragon, la Galice, l'Andalousie
+soulevées, réclamèrent la chute du régent. Lajunte
+de Barcelone déclara la jeune Reine majeure (elle
+avait alors treize ans), et le Régent déchu. Soutenu
+par ce mouvement unanime, le général Narvaez ac-
+courut à Madrid avec sa rapidité accoutumée, coupa
+les communications entre Espartero et le général
+Séoane, s'empara même de ce dernier, dont il gagna
+l'armée, et le 23 juillet 1843, il rentrait à Madrid.
+
+
+Quant au régent, abandonné par ses amis, battu
+par son rival, il avait vu s'évanouir le prestige qui
+l'avait si longtemps entouré. Il put s'abuser encore
+quelques jours sur sa situation, mais sa défaite
+était achevée. Il se réfugia à Cadix, où il s'embarqua
+pour l'Angleterre avec le regret de n'avoir pas fait
+pour son pays tout le bien qu'il aurait pu lui don-
+ner, et d'avoir perdu les grandes destinées que la
+fortune lui avait offertes.
+
+
+3
+
+
+26
+
+
+HISTOIRE DE LA GUERRE
+
+
+VII
+
+
+C'est de ce moment que date pour l'Espagne une
+ère nouvelle par l'avénement au pouvoir du parti
+modéré. Il faut reconnaître que cet avénement avait
+lieu dans des conditions qui semblaient le rendre
+définitif.
+
+
+Les partis étaient fatigués d'une lutte de dix an-
+nées; les progressistes, divisés entre eux, avaient
+prouvé, sous la régence d'Espartero, qu'on ne pou-
+vait rien attendre d'opinions flottantes, irrésolues,
+sans principe avoué, subissant tous les entraîne-
+ments, et ne donnant au pays ni l'ordre que le parti
+conservateur devait lui assurer, ni la liberté qu'il
+était en droit d'attendre. Le carlisme, épuisé par
+des défaites successives, ne demandait qu'à se faire
+oublier, jusqu'à ce que, vaincu de nouveau par les
+faits accomplis, par la perte de ses espérances et
+par l'unanimité de la nation à consolider lå dynastie
+d'Isabelle II, il pût honorablement se rattacher aux
+conservateurs et servir son pays. En un mot, le mo-
+ment était admirablement préparé pour jeter, par
+une pratique sincère, les fondements désormais in-
+destructibles du régime constitutionnel.
+
+
+Narvaez comprit l'importance de cette situation;
+il comprit que, par une suite de circonstances favo-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+27
+
+
+rables, l'Espagne cherchait un abri contre des tem-
+pêtes que dix années d'épreuves lui avaient rendues
+insupportables. Il n'hésita pas; il se sentit la force
+de diriger les destinées de son pays, et, confiant en
+lui-même, il prit le pouvoir.
+
+
+VIII
+
+
+Narvaez avait toutes les qualités du rôle que les
+circonstances lui imposaient; mais préoccupé des
+progrès moraux et matériels du pays autant que
+du côté militaire de sa mission, il mit tous ses soins
+à former une force nationale homogène qui ne pût
+devenir à un moment donné un élément de révolu-
+tion dans des mains ennemies.
+
+
+Le général don Ramon Maria Narvaez, nommé
+duc de Valence, en mémoire de la ville où il avait
+débarqué en revenant de l'exil, ne s'était jusqu'alors
+fait connaître que par une carrière militaire bril-
+lante et honorable et des services importants rendus
+au trône constitutionnel d'Isabelle. Sa rivalité avec
+Espartero avait fait pressentir en lui l'homme poli-
+tique; ses discours, où respirait le respect de la
+hiérarchie, son sentiment très-vif de l'autorité et de
+la foi, faisaient espérer le conservateur.
+
+
+23
+
+
+HISTOIRE DE LA GUERRE
+
+
+IX
+
+
+La fidélité du peuple espagnol au principe mo-
+narchique a été démontrée de la manière la plus
+éclatante à l'époque de l'invasion française et pen-
+dant tout le règne de Ferdinand VII; elle l'a été,
+au moins autant, pendant les dix années de troubles
+qui ont suivi la mort de ce monarque. On ne pour-
+rait trop le répéter à l'honneur du peuple espa-
+gnol, le sentiment que trente années de révolution
+n'ont pu détruire, qu'elles ont accru peut-être, et
+qui partage, avec le catholicisme, la vénération et
+l'amour de la population tout entière, c'est le sen-
+timent monarchique. A l'encontre de l'Angleterre,
+qui dit: Dieu et mon droit, l'Espagne dit: Dieu et
+mon Roi.
+
+
+C'est surtout à cette particularité du caractère
+espagnol qu'il faut attribuer la bizarrerie de certai-
+nes insurrections et de leurs dénoûments.
+
+
+De tous côtés on criait: Vive la Reine! personne
+ne songeait à renverser le trône, et personne n'y
+cût réussi. Pour tout hidalgo la royauté, comme
+la religion catholique, est essentiellement mêlée
+à l'existence nationale; elle tient aux entrailles mê-
+mes du pays. Elle est une foi, elle est une croyance
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+29
+
+
+enracinée au fond des cœurs. L'esprit espagnol ne
+comprendrait jamais l'Espagne sans la monarchie;
+la fin des temps pour la Péninsule serait la chute
+de la royauté.
+
+
+Voilà ce que Narvaez comprit tout d'abord, et dès
+son arrivée au pouvoir il affecta de se placer au
+rang que lui marquait la fortune, c'est-à-dire au
+pied du trône dont il se déclarait le plus ferme appui
+et le plus dévoué serviteur. Aussi évita-t-il de frois
+ser l'esprit national et de se mettre en contradic-
+tion avec le sentiment universel. Il fut le premier
+sujet de la reine, et ne fut que cela.
+
+
+En politique, Narvaez avait, d'ailleurs, un grand
+avantage, c'était d'avoir un but hautement avoué,
+et de savoir le poursuivre sans que rien pût l'en
+détourner: ce but était la conservation de la mo-
+narchie, et, comme conséquence, le maintien de
+l'ordre.
+
+
+Sous la direction de cet homme d'État, l'Espagne
+commença, en 1843, à marcher d'un pas plus as-
+suré dans la voie des pratiques constitutionnelles,
+et aurait pu enfin jouir d'une paix intérieure qui la
+fuyait depuis si longtemps.
+
+
+Mais lorsque, après le mouvement de juillet 1843,
+la Reine eut été déclarée majeure, les progressistes ne
+crurent point la partie perdue, et l'attention du géné-
+ral fut immédiatement absorbée par les insurrec-
+tions qui éclatèrent, mettant encore une fois le pou-
+voir dans l'obligation de négliger le côté politique
+
+
+3.
+
+
+30
+
+
+HISTOIRE DE LA GUERRE
+
+
+et civil de son action pour se vouer exclusivement
+aux soins que réclamait la guerre intérieure.
+
+
+Au sein même du gouvernement, déchiré par
+des divisions fatales, le parti progressiste, sinon
+Espartero lui-même, avait conservé certaines in-
+fluences. Tandis qu'à Aranjuez, les ministères tom-
+baient les uns sur les autres, Narvaez, déployant
+une activité et une énergie peu communes, chassait
+l'émeute de Madrid, réprimait l'insurrection de la Ca-
+talogne, les soulèvements d'Alicante ou de Cartha-
+gène, exerçait, avec autorité, une double action
+militaire et politique, et organisait, au profit des
+principes conservateurs, un mouvement sympathi-
+que aux sentiments de la population. Après une
+année d'efforts et de travaux, il fut appelé, au mois
+de mai de l'année 1844, à la présidence d'un minis-
+tère dont les principaux membres étaient MM. Mon
+et Pidal. Ce fut le premier cabinet réellement con-
+servateur qu'ait eu l'Espagne depuis la fondation du
+régime constitutionnel.
+
+
+Le triomphe de Narvaez, son avénement à la tête
+du ministère, l'apaisement des discordes civiles,
+suite inévitable de la défaite des insurrections, fu-
+rent pour l'Espagne le point de départ vers des des-
+tinées nouvelles et réparatrices. Narvaez commença
+dès lors à apporter dans l'exécution des plans qu'il
+projetait et des réformes dont la pratique lui dé-
+montrait la nécessité, une netteté de conception et
+une grande rapidité de mise en œuvre.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+31
+
+
+Le premier ministère de Narvaez, qui ne dura
+que deux ans, se distingua par un ensemble de tra-
+vaux, par des réformes importantes, par des efforts
+dignes de la cause qu'il servait.
+
+
+Les administrations provinciales et municipales
+furent réorganisées; le conseil d'État fut créé.
+L'instruction publique devint l'objet d'améliorations
+depuis longtemps reconnues nécessaires. Mais cette
+immense tâche d'un remaniement presque entier de
+l'administration espagnole ne suffisait pas au dé-
+vouement des ministres, qui semblaient emprunter à
+leur chef, en qui ils se personnifiaient, une ardeur
+communicative. M. Mon, ministre des finances, en-
+treprit l'une des réformes les plus urgentes et les
+plus périlleuses à accomplir: la réforme des impôts.
+
+
+Cette période de deux années, pendant lesquelles
+une paix relative régna en Espagne, et qui put
+faire juger de quels efforts ce pays serait capable
+s'il était bien dirigé, eut pour effet, au point de
+vue politique, de créer au ministère une situation
+qui occasionna par ses conséquences la chute de
+Narvaez, et cette chute s'explique par la pratique ré-
+gulière et loyale, mais toute nouvelle encore, du
+régime constitutionnel.
+
+
+X
+
+
+On a pu déjà constater le sentiment qui porte le
+
+
+32
+
+
+HISTOIRE DE LA GUERRE
+
+
+peuple espagnol à respecter le trône et à le consi-
+dérer comme inviolable. La royauté existe en Es-
+pagne en dehors des conventions des hommes; elle
+est de droit divin; elle est le rouage le plus essentiel
+de cette société qui, dans quelques années, offrira
+un type, peut-être unique au monde, celui d'une
+nation gouvernée par une constitution réellement
+vivante, à côté d'un pouvoir absolu, et respectée par
+ce pouvoir autant que par la nation elle-même.
+
+
+Le peuple espagnol a ceci de particulier qu'il
+aime la liberté politique, mais à cette idole nou-
+velle il ne consentirait jamais à sacrifier ses deux
+antiques et immortelles croyances, la religion catho-
+lique et la royauté. Il est conservateur par in-
+stinct, comme le peuple anglais par raisonnement;
+et s'il est moins éclairé, et à ce titre moins avancé
+dans la voie du progrès moderne, il a ce qui man-
+que à l'Angleterre, ce qui relève une nation appe-
+santie et lui rend ses brillantes destinées, ce qui
+fait la vraie force de l'homme comme la force des
+peuples, ce qui, comme le dit l'Écriture, remue les
+montagnes, il a la foi. Il croit à la royauté et à la
+religion, et c'est dans ce sentiment inextinguible
+qu'il doit puiser la confiance de ses destinées.
+
+
+Le général Narvaez, homme essentiellement con.
+servateur et catholique, avait compris à merveille
+l'esprit espagnol.
+
+
+L'opposition raisonnée qui se forma contre le cabi-
+net Narvaez, dès sa création, était composée d'hom-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+33
+
+
+mes sages et dévoués à la monarchie, comme au
+pays. Elle ne songea d'abord qu'à examiner les actes
+du ministère, à les contrôler avec toute la retenue
+et la modération possibles, et à donner de bons avis
+tout à fait désintéressés. Toutefois le ministère se
+fatigua de cette opposition à laquelle les questions,
+de quelque nature qu'elles fussent, servaient de
+prétexte à des débats dont le cabinet sortait vain-
+queur, mais qui l'épuisaient.
+
+
+Et cependant il n'était personne qui ne reconnût
+qu'en présence d'un passé comme celui qui venait
+de finir, la politique actuelle portait l'empreinte
+d'une grandeur qui eût dû lui faire trouver grâce
+devant l'opposition. Dès ses premiers pas, Narvaez
+s'attacha particulièrement à tirer son pays des erre-
+ments dans lesquels il avait vécu jusque-là en fait
+de politique étrangère; et quant à l'intérieur, il ré-
+gla sa conduite sur les principes dont il faisait pro-
+fession, et non point sur les circonstances et les ha-
+sards. Néanmoins, il tomba, non point sur une ques-
+tion définie, particulière, mais bien par des causes en
+quelque sorte inhérentes à sa propre nature, et dont
+l'opposition avait su tirer le meilleur parti.
+
+
+XI
+
+
+Après la chute du cabinet Narvaez, plusieurs
+ministères se succédèrent. En 1847, la situation était
+
+
+34
+
+
+HISTOIRE DE LA GUERRE
+
+
+devenue telle, elle était entourée de tant de périls
+que les partis eux-mêmes tournèrent de nouveau les
+yeux vers Narvaez, alors ambassadeur à Paris, et qui,
+bientôt rappelé, rentra à Madrid pour terminer une
+crise que le cabinet Serrano avait provoquée.
+
+
+Le général Narvaez venait à peine de reprendre
+le pouvoir, que la révolution de Février éclatait à
+Paris, rendant sa présence et son action encore plus
+nécessaires.
+
+
+Il semblait que cet événement dût avoir particu-
+lièrement en Espagne un retentissement immédiat,
+si on songe aux liens de toute nature qui unissaient
+les deux pays; mais de tous les gouvernements con-
+tinentaux, le gouvernement espagnol fut sans con-
+tredit le moins atteint par ce mouvement immense,
+grâce à l'action énergique du général; cependant
+la révolution s'y montra ardente comme partout. Ce
+moment fut des plus glorieux pour Narvaez et ses
+collègues, qui, tous, se montrèrent à la hauteur du
+rôle que leur imposaient les événements.
+
+
+Toutefois le cabinet n'attendit pas que le contre-
+coup des événements qui venaient de s'accomplir
+en France se fît sentir dans les rues de Madrid pour
+se mettre en mesure de repousser toutes les attaques
+contre la société; le 4 mars il demandait des pou-
+voirs extraordinaires afin d'agir dictatorialement,
+Ces pouvoirs lui furent accordés, et le 21 mars les
+Cortès étaient dissoutes et les garanties constitu-
+tionnelles suspendues dans toute l'Espagne.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+35
+
+
+Alors commença dans la capitale et dans toutes
+les provinces une série de mouvements révolution-
+naires. Des émeutes éclatèrent à Madrid; le général
+Narvaez les attendait en se disposant au combat. En
+quelques heures l'anarchie fut vaincue.
+
+
+C'est à ce moment que se reproduisit, avec son
+audace accoutumée, l'action du gouvernement bri-
+tannique, dont l'intérêt, en Espagne, comme par-
+tout ailleurs, sait profiter des discordes civiles qui
+ont pour premier et inévitable résultat dans tous les
+pays l'affaiblissement et la perte des ressources in-
+dustrielles et des produits du sol.
+
+
+La répression énergique du gouvernement espa-
+gnol tendait à rétablir immédiatement l'ordre; or,
+ce n'était pas le compte de la politique anglaise ;
+le 7 mai, un nouveau mouvement éclata. L'Ambas-
+sadeur Britannique cacha si peu sa participation au
+mouvement, que le premier acte du gouvernement
+espagnol fut de lui envoyer ses passeports; il dut
+quitter Madrid sur-le-champ. Les relations diplo-
+matiques furent interrompues entre les deux pays
+jusqu'en 1850. A cette époque seulement, et par
+l'entremise officieuse du Roi des Belges, les bons rap-
+ports furent repris, et lord Howen, dont l'Espagne,
+dans une ambassade précédente, avait gardé le plus
+honorable souvenir, fut envoyé en qualité d'Ambas-
+sadeur à la Cour de Madrid.
+
+
+36
+
+
+HISTOIRE DE LA GUERRE
+
+
+XII
+
+
+Au milieu de ces préoccupations, la question reli-
+gieuse, placée alors par les faits dans des conditions
+qui exigeaient une solution prompte, devint bientôt
+l'objet des préoccupations les plus sérieuses du
+gouvernement. D'ailleurs, il importait au parti con-
+servateur qu'une affaire de cette gravité ne fût
+traitée ni résolue dans un autre esprit politique
+que celui qui dominait alors en Espagne. Le cabi-
+net comprenait parfaitement de quelle importance
+il était pour lui de rétablir les relations altérées
+avec la cour de Rome, et quelle serait sa gloire à y
+réussir.
+
+
+Le dissentiment entre les cours de Madrid et de
+Rome était né du refus du pape, en 1834, de re-
+connaître la royauté d'Isabelle. Les préoccupations
+qui, à son origine, assaillirent la régence de Marie
+Christine, la guerre civile qui, pendant plus de dix
+années, avait désolé l'Espagne, étaient des raisons
+plus que suffisantes pour justifier une situation
+anormale surtout dans un pays catholique comme la
+Péninsule. D'un autre côté, les faits auxquels la
+guerre intérieure donnait naissance n'étaient pas de
+nature à hâter la reprise de relations plus amicales
+et plus régulières entre les deux cours.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+37
+
+
+Ce fut à l'époque de la guerre contre les parti-
+sans de Don Carlos que les Cortès votèrent le désa-
+mortissement des biens du clergé.
+
+
+La chute du Duc de la Victoire et l'arrivée aux
+affaires du parti conservateur, sous la direction du
+général Narvaez, modifièrent immédiatement les
+rapports du gouvernement de Madrid avec le Saint-
+Siége. Les mêmes événements qui avaient amené
+les insurrections qui signalèrent le second ministère
+Narvaez et la rupture avec l'Angleterre eurent pour
+conséquence de placer l'Espagne dans une position
+excellente vis-à-vis des puissances européennes, et
+tout à fait favorable à des négociations de nature
+à rétablir les plus heureux rapports avec la cour de
+Rome. A l'époque où une armée française, instru-
+ment glorieux de la plus juste et de la plus sacrée
+des causes, débarqua en Italie et rétablit sur son
+trône impérissable le successeur de saint Pierre,
+l'Espagne, en sa qualité de puissance catholique,
+crut devoir s'engager dans cette grande entreprise.
+Elle voulut, elle aussi, combattre pour le rétablis-
+sement du pouvoir temporel 'du Pape; son hon-
+neur lui ordonnait de contribuer, avec les autres
+puissances catholiques, au maintien des États du
+Saint-Père; elle ne voulut pas laisser à la France
+seule la gloire de verser son sang pour l'Église. De
+plus, et au nombre des motifs secondaires qui le
+poussaient à cette noble résolution, le gouvernement
+conservateur d'Isabelle était flatté d'exercer une ac-
+
+
+4
+
+
+38
+
+
+HISTOIRE DE LA GUERRE
+
+
+tion importante à côté du gouvernement conserva-
+teur du prince Louis-Napoléon; d'ailleurs, l'armée
+espagnole se sentait fière de se montrer à côté de
+l'armée française sur les champs de bataille, et de
+promener encore en Italie ce drapeau qui, autre-
+fois, y avait acquis une gloire immortelle.
+
+
+Enfin, cette participation à l'affaire de Rome était
+pour la monarchie espagnole un signe visible de
+sa renaissance diplomatique et de sa réapparition
+dans les grandes transactions européennes.
+
+
+Les espérances conçues par les conservateurs de
+Madrid ne furent point trompées. Cette coopéra-
+tion à la restauration du trône du Vicaire de Jésus-
+Christ eut un effet immédiat et pratique, et fut d'une
+grande utilité dans les relations de l'Espagne avec
+le Saint-Siége pour le règlement des affaires reli-
+gieuses.
+
+
+Cette grave question, plus importante encore en
+Espagne que dans aucun autre pays de l'Europe,
+restait depuis de longues années sans solution. L'état
+du clergé, le règlement à intervenir à propos des
+biens de l'Église, déclarés propriétés nationales et en
+partie vendus à ce titre, la situation du haut clergé vis
+à-vis le gouvernement et ses rapports avec la royauté,
+toutes ces questions difficiles à résoudre en pré-
+sence surtout d'intérêts devenus légitimes par une
+longue et légale possession, préoccupaient au plus
+haut point le gouvernement, qui sentait la nécessité
+de mettre fin à cet état de choses. Déjà en 1843 le
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+39
+
+
+parti conservateur, alors au pouvoir, avait fait sus-
+pendre la vente des propriétés de l'Église, et ce qui
+restait avait été affecté, en 1845, par un acte dit de
+ Dévolution, » à l'entretien du clergé, avec un sup-
+plément de dotation. Cependant une semblable me-
+sure n'était pas suffisante à satisfaire aux besoins
+les plus bornés et les plus légitimes du clergé, elle
+ne pouvait être que temporaire; mais elle était un
+indice des tendances du gouvernement de la Reine,
+dont le plus vif désir était d'entreprendre et de me-
+ner à bien cette noble négociation, et elle appelait
+inévitablement une restaturation complète de la
+propriété ecclésiastique.
+
+
+Toutefois, il se présentait de sérieuses difficultés.
+Restituer au clergé ses biens tels que la révolution
+les lui avait ravis, était une chose impossible; on se
+trouvait, en effet, dans ce cas, en présence d'acqué-
+reurs légitimes dont les opérations avaient été sanc-
+tionnées par les pouvoirs légaux du pays, dont les
+droits nouveaux, créés par des aliénations succes-
+sivės, ne pouvaient être méconnus sans une sorte de
+fraude que rejetait absolument l'esprit du minis-
+tère. Il y avait, d'ailleurs au point de vue politique,
+un grave danger à adopter des errements qui au-
+raient, à juste titre, mécontenté une partie impor-
+tante de la nation. Bref, la question à résoudre était
+celle-ci: effacer le plus possible les effets d'une
+mesure qui a toujours eu le caractère de la violence,
+et en même temps tenir compte des intérêts nou-
+
+
+40
+
+
+HISTOIRE DE LA GUERRE
+
+
+veaux qui, après tout, ne pouvaient souffrir d'une
+restitution toute à la charge du gouvernement.
+
+
+L'acte de « Dévolution » n'était ni une restitution
+pure et simple, ni un ensemble de mesures défini-
+tives. La situation du clergé était déplorable. La
+détresse de la plupart des prêtres désolait les fidè-
+les. Un grand nombre étaient obligés à un travail
+pour subsister, et relativement le dénûment des
+évêques était semblable. Un pareil état de choses
+ne pouvait durer plus longtemps sans présenter les
+plus graves inconvénients; le gouvernement résolut
+d'y mettre un terme.
+
+
+Aussitôt après la reconnaissance de la Reine Isa-
+belle II, par S. S. le pape Grégoire XVI, en 1845, le
+gouvernement avait rédigé un premier projet qui
+fut présenté à la cour de Rome; mais, après une lon-
+gue discussion, ce projet n'avait pu être ratifié par
+le cabinet de Madrid. La participation de l'Espagne
+à l'expédition romaine, en 1849, devait aplanir
+bien des difficultés et rendre un arrangement plus
+facile en créant de nouvelles causes d'intimité et de
+bienveillance dans les rapports des deux cours.
+
+
+Le Saint-Siége donna le premier les marques des
+sentiments qui l'animaient, et la nomination au car-
+dinalat des évêques de Tolède et de Séville vint res-
+serrer encore des liens que l'Espagne désirait ar-
+demment voir entièrement rétablis.
+
+
+La question du concordat fut vivement posée et
+conduite par les deux cours; le 14 mai 1851, la
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+41
+
+
+négociation fut conclue à la grande joie et au grand
+honneur aussi de la Reine et de la catholique Espa-
+gne, ainsi que du gouvernement romain, pour qui
+cette quasi-séparation avait toujours été une cause
+de cruelle affliction.
+
+
+Les stipulations secondaires du traité fixent l'or-
+ganisation du culte, la hiérarchie ecclésiastique,
+la distribution nouvelle des diocèses, etc., etc. Ce
+concordat ne contient pas moins de quarante-six ar-
+articles tous longuement étudiés et discutés. Il
+convient d'en examiner les dispositions principales
+et l'esprit qui les a inspirés. L'article 38 fixe les
+divers éléments dont se composaient la dotation et les
+biens du clergé. Ces éléments sont : 1° le produit
+des biens qui ont été l'objet de la dévolution de
+1845; 2° le produit de la Cruzada; 3º le revenu
+des commanderies et maîtrises des quatre ordres
+chevaleresques Alcantara, Calatrava, Santiago et
+Montesa, lesquels sont, d'ailleurs, conservés avec
+affectation d'un territoire spécial; 4° une contribu-
+tion sur les propriétés rurales et urbaines qui
+pourra être perçue soit en argent, soit en nature.
+En outre, les biens du clergé restés en dehors de
+la dévolution de 1845 sont rendus au clergé, à la
+charge par lui d'être vendus et transformés en une
+rente perpétuelle 3 0/0.
+
+
+La même condition s'applique aux propriétés des
+couvents, dont la restitution est également stipulée,
+moyennant quoi le droit des possesseurs actuels des
+
+
+4.
+
+
+42
+
+
+HISTOIRE DE LA GUERRE
+
+
+biens ecclésiastiques de tout genre aliénés depuis la
+révolution se trouve solennellement confirmé de
+concert entre les deux pouvoirs. (Article 42.)
+
+
+A l'époque où le concordat fut conclu, les biens
+du clergé espagnol étaient évalués à 900 millions;
+mais le prix obtenu lors des ventes publiques d'une
+grande partie de ces biens prouva que cette évalua-
+tion était bien inférieure à la réalité, qui fut estimée
+devoir s'élever à la somme de deux milliards. C'é-
+tait un tiers à peu près de ces biens dont l'aliéna-
+tion, faite au nom et au profit de l'État, devait res-
+ter définitive.
+
+
+Cet arrangement, conclu à la suite d'un long et
+minutieux examen, était de nature à satisfaire, au-
+tant que possible, tous les intérêts.
+
+
+L'honneur du gouvernement de la Reine y trou-
+vait une noble satisfaction, sa politique en recevait
+un nouvel éclat et une nouvelle force. Il n'y avait
+pas, d'ailleurs, à craindre de voir le surplus des
+biens restitués au clergé s'immobiliser entre ses
+mains, puisqu'il était tenu de les vendre et d'en
+employer le produit en rentes sur l'État, ce qui, de
+plus, fournissait un aliment au crédit public. Plu-
+sieurs décrets intervinrent bientôt après pour as-
+surer l'exécution de cette partie du concordat, à par-
+tir du 1er janvier 1852.
+
+
+Le cœur de la Reine s'est vivement réjoui d'avoir
+rétabli le bon accord entre le Saint Père et son gou-
+vernement, d'avoir rendu au clergé une situation
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+43
+
+
+sans laquelle sa mission devient impossible, et au
+peuple espagnol la paix de sa conscience. Ce sont là
+de grands services et de grandes choses qu'un pays
+ne peut oublier.
+
+
+Les conséquences du concordat furent immenses.
+D'abord, en déterminant la situation respective del'É-
+tat et de l'Église, il établissait les rapports fixes et
+réguliers nécessaires à la vie publique, surtout en
+Espagne; évidemment ce règlement profitait à l'État,
+mais il sauvegardait également les intérêts les plus
+pressants et les plus légitimes du clergé, qui trouvait
+dès lors dans sa situation les moyens de rendre son
+action plus normale, plus élevée, et aussi plus in-
+telligente. L'Église, en Espagne, est intimement
+mêlée à la vie nationale. Le pays, exclusivement ca-
+tholique, ne saurait se passer de l'appui, des conseils,
+des consolations de la religion; et l'un de ses plus
+sérieux griefs contre les progressistes a été de ne
+pas avoir compris le rôle que l'Église devait jouer
+dans les conseils du gouvernement.
+
+
+Les progressistes trouvèrent à redire au concor-
+dat; le parti modéré, qui y avait coopéré, surtout par
+l'appui qu'il avait donné à son chef, soutint son ou-
+vrage et en prouva l'excellence à une population
+toute prête à l'accueillir avec ivresse. Le concordat
+fut l'œuvre et sera la gloire immortelle de l'Espagne
+conservatrice.
+
+
+Le général Narvaez n'a pas attaché son nom à ce
+grand acte.
+
+
+44
+
+
+HISTOIRE DE LA GUERRE
+
+
+Fatigué d'une opposition injuste, qu'il supportait
+difficilement, le général, après avoir gouverné de
+puis le 4 octobre 1847, avait quitté le pouvoir le
+10 Janvier 1851.
+
+
+C'est de cette époque que date pour l'Espagne la
+plus triste période. Nous allons voir se dérouler
+maintenant un autre ordre de faits et d'idées, et les
+agitations renaître.
+
+
+Ces agitations, heureusement, devaient être ré-
+primées. La pure et ferme épée d'O'Donnell couvrait
+alors l'Espagne et devait la sauver.
+
+
+Cette nouvelle retraite de Narvaez ouvrait néces-
+sairement la porte aux idées avancées, aux progres-
+sistes, qui, jusqu'alors, n'avaient réussi qu'à moitié,
+et qui, débarrassés de leur plus grand adversaire,
+allaient essayer de prendre leur revanche.
+
+
+Cette revanche pouvait sembler d'autant plus fa-
+cile aux anciens partisans d'Espartero, aux fanati-
+ques de la constitution de 1812, qu'on pouvait
+croire un peu ce qui s'est dit un instant à cette épo-
+que: c'est que l'empire était livré aux généraux
+d'Alexandre.
+
+
+Le 10 janvier 1851, Narvaez quittait Madrid. Le
+cabinet, disloqué par cette retraite, était reconstitué
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+45
+
+
+quatre jours après, et le 14 janvier M. Bravo-Mu-
+rillo était appelé par la confiance de la Reine à la
+présidence du conseil des ministres et prenait la
+direction des affaires.
+
+
+La situation dans laquelle le départ de Narvaez
+laissait l'Espagne, le nombre et la force des partis
+à la chambre, leurs divisions sur la plupart des points
+politiques, ou, pour mieux dire, leur ignorance des
+conditions politiques du système constitutionnel, leurs
+passions, leurs animosités personnelles et les dan-
+gers auxquels l'Espagne était alors exposée, sont des
+faits qui tous avaient leur importance relative, et
+qui nécessitent quelques développements.
+
+
+Nous l'avons dit, si Narvaez avait résigné le 'pou-
+voir, c'est parce qu'il sentait ce pouvoir faiblir entre
+ses mains; c'est qu'il comprenait qu'après la lutte
+qu'il avait soutenue pendant la durée de son minis-
+tère, la paix qui en était le résultat exigeait de l'ini-
+tiative du pouvoir exécutif une série de travaux
+dont le caractère paraissait peu compatible avec sa
+nature. En un mot, après avoir vaincu, il fallait
+gouverner. Or, en présence de cette nécessité, l'op-
+position comprit l'avantage qu'elle pouvait retirer
+des antécédents et du caractère même du premier
+ministre, et sur quel terrain elle pouvait établir la
+lutte. Certains qu'ils étaient de trouver de l'écho
+dans les esprits, les progressistes profitèrent avec
+habileté de cette situation et crièrent  au Dicta-
+teur.>>>
+
+
+46
+
+
+HISTOIRE DE LA GUERRE
+
+
+Ce mot, qui, au fond, n'avait aucune valeur sé-
+rieuse, remua le pays et trouva à la chambre des
+hommes qui le répétèrent.
+
+
+On avait reproché à Narvaez l'affaire de Séville,
+faite avec l'infortuné Cordova; on alla presque jus-
+qu'à lui faire un crime de la part qu'il avait prise
+aux guerres civiles des dix dernières années!
+
+
+A ces clameurs injustes se joignirent les efforts
+plus judicieux et plus sages, il faut le reconnaître,
+de ceux qui, dans le parlement, se préoccupaient
+moins de politique que de l'impulsion à donner aux
+affaires, et des réformes qu'il fallait incontestable-
+ment apporter à presque tous les services publics.
+
+
+L'ordre et la paix demandaient d'autres idées, des
+faits intérieurs pratiques, le développement de tous
+les intérêts matériels que les troubles civils avaient
+fait reléguer au dernier rang.
+
+
+On exigea du nouveau cabinet un programme de
+la paix. Ce programme, M. Bravo-Murillo l'avait
+déjà conçu, et le 16 janvier il le présentait aux cham-
+bres aux applaudissements de la majorité.
+
+
+M. Bravo-Murillo était bien l'homme qui conve-
+nait à cette situation. Travailleur et intelligent, sans
+cesse préoccupé des améliorations et des réformes
+que nécessitait l'état déplorable de l'administration
+espagnole, il avait quitté le ministère l'année précé-
+dente pour n'avoir pas réussi à faire adopter certaines
+économies. H résolut de refondre entièrement le
+système encore en vigueur pour tout ce qui touchait
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+47
+
+
+aux finances et aux travaux publics. C'est lui qui
+présenta aux Cortès le premier budget régulier et
+complet qu'ait eu l'Espagne.
+
+
+Les réformes, dont il fit la base principale de son
+programme, furent le règlement de la dette, les ré-
+formes administratives, la direction à donner aux
+travaux publics, l'ordre et l'économie dans les finan-
+ces. Il présentait une suite de moyens formant à peu
+près un système complet pour arriver à l'augmenta-
+tion des ressources de l'État.
+
+
+Bientôt la discussion s'engagea. Selon leur tacti-
+que habituelle, les partis, divisés entre eux, se réu-
+nirent dans le dessein de battre le cabinet. Les
+modérés ardents, qui regrettaient Narvaez, ne crai-
+gnirent pas de s'unir aux progressistes de toutes les
+nuances. Le débat fut vif; des interpellations, pres-
+que personnelles, allèrent frapper sur leur banc les
+ministres dont, au milieu d'une séance pleine de tu-
+multe, quelques-uns se troublèrent tout à fait; et
+à propos du projet de loi, présenté par le cabinet sur
+le règlement de la dette, le gouvernement éprouva
+un échec, d'autant plus fâcheux, que le ministère
+conservateur pouvait compter parmi ses adversaires
+des hommes de son propre parti. Il fallait résigner le
+pouvoir ou dissoudre les Cortès. Le 6 avril, parut un
+décret de dissolution, qui fixait les élections au
+10 mai suivant.
+
+
+48
+
+
+HISTOIRE DE LA GUERRE
+
+
+XIV
+
+
+Ces nouvelles élections donnèrent la mesure de
+l'anarchie morale, qui régnait alors dans les partis
+et dans la population elle-même.
+
+
+Faites évidemment dans le sens conservateur et
+plutôt favorables que contraires au cabinet, elles ne
+purent cependant donner au parti conservateur assez
+de force pour soutenir M. Bravo-Murillo, ni armer
+l'opposition d'assez de voix pour que la chute im-
+médiate du ministère fût la conséquence de la dis-
+solution des Cortès.
+
+
+L'opposition progressiste se trouva représentée à
+la chambre par ses chefs principaux, mais elle était
+sans force réelle. L'opposition modérée avait bien
+de la peine à se discipliner sous la conduite de ses
+chefs; enfin, le centre, bien que dévoué au cabinet,
+flottait indécis, sans règle, au gré des événements.
+Tous les partis étaient fractionnés.
+
+
+En présence de cette chambre agitée par tant de
+courants contraires, et où l'on pouvait deviner sur-
+tout l'inexpérience du régime constitutionel et les
+préoccupations individuelles, se trouvait le minis-
+tère, investi de la confiance de la Reine, animé, saus
+doute, d'excellentes intentions, mais placé par la
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+49
+
+
+force même des choses, dans la presque impossibilité
+d'agir.
+
+
+Cette situation était très-clairement entrevue par
+la plupart des hommes politiques; tous en gémis-
+saient, mais aucun n'y voyait de remède. Des
+manifestes aux électeurs avaient appris au pays les
+embarras, les incertitudes en même temps que les
+nécessités auxquelles il fallait promptement obvier.
+
+
+Le pays, en effet, avait des besoins et des intérêts
+qu'il fallait développer et satisfaire; mais là préci-
+sément était la difficulté pour le cabinet, qui ne
+pouvait compter, dans les réformes qu'il était obligé
+d'entreprendre, sur un appui toujours prêt à lui
+manquer.
+
+
+L'une des principales tâches que les circonstances
+imposaient au cabinet, était la révision de la con-
+stitution de 1845. Certes, cette œuvre des conser-
+vateurs était la meilleure dont l'Espagne pût jouir ;
+mais, par un effet de l'empire des traditions, dont
+l'Espagne secouait si difficilement le joug, la consti-
+tution n'était ni appliquée ni respectée. Le régime
+constitutionnel n'était pratiqué par aucun parti de
+façon que les corps constitués délégués de la na-
+tion possédassent la part du pouvoir que ce régime
+leur confiait.
+
+
+Toutes les mesures, toutes les lois, tous les actes
+du gouvernement tendaient, il est vrai, à rehausser la
+dignité, l'autorité de la monarchie, mais au détriment
+des Cortès. Les députés qui devaient voter l'impôt
+
+
+5
+
+
+50
+
+
+HISTOIRE DE LA GUERRE
+
+
+n'étaient pas même appelés à donner leur avis; le
+ministère réglait le budget et levait l'impôt de son
+autorité propre.
+
+
+D'ailleurs, on ne saurait trop le répéter, toutes
+les grandes mesures, le système tributaire, le con-
+cordat, l'organisation provinciale provenaient de
+l'initiative de la couronne, et les Cortès étaient ap-
+pelés seulement à donner des bills d'indemnité.
+Sans examiner si cette situation, en l'état présent
+de l'Espagne, était un bien ou un mal, et s'il en
+pouvait même être autrement, il suffit de dire,
+comme les députés de l'opposition, qu'elle était en
+désaccord complet avec les institutions, et qu'elle
+ne pouvait durer sans de graves inconvénients.
+
+
+La nécessité d'une réforme politique ne faisait
+plus un doute pour tous les esprits sensés; mais
+l'opposition, tout en l'admettant, prétendait cepen-
+dant que le cabinet la cherchait en dehors des modi-
+fications annoncées à la constitution.
+
+
+C'était une folie, disaient les chefs des progres-
+sistes, que de tenter la réforme d'une constitution à
+l'abri de laquelle l'Espagne avait traversé sans se-
+cousse les mauvaises années qui venaient de s'écou-
+ler. Modifier cette base de l'état politique, c'était
+agiter le pays de nouveau.
+
+
+Au 1er décembre 1851, jour de l'ouverture de
+la session, la lutte engagée sur la question de la
+présidence avait pour résultat une première dé-
+faite; M. Martinez de la Rosa, connu par son op-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+51
+
+
+position au cabinet, était élu président des Cortès.
+Les ministres, indécis en face d'une hostilité qui
+paraissait ne devoir cesser qu'à leur chute, son-
+geaient à recourir à de nouvelles élections, lorsque
+le bruit des événements qui avaient lieu à Paris le
+2 décembre arriva à Madrid.
+
+
+Bien que ce grand fait politique fût plutôt de
+nature à servir les idées du ministère qu'à lui in-
+spirer des inquiétudes, M. Bravo-Murillo crut devoir
+profiter de l'agitation que cette nouvelle occasionna
+dans le pays tout entier pour dissoudre les cham-
+bres qui furent convoquées de nouveau pour le
+1er mars 1852. Cette mesure ne put le sauver. L'agi-
+tation devint telle, que la population ne put retenir
+l'expression de ses inquiétudes. Le cabinet en fut
+effrayé; tout lui portait ombrage. Le général Nar-
+vaez, récemment rentré dans sa patrie, fut l'objet
+d'une mesure qui devint fatale pour le cabinet.
+
+
+On voulut, non pas exiler, mais éloigner le géné-
+ral, et on le chargea d'accomplir, à Vienne, une mis-
+sion sans importance, qui ne cachait même pas aux
+yeux du public des intentions sur lesquelles per-
+sonne ne pouvait prendre le change.
+
+
+Ce bel étalage de force, ou plutôt de faiblesse, ne
+devait pas servir le cabinet; le 14 décembre 1852,
+il s'écroula devant une insurrection menaçante, pour
+faire place au cabinet Roncali.
+
+
+Celui-ci dura quatre mois, tomba, et fut remplacé
+par le ministère Lersundi.
+
+
+52
+
+
+HISTOIRE DE LA GUERRE
+
+
+XV
+
+
+Le ministère du général de Lersundi dura cinq
+mois environ, du 14 avril au 19 septembre 1853. A
+ce moment le comte San-Luis fut appelé à former
+une combinaison ministérielle qui pût sauver la situa-
+tion. Le remède fut pire que le mal; et le 17 juillet
+1854, le comte San-Luis donnait sa démission, en
+présence du grand mouvement connu sous le nom
+de révolution de 1854.
+
+
+Quelles étaient les causes de cette révolution? Quel
+était son but? Quelles étaient ses tendances, ses am-
+bitions? C'est ce qu'il convient d'examiner rapide-
+ment, mais avec l'attention due à l'une des périodes
+les plus intéressantes et les plus curieuses de l'his-
+toire de la Péninsule.
+
+
+La défaite du parti conservateur avait été pour
+l'Espagne le signal de nouveaux troubles et de
+crises dont les résultats ne pouvaient être prévus par
+personne. Les ministères qui succédèrent à l'ad-
+ministration du général Narvaez ne purent empê-
+cher la situation de se développer dans ses fatales
+conséquences. En présence d'un pouvoir chaque,
+jour plus avili et plus faible, digue impuissante
+contre les factions, on voyait des partis sans cohé-
+sion, divisés de fait, ne pouvant s'accorder sur les
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+53
+
+
+principes, dirigés par des hommes que séparaient à
+jamais les animosités personnelles les plus vives et
+les passions les plus ardentes.
+
+
+Impuissants à rien fonder, ces partis s'enten-
+daient cependant pour détruire, et le cabinet San-
+Luis, battu par des oppositions formidables, pres-
+que abandonné aussi par son propre parti, se trouva
+bientôt entraîné dans une voie où les gouverne-
+ments ont cru quelquefois trouver leur salut, mais
+qui les a sans cesse conduits à leur perte.
+
+
+Attaqué sans mesure et aussi sans raison, le mi-
+nistère de M. Sartorius s'engagea dans la voie de la
+répression, ou, pour mieux dire, de la compres-
+sion.
+
+
+Depuis deux ans, les généraux étaient régulière-
+ment à la tête de l'opposition dans la chambre el
+des insurrections dans les rues. Cette hostilité, mo
+tivée sans être justifiée, s'accrut encore et prit des
+proportions considérables à l'arrivée aux affaires du
+comte San-Luis. Les antécédents politiques du comte,
+ses idées bien connues, son caractère, les condi-
+tions dans lesquelles il acceptait le gouvernement,
+tout semblait fait pour augmenter encore le diffé-
+rend qui séparait le pouvoir de l'opposition et rendre
+plus profonde la scission qui avait depuis longtemps
+éclaté entre eux.
+
+
+L'hostilité contre le cabinet devint telle qu'elle
+dépassa de beaucoup le but que l'on s'était proposé
+à l'origine, De même que toutes les oppositions que
+
+
+5,
+
+
+54
+
+
+HISTOIRE DE LA GUERRE
+
+
+leurs désirs aveugles empêchent de voir le plus pro-
+chain avenir, une grande partie de l'opposition es-
+pagnole donna alors à l'Espagne le spectacle certai-
+nement le plus affligeant et en même temps le plus
+inattendu, en rompant tout à coup avec des senti-
+ments innés au cœur de tout Espagnol; en un mot,
+en transformant le mouvement d'opposition au mi-
+nistère en une attaque sourde contre la dynastie
+elle-même. Emportée par sa haine pour le gouver-
+nement, croyant se donner plus de chances et ac-
+quérir plus de sympathies, l'opposition créa le mou-
+vement pédriste, c'est-à-dire qu'elle songea à une
+réunion des deux couronnes de Portugal et d'Espagne,
+qui eussent été placées sur la tête de don Pedro
+appelé à Madrid.
+
+
+Des tentatives furent faites dans ce but, et l'une
+des premières eut pour objet de s'assurer le con-
+cours de l'Angleterre, qu'on aurait acheté évidemment
+moyennant d'importants sacrifices. Il faut le dire à
+l'honneur de lord Clarendon, alors premier ministre
+de la reine, cette offre des factions espagnoles fut
+hautement et très-énergiquement refusée. Et peut-
+être est-ce à ce refus d'intervention de la part du
+cabinet anglais qu'il faut attribuer l'échec et la dis-
+parition de l'idée pédriste.
+
+
+Quels étaient donc les griefs de l'opposition, et
+qu'avait-elle tant à reprocher au cabinet pour l'at-
+taquer avec cette ténacité passionnée? A vrai dire,
+ces griefs étaient vagues, et s'il eût fallu les dé-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+55
+
+
+nombrer à la tribune, plus d'un progressiste se fût
+bientôt trouvé embarrassé.
+
+
+Ce qu'on formulait d'une manière générale sans
+rien préciser, c'étaient des plaintes sur la manière
+dont le cabinet appliquait le régime constitutionnel,
+sur les abus de pouvoir dont il se rendait coupable,
+sur l'absorption qu'il faisait chaque jour plus com-
+plète de l'autorité.
+
+
+XVI
+
+
+Le cabinet San-Luis, en acceptant la tâche si
+rude de ramener le régime constitutionnel à ses
+véritables conditions d'existence, à son état normal,
+et d'abolir des abus depuis si longtemps invétérés,
+avait hérité de cette impérieuse nécessité d'opérer
+des réformes, ce qui le conduisait à sa chute, ou de
+laisser les choses dans le statu quo, ce qui hâtait
+sa fin et justifiait alors l'opposition des partis. Les
+circonstances ne lui permirent pas d'hésiter long-
+temps. Il vit son devoir dans la résistance et, au ris-
+que de tomber dans la lutte, il engagea le combat.
+Après s'être délivré de tout contrôle en renvoyant
+les chambres, il songea à se débarrasser des chefs du
+mouvement, ainsi que des hommes considérables qui
+pouvaient gêner son action. Vers le milieu de jan-
+vier, il exilait les généraux O'Donnell, Concha, In-
+
+
+56
+
+
+HISTOIRE DE LA GUERRE
+
+
+fante, Armero, Serrano, etc., etc. Plusieurs obéi-
+rent, d'autres résistèrent, notamment le général
+O'Donnell, qui resta à Madrid
+
+
+De pareilles mesures devaient rendre, dans un
+temps rapproché, toute transaction impossible. Par
+une conséquence naturelle et fatale, au fur et à me-
+sure qu'ils se produisaient, les actes du ministère,
+loin de lui servir, ne faisaient que le compromettre
+et l'engager de plus en plus dans la politique qu'il
+avait adoptée. Non-seulement les généraux avaient
+été exilés ou emprisonnés, mais des hommes poli-
+tiques, dont quelques-uns appartenaient aux anciens
+cabinets, furent arrêtés. Les conservateurs les plus
+acharnés dans leur opposition se cachaient. On com-
+prend que, sous cette ère de terreur ministérielle,
+la presse ne fut pas épargnée; des journalistes furent
+arrêtés. La discussion fut interdite sur tous les su-
+jets; rien ne pouvait être examiné ni, à plus forte
+raison, commenté. Enfin, les partis, réduits au si-
+lence, n'en ressentaient que plus vivement les amer-
+tumes d'une pareille situation.
+
+
+Elle ne fut pas de longue durée. Le 20 février 1854,
+une révolte militaire éclatait à Saragosse. Elle fut
+bientôt étouffée, mais bien qu'elle n'eût rien de
+politique (il s'agissait d'un faible intérêt dans le ser-
+vice), bien qu'on lui eût prêté à tort des ramifica-
+tions pédristes, elle n'en eut pas moins pour effet d'ê-
+tre en quelque sorte le signal qu'on semblait attendre.
+Quelque temps après, vers la fin de mars, des
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+87
+
+
+agitations, sans caractère politique prononcé, eurent
+lieu à Barcelone et dans toute la Catalogne; sous des
+prétextes plus ou moins fondés, les classes ouvrières
+abandonnèrent leurs travaux et essayèrent des com-
+mencements d'insurrection que le gouvernement put
+également réprimer avec assez de promptitude et
+d'énergie; mais ces victoires partielles qui auraient
+pu, qui auraient dû, tout naturellement, donner de
+la force au cabinet et le consolider, lui nuisaient,
+en quelque sorte, plus qu'elles ne servaient ses in-
+térêts. Elles produisaient sur l'opinion un effet tout
+contraire à celui qu'on aurait dû logiquement en
+attendre.
+
+
+Cette anomalie déplorable tenait à l'opinion même
+qu'on avait du cabinet, au caractère personnel
+de ses membres, à la nature des griefs qu'on leur
+reprochait. Plusieurs d'entre eux étaient particuliè-
+rement antipathiques à la nation, qui les accusait
+d'abus de pouvoir à leur profit personnel. Ainsi
+le cabinet se trouvait réduit à l'isolement dans un
+moment où l'appui d'un parti et surtout de l'opi-
+nion lui était nécessaire. Enfin, il se trouvait ré-
+duit à la situation même qui avait emporté M. Bravo-
+Murillo, mais dans des circonstances beaucoup plus
+graves.
+
+
+Une dernière mesure, amenée par des nécessités
+urgentes, acheva de lui aliéner l'esprit public.
+Pressé par des besoins d'argent, le cabinet San-
+Luis se trouva réduit à émettre une sorte d'emprunt
+
+
+58
+
+
+HISTOIRE DE LA GUERRE
+
+
+forcé sous la forme de perception anticipée d'un
+semestre de contributions.
+
+
+Pendant que le ministère, fatalement entraîné à
+sa perte, accumulait contre lui les haines les plus
+vives, le général O'Donnell, caché depuis longtemps
+à Madrid, songea à mettre un terme à cette situation
+qui menaçait l'Espagne des plus terribles et des plus
+immédiates catastrophes.
+
+
+XVII
+
+
+Nous avons à raconter maintenant l'un des évé-
+nements les plus considérables en eux-mêmes, les
+plus féconds et les plus extraordinaires, tant par
+la valeur des hommes qui les dirigent que par les
+faits particuliers qu'ils produisent, et dont l'histoire
+de l'Espagne fasse mention : la révolution de 1854,
+dont l'affaire de Vicalvaro fut l'épopée.
+
+
+Cette période a été diversement jugée; il en est
+de même des événements politiques de tous les
+pays. Les partis ne jugent jamais qu'au travers de
+leurs propres passions; et s'ils écrivent l'histoire,
+c'est à leur profit. Soyons plus impartiaux et plus
+justes, et à la distance où nous sommes du grand évé-
+nement qui nous occupe, dégagés de tout intérêt
+comme de toute influence, recherchons la vérité, les
+nécessités de cette situation, Un examen attentif
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+59
+
+
+peut seul dévoiler les mobiles d'actes que l'histoire
+n'a pas le droit de calomnier.
+
+
+Lorsque, trois ans auparavant, Narvaez avait quitté
+l'Espagne en abandonnant le pouvoir, la situation
+était très-tendue. Beaucoup de réformes étaient
+encore à l'état de projet, bien que tout le monde en
+sentît la nécessité, d'accord sur ce point avec le gou-
+vernement; la régularisation du régime constitu-
+tionnel n'était point aussi complète que l'eussent
+désiré les hommes qui avaient consacré à cette
+grande tâche leur intelligence et leur vie. Cepen-
+dant le pays jouissait d'un calme apparent, bien doux
+après tant de tempêtes; et l'avenir paraissait inspi-
+rer, non sans raison, une confiance dont profitaient
+déjà les intérêts généraux.
+
+
+Le départ de Narvaez et les embarras qu'il fit naî-
+tre, les fautes et les incertitudes de ses successeurs,
+le manque de principe chez les uns, la faiblesse de
+caractère chez les autres; chez tous, enfin, ce senti-
+ment intime de difficultés qui paraissaient impossi-
+bles à surmonter, toutes ces causes enhardirent
+l'opposition, qui parvint non à organiser, mais à en-
+traver la marche du gouvernement, à lui créer mille
+embarras, et, finalement, à le réduire à l'impossi-
+bilité absolue d'administrer.
+
+
+Pendant un certain temps le mérite personnel de
+M. Bravo-Murillo, l'honnêteté et la résolution de sa
+politique, la justesse de certaines de ses idées main-
+tinrent la situation. Après qu'il eut été enlevé, on
+
+
+60
+
+
+HISTOIRE DE LA GUERRE
+
+
+peut le dire, par la force des choses, il sembla que
+tout croulait derrière lui.
+
+
+Les cabinets Roncali et de Lersundi ne furent que
+les pâles images d'une représentation ministérielle
+sans portée, incapable de dominer les événements
+ou les hommes; permettant de tout faire, faute de
+savoir dans quelle voie marcher, et laissant se perdre
+peu à peu, non-seulement le prestige dû au gou-
+vernement, mais aussi le respect et même le senti-
+ment de l'autorité royale.
+
+
+L'arrivée aux affaires du comte de San-Luis avait
+mis un temps d'arrêt à ce mouvement de désorga-
+nisation qui prenait, depuis quelque temps surtout,
+une extension considérable. Peut-être à ce moment
+était-il temps encore d'épargner à la Péninsule de
+nouveaux désastres, mais il eût fallu pour cela un
+grand homme, et celui que l'Espagne attendait ne
+devait pas se révéler encore.
+
+
+Le comte San-Luis était un homme de mérite,
+mais troublé par la difficulté de sa situation, il se
+trompa sur les moyens à employer pour y mettre un
+terme.
+
+
+Le général O'Donnell avait refusé d'obtempérer
+aux ordres d'exil lancés contre lui, et il vivait caché
+à Madrid, se préparant, dans la retraite, la solitude
+et l'étude, aux grandes destinées que lui réservait
+l'avenir.
+
+
+Le sentiment du danger que couraitla monarchie,
+en même temps que celui de la nécessité d'impor-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+61
+
+
+tantes modifications dans la pratique du régime
+constitutionnel, avaient si profondément pénétré
+dans la plupart des esprits politiques, qu'une sorte
+de conspiration s'établit, comme d'elle-même, dans
+tous les rangs de la société. D'abord latente et ina-
+perçue, vague dans ses aspirations, sans projets
+comme sans moyens d'action, elle ne tarda pas à se
+condenser et à prendre corps, à apparaître enfin
+nette, claire, vivante avec ses besoins, sa politique
+et ses ambitions. Tout le monde conspirait, et à l'ex-
+ception d'un petit noyau d'hommes, formant une in-
+fime minorité, chacun ne songeait qu'à modifier les
+errements constitutionnels, renverser le cabinet et
+donner à l'Espagne une représentation plus intelli-
+gente et plus complète de ses besoins moraux et
+matériels. Pour ces hommes, comme d'ailleurs pour
+tous les Espagnols, la personne de la Reine et la
+dynastie royale ne pouvaient être mises en question,
+et le mouvement pédriste, qui profita de l'insurrec-
+tion pour se produire de nouveau, ne tarda pas à
+disparaître en présence du peu de sympathie qu'il
+avait rencontré.
+
+
+On était arrivé au milieu de juin 1854; il ré-
+gnait en Espagne comme une sorte de terreur, que
+le cabinet, dans l'emportement de sa propre action,
+ne savait plus par quels moyens calmer et que ses
+mesures augmentaient chaque jour. On s'attendait
+à un coup d'État. Déjà les commentaires les plus
+effrayants couraient sur les projets du cabinet, on
+
+
+6
+
+
+62
+
+
+HISTOIRE DE LA GUERRE
+
+
+divulguait ses résolutions, on prévoyait ses actes, on
+lui prêtait des pensées qui, à coup sûr, n'étaient pas
+les siennes; mais la terreur expliquait ses craintes,
+si elle ne les justifiait pas.
+
+
+Les habitants de Madrid consternés, attendaient,
+sans essayer de s'y soustraire, les effets des mesures
+du gouvernement et du coup d'État qui chaque ma-
+tin devait éclater.
+
+
+Le général O'Donnell comprit que le moment était
+arrivé et que l'heure promise à chaque homme par
+la destinée venait de sonner pour lui.
+
+
+De la solitude où il vivait, il avait noué des rela-
+tions, non point avec les progressistes ou les con-
+servateurs, qui avaient appris à le connaître, mais avec
+tous ceux qui, pour quelque motif que ce fût, étaient
+en hostilité avec le gouvernement. Il fit mieux, il
+alla chercher jusque dans le gouvernement lui-même
+des partisans actifs; le général Dulce, directeur de
+la cavalerie de l'armée, qui, ainsi qu'il le déclara
+quelque temps après, ne voulait pas se rendre cou-
+pable du crime de lèse-nation, lui promit son con-
+cours et celui du corps qu'il commandait.
+
+
+Le moment approchait; déjà, le 13 juin, le général
+était sorti de sa retraite, et, conformément aux in-
+structions qu'il avait données à ses nombreux par-
+tisans, il se rendait à l'une des portes de Madrid,
+où il comptait voir se réunir et se placer sous ses
+ordres une partie importante de l'armée. Un mal-
+entendu fit échouer le plan ce jour-là. On fixa à
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+63
+
+
+quelques jours plus tard le moment précis où devait
+éclater le mouvement, et des mesures efficaces fu-
+rent prises pour que le contre-temps du 13 ne se
+renouvelât pas.
+
+
+Ce fut le 28 juin 1854 qu'éclata la révolution.
+Dès le matin, le général Dulce rompt nettement
+avec le ministère, sort de la caserne avec sa cavale-
+rie, et court se ranger aux portes de Madrid, où l'at-
+tendait O'Donnell avec d'autres généraux. Là, au
+milieu de l'enthousiasme des troupes et des encou-
+ragements sympathiques de la population, aux cris
+répétés de: Vive la Reine Isabelle! le général
+O'Donnell, chef de la révolution, est investi des
+pouvoirs les plus étendus.
+
+
+XVIII
+
+
+Le général O'Donnell, homme d'une taille élan-
+cée, à la physionomie spirituelle, aux yeux hardis et
+intelligents, avait alors quarante-six ans. Lieutenant
+général dès l'âge de trente ans, il avait conquis ses
+grades en combattant pour son pays contre les car-
+listes. Le titre de comte de Lucena avait été la ré-
+compense de l'intelligence et de de la bravoure qu'il
+avait déployées lorsqu'il battit Cabrera et le força à
+lever le siége de la ville de ce nom. Mais ses talents
+militaires, sur lesquels nous nous sommes étendus,
+la supériorité qui le distinguait de ses collègues de
+
+
+64
+
+
+HISTOIRE DE LA GUERRE
+
+
+l'armée ne lui eussent pas suffi à jouer un rôle poli-
+tique aussi important. Il était plus qu'un général de
+premier ordre, il était un homme d'État.
+
+
+Comme tous les esprits d'élite, O'Donnell avait
+longtemps étudié les mœurs, les instincts, les be-
+soins et les habitudes de son pays avant d'embrasser
+une opinion dont les événements rapides et bizarres
+rendaient le choix difficile.
+
+
+D'un esprit ferme autant que juste, désireux d'ac-
+quérir une grande position pour laquelle il se sentait
+fait, et qui le mît à même de rendre à sa Reine et à
+sa patrie d'importants services, le général O'Donnell
+avait cherché sa voie au milieu de la confusion et des
+déchirements inséparables de toute révolution. Mais
+son bon sens et la force de son caractère ne pou-
+vaient le laisser longtemps indécis. Dévoué, comme
+tout noble Espagnol, à son pays et à la monarchie,
+plein d'amour pour le peuple et de respect pour la
+jeune Reine, dont la situation, souvent si terrible,
+inspirait le plus sympathique intérêt, il ne tarda pas
+à reconnaître que sa véritable place était dans les
+rangs des conservateurs, et son émigration, en 1840,
+lorsque le général Espartero s'empara du pouvoir
+qu'il livrait aux progressistes, fut une preuve offi-
+cielle qu'O'Donnell donnait à l'Espagne de ses sen-
+timents politiques. Depuis il s'était borné à faire
+une opposition loyale aux ministères qui succédè-
+rent à Narvaez; nous l'avons dit, il étudiait les évé-
+nements et attendait que son heure fût venue,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+65
+
+
+Le mouvement actuel la faisait naître; il en pro-
+fita habilement et prit la direction de cette insur-
+rection qu'il voulait faire tourner au profit de l'Es-
+pagne et de la dynastie d'Isabelle.
+
+
+Tel était en effet le mobile des hommes qui ne
+craignaient pas d'assumer sur leur tête la responsa-
+bilité du nom de conspirateurs pour délivrer leur
+pays d'un ministère détesté.
+
+
+Il n'y avait pas à se tromper sur le véritable sens
+de la révolution de 1854: ce que voulaient O'Donnell
+et les généraux Dulce, Echague, Ros de Olano, Prim,
+leurs amis, et les hommes politiques engagés avec
+eux dans cette grande partie, c'était le renvoi du
+cabinet et le rétablissement du régime loyal de la
+constitution. Ce qu'ils voulaient également avec
+ardeur, c'était écarter du trône des influences com-
+promettantes pour la dynastie et qui, depuis long-
+temps, cherchaient à s'emparer de l'esprit de la
+jeune Reine et à l'entraîner à sa ruine par un retour
+aux pratiques et aux erreurs du régime absolu.
+
+
+Le premier acte d'O'Donnell, qui prouve jusqu'à
+l'évidence la loyauté de son âme, fut d'écrire à la
+Reine et de mettre au pied du trône ses humbles
+observations sur les dangers que courait la monar-
+chie. Il est très-concevable qu'Isabelle II, alors
+même qu'elle eût compris la justesse des raisons du
+général, ne pouvait paraître abandonner son gouver-
+nement ni briser son ministère devant ce qu'on ap-
+pelait une émeute. Conseillée, d'ailleurs, et influen-
+
+
+6.
+
+
+66
+
+
+HISTOIRE DE LA GUERRE
+
+
+cée par ses ministres et la Camarilla, elle refusa d'é-
+couter les amis du général. De son côté, le minis-
+tère, trop convaincu de son impopularité et des
+succès qui attendaient O'Donnell, essaya une trans-
+action. Le comte San-Luis fit faire au général des
+propositions qui consistaient à lui rendre sa position
+militaire s'il consentait à livrer le général Dulce;
+cette offre fut naturellement refusée. Dès lors il n'y
+avait plus qu'à combattre, et de part et d'autre on
+se prépara à une lutte dont l'issue ne pouvait être
+douteuse,
+
+
+XIX
+
+
+C'est dans la plaine de Vicalvaro, petit village
+près Madrid, qu'eut lieu le combat qui décida des
+destinées de l'Espagne. Le 30 juin, les troupes
+d'O'Donnell mirent en déroute, aux cris de: Vive la
+Reine! que poussaient les deux camps, les soldats du
+parti ministériel, après une lutte qui dura une
+partie de la journée.
+
+
+Si cette bataille exerça une immense influence
+sur les événements et les destinées de la plupart des
+hommes politiques de cette période, ce n'est pas
+que les vicalvaristes (c'est le nom qu'on a donné de-
+puis à O'Donnell et aux généraux qui combattirent
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+67
+
+
+avec lui et, par extension, à ceux qui se hâtèrent de
+se ranger sous la bannière du vainqueur), ce n'est
+pas, disons-nous, que les vicalvaristes eussent rem-
+porté précisément une victoire décisive. Les troupes
+du gouvernement se retirèrent en bon ordre et au-
+raient pu recommencer le combat le lendemain,
+mais il leur eût fallu pour cela des généraux plus
+expérimentés et plus hardis, une meilleure cause à
+servir et surtout un adversaire moins adoré de ses
+troupes, moins illustre, et qui ne fût pas, même aux
+yeux de ses ennemis politiques, l'homme prédestiné
+auquel il semblait que rien ne pût résister.
+
+
+La Reine n'avait pas répondu à la lettre du géné-
+ral O'Donnell. Celui-ci comprit que ses intentions
+pouvaient être suspectées, que son pays pouvait se
+tromper sur ses actes; et cela n'avait rien que de trop
+naturel, malheureusement, si l'on songe à la quan-
+tité d'insurrections qu'avait vues l'Espagne depuis
+quinze ans. Il fallait éviter à tout prix un malen-
+tendu dont les conséquences pouvaient être fatales
+pour tout le monde. Le 7 juillet, il publia un mani-
+feste, dit du Mançanarès, du lieu où il était daté.
+Dans ce document historique, le général O'Don-
+nell exposait les vues d'un homme d'État et les sen-
+timents d'un patriote éclairé, plein d'amour pour la
+Reine, aussi éloigné du système compressif que des
+théories progressistes.
+
+
+Il développait, dans un habile exposé, les plans
+d'administration intérieure qu'il avait médités :
+
+
+68
+
+
+HISTOIRE DE LA GUERRE
+
+
+<<< Nous voulons, disait-il, la conservation du
+)) trône sans la Camarilla qui le déshonore; la pra-
+>> tique rigoureuse des lois fondamentales; l'amélio-
+
+
+1)
+
+
+ration des lois d'élections etde la presse; la réduc-
+)) tion des impôts fondée sur une stricte économie;
+)) la réforme de la centralisation de façon à donner
+
+
+>>
+
+
+))
+
+
+))
+
+
+aux peuples l'indépendance locale nécessaire pour
+la gestion de tous leurs intérêts, et, comme garan-
+tie de tout cela, nous voulons l'établissement, sur
+de solides bases, de la milice nationale ! >>>
+
+
+Ce programme, où les idées conservatrices étaient
+habilement et judicieusement combinées avec les sa-
+tisfactions légitimes auxquelles le peuple avait droit,
+était de nature à plaire à tous les partis dans une
+juste mesure. Ce fut ce qui arriva. Les conserva-
+teurs, sûrs, d'ailleurs, du général, dont les antécé-
+dents et le caractère donnaient les plus précieuses
+garanties, éprouvèrent une vive satisfaction de voir
+dans le programme des vicalvaristes l'expression de
+leur dévouement à la monarchie et la promesse
+d'une économie dont les finances avaient le plus ur-
+gent besoin, ainsi que l'engagement pris par les
+vainqueurs d'observer avec une exactitude rigou-
+reuse les conditions du pacte fondamental. De leur
+côté, les progressistes modérés, les seuls auxquels
+s'adressait O'Donnell, reconnurent qu'il faisait beau-
+coup pour la liberté, tout en faisant beaucoup pour
+l'ordre, en promettant une amélioration sur les
+lois électorales et de la presse et la formation d'une
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+69
+
+
+garde nationale. En un mot, ce programme, ainsi qu'il
+a été appelé depuis, était celui de l'Union libérale.
+Le mot fut consacré.
+
+
+Bien que le résultat ne fût pas mis en doute par
+le pays, la lutte n'était pas terminée. Le combat
+de Vicalvaro, le programme de Mançanarès avaient
+remué l'Espagne tout entière. Le ministère, sen-
+tant le pouvoir lui échapper, voulut tenter un effort
+suprême. Il organisa la défense sur de vastes propor-
+tions. Le général Blaser, ministre de la guerre, se mit
+lui-même à la tête d'une colonne expéditionnaire.
+Il battit la campagne, ne trouvant partout que des
+résistances imprévues et la révolte dans chaque loca-
+lité.
+
+
+Si l'on était en pleine insurrection dans les pro-
+vinces, Madrid ne restait pas en arrière du mouve-
+ment; c'était surtout dans la capitale que le cabinet
+San-Luis était détesté. Là, au milieu de l'efferves-
+cence produite par les mesures ministérielles, les
+arrestations et l'exil des adversaires du gouverne-
+ment, se noua l'une des conspirations les plus for-
+midables dont l'Espagne ait gardé le souvenir.
+
+
+Le ministère, accablé sous le poids de l'animad-
+version publique, joignait aux griefs qu'on avait à
+lui reprocher le ridicule, qui tue aussi bien en Espa-
+gne qu'en France. Il faisait publier, plusieurs fois
+par jour, des proclamations et des bulletins relatifs
+aux succès que remportait le général Blaser, tandis
+qu'il était constant que le Ministre de la guerre n'a-
+
+
+70
+
+
+HISTOIRE DE LA GUERRE
+
+
+vait pas même rencontré les troupes des vicalvaris-
+tes, pas plus, d'ailleurs, que les insurgés des villes,
+qu'il tournait pour n'avoir pas à les traverser.
+
+
+La population de Madrid, émue, présentait une
+physionomie menaçante. Les visages inquiets et effa-
+rés des bourgeois, les sombres regards que de temps
+en temps on surprenait dans les yeux des hommes
+du peuple, l'effroi des femmes, les excitations des
+meneurs, la fermeture des magasins et la cessation
+presque absolue des affaires, tout indiquait que le mou-
+vement de la province allait réagir dans la capitale,
+où il devait être autrement important et terrible. Les
+15 et 16 juillet, on apprit à Madrid la révolte de nou-
+veaux corps de troupes; ces événements laissaient peu
+à peu le ministère sans défenseur; ils produisirent
+parmi la population madrilène une sensation im-
+mense, et eurent pour effet immédiat de provoquer
+la démission des ministres et par conséquent la dis-
+solution du gouvernement. Le 17 juillet, au matin,
+et comme si le peuple de Madrid n'eût attendu que
+cette circonstance, l'insurrection éclata. Il y avait
+course de taureaux ce jour-là. Ce fut en sortant de
+cette fête que le peuple, ou plutôt le parti démago-
+gique, courut aux armes et préluda par le pillage et
+l'incendie à ces saturnales révolutionnaires qui sont,
+en tout pays, ses seules manifestations politiques.
+Les hôtels des ministres furent pillés; celui même
+de la reine Christine ne fut pas épargné.
+
+
+Pendant que la masse des conjurés s'acquittait
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+71
+
+
+de cette partie de la besogne obligée en temps de
+révolution, d'autres, les directeurs de ce mouvement,
+les prétendus politiques, cherchaient à organiser
+une administration, un gouvernement démocratique,
+et formaient une junte à la maison de ville.
+
+
+Dès lors il y eut, en quelque sorte, deux gouverne-
+ments à Madrid. Celui de la junte ne se crut point
+de taille à traiter d'égal à égal avec le gouverne-
+ment de la Reine; il crut arriver à quelque fusion
+en faisant une démarche à laquelle il cherchait à
+donner une allure menaçante et révolutionnaire.
+Une députation fut chargée de réclamer du palais
+un changement radical dans l'État, c'est-à-dire des
+modifications équivalentes, de la part de Sa Majesté,
+à une abdication.
+
+
+La reine Isabelle, quoiqu'alors fort jeune, possé-
+dait, avec un esprit très-sûr, un caractère d'une fer-
+meté extraordinaire. Malgré des dangers réels, la
+jeune Reine, soutenue par la foi, voulut résister et
+tenir tête à l'orage. Abandonnée par le cabinet, elle
+chargea le colonel Cordova de former, dans le plus
+bref délai, une administration; et dans tous les cas,
+elle l'investit de ses pleins pouvoirs pour résister à
+l'émeute et organiser un gouvernement dans la nuit
+même. Cordova réussit à composer un ministère dit
+des Quarante heures, parce qu'il ne dura en effet
+que ce peu de temps. C'était, d'ailleurs, un cabinet
+de coalition qui ne pouvait rien faire dans ces graves
+circonstances. Il faut cependant lui rendre cette
+
+
+72
+
+
+HISTOIRE DE LA GUERRE
+
+
+justice qu'il était animé d'excellentes intentions. II
+décréta de fort bonnes mesures. Des ordonnances,
+affichées, le 18 juillet, sur tous les murs de Madrid,
+annonçaient aux Madrilènes la convocation des Cortès
+dans un délai rapproché, modifiaient le régime en
+vigueur à l'égard de la presse, et promettaient des
+réformes réclamées par toutes les opinions. Enfin le
+cabinet Cordova nommait au poste important de gou-
+verneur de Madrid le général San-Miguel, dont les
+antécédents libéraux modérés, le dévouement che-
+valeresque aux deux Reines, et le caractère, d'une
+honorabilité parfaite, étaient appréciés dans tous les
+partis, et à qui ces qualités avaient valu la plus
+complète et la plus pure popularité dont un citoyen
+puisse s'honorer.
+
+
+Ces mesures ne calmèrent pas l'opinion publique.
+Dans la nuit du 18 au 19 juillet, Madrid se couvrait
+de barricades; et le 19, à la pointe du jour, on se
+battait dans la plupart des quartiers de la ville.
+
+
+Pourquoi se battait-on? Quels étaient les cris des
+insurgés? Quelle cause prétendaient-ils servir? Sous
+quelle bannière étaient-ils rangés ? Au nom de quels
+principes avaient-ils pris les armes? C'est ce que le
+ministère des Quarante heures ignorait absolument;
+rien ne l'étonnait plus que cette formidable émeute
+se développant d'heure en heure, au fur et à mesure
+que lui-même croyait faire les plus larges conces-
+sions.
+
+
+La Reine comprenait mieux que ses ministres le
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+73
+
+
+parti qu'il y avait à prendre en de pareilles circon-
+stances. Elle avait, d'ailleurs, une trop véritable in-
+telligence des partis, pour ne pas avoir deviné, dès
+le premier jour de la lutte, les résultats d'un mouve-
+ment qu'elle avait étudié, et dont sa situation de
+Reine constitutionnelle l'avait empêché de prévenir
+l'explosion. Elle provoqua, dans son palais même,
+une réunion des Ministres. La discussion fut très-
+vive; des conseils timides ou inefficaces se produi-
+sirent, qui ne devaient aboutir qu'à des mécomptes
+ou à des catastrophes; la Reine Isabelle, inspirée par
+les nécessités de la situation que son esprit viril ap-
+préciait avec une grande justesse, demanda à ses
+ministres de désigner leurs successeurs, puis qu'eux-
+mêmes étaient et se sentaient impuissants à calmer
+la population.
+
+
+Troublés par la grandeur des événements, aucun
+d'eux n'eut le courage d'indiquer à sa Reine, à cette
+jeune femme qui risquait sa couronne et sa vie, des
+hommes assez puissants ou assez populaires aux-
+quels elle pût remettre avec confiance le lourd
+fardeau des affaires publiques!
+
+
+A cette sorte de défection morale qui eût abattu
+un esprit moins sûr de lui-même, la Reine Isabelle
+répondit par un coup politique. Elle déclara qu'elle
+remettait le sort de l'empire et sa propre destinée
+à ceux-là mêmes qui paraissaient ses adversaires et
+de l'un desquels, dans tous les cas, elle devait être
+sûre, aux généraux Espartero et O'Donnell. Des
+
+
+7
+
+
+74
+
+
+HISTOIRE DE LA GUERRE
+
+
+courriers furent immédiatement expédiés aux deux
+généraux, et la Reine leva la séance en disant à ses
+ministres qu'elle comptait sur leur concours jusqu'à
+l'arrivée des deux hommes à qui désormais incom-
+bait la tâche de tirer l'Espagne du gouffre où elle
+était plongée. Le général Cordova et ses collègues
+promirent à leur souveraine de remplir cet orageux
+intérim. Mais un souffle de l'insurrection les ren-
+versa malgré leur résistance, et le lendemain 20
+juillet, la Reine d'Espagne se trouva à la merci de la
+révolution triomphante.
+
+
+Ce fut un moment critique où, il faut le dire,
+la dynastie d'Isabelle parut un instant compromise.
+Le trône tremblait sous les coups du peuple en fu-
+reur. Dans cette extrémité, Isabelle II conserva cette
+raison et cette décision qui avaient déjà inspiré les
+actes précédents. Connaissant la haute probité poli-
+tique du général San-Miguel, gouverneur de Madrid,
+et son dévouement à sa personne, elle n'hésita pas
+à remettre entre ses mains ses destinées et celles de
+l'Espagne; elle se plaça sous sa protection.
+
+
+Le général, déjà gouverneur et président de la
+junte révolutionnaire, fut successivement nommé
+capitaine général de l'armée, ministre de la guerre
+et de l'intérieur; en un mot, il fut investi des pou-
+voirs les plus étendus, qui ne devaient prendre fin
+qu'à l'arrivée des ministres réguliers choisis par la
+Reine.
+
+
+Cette résolution d'Isabelle était très-habile. Elle
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+75
+
+
+avait en effet pour conséquence immédiate d'enlever
+tout prétexte à l'émeute, en nommant le vénérable
+général San-Miguel, qui, par son caractère, ses
+opinions, ses antécédents, inspirait à tous la plus
+grande confiance. Aussi cette nomination imprima-
+t-elle une face nouvelle à la situation. Les révo-
+lutionnaires, troublés par cette manœuvre inat-
+tendue, se livrèrent à des violences inouïes; des
+exécutions eurent lieu sur les places publiques! en
+un mot, le désordre fut au comble. Mais le général,
+s'inspirant de sa situation, en arrêta le cours avec
+une énergie telle, qu'elle mit la discorde parmi les
+insurgés; ceux-ci se divisèrent en deux partis, et
+deux juntes se formèrent: l'une modérée, qui suivit
+le général dans la voie réparatrice où il s'engageait
+résolûment; l'autre, au contraire, qui essaya d'en-
+traîner la population et de la compromettre sans
+retour dans des désordres d'où devait sortir la plus
+terrible anarchie. Il y eut entre ces deux pouvoirs,
+révolutionnaires à des titres différents, une rivalité
+d'un instant bientôt suivie d'une fusion provoquée
+par les insensés qui rêvaient la république, et qui
+peu à peu se voyaient abandonnés de tous. La fusion
+eut lieu, et dans cette réunion où déja s'installait
+la discorde, le parti de l'ordre parvint à dominer
+par l'accession de M. Pacheco, ancien ministre pro-
+gressiste, mais dévoué à la dynastie. C'était tout ce
+que voulait le général San-Miguel, qui sentait bien
+que sa politique ne pouvait avoir d'autre but que
+
+
+76
+
+
+HISTOIRE DE LA GUERRE
+
+
+de gagner du temps et permettre à Espartero et
+à O'Donnell de prendre la direction des affaires.
+
+
+XX
+
+
+Par un bizarre effet des révolutions que toute la
+prudence humaine est impuissante à prévoir, се
+même homme qui, en 1843, avait quitté le pouvoir,
+à la suite d'un pronunciamiento, revenait encore au
+premier rang par le souffle d'un autre pronuncia-
+miento, et se trouvait de nouveau l'un des arbitres
+du sort de ses concitoyens, à côté de celui qui, qua-
+torze ans auparavant, à Valence, était son adversaire,
+et avait suivi dans l'exil la Reine Christine.
+
+
+Espartero, depuis plusieurs années, s'était re-
+tiré dans son habitation de Logrono, passant dans
+les loisirs d'une vie calme des jours qu'il pouvait
+encore employer au service de sa patrie. Du sein de
+sa retraite il avait, comme O'Donnell, suivi d'un œil
+attentif le mouvement politique de son pays et com-
+pris qu'il allait avoir de nouveau un rôle à remplir.
+Aux premières nouvelles de la révolution, il avait
+quitté sa spendide existence, et le message de la
+Reine le trouva à Saragosse à la tête de la junte ré-
+volutionnaire de cette cité.
+
+
+Le duc de la Victoire ne fut point surpris par ce
+ message; il l'attendait et s'y était préparé. Il ré-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+77
+
+
+pondit en sujet fidèle et en premier serviteur à
+l'appel de sa souveraine, envoya à Madrid son
+lieutenant, le général Allende Salazar, et le chargea
+d'expliquer sa conduite à la Reine. Le général de-
+vait remplir une autre mission près de la junte.
+Malgré l'obscurité des protestations, des désirs et
+des volontés même d'Espartero, la Reine fut obligée
+de tout accepter, certaine qu'elle était du peu d'a-
+venir promis à la cause soutenue par le général, qui
+lui-même, subissait nécessairement l'influence des
+partis groupés autour de son nom.
+
+
+Il n'en fut pas de même des membres de la junte,
+qui, prévoyant la faiblesse d'Espartero, se refusè-
+rent à toute proposition de sa part. Ce refus des
+révolutionnaires d'entrer en arrangement avec
+celui qui pouvait à bon droit se considérer comme
+leur chef frappa le général Salazar, qui revint en
+toute hâte vers son maître pour l'instruire de l'ac-
+ceptation de la Reine et de l'état des esprits à
+son égard. Espartero dès lors n'hésita plus. II
+se trouva en face d'un peuple dévoué à la dynastie
+régnante et déposa toute autre idée que celles qui
+lui étaient permises par sa situation, son origine
+et ses talents; il comprit que pour vouloir aspi-
+rer trop haut, il risquerait de tout perdre, et,
+précipitant ses résolutions aussi hardiment qu'il
+mettait habituellement de lenteur à agir, il arriva à
+Madrid le 28 juillet.
+
+
+A peine arrivé, dès les premiers instants, il ac-
+
+
+7.]
+
+
+78
+
+
+HISTOIRE DE LA GUERRE
+
+
+quit l'assurance que les temps de sa régence n'étaient
+plus; que d'autres plus énergiques, plus forts, plus
+intelligents, s'étaient emparés de l'opinion publique
+et de la confiance de la Reine; qu'enfin il ne pouvait
+rien être sans les vicalvaristes, dont les talents, l'in-
+fluence et la popularité avaient absorbé les sympathies
+de la nation. Il comprit qu'une fusion entre eux et
+lui était inévitable s'il tenait au pouvoir, et qu'en
+dehors d'O'Donnell et des libéraux modérés, il n'e-
+tait pas d'éléments possibles avec lesquels on pût
+former une administration Espartériste. Il se dé-
+cida, et, conformément à la politique de la Reine, il
+adressa un courrier à O'Donnell, alors en Andalou-
+sie, d'où il surveillait tranquillement les événements
+en homme certain de son avenir. En attendant l'ar-
+rivée du général O'Donnell, Espartero composa le
+ministère dit du 30 juillet, ministère tout de con-
+ciliation, dans lequel les éléments libéraux et con-
+servateurs se trouvèrent fondus non sans peine, et
+qui parut au premier moment offrir au pays des
+gages du rétablissement de la paix intérieure.
+
+
+XXI
+
+
+Les éléments appelés à constituer la nouvelle ad-
+ministration étaient sans doute habilement choisis,
+si l'on songe aux difficultés du tempset aux exigen-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+79
+
+
+ces des partis. C'était un ministère de conciliation,
+c'est-à-dire que l'on y avait introduit, en parties à
+peu près égales, des progressistes, partisans exclusifs
+du duc de la Victoire, et des modérés, qui reconnais-
+saient pour chef le général O'Donnell. Mais ces deux
+partis se divisaient eux-même en deux camps; les pro-
+gressistes comptaient parmi eux des libéraux et des
+démocrates; les modérés se partageaient en conser-
+vateurs et en libéraux modérés. Ces fractions repré-
+sentaient assez bien l'opinion des partis et l'ensem-
+ble des Cortès, et leur présence au pouvoir devait
+être pour leurs amis politiques une garantie et un
+gage pour l'avenir. Mais si, à ce point de vue, cette
+combinaison offrait quelques avantages, elle faisait
+naître tant d'inconvénients et de dangers qu'on ne
+tarda pas à s'apercevoir de l'impossibilité où l'on
+était de gouverner dans ces conditions.
+
+
+Le général Espartero était président du conseil,
+sans portefeuille. A sa suite marchaient M. Santa-
+Cruz, ministre de l'intérieur; Jose Alonso, minis-
+tre de grâce et de justice; Salazar, ministre de la
+marine et ami particulier d'Espartero.
+
+
+Le général O'Donnell, ministre de la guerre, pou-
+vait compter sur le concours du ministre des affaires
+étrangères, M. Francisco Pacheco; de M. Collado,
+ministre des finances, et de M. Lujan, ministre
+des travaux publics.
+
+
+Officiellement le gouvernement était reconstitué;
+mais les esprits superficiels seuls pouvaient se mé-
+
+
+80
+
+
+JHISTOIRE DE LA GUERRE
+
+
+prendre à ce résultat et espérer une paix impossible.
+La dissolution était partout: dans le Cabinet, qui
+n'offrait aucune homogénéité, que les discordes
+de la rue divisaient autant que les vues particu-
+lières de ses membres, et dans la nation, en proie à
+la tyrannie des partis, aux fluctuations et aux
+incertitudes entretenues par les clubs et une presse
+incendiaire.
+
+
+La conspiration régnait sur l'Espagne, et les socié-
+tés secrètes agissaient avec le dessein de prolonger
+un état de choses dont la révolution seule pouvait
+profiter. L'une des idées qu'elles avaient mises en
+avant comme les plus propres à couvrir leurs vues
+secrètes et à entretenir les troubles, était celle dont
+il a déjà été parlé et qui consistait à former un em-
+pire ibérique en réunissant le Portugal à l'Espagne
+et en instituant la régence de la jeune princesse des
+Asturies. On voit à quoi aurait abouti une aussi folle
+combinaison: à une régence sans cesse troublée, à
+des ministères personnels et absolus et à des révo-
+lutions périodiques, auxquelles peut-être l'Espagne
+eût succombé, mais à l'abri desquelles des ambi-
+tieux et des avides eussent acquis leur position et
+leur fortune.
+
+
+Toutefois, il faut dire, et l'on ne saurait trop
+appuyer sur ce point, que ceux qui rêvaient de pa-
+reilles combinaisons ne formaient qu'un très-faible
+parti, composé de quelques tribuns bruyants sans
+soldats,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+81
+
+
+Loin de les suivre dans cette voie antinationale,
+le peuple se séparait d'eux et protestait contre leurs
+doctrines; mais ils traînaient à leur suite quelques
+fanatiques escortés de misérables recrutés dans la
+lie du peuple, et faisaient un grand tapage qu'ils
+prenaient déjà pour une victoire.
+
+
+La province n'était pas dans une situation plus
+brillante. Chaque ville, grande ou petite, avait con-
+stitué en son sein une junte chargée d'administrer
+en l'absence de tout pouvoir régulier. Et pour qui-
+conque a été témoin d'une des révolutions qui ont
+eu lieu depuis l'avénement du xIx siècle, il $n^{\prime}y$ a
+pas de doute à avoir sur l'esprit turbulent, impor-
+tant et précisément révolutionnaire d'hommes la
+plupart poussés par les vanités locales, et se croyant
+les sauveurs de la patrie pour avoir signé quelques
+décrets désorganisateurs dans leurs localités. Ces
+juntes, en effet, étaient animées de cet esprit qui
+mesure son importance au rôle qu'il croit remplir.
+
+
+Instituées pour maintenir l'ordre public et ga-
+rantir la bonne exécution des lois, la plupart d'en-
+tre elles détruisirent tout chez elles, les traditions,
+les coutumes, les lois. En même temps qu'elles dis-
+posaient du sort d'une foule d'hommes en destituant
+des fonctionnaires publics remplacés par des amis
+politiques ou autres membres des diverses juntes,
+elles procédaient avec un sang-froid risible à des no-
+minations de fonctionnaires publics et disposaient
+des emplois sans aucun scrupule. Elles ne craigni-
+
+
+82
+
+
+HISTOIRE DE LA GUERRE
+
+
+rent même pas de toucher à l'armée, et plusieurs
+d'entre elles nommèrent des généraux et des colonels
+dont quelques-uns cependant furent maintenus.
+
+
+Que pouvait faire devant un pareil chaos admi-
+nistratif et politique un pouvoir livré lui-même à
+tous les déchirements, à toutes les incertitudes?
+
+
+L'hésitation n'était pas permise. il fallait agir
+avec vigueur et ensemble, adopter une politique
+et la faire prévaloir; peser sur le pays et le bien
+diriger dans une voie réparatrice.
+
+
+C'était là une tâche difficile. Le Cabinet avait tant
+à faire qu'il semblait qu'il dût tomber écrasé sous
+son fardeau. Tout était à reconstituer, car tout était
+écroulé; lois politiques et administratives, finances,
+travaux publics, impôts, il fallait tout étudier, tout
+créer, tout organiser, et, chose non moins difficile
+et délicate, renouveler en quelque sorte tout le per-
+sonnel de l'ancienne administration et de l'armée.
+
+
+Le cabinet, quels que pussent être ses dissenti-
+ments intérieurs, se mit résolument à la tâche, et la
+première question qui se présenta fut celle de la
+convocation des Cortès. Ce premier acte donnait déjà
+lieu à mille résolutions, qui furent immédiatement
+posées et discutées, et dont la première, la plus
+importante, fut résolue dans un sens qui dénotait les
+tendances de la partie du Cabinet dans ce moment
+la plus forte. Les progressistes de la suite du duc de
+la Victoire voulaient que l'on convoquât des Cortès
+constituantes. C'était une faute et un danger. Réu-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+83
+
+
+nir une pareille assemblée était, en effet, reconnaître
+ipso facto que rien de ce qui existait alors ne pou-
+vait exister en droit; c'était tout démolir sans savoir
+ce que l'on pourrait bâtir sur les ruines que l'on pré-
+parait; enfin c'était déclarer que l'existence de la dy-
+nastie constitutionnelle d'Isabelle II était mise en
+question, et que la Reine était réduite à attendre
+des caprices de la multitude la conservation d'une
+couronne qu'elle tenait de ses ancêtres en vertu des
+droits les plus légitimes.
+
+
+O'Donnell sentit les dangers d'une pareille me-
+sure. Il la combattit vivement dans le Cabinet, aidé
+de ses collègues qui professaient la même opinion.
+Toutefois, en présence des circonstances encore
+peu favorables, et par crainte des hasards que pou-
+vait faire naître une résistance impolitique, il crut
+prudent de céder, mais en faisant ses conditions, qui
+furent acceptées.
+
+
+Dans le rapport qui accompagnait le décret de
+convocation signé par tous les ministres, il était dit
+que  les Cortès resserreraient le lien qui unissait
+>> le trône et le peuple, la liberté et la dynasție, ob-
+>> jets qui ne pouvaient être mis en question et sur
+ lesquels le gouvernement n'admettait ni doute ni
+>>> discussion.  Il y avait là une inconséquence,
+puisque le gouvernement, en même temps qu'il
+déclarait que le trône ne pouvait être mis en ques-
+tion, nommait des députés qui, par la nature même
+de leurs mandats de constituants, étaient appelés
+
+
+84
+
+
+HISTOIRE DE LA GUERRE
+
+
+à créer un gouvernement qui pouvait n'être pas
+celui d'Isabelle.
+
+
+O'Donnell, ministre constitutionnel, dut se rallier
+à la majorité, mais tout en conservant et en décla-
+rant ses vives sympathies pour le trône et sa réso-
+lution de soutenir les droits de la Reine en toute
+circonstance.
+
+
+Cependant le décret n'avait pas été rendu sans
+de très-vifs débats. Par une anomalie singulière, la
+constitution de 1845, qui avait été l'objet principal
+de la lutte, se trouvait abolie, et le Cabinet, en met-
+tant en action la souveraineté populaire, créait ainsi
+un pouvoir supérieur au sien. Les pensées qui fu-
+rent le fond du débat ne purent prévaloir, mais
+elles créèrent au sein du Cabinet des déchirements
+qui produisirent plus tard des conséquences inévi-
+tables. Quant au droit qu'avait le duc de la Vic-
+toire de convoquer des Cortès constituantes, on
+comprend qu'il était inutile de le contester. La loi
+électorale de 1837 fut remise en vigueur et les
+élections fixées au 4 octobre suivant. Le 16, les dé-
+pouillements généraux devaient avoir lieu; enfin, le
+8 novembre, les Cortès constituantes devaient être
+réunies.
+
+
+XXII
+
+
+Entre le 11 août, jour où avait paru le décret,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+85
+
+
+et le 8 novembre, fixé pour la réunion des Cortès,
+trois mois devaient s'écouler; dans l'état où se trou-
+vait alors l'Espagne, c'était un danger; mais il avait
+été à peu près impossible d'éviter ce délai.
+
+
+Au milieu du travail que nécessitait l'importance
+des questions à résoudre par le cabinet avant de se
+présenter devant les Cortès, un incident fut soulevé
+inopinément, qui appela toute la sollicitude du mi-
+nistère et le détourna pendant quelque temps de
+ses travaux. Nous voulons parler de la présence en
+Espagne de la reine Marie-Christine, réfugiée de-
+puis le 27 juillet dans le palais de son auguste fille.
+
+
+L'un des premier actes de la reine Isabelle, après
+la régence d'Espartero, avait été de rappeler sa mère
+de l'exil. Depuis ce temps, le peuple, ou du moins
+le parti qui se donne en tous pays la mission de
+parler en son nom et n'hésite jamais à le compro-
+mettre en lui prêtant ses propres passions, le parti
+démagogique, en un mot, avait pris en haine cette
+Reine habile et énergique dont il connaissait ce-
+pendant bien les sentiments, et il l'accusait de
+toutes les erreurs, de toutes les fautes qu'il attri-
+buait à l'influence de son entourage, c'est-à-dire
+à la Camarilla. Longtemps après la mort de Ferdi-
+nand VII, Marie-Christine avait épousé le duc de
+Rianzarès, à qui on ne pardonnait pas non plus son
+influence, d'ailleurs bien naturelle. On accusa le
+mari de la Reine. Cette haine jalouse, à l'égard d'un
+homme influent par sa position personnelle, grandit
+
+
+8
+
+
+86
+
+
+HISTOIRE DE LA GUERRE
+
+
+au point qu'une commission fut chargée en quelque
+sorte d'instruire et de rechercher ce qu'il y avait de
+fondé dans les accusations dont il était l'objet, ainsi
+que la Reine mère.
+
+
+Ces assertions mensongères s'évanouirent quel-
+ques mois après devant l'évidence, et le duc de
+Rianzarès sortit pur d'une accusation que les pas-
+sions politiques avaient seules inspirée et qu'il
+subit avec une rare énergie de caractère et beau-
+coup de dignité.
+
+
+Le 3 août, la Reine mère devait quitter Madrid.
+Les émeutiers furent instruits de ce projet de départ
+et s'y opposèrent violemment, Il leur semblait qu'ils
+seraient plus sûrs de la ruine de la monarchie en
+gardant en quelque sorte la Reine mère comme
+otage et en faisant son procès, procès politique
+évidemment, mais d'où les passions l'auraient bien
+pu faire sortir coupable. Le duc de la Victoire, qui
+ne savait rien refuser à l'émeute, s'engagea à ne
+laisser partir clandestinement la Reine mère  ni
+jour ni nuit. » Il y eut même parmi ses amis des
+conférences où fut agitée la question de savoir şi
+on ne livrerait pas Marie-Christine aux Cortès.
+
+
+Cependant le parti modéré, malgré les ménage-
+ments qu'il avait à garder et sa faiblesse relative,
+s'opposa à cette grande iniquité. Il sauva Marie-
+Christine des Cortès, et ne voulant point laisser son
+œuvre inachevée, résolu d'ailleurs, au point de vue
+politique, d'enlever aux progressistes ce prétexte à
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+87
+
+
+des agitations sans fin, il insista pour obtenir d'Es-
+partero qu'on laissât à la Reine mère la liberté de
+quitter Madrid et l'Espagne. La discussion fut vive;
+cependant le président du conseil consentit à une
+transaction qui, en permettant le départ de la Reine
+mère, lui confisquait provisoirement ses biens mis
+sous le séquestre et suspendait la pension que lui
+payait le trésor.
+
+
+Sans doute O'Donnell ne se faisait pas illusion sur
+les résultats immédiats qu'occasionnerait le départ
+de la Reine; l'émeute était certaine. Mais avec ce
+sens profond du politique et du guerrier, il jugeait
+qu'un mouvement réduit à ses seules forces, n'ayant
+aucun appui dans la nation, lui fournirait une occa-
+sion d'en finir avec cette petite démagogie qui en-
+travait tout, et troublait les commencements si labo-
+rieux du nouveau gouvernement.
+
+
+Aussitôt que ce départ fut connu à Madrid, l'agi-
+tation prit un caractère menaçant; des barricades
+s'élevèrent dans les principales rues de Madrid, et
+une fois encore la guerre fut déclarée au pouvoir.
+
+
+Peu important par lui-même, ce mouvement pou-
+vait devenir dangereux en raison des circonstances
+au milieu desquelles il se produisait. Rien de stable,
+rien de fixe nulle part. En face l'émeute, un pouvoir
+divisé, travaillé par des partis opposés et sans force
+en présence du danger. Certes, le ministre de la
+guerre était décidé à combattre; ses dispositions
+étaient prises, et alors, comme tant d'autres fois, il
+
+
+88
+
+
+HISTOIRE DE LA GUERRE
+
+
+aurait étouffé l'émeute. Mais Espartero, qui ne pac-
+tisait peut-être pas avec l'émeute, mais qui ne savait
+pas prendre parti contre elle, voulait attendre,
+comme toujours, jusqu'à ce que la révolution lui eût
+jeté son mot sinistre : « Il est trop tard! >>>
+
+
+Tout à coup un événement inexplicable vint chan-
+ger l'aspect des choses, et éviter à O'Donnell des
+efforts auxquels il était d'ailleurs préparé.
+
+
+Dans la matinée même, et quelques instants après
+le départ de la Reine mère, la plus grande partie
+des émeutiers, par une contradiction singulière, eut
+la pensée de s'en prendre au duc de la Victoire, dont
+cependant les sentiments lui étaient connus, et qui
+suspendait seul, depuis le matin, les effets de la
+sévérité d'O'Donnell. Ils se portèrent en masse sous
+les croisées de son hôtel en vociférant le cri sau-
+vage: «Meure Espartero!» Cette manifestation inat-
+tendue blessa profondément l'homme qui, toute sa
+vie, avait sacrifié à la popularité. Son irritation fut
+telle, qu'il se mit d'accord avec le ministre de la
+guerre pour toutes les mesures à prendre dans le
+but d'anéantir promptement l'émeute. La répres-
+sion fut aussi énergique que rapide; le soir, le
+parti démagogique était encore une fois vaincu.
+
+
+O'Donnell comprit qu'il ne fallait pas se borner à
+ce succès. Détruire, jusque dans ses repaires les plus
+secrets, cette démagogie venimeuse qui se reprodui-
+sait dans l'ombre en infestant les jeunes intelligences
+par le plus déplorable enseignement, tel était son
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+89
+
+
+but. Des ordonnances parurent, dès le lendemain,
+qui fermaient les clubs, dissolvaient les sociétés po-
+litiques, mettaient en arrestation un assez grand
+nombre de meneurs, connus d'ailleurs pour d'au-
+tres méfaits, et rendaient à la capitale troublée l'or-
+dre et la paix, qu'une infime minorité lui avait ra-
+vis depuis un mois.
+
+
+Il conviendrait, sans doute, d'examiner ici, ne
+fût-ce que pour les réfuter, les reproches adressés
+par les partis au gouvernement de la veuve de Fer-
+dinand VII; une pareille étude dépasserait les pro-
+portions de notre travail, et nous nous bornerons
+à renvoyer le lecteur à la lettre remarquable que
+S. M. la reine Christine adressait à son auguste fille
+pour lui expliquer sa conduite. Ce document, daté
+de Monte-Mar (Portugal), le 8 septembre 1854, et
+qu'on trouvera à la fin de ce livre, appartient à
+l'histoire, et, à ce titre, nous ne pouvions nous dis-
+penser de le publier.
+
+
+Cette journée importante termina la révolution.
+Désormais le gouvernement pouvait agir dans la
+plénitude de ses attributions; on n'avait plus à crain-
+dre le combat de la rue. En reprenant ses droits il
+allait avoir à discuter devant les Cortès, et, après
+avoir rétabli l'ordre et prouvé sa force, il avait à
+exposer ses idées et prouver son intelligence. La
+phase de la force brutale avait passé; celle de la
+lutte politique s'ouvrait pour les ministres de la
+Reine. Le général O'Donnell avait triomphé dans
+
+
+8.
+
+
+90
+
+
+HISTOIRE DE LA GUERRE
+
+
+la première, il devait être également victorieux
+dans la seconde.
+
+
+XXIII
+
+
+Si par la journée du 28 août, le gouvernemen
+pouvait espérer d'en avoir fini avec les insurrections,
+du moins pour un long temps, il n'en était pas de
+même des préoccupations que lui causait la pro-
+chaine réunion des Cortès, ni de l'attitude qu'il allait
+prendre devant une assemblée à laquelle lui-même
+avait donné les pouvoirs suprêmes et qui pouvait
+légalement changer la forme du gouvernement. Peu
+après, les élections absorbèrent l'esprit public, et le
+pays tout entier s'occupa de cet événement avec une
+ardeur jusqu'alors inconnue.
+
+
+Il y avait partout et dans tous les partis des réu-
+nions municipales, des comités, des proclamations,
+des manifestes. Le parti démocratique avancé, battu
+dans la journée du 28 août, essayait de rassembler
+ses tronçons épars, et de mettre à profit l'agitation
+causée par les élections, afin de se reconstituer. Les
+chefs du parti publièrent des manifestes dans les-
+quels ils demandaient l'abolition des impôts indi-
+rects, la liberté de la presse, la liberté de conscience,
+l'enseignement gratuit et obligatoire; bref, ils re-
+mettaient en avant tout ce vieux répertoire qui, dans
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+91
+
+
+cette Espagne exclusivement monarchique et catho-
+lique, devait être promptement renié de tous.
+
+
+Quant au Cabinet, sa situation était des plus dif-
+ficiles. Dans les conseils quotidiens que tenaient les
+ministres, sous la présidence de la Reine, on agitait,
+sans pouvoir la résoudre, la question de savoir quelle
+devait être l'attitude du gouvernement; s'il pren-
+drait l'initiative d'une constitution; s'il aurait un
+système avoué; s'il se présenterait, enfin, devant les
+Cortès, tout armé d'un système qu'il chercherait à
+imposer, sauf à se retirer en cas de défaite. Il
+n'était pas moins important de savoir si la Reine de-
+vrait présider elle-même l'inauguration de la session
+et si elle se mettrait, dès le premier moment, en
+communication officielle et directe avec les hommes
+chargés, en définitive, de prononcer sur ses destinées.
+Une partie du Cabinet, les modérés, étaient de cet
+avis, et se fondaient sur cette excellente raison, qu'ils
+étaient à peu près certains de se rallier une majo-
+rité qui n'avait pas eu le temps de se concerter ni
+de subir aucune influence hostile.
+
+
+Cette tactique ne plut pas à Espartero. Esprit tou-
+jours indécis et ne voulant donner aucun avis, il se
+bornait à répondre ces seules paroles à toutes les
+questions qui lui étaient posées : « Que la volonté
+nationale s'accomplisse! >>>
+
+
+Le pays était autrement divisé et autrement agité
+encore que le Cabinet. Les partis voulant profiter de
+cette dernière chance que leur avait ménagée la fai-
+
+
+92
+
+
+HISTOIRE DE LA GUERRE
+
+
+blesse d'Espartero, essayaient de provoquer une
+nouvelle explosion populaire contre le Cabinet. Le
+20 octobre la crise éclata; mais, de même que celle
+du 28 août, elle ne dura que quelques heures; et le
+gouvernement fut vainqueur une fois encore.
+
+
+Après des discussions passionnées, qui eurent lieu
+dans le conseil des ministres, il fut décidé que la
+Reine ouvrirait les Cortès en personne.
+
+
+Enfin, le 8 novembre, jour de l'ouverture des Cor-
+tès constituantes arriva. La Reine, resplendissante de
+jeunesse, de grâce et de courage, pâle d'une noble
+émotion, mais confiante dans les sentiments de la
+majorité de l'assemblée, ouvrit elle-même la séance
+et lut son discours, auquel, en raison des circonstan-
+ces, on ajoutait une importance particulière.
+
+
+L'accueil que reçut d'abord Sa Majesté se ressen-
+tit de l'agitation des passions qu'on avait cherché à
+soulever. Une certaine froideur accueillit ses pre-
+mières paroles. La Reine commençait par protester
+de son respect pour les libertés publiques et pour
+les droits de la nation. Le temps des épreuves était
+passé; il fallait désormais, en abandonnant les sté-
+riles discussions de la politique, chercher à dévelop-
+per les intérêts moraux et matériels du pays, à met-
+tre de l'ordre et de l'économie dans les finances, à
+rendre enfin à l'Espagne la paix et l'ordre depuis si
+longtemps bannis de son sein. Pour cette œuvre
+grande et patriotique, Sa Majesté comptait sur le
+concours des députés.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+93
+
+
+<< Votre résolution, ajoutait la Reine, sera, je n'en
+>> doute pas, l'œuvre de bons et loyaux députés, di-
+>> gnes d'être acceptés par votre Reine. Les événe-
+>> ments passés ne peuvent s'effacer ni disparaître de
+>> l'histoire; mais si le cœur se serre au souvenir des
+>> désastres et des infortunes, tirons-en du moins un
+>> exemple et un enseignement pour cette vie politi-
+>> que qui s'ouvre aujourd'hui. Ma confiance est en-
+>>> tière et absolue; que votre patriotisme et vos lu-
+>>> mières soient à la hauteur des besoins de notre
+>> chère Espagne; et puisque cette Espagne a si sou-
+>> vent étonné l'Europe par ses destinées providen-
+>> tielles, qu'elle la contraigne encore à l'admirer
+>> en lui présentant le tableau qui fera notre gloire
+>> et notre bonheur: une Reine qui s'est jetée sans
+>>> hésiter dans les bras de son peuple et un peuple
+ qui, en assurant ses libertés, répond à la déci-
+>> sion de sa Reine, comme le plus brave, le plus
+>> noble, le plus chevaleresque de tous les peuples!»
+
+
+Ce discours, calme et digne, commencé au mi-
+lieu d'une froide hostilité, remua profondément
+le cœur et l'enthousiasme des Cortès. Il souleva, au
+fur et à mesure que la Reine parlait, des transports
+qui rappelaient les plus beaux temps de la monar-
+chie et les grands dévouements à la royauté. Cela de-
+vait être fainsi, surtout en Espagne, pays des ima-
+ginations ardentes et sensibles, des mœurs chevale-
+resques, où l'esprit poétique s'enflamme à tous les
+nobles et grands sentiments.
+
+
+94
+
+
+HISTOIRE DE LA GUERRE
+
+
+O'Donnell et ses amis avaient très-habilement mé-
+nagé ce triomphe à la Reine. Ils avaient tenté une
+épreuve périlleuse, mais le succès dépassait leur
+attente. Au point de vue personnel, le général y ga-
+gnait dans le conseil une prépondérance qu'Espar-
+tero lui-mème allait être forcé de reconnaître; au
+point de vue politique, les résultats étaient plus bril-
+lants encore; car le mouvement excité dans la cham-
+bre par le discours de la reine avait subitement ral-
+lié les députés sur la question dynastique et avait
+aussi établi un point de ralliement auquel désor-
+mais allait se rattacher le parti modéré. L'impres-
+sion produite sur les Cortès ne fut pas moins vive
+parmi la population; et les cris de : « Vive la Reine!»
+poussés par l'Assemblée constituante, retentirent
+jusqu'aux extrémités du royaume, qui put croire que
+les droits de la monarchie étaient à tout jamais con-
+firmés.
+
+
+XXIV
+
+
+Cependant le congrès allait avoir de grandes ques-
+sions à résoudre. Sans doute, le mouvement excité
+par le discours de la couronne avait une grande im-
+portance au point de vue moral: il donnait évidem-
+ment un gouvernement à l'Espagne, et l'Espagne le
+comprenait ainsi mais à côté de ces faits, d'ailleurs
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+95
+
+
+assez rares dans l'histoire, où le sentiment prit pour
+nn instant la place de la raison, il y avait l'action po-
+litique et légale à exercer; il y avait un mandat à
+remplir; un gouvernement à reconstituer.
+
+
+On a pu voir que la situation, dans le cabinet
+comme dans le parlement, était nettement tranchée,
+et que le débat ne tarderait pas à se soulever d'une
+façon assez nette et précise. Peu à peu O'Donnell
+réunissait autour de lui tous les hommes apparte-
+nant aux diverses opinions et, les groupant dans une
+même pensée libérale en même temps que conser-
+vatrice, il leur montrait l'avenir du pays dans l'exer-
+cice loyal du seul régime qui pût convenir au peu-
+ple espagnol. Pour arriver à ces résultats, il fallait
+user de prudence et pratiquer une politique de con-
+ciliation que rendaient nécessaire l'influence dé-
+croissante, sans doute, mais encore considérable du
+duc de la Victoire et la ténacité vivace des derniers
+démagogues, vaincus, il est vrai, mais qu'il était pru-
+dent de redouter.
+
+
+Ces derniers, au reste, comprenant très-bien leur
+situation et à quel point ils avaient perdu toute
+influence, ourdissaient mille intrigues de concert
+avec les progressistes, afin d'arriver à faire naître
+une rivalité entre les deux hommes qui tenaient le
+pouvoir.
+
+
+De concert avec l'opposition progressiste pure,
+ils réussirent à former une petite opposition, peu
+dangereuse, sans doute, mais qui n'embarrassa pas
+
+
+96
+
+
+HISTOIRE DE LA GUERRE
+
+
+moins la marche des affaires et donna naissance,
+au sein du Cabinet, à des luttes que d'ailleurs sa
+constitution hybride rendait inévitables.
+
+
+L'opinion, qui, à la Chambre comme dans le pu-
+blic, penchait chaque jour davantage en faveur des
+principes conciliants et modérés de l'Union libérale,
+à la tête de laquelle se trouvaient les hommes les
+plus considérables du pays, ne tarda pas à se donner
+à elle-même des preuves non équivoques de ses sen-
+timents et de la tendance politique qu'elle se dispo-
+sait à suivre.
+
+
+L'un des premiers actes des Cortès fut de nom-
+mer à la présidence de la Chambre le général San-
+Miguel, dont la conduite pendant les derniers évé-
+nements avait grandi la vieille réputation conser-
+vatrice. Cette élection blessa le duc de la Victoire
+dans ses idées politiques et dans ses sentiments à
+l'égard de tout ce qu'il supposait de nature à empié-
+ter sur son importance. Il s'irrita à ce point qu'il
+donna sa démission. La Reine la refusa, car la re-
+traite d'Espartero eût infailliblement entraîné la
+chute du cabinet et remis tout en question.
+
+
+La lutte sourde qui augmentait chaque jour en-
+tre les partis, et qui trouvait dans le Cabinet une si
+vive expression, n'en continua qu'avec plus d'ardeur.
+
+
+Au milieu de ces tiraillements et de ces incer-
+titudes la question de la forme du gouverne-
+ment fut tout à coup posée aux Cortès. Il faut le
+dire, les partis avaient mis le temps à profit, et tou-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+97
+
+
+tes les combinaisons furent sinon proposées à la
+tribune, du moins agitées dans les conciliabules se-
+crets, où certains députés allaient chercher le mot
+d'ordre. La forme républicaine, la combinaison d'un
+empire ibérique avec le roi de Portugal pour souve-
+rain, fut encore soulevée; le régime absolu même,
+sous le sceptre du comte de Montemolin, tout fut
+examiné, proposé, discuté au milieu d'une agitation
+qui n'eût pas tardé à se changer en troubles si la
+décision des Cortès eût tardé plus longtemps.
+
+
+Ce fut le 28 novembre que, sur la proposition de
+quelques membres, la presque unanimité des Cortès
+déclarait par un vote solennel, et après une longue
+et vive discussion, qu'une des bases de l'édifice poli-
+tique que les Cortès allaient élever était la consoli-
+dation du trône constitutionnel d'Isabelle If et de sa
+dynastie. Le général San-Miguel s'était montré dans
+cette lutte très-partisan de la royauté d'Isabelle, en
+dehors de laquelle, disait-il avec raison, il n'y a
+rien. Mais c'est surtout à la fermeté, à l'éloquence,
+à la haute raison du général ministre de la guerre,
+que le parti modéré dut de remporter un succès et
+la Reine de conserver un trône. Pendant tout le cours
+de la discussion, le général O'Donnell se montra
+homme politique de premier ordre et orateur entraî-
+nant; il mit au service de la raison, de la société, de
+la plus juste et de la plus grande des causes, une
+chaleur de paroles, une hauteur de vues, une loyauté
+de conviction qui ne laissèrent plus un nuage dans
+
+
+9
+
+
+FRIALE
+
+
+APP
+
+
+98
+
+
+HISTOIRE DE LA GUERRE
+
+
+l'esprit des députés. Le vote répondit à cette voix
+éloquente et à la grandeur de la situation. 194 dé-
+putés votèrent pour la conservation du trône consti-
+tutionnel et de la dynastie d'Isabelle; 19 donnèrent
+leur vote à d'autres combinaisons.
+
+
+Désormais le gouvernement constitutionnel était
+définitivement établi en Espagne; et l'épreuve par
+laquelle il venait de passer avait été pour lui le
+creuset rouge dont il sortait plus pur et plus affermi
+que jamais. La révolution de 1854 était fermée, et
+l'Espagne entrait, dès ce jour, en possession des
+destinées régulières, calmes et libérales, à la fois,
+que la prudence lui réservait.
+
+
+XXV
+
+
+Ce n'est pas sans raison que nous nous sommes
+étendu, plus longuement que nous n'eussions dû le
+faire, sur la période de 1854. L'importance des faits,
+les conséquences qu'ils ont eues pour l'Espagne, la
+grandeur du rôle rempli, à ce moment difficile, par
+des hommes qui, encore aujourd'hui, dirigent les
+destinées de la péninsule, la violence des passions,
+l'acharnement des partis, tout nous conviait à l'étude
+intéressante de ces mémorables événements.
+
+
+Dans le cours de ce travail rétrospectif, nous
+nous sommes attaché, tout en décrivant les événe-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+99
+
+
+ments, à mettre en relief le caractère, les idées, la
+politique des hommes qui ont rempli, en quelque
+sorte, de leur personnalité la longue période écoulée
+depuis la mort de Ferdinand VII.
+
+
+Le duc de la Victoire a été le représentant des
+idées libérales. Débordé par les partis extrêmes,
+il tomba deux fois avec la constitution de 1837, que
+la faiblesse de son caractère avait livrée aux conspi-
+rations et aux passions de la rue.
+
+
+Le duc de Valence, au contraire de celui qui a
+été si longtemps son rival sur les champs de bataille
+comme au sein du gouvernement, était un esprit
+ferme dans ses principes; ce qui, joint aux services
+qu'il rendit à la monarchie, lui valut la haute posi-
+tion qu'il a occupée. Mais pas plus qu'Espartero il
+n'avait cette facile et large compréhension des évé-
+nements que possédait le général O'Donnell; le
+comte de Lucena, doué d'un génie hardi et conser-
+vateur, à la fois religieux autant que monarchique,
+réunissant enfin les divers éléments dont se com-
+pose un véritable caractère politique, avait mieux
+compris que le duc de la Victoire, mieux que le
+vainqueur de Torrejon d'Ardoz, les conditions inévi-
+tables du régime parlementaire; il en savait vaincre
+les difficultés, et au fond, en donnant à une opposi-
+tion modérée certaines satisfactions légitimes, il sa-
+vait habilement dénouer chaque crise au profit du
+pouvoir et de l'ordre public.
+
+
+Nous avons dépeint ce haut caractère, les ten-
+
+
+100
+
+
+HISTOIRE DE LA GUERRE
+
+
+dances de cet esprit souple, fin et élevé, les mouve-
+ments de ce cœur chaud de patriotisme, dévoué à la
+monarchie comme à son pays. Si nous ne nous trom-
+pons, la vie entière d'O'Donnell, ses actes comme
+militaire et comme homme d'état pendant les trou-
+bles civils de l'Espagne, ses discours à la tribune,
+tout prouve qu'il avait consacré sa vie à la réalisation
+d'une grande et patriotique pensée: la consolidation
+du trône constitutionnel d'Isabelle et l'anéantisse-
+ment du désordre.
+
+
+Le mouvement vicalvariste était inspiré par cette
+pensée et dans la lutte qu'O'Donnell avait soutenue
+contre Espartero, on a pu reconnaître quel sentiment
+politique le guidait; son entrée au pouvoir avec son
+antagoniste n'établit pas que cet esprit ferme eût
+rien perdu de sa conviction ou de ses ardeurs. Ce
+fait, en apparence bizarre, donne, au contraire, une
+idée de l'habileté, de la sagacité et de la patience
+d'O'Donnell.
+
+
+Narvaez avait la rigueur et la logique de l'absolu-
+tisme, tandis que le général O'Donnell, voulait con-
+cilier et pacifier, de même que M. le duc de Ri-
+chelieu, ministre de Louis XVIII, qui n'acceptait
+les malheurs de sa patrie qu'avec le projet de les
+réparer.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XXVI
+
+
+101
+
+
+Il est dès lors facile de comprendre que l'existence
+du cabinet Espartero-O'Donnell ne fut qu'une lon-
+gue lutte envenimée tantôt par les événements, tan-
+tôt par les partis. A la chambre, les chefs de diverses
+nuances d'opinion connaissaient trop bien le carac-
+tère et la situation de ces deux hommes pour ne
+pas profiter des éléments de discorde qui existaient
+entre eux. Une occasion ne tarda pas à s'offrir. Un
+député de la gauche fit une proposition, tendant à
+supprimer l'impôt de consommation, qui rapportait
+au trésor une somme d'environ 150 millions de réaux
+(37 millions et demi de francs.) La discussion qui
+suivit faillit tuer le Cabinet dès sa naissance, mais
+on en fut quitte pour la démission du ministre des
+finances, en qui l'on avait confiance, sans doute,
+comme en tous les membres du Cabinet, mais que
+ces propositions et ses attaques empêchaient de gou-
+verner.
+
+
+Pendant six mois le Cabinet se modifia successive-
+ment à la suite d'attaques incessantes, et se renou-
+vela même tout entier, à l'exception d'Espartero et
+d'O'Donnell, qui conservaient leur portefeuille, at-
+tendant la fin de la lutte et le triomphe définitif des
+principes que chacun d'eux représentait.
+
+
+9.
+
+
+102
+
+
+HISTOIRE DE LA GUERRE
+
+
+Deux grandes questions appelèrent l'examen des
+Cortès constituantes: la constitution et la question
+religieuse.
+
+
+Assurément ce qui manquait à l'Espagne ce n'é-
+taient pas les constitutions. Comme tous les pays où se
+sont succédé les révolutions, qu'elles vinssent d'en
+haut ou d'en bas, la péninsule pouvait choisir dans
+le nombre des pactes fondamentaux que les diffé-
+rents partis lui avaient tour à tour imposés.
+
+
+La constitution de 1812 convenait aux progressis-
+tes purs, c'est-à-dire aux démocrates; le statut royal
+de 1834 pouvait être adopté; mais il régnait dans
+ce débris du régime absolu un esprit qui, bien
+qu'empreint d'un certain libéralisme, ne pouvait
+convenir à la situation présente. La constitution de
+1837, édictée après la mort de Ferdinand, fut écar-
+tée parce qu'elle se ressentait de l'esprit de réaction
+progressiste qui avait présidé à sa rédaction. Restait
+enfin, la constitution de 1845, œuvre conserva-
+trice et la meilleure, sans contredit, qu'eût encore
+possédée l'Espagne. Elle ne parut cependant pas
+suffisante.
+
+
+Les Cortès firent alors ce qu'on a appelé depuis
+la constitution de 1855. Euvre progressiste, incohé-
+rente et au fond révolutionnaire. Cette constitution de
+de 1855 ne satisfaisait à aucun besoin réel du pays,
+ne donnait aux intérêts aucune garantie, laissait la
+porte ouverte à tous les attaques et justifiait, en
+quelque sorte, tous les désordres. Elle était parti-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+103
+
+
+ticulièrement vis-à-vis la monarchie, l'expression
+d'une défiance injurieuse qui devait nécessairement
+lui devenir fatale.
+
+
+La question relative à la religion fut bientôt après
+mise en discussion. Il est facile de se rendre compte
+de l'intérêt que ce débat dut exciter dans un pays
+aussi catholique que l'Espagne et où, jusqu'alors,
+aucune autre religion que le catholicisme n'avait
+été tolérée.
+
+
+Il n'en est pas de la religion en Espagne comme
+en France, en Angleterre et dans une grande partie
+de l'Allemagne, où la liberté des cultes est depuis
+longtemps admise sous certaines conditions admi-
+nistratives très-douces, surtout en France. Jusqu'a-
+lors la religion catholique avait été la seule reconnue
+dans la péninsule, et le sentiment religieux était
+tellement enraciné dans tous les cœurs espagnols,
+que la constitution de 1812 elle-même portait en
+tête une déclaration par laquelle le catholicisme était
+déclaré religion d'État, excluant tout autre culte du
+royaume. La constitution de 1845, demême que celle
+de 1837, maintenait le culte et les ministres de la
+religion catholique, mais ne stipulait rien pour les
+autres cultes, placés ainsi sous la juridiction des lois
+ordinaires.
+
+
+Les débats furent passionnés et ardents; on exa-
+géra naturellement les pensées et les doctrines. Pen-
+dant vingt jours la catholique Espagne ressentit les
+désordres et les troubles qui agitaient les Cortès.
+
+
+104
+
+
+HISTOIRE DE LA GUERRE
+
+
+Enfin, on adopta une proposition qui avait pour ob-
+jet de déclarer que la nation s'obligeait à maintenir
+et à protéger le culte et les ministres de la religion
+catholique, mais qu'aucun étranger ni Espagnol ne
+pourrait être poursuivi pour ses opinions et ses
+croyances, tant qu'il ne les manifesterait pas par
+des actes publics contraires à la religion.
+
+
+Il y avait, sans doute, peu d'étrangers ou d'Espa-
+gnols dans la péninsule professant une autre religion
+que la religion catholique. Les musulmans y étaient
+pour ainsi dire inconnus. A l'exception de quelques
+riches négociants, le protestantisme n'y était repré-
+senté que par les Anglais, la plupart attachés à
+l'Ambassade; enfin, les israélites, plus nombreux,
+y étaient à peine soufferts et, par conséquent, n'a-
+vaient pu s'y développer comme l'a fait la race juive
+en Allemagne, à Rome même, en Angleterre et sur-
+tout en France.
+
+
+Il faut le reconnaître, l'Espagne est le pays de la
+terre où les idées religieuses, professées avec toute
+la rigueur des principes et l'inflexible logique de
+l'absolu, exercèrent sur l'esprit public le plus sin-
+gulier despotisme, et où, par conséquent, l'intolé-
+rance protégée, encouragée en quelque sorte par le
+sentiment général, causa le plus de catastrophes, en
+même temps qu'elle nuisait aux développements de
+toute nature de l'esprit commercial, industriel et
+agricole de la nation. Longtemps les juifs y furent
+très-maltraités, et le temps n'est pas encore très-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+105
+
+
+éloigné (1) où une ordonnance du Roi défendait
+de délivrer des passeports aux juifs pour voyager en
+Espagne, quel que pût être le motif de leur voyage.
+Cette même ordonnance enjoignait aux gouver-
+neurs des frontières de leur interdire l'entrée du
+territoire espagnol et d'en chasser ceux qui pour-
+raient s'y être introduits; ces mesures étaient géné-
+ralement approuvées par les populations.
+
+
+On peut juger par cet exemple du progrès qu'a-
+vaient fait, en un demi-siècle, des idées que pen-
+dant plus d'un millier d'années, rien n'avait pu
+changer.
+
+
+Cette modification à la constitution religieuse de
+l'Espagne est surtout due à l'influence du général
+O'Donnell, dont l'esprit libéral et élevé ne trouvait
+pour l'État qu'une véritable garantie et, en principe,
+un acte de justice dans la protection accordée aux
+israélites.
+
+
+XXVII
+
+
+L'influence que chaque jour le général O'Donnell
+prenait dans le gouvernement et parmi les Cortès,
+ne pouvait manquer d'inspirer quelque ombrage au
+président du conseil, qui sentit la nécessité d'aug-
+
+
+(1) En 1800. (Voir les Juifs en France, en Espagne et en Italie,
+par M. I. Badarride.)
+
+
+106
+
+
+HISTOIRE DE LA GUERRE
+
+
+menter le nombre de ses partisans en appelant au
+ministère des finances un démocrate ardent, M. Ma-
+doz, connu par son excellent Dictionnaire géogra-
+phique et statistique de toutes les Espagnes, et qui,
+d'ailleurs, ne manquait pas d'une certaine entente
+des affaires. Le premier acte de M. Madoz fut de
+commencer la lutte sur une question qui nécessai-
+rement devait ranimer les passions, et jeter, il
+l'espérait du moins, la diversion au sein du gouver-
+nement. Il proposa la loi de désamortissement.
+
+
+Ce projet, basé sur les plus impérieuses condi-
+tions d'économie publique, devait faire rentrer au
+trésor appauvri des sommes importantes. Il dé-
+crétait la vente immédiate de tous les biens appar-
+tenant à l'État, aux établissements de bienfaisance,
+aux communes et au clergé.
+
+
+La discussion fut ardente aux Cortès; mais la loi
+fut votée et amena naturellement une nouvelle rup-
+ture regrettable avec le saint-siége. Elle eut encore
+bien d'autres conséquences. En consentant à la pré-
+sentation du projet de loi, les deux chefs du Cabi-
+net avaient eu chacun une pensée différente. Espar-
+tero y voyait un intérêt doublement précieux: il
+donnait d'abord satisfaction au parti progressiste et
+par là consolidait son influence; puis il amenait des
+complications dont la démission d'O'Donnell pou-
+vait être la conséquence. Il n'en était pas de même
+de ce dernier, qui évidemment avait subi le projet de
+loi plutôt qu'il ne l'avait appuyé. Il avait consenti à
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+107
+
+
+le couvrir de son nom, comme membre du Cabinet,
+parce qu'il avait compris les dangers que l'exaltation
+des progressistes pouvait faire courir au pays.
+
+
+Le ministre de la guerre aurait certainement pré-
+féré que l'on respectât le concordat et que l'on ne
+se jetât pas aussi inconsidérément dans de nou-
+velles aventures en rompant encore avec la cour de
+Rome; mais il sentait que si l'opinion du pays était
+opposée à une pareille mesure, le parti conserva-
+teur, dans les Cortès et même au sein du Cabinet,
+n'avait pas encore assez de force pour lutter avec
+avantage contre les progressistes. Il comprenait que
+dans le cas d'une lutte, lui-même pourrait succom-
+ber. Or, s'il lui importait peu de conserver le pou-
+voir, en ce qui le touchait personnellement, il
+sentait, au point de vue politique, que sa chute en-
+traînerait infailliblement l'Espagne dans la voie de
+de la révolution, et il résolut de rester à son poste
+afin de lutter autant qu'il était de son pouvoir pour
+le succès de ses convictions.
+
+
+XXVIII
+
+
+Le vote de la loi sur le désamortissement affligea
+vivement la Reine. Sincèrement catholique, elle ré-
+pugnait à une politique en désaccord, à la fois, avec
+sa conscience et avec les vrais intérêts de l'Espagne.
+
+
+108
+
+
+HISTOIRE DE LA GUERRE
+
+
+Profondément émue des éventualités que lui présa-
+geait une rupture avec le saint-siége, elle essaya de
+s'opposer à un acte aussi contraire à la justice et à
+la raison qu'aux sentiments de la nation entière et
+aux siens, en refusant, pendant quelques semaines,
+sa sanction à la loi. Elle dut cependant céder devant
+les nécessités de la politique, mais sa conscience
+pressentait des malheurs que le parti progressiste
+seul ne prévoyait pas.
+
+
+Les appréhensions de la Reine ne tardèrent pas à se
+réaliser. Des troubles éclatèrent avec la violence des
+anciens jours. Ces insurrections, auxquelles se mêla
+un mouvement encouragé par ce qui restait de l'é-
+lément carliste, appelèrent toute l'attention du
+gouvernement. Les anciens partisans de don Carlos,
+que n'avait pas découragés la guerre civile, crurent
+habile de profiter d'une occasion qui semblait of-
+frir aux ennemis du gouvernement les chances les
+plus favorables. On pouvait s'y tromper, en effet, en
+songeant que le motif des révoltes que le gouverne-
+ment avait à apaiser était précisément de ceux qui, en
+Espagne, intéressent le plus la nation; et il fallart évi-
+demment s'attendre à un mouvement plus redoutable
+que les révoltes qu'on avait pu vaincre jusqu'alors.
+
+
+O'Donnell sauva la monarchie. Il anéantit d'a-
+bord à tout jamais la cause carliste en frappant à
+mort le parti; puis il n'hésita pas à éteindre égale-
+ment à Barcelone le foyer incessant d'agitation socia-
+liste qui rendait cette ville si redoutable au pouvoir.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+109
+
+
+Une fois ces révoltes vaincues et apaisées, le
+général ent à soutenir une autre lutte bien diffé-
+rente, mais tout aussi dangereuse, la lutte poli-
+tique.
+
+
+La conséquence la plus directe, et nous pouvons
+dire inévitable, de la loi sur le désamortissement,
+avait été de faire éclater au grand jour cette hostilité
+sourde, ces rancunes, ces rivalités qui régnaient au
+sein du cabinet, et qui plusieurs fois déjà avaient
+été sur le point d'amener une rupture violente entre
+ses principaux membres. Les rapports devinrent
+très-froids, même hostiles, entre les ministres; la
+discussion ouverte à propos du projet de loi ne
+finissait pas et envenimait toutes les relations de ces
+hommes placés dans les conseils de la couronne pré-
+cisément pour s'entendre et mettre un terme aux
+divisions du pays. Bientôt une crise éclata, et, comme
+c'était justice, la première victime fut le minis-
+tre des finances, M. Madoz, le promoteur du pro-
+jet de loi.
+
+
+A la suite de cet incident, après lequel les deux
+hommes importants du ministère avaient reconnu
+qu'entre eux un plus long accord devenait impos-
+sible, il régna au sein de ce Cabinet une anarchie
+qu'O'Donnell lui-même dut se résigner à ne pas vain-
+cre; de là vinrent ces modifications successives, ces
+changements rapides, ces crises toujours apaisées
+et toujours renaissantes qui, sans jamais atteindre
+les chefs du Cabinet, n'en eurent pas moins pour
+
+
+10
+
+
+110
+
+
+HISTOIRE DE LA GUERRE
+
+
+résultat de faire arriver à tour de rôle, et selon que
+l'influence du jour le permettait, les amis politiques
+de l'un et de l'autre ministre, qui gouvernaient
+quelques jours pour être bientôt remplacés par une
+combinaison nouvelle.
+
+
+Une telle situation devenait de jour en jour plus
+intolérable; en 1856, le Cabinet, qui, en février, avait
+subi des modifications secondaires, se sentit complé-
+tement ébranlé; la lutte arrivait à son terme, et déjà
+l'on pouvait deviner à qui resterait le pouvoir. En
+effet, le 14 juillet, l'orage longtemps prévu éclatait;
+le Cabinet était en pleine dissolution, et le général
+O'Donnell, investi de la confiance de la Reine, était
+chargé de composer une administration dont il de-
+vait être le chef.
+
+
+Le rôle politique d'Espartero était terminé.
+
+
+XXIX
+
+
+Plus on avance dans l'étude de l'histoire de l'Es-
+pagne pendant ces dernières années, plus on arrive
+à reconnaître de quelle force vitale ce beau pays est
+heureusement doué pour avoir résisté à ces trou-
+bles dissolvants, qui ailleurs eussent, sans contredit,
+emporté la monarchie, les institutions et la nationa-
+lité avec elles. Quelles sont donc les vertus parti-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+111
+
+
+culières de ce peuple, qui lui ont valu le rare pri-
+vilége de résister pendant vingt-cinq années à ces
+déchirements incessants? Dans quel ordre de faits,
+d'idées ou de sentiments, a-t-il puisé cette résistance
+au dissolvant révolutionnaire? A quel côté saillant
+de son caractère, à quel concours inouï de circon-
+stances doit-il d'avoir été sauvé de la dernière anar-
+chie?
+
+
+Ces causes sont de plusieurs natures:
+L'Espagne doit d'abord à sa situation géographi-
+que le précieux privilége d'avoir moins subi que les
+nations continentales, d'une manière importante et
+directe, l'action étrangère au milieu de ses troubles
+civils. C'est un grand bonheur pour son patriotisme;
+et elle le partage avec l'Angleterre, placée également,
+et dans une certaine mesure, en dehors de l'action et
+des ambitions des autres peuples. Mais si l'Espagne
+a échappé à une dissolution trop probable, si elle a
+conservé sa nationalité, sa splendeur, si même main-
+tenant on la voit grandir autant par un gouverne-
+ment régulier, honorablement et grandement prati-
+qué, que par une guerre glorieuse; si enfin, elle
+jouit à cette heure des avantages précieux d'une li-
+berté sagement modérée par la loi et de la paix in-
+térieure maintenue sans peine par un gouvernement
+fort autant que juste, soucieux avant tout du bon-
+heur et de la gloire du peuple espagnol, elle le
+doit surtout à la puissance de cet esprit monarchique
+qui ne l'a jamais abandonnée, même au milieu de
+
+
+112
+
+
+HISTOIRE DE LA GUERRE
+
+
+ses plus déplorables désordres. Elle le doit à sa Reine,
+dont l'esprit formé à l'école de l'expérience exerce
+avec autant d'énergie que de modération un gouver-
+nement naguère encore si difficile. Elle le doit enfin
+à l'homme qui, instruit par les fautes de ses rivaux,
+aussi éloigné du libéralisme aventureux d'Espartero
+que del'absolutisme souvent funeste de Narvaez, a su
+rallier les deux principes dans une fusion libérale et
+modérée, et attirer à lui tous les partis, en donnant à
+chacun les satisfactions légitimes auxquelles ils pou-
+vaient aspirer.
+
+
+Lorsqu'il prit le pouvoir pour la première fois
+sans partage, le général O'Donnell trouvait son pays
+dans une situation qui, bien qu'elle ne fût que la
+répétition ou la continuation de toutes celles où il
+s'était trouvé tant de fois, n'en était pas moins dan-
+gereuse, et n'offrait pas moins au représentant du
+pouvoir mille chances de s'égarer. Si en jetant un
+regard sur l'année qui venait de s'écouler, on se
+demande ce qu'avaient fait les Cortès, comment ils
+avaient rempli leur mission, en quel état ils lais-
+saient le pays, on ne trouve que des négations dé-
+plorables. La constituante avait touché à tout. Elle
+avait voté, il est vrai, quelques lois d'intérêt public
+incontestable; mais elle avait aussi voté une constitu-
+tion inacceptable que la couronne ne pouvait sanc-
+tionner. Sa longue carrière avait été tout entière rem-
+plie ou, pour ainsi dire, absorbée par ses luttes avec
+les divers cabinets qui se sont succédé; par son oppo-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+113
+
+
+sition à O'Donnell, en qui elle voyait le restaurateur
+de l'ordre et de la monarchie, et par des débats sans
+fin sur des sujets sans portée, mis à l'ordre du jour
+par des pétitions provinciales moins révolutionnaires
+encore qu'insensées.
+
+
+De son côté, le Cabinet, tiraillé en sens contraire
+par deux influences rivales, avait peu d'attention à
+donner aux grands intérêts du pays. Sa principale
+préoccupation était de vivre; il n'y réussit qu'à moi-
+tié; Espartero finit par succomber dans la lutte
+où O'Donnell, soutenu par son pays et approuvé par
+la Reine, devait nécessairement triompher.
+
+
+Le nouveau Cabinet, dont le général était prési-
+dent en même temps que ministre de la guerre,
+devait-il vivre? Était-il placé dans les conditions
+normales qui assurent une longue existence à un
+pouvoir en lui permettant de satisfaire aux besoins
+généraux du pays? Un rapide examen sur l'état des
+esprits à cette époque prouvera que le gouverne-
+ment ne pouvait encore compter sur la sécurité et
+l'ordre nécessaires aux travaux de la paix; l'expé-
+rience des partis n'était point assez complète.
+
+
+En 1856, à l'époque où le général O'Donnell prit
+le gouvernement, il était facile de constater dans le
+pays un épuisement général, suite de la révolution et
+de ses conséquences violentes. Les émeutes sans
+cesse renouvelées, les combats dans les rues ou sur
+de véritables champs de batailles, le marasme dans
+lequel ces luttes, sans cesse renouvelées, jetaient le
+
+
+10.
+
+
+114
+
+
+HISTOIRE DE LA GUERRE
+
+
+pays, tout contribuait à entretenir dans les esprits
+ce besoin irrésistible de la paix intérieure, qui saisit
+parfois les peuples fatigués et leur dicte des réso-
+lutions qui étonnent l'histoire. Mais s'il en était
+ainsi des populations de la capitale et des provin-
+ces, il fallait ne pas se tromper aux apparences, et
+c'eût été une erreur de croire que les partis avaient
+désarmé. Cent fois vaincus et cent fois renaissants,
+ils tendaient à s'amoindrir sans doute, mais ils
+étaient encore plus divisés qu'affaiblis. Constitués
+tels qu'ils l'étaient alors, en proie à mille dissensions,
+à des déchirements qui les épuisaient plus que les
+luttes contre le pouvoir, ils comprirent que c'en était
+fait d'eux si Espartero quittait le pouvoir, et qu'avec
+un homme comme O'Donnell, le gouvernement
+viendrait bientôt à bout de les réduire tour à tour.
+C'est alors qu'ils adoptèrent, en vue d'une lutte
+contre le nouveau Cabinet, une tactique habile et
+qui réussit plus tard, au contraire du but qu'ils se
+proposaient, à amener les grands résultats acquis
+aujourd'hui. Ils se fondirent en deux grandes frac-
+tions réunissant les groupes d'opposition précédem-
+ment séparés. L'un de ces partis était celui des pro-
+gressistes modérés et des conservateurs libéraux. Ses
+idées générales tendaient à une conciliation sincère,
+à une pacification aussi radicale que possible de
+toutes les rancunes. L'autre, au contraire, inspiré
+par les idées les plus avancées, se glorifiant de son
+radicalisme démocratique, ne voulait qu'agiter et
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+115
+
+
+en quelque sorte organiser le désordre, seule con-
+dition favorable aux intérêts, aux amours-propres,
+aux succès de ses membres. Ces agitateurs sans but,
+ces révolutionnaires sans idées, étaient, en effet,
+moins nombreux que leurs adversaires, mais en
+revanche ils avaient une activité, une énergie, dont
+sont rarement douées les majorités. Les premières
+heures de l'existence du cabinet O'Donnell furent
+prises par les préoccupations que lui causa la san-
+glante émeute qui, dès son installation, éclata dans
+Madrid. Les progressistes radicaux ne purent suppor-
+ter l'idée de la chute d'Espartero et de l'élévation de
+son rival; ils virent dans ces faits le terme de l'in-
+fluence qu'ils exerçaient encore sur les populations
+comme dans le gouvernement. Ils prirent la résolu-
+tion qui pouvait leur être la plus fatale : ils offrirent
+le combat à un homme qui précisément était trop
+loyal pour les attaquer, mais aussi trop ferme pour
+subir ces manifestations armées auxquelles si peu
+de ministres avaient pu résister.
+
+
+Toute la journée du 15 juillet fut pour Madrid
+une journée de deuil. La milice, soulevée, se battit
+pendant vingt-quatre heures contre les troupes du
+gouvernement. Le 16, au matin, les généraux Ser-
+rano et Concha, amis d'O'Donnell, en finissaient
+avec cette révolte, dont le retentissement alla éveiller
+à Saragosse et à Barcelone les vieux échos insur-
+rectionnels, qu'il fallut apaiser là comme à Madrid.
+Ce fut la dernière révolte dont l'Espagne ait eu le
+
+
+116
+
+
+HISTOIRE DE LA GUERRE
+
+
+triste spectacle. A la vigueur de ses coups, le vieux
+radicalisme espagnol retrouva la supériorité d'O'Don
+nell.
+
+
+Il est certain qu'alors, dès la fin de la lutte, on
+s'accorda à reconnaître que pour longtemps la
+guerre civile était terminée et l'Espagne pacifiée. Ce
+fut la pensée des hommes politiques d'alors; ce fut
+aussi la pensée du ministre de la Reine, qui put se
+croire définitivement maître de la situation. Il le fut
+en effet quelque temps; mais, chose bizarre! се
+furent précisément les qualités incontestables, la
+sagesse, l'intelligence, la modération du général
+ministre qui modifièrent cette situation.
+
+
+Pour peu qu'on ait remarqué le caractère du gé-
+néral O'Donnell tel que nous avons cherché à le tra-
+cer et tel que nous le croyons être d'après ses actes
+et sa vie entière, on ne s'étonnera point de le voir
+entrer, dès les premiers jours de son administration,
+dans cette voie ferme, mais libérale, aussi opposée
+aux réactions habituelles des pouvoirs qui héritent
+d'une révolution qu'aux menteuses amorces d'une
+détestable popularité. O'Donnell, par une noble et
+généreuse erreur, crut que le moment était vrai-
+ment arrivé de gouverner, non point avec les pas-
+sions mais avec la justice, le droit et avec cette
+indulgence naturelle aux hommes forts et aux grands
+caractères.
+
+
+Après la dissolution des Cortès constituantes, ar-
+rivée le 2 septembre, le Cabinet dont O'Donnell
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+117
+
+
+était le président, et qui comptait parmi ses mem-
+bres M. Rios-Rosas, ministre de l'intérieur, pensa
+qu'il fallait éviter tout ce qui pourrait donner licu
+à des accusations de vengeances politiques et de hai-
+nes personnelles. Il s'abstint de violences et accorda
+à chacun une sage et large mesure de liberté.
+
+
+Son premier soin fut de donner satisfaction à l'o-
+pinion publique en expliquant la conduite entière-
+ment constitutionnelle du maréchal O'Donnell et du
+Cabinet. C'est dans l'exposé des motifs du décret
+de la suppression de la milice nationale que l'on
+trouve la complète justification des actes du gouver-
+nement. Ce document, dont la rédaction appartient
+à M. Rios-Rosas, est signé par MM. Léopoldo O'Don-
+nell, Nicomedes Pastor Diaz, Cirilo Alvarez, Manuel
+Cantero, Pedro Bayarri, Antonio de los Rios-Rosas,
+José Manuel Collado. Après avoir démontré, preuves
+en main, que la garde nationale (appelée milice en
+Espagne), loin d'avoir été le soutien et la garantie
+de l'ordre public, s'était toujours convertie en une
+véritable armée de la révolte, -un motif perpétuel de
+troubles et de discordes, - un sujet de craintes pour
+les classes conservatrices, - un poison corrupteur
+pour les prolétaires, un obstacle à la production,
+et au commerce, une opposition armée aux ré-
+formes politiques et à la marche de tous les gouver-
+nements et une entrave au développement du
+progrès et du régime constitutionnel, M. Rios-Rosas
+fait ressortir l'agression de ces masses indisciplinées
+
+
+118
+
+
+HISTOIRE DE LA GUERRE
+
+
+et la conduite légale du gouvernement, par ces mots
+ que nous reproduisons textuellement:
+
+
+<<< Il est de notoriété publique en Espagne et dans
+l'Europe entière que l'initiative de l'agression n'est
+pas partie du gouvernement. La force citoyenne de
+Madrid, et, à son exemple, presque toute celle du
+royaume, s'est soulevée contre l'autorité royale, par
+le seul fait que Votre Majesté, usant de son droit con-
+stitutionnel, a bien voulu acepter la démission, plu-
+sieurs fois offerte, de l'antérieur président du con-
+seil (Espartero). Ce conflit une fois éclaté, le trône
+étant attaqué dans ses prérogatives les plus essentiel-
+les, et la discussion pacifique ayant fait place à la ré-
+volte armée, le gouvernement n'avait d'autre alter-
+native que d'accepter la lutte provoquée par ces
+masses insensées, défendre et soutenir le trône et sau-
+ver le principe d'autorité. Mais sa mission ne devait
+se borner là. Il lui fallait anéantir le germe toujours
+menaçant d'une épouvantable catastrophe sociale et
+rétablir solidement les bases de l'ordre public, sans
+cesse menacé. » (Gazette de Madrid, du 21 août
+1856.)
+
+
+Au point de vue administratif, M. Rios-Rosas,
+homme éminent, d'un juste et haut esprit, prépara
+les mesures principales dans lesquelles devait serésu-
+mer la politique du Cabinet; il traça un intelligent
+programme des réformes qu'il projetait d'introduire
+dans la plupart des services publics, et de l'économie
+qu'il voulait apporter dans la question financière.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+119
+
+
+En réalité, le ministère du 14 juillet s'annonçait
+comme un ministère moins préoccupé des questions
+politiques que des grands intérêts moraux et maté-
+riels qui, dans la péninsule attendaient encore une
+haute initiative et une impulsion vigoureuse pour se
+développer. Ce fut là sa faute, si l'on peut qualifier
+ainsi d'aussi généreuses intentions. Malheureusement
+l'expérience a prouvé qu'à certaines époques, ce ne
+sont pas les faits les plus rationnels, les actes les
+plus intelligents qui obtiennent l'adhésion des peu-
+ples et des partis. Or, les victoires du président du
+conseil n'avaient pu calmer les inquiétudes générales;
+on se sentait attaqué, on ne se croyait pas défendu.
+L'indulgence ou même l'équité d'O'Donnell passè-
+rent pour de la faiblesse aux yeux des coteries ré-
+rogrades qui, aussi coupables que les démocrates
+eux-mêmes, entretenaient sans cesse, par leur aveu-
+glement, un état de danger pour le trône. Après la
+crise que l'on venait d'éprouver, on était affamé de
+répression. La défiance était partout; l'opinion, vive-
+ment excitée par les conservateurs, ne se trouvait
+point satisfaite avec les mesures d'ordre qui parais-
+saient suffisantes aux ministres. La presse, qui avait
+longtemps joui d'une liberté sans égale, devait être
+sacrifiée; les libertés publiques devaient être sup-
+primées; on allait jusqu'à souhaiter que le gouver-
+nement régulier d'O'Donnell fût remplacé par une
+dictature sans limite et sans frein, libre d'agir selon
+son caprice et, pour ainsi dire, au gré de ses pas-
+
+
+120
+
+
+HISTOIRE DE LA GUERRE
+
+
+sions, à la condition qu'elle agirait contre ceux que
+l'on appelait, avec quelque vérité, les ennemis de
+l'ordre public.
+
+
+Le général, par son caractère et ses antécédents,
+par sa loyauté, ne pouvait adopter ni remplir un pa-
+reil rôle sans compromettre les biens précieux
+dont il voulait doter son pays. Il resta donc en butte
+aux attaques des conservateurs, dont l'exagération
+l'accusait, et qui, aux Cortès, formaient un parti
+nombreux et puissant. Attaqués chaque jour avec vio-
+lence, le général et le Cabinet tout entier essayèrent
+de résister à des entraînements dont ils entrevoyaient
+les dangers; mais on n'attendait qu'une occasion pour
+renverser le ministère, et O'Donnell ne l'ignorait
+pas. Déjà à propos de l'application de la loi de désa-
+mortissement qu'O'Donnell voulait différer, le Cabi-
+net avait subi une modification qui avait failli lui
+êtře funeste. Le ministre des finances, M. Cantero,
+qui réclamait l'exécution de la loi, avait donné sa
+démission, et à ce sujet le débat avait pris aux Cor-
+tès des proportions dangereuses. On était alors au
+mois d'octobre; depuis quatre mois le Cabinet se
+débattait au milieu de difficultés de toute nature;
+cependant il paraissait devoir prolonger encore son
+existence. Tout à coup on apprit le retour de Nar-
+vaez à Madrid; sa présence à la cour, au milieu
+d'une grande fête, fut d'autant plus remarquée qu'il
+fut accueilli par la Reine avec une faveur qui,
+pour tous les assistants, marquait son prochain re-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+121
+
+
+tour aux affaires. En présence d'une telle situation,
+O'Donnell, fidèle à ses principes, qui ne lui permet-
+taient pas de donner aux sentiments de la Reine
+la satisfaction qu'elle demandait, quitta la direction
+des affaires, et donna sa démission, qui entraîna
+celle de ses collègues. Le 12 octobre 1856, le nou-
+veau Cabinet Narvaez était constitué, et le duc de
+Valence se trouvait, encore une fois, l'arbitre des
+destinées de l'Espagne.
+
+
+XXX
+
+
+Rien ne prouve mieux la puissance des circon-
+stances et le danger des restaurations tentées en de-
+hors des idées acquises et des faits nouveaux que
+le retour du général Narvaez aux affaires, son im-
+puissance et sa chute sans éclat.
+
+
+Le duc de Valence, lorsqu'il avaitpris le pouvoir,
+en 1843, après la régence d'Espartero, apportait à
+l'Espagne un bien inestimable, dont elle était affa-
+mée : l'amour de l'ordre public. En outre, le nouveau
+maître de ses destinées paraissait offrir, par son ca-
+ractère et par ses actes, des garanties à l'esprit reli-
+gieux et conservateur. Son gouvernement, quelque
+absolu qu'il pût être, marchait d'accord avec les sen-
+timents du pays; la compression, l'absence de liberté
+
+
+11
+
+
+122
+
+
+HISTOIRE DE LA GUERRE
+
+
+lui semblaient des inconvénients nécessaires après
+les longues épreuves que l'esprit révolutionnaire lui
+avait imposées; et le bonheur de Narvaez fut d'ar-
+river à son heure, au milieu de circonstances favo-
+rables et dans des conditions telles qu'il n'avait qu'à
+suivre les impulsions de son bon sens pour satisfaire
+à la fois le pays, la Reine et lui-même. Il n'en fut
+pas ainsi en 1856; Narvaez était resté le même,
+mais les circonstances avaient changé et avec elles
+l'esprit de la nation.
+
+
+Sans doute, l'origine du Cabinet du 12 octobre,
+bien que peu faite pour inspirer ce haut degré de
+considération nécessaire au pouvoir, n'était pas de
+nature à lui enlever le prestige que la personnalité
+du général exerçait encore et à diminuer son auto-
+rité; cependant, même aux yeux de ses amis, il eût
+mieux valu pour le duc de Valence qu'il ne reçût
+pas le gouvernement de l'État  la suite d'une sorte
+d'intrigue de camarilla, et que sa rentrée aux affaires
+se fût produite d'une façon plus naturelle et plus
+politique. Cette espèce de méfiance, suscitée par une
+circonstance d'ailleurs sans portée, s'attacha tout
+d'abord aux moindres actes du nouveau président du
+conseil. Le choix qu'il fit de ses collègues fut l'objet
+d'un examen scrupuleux, et l'on ne remarqua pas
+sans inquiétude l'entrée au ministère de l'intérieur
+de M. Candido Nocedal, absolutiste fougueux au-
+tant qu'il avait été progressiste avancé en 1840, dont
+le caractère hautain et les idées rétrogrades n'é-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+123
+
+
+taient pas de nature à favoriser cette fusion géné-
+rale des partis qu'O'Donnell n'avait pas eu le temps
+d'effectuer, mais dont la pensée était alors dans tous
+les esprits. Les Cortès étaient, d'ailleurs, divisés en
+petites fractions d'opinions, se déchirant les unes les
+autres, en compétition constante d'amour-propre et
+d'intérêts; et il faut le dire, le parti conservateur
+offrait lui-même le plus triste exemple de ces dé-
+plorables divisions
+
+
+Certes, il entrait dans la pensée du parti conser-
+vateur libéral, dont O'Donnell était devenu le chef,
+de modifier la constitution ou plutôt d'en revenir
+aux principes généraux de celle de 1845, d'élever
+des obstacles à l'esprit libéral qui tendait chaque
+jour à exagérer ses tendances et à se faire révolu-
+tionnaire, de réprimer la presse en renfermant la
+discussion dans certaines limites, enfin de jeter
+dans les lois organiques, encore à faire, le principe
+d'autorité dont les Cortès avaient sans cesse tendu
+à les priver; le parti conservateur voulait cela sans
+doute et aussi que l'on cherchât un moyen de con-
+cilier le concordat avec la loi de désamortissement,
+et surtout que l'on rétablît les bons rapports avec
+la Cour de Rome, mais il voulait tout cela avec me-
+sure et discrétion. Il voulait rétablir bien des choses
+fondées autrefois par Narvaez lui-même, mais non
+toutes les choses qu'avait créées le général et
+que le pays avait adoptées à une époque différente.
+Les conservateurs libéraux, tout comme le pays,
+
+
+124
+
+
+HISTOIRE DE LA GUERRE
+
+
+du reste, avaient aperçu une solution favorable et
+normale, libérale en même temps que modérée, dans
+les idées et la politique d'O'Donnell; ils avaient
+compris que, malgré de grandes difficultés, cette
+politique était celle à laquelle on reviendrait tôt
+ou tard, et ils espérèrent un instant que, com-
+prenant mieux les temps et les hommes, le duc de
+Valence romprait avec ce que ses anciens errements
+pouvaient avoir d'exagéré, et chercherait dans un
+milieu favorable le développement d'une politique
+ferme et modérée à la fois dans ses principes.
+
+
+Il n'en fut pas ainsi. Avec Narvaez revinrent, au
+contraire, les errements d'un régime abandonné, les
+traditions, les vices même d'ún système qui avait eu
+évidemment son utilité, mais dont l'application ri-
+goureuse était devenue impossible. Dès les premiers
+jours de son administration, le duc de Valence et
+l'Espagne reconnurent qu'ils ne s'entendaient plus.
+En effet, tandis que le pays, au milieu des désor-
+dres que nous venons de raconter, avait assez goûté
+de la liberté pour en vouloir garder une part pré-
+cieuse et désormais inhérente à sa vie publique,
+Narvaez, lui, avait marché dans un, sens contraire,
+dans le sens de l'autorité absolue. Les événements
+accomplis depuis son départ n'avaient fait que le
+confirmer davantage dans les idées par lesquelles il
+avait triomphé autrefois; ils avaient exercé une toute
+autre action sur le peuple et sur les partis. Ce ne
+fut donc pas sans une inquiétude sérieuse que les
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+125
+
+
+hommes politiques de ce temps le virent s'er-
+gager dans une voie qu'ils jugeaient déplorable,
+et par un revirement qui ne s'explique nettement,
+après tout, que si l'on veut tenir compte des pas-
+sions et des intérêts individuels, surtout de l'inex-
+périence de la plupart des hommes admis depuis
+vingt ans à peine à diriger le pays au milieu des plus
+singulières complications; la même politique dont
+le souvenir était encore vivant dans tous les esprits,
+et dont on n'avait pas oublié les bienfaits, parais-
+sait maintenant incompatible avec les idées que le
+système, à peine entrevu, mais déjà apprécié d'O'Don-
+nell, avait fait naître.
+
+
+Les événements ne tardèrent pas à donner raison
+à cette opinion qui s'emparait même d'un grand
+nombre des amis de Narvaez.
+
+
+On sait que les Cortès constituantes avaient pro-
+duit un spécimen de constitution impossible dont le
+fond était pris dans l'œuvre de 1812. O'Donnell
+s'était bien gardé d'adopter cet essai informe et
+inapplicable. Il avait fait admettre la constitution
+conservatrice de 1845, mais en la modifiant dans
+celles de ses parties qui investissaient l'autorité d'un
+pouvoir trop étendu. Narvaez replaça l'Espagne
+sous l'empire de cette constitution, son œuvre à lui,
+mais sans tenir compte des modifications de son
+prédécesseur.
+
+
+Elle fut rétablie dans son intégralité. Le concor-
+dat reprit force de loi, et le désamortissement fut
+
+
+11.
+
+
+126
+
+
+HISTOIRE DE LA GUERRE
+
+
+tout à coup suspendu. C'était, il faut le reconnaître,
+une bonne mesure; mais en lui donnant un effet
+rétroactif, le gouvernement blessait des intérêts et
+des droits respectables et donnait ainsi la mesure de
+ses pensées. Il formait, d'ailleurs, d'autres projets;
+il avait d'autres principes à relever. Renouer les
+rapports avec le Saint-Siége, opérer des économies
+dans le budget en même temps que créer des res-
+sources financières, reconstituer les municipalités,
+telle était, en partie, la grande tâche dans laquelle
+il fallait apporter une véritable fermeté, mais aussi
+un grand esprit de conciliation.
+
+
+La session s'ouvrit le 18 mai 1857, et les partis
+se trouvèrent en présence. Dès les premiers jours il
+fut facile de voir que la situation n'était plus celle
+de 1843, et que le duc de Valence n'avait plus ni
+la même influence ni le même pouvoir.
+
+
+Jamais peut-être aucune chambre, dans un gou-
+vernement représentatif, n'avait offert un plus cu-
+rieux et un plus déplorable spectacle que celui
+qu'on pouvait remarquer parmi les Cortès de 1857.
+
+
+Les partis, divisés en deux groupes principaux,
+les conservateurs et les progressistes, qui avaient
+absorbé les nuances extrêmes des deux côtés, se
+subdivisaient ensuite en une multitude de fractions
+dominées, les unes par des opinions flottantes, in-
+certaines, soumises à tous les caprices des événe-
+ments, les autres par des rivalités personnelles, des
+ambitions, des convoitises ou des intérêts.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+127
+
+
+Parmi les conservateurs on pouvait compter la
+petite phalange des absolutistes purs, noyau fidèle
+au duc de Valence et surtout à M. Nocedal, qui en
+était la plus sévère expression; les semi-absolutis-
+tes, absorbés par leurs rêveries d'une réforme dans
+l'État, mais ne sachant ni la concevoir ni la formu-
+ler; les constitutionnels, se bornant à défendre l'or-
+ganisation politique de 1845; enfin les conservateurs
+libéraux, engagés à divers degrés dans la révolu-
+tion et formant, en quelque sorte, l'extrême limite
+par laquelle le parti conservateur se rapprochait des
+progressistes.
+
+
+Ceux-ci comptaient parmi eux les progressistes
+modérés (c'était le plus grand nombre), qui avaient
+placé leur espoir dans le général O'Donnell, et les
+progressistes proprement dits, dont le général Es-
+partero avait été un instant le guide, et qui regret-
+taient la fusion d'ailleurs impossible entre le duc
+de la Victoire et le comte de Lucena; puis, à l'extré-
+mité du parti, on remarquait les progressistes purs
+et les progressistes démocrates.
+
+
+Cependant, et malgré ces divisions qui, au pre-
+mier aperçu, semblent devoir rendre tout gouver-
+nement impossible, il était facile de remarquer
+qu'un système conservateur modéré, offrant des
+garanties à ce que l'opinion libérale a de bon et de
+pratique, eût réuni une assez nombreuse majorité
+et assuré le libre et fécond exercice du gouverne-
+ment constitutionnel. Narvaez commit la faute de
+
+
+128
+
+
+HISTOIRE DE LA GUERRE
+
+
+ne pas voir cette disposition des esprits, ou de n'en
+pas vouloir tenir compte. Dès l'ouverture de la ses-
+sion, un débat très-vif s'engagea à propos d'un
+amendement qu'un membre du Sénat essaya d'in-
+troduire dans la discussion de l'adresse à la Reine.
+Le général Calonje demandait que dans la réponse
+au discours royal on insérât un paragraphe relatif
+à l'esprit d'insubordination militaire qui paraissait
+dominer en Espagne, et conçu dans des termes de
+nature à jeter le blâme le plus absolu sur ces ten-
+dances qu'il trouvait funestes pour l'avenir du pays.
+C'était un défi et une injure aux vicalvaristes, aux-
+quels quelques expressions de l'amendement pa-
+raissaient, d'ailleurs, faire allusion.
+
+
+Narvaez combattit l'amendement au nom de l'es-
+prit de conciliation qui le dominait malgré lui, et il
+l'invoquait déjà comme une nécessité; mais le géné-
+ral O'Donnell crut devoir défendre et sa politique
+et sa vie militaire. Il le fit avec la chaleur d'un
+homme convaincu. Le duc de Valence répondit;
+le débat s'agrandit, et tout le cabinet ne tarda pas
+à y prendre part. M. Pidal et M. Nocedal sur-
+tout se montrèrent aussi ardents que le président
+du conseil désirait rester modéré. Le comte de
+Lucena, attaqué lui-même avec violence, se dé-
+fendit avec habileté; il rappela sa vie militaire et
+les services qu'il avait rendus à son pays; il montra
+avec une irrésistible puissance que les vicalvaristes
+n'étaient pas précisément ceux auxquels il fallait
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+129
+
+
+adresser de pareilles admonitions. Cette discussion
+se termina évidemment à l'avantage du Cabinet, mais
+elle le laissa affaibli et presque déconsidéré. Le mi-
+nistère n'en aperçut que le résultat matériel, et se
+crut raffermi alors qu'il était violemment ébranlé.
+
+
+La loi sur la presse, présentée par M. Nocedal,
+indisposa un grand nombre de partisans du mi-
+nistère par les dispositions rigoureuses qu'elle
+édictait. Le vote, après une très-vive discussion,
+fut encore favorable au Cabinet. Moralement c'était
+une défaite. A la suite de cette discussion le Cabinet
+fut abandonné par les conservateurs libéraux :
+<<< Encore une victoire semblable, disait un ami du
+>> ministère, et nous sommes perdus. >>>
+
+
+On le comprit au pouvoir, et après une session
+de trois mois à peine, les Cortès furent dissoutes, le
+16 juillet 1857. C'était une mesure de prudence, et
+par là le Cabinet échappait à un danger. Malheu-
+reusement il avait à faire face à d'autres difficul-
+tés, et il devait bientôt succomber à la tâche.
+
+
+Une insurrection éclata dans l'Andalousie à la
+suite de la dissolution des Cortès. Elle fut promp-
+tement et rigoureusement réprimée; mais comme
+si tous les actes du ministère eussent été frappés
+de vertige, on alla trop loin dans les mesures ré-
+pressives ordonnées par le président du conseil. On
+répandit du sang inutilement; Narvaez, responsable
+aux yeux de tous, fut déconsidéré et abandonné.
+Ce fut alors que, poussé par le sentiment de l'im-
+
+
+130
+
+
+HISTOIRE DE LA GUERRE
+
+
+popularité qu'il assumait sur lui-même, le général
+Narvaez, compromis par l'absolutisme inexpéri-
+menté de M. Nocedal, chercha, mais en vain, a opé-
+rer une fusion sur laquelle il pût s'appuyer. Il avait
+excité les défiances, et le prestige qui l'entourait
+autrefois avait disparu. D'un autre côté, il se sentait
+moins soutenu par le pouvoir royal. La Reine, en
+effet, avait suivi, avec cette nette et rare intelligence
+qui la distingue, les phases diverses de la politique
+de ses ministres actuels. Elle comprenait que cha-
+que jour ils s'éloignaient davantage de la voie qu'elle
+leur avait elle-même indiquée, et que le moment ne
+tarderait pas où ils devraient quitter le pouvoir. Un
+incident ne tarda pas à fournir aux ministres des
+clartés décisives sur les sentiments de la Reine.
+
+
+Le général Concha, depuis longtemps capitaine
+général de Cuba, avait été rappelé; le cabinet, pour
+pourvoir à son remplacement, avait fait choix d'un
+de ses membres, le général Lersundi, ministre de
+la marine. Lorsque le décret qui désignait ce mi-
+nistre pour la grande et lucrative situation de gou-
+verneur de la colonie fut soumis à sa sanction,
+Sa Majesté refusa sa signature. Nécessairement
+les ministres virent dans un pareil refus, d'ailleurs
+non motivé, une marque de défiance, et ils offri-
+rent leur démission. La Reine la refusa. Mais bientôt
+après, le 1 octobre 1857, le même fait s'étant
+renouvelé à propos d'une nomination de sénateurs,
+le ministère donna irrévocablement sa démission,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+131
+
+
+qui, peut-être, d'ailleurs, était désirée, et qui fut
+acceptée.
+
+
+Nous dirons peu de chose des Cabinets Armero
+et Isturitz, malgré l'intérêt qui s'attache à des tenta-
+tives honorables, faites par des hommes intelligents
+et bien intentionnés, mais auxquels les circon-
+stances, les espérances et les exigences des popula-
+tions enlevaient la plus grande partie de leur autorité.
+Insuffisants à soumettre ou à enlever les factions,
+ou bien encore à les annihiler, en partie du moins,
+en les fusionnant, le Cabinet Armero comme celui
+de M. Isturitz ne furent que des transitions qu'on
+aurait dites choisies par la couronne pour faciliter le
+retour de celui que l'on considérait comme seul ca-
+pable de sauver la situation.
+
+
+En effet, le 28 juin 1858, le général O'Donnell
+était appelé à la présidence du conseil, avec le porte-
+feuille de la guerre.
+
+
+Cette nomination fut saluée par le pays comme
+l'inauguration d'une ère de réconciliation, de ré-
+paration et de moralité. C'était ouvrir franchement
+les portes au système constitutionnel que l'Espagne
+avait cherché à fonder au prix de tant de sang et
+de sacrifices. Le pays, instruit par ses malheurs
+après de si cruelles épreuves, s'étant livré à tous les
+partis sans éprouver autre chose que des déceptions,
+sentit que l'avénement au pouvoir du comte de Lu-
+cena était pour tous un gage de stabilité et de régé-
+nération. Il suffira de jeter un coup d'œil rétrospec-
+
+
+132
+
+
+HISTOIRE DE LA GUERRE
+
+
+tif en arrière pour bien apprécier les vœux de la
+nation et justifier sa confiance dans le nouvel élu de
+la Reine.
+
+
+Dans la première époque de la révolution de 1833
+à 1848, on justifia tous les excès et tous les abus
+par la guerre civile qui déchirait la Catalogne,
+les provinces Basques, l'Aragon et Valence. Tous
+les vœux, toutes les espérances se tournaient vers
+la paix, et la paix arriva en 1840. La révolution,
+personnifiée dans Espartero, institua la régence, et
+l'offrit à la nation comme le seul moyen de salut :
+mais la régence ne répondit pas aux espérances
+qu'on y avait fondées. On dit alors aux peuples de
+la Péninsule : « Attendez la majorité de la Reine! >>>
+La jeune Reine, en effet, fut déclarée majeure
+en 1843, et les progressistes, complétement battus,
+durent céder la place au parti conservateur. Narvaez
+succéda à Espartero.
+
+
+Jamais parti n'a eu plus complétement les coudées
+franches. Rien ne lui a manqué. Il a eu l'appui du
+trône, celui de l'armée, du clergé et des chambres.
+La garde nationale et les municipalités lui étaient
+hostiles, il les a supprimées. Il révisa la constitution
+de 1837 et proclama celle de 1845. Le jury fut
+aboli et remplacé par des tribunaux spéciaux, en-
+tièrement dévoués à la situation. Il lui fallait l'appui
+de la France, et le gouvernement français lui fit
+toute espèce de concessions.
+
+
+Il avait déjoué toutes les conspirations, chassé
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+133
+
+
+du parlement ses adversaires et disposé en maître
+de la situation. A la tête de ce parti se trouvait
+un homme dont nous avons exposé la politique,
+et dont il est impossible de méconnaître la haute
+valeur et les services rendus au pays. Cependant,
+malgré tous ces avantages, le malaise et le mécon-
+tentement ne disparaissent pas de l'Espagne. Nous
+avons vu pourquoi.
+
+
+De même que les conservateurs, le parti progres-
+siste a eu aussi l'appui du trône, il a été presque
+roi dans la personne de son chef. Il a eu également
+dans les chambres l'unanimité des votants. Il lui
+fallait une puissance étrangère pour contrebalancer
+l'action du gouvernement français, sur lequel s'ap-
+puyaient les conservateurs: l'Angleterre a mis à son
+service son argent et sa diplomatie. Il avait besoin
+de l'armée, des municipalités et de la garde natio-
+nale: l'armée, les municipalités et la garde natio-
+nale lui étaient dévouées. Il lui fallait une constitu-
+tion qui le mît à son aise: la constituante vota
+sans contrôle la constitution de 1837, œuvre ex-
+clusive du parti progressiste, car les conservateurs
+étaient alors écrasés ou en exil. Que manquait-il
+done au parti progressiste pour être fort, pour
+rester au pouvoir? En apparence rien. Cependant
+il s'évanouit, en 1843 et en 1856, au moindre souffle
+de ses adversaires, comme le parti ultra-conserva-
+teur s'évanouit en 1840 et en 1854.
+
+
+L'explication de ce fait bizarre, qui ne tendrait à
+
+
+12
+
+
+134
+
+
+HISTOIRE DE LA GUERRE
+
+
+rien moins que de donner à penser que l'Espagne
+est un pays ingouvernable, est cependant bien na-
+turelle.
+
+
+Si la théorie du régime constitutionnel est la
+même pour tous les partis, son application diffère
+selon les idées et les tendances des divers ministres
+chargés de gouverner. Or, si Espartero et Narvaez
+furent trop exclusifs, chacun dans son sens, la Reine
+et la nation le comprirent, et ne purent voir dans
+ces deux hommes que des politiques passionnés,
+l'un pour une pratique soumise aux influences
+d'une démocratie turbulente, l'autre pour des théo-
+ries excellentes en elles-mêmes, mais dont l'appli-
+cation ne saurait être absolue sans dangers.
+
+
+O'Donnell seul, par ses antécédents, par son gé-
+nie particulier, par le caractère de sa politique, sut
+réunir les esprits dans une politique de nature à
+donner satisfaction à tous les intérêts, à tous les
+besoins, à toutes les grandeurs de sa patrie. Seul
+il pouvait éviter les écueils où avaient échoué ses
+prédécesseurs; seul il pouvait raffermir le trône et
+assurer au pays l'ordre, la paix et les libertés publi-
+ques.
+
+
+Aujourd'hui l'illustre maréchal occupe encore le
+poste élevé dont l'a honoré la confiance de la Reine.
+Après un rapide examen des premiers actes de son
+administration, nous allons arriver aux faits politi-
+ques qui ont amené la guerre actuelle, et qui nous
+semblent devoir offrir à l'Espagne les conséquences
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+135
+
+
+les plus heureuses pour le présent, les plus fécon-
+des, les plus rassurantes pour l'avenir.
+
+
+XXXI
+
+
+Le ministère Isturitz dont, pas plus que du Cabi-
+net qui l'avait précédé, nous n'avons cru nécessaire
+de retracer la vie agitée et sans force, laissait au ma-
+réchal O'Donnell un héritage difficile; mais il faut
+reconnaître que les embarras, les obstacles de toute
+nature que devaient inévitablement rencontrer les
+hommes choisis par la Reine pour donner enfin une
+vie régulière et normale aux institutions constitution-
+nelles, ne provenaient pas seulement de l'impuis-
+sance du dernier ministère; leur origine remontait
+plus loin, et l'on a dû remarquer que depuis l'in-
+stallation en Espagne du système actuel, pas un Ca-
+binet, à quelque nuance qu'il ait appartenu, de
+quelque valeur que fussent les hommes qui le com-
+posaient, quelles qu'aient été ses vues, ses projets,
+ses idées, aucun n'a pu parvenir à exercer régu-
+lièrement et d'une façon définitive un régime ac-
+cepté cependant par le pays et que personne, si
+ce n'est quelques rares démocrates, ne songe à
+changer.
+
+
+Au milieu des péripéties dans la plupart des-
+
+
+136
+
+
+HISTOIRE DE LA GUERRE
+
+
+quelles il avait pris un si grand rôle, le général
+O'Donnell avait profondément étudié la situation en
+elle-même et particulièrement le jeu des partis. Il
+avait devinél es mobiles divers qui les poussaient, eux
+et leurs chefs; ses relations avec les hommes les plus
+importants dans toutes les nuances de l'opinion, la
+connaissance qu'il possédait de leurs idées, de leurs
+sentiments, de la rivalité qui les séparait et des né-
+cessités qui les unissaient en quelque sorte malgré
+eux, tout lui inspira la pensée à laquelle l'Espagne
+devra son salut, et à laquelle elle doit sa gran-
+deur actuelle. O'Donnell fonda l'Union libérale.
+
+
+D'autres raisons très-concluantes justifiaient à ses
+yeux la tentative qu'il allait faire en faveur de son
+pays.
+
+
+En jetant un coup d'œil autour de lui, le général
+O'Donnell put reconnaître que ce plan d'une Union
+libérale, qu'il avait conçu, était d'une exécution pos-
+sible, sinon facile, et pouvait valoir au pays et au
+pouvoir lui-même les plus heureux résultats.
+
+
+N'était-il pas, en effet, naturel de penser qu'une
+fusion serait facilement opérée entre des progressis-
+tes modérés et les modérés libéraux? Les progres-
+sistes conservateurs ne pouvaient-ils point s'accor-
+der, sous une direction énergique, avec M. Bravo-
+Murillo à droite, et à gauche avec MM. Pastor
+Diaz, Cantero, etc., etc.? Toutes les politiques
+représentées par les hommes éminents ne s'é-
+taient-elles pas, selon les circonstances, fondues dans
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+137
+
+
+deux opinions uniformes représentées par deux chefs
+illustres, et n'avaient-elles pas échoué?
+
+
+De tous les hommes remarquables en Espagne par
+leurs talents, leurs idées, leur caractère, quel était
+donc celui qui avait pu garder le pouvoir et organiser
+les partis? Aucun. Parmi tous ces chefs de parti, sui-
+vis chacun d'un petit groupe de fidèles, en était-il
+un seul assez fort par ses talents et son caractère,
+possédant assez l'estime des uns et la sympathie
+des autres pour prendre dans ses mains la direction
+des affaires et la garder?
+
+
+Or c'était là ce que le général O'Donnell se sen-
+tait appelé à accomplir, et c'est ce qu'il a fait. Il
+eut l'idée d'une fusion basée sur des principes mo-
+dérés et libéraux à la fois et sur l'exercice loyal du
+système constitutionnel. Il créa l'Union libérale, dont
+les principes et l'action devaient rallier les extré-
+mités rapprochées des partis et gagner ainsi peu à
+peu les centres, laissant alors les oppositions ex-
+trêmes livrées à elles-mêmes et sans force devant un
+pouvoir également appuyé par tous les partis. La
+chute du Cabinet Isturitz lui fournit l'occasion en
+prévision de laquelle il avait mûri ses plans.
+
+
+Le jugement si sûr de la reine Isabelle ne la
+trompa point lorsqu'elle devina les pensées secrètes
+de l'homme vers qui, d'ailleurs, l'Espagne avait les
+yeux tournés; Sa Majesté choisit O'Donnell, non
+comme une dernière épreuve à faire d'un système
+condamné, mais, au contraire, comme la meilleure
+
+
+12.
+
+
+138
+
+
+HISTOIRE DE LA GUERRE
+
+
+expression d'un régime que des doctrines exagérées
+avaient menacé. On voit aujourd'hui combien cette
+épreuve a réussi.
+
+
+La composition du Cabinet, de même que les no-
+minations nombreuses que fit le général O'Donnell
+dans l'administration et dans l'armée, indiquèrent,
+dès son arrivée aux affaires, la tendance de son es-
+prit. Le Conseil d'État, reconstitué, fut composé de
+progressistes mêlés à des conserservateurs.
+
+
+M. de Santa Cruz, ami du duc de la Victoire, de-
+venait président de la Cour des comptes, tandis que
+M. Miguel Roda prenait la direction d'une des prin-
+cipales administrations financières.
+
+
+Au Sénat, MM. Cortina Cantero et le général Prim
+s'asseyaient à côté de MM. Pacheco et Pastor Diaz.
+Enfin les principales situations militaires étaient
+données aux généraux Ros de Olano, Serrano, Dulce,
+Echagüe, qui viennent de s'illustrer dans le Maroc à
+côté de leur chef. Les derniers choix étaient d'ail-
+leurs, aussi politiques que justes; il fallait évidem-
+ment pour rendre facile l'action du gouvernement
+qu'il eût entre les mains la force publique et ne fût
+point menacé par quelques-unes de ces insurrections,
+plaie éternelle de l'Espagne.
+
+
+Mais si la question importante du personnel de
+son gouvernement avait préoccupé le général O'Don-
+nell et lui avait dicté ces intelligentes mesures
+que le pays a vues peut-être avec étonnement, mais
+qui n'ont pas tardé à obtenir sa confiance, sa
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+139
+
+
+tâche ne se bornait pas là. La question gouverne-
+mentale se dressait hérissée de difficultés qu'il
+fallait résoudre avec promptitude, sous peine de voir
+s'écrouler cet échafaudage encore mal assuré. Il
+fallait sans retard convoquer les Cortès, et tout d'a-
+bord se présentait une première question, celle des
+élections. Or le cabinet Isturitz était tombé sur la
+question de la révision des listes électorales. Cette
+mesure fut précisément la première qu'ordonna le
+cabinet O'Donnell.
+
+
+XXXII
+
+
+On aura une juste idée de l'état de l'administra-
+tion politique en Espagne à l'époque où le général
+O'Donnell fut investi du pouvoir, par ce seul fait
+que dans certaines provinces, par exemple à Cacè-
+res, sur 2,733 électeurs inscrits sur les listes électo-
+rales, 941 l'étaient sans droit; à la Corogne, sur.
+796 inscrits, 300 ne payaient pas le cens fixé par la
+loi.
+
+
+On a discuté la légalité de la révision décrétée
+par le cabinet; ce n'était, a-t-on dit, qu'une mesure
+destinée à remanier le corps électoral de façon à
+lui faire nommer une chambre favorable à la poli-
+tique du gouvernement. Les faits que nous venons
+
+
+140
+
+
+HISTOIRE DE LA GUERRE
+
+
+de citer et mille autres de même nature en disent
+plus que tous les arguments, et ils expliquent le
+langage du Cabinet se plaignant de ce que, depuis
+l'introduction en Espagne du système représentatif,
+les éléments dont se composait le corps électoral
+avaient été constamment dénaturés; le jour était venu
+de déraciner ces abus et de rechercher l'expression
+véritable de l'opinion publique..
+
+
+D'ailleurs, le ministère ne s'en tenait pas là, et
+dès son début soulevait un coin du voile qui cachait
+ses idées. Si la révision des listes électorales et la
+dissolution des Cortès réjouissaient les progressistes,
+qui y voyaient de nouvelles chances de fortifier leur
+parti, d'un autre côté les conservateurs, quelque
+peu alarmés par ces symptômes, se rassuraient en
+voyant le décret qui faisait revivre la loi de 1855
+sur le désamortissement civil en réservant la ques-
+tion de désamortissement ecclésiastique, qui devait
+être l'objet de négociations nouvelles avec le Saint-
+Siége, et celle du maintien de la législation sur la
+presse, qui avait été l'un des griefs les plus vifs
+des Cortès contre le cabinet Narvaez.
+
+
+Enfin la circulaire du 21 septembre, adressée
+par M. Posada Herrera aux gouverneurs des pro-
+vinces pour guider leur marche dans les élections,
+et pour exposer les principes du gouvernement, valut
+immédiatement au Cabinet la confiance du parti libé-
+ral conservateur et, disons-le aussi, celle des pro-
+gressistes modérés.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+141
+
+
+Dans ce document, où le Cabinet s'attachait parti-
+culièrement à démontrer ce que devait être la fu-
+ture administration au point de vue de la pratique
+loyale du gouvernement représentatif, et où il traçait
+son programme en ce qui touchait aux grands travaux
+d'utilité publique et à la question des affaires, on re-
+marquait clairement l'attitude que voulait pren-
+dre le ministère, et par quel mobile il était poussé :
+<<< Le gouvernement, disait M. Posada Herrera, mi-
+>> nistre de l'intérieur, ne se croit pas obligé de
+>> favoriser des partis qui prétendent fonder la mo-
+>> narchie, chacun sur une constitution différente,
+>> qui aspirent à établir un système administratif,
+>> chacun suivant ses vues propres, et qui voudraient
+>> livrer les fonctions de l'Etat à un personnel ex-
+>> clusif. Il n'admet pas que des partis de cette na-
+>> ture puissent s'appeler constitutionnels, et il ne
+>> croit pas que la nation puisse en attendre d'au-
+>> tres fruits que le despotisme ou l'anarchie.... II
+>> y a de toutes parts des hommes honorables qui
+>> conservent par tradition certaines dénominations
+>> qui ne signifient plus rien de réel dans la plu-
+>> part des cas; il y a aussi une jeunesse pleine de
+>> nobles aspirations, obligée jusqu'ici de s'éloigner
+>> des affaires publiques ou de se fondre, en abdi-
+>> quant toute liberté, dans les anciens partis. Quand
+>> vous aurez obtenu l'appui de cette classe de per-
+>> sonnes, vous pourrez défier ces colères intempes-
+>> tives des fractions extrêmes..... >> On le voit, la
+
+
+142
+
+
+HISTOIRE DE LA GUERRE
+
+
+politique de l'Union libérale était tracée dans ce
+programme avec une franchise et une autorité dont
+sont capables seulement les gouvernements sûrs
+d'eux-mêmes et de l'appui de la nation.
+
+
+Mais il faut reconnaître que ce système de fusion
+avait l'avantage de réunir une majorité nombreuse,
+qu'il était possible de discipliner, et sur laquelle
+on devait pouvoir compter au bout d'un certain
+temps pour tout ce qui pouvait être jugé favorable
+au bien du pays; d'un autre côté, il prêtait à des at-
+taques spécieuses, autant qu'ardentes, des partis
+extrêmes, qui se plaignaient hautement de l'action
+absorbante du comte de Lucena et de la dissolu-
+tion des partis.
+
+
+Malgré les intrigues des exaltés et leurs efforts
+lors des élections, le pays envoya aux Cortès une
+chambre assez ministérielle pour que cette première
+épreuve pratique des théories du général O'Donnell
+l'engageât à persévérer dans cette voie.
+
+
+Sans doute l'opposition obtint quelques triom-
+phes, et les vingt ou vingt-cinq progressistes que
+le parti envoya sur les bancs des Cortès purent se
+féliciter de leurs succès; mais le cabinet n'en obtint
+pas moins une sérieuse et féconde victoire, quoiqu'il
+eût encore beaucoup à faire pour imprimer à cette
+majorité, encore peu homogène, le sentiment gou-
+vernemental et la discipline nécessaire à tout parti
+qui veut agir et gouverner.
+
+
+Nous n'avons pas à rappeler ici les divers inci-
+
+
+DE L'ESPAGNE AVEC LE MAROC. 143
+
+
+dents qui se sont produits dans une session encore
+si proche et qui, comme la dernière, a été féconde
+pour le pays. Le ministère, vivement attaqué par
+l'opposition conservatrice ardente et les progressistes
+démocrates, trouva dans le général O'Donnell un
+adversaire dont le haut caractère, l'éloquence et
+l'habileté déconcertèrent les plans les mieux com-
+binés; plusieurs fois les arguments élevés ou mor-
+dants du président du Conseil mirent en déroute,
+en les convainquant de contradiction et d'inconsé-
+quence, des hommes qui espéraient en avoir bon
+marché.
+
+
+Si la division du parti conservateur avait servi les
+plans du général, si la déconsidération politique
+qui chaque jour s'attachait aux progressistes contri-
+buait à affermir son pouvoir, d'un autre côté les
+événements qui ont marqué l'année 1859 sont ve-
+nus opérer dans les esprits une diversion qui, en
+les dégageant des préoccupations un peu étroites et
+des rivalités de l'intérieur, ont admirablement servi
+les intérêts du gouvernement.
+
+
+Jusqu'ici nous avons à peine eu à constater l'ac-
+tion extérieure dans la politique de l'Espagne; et
+cela se conçoit.
+
+
+Placée dans des conditions géographiques telles
+qu'elles créent à la Péninsule des limites naturelles
+et l'isolent des conflits, sinon des intérêts européens,
+l'Espagne a été, d'ailleurs, depuis près d'un demi-
+siècle, trop ravagée par les querelles intestines
+
+
+144
+
+
+HISTOIRE DE LA GUERRE
+
+
+pour être bien à même de porter son attention sur
+les débats qui, à différentes reprises, ont agité l'Eu-
+rope.
+
+
+La révolution de février avait peu influé sur sa
+situation; elle avait vu l'empire d'un œil satisfait,
+car elle se sentait à l'abri avec un voisin immédiat,
+puissant et populaire. Enfin la guerre de Crimée
+l'avait trouvée sinon indifférente, du moins inactive
+pour des intérêts qui ne pouvaient être que très-
+secondaires pour elle. Il n'en fut pas absolument
+de même relativement à la guerre d'Italie. Sans
+doute tout le monde fut d'accord dans le gouver-
+nement et dans les partis quant au principe de
+neutralité; mais on ne pouvait s'empêcher d'envisa-
+ger avec quelque inquiétude des événements qui, en
+affaiblissant dans de fortes proportions une puis-
+sance de premier ordre placée au centre de l'Eu-
+rope, pouvaient réagir même sur l'Espagne et exer-
+cer une influence pernicieuse sur l'état intérieur
+du pays.
+
+
+Les progressistes, il faut le dire à leur louange,
+furent les premiers à comprendre le véritable sens
+de cette guerre et à en approuver le principe. Aux
+Cortès et dans leurs journaux, ils ne manquèrent
+pas d'expliquer les grands et sérieux motifs du
+gouvernement français dans une telle entreprise;
+ils apprirent à la nation, assez peu au courant des
+affaires extérieures, quels heureux résultats pou-
+vaient et devaient être acquis aux populations ita-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+145
+
+
+liennnes par l'action de la politique et des armes de
+l'empereur Napoléon III. Ils célébrèrent ses victoi-
+res, comme si elles eussent été remportées par les
+vieilles bandes de Charles-Quint ou de Philippe II.
+
+
+Il n'en était pas tout à fait de même des conser-
+vateurs, à qui les motifs, les nécessités morales et
+les résultats de cette guerre échappaient.
+
+
+Fidèle à son système d'éclectisme politique, le
+cabinet tenait une juste balance entre les deux par-
+tis, manifestant hautement des sympathies pour la
+cause italienne, son admiration pour le dévouement
+de la France et le génie de son chef, mais d'un au-
+tre côté se préoccupant des proportions que pouvait
+prendre cette guerre et des effets que, dans ce cas,
+elle n'aurait pas manqué de produire dans la situa-
+tion de chacun des États de l'Europe. D'ailleurs,
+l'Espagne catholique, pas plus que son gouverne-
+ment, ne pouvait voir sans inquiétude une entreprise
+dans laquelle la papauté risquait de se trouver
+compromise et qui était de nature à modifier dans
+une large mesure les conditions d'existence du gou-
+vernement romain.
+
+
+On était arrivé à peu près au milieu de l'année
+1859; le gouvernement qui, dès son avénement
+avait fait de la vente des biens du clergé et de l'exé-
+cution définitive du désamortissement civil et ecclé-
+siastique un des points de sa politique, en subor-
+donnant, bien entendu, la réalisation de sa pensée,
+quant aux propriétés religieuses, à une entente
+
+
+13
+
+
+146
+
+
+HISTOIRE DE LA GUERRE
+
+
+avec la cour de Rome; le gouvernement, disons-
+nous, venait de terminer heureusement avec le
+Saint-Siége, par l'intermédiaire de M. Rios Rosas,
+une très-délicate et très-difficile négociation, lors-
+que des faits imprévus vinrent tout à coup attirer
+l'attention du gouvernement et exciter, au profit
+du cabinet, le sentiment national froissé dans son
+légitime orgueil.
+
+
+XXXIII
+
+
+Ce serait une curieuse et dramatique histoire,
+que celle des querelles incessantes qui depuis plu-
+sieurs siècles ont régné entre le Maroc et l'Espagne.
+Et si l'on voulait, d'ailleurs, entrer dans l'examen
+de la question politique entre les deux pays, de
+l'intérêt qu'offrirait infailliblement à la péninsule
+telle ou telle solution amenée par la guerre, et
+entin des conséquences qui pourraient en résulter,
+une pareille œuvre offrirait évidemment un vif degré
+d'intérêt et d'utilité.
+
+
+Nous ne nous sommes point imposé cette tâche;
+en nous bornant à rappeler sommairement les faits
+importants qui ont marqué les relations entre les
+deux peuples, nous aurons rempli notre but et ex-
+pliqué les justes inotifs d'une guerre qui est pres-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+147
+
+
+que de tradition historique et dont la source est
+tout entière dans la haine des populations barbares
+pour tout ce qui intéresse la civilisation.
+
+
+L'empire du Maroc est un des pays de la terre
+où la civilisation européenne a le moins pénétré.
+L'exclusivisme héréditaire des souverains et de la
+race arabe elle-même, en ce qui touche ses mœurs,
+ses traditions, ses préjugés barbares, est poussé à
+tel point qu'il n'est peut-être au monde que la Chine
+qui offre un pareil exemple de l'horreur que l'é-
+tranger peut inspirer à un peuple. Encore faut-il
+ajouter que les Chinois, en possession depuis plu-
+sieurs milliers d'années d'une civilisation absolu-
+ment différente de la nôtre, lettrés et industrieux
+d'ailleurs, peuvent avec quelque raison repousser
+toute tentative faite pour leur imposer les mœurs et
+les idées de ceux qu'ils appellent des barbares. Il
+n'en saurait être ainsi du Maroc.
+
+
+La politique européenne a pu admettre à diverses
+époques, comme un des fondements du droit des
+nations, le principe de la non-intervention.
+
+
+Que ce principe doive être ou non adopté d'une
+manière absolue, que selon les circonstances il ait
+été tour à tour l'objet du respect des gouvernements,
+ou qu'on n'en ait tenu aucun compte, ce n'est pas
+ce que nous avons à examiner ici. Mais s'il est per-
+mis aux gouvernements de violer ce droit des na-
+tions d'être libres chez elles, c'est évidemment
+lorsqu'il s'agit de réprimer des attaques incessantes,
+
+
+148
+
+
+HISTOIRE DE LA GUERRE
+
+
+de délivrer les nations civilisées des périls que leur
+font courir des hordes sauvages, d'abriter enfin ces
+transactions pacifiques entreprises par tous les peu-
+ples en vue de satisfaire à leurs besoins mutuels et
+d'augmenter la richesse et le bien-être de l'huma-
+nité. C'est là un droit naturel, normal, au-dessus de
+toutes les conventions particulières et qui ne sau-
+rait être ni aboli ni discuté.
+
+
+Personne n'ignore les éléments historiques qui
+composent la première période de la conquête mu-
+sulmane en Espagne; le souvenir poétique des Mau-
+res est écrit sur ces ruines encore vivantes qui té-
+moignent d'une civilisation brillante, aujourd'hui
+disparue.
+
+
+Lorsque Ferdinand le Catholique cut pour jamais
+chassé de sa patrie les enfants de l'Islam, ceux-ci se
+dispersèrent en grande partie sur les côtes d'Afri-
+que. Plusieurs familles importantes se réfugièrent
+dans le Maroc, où elles trouvèrent des coréligion-
+naires disposés à seconder leurs désirs de vengeance,
+animés qu'ils étaient déjà d'une haine éternelle
+contre le nom de chrétien.
+
+
+Il n'en fallait pas tant pour attiser ces sentiments
+hostiles qui régnaient dans le cœur des Arabes, des
+Riffains, des Berbères, qui forment la plus notable
+partie de la population marocaine; et pendant une
+longue suite d'années, l'empire du Maroc fut en
+guerre ouverte soit avec le Portugal ou l'Espagne,
+soit avec quelque autre puissance de la chrétienté.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+149
+
+
+Cette guerre incessante offrit des périodes di-
+verses, pendant lesquelles on voyait tantôt triompher
+les armes espagnoles; tantôt, au contraire, les bar-
+bares, à l'aide des fourberies les plus audacieuses,
+parvenaient à vaincre leurs vaillants ennemis. De
+cette longue lutte il était résulté une situation qui
+donnait à l'Espagne la possession de certains points
+de la côte marocaine, dont elle fit des presidios,
+c'est-à-dire des lieux de déportation pour les cri-
+minels.
+
+
+L'Espagne possède sur ce rivage inhospitalier
+Melilla, Penon de Velez, Penon de Alhucenas et
+enfin Ceuta, située en face de Gibraltar, et qui,
+comme cette dernière, commande le détroit. Ce fut
+un article du traité de Lisbonne, en 1668, qui
+donna Ceuta à l'Espagne. Cette place, qui avait été
+l'objet des attaques constantes des Marocains, qui
+même, chose inouïe dans l'histoire, avait subi un
+siége de vingt-six ans, ne fut dégagée qu'en 1720
+par Philippe V, qui fit des préparatifs immenses, et
+y envoyale marquis de Lède avec seize mille hommes.
+Le résultat de la campagne du marquis de Lède
+fut glorieux pour les armes espagnoles; il culbuta
+l'ennemi, le chassa de son camp retranché, le dis-
+persa, et marcha rapidement sur Tetouan. Mais il se
+produisit dans cette hardie campagne ce que l'on a
+pu remarquer dans la guerre actuelle; nous voulons
+parler de l'action étrangère, de l'action anglaise
+surtout.
+
+
+13.
+
+
+150
+
+
+HISTOIRE DE LA GUERRE
+
+
+Les grands préparatifs de Philippe V avaient at-
+tiré l'attention des Cabinets européens. Des expli-
+cations avaient été demandées et fournies, et il était
+résulté de cet échange de pièces diplomatiques que
+non-seulement le roi d'Espagne n'avait nullement
+la pensée de diriger ses armes contre aucune des
+puissances continentales, mais que, bien que l'ex-
+pédition qu'il projetait eût pour objet de punir le
+Maroc de ses lâches agressions, de ses trahisons con-
+tinuelles, l'intention du monarque n'avait jamais
+été de former sur la côte riffaine d'autres établis-
+sements que ces presidios, sorte de bagnes où se
+déversait l'écume de la population ibérique. Ceuta
+fut fortifié de nouveau par le marquis de Lède,
+qui revint en Espagne après avoir laissé dans la
+place une forte garnison.
+
+
+Mais ce serait mal connaître la duplicité et la
+ruse du caractère arabe que de supposer que, fidèles
+aux engagements pris, les Maures se résignèrent à
+respecter les droits de l'Espagne. Cent fois vain-
+cus, cent fois ils revinrent plus ardents; et la force
+seule pourra soumettre un peuple dont les souve-
+rains ne se font aucun scrupule de violer les ser-
+ments les plus sacrés, les traités les plus solennels.
+
+
+Tous les rois d'Espagne eurent à exercer de ter-
+ribles représailles sur ces populations perfides; et
+l'état de guerre n'a, on peut le dire, jamais com-
+plétement cessé entre le gouvernement espagnol et
+ses barbares voisins. Ainsi que l'a dit un esprit
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+151
+
+
+éclairé sur cette question, il ne faut pas s'y mé-
+prendre, la situation des Espagnols à Ceuta et à
+Melilla n'est autre chose qu'un état de blocus per-
+manent (1), à peine interrompu par quelques pé-
+riodes d'une paix sans cesse violée; et si pendant
+longtemps l'Espagne a espéré de pouvoir faire ces-
+ser un pareil état de choses par des négociations, il
+lui est démontré à cette heure qu'elle ne saurait
+y parvenir. Les derniers événements en font foi.
+
+
+Cependant il serait injuste de ne pas constater
+que l'empereur Abder-Rhaman, rappelé à la pru-
+dence par le malheur de ses armes, souhaitait vi-
+vement de vivre en paix; et sans doute son fils et
+successeur, Sidi-Mohammed, aurait probablement
+suivi la même ligne de conduite, instruit qu'il était
+de la force des armes européennes par la bataille
+d'Isly, où il commandait en personne, si le fana-
+tisme des populations du Riff ne l'avait jeté, en quel-
+que sorte malgré lui, dans la voie fatale où il se
+trouve actuellement engagé.
+
+
+XXXIV
+
+
+Lorsque la première nouvelle des insultes qu'a-
+vait subies à Ceuta l'honneur espagnol parvint à Ma-
+
+
+(1) Le Maroc contemporain, par M. Narcisse Cotte.
+
+
+152
+
+
+HISTOIRE DE LA GUERRE
+
+
+drid, l'émotion fut unanime; et, disons-le à la gloire
+de l'Espagne patriotique, dès ce moment les divi-
+sions politiques, les querelles intestines, disparu-
+rent devant le sentiment de l'honneur national ou-
+tragé.
+
+
+Le Cabinet, malgré la difficulté qu'il pouvait pré-
+voir dans l'exécution de cette grande entreprise,
+n'hésita pas à déclarer la guerre. Les Cortès ac-
+cueillirent cette déclaration avec enthousiasme.
+
+
+Ce n'était pas en vain que le maréchal O'Donnell
+invoquait les sentiments de patriotisme du peuple
+chez lequel précisément cette vertu domine. Il sem-
+bla à la nation tout entière qu'elle revenait aux fu-
+nestes époques de l'invasion; sa fibre nationale se
+réveilla. Elle fut prête à tous les sacrifices. Toutes
+les classes de la société s'unirent dans les mêmes
+vœux et dans la même ardeur. Jamais guerre ré-
+solue par un gouvernement ne trouva dans le cœur
+des peuples une aussi entière approbation.
+
+
+Toutefois une préoccupation légitime et honora-
+ble d'ailleurs s'empara de tous les esprits. L'Es-
+pagne craignit un moment que l'action de l'Angle-
+terre ne se manifestât conformément à ses habitudes
+hautaines. Il en était, en effet, de cette affaire comme
+de tant d'autres dans lesquelles l'Angleterre inter-
+vient sous de vains prétextes pour imposer ses vo-
+lontés et faire prévaloir ses intérêts.
+
+
+Jusqu'à présent, nous l'avons déjà constaté, l'ac-
+tion extérieure avait été très-secondaire pour l'Es-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+153
+
+
+pagne depuis 1812. Nous avons donné les raisons
+principales de ce fait bizarre dans l'histoire des
+peuples. La situation géographique de l'Espagne la
+garantit d'un contact trop immédiat avec les autres
+nations, en reléguant au second rang les intérêts
+qui la portent à se mêler aux conflits européens.
+
+
+Il n'en a pas été de même dans les circonstances
+actuelles. Il n'y a eu qu'une voix en Europe pour
+applaudir à la généreuse ardeur du peuple espagnol
+et aux résolutions énergiques de son gouvernement.
+D'ailleurs, avec son habileté ordinaire, le maréchal
+O'Donnell eut soin d'agrandir la question, et non-
+seulement il établit que l'honneur de l'Espagne exi-
+geait une éclatante réparation, mais encore il dé-
+clara qu'il était résolu à profiter des circonstances
+pour purger le rivage du Riff des forbans que subis-
+sait l'Angleterre elle-même et à délivrer le com-
+merce de cette honteuse servitude. Mais c'est ici
+que commence l'intervention anglaise, en face de
+laquelle le rôle du Cabinet de Madrid devenait évi-
+demment d'une grande difficulté. Personne n'ignore
+l'action envahissante de l'Angleterre sur le monde.
+Si elle a perdu l'Amérique, on ne peut nier que
+ses immenses possessions en Asie, ses comptoirs sur
+le littoral africain, ses stations fortifiées dans la
+Méditerranée et sur un grand nombre d'îles de
+l'Atlantique, de la mer Pacifique, etc., lui offrent
+d'immenses compensations. L'Angleterre n'est qu'un
+vaste comptoir, et, comme le disait dernièrement
+
+
+154
+
+
+HISTOIRE DE LA GUERRE
+
+
+à la tribune l'un de ses orateurs les plus estimés,
+M. Brigth, toute la politique de l'Angleterre se ré-
+duit << à produire beaucoup et à bon marché, et
+vendre beaucoup.  
+
+
+De là cette jalousie constante avec laquelle elle
+observe le moindre mouvement entrepris par une
+autre nation. Elle y voit, avant tout, une concur-
+rence que ses vaisseaux ont la mission d'anéantir
+quand sa diplomatie n'y réussit pas.
+
+
+Il y a cent cinquante ans à peu près, l'Angleterre
+conquit Gibraltar, dont le traité d'Utrecht lui assura
+la possession. Elle tenait ainsi la clef de la Méditer-
+ranée; mais cela ne suffisait pas à son ambition com-
+merciale. De Gibraltar elle avait sans cesse les yeux
+tournés vers le Maroc, qui lui semblait un excellent
+marché. Ses consuls surent écarter toute autre in-
+fluence, et son commerce ne tarda pas à profiter
+de l'habileté de sa diplomatie. Bientôt Gibraltar fut
+transformé en un entrepôt de marchandises, et à
+l'abri d'un trafic régulier, la contrebande y trouva
+des bénéfices considérables. Cette suprématie mar-
+chande, une fois acquise à l'Angleterre, lui inspira
+en peu de temps cet orgueil dont on trouve la trace
+dans toutes ses relations.
+
+
+Sans doute les Anglais devaient se préoccuper du
+but que se proposait le Cabinet de Madrid dans sa
+guerre avec le Maroc, et cette préoccupation était
+peut-être justifiée par le soin légitime de ses inté-
+rêts. Rien de plus juste et même de plus nécessaire
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+155
+
+
+en soi que de veiller au maintien de son influence
+politique, à la protection de ses intérêts commer-
+ciaux; mais ce soin poussé à l'extrême ne saurait
+forcer les nations à subir une tyrannie qu'aucun péu-
+ple, sinon par la force, ne pourrait jamais imposer
+à un autre peuple.
+
+
+Le Cabinet de Madrid avait envoyé à l'Empe-
+reur Sidi Mohammed un ultimatum après lequel
+la guerre devait avoir son cours. Cette échéance,
+fixée au 13 Octobre 1859, expira sans que les ré-
+parations exigées par le général O'Donnell eussent
+été données à l'Espagne; la guerre fut dès lors ré-
+solue.
+
+
+Dès que la première nouvelle des préparatifs faits
+par le gouvernement madrilène parvint à Londres,
+le gouvernement anglais se hâta de demander des
+explications.
+
+
+Le 22 septembre 1859, lord John Russell écrit à
+M. Buchanan, ministre plénipotentiaire de Sa Ma-
+jesté Britannique à Madrid (1), et son premier soin
+est tout d'abord de présenter les faits sous un jour
+tel, qu'il semble que la responsabilité d'une première
+agression doive retomber sur le gouverneur de
+Ceuta, c'est-à-dire sur le gouvernement espagnol
+lui-même.
+
+
+Lord John Russell prévient M. Buchanan, que
+si le gouvernement espagnol ne cherche que la
+
+
+(1) Voir les pièces diplomatiques à la fin du volume.
+
+
+156
+
+
+HISTOIRE DE LA GUERRE
+
+
+réparation des injures et des torts qui lui ont été
+faits, s'il ne veut que défendre et soutenir son hon-
+neur, le gouvernement de Sa Majesté ne s'opposera
+point à ce qu'il obtienne cette réparation. Mais,
+ajoute-t-il, si les actes de violence des tribus ma-
+rocaines doivent servir de prétexte à des conquêtes
+à l'intérieur et particulièrement sur la côte, le gou-
+vernement de Sa Majesté sera obligé de veiller à la
+sûreté des forteresses de Gibraltar.
+
+
+En conséquence, M. Buchanan était chargé de
+demander, par écrit, une déclaration portant que
+si, par le cours des événements, les troupes espa-
+gnoles avaient à occuper Tanger, cette occupation
+ne serait que temporaire et ne se prolongerait pas
+au delà de la ratification d'un traité de paix entre
+l'Espagne et le Maroc.
+
+
+Il y avait plus. Le Cabinet britannique prévoyait
+le cas où cette occupation devait avoir lieu jusqu'au
+payement d'une indemnité, et ce payement n'ayant
+pas lieu, l'occupation devenant permanente, il la
+déclarait incompatible avec la sûreté de Gibraltar.
+
+
+La réponse de S. E. M. Calderon Collantes, mi-
+nistre des affaires étrangères, a été digne de son
+ferme esprit et de la modération qui anime le gou-
+vernement espagnol.
+
+
+M. Calderon Collantes, dans une note à M. Bu-
+chanan, qui date du 6 octobre 1859 (1), s'at-
+
+
+(1) Voir les pièces diplomatiques.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+157
+
+
+tache à rétablir les faits altérés par la diplomatie
+anglaise et à conserver à l'aggression marocaine
+tout l'odieux qu'elle comporte. Il fait connaître
+très-nettement que, une fois la satisfaction exigée
+par le gouvernement espagnol obtenue, et le traité
+de paix qui mettrait fin aux hostilités entre l'Espa-
+gne et le Maroc une fois signé, le gouvernement
+espagnol, ayant accompli ses intentions, ne conti-
+nuerait pas d'occuper Tanger, puisque ses résolu-
+tions, arrêtées d'avance, se bornaient à la punition
+des coupables et à la satisfaction légitime qui lui
+était due. « Le Cabinet de Madrid, dit M. Calderon
+>> Collantes dans sa note à M. Buchanan, le Cabinet
+>> de Madrid, ainsi que vous en avez connaissance,
+>> ne cède pas, dans cette question, à l'impulsion
+>> d'un désir préexistant d'un agrandissement de
+>> territoire, mais il n'est influencé que par le devoir
+>> sacré de défendre la dignité et l'honneur de la
+>>> nation. >>>
+
+
+Nobles paroles, aussi éloignées d'une vaine for-
+fanterie que d'une crainte pusillanime! Le ministère
+O'Donnell faisait ce qu'il avait résolu et l'absence
+d'objection de la part de l'Angleterre ne lui aurait pas
+inspiré la pensée d'élever une seule exigence de
+plus.
+
+
+Il en fut de même à propos des points de la côte
+que l'Angleterre supposait que l'Espagne avait l'in-
+tention d'occuper; car c'est un trait distinctif des
+nations envahissantes et peu scrupuleuses de leur
+
+
+14
+
+
+158
+
+
+HISTOIRE DE LA GUERRE
+
+
+nature de supposer aux autres des intentions d'en-
+vahissements semblables aux leurs...
+
+
+Cette fois encore, la réponse de M. Calderon Col-
+lantes, si elle fut de nature à rassurer l'inquiétude
+jalouse de l'Angleterre, dut faire comprendre à lord
+John Russell que si l'Espagne eût pris d'avance cer-
+taines décisions contraires aux vues du Cabinet de
+Saint-James, elle n'aurait pas reculé devant les con-
+séquences d'un refus très-catégorique. Voici, en effet,
+comment le ministre espagnol termine cette dernière
+dépêche à M. Buchanan : « Néanmoins le gouverne-
+>>> ment de la Reine, au nom de qui je vous ai donné
+>> à diverses reprises les explications nécessaires pour
+ dissiper toute espèce de doutes, si par hasard il en
+>> avait été conçu à l'égard de ses intentions, ne veut
+>> pas négliger l'assurance ci-dessus, étant certain
+>> que le gouvernement de Sa Majesté Britannique,
+>> en la demandant, n'a pas d'autre objet que de ga-
+>> rantir la sûreté des intérêts de l'Angleterre et
+>> non, en aucune manière, d'intervenir dans la
+>> lutte qui va s'engager entre deux nations indépen-
+ dantes. >>>
+
+
+Or, pour qui connaît l'Angleterre, c'était là le point
+essentiel. Le Cabinet de Saint-James n'ignorait pas
+les intentions du gouvernement espagnol. Ses rela-
+tions diplomatiques sont assez étendues et complè-
+tes pour qu'il soit instruit de certaines résolutions
+que, dans ce cas-là d'ailleurs, on n'avait à Madrid au-
+cun intérêt à cacher. L'Angleterre connaissait très-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+159
+
+
+bien les motifs qui poussaient l'Espagne à prendre
+les armes, le but qu'elle se proposait et quelles
+bornes elle avait elle-même, dès le début, mis à son
+action; mais ce que l'Angleterre ne voulait pas, c'est
+que l'expédition eût lieu. Lord John Russell ne com-
+prenait pas que, pour quoi que ce fût, on pût se
+passer de l'agrément de l'Angleterre; et, en dehors de
+l'action diplomatique officielle, la seule dont nous
+ayons à entretenir le lecteur, il avait fait très-
+nettement comprendre au gouvernement espagnol
+qu'il lui était désagréable que cette guerre eût
+lieu, qu'elle pouvait entraîner l'armée à des en-
+treprises en dehors de toutes les prévisions et même
+de toutes les résolutions arrêtées à l'avance; qu'en-
+fin il était important au gouvernement de Sa Très-
+Glorieuse Majesté qu'aucun fait maritine sérieux
+n'eût lieu sans que l'Angleterre ne l'eût d'avance ap-
+précié et approuvé. A ces insinuations, que les notes
+officielles étaient destinées à couvrir, le Cabinet es-
+pagnol répondit par la plus énergique fin de non-
+recevoir.
+
+
+Peu importait au gouvernement et à l'Espagne
+que l'Angleterre fût ou non satisfaite, l'honneur es-
+pagnol était outragé; une éclatante réparation était
+devenue nécessaire. Jamais le gouvernement ne
+consentirait, quelque considération qu'on pût in-
+voquer, à remettre au fourreau son épée désho-
+norée. Sans doute, l'alliance ou même l'inti
+mité des relations entre l'Espagne et l'Angleterre
+
+
+160
+
+
+HISTOIRE DE LA GUERRE
+
+
+était un bien précieux, mais il en était un autre mille
+fois plus précieux encore pour lequel l'Espagne
+verserait tout son sang. L'honneur espagnol deman-
+dait à être vengé; c'était le vœu, la volonté du
+pays; l'accord entre le peuple et le gouvernement
+était absolu, sans arrière-pensée; il fallait courir
+aux armes et ne pas tarder un seul jour à exiger la
+plus complète réparation!
+
+
+Cette résolution, en face de laquelle l'Angleterre, or-
+gueilleuse et vindicative, cédera toujours, si ce n'est
+peut-être dans le cas où son existence même serait
+engagée, devait réussir. Elle réussit.
+
+
+Le Cabinet anglais, comprenant que devant une
+pareille énergie il fallait uniquement s'incliner, se
+résigna en effet à ne tenir compte que des faits of-
+ficiels, c'est-à-dire des quelques dépêches dont nous
+venons d'indiquer les points principaux, et qui, à la
+rigueur pouvaient, avec quelques commentaires
+habiles, satisfaire le parlement. Il subit une ex-
+pédition très-difficile à empêcher de vive force, et
+qui se faisait malgré son avis et ses intimidations.
+
+
+L'Angleterre se rendit, d'ailleurs, très-bien compte
+de la situation. Elle vit que ce n'était pas seulement
+le cabinet O'Donnell qui voulait la guerre, mais aussi
+la nation tout entière. S'opposer à cette explosion
+du sentiment patriotique, c'était s'exposer, après
+avoir causé le renversement du Cabinet, à se trou-
+ver obligé de renouveler, dans cette vieille terre où
+chaque homme a son fusil, la guerre de 1808. Les
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+161
+
+
+leçons que lui donnait l'histoire ne parurent pas
+perdues pour elle, et puisqu'elle ne pouvait obtenir
+que l'expédition ne se fît pas, elle dut se contenter
+des assurances loyales que lui donnait le Cabinet
+de Madrid.
+
+
+La guerre fut donc décidée. Rien ne saurait pein-
+dre l'enthousiasme de ces populations qui, de tous
+côtés, couraient au-devant des mesures que pouvait
+prendre le gouvernement.
+
+
+Ah! certes, ce fut un beau moment pour l'Espa-
+gne! Sous la conduite de ce chef habile dont elle
+connaît le grand cœur, l'armée s'apprêtait à con-
+quérir une gloire qui devait rejaillir sur la patrie,
+et à illustrer encore sur le champ de bataille le nom
+espagnol qu'autrefois les Gonzalve de Cordoue, les
+Don Juan d'Autriche, les duc d'Albe et tant d'autres
+grands capitaines avaient placé si haut dans l'estime
+et l'admiration du monde. Elle allait retrouver la
+tradition de ses grands hommes.
+
+
+Si l'on se souvient des principaux événements ac-
+complis depuis une vingtaine d'années et dont nous
+venons de donner un court résumé, on aura remar-
+qué que l'armée, employée seulement à l'intérieur,
+n'avait encore appris en quelque sorte que l'indis-
+cipline et la guerre civile. Son esprit général était
+mauvais; mêlée sans cesse à tous les mouvements
+politiques, elle avait pu emprunter aux passions
+leurs désordres et les jugements faux qu'elles inspi-
+rent. En un mot, l'armée pouvait et devait même
+
+
+14.
+
+
+162
+
+
+HISTOIRE DE LA GUERRE
+
+
+avoir perdu ce sentiment délicat des véritables de-
+voirs du soldat, inspirateur des grandes choses.
+
+
+Eh bien, l'expédition d'Afrique, en élargissant ses
+idées, en lui imposant de rudes et nobles travaux,
+aura produit ce résultat admirable, de rendre au
+soldat le sentiment exact de sa mission conservatrice
+et de ses devoirs envers la Reine et le pays, et de
+plus elle aura fait de l'armée espagnole une force
+réelle, éprouvée au feu, confiante en elle-même et
+dévouée au gouvernement dont toutes les sollicitu-
+des sont pour elle en particulier, elle devra à
+son général en chef, au maréchal duc de Tetouan,
+une reconnaissance éternelle pour l'avoir arrachée
+à la vie oisive des villes et l'avoir, en quelque sorte,
+régénérée. Désormais l'armée espagnole pourra pa-
+raître sur les champs de bataille européens et sou-
+tenir l'honneur de son drapeau et les intérêts de
+son pays.
+
+
+Nous n'insisterons pas sur la gloire solide que va-
+lent déjà au maréchal O'Donnell les services qu'il
+vient de rendre à sa patrie. O'Donnell, par sa cam-
+pagne d'Afrique, a pris sa place parmi les généraux
+du siècle comme il s'est placé parmi ses meilleurs
+politiques en faisant prévaloir les idées auxquelles
+l'Espagne devra sa prospérité et sa grandeur.
+
+
+Le Cabinet actuel a aussi beaucoup fait pour le
+développement des grands travaux publics. Les che-
+mins de fer, les routes, toutes les voies de commu-
+nication, les monuments publics dont l'Espagne est
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+163
+
+
+si riche, tout a été entrepris, créé, entretenu; le
+mouvement qui s'est tout à coup produit en Espagne
+et va renouveler la face de ce beau pays, est dû à
+l'initiative intelligente du ministère actuel.
+
+
+Nous avons essayé de tracer en quelques pages
+les faits historiques de l'Espagne depuis 1808, ses
+révolutions, ses misères, ses grandeurs. Nous avons
+essayé également de peindre avec exactitude les
+grandes physionomies qui dominent cette intéres-
+sante histoire. Nous avons vu les partis aux prises et
+tour à tour vainqueurs et vaincus; nous avons indi-
+qué les fautes et les faiblesses des uns, les exagérations
+des autres.
+
+
+Le maréchal O'Donnell a pu, grâce à une expé-
+rience consommée et à la plus incontestable ha-
+bileté, accorder des éléments si divers, apaiser les
+passions et donner de grands jours à l'Espagne.
+Il jette, nous le croyons, les fondements d'une ère
+de grandeur nouvelle pour sa patrie; il aura donc,
+au point de vue politique comme au point de vue
+militaire, mérité de la postérité.
+
+
+DEUXIÈME PARTIE
+
+
+EXPÉDITION DU MAROC
+
+
+HISTOIRE
+
+
+DE LA
+
+
+GUERRE DE L'ESPAGNE
+
+
+AVEC
+
+
+LE MAROC
+
+
+DEUXIÈME PARTIE
+
+
+EXPÉDITION DU MAROC
+
+
+I
+
+
+L'élan patriotique et chevaleresque de la nation
+espagnole, joint au refus constant du sultan du
+Maroc de donner une juste satisfaction aux griefs
+de l'Espagne, avait, nous venons de le dire, décidé
+la Reine et son gouvernement à entreprendre la
+guerre, en dépit des difficultés nombreuses et con-
+
+
+168
+
+
+HISTOIRE DE LA GUERRE
+
+
+sidérables qui s'opposaient à l'exécution de ce pro-
+jet.
+
+
+En effet, il fallait une rare énergie à Isabelle II
+pour oser continuer et couronner l'œuvre sainte
+commencée par son illustre aïeul il y a près de quatre
+cents ans.
+
+
+La guerre civile, qui depuis tant d'années, avait
+désolé ce beau et noble pays, avait été suivie d'une
+guerre de parti parlementaire qui, pour n'avoir pas
+fait couler le sang castillan, n'en était pas moins
+désastreuse pour l'Espagne; elle paralysait l'action
+gouvernementale dans le développement des immen-
+ses richesses latentes que cette belle Ibérie, si libé-
+ralement dotée par la nature, cachait, depuis tant
+de siècles, inexplorées dans son sein. Comment un
+ministre aurait-il pu étudier, et encore moins faire
+exécuter, une œuvre de longue haleine, quand, in-
+certain de son lendemain, il lui fallait employer
+tout son temps à trouver les moyens de déjouer les
+intrigues de ses adversaires politiques?
+
+
+La longue administration d'Espartero avait été
+stérile, sinon désastreuse pour les finances de l'Es-
+pagne; et, en outre, elle avait blessé profondément
+l'antique foi monarchique de ce pays. Narvaez réus-
+sit le premier à appliquer un baume salutaire aux
+blessures par lesquelles ce noble royaume perdait
+sa vie et ses forces. Mais il était réservé à O'Donnell
+et à ses fidèles collègues au ministère de reconsti-
+tuer sur une base solide cette belle et noble armée
+avec laquelle nous allons le voir tout à l'heure ac-
+complir des prodiges de valeur et de persévé-
+rance militaire, sur ce même sol africain qui, de-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+169
+
+
+puis saint Louis jusqu'à Charles-Quint et à Sébas-
+tien III, avait arrêté et englouti tant d'armées eu-
+ropéennes. L'Espagne allait entrer hardiment dans
+la route glorieuse où la France l'avait si vaillamment
+précédée en Algérie.
+
+
+Pourtant l'orgueilleuse Angleterre, si impérieuse
+avec les faibles, si accommodante avec ceux qu'elle a
+à craindre ou à ménager, ne va-t-elle pas susciter
+des difficultés pour s'opposer à la renaissance d'un
+royaume que, sous prétexte de protection, elle a
+tout intérêt à maintenir dans une infériorité mili-
+taire, maritime, commerciale et industrielle?
+
+
+Peu importe! L'honneur et le devoir ont tracé
+la route; Dieu et la brave nation castillane auront
+soin du reste! Nous ne sommes plus à une époque
+où une nation, quelque puissante qu'elle soit, ose
+impunément braver l'opinion publique en Europe;
+et celle-ci se prononce hautement pour le bon
+droit d'Isabelle II.
+
+
+En effet, l'ambassadeur d'Angleterre réclame au-
+près du Cabinet de Madrid contre l'emploi de la
+force pour vaincre les refus obstinés du sultan du
+Maroc; mais à peine cette intervention imprudente
+est-elle connue en Espagne, qu'un immense cri
+d'indignation s'élève du sein de la nation, et aurait,
+à lui seul, empêché la Reine d'écouter les repré-
+sentations de M. Buchanan, Sa Majesté eût-elle pu
+transiger avec les devoirs que l'honneur et les con-
+sidérations de sa couronne lui imposaient?
+
+
+Mais, pour faire la guerre, il faut non-seulement
+du sang et beaucoup de sang précieux, il faut encore
+de l'argent et beaucoup d'argent. Depuis tant d'an-
+
+
+15
+
+
+170
+
+
+HISTOIRE DE LA GUERRE
+
+
+nées les ressources pécuniaires de l'Espagne si riche
+autrefois et si riche encore en ressources, ont été
+taries ou prodiguées par des mains inhabiles ou
+infidèles. Toute la sollicitude de la Reine, toute la
+sage parcimonie de son gouvernement n'ont pas en-
+core pu réussir à réparer les lacunes que les em-
+barras des années précédentes ont produites dans le
+trésor et, par contre, dans le matériel de l'armée et
+de la marine.
+
+
+La neige, exposée au soleil du printemps ne fond
+pas plus vite que ne disparaissent, en temps de paix,
+les approvisionnements de guerre quand ils ne sont
+pas exactement surveillés et entretenus.
+
+
+Nous citerons, à l'appui de cette vérité, l'exemplé
+de la France et de la Prusse. A celle-là, après les
+désastres de 1815 et malgré les expéditions de Morée
+et d'Alger, il a fallu tout le règne de Louis-Philippe,
+secondé par le génie administratif du vieux lieute-
+nant de Napoléon Ier, pour reconstituer cette armée
+qui, ralliée aujourd'hui sous les ailes tutélaires des
+aigles impériales, fait la force et la gloire de la
+France régénérée.
+
+
+La Prusse, à part sa malheureuse levée de bou-
+cliers contre le Danemark, en paix depuis 1815, et
+réputée pour son organisation militaire, vantée
+comme si propice à une prompte mise sur le pied
+de guerre de son armée, la Prusse s'est vue exposée
+aux plus cruels embarras lorsque, de nos jours, il
+s'est agi pour elle de constituer une armée prête à
+entrer en campagne. Donc, en conscience, peut-on
+faire à l'Espagne, et surtout au gouvernement actuel,
+un reproche de ce qu'il a été pris au dépourvu par la
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+171
+
+
+guerre que l'explosion si soudaine et si forte de sen-
+timents guerriers et patriotiques de la nation avait
+rendue inévitable? L'armée n'était nullement prête
+à entrer en campagne; la marine l'était encore moins.
+Qu'y a-t-il d'étonnant à cette dernière circonstance,
+surtout si l'on songe qu'il a fallu à la puissante
+France plus de cinquante ans pour réparer les
+désastres causés d'abord par l'incurie des ministres
+de Louis XV et plus tard par l'émigration des offi-
+ciers nobles de la flotte? La reine Isabelle sait que
+son armée est composée des mêmes éléments qui,
+au seizième et au dix-septième siècle, ont fait du
+soldat espagnol le premier fantassin du monde.
+Actif, intelligent, sobre, infatigable, et au plus
+haut point accessible à la voix de l'honneur,
+l'Espagnol possède les vertus militaires les plus
+éminentes qui, mises à profit par des chefs habiles,
+doivent constituer une armée dont la valeur et la
+renommée ne seront en rien inférieures à celles de
+ses devancières.
+
+
+Aussi la Reine et la nation s'en rapportent-elles
+avec confiance à la haute expérience du maréchal
+O'Donnell pour composer et former à bref délai
+cette armée et pour la conduire ensuite à la gloire.
+
+
+Pourtant les difficultés politiques, financières et
+militaires ne sont encore rien en comparaison des
+obstacles presque insurmontables qu'oppose le sol
+sur lequel on va aller combattre, obstacles qui gran-
+dissent encore par tout le mystère, tout l'inconnu
+dont sont entourées la géographie et la statistique du
+Maroc. Quelque étrange que cela paraisse, il faut le
+dire, ce pays, situé, pour ainsi dire, aux portes de
+
+
+172
+
+
+HISTOIRE DE LA GUERRE
+
+
+l'Europe, y est moins connu que l'Amérique du Sud.
+Les différents ouvrages qui ont traité ce sujet,
+même les meilleurs, laissent beaucoup à désirer. Et
+on peut se faire une idée de ce que doivent être
+alors les cartes géographiques, ces guides indispen-
+sables pour une armée.
+
+
+C'est tout au plus si nous connaissons avec quel-
+que exactitude, grâce surtout aux opérations mili-
+taires des Français, les côtes du pays. Les renseigne-
+ments que nous ont fournis le consul suédois
+Helmsoé, puis un renégat italien écrivant sous le
+nom d'Ali-Bey, même les ouvrages composés par
+des résidents ou des voyageurs anglais, ne contien-
+nent que des renseignements vagues et incertains
+sur l'intérieur de l'empire, surtout sous le point de
+vue militaire.
+
+
+Quelques officiers anglais et français ont pu, à la
+vérité, pénétrer jusqu'à Fez, à Mequinez, ou à Ma-
+roc. Ils ont pu, malgré la surveillance jalouse et ri-
+goureuse dont le moindre de leurs mouvements était
+l'objet, nous fournir quelques renseignements et
+même quelques dessins militaires précieux; mais, à
+tout prendre, on sait peu sur l'état de ce pays aussi
+sauvage qu'intéressant, car c'est par là surtout que
+le commerce est en rapport avec cette Afrique cen-
+trale, si mystérieuse, et qui a coûté la vie à tant
+de hardis explorateurs.
+
+
+Néanmoins, nous allons essayer de résumer ici
+les différents renseignements que nous possédons (1).
+
+
+(1) Et que nous devons aux utiles conseils et aux communi-
+cations d'un homme aussi distingué qu'érudit, M. A. Demmler,
+professeur à l'école d'État-Major, qui a bien voulu nous guider
+dans cette intéressante étude.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+II
+
+
+173
+
+
+Le Maroc, situé à l'extrémité ouest du continent
+africain, est baigné sur ses trois côtes par la mer
+Méditerranée, par le détroit de Gibraltar et par
+l'océan Atlantique; il est traversé dans toute sa
+largeur de l'est à l'ouest par les chaînes du grandet
+du petit Atlas. Les pics du premier s'élèvent à une
+hauteur considérable. M. Washington, officier dans
+la marine anglaise et attaché à une mission envoyée
+auprès de l'empereur de Maroc, a mesuré trigono-
+métriquement un de ces pics neigeux, auquel il
+donne une hauteur de près de douze mille pieds an-
+glais, ce qui est, à la vérité, au-dessous de la limite
+des neiges perpétuelles assignée par M. de Humboldt.
+Cependant on n'a vu ces sommets dépouillés de
+neige qu'une fois en vingt ans; il est plus que
+probable que ce ne sont point là les plus hauts som-
+mets de l'Atlas, qui, soit dit en passant, ne porte ni
+chez les Maures ni chez les Arabes aucune dénomi-
+nation distincte; il n'est généralement désigné que
+sous le nom de Djibbel Telj, montagnes de neige,
+ou bien il prend le nom de la province comme :
+Djibbel Misfywa ou Djibbel Tedla. C'est dans cette
+province de Tedla, vers les sources des deux rivières
+considérables de Oum Erbegh et de Mulwia, qu'il
+existe probablement des pics encore plus élevés que
+celui dont nous venons de donner la hauteur. Les
+
+
+15.
+
+
+174
+
+
+HISTOIRE DE LA GUERRE
+
+
+vallées renfermées entre les différents chaînons de
+l'Atlas sont d'une fertilité prodigieuse, tandis que
+les côtes, surtout celles de l'océan Atlantique, sont
+sablonneuses et stériles. Le petit Atlas descend, par
+ses ramifications, jusqu'à une très-petite distance
+de la côte qu'il couvre, entre Tanger, Ceuta et Té-
+touan, d'une foule de collines abruptes, boisées et
+coupées par des torrents formant d'immenses ma-
+rais aux endroits où les dunes arrêtent leur écoule-
+ment dans la mer. Comme dans tous les pays maho-
+métans, la viabilité est dans le plus triste état;
+mieux vaudrait dire qu'elle n'y existe pas, que de
+décorer ces mauvais sentiers du nom de routes.
+
+
+Pourtant, telles qu'elles sont, nous en mention-
+nerons trois principales qui, de la côte, mènent à
+l'intérieur, et dont deux partent de Tanger; l'autre
+se dirige de Tetouan sur Al-Kasar et de là sur Fez.
+La première des deux routes partant de Tanger est
+celle que prit la mission anglaise envoyée auprès
+de l'empereur de Maroc en 1830; elle suit le
+bord de l'océan, à une distance de quelques kilomè-
+tres, et passe près des ports d'Arzilew, de Larache
+(ou El Arash) de Salé, de Rabat, de Mansouria, Fi-
+dallah, dar el Beïda, Azamor el Mazagan, où la route
+fait un coude vers l'intérieur des terres se dirigeant
+sur la ville de Maroc. La mission anglaise y arriva
+le vingt-septième jour après son départ de Tanger.
+Cette route traverse trois cours d'eau assez considé-
+rables en hiver et au printemps et presque dessé-
+chés en été; ce sont : le Sébou, qui passe près de
+Fez et se jette dans la mer près de Mehedia; l'Oum
+er Begh, descendant de la grande chaîne de l'Atlas
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+175
+
+
+et ayant son embouchure près d'Azamor, et enfin
+le Tensift, venant de la même direction, passant
+devant la ville de Maroc et atteignant la mer entre
+le cap Blanc et Mogador.
+
+
+Ces rivières divisent le pays en trois parties, celle
+du nord entre le détroit de Gibraltar et le Sebou,
+qui, à l'exception nord autour de Tanger, paraît
+être au niveau du pied de l'Atlas, à en juger par les
+fréquents débordements des rivières et des lacs. La
+contrée entre le Sebou et le Oum er Bergh a une
+pente générale et considérable vers l'ouest, surtout
+depuis ce dernier fleuve jusqu'à la plaine du Maroc.
+Au milieu de ces terrains unis on remarque une
+affreuse pénurie d'arbres; à la lisière même de
+l'Atlas, les arbres n'atteignent pas à une hauteur
+notable, quoi qu'en ait dit Pline en parlant de la
+Mauritanie; mais il est impossible de ne pas re-
+connaître la fécondité du sol, car, du pied de l'Atlas
+au bord de l'Océan, on ne voit partout que de vastes
+champs de blé. Si on dirigeait les eaux dans les
+lieux qui en manquent, cette fécondité serait bien
+plus sensible encore; et les mains européennes qui
+ensemenceraient le territoire de l'empire du Maroc
+lui feraient produire de quoi nourrir le double et le
+triple des cinq ou six millions d'habitants qu'on y
+compte à présent. Voici les villes que nous rencon-
+trons sur cette route.
+
+
+176
+
+
+HISTOIRE DE LA GUERRE
+
+
+III
+
+
+C'est d'abord Tanger. Cette ville, résidence ordi-
+naire des consuls européens, est située par le 35°
+47' 54" latitude nord, et le 8° 17′15 longitude
+ouest de Paris, à l'embouchure occidentale du dé-
+troit de Gibraltar. Elle est entourée de murailles
+presque entièrement ruinées et flanquées par des
+tours rondes ou carrées, défendues du côté de la
+terre par un fossé sans contrescarpe, presque com-
+blé, couvert d'arbres et de misérables jardins pota-
+gers. Sur la droite de la porte de la mer il y a deux
+batteries, une batterie basse de quinze pièces et une
+autre, plus élevée, de onze pièces. La batterie haute
+bat la mer en face et possède un petit flanc avec
+deux pièces qui défendent le lieu où l'on débarque.
+La batterie basse bat également de front le rivage.
+Outre celles-ci, il y a encore douze pièces dans une
+situation très-élevée sur les murailles. Les canons,
+dons des différentes puissances européennes, sont
+de divers calibres; mais les affûts, construits par les
+Marocains, sont si mal faits, que les grosses pièces
+ne pourraient pas soutenir le feu pendant vingt-
+quatre heures sans éclater. Pour achever le tableau,
+il faut ajouter que, dans leur incurie, ces barbares
+n'ont pas de gargousses préparées d'avance; ils met-
+tent la charge dans le canon enveloppée dans un
+papier ou même simplement avec la main. D'ailleurs
+il est plus que probable que, depuis le bombarde-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+177
+
+
+ment de ces batteries fait par la flotte française sous
+le prince de Joinville, en 1844, les dommages con-
+sidérables causés par notre canon n'ont point ou
+pas été réparés complétement.
+
+
+L'enceinte de la ville est couronnée au nord par
+un vieux château, El Kasbah, qui, par sa position
+élevée au-dessus de la mer et de la ville, produit un
+aspect fort pittoresque. La rue principale, ayant en-
+trée par la porte de la mer, traverse la ville de l'est
+à l'ouest avec beaucoup de sinuosités irrégulières.
+Les maisons sont blanches, sans fenêtres et telle-
+ment basses, à l'exception de celles des consuls,
+qu'on peut toucher leurs terrasses avec la main.
+Comme dans beaucoup de villes de l'Orient, on voit
+dans cette rue force boutiques où le marchand,
+accroupi au centre de la pièce, peut atteindre tous
+les objets sans se lever de sa place. La mosquée
+principale est grande, extrêmement propre, ayant
+un minaret élancé et d'une forme élégante.
+
+
+La population de la ville, estimée à dix ou douze
+mille âmes, est composée de soldats, de petits mar-
+chands en détail, d'artisans grossiers, d'un très-
+petit nombre de personnes aisées et de juifs. Ceux-
+ci ont un costume particulier, et sont soumis, comme
+dans tout le Maroc, à une foule d'avanies journaliè-
+res; il est à remarquer cependant qu'ils vivent con-
+fondus avec les Maures sans avoir de quartier séparé;
+ce qui est une tolérance rare dans l'empire, car à
+Fez, les juifs, hommes et femmes, sont obligés de
+marcher pieds nus dès qu'ils sortent du quartier qui
+leur est assigné, tandis qu'à Tanger on ne l'exige
+d'eux que lorsqu'ils passent devant une mosquée.
+
+
+178
+
+
+HISTOIRE DE LA GUERRE
+
+
+Cette marque d'une civilisation plus tolérante est
+due, sans doute, à des rapports plus fréquents avec
+les chrétiens. Le commerce de la ville est nul. Les
+Anglais en tirent, ainsi que de Tetouan, environ
+deux mille bœufs par an pour l'approvisionnement
+de la place de Gibraltar, moyennant un droit de
+sortie de cinq piastres, tandis que toutes les autres
+puissances en payeraient seize.
+
+
+Tanger et ses environs peuvent nous donner l'idée
+d'une colonie des anciens Romains. Les habitants
+s'y composent en grande partie de soldats, recevant
+de l'Empereur une solde plus qu'insignifiante, un
+cheval et une petite terre; eux-mêmes se fournissent
+de leur long fusil, de poudre et de balles, et doivent
+répondre à l'appel du sultan de Maroc.
+
+
+IV
+
+
+Après avoir passé le cap Spartel, la route sui-
+vant toujours la côte, atteint la petite ville d'Arzilla,
+qui n'a ni port ni commerce et dont les habitants,
+au nombre de 800 au plus, cultivent les frais et fer-
+tiles jardins nombreux autour de la ville. Occupée
+longtemps par les Portugais, qui s'en étaient em-
+parés en 1437, sous le roi Alphonse III, la ville est
+encore aujourd'hui entourée d'une chemise très-
+haute et fort ancienne.
+
+
+A sept lieues vers le sud on rencontre la ville de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+179
+
+
+Larache ou El Arash, autrefois occupée par les Por-
+tugais. Comptant encore près de 8,000 habitants,
+elle est située sur la pente d'une colline à l'entrée
+d'une vallée délicieuse remplie de verdure, dans
+laquelle coule la rivière El Kos. Cette vallée est cou-
+verte de jardins qui s'étendent jusqu'à Al Kassar. La
+ville est entourée encore de murs et de bastions
+qui battent le port et sont couronnés par une cita-
+delle assez forte. Larache est le principal port mili-
+taire du Maroc; la flotte de l'État s'y retire, mais
+celle-ci n'est plus composée aujourd'hui que de quel-
+ques corvettes servant de bateaux douaniers et de
+quelques méchants bateaux canonnières.
+
+
+Entre Larache et Mehedia, ville très-florissante
+du temps des Portugais, distante de Mequinez de
+vingt-cinq lieues, mais qui n'est aujourd'hui qu'un
+monceau de ruines, la route longe un lac d'eau
+douce d'environ 40 kilomètres de longueur, très-
+poissonneux et couvert d'une foule innombrable
+d'oiseaux aquatiques. A quelque distance de Mehe-
+dia, la route s'étend le long d'une forêt, rare dans
+ce pays par sa grande étendue (plus de 1,000 hecta-
+res), et fameuse dans tout l'empire par l'immense
+nombre de sangliers et de bêtes féroces, notamment
+de lions, qu'elle renferme.
+
+
+V
+
+
+Les villes de Saleh et de Rabat, fameuses autre-
+
+
+180
+
+
+HISTOIRE DE LA GUERRE
+
+
+fois comme berceau principal des pirates marocains,
+sont situées en face l'une de l'autre à l'embouchure
+du Bou Regreb. Saleh ou Sala est bâtie sur une
+pointe sablonneuse s'avançant dans la mer en forme
+d'un grand carré, s'appuyant au pied d'une colline
+couverte de jardins. Elle est entourée de murailles
+de plus de dix mètres de haut flanquées à une dis-
+tance de cinquante mètres de tours carrées; le tout
+surmonté par une forte citadelle. La ville renferme
+beaucoup de mosquées et reçoit ses eaux au moyen
+d'un très-bel aqueduc formant comme un second
+mur d'enceinte. Les habitants de Saleh passent
+pour très-remuants, farouches et intolérants, surtout
+envers les étrangers. Il n'en est pas de même de
+ceux de Rabat, qu'on dit les plus habiles en indus-
+tries de toutes sortes, surtout du fameux cuir ma-
+rocain.
+
+
+L'aspect de la ville de Rabat, vue de la mer, est
+des plus imposants. Droit devant soi, on voit se dres-
+ser la Kasbah avec ses fortes tours carrées, à droite
+les bastions du nouveau château; et plus loin, vers
+le sud, on aperçoit la ville avec ses minarets; les
+voûtes du grand aqueduc qui conduit l'eau jusqu'à la
+citadelle forment le fond du tableau. Sur un rocher
+baigné par le fleuve s'élève la tour de Hassan, haute de
+plus de cinquantemètres, un des monumentslesplus
+remarquables de l'architecture mauresque du dou-
+zième siècle. De l'autre côté du fleuve se trouve la
+jolie mosquée d'Emsallah où reposent les restes mor-
+tels du célèbre Almanzor. Tout auprès s'élève le palais
+du sultan avec ses vastes jardins. Le port de Rabat
+lui-même est fort mauvais et n'est accessible qu'à
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+181
+
+
+des bâtiments d'un faible tirant; celui de Saleh est
+entièrement ensablé. La population des deux villes
+ensemble est estimée à 50,000 âmes, ce qui paraît
+être beaucoup au-dessus de la réalité. La distance
+de ce point à Mequinez n'est que de vingt-cinq lieues,
+et la route, longeant presque constamment la rivière
+de Bou Regreb, qui ne tarit jamais entièrement en
+été, pourrait amener facilement une armée euro-
+péenne, dans cette ville où le sultan de Maroc
+cache son trésor, dont l'imagination, excitée par le
+mystère, exalte beaucoup trop l'importance. De
+Rabat à Azamor, la route traverse un pays riche-
+ment cultivé surtout en blé, qui, du temps des Por-
+tugais, s'écoulait par les ports de Fidallah et de Dar
+el Beïda. Près d'Azamor, ville sans importance, tom-
+bant en ruines et habitée par trois mille âmes au
+plus, la route fléchit vers l'intérieur des terres dans
+la direction de Maroc, troisième et véritable capitale
+de l'empire auquel elle a donné un nom. On tra-
+verse la province Ducaïla si célèbre par sa belle
+race de chevaux, très-fertile et cultivée, mais pres-
+que entièrement dépourvue d'arbres. On parcourt
+ainsi une succession de plaines élevées et de collines,
+et après vingt-un jours de marche de caravane, on
+aperçoit la première fois les pics neigeux de l'Atlas.
+Cinq jours plus tard, après avoir traversé un pays
+aride et rocailleux, on jouit, au sortir d'un affreux
+défilé, d'un magnifique tableau. Devant vous se pré-
+sente, au milieu d'une forêt de palmiers derrière
+lesquels apparaissent les neiges éternelles de l'A-
+tlas, la ville impériale de Maroc. Elle est située sur
+la limite nord d'une plaine vaste et fertile que tra-
+
+
+16
+
+
+182
+
+
+HISTOIRE DE LA GUERRE
+
+
+verse la rivière de Teusift, guéable en été, et qui se
+jette dans la mer entre la petite ville de Saffy et celle
+de Mogador, propriété exclusive et source principale
+des richesses du sultan.
+
+
+VI
+
+
+La ville de Maroc ou de Marksch est entourée
+d'une forte muraille à machicoulis en bois de Tapia,
+haute de trente pieds avec fondations en maçonnerie.
+Elle a des tours carrés de 50 pas en 50 pas, et peut
+avoir ainsi près de dix kilomètres de circuit. On y
+entre par onze doubles portes, mais alors on s'aper-
+çoit que tout cet espace est loin d'être entière-
+ment couvert par des maisons, qu'il comprend au
+contraire de vastes jardins et des terrains couverts
+d'une étendue de plus de 40 ou 50 hectares.
+
+
+Le palais du Sultan est situé en dehors de l'en-
+ceinte de la ville, au midi et en face de l'Atlas; il
+est entouré de murs aussi forts que ceux de la
+ville et occupe un espace de près de 1,500 hectares.
+Le terrain est divisé en jardins carrés autour des-
+quels sont des pavillons détachés formant la rési-
+dence impériale. Dans la cité on compte dix-neuf
+mosquées, deux emdrasas ou colléges et un hôpital.
+La principale mosquée, El Koutoubia, s'élève isolée
+sur un espace de 50 à 60 hectares. Elle est remar-
+quable surtout par sa tour carrée haute de 250
+pieds, aussi large au sommet qu'à la base, et pro-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+183
+
+
+duisant ainsi un singulier effet, étant divisée en sept
+parties et sa hauteur apparente étant sept fois son
+diamètre. Cette tour, pareille à celle de Rabat et à la
+Giralda de Séville, passe pour avoir été bâtie vers la
+fin du douzième siècle.
+
+
+La plus belle des sept portes de Maroc est celle
+qui s'ouvre vers le palais; son nom Bab el Roum
+donne à penser que c'est une construction d'origine
+romaine. Sa voûte est en fer à cheval mauresque,
+richement sculptée en travail arabesque.
+
+
+Les rues de Maroc sont étroites et irrégulières,
+rarement plus larges qu'une de ces ruelles sales du
+vieux Paris. En beaucoup d'endroits, on les voit tra-
+versées par des arches et des portes servant proba-
+blement de défenses en cas d'attaque; plusieurs de
+ces rues s'élargissent en certains endroits pour lais-
+ser une place ouverte servant de marché. Il y a
+deux ou trois de ces marchés dont le principal, ap-
+pelé Sock el Khamise, se tient près de la porte du
+nord le samedi de chaque semaine. Il est abondam-
+ment fourni d'objets de fabrique indigène. Le
+marché pour les chameaux, les chevaux, les mules,
+les bêtes à cornes, se tient hors de la porte.
+
+
+Le bazar nommé El Kaïsseri, offre un long rang de
+boutiques ou d'échoppes couvertes contre l'injure
+du temps et divisées en compartiments. On y vend
+de la soie, des châles, des mouchoirs venant de la
+ville de Fez; des tapis venant de la province
+Ducaïla, des habits, du linge, des armes, du thé et
+du sucre importés par les marchands de Londres;
+de beau blé, du foin de la province de Schragna,
+des dattes très-douces de Tafilet; une grande quan-
+
+
+184
+
+
+HISTOIRE DE LA GUERRE
+
+
+tité de bottes, de pantoufles, de sel, de poteries gros-
+sières, de nattes de cordes et des broderies fort belles
+en or et en argent.
+
+
+Les maisons, généralement d'un seul étage, ont
+des toits unis en terrasse. Le côté de la rue est pro-
+pre et blanchi; çà et là est une étroite ouverture qui
+ne mérite pas le nom de fenêtre et dont aucune
+n'est vitrée, mais la disposition intérieure ressem-
+ble extrêmement à ce que nous voyons en Espagne.
+Les chambres s'ouvrent sur une cour; quelques-unes
+de ces cours sont entourées d'arcades et ont une fon-
+taine au milieu. Plusieurs des portes sont en bois de
+cyprès sculpté avec art. Les chambres sont longues et
+étroites, à cause probablement du manque de bois.
+Nulle fenêtre, nul foyer ou cheminée, aucun meuble,
+excepté une natte et un ou deux coussins. Le millah,
+ou quartier des juifs, est un enclos muré, d'environ
+trois kilomètres de tour, à l'angle sud-est de la
+ville; il est populeux, mais sale; tous les juifs payent
+une taxe ou capitation au Sultan ; ils sont traités
+avec un grand mépris. La population de la ville at-
+teint, dit-on, 100,000 âmes, chiffre qui nous paraît
+beaucoup trop exagéré.
+
+
+Comme dans toutes les villes d'Orient, les femmes
+se montrent rarement en public; il est donc diffi-
+cile d'estimer en quelle proportion elles entrent
+dans ce nombre d'habitants. Il y a quarante ans, une
+terrible famine a désolé le Maroc et a dépeuplé la
+capitale; plusieurs quartiers en sont encore pres-
+que entièrement déserts, et l'herbe qui y croît forme
+un frappant contraste avec les débris des murailles
+qu'on y distingue.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+185
+
+
+De vastes aqueducs souterrains entourent la ville;
+quelques-uns ont de dix à douze pieds de profon-
+deur, mais ils sont en ruines; ils traversent la plaine
+et vont prendre les eaux au pied de l'Atlas, à qua-
+rante kilomètres de distance.
+
+
+Il existe plusieurs vastes cimetières au nord et
+au midi; il y en a un à l'est, hors de la ville, de 100
+hectares d'étendue.
+
+
+Le Sultan possède trois jardins considérables dans
+l'intérieur de la ville et deux autres en dehors, à
+environ trois kilomètres des murailles. Le shérif en
+assigna un des premiers, comme habitation, à la
+grande mission britannique qui fut envoyée au
+Maroc en 1819. M. Washington, officier de la ma-
+rine britannique et membre de cette ambassade, a
+publié sur ce voyage des détails fort intéressants,
+et voici ce qu'il dit :
+
+
+<<< Le jardin appelé Sebt el Mahmouia, occupant
+>> un espace d'environ 20 hectares de terrain, est
+>> planté, dans un style bizarre, de toutes les varié-
+>> tés d'arbres fruitiers, comme l'olivier, l'oranger,
+>> le pommier, le citronnier, le mûrier, le noyer, le
+>> pêcher, le poirier, la vigne; toute cette végétation
+ entremêlée avec le cèdre, le peuplier, l'acacia,
+>> le laurier rose, le myrte, le jasmin auxquels s'u-
+>> nissent le cyprès solennel et le haut palmier,
+>> forme un épais et riche ombrage. A travers cette
+>> voûte de verdure on ne découvre que les pics
+>> neigeux de l'Atlas s'élevant presque immédiate-
+ ment au-dessus de nos têtes, et la tour gigantesque
+>> de la principale mosquée, qui est à un quart de
+>> mille. Rien n'interrompt le calme de ce point dé-
+
+
+16.
+
+
+186
+
+
+HISTOIRE DE LA GUERRE
+
+
+>> licieux, si ce n'est le bond léger de la gazelle et le
+>>>> bruit des chutes d'eau dans toutes les directions.
+>> On y trouve tout ce qu'il est possible de désirer
+>> dans un climat brûlant: le silence, l'ombre, la
+>> verdure et un air parfumé. Mais pour former con-
+>> traste avec la vue bornée dans notre jardin, nous
+>> n'avons qu'à monter sur le toit en terrasse de
+>> notre maison dominant la ville, d'où nous décou-
+>> vrons une plaine sans limites à l'est et à l'ouest
+>>> avec toute la ceinture de l'Atlas enveloppant la
+>> contrée du sud-ouest au nord-est par un ruban
+>>> de neige. >>>
+
+
+VII
+
+
+La seconde route conduit de Tanger à Fez et à
+Mequinez; elle n'est, comme toutes les autres voies
+de communication du Maroc, guère plus qu'un large
+sentier. Cependant, grâce à la sécheresse du climat,
+ce chemin est très-bon pour les caravanes de mulets
+et de chameaux. On pourrait toutefois y amener des
+pièces de huit et même de douze jusqu'à Fez, excepté
+aux approches de cette ville, c'est-à-dire jusqu'à une
+distance de huit lieues; à ce point, pour éviter les
+immenses difficultés que présentent les montagnes
+aux environs de la ville, il faudrait faire passer l'ar-
+tillerie dans les fonds immenses situés à droite de
+la vraie route. M. de Caraman, alors officier d'état-
+major, a accompagné en 1825 le consul de France,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+187
+
+
+M. Sourdeau, se rendant en mission auprès du sul-
+tan Muley Abder Rhaman. Il en a donné, dans le Spec-
+tateur militaire, une excellente reconnaissance mi-
+litaire accompagnée d'un croquis assez exact. Le
+nombreux personnel de l'ambassade, voyageant à
+cheval et s'arrêtant chaque nuit dans un camp pré-
+paré d'avance, arriva le neuvième jour à Fez. Pen-
+dant leur séjour dans cette ville, ils y virent amener
+un fort obusier anglais monté sur quatre roues; il
+était arrivé en moins de temps encore et par la
+même route.
+
+
+Cette dernière, à distance d'environ deux myria-
+mètres de la première route le long du bord la mer,
+court parallèle à celle-ci jusqu'à Alkassar, d'où elle
+infléchit, dans un fort coude, vers l'est dans l'inté-
+rieur des terres, se dirigeant presque en droite ligne
+vers Fez, à travers des plaines et de hauts plateaux
+qui se succèdent en ne rencontrant, à l'exception
+de la ville d'Alkassar, que des douaires isolés.
+
+
+Alkassar, contenant une population de 8,000 habi-
+tants, dont à peu près 500 juifs, est situé dans une
+plaine boisée et fertile. La rivière El Kos, probable-
+ment l'ancien Lucos des Grecs, torrent sinueux et ra-
+pide, traverse cette plaine pour se jeter dans l'Océan
+près de Larache. Bâtie vers la fin du douzième siècle
+par un fils du grand Almanzor, la ville offre encore
+des restes de fortifications. Elle a quatorze mosquées,
+ses rues sont pavées, étroites et traversées pour
+la plupart de distance en distance par des chemins
+voûtés; les maisons se font remaquer par leurs toits
+en dos d'âne recouverts en tuiles, ce qu'on ne
+trouve dans aucune autre ville du Maroc. Le pays,
+
+
+188
+
+
+HISTOIRE DE LA GUERRE
+
+
+couvert de jardins, de vergers, de bouquets d'oran-
+gers et de palmiers superbes, présente un aspect
+fort riant. C'est entre Larache et Alkassar que se
+trouve le champ où fut livrée, entre les Maures et
+les Portugais, en 1578, la bataille qui coûta la vie
+et le trône au roi don Sébastien.
+
+
+Depuis Alkassar la route s'élève successivement
+vers le haut plateau où est située la ville sainte de
+Fez; on traverse plusieurs cours d'eau desséchés en
+été et assez considérables au printemps et en hiver;
+le Amda, le Wargha et surtout le Sebou en sont les
+plus importants.
+
+
+VIII
+
+
+Fez, où l'on arrive le neuvième jour, est situé
+dans un entonnoir formé par des montagnes boi-
+sées d'où descendent plusieurs ruisseaux qui ar-
+rosent la campagne, et fournissent une eau déli-
+cieuse. Les plateaux qui précèdent, incultes et
+brûlés par le soleil, rappellent les environs de Ma-
+drid. La ville est divisée en deux parties distinctes :
+le vieux et le nouveau Fez (Fas djedid); elles sont
+séparées l'une de l'autre par de nombreux jardins
+et une enceinte carrée où sont toujours campés, sous
+la tente, des soldats et des détachements de diverses
+tribus. Tout auprès est situé le château de Bouzou-
+lou, une des habitations de l'Empereur. Le jardin et
+le palais sont défendus par un fort bastionné.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+189
+
+
+Le vieux Fez fut bâti à la fin du huitième siècle,
+par Edrès, descendant de Mahomet et d'Ali, sur le
+penchant des collines qui l'entourent. Le nouveau
+Fez date du treizième siècle; il doit son origine à
+Jacob Ben Abdalbab, de la race des Ben Merine; il
+est situé dans une plaine susceptible d'une riche
+culture. Les deux villes sont traversées par une pe-
+tite rivière nommée rivière des perles ou Wad-Raca-
+Lema, qui fournit une grande abondance d'eau aux
+habitants, fait aller un grand nombre de moulins,
+et se jette, après un cours de peu d'étendue, dans le
+Sébou.
+
+
+L'auteur Aly Bey, qui visita Fez en 1803, en es-
+time la population à 100,000 âmes, dont environ
+2,000 familles juives; mais, depuis cette époque,
+la peste, apportée d'Alger par le fils même de l'Em-
+pereur, exerça à plusieurs reprises des ravages af-
+freux parmi les habitants; et M. Renou ne l'évalue
+guère qu'à 30 ou 40,000 âmes.
+
+
+Considérée sous le rapport militaire, cette ville est
+située de manière à ne pouvoir résister à aucune
+attaque sérieuse sans s'exposer à une destruction to-
+tale. C'est ce motif, sans doute, qui lui a fait donner
+le bien singulier privilége de se rendre dès que l'en-
+nemi est à ses portes. La ville est cependant entourée
+d'une vaste enceinte de murailles flanquée de tours,
+qui, pour être debout, n'en sont pas moins très-
+vieilles et très-dégradées; elles sont de terre mêlée de
+chaux. Le temps a donné à ce mélange plus de dureté
+que la pierre même. Leur épaisseur est d'environ
+un mètre. Sur deux hauteurs, à l'est et à l'ouest,
+on voit deux châteaux forts très-vieux, consistant en
+
+
+190
+
+
+HISTOIRE DE LA GUERRE
+
+
+un simple carré de murs avec des embrasures très-
+rapprochées. Ils sont protégés par un fossé et on ne
+parvient à l'intérieur que par une échelle. On y
+place des canons avec quelques soldats toutes les
+fois que le peuple se révolte contre le sultan. Les
+deux châteaux communiquent, dit-on, avec la ville
+par un passage souterrain. Du reste, ils sont domi-
+nés par les hauteurs environnantes. Les rues sont
+étroites, obscures et non pavées: tandis qu'Aly Bey
+nous les dépeint comme très-propres pendant les
+temps secs, Caillé dit qu'elles sont de la plus grande
+malpropreté, qu'on y marche dans la boue jusqu'aux
+genoux, et qu'on rencontre à chaque pas des chiens
+et des chats morts exhalant une odeur infecte. Les
+maisons, assez élevées et construites en briques, ont,
+au premier étage, une saillie qui contribue beau-
+coup à l'obscurité des rues. Cet inconvénient est aug-
+menté par des espèces de galeries qui réunissent,
+d'un côté à l'autre, la partie supérieure des maisons.
+En outre, des murailles, élevées de distance en dis-
+tance et percées en arceaux, interceptent encore le
+jour. Ces arceaux se ferment pendant la nuit, de ma-
+nière que la ville se trouve divisée en plusieurs quar-
+tiers qui ne peuvent point communiquer les uns avec
+les autres.
+
+
+Dans chaque maison on voit une cour entourée de
+colonnes qui soutiennent des arcades et qui forment
+des corridors au rez-de-chaussée et dans les différents
+étages. C'est par ces corridors qu'on entre dans les
+chambres attenantes, qui ordinairement ne reçoi-
+vent le jour qué par la porte, à laquelle on donne,
+à cet effet, beaucoup d'ouverture. Ces chambres
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+191
+
+
+sont très-longues et très-étroites; le plafond, en
+planches, est très-élevé et n'a aucun ornement dans
+les maisons ordinaires. Dans quelques autres, les
+plafonds, les portes des chambres et les arcades de
+la cour sont ornés d'arabesques en relief, peints en
+toutes sortes de couleurs, même en or et en argent.
+Le sol de toutes les pièces et celui de la cour sont
+en briques, et, dans les maisons riches, en carreaux
+de faïence ou de marbre formant des dessins variés.
+Les toits sont couverts de terre glaise à la hauteur
+d'environ cinquante centimètres. Cette lourde charge
+écrase les murs sans les garantir des pluies, et donne
+bientôt à tout le bâtiment un aspeet de ruines et de
+dégradation.
+
+
+La plus fameuse d'entre les nombreuses mos-
+quées est celle de El Karoubir, qui n'égale pas en
+beauté la cathédrale de Cordoue. On y voit une
+quantité de pilastres et de fontaines, quelques or-
+nements arabesques et le sol couvert de petits car-
+reaux de faïence de diverses couleurs. La mosquée
+la plus vénérée est celle d'Edris, fondateur de Fez;
+c'est l'asile le plus respecté de l'Empire: tout crimi-
+nel y est en sûreté et personne n'oserait l'y arrêter.
+Le palais habité par le sultan se compose d'un grand
+nombre de cours, les unes à demi construites, les au-
+tres à demi ruinées; elles servent d'entrée aux aр-
+partement intérieurs, qui n'ont encore été visités
+par aucun Européen. Au milieu de l'une des cours se
+trouve une maisonnette en bois : c'est là que le sul-
+tan reçoit les personnes qui ont obtenu la permission
+de lui être présentées, et qui ne franchissent jamais
+la porte, les favoris seuls y entrent.
+
+
+192
+
+
+HISTOIRE DE LA GUERRE
+
+
+L'Al Caïseria rappelle, mais horriblement en laid,
+les galeries du Palais Royal de Paris; c'est un marché
+formé par une suite de rues étroites qui se coupent
+à angle droit et sont recouvertes d'une très-mauvaise
+toiture. Chaque rue comprend un même genre de
+profession ou d'industrie. On y trouve des étoffes et
+des mouchoirs en soie, des objets de sellerie, de ces
+bonnets rouges connus dans tout l'Orient sous le nom
+de fez; des pantoufles ou babouches en cuir parfai-
+tement tanné, de ces fameux haïks en laine, fins et
+transparents comme la soie; peu de bijouterie, car
+on craint de faire étalage de ses richesses.
+
+
+Caillé nous raconte que, pour garder les bouti-
+ques la nuit, on lâche des chiens dans les rues. Ces
+animaux, dressés exprès, font leur service avec une
+telle ardeur que, si des hommes couchés à proximité
+ne les surveillaient pas, ils dévoreraient les passants
+que le hasard où leurs affaires conduisent vers le
+lieu confié à leur garde.
+
+
+IX
+
+
+Mequinez, où se trouve déposé le célèbre trésor
+du Shérif, porte aussi le nom de Miknès ou de Mek-
+nasah. La ville s'élève au centre d'une vallée admi-
+rable formée par un chaînon de l'Atlas; le pays est
+renommé par sa salubrité. Située à soixante kilomè-
+tres au sud-ouest de Fez, et à trois cents kilomètres
+de Maroc, la ville de Mequinez contientenviron vingt-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+193
+
+
+cinq mille habitants. Le palais impérial, de forme
+quadruangulaire, est, pour ainsi dire, à lui seul une
+ville entière. C'est Muley Ismaël qui le fit élever en
+1681, en souvenir de la prise de Tanger sur les An-
+glais, qui, comme nous l'avons dit, occupaient alors
+cette ville. Le palais affecté à l'habitation du monar-
+que et de ses femmes renferme de magnifiques jar-
+dins plantés d'arbres de toute espèce et couverts
+des plantes et des fleurs les plus aromatiques. On
+voit dans ces jardins des ruisseaux, des cascades et
+des jets d'eau qu'alimentent des sources amenées de
+très-loin, au moyen de canaux et d'aqueducs dont
+la construction est monumentale.
+
+
+Au centre des jardins se trouve une espèce de fort
+à triple enceinte, parfaitement armé et défendu;
+derrière ces trois enceintes s'élève un bâtiment en
+pierres de taille éclairé seulement par en haut. On y
+pénètre par trois portes en fer se succédant les unes
+aux autres. Il est pavé en marbre noir; à l'une de
+ses extrémités se trouve une vaste ouverture, dans
+laquelle on jette, au moyen de grandes pelles en cui-
+vre, les pièces d'or ou d'argent, les lingots et les
+matières précieuses destinés au trésor. Ces objets
+tombent dans un vaste caveau où ils sont rangés dans
+des compartiments en marbre d'une égale dimen-
+sion, et qui font saillie sur le fond du caveau. Cha-
+cun de ces compartiments peut recevoir un million
+de piastres. Une garde de trois cents noirs est char-
+gée spécialement de la sûreté, de la surveillance et
+de l'arrangement du trésor. Les hommes, une fois
+désignés pour ce service, habitent à tout jamais cette
+enceinte; ceux même chargés de recevoir et de ran-
+
+
+17
+
+
+194
+
+
+HISTOIRE DE LA GUERRE
+
+
+ger l'argent ne quittent jamais le souterrain. Ils y
+ont des logements spéciaux, ils y vivent et ils y meu-
+rent. Ces précautions ont pour but d'empêcher les
+vols, inconnus aujourd'hui.
+
+
+On verse quatre fois par an au trésor impérial le
+produit net des impôts de toutes sortes. Lorsque
+l'Empereur est à Mequinez, il assiste en personne
+à cette opération; mais lorsqu'il est absent, il dési-
+gne, pour le suppléer, trois des grands officiers de
+sa maison, et il est bien certain que ceux-ci ne pour-
+raient s'entendre entre eux pour commettre un vol,
+et que, cela eût-il eu lieu, ils se dénonceraient l'un
+l'autre, ou seraient dénoncés par les noirs qui gar-
+dent le trésor.
+
+
+Autrefois l'argent était déposé dans de grands
+vases en terre, mais un jour le contenu de dix de
+ces vases fut volé, les voleurs remplirent les vases
+de terre, ne laissant à la surface qu'une mince cou-
+che de pièces d'or. Aussi la fraude ne fut pas dé-
+couverte de suite, mais un des gardiens noirs, que
+les brigands croyaient avoir bien tué comme ses ca-
+marades, survécut à ses blessures et dénonça tous
+les coupables. Le shérif fit décapiter les dix voleurs
+et fit mettre leurs têtes dans les dix vases qu'ils
+avaient vidés. On les voit encore dans la grande salle
+du trésor posés sur des piédestaux en marbre. Le
+successeur de Muley Ismaël, abandonnant le système
+des pots en terre, fit construire les compartiments
+en marbre dont nous avons parlé plus haut. L'Em-
+pereur Muley Soleïman, renommé pour sa grande
+cruauté, chaque fois que des versements avaient été
+effectués au trésor impérial, faisait mettre à mort
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+195
+
+
+les noirs chargés de ce travail. Son successeur Ab-
+der Rhaman, plus humain que lui, abolit cette cou-
+tume cruelle, et ordonna que les noirs chargés de
+l'arrangement du trésor dans les caveaux ne quit-
+teraient jamais cette demeure. Le vol pour eux de-
+vient inutile, puisqu'ils sont séparés du reste du
+monde et qu'ils ne pourraient ni cacher l'argent
+volé, ni l'employer à aucun usage. Le montant de la
+somme contenue aujourd'hui dans ces caveaux est,
+on le comprend, difficile à évaluer avec quelque
+certitude; pourtant quelques voyageurs l'estiment
+par approximation à un demi-milliard de francs.
+La possession de la ville de Mequinez déciderait du
+sort de l'Empire, si elle était prise soit par les re-
+belles, soit par une puissance européenne. Ce serait
+un coup fatal pour l'Empereur du Maroc. Cependant
+(éloignée seulement de 65 kilomètres du port de
+Rabat) elle serait très-accessible à une grande puis-
+sance maritime et militaire comme la France. Aussi
+les anciens souverains du Maroc avaient-ils mis tous
+leurs soins à entretenir les fortifications de Rabat,
+écroulées aujourd'hui.
+
+
+X
+
+
+La troisième route conduit de Tanger à Tetouan,
+et de là à Fez. Il y a, pour bien dire, deux chemins
+entre ces deux premières villes : l'un longeant la
+mer entre la pente des contreforts du petit Atlas,
+
+
+196
+
+
+HISTOIRE DE LA GUERRE
+
+
+qui, sous le nom de Bullones, et plus près de
+Ceuta sous celui de monts d'Anghera, courent
+parallèles à la côte, couvrant le pays d'une succes-
+sion affreuse de ravins, de défilés, de marais et de
+lits de torrents desséchés en été et impétueux en
+hiver et au printemps. C'est ce chemin ou sentier
+d'un développement de quinze myriamètres à peu
+près que suivra l'armée espagnole et où nous allons
+la voir déployer des prodiges de valeur et de con-
+stance. L'autre route conduit le long du versant oc-
+cidental de ces mêmes montagnes, et, se bifurquant
+à Fondach, se dirige sur Tetouan et sur Fez. Il ré-
+sulte de cette configuration topographique du pays
+que nous venons de décrire, qu'il est très-difficile à
+une puissance européenne de faire la guerre au
+Maroc de manière à obtenir un succès qui force l'en-
+nemi à demander la paix. En effet, une expérience
+de trente ans a enseigné à la France ce qu'il en coûte
+de faire la guerre à ces hordes africaines, qui, bat-
+tues, se dispersent, ne laissant aucune prise sur eux
+aux vainqueurs, pour se reformer à la première oc-
+casion.
+
+
+Pénétrer dans l'intérieur à 17 et 20 jours de
+marche pour atteindre les capitales de Fez, de Ma-
+roc ou de Mequinez, est chose sinon impossible, du
+moins très-difficile dans ce pays barbare, quand il
+faut traîner après soi tous les approvisonnements de
+bouche et de guerre. Et puis, lorsqu'on a atteint ces
+villes, la guerre n'en est pas plus décidée pour
+cela.
+
+
+Le lien qui réunit ces peuplades héterogènes et
+barbares est si peu solide, que la chute de leur ca-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+197
+
+
+pitale n'amène nullement et de force la conclusion
+de la paix. Celle-ci pourra bien plus facilement être
+obtenue en attaquant les ports de l'Atlantique par
+où l'Empereur tire le plus clair de ses revenus.
+Les Français ont agi ainsi en 1844 sous le prince
+de Joinville. Sans doute un corps d'invasion prenant
+Rabat pour sa base d'opérations et se dirigeant le
+long du cours du Sebou sur Fez et Mequinez, abré-
+gerait ainsi considérablement la distance, car il ne
+faudrait guère que cinq jours de marche pour at-
+teindre ces deux villes. Mais pour entreprendre
+une pareille opération, il faut avoir une flotte consi-
+dérable que l'Espagne ne possède pas encore. Et
+puis ce serait singulièrement exposer la sûreté
+d'un corps d'armée que d'appuyer sa base d'opé-
+rations sur une côte aussi inhospitalière et aussi
+difficile à aborder en toute saison, mais surtout en
+hiver et au printemps, comme l'est la côte atlantique
+du Maroc. D'ailleurs, il fallait éviter de donner à
+cette astucieuse Angleterre un prétexte pour s'op-
+poser avec quelque apparence de droit à cette af-
+faire; et elle n'aurait pas manqué de crier à l'inter-
+ruption de son commerce avec le Maroc, qui se fait,
+comme on sait, surtout par les ports de l'Atlantique.
+C'est par cette même raison qu'on n'a pas, sans
+doute, voulu tout d'abord attaquer Tanger, ce qui,
+du reste, n'aurait amené aucune décision. Il ne res-
+tait donc que l'attaque par Ceuta et Tetouan.
+
+
+On s'est demandé pourquoi le maréchal O'Donnell,
+au lieu d'employer près de deux mois à se frayer une
+route de Ceuta à Tetouan, n'a pas immédiatement dé-
+barqué devant cette dernière ville, incapable de pré-
+
+
+17.
+
+
+198
+
+
+HISTOIRE DE LA GUERRE
+
+
+senter une résistance sérieuse à une armée euro-
+péenne. Mais si on veut bien y réfléchir, on trouvera
+que le maréchal, par le choix de sa ligne d'opéra-
+tions, a donné, au contraire, une nouvelle preuve de
+cette sagacité et de ce tact militaire qu'on admire
+chez lui dans toute sa carrière glorieuse.
+
+
+Depuis les luttes de l'indépendance, l'armée es-
+pagnole n'avait plus fait la grande guerre, car les
+dissensions intérieures, qui sous la minorité d'Isa-
+belle II ont ensanglanté ce noble pays, ne présen-
+taient que des combats de guerillas. Les difficultés
+financières s'étaient surtout fait sentir pour l'armée
+et la marine, qu'on réduisit à leur plus simple ex-
+pression. Il est vrai que le maréchal avait réussi à
+resserrer l'esprit de discipline militaire, fort relâché
+par ces révoltes continuelles de généraux, dont l'une
+succédait à l'autre avec une désastreuse rapidité.
+Mais quoique la discipline soit un des principaux
+éléments pour constituer une bonne armée, elle ne
+suffit pas à elle seule; il faut encore au soldat et à
+l'officier l'habitude de la guerre et de la vie des
+camps. Il importait donc au maréchal de donner à
+l'armée d'expédition cette cohésion, cette unité qui
+la rend un instrument docile entre les mains d'un
+chef habile, et de développer chez le soldat ce sang-
+froid, ce courage et cette confiance de l'individu qui
+est si nécessaire en face d'un ennemi indiscipliné,
+qui, comme l'Arabe, attaque avec une impétuosité
+et des cris sauvages.
+
+
+Pour obtenir ce but, Ceuta offrait au maréchal la
+base la plus convenable; il pouvait, sous le canon
+de cette forteresse et à l'abri de toute attaque, réu-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+199
+
+
+nir peu à peu ses troupes en les y faisant débarquer
+par petits détachements, comme les faibles ressour-
+ces maritimes de l'Espagne le permettaient seule-
+ment. De cette manière, rien ne serait laissé au ha-
+sard, l'armée n'opérerait que par masses imposan-
+tes, pourvue de son matériel et abondamment
+approvisionnée, ce qui, dans un pays aussi sauvage
+n'offrant point ou peu de ressources, est une condi-
+tion sine qua non.
+
+
+Lorsque nous nous occuperons du détail des opé-
+rations militaires, nous verrons combien grandes
+étaient les difficultés qu'une mauvaise chance, sous
+forme d'épidémie et d'orages extraordinaires et
+d'une durée inusitée, opposait au maréchal dans
+cette entreprise glorieuse. Remarquons seulement
+en passant que chefs et soldats n'y ont vu et $n^{\prime}y$ ont
+trouvé qu'une nouvelle occasion pour s'élancer d'un
+bond à côté de ces vieilles et fameuses bandes des
+Cordova et des Alba.
+
+
+Mais avant d'entrer dans le récit de ces hauts
+faits, il nous faudra dire quelques mots sur les res-
+sources des deux peuples et la composition de leurs
+armées, qui vont bientôt se trouver en face l'une de
+l'autre.
+
+
+XI
+
+
+La population du Maroc, à une bien plus forte
+proportion que celle de l'Algérie, est composée d'é-
+
+
+200
+
+
+HISTOIRE DE LA GUERRE
+
+
+léments divers et hétérogènes, dans lesquels la race
+nègre entre surtout pour une bonne part. Ceci donne
+aujourd'hui ce caractère sauvage et fanatique à ce
+peuple dont les ancêtres, d'un sang moins mêlé, ont
+pourtant brillé en Espagne par les sciences et par
+l'architecture, à une époque où la plus grande par-
+tie de l'Europe était encore plongée dans les ténè-
+bres et dans l'ignorance du moyen âge. Les deux
+principales nations qui forment le fond de la popu-
+lation sont les Berbères et les Maures. Les premiers
+sont la population aborigène. On les divise en
+Amarzirgs et en Chelloks. Les différents auteurs sur
+le Maroc épellent différemment ce nom (Carette dit
+Chellouh; Renou, Chelleuh; Didier, Schelloks; Cal-
+deron, Xiloes; Graberg de Hemsoë, et les Italiens disent
+Schelvoichi). Les gens du Maroc, selon M. Godard,
+dont nous recommandons vivement l'excellent ou-
+vrage sur ce pays, désignent les montagnards sous
+le nom générique de Berbères, ou sous le nom par-
+ticulier de la région qu'ils habitent; et ils parais-
+sent plutôt réserver celui d'Amarzirgs aux habitants
+du Sous. Ils prétendent que les indigènes de Sous ne
+s'entendent pas avec les Berbères, que la langue des
+premiers ne s'écrit pas si ce n'est en caractères ara-
+bes, tandis que les Berbères ont des caractères pro-
+pres au Maroc comme en Algérie.
+
+
+Les Maures, nous venons de le dire, forment une
+autre fraction de la population marocaine. Ils se dis-
+tinguent très-bien entre eux en Maures d'Espagne
+et Maures du Levant. Ceux-ci, d'une origine arabe
+plus pure, sont fixés dans la ville ou mènent la vie
+de Bédouins dans les campagnes. Les Maures d'Espa-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+201
+
+
+gne, dont la nationalité s'est mélangée de Berbères
+à l'époque des invasions arabes qui inondèrent la
+péninsule Ibérique, habitent particulièrement les
+villes, où ils se livrent à l'industrie et au commerce.
+Tetouan, Fez, Rabat et d'autres villes sur le littoral
+les ont reçus quand, depuis Ferdinand et Isabelle
+jusqu'à Philippe III (1483-1613), ils furent exilés
+d'Espagne.
+
+
+Ceux de Tetouan et de Saleh furent autrefois de
+hardis pirates, mais s'ils ont conservé à Rabat et à
+Saleh les passions les plus hostiles aux chrétiens, ils
+paraissent être plus calmes à Tetouan. La plupart
+des auteurs qui ont écrit sur le Maroc ont fait obser-
+ver qu'un certain nombre de familles marocaines,
+juives ou mauresques, se rattachent encore à des
+branches chrétiennes bien connues en Espagne,
+surtout à Grenade et à Cordoue. Les de Castillos de
+Grenade ont des parents à Tetouan, et ceux-ci gar-
+dent les titres de leurs anciennes propriétés de
+Grenade. Les Vargas de cette ville se relient à
+des familles musulmanes de Tanger et de Tetouan.
+Nommons-y encore les Medina, les Sordo, les
+Aragon, les Salas. Les musulmans du Maroc sont
+généralement fanatiques, mais le mahométisme est
+loin d'être suivi dans toutes ses prescriptions par les
+Berbères. Ils y mêlent, ainsi que les nègres, une
+foule de pratiques superstitieuses. Il n'est pas rare
+de remarquer le signe de la croix parmi les dessins
+dont les femmes berbères sont tatouées à la figure
+et au col.
+
+
+M. Drummond Hay, le consul actuel de l'Angle-
+terre, dans un de ses ouvrages sur ce pays qu'il ha-
+
+
+202
+
+
+HISTOIRE DE LA GUERRE
+
+
+bite depuis de longues années, assure que d'autres
+coutumes lui ont paru conserver au Maroc les an-
+ciens vestiges de la religion catholique, et il cite,
+par exemple, les invocations des femmes durant les
+accouchement laborieux : «  Mariah! viens, accours
+sans tarder, viens! c'est une femme qui pleure! »
+Les juifs marocains, dont on peut hardiment éva-
+luer le nombre de 4 à 500,000, ne sont pas tous
+des exilés d'Espagne. Il y a dans les montagnes du
+Sous des tribus indigènes entièrement juives et qui
+habitent des villages construits à l'instar de ceux
+de leurs kabyles.
+
+
+Les Arabes qui envahirent au septième siècle l'Afri-
+que septentrionale rencontrèrent des tribus sembla-
+bles au sud de la régence de Tripoli. Descendent-
+elles des peuplades venues de l'Orient à l'époque des
+premières colonies phéniciennes, comme le rappor-
+tent des traditions obscures recueillies par des histo-
+riens musulmans? ou bien furent-elles converties
+originairement par les juifs dispersés après le sac de
+Jérusalem, et qui ont exercé leur prosélytisme sur
+une si grande partie du monde connu des anciens?
+La première hypothèse serait bien probable si,
+comme quelques juifs espagnols l'ont affirmé au
+père Godard, la langue des juifs du Sous fut un
+chaldéen corrompu, mais non pas au point d'être
+inintelligible pour les rabbins qui savent le syro-
+chaldaïque du Talmud.
+
+
+La majeure partie des juifs du Maroc descend
+des juifs exilés de l'Europe au moyen âge et surtout
+de l'Espagne. Ils se désignent par le titre singulier
+de descendants de la catastrophe de Castille, Gue-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+203
+
+
+rous de Castilla; et les rabbins, pour les mariages
+et autres affaires, emploient encore des formules
+qui se terminent par ces mots : « Le tout selon l'u-
+sage de Castille, Hachol Keminahry Castilla. >> Le sort
+de cette malheureuse nation est des plus tristes que
+l'on puisse imaginer, bien que sous l'empereur dé-
+funt Abder Rhaman, beaucoup moins cruel que la
+plupart de ses prédécesseurs, ils aient eu moins de
+vexations et de cruautés à supporter qu'autrefois.
+Comme ils parlent généralement un peu d'espagnol,
+une armée d'invasion doit trouver parmi cette popu-
+lation des guides et des renseignements sur le pays.
+
+
+La population totale que le Maroc nourrit sur un
+espace d'environ six mille myriamètres carrés, c'est-
+à-dire dans un pays d'un sixième plus vaste que la
+France ou l'Espagne et le Portugal réunis, est évaluée
+par Graberg de Hemsoë à huit millions et demi,
+ce qui pour vingt-quatre mille trois cent soixante-
+dix-neuf lieues carrées ferait deux cent quarante-
+neuf individus par lieue carrée. Mais toutes ces
+données sont nécessairement fort peu sûres, lorsqu'il
+s'agit d'un pays aussi barbare et aussi inaccessible
+aux voyageurs européens.
+
+
+L'administration dans le Maroc est ce qu'elle est
+dans tous les pays musulmans, despotique, vicieuse
+et corrompue. La justice se vend, mais ne se rend
+pas. Les impôts sont institués non pour le bien du
+pays, mais pour enrichir le shérif.
+
+
+Pourtant les sources des revenus de celui-ci sont
+nombreuses. Outre la dime des produits de la terre,
+c'est-à-dire de l'Achour, elles sont alimentées par la
+Djezzia ou capitation des juifs; par les cadeaux ou
+
+
+204.
+
+
+HISTOIRE DE LA GUERRE
+
+
+Edya, qui se font aux quatre grandes fêtes de l'an-
+née; par les octrois, les amendes, les impôts arbi-
+traires et accidentels; par des spoliations de sujets
+soupçonnés d'être riches; enfin et surtout par les pro-
+duits des douanes qui se perçoivent à la sortie et à
+l'entrée dans les ports de l'Atlantique et à Tetuan,
+ainsi que par la fabrication des monnaies et la diffé-
+rence de la valeur, fixée arbitrairement par le gou-
+vernement, qui l'élève quand il paye et l'abaisse
+quand il reçoit. Ainsi en Octobre 1858, dit M. Go-
+dard, la Foukia, petite pièce que les Européens ap-
+pellent once, valait, suivant le tarif de l'Empereur,
+quatre blanquillos et demi; dans le commerce elle
+valait cinq blanquillos et un sixième. Le Stati, mon-
+naie d'argent appelée par les Européens demi-
+piécette, valait, selon le tarif sept et dans le com-
+merce huit blanquillos. Il arrive, par exemple, que
+vous devez payer à l'Empereur une pièce de cinq
+francs; il la reçoit selon son tarif pour dix-neuf on-
+ces seulement, tandis que dans le commerce elle en
+représente vingt-cinq. Avec ces cinq francs il fabri-
+quera pour huit francs de flous, misérable monnaie
+de billon grossièrement faite de plomb, de zinc et
+de cuivre. Puis s'il doit à son tour vous payer cinq
+francs, il vous payera en flous de son tarif, et au
+lieu de cinq francs vous n'en aurez que quatre. Re-
+nouvelez ce procédé cinq fois entre vous et le gou-
+vernement, celui-ci vous aura anéanti toute la
+pièce sans en avoir l'air. Avec un système pareil on
+peut facilement s'imaginer que ni l'industrie, ni le
+commerce, ni même l'agriculture ne peuvent pro-
+spérer.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+205
+
+
+Et pourtant Dieu a doté le Maroc de richesses
+inépuisables; ce pays ayant plus de profondeur, et
+étant arrosé par de nombreuses rivières et des ruis-
+seaux dont plusieurs sont navigables, est plus fertile
+encore que l'Algérie, cet ancien grenier d'abondance
+del'antique Rome. Les poissons abondent sur ses cô-
+tes comme sur celles de Terre-Neuve; le blé, l'orge,
+le maïs, poussent comme par enchantement; l'olivier
+pourrait inonder d'huile le pays, si on se donnait la
+peine de le greffer au lieu de le laisser à l'état sau-
+vage. Nous ne parlerons pas des légumes et des fruits
+raisins, oranges, citrons, limons, dattes, bananes,
+figues, poires, pommes, cerises, noix, châtaignes et
+pêches, qu'on y trouve tous en quantité. Le règne
+animal n'est pas moins richement représenté; et
+sans parler du gibier innombrable, volatiles et qua-
+drupèdes, nous mettrons en première ligne de la
+faune marocaine les chevaux, les ânes et les mules,
+qui sont de premier ordre pour les qualités phy-
+siques. Dans les vastes pâturages et aux flancs verts
+des coteaux se déroulent sans fin les troupeaux er-
+rants de chèvres et de brebis; et, sans être engraissée,
+la poule domestique y atteint un poids de six kilo-
+grammes.
+
+
+Aussi la vie matérielle est-elle à très-bon marché
+dans ce pays. Le blé coûte, à prendre au silos, de
+4 à 5 francs l'hectolitre. La viande de boucherie se
+vend: la bœuf environ 20, le mouton 24 centimes
+le demi-kilogramme. La douzaine de poules revient
+à 7 ou 8 francs; le cent d'œufs au plus à 2 francs;
+le beurre à 40 centimes le demi-kilogramme. Les
+terres de labour, dans l'intérieur du pays, valent 100
+
+
+18
+
+
+ز
+
+
+206
+
+
+HISTOIRE DE LA GUERRE
+
+
+francs la mesure de 7 hectares ; à Tanger même on
+aurait pour 200 francs par hectare un jardin irri-
+gable et planté d'arbres. On voit donc qu'à très-peu
+de frais un amateur pourrait s'y donner un véritable
+Éden, s'il n'entrait pas dans les calculs de l'Angle-
+terre que le Maroc reste entre les mains des Barbares.
+Espérons cependant que l'Europe se lassera de cet
+état comme elle s'est lassée depuis longtemps déjà
+de payer tribut au Maroc; toujours cependant, à l'ex-
+ception de l'Angleterre, qui, sous le nom de présents,
+trouve encore de son intérêt de profiter d'un moyen
+clandestin et honteux pour conserver sa prépondé-
+rance dans ce pays.
+
+
+Le règne minéral ne le cède en rien en richesses
+aux autres règnes. C'est une notion populaire et
+comme une légende dont on ne connaît pas l'origine,
+que cette opinion généralement répandue sur les
+gisements importants de mines de toute espèce ren-
+fermées dans les chaînes de l'Atlas. En 1846, Abder-
+Rhaman avait concédé à Bou Derba, Algérien établi à
+Tétouan, une mine de cuivre non loin de cette ville;
+celui-ci voulut céder son privilége à une Compagnie
+française plus à même de bien exploiter; mais il
+avait compté sans le Sultan, qui, aima mieux racheter
+la concession 40,000 francs que de livrer un coin
+de la terre sainte de l'islamisme à l'industrie des
+Européens. Le rachat eut lieu en 1855 seulement.
+Les régions voisines de Maroc et du Sous regorgent
+de minerais de fer. A Zaïda, entre Rabat et Casa
+Blanca, l'ingénieur anglais Riley avait reconnu une
+excellente mine de fer. Un riche Maure de Tanger,
+qui avait vísité Paris et Londres, en demanda au
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+207
+
+
+Sultan la concession moyennant l'abandon du quart
+du produit. Il reçut un refus, et les mines de Zaïda
+sont entièrement abandonnées.
+
+
+Dans le Sous on exploite une mine de cuivre des
+plus abondantes et qui fournit au Maroc presque
+toute sa vaisselle de cuivre. On a essayé d'embarquer
+de ce minerai comme lest, avec l'espoir que les au-
+torités marocaines fermeraient les yeux sur ce com-
+merce déguisé; mais on se trompait. Abder Rhaman
+prohiba l'exportation du cuivre en lest. Le même
+ingénieur Riley a reconnu près de Tétouan du plomb
+argentifère et, non loin de Tanger, une mine d'ar-
+gent. Dans le Sous, le lit des rivières étincelle de
+paillettes qui supposent de précieux gisements. Près
+de Maroc et d'Azamor on laisse dormir des mines de
+soufre; et les Arabes, pour faire leur poudre,
+viennent recueillir celui que les eaux thermales de
+Mouley el Mansour, entre Fez et Mequinez, déposent
+dans le lit du ruisseau.
+
+
+XII
+
+
+Si nous venons de nous étendre, un peu plus
+longuement que notre sujet militaire surtout ne l'eût
+demandé sur les ressources du Maroc, c'est pour
+faire ressortir davantage encore combien les nations
+du continent doivent applaudir à une guerre qui,
+tout en vengeant l'honneur castillan offensé, ouvre
+
+
+208
+
+
+HISTOIRE DE LA GUERRE
+
+
+au commerce, à la civilisation et à la religion chré-
+tienne un pays non moins riche et bien plus rap-
+proché que celui conquis par Cortès et ses braves
+compagnons.
+
+
+Passons, après cette digression, aux forces mili-
+taires que le Maroc peut opposer à l'Espagne.
+
+
+L'armée du Maroc est formée de trois éléments
+principaux: de la garde noire, du Nichan ou troupes
+soi-disant régulières, création nouvelle de l'Empe-
+reur actuel, et enfin des contingents ou Makhzen
+que les différentes tribus fournissent, et qui, dans le
+cas où la guerre sainte est proclamée, composent toute
+la partie valide de la population. A ces trois parties
+principales il faut ajouter encore une quatrième, les
+colonies militaires.
+
+
+La garde noire ou les Bokharis fut fondée par
+l'empereur Muley Ismaël, un des monarques les plus
+remarquables, mais cruel et féroce, qui a occupé le
+trône du Maroc de 1673 jusqu'à 1727.
+
+
+Fatigué des révoltes continuelles de ses sujets exas-
+pérés par ses cruautés, il profita d'une expédition
+dans le Tombouctou pour former un corps de cavalerie
+exclusivement composé de nègres et entièrement dé-
+voué au shérif régnant. Séparés, comme ces hommes
+l'étaient, de traditions, d'intérêts et de liens de fa-
+mille des tribus arabes, ils formaient les janissaires
+noirs du Maroc; leur nombre fut porté tout d'abord
+jusqu'à 100,000 hommes. Mais Muley Abdallah
+déjà, un des successeurs de Muley Ismaël, voyant que
+ces hordes prétoriennes prétendaient disposer de la
+couronne comme les janissaires à Constantinople,
+chercha et parvint à semer adroitement la division
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+209
+
+
+entre eux et les principales tribus maures; il en ré-
+sulta que les noirs furent en grande partie sacrifiés
+à la haine et à la vengeance des provinces et que leur
+nombre diminua bientôt.
+
+
+Enfin Sidi Mahomed, en 1780, commença à trou-
+ver excessive la dépense de plus de 4 millions em-
+ployée à l'entretien de 30 à 35,000 cavaliers noirs;
+il les fit donc partir par détachements, sous prétexte
+d'aller résider dans les provinces, et, envoyant un
+contre-ordre par un détachement plus fort, il les fit
+désarmer et leur assigna des terres dans des con-
+trées différentes et éloignées les unes des autres; de
+sorte que, dans l'espace de moins de soixante ans,
+les 100,000 noirs de Muley Ismaël se réduisaient
+à 15,000. Tout le reste disparut. Muley Soliman,
+le prédécesseur d'Abder Rhaman, père de l'Em-
+pereur actuel, n'avait que 15 ou 18,000 hommes
+soldés.
+
+
+Exercés au métier de la guerre, naturellement
+féroces, exaltés encore par le mahométisme dont ils
+sont imbus et qui leur montre leurs shérifs comme
+les représentants et successeurs directs du prophète,
+ces noirs constituent vraiment une force imposante
+au milieu de populations qui n'ont aucune notion
+de tactique. Mais, plus exercés à la fantasia qu'aux
+manœuvres sérieuses, ils sont bien au-dessous de
+leur réputation s'ils ont à se mesurer avec des trou-
+pes européennes. Nous les avons vus à la bataille
+d'Isly, où ils ne manquaient pas d'audace; pourtant
+quelle impuissance n'ont-ils pas montrée devant la
+petite armée du maréchal Bugeaud!
+
+
+Après la perte de cette bataille par Sidi Moham-
+
+
+18.
+
+
+210
+
+
+HISTOIRE DE LA GUERRE
+
+
+med, qui commanda alors l'armée du Maroc, le fils
+d'Abder Rhaman voulut introduire dans l'armée ma-
+rocaine l'organisation et les perfectionnements ma-
+tériels de ses ennemis, auxquels, non sans raison,
+il attribue une grande part de leurs succès. Il créa
+donc une espèce de troupes régulières, désignées
+sous le nom de Nichans, auxquelles plus tard il donna
+même des armes de précision fournies par ses excel-
+lents amis les Anglais. Les détails certains nous
+manquent sur cette création toute moderne, on dit
+qu'elle est forte de 12,000 hommes; qu'elle a
+même été doublée depuis l'avénement de Sidi Mo-
+hammed et qu'on a créé des bataillons de chasseurs;
+mais nous doutons que cela soit bien formidable :
+l'exemple de Constantinople et de Tunis est là pour
+nous montrer combien de temps et de patience il
+faut pour faire de ces barbares des soldats discipli-
+nés; et pourtant le Sultan et le Bey avaient des of-
+ficiers instructeurs européens. On dit pourtant
+qu'il s'est servi d'un déserteur espagnol, renégat,
+pour opérer ces réformes militaires.
+
+
+Les contingents ou Makhzen des provinces et des
+tribus se composent de tous les hommes valides de
+16 à 60 ans. Tout Marocain possède au moins un
+fusil et un poignard ou yatagan. Le gouvernement
+ne fournit que la poudre et le plomb. Les provinces
+sont tenues de fournir de quoi vivre aux troupes qui
+traversent leur territoire. Cet impôt de la Mouna
+est fort à charge aux Ksours et aux Douars; on y
+voit d'un mauvais œil arriver les soldats, et l'on se
+dit aussi pauvre que possible, sûr qu'on est d'être
+mis forcément à une large contribution. La cavalerie
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+211
+
+
+de ces Makhzen l'emporte en nombre sur l'infante-
+rie, le culte du cheval règne au Maroc comme en
+général dans les pays musulmans. Ce noble animal
+y est plus vigoureux et de plus haute taille qu'en
+Algérie. Quatre à cinq litres d'orge et cinq ou six ki-
+logrammes de paille suffisent pour le nourrir pen-
+dant 24 heures; cependant les guerres continuelles
+ont fait dégénérer les races. On a donc beaucoup
+de difficulté à trouver un cheval vraiment beau, tel
+que nous nous le représentons lorsqu'il est ques-
+tion d'un cheval barbe ou arabe. Les meilleurs
+chevaux sont, dit-on, tirés du désert du côté d'Abda;
+quelques-uns d'entre eux, connus sous le nom de
+Scherberru ou Buveurs de Vent, servent surtout pour
+la chasse de l'autruche; ils peuvent courir trois
+ou quatre jours de suite sans prendre de nourriture
+et ne se soutiennent qu'avec du lait de chameau.
+
+
+Les Maures sont très-bon cavaliers; ils résistent
+à la faim, à la soif, au mal-être, sont doués de tou-
+tes les qualités propres à faire des soldats; mais ce
+ne sont pas des soldats.
+
+
+Leurs selles, ainsi que les étriers, sont exacte-
+ment semblables à celles qu'on voit en Espagne,
+surtout en Andalousie. Le mors est extrêmement
+dur; les éperons sont d'une longueur et d'un poids
+effrayants; le fer est une espèce de clou gros comme
+le petit doigt et de 4 à 5 pouces de long. Tout l'é-
+quipement du cheval est rouge, ce qui contraste
+agréablement avec le vêtement du cavalier, qui
+éblouit par sa blancheur. Leur arme principale est
+un fusil de cinq pieds et demi de long et beaucoup
+moins lourd que sa longueur devrait le faire croire;
+
+
+212
+
+
+HISTOIRE DE LA GUERRE
+
+
+sa platine est sûre et solide, elle n'a pas le cran du
+repos.
+
+
+Tous les fusils arabes se fabriquent dans l'Empire.
+Les canons, soit de fer, soit de bronze, sont, comme
+nous l'avons déjà dit, des cadeaux faits par les puis-
+sances européennes; mais ils ne sont ni montés ni
+entretenus; on les voit, dans les port de mer, aban-
+donnés çà et là et à demi enterrés dans le sable. Un
+des derniers Shérifs avait appelé de Constantinople
+des fondeurs et des canonniers pour établir des fon-
+deries dans l'Empire; mais tout se borna à une fa-
+brique de bombes qui ne fut pas longtemps en acti-
+vité à Tetouan. Le Maroc est mieux fourni quant à
+la fabrication des autres armes; les fusils viennent
+de Tetouan pour la plupart. C'est chose curieuse à
+observer que le travail des armuriers; avec peu
+d'outils et des moyens tout primitifs, ils obtiennent
+des produits remarquables. C'est la vieille industrie
+andalouse, d'autant plus habile dans l'emploi de
+ses procédés qu'elle n'y apporte aucune modifica-
+tion et demeure stationnaire. Les Marocains ne se
+servent guère du pistolet; leur fusil porterait assez
+bien s'ils n'avaient pas des balles d'un trop petit
+calibre; ils les font pénétrer dans le canon entou-
+rées d'un peu de laine ou de lifa, chanvre du pal-
+mier nain.
+
+
+Les armes blanches se fabriquent surtout à Fez
+et à Mequinez; on reconnaît l'imitation des vieilles
+lames de Tolède, qui ne sont point rares au Maroc.
+Outre le sabre et le fusil, les Marocains portent en-
+core le poignard droit et celui à lame courbée dit
+poignard du Sous. On trouve aussi dans le pays
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+213
+
+
+beaucoup de fusils anglais, mais qui ne sont généra-
+lement que des armes de rebut. Le gouvernement
+possède des fabriques de poudre à Maroc et à Fez,
+mais il en tolère partout la fabrication et la vente.
+La poudre est d'une médiocre qualité.
+
+
+Le gouvernement n'a pas d'arsenaux dans le sens
+européen; et ne fournissant des armes aux troupes
+que dans des cas exceptionnels, il ne possède que
+peu d'armes de rechange; mais il est abondamment
+approvisionné de poudre, de soufre et de salpêtre. Il
+conserve le monopole exclusif de ces deux dernières
+substances, voici en quoi consiste le vêtement com-
+plet d'un cavalier régulier : le feci ou bonnet rouge
+de Fez pointu et surmonté d'une houppe bleue; le
+rza ou turban qui entoure la partie inférieure du
+bonnet, il est en mousseline anglaise et d'une ex-
+trême longueur; le dzabad, corset en laine ou en
+drap, sur la chair; le serouel qui descend plus bas; il
+est aussi plus étroit que le pantalon turc ou serouel
+Kandrisa; le hazam ceinture de laine rouge, quel-
+quefois en soie; la Vramigh ou chemise à larges
+manches; le caftan de drap rouge sur la chemise; le
+slam, manteau court en laine blanche; le haïk long
+de cinq ou six mètres et dans lequel on se drape; le
+temmay, bottes longues sans semelles, ou, pour
+mieux dire, tiges de bottes en maroquin rouge;
+les belgha m'ta er rekenb, ou souliers pour mon-
+ter en fin maroquin et qui enveloppent le pied
+sans avoir des semelles d'un autre cuir. Les hemz,
+ou éperons en longues broches s'attachent entre le
+soulier et la botte. Le costume des fantassins ne dif-
+fère pas beaucoup de celui-là; ils sont chaussés de
+
+
+214
+
+
+HISTOIRE DE LA GUERRE
+
+
+la babouche à semelles de cuir, dont on trouve tou-
+jours une si grande quantité sur le champ de ba-
+taille après une défaite de leurs armées.
+
+
+Quant au Makhzen ou contingent des provinces,
+la plupart des soldats se croient suffisamment équi.
+pés avec la chemise et la chellabah ou avec celle-ci
+toute seule. Ils marchent nu-pieds; à la gebira ou
+giberne ils ajoutent souvent le porte-balles confec-
+tionné avec des morceaux de cuir de diverses cou-
+leurs et fermé par des cordons en coulisse à la façon
+des blagues à tabac.
+
+
+Les armées, comme nous l'avons vu dans nos
+guerres en Afrique, ne sont qu'une informe cohue
+sans tactique et sans ordre ni mobilité. Voici en
+quoi consiste la principale manœuvre de leur armée:
+celle-ci se forme ordinairement en croissant qui a
+sa force principale dans le centre, où est placée aussi
+l'artillerie, tout l'art consiste a envelopper son en-
+nemi en s'approchant de lui à cinq cents pas à peu
+près, se déployant soudain et présentant le plus
+grand front possible; les cavaliers s'élancent aussitôt
+à bride abattue en ajustant leur long fusil qu'ils ma-
+nœuvrent aussi facilement que nos soldats manient
+la lance; arrivés à demi-portée, ils tirent un coup
+nécessairement incertain en appuyant un doigt de la
+main gauche sur la détente et sans abandonner les
+rênes, la main droite pendant ce temps soutient le
+fusil, le coup tiré, ils arrêtent le cheval par un fort
+mouvement de bride en renversant le corps en ar-
+rière avec beaucoup de grâce, et, jetant l'arme sur
+l'épaule gauche par un moulinet, ils tournent alors
+le dos et battent en retraite avec la même vitesse
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+215
+
+
+pour recharger leur arme. Les chevaux sont telle-
+ment habitués à cet exercice, qu'ils font demi-tour
+d'eux-mêmes aussitôt qu'ils entendent le coup partir.
+
+
+Outre ces éléments qui existent dans la composi-
+tion d'une armée marocaine nous avons mentionné
+encore les colonies militaires. C'est un établissement
+pareil à ce qui existe ou plutôt existait en Russie et
+à ce qui existe encore sur les frontières turques de
+l'Autriche. Toutes les familles qui forment ces colo-
+nies sont enregistrées et les enfants mâles servent
+de père en fils; la solde est de 30 onces, c'est-à-dire
+7 fr. 50 c. par mois pour les cavaliers et de la moi-
+tié pour les fantassins. Outre cette solde (rateb) irré-
+gulièrement payée, la famille militaire jouit encore
+d'autres, avantages plus considérables; elle est
+exempte d'impôts et possède des terres suffisantes
+pour son entretien. La solde du fils, jusqu'à l'âge de
+seize ans, s'élève à la moitié de celle du père; quand
+le jeune homme est en état de porter le fusil, elle
+est la même. Les immeubles de la famille sont ina-
+liénables, et le gouvernement ne peut les saisir tant
+que subsiste la progéniture mâle. A Mogador les
+deux tiers de la population musulmane appartien-
+nent à cette milice; celle de Safi y entre pour moitié.
+Les habitants de Casa-Blanca et de Tamana en font
+presque tous partie.
+
+
+La marine militaire du Maroc a été autrefois assez
+considérable, répandant la terreursur l'océan Atlan-
+tique. En 1792 encore, elle était d'une demi-dou-
+zaine de frégates, d'une douzaine de galiotes et de
+plusieurs milliers de matelots. Il n'y a plus mainte-
+nant qu'une goëlette de quatre canons, un brick de
+
+
+216
+
+
+HISTOIRE DE LA GUERRE
+
+
+douze, une frégate si bien bâtie qu'elle ne peut sor-
+tir, même sans lest de la rivière de Larache; quatre
+chaloupes canonnières et quelques chebecks. Le tout
+pourrit à Larrache, et depuis vingt ans l'Empereur
+n'a pas dépensé un centime pour l'entretien de
+cette flotte. Cette négligence du gouvernement ma-
+rocain pour l'entretien de ses vaisseaux est tout à
+fait systématique, ni l'argent ni les matériaux ne lui
+manquent pour cela; les forêts, quilui ont autrefois
+fourni des bois de construction pour des centaines
+de flottilles, ne sont pas épuisées; celle de Temesna
+près de Rabat, celle de Mamo approvisionneraient
+des chantiers immenses, mais on repousse toute idée
+pareille pour tenir éloignés les Européens. Un
+Français s'adressa à Abder Rhaman pour obtenir
+l'autorisation d'exploiter la forêt de Marmora, près de
+Mehedia, offrant de payer pour une concession de
+dix ans la somme de 250,000 fr. par an, ou de
+construire à ses frais et de céder au gouvernement
+deux frégates, deux bricks et autant de goëlettes.
+Cette demande si avantageuse fut accueillie par un
+refus péremptoire. Peut-on s'étonner après cela que
+la flotte marocaine soit dans une complète décadence?
+
+
+Toutes les tentatives de la diplomatie avaient
+échoué, ni la mort d'Abder Rhaman, ni la rude leçon
+que l'expédition française infligeait aux tribus pil-
+lardes marocaines sur les frontières de l'Algérie, ni
+la présence de la flotte française n'avaient pu ame-
+ner le shérif à la raison. La guerre avec l'Espagne,
+que de sages concessions de la part du gouvernement
+marocain auraient pu éviter, devint inévitable; etle
+22 octobre le président du Conseil, comte de Lucena,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+217
+
+
+avait solennellement annoncé que la guerre avait été
+déclarée au Maroc.
+
+
+<<< Messieurs, disait-il aux Députés, je ne vous
+>> dissimulerai pas toute mon émotion, que vous par-
+>> tagez. Nous donnons à l'Europe un grand specta-
+>> cle: nous avons fait taire nos dissensions de fa-
+>> mille; nous avons été sourds à tout autre cri que
+>> celui-ci: l'honneur espagnol! le sauvegarder in-
+>> tact et pur, faire pour lui tous les sacrifices qui
+>> pourront être nécessaires.
+
+
+>>> Je rends grâces à messieurs les Députés pour les
+>>> sentiments qu'au nom des diverses nuances de
+>> cette chambre ils ont exprimés. Je rends grâces au
+>> Congrès tout entier et au peuple espagnol, au nom
+>> de l'armée, à laquelle ils ont confié leur gloire et
+>> leur honneur; et si la reine daigne me confier le
+>> commandement de notre armée, je n'aurai pas
+>> d'autre mérite que celui d'avoir conduit ces héros
+>>> au combat.
+
+
+>> S'il y a des fautes faites, la responsabilité pèsera
+>>> sur moi; s'il y a des victoires, toute la gloire sera
+>> pour l'armée. Si l'on parcourt la liste des généraux
+>> chargés de commander dans cette expédition, on
+>> verra que l'on n'a fait aucune exception de nuan-
+>> ces politiques: et pourquoi pas? Aujourd'hui, il
+>> n'y a que des Espagnols qui sauront élever bien
+>>> haut le drapeau national.
+
+
+>> J'espère que la guerre sera courte. Nous ferons
+>> tous nos efforts pour qu'il en soit ainsi. Le gou-
+>> vernement a une confiance complète, absolue; il
+>>> croit être en ce moment l'interprète du peuple
+
+
+19
+
+
+218
+
+
+HISTOIRE DE LA GUERRE
+
+
+>> espagnol; il croit, il affirme même qu'aujourd'hui,
+>> comme toujours, aucun sacrifice ne coûtera à la
+>> nation espagnole, prête à donner hommes et ar-
+>> gent pour faire voir à l'Europe que nous sommes
+>> encore en état de nous montrer tels que nous fû-
+>> mes dans nos plus glorieux jours.
+
+
+>> Nous n'allons pas en Afrique animés d'un es-
+>> prit de conquête, non! Le Dieu des armées bénira
+>> nos armes, et la valeur de nos soldats et de nos
+>> marins fera voir aux Marocains que l'on n'insulte
+>> pas impunément le peuple espagnol prêt à visiter
+>> les foyers mêmes de l'ennemi, s'il le faut, pour
+>> trouver la réparation voulue.
+
+
+>> Nous n'allons pas en Afrique pour attaquer les
+>> intérêts de l'Europe; aucune pensée de cette sorte
+>> ne nous préoccupe. Nous allons laver notre hon-
+>>> neur outragé et exiger des garanties pour l'ave-
+>>> nir. Nous voulons être indemnisés par les Maro-
+>> cains des sacrifices qu'a faits la nation.
+
+
+>>> Qui pourrait nous taxer d'ambition et se plain-
+>> dre de notre conduite? Nous sommes forts de no-
+>> tre raison et de notre droit; le Dieu des armées
+>> fera le reste! >>>
+
+
+Cette déclaration, reçue au Sénat et au Congrès
+par des acclamations enthousiastes, eut un retentis-
+sement immense non-seulement dans tout le pays,
+mais jusque dans les colonies espagnoles les plus
+éloignées; et l'Europe entière applaudit au réveil
+national de ce noble peuple espagnol que ses dé-
+tracteurs avaient voulu représenter comme ayant
+perdu tout son sang sur les champs de bataille de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+219
+
+
+la guerre civile, et comme ayant épuisé toutes ses
+ressources dans les désordres administratifs et fi-
+nanciers. Nous allons voir dans le cours de cet ou-
+vrage comment cet enthousiasme s'est traduit en
+œuvres patriotiques; qu'il nous suffise de faire re-
+marquer dès à présent que l'histoire de nos jours et
+l'histoire moderne de l'Espagne elle-même ne pré-
+sentent pas d'exemple plus saisissant.
+
+
+XIII
+
+
+Le jour de l'ouverture du Sénat et des Cortès,
+le président du Conseil avait présenté un projet de
+loi fixant le contingent du pays pour 1860 à 100,000
+hommes; ce qui, en proportion de la population,
+est encore au-dessous de ce que fournissent d'autres
+États et ne pouvait donc grever l'Espagne.
+
+
+Voici la composition de l'armée espagnole avant
+la guerre (1):
+
+
+<<< L'infanterie, organisée selon le décret du 20 oc-
+tobre 1856, forme quarante régiments de ligne,
+vingt bataillons de chasseurs, un régiment de disci-
+pline dit de Ceuta. Il existe en outre quatre-vingts
+
+
+(1) Nous extrayons ces notes de l'excellent ouvrage que
+
+
+M. Léon Vidal vient de faire paraître sur l'Espagne.
+
+
+220
+
+
+HISTOIRE DE LA GUERRE
+
+
+bataillons provinciaux à huit compagnies chacun;
+ils composent la réserve et peuvent être mobilisés
+par le gouvernement.
+
+
+>> Le corps d'artillerie se compose de cinq régiments
+à pied; trois brigades montées, deux de montagne
+et une à dos de cheval, cinq fixes, cinq compagnies
+d'ouvriers, une compagnie de cadets pour la Pénin-
+sule et les Canaries; d'un régiment d'artillerie à
+pied, deux brigades de cinq batteries, une brigade
+de montagne, une brigade montée, une compagnie
+d'ouvriers à la Havane; deux brigades aux Philip-
+pines et une à Puerto-Rico.
+
+
+>> La création du corps du génie date du 24 avril
+1711. Le régiment du génie se compose de trois ba-
+taillons, chacun de six compagnies, dont quatre de
+sapeurs, une de mineurs et une de pontonniers;
+plus, d'une section pour le service du train. Quatre
+compagnies du génie sont affectées au service de la
+Havane.
+
+
+>> Une école du génie et une brigade de la topogra-
+phie complètent ce corps.
+
+
+>> La cavalerie a été organisée par décret du 9 no-
+vembre 1851 et par ordonnances de 1851, 1852 et
+1855; elle se compose de dix-neuf régiments, dont
+les quatre premiers sont des carabiniers, les douze
+suivants des lanciers, les deux ensuite de chasseurs,
+et le dernier de hussards. Chaque régiment est fort
+de cinq cents hommes et quatre cents chevaux, for-
+mant quatre escadrons. Ilya, en outre, deux es-
+cadrons légers de chasseurs, forts de cent trente
+hommes et cent trois chevaux, une sous-direction de
+a remonte avec quatre escadrons pour ce service,
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+221
+
+
+forts chacun de cent trente-huit hommes et quarante-
+huit chevaux.
+
+
+>>> Une école de cadets pour ce service et une école
+de cavalerie sont établies à Valladolid et à Alcala de
+Henarès.
+
+
+>> L'arme de la cavalerie est sous les ordres spé-
+ciaux d'un directeur général.
+
+
+>> Les corps spéciaux sont les gardes civils (guardias
+civiles), force instituée par décret du 13 avril 1844,
+organisée par plusieurs ordonnances, dont celle du
+15 juillet 1858 l'a portée à neuf mille hommes, et
+dont celle du 15 juillet 1856 avait réglé l'uniforme
+à peu près semblable à celui des gendarmes français,
+dont ils font le service. La garde civile est composée
+de trois régiments (tercios), ayant quarante-ncuf
+compagnies d'infanterie et douze compagnies-esca-
+drons de cavalerie. Ce corps, dont on trouve des sol-
+dats sur toutes les routes jour et nuit, a pour desti-
+nation la poursuite des malfaiteurs, la protection
+des personnes et des propriétés, la surveillance des
+chemins; il est fort utile et très-estimé en Espagne.
+Son organisation, sa discipline et sa solde dépendent
+du ministère de la guerre; son service et son caser-
+nement sont dans les attributions du ministère de
+l'intérieur (gobernacion). Un inspecteur général est
+à la tête de la garde civile.
+
+
+>>> La escuadra de Catalogne, corps créé en 1719
+et rattaché à l'armée en 1825, est composée de
+deux cent cinquante hommes (mozos de la escuadra),
+divisés en quatorze subdivisions, nombre égal à
+celui des corregimientos de la Catalogne. Ses officiers
+sont pris dans l'armée. Sa destination est la même
+
+
+19.
+
+
+222
+
+
+HISTOIRE DE LA GUERRE
+
+
+que celle de la garde civile, mais elle est limitée à la
+province.
+
+
+ Les carabineros del reino, créés d'abord, en
+1829, sous le nom de gardes des côtes et frontières,
+et reconstitués avec leur nom actuel en 1842. Ce
+corps se compose de trente et une commanderies,
+divisées en soixante-cinq compagnies, dont douze à
+cheval; il comprend aussi les marins de ce service
+attachés aux ports. Sa mission est d'empêcher et de
+poursuivre la contrebande; il dépend du ministère
+de la guerre pour l'organisation, la discipline et le
+matériel, et du ministère des finances, chargé des
+douanes, pour le service spécial et la solde. C'est
+une force semblable à celle des douaniers français;
+elle est sous la direction d'un inspecteur général. La
+ville de Madrid a une garde municipale établie en
+1850.
+
+
+>>> Le corps supérieur du service médical (sanidad
+militar), réorganisé par décret du 12 avril 1855, se
+compose d'un directeur général pris parmi les in-
+specteurs; d'inspecteurs et de sous-inspecteurs, de
+médecins-majors, de premiers médecins et d'aides
+attachés à l'armée, aux hôpitaux militaires, etc.
+
+
+>>> Les inspecteurs réunis forment la junte supé-
+rieure facultative, qui connaît de tout ce qui con-
+cerne les parties scientifiques ou administratives qui
+lui sont soumises par le directeur général. L'admis-
+sion dans ce corps se fait au concours. Dans la di-
+vision de la pharmacie, il y a un inspecteur, un
+sous-inspecteur, des pharmaciens-majors et des
+aides. Ces officiers de santé sont répartis entre le
+service de la Péninsule et des possessions d'outre-mer.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+223
+
+
+>> Le service religieux de l'armée, établi sous le
+nom de Vicariato général del ejercito, se compose
+d'un vicaire général, d'un auditeur et d'un secré-
+taire.
+
+
+ Les possessions espagnoles d'outre-mer ont une
+organisation spéciale et locale pour leur service mi-
+litaire correspondant à l'organisation existante dans
+la Péninsule.
+
+
+>>> Le recrutement de l'armée se fait au moyen de
+quintos ou conscrits et des volontaires. Tous les
+jeunes gens de vingt à vingt-deux ans révolus sont
+soumis au recrutement (quintos), quoiqu'ils soient
+mariés ou veufs avec des enfants. En 1858, le nom-
+bre des individus soumis au recrutement était de
+128,456. Une somme de 2,000 réaux est allouéc
+aux quintos pour leur temps de service, qui est de
+huit années, ou lorsqu'ils sont rendus impropres au
+service militaire par blessures reçues à la guerre. Un
+décret royal du 20 octobre 1835 a créé l'institution
+des invalides des ordonnances des 6 novembre
+1837 et 8 juillet 1838 ont complété l'organisation
+de cette institution, qui a été établie dans l'ancien
+couvent d'Atocha. Son inauguration eut lieu le
+10 octobre 1838, anniversaire de la naissance de
+la Reine. Tous les militaires devenus impropres au
+service par suite de blessures reçues en campagne
+sont admis dans cette maison, qui rivalise ainsi par
+la pensée qui l'a ouverte avec l'hôtel des Invalides
+de Paris et ceux de Greenwich et Chelsea en An-
+gleterre.
+
+
+ La caserne des invalides est sous le commande-
+ment d'un directeur, commandant général, et d'un
+
+
+224
+
+
+HISTOIRE DE LA GUERRE
+
+
+brigadier, second chef. Un colonel est secrétaire-ar-
+chiviste.
+
+
+>>> Son premier commandant fut le général Palafox,
+duc de Saragosse, qui l'organisa avec le plus grand
+soin, et auquel sont dues les améliorations les plus
+considérables. La distribution intérieure et le régime
+sont remarquablement établis. Chaque invalide
+coûte au gouvernement cinq réaux par jour, dont
+trois pour les aliments et deux pour le vestiaire, les
+chambres et leur ameublement. Les dons faits à
+cet établissement s'élevèrent, dans les dix premières
+années, à 630,000 réaux. Il contient environ cent
+cinquante soldats et vingt officiers supérieurs ou
+subalternes.
+
+
+>>>> Jusqu'en 1834, l'armée n'avait pas d'hôpitaux
+spéciaux; ses malades étaient traités dans les hôpi-
+taux civils. A cette époque, des hôpitaux militaires
+furent établis. Celui de Madrid, situé dans le ma-
+gnifique bâtiment de l'ancien séminaire des nobles,
+fondé par Philippe V, a été inauguré le 27 décem-
+bre 1841. Les services y sont parfaitement organisés.
+Le prix de la journée est estimé à trois réaux et
+demi. Ses vingt-deux salles spacieuses, sa cuisine,
+sa lingerie et son vestiaire, sont remarquables. La
+chapelle est très-belle et contient des tableaux de
+grande valeur. Il y a ordinairement quatre cent
+cinquante à cinq cents militaires malades dans ce
+bel établissement.
+
+
+>> En résumé, voici la composition de l'armée es-
+pagnole :
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+225
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+>> A l'occasion de la guerre contre le Maroc, de nou-
+veaux régiments de cavalerie ont été ajoutés à ceux
+qui existaient déjà, et un grand nombre de volon-
+taires se sont rendus sous les drapeaux. >>>
+
+
+L'état-major général de l'armée espagnole est
+divisé en une hiérarchie de quatre grades: maré-
+chal, lieutenant général, maréchal de camp et bri-
+gadier.
+
+
+Les grades de maréchal, de maréchal de camp et
+de brigadier, correspondent à nos grades de maré-
+chal, de général de division et de général de brigade.
+La position d'un lieutenant général a de grands
+rapports avec celle d'un général de division en
+France, mais elle en diffère en ce sens que les fonce-
+tions qui y sont attachées tiennent toutes du haut
+commandement, ordinairement réservé en France
+aux maréchaux seuls, ou à quelques généraux de
+
+
+226
+
+
+HISTOIRE DE LA GUERRE
+
+
+division d'un mérite transcendant et destinés au ma-
+réchalat.
+
+
+XIV
+
+
+Le mauvais vouloir opposé par l'Empereur du
+Maroc à toutes les réclamations de l'Espagne ayant
+fait prévoir qu'il faudrait recourir à la force pour
+obtenir la réparation exigée, le gouvernement es-
+pagnol avait formé une armée d'opérations dont deux
+divisions étaient concentrées à Algésiras et à Cadix
+dès le 10 octobre, et une troisième se formait à
+Malaga.
+
+
+Le tableau suivant contient la composition com-
+plète et officielle du corps d'opération espagnol dans
+le Maroc :
+
+
+1er CORPS.
+
+
+Commandant.
+
+
+Le général Don Rafael Échagüe (1).
+
+
+Chef d'état-major.
+
+
+Le colonel Don Joaquin Souza.
+
+
+Commandant l'artillerie.
+
+
+Le colonel Don José Saavedra Serrantes.
+
+
+(1) Le général Don Rafael Échague et Berninghaut est né à San-
+Sebastian-de-Vizcaya (Guipuzcoa), le 13 février 1815.
+Capitaine général des provinces Basques en 1845.
+
+
+S'est distingué au siége de Bilbao.
+
+
+Chevalier de l'ordre de San-Fernando et grand-croix de l'ordre de
+Charles III.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+Commandant le génie.
+
+
+Le lieutenant-colonel Don Juan Tello.
+
+
+Sous-intendant militaire.
+
+
+Don Tomas Vitella y Crespo.
+
+
+227
+
+
+BRIGADE D'AVANT-GARDE.
+
+
+Commandant.
+
+
+Le brigadier Don Ricardo de la Saussaye y Duffey.
+
+
+34 régiment d'infanterie (Grenade).
+
+
+1er bataillon de chasseurs à pied (Catalogne).
+
+
+20 bataillon de chasseurs à pied (Alcantara).
+
+
+DIVISION D'INFANTERIE.
+
+
+Commandant.
+
+
+Le maréchal de camp Don Manuel Gasset y Mercader.
+
+
+Ν. (1).
+
+
+1re BRIGADE.
+Commandant.
+
+
+17 régiment d'infanterie (Bourbon).
+
+
+5º bataillon de chasseurs à pied (Talavera).
+
+
+19º bataillon de chasseurs à pied (Merida).
+
+
+2º BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Fausto Elio Gimenez.
+
+
+1er régiment d'infanterie (du Roi).
+
+
+14 bataillon de chasseurs à pied (las Navas).
+
+
+4º bataillon de chasseurs à pied (Barbastro).
+
+
+Un escadron du régiment des hussards de la Princesse.
+Trois compagnies du régiment d'artillerie de mon-
+
+
+tagne (18 pièces).
+
+
+Une compagnie du génie.
+
+
+(1) Le brigadier don Ventura Barcaiztegui, titulaire de ce comman-
+
+
+dement, est mort depuis à Algésiras.
+
+
+228
+
+
+HISTOIRE DE LA GUERRE
+
+
+2º CORPS.
+
+
+Commandant.
+
+
+Le lieutenant général Don Juan Zabala, comte de
+
+
+Parcedes de Nava.
+
+
+Chef d'état-major.
+
+
+Le colonel Don Francisco Garbayo.
+
+
+Commandant l'artillerie.
+
+
+Le colonel Don Rafael Correa y Loy.
+
+
+Commandant le génie.
+
+
+Le colonel Don Pedro Eguia.
+
+
+Sous-intendant militaire.
+
+
+Don Miguel Pérez Mozin.
+
+
+ DIVISION D'INFANTERIE.
+
+
+Commandant.
+
+
+Le maréchal de camp Don Jozé Orozco Zuniga.
+
+
+1re BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Jozé Garcia Paredes.
+16º régiment d'infanterie (Castille).
+8 bataillon de chasseurs (Figueras).
+13 bataillon de chasseurs (Simancas).
+
+
+2º BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don José Angulo y Aguado.
+
+
+10º régiment d'infanterie (Cordoue).
+
+
+6º régiment d'infanterie (1 bataillon) (Saboya).
+
+
+11º bataillon de chasseurs (Arapiles).
+
+
+DIVISION D'INFANTERIE.
+
+
+Commandant.
+
+
+Le maréchal de camp Don Enrique O'Donnell.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+1re BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Luis Serrano.
+
+
+25 régiment d'infanterie (1 bataillon) (Navarre).
+
+
+7 bataillon de chasseurs (Chiclana).
+
+
+35 régiment d'infanterie (Tolède).
+
+
+2º BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Victoriano Hediger y Olivar.
+
+
+4ª régiment d'infanterie (de la Princesse).
+
+
+38º régiment d'infanterie (1 bataillon) (Léon.)
+
+
+Bataillon de chasseurs d'Alba de Tormes.
+
+
+Un escadron de chasseurs d'Albuera.
+
+
+229
+
+
+Trois escadrons du 2ª régiment d'artillerie montée
+
+
+(12 pièces).
+
+
+Une compagnie du régiment d'artillerie de montagne
+
+
+(6 pièces).
+
+
+Une compagnie du génie.
+
+
+3º CORPS.
+
+
+Commandant.
+
+
+Le lieutenant général Don Antonio Ros de Olano.
+
+
+Chef d'état-major.
+
+
+Le colonel Don Jose Ignacio de la Puente.
+
+
+Commandant l'artillerie.
+
+
+Le colonel Don Luis Bassols.
+
+
+Commandant le génie.
+
+
+Le colonel Don Léon Benigno Sainz.
+
+
+Sous-intendant militaire.
+
+
+Don Francisco Borei.
+
+
+20
+
+
+230
+
+
+HISTOIRE DE LA GUERRE
+
+
+10 DIVISION D'INFANTERIE.
+
+
+Commandant.
+
+
+Le maréchal de camp Don José Turen y Prats.
+
+
+1re BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Antonio Diez Mogrovejo.
+
+
+8º régiment d'infanterie (Zamora).
+
+
+18º bataillon de chasseurs à pied (Ségovie).
+
+
+2 bataillon de chasseurs à pied (Madrid).
+
+
+2º BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Tomas Cervino y Lopez de Siguenza.
+
+
+26ª régiment d'infanterie (Albuera).
+
+
+9º bataillon de chasseurs à pied (Ciudad-Rodrigo).
+
+
+12º bataillon de chasseurs à pied (Baza).
+
+
+ DIVISION D'INFANTERIE.
+
+
+Commandant.
+
+
+Le maréchal de camp Don Genaro Quesada.
+
+
+1re BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Manuele Marele y Gonzalès.
+
+
+2ª bataillon du 5º régiment d'infanterie (Infante).
+1er bataillon du 11 rég. d'infanterie (San-Fernando),
+Un bataillon du 7º régiment d'infanterie (Afrique).
+17 bataillon de chasseurs à pied (Llerena).
+
+
+2º BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Santiago Otero y Garcia.
+
+
+Un bataillon du 18º régiment d'infanterie (Almansa).
+Un bataillon du 31º régiment d'infanterie (Asturias).
+Un bataillon du 2ª régiment d'infanterie (de la Reine.)
+3º bataillon de chasseurs à pied (Barcelone).
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+231
+
+
+Deux escadrons du 1er régiment d'artillerie montée
+(8 pièces).
+
+
+Une compagnie du régiment d'artillerie de montagne
+
+
+(6 pièces).
+
+
+Une compagnie du génie.
+
+
+Un escadron de chasseurs d'Albuera.
+
+
+RÉSERVE.
+
+
+Commandant.
+
+
+Le lieutenant général Don Juan Prim, comte de
+Reus.
+
+
+Chef d'état-major.
+
+
+Le colonel D. Manuel Creibinkel.
+
+
+BRIGADE D'INFANTERIE.
+
+
+Commandant.
+
+
+Le brigadier Don Rafael Hore Garcia.
+
+
+16e bataillon de chasseurs à pied (Vergara.)
+
+
+Un bataillon du 3º régiment d'infanterie (du Prince).
+Un bataillon du 29º régiment d'infanterie (Luchana).
+Un bataillon du 27º régiment d'infanterie (Cuença).
+
+
+BRIGADE MIXTE.
+
+
+Commandant.
+
+
+Le colonel du génie Don Julian Angulo y Velasco.
+Un bataillon du 3º régiment d'artillerie à pied.
+Un bataillon du 4º régiment d'artillerie à pied.
+Un demi-bataillon du 5 régiment d'artillerie à pied.
+Deux bataillons du génie.
+
+
+Trois escadrons du 1er régiment d'artillerie montée
+(16 pièces).
+
+
+DIVISION DE CAVALERIE.
+
+
+Commandant.
+
+
+Le maréchal de camp Don Félix Alcala Galiano, mar-
+quis de San-Juan da Pietras Altas.
+
+
+232
+
+
+HISTOIRE DE LA GUERRE
+
+
+1re BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Blas de Villate.
+
+
+Cinq escadrons détachés des régiments de cuirassiers
+du Roi, de la Reine, du Prince, de Bourbon et des
+hussards de la Princesse.
+
+
+2º BRIGADE.
+
+
+Commandant.
+
+
+Le brigadier Don Francisco Romero Palomeque.
+
+
+Deux escadrons du régiment des lanciers de Farnesio.
+Un escadron du régiment des lanciers de Santiago.
+Un escadron du régiment des lanciers de Villaviciosa.
+Trois escadrons du régiment d'artillerie à cheval
+(12 pièces).
+
+
+Sur les quatre corps de l'armée espagnole d'Afri-
+que, deux ont des destinations spéciales.
+
+
+Le premier corps doit servir d'avant-garde, et sur
+les douze bataillons qui le composent, six appar-
+tiennent à l'arme des chasseurs à pied (cazado-
+res) (1).
+
+
+(1) L'arme des chasseurs à pied espagnols comprend vingt bataillons,
+organisés comme les chasseurs à pied français et comme les bersa-
+glieri piémontais; ils sont, du reste, comme eux, armés de carabines
+de précision à sabre-baïonnette.
+
+
+Les chasseurs à pied espagnols sont en général de petite taille, mais
+bien pris, agiles et-nerveux. Leur tenue de campagne est simple et
+commode: capote à collet, grise ou carmélite, serrée à la taille par un
+ceinturon de cuir; la cartouchière sur le devant; à gauche, une bota
+(bouteille) en peau de bouc; le pantalon rouge, serré sur la jambe par
+une longue guêtre brune ou noire. La coiffure se compose du képi de
+feutre blanc, et la chaussure d'alpagattes, sandales å semelle de corde,
+laissant le pied nu.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+233
+
+
+Le corps de réserve, au contraire, dont la mission
+semble être de fournir à l'armée des moyens extra-
+ordinaires pour les cas particuliers, comme les siéges
+ou les investissements de place, possède une scule
+brigade d'infanterie proprement dite, mais sa se-
+conde brigade est exclusivement composée de soldats
+du génie et d'artillerie à pied. Dans ce corps figu-
+rent, en outre, la cavalerie, les parcs du génie et
+d'artillerie, ainsi que l'équipage des ponts.
+
+
+Les 2º et 3º corps ont été organisés à deux divi-
+sions d'infanterie à peu près semblables à celles des
+armées actives françaises.
+
+
+Voici les effectifs de ces différents corps :
+
+
+1er CORPS.
+
+
+d'hommes.
+
+
+chevaux ou mulets.
+
+
+de canons.
+
+
+d'infanterie.
+
+
+ de chasseurs.
+
+
+NOMBRE
+
+
+de
+batons
+
+
+| de compagnies du génie.
+
+
+d'escadrons.
+
+
+à cheval.
+
+
+montées.
+
+
+à pied.
+
+
+ de montagne.
+
+
+de batteries
+
+
+༢༢|༢|
+
+
+४
+
+
+=
+
+
+1
+
+
+جراجرا
+
+
+اجرا
+
+
+6
+
+
+191
+
+
+6
+
+
+3 régiments d'infanterie
+
+
+à 2 bataillons (6 bat.).
+
+
+4,800
+
+
+"
+
+
+6 bataillons de chasseurs
+
+
+à pied..
+
+
+4,800
+
+
+ະ
+
+
+1 escadron de cavalerie
+
+
+légère..
+
+
+100 100
+
+
+3 compagnies du régi-
+
+
+ment d'artillerie de
+
+
+montagne..
+
+
+1 compagnie du génie...
+
+
+360 240 18
+100
+
+
+Total du 1er Corps. 10,160 340 18 6
+
+
+20.
+
+
+33
+
+
+3
+
+
+234
+
+
+HISTOIRE DE LA GUERRE
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+28
+
+
+22
+
+
+2222
+
+
+2222
+
+
+20
+
+
+22
+
+
+001
+
+
+46
+
+
+2144
+
+
+28
+
+
+22
+
+
+2222
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+Ces différents chiffres se résument ainsi :
+
+
+235
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+Outre ces combattants, l'armée espagnole est lar-
+gement pourvue de services divers (force publique,
+corps de santé, train des équipages). Les effectifs
+de ces précieuses ressources peuvent être évalués à
+2,000 hommes et 1,500 chevaux et mulets.
+
+
+Voici quelle était la composition des différents
+services spéciaux :
+
+
+Corps de santé.
+
+
+ Inspecteur de 1re classe.
+
+
+5 Inspecteurs de 2º classe.
+
+
+8 Médecins-majors.
+
+
+30 Aides-majors.
+
+
+2 Aides.
+
+
+6 Sous-aides.
+
+
+8 Pharmaciens.
+
+
+10 Aides-pharmaciens.
+
+
+30 Sous-aides pharmaciens.
+
+
+En outre de ce nombre, il y a 700 premiers et se-
+conds aides médecins appartenant aux divers corps.
+
+
+Administration militaire.
+
+
+1 Intendant général.
+
+
+236
+
+
+HISTOIRE DE LA GUERRE
+
+
+1 Intendant de division.
+
+
+5 Sous-intendants militaires.
+
+
+6 Commissaires de guerre de 1re classe.
+
+
+19
+
+
+id.
+
+
+id. de 2º classe.
+
+
+4 Majors.
+
+
+8 Aides-majors.
+
+
+29 Aides.
+
+
+27 Sous-aides.
+
+
+1 Chef.
+
+
+Compagnie d'ouvriers.
+
+
+3 Employés de 1º classe.
+
+
+3 Employés de 2º classe.
+
+
+6 Employés de 3º classe.
+
+
+120 Ouvriers.
+
+
+Six semaines après l'ouverture de la campagne, il
+a été organisé et envoyé en Afrique une division
+composée de :
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Troupes irrégulières.
+
+
+|  |
+
+| --- |
+
+|  |
+
+|  |
+
+|  |
+
+|  |
+
+Armements et munitions de l'infanterie.
+
+
+5 régiments avec fusils rayés.
+
+
+19 bataillons de chasseurs avec carabines rayées.
+Le restant des forces avec des fusils ordinaires.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+5 millions de cartouches pour carabines rayées.
+3 millions de cartouches pour fusils rayés.
+12 millions de cartouches pour fusils ordinaires.
+
+
+Matériel des ingénieurs.
+
+
+237
+
+
+Ce corps est parfaitement pourvu de tous les
+outils nécessaires au service des pionniers et des
+sapeurs; il est placé sous les ordres du comman-
+dant général du génie, auquel est adjoint un capi-
+taine de l'arme.
+
+
+L'équipage des ponts est composé de deux divi-
+sions dont la première a des pontons en fer et la se-
+conde des pontons en bois conduits sur des chariots
+faits exprès pour ce service.
+
+
+Artillerie de campagne et de position.
+
+
+Les 78 pièces ci-dessus indiquées se décomposent
+
+
+comme suit :
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Train de siége.
+
+
+Pièces en bronze.
+
+
+{
+
+
+de 24.
+
+
+de 16.
+
+
+Mortiers en bronze.
+
+
+de 12 rayées.
+
+
+12
+
+
+6
+
+
+4
+
+
+6
+
+
+Coniques de 32 centim.
+Cylindriques de 27 cent. 12
+
+
+Quant au reste du matériel d'artillerie et de cam-
+
+
+pement très-complet embarqué avec l'armée, nous
+nous bornerons à citer;
+
+
+238
+
+
+HISTOIRE DE LA GUERRE
+
+
+1,285 boîtes de mitrailles chargées;
+
+
+2,465 grenades chargées;
+
+
+9,000 bombes vides;
+
+
+2,000 quintaux de poudre en barils;
+
+
+50,000 tentes de campagne;
+
+
+60,000 couvertures de campement.
+
+
+XV
+
+
+Dans la prévision des événements, le gouverne-
+ment avait rendu le 9 septembre un décret qui
+avançait en octobre de l'année courante les opéra-
+tions du recrutement qui ne devaient avoir lieu
+qu'au printemps de 1860; il avait réuni à Algésiras
+et à Cadix deux corps d'armée qui le 10 octobre se
+montaient déjà à un total de 36 bataillons, de 7 bat-
+teries, de 7 escadrons et d'un bataillon du génie;
+les généraux Échague et Zabala étaient nommés au
+commandement de ces deux corps.
+
+
+Un troisième corps fut concentré à Malaga et mis
+sous les ordres du général Ros de Olano; et enfin le
+corps de réserve, sous les ordres du général Prim,
+était formé des ingénieurs du train de siége et de
+la grosse cavalerie.
+
+
+Un ordre du 10 octobre nomma commandant en
+chef le comte de Lucena, que sa position éminente,
+les services rendus à la cause de la monarchie espa-
+gnole et l'opinion générale en Espagne et en Europe,
+désignaient à ce poste.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+XVI
+
+
+239
+
+
+Le 14 novembre le commandant en chef passa une
+revue générale des troupes réunies au camp d'Algé-
+siras; il était accompagné des généraux Zabala,
+Échague, Ros de Olano, Prim et Galiano; et le
+16 novembre le premier corps commençait à s'em-
+barquer.
+
+
+Le commandant en chef. avait fait par lui-même
+une reconnaissance des côtes marocaines, il avait
+passé le 16 novembre quelques heures à Ceuta.
+
+
+Le 18 novembre enfin le premier corps débar-
+quait à Ceuta, et après une faible résistance de la
+part de l'ennemi, il s'emparait de Serallo, où le gé-
+néral Échague fit immédiatement commencer l'éta-
+blissement d'une redoute sur la route d'Anghera.
+
+
+Le passage du détroit avait été des plus difficiles,
+car il régnait un temps épouvantable, au point que le
+vapeur El Cid, qui était parti de Cadix, avait été obligé
+de rentrer dans le port, et que le 22 même on dut
+suspendre tout embarquement ultérieur de troupes.
+
+
+A peine les troupes étaient-elles installées dans le
+camp, que les Maures les attaquèrent, le 22 novem-
+bre; mais ils furent repoussés avec pertes. Pour-
+tant ce combat coûta aux Espagnols 7 morts et
+37 blessés.
+
+
+Lé 25, l'ennemi revint à la charge, mais cette fois
+en nombre plus considérable. 4,000 Maures s'avan-
+
+
+240
+
+
+HISTOIRE DE LA GUERRE
+
+
+cèrent pour déloger les Espagnols de leurs posi-
+tions.
+
+
+Pour contourner cette attaque, le brigadier San-
+doval, avec sa brigade et une compagnie d'ar-
+tillerie, fut dirigé sur un petit bois qui se trouvait
+entre la redoute et la maison du Renégat; il fut
+appuyé dans ce mouvement par le bataillon de
+chasseurs de Simancas, tandis que ceux de Ma-
+drid et d'Alcantara se placèrent à la gauche de la
+redoute.
+
+
+Ces dispositions furent exécutées à temps, et les
+ennemis, qui se dirigèrent sur ce bois avec l'inten-
+tion de s'introduire dans les lignes espagnoles entre
+la maison du Renégat et la redoute, furent compléte-
+ment repoussés par les attaques que le brigadier
+Sandoval fit exécuter au régiment de Bourbon, son
+colonel en tête. Plusieurs charges à la baïonnette
+curent lieu, où se distingua le colonel du régiment,
+Don Antonio de Roda. Un gros détachement de Maures
+avait réussi à faire reculer un peu la gauche; il la
+poursuivait fortement, fier de sa supériorité numé-
+rique et de l'avantage du terrain; les bataillons de
+chasseurs de Madrid et d'Alcantara le forcèrent en-
+core une fois en le chargeant à plusieurs reprises.
+C'est dans cette affaire que le colonel du régiment fut
+tué et le lieutenant-colonel blessé; le colonel Ber-
+ruego, avec la moitié de la brigade sous ses ordres, fut
+envoyé au secours du brave brigadier de la Saussaye,
+et sa coopération fut si efficace que les Maures, après
+quelques charges à la baïonnette, furent compléte-
+ment repoussés. Le général Échague, à la tête de
+trois bataillons, se dirigea lui-même sur le point
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+241
+
+
+menacé et se jeta dans la mêlée avec un courage
+indomptable.
+
+
+Les Maures s'enfuirent alors de tous côtés et lais-
+sèrent le terrain jonché de leurs cadavres. Mais cette
+première journée de victoire avait coûté cher aux
+Espagnols: ils comptaient de 70 à 80 morts et plus
+de 400 blessés, parmi lesquels le commandant
+du 1er corps lui-même, qui avait l'index de la main
+droite emporté.
+
+
+Le 28 novembre, à huit heures du matin, arriva
+sur le Vulcano le commandant en chef; et à peine
+débarqué, il monta à cheval pour inspecter les posi-
+tions de l'armée. Il fut reçu dans le camp par les
+acclamations des troupes, encore tout animées du
+récent et premier succès qu'elles venaient de rem-
+porter sur les Maures.
+
+
+Le commandant en chef fit au général Echague
+les plus grands éloges des dispositions heureuses
+qu'il avait prises, et qu'il approuva complétement.
+
+
+En même temps que le commandant en chef,
+étaient arrivées la 1ª division du 2º corps et la
+division de réserve, qui débarquaient le 26 et le
+27 novembre.
+
+
+XVII
+
+
+Le temps horrible qu'il faisait toujours en mer,
+temps tout exceptionnel, retardait les arrivages, non-
+seulement des troupes, mais du matériel et de tout
+cet attirail formidable qu'entraîne après elle une ar-
+
+
+21
+
+
+242
+
+
+HISTOIRE DE LA GUERRE
+
+
+mée entrant en campagne. Le comte de Lucena, pour-
+tant bien déterminé à ne rien laisser au hasard, ré-
+solut, avant d'entreprendre rien de décisif et de mar-
+cher en avant, de faire construire par les troupes
+un chemin praticable à l'artillerie. Il existait, à la
+vérité, un sentier, mais il n'était accessible qu'aux
+mulets et aux chameaux; il fallait l'élargir, le détour-
+ner aux endroits difficiles, remplir et solidifier les
+endroits marécageux, se frayer un passage à travers
+les bois les plus inaccessibles; et tout cela en sou-
+tenant chaque jour les combats les plus acharnés
+contre les Maures. Pendant qu'une partie de l'armée
+travaillait la pioche et la hache en main, l'autre re-
+poussait les attaques furieuses de l'ennemi, qui, sur-
+tout au commencement de la campagne, était d'une
+ardeur et d'une audace peu communes.
+
+
+Au camp des Espagnols il y avait à lutter contre
+un ennemi bien plus terrible : à Malaga déjà il s'é-
+tait montré dans les rangs de l'armée quelques cas
+de choléra; mais à peine était-elle réunie sur la plage
+africaine, que ce terrible fléau y éclatait dans toute sa
+furie; les hommes tombaient par douzaines, et il
+était à craindre que le découragement ne s'emparât
+des conscrits et des volontaires dont l'armée était com-
+posée en grande partie. Mais ici brillait dans toute sa
+force ce que le caractère espagnol a de mâle énergie
+et de religieuse résignation. Les hommes exposés
+aux plus rudes travaux, ayant à manier alternative-
+ment le fusil et la pioche, mouraient sans que le mo-
+ral de l'armée en fût un instant ébranlé. Animées
+par l'exemple de leurs chefs et par l'amour ardent
+de la patrie et de la Reine, les troupes enduraient
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+243
+
+
+tout gaiement et se portaient au travail comme elles
+s'élançaient au combat au cri de: Vive la Reine!
+
+
+Les attaques des Maures furent, nous l'avons dit,
+répétées chaque jour; nous craindrions de fati-
+guer nos lecteurs en entrant dans tous les détails
+de ces combats; qu'il nous suffise de mention-
+ner les plus considérables. Le 30 novembre, de
+grandes forces maures se montrèrent près de la
+redoute d'Isabelle II, construite sur le chemin d'An-
+ghera. Le commandant en chef donna aussitôt ordre
+au commandant du second corps, général Zabala,
+d'occuper avec ses troupes jusqu'aux hauteurs qui do-
+minent le Serallo, tandis que la division de réserve
+se tint prête à venir en aide au premier corps, qui
+était attaqué. L'ennemi dirigea son attaque princi-
+pale sur la droite des lignes espagnoles jusqu'à la
+maison du Renégat, et sur la gauche vers le bois
+d'Anghera, cherchant à s'introduire entre ce point et
+le Serallo; mais il fut vigoureusement reçu par les
+bataillons de Bourbon et de Talavera, et, repoussé
+vivement, poursuivi à travers d'affreux ravins jus-
+qu'à la profonde gorge qui conduit à Anghera,
+il était monté sur les hauteurs du Renégat; mais
+il avait été contourné par le régiment de Bourbon,
+qui, son colonel en tête, s'élança sur lui; alors
+les Maures, reconnaissant l'impossibilité de se réunir
+au gros de leur armée, se jetèrent à la débandade
+dans les précipices qui conduisent à la mer, laissant
+beaucoup de morts sur leur chemin.
+
+
+Les pertes des Espagnols dans ce combat se mon-
+tèrent à 7 officiers et 45 hommes de troupes tués,
+2 chefs, 14 officiers et 296 soldats blessés, tandis
+
+
+244
+
+
+HISTOIRE DE LA GUERRE
+
+
+que l'ennemi avait perdu en morts et blessés plus
+de 800 hommes.
+
+
+Jusqu'au 9 décembre rien de remarquable n'eut
+lieu. Le général Prim, comme d'habitude, était
+sorti du camp avec sa division pour protéger les
+travaux si pénibles du chemin, qui se continuait tou-
+jours malgré une résistance incessante.
+
+
+Mais ce jour-là, dès la diane, un grand mouvement
+se fit dans le camp ennemi. Les Maures, dont le
+nombre allait toujours en augmentant, enveloppaient
+la redoute d'Isabelle II et celle du Roi Francisco, oc-
+cupées, la première par trois compagnies du régi-
+ment de Castille, et la seconde par trois compagnies
+du régiment de Cordoue. Voyant le danger que cou-
+raient les garnisons de ces redoutes, le reste des régi-
+ments de Cordoue et de Castille se jeta résolûment en
+avant et attaqua si hardiment l'ennemi qu'il fut rejeté
+jusque dans les gorges et les bois qui se trouvaient de
+l'autre côté des postes avancés espagnols. Pendant ce
+temps, la garnison des forts résista avec un grand cou-
+rage aux attaques multiples et très-audacieuses des
+Maures, qui arrivèrent jusque dans le fossé de l'ou-
+vrage, d'où ils jetèrent des pierres aux défenseurs, ne
+pouvant faire usage de leurs fusils; et comme il ré-
+gnait un fort vent qui empêchait d'entendre la fusil-
+lade, on hissa sur la redoute un drapeau rouge qui
+avertit le reste de l'armée de ce qui arrivait de ce
+côté-là. Le général Zabala accourut, suivi du reste
+de la première division sous les ordres du général
+Orozco et de toute la seconde sous le général O'Don-
+nell; les chasseurs d'Arapiles, soutenus par le second
+de Castille et le premier de Saboya, furent les pre-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+245
+
+
+miers qui arrivèrent sur le lieu du combat; ils furent
+lancés aussitôt par le général Zabala contre les Maures,
+qu'ils abordèrent à la baïonnette et qu'ils chassèrent
+du bois au cri de: Vive la Reine!
+
+
+On pouvait distinguer facilement que l'ennemi
+obéissait à un chef supérieur, ce qui ne s'était encore
+jamais vu dans aucun des combats qui avaient eu
+lieu jusque-là, car on voyait partir d'un groupe de
+personnes qui se distinguaient par leurs costumes
+des hommes à cheval portant des ordres immédiate-
+ment exécutés.
+
+
+Effectivement il revint peu après à la charge,
+et s'avança de nouveau vers le point d'où il venait
+d'être chassé, ainsi que sur les hauteurs qu'il venait
+d'abandonner, d'où il dirigea sur les lignes espa-
+gnoles un feu très-bien nourri.
+
+
+Le commandant en chef donna l'ordre au ba-
+taillon de chasseurs de Figueras, commandé par le
+brigadier Villor, avec une section d'infanterie de la
+garde civile, de charger à fond, tandis que le général
+Garcia, en tête du bataillon de chasseurs d'Alba de
+Tormes, d'une compagnie du régiment de Cordoue
+et du premier bataillon de Léon, le brigadier Hé-
+diger en tête, l'attaquait par la gauche.
+
+
+Les charges, fournies avec une grande résolution,
+déblayèrent définitivement le terrain, et l'ennemi fut
+rejeté à une distance telle qu'on pouvait dire dès cet
+instant que le combat était terminé de ce côté-là.
+
+
+Mais il était à prévoir que, repoussé sur la gau-
+che, il ferait une attaque sur la droite : c'est ce qui
+eut lieu. Le bataillon de Chiclana, attaqué par un
+corps de plus de quatre mille fantassins et une cen-
+
+
+21.
+
+
+246
+
+
+HISTOIRE DE LA GUERRE
+
+
+taine de cavaliers, dut se retirer devant des forces si
+supérieures. Mais quand le premier bataillon de Na-
+varre et le second de Tolède arrivèrent pour le sou-
+tenir, les hommes conduits par le brigadier Malucena
+revinrent à la charge pour reprendre les positions
+qu'ils avaient perdues.
+
+
+Pourtant les Maures leur opposèrent une vigou-
+reuse résistance, et les Espagnols ne réussirent qu'a-
+près plusieurs charges furieuses à les chasser et à les
+rejeter en désordre dans les ravins affreux des mon-
+tagnes.
+
+
+Il était deux heures de l'après-midi quand le com-
+bat cessa. Les forces ennemies qui avaient combattu,
+à en juger par la vivacité du feu que pendant plusieurs
+heures elles soutinrent sur une ligne très-étendue,
+ne peuvent être estimées à moins de 10,000 hom-
+mes, tandis que du côté des Espagnols 15 bataillons
+seulement étaient engagés. Les pertes de ceux-ci
+étaient de 5 officiers et 75 soldats tués, et 2 chefs,
+32 officiers et 292 soldats blessés. Les pertes de l'en-
+nemi sont estimées à environ 300 morts.
+
+
+XVIII
+
+
+Le 12 décembre arriva enfin le troisième corps,
+sous les ordres du général Ros de Olano; et le 14 il
+était entièrement débarqué. Il prit place à gauche
+dans le camp sur le chemin de Tétouan.
+
+
+Le 15 décembre, le comte de Reus, sorti du
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+247
+
+
+camp avec sa division pour protéger les travaux du
+chemin de Tétouan, fut attaqué par un corps de 4 à
+5,000 Maures, et surtout beaucoup de cavalerie.
+Celle-ci fit des charges furieuses et multiples; mais
+rien n'ébranla les braves Espagnols, déjà habitués à
+ce genre de combat des Maures, qui furent re-
+poussés avec une perte considérable.
+
+
+Le lendemain ils revinrent à la charge, et plus
+nombreux ils attaquèrent le camp sur toute son
+étendue; la cavalerie était plus nombreuse qu'ellene
+l'avait jamais été. Le général Ros de Olano et son
+corps d'armée à peine débarqué prirent une part
+glorieuse à ce combat, qui, comme toujours, se ter-
+mina par la retraite de l'ennemi.
+
+
+XIX
+
+
+Depuis le 15 décembre jusqu'au 1er janvier, l'ar-
+mée s'occupait de la construction du chemin de
+Tétouan. Le corps de réserve alternait avec les
+trois autres corps d'armée pour la protection des
+travaux, et il ne se passa pas de jour où il n'y eût des
+coups de fusil échangés. Nous ne mentionnerons ici
+brièvement que deux de ces combats, celui du 26
+et celui du 29 décembre.
+
+
+A la pointe du jour, le 26, peu de temps après que
+les grand'gardes furent posées, les Maures, qui du-
+rant la nuit s'étaient embusqués dans les fortes po-
+sitions qui entouraient le camp espagnol, se pré-
+
+
+248
+
+
+HISTOIRE DE LA GUERRE
+
+
+sentèrent en nombre considérable sur les points
+avancés de la ligne, montrant l'intention d'envelop-
+per le flanc est de la ligne retranchée. Le général
+Turon accourut, avec la 1ª division du 3º corps,
+pour repousser leurs attaques; les brigadiers Cervino
+et Mogrovejo marchèrent l'un sur la gauche, l'autre
+avec le général Turon sur la droite, et chassèrent les
+Maures des positions qu'ils avaient prises.
+
+
+Sur ces entrefaites, le général Ros de Olano, pré-
+venu par le feu, avait fait prendre les armes à la 2º di-
+vision, sous les ordres du général Quesada; il l'avait
+fait se porter rapidement par l'extrême gauche sur
+le chemin de Tétouan. Dans ce mouvement, le gé-
+néral rencontra un groupe d'environ 400 Maures,
+qui s'étaient avancés pour s'embusquer dans une des
+gorges qui descendent à la mer. Il les fit déloger à
+la baïonnette par le bataillon de chasseurs de Barce-
+lone et par deux compagnies du régiment d'Afrique,
+qui les chassèrent avec grande perte, car le sol était
+jonché de plus de 40 morts et d'armes en profu-
+sion.
+
+
+Pendant ce temps la première division repoussait
+avec non moins d'énergie les forces marocaines sur
+la droite, et le 2º bataillon de Zamora se distin-
+guait surtout par ses charges réitérées et intrépides.
+Mais cette attaque sur la droite n'était qu'une feinte:.
+l'ennemi revint avec une nouvelle furie sur la ligne
+occupée par le 3º corps; ici il fut reçu par un feu
+terrible de trois batteries de pièces rayées que le
+commandant en chef y avait envoyées. A ce feu se
+joignit celui de l'infanterie, qui le laissa approcher
+jusqu'à cinquante pas; il ne put y résister et s'en-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+249
+
+
+fuit en désordre, poursuivi à une grande distance
+par les bombes espagnoles.
+
+
+La perte éprouvée par les Espagnols dans ce
+combat était de 8 soldats tués et de 4 chefs, 13 of-
+ficiers et 106 soldats blessés; celle des Maures pou-
+vait se calculer à environ 700 ou 800 hommes, ex-
+posés comme ils l'étaient au feu bien nourri des
+Espagnols.
+
+
+Vers midi, le 29, l'ennemi attaqua le bataillon de
+chasseurs de Vergara, qui avec une compagnie d'in-
+génieurs était occupé au chemin de Tétouan. Aux
+premiers coups de feu, le corps de réserve prit les
+armes et envoya au combat le premier bataillon
+d'Albucera, le premier de Zamora et les chasseurs de
+Baza; le bataillon de Vergara résista avec un grand
+courage aux attaques réitérées d'une armée infini-
+ment supérieure en nombre, jusqu'à ce que le régi-
+ment Llerena avec le brigadier Morita vînt le ren-
+forcer. A ce moment les Maures sortirent en grand
+nombre du bois et furent reçus par les régiments
+d'Albucera, de Zamora, et par le bataillon de Baza,
+qui chargèrent avec une telle résolution, que l'en-
+nemi s'enfuit épouvanté, laissant ses morts au pou-
+voir des Espagnols.
+
+
+Les officiers avaient beaucoup de peine à rappe-
+ler leurs soldats de la poursuite des Maures, qui se re-
+tiraient en trois lignes du côté de Tétouan, montrant
+alors combien ils avaient été nombreux; ce que, du
+reste, on avait déjà pu juger par le feu excessivement
+bien nourri qu'ils avaient entretenu tout le jour.
+
+
+Une particularité fut observée ce jour-là pour
+la première fois : l'ennemi se servait d'armes de
+
+
+250
+
+
+HISTOIRE DE LA GUERRE
+
+
+précision, car beaucoup de blessures étaient faites
+par des balles coniques. Les pertes des Espagnols se
+montaient à 8 morts, un chef, 7 officiers et 139 hom-
+mes blessés.
+
+
+XX
+
+
+Le temps s'était amélioré. Ayant approvisionné
+l'armée pour six jours, le commandant en chef donna
+ordre que la division de réserve, le 2º corps, deux
+escadrons de hussards de la Princesse et deux bat-
+teries de montagne du 1er régiment d'artillerie levas-
+sent le camp avec le quartier général, tandis que
+le 1º, le 3º corps et la division de cavalerie de-
+vaient rester dans leurs positions. L'artillerie à che-
+val et celle montée s'avancèrent seuls jusqu'à la hau-
+teur de la redoute du prince Alphonse.
+
+
+Au point du jour le comte de Reus avec sa di-
+vision, les escadrons de hussards et deux batteries,
+ouvrit la marche sur los Castillejos, ayant reçu or-
+dre non-seulement de prendre position, mais encore
+de pousser une pointe jusqu'à l'embouchure d'une
+rigole dans la mer. Le quartier général et le reste
+du 2º corps avec le commandant, le général Zabala,
+devaient suivre ce mouvement.
+
+
+Au moment où celui-ci se mit en marche, le
+commandant en chef reçut l'avis du général Echa-
+gue, commandant du premier corps, que l'on avait
+vu depuis la redoute d'Isabelle un grand nombre
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+251
+
+
+de Maures se masser de ce côté, ce qui indiquait
+évidemment des projets d'attaque de la part de l'en-
+nemi.
+
+
+Le comte de Reus arriva jusqu'aux positions
+qui dominent la vallée de los Castillejos sans ren-
+contrer de résistance. Arrivé à ce point, un mil-
+lier de Maures le reçurent avec un feu bien nourri,
+soutenus qu'ils étaient par un autre groupe consi-
+dérable appuyé sur la case du marabout. Le com-
+mandant en chef fit prendre à une brigade du
+2º corps, sous les ordres du brigadier Serrano,
+une position qui flanquait le bois occupé par l'en-
+nemi, et la fit suivre par une batterie de montagne.
+Ensuite il donna ordre au général Prim de s'empa-
+rer de la case du marabout; les deux opérations
+réussirent admirablement. La batterie nettoya le
+bois, et la case fut prise avec des pertes insigni-
+fiantes.
+
+
+Dans le même temps les équipages des bâtiments
+de guerre envoyés par le capitaine de frégate D.
+Miguel Lobo prirent terre et chargèrent les Maures
+en compagnie des troupes de ligne, aux cris répétés
+de: Vive la Reine! vive la marine! vive l'armée!
+La plaine fut ainsi nettoyée.
+
+
+Pourtant l'ennemi poursuivi par les Espagnols
+s'était replié dans une position qui dominait la val-
+lée de Castillejos, à une portée de fusil, et de nom-
+breux groupes de cavalerie et d'infanterie s'y ras-
+semblaient. Il devenait important de le déloger de
+cette position, d'où il incommodait beaucoup l'ar-
+mée par ses feux. Le comte de Reus le fit atta-
+quer par les bataillons de Vergara, du Prince, de
+
+
+252
+
+
+HISTOIRE DE LA GUERRE
+
+
+Luchana, et de Cuença, en première ligne, avec les
+ingénieurs et l'artillerie en réserve, et en deuxième
+ligne, les deux bataillons de Cordoue sous les or-
+dres du brigadier Angulo.
+
+
+Pendant que cela se passait sur les hauteurs, les
+1er et 4º escadrons de hussards du régiment de la
+Princesse se couvrirent de gloire dans le fond de la
+vallée, en chargeant impétueusement de nombreu-
+ses forces de cavalerie et d'infanterie marocaines, et
+tel fut leur élan qu'ils entrèrent jusque dans le camp
+marocain fortement établi au milieu de ravins es-
+carpés, et que le chef, Pedro Mur, s'empara d'un
+étendard maure après avoir tué le porteur. Mais les
+Maures, étant revenus de leur première frayeur, et
+l'infanterie n'ayant pas pu suivre la cavalerie dans
+sa course effrénée, celle-ci fut obligée de se retirer
+devant un feu meurtrier queles Maures ouvrirent sur
+elle de tous les côtés du camp, et qui blessa un grand
+nombre d'Espagnols, officiers et soldats. Effective-
+ment, l'ennemi, considérablement renforcé, revint à
+la charge contre les positions occupées par le comte
+de Reus. Celui-ci se porta à la rencontre des Mau-
+res, au cri de: Vive la Reine! Marchant à la tête
+de ses troupes, il se jeta sur l'ennemi: il s'ensuivit
+alors une épouvantable mêlée corps à corps, et un
+instant de terrible anxiété. Mais bientôt l'étendard
+de Saint-Ferdinand, que le comte de Reus agita
+dans l'air, sortit victorieux de ce combat acharné,
+et l'arrivée du général Zabala, avec les bataillons de
+Simancas, de Léon, d'Arapiles et de Sabòya, qu'il
+lança énergiquement sur l'ennemi, acheva de met-
+tre les Maures en déroute. Ceux-ci maintinrent en-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+253
+
+
+core, à la vérité, un feu assez vif jusqu'à la tombée
+de la nuit, mais, tiré à grande distance, il ne fit
+aucun mal aux Espagnols.
+
+
+Les Maures étaient commandés par Muley Abbas,
+frère de l'empereur du Maroc, et en second par le
+gouverneur de Tétouan. Leur nombre, que les prison-
+niers déclarèrent avoir été de 40,000, ne peut pas
+avoir été moindre de 25,000 hommes auxquels
+avaient été opposés, du côté des Espagnols, seule-
+ment 14 bataillons, 2 batteries de montagne, une
+moitié du 2º régiment, et enfin 2 escadrons.
+
+
+La perte des Espagnols était de 13 chefs, 55 offi-
+ciers et 481 hommes blessés, et 7 officiers et 63
+hommes tués.
+
+
+XXI
+
+
+Le résultat immédiat du combat de Castillejo
+avait été d'ouvrir la vallée de ce nom à l'armée espa-
+gnole, car le lendemain les Maures avaient levé le
+camp et disparu. Les travaux de la route furent dès
+lors poussés avec activité et, le 4, le général Garcia
+entreprit une reconnaissance jusqu'au Monte Negro,
+à trois lieues de Tétouan, sans être inquiété par l'en-
+nemi qui restait tranquille dans ses campements.
+
+
+A la suite de cette reconnaissance, le quartier
+général fut porté, le 5, sur les hauteurs de la Con-
+dessa, distantes de trois lieues de Ceuta et de
+huit de Tétouan. Le temps détestable qu'il fai-
+
+
+22
+
+
+254
+
+
+HISTOIRE DE LA GUERRE
+
+
+sait n'avait pas empêché le maréchal de continuer
+le mouvement de l'armée; le 6 et le 7 elle passa
+presque sans coup férir un défilé des plus dange-
+reux entre la mer et des lagunes, où, si elle avait
+été attaquée, elle aurait certainement eu beau-
+coup à souffrir. Le 7, elle était heureusement ar-
+rivée au campement du Monte Negro. Dans tout ce
+mouvement, elle fut suivie sur mer par la flot-
+tille, qui l'approvisionna constamment de vivres et
+de munitions. Le 10, l'armée était arrivée au cam-
+pement sur la rivière Capitana, où elle eut à soute-
+nir une attaque des Marocains, qui, comme tou-
+jours, furent mis en fuite. Elle resta dans ce cam-
+pement quatre jours, tant pour laisser reposer les
+troupes que pour embarquer les blessés et les ma-
+lades, et pour débarquer des vivres et des muni-
+tions. Les Maures l'attaquèrent encore le 12, mais
+furent vivement repoussés. Le 14, le quartier gé-
+néral fut porté à Cabo Negro, où il resta jusqu'au
+16 janvier; ce jour-là la division Rios finit de dé-
+barquer et s'empara du fort à l'embouchure de la
+rivière Martin, où elle trouva, outre beaucoup de
+munitions, six pièces de dix-huit et. de vingt-qua-
+tre. Le 17, le quartier général fut transporté jusqu'à
+quatre lieues de Tétouan, au bord de la rivière
+Guad-el-Jelu. Dans ce campement on s'occupa de
+se fortifier et de construire des redoutes pour avoir
+une base d'opération, si, comme on le devait crain-
+dre, on avait à entreprendre le siége de Tétouan. La
+marine profita de tous les instants pour débarquer le
+train de siége, des vivres et des munitions; l'en-
+nemi était saisi de stupeur, car il n'attaqua qu'une
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+255
+
+
+seule fois l'armée espagnole; ce fut le 23, mais il
+fut repoussé avec perte, et on lui prit même un
+étendard.
+
+
+Le 30, le général Zabala, revenu de Ceuta, où il
+avait été pour se rétablir, s'embarqua pour retour-
+ner en Espagne, complétement paralysé de la jambe
+droite.
+
+
+Un fait assez singulier se produisit le même jour.
+Le gouverneur anglais de Gibraltar faisait une visite
+au camp. Après avoir obtenu la permission du com-
+mandant en chef, il examina minutieusement les
+préparatifs de l'armée espagnole et porta particu-
+lièrement son attention sur le train de siége. On
+peut s'étonner à bon droit que le gouverneur d'une
+place forte située à l'étranger et par conséquent tou-
+jours sur le pied de guerre, qui ne peut s'absenter
+à moins d'être remplacé par une commission de
+guerre, que ce gouverneur, disons-nous, se soit
+porté à une si grande distance au delà des mers
+pour visiter une armée pour laquelle évidemment
+n'étaient pas ses sympathies. Mais, quoi qu'il en
+soit, il put se convaincre par lui-même que l'es-
+prit et l'organisation de l'armée espagnole étaient
+parfaits, et il s'en exprima dans ce sens publique-
+ment et à plusieurs reprises.
+
+
+XXII
+
+
+La station longue et forcée que l'armée espagnole
+avait faite dans le camp de Guad-el-Jelu avait
+
+
+256
+
+
+HISTOIRE DE LA GUERRE
+
+
+donné aux Maures le temps de se concentrer: aussi
+voyait-on venir des troupes de toutes parts; et dans
+les derniers jours, les salves d'artillerie à Tétouan
+annonçaient l'arrivée dans le camp marocain de Mu-
+ley Ahmet, frère de l'empereur du Maroc, avec une
+partie de la fameuse garde noire (qui, plus tard,
+devait être détruite par l'arméc espagnole), ce qui
+portait les forces totales de l'ennemi de 40 à 50,000
+hommes. Quand même on mettrait sur le compte
+de l'exagération orientale une partie de ce chiffre,
+on ne peut pas estimer les troupes ennemies à moins
+de 35,000 hommes.
+
+
+On vit les Maures travailler sans relâche à leurs
+retranchements, et par le feu qu'ils ouvrirent sur
+les reconnaissances espagnoles, on pouvait voir
+qu'ils avaient de l'artillerie à leur disposition. Le
+4 février au matin, il faisait un froid glacial, et le
+petit Atlas était couvert de neige jusqu'au pied.
+C'était le jour qu'avait fixé le maréchal O'Donnell
+pour donner l'assaut au camp marocain, qui s'éten-
+dait en face du sien.
+
+
+Voici l'ordre dans lequel l'armée espagnole mar-
+chait à cette attaque qui devait lui ouvrir les portes
+de Tétouan:
+
+
+Le corps du comte de Reus à la droite, avec deux
+brigades échelonnées par bataillons, et deux briga-
+des en arrière en colonne serrée, ayant au milieu
+d'elles deux batteries du 2º régiment monté et deux
+batteries de montagne du 1er et du 5º régiment; le
+3º corps, sous les ordres du général Ros de Olano,
+sur la gauche et avec la même formation, ayant dans
+son centre trois escadrons du régiment d'artillerie à
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+257
+
+
+cheval. Entre les deux corps marchaient le régiment
+d'artillerie de réserve, précédé des ingénieurs, et,
+derrière, la cavalerie en deux lignes. Le corps de
+réserve, avec une batterie du 1 régiment monté et
+une autre de montagne du 5° régiment sous les or-
+dres du général Rios, devait avancer sur la droite de
+la ligne en s'appuyant sur le fort de la Estrella pour
+menacer constamment le camp de Muley Abbas, le
+maintenir en échec et opérer selon les circonstances
+sans compromettre le combat général.
+
+
+Un temps fort brumeux avait fait retarder jusqu'à
+huit heures et demie l'ordre d'attaquer, mais, au
+signal donné, les troupes traversèrent, sur les ponts
+qu'on y avait fait construire dans la nuit du 3 au 4,
+le Rio Alcantara, coulant sur le front du camp es-
+pagnol. Bientôt l'armée était formée, comme nous
+l'avons indiqué, dans la plaine immense qui s'éten-
+dait entre elle et le camp impérial. Pour la première
+fois les Maures voyaient se déployer devant eux toutes
+les forces espagnoles réunies, que jusqu'alors ils n'a-
+vaient combattues qu'en partie.
+
+
+C'était un spectacle imposant de voir s'avancer
+cette armée dans le plus profond silence, sans se
+laisser arrêter dans sa marche ni par les fondrières,
+ni par les marais, ni par les autres difficultés de ter-
+rain qu'elle franchissait sans presque se déranger,
+reformant aussitôt l'ordre de bataille quand l'obstacle
+était vaincu.
+
+
+A peine eut-elle parcouru ainsi l'espace de 1,000
+mètres, que l'ennemi ouvrit sur elle un feu extrê-
+mement vif de toutes ses pièces: mais les Espagnols
+dédaignèrent d'y répondre jusqu'à ce qu'ils fussent
+
+
+22.
+
+
+258
+
+
+HISTOIRE DE LA GUERRE
+
+
+arrivés à moins de 1,700 mètres des retranche-
+ments; alors l'artillerie de réserve ouvrit à son tour
+un feu bien nourri sur les lignes marocaines. Lors-
+qu'au ralentissement du feu adverse le maréchal
+O'Donnell vit que son artillerie commençait à pro-
+duire de l'effet, il fit avancer toute l'armée à 600
+mètres des lignes.
+
+
+Quelques troupes, cavalerie et infanterie, se pré-
+sentèrent alors sur l'extrême gauche des Espagnols,
+mais les tirailleurs, soutenus par deux bataillons
+que le général Makenna fit avancer, les repoussè-
+rent bientôt dans le camp, et la cavalerie et le 3º
+corps étaient tellement rapprochés qu'ils prenaient
+par le flanc les retranchements ennemis.
+
+
+L'armée espagnole n'était plus qu'à 100 mètres de
+ces
+retranchements; un feu de 40 pièces vomit les gre-
+nades et la mitraille sur le camp marocain, et quand
+il cessa, l'ordre de l'assaut général fut donné.
+
+
+Comme un torrent impétueux qui dans sa course
+furieuse entraîne tout, les Espagnols se précipi-
+tèrent sur les retranchements. Les Maures, qui
+jusqu'à ce moment s'étaient tenus cachés der-
+rière les parapets, se levèrent alors et reçurent bra-
+vement le choc. Rien n'y fit; rien ne pouvait arrê-
+ter l'élan de ces braves; le comte de Reus se mit à
+la tête de ses bataillons, et se précipita lui-même un
+des premiers par une embrasure dans le camp im-
+périal. Il fut suivi par les chasseurs d'Alba de Tor-
+mès, par les volontaires de Catalogne, qui avaient
+accompli ce jour-là des merveilles de bravoure; par
+le 1er bataillon de la Princesse, le 1er de Léon et
+celui de Cordoue. Sur la gauche venaient les gé-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+259
+
+
+néraux Garcia et Turon, avec le régiment de la
+Albuera, celui de Ciudad-Rodrigo, celui de Za-
+mora et le 1er d'Asturies. C'était un moment so-
+lennel, mais il fut de courte durée: trente-cinq
+minutes après que le signal de l'assaut avait été
+donné, on voyait flotter les couleurs espagnoles sur
+le sommet des remparts. L'ennemi, après une ré-
+sistance opiniâtre, finit par se disperser dans toutes.
+les directions et escalada en toute hâte les pentes
+abruptes de la Sierra Bermeja pour se soustraire aux
+poursuites des Espagnols.
+
+
+Deux drapeaux, huit canons, des munitions en
+quantité, plus de huit cents tentes, beaucoup de cha-
+meaux et une quantité innombrable d'effets, fu-
+rent le prix de cette belle victoire, car l'armée
+de la Reine avait exécuté l'assaut avec une telle
+promptitude, que les Maures n'avaient pas eu le
+temps de rien emporter.
+
+
+La perte des Espagnols en cette journée glorieuse
+consistait en 10 officiers et 56 soldats morts, 9 chefs,
+63 officiers, 965 soldats blessés. La perte de l'en-
+nemi a été infiniment plus considérable, car le camp
+était couvert de ses morts.
+
+
+XXIII
+
+
+La valeur héroïque que le comte de Reus a dé-
+ployée dans tout le cours de cette guerre, comme il
+l'avait fait dans toutes les occasions en Espagne,
+
+
+260
+
+
+HISTOIRE DE LA GUERRE
+
+
+et surtout le rôle éminent qu'il joua dans cette
+bataille où son exemple entraînait, pour ainsi dire,
+toute l'armée, nous font un devoir d'entrer ici
+dans quelques détails biographiques sur cet homme
+illustre.
+
+
+Don Juan Prim, comte de Reus, est né à Reus,
+en Catalogne. Fils d'un ancien lieutenant-colonel
+d'infanterie, il avait fait son droit et allait passer
+ses thèses quand Zumalacarreguy appela les Basques
+sous les drapeaux de Don Carlos. Le jeune et ardent
+étudiant, qui professait déjà alors des opinions libé-
+rales, s'enrôla sous les drapeaux de la jeune et in-
+nocente reine; ainsi que le duc d'Isly, il s'enga-
+gea comme simple soldat. Mais bientôt sa valeur té-
+méraire le fit remarquer par ses chefs : il fut fait
+officier, et, de combat en combat, il arriva sur le
+champ de bataille au grade de général. Son activité
+était dévorante dans les marches et les surprises
+des carlistes; sa bravoure brillait d'un tel éclat
+qu'il fut partout surnommé, très-jeune encore, le
+Cid de la Catalogne.
+
+
+Dans les luttes de parti auxquelles l'armée fut
+entraînée, Prim s'était déclaré pour les progressis-
+tes. Quand le régent Espartero fut accusé de viser
+trop haut, Prim, avec l'extrême gauche, se déclara
+contre le régent, et la chute d'Espartero fut le résul-
+tat de sa coalition avec les modérés.
+
+
+Plus tard, Prim rendit un service bien plus si-
+gnalé à la cause de l'ordre monarchique en Espagne,
+ce fut lors de l'insurrection d'Anutler à Reus, en
+1842. Déjà une grande partie de la Catalogne s'était
+prononcée en faveur de ce général insurgé, quand
+
+
+ BIBLIO
+
+
+IMPR
+
+
+IMPERIAL
+
+
+LE GÉNÉRAL PRIM, COMTE DE REUS
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+261
+
+
+Prim se rendit en toute hâte à Barcelone, et força le
+général Araoz à lui donner des troupes avec les-
+quelles, en trois combats, il défit les rebelles et ré-
+tablit l'ordre. Cela n'empêcha pas les modérés
+d'écarter ce brave champion de l'ordre avec tout
+son parti, et leur haine alla même jusqu'à l'ac-
+cuser de vouloir assassiner Narvaez, à cause de son
+opposition toute loyale contre ce général. Dans le
+procès qu'on lui intenta, toutes les formes judiciai-
+res furent violées, et il fut condamné à une prison
+de six ans. Le ministère lui fit grace, et l'on ne
+tarda pas à reconnaître son importance, car on lui
+confia, peu de temps après, différentes missions
+confidentielles. Il avait été, bien avant son procès,
+nommé gouverneur de Madrid et de Barcelone. Il
+fut envoyé plus tard, environ quatre ans après ce
+procès, comme capitaine-général, à Puerto Rico,
+où il introduisit plusieurs réformes salutaires. Dans
+les années suivantes, sans emploi actif dans l'armée,
+il fit plusieurs voyages à l'étranger; il se distingua
+comme auteur militaire. Lors de la guerre de Cri-
+mée, il fut commissaire pour le gouvernement es-
+pagnol près des armées alliées.
+
+
+Le comte de Reus est chambellan de S. M. la
+Reine d'Espagne, grand'croix des ordres de Saint-
+Ferdinand, de Charles III, d'Isabelle-la-Catholique,
+de l'ordre turc de Medjidié et du Danebrok de Da-
+nemark.
+
+
+Élevé, quelque temps après la guerre, à la dignité
+de Marquis de Castillejo, le général Prim a été, on
+peut le dire, le premier héros de cette guerre du Ma-
+roc qui a rendu à l'Espagne son antique splendeur.
+
+
+262
+
+
+HISTOIRE DE LA GUERRE
+
+
+Patriote dévoué à la Reine et à son pays, le gé-
+néral Prim s'est conquis l'estime et l'affection de
+tous les partis par sa bravoure et sa loyauté cheva-
+leresques.
+
+
+Il n'y a eu qu'une voix dans Madrid pour accueil-
+lir et saluer, à son retour à la tête de sa brigade,
+le héros de Castillejo, une des gloires de l'Espagne.
+
+
+XXIV
+
+
+Le lendemain de la bataille de Tétouan, le maré-
+chal O'Donnell envoya au gouverneur de la place
+une sommation de se rendre, dans laquelle il lui dé-
+peignait les horreurs qui accompagnent le bombar-
+dement et la prise d'une place de guerre; il lui
+donnait deux fois vingt-quatre heures pour se déci-
+der.
+
+
+En même temps le maréchal publia un ordre du
+jour à l'armée, que nous ne pouvons nous abstenir
+de donner en entier, car il peint brièvement et dans
+les termes les plus nobles les grandes choses que
+l'armée avait accomplies :
+
+
+<<< Soldats!
+
+
+>> Dans la journée d'hier vous avez remporté
+>> une victoire complète, et vous avez pris à l'en-
+>> nemi ses redoutes et ses retranchements avec tous
+>>> les bagages et toutes ses tentes; vous avez di-
+>> gnement répondu à ce que la Reine et la patrie
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+263
+
+
+>>> avaient attendu de vous; vous avez élevé à une
+>> grande hauteur le nom de l'armée espagnole.
+
+
+>>> Soldats! persévérez dans cette constance qui
+>> vous a fait lutter durant trois mois contre les
+>> éléments sous un climat âpre et dans un pays
+>> inhospitalier, jusqu'à ce que nous obligions l'en-
+>> nemi à demander grâce et à donner satisfaction
+>> complète de ses torts et une indemnité pour les
+>> sacrifices qu'a faits l'Espagne.  
+
+
+Peu de temps après la réception de la sommation,
+il se présenta au camp espagnol une députation des
+principaux habitants de Tétouan, précédée d'un dra-
+peau blanc, ayant à leur tête Famet el Abehir, agent
+consulaire de l'Autriche et du Danemark. Celui-ci
+dépeignit l'état d'anarchie dans lequel était la ville,
+ajoutant que la majorité des habitants désirait
+que les Espagnols y entrassent, pourvu qu'ils res-
+pectassent les personnes, les propriétés et les cou-
+tumes. Cependant il y avait, disait-il, un autre parti
+qui opinait pour la défense de la place et qui était
+soutenu par un corps marocain posté en dehors dans
+ le voisinage immédiat.
+
+
+Le maréchal répéta à cette commission, ce qu'il
+avait écrit au gouverneur, que si dans vingt-quatre
+heures la soumission complète n'était pas faite, il
+prendrait la place de vive force; dans ce cas, il ne
+pouvait répondre du sort des habitants.
+
+
+La commission se retira, et le lendemain, à huit
+heures du matin, il s'en présenta une nouvelle qui
+supplia le maréchal de faire entrer ses troupes; elle
+lui fit un tableau lamentable de l'état où se trouvait
+
+
+264
+
+
+HISTOIRE DE LA GUERRE
+
+
+la population, les tribus kabyles et les Maures
+ayant saccagé la ville, surtout le quartier juif.
+
+
+En conséquence, le commandant en chef donna au
+général Rios l'ordre d'entrer avec sa division, accom-
+pagné d'une commission de chefs d'artillerie, d'ingé-
+nieurs et d'officiers d'état-major, présidée par le gé-
+néral Makenna, pour faire l'inventaire des effets de
+guerre qu'on y trouverait.
+
+
+Le général comte de Reus reçut l'ordre de s'em-
+parer de la citadelle avec la division O'Donnell,
+qui était la plus avancée.
+
+
+A dix heures et demie, le drapeau espagnol flottait
+sur la citadelle que le général Prim avait escaladée,
+les portes en étant fermées, et la division Rios avait
+occupé la place sans éprouver de résistance.
+
+
+Mais quel triste spectacle présentait cette ville!
+Partout des portes forcées, des meubles brisés, des
+effets éparpillés, et même les cadavres des victi-
+mes assassinées par ceux-là mêmes qui devaient les
+défendre !
+
+
+Pourtant la place de Tétouan avec sa nombreuse
+artillerie aurait pu opposer une forte résistance.
+On pouvait juger par son abandon de la profonde dé-
+moralisation dans laquelle se trouvait l'armée maro-
+caine. Il est vrai qu'au moment où les troupes du
+comte de Reus occupaient la citadelle, les soldats
+marocains faisaient mine de vouloir revenir sur leurs
+pas pour s'en emparer. Mais quelques coups de ca-
+non tirés par l'infanterie, car l'artillerie n'était pas
+encore arrivée, leur ôtèrent bien vite cette envie,
+et les Marocains disparurent pour ne plus se mon-
+trer.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+265
+
+
+Il faut dire à l'honneur du soldat espagnol qu'il
+se comporta admirablement avec les naturels du
+pays, et qu'il partagea même ses rations avec les
+pauvres affamés que leurs défenseurs avaient dé-
+pouillés de tout.
+
+
+La conséquence de cette conduite fut que ceux
+des habitants qui, effrayés, avaient quitté la ville, y
+revinrent bientôt peu à peu. Le nombre des canons
+trouvés dans la place était de 75 et de 3 mortiers
+avec 70 quintaux de poudre et 2,000 projectiles de
+différents calibres.
+
+
+XXV
+
+
+Le 8 février, le général O'Donnell, avec une bri-
+gade de sa division, se mit en marche pour avancer
+sur la route de Tanger jusqu'à une distance de deux
+lieues, tandis que le général Prim, avec le reste de
+son corps, poussa dans la direction opposée.
+
+
+Le 11, à deux heures de l'après-midi, arriva au-
+près du commandant en chef une députation de la
+part de Muley Abbas, demandant à faire la paix. Elle
+reçut pour réponse que la Reine seule avait le droit
+de faire la paix; mais on lui indiqua à quelles con-
+ditions on pourrait traiter.
+
+
+Dans l'intervalle l'armée espagnole fit tous les jours
+des reconnaissances dans différentes directions, sans
+avancer avec le gros de l'armée, qui resta campée sous
+les murs de Tétouan, se reposant des nombreuses
+fatigues qu'elle avait endurées jusque-là. Le comman-
+
+
+23
+
+
+266
+
+
+HISTOIRE DE LA GUERRE
+
+
+dant en chef profita de ce temps de repos, préparant
+tout pour une marche en avant, faisant acheter les
+chameaux nécessaires pour porter les bagages dans
+la marche vers l'intérieur du Maroc.
+
+
+Le 23, à deux heures de l'après-midi, se présenta
+un envoyé de Muley Abbas, demandant une nou-
+velle entrevue. Elle lui fut accordée, et il arriva ac-
+compagné de Mahomed el Jétif, ministre du Calife.
+Celui-ci dit d'abord qu'il était impossible d'accéder
+aux demandes faites parle commandant en chef. Sur
+cette observation, le maréchal se leva pour interrom-
+pre aussitôt la séance; cependant Muley Abbas insista
+pour qu'il restât, et il chercha toujours à décider le
+maréchal à céder de ses prétentions. Celui-ci resta
+ferme et déclara que si, le lendemain, les conditions
+n'étaient pas acceptées, il se considérerait comme
+libre de tout engagement antérieur.
+
+
+Le 25 et le 26 les forts de Larache furent bom-
+bardés par la flottille composée des vaisseaux la
+Blanca, Isabel II, Reina, Cortès et Bilbao.
+
+
+Comme dorénavant l'armée ne devait plus opérer
+le long de la côte, il devenait important pour elle
+d'être approvisionnée pour un plus long espace de
+temps: de là forcément un temps d'arrêt dans les
+opérations militaires; le temps avait été générale-
+ment très-mauvais, et le débarquement n'avait pu se
+faire que lentement et par portion.
+
+
+L'armée était restée sans être inquiétée par l'en-
+nemi, qui semblait frappé de stupeur; mais, se mé-
+prenant sur une telle inactivité, les Marocains sor-
+tirent le 11 mars de leur camp pour attaquer les
+Espagnols, qui étaient campés sur le chemin de Tan-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+267
+
+
+ger à la hauteur du village de Samsa; ils se dirigèrent
+en traversant le Rio Jelu sur la gauche des lignes
+espagnoles, cherchant à y arriver à l'improviste à la
+faveur d'un pli de terrain et à envelopper l'ennemi;
+mais ils furent aperçus à temps et une charge de
+l'escadron de la Albuera, soutenu par un batail-
+lon d'infanterie, obligea l'ennemi à repasser le
+fleuve; sur ces entrefaites on voyait au camp espa-
+gnol que les troupes marocaines se massaient du
+côté des cimes élevées du Tivel-el-Dersa.
+
+
+Le général Échague y fut donc envoyé avec trois
+bataillons du 3º corps et une batterie de montagnes
+pour les chasser, et il y réussit si bien qu'il les ac-
+cula contre une pente tellement escarpée, qu'il sem-
+blait impossible de la franchir. Pourtant les Maures
+y parvinrent, mais non sans laisser une quantité des
+leurs sur la place. Non content de ce succès, le com-
+mandant en chef fit diriger l'attaque sur tout le
+front à la fois.
+
+
+Le général comte de Reus, avec quatre bataillons
+et deux escadrons de cuirassiers, exécuta cette
+opération; il fit faire avec deux batteries de mon-
+tagnes un feu si bien nourri sur la cavalerie maro-
+caine, que, la division de cavalerie et la brigade Ma-
+kenna aidant, il la chassa de la plaine. Le général
+Rios escalada avec ses troupes les sommets les plus
+élevés de la chaîne et poussa l'ennemi devant lui.
+Enfin le général Paredes, avec sa brigade augmentée
+du premier bataillon de Navarre et de quatre compa-
+gnies de chasseurs de Chiclana, et soutenu par le
+premier corps à la tête duquel marchaient les géné-
+raux Échague et Garcia, arriva en peu d'instants
+
+
+268
+
+
+HISTOIRE DE LA GUERRE
+
+
+aux hauteurs de Samsa, d'où il chassa les Maures, qui
+se retiraient sur les montagnes élevées de Gualdras.
+
+
+Ainsi les troupes marocaines furent successivement
+délogées de toutes leurs positions, et à la nuit tom-
+bante les Espagnols occupèrent les cimes culmi-
+nantes de la Sierra de Gualdras.
+
+
+Dans cette journée, l'ennemi éprouva la plus com-
+plète défaite de toute la campagne, et si la nuit ne
+fût pas survenue, il aurait été complétement dis-
+persé.
+
+
+Les pertes de l'armée espagnole se montèrent à
+1 chef, 2 officiers et 19 hommes tués, et 4 chefs,
+21 officiers et 298 hommes blessés.
+
+
+Le 23 mars enfin, tous les préparatifs pour la
+marche en avant étaient terminés. L'armée se mit en
+route; mais à la onzième heure arrivèrent les en-
+voyés de Muley Abbas pour conclure les prélimi-
+naires de paix.
+
+
+XXVI
+
+
+Quelques jours après la paix était signée.
+Nous nous sommes expliqués dans la première
+partie de ce livre sur les avantages que retirera
+l'Espagne de la guerre du Maroc.
+
+
+Une auguste parole s'est élevée récemment dans le
+parlement espagnol. On ne saurait juger avec plus
+de noblesse et de sobriété un des plus grands évé-
+nements d'un règne déjà glorieux :
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+269
+
+
+<< Dieu, exauçant nos vœux, a donné dans tous les
+>> combats la victoire à la constance, à la bravoure,
+ à l'héroïque abnégation de l'armée. La marine,
+>> faisant toujours preuve de ces qualités, a par-
+>> tagé la gloire de l'armée. Dans toutes les provin-
+>> ces de la Péninsule et des colonies et dans les ré-
+>> gions les plus reculées, les dons destinés à secourir
+>> les blessés et à soulager les familles jetées dans
+>> le deuil par les événements de la guerre ont
+>> révélé le très-vif et unanime intérêt inspiré par
+>> les hommes qui verśaient généreusement leur
+>> sang pour la défense de l'honneur national.
+
+
+>>> Une paix glorieuse a mis fin à la guerre; et
+>> l'armée, en rentrant triomphante au sein de la
+>> patrie, a été l'objet des démonstrations d'enthou-
+>> siasme et de reconnaissance qui, de toutes parts,
+>> lui ont été prodiguées à l'envie (1). »
+
+
+XXVII
+
+
+Nous avons parlé de l'effet magique que pro-
+duisit dans toute l'Espagne et jusque dans ses
+colonies les plus éloignées la nouvelle de la guerre
+
+
+(1) Discours prononcé par S. M. C. à la séance d'ouverture des
+Cortès, le 25 mai 1860.
+
+
+23.
+
+
+270
+
+
+HISTOIRE DE LA GUERRE
+
+
+sainte contre l'infidèle. L'antique foi de cette po-
+pulation si catholique y éclatait dans toute sa force,
+et l'on pouvait se croire transporté dans le siècle
+de Ferdinand d'Aragon et d'Isabelle la Catholi-
+que, tant était grand et général dans toutes les
+classes de la population l'empressement que mit
+chacun à offrir sur l'autel de la patrie depuis les
+dons les plus humbles jusqu'à l'offrande de millions
+de réaux. Il ne pouvait entrer dans notre plan de
+rappeler tous ces différents dons; cependant nous
+n'avons pu terminer la relation de cette conquête
+sans mentionner quelques-unes des offrandes que
+leur libéralité ou leur singularité nous désigne plus
+spécialement.
+
+
+La ville de Lerida s'engage à pensionner sa vie
+durant un soldat devenu impropre au service dans
+la guerre d'Afrique.
+
+
+La députation provinciale de Zamora vote une pen-
+sion de six réaux par jour et à vie, pour tous les sol-
+dats, nés dans la province, qui se trouveraient dans
+le même cas.
+
+
+La députation provinciale de Saragosse offre un
+cheval et trente mulets complétement harnachés;
+les employés du dépôt général de cavalerie donnent
+vingt-quatre pièces rayées d'artillerie de montagnes
+avec les caisses de munitions et tous les accessoires
+nécessaires.
+
+
+Le lieutenant d'infanterie retraité Don Tiburcio
+Arbizu y Alegria fait abandon pour les frais de la
+guerre de toute sa solde de retraite.
+
+
+L'Athénée de Cadix présente au commandant en
+chef de l'armée une médaille d'or pour être donnée
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+271
+
+
+au premier soldat qui a exécuté un acte héroïque où
+la piété chrétienne est intéressée.
+
+
+La ville de Tarragone envoie 100,000 rations de
+vin et d'eau-de-vie à l'armée d'Afrique.
+
+
+Les employés du gouvernement dans la ville de
+Guadalajara donnent au bénéfice de l'armée une
+représentation théâtrale qui rapporte net trois mille
+réaux.
+
+
+Le lieutenant-colonel commandant en second
+l'école des cadets de la cavalerie, Don José Garcia
+Manfredi, met à la disposition du commandant en
+chef de l'armée d'Afrique la somme de mille réaux
+pour être donnée au premier soldat des troupes de
+terre ou de mer qui serait décoré de la croix de
+Saint-Ferdinand.
+
+
+La société du Cercle de Malaga met également à
+la disposition du commandant du 3º corps la somme
+de 40,000 réaux pour être distribuée aux hommes
+de ce corps qui se distingueront le plus dans la cam-
+pagne.
+
+
+Le sieur Casar y Moal, commerçant à Barcelone,
+donne 2,000 réaux en faveur des soldats blessés na-
+tifs de cette ville.
+
+
+Le comte de Parseul offre 100 prix de 500 réaux
+chacun à tous les chefs ou soldats qui deviennent
+incapables de servir par suite de blessures reçues à
+la prise de la première place forte du royaume de
+Maroc.
+
+
+Don Juan Manzanedo s'engage à défrayer de tout,
+équipement, armement, nourriture, prêt, 100 sol-
+dats, depuis la déclaration de guerre jusqu'à la con-
+clusion de la paix.
+
+
+272
+
+
+HISTOIRE DE LA GUERRE
+
+
+L'ordre des avocats de Guadalajara destine
+1,000 réaux au soldat de cette ville qui se distin-
+guera le plus dans la guerre.
+
+
+Le prince de Galitzin, ambassadeur de Russie,
+donne 4,000 réaux pour les blessés.
+
+
+La souscription ouverte à Madrid en faveur des
+blessés et des veuves produit plus de trois millions
+de réaux.
+
+
+L'infant Don Francisco de Paula payera une pen-
+sion annuelle de 4,000 réaux aux veuves des offi-
+ciers qui seront tués pendant la campagne.
+
+
+L'ayuntamiento de Santa Marina del Rosario of-
+fre d'entretenir une compagnie pendant la guerre;
+les chefs et les employés de la ville de Guanaba-
+coa, 100 fantassins; don Gregorio Gonzalès, 25 hom-
+mes d'infanterie; la Junte municipale de Cardenas,
+un escadron de cavalerie.
+
+
+L'infant Louis de Bourbon, duc de Parme,
+donne une inscription de rente de 36,000 réaux de
+capital pour le sergent ou chef rendu impropre au
+service qui, de l'avis du commandant en chef, le
+mérite le plus.
+
+
+La souscription de la Havane se monte en six
+jours à 10 millions de réaux.
+
+
+L'infant Don Enrique constitue une pension an-
+nuelle de 5,000 réaux, et sa femme autant, aux veuves
+ou orphelins des deux officiers qui se seront le plus
+distingués, selon le jugement du commandant en chef.
+
+
+Le consul d'Espagne à Tampico fait distribuer
+10,000 réaux aux blessés de la guerre d'Afrique.
+La Reine mère Marie-Christine envoie 140,000
+réaux pour les blessés.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+273
+
+
+Le brigadier secrétaire de la direction générale de
+la garde civile, Don Salvador Valdès, fait déposer
+dans la caisse du corps 25,671 réaux, produit de
+la vente de l'édition de la brochure « Aperçu sur
+l'empire du Maroc,  laquelle somme doit être em-
+ployée à nourrir les veuves et les orphelins d'indi-
+vidus de la garde civile morts dans la guerre du
+Maroc.
+
+
+Le consul d'Espagne à Perpignan remet 1,000
+réaux pour être donnés aux deux soldats qui se sont
+le plus distingués dans la bataille du 4 février.
+
+
+Les employés du chemin de fer de Saragosse à
+Barcelone et ceux d'Urgel mettent à la disposition
+du capitaine général de la Catalogne la somme de
+14,137 réaux pour secourir les soldats blessés de
+l'armée d'Afrique.
+
+
+La société du grand théâtre du Lycée à Barcelone
+fait don de 38,456 réaux, produit d'un bal donné
+pour secourir les blessés.
+
+
+Les habitants de l'île de Porto Rico envoient le
+montant d'une souscription, 432,790 pesos (un peso
+est une piastre).
+
+
+Les Espagnols à Lisbonne envoient également
+144,502 réaux.
+
+
+Enfin ceux d'Oporto, 15,351 réaux, produit d'une
+souscription.
+
+
+TROISIÈME PARTIE
+
+
+FONDS PUBLICS-CHEMINS DE FER
+
+
+CANAUX
+
+
+TERRE DE  
+
+
+HISTOIRE
+
+
+DE LA
+
+
+GUERRE DE L'ESPAGNE
+
+
+AVEC
+
+
+LE MAROC
+
+
+TROISIÈME PARTIE
+
+
+FONDS PUBLICS, CHEMINS DE FER, CANAUX.
+
+
+I
+
+
+FONDS PUBLICS
+
+
+Depuis 1854, l'Espagne, nous l'avons dit dans
+la première partie de ce livre, progresse sous tous
+les rapports. Elle s'est popularisée, pour ainsi
+dire, et tout ce qui a été fait, depuis cette époque,
+
+
+24
+
+
+278
+
+
+HISTOIRE DE LA GUERRE
+
+
+par les hommes à qui la Reine d'Espagne a confié
+les destinées de la Péninsule, a tendu à rehausser le
+crédit de ce beau pays.
+
+
+En examinant attentivement la situation des
+budgets de la plus grande partie des États de l'Eu-
+rope et notamment celui de l'Angleterre florissante,
+qui se solde chaque année par un déficit considéra-
+ble et augmente la dette publique, on est étrange-
+ment surpris de voir le budget de l'Espagne, à peine
+remise de secousses terribles, être clos pour l'exer-
+cice 1859 avec un excédant de recettes de plus de
+100,000,000 de réaux. C'est dire assez l'avenir
+brillant réservé à l'Espagne sous l'ère de grandeur
+et d'héroïsme qu'elle doit à l'intelligente impulsion
+donnée aux affaires par la confiance qu'ont les Espa-
+gnols dans le maréchal O'Donnell et les ministres
+qui le secondent si bien dans sa haute mission.
+
+
+Nous ne pouvions terminer cette longue étude,
+dans laquelle nous avons examiné l'influence politi-
+que et militaire de l'Espagne, sans parler également
+de sa situation financière et industrielle.
+
+
+Pour ne pas arriver les premiers dans nos pré-
+visions nous ne serons pas moins écoutés, parce que
+nous sommes entièrement convaincus.
+
+
+En effet, ne voyons-nous pas les fonds espagnols,
+à peine connus en 1848, être aujourd'hui officielle-
+ment cotés aux bourses de Paris, Francfort, Anvers,
+Amsterdam, Londres, etc.?
+
+
+Le peu d'élévation du chiffre de la dette publique
+et les charges annuelles qu'elle impose donnent
+aux fonds espagnols leur véritable importance et
+les placent dans une situation exceptionnelle ap-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+279
+
+
+préciée et reconnue depuis quelque temps, surtout
+en France.
+
+
+Une des institutions qui ont le plus servi à rendre
+facile aux étrangers l'accès des fonds publics espa-
+gnols, ce futl'institution à Paris et à Londres d'une
+commission des finances dans chacune de ces deux
+villes. Elle a pour but principal de payer indistinc-
+tement les intérêts de la dette extérieure d'Es-
+pagne.
+
+
+Cette commission se compose d'un président,
+d'un vice-président, qui résident alternativement
+à Paris et à Londres; d'un contrôleur à Paris, et
+d'un contrôleur à Londres.
+
+
+A chaque commission sont en outre attachés quel-
+ques employés pour le service des bureaux.
+
+
+Les membres actuels de la commission des fi-
+nances d'Espagne sont : MM. José Borrajo, président;
+Bonifacio Cortès, vice-président; Juan Del Peral,
+contrôleur à Paris; Nicasio Jauralde, contrôleur à
+Londres.
+
+
+La dette publique de l'Espagne se divise en con-
+solidée au 3 $0/0$ et en différée.
+
+
+Cette dernière date de 1851.
+
+
+Le type de l'émission ayant été fait à 1 $0/0$ d'inté-
+rêt et augmentant de $1/4$ $0/\hat{0}$ tous les deux ans, elle
+est destinée à devenir consolidée 3 $0/0$, comme l'au-
+tre, le $1^{er}$ janvier 1870.
+
+
+Elle rapporte actuellement 1 $3/4$ pour $0/0$ d'inté-
+rêt sur le capital nominal.
+
+
+Les deux rentes se cotent à la bourse de Paris,
+même à terme, et leur taux actuel est pour la con-
+solidée de 47 $3/4$ $0/0$ et de 39 $1/2$ pour la différée.
+
+
+280
+
+
+HISTOIRE DE LA GUERRE
+
+
+Le capital d'émission de chaque titre est repré-
+
+
+senté par la série à laquelle il appartient.
+
+
+I. Dette consolidée extérieure.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+II. Dette différée
+
+
+extérieure.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Les intérêts de ces deux rentes se payent à partir
+du 1er janvier et du 1 juillet de chaque année.
+
+
+Chaque coupon de dette extérieure est rédigé,
+ainsi que le titre tout entier, en espagnol, en fran-
+çais et en anglais. Leur valeur en piastres est cal-
+culée à fus 5,40 et 51 peniques la piastre.
+
+
+La dette intérieure n'est payable qu'à Madrid, mais
+on peut cependant se présenter à Paris ou à Londres,
+dans les bureaux de la commission des finances (1),
+qui délivre, en échange des coupons, une traite à
+30 jours de vue sur le Trésor espagnol à Madrid.
+Voilà pour la dette active.
+
+
+Vient ensuite la dette amortissable sans intérêts.
+
+
+(1) Le siége de la Commission est actuellement rue Neuve-des-
+Mathurins, 58, à Paris.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+1
+
+
+Actuellement elle est cotée à la bourse de
+
+
+à 15 $0/0$.
+
+
+281
+
+
+$1/2$
+
+
+Le gouvernement affecte chaque année à l'amor-
+tissement de cette dette une somme de....
+
+
+L'amortissement s'effectue tous les mois à Madrid
+au moyen de soumissions que font les intéressés.
+
+
+Les commissions des finances à l'étranger sont
+chargées de recevoir les soumissions jusqu'au 20 de
+chaque mois et de les faire parvenir à la direction de
+la dette à Madrid.
+
+
+Il n'est pas sans intérêt de faire ici une remarque
+toute en faveur des fonds espagnols.
+
+
+A un moment donné. la dette différée finira par
+atteindre le chiffre de la dette consolidée; à cette
+époque, le tiers des recettes du budget de l'État
+devra être consacré au payement des coupons des
+deux dettes. Il est plus que certain que d'ici là la
+vente des biens nationaux aura produit des recet-
+tes extraordinaires considérables, qui serviront, et
+au delà, à combler le chiffre nécessaire au payement
+de ces coupons.
+
+
+C'est là une des nombreuses considérations qui
+donnent une si grande confiance dans les fonds es-
+pagnols, et qui contribuent si puissamment, depuis
+quelque temps surtout, à l'élévation progressive
+des différents cours sur tous les marchés financiers
+de l'Europe.
+
+
+C'est aussi à la situation générale du crédit en
+Espagne, soutenu depuis quelques années par les
+capitaux français, que la Péninsule doit son état
+florissant.
+
+
+A notre avis, l'Espagne industrielle est en ce mo-
+
+
+21.
+
+
+282
+
+
+HISTOIRE DE LA GUERRE
+
+
+ment dans la même situation où se trouvait la
+France en 1845 et en 1852; elle aspire à une puis-
+sance qu'elle mérite. Si les établissements finan-
+ciers, de quelque nature qu'ils soient, veulent éten-
+dre leur crédit et leurs ressources, ils doivent
+chercher tout ce qui pourra affermir et faire con-
+naître l'Espagne et ses ressources.
+
+
+C'est par une publicité bien entendue de leurs
+plans, de leur avenir, de leurs besoins, qu'ils met-
+tront le public à même d'apprécier exactement les
+services que tous ils sont appelés à rendre à l'Es-
+pagne.
+
+
+Plusieurs de ces établissements l'ont déjà com-
+pris, aussi leur crédit n'en est-il que plus sérieux.
+Voici comment M. Léon Vidal résume les forces
+financières et industrielles de l'Espagne, dans un
+remarquable travail publié par lui tout récemment
+sous le titre de l'Espagne en 1860:
+
+
+« En 1859, le total de la dette publique de l'Espagne s'éle-
+vait en émissions et valeurs, sous diverses dénominations, à
+13,485,099,500 réaux de veillon 48 maravédis. Le chiffre des
+intérêts de cette dette était de 254,188,342 réaux 69 maravédis.
+>> La Banque d'Espagne est administrée par un gouverneur,
+deux sous-gouverneurs, douze conseillers, un secrétaire, un in-
+terventor et un caissier. Son capital nominal est de 120 mil-
+lions de réaux; ses billets, émis le 31 juillet 1858 montaient à
+266,280,000 réaux, en circulation, 208,039,800 réaux. En 1859,
+son actif en valeurs était de 564,001,492 réaux, et son passif de
+564,001,492 réaux, égal à son actif.
+
+
+>>> Les grandes institutions de crédit, outre la Banque d'Espa-
+gne, sont les banques de Barcelone, de Cadix, de Malaga, de
+Séville, de Valladolid, de Saragosse, de Santander, de Bilbao,
+de la Corogne. Leur capital effectif total est de 200,000,000 de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+283
+
+
+réaux; leurs émissions de billets sont de 428,765,600 réaux; en
+circulation, 367,817,436 réaux.
+
+
+>> Les sociétés de crédit existant en 1860 sont à Madrid, la
+Société générale de Crédit mobilier espagnol, la Compagnie gé-
+nérale de Crédit en Espagne, la Société espagnole mercantile et
+industrielle; à Barcelone, la Société générale catalane de crédit,
+le Crédit mobilier barcelonais, l'Union commerciale; à Valence,
+la Société de crédit valencienne, plus la Caisse barcelonaise
+d'escompte près de la Société valencienne de Fomento, la
+Caisse catalane industrielle.
+
+
+>>> Le capital effectif de ces Compagnies de crédit s'élève pour
+les sept premières à 347,650,000 réaux, et leur nominal à
+1,423,000,000 réaux; et pour les trois dernières le capital no-
+minal est de 95,000,000 de réaux.
+
+
+>> 47 Sociétés industrielles, dont 11 pour la fabrication des tis-
+sus, représentaient un capital nominal de 399,273,000 réaux.
+>>>> Les Compagnies concessionnaires de travaux publics, notam-
+ment les lignes de chemins de fer, de navigation fluviale, de
+canaux, étaient au nombre de 18, représentant un capital total
+de 1,567 millions de réaux.
+
+
+>>> Les Sociétés d'assurances maritimes étaient au nombre de 17,
+à Madrid, Valence, Malaga, Cadix, Barcelone, et avaient un ca-
+pital nominal de 524 millions de réaux.
+
+
+>>>> Les trois Sociétés d'assurances contre l'incendie établies à Ma-
+drid ont assuré des propriétés pour un capital de 1,425,711,804
+réaux.
+
+
+>>>> D'autres Sociétés d'assurances terrestres avec diverses desti-
+nations existent dans le royaume.
+
+
+>> Ce simple exposé peut faire apprécier la situation financière
+de l'Espagne et le mouvement financier, qui a pris un essor et
+une activité si considérables dans ce pays. >>>
+
+
+Il ne sera pas sans intérêt de compléter cette par-
+tie de notre travail par le tableau des différents
+cours des fonds espagnols sur la place de Paris de-
+puis 1848, cours qui justifient ce que nous avons
+dit plus haut.
+
+
+ANNÉES.
+
+
+284
+
+
+ARDOUIN
+
+
+D. INTÉRIEURE D. EXTÉRIEURE DETTE PASSIVE.
+
+
+DIFFÉRÉE
+
+
+500.
+
+
+30/0.
+
+
+300.
+
+
+CONVERTIE.
+
+
+Plus bas. Plus haut. Plus bas. Plus haut. Plus bas. Plus haut. Plus bas. Plus haut. Plus bas.
+
+
+Plus haut.
+
+
+HISTOIRE DE LA GUERRE
+
+
+1848
+
+
+5 1/2
+
+
+15 1/2
+
+
+14  
+
+
+32 1/4
+
+
+2
+
+
+"
+
+
+4 1/2
+
+
+1849
+
+
+91/4
+
+
+13 1/8
+
+
+27 34
+
+
+37
+
+
+3  
+
+
+4
+
+
+1850
+
+
+9 1/2 13
+
+
+19
+
+
+34 1/4
+
+
+39 7/8
+
+
+3 1/2
+
+
+4
+
+
+1851
+
+
+11 1/2 16 1/2
+
+
+36 3/4
+
+
+40 >>
+
+
+3 3/4
+
+
+6 3/8
+
+
+1852
+
+
+17 1/2 21 »
+
+
+42 1/2 45 1/2
+
+
+40
+
+
+50
+
+
+5 »
+
+
+6 1/4
+
+
+20 1/4
+
+
+26
+
+
+1853
+
+
+39 1/2 42 7/8
+
+
+42 1/2
+
+
+48 1/2
+
+
+4 1/4
+
+
+5 3/4
+
+
+20 3/4
+
+
+24 3/8
+
+
+1854
+
+
+31 1/4
+
+
+40 3/4
+
+
+32 1/2
+
+
+44 3/4
+
+
+3 1/4
+
+
+4 1/4
+
+
+15 3/8
+
+
+21 1/2
+
+
+1855
+
+
+28 3/4
+
+
+36
+
+
+35 »
+
+
+40
+
+
+4 3/4
+
+
+6 1/4
+
+
+17
+
+
+21
+
+
+1856
+
+
+Converti en dette
+
+
+32 1/2
+
+
+43
+
+
+38 »
+
+
+47
+
+
+5 3/4
+
+
+7 3/4
+
+
+20 1/2
+
+
+25 3/4
+
+
+1857
+
+
+différée.
+
+
+35 3/4
+
+
+39 3/4
+
+
+39 1/4
+
+
+43 1/2
+
+
+5 »
+
+
+6 3/8
+
+
+23
+
+
+26
+
+
+1858
+
+
+36 3/4
+
+
+43 7/8
+
+
+41 1/4
+
+
+48 3/4
+
+
+5 1/2
+
+
+12 1/4
+
+
+25 1/4
+
+
+31 3/8
+
+
+1859
+
+
+33 5/8
+
+
+44 3/8
+
+
+37 1/2
+
+
+47 1/4
+
+
+61/4
+
+
+11 3/4
+
+
+25 »
+
+
+34 1/2
+
+
+1860 (30 juillet.).....
+
+
+47 1/4
+
+
+47 1/2
+
+
+20 1/2
+
+
+13
+
+
+39 1/2
+
+
+N. B. Les cours sur les places étrangères ne varient que de la différence du change, qui est très-minime.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+II
+
+
+CHEMINS DE FER
+
+
+285
+
+
+Immédiatement après l'intérêt qui s'attache aux
+fonds espagnols se présente celui que fait naître,
+depuis peu de temps, la création des chemins de
+fer de l'Espagne. La France, les États-Unis, l'An-
+gleterre et la Belgique ont les premiers compris que
+tout pays qui veut prospérer activement doit d'a-
+bord développer le plus rapidement possible ses
+voies de communication de toutes sortes. Le progrès
+a poussé en avant la Russie, l'Autriche, la Prusse
+et toute l'Allemagne.
+
+
+La Hollande et le Portugal ne sont pas restés en
+arrière de la civilisation, et nous venons tout récem-
+ment d'être témoins du succès obtenu par la grande
+compagnie des chemins de fer portugais dont le ca-
+pital social, qui ne s'élève pas à moins de francs
+35,000,000, a été complétement réalisé en France.
+
+
+Nous nous occuperons prochainement d'une
+étude spéciale sur les finances et la situation com-
+merciale et industrielle du Portugal et de la Hol-
+lande, auxquelles l'établissement de voies ferrées
+limitrophes donne un puissant intérêt en ce qu'elles
+relient les centres industriels de tous les pays.
+
+
+Non-seulement l'Espagne augmente sa puissance
+commerciale en créant des chemins de fer, mais
+
+
+286
+
+
+HISTOIRE DE LA GUERRE
+
+
+elle prépare un débouché énorme à ses établisse-
+ments houillers, qui profiteront encore des voies na-
+vigables qui se développent également de jour en
+jour et consolideront, dans un temps donné, cet en-
+semble qui mettra l'Espagne au rang des pays les
+mieux constitués pour leur commerce et leur gran-
+deur industrielle.
+
+
+Il est un fait avéré et reconnu, c'est que l'Es-
+pagne n'aura plus besoin de se fournir des charbons
+de terre anglais. Les études faites officiellement ont
+établi que les charbons espagnols sont excellents
+pour les chemins de fer, les usines et les établisse-
+ments métallurgiques.
+
+
+Toutes ces données d'une situation industrielle
+destinée à produire des résultats immenses pour
+l'Espagne ont établi sur tous les marchés financiers
+de l'Europe un crédit qui va croissant de jour en
+jour.
+
+
+La preuve de notre assertion est évidemment dans
+la réussite qu'ont obtenue en France les émissions
+faites tout récemment, sur la seule place de Paris,
+des actions de la compagnie des chemins de fer de
+Pampelune à Saragosse, et celle des actions des che-
+mins de fer de Séville à Cadix, sous la protection
+d'un système nouveau de garantie.
+
+
+Cette confiance dans les chemins espagnols a
+même profité à la compagnie des chemins de fer
+portugais. Nous avons vules hommes les plus re-
+commandables par leur talent, leur aptitude, leur
+autorité, leurs capitaux, émettre déjà cette idée
+d'une union possible des réseaux espagnols et por-
+tugais, comme nous voyons cette communauté d'in-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+287
+
+
+térêts établie entre les réseaux du Nord et ceux de
+la Belgique, entre ceux de l'Est et les chemins al-
+lemands.
+
+
+Parmi les hommes sur lesquels l'attention pu-
+blique s'est portée spécialement, un de ceux qui
+ont le plus fait pour seconder le progrès dans lequel
+est entrée l'Espagne par la création de ses chemins
+de fer est M. de Salamanca, banquier espagnol, pré-
+sident de la compagnie du chemin de fer de Pam-
+pelune à Saragosse, concessionnaire et président de
+la grande Compagnie des chemins de fer portugais.
+
+
+En France, toutes les innovations dues à l'intelli-
+gence, au travail et à la persévérance d'un ou plu-
+sieurs individus, ont attaché le nom de leurs pro-
+moteurs aux créations dont on leur était redevable.
+On doit aux grandes influences financières cette
+vaste agglomération de capitaux qui ont contribué à
+la grandeur et à la puissance de la France; c'est
+grâce à l'emploi habile de ces capitaux, par les hom-
+mes qui ont dirigé et dirigent encore le mouvement
+financier, que l'on a vu substituer, sur tous les
+marchés de l'Europe, l'influence de la France à la
+prépondérance exagérée de l'Angleterre.
+
+
+C'est encore avec le concours des financiers que
+l'on a vu se développer en France les grandes mai-
+sons de banque, les usines, les canaux, les chemins
+de fer et toutes les améliorations dont notre époque
+est fière à juste titre.
+
+
+Ce que plusieurs grandes individualités ont ac-
+compli en France et en Europe, M. de Salamanca l'a
+réalisé à lui seul en Espagne; c'est à lui et à son
+unique initiative que l'on doit les créations indus-
+
+
+288
+
+
+HISTOIRE DE LA GUERRE
+
+
+trielles et artistiques dont l'Espagne est dotée; c'est
+à lui que l'on doit l'idée du vaste réseau de chemins
+de fer qui va mettre en facile communication l'Es-
+pagne avec l'Europe, et faire éclore, pour la première
+fois, les magnifiques richesses minéralogiques que
+renferme le sol espagnol.
+
+
+Le premier peut-être dans la finance, il eut l'au-
+dace de croire à l'avenir brillant réservé aux che-
+mins de fer espagnols, et de s'engager seul dans la
+construction du premier chemin de fer qu'ait eu
+l'Espagne, celui de Madrid à Aranjuez et Almanza,
+fusionné dans celui de Madrid à Saragosse, aujour-
+d'hui tête de la première ligne des chemins de fer
+espagnols, et qui doit relier un jour la Méditerranée
+à l'Océan.
+
+
+M. de Salamanca est à peine âgé de 46 ans; ses
+premières études faisaient présager un jurisconsulte
+éminent, mais il s'adonna tout à coup à la partie
+commerciale, dans laquelle il réalisa une fortune
+honorable.
+
+
+Doué de qualités personnelles assez rares, il pro-
+tégea les arts en véritable Mécène. Il encouragea les
+artistes en se créant une magnifique galerie de ta-
+bleaux où, à côté des anciens maîtres, figuraient
+des artistes contemporains. Il créa à Madrid un théâ-
+tre qu'il encouragea de sa protection et de ses de-
+niers. Il fit bâtir un palais splendide et appela à lui
+architectes, sculpteurs, peintres, etc., utilisant sa
+fortune de manière à s'attirer toutes les sympathies.
+
+
+Mêlé à des événements politiques sur lesquels il
+est inutile de s'étendre ici, il devint ministre des
+finances; ses travaux absorbèrent pendant quelque
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+289
+
+
+temps tous ses soins et tout son temps et le tinrent
+éloigné des affaires industrielles.
+
+
+Plus tard, après avoir vu sa fortune diminuer
+par l'effet de sa générosité et de ses infortunes poli-
+tiques, M. de Salamanca redevint banquier, et c'est
+à partir de cette époque qu'il reporta toute son
+intelligence sur les affaires et qu'il entreprit les
+différents chemins de fer dans lesquels son nom
+figure.
+
+
+Un fait très-honorable dans le caractère de M. de
+Salamanca est à notre connaissance personnelle.
+Lors de la Révolution de 1854, M. de Salamanca,
+qui déjà avait abandonné la politique, fut le pre-
+mier à diriger le rétablissement des voies de com-
+munications, anéanties par les combattants. Après
+avoir rassemblé environ quatre cents hommes de
+la garde civile, il présida lui-même aux travaux.
+
+
+Aujourd'hui, grâce à ses talents et à son expé-
+rience, M. de Salamanca exerce une puissante ac-
+tion financière qu'on ne saurait méconnaître.
+
+
+C'est ainsi que la situation politique de l'Espagne
+depuis 1858 a amené les hommes qui ont occupé
+à différentes époques des positions honorables à se
+grouper et, poussés par l'esprit de conciliation, à
+s'attacher au progrès et à l'avenir de leur pays.
+C'est le reflet glorieux et le résultat de la politique
+appréciée dans la première partie de ce livre.
+
+
+Rien n'est concluant comme les faits; nous allons
+donner un résumé des études de toutes sortes faites
+depuis 1856.
+
+
+25
+
+
+290
+
+
+HISTOIRE DE LA GUERRE
+
+
+RENSEIGNEMENTS GÉNÉRAUX SUR LES CHEMINS DE FER
+DEPUIS 1856 JUSQU'A NOS JOURS,
+
+
+CONCESSIONS.
+
+
+Dates.
+
+
+15 février 1856.
+
+
+5 juin 1859.
+
+
+Dispositions.
+
+
+Approuvant l'instruction pour l'exécu-
+tion de la loi générale; un cahier de con-
+ditions générales; et une formule de tarif
+pour la concession des chemins de fer du
+service général.
+
+
+Autorisant le gouvernement à accorder
+des concessions de chemins de fer servis
+par des animaux.
+
+
+ÉTUDES.
+
+
+24 mars 1856.
+
+
+Déterminant le caractère des autorisa-
+tions accordées pour faire des études de
+chemins de fer.
+
+
+EXPLOITA
+
+
+14 novembre 1855 | Loi sur la police des chemins de fer,
+
+
+25 novembre 1858
+
+
+Statuant que les gouverneurs de pro-
+vince ne pourront permettre l'exploitation
+d'aucune ligne avant l'autorisation royale.
+
+
+8 juillet 1859.
+
+
+( Règlement pour l'exécution de la loi du
+14 novembre 1855.
+
+
+an
+
+
+22 mai 1859.
+
+
+{
+
+
+SUBVENTIONS.
+
+
+Créant des obligations du Trésor pour
+chemin de fer, pour couvrir les subventions
+accordées aux entreprises.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+291
+
+
+8 juillet 1859.
+
+
+PAYEMENT DES SUBVENTIONS.
+
+
+Ordonnance sur la manière de régler les
+subventions accordées aux Compagnies.
+
+
+Chemins de Fer construits par des Compagnies que le
+Gouvernement a achetés ou doit acheter, selon les lois ci-dessus
+
+
+indiquées.
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+ÉTUDES DE CHEMINS DE FER EN VOIE D'EXÉCUTION
+
+
+PAR LE GOUVERNEMENT.
+
+
+Monforte à Orense.
+
+
+Léon à Gijon.
+
+
+Saragosse à la France, par Canfranc.
+
+
+Yrursun à Tolosa.
+
+
+Murcie à Cordoue.
+
+
+292
+
+
+HISTOIRE DE LA GUERRE
+
+
+Au 31 décembre 1858, les concessions comprenaient
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+Il y a de plus environ 3,000 kil. votés ou autorisés; ce
+qui porte à environ 7,000 kil. l'ensemble du futur réseau
+espagnol.
+
+
+En construction:
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+293
+
+
+I
+
+
+COMPAGNIE DU CHEMIN DE FER DE MADRID A
+
+
+SARAGOSSE ET A ALICANTE.
+
+
+Cette Compagnie est administrée par un conseil com-
+posé de MM. Mon, J. de Salamanca, A. G. Moreno, Ros de
+Olano marquis de Guad-el-Jélu, Llorente, B. de Castro,
+J. de Zaragoza, de Udaeta, de la Gandara, de Mollinedo,
+baron Gustave de Rothschild, Chatelus, Poisat, Dela-
+hante, Ed. Blount, comte Lehon, E. Teisserenc, A. Cour-
+pon, Weisweiller, J. Bauer. Le président honoraire de la
+Compagnie est M. le comte de Morny.
+
+
+Le capital social est fixé par les statuts à 456 millions
+de réaux, soit, au change de 19 réaux pour 5 francs,
+120 millions de francs, représentés par 240,000 actions de
+1,900 réaux chacune, soit 500 fr.
+
+
+Il peut être en outre émis des obligations jusqu'à con-
+currence de la totalité du capital souscrit et du montant
+des subventions de l'État. Cette faculté a été donnée aux
+Compagnies de chemins de fer en Espagne par la nou-
+velle loi du 27 juin 1860, et se trouve définie dans cette
+loi.
+
+
+La forme de la Société est anonyme; sa durée est de
+99 ans à partir du jour de sa constitution définitive, qui a
+eu lieu le 27 janvier 1857.
+
+
+Le réseau de cette Compagnie comprend trois sections,
+qui, après avoir eu une existence distincte, ne composent
+plus qu'une ligne unique traversant une grande partie de
+l'Espagne du nord-ouest au sud-est, et d'une longueur
+totale de 815 kilomètres; savoir:
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Les sections de Madrid à Almanza et d'Almanza à Ali-
+
+
+25.
+
+
+294
+
+
+HISTOIRE DE LA GUERRE
+
+
+cante, y compris l'embranchement de Castillejo à Tolède,
+qui mettent Madrid en communication directe avec la mer, et
+qui comprennent ensemble 482 kil., sont en pleine exploita-
+tion et produisent déjà des recettes moyennes de 33,000 fr.
+par kilomètre.
+
+
+Sur la ligne de Saragosse à Madrid, la section de Madrid
+à Guadalajara est ouverte sur une longueur de 57 kil., et
+produit une recette moyenne d'environ 18,000 fr. par
+kilomètre.
+
+
+Mais, en 1859, la Compagnie a étendu son réseau de la
+manière suivante :
+
+
+1º Elle a acquis la concession de la ligne d'Estramadure,
+d'Alcazar à Ciudad-Real, 'd'une longueur de 112 kilomètres
+et demi, sur lesquels la première section d'Alcazar à Man-
+zanarès, comprenant 50 kilomètres, a été livrée à l'exploi-
+tation dans les derniers jours de juin 1860.
+
+
+2º Elle a acheté la ligne de Castillejo à Tolède, d'une
+longueur de 27 kilomètres, au prix de 140,000 fr. par ki-
+lomètre, y compris le matériel fixe et roulant, payable en
+14,673 obligations de la Compagnie, au prix fixe de 250 fr.,
+produisant 15 fr. d'intérêt.
+
+
+3º Elle a acquis la concession du chemin de fer d'Alba-
+cète à Carthagène, par Murcie, d'un longueur de 247 kil.
+En résumé, le réseau de la Compagnie comprend :
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Dont:
+
+
+|  |
+
+| --- |
+
+|  |
+
+|  |
+
+|  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+295
+
+
+Voici la situation financière de l'entreprise au 31 dé-
+cembre 1859:
+
+
+195,146 actions étaient régulièrement versées de 400 fr.;
+et 44,854 actions étaient libérées facultativement de 500 fr.,
+ensemble.
+
+
+A déduire pour versements en retard..
+
+
+100,485,400 fr.
+794,400
+
+
+Reste.......
+
+
+99,691,000 fr.
+
+
+Il avait été émis 162,935 obligations,
+qui, capitalisées à 6%, représentent....
+
+
+40,733,750 fr.
+
+
+Ensemble.... 140,424,750 fr.
+
+
+Voici dans quelles conditions ces divers chemins se con-
+struisent:
+
+
+La construction de la ligne de Madrid à Saragosse, d'a-
+près les calculs établis, doit être faite au prix de 207,500 fr.
+par kilomètre, avec le matériel fixe et rou-
+lant, ci...
+
+
+Mais le gouvernement espagnol accorde
+une subvention par kilomètre de....
+
+
+Prix de revient....
+
+
+207,500 fr.
+
+
+55,263 fr.
+
+
+152,237 fr.
+
+
+La cession des chemins de Madrid à Almanza et Ali-
+cante a été faite par M. de Salamanca, moyennant 180,000 fr.
+par kil., payables partie en argent et partie en obligations.
+En vertu de cette clause, le prix a été en effet payé à
+M. de Salamanca en obligations jusqu'à concurrence de
+4,386,000 fr.
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+|  |  |  |
+
+|  |  |  |
+
+|  |  |  |
+
+296
+
+
+HISTOIRE DE LA GUERRE
+
+
+Le prix moyen de chacun de ces 841 kil. descend à
+166,926 fr.
+
+
+On ne connaît pas encore les dépenses effectuées ou pro-
+bables des lignes d'Estramadure et de Carthagène; mais
+elles paraissent devoir être très-modérées. Le gouvernement
+accorde pour la première une subvention de 5 millions de
+francs, soit 44,450 fr. par kil.; et pour la seconde une sub-
+vention de 19,506,000 fr., soit 78,947 fr. 37 c. par kil.
+
+
+Il nous suffira, pour faire ressortir ces avantages que
+l'Espagne a déjà retirés de l'établissement de ses chemins
+de fer, d'indiquer ici que le chemin d'Alicante a trans-
+porté avec la plus grande célérité et sans qu'il y ait eu le
+moindre accident à signaler, toutes les troupes qui ont
+servi à la glorieuse expédition du Maroc.
+
+
+11
+
+
+COMPAGNIE DU CHEMIN DE FER DE VALENCE A
+
+
+ALMANSA.
+
+
+Cette Compagnie a pour objet l'exploitation du chemin
+du Grao (port de Valence) à Almansa sur la ligne d'Ali-
+cante, chemin qui met Valence en communication avec
+Madrid.
+
+
+Cette ligne, d'une longueur de 138 kil., est complétement
+livrée à l'exploitation depuis le 15 novembre dernier.
+
+
+III
+
+
+COMPAGNIE DU CHEMIN DE FER DE CORDOUE A SÉVILLE.
+
+
+Compagnie anonyme espagnole au capital de 18 millions
+de francs, divisés en 36,000 actions de 500 fr. libérées,
+portant 6% d'intérêt; plus 9 millions de francs, repré-
+sentés par environ 36,000 obligations de 500 fr., portant
+15 fr. d'intérêt.
+
+
+Durée de la concession, 99 ans.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+CONSEIL D'ADMINISTRATION EN 1860.
+
+
+297
+
+
+Président: M. O'Shea; Vice-président: M. C. M. Cal-
+deron.
+
+
+Membres:
+
+
+MM. Bailleux de Marisy, Chaplin, comte Clary, E. Du-
+clerc, Figueras, Pedro Gil, duc de Glucksbierg, Charles
+Laffitte, Leon y Medina, Nelson Montès, Mortimer-Ter-
+naux, Parent, Eugène Pereire, Isaac Pereire, duc de
+San-Lucar, Schaken, prince de Wagram.
+
+
+Directeur général: M. Léon Lalanne, ingénieur en chef
+des ponts et chaussées.
+Directeur de l'Exploitation:
+M. Lionnet.
+
+
+Ce chemin de fer, d'une étendue de 131 kil., est livré à
+l'exploitation depuis le 2 juin 1859. Il jouit d'une subven-
+tion annuelle de 620,000 fr. environ, payée par le gouver-
+nement espagnol. Ses recettes actuelles s'élèvent à environ
+13,100 fr. par kilomètre, non compris la subvention.
+
+
+IV
+
+
+CHEMIN DE FER DE SÉVILLE-CADIX.
+
+
+Le capital social est de 23,750,000 fr., divisés en 47,500
+actions de 500 fr., et de 11,875,000 fr. en obligations;
+ensemble 35,625,000 fr.
+
+
+Cette ligne, qui s'étend de Séville à Cadix, est d'un par-
+cours total de 138 kilomètres, dont 104 sont actuellement
+exploités et les 34 autres à la veille de l'être. Elle se di-
+vise en deux sections: l'une de Séville à Xérès, d'une
+longueur de 104 kil.; l'autre de Puerto-Real à Cadix,
+d'une longueur de 34 kil., séparées par la petite ligne de
+Xérès au Trocadero, déjà en exploitation, mais qui ap-
+partient à une autre compagnie. La Compagnie a été auto-
+risée à faire les études du projet de raccordement entre
+Xérès et Puerto-Real, et elle fera en outre le raccordement
+avec la ligne de Cordoue.
+
+
+Le service des marchandises n'est pas encore organisé
+
+
+298
+
+
+HISTOIRE DE LA GUERRE
+
+
+sur ce chemin, et néanmoins la recette atteint déjà 12 à
+43,000 fr. par kilomètre.
+
+
+La Compagnie générale de Crédit en Espagne a émis,
+par souscription publique, au mois d'avril dernier, 20,000
+actions de 500 fr. qui lui appartenaient, et a garanti aux
+souscripteurs, de concert avec les fils de Guilhou jeune,
+banquiers à Paris, un minimum d'intérêt et de dividende
+de 15 fr. pour le dernier semestre de 1860; de 35 fr. pour
+chacune des années 1861 et 1862; de 40 fr. pour les an-
+nées 1863, 1864 et 1865. Si en janvier 1866, les dividendes
+ci-dessus ne sont pas couverts, les garants rembourseront
+les actions au pair dans un délai de trois mois. Ce système
+de garantie a été étendu à la totalité des actions.
+
+
+Les actions de cette Compagnie sont entièrement versées.
+Les obligations actuellement émises s'élèvent à 8 millions
+de francs, divisés en 32,000 obligations à 250 fr., portant
+15 fr. d'intérêt annuel et remboursables à 500 fr. en 47 ans.
+
+
+V
+
+
+COMPAGNIE DU CHEMIN DE FER DE BARCELONE
+
+
+A SARAGOSSE.
+
+
+Société anonyme espagnole fondée à Barcelone avec le
+concours de la Société du Crédit catalan. La durée de la
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+Plus une subvention de 4 millions de duros, soit
+
+
+21 millions de francs, accordée par le gouvernement.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+Sont en exploitation.
+
+
+La dernière section, de Lerida à Saragosse,
+s'effectuera, dit-on, avant la fin de l'année 1860.
+Elle est d'une longueur de...
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+299
+
+
+182
+
+
+Total de la ligne...
+
+
+366 kil.
+
+
+Les actions sont au porteur et entièrement libérées.
+
+
+VI
+
+
+COMPAGNIE DU CHEMIN DE FER DE TARRAGONE
+
+
+A REUS.
+
+
+Société française en commandite, raison sociale G. Ra-
+gel et $C^{ie}$. Durée 99 ans, du 14 décembre 1852 au 14 dé-
+cembre 1951. M. de L'Espine, président du Conseil de
+surveillance.
+
+
+Capital social 3 millions 200,000 fr., divisés en 8,000 ac-
+tions libérées au porteur de 250 fr. chacune, jouissant d'un
+intérêt de 6% par an; et le surplus, soit 1,200,000 fr.,
+en obligations.
+
+
+Cette concession de 13 kil., dont l'origine remonte à
+1851, a été faite sans subvention ni garantie d'intérêt.
+
+
+Le service des intérêts est fait à Paris par la Compagnie
+générale de Crédit en Espagne.
+
+
+La ligne est livrée à l'exploitation depuis le 16 sep-
+tembre 1856.
+
+
+Par suite de sa situation, cette ligne paraît devoir se fu-
+sionner dans la compagnie du chemin de fer de Reus à
+Montblanc.
+
+
+300
+
+
+HISTOIRE DE LA GUERRE
+
+
+VII
+
+
+COMPAGNIE DES CHEMINS DE FER DE SARAGOSSE
+
+
+A PAMPELUNE ET IRUN (frontière française).
+
+
+Société anonyme autorisée par décret royal du 14 dé-
+cembre 1859.
+
+
+Le Conseil d'administration se compose de MM. le gé-
+néral de Cordoba, marquis de Mendigorria; général Ros
+de Olano, comte de l'Almina; A. LLorente; Rhoda; Al-
+varez; J. de Zaragoza; B. de Castro; Carriquiri; de la
+Gandara; J. de Salamanca; général de Lersundi; comte de
+Chassepot; J. Mirès; F. Solar; vicomte de Richemont;
+J. Carvallo; L. Raynouard; Ad. Cochery; Ch. Bocher.
+
+
+Le capital de cette Société, composé de 27,500,000 fr.,
+divisés en 55,000 actions de 500 fr. et de 12,500,000 fr. en
+obligations, a été souscrit par la Caisse générale des Che-
+mins de fer et émis par elle au mois d'avril 1860, avec ga-
+rantie par les directeurs-gérants de la Caisse générale des
+Chemins de fer de rembourser les actions au pair, si, un
+an après la mise en exploitation, c'est-à-dire au 1er jan-
+vier 1862, les actions tombaient au-dessous de 500 fr.
+C'est la première application qui ait été faite du système de
+garantie qui paraît devoir se généraliser dans l'avenir.
+
+
+Du reste, les conditions d'existence de ce chemin justi-
+fiaient complétement l'initiative hardie des directeurs de la
+Caisse générale des Chemins de fer.
+
+
+Le chemin de Pampelune à Saragosse s'embranche près
+de la frontière de France sur la ligne du Nord de l'Espagne,
+et se relie au chemin de fer de Saragosse à Madrid. Il a
+187 kil. d'étendue, et forme la tête de ligne entre la France
+et l'Espagne, ce qui lui assure une situation analogue à
+celle des chemins de Paris à Orléans, de Paris à Amiens,
+de Paris à Lyon et de Paris à Rouen; il réduit relativement
+de 80 kil. la distance de la frontière de France à Madrid;
+enfin, il forme une section importante de la ligne de jonc-
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+301
+
+
+tion de la Méditerranée à l'Océan par Barcelone, Saragosse,
+Alfaro et Bilbao, et la ligne de l'Océan est même obligée
+de lui emprunter 84 kilomètres.
+
+
+Aux termes de l'article 6 des statuts, M. de Salamanca
+s'est obligé à livrer le chemin entièrement achevé, avec
+son matériel fixe et roulant, avant la fin de l'année 1860,
+moyennant le prix à forfait de 200,000 fr. par kil. La sta-
+tistique évalue le revenu brut à 34,000 fr. par kil., soit
+6 millions 350,000 fr. pour la ligne entière; déduction
+faite des frais d'exploitation à $40\%$, il resterait un revenu
+net de 3 millions 810,000 fr., qui, après le prélèvement du
+service des obligations, laisserait une somme disponible
+de 3 millions, ou environ 57 fr. par action. Mais ces pré-
+visions sont évidemment trop faibles, puisque l'adminis-
+tration de la Compagnie du Nord de l'Espagne, qui a une
+corrélation si intime avec le chemin de Pampelune, évalue
+ses propres produits à 45,000 fr. par kil. Si ce chiffre est
+atteint par la Compagnie du Nord, il sera certainement
+dépassé par celle de Pampelune.
+
+
+VIII
+
+
+COMPAGNIE DES CHEMINS DE FER DU NORD
+
+
+DE L'ESPAGNE.
+
+
+La Compagnie des chemins de fer du Nord de l'Espagne,
+approuvée par décret royal du 18 décembre 1858, a été
+fondée par le Crédit mobilier espagnol, le Crédit mobilier
+français, la Société générale de Belgique, la Banque de
+Belgique, MM. Pereire frères, duc de Galliera, baron Seil-
+lière, Uribarren, B. Fould, Duclerc, duc d'Albe, etc. Elle
+est présidée par M. Calderon.
+
+
+Elle est constituée au capital de 100 millions de francs,
+divisés en 200,000 actions de 500 fr. ou 1,900 réaux. Elle
+peut émettre des obligations jusqu'à concurrence de son
+capital-actions souscrit.
+
+
+Les concessions qu'elle a acquises de la Société générale
+de Crédit mobilier espagnol se composent des lignes de Ma-
+
+
+26
+
+
+302
+
+
+HISTOIRE DE LA GUERRE
+
+
+drid à la frontière de France, à la Bidassoa, près d'Irun,
+et d'un embranchement sur Alar del Rey sur le chemin de
+Santander, le tout comprenant 729 kil. Elles sont faites
+pour 99 ans à partir de l'ouverture de chaque section.
+Cette ouverture aura lieu comme suit:
+
+
+En 1860: de San-Chidrian à Alar del Rey et au delà de
+
+
+|  |  |  |
+
+| --- | --- | --- |
+
+.
+
+
+.
+
+
+Les 150 millions à fournir par la compagnie, divisés
+entre les 729 kil. de son réseau, donnent une dépense
+moyenne de 205,761 fr. par kilomètre. La dépense totale
+est évaluée 206 millions de francs, qui sont complétés par
+une subvention du gouvernement de 56 millions de francs,
+représentant 76,800 fr. par kilomètre. Le kilomètre revient
+donc sur cette ligne à 282,800 fr. Mais il ne faut pas ou-
+blier qu'elle renferme 105 kil. d'une exécution très-diffi-
+cile, et qui ont à surmonter des obstacles de premier
+ordre, comme la traversée du Guadarrama et des Pyrénées.
+Les sections d'un travail ordinaire en voie d'achèvement ne
+dépasseront pas une dépense de 149,500 fr. par kilomètre,
+non compris les frais généraux d'administration et les in-
+térêts payés pendant la construction.
+
+
+Les produits probables de cette ligne sont évalués par
+la statistique à 45.000 fr. par kilomètre.
+
+
+|  |
+
+| --- |
+
+|  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+303
+
+
+IX
+
+
+COMPAGNIE GÉNÉRALE DE CRÉDIT EN ESPAGNE.
+
+
+Société anonyme autorisée par une loi des Cortès espa-
+gnoles de février 1856. Le Conseil d'administration est
+présidé par M. le marquis d'Alcanices. Son capital est
+de 399 millions de r. v., soit 105 millions, dont il a été
+émis 133 millions de r. v., soit 35 millions.
+
+
+Depuis sa création cette Société de Crédit a fondé :
+
+
+1º La Compagnie des chemins de fer de Séville à Xérès
+et de Puerto-Real à Cadix;
+
+
+2° La Compagnie d'assurances la Union, à Madrid;
+
+
+3° La Compagnie du chemin de fer de Reus à Mont-
+blanc;
+
+
+4º Une série d'usines à gaz, qui comprend six conces-
+sions, celles de Valladolid, Xérès, Alicante, Carthagène,
+Pampelune et Burgos;
+
+
+5º Une Société générale des escomptes, qui a établi des
+comptoirs à Madrid, Palma, Malaga, Tarragone, Grenade,
+Alicante, Badajoz et Valence.
+
+
+6° La Compagnie générale des Mines d'Espagne, qui
+possède six à sept grandes concessions de houille, plomb,
+argent et cuivre.
+
+
+SOCIÉTÉ ESPAGNOLE MERCANTILE ET INDUSTRIELLE
+DE MADRID.
+
+
+Cette Société a été fondée par décret du 18 janvier 1856.
+Les concessionnaires figurant au décret étaient:
+
+
+MM. le duc de Sevillano, José Manuel de Collado, A.
+G. Moreno, Weisweiller, Bauer, Ventura de la Cerraje-
+ria, Rodriguez, Salcedo, A. de Gaviria, E. de Urquijo,
+Rodrigo Soriano, Antolin de Udaeta, Fernandez Casa-
+riego, Antonio Alvarez, J. E. Moreno, Ramon Soriano y
+Pelago, Manuel Perez Hernandez, Tapia, Bayo, Josè de
+Ortueta.
+
+
+304
+
+
+HISTOIRE DE LA GUERRE
+
+
+Voici quelles sont les principales opérations de cette
+institution, telles que nous les trouvons dans l'article 4 des
+statuts:
+
+
+1º Souscrire et contracter des emprunts avec le gouver-
+nement, les corporations provinciales et municipales; ac-
+quérir des fonds publics et des actions ou obligations de
+toute espèce d'entreprises industrielles ou de crédit. La
+Société ne pourra pas, cependant, souscrire ou contracter
+des emprunts pour des nations étrangères, même avec
+l'autorisation du gouvernement. Elle ne pourra destiner à
+l'acquisition des fonds publics que la moitié du capital ef-
+fectif des actions de la Société.
+
+
+2º Fonder toute espèce d'entreprises de chemins de fer,
+canaux, mines, fabriques, darses, docks, éclairage, défri-
+chage, arrosement, dessèchement, et toute autre entre-
+prise commerciale, industrielle, ou d'utilité publique.
+
+
+3º Opérer la fusion et la transformation de toute espèce
+de sociétés commerciales, en se chargeant de l'émission
+des actions ou des obligations.
+
+
+4° Gérer, recouvrer ou affermer toute espèce de contri-
+butions ou d'entreprises de travaux publics, etc.
+
+
+5° Émettre des obligations de la Société, dont le total
+sera complétement couvert avec la valeur des fonds et
+effets existant dans ses caisses.
+
+
+6° Vendre ou donner en garantie toutes les valeurs, ac-
+tions ou obligations acquises par la Société, etc.; mais la
+Société ne pourra acheter ses propres actions, prêter sur
+elles ni les échanger contre d'autres valeurs. Elle ne pourra
+non plus acheter ni vendre des effets publics à terme, ni
+contre prime, se trouvant à découvert d'argent ou de pa-
+pier.
+
+
+7º Prêter sur des effets publics, sur des actions ou des
+obligations, sur des marchandises, fruits, récoltes, im-
+meubles, fabriques, navires et leurs chargements, ou sur
+d'autres valeurs, de même qu'ouvrir des crédits en compte
+courant sur garantie.
+
+
+8° Faire des recouvrements de toute espèce de payement
+pour le compte d'autres sociétés.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+305
+
+
+9º Recevoir en dépôt toute sorte de valeurs en papiers et
+en argent, etc., etc.
+
+
+Toutes ces opérations seront faites sur des entreprises
+indigènes, sur des fonds publics espagnols, sur des ac-
+tions ou obligations des sociétés légalement constituées
+dans la nation, et sur toute espèce de marchandises, va-
+leurs commerciales, ou sur des immeubles situés en Es-
+pagne.
+
+
+Le capital de la Société est de 304 millions de réaux,
+représentés par 160,000 actions de 1,900 réaux chacune.
+Voici la composition du Conseil d'administration à l'é-
+poque de la constitution de la Société :
+
+
+Président: M. Mon; Vice-Présidents: MM. le duc de
+Sevillado, don Josè-Manuel Collado.
+
+
+Membres:
+
+
+MM. A. G. Moreno, D. Weisweiller, J. Bauer, V. de
+Cerrajeria, H. Rodriguez, A. de Gaviria, E. de Urquijo,
+B. Soriano, A. de Udaeta, V. Bayo, J. J. de Casariego,
+Son Exc. A. Alvarez, R. Soriano y Pelayo, M. Perez Her-
+nandez, A. Bayo, J. Ortueta, Son Exc. M. Bermudez de
+Castro, A. A. Moreno.
+
+
+SOCIÉTÉ GÉNÉRALE DU CRÉDIT MOBILIER ESPAGNOL.
+
+
+Société anonyme autorisée par loi du 28 janvier et par
+
+
+ordonnance royale du 22 mars 1856.
+
+
+Capital social, 120,000,000 fr.
+
+
+1re émission,
+
+
+60,000,000 fr. divisés en 120,000 ac-
+
+
+tions de 500 francs chacune.
+
+
+Conseil d'administration. MM. J.-L. de Abaroa, duc
+
+
+d'Albe, A. Bixio, C. Calderon, E. Delessert, E. Duclerc,
+duc de Glucksbierg, J. de Olea, E. O'Shea, J. de Osma,
+Émile Pereire, Isaac Pereire, duc de Rivas.
+
+
+Directeur général, M. Wilhelm Wertheimber.
+
+
+Opérations de la Société. Aux termes des statuts, ces
+opérations sont les suivantes :
+
+
+26.
+
+
+306
+
+
+HISTOIRE DE LA GUERRE
+
+
+1° Souscrire ou contracter un emprunt avec le gouver-
+nement, les corporations provinciales ou municipales,
+acheter des actions ou obligations de toute espèce d'en-
+treprises industrielles ou de crédit.
+
+
+2° Souscrire ou contracter des emprunts avec les nations
+étrangères moyennant l'autorisation du gouvernement.
+
+
+3º Acheter des fonds publics au comptant ou à terme,
+sans pouvoir dépasser la moitié du capital effectif des ac-
+tions.
+
+
+4º Créer toutes sortes d'entreprises de chemins de fer,
+canaux, fabriques, mines, docks, éclairage, défriche-
+ments, irrigations, dessèchements, et toutes entreprises
+industrielles ou d'utilité publique.
+
+
+5° Se charger de la fusion ou transformation de toutes
+sociétés commerciales, et de l'émission de leurs actions
+ou obligations.
+
+
+6º Régir, percevoir ou affermer toutes contributions ou
+entreprises de travaux publics, et céder ou exécuter les
+marchés passés à cet effet avec l'approbation du gouver-
+nement.
+
+
+7° Émettre des obligations de la Société pour une somme
+égale à celle qui se trouvera employée et représentée par
+des valeurs en portefeuille, par suite des opérations énu-
+mérées aux paragraphes précédents du présent article.
+
+
+8° Vendre ou donner en garantie toutes les valeurs, ac-
+tions ou obligations acquises par la Société; les échanger,
+quand elle le jugera convenable.
+
+
+9º Prêter sur effets publics, actions ou obligations,
+marchandises, denrées, récoltes, immeubles, navires et
+leurs cargaisons et autres valeurs, et ouvrir des crédits en
+compte courant, en recevant en garantie des effets de
+même nature.
+
+
+Les prêts que la Société fera sur ses propres actions
+ne pourront dépasser 10 pour 100 du capital réalisé de
+la Société, ni 60 pour 100 de la valeur que ces actions
+auront sur la place, et ils ne pourront être faits pour plus
+de deux mois.
+
+
+10° Effectuer, pour le compte d'autres sociétés ou de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+307
+
+
+particuliers, tous payements et recouvrements, et faire
+toutes autres opérations pour le compte d'autrui.
+
+
+11° Recevoir en dépôt toutes sortes de valeurs métalli-
+ques ou en papier, et avoir des comptes courants avec
+toutes corporations, sociétés ou personnes.
+
+
+Historique. Cette Société a été constituée par un
+Comité de fondateurs composé de MM. Isaac Pereire,
+Emile Pereire, Benoît Fould, en son nom et en celui de
+la maison B. L. Fould et Fould-Oppeinheim, de Paris;
+Charles Mallet, Joseph-Louis de Abaroa, en son nom et
+comme représentant de la maison J. J. Uribarren et Cis,
+de Paris; Ernest André, Hippolyte-Guillaume Biesta, Gé-
+déon-Marc des Arts, Frédéric Grieninger, au nom de la
+maison J. P. Pescatore, de Paris; Charles-Auguste-Louis-
+Joseph comte de Morny, Florentin-Achille baron Seil-
+lière, Casimir Salvador, Auguste Thurneyssen, Henri
+Place, Alexandre Bixio, en son nom et en celui de M. Adol-
+phe d'Eichthal, et Son Exc. M. Henri O'Shea, chevalier,
+grand'croix de l'ordre américain d'Isabelle-la Catholique,
+banquier à Madrid. Bien que les actions de cette société
+ne fussent pas cotées à Paris, elles furent dès l'origine
+accueillies 'par le public avec une faveur qui en porta le
+cours à 650 fr. Les fondateurs avaient, par suite de cette
+hausse, réalisé, par la vente de leurs actions, un béné-
+fice de 2,700,000 fr., qu'ils ont en totalité abandonné à la
+Société.
+
+
+Depuis sa constitution, la Société a pris part, sur une
+large échelle, à la plupart des grandes entreprises de
+l'Espagne.
+
+
+Voici quelles ont ont été ses principales opérations:
+Souscription de 220,000,000 de réaux à l'emprunt du
+
+
+31 mai 1856.
+
+
+Soumission de la ligne de Valladolid à Burgos, de Bur-
+gos à Irun, et de Madrid à Valladolid (15 octobre 1856),
+et de l'embranchement de San-Isidoro, de Duenas à Alar
+del Rey.
+
+
+Participation à la reconstitution du chemin de fer de
+Cordoue à Séville.
+
+
+308
+
+
+HISTOIRE DE LA GUERRE
+
+
+Rachat de l'entreprise du gaz de Madrid.
+Acquisition des mines de l'Orbo et de Valderrueda, pou-
+vant produire 150,000 tonnes de houille par an.
+
+
+Constitution de la Compagnie du nord de l'Espagne
+(décembre 1858).
+
+
+Les dividendes répartis aux actions depuis l'origine
+jusqu'à ce jour, sur 150 fr. versés, ont été les suivants
+(les actions de la Société n'ayant été libérées de 200 fr.
+qu'en décembre 1859, cet accroissement de capital ne
+porte que sur l'exercice 1860):
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+Ensemble
+
+
+ou près de 50% du capital versé, et en moyenne 12%
+
+
+par an.
+
+
+CHEMINS DE FER ÉTUDIÉS PAR LE GOUVERNEMENT.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+309
+
+
+AUTORISATIONS POUR DES ÉTUDES DE CHEMINS DE FER
+ACCORDÉES AUX PARTICULIERS ET AUX COMPAGNIES
+DU 1 JANVIER AU 31 DÉCEMBRE 1859, EN VERTU DE
+L'ARTICLE 45 DE LA LOI DU 30 JUIN 1855.
+
+
+|  |  |
+
+| --- | --- |
+
+|  |  |
+
+|  |  |
+
+|  |  |
+
+310
+
+
+|  |  |
+
+| --- | --- |
+
+HISTOIRE DE LA GUERRE
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+311
+
+
+PROJETS DE CHEMINS DE FER PRÉSENTÉS PAR DES PAR-
+TICULIERS QUI AVAIENT OBTENU D'AVANCE LA PERMIS-
+SION POUR FAIRE LES ÉTUDES.
+
+
+|  |
+
+| --- |
+
+ÉTUDES DE CHEMINS DE FER PRÉSENTÉES AU GOUVERNE-
+MENT SANS AUTORISATION DE LES FAIRE.
+
+
+Soncorrostro à la rivière de
+Bilbao.
+
+
+Samuño à la paroisse de Ciaño.
+Mines de Valverde à Huelva.
+
+
+Guadajoz à Carmona.
+
+
+Mines de Pernia à Aguilar del
+Campo.
+
+
+Séville à Alcala de Guadairal.
+Barcelone à son port.
+
+
+CONCESSIONS FAITES JUSQU'A CE JOUR.
+
+
+|  |  |
+
+| --- | --- |
+
+312
+
+
+HISTOIRE DE LA GUERRE
+
+
+Arenys de Mar à Santa Co-, Alcazar de San-Juan à Ciudad-
+
+
+Martorell à Barcelone.
+
+
+loma.
+
+
+Reus à Tarragone.
+Montblanc à Reus.
+
+
+Madrid à Almansa.
+
+
+Almansa à Alicante.
+
+
+Castillejo à Tolède.
+
+
+Almansa à Jativa.
+
+
+Jativa al Grao de Valence.
+
+
+Real.
+
+
+Espiel et Belmez à las Ventas
+de Alcolea.
+
+
+Cordoue à Séville.
+
+
+Séville à Xérès.
+
+
+Xérès au Trocadero.
+
+
+Puerto Real à Cadix.
+
+
+Mines de Triano à la rivière de
+Bilbao.
+
+
+LIGNES QUE LE GOUVERNEMENT EST AUTORISÉ A ACCORDER
+
+
+Lerida à Montblanc.
+
+
+OU CÉDER.
+
+
+Utrillas à la Zaida, sur l'Ebre.
+Gargallo à Escatrou.
+
+
+Aranjuez aux Mines de Henare-
+jos.
+
+
+Madrid à Malpartida de Plasen-
+cia.
+
+
+Valence à Tarragone,
+
+
+Manzanares à Andujar.
+
+
+Palencia à la Coruna
+
+
+Andujar à Cordoue.
+Campillos à Grenade.
+
+
+Tharsis à la rive gauche de
+
+
+l'Odiel.
+
+
+Ciudad Real à Merida.
+
+
+Merida à Badajoz.
+Merida à Séville.
+
+
+Merida à Alconetar.
+
+
+Medina del Campo à Zamora.
+
+
+Palencia à Leon.
+
+
+Leon à Ponferrada.
+
+
+Ponferrada à Zuiroga.
+
+
+Zuiroga à Lugo.
+Lugo à la Coruna.
+
+
+Monforte à Orense y Vigo.
+Leon à Gijon.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+111
+
+
+CANAUX
+
+
+313
+
+
+Les voies navigables, qui ont en France une si
+grande importance, n'ont pas été oubliées non plus
+en Espagne.
+
+
+Des études nombreuses ont été autorisées pendant
+ces dernières années. Des autorisations ont été ac-
+cordées pour arrosement ainsi qu'aux établisse-
+ments industriels de toutes sortes.
+
+
+L'agriculture profitera dans de larges proportions
+des bienfaits de ces eaux fertilisantes dans un pays
+si complétement doué d'une richesse de sol pour
+ainsi dire incomparable.
+
+
+Les canaux navigables, d'une étendue de 700 kil.
+environ sont : le Guadalquivir, l'Aragon, l'Ebre, la
+Castille et le Manzanarès.
+
+
+Les principaux canaux en cours d'exécution, s'é-
+tendant sur plus de 250 kilomètres, sont : la Leo
+de Urgel, presque terminé; le canal de Tamarite,
+à Litera, et enfin le canal de Chiclana à Cadix.
+
+
+27
+
+
+314
+
+
+HISTOIRE DE LA GUERRE
+
+
+AUTORISATIONS ACCORDÉES
+
+
+Pour des Études de Canaux d'Irrigation de 1856
+jusqu'aux six premiers Mois de 1859.
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+DE L'ESPAGNE AVEC LE MAROC
+
+
+PROVINCES.
+
+
+CLASSES
+des
+
+
+EAUX QUI S'UTILISENT.
+
+
+DISTRICTS
+
+
+ARROSABLES.
+
+
+315
+
+
+DATES
+des
+CONCES-
+SIONS.
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+1858.
+
+
+1859.
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+316
+
+
+HISTOIRE DE LA GUERRE
+
+
+AUTORISATIONS
+
+
+Accordées, de 1857 au 30 juin 1859, pour profiter des Eaux
+
+
+pour Arrosements.
+
+
+|  |  |  |  |
+
+| --- | --- | --- | --- |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+|  |  |  |  |
+
+ÉTABLISSEMENTS INDUSTRIELS
+
+
+Autorisés, de 1857 au 30 juin 1859.
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+317
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+Barcelone 27 janv.
+
+
+27.
+
+
+318
+
+
+HISTOIRE DE LA GUERRE
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+|  |  |  |  |  |
+
+| --- | --- | --- | --- | --- |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+|  |  |  |  |  |
+
+319
+
+
+FIN.
+
+
+ANNEXES
+
+
+ANNEXES A L'HISTOIRE
+
+
+DE LA
+
+
+GUERRE DE L'ESPAGNE
+
+
+AVEC LE MAROC
+
+
+I. PIÈCES ET DOCUMENTS RELATIFS AU DÉPART DE LA
+REINE CHRISTINE.
+
+
+Ire PIÈCE. Circulaire du 27 août 1854.
+
+
+La nécessité chaque jour plus impérieuse que, d'une part, la
+reine mère dona Maria-Cristina de Bourbon ne continue pas de ré-
+sider dans les États espagnols, et que, d'autre part, on assume les
+responsabilités auxquelles aura pu donner lieu sa conduite en quelque
+temps que ce soit, a forcé le conseil des ministres à méditer avec la
+maturité voulue la solution à donner à une question dans laquelle se
+trouvent mêlés les intérêts nationaux et la dignité de la dynastie.
+Après avoir bien examiné et pesé ces considérations, le conseil des
+ministres a décidé
+
+
+1º Que le payement de la pension octroyée à la reine mère par
+les Cortès de 1845 sera suspendu jusqu'à ce qu'une nouvelle décision
+des Cortès constituantes arrête ce qu'il appartiendra en cette ma-
+tière.
+
+
+2° Que l'on détiendra et mettra en sûreté tous les biens apparte-
+nant à ladite dame et à sa famille en Espagne, jusqu'à ce que la
+susdite décision ait été rendue, et dans le but de répondre de toutes
+les charges quelconques qui seront fixées et réglées dans lesdites
+Cortès.
+
+
+Et 3º que ladite dame, accompagnée de sa famille, devra sortir
+immédiatement du royaume, où elle ne rentrera pas, attendant éga-
+lement la résolution des Cortès sur sa résidence future.
+
+
+324
+
+
+HISTOIRE DE LA GUERRE
+
+
+Nous vous faisons part de cette résolution, afin que vous la fas-
+siez connaître et que vous concourriez, au besoin, à son accomplisse-
+ment et exécution.
+
+
+Dieu vous garde longues années.
+
+
+Le président du conseil des ministres, duc DE LA VICTOIRE;
+le ministre des affaires étrangères, JOAQUIN-FRANCISCO
+PACHECO; le ministre de la guerre, LÉOPOLDO O'DONNELL;
+le ministre de grâce et de justice, JOSE-ALONZO; le minis-
+tre des finances, JOSE-MANUEL DE COLLADO; le ministre de
+la marine, JOSE-ALLENDE DE SALAZAR le ministre de l'in-
+térieur, FRANCISCO SANTA-CRUZ; le ministre de fomento,
+FRANCISCO DE LUJAN.
+
+
+Madrid, 27 août 1854.
+
+
+A monsieur le gouverneur de la province de....
+
+
+2º PIÈCE. Circulaire du Sous-Secrétaire d'État,
+
+
+En exécution de la disposition de l'article 2 de la circulaire en
+date d'aujourd'hui, je vous mande et ordonne, conformément à ce
+qui a été décidé par le conseil des ministres, de procéder immédiate-
+ment à la détention de tous les biens appartenant à la reine mère
+dona Maria-Cristina de Bourbon et sa famille qui se trouveront dans
+votre province, les confiant à des personnes qui offriront toutes garan-
+ties, avec les formalités de rigueur, et vous adresserez au ministère
+copie en due forme authentique des inventaires qui devront être
+dressés. Vous aurez soin de me tenir au courant, par la poste, de tout
+ce que vous ferez et pratiquerez pour exécuter cette disposition,
+comme aussi vous porterez à ma connaissance si dans votre province
+il n'existe pas de biens appartenant à ladite dame.
+
+
+Dieu vous garde de longues années!
+
+
+Madrid, 27 août 1854.
+
+
+Signé: SANTA-CRUZ.
+
+
+A monsieur le gouverneur de la province de...
+
+
+3. PIÈCE Lettre de la reine Christine à S. M. C. la reine
+Isabelle II.
+
+
+Monte-Mor (Portugal), 8 septembre 1854.
+
+
+Ma très-chère fille,
+
+
+Mes lettres, dans d'autres occasions d'absence, se sont bornées à te
+porter le souvenir de mon invariable tendresse. La présente a, sans
+doute, le même but, mais elle ne l'a plus seul; elle en poursuit en
+même temps un autre de très-grande importance. Dès mes premiers
+pas sur une terre étrangère, j'ai voulu, sans attendre le terme de mon
+voyage, diriger vers toi, pour que toi et le pays les entendiez, les pre-
+miers accents de plainte profonde et de noble indignation qu'a soulevés
+dans mon âme l'injustice dont je me vois l'objet public et général, et
+qui, alimentée pendant ces deux derniers mois par les violentes pas-
+sions politiques, en est arrivée à recevoir une forme officielle, une
+forme solennelle, dans la déclaration du 27 août dernier, par laquelle
+le conseil des ministres m'exile du royaume.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+325
+
+
+Je pus, un jour, en déposant la régence, m'adresser aux Espagnols
+par un manifeste. Aujourd'hui, des raisons de délicatesse me font ju-
+ger préférable le moyen de cette lettre que je t'adresse, et que je
+compte d'ailleurs rendre publique, de mon côté. Ainsi se concilieront
+les exigences de la politique et les droits que m'a conférés l'offense.
+
+
+Et, qu'on n'aille pas le croire, je ne me propose pas encore de re-
+pousser les impostures auxquelles je suis en butte. Le jour où je pour-
+rai le faire viendra, et, par bonheur, ce jour s'approche. Ce que je
+veux aujourdhui, c'est demander au pays que tu gouvernes, non
+point aux hommes de passion, dont la raison ne saurait dominer les
+haines, mais au pays tout entier, qu'il suspende son jugement par
+respect pour la justice à laquelle j'ai droit, par respect pour lui-même.
+Ce que je veux, c'est apprendre à mes ennemis qu'ils n'ont plus
+à compter désormais sur la résignation de mon silence, qui leur fut
+jusqu'à présent si commode, bien que je sois résolue à ne le rompre
+que dans des occasions digues et solennelles. Ce que je veux, fille ché-
+rie qui commenças à régner quand régner é ait devenu si difficile,
+c'est te mettre en garde contre les inspirations de ta filiale tendresse,
+et t'empêcher d'employer ton influne surts ministres d'aujourd'hui
+ou sur tes ministres de demain, pour éviter ou retarder ces accusa-
+tions qui semblent m'atteindre. Non, ma fille, ne me réduis pas à
+l'extrémité de trouver offe sant ton amour pour moi. Certaines gens
+pourraient croire que l'on pardonne ta mère, et ta mère n'a pas be-
+soin de pardon; elle n'a besoin que de justice.
+
+
+Dans un malheur, bien envisagé, tout n'est pas malheur, et celui
+qui m'atteint en ce jour vient me le prouver. Tant que mes ennemis
+m'ont calomnié par les moyens vulgaires, triomphant lachement de
+ce que mon nom de reine, sans ar êter leurs atta us, enchaînait ma
+défense, il y avait de la dignité dans mon sitence il y avait du patrio-
+tisme; mais aujourd'hui que, parun concours étrange de circonstances,
+le pouvoir est tombé aux mains d'un ministère qui n'a pas reculé de-
+vant la signature de cet acte du 27 août, auquel de vulgaires rumeurs
+ont dû leur première consistance officielle, je ne puis plus garder ce
+silence l'honneur me le défend. La disgrâce m'aura donc valu, tout
+au moins, ce grand bien, de rendre aujourd'hui possible ma justifica-
+tion qui, dans les jours tranquilles, n'était ni possible ni prudente. Je
+t'en prie donc de nouveau, ma fille, parce que je le désire, parce que
+j'en ai besoin laisse ton gouvernement formuler ces accusations. Que
+rien ne l'amène à se désister de ses résolutions. Sinon de toutes les im-
+putations, du moins de la plupart, tu sais, comme moi, quelle est la
+fausseté. Domine donc ton cœur; ne t'effraye pas des apparences, et
+ne va pas, pour ménager à ta renommée les honneurs de la clémence,
+offenser la mienne dans ce qui vaut bien plus que la clémence. Ef-
+force-toi, si tu le peux, d'être envers moi sévère comme Reine, et sois
+sûre que jamais tu ne m'auras denné de plus grande preuve de ta
+tendresse comme fille.
+
+
+Mais, pour t'encourager à suivre mes conseils, à accueillir ma
+prière, je veux, moi qui appris, dans les orages de ma vie politique,
+à étudier avec beaucoup de soin, à scruter froidement bien plutôt
+ce qui me déplaît que ce qui me flatre moi qui te dois la vérité,
+la vérité tout entière, comme on la doit à une reine, comme on
+la doit à une fille; je veux, di-je, des endre jusqu'à la tâche ingrate
+d'analyser sous tes yeux ma disgrâce actuelle, et, sans rien cacher ni
+atténuer de ce concert de haines qui a éclaté contre moi, m'en dé-
+fendre, pour aujourd'hui, par une simple exposition sommaire de leur
+origine et de leurs fins. Mon amour-propre n'aura point à en souf-
+
+
+28
+
+
+326
+
+
+HISTOIRE DE LA GUERRE
+
+
+frir. Dans les temps où nous vivons, l'amour-propre de ceux qui ont à
+figurer dans le gouvernement ou dans l'histoire ne doit pas chercher
+servilement à éviter la haine des partis. Il doit s'appliquer à ne la
+point mériter, et je ne l'ai point méritéc moi ma conscience me l'as-
+sure.
+
+
+Il fut un temps, ma fille, à la mort de ton père, où une querelle dy-
+nastiqne ayant été soulevée, je dus, régente du royaume, soutenir la
+guerre qui sauva ton trône et dota l'Espagne d'institutions libérales.
+Toi au berceau, moi au pouvoir, ton enfance te mettait à l'abri des
+haines du carlisme Pour toi était le trône pour moi fut, pour moi
+devait être la haine des partisans de cette cause aujourd'hui vaincue.
+Cette haine, plus ou moins occulte, vit encore, elle vivra: elle est
+inextinguible.
+
+
+Les phases mêmes de cette guerre, dans laquelle on se battait à la
+fois pour des personnes et pour des principes, et qui régénérait po-
+litiquement le pays, firent naître, au sein du parti libéral le plus
+avancé, des prétentions révolutionnaires auxquelles je devais, comme
+régente, résister par la légalité. Ce parti, me traitant dès lors avec
+une injustice notoire, me retira ses affections et sa gratitude et me
+tint tout d'abord pour son ennemie irréconciliable.
+
+
+Le parti libéral, plus tempéré dans ses doctrines et dans ses aspira-
+tions, semblait devoir être celui qui se garderait d'imiter les deux
+autres dans leur injuste animadversion contre moi. Mais ses princi-
+paux hommes politiques ayant été divisés, dans ces dernières années,
+par plusieurs nuances et par la diversité de vues qui s'ensuivait, les
+uns se plaignant de ce que je ne soutenais pas le pouvoir dans leurs
+mains, les autres de ce que je ne le leur procurais pas, sans que ja-
+mais les uns ni les autres aient voulu croire que, après avoir ter-
+ininé mon œuvre politique de la régence, je ne pouvais donner mon
+concours actif à aucune autre, les rênes de l'État étant dans tes mains
+et ton mariage étant accompli, ce parti lui-même, sous l'influence de
+causes si diverses et même si opposées, finit par tomber, lui aussi,
+dans l'injustice avec laquelle j'étais traitée par les autres.
+
+
+Est-il besoin d'expliquer comment chacun de ces partis, chacune de
+leurs fractions, en me retirant ses sympathies, a successivement affai-
+bli l'ancien prestige dont je jouissais et contribué à me nuire? Cela se
+comprend de reste; et ce qui se comprend bien mieux encore, c'est ce
+que tous ces partis réunis ont pu obtenir en dernier lieu contre moi.
+Dans des moments où sont devenues faciles les coalitions de principes
+opposés, il est clair que nulle coalition n'a dû être plus facile que
+celle de haines communes, attachées uniquement à démolir et n'ayant
+rien à reconstruire.
+
+
+Ceci pourrait toutefois te porter à penser qu'il n'y a eu, dans la
+question dont il s'agit, que le triomphe de plusieurs vengeances. Non,
+ma fille. Les partis politiques ne sont pas aussi vindicatifs qu'on le
+croit. Il est rare qu'ils se vengent pour se venger seulement; ils se
+vengent lorsque, en même temps que leur vengeance, ils satisfont des
+vues ultérieures et aplanissent l'avenir à leurs fins. Or, les fins de
+mes détracteurs sautent aux yeux. Il faut être aveugle, en effet, pour
+ne pas voir que le parti carliste retrouve dans la division du parti li-
+béral l'espoir d'une résurrection qui lui fut impossible il y a quelques
+années, et que la disgrâce de ta mère est en même temps une savou-
+reuse vengeance pour lui et un élément d'affaiblissement pour cette
+partie de notre famille qui t'est restée loyalement fidèle. Il faut être
+aveugle pour ne pas voir que ceux des vainqueurs de juillet qui déjà
+sont vaincus à leur tour, qui, par centaines, peuplent en ce moment
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+327
+
+
+les prisons, qui s'appellent, qui sont en effet un parti, impuissant
+jusqu'ici, comme le sont tous les partis à leur naissance, ont été heu-
+reux de pouvoir en juillet souiller mon nom sur la place publique,
+quand, en août, ils devaient crier publiquement contre la dynastie,
+contre le trône, et présenter au gouvernement une sérieuse bataille.
+Il faut être aveugle pour ne pas voir que bien des hommes du parti qui
+venait d'exercer pendant tant d'années le pouvoir, trouvaient à leur
+convenance, pour se purifier de leurs propres fautes et se faire ad-
+mettre au banquet de la victoire de Madrid, d'accorder avec empres-
+sement, comme gage d'union, le sacrifice de celle qui, aux yeux du
+vulgaire, passait pour leur appui, et avait même un jour passé pour
+leur idole. Quand tant de ressentiments, tant d'intérêts se sont à l'envi
+conjurés à mon encontre, pourrais-je bien bien m'étonner de ma dis-
+grâce?
+
+
+Cette vengeance intéressée des partis, il ne suffisait pas de la dési-
+pour l'obtenir. Aussi, tandis que quelques hommes importants fai-
+saient usage contre moi d'accusations gravement injustes mais par eux
+supposées sincères, d'autres, la plupart entièrement dépourvus de
+moyens d'attaque, mais pleins de passion, eurent recours à la calom-
+nie, comme, dans son dépit, le fait d'ordinaire la plèbe de tous les
+partis. Mais la calomnie politique ne se prête pas aussi facilement que
+d'autres à l'expansion, et il fallait en imaginer de tous les genres, à
+la portée de l'intelligence de toutes les classes, pour égarer la multi-
+tude et envenimer ses idées contre ta mère. On imagina donc sur mon
+compte des calomnies pour t'indisposer contre moi, des calomnies
+pour alarmer les ministres, des calomnies pour irriter toutes les oppo-
+sitions, des calomnies pour le journalisme, des calomnies pour les
+salons, des calomnies pour la place publique, des calomnies, enfin,
+pour le peuple, simple et bon. Leur nombre et leur absurdité révé-
+laient l'existence d'un plan qui a fini par porter ses fruits. Mais il
+n'était pas à la portée de tout le monde de s'en apercevoir. Moi-
+même contre qui elles étaient dirigées, je n'ai jamais pu m'en irriter
+à l'égard de ces braves gens honnêtes et ignorants qui n'entendent
+rien en politique, mais qui s'en mêlent; qui ne savent qu'aimer
+beaucoup et beaucoup hair: qui s'enthousiasment dans la haine
+comme dans le dévouement qui personnifient toutes les fautes
+des partis ou tous les malheurs des gouvernements; qui haïssent, s'il
+est permis de le dire, par probité, et qui m'ont retiré leur estime uni-
+quement parce qu'ils ont avec légèreté donné créance à quelque vile
+calomnie lancée contre moi, contre moi qui, pourtant, ne leur rends
+point haine pour haine, et ne puis que prendre en pitié leur simplicité
+et gémir de leur erreur.
+
+
+Mais si les hommes qui dans divers partis calculent et passionnent
+leurs attaques ont agi de la sorte; s'ils sont ainsi parvenus à égarer de
+pauvres gens, il n'en est, il n'en saurait être de même de l'opinion
+qui reste sans nul doute à la partie saine de tous les partis, car je ne
+veux offenser aucun de ces partis dans son ensemble, et cette partie
+saine sait encore au besoin suspendre son jugement elle écoute les
+inspirations du cœur elle fait toute distinction entre la faute et
+l'erreur ou la calomnie, et voit avec étonnement, avec indignation, trai-
+ter aujourd'hui comme on la traite la mère de la Reine. S'il en était
+autrement, mon malheur serait plus grand que je ne l'ai pu croire, car
+c'en serait un bien grand, pour quelqu'un qui aime l'Espagne comme
+je l'aime, d'en venir à croire que toute noblesse est bannie de ce
+noble pays.
+
+
+Il n'y a donc aucune nécessité de juger ici l'acte du 27 août, en
+
+
+328
+
+
+HISTOIRE DE LA GUERRE
+
+
+vertu duquel je suis sortie du royaume; il n'y a qu'à jeter les yeux
+sur son fond et sur sa forme. J'avais eu d'abord l'idée de protester
+contre cet acte, ou, du moins, contre celles de ses dispositions ou de
+ses paroles qui touchent à mon honneur; mais j'y ai renoncé, ou plu-
+tốt j'en ai été dispersée par ton gouvernement, quand, le jour même
+où il publiait officiellement cet acte, il est venu décarer, dans une
+réunion d'autorites, que, en prenant la résolution qu'il avait prise, il
+avait sauté par-dessus les lois, et que cette résolution était purement
+et simplement une me-ure révolutionnaire. Dès lors, à quoi bon pro-
+npro-
+tester? On conçoit une protestation contre ure legalité contestable et
+contestée, mais non contre une illégalité sur le caractère de laquelle
+il y a commun accord entre qui l'a commise et qui l'a subie.
+
+
+Et regarde, ma fille, combien ma position est singulière. Tolérée et
+plus que tolérée, à Madrid, une réunion célèbre, qui s'était spéciale-
+ment con-acrée à empoisonner 1 opinion sur tout ce qui touchait à ma
+personne, et qui, à ce qu'il paraît. était tenue par le gouvernement
+pour puissante et redoutable jusqu'au jour où mon sacrifice a été
+consommé, jour auquel, par bonheur, elle a pu être dissoute, quelques
+personnes ont pensé à ce moment que la déclaration du 27 août, tout
+injuste qu'elle fût, état encore le seul moyen de m'arracher à des
+risques plus grands. Avoue, fille bien aimée, que c'est une situation
+bien triste pour moi, qui ne veux être ingrate en rien ni envers per-
+sonne, que d'avoir, pour cela, à reconnaître comme une faveur l'injus-
+tice et l'outrage.
+
+
+Viennent donc les accusations; qu'on se livre à la laborieuse trans-
+formation des calomnies en griefs. Il faut des griefs nettement articu-
+lés, non plus des phrases cruelles par leur gravité, mais vagues à ce
+point, qu'elles restent insaisissables pour la défense qu'on n'aille
+pas faire de ceci un jugement qui se puisse affranchir de toute raison
+par cela seul qu'on l'aura appelé révolutionnaire, comme s'est appelé
+l'acte du mois d'août.
+
+
+Ce n'est point ici le lieu de la réfutation qui attend les accusations;
+j'ai pourtant quelque chose à en dire. Je ne parlerąi certes pas de ces
+faussetés dont l'impie absurdité est telle qu'on ne les saurait proférer
+sans souillure. Je ne puis y toucher ici, à cette heure. Qu'on en fasse
+sortir, si on le peut, une accusation saisissable, et l'on verra que, à
+son jour, elle aura au si sa réponse
+
+
+Parmi les imputations auxquelles il a été donné crédit avec le plus
+de ténacité, il en est de bien capitales, dont, par une heureuse com-
+pensation, tu sais aussi bien que moi la fausseté. Oui, par bonheur
+pour moi, il est de leur essence même que je ne la puisse connaître
+mieux que toi. Tu pourras par là juger de la vérité de bien d'autres.
+Ainsi, mon influence sur toi est une de ces accusations redoutables.
+M'accuser de cela en termes généraux, ce serait nous accuser, moi,
+d'être mère; toi, d'être fille; ce serait nous accuser de notre tendresse
+mutuelle Aussi, a-t-on imaginé d'ajouter que j'avais usé de cette in-
+fluence pour peser sur tes vues politique, sur le système de gouver-
+nement et sur le choix des gouvernants. A moi toute influence dans ces
+derniers temps, selon mes aveugles adversaires; à moi le gouverne-
+ment, à moi les ministres, à moi les fautes, à moi les malheurs; tout
+était à moi, hormis toutefois les succès et les gloires. C'est me con-
+naître bien mal que d'y croire; c'est connaître plus mal encore les si-
+tuations politiques qui se sont produites.
+
+
+Mon ambition, si j'eusse été ambitieuse, aurait été plus que satis-
+faite par l'exercice, non sans gloire, du pouvoir qui mit fin à la guerre
+dynastique. Cette période écoulée, la paix obtenue, de puissants partis
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+329
+
+
+constitués dans la légalité, les institutions représentatives fonctionnant
+librement, et, surtout, ton mariage accomoli, ayant, en même temps,
+satisfait un vœu du pays et placé à tes côtés une influence si naturelle
+et si légitime, il était de mon intérêt personnel de ne plus compro-
+mettre mon nom et de me retirer tout à fait des luttes politiques Telle
+fut, en effet, ma résolution. Si quelquefois, bien rarement je m'en suis
+écartée, ce n'a jamais été que lorscue ton bien et celui du pays l'ont
+évidemment voulu, lorsqu'il a été de mon devoir de céder à tes instan-
+ces. Mais tu sais que l'abstention a toujours été dans mes vœux, a tou-
+jours été la règle de ma conduite habituelle. Je n'ai pas pu la pousser
+jusqu'au point de m'éloigner de toi j'étais retenue pa ta tendresse;
+j'étais retenue par les messages et par les ambassades que toi et
+ton gouvernement m'aviez envoyés en 1843 et en 1847 pour me rap-
+peler à Madrid; j'étais retenue par mon amour pour l'Espagne; j'étais
+retenue enfin par la croyance, dans laquelle j'étais, que jamais les
+partis libéraux, quelles que fussent les circonstances, ne laisseraient
+inscrire dans leurs annales, pour l'ancienne régente de 1834, des
+nuits comme celle du 17 juillet, des jours comme celui du 28 août.
+Ç'a été là sans doute une grande erreur de ma part; pourtant, je ne
+puis encore la regretter, parce que je ne sus jamais regretter les mé-
+comptes de la générosité. Mais tu sais bien, toi, quoique le pays ne
+le sache pas et se refuse à le croire, tu sais bien que, dans les der-
+nières années, je ne t'ai point conseillé, comme on le pense, et que
+je t'ai bien moins encore imposé des ministres; tu sais bien que,
+malgré tout ce que mon inébranlable propos d'abstention avait de
+pénible dans l'intimité, j'ai souvent été jusqu'à me refuser aux plus
+simples conversations politiques avec toi. Ceci, dans l'état actuel
+des passions, va paraître incroyable à bien des gens, sinon à tout
+le monde. Un préjugé universel, insurmontable, porte les peuples à
+admettre comme certain, comme indubitable, ce qui est tout au plus
+vraisemblable. Il n'y a pas moyen de leur apprendre, même après la
+leçon des événements contemporains qui le proclament si haut, que
+plus de la moitié de l'histoire repose sur des faits entièrement in-
+vraisemblables, entièrement improbables avant leur accomplisse-
+ment.
+
+
+Toi, qui me connais, tu ne croiras pas, mais mes ennemis pour-
+ront croire, quand je m'exprime ainsi, que, voyant vaincue la longue
+phase politique qui vient de s'écouler, je m'empresse de la désavouer
+lâchement. Non, je suis, par bonheur, incapable d'un acte aussi indi-
+gne, et plutôt que de donner prise à un pareil soupçon, j'aurai le cou-
+rage, malgré les graves inconvénients qu'il peut y avoir pour moi, de
+dire ici, et dès à présent, ce que je pense de cette période des onze
+dernières années. Avec ses erreurs et ses fautes, collectives ou indivi-
+dueales, ses insuccès et ses revers, que personne ne doit regretter plus
+que moi, puisque c'est en moi que les diverses accusations des diffé-
+rents partis cherchent à la personnifier tout entière; cette période,
+malgré tout, par son œuvre de réorganisation générale, par sa paix
+profonde, qui consista bien moins dans l'ordre matériel de la place
+publique que dans le calme des esprits, dans leur confianee en 'ave-
+nir, dans la croyance devenue commune, que toutes les oppositions
+s'étaient résignées à rester dans la légalité, cette période est, à coup
+sûr, la face politique la plus importante, de plus longue durée, et non
+la moins prospère, qui ait été donnée à l'Espagne depuis le commence-
+ment de ce siecle. Cette périod, avec un peu plus de prudence chez
+quelques-uns, un peu moins d'impatience chez d'autres, paraissait
+appelée à clore enfin l'ère des discordes stériles. Avec le courage de
+
+
+28.
+
+
+330
+
+
+HISTOIRE DE LA GUERRE
+
+
+la juger ainsi, au milieu des clameurs de tant de passions, je ne sau-
+rais tomber dans la lâcheté qu'il y aurait à la désavouer en ce qui
+peut m'en appartenir, en ce que l'histoire pourra un jour m'en attri-
+buer.
+
+
+Mais il est une autre accusation, étroitement liée à celle dont je
+viens de parler, et à laquelle je suis pressée de répondre, parce qu'elle
+a été formulée avec le plus de solennité dans une réunion populaire:
+c'est celle qui m'impute d'avoir usé de mon influence sur toi pour at-
+taquer l'existence des institutions libérales. Non, mille fois non. Pré-
+cisément ç'a 'a toujours été là, dans la sphère des conseils, une excep-
+ton à mon ferme propos d'abstention. Tu sais que la conservation de
+ces institutions, qui, au demeurant, n'était que la conservation de
+mon nom historique, n'a jamais cessé d'être mon vœu le plus ardent.
+Tu sais combien de fois je t'ai répété, en toute occasion, dès ton en-
+fance, que ta fidélité à la forme représentative et à la Constitution de
+l'État était pour toi un devoir sacré, était d'une convenance suprême,
+était une question de gratitude, et serait même de l'égoïsme s'il était
+permis aux rois de comprendre ce mot. J'ai toujours dit et cru ferme-
+ment que, cu égard au caractère national, la nouveauté, si elle est
+ailleurs un mérite, est un défaut en Espagne, et que, par cela même,
+l'Espagne, bien plutôt que d'une Constitution parfaite, avait besoin
+d'une Constitution qui commençât à se faire vieille pour que tout le
+monde la pût respecter, Tels étaient mes conseils. Telle était hier
+mon opinion, à Madrid comme à l'étranger; elle est encore telle au-
+jourd'hui, car, quelles que soient les offenses dont j'ai eu à souffrir, je
+ne me vengerai jamais sur les doctrines des fautes ou de l'ingrati-
+tude de leurs partisans. Leur injustice n'autoriserait pas la mienne.
+
+
+Qui l'eût dit, fille chérie? J'ai emporté dans l'exil une satisfaction;
+elle n'est pas seule au milieu des peines qui y sont mêlées. On ne
+saurait le croire à première vue. Il est une inconséquence dans la-
+quelle tombent les partis libéraux. Après avoir proclamé dans les jours
+tranquilles l'irresponsabilité des rois comme principe fondamental, ils
+l'oublient aux jours de révolution, et cherchent à faire éprouver aux
+rois aussi leurs colères. La révolution de juillet, comme elle se conso-
+lait à s'appeler elle-même, la révolution de juillet, après avoir demandé
+la responsabilité des ministres, a levé plus haut les yeux, cherchant,
+pour une expiation terrible, une personne dynastique. Elle t'a respec-
+tée, par bonheur, comme elle le devait. C'est moi qu'elle a vouée à ce
+sacrifice politique. Soit. Si, un jour, l'attachement des Espagnols
+m'aida à sauver ton trône, aujourd'hui l'animadversion de partis aveu-
+gles aura servi à me le faire sauver encore. Je l'aurai, de la sorte,
+sauvé deux fois, et l'humiliation que je subis comme reine et comme
+femme aura du moins trouvé cette intime compensation dans mes sen-
+timents de mère. Au surplus, ma recommandation la plus sincère est
+que tu oublies les injures faites à ta mère. Avant tout, tu es reine, et
+tu te dois à tous les partis constitutionnels, au pays tout entier. La
+vengeance, même par amour filial, est moins noble pour les rois que
+pour personne, par cela même que le pouvoir la leur rend facile.
+
+
+Je désire, j'appelle les accusations. Sois sans crainte, ma fille. A la
+hauteur qu'elles ont atteinte, au tour qu'elles ont pris, il y a de la di-
+gnité à les provoquer; il n'y en aurait plus à les éluder. Je ne sais si,
+pendant ma régence, j'ai illustré le glorieux nom que je tiens de mes
+aïeux; mais ce que m'affirme ma conscience, aujourd'hui plus tran-
+quille que jamais, c'est que je ne l'ai jamais taché des torts qu'osent
+m'imputer mes détracteurs. En me défendant, je défendrai mon hon-
+neur; en me défendant, je défendrai ton propre nom dynastique; en
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+331
+
+
+me défendant, je défendrai la dignité de l'histoire contemporaine du
+pays que tu gouvernes. Je ferai voir à ceux qui me calomnient sans
+s'apercevoir qu'en souillant mon nom ils souillent en même temps
+l'histoire de la renaissance du libéralisme espagnol aux jours mémo-
+rables de 1834, alors qu'il trouvait en moi le premier allié qui lui fût
+venu de ce trône que tu occupes, je leur ferai voir que, en purifiant
+son propre nom, et purifiant l'histoire du pays, celle qu'ils appellent
+si durement aujourd'hui l'étrangère, s'est montrée plus espagnole que
+bien des Espagnols.
+
+
+Les calomnies tomberont je compte pour cela sur la justice de ma
+cause, sur le pouvoir de l'absence, sur l'œuvre du temps; je compte
+surtout sur la Providence. Non, Dieu ne voudra pas que ces calom-
+nies passent à l'histoire comme des vérités, et qu'elles y soient immor-
+telles comme les gloires.
+
+
+Adieu, ma fille. Mes souvenirs et ma tendresse te resteront en
+quelque lieu que je me trouve, et partout je prierai Dieu de te con-
+server en sa sainte garde.
+
+
+MARIE-CHRISTINE.
+
+
+II. PIÈCES ET DOCUMENTS RELATIFS A LA GUERRE
+DU MAROC.
+
+
+1re PIÈCE. Ultimatum de l'Espagne à l'Empereur du
+Maroc.
+
+
+Louanges au Tout-Puissant.
+
+
+A mon ami, l'illustre Seid-Mohamed-Khateel, ministre, etc., etc.
+Que la paix et l'aide de Dieu soient avec vous.
+
+
+Avant la réception de votre note du 13 de ce mois, les difficultés
+qui s'opposaient à la complète satisfaction des outrages exercés sur le
+pavillon espagnol dans le voisinage de Ceuta ayant été aplanies, le
+gouvernement de la reine, mon auguste souveraine, m'ordonne de
+vous dire que la satisfaction demandée doit avoir son effet sans perte
+de temps et de la manière suivante :
+
+
+1º Le chef des troupes maures, qui devait être le bey ou le gouver-
+neur de la province, replacera de ses propres mains les armes d'Espa-
+gne dans la même position qu'elles occupaient alors qu'elles furent ar-
+rachées par les vandales d'Auggerat, et elles seront saluées par ses
+soldats.
+
+
+2º Ceux qui furent les promoteurs réels de cette sauvage attaque
+subiront les dernières rigueurs de la loi, en présence de la garnison
+espagnole de la place sus-mentionnée.
+
+
+L'une et l'autre de ces demandes seront immédiatement exécutées.
+3º Le gouverneur maure nommera deux ingénieurs qui, conjointe-
+ment avec deux ingénieurs espagnols, détermineront le lieu le plus
+convenable pour la nouvelle ligne de frontières, et il est bien entendu
+que la base de la nouvelle délimitation des frontières sera la Sierra
+Bullonès.
+
+
+Le gouvernement espagnol ne considérera pas comme complète la sa-
+tisfaction qu'il a l'incontestable droit d'exiger, et que vous avez pro-
+mise au nom de votre gouvernement, si toutes ces mesures ne reçoi-
+vent pas leur exécution dans le plus bref délai possible.
+
+
+Jusque-là, l'Espagne continuera ses armements, et je vous préviens
+
+
+332
+
+
+HISTOIRE DE LA GUERRE
+
+
+que le moindre retard apporté par vous à l'exécution de ma demande
+sera le sinal du commencement des hostilités et, conséquemment, de
+la rupture des relations amicales entre les deux pays.
+
+
+Le gouvernement de la Reine, ma souveraine, espère que le gou-
+vernement du Sultan ne provoquera pas une si grave éventualité, et
+que des conséquences si désastreuses seront évisées.
+
+
+J'attends votre réponse qui doit être aussi claire, aussi explicite que
+l'exige un tel sujet, et je vous avertis que je n'admettrai pas la
+moindre observation en opposition aux justes désirs de mon gouver-
+ment.
+
+
+Au point où les choses en sont venues, il ne vous reste d'autre parti
+à adopter que d'accepter, sans aucun délai, toutes les conditions que
+nous avons arrêtées, pour donner à la nation espagnole la satisfac-
+tion qui lui est due, sinon la guerre. Choisissez.
+
+
+Tanger, 16 octobre 1859.
+
+
+Signé: J. B. DEL VALLE.
+
+
+2º PIÈCE, - Réponse du Maroc à l'Ultimatum de l'Espagne.
+
+
+Louange au Dieu unique!
+
+
+Au chargé d'affaires de la Reine d'Espagne.
+
+
+Nous avons reçu votre lettre d'hier; nous avons pris connaissance
+de son contenu, et nous sommes très-étonnés de tout ce que vous y
+avancez, car ce n'est nullement conforme à ce que vous nous avez dit,
+soit dans notre entrevue avec vous, soit dans vos lettres précédentes.
+
+
+Nous avions, il est vrai, reçu qualité pour accepter les conditions
+que vous posez dans vos lettres du 5 septembre et du 5 octobre, et
+nous accordions encore que vous occuperiez le terrain élevé que vous
+demandiez pour la défense et la sécurité de votre ville, mais non dans
+d'autres vues. Vous avez declaré, dans la conversation que nous
+eûmes en emble, que vous supposiez que ce terrain élevé serait com-
+pris dans la nouvelle délimitation des frontières.
+
+
+Nous ne savons pas ce que vous désignez sous le nom de Sierra
+Bullones, mais si c'est le lieu que quelques personnes nous ont dit, et
+qui se trouve situé à trois heures de Ceuta, nous n'avons ni autorité
+ni pouvoir pour faire une semblable concession. Ure telle demande
+doit être soumise au Sultan, et il faut que nous ayons un délai suffi-
+sant pour que nous soyons à même de soumettre une si grave matière
+à Sa Majesté, qui est à Mekuas, et afin que Sa Majesté ait le temps de
+l'examiner avec le soin convenable et qu'Elle puisse y répondre.
+
+
+Nous ne vous dissimulons pas notre surprise de ce que vous nous ayez
+écrit comme vous l'avez fait après la façon amicale dont nous avons agi
+envers vous en accédant trois fois à vos demandes dans le but unique de
+vous satisfaire.
+
+
+Si vous rompez nos relations et nous déclarez la guerre, ainsi que
+vous nous en avez menacé parce que nous n'aurons pas cédé ce que
+nous n'avons pas le pouvoir de céder, nous protestons contre vous pour
+toutes les conséquences qui peuvent en résulter.
+
+
+Nous devons toutefois le répéter, nous adhérons aux engagements
+pris de remplir les demande que vous nous avez faites, mais non pas
+d'après l'interprétation que vous donnez à nos paroles dans votre
+lettre. Nous n'avons pas le pouvoir de faire pareilles concessions.
+
+
+Que la paix soit avec vous!
+
+
+17 octobre 1859.
+
+
+Signé: MOHAMED KHATEEL.
+
+
+DE L'ESPAGNE AVEC LE MAROC. 333
+
+
+3º PIÈCE.- Circulaire adressée par le gouvernement espagnol
+à tous ses agents diplomatiques de l'Etranger.
+
+
+Excellence,
+
+
+Les efforts du gouvernement de S. M. pour le maintien de la paix
+ont été en tout point infructueux; l'esprit de conciliation et d'équité
+qui l'a guidé dans les négociations suivies avec le gouvernement ma-
+rocain n'a pas suffi à vaincre l'in xplicable résistance que le mi-
+nistre de l'empereur du Maroc a opposée, dès le commencement, aux
+justes réclamations présentées par le cabinet de Madrid.
+
+
+Le représentant à Tanger de S. M. la Reine, notre auguste souve-
+raine, s'est retiré avec tout le personnel de sa suite. La rupture des
+relations entre les deux gouvernements est déjà un fait accompli.
+
+
+Dans ma circulaire du 24 septembre, j'ai fait connaître à Votre
+Excellence quelles étaient les intentions du gouvernement de la Reine
+à ce sujet. Ces intentions ont été fidèlement suivies,
+
+
+L'Espagne a fait en faveur de la paix tout ce qu'elle a pu; mais
+le cas qu'elle prévoyait alors est arrivé, et le gouvernement de S. M.,
+fort de son droit et sûr de ne pas avoir donné lieu au conflit dont il
+déplore les conséquences, est décidé à commencer les hostilités.
+
+
+En faisant appel à ce moyen suprême, le gouvernement se croit en
+devoir de faire connaître l'irrécusable justice de sa cause aux gouver-
+nement avec lesquels il se plaît à entretenir des relations d'amitié.
+
+
+Tel est le but de la présente dépêche.
+
+
+L'Europe entière connaît, par sa propre expérience, les violences
+commises en tout temps par les indomptables tribus qui habitent la
+côte du Riff.
+
+
+Les nombreux bâtiments qui traversent journellement le détroit se
+trouvent exposés aux attaques des Maures, qui ont exercé parfois en
+pleine mer des actes de piraterie.
+
+
+C'est à peine si l'on trouve une nation dont les sujets n'aient pas
+eu à souffrir des pertes considérables par ces motifs.
+
+
+L'Espagne, outre les préjudices qu'elle éprouvait dans son com-
+merce, voyait constamment menacées ses places fortes de Melilla, el
+Penon et Alhucemas, dont les garnisons étaient décimées par les
+attaques incessantes des habitants du Riff.
+
+
+Le gouvernement de S. M., qui aurait été dans son droit en em-
+ployant les moyens dont il dispose pour punir sévèrement de telles
+insultes, s'est toujours adressé au gouvernement du Maroc pour lui
+demander réparation des offenses et des des garanties pour la sûreté des
+forteresses espagnoles sur la côte d'Afrique.
+
+
+Voulant donner des preuves éclatantes de son esprit de conciliation,
+le gouvernement ouvrit des négociations à cet objet, et, dans les der-
+niers jours du mois d'août, signa, comme Votre Excellence le sait,
+une couvention tendant à obtener une solution favorable.
+
+
+Dans cette convention, il ne fut pas question de la forteresse de
+Ceuta, parce que le gouvernement espagnol espérait que celui de l'em-
+pereur du Maroc contiendrait les tribus limitrophes plus dociles que
+celles de la côte du Riff, et qui n'offraient pas, par leur voisinage avec
+la forteresse espagnole, les mêmes inconvénients que les autres.
+
+
+Toutefois, au moment de signer la convention, les Maures de la
+province d'Auggera, soutenus par des tribus voisines, attaquèrent
+Ceuta et renouvelèrent pendant quelques jours leurs attaques, obli-
+
+
+334
+
+
+HISTOIRE DE LA GUERRE
+
+
+geant le gouvernement de la Reine à renforcer la garnison de la place
+et provoquant des rencontres dans lesquelles quelques soldats espa-
+gnols ont péri.
+
+
+La cour de Madrid réclama immédiatement le châtiment des cou-
+pables, la satisfaction due et des garanties pour l'avenir, dans la
+même forme qu'elle les avait obtenus dans le conflit de Melilla. Le
+caractère de ces satisfactions devrait être en rapport avec les faits
+eux-mêmes et avec l'importance de la forteresse.
+
+
+Les circonstances spéciales dans lesquelles se trouva alors l'em-
+pire du Maroc par la mort du Sultan, et le désir dont le cabinet de
+Madrid se trouvait animé de terminer pacifiquement ce conflit, le por-
+tèrent à proroger à deux reprises les délais fixés pour obtenir la répa-
+ration due.
+
+
+Cette nouvelle preuve de modération n'a pas produit l'effet auquel
+on devait s'attendre.
+
+
+Deux mois se sont écoulés sans pouvoir obtenir une réponse défini-
+tives aux réclamations du représentant de S. M. à Tanger. Le mi-
+nistre marocain Sidi-Mohammed-el-Jetib ne donnait que des réponses
+évasives, ou tout au plus de vaines promesses de justice.
+
+
+Le dernier délai était sur le point d'expirer le 15 de ce mois, et
+tout ce que l'on avait pu obtenir était d'abord l'offre de châtier les
+coupables et de saluer le pavillon espagnol, laissant en litige les nou-
+velles limites du territoire de la juridiction de Ceuta, qu'il était né-
+cessaire de faire reculer en présence des dernières agressions.
+
+
+Celles qui avaient été fixées dans la convention de 1845, pour la
+défense de la forteresse, étaient insuffisantes, et l'on avait reconnu
+qu'il fallait appliquer à Ceuta ce qui venait d'être stipulé pour Me-
+lilla, par la convention du 25 août de cette année, et approuvée par
+le nouvel Empereur du Maroc.
+
+
+Tout à coup les négociations prirent une nouvelle tournure. Le mi-
+nistre marocain adressa au consul général de S. M. à Tanger deux
+notes, dont le contenu fit concevoir au gouvernement de la Reine
+l'espoir de conserver la paix, en obtenant par la voie diplomatique
+les concessions qu'exigeaient la dignité de l'Espagne et l'intérêt de la
+nation.
+
+
+Par la première de ces notes, datée du 11 de ce mois (13 de rab-
+bich, an 1276), Sidi-Mohammed-el-Jetib fit connaître qu'il avait reçu
+un firman de son maître qui lui accordait les pouvoirs les plus amples
+pour accéder aux réclamations espagnoles. Il ajoutait dans la même
+note qu'il n'avait pas encore reçu de son souverain de réponse rela-
+tiveinent à l'avis qui lui avait été demandé sur les points en litige,
+mais qu'elle ne lui était pas nécessaire, parce qu'il avait été auto-
+risé à régler toutes les questions pendantes.
+
+
+Dans la deuxième, datée du 13 courant (15 de reb-bich, an 1276), le
+ministre marocain, répondant à une note du représentant de S. M.,
+dans laquelle celui-ci le pressait de déclarer s'il acceptait ou non la
+demande de l'extension des limites territoriales de Ceuta jusqu'aux
+hauteurs nécessaires pour la sûreté et la défense de la forteresse, Sidi-
+Mohammed-el-Jetib, après avoir dit qu'il croyait que lesdites collines
+étaient comprises dans les limites anciennes (celles de 1845), faisait
+cette déclaration: «Mais si ce n'est pas comme nous le croyons,
+notre volonté étant d'éloigner tout motif qui puisse donner lieu à
+des désagréments entre les deux parties, nous acceptons l'extension
+desdites limites jusqu'aux hauteurs nécessaires pour la sûreté de la-
+dite forteresse. >>>
+
+
+Le gouvernement de S. M, qui devait considérer, en vue de ces
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+335
+
+
+explicites déclarations, que toutes les difficultés jusqu'alors suscitées
+étaient aplanies d'une manière satisfaisante, s'empressa d'informer
+le représentant de la Reine à Tanger de la manière dont les satisfac-
+tions réclamées et explicitement offertes devraient être mises à exé-
+cution:
+
+
+1º Le pacha ou gouverneur de la province remettrait lui-même les
+armes d'Espagne à la place où elles étaient lorsqu'elles furent ren-
+versées, et il les ferait saluer par ses soldats.
+
+
+2º Des soldats du Maroc infligeraient aux coupables, sous les murs
+de Ceuta, la peine qu'ils avaient encourue.
+
+
+3º Le gouvernement marocain nommerait deux ingénieurs qui,
+conjointement avec deux ingénieurs espagnols, détermineraient les
+points les plus convenables pour établir la nouvelle ligne des limites,
+en expliquant qu'ils devraient prendre pour base de la démarcation
+la sierra Bullones.
+
+
+Le gouvernement de la Reine a appris avec un vif mécontentement
+la réponse faite par Sidi-Mohammed-el-Jetib à la note qui lui fut
+adressée dans ce sens par le consul de S. M., à la date du 16 cou-
+rant. Le ministre marocain retirait tout ce qu'il avait si formellement
+accordé et interprétait violemment les notes du gouvernement espa-
+gnol, et désavouait les déclarations contenues dans sa communica-
+tion du 11 sur la réception des pleins pouvoirs pour l'arrangement
+des questions avec l'Espagne.
+
+
+Persuadé alors que la dignité de la nation et son honneur ne lui
+permettaient pas de continuer à traiter avec des agents qui mécon-
+naissaient les sentiments de la loyauté, le gouvernement de la Reine
+donna l'ordre au consul général d'Espagne à Tanger de faire valoir
+pour la dernière fois aux yeux du ministre marocain son inconsé-
+quence, d'amener le pavillon et de se retirer de Tanger avec tout le
+personnel de la mission espagnole, déclarant les négociations rom-
+pues et faisant appel à la force pour terminer le conflit.
+
+
+L'historique des faits qui ont eu lieu dès le commencement de la
+question témoigne de la nécessité dans laquelle s'est trouvé le gou-
+vernement de la Reine d'avoir recours à la force.
+
+
+Tel est le terme nécessaire lorsque des différends graves s'élèvent
+entre deux nations et que l'une d'elles se refuse à entendre la voix de
+la raison et de la justice. Je ne doute pas que le gouvernement de ...
+ne reconnaisse qu'elles sont de notre côté.
+
+
+Le gouvernement de la Reine s'est attaché à maintenir avec fer-
+meté et modération l'honneur national et les intérêts légitimes; il ne
+se départira pas de ces sentiments si le succès couronne les efforts
+de son armée.
+
+
+Pendant la guerre qui va commencer, le cabinet de Madrid res-
+pectera les droits des puissances neutres et protégera les sujets des
+nations amies établis sur les points de l'empire du Maroc qui seront
+conquis par l'armée espagnole.
+
+
+Des instructions dans ce sens ont été communiquées au comman-
+dant de la flotte destinée à opérer sur les côtes du Maroc, ainsi qu'aux
+chefs des corps de l'armée expéditionnaire.
+
+
+L'Espagne confie à son escadre et à son armée la défense de son
+honneur offensé et de ses intérêts en danger. Forte de son bon droit,
+sûre d'avoir fait reconnaître sa modération par des actes irrécusables,
+sans combinaison avec aucune autre puissance, sans arrière-pensée
+ambitieuse, elle veut mettre un terme par la guerre à l'état intolé-
+rable que lui crée l'hostilité perpétuelle des Maures contre ses places
+fortes.
+
+
+336
+
+
+HISTOIRE DE LA GUERRE
+
+
+Cependant, quels que soient le résultat des opérations militaires
+et la nature des garanties que le cabinet de Madrid exigerait pour
+en assurer le succès et éviter le renouvellement des attentats com-
+mis, le gouvernement de S. M., fidèle à ses intentions, respectera les
+intérêts qui existent et les droits de tous les peuples: il n'occupera
+d'une manière permanente aucun point dont la possession pourrait
+procurer à l'Espagne une supériorité dangereuse pour la libre navi-
+gation de la Méditerranée.
+
+
+L'Espagne a cherché à maintenir avec le Maroc des relations paci-
+fiques et même amicales, et, dans ce but, elle a conclu avec cet em-
+pire, dans l'espace d'un siècle, quatre traités dont l'exécution aurait
+contribué à faire disparaître toutes les causes de querelles et de con-
+flits.
+
+
+L'ignorance ou la négligence du gouvernement du Maroc a donné
+lieu, à toutes les époques, à leur transgression
+
+
+Le temps est enfin venu de faire cesser entre les deux pays une
+situation si irrégulière et si dangereuse pour leur tranquillité et leurs
+intérêts réciproques. Ce que ni la raison ni les efforts persévérants
+des gouvernements civilisés n'ont pu obtenir, il faudra le réclamer
+par la force, mise au service du bon droit.
+
+
+Votre Excellence voudra bien donner connaissance et remettre
+copie de cette dépêche à M. le ministre des affaires étrangères de...
+Dieu vous garde de longues années.
+
+
+Madrid, 29 octobre 1859.
+
+
+Signé: SATURNINO CALDERON-COLLANTĖS.
+
+
+4º PIÈCE. - Correspondance avec l'Angleterre.
+
+
+N° 1. Lord John Russell à M. Buchanan.
+
+
+Foreign-Office, 22 septembre 1859.
+
+
+Monsieur, à l'égard des préparatifs qui se font en Espagne pour
+ouvrir les hostilités dans le Maroc, je désire que vous fassiez observer
+au président du conseil et au ministre des affaires étrangères que les
+différends qui se sont élevés entre les gouvernements d'Espagne et du
+Maroc paraissent dus aux actes de violence commis par les tribus
+mauresques dans le voisinage de Ceuta, mais qu'ils semblent aussi
+avoir été provoqués par les défis et les excitations du gouverneur de
+Ceuta: qu'une race farouche et indumptée paraît être devenue ingou-
+vernable et avoir exécuté des attaques hostiles contre la garnison es-
+pagnole de Ceuta
+
+
+Que si le gouvernement espagnol ne cherche que la réparation des
+injures et des torts qui lui ont été faits, et s'il ne veut que défen-
+dre et soutenir son honneur, le gouvernement de S. M. ne s'opposera
+point à ce qu'il obtienne cette réparation. Mais si les actes de violence
+des tribus mauresques doivent servir de prétexte à la conquête, et
+particulièrement sur la côte, le gouvernement de S. M. est obligé
+de veiller à la sûreté des forteresses de Gibraltar.
+
+
+Vous êtes done chargé de demander une déclaration par écrit, por-
+tant que si, dans le cours des hostilnés, les troupes espagnoles vien-
+nent à occuper Tanger, cette occupation sera temporaire et ne se
+prolongera point au delà de la ratification d'un traité de paix entre
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+337
+
+
+l'Espagne et le Maroc. Car une occupation jusqu'à ce qu'une indem-
+nité soit payée pourrait devenir permanente, et, aux yeux du gouver-
+ment de S. M., une occupation permanente serait incompatible avec
+la sûreté de Gibraltar. Le gouvernement de S. M. désire sincèrement
+maintenir avec l'Espagne les relations les plus amicales, mais son de-
+voir est de pourvoir à la sûreté des possessions de S. M.
+
+
+Je suis, etc.
+
+
+J. RUSSELL.
+
+
+No 2. M. Buchanan à lord John Russell.
+
+
+Madrid, 7 octobre 1859.
+
+
+Milord, après que j'ai cu fait connaître à M. Caldéron-Collantès le
+contenu de la dépêche de Votre Seigneurie, en date du 22 du mois
+dernier, laquelle me charge de demander au gouvernement espagnol
+une déclaration par écrit portant que si, dans le cas d'une guerre en-
+tre l'Espagne et le Maroc, Tanger était occupé par les troupes espa-
+gnoles, elles seront rappelées immédiatement après la ratification d'un
+traité de paix, il a été convenu entre nous que j'adresserais à S. Exc.
+une note dont je transmets ci-inclus une copie, pour que Votre Sei-
+gneurie en prenne connaissance. J'ai reçu de lui aujourd'hui une ré-
+ponse, dont une copie et une traduction sont ci-jointes, et j'espère que
+le gouvernement de S. M. en sera satisfait.
+
+
+J'ai, etc.
+
+
+Signé ANDREW BUCHANAN.
+
+
+1re Annexe au $n^{\circ}2.-M$ Buchanan à M. Caldéron-Collantės.
+
+
+Madrid, 27 septembre 1859.
+
+
+Monsieur, pendant les discussions qui ont eu lieu entre l'Espagne
+et le Maroc, relativement aux réclamations des sujets espagnols à
+l'endroit du gouvernement du Sultan et de la zone qui est autour de
+Melilla, je me suis empressé d'instruire mon gouvernement des fré-
+quentes assurances que j'ai reçues de Votre Excellence, à savoir qu'à
+cette époque l'unique objet du gouvernement de S. M. C. était de ga-
+rantir une juste protection aux forteresses de S. M. C., ainsi qu'à ses
+sujets qui résident dans le Maroc ou font le commerce avec ce pays,
+et qu'il n'avait nullement l'intention de faire des questions en litige
+un prétexte d'agrandisseinent territorial en Afrique.
+
+
+L'événement a confirmé entièrement ces assurances, et j'ai eu le
+bonheur d'apprendre par la déclaration contenue dans la note de
+Votre Excellence, en date du 26 du courant, et par les explications
+verbales que vous m'avez données plusieurs fois depuis la nouvelle
+difficulté qui s'est élevée avec le gouvernement du Maroc, que la po-
+litique du gouvernement espagnol n'a point changé, qu'il n'ambitionne
+aucune conquête en Afrique et ne veut qu'obtenir réparation des of-
+fenses que lui ont faites les Maures de Ceuta pour cette forteresse et
+les autres possessions de S. M. C. en Afrique, garanties qui prévien-
+dront efficacement le retour des conflits qui ont eu lieu, et maintien-
+dront à l'avenir les relations avec l'empire du Maroc sur un pied ho-
+norable et satisfaisant. Les rapports de mes conversations avec Votre
+Excellence auront ainsi déjà informé le gouvernement de la Reine,
+mon auguste souveraine, des sentiments de justice et de modération
+dont le gouvernement de S. M. C. est animé.
+
+
+29
+
+
+338
+
+
+HISTOIRE DE LA GUERRE
+
+
+Toutefois, considérant l'intérêt qu'il prend à l'empire du Maroc et
+l'importance qu'il attache au commerce de Tanger avec les possessions
+de Sa Majesté dans la Méditerranée, il serait satisfaisant pour lui
+d'apprendre de Votre Excellence que les grands préparatifs qui se
+font actuellement pour procéder à des opérations militaires en Afri-
+que ne sont provenus d'aucun changement dans les vues du gouver-
+nement de Sa Majesté Catholique, et n'indiquent de sa part aucune
+espèce d'intention de faire des conquêtes dans le Maroc, ou d'occuper
+d'une manière permanente aucune partie du territoire du Sultan.
+
+
+Parfaitement assuré que Votre Excellence s'empressera de satisfaire
+au vœu que j'ai l'honneur de lui exprimer sur ce sujet,
+Je suis, etc,
+
+
+Signé: ANDREW BUCHANAN.
+
+
+2e Annexe au 1.0 2. - M. Caldéron-Collantés à M. Buchanan.
+
+
+Palais, 6 octobre 1859.
+
+
+Monsieur, j'ai reçu la note que vous avez eu la bonté de m'adres-
+ser le 27 de ce mois dernier. Le gouvernement de la Reine, ma souve-
+raine, tout en adoptant les mesures nécessaires pour obtenir, au be-
+soin par la force des armes, la juste réparation qu'il a demandée an
+gouvernement marocain, persévère dans ses intentions invariables à
+l'égard de ce pays, intentions dont vous avez eu connaissance par les
+déclarations verbales que je vous ai faites spontanément l'année der-
+nière, relativement à la question de Melilla, et qui ont été confirmées
+par les notes subséquentes que je vous ai adressées et par la circulaire
+que j'ai adressée le 24 septembre aux représentants de Sa Majesté près
+les cours de l'Europe avec le contenu dont Don Xavier de Isturiz a dù
+donner connaissance au principal secrétaire d'État des affaires étran-
+gères de S. M. В.
+
+
+Le cabinet de Madrid, ainsi que vous en avez connaissance, ne
+cède pas, dans cette question, à l'impulsion d'un désir préexistant
+d'un agrandissement de territoire, mais il n'est influencé que par le
+devoir sacré de défendre la dignité et l'honneur de la nation.
+
+
+Il conserve toujours l'espoir que le conflit qui a surgi par suite d'at-
+taques non provoquées dont la forteresse de Melilla a été l'objet, se
+terminera pacifiquement; mais si son désir de conciliation ne se réa-
+lisait pas, il s'efforcerait d'obtenir par d'autres moyens la punition
+des agresseurs, la satisfaction qui est due et à la conclusion d'arran-
+gements qui tendraient à donner des garanties matérielles efficaces
+contre le retour de pareils outrages.
+
+
+C'est dans ce bat que les opérations militaires, si elles doivent com-
+mencer, seront dirigées. A ce point de vue, il est facile de compren-
+dre, connaissant les intentions du gouvernement de la Reine, ma sou-
+veraine, que quelle que soit la diminution que doive éprouver par
+suite de la guerre le commerce actif que la Grande-Bretagne entre-
+tient avec Tanger, elle ne peut-être que passagère, puisque, quand
+une fois le traité de paix qui mettrait fin aux hostilités entre l'Espa-
+gne et le Maroc sera ratifié et les questions maintenant existantes
+arrangées d'une manière favorable et par conséquent définitive, le
+gouvernement espagnol ayant accompli ses intentions, ne continuerait
+pas d'occuper cette forteresse, en supposant qu'elle sesoit trouvée obli-
+gée de s'y établir afin d'assurer une issue favorable à ses opérations.
+Je suis, etc.
+
+
+Signé: SATURNINO CALDERON-COLLANTĖS.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+N° 3. Lord John Russell à M. Buchanan.
+
+
+Foreing-Office, 15 octobre 1859.
+
+
+339
+
+
+Monsieur, le gouvernement de Sa Majesté a pris connaissance de la
+note qui vous a été adressée le 6 octobre par M. Collantès, dont une
+copie était contenue dans votre dépêche du jour suivant, en réponse à
+la demande d'explications que ma dépêche du 22 septembre vous pres-
+crivait d'adresser, touchant les intentions du gouvernement espagnol
+dans le cas de l'occupation de Tanger par les forces espagnoles.
+
+
+Vous avez été invité à demander au gouvernement espagnol une
+déclaration par écrit que, dans le cas où, pendant les hostilités, les
+troupes espagnoles occuperaient Tanger, cette occupation serait tem-
+poraire et ne se prolongerait pas après la ratification d'un traité de
+paix entre l'Espagne et le Maroc, et dans votre note adressée à
+M. Collantès, le 27 septembre, vous dites que ce serait une satisfac-
+tion pour le gouvernement de Sa Majesté d'apprendre que les prépa-
+ratifs militaires du gouvernement espagnol n'annoncent aucune in-
+tention de sa part de faire des conquêtes dans le Maroc, ou d'occu-
+per d'une manière permanente aucune partie du territoire du Sultan.
+
+
+Le senor Collantès, dans sa réponse du 6 octobre, donne l'assurance
+que quand une fois le traité de paix qui doit mettre fin aux hostili-
+tés entre l'Espagne et le Maroc aura été ratifié, les questions main-
+tenant existantes étant réglées favorablement, et par conséquent d'une
+manière définitive, le gouvernement espagnol, accomplissant ses in-
+tentions, ne continuera pas d'occuper cette forteresse (Tanger) en
+supposant qu'il se soit vu obligé de s'y établir afin d'assurer l'issue
+favorable de ses opérations.
+
+
+Vous pouvez annoncer à M. Collantès que le gouvernement de Sa
+Majesté accepte avec plaisir cette assurance comme contenant la dé-
+claration que, par ma dépêche du 22 septembre, vous aviez été invité
+à demander.
+
+
+Vous annoncerez en outre à Son Excellence que le gouvernement
+de Sa Majesté désire ardemment qu'il n'y ait aucun changement de
+possession sur la côte mauresque du détroit. L'importance qu'il atta-
+che à cet objet ne peut être trop estimée, et il lui serait impossible, et
+à toute autre puissance maritime, de voir avec indifférence l'occupa-
+tion permanente, par l'Espagne, d'une pareille position sur cette côte,
+position qui lui permettrait d'empêcher le passage du détroit à des
+navires fréquentant la Méditerranée pour des opérations commercia-
+les ou autres.
+
+
+Vous donnerez lecture de cette dépêche au senor Collantes, et vous
+en remettrez copie à Son Excellence.
+Je suis, etc.,
+
+
+N° 4.
+
+
+Signé: J. RuSSELL.
+
+
+M. Buchanan à lord John Russell.
+
+
+Madrid, 24 octobre 1859.
+
+
+Milord, au sujet des télégrammes de Votre Seigneurie des 19 et 20
+du courant, relativement à la prétendue intention de l'Espagne d'ob-
+tenir des Marocains une cession de plusieurs milles de territoire sur
+la côte du détroit de Gibraltar, j'ai l'honneur de vous adresser copie
+d'une note que j'ai fait passer, le 21, à M. Calderon-Collantes, pour
+
+
+340
+
+
+HISTOIRE DE LA GUERRE
+
+
+exprimer les objections que le gouvernement de la Reine opposerait à
+l'occupation par l'Espagne de la côte occidentale de Ceuta.
+
+
+Je priai Son Excellence de désigner les points de la côte qui se-
+raient compris dans le rayon de la forteresse, si les intentions du gou-
+vernement de Sa Majesté Catholique sont mises à exécution. J'ai
+aussi l'honneur de vous transmettre la copie et la traduction d'une
+réponse que j'ai reçue de Son Excellence, dans laquelle elle déclara
+distinctement que le gouvernement de Sa Majesté Catholique n'est
+dans l'intention d'occuper aucun point sur ladite côte, de nature à
+donner à l'Espagne une supériorité qui serait dangereuse pour la na-
+vigation du détroit.
+
+
+Signé: ANDREW BUCHANAN.
+
+
+1re Pièce comprise dans le n° 4. - M. Buchanan à M. Caldéron-
+
+
+Collantės.
+
+
+Madrid, 31 octobre 1859.
+
+
+Monsieur, le gouvernement de la Reine ma souveraine a lieu de
+croire, d'après le rapport du chargé d'affaires de Sa Majesté à Tanger,
+et d'après les récentes déclarations du gouvernement de Sa Majesté Ca-
+tholique dans les Cortès, que Sa Majesté Catholique va déclarer la
+guerre à l'Empereur du Maroc parce que le gouvernement marocain a
+refusé d'acquiescer à la demande faite par le gouvernement espagnol
+de la cession à l'Espagne de certain territoire sis entre la forteresse
+de Ceuta et les lignes des montagnes ou sierra de Bullones.
+
+
+D'après mes communications verbales à Votre Excellence à ce sujet,
+vous savez déjà que le gouvernement de la Reine, ma souveraine,
+craint que la cession à l'Espagne du territoire en question ne puisse
+pas avoir lieu sans compromettre sérieusement la liberté de la navi-
+gation du détroit de Gibraltar il est en conséquence de mon devoir
+en exécution des instructions reçues du principal secrétaire d'État
+des affaires étrangères de S. M., de m'informer jusqu'à quel point le
+gouvernement de S. M. Catholique prétend que le rayon de la forte.
+resse de Ceuta soit étendu, et surtout de demander à Votre Excel-
+lence de vouloir bien dénommer les points sur la côte qui, en cas
+d'exécution des vues du gouvernement de S. M. Catholique, seraient
+compris dans le territoire espagnol.
+
+
+En adressant ces questions à Votre Excellence, j'ose prier V. Exc.
+de faire que je reçoive ces réponses à la płus proimpte convenance de
+de V. Exc.
+
+
+Je profite, etc.
+
+
+Signé: ANDREW BUCHANAN.
+
+
+2e Pièce comprise dans le n° 4. M. Caldéron-Collantés
+à M. Buchanan.
+
+
+Monsieur,
+
+
+Palais, 31 octobre 1859.
+
+
+J'ai reçu la note que vous avez eu la bonté de m'adresser, en date
+de ce jour, et je me suis pénétré de son contenu avec une attention
+toute spéciale. Dans l'état actuel de la question marocaine, par suite
+de l'inconcevable résistance du gouvernement du Sultan à souscrise
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+341
+
+
+aux justes demandes de l'Espagne, il est très-difficile, pour ne pas
+dire impossible, au cabinet de Madrid, de déterminer, même approxi-
+mativement, la nature des garanties qu'il peut se trouver dans la
+nécessité de demander, afin d'assurer les résultats des hostilités qui
+sont à la veille de s'ouvrir.
+
+
+Vous ne pouvez pas ne pas savoir, et votre gouvernement éclairé
+ne saurait ignorer que lorsque deux gouvernements en appellent à la
+force des armes pour le règlement de leurs différends, après la rup-
+ture de relations diplomatiques suivies sans effet, les anciennes
+propositions sont déclarées nulles et non avenues, et les deux parties
+se réservent le droit de les renouveler ou d'en présenter d'autres
+d'une différente nature, suivant que cela peut convenir à leurs inté-
+rèis et répondre aux résultats des opérations militaires.
+
+
+Néanmoins, le gouvernement de la Reine, ma souveraine, qui a
+donné tant et de si frappantes preuves de son esprit conciliant et
+droit dans les divers incidents qui ont surgi de la question maro-
+caine, ne modifiera pas les ntentions qu'il a cues, dès le début, de
+n'occuper aucun point sur les détroits dont la position serait de
+nature à donner à l'Espagne une supériorité dangereuse pour la navi-
+gation. A cet égard, ses idées ont toujours été si désintéressées et si
+loyales, qu'il ne saurait croire qu'aucun doute puisse exister à leur
+sujet.
+
+
+Néanmoins le gouvernement de la Reine, au nom de qui je vous ai
+donné, à diverses reprises, les explications nécessaires pour dissiper
+toute espèce de doute, si par hasard il en avait été conçu à l'égard
+de ses intentions, ne veut pas négliger l'assurance ci-dessus, étant
+certain que le gouvernement de S. M. Britannique, en la demandant,
+n'a pas d'autre objet que de garantir la sûreté des intérêts de l'An-
+gleterre, et non en aucune manière d'intervenir dans la lutte qui va
+s'engager entre deux nations indépendantes.
+
+
+Je profite, etc.
+
+
+Signé: SATURNINO CALDERON-COLLANTES.
+
+
+5º PIÈCE. Préliminaires de paix.
+
+
+1º Dépéche du commandant en chef de l'expédition espagnole
+dans le Maroc, en date du Gualdras, le 25 mars 1860.
+
+
+Excellence!
+
+
+Les délégués de Muley-el-Abbas se sont présentés de nouveau hier
+à mon campement, avec une lettre du calife qui me manifestait ses
+vifs désirs de paix, et qui sollicitait pour cet objet une conférence
+dans laquelle nous puissions nous mettre d'accord et signer les pré-
+liminaires de la paix. J'avais déjà résolu de commencer un mouve-
+ment dont le résultat devait être de forcer le passage du Fondak.
+
+
+Désirant ne pas différer ce mouvement, je lui répondis que, dans
+l'hypothèse où, sachant que nos conditions étaient toujours celles
+qu'il connaissait, il me donnerait avis de l'heure de notre entrevue
+avant six heures et demie du matin, le lendemain, je le recevrais
+avec plaisir, mais que si je n'avais pas d'avis à l'heure dite, je me
+mettrais en marche. Déjà l'armée avait plié les tentes et elle se dis-
+posait à marcher, quand arrivèrent  toute bride les délégués pour
+m'annoncer que Muley-el-Abbas assisterait à l'entrevue entre huit et
+
+
+29.
+
+
+342
+
+
+HISTOIRE DE LA GUERRE
+
+
+neuf heures du matin. Je fis dresser une tente à 600 pas de nos avant-
+postes pour le recevoir. A son arrivée, je m'avançai à sa rencontre,
+laissant mon quartier général et mon escorte à 300 pas et n'étant ac-
+compagné que des généraux.
+
+
+Dans la conférence ont été successivement adoptées toutes les con-
+ditions avec la seule modification qu'au lieu d'être de 500 millions,
+l'indemnité serait de 400 millions. L'insistance avec laquelle il solli-
+citait la paix, son rang élevé de calife et la dignité avec laquelle il
+supporte son malheureux sort, m'ont engagé à réduire l'indemnité à
+400 millions; il ne me paraissait pas généreux à ma patrie d'humilier
+encore un ennemi qui, tout en se reconnaissant vaincu, est bien loin
+d'être méprisable.
+
+
+Nous sommes convenus de conclure une suspension d'armes à
+compter de ce jour, et nous nous sommes séparés après avoir signé
+tous les deux les préliminaires de l'armistice.
+
+
+J'envoie à Votre Excellence les premiers en minute et le deuxième
+en copie.
+
+
+Aujourd'hui j'exécuterai le mouvement de rentrée dans ma ligne;
+je vous en fais part pour que cette nouvelle soit portée à la connais-
+sance de Sa Majesté.
+
+
+Dieu garde Votre Excellence pendant de longues années.
+Campement de Gualdras, le 25 mars 1860.
+
+
+Signé: LÉOPOLD O'DONNELL.
+
+
+2º Bases préliminaires approuvées par S. M. la Reine, de l'avis
+du Conseil des Ministres, pour la conclusion du traité de paiæ
+entre l'Espagne et le Maroc, convenues entre Léopold O'Don-
+nell, duc de Tétouan, comte de Lucena, capitaine général en
+chef de l'armée espagnole en Afrique, et Muley-el-Abbas,
+calife de l'empire du Maroc et prince de l'Algarve:
+
+
+Léopold O'Donnell, duc de Tétouan, comte de Lucena, etc.,
+Et Muley-el-Abbas, calife, etc.,
+
+
+Důment autorisés par S. M. la Reine des Espagnes et par S. M. le
+Roi de Maroc,
+
+
+Sont convenus des bases préliminaires ci-après, pour la conclusion
+du traité de paix qui doit mettre un terme à la guerre entre l'Espa-
+gne et le Maroc.
+
+
+ART. 1Cr. S. M. le Roi de Maroc cède à S. M. la Reine des Espagnes,
+à perpétuité et en pleine propriété et souveraineté, tout le territoire
+compris depuis la mer en suivant les hauteurs de Sierra Bullones
+jusqu'au chemin d'Anghera.
+
+
+Авт. 2. De la même manière, Sa Majesté le Roi de Maroc s'oblige
+à concéder à perpétuité, sur la côte de l'Océan à Santa-Cruz, la Pe-
+quena, le territoire suffisant pour la formation d'un établissement
+comme celui que l'Espagne y a possédé antérieurement.
+
+
+ART. 3. S. M. le Roi de Marec ratifiera, dans le plus bref délai pos-
+sible, la convention relative aux places de Melilla-el-Penon et Alhu-
+cemas, que les plénipotentiaires d'Espagne et de Maroc ont signée à
+Tétouan le 24 août 1859.
+
+
+Авт. 4. Comme juste indemnité de frais de guerre, S. M. le Roi de
+Maroc s'oblige à payer à S. M. la Reine des Espagnes la somme de
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+343
+
+
+20 millions de piastres. Le mode de payement de cette somme sera
+stipulé dans le traité de paix.
+
+
+ART 5. La ville de Tétouan, avec tout le tertitoire qui formait
+l'ancien bachalick du même nom, demeurera au pouvoir de S. M. la
+Reine des Espagnes comme garantie de l'exécution de l'obligation spé-
+cifiée à l'article ci-dessus jusqu'au parfait payement de l'indemnité
+de guerre. Aussitôt après que ledit payement aura été effectué inté-
+gralement, les troupes espagnoles évacueront immédiatement ladite
+ville et son territoire.
+
+
+ART. 6. Il sera conclu un traité de commerce dans lequel seront
+stipulés, en faveur de l'Espagne, tous les avantages qui auraient été
+concédés ou qui le seraient à l'avenir à la nation la plus favorisée.
+
+
+ART. 7. Pour éviter, à l'avenir, des événements comme ceux qui
+ont occasionné la guerre actuelle, le représentant de l'Espagne au
+Maroc pourra résider à Fez ou sur le point qui conviendra le mieux
+pour la protection des intérêts espagnols et le maintien des bonnes
+relations entre les deux États.
+
+
+Авт. 8. S. M. le Roi de Maroc autorisera l'établissement à Fez
+d'une maison de missionnaires espagnols, comme celle qui existe à
+Tanger.
+
+
+ART. 9. S. M. la Reine des Espagnes nommera immédiatement deux
+plénipotentiaires qui, avec deux autres désignés par S. M. le Roi de
+Maroc, devront rédiger les articles définitifs du traité de paix. Ces
+plénipotentiaires se réuniront en la ville de Tétouan, et les travaux
+devront être terminés dans le plus bref délai possible qui, en aucun
+cas, n'excédera 30 jours, à compter de celui de la date.
+
+
+Le 25 mars 1860.
+
+
+Signé: LÉOPOLD O'DONNELL.
+
+
+Signé: MULEY-EL-ABBAS.
+
+
+Les bases préliminaires du traité de paix ayant été convenues et
+signées entre l'Espagne et le Maroc par Léopold O'Donnell, duc de
+Tétouan, capitaine général en chef de l'armée espagnole en Afrique, et
+Muley-Abbas, calife de l'empire du Maroc et prince de l'Algarve, à par-
+tir de ce jour cessera toute hostilité entre les deux armées, le pont de
+Bureja devant être la ligne qui divisera les deux armées.
+
+
+Les soussignés donneront les ordres les plus péremptoires à leurs
+armées respectives, châtiant sévèrement quiconque contreviendrait.
+Muley-el Abbas s'oblige à empêcher les hostilités des Kabyles, et si,
+par hasard, ils en commettaient malgré lui, il autorise l'armée espa-
+gnole à les châtier, sans que pour cela il soit entendu que la paix ait
+été altérée.
+
+
+Le 25 mars 1860.
+
+
+6º PIÈCE.
+
+
+Signé: LÉOPOLD O'DONNELL,
+MULEY-EL-ABBAS.
+
+
+Traité de paix entre l'Espagne et le Maroc,
+en date du 26 avril 1860.
+
+
+Au nom de Dieu tout-puissant, traité de paix et d'amitié entre
+S. M. dona Isabelle II, reine des Espagnes, et Sidi-Mohammed, roi
+de Maroc, Fez, Mequinez, etc. Les parties contractantes pour S. M.
+Catholique sont ses plénipotentiaires: D. Luis Garcia y Miguel, che-
+
+
+344
+
+
+HISTOIRE DE LA GUERRE
+
+
+valier, etc., etc., lieutenant général des armées nationales, chef de
+l'état-major général de l'armée d'Afrique, et D. Tomas de Ligues y
+Bardaji, majordome de semaine de S. M. Catholique, etc., etc.,
+ministre résident et directeur de la politique dans la première secré-
+tairerie d'État; et pour S. M. Marocaine, ses plénipotentiaires le
+serviteur de l'Empereur, etc., l'avocat el Sid-Mohammed-el-Jetib, et
+le serviteur de l'Empereur, etc., chef de la garnison de Tanger, caid
+de la cavalerie, el Sid-el-Hadch-Ajmad Chabli, ben-Abd-el-Melck,
+lesquels, dûment autorisés, sont convenus des articles suivants:
+
+
+ART. 1º. Il y aura paix et bonne amitié perpétuelles entre S. M. la
+Reine des Espagnes et S. M. le Roi de Maroc et entre leurs sujets
+respectifs.
+
+
+ART. 2. Pour faire disparaître les causes qui ont motivé la guerre
+aujourd'hui heureusement terminée, S. M. le Roi de Maroc, animé
+du désir sincère de consolider la paix, convient d'étendre le terri-
+toire appartenant à la juridiction de la place espagnole de Ceuta
+jusqu'aux lieux les plus convenables pour la sûreté et la défense
+complètes de sa garnison, ainsi qu'il sera déterminé dans l'article
+suivant:
+
+
+ART. 3. Afin de mettre à exécution la stipulation de l'article pré-
+cédent, S. M. le Roi de Maroc cède à S. M. la Reine des Espagnes,
+en pleine possession et souveraineté, le territoire compris depuis la
+mer, en suivant les hauteurs de Sierra Bullores jusqu'au ravin d'An-
+ghera.
+
+
+Comme conséquence de ce qui précède, S. M. le Roi de Maroc cède
+à S. M. la reine des Espagnes, pour le posséder en pleine souveraineté,
+tout le territoire compris depuis la mer, en partant près de la pointe
+orientale de la première baie de Handaz-Bahna, sur la côte septen-
+trionale de la place de Ceuta, et suivant le ravin ou ruisseau qui y
+finit, en montant ensuite vers la partie orientale du terrain où est la
+prolongation du mont du Renégat, qui suit la même direction sur la
+côte, se déprime très-brusquement pour finir par un escarpement
+parsemé de pierres d'ardoises et descend en côtoyant, depuis le pas-
+sage étroit qui s'y trouve, par le versant des mongtanes de Sierra
+Bullones, où sont situées les redoutes de Isabelle II, Francisco de
+Asis, Pinies, Cisneros et Prince Alfonso, en arabe Uad-Aniat, pour
+se perdre dans la mer; le tout formant un arc de cercle qui ter-
+mine dans la baie du Prince Alfonse, en arabe Uad-Aniat, sur la
+côte sud de la place de Ceuta, ainsi qu'il a été reconnu et déter-
+miné par les commissaires espagnols et marocains, dans la conven-
+tion passée et signée par eux le 4 avril dernier. Pour conserver ces
+limites, il sera établi un camp neutre qui partira des versants oppo-
+sés du ravin pour aller jusqu'à la cime des montagnes de l'une à
+l'autre partie de la mer, ainsi qu'il est stipulé dans le même ar-
+ticle de la convention mentionnée.
+
+
+ART. 4. Il sera nommé ensuite une commission composée d'ingé-
+nieurs espagnols et marocains qui marqueront par des poteaux et
+bornes les hauteurs indiquées dans l'article 3, en suivant les limites
+convenues.
+
+
+Cette opération sera accomplie dans le plus bref délai possible;
+mais les autorités espagnoles n'auront pas besoin d'en attendre la fiu
+pour exercer leur juridiction, au nom de S. M. Catholique, sur ce ter-
+ritoire, lequel, comme tout autre cédé par ce traité par S. M. le Roi
+de Maroc à Sa Majesté Catholique, sera considéré comme soumis à la
+souveraineté de S. M. la Reine d'Espagne depuis le jour de la signa-
+ture de la présente convention.
+
+
+DE L'ESPAGNE AVEC LE MAROC.
+
+
+345
+
+
+ART. 5. S. M. le Roi de Maroc ratifiera dans le plus bref délai la
+convention que les plénipotentiaires d'Espagne et de Maroc ont si-
+gnée à Tétouan le 24 août 1859.
+
+
+S. M. Marocaine confirme, dès à présent, les cessions territoriales
+faites par ce pacte international en faveur de l'Espagne, ainsi que les
+garanties, priviléges et gardes de Maures du roi octroyés au Pegnon
+et Alhucemas, ainsi que l'indique l'article 6 de la convention préci-
+tée sur les limites de Melilla.
+
+
+ART. 6. Il sera placé, dans la limite des terrains neutres concédés
+par S. M. le Roi de Maroc aux places espagnoles de Ceuta et Melilla,
+un caid ou gouverneur avec des troupes régulières pour éviter et
+réprimer les attaques des tribus.
+
+
+Les gardes de Maures du roi, pour les places espagnoles du Pegnon
+et Alhucemas, seront placés au bord de la mer.
+
+
+ART. 7. S. M. le roi de Maroc s'engage à faire respecter par ses
+propres sujets les territoires qui, conformément aux stipulations du
+présent traité, restent sous la souveraineté de S. M. la Reine d'Es-
+pagne.
+
+
+S. M. Catholique pourra néanmoins adopter toutes les mesures
+qu'elle jugera opportunes pour la sûreté de ces territoires et y faire
+élever toutes les fortifications et défenses qu'elle croira convenables,
+sans que les autorités marocaines puissent jamais y mettre obstacle.
+
+
+ART. 8. Sa Majesté Marocaine s'engage à concéder à perpétuité à
+S. M. Catholique, sur la côte de l'Océan, près Santa Cruz-la-Petite,
+le territoire suffisant pour la formation d'un établissement de pêche-
+rie, comme celui que l'Espagne y possédait autrefois.
+
+
+Pour mettre à exécution ce qui a été convenu dans cet article, les
+gouvernements de S. M. Catholique et de S. M. Marocaine se met-
+tront préalablement d'accord et nommeront des commissaires de part
+et d'autre pour désigner le terrain et les limites que cet établissement
+devra occuper.
+
+
+ART. 9. S. M. Marocaine s'engage à payer à S. M. Catholique, comme
+indemnité pour les frais de guerre, la somme de 20 millions de
+piastres, soit 400 millions de réaux de vellon. Cette somme sera re-
+mise en quatre versements à la personne désignée par S. M. Catho-
+lique dans le port désigné par S. M. le roi de Maroc, et de la ma-
+nière suivante 100 millions de réaux de vellon le 1er juillet, 100
+millions le 29 août, 100 millions le 29 octobre et 100 millions le 28
+décembre de la présente année.
+
+
+Si S. M. le Roi de Maroc payait la totalité de la somme précitée
+avant les délais fixés, i'armée espagnole évacuera sur-le-champ la
+ville de Tétouan et son territoire.
+
+
+Tant que ce payement total n'aura pas lieu, les troupes espagnoles
+occuperont la place de Tétouan et le territoire qui comprend l'ancien
+pachalic de Tétouan.
+
+
+ART. 10. S. M. le Roi de Maroc, en suivant l'exemple de ses illustres
+prédécesseurs, qui accordèrent une protection si efficace et spéciale
+aux missionnaires espagnols, autorise l'établissement, dans la ville de
+Fez, d'une maison de missionnaires espagnols, et confirme en leur faveur
+tous les priviléges et exemptions que les précédents souverains de
+Maroc leur avaient accordés.
+
+
+Ces missionnaires espagnols pourront, dans toutes les parties de
+l'empire marocain où ils se trouvent ou s'établiront, se livrer libre-
+ment à l'exercice de leur saint ministère, et leurs personnes, maisons
+et hospices jouitont de toute la sécurité et protection nécessaires.
+
+
+S. M. le Roi de Maroc donnera dans ce sens les ordres opportuns
+
+
+346
+
+
+HISTOIRE DE LA GUERRE
+
+
+à ses autorités et délégués pour qu'ils accomplissent de tous temps
+les stipulations contenues dans cet article.
+
+
+ART. 11. Il a été convenu expressément que lorsque les troupes es-
+pagnoles évacueront Tétouan, il pourra être acheté l'espace de terrain
+nécessaire près le consulat d'Espagne, pour la construction d'une
+église dans laquelle les prêtres espagnols pourront exercer le culte
+catholique, et célébrer des messes pour les soldats espagnols morts
+pendant la guerre.
+
+
+S. M. le Roi de Maroc promet que l'église, l'habitation des prêtres
+et les cimetières des espagnols seront respectés, et il donnera les or-
+dres nécessaires à ce sujet.
+
+
+ART. 12. Afin d'éviter des événements comme ceux qui ont occa-
+sionné la dernière guerre et faciliter autant que possible la bonne in-
+telligence entre les deux gouvernements, il a été convenu que le re-
+présentant de S. M. la Reine des Espagnes dans les États du Maroc
+résidera à Tétouan, ou dans la ville que Sa Majesté Catholique jugera
+la plus convenable pour la protection des intérêts espagnols et le
+maintien des relations amicales entre les deux États.
+
+
+ART. 13. Il sera conclu, dans le plus bref délai possible, un traité
+de commerce par lequel tous les avantages déjà accordés ou qui se-
+raient accordés à l'avenir à la nation la plus favorisée seront concédés
+aux sujets espagnols.
+
+
+S. M. le Roi de Maroc, persuadé de la convenance de cultiver les
+relations commerciales entre les deux peuples, offre de contribuer
+pour sa part à faciliter autant que possible lesdites relations, en
+ayant égard aux nécessités mutuelles et à la convenance des deux
+parties.
+
+
+ART. 14. Jusqu'à ce que le traité de commerce dont il vient d'être
+question soit conclu, les traités existant entre les deux nations avant
+la dernière guerre resteront en vigueur en tant qu'il n'y a pas été dé-
+rogé par la présente.
+
+
+Dans un bref délai, qui ne dépassera pas un mois après la ratifica-
+tion de ce traité, les commissaires nommés par les deux gouverne-
+ments se réuniront pour conclure le traité de commerce.
+
+
+ART. 15. S. M. le Roi de Maroc concède aux sujets espagnols la per-
+mission d'acheter et exporter librement les bois des forêts de ses
+États, en payant les droits, à moins qu'il ne juge convenable, par une
+disposition générale, de prohiber l'exportation à toutes les nations, sans
+que pour cela la concession faite à Sa Majesté Catholique par le traité
+de 1799 soit considérée comme changée.
+
+
+ART. 16. Les prisonniers faits par les troupes de l'une et de l'autre
+armée, pendant la guerre qui vient de finir, seront immédiatement
+mis en liberté et livrés aux autorités respectives des deux États.
+
+
+Le présent traité sera ratifié dans le plus bref délai possible, et l'é-
+change des ratifications aura lieu à Tétouan, dans le délai de vingt
+jours, ou plus tôt, si faire se peut.
+
+
+En foi de quoi les soussignés ont fait ce traité en langue espagnole
+et arabe en quatre exemplaires un pour Sa Majesté Catholique, un
+pour Sa Majesté Marocaine, un qui restera entre entre les mains de
+l'agent diplomatique ou du consul général d'Espagne au Maroc et le
+dernier pour le ministre des relations extérieures de ce royaume.
+
+
+Les plénipotentiaires l'ont signé et cacheté du sceau de leurs ar-
+mes, à Tétouan, le 26 avril 1860 (4 chival 1266 de l'hégire).
+
+
+Signé: LUIS GARCIA, THOMAS DE LIGUES Y BARDAJI,
+MOHAMMED-EL-JETIB, AJMAD-EL-CHABLI, fils d'ABD-
+EL-MELEK.
+
+
+DE L'ESPAGNE AVEC LE MAROC
+
+
+7. PIÈCE,
+
+
+- Convention du 24 avril 1859, ratifiée
+le 26 mai 1860.
+
+
+347
+
+
+A la suite du traité de paix et d'amitié entre la reine d'Espagne
+et l'empereur du Maroc, la Gazette de Madrid du 5 juin publie la
+convention aux termes de laquelle l'empereur de Maroc cède à
+S. M. Catholique, en plein domaine et souveraineté, le territoire
+voisin de la place espagnole de Melilla jusqu'aux points les plus
+opportuns pour la défense et la tranquillité de cette ville. Les limites
+de ladite concession seront tracées par des ingénieurs espagnols et
+marocains. Pour base de leurs opérations, afin de déterminer l'exten-
+sion de ces limites, les ingénieurs prendron la portée d'un canon de
+24. Entre les juridictions espagnole et marocaine, il sera établi un
+terrain neutre. L'empereur de Maroc s'engage à placer à l'extrémité
+de son territoire limitrophe avec Melilla un caid ou gouverneur avec
+un détachement de troupes pour réprimer tout acte d'agression de la
+part des habitants du Riff, susceptible de compromettre la bonne
+harmonie entre les deux gouvernements.
+
+
+Afin de prévenir les hostilités contre les places del Pegnon et d'Al-
+hucemas, l'empereur de Maroc pourvoira à ce que, dans le voisinage
+de ces places, il soit établi un caid avec des troupes suffisantes
+pour faire respecter les droits de l'Espagne et favoriser efficacement
+la libre entrée dans ces places des vivres et autres objets néces.
+saires pour leurs garnisons. Les détachements à placer sur les
+frontières de Melilla et dans le voisinage del Pegnon et Alhucemas se
+composeront expressément de troupes de l'armée marocaine, maro
+ce service puisse être confié à des chefs ni à des troupes du Riff.
+Cette convention a été signée à Tétouan, le 24 août 1859, corres-
+pondant au 24 de la lune de Muharram de 1276. Les ratifications ont
+été échangées à Tétouan le 26 mai 1860.
+
+
+8º PIÈCE.
+
+
+ans que
+
+
+Extrait du discours de S. E. M. Caldéron-Collantės, ministre
+des affaires étrangères, dans la séance des Cortés du 16 juin
+1860, concernant la question relative aux réclamations de l'An-
+gleterre avant la guerre avec le Maroc.
+
+
+On a fait grand bruit de notes anglaises dans la question de la
+guerre marocaine. Que demandait la note anglaise du 21 octobre?
+Que l'on désignât les points que les troupes espagnoles n'occuperaient
+pas. A cette exigence, que répondit-on sur-le-champ, sans hésiter?
+Nous demande-t-on l'engagement de ne pas occuper des points déter-
+minés? Nous avons commencé à traiter cette question avec dignité.
+Nous ne répondrons pas à la question qui nous est posée. Nous dirons
+seulement que l'Espagne n'occupera pas une position pouvant lui
+donner dans le détroit une supériorité périlleuse pour la libre naviga-
+tion de la méditerranée.
+
+
+Était-ce acquiescer à l'exigence du cabinet anglais demandant que
+l'on signalât des positions? Non, assurément. Si, dans l'extension des
+limites de Ceuta on croyait voir, par hasard, une supériorité dange-
+
+
+348 HISTOIRE DE LA GUERRE AVEC LE MAROC.
+
+
+reuse dans le détroit, cette question serait à débattre non pas avec
+l'Angleterre, mais avec toutes les autres puissances. Ne sait-on pas
+qu'il est une puissance forte au monde qui soutient la liberté des
+mers, et qui n'a pas voulu souscrire  des négociations pour payer au
+Danemark une indemnité pour le passage du Sund?
+
+
+Cette déclaration a été faite non-seulement à l'Angleterre, mais
+encore à toutes les puissances qui ont intérêt à la liberté des mers.
+Dans les notes anglaises, dans les documents y relatifs, quelles
+sont les pensées capitales? 1º L'Espagne ne consentira à l'interven-
+tion d'aucune puissance dans sa lutte contre le Maroc; l'Espagne a
+voulu rompre avec les traditions que lui avaient léguées des gouver-
+nements placés dans des situations différentes; 2º l'Espagne n'aspirait
+pas, elle n'aspire pas à une acquisition de territoire par la force.
+J'ajoute qu'il n'existe aucun document qui contredise, qui diminue,
+qui atténue même la teneur des documents soumis à la Chambre.
+
+
+Depuis la note du 21 octobre, il n'a été présenté qu'une note par le
+représentant d'Angleterre; elle était relative à l'attaque de Tanger.
+Une réponse avait été préparée; elle n'a pas été envoyée, d'un com-
+mun accord, et certainement elle ne pouvait pas satisfaire les désirs
+qui avaient été indiqués.
+
+
+Après ces considérations, je ne doute pas, messieurs, que vos votes
+ne soient assurés à la politique qui, au dedans et au dehors, a été
+suivie par le gouvernement de la Reine, politique ferme au dehors,
+digne, modérée et constitutionnelle au dedans.
+
+
+Nous n'oublions pas que la politique du gouvernement ne doit pas
+être circonscrite à l'Europe. Nous avons de hauts intérêts à défendre
+en Amérique, des possessions convoitées, des frères qui réclament
+notre protection et auxquels notre position ne nous a pas permis de
+donner encore tout ce qui leur est nécessaire. Eh bien! en de telles
+circonstances, il faut que le pays soit aussi uni que le permettront
+les questions intérieures et que, dans l'examen et la discussion de
+toutes ces questions, nous ne perdions pas de vue que la décadence
+de l'Espagne a été due à deux causes: l'une l'excès du pouvoir, et
+l'autre l'abus de la liberté.
+
+
+FIN.
+
+
+0
+
+
+Paris.
+
+
+Typ. Morris et Comp., rue Amelot, 64.
+
+
+00
+
+
+BIBLIOTHEQUE NATIONALE DE FRANCE
+
+
+37531 01441016 2

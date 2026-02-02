@@ -1,0 +1,409 @@
+# instrumentalisation-2018.pdf
+
+### European journal of Turkish studies Social sciences on contemporary Turkey  
+
+27 | 2018 Religion as a Foreign Policy Tool 
+
+# L’instrumentalisation de la religion dans l’Empire ottoman à l’époque de l’expansion européenne (1800-1914) 
+
+Un parcours à travers les fondements historiques des politiques turques d’aujourd’hui The instrumentalization of religion in the Ottoman Empire at the time of European expansion (1800-1914). A journey through the historical foundations of today’s Turkish policies 
+
+Paul Dumont 
+
+Édition électronique URL : https://journals.openedition.org/ejts/5933 DOI : 10.4000/ejts.5933 ISSN : 1773-0546 
+
+Éditeur Éditions de l’EHESS   
+
+Référence électronique Paul Dumont, « L’instrumentalisation de la religion dans l’Empire ottoman à l’époque de l’expansion européenne (1800-1914) », European Journal of Turkish Studies [En ligne], 27 | 2018, mis en ligne le 10 janvier 2019, consulté le 02 septembre 2025. URL : http://journals.openedition.org/ejts/5933  ; DOI : https://doi.org/10.4000/ejts.5933 
+
+Ce document a été généré automatiquement le 2 septembre 2025. 
+
+Le texte seul est utilisable sous licence CC BY-NC-ND 4.0. Les autres éléments (illustrations, fichiers annexes importés) sont « Tous droits réservés », sauf mention contraire.
+
+The instrumentalization of religion in the Ottoman Empire at the time of 
+
+European expansion (1800-1914). A journey through the historical foundations of 
+
+today’s Turkish policies 
+
+Paul Dumont 
+
+1 
+
+European journal of Turkish studies, 27 | 2018 
+
+2 
+
+3 
+
+Vers la mise en place d’une politique de containment 
+
+religieux 
+
+4 
+
+Küçük Kaynarca 
+
+European journal of Turkish studies, 27 | 2018 
+
+5 
+
+6 
+
+7 
+
+European journal of Turkish studies, 27 | 2018 
+
+8 
+
+ittihad-ı islâm 
+
+uhuvvet-i  din 
+
+la Revue des Deux 
+
+Mondes 
+
+9 
+
+Ibid 
+
+European journal of Turkish studies, 27 | 2018 
+
+Le califat à la rescousse de l’Empire 
+
+10 
+
+11 
+
+12 
+
+sayyid 
+
+European journal of Turkish studies, 27 | 2018 
+
+Kazasker 
+
+13 
+
+tarikat 
+
+Rifa‘i Mevlevis 
+
+Kadiris Senoussis. Naqshbandis  
+
+Sanusiyya zawiyas 
+
+14 
+
+European journal of Turkish studies, 27 | 2018 
+
+15 
+
+16 
+
+modus operandi 
+
+17 
+
+Le panislamisme à l’heure du turquisme 
+
+18 
+
+European journal of Turkish studies, 27 | 2018 
+
+19 
+
+20 
+
+21 
+
+Teşkilat-ı  Mahsusa 
+
+European journal of Turkish studies, 27 | 2018 
+
+Le sultan-calife, protecteur de l’islam en terres étrangères 
+
+22 
+
+23 
+
+24 
+
+khutba 
+
+25 
+
+European journal of Turkish studies, 27 | 2018 
+
+26 
+
+27 
+
+modus vivendi 
+
+28 
+
+European journal of Turkish studies, 27 | 2018 
+
+hüccet tapu  
+
+29 
+
+30 
+
+cheikh al-islam 
+
+charia 
+
+European journal of Turkish studies, 27 | 2018 
+
+fatwa 
+
+31 
+
+naïb 
+
+32 
+
+33 
+
+European journal of Turkish studies, 27 | 2018 
+
+34 
+
+tanzimat 
+
+BIBLIOGRAPHIE 
+
+Archives diplomatiques 1870. Recueil de diplomatie et d’histoire 
+
+Les grands traités politiques. Recueil des principaux textes diplomatiques depuis 1815 
+
+jusqu’à nos jours avec des notices historiques et des notes 
+
+The Chinese Sultanate: Islam, Ethnicity and the Panthay Rebellion in Southwest 
+
+China, 1856-1873 
+
+European journal of Turkish studies, 27 | 2018 
+
+ The Politics of Anti-Westernism in Asia. Visions of World Order in Pan-Islamic and 
+
+Pan-Asian Thought, 
+
+Brezilya’da İlk Müslümanlar. Brezilya Seyahatnâmesi 
+
+Algériens et Tunisiens dans l’Empire ottoman de 1848 à 1914 
+
+The Development of Secularism in Turkey 
+
+Questions diplomatiques et coloniales 
+
+ş Türkiye Diyanet Vakfı İslam Ansiklopedisi 
+
+L’Avenir de la Turquie : le Panislamisme 
+
+Revue des Deux Mondes 
+
+Revue des Deux Mondes 
+
+Italo-Turkish Diplomacy and the War Over Libya 1911-1912 
+
+Colonialism and Revolution in the Middle East: Social and Cultural Origins of 
+
+Egypt’s Urabi Movement 
+
+Guerre et paix en Afrique noire et à Madagascar. XIX-XXe 
+
+siècles 
+
+Reform in the Ottoman Empire. 1856-1876 
+
+Nouveau recueil de traités 
+
+d’alliance, de paix, de trève, de neutralité, de commerce, de limites, d’échange, etc. et de plusieurs autre 
+
+actes servant à la connaissance des relations étrangères des puissances et États de l’Europe : tant dans leur 
+
+rapport mutuel que dans celui envers les puissances et États dans d’autres parties du globe : depuis 1808 
+
+jusqu’à présent 
+
+Les confréries religieuses musulmanes 
+
+The Well-Protected Domains. Ideology and the Legitimation of Power in the 
+
+Ottoman Empire. 1876-1909 
+
+Studies in Ottoman Diplomatic History The 
+
+Ottomans and Africa 
+
+İttihat ve Terakki’nin Müslümanları İskân Politikası (1913-1918) 
+
+ş 
+
+The Sanusi of Cyreanica 
+
+Une voie soufie dans le monde : la Shâdhiliyya 
+
+Abdulhamid II le sultan calife  
+
+,  Islam and the Army in Colonial India: Sepoy Religion in the Service of Empire 
+
+European journal of Turkish studies, 27 | 2018 
+
+Studies on Ottoman Social and Political History: Selected Articles and 
+
+Essays 
+
+The Politicization of Islam. Reconstructing Identity, State, Faith, and 
+
+Community in the Late Ottoman State, 
+
+ş A Moveable Empire. Ottoman Nomads, Migrants and Refugees 
+
+Les relations turco-tchadiennes: la politique ottomane en Afrique centrale 
+
+ş 
+
+Türkiye Araştırmaları Literatür Dergisi 
+
+ş 
+
+İslam Araştırmaları Dergisi 
+
+Sayyid Jamal ad-Din al-Afghani: A Political biography. 
+
+The Politics of Pan-Islam. Ideology and Organization 
+
+Ş The Genesis of Young Ottoman Thought. A Study in the Modernization of Turkish 
+
+Political Ideas, 
+
+The Ottoman Scramble for Africa: Empire and Diplomacy in the Sahara and the 
+
+Hijaz 
+
+Recueil d’actes internationaux de l’Empire ottoman, traités, conventions 
+
+arrangements, déclarations, protocoles, procès-verbaux, firmans, lettres patentes et autres documents 
+
+relatifs au droit public extérieur de la Turquie 
+
+Namık Kemal ve İbret Gazetesi 
+
+« Les Chrétiens aux bêtes » : souvenirs de la guerre sainte proclamée par les 
+
+Turcs contre les Chrétiens en 1915 
+
+Dār al-Islām 
+
+, Correspondance d’Orient 
+
+ Europe and the Islamic World. A History 
+
+Old and New Islam in Greece. From Historical Minorities to Immigrant 
+
+Newcomers 
+
+Türkiye’de Çağdaş Düşünce Tarihi 
+
+Ottoman Foreign Policy during the Bosnian Annexation Crisis 1908-1909 
+
+European journal of Turkish studies, 27 | 2018 
+
+NOTES 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+European journal of Turkish studies, 27 | 2018 
+
+14. İbret 
+
+15. 
+
+16. 
+
+17. 
+
+. Sanusiyya 
+
+Chazilliya 
+
+18. 
+
+Teşkilât-ı Mahsusa 
+
+The Ottoman Government and the Arabs: A Preliminary Study 
+
+of the Teşkilât-ı Mahsusa, 
+
+19. supra 
+
+20. 
+
+21. 
+
+22. 
+
+23. 
+
+24. 
+
+25. 
+
+26. 
+
+27. 
+
+28. 
+
+29. 
+
+European journal of Turkish studies, 27 | 2018 
+
+30. 
+
+. 
+
+RÉSUMÉS 
+
+ʼ 
+
+INDEX 
+
+Keywords : 
+
+Mots-clés : 
+
+AUTEUR 
+
+PAUL DUMONT 
+
+European journal of Turkish studies, 27 | 2018 

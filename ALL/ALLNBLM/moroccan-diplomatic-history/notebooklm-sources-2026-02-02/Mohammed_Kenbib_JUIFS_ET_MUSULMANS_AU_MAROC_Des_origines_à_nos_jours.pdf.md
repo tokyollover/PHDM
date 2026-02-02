@@ -1,0 +1,11162 @@
+# Mohammed Kenbib JUIFS ET MUSULMANS AU MAROC Des origines à nos jours.pdf
+
+Mohammed Kenbib
+
+
+JUIFS ET
+MUSULMANS
+AU MAROC
+
+
+DES ORIGINES
+À NOS JOURS
+
+
+histoire
+partagée
+
+
+Projet
+ALADIN
+
+
+ALADDIN
+Project
+
+
+Tallandier
+
+
+Mohammed Kenbib
+
+
+JUIFS ET MUSULMANS
+AU MAROC
+
+
+Des origines à nos jours
+
+
+<<<< Histoire partagée >>>
+Tallandier/Projet Aladin
+
+
+<< Histoire partagée »
+
+
+La collection « Histoire partagée » présente douze ouvrages nouveaux
+consacrés à l'histoire des relations entre juifs et musulmans en terre
+d'islam, à leur héritage et patrimoine culturel et religieux
+méditerranéen et moyen-oriental commun. Elle retrace l'histoire de
+ces relations millénaires au Maroc, en Tunisie, Algérie, Espagne
+andalouse, Égypte, Israël-Palestine ainsi qu'au Yémen, en Turquie,
+Syrie, au Liban, en Iran, Libye et en Irak.
+
+
+Ces ouvrages doivent permettre aux jeunes générations nées dans les
+pays musulmans ou en Occident, d'avoir accès, dans leur langue, à
+cette histoire commune, avec les périodes de conflits, de tensions
+mais aussi une longue tradition de cohabitation et d'échanges.
+Un comité scientifique, composé d'universitaires de différents pays,
+présidé par le professeur Abdou Filali-Ansary, a veillé à la réalisation
+de cette collection, dirigée par le professeur Michel Abitbol. Cette
+collection s'inscrit dans la politique générale et éditoriale du Projet
+Aladin qui œuvre aux rapprochements interculturels notamment
+entre les mondes juifs et musulmans par la diffusion des savoirs et le
+rejet de toutes les formes de révisionnisme historique.
+
+
+Tallandier
+
+
+La collection << Histoire partagée >> est publiée avec le soutien de la Fondation pour la
+Mémoire de la Shoah, la Fondation Patrick et Lina Drahi, l'Institut Alain de Rothschild, la
+
+
+Cartes :
+
+
+région Île-de-France et The Tolkien Trust.
+
+
+☑
+
+
+Légendes Cartographie / Éditions Tallandier, 2016.
+
+
+Éditions Tallandier/Projet Aladin, 2016.
+
+
+2 rue Rotrou - 75006 Paris
+
+
+www.tallandier.com
+
+
+EAN: 979-10-210-2075-7
+
+
+Ce document numérique a été réalisé par Nord Compo.
+
+
+Dahir
+
+
+(décret royal)
+de Respect
+et Sauvegarde
+scellé en faveur
+d'un rabbin
+de Meknès.
+Archives Bargach.
+
+
+الحمد الله من
+
+
+ولا حول ولا فون اكدبا الله
+
+
+جردنا بحول الله وقوي وبينه ومنته  احزان سلوم بي تمويل
+عمار بي الي من السلامة مكناس ما بين من كتاب سيرنا الواثر المقر
+المنظمى توليه المصريين عم من أصل الدراسية المذكورين لصلاحية
+بران و اسر اداره به الملاحظة عليه والاعتبار و السكينة والوقار
+وتحرير من الكلف المغربية والسفالة العباء كلم عنه العالمية تحريرا
+تا ما نام الوافق عليه من القادة والعمال    عمر مما تضمنه
+واقتصال وختم و واربع علم 313 له.
+
+
+SABLAN
+
+
+ 17 10
+13
+
+
+MARO
+
+
+C
+
+
+Maillet, phot., Casablanca
+
+
+Un juif marocain et son épouse.  D.R.
+
+
+Musiciens juifs d'Essaouira (anciennement Mogador), fin xix® siècle. © D.R.
+
+
+Maison de Maïmonide à Fès. Fonds SIC-Miège, Archives du Maroc.
+
+
+Marché de Taroudant, 1920. Photo Flandrin.
+
+
+1
+
+
+Juifs priant pour la pluie, Essaouira, vers 1920.
+Collection Samuel Lévy.
+
+
+Le prince héritier Moulay Hassan, futur roi Hassan II, pendant l'office
+
+
+de Yom Kippour à la synagogue Beth El, Casablanca, 1959. Photo Maradji.
+
+
+Prix Martin Luther King décerné au roi Mohammed V pour la protection de
+ses sujets juifs pendant la période de Vichy, et remis à sa petite-fille S.A.R.
+Lalla Hasna. À droite de la princesse, le conseiller du roi Mohammed VI,
+André Azoulay, et les ambassadeurs du Maroc à Washington et à l'ONU,
+synagogue Bnei Yeshurun, New York, 20 décembre 2015.  Photo MAP.
+
+
+Préface
+
+
+Derniers vestiges de communautés nombreuses et enracinées qui
+comptaient encore plus d'un million de personnes au milieu du $XX^{e}$
+siècle, les juifs ne sont plus aujourd'hui que quelques milliers en pays
+musulman, concentrés principalement en Iran et en Turquie, ainsi
+qu'au Maroc et en Tunisie, ou encore dans le très lointain
+Azerbaïdjan. Événement majeur de notre temps, cette disparition des
+juifs du paysage humain des pays musulmans n'est pas sans
+conséquence sur la vision des uns par rapport aux autres : une vision
+désormais bâtie autour de mythes réducteurs et de simplifications
+pernicieuses qui, ajoutés aux conséquences dramatiques de
+l'interminable conflit israélo-palestinien et à la montée de l'islamisme
+radical, fait table rase de quatorze siècles d'histoire commune, autant
+constituée d'échanges que d'antagonismes, de compréhension que de
+rejet. Mais rarement d'hostilité irréductible, même aux pires moments
+de leur passé commun. C'est dire combien l'histoire des juifs en pays
+musulmans ne répond ni à l'un ni à l'autre des deux grands clichés
+couramment évoqués dans les médias et dans certains ouvrages
+polémiques  celle d'une expérience qui n'aura été dans l'ensemble
+qu'une suite ininterrompue de sévices et de persécutions ou, à
+l'inverse, celle d'un âge d'or de tolérance et de convivialité
+brutalement interrompu par la colonisation et le sionisme. Deux
+
+
+clichés contradictoires qui ont eu pour particularité commune de figer
+la vie juive en terre d'islam dans un tableau immobile,
+l'emprisonnant, une fois pour toutes, depuis le Prophète jusqu'à nos
+jours, dans des structures de pensée et des a priori théologiques et
+historiques immuables.
+
+
+Or, le trait distinctif le plus remarquable de l'histoire des juifs dans
+les pays musulmans réside dans sa grande diversité : il y a eu autant
+d'expériences que de communautés juives et musulmanes en Afrique
+du Nord et au Proche-Orient, et la liste des critères de différenciation
+est tout simplement infinie. Outre les grandes divisions d'ordre
+religieux entre islam sunnite et islam shiite, on ne peut oublier la
+grande variété des contextes culturels, sociaux et géopolitiques dans
+lesquels juifs et musulmans ont vécu, côte à côte, à travers les siècles
+: clivages culturels entre mondes turc, persan, arabe ou berbère,
+clivages socio-économiques entre milieux citadins et milieux ruraux,
+clivages politiques entre États structurés et entités anarchiques, entre
+l'Empire ottoman et ses provinces arabes où les juifs n'ont été
+qu'une minorité parmi de nombreuses autres et les pays du
+Maghreb où, jusqu'à la colonisation, les juifs ont constitué la seule
+minorité religieuse. Des environnements politiques et culturels très
+divers appelés à subir des changements extrêmes, à partir du $XIX^{e}$
+siècle, à la suite de l'intrusion du colonialisme européen, puis de
+l'émergence du sionisme et du nationalisme arabe, de la création de
+l'État d'Israël, de la décolonisation et, enfin, des guerres israélo-
+arabes des quatre dernières décennies, celle en particulier de juin
+1967 qui a mis un terme quasi définitif à la présence juive dans la
+plupart des pays arabes.
+
+
+Le Maroc, cas exemplaire de convivialité judéo-musulmane, est
+depuis trente ans le champ d'étude privilégié de Mohammed Kenbib,
+professeur à l'université Mohammed-V de Rabat. Le présent ouvrage,
+
+
+synthèse érudite et captivante, met en perspective la présence plus
+que bimillénaire des juifs dans le pays et souligne leur contribution
+multiforme à l'histoire, à la culture et au patrimoine du Maroc à
+différentes époques. Une attention particulière est accordée par
+l'auteur à leurs relations, quels qu'en aient été les aléas, avec les
+autres populations dans les campagnes et les villes, ainsi qu'à leur
+place dans les mutations économiques, politiques et sociales, au
+temps de la pénétration européenne au $XIX^{e}$ siècle, puis de la
+colonisation et du protectorat jusqu'au milieu du siècle suivant. Le
+dernier chapitre du livre traite des juifs du Maroc aujourd'hui, au
+moment où ils ne sont plus que 3 000 personnes, vivant
+essentiellement en Israël, en France, au Québec et ailleurs dans le
+monde. Récent indice révélateur de la pérennité du fait juif au
+Royaume chérifien, l'adoption en juillet 2011 du préambule de la
+nouvelle Constitution mettant en exergue la diversité de la culture
+marocaine et se référant explicitement cas unique dans le monde
+arabo-musulman – à son « affluent hébraïque ».
+
+
+Michel Abitbol et Abdou Filali-Ansary
+
+
+Introduction
+
+
+Situé à l'extrémité nord-ouest du continent africain, baigné par les
+eaux de l'Atlantique et de la Méditerranée, le Maroc a été de tout
+temps une zone de passage et un carrefour où se sont entrecroisés et
+brassés des apports provenant d'Afrique, du Moyen-Orient, d'Europe
+et d'ailleurs. Son peuplement en porte la marque. À la diversité
+ethno-culturelle, qui en est l'une des caractéristiques distinctives, ont
+notamment contribué les Berbères, les juifs, les populations venues
+d'Afrique subsaharienne, les Arabes, les Andalous (réfugiés au Maroc
+après la chute de Grenade en 1492), les Morisques (expulsés
+d'Espagne en 1609), les Beldiyyines (musulmans d'ascendance juive)
+et les Oulouj (captifs chrétiens convertis à l'islam).
+
+
+Les juifs, présents dans le pays depuis l'Antiquité, y ont vécu
+depuis leur arrivée vers le $v^{e}$ siècle av. J.-C. avec les Berbères
+(Imazignen) et ont interagi avec eux selon un processus complexe
+d'influences réciproques faites de berbérisation des uns et de
+judaïsation des autres. Cette cohabitation s'est poursuivie après les
+débuts de l'islamisation et, près de sept siècles plus tard, l'afflux de
+juifs dits Megorashim, expulsés d'Espagne en 1492 par les Rois
+Catholiques et se désignant comme la
+<<<
+saine communauté des
+expulsés » (qahal qadosh ha-meghorashim). Les coreligionnaires les
+ayant précédés formaient quant à eux la « sainte communauté des
+
+
+autochtones >> (qahal qadosh ha-toshabim). Des Marranes, venus
+d'Espagne et du Portugal, les ont rejoints par petits groupes ou
+individuellement.
+
+
+Toutes ces populations allaient vivre à partir du ix siècle sous les
+dynasties successives qui ont fondé aussi bien des cités dont elles ont
+fait leurs capitales (Fès, Marrakech, Meknès) que, pour ce qui est
+notamment des Almoravides et des Almohades, des empires
+s'étendant sur toute l'Afrique du Nord et une partie de la péninsule
+Ibérique. C'est dans ce cadre que se sont forgés, au fil du temps, les
+fondements de la cohabitation entre juifs et musulmans et qu'ont
+évolué leurs relations.
+
+
+Ponctués d'aléas, plus particulièrement en période de sécheresse,
+de révoltes tribales, d'interrègnes et de tentatives d'invasion
+étrangère, ces rapports allaient commencer à subir de profonds
+changements, frappés du sceau de l'irréversibilité, à partir du milieu
+du $XIX^{e}$ siècle, notamment après la défaite des forces marocaines à Isly
+face aux troupes françaises (1844), la signature du traité de
+navigation et de commerce imposé par la Grande-Bretagne en 1856
+et ayant ouvert la voie à l'insertion accrue du pays dans le marché
+mondial, et la guerre hispano-marocaine de 1859-1860.
+
+
+À ce processus allaient plus particulièrement concourir, au cours
+de la première moitié du xx siècle, les mutations économiques,
+sociales, culturelles et autres engendrées par le régime du
+protectorat, la Deuxième Guerre mondiale, la Shoah, la création de
+l'État d'Israël, les guerres israélo-arabes (1948, 1956, 1967, 1973) et
+les blocages du dialogue israélo-palestinien. Autant de facteurs
+cumulatifs qui allaient remettre en cause, à la longue, la pérennité
+même des communautés juives du Maroc, fortes naguère de quelque
+250 000 âmes, voire 300 000, et réparties à travers quasiment tout le
+pays.
+
+
+CHAPITRE PREMIER
+
+
+Les communautés juives du
+Maroc, des origines au début du
+e XIX siècle
+
+
+Enracinement et diversité des
+
+
+communautés
+
+
+LES TOSHAVIM
+
+
+Les origines de la présence juive au Maroc se perdent dans la nuit
+des temps. Diverses hypothèses la font remonter à la diaspora
+provoquée par la première destruction du Temple, voire, d'après
+certaines légendes, au roi Salomon, et évoquent aussi l'existence de
+principautés juives, notamment dans la vallée du Draâ, l'un des
+passages obligés des grands itinéraires caravaniers transsahariens.
+
+
+Des traditions orales vivaces soulignent la profondeur de cet
+ancrage et en perpétuent le souvenir. Celles qui ont été collectées à
+l'époque contemporaine auprès de vieux rabbins originaires des
+communautés du Sud se réfèrent à des réminiscences de la mémoire
+
+
+collective faisant état d'un blad es-seltan d-lihud (domaine du roi des
+juifs) dans leur région. Un rabbin d'Akka évoquait cette présence à la
+fin des années 1950 en ces termes : « Nous sommes les plus anciens
+juifs du Sud. Longue et pénible a été la marche de nos aïeux fuyant la
+Palestine [...]. Ils furent les seuls à éviter la captivité à Babylone [...].
+Nos pères [...] errèrent des dizaines d'années nomades et misérables,
+accablés par la soif et le désert [...]. Ľocéan les empêchant d'aller
+plus loin, ils s'installèrent dans les grottes. Quelques siècles plus tard,
+une ville juive (Ifrane) était née (dans le Sud marocain). Ils
+l'appelèrent la “petite Jérusalem". »
+
+
+Différentes interactions ont marqué les rapports entre juifs et
+Berbères. D'après Haim Hirschberg, la judaïsation de ces derniers
+résulte moins d'un prosélytisme conscient et systématique que de
+mariages mixtes entre juifs et Berbères. Les traditions orales qui lui
+sont opposées évoquent au contraire des rabbins venus de Palestine à
+une époque très ancienne pour judaïser les Berbères.
+
+
+Dans son étude sur l'Antiquité romaine, Gabriel Camps indique
+pour sa part que « le judaïsme rural du Maghreb s'enorgueillit d'une
+généalogie qui ferait remonter l'origine des Berbères jusqu'aux
+Cananéens » et qu'il est « remarquable [...], qu'après l'Afrique
+proconsulaire, ce soit la Maurétanie tingitane qui semble compter le
+plus de juifs ». À la fin du xix siècle, Philippe Berger a déchiffré l'une
+des traces de leur présence dans les villes. Il s'agit en l'occurrence
+d'une inscription en hébreu sur une pierre tombale trouvée à
+Volubilis, lieu de la plus ancienne inscription juive en Afrique du
+Nord, indiquant : « Matrona fille du rabbin Yehoudah. Qu'elle repose
+en paix ».
+
+
+Ibn Khaldoun affirme quant à lui, dans son Histoire des Berbères,
+qu'une partie des Berbères professaient le judaïsme. Parmi
+<<
+Berbères juifs, écrit-il, on distinguait les Djeraoua, tribu [...] à
+
+
+les
+
+
+laquelle appartenait le Kahena, femme qui fut tuée par les
+[conquérants] arabes [...]. Les tribus berbères juives étaient les
+Nefousa de l'Ifriquiya, les Fendelapua, Mediouna, Bahloula, Ghiata
+du Moghreb al Aqsa ».
+
+
+Au fil des siècles, les juifs ont fini par se considérer comme des
+autochtones et se dénommèrent eux-mêmes toshavim ou beldiyyine
+(gens du pays).
+
+
+Après l'avènement de l'islam¹, les anciennes communautés du
+Tafilalet, Draâ, Dadès et M’goun, par exemple, continuèrent à mener
+leur existence et leurs activités aux côtés des musulmans. Tel était le
+cas de la population de Tiylite, localité située dans la vallée du Dadès,
+au milieu de la tribu berbère Iourtguïne, qui semble avoir été à
+l'origine juive ou judaïsante, disposant de terres irriguées et
+représentant l'un des maillons du commerce caravanier².
+
+
+<<<
+
+
+D'un manuscrit de Tylit précisément paraît ressortir
+une
+hégémonie juive dans le Draâ au cours des premiers siècles de notre
+ère ». C'est dans cette même région qu'a prospéré Tamgroute³. Les
+juifs semblent avoir été à l'origine de sa création et en avoir fait la
+capitale d'une principauté. Elle ne perdit de son importance qu'aux
+VII-VIII siècles avec la fondation en 757 d'une autre ville, cette fois-ci
+par des musulmans, Sijilmassa. Véritable cité-État, elle devint le
+centre d'un royaume prospère, s'imposa comme un centre
+névralgique sur les routes de l'or, du sel et d'autres marchandises, et
+eut des relations commerciales suivies jusqu'aux bords du Niger au
+sud et aux Indes à l'est. Les juifs jouèrent un rôle de premier plan
+dans << [ce] port marocain du désert et terminal des caravanes allant
+vers le sud au Soudan et vers l'est au Caire via Kairouan ». Cette
+prospérité fut sans doute l'un des facteurs ayant favorisé au $X^{e}$ siècle
+l'essor des études talmudiques et le renom des rabbins entretenant
+
+
+des relations avec leurs collègues d'Andalousie, de Kairouan, de
+Bagdad et d'ailleurs.
+
+
+C'est dans ce contexte que S.D. Goitein situe la nature « organique
+>> des liens entre judaïsme et islam : « Jamais, écrit-il, le judaïsme ne
+s'est trouvé dans des relations si étroites et dans un état de symbiose
+si fécond que dans la civilisation médiévale de l'islam arabe. »
+
+
+Fès a représenté l'un des espaces de cette « symbiose ». Des
+Toshavim s'y établirent aussitôt après sa fondation sur un site
+appartenant, disent les chroniques, à « deux tribus berbères, les Beni-
+Irghech, qui s'adonnaient au culte du feu, et les Beni-al Khir (Khiar),
+qui professaient soit le judaïsme, soit le christianisme ». Désireux de
+faire de sa capitale une base d'islamisation du pays, Idriss II (781-
+829) permit cependant « à une foule de juifs, étrangers de toutes
+parts attirés par cette nouvelle [cité] », qui avait besoin d'eux pour
+développer ses activités artisanales et commerciales, de s'établir près
+de la partie nord de l'enceinte ouest « entre Hisn Saadoun et Aghlan
+[...] moyennant un tribut de 30 000 dinars or ».
+
+
+La ville devint un centre économique important. Elle finit aussi
+par s'imposer comme capitale spirituelle du pays grâce au renom de
+la Qarawiyine et de ses oulémas. Ses rabbins contribuèrent de leur
+côté à son rayonnement. Samuel ben Hofni, né à Fès vers 960, fut
+l'un d'entre eux. Versé dans les sciences sacrées et profanes, c'est à lui
+que des écoles babyloniennes, confrontées au caraïsme, firent appel.
+Il est considéré comme un précurseur de Maïmonide.
+
+
+À l'inverse de ceux de Fès, les juifs du Sud eurent davantage de
+difficultés à s'établir à Marrakech. Issu d'une confédération
+saharienne sanhaja, les Lemtouna, éleveurs et convoyeurs de
+caravanes percevant un tribut considérable sur les dhimmis, Yousef
+ben Tachfine, l'Almoravide ayant fondé cette ville en 1070, n'ignorait
+sans doute rien du rôle économique de ces derniers à Sijilmassa, dans
+
+
+divers centres du Coude du Draâ et à Aghmat. Le puritanisme sur
+lequel était basé le mouvement almoravide lui interdisait cependant
+d'autoriser la présence de juifs dans sa capitale parmi les « croyants ».
+S'y ajoutent aussi, sans doute, des considérations stratégiques d'ordre
+militaire et le fait que, dans sa conception initiale, Marrakech était
+essentiellement une place à partir de laquelle, dit Ibn Khaldoun, les
+troupes almoravides pouvaient harceler les tribus Masmouda des
+montagnes alentour.
+
+
+Son successeur, Ali ben Youssef ben Tachfine, assouplit quelque
+peu les dispositions prises à l'égard des juifs. D'après le géographe al-
+Idrissi (d. 1160), il leur permit d'entrer dans la ville « de jour et
+seulement pour leurs affaires et les services dont leur nation s'occupe
+spécialement ». Il fut précisé que « ceux qui s'y trouveraient après le
+coucher du soleil [mettraient en danger] leur vie ; leurs biens
+seraient à la merci de tout le monde ». Ce n'est qu'après le polissage
+progressif des mœurs des Almoravides au contact de la civilisation
+andalouse, et au vu de la symbiose culturelle qui la caractérisait, que
+les juifs purent s'établir à Marrakech. Avant que ne s'enclenche un tel
+processus, le puritanisme almoravide et les restrictions imposées aux
+juifs ne se limitèrent pas à cette seule ville. Fès aussi en fut affectée.
+Son cadi fut en effet autorisé, moyennant des indemnités, à les
+exproprier des maisons situées dans la zone prévue pour l'extension
+de la mosquée Qarawiyine.
+
+
+Le chef des Almohades, Ibn Toumert, se présentant comme le «
+Mahdi attendu pour remplir la terre de justice autant qu'elle était
+remplie d'iniquité », décida outre l'élimination de ses
+coreligionnaires, y compris ses propres contribules des environs de
+Tinmel qui refusaient de se plier à son dogme d'infaillibilité – de ne
+laisser d'autre choix aux juifs que celui de la conversion à l'islam, de
+
+
+l'exil ou de la mort. Dans leur désarroi, ces derniers abjurèrent ou
+quittèrent le pays. Quelques-uns se préparèrent à mourir en martyrs.
+
+
+Leurs communautés étaient en fait déjà traversées – de l'intérieur
+en quelque sorte et avant même le triomphe d'Ibn Toumert et de son
+successeur, Abdel-Moumem
+par des tensions messianiques et
+l'émergence de faux messies. De manière quasiment concomitante à
+d'autres aires géographiques (Cordoue, 1120), l'un de ces derniers
+jeta ainsi le trouble à Fès en 1147. Un autre, originaire du Draâ,
+Moussa Draï, se distingua par une vaste campagne annonçant
+l'arrivée du Messie. Désarroi et perplexité s'accrurent au vu de la
+conversion de personnalités religieuses. Passant outre le statut et les
+fonctions de son père, R. Yéhouda ben Abbas, président du tribunal
+rabbinique de Fès, Samuel ben Abbas embrassa l'islam en 1163, c'est-
+à-dire au moment même où Maïmonide terminait son Épître sur
+l'apostasie.
+
+
+D'après Al Qifti (d. 1248), l'auteur de Ikhbar al’ulama bi akhbar al
+hukama, « quand Abdel-Moumen ibn Ali [...] proclama l'expulsion
+des juifs et des chrétiens, il leur fixa un délai, et édicta que quiconque
+se convertirait à l'islam conserverait ses moyens d'existence et aurait
+les mêmes droits et devoirs qu'un musulman. Quant à ceux qui
+continueraient à suivre [leur] religion [...], ils devraient partir avant
+le terme fixé, sous peine de mort et de confiscation des biens. Quand
+le décret fut proclamé, ceux qui avaient peu de biens et de famille
+partirent. Mais ceux qui avaient de grandes fortunes [...] feignirent
+de se convertir à l'islam, tout en cachant leur infidélité ».
+
+
+Nahum Slousch, historien du début du $XX^{e}$ siècle, estime qu'après
+avoir rappelé les turbulences et les violences provoquées par un faux
+messie juif et ses partisans, il faut « supposer que les néo-musulmans
+de Fès n'eurent pas beaucoup à souffrir de la part des Almohades, si
+nous en jugeons d'après les faibles proportions de l'émigration des
+
+
+juifs de la région et surtout d'après un fait beaucoup plus
+caractéristique : le père de Maïmonide, se voyant dans l'impossibilit
+de continuer à observer les préceptes du judaïsme à Cordoue [...],
+préféra s'en aller à Fès [...]. Ce fut [là] que le jeune Maïmonide
+continua à approfondir la science juive et trouva le moyen de
+s'adonner aux sciences profanes dans l'intimité des savants
+musulmans de cette ville ».
+
+
+Moïse Maïmonide (d. 1204) avait été incité à une conversion de
+façade par le philosophe musulman Averroès. Même s'il avait fini par
+aller s'établir en Égypte (1165), il reconnaissait qu'il suffisait de faire
+semblant de prononcer la profession de foi musulmane pour éviter
+l'émigration. Son Épître sur la persécution, appelée aussi Sur la
+sanctification du Nom divin ou Épître sur l'apostasie (1162-1163),
+indique que « dans cette persécution on ne force pas à accomplir des
+actes, mais seulement à prononcer de simples paroles ». Il ajoute à
+l'intention de ceux qui, dans leur perplexité et leur désarroi, voulaient
+recueillir son avis : « À celui qui vient nous interroger pour savoir s'il
+doit se faire tuer ou reconnaître [la mission prophétique de
+Mohamed], nous lui répondons : qu'il reconnaisse et ne se fasse pas
+tuer . >>
+
+
+Dans les régions excentrées, notamment celles du Sud-Est, les
+rigueurs et les violences du mouvement almohade semblent avoir été
+d'intensité variable. Si la communauté de Sijilmassa paraît en avoir
+durement pâti, celle du Touat, d'après l'historien Michel Abitbol,
+semble avoir été épargnée.
+
+
+Sur le long terme et exception faite de la tourmente almohade,
+rien ne témoigne sans doute mieux de la relative discordance entre
+les prescriptions scripturaires et les réalités de la cohabitation au
+quotidien entre juifs et musulmans que les rappels à l'ordre que
+lançaient ponctuellement des oulémas et des fouqahas se posant en
+
+
+défenseurs de l'orthodoxie. Dans la vie de tous les jours, les dhimmis
+étaient si proches et si familiers que les censeurs, tenant à maintenir
+les différences, se sentaient dans l'obligation de leur rappeler qu'ils
+devaient se plier aux marques de subordination que stipule le fiqh.
+Pareils appels s'adressaient aussi aux gouvernants, critiqués pour leur
+laisser-aller en la matière.
+
+
+Toutefois, même lorsque ces derniers édictaient des mesures
+censées rendre plus visibles les différences, les résultats n'étaient
+guère probants. Il en fut ainsi lorsque l'Almohade Abou Youssef al
+Mansour (1184-1199) décida d'obliger les juifs convertis à l'islam à
+porter des signes vestimentaires distinctifs. Le chroniqueur al-
+Marrakûchi (d. 1228) fit ultérieurement le constat suivant : « Les juifs
+avaient les apparences de l'islam et priaient dans les mosquées mais
+8
+Dieu seul savait ce qui se passait dans leurs cœurs  . »
+
+
+Avec l'avènement des Mérinides, lesquels ont terminé la conquête
+de tout le Maroc en 1269, la dhimma fut rétablie de fait. Les juifs ou
+cryptojuifs reprirent la pratique ouverte du judaïsme. Ces Zénètes
+avaient progressé des régions orientales du Maroc vers l'ouest, suivis
+par
+<<
+plusieurs groupes juifs, déstabilisés par de multiples
+persécutions mais conservant la tradition zélote ». Pour atténuer les
+réactions et les violences que risquait de susciter le « retour » de ces
+derniers à leur religion, les souverains mérinides affectèrent aux
+contestataires potentiels, notamment les oulémas, chorfa et fouqahas
+de Fès, ville dont ils firent leur capitale, une partie des recettes de la
+jiziya. De telles mesures n'empêchèrent cependant pas les fouqahas
+rigoristes, ou servant des visées politiques et entretenant la suspicion
+même à l'égard des juifs convertis à l'islam, de reprendre leurs mises
+en garde contre les « menées pernicieuses des dhimmis ». Tel fut
+l'arrière-plan des émeutes qui éclatèrent à Fès en 1250 et en 1276. Le
+
+
+sultan Abou Yousef (1258-1286) réprima lui-même ces soulèvements
+marqués à leurs débuts par des violences contre les juifs.
+
+
+Pour se prémunir contre les débordements, les Mérinides
+décidèrent d'installer leur palais à l'extérieur des murailles de la
+vieille ville, à Fès-Jdid, de briser ainsi leur isolement et de se doter
+d'un personnel compétent à leur dévotion. Ils prirent à leur service à
+cet effet des juifs « islamisés » revenus au judaïsme et leur confièrent
+des fonctions financières et fiscales et de hautes charges à la cour.
+L'un des personnages les plus en vue à ce niveau fut Khalifa Ibn
+Roqqasa. C'est d'ailleurs ce qui encouragea un certain nombre de juifs
+persécutés en Espagne à venir s'établir au Maroc à partir de 1391.
+
+
+Une telle « promotion » de juifs et les initiatives fiscales prises à
+leur instigation furent autant d'armes dont se servirent les opposants
+au pouvoir en place. Leurs têtes pensantes à Fès étaient réceptives
+aux écrits antijuifs du cheikh syrien Taqqi-din Ibn Taymiyya. Des
+tolbas marocains avaient d'ailleurs été en contact avec ce cheikh à
+Damas et à Alexandrie. En 1465, l'un des « intégristes » les plus
+virulents, Abbel-Aziz Ouriaghli, prédicateur de la Qarawiyine, poussa
+les basses classes de la médina à se déchaîner contre les juifs. Avec
+d'autres éléments hostiles aux Mérinides, il passa outre l'opposition
+d'oulémas à ces violences tels que le mufti Mohammed al-Qawri et un
+adepte soufi, Ahmed Zarrouq, accusé par ses adversaires d'être juif.
+Ce fut dans ces conditions que périrent le sultan Abdelhaq et son vizir
+juif Haroun ben Battas.
+
+
+Le même schéma se reproduisit, près de trois décennies plus tard,
+dans une région excentrée mais névralgique pour le commerce
+caravanier : le Touat. Les communautés juives de ces oasis pâtirent en
+1492 d'une nouvelle flambée d'intégrisme. Leur persécuteur était un
+alem de Tlemcen, Mohamed ben Abdelkrim Maghili (d. 1503).
+Auteur d'un traité sur Le Statut des Ahl Dhimma, il croyait trouver
+
+
+dans la « remise des juifs à leur place » le sursaut nécessaire à la
+libération des ports nouvellement occupés par les Portugais (Tanger,
+Qsar Sghir, Larache, Azemmour). Lors d'un séjour à Fès, il avait mis
+en garde les Ouattassides, successeurs des Mérinides à partir de
+1477, contre les conséquences de leurs « compromissions » avec les
+dhimmis.
+
+
+Malgré le rejet de ses arguments par les oulémas de Fès, Maghili
+considéra que les juifs du Touat avaient violé leur statut canonique. Il
+appela donc les musulmans des oasis, qu'il dit avoir trouvés « plongés
+dans une profonde ignorance du chraâ et honorant les juifs », à
+détruire les synagogues et à châtier des gens ayant rompu un « pacte
+». Pour vaincre les réticences, il promit « sept mitqals par tête de juif
+». De nombreux persécutés durent alors émigrer ou embrasser l'islam.
+Les convertis formèrent là aussi, et à l'instar des Beldiyyine ou
+Mouhajirine de Fès, un groupe à part appelé « Mahadjeria ».
+
+
+MEGORASHIM ET MARRANES
+
+
+Les premières vagues de juifs chassés d'Espagne par les
+persécutions wisigothiques (589-694) et ceux qui, à la fin du XIV
+siècle et au $XV^{e}$ siècle (1391, 1468-1469), ont dû quitter l'Espagne à
+cause des progrès de la Reconquista formaient en quelque sorte des «
+proto-megorashim », même si des familles parmi ces derniers,
+intégrées aux autochtones, se considéraient comme toshavim. Les
+groupes qui les constituaient n'ont cependant pas eu l'importance
+numérique et l'influence culturelle qu'ont eues les quelque 20 000
+réfugiés établis dans le pays après la promulgation par les Rois
+Catholiques, en 1492, de l'Édit d'Expulsion de près de 165 000 juifs
+d'Espagne.
+
+
+Leur arrivée a été marquée par toutes sortes d'aléas. À terme, elle
+bénéficia cependant de la situation créée par l'effondrement
+démographique provoqué par les épidémies et les famines ayant
+dévasté le pays en 1468-1469 et 1492-1509. Des flux antérieurs
+étaient d'ailleurs survenus dans le contexte de la désolation et du
+vide consécutifs à la Peste noire (1348) et aux épidémies de 1391 et
+1413-1414. Partie prenante dans le brio de la civilisation andalouse,
+les Megorashim s'en sont fait les vecteurs après leur installation au
+Maroc, à l'instar des musulmans ayant dû quitter eux aussi la
+péninsule Ibérique pour ne pas vivre sous la « loi des infidèles ». Leur
+apport a été multiple, au niveau, par exemple, de l'artisanat, du
+vêtement, des arts culinaires et de la musique. Sur le plan
+spécifiquement intercommunautaire, ils ont introduit les ordonnances
+dites de « Castille », prohibant la polygamie.
+
+
+Cependant, leur sentiment de supériorité était tel qu'ils refusaient
+de se mélanger avec les autochtones, s'en tenaient à l'endogamie et
+érigeaient leurs propres synagogues pour ne pas avoir à prier dans la
+même enceinte que ceux qu'ils considéraient comme des primitifs.
+Inversement, ceux-ci voyaient en eux des éléments quasiment
+déjudaïsés. Jusqu'à une période relativement récente, il existait ainsi
+à Fès une synagogue dite des « Beldiyyines », distincte de celles des «
+Expulsés ». Le même phénomène de distanciation était d'ailleurs
+observable parmi les Morisques qui, à Rabat base d'activités
+corsaires leur assurant d'énormes revenus  , évitaient de côtoyer
+leurs « frères en religion » autochtones.
+
+
+Les préjugés nourris par les Expulsés à l'égard des Toshavim n'ont
+cependant pas empêché certains d'entre eux de s'établir parmi ces
+derniers, même dans les campagnes et le « Maroc profond ». Désireux
+de s'enfoncer à l'intérieur des terres, ils se sont en effet installés
+parmi les « gens du pays », dans le Haut-Atlas, l'Anti-Atlas et des
+
+
+régions présahariennes, loin des places fortes occupées sur les côtes
+par les Espagnols et les Portugais.
+
+
+Dans des phases ultérieures, des Marranes, soucieux de soustraire
+leurs biens aux confiscations du Saint-Office, se réfugièrent eux aussi
+au Maroc. Ils y reprirent la pratique ouverte du judaïsme comme
+purent le faire ceux d'entre eux s'étant établis aux Pays-Bas, alors
+qu'en Angleterre, par exemple, les juifs convertis au christianisme en
+Espagne ou au Portugal n'étaient admis qu'en tant que « chrétiens
+nouveaux ».
+
+
+Le gouverneur portugais d'Azemmour, place occupée en 1486,
+indique à ce sujet dans l'un de ses rapports que des éléments
+appartenant à ce groupe « débarquent sur les côtes marocaines sous
+prétexte d'acheter le blé, se fixent dans le pays, reviennent à leur
+ancienne religion [et mettent à la disposition des Maures] leur
+habileté dans la fabrication des fers de lance, des arbalètes et des
+arquebuses ». Dans un mémoire de 1539, un autre Portugais, João
+Afonso, dénonçait ceux d'entre eux qui parvenaient à se réfugier au
+Maroc, y retrouvaient des parents, retournaient au judaïsme et <<<
+pratiquaient leur art, fabriquant des fers de lance, des arbalètes et des
+espingardes ». Bastião de Vargas indiqua quant à lui que de nombreux
+marchands faisant partie des chrétiens nouveaux allaient à Fès, y
+redevenaient juifs et vivaient au mellah.
+
+
+Ces constats s'inscrivaient en partie dans l'esprit de croisade
+animant Portugais et Espagnols. Les premiers tentèrent d'envahir le
+Maroc avec l'intention de forcer musulmans et juifs à embrasser le
+catholicisme. Leur projet se termina par une débâcle. Les Megorashim
+s'empressèrent d'instituer des rituels de commémoration de la
+victoire d'Oued el Makhazine (4 août 1578), remportée par les
+Saâdiens sur le roi Don Sebastien. Un pourim dit de « los Cristianos »
+fut institué à cet effet à Tanger.
+
+
+Les Marranes essayant de se soustraire aux griffes de l'Inquisition
+continuèrent à se réfugier au Maroc, individuellement ou par petits
+groupes. Renouant avec la pratique ouverte du judaïsme, ils
+s'établirent là où ils trouvèrent les conditions qui leur convenaient.
+Les Megorashim chassés de Castille leur prodiguèrent de l'aide. Fès
+fut l'une de leurs destinations. Au xvi siècle, cette cité devint même,
+selon Haim Beinart, un « centre de prosélytisme et de retour de
+Marranes au judaïsme ». Des groupes entiers semblent avoir tiré
+avantage de l'expulsion de quelque 40 000 à 60 000 Morisques en
+1609-1614 pour quitter l'Espagne.
+
+
+Les mellahs : espaces de la vie juive et
+d'échanges
+
+
+LE PREMIER MELLAH du Maroc (Fès, 1438)
+
+
+À propos de ces quartiers, David Corcos note que « beaucoup de
+juifs préféraient vivre entre eux ; mais de nombreux autres, en Orient
+et surtout au Maghreb, vivaient côte à côte avec les musulmans. Il
+s'agissait parfois d'un choix délibéré que facilitaient [...] la
+conformité des civilisations musulmane et juive, à peu de différences
+près; un même monothéisme pur chez les uns et les autres. Les
+interdictions alimentaires procédaient d'un même principe [...]. Le
+fait d'être circoncis [...] était en pays d'islam [...] un signe de pureté
+de la plus haute importance 10
+».
+
+
+Au Maroc, la création d'un premier mellah à Fès (1438) pourrait
+être considérée comme la logique des rapports conflictuels des
+sultans mérinides avec les élites musulmanes de la cité idrisside. De
+
+
+fait, c'est au lendemain de l'émeute déclenchée contre leur pouvoir en
+1276, précédée d'ailleurs d'un autre grand soulèvement écrasé en
+1250, qu'ils résolurent de quitter l'ancienne médina, et de construire
+leur palais hors de ses murailles, à Fès-Jdid. C'est là qu'ils établirent
+des garnisons, une milice chrétienne et leurs courtisans juifs. Les
+coreligionnaires de ces derniers restèrent, dans leur écrasante
+majorité, là où ils vivaient, exposés à la vindicte de ceux qui en
+voulaient aux Mérinides. Le sultan Abou Youssef (1258-1286)
+menaça de châtier sévèrement leurs harceleurs.
+
+
+La décision de créer un quartier où les juifs pouvaient se
+regrouper, vivre entre eux et être mieux protégés fut directement liée
+à la volonté des sultans de préserver les dhimmis contre d'éventuels
+débordements de foules de la médina. D'autant que des juifs
+occupaient de très hautes charges à la cour depuis quasiment la
+fondation de la dynastie mérinide (et jusqu'à sa disparition) et
+s'étaient vu imputer une part de responsabilité dans les mesures
+fiscales impopulaires et la suppression des privilèges de groupes
+estimant y avoir droit de par leur ascendance chérifienne, leur
+appartenance « clanique » ou leur savoir religieux. Des chorfa, des
+oulémas et des fouqahas en particulier furent à la pointe de la
+défense des privilèges que les Mérinides cherchaient à remettre en
+cause. L'un des paradoxes de la situation résidait dans le fait que ces
+derniers avaient essayé de consolider leur pouvoir par l'impulsion
+donnée au chérifisme, notamment après la découverte « miraculeuse
+» à Fès en 1437 de la dépouille « intacte » d'Idriss II et la construction
+de nombreuses médersas.
+
+
+C'est à Fès-Jdid, non loin de leur palais, qu'un mellah fut érigé par
+les Mérinides. Ils voulaient ainsi soustraire les juifs à des violences
+qui risquaient de dégénérer contre leur dynastie. Ces derniers durent
+quitter la médina où un espace horm (inviolable) était décrété autour
+
+
+du tombeau d'Idriss II. Du fait de cet arrachement, ils vécurent un «
+amer et épouvantable exil ». Certains des leurs choisirent d'ailleurs
+d'embrasser l'islam plutôt que de quitter un cadre familier où ils
+possédaient des maisons et des magasins. Sarcastiques, leurs
+nouveaux coreligionnaires les qualifièrent de beldiyyine – dans le sens
+de convertis encore peu au fait de l'islam. Ils les appelèrent aussi
+mohajirs (« migrants ») et islamis. Les convertis ne s'imposèrent pas
+moins au sein de la société musulmane fassie. Ils finirent par devenir
+l'une des composantes essentielles de ses élites économiques et
+savantes.
+
+
+En témoigne la place qui fut la leur non seulement à la Qissarya,
+haut lieu du commerce des étoffes, mais aussi à la Qarawiyine où
+quelques-uns des leurs devinrent des alems de renom. Tel fut le cas
+de Mohamed Mayara et d'Abdeslam Guessous. Le premier
+reconnaissait ouvertement et fièrement son ascendance juive. Quant
+au second, c'est fermement qu'il tint tête au puissant Moulay Ismaïl
+sur la question de la création d'une armée composée exclusivement
+d'Abids (esclaves) à son entière dévotion.
+
+
+Comme d'autres communautés de même importance sur les plans
+démographique et économique, celle de Fès, accrue par l'afflux de
+Megorashim, bénéficiait d'une certaine autonomie dans la gestion de
+ses affaires internes, telles que la nomination de son chef (appelé
+cheikh al-yahoud) assurant la liaison avec les autorités musulmanes
+(Makhzen), du conseil qui l'administrait, du tribunal rabbinique
+(beth-din), etc. Cette autonomie incluait la répartition de l'impôt de
+capitation (jiziya), la gestion des biens de mainmorte (heqdesh),
+l'organisation de la bienfaisance, la formation de corporations à
+caractère religieux (assistance aux malades, inhumation des morts),
+la distillation de la mahiya, l'abattage rituel, l'accueil de rabbins-
+
+
+quêteurs venant de Palestine et la collecte de dons en faveur des
+indigents de Terre sainte.
+
+
+La fonction de cheikh al-yahoud, appelé aussi nagid, était à la fois
+prestigieuse, convoitée et compliquée, car elle se trouvait au centre
+de la régulation de la vie interne de la communauté et des rapports
+avec le Makhzen et les juridictions musulmanes (cadis). Ceux-ci
+jugeaient les litiges d'ordre commercial et immobilier entre juifs et
+musulmans et étaient parfois saisis par des juifs rejetant les décisions
+de tribunaux rabbiniques ou ne voulant pas leur soumettre des
+contentieux. D'ailleurs, même en matière de mariage et en dépit du
+discrédit, voire du herem, frappant tout recours aux cadis, certains
+éléments préféraient un contrat (sdaq) conclu devant des adouls
+musulmans à l'habituelle ketubbah rédigée devant des rabbins sans
+doute parce que celle-ci donnait davantage de garanties à la femme,
+principalement quant aux limites territoriales des déplacements du
+mari et en cas d'absence prolongée de ce dernier.
+
+
+Évoquant les relations entre le mellah et la médina de Fès, Léon
+l'Africain devait noter que « la plupart des orfèvres sont des juifs qui
+exécutent leurs travaux au Nouveau Fez et les portent dans la vieille
+ville pour les vendre [...]. On ne peut travailler en effet ni l'or ni
+l'argent [en médina]. Mais les souverains donnent aux juifs la
+permission de le faire [...]. Le tribut des juifs de Fez est fixé à quatre
+cents ducats par mois au profit du Trésor royal ».
+
+
+En sens inverse, des musulmans, citadins et ruraux, allaient au
+mellah effectuer des achats, écouler leurs propres produits,
+emprunter de l'argent, demander le report d'échéances de prêts,
+livrer des parts de récoltes ou de laines à leurs associés juifs dans des
+cultures et/ou de l'élevage, recourir aux services de couturières,
+passer commande d'articles d'importation, faire réparer des montres
+et des bijoux, se mettre au courant des nouvelles de l'étranger et de
+
+
+ce qui se passait en tribus (rapporté par les colporteurs qui battaient
+la campagne par tous les temps et attentifs à ce qui se disait autour
+d'eux). Quelques musulmans tenaient même dans ce quartier des
+échoppes appartenant aux Habous, dont des fours banals loués par
+d'autres musulmans qui déchargeaient les juifs du souci de l'entretien
+du feu pendant le shabbat.
+
+
+La vie des habitants de ce quartier reflétait l'évolution générale du
+pays. Les aléas climatiques et les calamités naturelles en étaient l'un
+des facteurs déterminants. Ainsi, en période de sécheresse et de
+famine, la communauté, incapable de venir en aide à la masse accrue
+des pauvres, était affligée non seulement par le spectacle de
+l'indigence et de la mort, mais aussi au vu de l'appel de miséreux,
+parfois à l'instigation de leurs parents, à la charité des musulmans et
+de leur apostasie. Il en fut ainsi en 1603-1608.
+
+
+En pareilles circonstances, les
+<<<
+sages parfaits
+>>
+de la
+communauté, le nagid, les rabbins et les notables prodiguaient des
+conseils, prenaient des mesures et les assortissaient d'ordonnances
+leur conférant un caractère sacré. Une taqqanah élaborée à cet effet
+en 1604 mit en garde contre « les torts causés à la qehila par les
+femmes qui sortent couvertes et parées de bijoux d'or et pierres
+précieuses appelés khalkales (anneaux des pieds), tazras (chaînes),
+'aqud d'al-juhar (colliers de perles), s'exposant à la vue des peuples
+dont elles excitent l'appétit et l'envie ». Les « sages » décrétèrent que «
+désormais, nulle femme, mariée ou vierge, ne portera les bijoux ci-
+dessus mentionnés [...] à l'exception des perles qui garnissent les
+boucles d'oreilles. Le port du frontal en soie est autorisé [...]. Mais le
+voile (kmār) dont on recouvre la nouvelle mariée est désormais
+prohibé, ainsi que les bijoux dont on lui pare le visage, désignés par
+le nom dlāyil, particulièrement ceux faits d'or et de perles [...] ».
+
+
+La prévention de telles imprudences s'imposait également avec
+force en période de turbulence politique. Les chroniques retiennent à
+cet égard les excès perpétrés au mellah de Fès en 1642 par les
+partisans du marabout de Dila, Mohamed el-Haj (d. 1671), troisième
+cheikh de la zaouïa établie par deux de ses prédécesseurs dans le
+Moyen-Atlas, ayant soumis à son autorité Fès, Meknès, Salé, Qsar el
+Kébir, Asilah et Tétouan. Un contemporain, Saadia Ibn Danan,
+rapporte à ce sujet qu'à « cause de nos iniquités, en l'an 5406 [...],
+toutes les synagogues [de Fès] furent fermées par ordre [de] Sidi
+Mohamed el-Haj... ».
+
+
+Les juifs, qui semblent avoir aidé l'Alaouite Moulay Rachid à
+s'introduire dans leur quartier et, de là, à s'emparer de Fès-Jdid, ne
+pouvaient que se réjouir de la défaite qu'il infligea au Dilaïte
+<<
+destructeur de synagogues [...], qu'il humilia jusqu'à terre ». À Fès
+même, indique Ibn Danan, « il s'empara du [gouverneur nommé par
+el-Haj], le fit empaler et autorisa à jouir du spectacle de son
+châtiment ignominieux quiconque en avait envie, juif ou Gentil ». Par
+la suite, ce fut à un juif, Aaron Carsinet, devenu son orfèvre, que
+Moulay Rachid eut recours pour nouer des relations commerciales
+avec les Français. Il reçut effectivement en 1666, à Taza, un
+marchand de Marseille, Roland Fréjus, muni de lettres patentes de
+Louis XIV. Ce fut d'ailleurs dans l'Oriental que se situa, à la confluence
+entre l'histoire et la légende, l'épisode dit Ibn Mechaʼal, juif supposé
+riche, se déplaçant en grand équipage, et puissant au point d'imposer
+un tribut à la médina de Fès. Moulay Rachid aurait, avec l'aide de
+tolbas, mis fin par la ruse à cet état de fait, libéré la cité idrisside du
+joug de ce personnage et confisqué ses richesses ¹1.
+
+
+Ľautre grand épisode de violences dont le mellah de Fès eut à
+pâtir survint plus d'un siècle plus tard, sous le règne aussi éphémère
+que sanglant (1790-1792) du sultan Moulay Yazid, successeur de Sidi
+
+
+Mohamed ben Abdallah (1757-1790), son père, qu'il essaya de
+renverser à cinq reprises. S'étant autoproclamé « Mahdi », il se mit en
+devoir d'assiéger Sebta (occupée par les Espagnols) à la fois pour se
+poser en combattant de la guerre sainte face à ses frères qui lui
+disputaient le pouvoir avec l'appui des Espagnols précisément, et
+pour obliger ceux-ci à lui rétrocéder les réserves d'or déposées chez
+eux par son père. Ayant dû lever le siège de Sebta pour se rendre
+précipitamment dans le Sud où le menaçaient ses compétiteurs, il «
+convoqua tous les musulmans de Marrakech à la grande mosquée
+[...] et en fit massacrer un grand nombre ».
+
+
+Cet éphémère sultan se montra particulièrement vindicatif à
+l'égard des juifs : il reprochait à ceux de l'entourage de son père
+d'avoir refusé de lui avancer les fonds dont il avait besoin pour rallier
+le corps des Abids à sa cause. Considéré comme une sorte d'Aman, il
+infligea des supplices aux éléments les plus en vue et laissa la
+soldatesque se livrer à toutes sortes d'abus. Qualifié de Néron et
+Caligula par les Européens, il disparut brutalement à Marrakech.
+L'événement fut célébré par un pourim. Son successeur, Moulay
+Slimane (1792-1822), annula les restrictions décrétées par Moulay
+Yazid et ordonna, sur la base d'une fétoua, la destruction de la
+mosquée érigée au mellah de Fès par celui-ci ¹2.
+
+
+LE MELLAH DE MARRAKECH
+
+
+Le second grand mellah, également situé à côté d'un palais, fut
+érigé à Marrakech par le Saâdien Moulay Abdallah (1557-1574) à la
+demande des juifs eux-mêmes. Parmi les notables ayant plaidé à cet
+effet figuraient en particulier les riches renteros auxquels ce sultan
+affermissait l'exploitation des sucreries et le monopole d'exportation
+de leur production, principalement en direction de l'Angleterre et des
+
+
+Pays-Bas. Ce souverain suivait en cela l'attitude observée à leur égard
+par le fondateur de la dynastie saâdienne, Mohamed Cheikh, dont
+deux réfugiés d'origine portugaise, Abraham et Isaâc Cabessa, avaient
+été les banquiers et les conseillers.
+
+
+De manière plus spécifique, ce fut vraisemblablement à
+l'instigation de ces renteros que Moulay Abdallah décida de faire
+construire un mellah à Marrakech, à proximité de son palais. Diego
+Torrès, un Castillan resté captif au Maroc pendant plusieurs années,
+indique à ce sujet que « [le sultan] fit faire quelques edifices fort bons
+Marroc [...]. Il fit faire une juiverie murée dans la ville [en un lieu]
+qui estoit pres de la porte où l'on va à Fez, où peuvent demeurer plus
+de deux mil personnes ; afin que tous les juifs vequissent ensemble,
+pource que de mon temps ils se tenoient en plusieurs juiveries parmi
+les Maures; il fit une bonne demeure assez bone pour les
+Chrestiens... »
+
+
+Dans la relation de son séjour à Marrakech (1606), le Français
+Jean Mocquet décrivit ce quartier spacieux, ses « beaux logis » et la
+fréquentation de ses « tavernes » par des musulmans en ces termes : «
+Cette Juderie [...] proche du palais du Roy est comme une ville à
+part, entourée de bonnes murailles et n'ayant qu'une porte gardée par
+les Maroc...; là demeurent les juifs au nombre de quatre mille et
+payent tribut. Il y a aussi quelques Chrestiens, et là demeurent aussi
+les agens et ambassadeurs des princes étrangers [...]. La ville de
+Maroc [a] comme de trois à quatre cent mille habitans. »
+
+
+LE MELLAH DE MEKNÈS
+
+
+Quant au mellah de Meknès, il fut érigé sous le règne de Moulay
+Ismaïl (1672-1727), lequel était mû par la volonté de créer un État
+fort. Pour couvrir les énormes besoins du Trésor et l'entretien d'une
+
+
+armée de près de 150 000 hommes, ce sultan ne se contentait pas du
+produit des impôts mais essayait de tirer avantage aussi du commerce
+maritime et de la course. Il encourageait à cet effet les grands
+négociants juifs. C'est parmi eux que se recrutaient ses principaux
+argentiers, lesquels intervenaient également dans les négociations de
+rachat des captifs chrétiens.
+
+
+Riche et entretenant d'étroites relations avec le sultan, l'un d'entre
+eux, Abraham Maïmoran, était nagid de sa communauté. Il bénéficiait
+à ce titre non seulement de larges pouvoirs mais aussi de privilèges.
+Un texte le décrit comme « un homme illustre par le commerce qu'il
+faisait dans le monde entier, avec les chrétiens et les juifs d'outre-mer
+et avec les gens du pays, avec les grands du royaume et les
+gouverneurs de Meknès, de Salé, de Fès, de Tétouan, de Taza et de
+Marrakech ».
+
+
+Dans son récit de l'ambassade effectuée à Meknès en 1721 par
+l'envoyé du roi George I , Charles Stewart, en vue de la conclusion
+d'un traité de commerce et du rachat de captifs anglais, l'un des
+membres de sa suite, John Windus, décrit en ces termes le mellah : «
+Les juifs vivent au milieu de la ville dans un quartier à part [...]. Les
+portes en sont fermées la nuit [...]. [Ils] ont un caïd chargé de garder
+les portes [...] et de les protéger [contre le pillage]. Ils sont obligés
+de se déchausser chaque fois qu'ils passent devant une mosquée [...].
+L'actuel caïd du mellah est un [vieil] homme ayant embrassé l'islam. »
+
+
+Quelque trente ans avant Stewart, l'ambassadeur français Pidou
+de Saint-Olon observait quant à lui que « le cheikh [du mellah] a un
+substitut [...] à qui il communique son autorité. Mais on observe que
+quoique les juifs aient [des cheikhs] et des juges particuliers de leur
+religion, de même que les rabbins et les grands-prêtres [...], ils
+recourent aux juges maures dès qu'ils ont le moindre différend entre
+eux ». $\hat{A}$ propos des synagogues, de Saint-Olon indique que « ce sont
+
+
+des maisons ordinaires [...]. Le jour du sabbat, ils y emploient
+presque toute la matinée à lire la loi de Moïse et à réciter les psaumes
+[...]. Ces synagogues sont garnies de nattes par dedans ». Le même
+observateur ajoute que c'est chez des juifs que des musulmans « vont
+souvent rendre visite pour y trouver à boire ».
+
+
+Des descriptions nettement plus tardives de ce quartier donnent
+une idée de l'opulence d'une minorité de riches marchands. C'est ce
+que releva Pierre Loti lors de son passage en 1889 à Meknès, où il fut
+l'hôte de Jacob Ohana, riche négociant bien introduit auprès de
+Moulay Hassan (1873-1894) : l'« intérieur de sa maison est d'un luxe
+étrange, écrit l'auteur d'Au Maroc. Au milieu d'un décor des mille et
+une nuits, les femmes sont couvertes d'or et de pierreries [...]. Toute
+la maison est décorée [...] dans le goût arabe le plus recherché. Lon
+pourrait se croire chez quelque élégant vizir 13
+».
+
+
+LES MELLAHS DE Rabat, SalÉ, EssAOUIRA ET TÉTOUAN $(XIX^{E}$
+SIÈCLE)
+
+
+Les autres mellahs, notamment ceux de Tétouan, Rabat, Salé et
+Essaouira, ne furent construits quant à eux qu'au début du  siècle
+(1806-1811). Le sultan qui en prit l'initiative, Moulay Slimane (1792-
+1822), surnommé « le Pieux » par ses sujets juifs, s'y résolut après la
+fin du règne sanglant de son prédécesseur, Moulay Yazid 14. Appelé au
+Maroc pour soigner un prince, un chirurgien anglais, William
+Lempriere, écrit à propos des juifs de Rabat : « Les maisons de cette
+ville sont en général bien bâties. On y trouve quelques habitants
+riches. Les juifs, qui sont très nombreux dans cette place, jouissent
+d'un meilleur sort que ceux de Larache et Tanger. Leurs femmes sont
+beaucoup plus jolies que toutes celles que j'ai vues dans les autres
+villes de Barbarie 15. »
+
+
+La construction de nouveaux mellahs sous Moulay Slimane à
+Rabat et dans trois autres villes est généralement attribuée à sa
+réceptivité au wahhabisme propagé par des pèlerins et des oulémas
+de retour de La Mecque. Le rigorisme véhiculé depuis le Hijaz se
+traduisit aussi par la promulgation d'un dahir interdisant les
+moussems et les pratiques confrériques jugées hétérodoxes. Ce
+souverain eut cependant un médecin personnel juif, Eliahu
+Outmezguine, et nomma des juifs à des postes importants dans
+l'administration financière et douanière ou leur confia des missions à
+l'étranger. Dans les médinas, des notables musulmans
+désapprouvaient d'ailleurs l'ordre donné à leurs voisins juifs d'aller
+s'installer ailleurs. À Tétouan, par exemple, ils encouragèrent en sous-
+main ceux qui cherchaient à éluder les injonctions de transfert.
+
+
+À Essaouira, les négociants juifs, dont les plus dynamiques
+évoluaient au cœur même du système des toujjar-sultan, continuèrent
+à résider dans la Casbah, aux côtés de notables musulmans et des
+autorités Makhzen. Leurs autres coreligionnaires devaient quant à
+eux s'entasser dans le mellah. Leurs dures conditions de vie dans ce
+quartier étaient en partie liées à la nature des rapports auxquels les
+soumettaient ceux que les Européens qualifiaient de << juifs de
+première classe » ou d « oligarchie ». Le consul de France écrit ainsi
+en 1864 que « les propriétaires juifs [...], parmi lesquels figure
+Abraham Corcos [...], l'un des négociants-banquiers les plus riches de
+la place, désireux de tirer profit des utiles modifications [...]
+apportées à leurs maisons par Sa Majesté chérifienne, [se sont]
+concertés afin d'augmenter les prix des loyers perçus sur la classe
+ouvrière, loyers dont le taux n'était que trop élevé déjà pour les
+indigents qui, par un labeur incessant, pourvoient à grand-peine à
+leur misérable existence 16 ».
+
+
+UN MELLAH TARDIF : DEMNATE (1887)
+
+
+De passage en 1883 à Demnate, petite ville située au pied du
+Haut-Atlas, non loin de Marrakech, Charles de Foucauld releva
+surtout l'absence d'un habitat juif distinct. Au nombre de 1 700, « les
+juifs, note-t-il, vivent pêle-mêle avec les musulmans, qui les traitent
+avec une exceptionnelle bonté ». Ces derniers formaient la majorité
+des 4 000 habitants de cette localité.
+
+
+Des relations pacifiques avaient longtemps prévalu entre les uns
+et les autres en dépit de toute une série de facteurs ne favorisant
+guère la préservation de rapports de bon voisinage. $\hat{A}$ la détérioration
+du climat intercommunautaire général à Demnate et ailleurs
+concouraient notamment la situation chaotique créée par six années
+consécutives de sécheresse, de famine, d'épidémies ayant dévasté
+tout le pays entre 1878 et 1884, le changement de mentalités en
+milieu juif amorcé par l'écho considérable qu'ont eu la visite effectuée
+à Marrakech par Moses Montefiore et le dahir scellé en février 1864 à
+sa demande par le sultan, ainsi que les échos du « lobbying » des
+associations juives d'Europe dans les coulisses de la conférence
+internationale tenue à Madrid en 1880 sur la question des protections
+étrangères.
+
+
+À Demnate même, cet état de fait fut accentué par les réactions
+suscitées par la bastonnade infligée à un juif de la tribu voisine des
+Ntifa, accusé de concubinage avec une musulmane, et les pressions
+exercées par les légations de Grande-Bretagne, de France et d'Italie
+en vue de la révocation du caïd de cette tribu. Un autre facteur
+déterminant était directement lié aux excès et expédients du
+gouverneur Haj Jilali ben Ali, personnage réputé << à poigne » et
+abusant de son pouvoir pour accroître sa fortune. Outre ses revenus
+agricoles, il intervenait également dans le commerce et cherchait par
+
+
+tous les moyens à monopoliser les échanges dans toute la région
+placée sous son autorité.
+
+
+Assailli par les protestations des légations, le sultan Moulay
+Hassan décida, lors de son passage à Demnate en 1887, de faire
+construire un mellah aux frais du Makhzen. Les juifs devaient s'y
+regrouper et être placés non plus sous l'autorité de Haj Jilali mais
+sous celle d'un caïd de l'armée et, par la suite, du gouverneur de
+Marrakech. Cette solution radicale fut adoptée avec l'accord des
+habitants juifs et musulmans de la ville, et consignée dans un acte
+notarié en date du 17 châabane 1304 (11 mai 1887) dans lequel les
+uns et les autres déclaraient accepter de plein gré la construction d'un
+nouveau quartier destiné aux premiers.
+
+
+L'habitat séparé n'atténua cependant que provisoirement les
+antagonismes auxquels il était censé mettre fin. Les désaccords entre
+les
+<<
+
+
+amis » et les adversaires juifs de Jilali persistèrent. Celui-ci
+réussit même, à la longue, à faire placer le mellah sous son autorité, à
+y louer des boutiques pour son compte personnel et celui de ses
+créatures, et à placer des éléments à sa dévotion au sein du comité de
+communauté et à la tête du beth-din. Il poursuivit de sa vindicte les
+censaux qui le concurrençaient.
+
+
+Toutefois, ce ne furent pas les protestations des légations ni la
+virulence des journaux tangérois le qualifiant de « bête féroce » qui
+vinrent à bout de ses excès. Dans le droit fil du rituel ayant ponctué
+les débuts de l'islam et gardé depuis lors une forte charge
+symbolique, ce furent les coups de poignard que lui asséna en pleine
+mosquée, lors de la prière collective du vendredi, l'un de ses
+administrés musulmans spolié d'un lopin de terre, un certain Nasser
+Hamadi Lafquih, qui mirent un terme à ses abus et à sa vie.
+
+
+Fondements de la cohabitation
+intercommunautaire
+
+
+PARLERS, TRADITIONS, COUTUMES, RELIGIOSITÉ POPULAIRE
+
+
+L'éducation était l'un des domaines empreints de nombreuses
+similitudes entre les milieux juifs et musulmans. Haïm Zafrani écrit à
+ce sujet que
+<<
+les méthodes traditionnelles d'enseignement en
+honneur dans les écoles chrétiennes, musulmanes ou juives du Moyen
+Âge sont restées vivantes [...] au heder et à la yeshivah, de même
+d'ailleurs que dans le msid ou la medersa. Elles consistent dans la
+formation d'automatismes mentaux et d'habitudes intellectuelles où
+répétition et mémorisation tiennent une place considérable [...].
+N'étant pas soumise à l'obligation de participer au culte, la jeune fille
+est dispensée d'apprendre aussi bien la loi écrite que la loi orale [...].
+Sauf de rares exceptions, elle ne sait ni lire ni écrire 17
+».
+
+
+Outre les méthodes proprement dites d'apprentissage, divers
+rituels étaient communs aux uns et aux autres. Il en était ainsi des
+cérémonies qu'organisaient les familles au terme, respectivement, de
+la fin du cycle au heder ou à la yeshivah, et, pour les musulmans, du «
+bouclage >>> de l'apprentissage des soixante versets du Coran. La
+terminologie même utilisée pour désigner la fin de ces cycles et ces
+cérémonies était quasiment la même : khtayem, pour les premiers, et
+khtama, pour les seconds. D'autres affinités formaient la toile de fond
+de la vie quotidienne des populations musulmanes et juives malgré
+les clivages ethno-religieux et les divers aléas ayant marqué leur
+cohabitation, notamment dans les phases d'affaiblissement du
+pouvoir central, de tension entre villes et tribus, de pénurie et/ou
+d'invasion étrangère.
+
+
+Dans les campagnes existaient ainsi des échanges de services et,
+ici et là, des marques de convivialité (malgré les limites dictées par la
+cashrut). L'habileté des artisans juifs dans le travail du fer et la
+réparation des instruments aratoires n'était pas la qualité la moins
+appréciée par leurs voisins musulmans. D'ailleurs, la reconnaissance
+par les uns et les autres de la communauté de diverses composantes
+de leur patrimoine culturel facilitait leur cohabitation en dehors
+même de toute considération utilitariste. L'onomastique constitue à
+cet égard un indice significatif : telle tribu berbère continuait à
+s'appeler Aït Cohen malgré l'ancienneté de son islamisation et la
+propagation de la langue arabe ; des familles juives portaient quant à
+elles des noms ou des surnoms berbères (Afriat, Amghar, Amzellag,
+Azencot, Bou Tahlast, Ouaknine, Ohana) 18.
+
+
+Plus significatives encore étaient la pratique par les deux groupes
+du culte des saints  les juifs en ayant près de 700 et, surtout, la
+vénération de saddiqim communs. La croyance aux pouvoirs
+miraculeux de ces derniers transcendait les clivages ethno-
+confessionnels. Elle drainait les foules autour des tombeaux de saints
+et de saintes dont l'invocation, assortie d'offrandes, était réputée
+guérir les malades incurables, rendre leur motricité aux paralytiques,
+redonner la fécondité aux femmes stériles, assurer le succès dans les
+affaires et porter malheur aux ennemis. Bon nombre de santons juifs
+avaient des moqadams musulmans, lesquels s'occupaient de
+l'entretien des lieux, et percevaient la part de ziaras non distribuées
+par les pèlerins aux nécessiteux19.
+
+
+Les moussems spécifiquement musulmans n'étaient pas dépourvus
+de toute présence juive. Ils allaient de pair avec la tenue de souks.
+Des marchands, colporteurs et artisans juifs y prenaient part. Leur
+rôle était notable dans bon nombre de « foires » se tenant en pareilles
+occasions. Ainsi, dans le Sous, le chef de la zaouïa d'Illigh leur
+
+
+accordait un intérêt particulier et les associait directement à ses
+propres transactions et au commerce à longue distance sur lequel se
+fondaient en partie ses ambitions politiques. Certains d'entre eux
+étaient d'ailleurs établis à Illigh même depuis fort longtemps. Ils
+constituaient, avec leurs coreligionnaires de la vallée du Draâ,
+d'importants intermédiaires sur la route des caravanes débouchant,
+via le Sous, à Essaouira 20.
+
+
+D'autres chefs de zaouïas, institutions confrériques et
+maraboutiques s'étant développées dans le contexte du « djihad »
+contre les envahisseurs espagnols et portugais, contribuaient eux
+aussi à garantir la sécurité des juifs, encourageaient leurs activités
+artisanales et commerciales, et facilitaient les déplacements de ceux
+d'entre eux qui s'adonnaient au colportage. Tel fut notamment le cas
+des Dilaïtes dans le Moyen-Atlas et des chefs d'Illigh avant la
+destruction de leur zaouïa par Moulay Rachid. Ces sanctuaires et
+d'autres servaient aussi de lieux de refuge pour les individus
+poursuivis par de simples particuliers ou par le Makhzen. Les juifs
+utilisaient également ce droit d'asile 21.
+
+
+Dans le climat de guerre civile ayant dévasté le pays après le
+décès de Sidi Mohamed ben Abdallah, les chefs d'Illigh ne furent
+cependant pas en mesure de secourir les juifs d'Oufrane, autre relais
+du commerce caravanier, persécutés en 1792 par un personnage
+surnommé Bou-Hlassa (« l'homme au bât »). Originaire de la tribu
+saharienne des Aït Ba-Amrane et se posant en thaumaturge, il était
+décidé à marcher sur Marrakech pour s'y faire proclamer en lieu et
+place de Moulay Slimane. En chemin, il réunit les juifs et leur donna
+le choix entre se convertir à l'islam ou être brûlés vifs.
+
+
+De telles extrémités demeuraient exceptionnelles. En période de
+stabilité, d'ordre, de pluviométrie normale et de bonnes récoltes, les
+relations étaient plus pacifiques. Un moment de l'année était
+
+
+particulièrement propice au dépassement des clivages et à des
+rapprochements qui semblaient suspendre les différences ethno-
+religieuses: c'était au sortir de Pessah (pâque) lors des célébrations
+des fêtes de la mimouna. Les musulmans, citadins et ruraux,
+déambulaient alors en grand nombre dans les rues des mellahs. Les
+fellahs des alentours venaient y vendre les produits dont les juifs
+avaient besoin pour la célébration de cette fête. Dans une sorte de jeu
+et de théâtralisation, ceux-ci avaient l'habitude à cette époque de
+l'année de revêtir les mêmes habits que ceux de leurs voisins de la
+médina. Ils sortaient également pour se promener en famille à la
+campagne et pique-niquer sur l'herbe sur les terres ou dans les
+vergers de leurs amis musulmans. Une telle visite était perçue par ces
+derniers comme faisant partie d'un rite propitiatoire porteur de
+baraka et annonciateur de bonnes récoltes 22.
+
+
+LES FONDEMENTS ÉCONOMIQUES
+
+
+La répartition des tâches qui existait de facto entre juifs (citadins
+en majorité) et musulmans (ruraux à plus de 90 %) représentait l'un
+des fondements de la cohabitation intercommunautaire. Cette
+répartition n'excluait pas toutes sortes d'association. Il en était ainsi
+en matière agricole. Habitués à prêter aux fellahs l'argent dont ils
+avaient besoin en période de soudure, moyennant des
+remboursements soit en numéraire, soit en nature, les juifs avaient
+des mokhalatas avec les seconds portant sur l'avance de fonds ou de
+semences, ainsi que sur l'achat de bétail en échange de l'engagement
+du cultivateur ou de l'éleveur de livrer à son associé et créancier une
+partie des récoltes ou du croît des troupeaux convenue d'avance.
+
+
+Cette interdépendance explique la désolation qui frappait
+musulmans et juifs en période de sécheresse. Pour implorer la
+
+
+miséricorde divine contre pareille calamité, les uns et les autres
+priaient, jeûnaient, se rendaient sur les tombes de saints vénérés et
+organisaient des processions rogatoires 23. Les juifs se trouvaient
+parfois dans des situations encore plus dramatiques que celles des
+musulmans. C'est à ces derniers qu'ils avaient recours dans certains
+cas pour atténuer leurs difficultés. Ibn Danan rapporte qu « en 5464
+(1704), nous étions dans la détresse lorsque le nagid [de Meknès],
+Abraham Maïmoran, envoya l'un de ses serviteurs à la communauté
+de Fès pour réclamer deux onces à valoir sur la somme qu'il leur avait
+prêtée. Il leur fallut en même temps rembourser cent cinquante
+mitqals prêtés par Mohamed ben Mellouk. On alla emprunter à un
+musulman, nommé Sidi Mohamed ben Jamil, du blé à intérêt,
+cinquante sahfas, à vingt-six onces la sahfa, à rembourser dans un an.
+Il leur prêta encore trente-six sahfas à titre gracieux [...]. La
+communauté vendit ce blé [...] et le nagid fut remboursé ».
+
+
+En l'absence de récoltes, les colporteurs juifs (attars) étaient les
+premiers à pâtir de la misère des fellahs. En temps normal et par
+mesure de sécurité, valable aussi pour les voyageurs et les marchands
+musulmans, les uns et les autres étaient obligés de se conformer à un
+certain nombre de règles, notamment celles de recourir à des zettats
+(guides rémunérés) garantissant leur sécurité et de s'arrêter à des
+nzalas (gîtes d'étapes) avant le coucher du soleil pour éviter de se
+faire attaquer par des pillards 24.
+
+
+Dans le domaine de l'artisanat, les mêmes règles s'appliquaient
+aux musulmans et aux juifs. Ils dépendaient tous du mohtasseb et
+relevaient des oumana de leurs corporations respectives. Les juifs
+s'imposaient en particulier dans la bijouterie et la fabrication des fils
+d'or et d'argent. Léon l'Africain en fit état dans sa description de Fès,
+indiquant qu'un marché était assigné en médina aux bijoutiers juifs
+qui venaient de jour y vendre les pièces travaillées dans les échoppes
+
+
+et ateliers de leur quartier 25. S'agissant de la fabrication de sqali (fil
+d'or) et de caftans, il existait d'ailleurs une véritable division du
+travail entre les maîtres artisans du mellah et ceux de la médina, les
+uns et les autres se partageant divers stades de la fabrication, veillant
+au respect des normes de production, contrôlant la qualité de la
+matière semi-finie importée et régulant les prix d'un commun
+accord 26.
+
+
+En raison de l'importance des fonds et de la sophistication des
+techniques utilisées, le sqali ne concernait qu'une minorité de maîtres
+artisans et d'artisans. D'autres métiers, pénibles et précaires,
+comptaient en revanche un grand nombre de travailleurs. Il s'agit des
+savetiers et matelassiers (kharraza), ferblantiers-rétameurs (qzadiya),
+fabricants de peignes à carder (qrashliya), tisserands (derraza), petits
+bijoutiers d'argent (noqqara) 27...
+
+
+La relation d'un missionnaire français venu à Meknès racheter des
+captifs chrétiens relève ceci : « Quoiqu'il n'y ait que fort peu de
+commerce dans [les] villes et au plus dans quelques villages, on ne
+laisse pas de distinguer aisément des autres jours celui que les juifs
+observent leur sabbat, car, ce jour-là, toutes les boutiques, soit des
+juifs, soit des Maures, sont fermées. » Non moins significatif est le fait
+que les marchés hebdomadaires ne se tenaient généralement pas le
+samedi.
+
+
+À Fès, le Fondak Lihoudi fut l'un des espaces et des symboles de
+cette complémentarité. Ce caravansérail était situé au cœur de la
+médina. Il représentait l'un de ses principaux espaces d'échanges. Des
+grossistes juifs s'y livraient à toutes sortes de transactions. Les
+bijoutiers du mellah ou les femmes agissant pour leur compte
+faisaient de leur côté du porte-à-porte pour proposer aux Fassies des
+bracelets et d'autres parures ou des soieries.
+
+
+Certaines des échoppes que tenaient des juifs appartenaient le
+plus souvent aux Habous (fondations pieuses), que ce soit dans les
+villes où existaient des mellahs (Fès, Essaouira, Tétouan, par
+exemple) ou là où ils vivaient « mélangés avec les Maures », comme
+l'écrit un voyageur européen (Tanger).
+
+
+Par ailleurs, et en matière de monnaie, les pratiques des ateliers
+de frappe régionaux perturbaient parfois fortement les cours du
+change, notamment en période de faiblesse du pouvoir « central ».
+Pour atténuer ce phénomène, des rabbins incitaient leurs
+coreligionnaires à se conformer aux dispositions et poids des pièces
+arrêtés par le Makhzen. Pendant la période d'anarchie ayant suivi la
+mort de Moulay Ismaïl (1727), une taqqanah de rabbins de Fès
+datant de 1750 décréta ainsi l'interdiction « à tout juif de fabriquer
+des dinars d'or et des pièces d'argent ou de le faire faire par un
+coreligionnaire ou un non-juif, que ce soit au mellah, à Fas-al-Jdid ou
+à Fas-al-Bali, l'opération devant être exécutée exclusivement sous la
+responsabilité de l'amine, Si Abd-al-Qader Aj-Jawahri, ou tout autre
+amine préposé à la frappe de la monnaie... Est en outre prohibé tout
+convoi d'or et d'argent dans une autre ville pour le même objet ou en
+vue de commercialiser ces métaux sur le marché des changes... ».
+
+
+SPÉCIFICITÉS D'UNE ÉLITE MARCHANDE : LES  TOUJJAR-SULTAN »
+JUIFS
+
+
+Jusque vers le milieu du XVIII siècle, du fait notamment de
+l'occupation des débouchés maritimes du Maroc sur la Méditerranée
+et l'Atlantique par les Espagnols et les Portugais à partir de 1397
+(mainmise des premiers sur Melilla) et 1415 (occupation de Tanger
+par les Portugais), les échanges extérieurs du pays se faisaient
+essentiellement avec l'Afrique subsaharienne et le Moyen-Orient. Et
+
+
+ce, même si à des époques antérieures le Maroc avait été l'un des
+intermédiaires obligés de l'Europe avec l'Afrique (notamment pour la
+poudre d'or) et avait eu des relations commerciales particulièrement
+actives avec les villes italiennes, y compris à l'époque des Almohades.
+Sous les Mérinides et les Saâdiens, ces relations ont été encore plus
+poussées et ont inclus l'Espagne, l'Angleterre et la Hollande. Les
+souverains de ces deux dynasties ont eu notamment recours à cet
+effet à des négociants juifs, principalement pour l'exportation de
+céréales et de sucre de canne.
+
+
+À la fin du XVIIe siècle, un envoyé de Louis XIV, Jean-Baptiste
+Estelle, reçu en 1698 à la cour de Moulay Ismaïl (1672-1727) – soit
+près de dix ans après qu'un ambassadeur marocain et fameux raïs des
+corsaires salétins, Abdallah ben Aïcha, eut été envoyé en ambassade
+auprès de Louis XIV à Versailles  , notait que les « habitants de ce
+royaume ne sont guère marchands; les juifs qui y sont en grand
+nombre en font presque tout le négoce, qui est considérable ». Au
+cours des XVII et XVIII siècles précisément, dans un contexte marqué
+par la mobilisation contre les Espagnols et les Portugais et le
+façonnement du sentiment national marocain, non moins
+remarquable furent, principalement à Rabat, Salé et Tétouan, les juifs
+qui contribuèrent à l'armement de vaisseaux de course que des
+Morisques, réfugiés au Maroc après leur expulsion d'Espagne (1609),
+lançaient à l'assaut de navires « chrétiens » en Méditerranée, dans
+l'Atlantique nord, et jusqu'à Terre-Neuve.
+
+
+Deux juifs originaires de Fès, Isaâc et Samuel Pallache, disposant
+d'entrées auprès du sultan Moulay Zidane, du gouverneur des places
+fortes que l'Espagne occupait au Maroc, le duc Medina Sidonia, et du
+prince d'Orange, Maurice de Nassau, se distinguèrent au cours de
+cette période par l'étendue des tractations auxquelles ils furent
+associés. Qualifié par le sultan de
+<<
+serviteur de notre auguste
+
+
+Maison, gérant avec zèle nos intérêts », le second, Samuel, « le
+dhimmi Chamouyel Bella'ich
+»,
+fut envoyé en ambassade à
+Amsterdam en 1608 pour sonder les Pays-Bas et savoir s'ils étaient
+disposés à faciliter une offensive marocaine contre l'Espagne, laquelle
+s'apprêtait à expulser les Morisques accusés de « conspirer avec les
+Maures 28
+».
+
+
+Après l'échec des tentatives de soulèvement envisagées par les
+Morisques, trop affaiblis par la répression qui s'était abattue sur eux
+lors de leur révolte de 1568-1570, et l'option de non-intervention
+retenue finalement par les Saâdiens, les réfugiés établis à Tétouan,
+Larache, Qsar el Kébir, Rabat et Salé se lancèrent effectivement dans
+la « guerre sainte en mer » (al jihad al bahri). Le successeur de
+Descartes à Madrid, le baron de Vaucelas, nota à ce sujet que « les
+Mauresques passés en Barbarie ont armé quelques vaisseaux et
+commencé à courre ». Ce sont des juifs qui les ont aidés à se doter de
+canons. Les frères Pallache en fournissaient déjà aux Saâdiens et se
+chargeaient aussi, en sens inverse, d'exporter des céréales
+marocaines, y compris à destination de l'Espagne. Un juif de moindre
+envergure originaire du Portugal, Aaron Querido, établi à Salé,
+apporta son concours aux corsaires de Rabat. Il s'entremit pour
+l'achat d'armes à Amsterdam 29.
+
+
+C'était d'ailleurs à des juifs qu'incombait l'écoulement, à Livourne,
+d'une partie des prises. Eux-mêmes et les Morisques semblent avoir
+tiré de gros profits de ce partenariat. D'autant que les premiers
+jouaient un rôle essentiel dans le rachat des captifs chrétiens. Ils en
+prenaient d'ailleurs quelques-uns pour leur propre service 30. Les
+religieux européens les redoutaient. Les auteurs des
+<<
+relations >>
+d'ambassades et de missions de rédemption reçues à la cour de
+Moulay Ismaël (d. 1727), à Meknès, insistaient sur les égards qu'il
+convenait d'observer vis-à-vis de conseillers et « argentiers du Roy »,
+
+
+tels Abraham Maïmoran, Moïse ben Attar, Haïm Toledano et Ruben
+ben Kiki. Aux dires du consul de Hollande à Salé, le premier,
+Maïmoran, bénéficiait auprès du sultan d « un crédit égal à celui du
+grand Colbert en France 31
+».
+
+
+Sous les règnes de Sidi Mohamed ben Abdallah (1757-1790) et
+Moulay Abderrahmane (1822-1859), le « système impérial » atteignit
+son paroxysme. Le premier de ces deux sultans lui assigna un rôle
+structurant au sortir de la phase d'anarchie ayant suivi la disparition
+de Moulay Ismaïl (1727). Pour éviter d'avoir à pressurer les
+populations et à entretenir une armée nombreuse, il choisit
+d'augmenter les ressources du Trésor par l'encouragement du
+commerce maritime. Il mobilisa à cet effet les marchands les plus
+dynamiques et leur ordonna d'opérer à partir d'une nouvelle cité
+portuaire, Essaouira. Cette stratégie alla de pair avec l'institution de
+monopoles sur divers produits et la signature de traités d'amitié, de
+commerce et de navigation avec l'Angleterre, la Suède, le Danemark,
+la France, l'Espagne et les États-Unis.
+
+
+Des juifs se distinguèrent à ce niveau. Bénéficiant de facilités et de
+dahirs de Respect et de Sauvegarde (Tawqir wa Ihtiram) leur
+garantissant des immunités fiscales et autres, les négociants mobilisés
+de la sorte contribuèrent à l'accroissement des revenus du Trésor et
+en tirèrent avantage. Du lot de ceux qui devinrent de fait de
+véritables conseillers du sultan émergent les noms de Mordechai
+Shriqui, Eliaho Lévy, Jacob Attal (d'origine tunisienne) et Samuel
+Sumbel - celui-ci ayant négocié des traités avec les Suédois et les
+Danois, incluant des clauses relatives au versement d'un tribut annuel
+au sultan en échange de la garantie de la sécurité de leurs navires
+dans les zones de la Méditerranée et de l'Atlantique où croisaient des
+corsaires marocains.
+
+
+Un juif de Padoue, Samuel Romanelli, rapporte à propos de
+l'opulence de ces négociants qu'ils « mangent des plats raffinés, se
+font jouer la meilleure musique, s'habillent des draps les plus fins,
+offrent à leurs femmes des habits de soie et les parent d'or, de perles,
+de rubis et d'émeraudes... Pour défier les musulmans, [ils] passent
+devant les mosquées sans ôter [leurs] chaussures ». Chez Eliaho Lévy,
+enrichi par les commissions et les présents reçus lors de la
+négociation de traités avec l'Espagne, la Suède, Venise et les États-
+Unis, il dit voir un signe de « la terreur divine et une abomination ». Il
+le qualifie de « personnage infâme [...], vaniteux, fanfaron [...] et,
+comme tous les parvenus, tant juifs que non juifs, prêt à faire le mal
+mais nullement le bien ». Quant à Jacob Attal, William Lempriere dit
+qu'il a « joué un grand rôle dans l'empire et [fait] plus de mal à lui
+seul que tous les suppôts du gouvernement 32 ».
+
+
+Le système ayant permis la diversification et l'accroissement des
+revenus du Trésor, ainsi que l'enrichissement des composantes juives
+et musulmanes de la classe marchande attachée au service du sultan,
+ne fut pas sans effets pervers. Les abus auxquels il donnait lieu
+dérivaient largement des monopoles royaux en tant que tels, dans la
+mesure où ils faussaient les règles du marché et nuisaient tant aux
+producteurs qu'aux consommateurs confrontés aux marchands les
+ayant affermés, tout-puissants car se prévalant de leurs liens avec le
+pouvoir.
+
+
+La sécheresse et la disette, comme ce fut le cas en 1777-1783,
+aggravaient la précarité de la situation des masses, poussaient les
+tribus à la révolte et à des guerres intertribales. La famine et le
+désarroi créaient aussi, ici et là, les conditions propices à l'émergence
+de mouvements millénaristes autour de personnages se présentant
+comme des « hommes de l'heure » (rajoûl as-sâa'a), capables de
+distribuer des biens à profusion. Ce fut dans ce genre de contexte que
+
+
+le prince Moulay Yazid chercha à déposer son père. Une fois proclamé
+sultan, il essaya de reprendre à son service les négociants juifs qui
+avaient échappé à sa tyrannie. Ľun des dahirs de Respect et de
+Sauvegarde qu'il scella à cet effet en octobre 1791 spécifiait ceci : «
+Le Commandeur des Croyants, Mohamed Yazid al-Mahdi [...]. À nos
+serviteurs les fils du rabbin Guedalia (Essaouira) [...]. Qu'ils sachent
+qu'ils sont parmi les ahl-dhimma et nos plus fidèles serviteurs comme
+ils l'étaient sous feu notre père [...]. Nous les maintenons dans le
+même rang en matière de commerce avec le pays des Rûm [Europe]
+et dans notre empire. Que quiconque s'associe à eux [...] soit rassuré
+quant à sa sécurité [...]. Ils disposeront absolument comme bon leur
+semblera de toutes les marchandises qui leur seront destinées. Nul ne
+pourra s'immiscer dans leurs affaires ni attenter à leur argent [sous
+peine] d'un sévère châtiment. »
+
+
+Son successeur, Moulay Slimane, tira profit quant à lui des
+désordres dans lesquels s'était terminé le règne de Sidi Mohamed ben
+Abdallah, et opta pour une réduction des échanges maritimes. Ce
+repli était cependant relatif. Le pays avait en effet toujours besoin de
+produits manufacturés et d'armes modernes. Cette nécessité relança
+la mobilisation des négociants juifs. De gros négociants, dont les
+frères Meir et Salomon Macnin, Haïm Guedalia, Moses Belisha,
+Semtob ben Attar, Joseph el Maleh, Addi Shriqui, Abraham Sicsu,
+Meir et Salomon Corcos, et Moses Benasul, se virent ainsi confier par
+le sultan toutes sortes de commandes. Chargés de percevoir des droits
+de douane à Tanger, Tétouan et Essaouira, certains d'entre eux
+reçurent le monopole d'exploitation du port de Safi. Ces éléments
+formaient, aux dires de l'agent espagnol Ali Bey Abbassi, de passage
+au Maroc en 1803-1804, « la classe la plus riche [...] et [étaient]
+même autorisés à s'habiller à l'européenne et à vivre comme les
+marchands des nations [chrétiennes] 33
+
+
+».
+
+
+Le sultan Moulay Abderrahmane (1822-1859) renoua pour sa
+part avec la stratégie de Sidi Mohamed ben Abdallah. Il relança les
+monopoles et essaya de donner une nouvelle impulsion aux échanges
+maritimes. Vraisemblablement inspiré tant par l'expérience de Sidi
+Mohamed que par le modèle que Mohamed Ali essayait de mettre en
+place en Égypte, il chercha à instaurer une sorte de « capitalisme
+d'État ». Et ce, dans un contexte où les Européens cherchaient au
+contraire à se faire ouvrir le pays et à restreindre sa liberté en matière
+douanière. Pour atteindre ses objectifs, il mobilisa les marchands les
+plus en vue. Il fit appel en particulier à Taleb Benjelloun, « le plus
+gros capitaliste du Maroc » d'après le chargé d'affaires de France à
+Tanger, Doré de Nion. Le personnage fut nommé ministre des
+Finances, puis promu grand vizir. Toutefois, comme les marchands
+musulmans se montraient parfois prompts à intervenir dans le champ
+politique et adoptaient une attitude frondeuse, comme cela se vérifia
+à Fès, Rabat et Tétouan, une place de choix revint dans la relance du
+système des toujjar-sultan à leurs homologues juifs, opérant seuls ou
+en association avec eux.
+
+
+La lettre adressée par le sultan en 1824 aux consuls regroupés à
+Tanger pour les informer de la concession de tout un port à Meir
+Macnin reflète cet état de fait. Riche négociant d'Essaouira ayant
+servi Moulay Slimane, lequel l'avait chargé en 1808 de l'achat de
+navires en Angleterre, ce personnage fut présenté par Moulay
+Abderrahmane en ces termes : « Sachez que nous avons [...] établi
+notre serviteur Meir Macnin à El Mahdouma [El-Jédida]. Il y sera
+indépendant et déterminera à sa guise les articles d'importation [et
+d'exportation]. Il s'agit d'une place où les marchands réalisent un
+commerce fructueux [...]. Que chacun de vous écrive à sa nation
+pour l'informer de l'ouverture de ce port³4 [...]. »
+
+
+Entre 1830 et 1844, les marchands de cette envergure se
+distinguèrent par la fourniture d'armes à l'émir Abdelkader. Avec
+l'aval du sultan, ils multiplièrent les livraisons à celui qui, à ses
+débuts, voulait passer pour un lieutenant de Moulay Abderrahmane,
+menant le djihad en son nom. De Nion rapporte à ce sujet : « Les
+Maures envoient gratuitement à l'émir des chevaux, des bêtes de
+somme, du blé [...]. Les juifs [sont] au centre du dispositif de
+ravitaillement d'Abdelkader » à partir de Gibraltar. Ľun des leurs,
+Judah Benoliel, était l'oukil (consul) du sultan sur le Rocher. Ce fut
+par son intermédiaire que celui-ci fut informé de la chute d'Alger qui,
+écrit de Nion, « jeta la consternation parmi les Maures 35
+».
+
+
+CHAPITRE II
+
+
+Mutations et permanences
+(1830-1912)
+
+
+Le contexte des relations
+
+
+intercommunautaires entre 1830 et
+
+
+1880
+
+
+LES JUIFS DU MAROC DANS LA STRATÉGIE DES PUISSANCES
+
+
+L'évolution générale du Maroc au $XIX^{e}$ siècle fut largement
+déterminée par son insertion dans le marché mondial à partir des
+années 1850, les coups de boutoir que lui assénaient les puissances
+européennes, les hésitations du Makhzen quant à la mise en œuvre
+de réformes susceptibles de l'aider à mieux résister aux empiétements
+étrangers, les multiples contradictions auxquelles il se trouva pris du
+fait même de ces réformes, et toutes sortes d'autres facteurs.
+
+
+Ce fut dans ce contexte que s'amorça la désarticulation des
+structures économiques et sociales traditionnelles du pays, que ses
+institutions devinrent de plus en plus anachroniques et inadaptées au
+
+
+nouvel environnement créé par l'accentuation de la pénétration
+européenne, que s'esquissa un changement des mentalités, et que les
+populations prirent conscience du renversement de l'équilibre des
+forces au profit de l'Europe. Les défaites militaires subies
+respectivement face aux Français à Isly en 1844 et aux Espagnols à
+Tétouan en 1859-1860 en furent les manifestations les plus brutales.
+
+
+L'intensité de ces pressions se répercutait sur les relations
+intercommunautaires, d'autant que celles-ci subissaient aussi les
+effets des rôles que les puissances assignaient aux juifs autochtones.
+À ce processus concourait également l'attention accrue que les
+dirigeants des grandes associations juives européennes et américaines
+accordaient à leurs coreligionnaires du Maroc.
+
+
+Dans la stratégie adoptée à l'égard des juifs du Maroc, l'Angleterre
+et la France bénéficièrent de leur longue expérience en matière de «
+protection » des minorités dans l'Empire ottoman. Au Maroc, les juifs
+formaient l'unique minorité ethno-religieuse autochtone. Ils avaient
+de tout temps attiré l'attention des Européens. Quasiment aucune de
+leurs notes ou relations de voyage ne manque de mentionner leur
+nombre, leur répartition géographique, leur statut, leurs us et
+coutumes, l'organisation interne de leurs communautés, leurs
+activités économiques et commerciales, leurs rapports avec les
+musulmans et les perceptions qu'ils avaient des chrétiens.
+
+
+Au lendemain de la perte de ses possessions au Canada au profit
+des Anglais, la France avait élaboré un Projet de conquête de l'empire
+de Maroc (1764), présenté à Louis XV. Le ministère de la Marine
+soupesa les chances de succès d'une telle entreprise et envisagea de
+proposer la protection française des juifs du pays en échange de leur
+aide. Un contre-projet estima cependant qu'il était hasardeux de
+compter sur les juifs, car ils risquaient de « refuser la protection
+
+
+chrétienne par crainte d'un massacre général [et] du fanatisme de
+populations barbares ».
+
+
+Par conséquent, à l'idée de conquête fut finalement substituée
+celle d'un traité de commerce. Cette dernière option se traduisit trois
+ans plus tard par l'envoi d'une ambassade à Marrakech, menée par le
+comte de Breugnon, et la conclusion d'un traité (1767) qui
+représentait, du fait de la clause de la nation la plus favorisée
+reconnue aux autres puissances, un tournant majeur dans les
+relations entre le Maroc et l'Europe. La convention de commerce et
+de navigation que les Anglais ont imposée au sultan Moulay
+Abderrahmane ben Hicham en 1856 se situa, d'une certaine manière,
+dans la continuité des clauses du traité de 1767, renouvelé en 1780
+et 1790.
+
+
+Ce fut sur la base de l'extension à des autochtones des privilèges
+capitulaires reconnus initialement à leurs propres ressortissants, pour
+stimuler le commerce maritime et accroître les revenus douaniers du
+Bit-al-mal (Trésor), que les puissances européennes se mirent en
+devoir de s'attacher les services des juifs marocains. Dans leur
+optique, l'élément juif était en effet « ouvert à la civilisation » et
+disposé à servir de relais au « progrès » dans un pays resté « barbare »
+et réfractaire à tout ce qui venait des « chrétiens », alors que les
+musulmans demeuraient, au contraire, « bigots et fanatiques ».
+
+
+Dans un Mémoire sur la situation du Maroc en 1866, le premier
+secrétaire de la légation de France à Tanger, A. de Couronnel, écrivit
+ainsi que « les juifs [sont] les seuls [Marocains] pour lesquels il existe
+[un bel] avenir. Ce sont des courtiers habiles, des intermédiaires
+indispensables entre Européens et indigènes. Plus le commerce se
+développe, plus les juifs étendent leurs relations au détriment des
+indigènes. [Ceux-ci] voient leurs affaires dépérir même s'ils
+bénéficient de l'aide du sultan [...]. Soutenus par l'esprit de corps qui
+
+
+les anime, les juifs font des progrès quotidiens [...]. Instruits, ils ont
+une supériorité incontestable sur les Maures ignorants ».
+
+
+L'intérêt que les Européens leur portaient et les liens commerciaux
+et autres qu'ils établissaient avec eux en en faisant des partenaires
+commerciaux, des « censaux » (courtiers) ou des <<< drogmans »
+(interprètes) provoquèrent des changements de comportements
+parmi les juifs qui étaient en rapport avec eux. $\hat{A}$ ce phénomène
+contribuèrent aussi les allées et venues au Maroc de leurs
+coreligionnaires d'Algérie et vice versa. De cet état de fait témoigne
+une lettre adressée par le sultan Moulay Abderrahmane au consul
+général de France à Tanger dès 1832 : « Sachez que les juifs de notre
+pays fortuné ont reçu des garanties dont ils bénéficient moyennant
+l'exécution des conditions imposées par notre Loi religieuse aux gens
+qui jouissent de la protection [...]. Si les juifs respectent ces
+conditions, notre Loi défend de verser leur sang et ordonne de
+respecter leurs biens mais, s'ils violent une seule condition, notre Loi
+bénie permet de verser leur sang et de prendre leurs biens [...]. Si
+chez vous [les juifs] sont vos égaux en tout, s'ils sont assimilés à vous,
+c'est très bien dans votre pays mais pas dans le nôtre [...]. Celui qui
+ne veut pas observer les obligations [du pacte] n'a qu'à rester dans
+son pays, car nous n'avons pas besoin de son commerce, s'il est
+exercé dans des conditions contraires à notre Loi bénie ¹. >>
+
+
+Les individus incriminés dans le cas d'espèce faisaient scandale
+par, entre autres, le verbe, l'adoption ostentatoire du costume
+européen et des déplacements à cheval. Le Makhzen les accusa
+pratiquement de menées subversives. D'autant que certains d'entre
+eux, adjudicataires de la ferme d'impôts, taxes et octrois, éludaient le
+remboursement de leurs dettes envers le Trésor. Le sultan stigmatisa
+cet état de fait. Il déclara ainsi au gouverneur de Tétouan en mai
+1842 qu'il avait appris que « les juifs [...] sont animés à l'égard des
+
+
+Français [...] d'une impatience dépassant celle que leur inspire
+l'Antéchrist. Ils s'attendent chaque jour à les voir débarquer [au
+Maroc]. Leur illusion est telle que, contrairement aux autres
+négociants [musulmans et chrétiens], ils s'abstiennent de verser au
+Trésor les mensualités dont ils sont débiteurs [...]. Dès réception de
+la présente, oblige-les à régler la moitié de leurs dettes envers Notre
+Majesté Chérifienne. Accepte [même] les paiements en marchandises
+à leur cours actuel² ».
+
+
+Dans ses instructions aux gouverneurs et aux caïds, le sultan
+veillait cependant à établir une nette distinction entre, d'un côté, les
+juifs qu'il accusait de <<< menées sataniques » et s'exposant à des
+représailles de la part de musulmans et, d'un autre côté, la majorité
+des dhimmis qui vaquaient tranquillement à leurs occupations.
+
+
+RETOMBÉES DE LA GUERRE HISPANO-MAROCAINE (1859-1860)
+
+
+Essayant de rattraper son retard par rapport à l'Angleterre,
+prééminente sur la scène marocaine, et à la France, avantagée par sa
+présence en Algérie, l'Espagne ne pouvait qu'être stimulée dans son
+expansionnisme par la faiblesse militaire du Maroc, avérée après la
+bataille d'Isly. Elle avait elle-même testé sa marge de résistance en
+1848 en occupant sans coup férir les îles Jaâfarines, à l'embouchure
+de l'oued Moulouya.
+
+
+Dix ans plus tard, ce fut pour réaliser de nouveaux acquis
+territoriaux qu'elle tenta, à l'occasion de la précarité de la phase
+d'interrègne entre le décès du sultan Moulay Abderrahmane (1822-
+1859) et la proclamation de son successeur, Sidi Mohammed (1859-
+1873), d'étendre les limites de Sebta. Pour ce faire, elle construisit un
+fortin hors des limites de cette ville, hissa un drapeau sur son toit, et
+exigea le châtiment des notables de la tribu voisine des Andjara
+
+
+lorsque leurs contribules essayèrent de résister à ces empiétements.
+Comme le sultan refusait de livrer ces notables, pour ne pas entacher
+sa légitimité, le gouvernement espagnol déclencha ce qu'il appela la
+Guerra de Africa.
+
+
+L'inflexibilité des Espagnols, le débarquement de troupes à Sebta,
+l'attitude attentiste des Anglais et leur peu d'empressement à livrer
+les canons que le sultan leur avait commandés provoquèrent la
+panique à Tétouan, premier objectif des forces d'invasion. Comme
+cela avait été le cas en 1844, au moment du bombardement
+d'Essaouira par l'escadre du prince de Joinville, les juifs qui en
+avaient les moyens cherchèrent refuge à Gibraltar et en Algérie, avec
+l'appui du Board of Deputies of British Jews. Les notables de la
+médina essayèrent quant à eux de s'éloigner le plus possible de leur
+ville. Le processus d'exode fut accéléré par le pillage dont le mellah et
+la médina eurent à souffrir au cours de la nuit du 5 février 1860.
+
+
+Les violences perpétrées par les troupes et hommes de tribus
+battant en retraite démoralisèrent encore plus complètement les
+notables musulmans. Terrorisés, ce fut sans combat qu'ils se plièrent à
+l'ultimatum du général O'Donnell leur enjoignant d'ouvrir les portes
+de leur cité en échange de la promesse de sauvegarde de leurs vies et
+de leurs biens. Ces engagements n'empêchèrent ni le pillage par les
+officiers et les soldats espagnols des maisons et des magasins de la
+médina précipitamment abandonnés par les éléments ayant fui avant
+que leur ville ne soit assiégée et occupée, ni la profanation de
+mosquées et de mausolées.
+
+
+Le mellah ne fut pas non plus épargné. Malgré les timides vivats
+en vieux castillan à l'adresse de la reine avec lesquels les habitants de
+ce quartier, encore sous le choc du pillage subi le 5 février,
+accueillirent les envahisseurs, ceux-ci n'en multiplièrent pas moins les
+brutalités à leur égard. Ils les soumirent à toutes sortes de corvées, les
+
+
+forcèrent à racheter des biens volés en médina et leur imposèrent des
+dragonnades. Des jeunes filles en furent les premières victimes. Les
+bébés des mères célibataires nés de viols durent être livrés à des
+sœurs franciscaines. Des conversions au catholicisme furent célébrées
+dans la grande mosquée de la ville transformée en cathédrale.
+
+
+La compassion de musulmans à l'égard des familles victimes de
+violences n'atténua que passablement les ressentiments créés en
+médina par l'implication de marchands juifs dans le recel de biens
+volés par les Espagnols. Le climat intercommunautaire, tendu
+pendant les deux années d'occupation de la ville (1860-1862), ne
+s'améliora guère par la suite du fait de la non-rétrocession de ces
+biens et du rejet par le sultan de toute demande d'indemnisation des
+victimes. Les risques de représailles contre non seulement les
+receleurs avérés mais aussi leurs coreligionnaires furent du reste au
+centre des préoccupations du Board of Deputies of British Jews et de
+l'Alliance israélite universelle (AIU) lorsque commença à s'esquisser
+la perspective d'une évacuation des forces d'occupation. Le chef de la
+légation britannique à Tanger, John Hay Drummond Hay, intervint à
+cet effet auprès du sultan, sur instructions du Foreign Office, sollicité
+par le Board. Il l'incita à prendre les dispositions nécessaires pour
+assurer l'ordre à Tétouan et la sécurité de ses habitants juifs.
+
+
+Sidi Mohamed fit siennes les recommandations de Hay. Il rappela
+Abdelkader Achache au poste de gouverneur. Appartenant à une
+famille qui << trustait » depuis longtemps déjà le pachalik de Tétouan,
+le personnage était réputé « à poigne ». Il entretenait de multiples
+relations d'affaires avec les négociants juifs les plus riches de la ville,
+possédait des biens immeubles au mellah, dont des maisons en
+copropriété avec certains d'entre eux, et intercédait fréquemment en
+leur faveur auprès du sultan. À partir de 1862, son travail fut en
+partie facilité par le départ des éléments du mellah les plus
+
+
+compromis, lesquels s'étaient empressés de s'éclipser pour aller
+s'établir en Algérie, en Palestine, voire en Amérique du Sud.
+
+
+Pour réactiver les institutions de la cité et faciliter la reprise du
+cours normal de ses activités, le gouverneur rappela à leurs postes le
+mohtasseb et le cadi. Le sermon prononcé lors de la prière célébrée le
+premier vendredi après le départ des Espagnols représenta une autre
+indication de la volonté non seulement du Makhzen en tant que tel
+mais aussi de divers segments de la population de la médina d'assurer
+une  transition » pacifique. Les habitants de la médina réclamaient
+quant à eux des sanctions et ne renonçaient pas à tout espoir de
+vengeance et de récupération de leurs biens pillés, même si le sultan
+leur recommandait de « s'en remettre à Dieu », affirmant que « le
+Tout-Puissant veillera Lui-même à compenser les pertes qu'il a
+décidées ».
+
+
+Confronté aux pressions des gouvernements européens, Sidi
+Mohamed ben Abderrahmane devait faire face aussi à la révolte qui
+embrasait le Gharb et risquait de s'étendre vers Meknès et Fès. Le
+chef de cette rébellion, une sorte d'illuminé issu de la tribu des
+Rouagha, enflammait les foules et leur promettait toutes sortes de
+biens, « y compris les chevaux du sultan ». Après sa capture et son
+élimination, grâce à un traquenard, les juifs de Meknès furent les
+premiers à se réjouir d'avoir échappé au pillage dont les menaçaient
+ses partisans et à instituer un pourim (dit) el-ma'gaz (« le fainéant »).
+
+
+LES PREMIERS JALONS DE L'ŒUVRE SCOLAIRE DE L'AIU
+
+
+C'est au cours de cette phase de turbulences que deux délégués
+du Board et de l'AIU, Haim Picciotto et Albert Cohn, vinrent s'assurer
+que la transition se passait effectivement sans heurts à Tétouan et
+œuvrer à l'amélioration des conditions générales de vie de leurs
+
+
+coreligionnaires. De fait, la mission de Cohn, entreprise avec l'appui
+officiel du gouvernement français, devait s'avérer plus que décisive
+car elle a préparé la mise en place dès 1862 de la première école de
+l'Alliance israélite universelle au Maroc.
+
+
+Attachés à ce qu'ils appelaient le « relèvement moral » de leurs
+coreligionnaires d'Europe centrale et orientale et de l'Empire
+ottoman, ce fut en effet à Tétouan que les dirigeants de l'AIU
+choisirent de fonder leur première école en terre d'islam. Ils mirent
+ainsi en place le noyau d'un réseau scolaire qui allait s'étendre à
+d'autres villes et localités du pays. L'enseignement de type moderne et
+la diffusion de la langue française au sein des communautés juives en
+furent l'une des manifestations les plus marquantes. Lune et l'autre
+contribuèrent fortement à l'émergence de nouvelles mentalités et
+aspirations, ainsi que de nouveaux comportements. Toutes sortes de
+mutations s'ensuivirent.
+
+
+Les rabbins et les marchands du mellah de Tétouan ne virent pas
+au départ d'un bon œil la création d'une école qui risquait de
+concurrencer l'enseignement religieux et était porteuse des germes de
+remise en cause de l'ordre traditionnel et des hiérarchies sociales.
+Arguant du soutien matériel qu'ils apportaient déjà aux hederim,
+Talmud Torah et beth midrashim (séminaires rabbiniques), les
+notables restaient réticents face à ce projet, d'autant qu'il était prévu
+de faire une place dans la nouvelle école aux filles. Or, comme celles-
+ci n'étaient pas obligées de participer au culte ni de se plier à un
+rituel équivalent à celui de la bar-mitzvah, elles n'allaient auparavant
+ni au heder ni, a fortiori, à la yeshivah. Sauf exceptions, les femmes
+étaient analphabètes. Dans ces conditions, s'engager à apprendre à
+lire et à écrire aux fillettes équivalait, dans une certaine mesure, à
+révolutionner les mœurs et à enclencher, avant la lettre, la promotion
+des femmes. D'autant que l'apprentissage de la lecture et de l'écriture
+
+
+devait s'accompagner d'un embryon de formation professionnelle,
+portant notamment sur l'utilisation de la machine à coudre, la coupe
+de tissus et la préparation à des métiers, y compris celui d'institutrice.
+
+
+Au départ, Albert Cohn n'était appuyé sur place que par Menahem
+Nahon, vice-consul de France et chaud partisan du projet d'éducation
+moderne car convaincu de la nécessité de préparer les juifs du Maroc
+aux changements que la pénétration européenne n'allait pas manquer
+d'engendrer. L'émissaire de l'AIU s'attacha à dépasser les blocages et à
+enclencher le processus de « régénération du peuple juif » dans cette
+partie du monde. Sa force de persuasion, le prestige que lui valaient
+ses séjours en Terre sainte finirent par convaincre quelques notables.
+À cet infléchissement contribua en particulier le grand rabbin Isaac
+ben Oualid. Ce fut à son instigation que le projet initial d'école laïque
+tel que le concevait Cohn fut réajusté et dut inclure des cours d'«
+histoire sainte » et des séances réservées aux rabbins.
+
+
+Au cours des premières années de sa mise en place, le
+fonctionnement de l'école, inaugurée le 23 décembre 1862, ne fut
+cependant pas aisé. Aux difficultés matérielles, liées en partie à
+l'indigence des familles qui, objectivement, avaient le plus besoin de
+scolariser les enfants mais n'avaient pas les moyens de contribuer aux
+frais d'écolage, s'ajoutaient celles que créaient l'apprentissage de la
+modernité dans un environnement traditionnel, ainsi que les
+préjugés, les malentendus et les désaccords entre parents, d'une part,
+et les maîtres et/ou directeurs étrangers, d'autre part.
+
+
+Cette école n'en représenta pas moins, sur le long terme, le noyau
+initial de l'enseignement moderne en milieu juif et du réseau scolaire
+que l'AIU s'attacha à créer et à développer entre 1862 et 1912 dans
+d'autres villes du Maroc. Ľ'éducation qui y était dispensée contribua
+activement à la propagation du français, la diffusion de nouveaux
+idéaux, notamment ceux de liberté, d'égalité et de droits de l'homme,
+
+
+et l'émergence de nouvelles mentalités. Elle créa des tensions entre
+ceux qui se percevaient comme des
+<<<
+évolués  et les
+<<
+vieux
+mouchoirs » attachés au statu quo et aux hiérarchies sociales d'antan.
+Le fossé culturel fut encore plus net entre les premiers, à la fois
+francophones et francophiles, et un environnement musulman au sein
+duquel les élites regardaient davantage vers l'Orient que vers
+l'Occident. Tel était le cas des Tétouanais de la médina, plus
+particulièrement ceux d'ascendance morisque, lesquels partageaient
+avec leurs voisins du mellah diverses composantes d'un background
+culturel andalou commun. Il en était ainsi de bribes de vieux
+castillan, de musique, de certains éléments du costume et des parures
+des femmes des couches aisées ou riches. En outre, en matière
+économique, des marchands musulmans entretenaient eux aussi,
+parfois en association avec des juifs, des relations commerciales avec
+Gibraltar, Cadix et d'autres ports de la rive nord de la Méditerranée,
+ainsi qu'avec l'Algérie. Quelques rares éléments étaient également au
+fait de la modernité. Membre d'une ambassade envoyée à Paris en
+1845-1846, un lettré tétouanais, Mohammed Seffar, était parmi eux.
+Dans la relation de son séjour en France, restée sans écho, il fait état
+de progrès techniques tels que le train et les locomotives à vapeur, de
+l'éclairage des rues, de l'imprimerie, du rôle des « gazettes », de
+l'émancipation des femmes, de l'institution parlementaire, du
+monopole de la force armée par l'État, etc.
+
+
+L'AFFAIRE DE SAFI ET LA VISITE DE MOSES MONTEFIORE
+(1863-1864)
+
+
+Dans le contexte tourmenté de « l'après-Tétouan », le ministre
+d'Espagne à Tanger, Francisco Merry y Colom, exigea du Makhzen,
+sous la menace d'une nouvelle intervention militaire, l'exécution
+
+
+publique de quatre jeunes juifs de Safi accusés d'avoir, en juillet
+1863, empoisonné un de ses compatriotes pour le voler. Et ce, en
+dépit des réserves d’oulémas quant à la validité d'aveux arrachés sous
+la torture.
+
+
+Les Espagnols étaient en effet sortis vainqueurs de ce qu'ils ont
+appelé la Guerra de Africa et avaient dicté des conditions de paix
+financières et territoriales draconiennes. Ayant toutefois dû évacuer
+Tétouan moyennant une lourde indemnité, ils n'en gardaient pas
+moins le sentiment d'avoir manqué « une occasion unique de réaliser
+un grand dessein national », c'est-à-dire occuper une grande partie du
+Maroc. C'est pourquoi le chef de leur légation à Tanger, Merry y
+Colom, saisissait tous les prétextes pour faire plier le Makhzen. Ce fut
+dans ce contexte qu'il réagit avec une rare violence au décès, le 30
+juillet 1863, d'un dénommé Mantilla, agent espagnol affecté à la
+douane de Safi, et fit siennes les rumeurs accusant d'assassinat ses
+domestiques juifs.
+
+
+Sur la base des aveux de l'un des accusés, un jeune de 14 ans,
+torturé en présence d'un agent consulaire espagnol, trois autres juifs,
+dont deux étaient des sujets marocains, Chalom el-Qaïm et Jacob
+Benharroche, et le dernier ottoman, Elias Benillouz, furent arrêtés et
+bastonnés à leur tour. Ils
+<<<
+avouèrent » eux aussi avoir assassiné
+Mantilla et incriminèrent d'autres coreligionnaires. Près d'une
+douzaine de juifs au total, dont deux femmes, furent arrêtés et
+fouettés. Aucune autopsie ne fut pratiquée. Deux chirurgiens se
+trouvaient pourtant à bord des bâtiments de guerre espagnols
+dépêchés sur place pour obliger le Makhzen à châtier rapidement les
+inculpés³. Le cadi de Safi, un « Mahométan craignant Dieu » selon
+The Jewish Chronicle, avait, quant à lui, déclaré nul l'aveu d'un crime
+obtenu sous la contrainte (ikrah). Il en avait fait part à son
+homologue juif, le dayyan Sadia Rebboh⁴.
+
+
+Face au drame qui se nouait devant eux, les chefs de légations s'en
+tinrent à un inhabituel wait and see. Le ministre espagnol en profita
+pour exiger du Makhzen aussi bien l'exécution immédiate des deux
+juifs marocains que la satisfaction, sous peine de débarquement dans
+le Rif de troupes concentrées à Malaga, des conditions fixées par un
+autre ultimatum concernant l'expulsion des tribus de la bande de
+territoire devant être incluse dans le périmètre de Melilla.
+
+
+5
+
+
+Le sultan cédas. Des oulémas de Marrakech essayèrent de donner
+un fondement légal à sa décision. Ils déclarèrent conforme au chraâ
+une sentence de mort prononcée sur la base d'aveux, si le condamné
+ne se rétracte pas en déclarant avoir « avoué sous la contrainte ».
+Cette clause suspensive, soufflée par le grand vizir (connu pour ses
+amitiés juives), permettait en principe de gagner du temps et offrait à
+la légation britannique l'occasion d'intervenir. En fait, ce fut le consul
+d'Espagne à Safi qui s'activa pour hâter l'exécution. Il fut secondé par
+un prêtre franciscain qui conseilla aux accusés de ne pas revenir sur
+leurs aveux, en leur promettant la commutation de la sentence de
+mort en peine de prison s'ils acceptaient aussi de se laisser baptiser.
+
+
+C'est dans ces conditions que Joseph ben Youda fut exécuté à Safi
+dans la matinée du 3 septembre, sans même qu'un rabbin ait pu lui
+faire réciter le « Shémah ». Quant à Elias Benillouz, il fut embarqué
+sur un croiseur espagnol pour être décapité à Tanger, comme l'avait
+exigé Merry y Colom, lequel rejeta les supplications des juifs
+tangérois et leur offre de « racheter la vie de leur frère » par des
+indemnités. Benillouz fut supplicié sur la place publique le 13
+septembre. Le pacha de Tanger autorisa l'enlèvement du cadavre
+immédiatement après l'exécution. Merry y Colom, qui voulait que la
+dépouille soit exposée toute la journée « pour l'exemple », le
+réprimanda sévèrement.
+
+
+La perspective de voir les coaccusés toujours en prison à Safi subir
+à tour de rôle le même sort accentua l'effroi des communautés. Les
+notables se convainquirent que seule la mobilisation de
+coreligionnaires étrangers pouvait mettre fin à la léthargie des
+légations et sauver les coaccusés des suppliciés. Le transfert à Tanger,
+au cours de la deuxième semaine de septembre, de Chalom el-Qaïm
+et Jacob Benharroche présageait de l'imminence de leur exécution.
+Selon le rituel fixé par Merry y Colom, cela signifiait que deux de
+leurs complices, Saadia ben Moyal et Makhlouf Aflalo, devaient subir
+le même sort à Safi, et ce, même si le sultan venait de notifier au
+ministre espagnol qu'« il convenait de tenir compte des [réserves]
+stipulées par le chraâ » quant à la validité d'aveux arrachés sous la
+contrainte.
+
+
+Les premiers appels pressants aux dirigeants de l'AIU et du Board
+of Deputies leur demandant de solliciter l'intervention des
+gouvernements français et britannique émanèrent le 17 septembre
+1863 de Moses Pariente, riche négociant, président de la
+communauté de Tanger (Junta) et drogman du consulat général des
+États-Unis. Il fut activement secondé par Menahmen Nahon, lui aussi
+couvert par ses fonctions consulaires. Tous deux s'attachèrent, avec le
+concours d'un compatriote établi à Gibraltar, Judah Serfaty, à alerter
+le Board et l'AIU et à s'élever contre les excès de Merry y Colom,
+symbole à leurs yeux de « la résurrection [...] de Fray Tomas de
+Torquemada », affirmant à cet effet qu'il « connaît parfaitement les
+points faibles du Makhzen, vaincu dernièrement par la force des
+armes et [obligé de] se plier à tout ce qui lui est demandé ».
+
+
+L'organe quasi officiel du Board of Deputies, The Jewish Chronicle
+(fondé en 1841), joua un rôle essentiel dans la campagne de
+dénonciation des « atrocités [commises] sur la côte marocaine par
+des officiels espagnols ». Ses articles affirmèrent que, face aux
+
+
+Espagnols, « le sultan se trouve le dos au mur (between the sword and
+the wall). Considéré comme bon, affable, et aimant les juifs mais
+faible de caractère [...], il redoute tellement la guerre qu'il lui est
+impossible de manifester son sens de la justice vis-à-vis des juifs
+lorsqu'un consul réclame, avec ou sans raison, leur châtiment  ». Sa
+politique de temporisation n'en fut pas moins jugée catastrophique
+car elle facilitait « le jeu de représentants et [d'Européens] aveuglés
+par de mauvais instincts... ». Les uns et les autres, dit The Jewish
+Chronicle, ont abusé de cette faiblesse et « se sont mus en tyranneaux
+(petty despost) ». C'est ce que répéta The Morning Advertiser dans un
+article intitulé « Cruelties by Spanish Officials ».
+
+
+Lors de la réunion d'urgence qu'il consacra à cette affaire le 8
+octobre 1863, le Board of Deputies arrêta une stratégie et un objectif
+prioritaire. Pour sauver les deux coaccusés non encore exécutés et
+ménager l'avenir, il fallait intervenir à Madrid même et convaincre
+l'Espagne de suspendre, puis d'annuler la décision de son ministre à
+Tanger. D'autant que la guerre déclenchée par les Espagnols en 1859,
+leur victoire, l'extension des limites de Sebta et de Melilla, l'obtention
+d'une concession en face des Canaries, et leurs menaces semblaient
+indiquer qu'ils étaient déterminés à pousser plus avant leurs acquis
+au Maroc.
+
+
+Bien informé, le Board n'ignorait rien de l'isolement diplomatique
+du Makhzen, confronté par ailleurs à une situation intérieure
+précaire. Son président, Moses Montefiore, était d'autant plus résolu
+à entreprendre cette mission qu'il y était encouragé par l'appui
+officieux que le gouvernement britannique avait finalement consenti
+à lui apporter et les instructions données en ce sens à son
+représentant à Madrid, l'ambassadeur J.F. Campton. Pour ne pas le
+gêner dans ses contacts avec les Espagnols, The Jewish Chronicle
+commença à établir un distinguo entre le gouvernement espagnol et
+
+
+son ministre à Tanger au premier chef, mais aussi ses consuls et vice-
+consuls (<< coupables d'actes barbares contre deux autres juifs
+innocents »), tous qualifiés par ce périodique de « gens sans foi ni loi,
+coupables d'odieux forfaits ». Pour donner quelque crédit à cette
+dissociation, le journal passa sous silence la présence de bâtiments de
+guerre espagnols dans les eaux marocaines et leur rôle dans la
+célérité forcée du Makhzen et le transfert de deux condamnés de Safi
+à Tanger.
+
+
+Sur cette même lancée, The Jewish Chronicle appela la « fraction
+libérale du peuple espagnol » à s'associer à la campagne que devait
+mener toute l'opinion publique européenne contre l'arbitraire des
+consuls espagnols au Maroc. Le « passé ignominieux de l'Espagne »,
+stigmatisé avec véhémence près de deux mois plus tôt, fut atténué
+par des références à « l'émergence de ce pays de l'incomparable état
+de barbarie où l'avaient plongé les terribles crimes qui y avaient été
+commis ». Les « sentiments d'humanité témoignés aux réfugiés juifs à
+Algésiras (en 1859-1860) » et les mesures prises par le général
+O'Donnell « en faveur de leurs frères restés à Tétouan » et ayant dû
+subir « les ravages provoqués par les Maures » furent rappelés à cet
+effet ¹º. Des déductions furent tirées de ces marques de sollicitude : «
+Il paraît inconcevable, écrivit The Jewish Chronicle, que le
+gouvernement espagnol ait pu souscrire aux atrocités commises sur
+ordre de son ministre à Tanger », même s'il était difficile d'imaginer «
+[celui-ci] torturant et charcutant à sa guise à si peu de distance de la
+péninsule >>.
+
+
+À son arrivée à Madrid (23 novembre-1er décembre), Montefiore
+trouva un président du Conseil, le marquis de Miraflores, réceptif à
+ses requêtes et favorable à la grâce des deux condamnés de Safi
+encore en vie. Ayant obtenu gain de cause, le philanthrope couronna
+son séjour à Madrid par l'audience que lui accorda la reine Isabelle II.
+
+
+Il rencontra par la suite diverses personnalités dont le duc de
+Tétouan, le général Prim, et Don Antonio Merry y Colom, père du
+ministre d'Espagne à Tanger¹1.
+
+
+Fort du succès de sa mission, il décida de pousser plus au sud
+pour assister en personne à la concrétisation des assurances obtenues
+à Madrid. Il prit le train pour Cadix et, de là, s'embarqua pour Tanger
+à bord de La Gorgone, frégate mise à sa disposition par le
+gouvernement français, lui aussi soucieux de manifester
+concrètement son appui à l'AIU, partie prenante dans la mission de
+Montefiore. À son arrivée à Tanger (vendredi 11 décembre), il fut
+accueilli, sous les ovations de délégués de diverses communautés, par
+Moses Pariente et ses pairs. Le lendemain, et malgré l'interdiction
+frappant en principe l'ouverture par les dhimmis de nouveaux édifices
+du culte, il prit part à l'inauguration d'une synagogue. Le même jour,
+il fut reçu par Hay. Dimanche 13, il se présenta à Merry y Colom et
+lui remit une lettre du président du Conseil 12.
+
+
+« Je suis heureux de dire, s'empressa-t-il d'écrire au Board, que j'ai
+été reçu de la manière la plus courtoise par le Senor Don Francisco
+Merry y Colom. Il a promptement donné ses ordres pour la libération
+immédiate des deux personnes incarcérées à Tanger [...] et a promis
+de me remettre une lettre destinée au gouvernement marocain et lui
+intimant le désir (sic) du gouvernement espagnol de mettre fin à la
+procédure engagée contre les deux [autres] malheureux prisonniers
+encore détenus à Safi [...]. Une heure plus tard, nous avons eu la
+gratification de [recevoir] dans notre demeure les [deux] personnes
+libérées 13.
+>>
+Soucieux de se réhabiliter et de réhabiliter son
+gouvernement aux yeux des associations juives d'Europe et
+d'Amérique, Merry y Colom diffusa une circulaire dans laquelle il se
+posa en protecteur des juifs marocains¹4. The Jewish Chronicle et
+d'autres journaux en publièrent le texte intégral.
+
+
+À Tanger même, Montefiore eut une entrevue, par le biais de J.D.
+Hay, avec le délégué du sultan dans la ville du détroit, M'hamed
+Bargach, demeuré à l'écart puisque le sort des condamnés dépendait
+de l'ambassadeur d'Espagne ; il lui remit la note de ce dernier
+prononçant une sorte de non-lieu et exprima le désir de se rendre à la
+cour chérifienne15. Le naïb dépêcha alors à Marrakech un courrier
+spécial (rekkas) porteur de trois plis. Le premier contenait la note du
+« non-lieu » décidé par Merry y Colom. Le second était une lettre de
+Hay informant le sultan du souhait du Foreign Office de voir
+immédiatement relâchés les juifs incarcérés et du « vœu » de
+Montefiore de se rendre à la cour, en lui recommandant « се
+personnage qui jouit d'une énorme considération auprès du
+gouvernement britannique et s'occupe exclusivement de
+philanthropie ». Le troisième pli était un rapport de Bargach
+confirmant le succès de l « intercession » (chafâa) effectuée auprès de
+« la sultane d'Espagne » par ce « dhimmi, parent par alliance de
+Rouchi [Rothschild] 16
+».
+
+
+Le sultan accéda à la demande de Hay. Le retour sur scène des
+Anglais ne pouvait, à ses yeux, que contribuer à desserrer l'étau
+espagnol. En prêtant un concours actif au philanthrope, ceux-ci
+cherchaient à rétablir dans sa plénitude leur influence auprès du
+Makhzen et à effacer l'effet déplorable de leur « défection » lors de
+l'exécution de Ben Youda et Benillouz. Manifestation significative de
+cet activisme : lorsque fut connu l'aval du sultan à la visite de
+courtoisie du philanthrope, le Foreign Office avisa le Board que
+l'Amirauté venait de dépêcher un bâtiment de la Royal Navy depuis
+Malte, HMS Magicienne, pour conduire son président de Tanger à Safi
+mais via Gibraltar 17.
+
+
+À Gibraltar, Montefiore bénéficia des attentions du gouverneur,
+William Codrington. Il rencontra aussi le consul du Maroc, l'oukil
+
+
+Saïd Guessous, musulman d'origine juive, auquel il rappela le
+caractère
+<<
+exclusivement philanthropique de [son] œuvre »,
+l'informa de son intention d'aller à Marrakech « remercier Sa Majesté
+chérifienne [...] pour ses bonnes dispositions à l'égard de ses sujets
+juifs », et s'enquit du protocole en usage à la cour chérifienne 18.
+
+
+Aux membres de la suite du philanthrope s'étaient joints à Tanger,
+théoriquement en qualité d'interprètes, M. Nahon et, surtout, Thomas
+F. Reade, consul général et ennemi juré de Merry y Colom. Fidèle à
+son style, Hay avait tenu à préciser au Makhzen que le consul général
+<< n'était pas en mission officielle ». En principe, il ne faisait que tenir
+compagnie à Sir Moses, à la demande de celui-ci, pour « montrer
+l'estime dans laquelle le gouvernement britannique tenait cet homme
+de bien 19
+».
+
+
+Le sultan ne s'arrêta guère à ce distinguo. Il donna des ordres aux
+oumana de Safi, puis à ceux d'Essaouira, pour que, précisa-t-il en
+marquant bien son propre ordre de préséance, « le consul anglais et
+le dhimmi qui venait de Londres » soient reçus dignement. D'autres
+égards furent témoignés aux « hôtes du sultan » après leur arrivée à
+Marrakech. Les attentions dont il fut l'objet ne pouvaient
+qu'encourager Montefiore à se faire l'avocat des doléances que lui
+avaient confiées les notables juifs de Tanger en lui demandant de ne
+pas en faire part à Thomas Reade. Ce dernier fut en effet pris de court
+lorsque le vieil homme, qu'il était censé accompagner pour une
+simple visite de courtoisie, l'informa de son intention de présenter au
+sultan « une pétition lui demandant d'abolir les marques distinctives
+et humiliantes imposées aux juifs [...] et de les placer, pour tout ce
+qui se rapportait à la justice, sur un pied d'égalité avec les musulmans
+». Bien que n'ayant pas d'instructions, il s'associa à la démarche, lui
+conférant ce faisant tout le poids du Foreign Office 20.
+
+
+Comme le sultan se trouvait au même moment mis en demeure
+par l'Espagne d'élargir sans retard les limites de Melilla, il lui était
+difficile de ne pas répondre aux sollicitations de l'Angleterre. C'est ce
+qui explique sans doute que le jour de l'audience solennelle (1er
+février 1864) qu'il accorda à Reade et à Montefiore, ceux-ci
+trouvèrent près de 6 000 cavaliers et fantassins en grande tenue les
+attendant sur l'esplanade du palais 21.
+
+
+Dans son allocution de bienvenue, et ainsi que le dit d'ailleurs
+Montefiore lui-même,
+<<
+Sa Majesté évoqua avec beaucoup
+d'insistance les relations amicales existant depuis fort longtemps
+entre [le Maroc et l'Angleterre] et exprima sa satisfaction de voir des
+officiers britanniques à la cour. » Le philanthrope déclara de son côté,
+à l'intention du sultan, qu'il <<< bénéficiait [dans sa mission] de
+l'approbation et de l'appui du gouvernement de Sa Majesté
+britannique
+>>
+et qu'il venait au Maroc
+<<
+au nom de ses
+coreligionnaires d'Angleterre et du monde entier prier Sidi Mohamed
+de continuer à témoigner sa haute sollicitude à leurs frères de ses
+États ». Il remit ensuite au souverain un mémoire lui demandant de
+faire bénéficier ses coreligionnaires marocains d'améliorations
+comparables à celles que le sultan Abdel-Majid avait introduites, à
+son instigation, dans l'Empire ottoman en 1840 et renouvelées en
+1863.
+
+
+Cinq jours plus tard (le 5 février 1864), Sidi Mohamed scella le
+dahir stipulant ce qui suit :
+
+
+Nous ordonnons à tous nos serviteurs, gouverneurs et chargés
+de fonctions (Makhzen) [...], de traiter les juifs, dans toute
+l'étendue de nos États, comme le prescrit le Tout-Puissant en
+leur appliquant dans l'administration la balance égale de la
+justice entre eux et ceux qui ne sont pas juifs, de sorte
+
+
+qu'aucun d'eux ne soit victime de la plus infime injustice, que
+nul mal ne les atteigne et que ni les [agents du Makhzen] ni
+quiconque ne puissent leur faire du tort ni dans leurs
+personnes ni dans leurs biens [...]. Les autorités ne doivent
+utiliser les services des artisans [juifs] que s'ils y consentent
+[...] et sous condition d'une juste rémunération car l'injustice
+ici-bas est obscurité le Jour de la Résurrection. Nous n'y
+consentons ni en ce qui les concerne ni aux dépens de tout
+autre personne [...]. Tous les hommes sont, à nos yeux, égaux
+en justice. En conséquence, nous punirons, avec l'aide de Dieu,
+quiconque commettra une injustice ou fera du tort à un juif
+[...].
+
+
+Toutefois, ce n'est pas à Montefiore que ce dahir fut remis.
+L'officier de la garde impériale à qui il fut confié reçut expressément
+l'ordre de « le déposer en mains propres du consul anglais » et de nul
+autre. Le philanthrope et les coreligionnaires marocains l'ayant
+accompagné depuis Tanger et Essaouira durent se contenter d'en faire
+établir des copies22. Ils les firent circuler au sein des communautés, y
+compris dans les mellahs les plus reculés, et donnèrent lieu ce faisant
+à toutes sortes d'interprétations. Linstauration d'une complète égalité
+juridique entre juifs et musulmans en fut l'une des idées essentielles.
+Sur un plan plus concret, et en matière de sanctions pénales et de
+châtiment, il fut rapporté que la bastonnade était abolie en ce qui
+concernait les premiers.
+
+
+Le sultan n'avait en fait aucune prérogative particulière pour
+décréter une révision du statut canonique des juifs et ne s'y était
+d'ailleurs pas aventuré, car risquant de saper l'un des fondements de
+sa légitimité. Il s'était contenté de rappeler les dispositions du chraâ
+en exhortant les gouverneurs à l'équité à l'égard des dhimmis. La
+
+
+déformation de la teneur de son dahir ne pouvait que créer des
+tensions et provoquer des crispations parmi les agents du Makhzen,
+qui n'entendaient pas changer leur manière d'agir à l'égard de leurs
+administrés tant juifs que musulmans, contestaient tout rappel à
+l'ordre et s'offusquaient des abus de langage de dhimmis croyant
+bénéficier de l'impunité grâce à l'appui de leurs frères d'Europe.
+Témoins de l'agitation qui se propageait dans les mellahs à l'annonce
+de la teneur du dahir telle qu'elle leur était rapportée, les sujets
+musulmans n'admettaient pas quant à eux que la bastonnade
+publique, par exemple, soit maintenue pour eux seuls. Devant le flot
+de leurs protestations, quelques gouverneurs, en nombre infime, se
+hasardèrent à réclamer une égalité de traitement en la matière,
+précisant que s'il y a abolition, elle devait s'appliquer à tous les sujets
+sans distinction d'appartenance religieuse 23.
+
+
+LES RELATIONS JUDÉO-MUSULMANES À L'ÉPREUVE DES
+PROTECTIONS ÉTRANGÈRES
+
+
+En matière d'octroi des privilèges capitulaires à des autochtones,
+les puissances ont systématiquement appliqué au Maroc les méthodes
+et les procédés leur ayant réussi dans l'Empire ottoman et,
+accessoirement, en Iran et en Afghanistan. Elles s'attachèrent à
+élargir les privilèges capitulaires consentis au départ à leurs seuls
+ressortissants à la faveur d'un rapport de force de plus en plus inégal
+et y inclurent des sujets devant en principe relever de la seule
+juridiction de leurs pays. Elles donnèrent ainsi naissance à une «
+clientèle », choisie initialement parmi les strates supérieures des
+populations autochtones et mobilisée pour servir leurs intérêts
+politiques, économiques et leur influence culturelle.
+
+
+Du fait de leurs positions traditionnelles dans le domaine des
+échanges maritimes, de la fréquence de leurs déplacements en
+Europe, de leurs liens avec des membres de leurs familles ou d'autres
+coreligionnaires établis à Gibraltar, Marseille, Anvers, Londres,
+Liverpool et ailleurs, et de leur relative familiarité avec les langues
+étrangères (l'espagnol à l'origine, le français par la suite), les
+négociants juifs furent quasiment les premiers à être ciblés par les
+puissances et dotés de cartes de protégés. D'autant que les
+compétences et les atouts que leur reconnaissaient les chefs de
+légations et les consuls incitaient ces derniers à s'attacher directement
+leurs services en tant que drogmans et à leur confier des
+responsabilités d'agents consulaires ou de vice-consuls – fonctions qui
+représentaient, comme en témoigne le néologisme de « consularisé »
+(m'qûnssô) en vogue dans le langage courant de l'époque, un symbole
+de pouvoir, de toute-puissance et d'arrogance.
+
+
+De telles fonctions permettaient à ces derniers, quel que soit leur
+statut réel au sein des légations et des consulats, de faciliter
+l'obtention de cartes de protection tant à leurs coreligionnaires (en
+commençant par leurs proches) qu'à des musulmans, demandeurs de
+patentes de censaux et d'associés agricoles, les dispensant non
+seulement des impôts et taxes mais aussi des corvées, de la
+participation aux expéditions militaires contre les tribus rebelles,
+voire de commettre eux-mêmes impunément toutes sortes d'abus et
+se muer en tyranneaux face aux autorités Makhzen et à la
+population 24.
+
+
+Confronté à pareille situation, le sultan ne cessait de protester
+contre ce qu'il appelait « la dissolution de l'ordre et la paralysie » des
+institutions de l'État. Les oulémas, qui le secondaient dans la mise en
+garde des sujets musulmans contre la « mécréance » que représentait
+tout passage sous la protection des « infidèles », avaient l'impression,
+
+
+quant à eux, que l'ordre canonique était en passe d'être perverti et
+que les anciens tributaires se plaçaient, grâce à leur collusion avec les
+chrétiens, au-dessus des « croyants ». Ils devenaient même en mesure
+de dispenser la protection à ceux qui, parmi ces derniers, voulaient
+échapper aux impôts et à la juridiction tant du Makhzen que du chraâ
+et avaient les moyens de rémunérer pour de tels services ceux qui «
+intercédaient » en leur faveur auprès des consuls et des chefs de
+légations; le terme même d'intercession (chafa'a) revêtait une force
+symbolique considérable car renvoyant généralement, dans le
+contexte musulman, à celle que les
+croyants >> attendent du
+Prophète le jour du Jugement dernier.
+
+
+<<
+
+
+Au regard des tenants de l'orthodoxie, c'était là une grave
+<<
+innovation » (bid'a), d'autant plus blâmable qu'elle signifiait de facto
+une inversion de la dhimma des musulmans devenant en
+l'occurrence les dhimmis de chrétiens et de juifs en terre d'islam. En
+milieu juif, d'autres innovations vinrent essentiellement de protégés,
+notamment ceux qui appartenaient à des classes moyennes ou étaient
+issus de milieux populaires. Leurs comportements suscitèrent l'ire des
+oulémas, lesquels stigmatisèrent la « violation du pacte » auquel les
+dhimmis devaient se plier.
+
+
+Parmi les
+<<<
+écarts  qui leur étaient reprochés figuraient en
+particulier les cas suivants : déplacement à dos de mulets ou de
+chevaux sellés « alors que, disent les oulémas, les dhimmis ne doivent
+monter que des ânes, symbole de leur humiliation et de leur
+rabaissement » ; port de babouches jaunes identiques à celles des
+musulmans et refus de se déchausser même là ou ces derniers
+marchaient nu-pieds (entrée d'une mosquée, palais royal, tribunal du
+cadi, etc.); aménagement et fréquentation de bains maures « en
+violation du chraâ et du monopole des Habous » ; propos injurieux
+proférés en public contre l'islam et le Makhzen, « en dépit des risques
+
+
+de fitna (révolte) » ; agression contre des musulmans, officiels et
+particuliers,  aâmma et khassa (gens du commun et de l'élite) » ;
+détention et usage d'armes à feu.
+
+
+Des oulémas et des prédicateurs de mosquée, appelés à la
+rescousse, stigmatisèrent les protégés et les ahl al basbûr. Leurs
+coreligionnaires furent incités à les boycotter sous peine de s'exposer
+eux aussi aux flammes de l'enfer. En milieu juif, des rabbins sollicités
+par le Makhzen, mais dont certains étaient de gros négociants,
+conseillèrent la retenue à leurs coreligionnaires et se déclarèrent
+hostiles à toute remise en cause du « pacte ». Toutefois, comme ils
+étaient eux-mêmes protégés ou naturalisés étrangers, leurs appels
+eurent encore moins d'écho que ceux des oulémas 25.
+
+
+L'intervention européenne offrait effectivement aux éléments
+séduits par le modèle occidental et par celui de leurs coreligionnaires
+d'Algérie, naturalisés français en vertu du décret Crémieux (1870),
+l'occasion de passer outre les dispositions restrictives de la dhimma,
+d'autant que ceux d'entre eux qui bénéficiaient de protections ou de
+naturalisations étrangères suscitaient, du fait même de ce statut,
+l'hostilité des agents du Makhzen, des cadis et des mohtassebs
+attachés à l'ordre ancien. Les uns et les autres s'élevaient avec
+d'autant plus de force contre les remises en cause des dispositions
+canoniques régissant les Gens du Livre que des musulmans
+parvenaient parfois à se faire protéger par des « chrétiens », grâce à la
+médiation de juifs ayant leurs entrées dans des légations et des
+consulats ou y remplissant des fonctions de drogmans ou d'agents
+consulaires.
+
+
+Comme les exhortations des oulémas et celles, plus
+problématiques, des rabbins ne suffisaient manifestement pas à
+endiguer le flot montant des protégés, naturalisés et associés
+agricoles se soustrayant aux impôts et à l'autorité du Makhzen, et
+
+
+créant de ce fait les conditions d'une véritable course aux protections
+étrangères, le sultan essaya de convaincre les gouvernements
+européens de restreindre l'octroi des privilèges capitulaires à ses
+sujets. Il fit valoir à cet effet l'effondrement des revenus du Trésor, la
+paralysie de l'administration et de la justice, les incidents entre
+protégés et sujets de droit commun, le mécontentement croissant de
+ceux-ci face aux privilèges des premiers, l'impossibilité de la mise en
+place des réformes et l'anarchie qui risquait de résulter de cet état de
+fait.
+
+
+Les efforts déployés dans ce sens bénéficièrent de l'appui hésitant
+de la Grande-Bretagne. Soucieux de préserver le statu quo et d'éviter
+tant l'anarchie contre laquelle le sultan mettait en garde les
+Européens que les risques d'exacerbation des rivalités, voire
+d'affrontement, entre puissances en cas d'effondrement du Makhzen,
+le Foreign Office essayait en effet d'agir dans un sens tendant in fine à
+préserver la prééminence britannique sur la scène marocaine et la
+valeur stratégique de Gibraltar. Il n'était cependant nullement disposé
+à aller jusqu'à créer des tensions avec les autres gouvernements
+européens. Il avait d'ailleurs la même ligne de conduite vis-à-vis des
+associations juives d'Angleterre, de France et des États-Unis. Leurs
+dirigeants étaient en effet opposés à toute révision de l'octroi de
+pareilles patentes à leurs coreligionnaires du Maroc. Ils voyaient dans
+le statut de protégé une garantie contre l'arbitraire des autorités
+Makhzen et pressaient leurs gouvernements d'œuvrer à sa
+généralisation à tous les juifs du pays.
+
+
+Quoique échaudé par l'attitude des Anglais pendant la guerre
+hispano-marocaine et à la fin des années 1870 lors de la tenue à
+Tanger de séances du corps diplomatique et envoyé sur les maux
+résultant des protections étrangères, le sultan n'avait de choix autre
+que s'appuyer sur ce qu'il appelait la « nation amie » (ad dawla al-
+
+
+moûhibbah). Les ambiguïtés de cette amitié n'en devinrent pas moins
+patentes, en particulier lors de la conférence internationale de
+Madrid (1880). Ľun des indices les plus significatifs de cet état de fait
+résida dans les réserves du Foreign Office à l'égard des
+recommandations de J.D. Hay et des critiques véhémentes que lui
+adressaient les adversaires de toute réforme du système des
+protections, notamment l'Anglo-Jewish Association (AJA), la presse
+juive de Londres (The Jewish Chronicle) et un journal fondé par une
+personnalité juive de la cité du détroit, Le Réveil du Maroc. Tous
+insinuaient qu'il était plus ou moins antisémite. Il répondit aux
+critiques par un mémorandum daté d'octobre 1879 :
+
+
+Si [les responsables de] l'AJA désirent le bien-être de [tous]
+leurs coreligionnaires [près de 300 000 âmes] et pas
+simplement le maintien d'un système abusif de protection de
+quelque 1 500 personnes qui jouissent d'une protection
+contraire au droit et à la loi, ils devraient élever la voix contre
+ces abus [...]. Il convient de chercher une amélioration
+graduelle de la situation générale [du Maroc] par [...] la
+marche graduelle de la civilisation [devant résulter] du
+[développement du] commerce et de la présence des
+Européens dans le pays.
+
+
+Le Foreign Office ne suivit pas ses recommandations et alla en fait
+dans le sens espéré par l'AJA. Il ne fut pas désigné pour représenter
+son pays à la conférence internationale de Madrid sur la question des
+protections et des naturalisations. Un autre diplomate, Lionel
+Sackville West, fut choisi à sa place. Des envoyés de l'AJA et de l'AIU
+dépêchés sur place s'activèrent dans les coulisses. Le délégué du
+sultan, M'hamed Bargach, isolé, malade et « lâché » aussi bien par les
+
+
+Anglais que par les Allemands, attribua explicitement l'échec des
+espoirs du Makhzen en la matière non seulement à l'intransigeance
+du représentant français, l'amiral Jaurès, soutenu en la circonstance
+par son homologue américain, le général Lucius Fairchild, pourtant
+offusqué par la recrudescence de la « question juive » en Europe et le
+déferlement d'une vague antisémite en Allemagne, mais aussi aux «
+menées des émissaires de Rachi
+>>
+(Rothschild) qui, dit le naïb,
+contrariaient tous ses efforts 26.
+
+
+Ce fut en termes empreints de désespoir que le sultan prit note de
+l'échec dont lui faisait part son délégué à Madrid, déclarant en la
+circonstance qu'il « s'en remettait à Dieu ».
+
+
+Les communautés juives à la fin du xix
+siècle
+
+
+e
+
+
+LES JUIFS DES STRATES SUPÉRIEURES, LES PUISSANCES ET LE
+ΜΑΚΗΖΕΝ
+
+
+Les capacités de résistance du Makhzen face aux pressions et
+menaces étrangères devinrent encore plus patentes au cours du
+dernier quart du xix siècle, d'autant que des cycles de sécheresse,
+d'épidémies et d'invasions acridiennes (1878-1884, 1894, 1896),
+survenant après la désolation créée par celles de 1862, 1865 et 1867,
+avaient dévasté le pays. Pareille situation ne facilitait guère la mise en
+œuvre de réformes, notamment fiscales. C'est ainsi que tourna court
+le tertib, impôt proportionnel et général, que Moulay Hassan tenta
+d'instaurer en 1884, après l'échec de la conférence de Madrid (1880).
+Le sultan s'était efforcé de l'appliquer à titre expérimental dans les
+
+
+plaines atlantiques en le basant sur l'évaluation des récoltes et du
+croît des troupeaux. L'ensemble des catégories auparavant exemptes
+de toute contribution devaient s'y soumettre. Il s'agissait en
+l'occurrence non seulement des protégés et des associés agricoles,
+mais aussi des agents du Makhzen (gouverneurs, caïds, oumana,
+cheikhs, moqaddems, etc.).
+
+
+Le tertib devait en principe s'appliquer aussi aux juifs protégés
+étrangers ou naturalisés intervenant dans les cultures et l'élevage,
+directement ou par le biais d'associés musulmans. Certains d'entre
+eux avaient réussi en effet à acquérir de vastes étendues de terres
+agricoles, notamment dans le Gharb (où en 1884 plus de 3 000
+hectares appartenaient à des juifs de Tanger) et la Chaouïa (la
+propriété juive y dépassant 2 000 ha en 1884). Il en était de même
+dans les régions de l'intérieur et les provinces du Sud. Au regard du
+droit marocain, ces éléments demeuraient en principe des dhimmis
+soumis à la jiziya. En fait, tous s'en dispensaient. Comme les petites
+gens, trop pauvres, ne pouvaient pas en assumer seuls le versement,
+cet impôt de capitation n'était pas prélevé. Le sultan prenait acte de
+cet état de fait, de la « dureté des temps » et de l'indigence du plus
+grand nombre invoquées par les rabbins qui plaidaient la cause de
+leurs coreligionnaires. Pour que la jiziya puisse garder sa valeur
+symbolique, il rappelait néanmoins ponctuellement aux
+communautés les échéances et les arriérés dont elles ne s'étaient pas
+acquittées, ainsi que le rituel traditionnel de leur versement devant
+un cadi 27.
+
+
+Les chefs de légations firent valoir que le Makhzen avait pris une
+décision unilatérale en violation de la convention de Madrid
+l'obligeant à demander l'aval préalable des parties signataires avant
+toute nouvelle mesure fiscale. Les bénéficiaires des privilèges de type
+traditionnel tirèrent avantage de cette prise de position. Même les
+
+
+agents du Makhzen, chargés d'appliquer le tertib, rejetèrent de facto
+toute évaluation de leurs récoltes. Ils furent, dans une certaine
+mesure, les premiers à saboter cette réforme. Ľopposition ouverte vint
+du chef d'une importante confrérie religieuse, la zaouïa d'Ouezzane,
+possédant de vastes terres agricoles dans le Gharb. Ce dernier passa
+sous protection française en 1884 précisément, malgré son statut de
+chef spirituel. Moulay Hassan éleva des protestations mais dut plier
+devant le chef de la légation de France, Ladislas Ordéga, qui menaça
+de faire intervenir 20 000 hommes des troupes d'Algérie pour
+imposer le fait accompli et, si nécessaire, le détrôner et le faire
+remplacer par le nouveau protégé français.
+
+
+D'ailleurs, c'était en partie pour tempérer « le discrédit porté au
+prestige du pavillon français >> par la délivrance de patentes
+irrégulières de protégés à des juifs que des successeurs d'Ordéga
+préconisèrent une politique plus restrictive en la matière. Leurs notes
+au Quai d'Orsay insistaient sur les avantages qu'il y avait à accorder
+la priorité dans l'octroi de la protection française à des musulmans
+influents.
+
+
+Au nombre des traits majeurs ayant caractérisé l'évolution des
+éléments bénéficiant de protections et de naturalisations étrangères,
+et estimés à quelque 2 000 personnes à la fin du $XIX^{e}$ siècle, figurent,
+outre leur enrichissement, les efforts qu'ils ne cessèrent de déployer
+pour préserver leur rôle d'intermédiaires obligés avec le marché
+marocain. Ľun des premiers paradoxes de cette évolution réside dans
+la préservation des liens qu'ils surent garder, en dépit de leur statut
+de protégés ou de naturalisés, avec le Makhzen qui avait besoin,
+comme par le passé, de leurs compétences, de leurs services et de
+leur connaissance de l'Europe.
+
+
+Au fait des risques de revirement des puissances à leurs dépens et
+des implications d'une plus grande ouverture du pays, rendant
+
+
+caduque leur position traditionnelle d'intermédiaires obligés avec le
+marché marocain, les grands négociants juifs protégés ou naturalisés,
+au nombre de quelque 2 000, s'efforcèrent de peser sur le cours des
+événements et de préserver leurs privilèges. Pour ce faire, ils
+s'attachèrent à contrarier une libéralisation plus complète des
+échanges maritimes. Entre 1884 et 1887, ils soutinrent la résistance
+de Moulay Hassan au projet d'un nouveau traité de commerce que lui
+présentaient les principaux chefs de légations en échange de vagues
+promesses de révision du système des protections.
+
+
+Un rapport diplomatique français, daté du 13 avril 1886, indique
+à ce sujet que le sultan était <<< effrayé par les conséquences des
+ingérences européennes en Turquie et en Égypte et [cherchait à
+utiliser] l'appel au peuple comme une arme défensive contre les
+demandes de la Grande-Bretagne, de la France, de l'Allemagne et de
+l'Italie relatives à l'exportation de céréales et de bétail », tout en
+prêtant l'oreille à tous ceux qui l'encourageaient à rejeter tout
+nouveau traité.
+
+
+Les conseils des négociants juifs en la matière furent vivement
+critiqués. Les chefs de légations y virent un « verbiage inconsidéré »,
+s'offusquèrent des « efforts que déployaient les juifs pour repousser
+l'influence européenne dès lors qu'elle ne se manifeste pas
+exclusivement en leur faveur », et relevèrent que ce « verbiage »
+rejoignait de facto l'opposition des oulémas hostiles à toute nouvelle
+concession aux « chrétiens » risquant d'appauvrir encore plus les «
+croyants », surtout en période de sécheresse. S'élevant contre cette
+collusion, le ministre de France à Tanger affirma, dans un rapport
+daté du 27 mai 1886, que « même s'ils affichent un grand libéralisme
+du point de vue du commerce, les juifs marocains sont décidés à
+employer toute leur influence auprès de la classe dirigeante
+musulmane pour la persuader de s'opposer aux mesures d'intérêt
+
+
+général réclamées par les puissances. Ce qui leur importe, c'est de
+fermer le Maroc aux Européens. Ceux-ci se heurteront au sultan
+énergiquement soutenu par les conseils de ses féaux musulmans et
+par tous les juifs, alliés en la circonstance avec les musulmans contre
+l'opposition desquels ils font sans cesse appel à l'influence
+européenne. La population est prête pour le djihad et le sacrifice de
+ses biens... [Il existe à ce sujet] une entente entre musulmans et juifs
+au grand bénéfice de leurs intérêts respectifs ».
+
+
+Un mémorandum de la chambre de commerce de Londres alla
+dans le même sens. Son auteur releva que « les gros négociants juifs,
+maîtres absolus [du pays] sur les plans financier et commercial
+[étaient] accoutumés à voir le Maroc comme leur chose » et que le
+sultan, avec lequel certains d'entre eux entretenaient des liens
+privilégiés, « [était] trop heureux de les avoir comme auxiliaires dans
+sa résistance aux réclamations de l'Europe en matière commerciale ».
+L'ambassadeur d'Aubigny devait attirer de son côté l'attention du Quai
+d'Orsay, dans un rapport daté du 7 décembre 1896, sur « l'hostilité
+des banques juives [de Tanger] à l'établissement d'une agence du
+Comptoir d'escompte au Maroc ». Des journalistes s'en prirent eux
+aussi à l'attitude « obstructionniste » des juifs. Ils les présentèrent
+comme un obstacle à une pénétration plus poussée de l'influence
+occidentale. Le directeur du Times of Morocco, Edward Meakin, s'en
+prit ainsi à << la politique tortueuse de ces rusés orientaux qui
+n'éprouvent aucun sentiment d'affection pour le pays qui les protège
+et qui n'usent de leur position que pour exercer leur tyrannie... sur
+les malheureux indigènes non protégés ».
+
+
+La convergence de leurs intérêts respectifs face à la volonté de
+mainmise directe des puissances sur le pays n'empêchait cependant
+pas que se manifestent toutes sortes de contradictions dans les
+rapports de divers éléments de cette catégorie de protégés avec le
+
+
+Makhzen. Les contestations quasi quotidiennes les opposant à des
+mohtassebs étaient l'une des principales causes de ces tensions.
+Chargés d'une institution dont l'éthique et les normes étaient remises
+en cause par les transformations affectant l'économie du fait du
+développement des échanges avec l'Europe, ces « prévôts » et les
+oumana (agents du fisc) se trouvaient constamment aux prises avec
+des juifs partenaires ou agents de firmes étrangères et, à ce titre,
+premiers vecteurs de ces mutations.
+
+
+Nombreuses furent ainsi les plaintes élevées contre eux. Il leur
+était reproché, par exemple, de provoquer des hausses artificielles de
+prix des denrées de première nécessité par l'interception en rase
+campagne, par le biais de courtiers, des caravanes chargées de
+céréales et de légumineuses, l'achat direct de ce qu'elles
+transportaient et l'entrée des cargaisons en ville sans paiement des
+octrois perçus aux portes des cités et sur les marchés urbains. C'est ce
+contre quoi s'élevait, par exemple, Mohamed ben Haj Mehdi, amine al
+mostafad d'Essaouira. Il protesta ainsi, dans l'une des
+correspondances adressées au délégué du sultan à Tanger, tant sur la
+revente des céréales sur les places aux grains au-dessus de leur cours
+normal que sur les pertes infligées au Trésor par un négociant
+opulent ayant recours à ces procédés, Ruben el-Maleh, grand rabbin,
+protégé anglais et vice-consul d'Autriche-Hongrie 28.
+
+
+Fort significatifs sont également à cet égard les griefs formulés par
+le mohtasseb d'Essaouira dans une lettre adressée à Moulay Hassan : <<
+Je me suis empressé d'exécuter les ordres chérifiens m'enjoignant
+[...] de réprimer les fraudes dont pâtissent les pauvres [...]. Les
+musulmans se sont engagés à se plier au droit [...]. Mais [pas] les
+tyrans [parmi les] juifs, accoutumés comme ils le sont [...] à utiliser
+[...] la fraude comme un fonds de commerce [...]. Dans leur
+ignominie, [ils] prétendent que la bastonnade ne s'applique plus
+
+
+29
+
+
+qu'aux seuls musulmans . >> Les abus étaient d'ailleurs tels que même
+des rabbins, défendant leurs coreligionnaires de condition modeste,
+s'élevaient en public contre la « tyrannie » des éléments qui mettaient
+en avant leurs privilèges pour tout accaparer et régenter leur
+communauté à leur guise.
+
+
+C'était parfois aux « manœuvres sataniques » de gros négociants
+juifs, ayant leurs entrées au palais et considérés de facto comme des «
+toujjar-sultan », que se heurtaient les mesures prises épisodiquement
+pour endiguer « le mal considérable [dont étaient victimes] les
+musulmans et les dhimmis ». En témoignent les remous dont Meknès
+fut le théâtre, les menaces que les tribus Beni Mtir, Guerrouane et
+Zemmour firent peser sur cette cité, et les haines farouches ayant
+opposé divers clans du mellah de cette cité du fait des clivages créés
+par les excès d'un gros brasseur d'affaires, bénéficiant du statut de
+protégé français et de liens privilégiés avec la cour, Jacob Ohana.
+Celui-ci tirait de gros revenus de commandes du palais, de
+l'exploitation d'immeubles Makhzen et de la ferme de nombreux
+droits. Le mohtasseb de la ville, Mohamed Ajana, ne cessait de
+protester contre les « méfaits de ce dhimmi ». En vain.
+
+
+Les difficultés financières du Makhzen l'obligeaient à passer lui-
+même outre un certain nombre d'usages et d'interdits. C'est ainsi qu'il
+affermait à des marchands juifs des droits de portes et de marchés
+droits dont la perception constituait un facteur de paupérisation de la
+population et contre lesquels les tanneurs et d'autres artisans de Fès
+s'étaient soulevés en 1873. Favorisés par l'accroissement de leurs
+liquidités, un accès plus facile au crédit bancaire, et l'absence de
+concurrents musulmans d'envergure capables de surenchérir et
+d'affermer des monopoles tels que celui des tabacs, ces marchands
+obtenaient l'exploitation de droits dits de mostafad (rentrées,
+
+
+jouissance, usufruit) aussi bien dans les villes que dans les souks
+ruraux.
+
+
+Les atteintes aux biens de mainmorte constituaient un autre
+facteur de perturbation et de tension. Répondant favorablement aux
+requêtes et doléances de notables juifs protégés, le sultan enjoignait
+en effet aux nadirs de leur louer des immeubles Habous en principe
+distincts de ceux du Makhzen. Les bénéficiaires de cette faveur sous-
+louaient en général à haut prix les locaux dont ils obtenaient le bail et
+spéculaient sur leur « clé » (pas-de-porte). Parfois, il ne s'agissait pas
+seulement de baux mais de transfert de propriété (mounaqalas).
+L'échange, assorti parfois d'un complément en argent, portait souvent
+sur des immeubles, des magasins ou des échoppes valant beaucoup
+plus que les bâtisses, souvent délabrées et situées dans des secteurs
+excentriques, reçues par les Habous au titre du transfert.
+
+
+De telles transactions furent l'une des causes de la diminution des
+revenus des Habous et de l'incapacité de cette institution à assurer les
+« services » dont elle avait la charge, en particulier l'entretien des
+mosquées et des zaouïas, les salaires des imams, les subsides versés
+aux étudiants et les secours distribués aux indigents. Les groupes qui
+en bénéficiaient, notamment les fouqahas et les tolbas, ne pouvaient
+de ce fait que nourrir les rancœurs les plus vives contre tous ceux qui,
+par la privatisation de ces biens, leur location ou le détournement de
+leur usufruit réservé en principe aux seuls
+<<
+croyants
+>>
+aggravaient la précarité de leurs conditions de vie.
+
+
+À l'accentuation du mécontentement des populations concourait
+aussi la collusion, relevée avec force au début des années 1880 par
+Charles de Foucauld dans sa Reconnaissance au Maroc, entre caïds et
+marchands juifs s'adonnant à l'usure. Comme gage de leurs propres
+dettes ou à titre de compensation quand ils ne s'en acquittaient pas,
+ces caïds et des notables musulmans offraient à leurs créanciers des
+
+
+esclaves enregistrées dans les actes notariés à leur nom ou à celui de
+prête-noms. C'est ce que révèle, par exemple, une note de 1883
+intitulée Report of Consul Payton on Slave Trade in the Town of
+Mogador and the Neighboring Districts, adressée par J.D. Hay au
+secrétaire au Foreign Office, Lord Granville 30.
+
+
+La collusion entre autorités Makhzen et des argentiers juifs fut
+aggravée aussi à la fin du siècle par le recours du grand vizir Ba
+Ahmed à une vénalité encore plus systématique des charges. Le «
+régent » poussa à l'extrême la politique de division des tribus et les «
+enchères » pour les postes de gouverneurs et de caïds. De ce fait, il
+rendit ces derniers encore plus dépendants à l'égard de leurs
+créanciers et créa les conditions de ponctions accrues aux dépens des
+sujets de droit commun. Ces derniers n'avaient plus, face à
+l'insatiabilité des caïds, que l'achat d'une carte de mokhalet fictif ou la
+rébellion, d'autant que la contrebande des armes et munitions de
+guerre à laquelle se livraient des protégés précisément, avec parfois la
+complicité d'agents du Makhzen, battait son plein et qu'il était facile
+de se procurer des fusils à tir rapide, américains, allemands, belges et
+autres 31.
+
+
+PRÉCARITÉ DES CONDITIONS DE VIE DES MASSES DANS LES
+
+
+MELLAHS
+
+
+Les conditions de vie des masses juives urbaines reflètent au cours
+des années 1880 et 1890 l'évolution générale du pays et l'amorce de
+transformation des structures agraires, notamment dans les plaines
+atlantiques et celles des régions de Fès-Meknès et Marrakech. Le sort
+des artisans, colporteurs et petits commerçants juifs était en effet lié à
+celui de leurs clients musulmans, principalement les fellahs, victimes
+des aléas climatiques, de l'alourdissement du fardeau fiscal, des abus
+
+
+des caïds, des lourdes indemnités imposées aux tribus après
+l'écrasement de leurs révoltes 32.
+
+
+Le surpeuplement fut l'un des problèmes qui se posèrent avec le
+plus d'acuité aux populations des mellahs. Outre leur accroissement
+naturel, celles-ci virent affluer un nombre accru de juifs ruraux
+pendant les périodes de sécheresse et de troubles. Les nouveaux
+venus espéraient trouver sur place la sécurité et bénéficier de l'aide
+des communautés et des associations juives étrangères. Les difficultés
+ne venaient cependant pas uniquement du gonflement de ces
+populations. Le mal que les petites gens avaient à se loger était en
+effet lié aussi aux manœuvres des propriétaires d'immeubles hostiles
+à l'extension des mellahs. D'ailleurs, même quand le Makhzen
+répondait aux doléances de l'AIU et de l'AJA, ainsi qu'il le fit d'ailleurs
+à Essaouira (1891), Tétouan (1889) et Marrakech (1892), et
+procédait à des travaux de ravalement ou de restauration des
+maisons qu'il possédait dans ces quartiers, les nantis auxquels il les
+louait s'empressaient de tirer avantage de ces améliorations en
+augmentant les taux des loyers exigés des sous-locataires.
+
+
+Un journal tangérois, Times of Morocco, publia à cet effet dans son
+numéro du 25 octobre 1890 un article dans lequel un juif d'Essaouira
+ayant vécu à Londres, Moses Lugasy, s'élevait contre la spéculation à
+laquelle se livraient les nantis, affirmant que « l'opposition déjà
+ancienne entre juifs du mellah et juifs de la Casbah s'est accentuée
+[...]. Les notables [...] relouent, pièce par pièce, les [immeubles] que
+le Makhzen leur cède, contre une rente de 6 % de leur valeur initiale,
+à des taux leur assurant plus de 100 % de profit ».
+
+
+L'AJA déplora à plusieurs reprises « les intérêts égoïstes et la
+cupidité de quelques riches propriétaires [détournant] à leur profit
+les desseins généreux de Sa Majesté Chérifienne et les [mesures
+prises en principe] en faveur des pauvres ». Les masses étaient
+
+
+d'autant plus désarmées que les chefs des communautés étaient
+souvent cooptés par leurs pairs. C'est dans ces conditions que même
+la « caisse des pauvres » devenait une source de tension. Alimentée
+en partie grâce à la générosité de coreligionnaires étrangers, elle
+n'était pas tout à fait à l'abri de manipulations frauduleuses. Des
+protégés refusaient d'ailleurs de contribuer à la taxe sur la viande
+casher. Pour essayer de redresser le cours des choses, les petites gens
+essayaient parfois de désigner eux-mêmes les chefs de communautés.
+Ceux d'Essaouira contestèrent ainsi en 1889 la succession de Ruben
+El Maleh à son père, Joseph El Maleh, lequel tirait son influence de sa
+fortune et de ses fonctions consulaires. Ils désignèrent un Palestinien,
+Abraham Sabah, protégé français, comme grand rabbin. Mais El
+Maleh refusa de se désister. La ville eut donc deux grands rabbins,
+l'un s'appuyant sur ses coreligionnaires fortunés de la Casbah, l'autre
+sur les masses du mellah.
+
+
+La situation prit un tour encore plus dramatique à Meknès. Un
+grand nombre de juifs se plaignirent au grand vizir Ba Ahmed de l'un
+des leurs, Jacob Ohana, négociant opulent ayant ses entrées à la cour
+et bénéficiant de la protection française. Dans leurs doléances, ils
+déclarèrent que ce personnage « a désigné un cheikh al-yahoud sans
+demander l'accord de quiconque [...], nommé un dayyan pour
+étendre ses abus [...], et prétend pouvoir agir ainsi parce qu'il a
+[corrompu] le vizir Maâti Jamai 33 ».
+
+
+Plus explicite fut, dans le cas d'espèce, le constat dressé par le
+pacha de Meknès dans une lettre adressée au même grand vizir :
+
+
+Le désordre s'est installé parmi les dhimmis. Leur communauté
+a volé en éclats et il n'est plus possible d'appliquer les lois [au
+mellah] en raison des injustices du dhimmi Jacob Ohana.
+Celui-ci a [en effet] étendu le mal et provoqué le désarroi des
+
+
+juges par ses ingérences inopportunes dans tous les différends
+opposant des juifs que ce soit devant nous, devant le chraâ ou
+les dayyanim. Ces derniers ne rendent leurs jugements qu'avec
+son approbation car c'est lui qui les a fait désigner. Quand il
+veut quelque chose, il les appelle chez lui, leur présente de
+faux témoignages, juge lui-même selon son bon plaisir et,
+hormis ses beaux-parents, ses amis et ses partisans, ne rend
+justice à personne.
+
+
+Face à la dureté des conditions de vie et aux défaillances des
+œuvres de bienfaisance, nombre d'éléments des masses populaires
+juives essayèrent d'échapper à la pauvreté et la misère en émigrant
+vers des contrées proches ou plus lointaines. Un fort courant
+d'émigration s'établit ainsi vers l'Algérie. $\dot{A}$ la recherche de travail et
+de meilleures conditions de vie s'ajoutaient de manière plus
+spécifique l'attrait des avantages inhérents au décret Crémieux
+(1870) et la possibilité d'obtenir la naturalisation française en se
+faisant passer pour des Israélites d'origine algérienne. Leur
+installation en grand nombre, en particulier en Oranie, suscita des
+réactions d'hostilité parmi les << petits Blancs >> européens et les
+politiciens antisémites tels qu’Édouard Drumont et ses semblables.
+
+
+L'Amérique du Sud fut aussi l'une des principales destinations des
+candidats à l'émigration. Nombreux furent ainsi les Tétouanais et
+d'autres juifs du nord du pays qui embarquèrent, souvent via le
+Portugal, à destination du Brésil, de l'Argentine, du Venezuela et de la
+Bolivie, à la recherche de la fortune³4. Au Brésil, ils s'imposèrent
+comme marchands fluviaux (regataos) et se firent les fournisseurs en
+denrées de toutes sortes des seringueros d'Amazonie et des chercheurs
+d'or. L'objectif initial de ces Hebraicos était de ramasser suffisamment
+d'argent pour pouvoir retourner au pays avec un passeport étranger,
+
+
+afficher les signes de leur réussite, et prendre femme – les familles se
+bousculant pour leur faire épouser leurs filles, même si celles-ci
+n'acceptaient plus, l'évolution des mentalités par le biais des écoles de
+l'AIU aidant, de se laisser marier contre leur gré 35.
+
+
+TENTATIVES D'ÉVANGÉLISATION EN MILIEU JUIF
+
+
+C'est précisément de l'indigence des masses juives que les
+missionnaires chrétiens essayèrent de tirer avantage. Les tentatives
+les plus systématiques en la matière vinrent de la London Society for
+Promoting Christianity Amongst the Jews, la Midmay Mission to the
+Jews, la British and Foreign Bible Society, la Gospel Union et la
+Southern Morocco Mission. Leurs membres, essentiellement
+britanniques et américains, mais comptant aussi dans leurs rangs des
+juifs convertis d'Algérie, de Russie et d'ailleurs, furent au nombre de
+144 (dont 88 femmes) entre 1875 et 1900. Ce fut par la distribution
+de pains, de piécettes d'argent et de médicaments qu'ils essayèrent de
+convertir les éléments les plus fragiles dans les mellahs, notamment
+des femmes indigentes et leurs enfants.
+
+
+L'un de ces évangélistes, J.C. Ginsburg, fut particulièrement
+entreprenant à Essaouira entre 1875 et 1879. Juif d'origine russe
+converti, il était secondé par un groupe de propagandistes formé de
+juifs d'Algérie (Elie Zerbib, Job Dahan), de Perse (Mirza Norallah) et
+de Hongrie (Adolphe Miscowitch) également convertis. Les notables
+essayèrent de dissuader leurs coreligionnaires de les écouter. Des
+taqqanot stigmatisèrent les transgressions des
+<<
+lois d'Israël
+perpétrées par ceux et celles qui, disaient les rabbins, « fréquentaient
+la maison des apostats », acceptaient leurs aumônes et leurs soins.
+Les uns et les autres étaient menacés d'excommunication.
+
+
+>>
+
+
+Qu'il soit porté à votre connaissance, fut-il ainsi déclaré dans
+l'une de ces taqqanot, qu'en plus de la misère, nous avons un
+autre malheur plus grand qui vient de la maison des apostats,
+qui ne sont que des instigateurs et des séducteurs [...]. Les
+apostats s'insinuent et séduisent par leur richesse et par leur
+force [...]. Le grand péché est que les gens pénètrent dans
+cette maison pour transgresser, qu'ils mangent la viande
+interdite jusqu'à ce que leur cœur et leur cerveau en soient «
+stupéfiés >> [...]. [Ces] hommes qui se sont ouvertement
+déclarés chrétiens [...], eux, leurs femmes et leurs enfants sont
+séparés corps et âmes de la Communauté d'Israël. [Cet] édit
+est applicable à tous ceux qui envoient à l'école [des Goyim]
+leurs enfants, petits-enfants, ceux de leurs proches ou amis.
+Les enfants pauvres recevront un pain et deux pièces [de
+monnaie] par jour.
+
+
+Pour se débarrasser des missionnaires, les notables en appelèrent
+au Makhzen. En janvier 1877, par exemple, ceux d'Essaouira
+organisèrent une procession dans la ville aux cris de << Nous en
+appelons à Dieu et à la justice [canonique] » (ahna b-llah ou chraa ).
+Ils sacrifièrent des taureaux devant la résidence du sultan, son écurie,
+le seuil d'une mosquée et sur la tombe du saint patron Sidi Magdol,
+et distribuèrent aux mendiants musulmans la viande des bêtes
+immolées. Sollicité par le gouverneur, le sultan ordonna à son
+représentant à Tanger, Bargach, de saisir les légations et de demander
+l'expulsion des éléments « fauteurs de désordre et de troubles ».
+D'autant que les rabbins et les négociants juifs ayant des liens
+d'affaires et d'amitié avec les notables des tribus menaçaient de faire
+appel à ces derniers et de les inciter à organiser des « raids » contre
+les << apostats » pour les obliger à s'en aller.
+
+
+Le prosélytisme chrétien n'affectait d'ailleurs pas uniquement les
+juifs. Des efforts d'évangélisation étaient également déployés en
+direction des musulmans. Comme les missionnaires bénéficiaient
+d'immunités capitulaires, des protestations furent adressées au corps
+diplomatique :
+
+
+Nous avons appris qu'à El Jadida, écrit Moulay Hassan dans
+une note à Bargach, des chrétiens et leurs protégés juifs
+accaparent des enfants musulmans indigents des deux sexes,
+blancs et noirs, encore incapables de discernement, leur
+enseignent leurs langues, les habillent comme ils s'habillent
+eux-mêmes [...], leur donnent un manteau et des sandales
+[...]. L'enfant est ainsi élevé dans leur langue, imprégné de
+leurs mœurs, habitué à leur costume, penchant de leur côté,
+mangeant ce que la Loi interdit [...]. Certains gamins parlent
+même l'ajamiya plus couramment que l'arabe [...]. Nul
+n'ignore tout le mal que cela représente pour la religion [...].
+Il s'agit là d'une véritable conspiration, absolument contraire
+aux traités et destinée avant tout à la christianisation d'enfants
+musulmans. Les [Européens] prétendent défendre la liberté et
+répandre le bien [...] Dieu préserve les musulmans des
+bienfaits des infidèles.
+
+
+DÉFENSE DES VALEURS JUIVES. PRÉLUDE À L'ACTIVISME SIONISTE
+
+
+Les menées des évangélistes et, surtout, l'indigence des masses, la
+révolte sourde face à la misère et l'affliction provoquée par la
+multiplication des rixes parmi les éléments les plus sensibles aux
+déchirements de leurs communautés furent autant de conditions
+propices à la propagation d'appels au « retour aux véritables valeurs
+
+
+juives » et d'autres thèmes développés par les premiers adeptes du
+
+
+sionisme politique.
+
+
+Dans un premier stade, ce fut du reste surtout à la dénonciation
+de l' indifférence des riches face à la misère de leurs coreligionnaires
+», la lutte contre la mainmise d'une poignée de nantis et de leurs
+proches sur les institutions communautaires, et l'extension des
+mellahs que s'attelèrent des maskilim (réformateurs). Étant entrés en
+contact avec Theodor Herzl au lendemain même du congrès de Bâle
+(1897), ils s'attachèrent à propager ses idées. L'action des cellules
+secrètes qu'ils fondèrent à Essaouira (Agudat Ahim) et Tétouan
+(Shivat Sion) entre 1897 et 1900 prit aussi un cachet culturel et
+religieux très prononcé. L'accent fut mis en particulier sur la critique
+de pratiques « hétérodoxes » telles que le culte des saints et les «
+réjouissances » marquant le 9 Ab (commémorant la destruction du
+Temple). La régénération de l'hébreu fut également encouragée.
+
+
+Cet activisme fut une source de tension dans les mellahs. Aux
+dires des maskilim, les réactions fluctuaient dans ces quartiers entre
+les espoirs soulevés par la perspective d’« adoption par le (futur) État
+juif de la journée de sept heures en faveur des classes laborieuses » et
+l'opposition des misérables changeurs de monnaie à la création
+d'antennes du Jewish Colonial Trust. Il n'y eut cependant pas de
+répercussions immédiates sur les relations intercommunautaires 36.
+
+
+Dans un rapport adressé au Foreign Office en 1893, le ministre
+britannique à Tanger, West Ridgeway, évalua en ces termes l'évolution
+des communautés :
+
+
+Les juifs du Maroc totalisent quelque 300 000 individus.
+Nombre d'entre eux vivent dans les districts montagneux au
+milieu des populations musulmanes avec lesquelles ils ont de
+bons rapports. La situation des autres s'est beaucoup améliorée
+
+
+grâce à l'action de l'Anglo-Jewish Association et de l'Alliance
+israélite universelle. En fait, de manière générale, les juifs sont
+mieux traités que les Maures par les autorités [Makhzen]. Les
+juifs riches jouissent pour la plupart de protections
+[étrangères]. [D'ailleurs], même les juifs pauvres, qui sont
+toujours sujets marocains [et sous la juridiction autochtone],
+ne paient pas d'impôts³"...
+
+
+37
+
+
+Rivalités coloniales et relations judéo-
+
+
+musulmanes (1900-1912)
+
+
+RIVALITÉS ENTRE PUISSANCES, RÉFORMES ET TURBULENCES
+(1900-1905)
+
+
+Dans un contexte marqué par les deux graves crises ayant failli
+provoquer une conflagration générale au lendemain de la visite de
+Guillaume II à Tanger en 1905 et de l'intervention des troupes
+françaises à Fès en 1911, la Grande-Bretagne, la France, l'Espagne et
+l'Allemagne estimaient que le Maroc risquait de s'effondrer à tout
+moment. Elles n'ignoraient cependant rien des qualités guerrières des
+tribus et de leur réceptivité aux échos de la lame de fond provoquée
+dans quasiment l'ensemble du monde musulman par les coups portés
+par le Mahdi aux Anglais au Soudan, et craignaient qu'elles ne
+passent outre la politique de temporisation du Makhzen, d'autant
+qu'elles se dotaient d'armes de contrebande à tir rapide. En témoigne,
+dans le Nord, la fréquence des accrochages entre soldats espagnols et
+Rifains de la région de Melilla où une véritable guerre éclata entre
+ceux-ci et ceux-là en 1893, alors que le sultan Moulay Hassan était en
+expédition dans le Tafilalet, région où circulaient précisément des
+appels au djihad.
+
+
+Théoriquement exclus du champ politique en leur qualité de
+dhimmis, les juifs étaient supposés subir passivement les retombées
+des luttes opposant les musulmans et rester dans l'expectative face à
+la multiplication des révoltes et des tractations diplomatiques qui
+semblaient rendre irréversible la marche vers l'instauration d'un
+protectorat français, surtout après la conclusion de l'Entente cordiale
+(1904).
+
+
+Les révoltes étaient le fait, selon les cas, de fellahs excédés par les
+impôts ou menacés de prolétarisation, du petit peuple des médinas en
+butte au maks, des rivalités entre candidats à des fonctions Makhzen,
+de notables risquant le déclassement et, dans le cas de Jilali
+Zerhouni, surnommé Roghi, de l'ambition de se faire proclamer
+sultan. Les répercussions de ces rébellions sur les juifs furent
+variables.
+
+
+Dans les campagnes, quasiment seuls furent affectés les juifs
+tenant boutique dans les casbahs des caïds et des gouverneurs
+attaquées et incendiées par les fellahs. Dans les plaines moyennes
+atlantiques, par exemple, régions en butte aux ravages de l'usure et à
+une colonisation larvée, ceux-ci entamèrent leur soulèvement par la
+dévastation des azibs appartenant à des agents du Makhzen (dont des
+vizirs ayant accaparé des terres domaniales) et des propriétaires
+absentéistes, avant de saccager les « forteresses » servant à la fois de
+siège de l'autorité locale ou régionale et d'entrepôt pour de gros
+marchands musulmans et juifs.
+
+
+De manière générale, les Israélites ne subirent lors de ces
+soulèvements que des dégâts matériels. Ceux qui étaient établis dans
+des karias du Gharb purent en effet se replier sur des villes de la côte
+dès que leur parvinrent les nouvelles faisant état d'une première
+vague de pillage d'azibs. Leurs coreligionnaires des casbahs de Settat
+et de Berrechid, localités collectant les produits de la Chaouïa
+destinés à l'exportation et vers lesquelles affluaient des juifs des
+mellahs du Haut-Atlas et du Sous, furent pour leur part défendus par
+des musulmans contre les jawqas bandes de 10 à 30 cavaliers
+rebelles et escortés jusqu'à Casablanca, où l'AIU leur distribua des
+secours.
+
+
+Les habitants des mellahs urbains furent eux aussi menacés par
+les rebelles. Lors d'attaques menées contre Meknès en 1902, les Beni
+
+
+Mtir, Guerrouane et Zemmours, tribus dont des contingents venaient
+de prendre part au djihad contre les Français dans le Touat,
+essayèrent ainsi d'envahir et de piller le quartier juif de cette cité. Ils
+se heurtèrent à une vive résistance des juifs qui, dit le rabbin Youssef
+Messas, se servirent de leurs armes et « tuèrent un grand nombre de
+philistins  . Des musulmans d'un << faubourg » voisin (Toulal),
+habitués à leur prêter main-forte en pareilles circonstances, vinrent à
+l'aide des assiégés.
+
+
+À Marrakech, cité en butte aux ressentiments des tribus
+environnantes contre les « amis » juifs de leurs caïds et où une «
+bataille rangée » entre des Européens au mellah avait failli provoquer
+le pillage de ce quartier (juillet 1902), le petit peuple de la médina
+laissa éclater sa colère contre la dépréciation de la monnaie de cuivre,
+la hausse des prix et le zèle d'agents du Makhzen exigeant le
+paiement des taxes en pièces d'argent (20 janvier 1904). Les
+émeutiers saccagèrent la maison du mohtasseb, pillèrent des
+magasins, détruisirent une chapelle catholique, exhumèrent le
+cadavre d'un missionnaire, et s'en prirent aussi aux juifs. Ils les
+pourchassèrent en médina. Après l'invasion de l'esplanade du palais,
+le khalifat fut mis en demeure de les « rappeler à l'ordre ».
+
+
+À Fès, le mellah resta à l'abri des troubles. Quasiment un seul
+grave incident survint en médina en juin 1900 lorsqu'un juif
+américain, Marcos Ezzagui, apostrophé par un chérif originaire du
+Tafilalet que son cheval avait heurté, coupa court à l'altercation en
+tirant à bout portant avec un pistolet sur son interlocuteur, le tuant
+sur le coup. Dans un accès de fureur, la foule, qu'excédaient depuis
+fort longtemps déjà les écarts de langage de ce dhimmi et la hauteur
+avec laquelle il toisait les gens sur le chemin menant à son magasin,
+se saisit de lui, le lapida et mit le feu à son cadavre.
+
+
+La réaction d'une partie de la population du mellah, laquelle avait
+dans les années 1880 déjà demandé à être installée dans un quartier
+à part, à même de la soustraire à d'éventuelles représailles de
+musulmans victimes des excès d'usuriers, était, elle aussi, lourde de
+sens. Mis au courant de ce qui venait de se passer en médina, le
+sultan déclara à ce propos que « les juifs eux-mêmes [étaient] si las
+de l'arrogance [d'Ezzagui] et des incidents qu'il provoquait en médina
+qu'ils ont été saisis d'une joie horrible à l'annonce de sa mort ». Des
+rabbins et des notables « se sont dits prêts à témoigner contre lui
+devant des adouls », devait-il indiquer quelque temps plus tard en
+réponse à l'ultimatum du consul général des États-Unis le mettant en
+demeure de verser, sous peine de démonstration navale, 5 000 dollars
+à titre d'indemnité aux ayants droit et de sanction contre « la
+négligence du Makhzen dans la recherche des meneurs ayant incité la
+foule à la lapidation ».
+
+
+Dans les provinces orientales sur lesquelles il « régna » entre 1902
+et 1909, Jilali Zerhouni, dit Bou Hmara, initialement fquih de son
+état et au fait des stipulations de la dhimma, ne perdit pas de vue les
+services que pouvaient lui rendre tant ses « sujets » juifs que leurs
+coreligionnaires d'Algérie et ceux de Melilla. Il refusa de ce fait,
+malgré les pressions de certains de ses partisans, de « faire reprendre
+[aux premiers] les babouches et la calotte noire ». Il n'exigea d'eux
+que la jiziya. Bien plus : il nomma David Cohen Sqalli, chef d'un «
+clan >> se disant d'origine sacerdotale (aaronide), caïd à Debdou,
+petite ville comptant quelque 1 500 juifs sur une population totale de
+2 000 habitants et réputée dans tout le Maroc et les autres pays
+d'Afrique du Nord pour la qualité de ses Sefer (rouleaux de la loi).
+
+
+Le prétendant s'efforçait, ce faisant, d'éviter leur exode en Algérie
+et de les encourager à servir sa cause. N'ignorant sans doute rien des
+avances d'argent et de vivres que l'un des leurs, Ischoua Ben
+
+
+Harroche, faisait depuis Melilla aux mehallas azizistes dans la région
+d'Oujda, il s'adressa à certains de leurs coreligionnaires pour lui
+fournir des armes (i.e. le Tétouanais Isaac Pinto) et des uniformes
+pour ses troupes (i.e. l'Oranais Storto).
+
+
+Les juifs de Debdou et d'ailleurs ne devaient pas manquer de
+comparer sa retenue à l'égard de leurs « frères » lors du séjour de sa «
+cour » à Taza (1902), malgré la forte présence dans son camp de
+Ghiata, « célèbres par leurs brigandages » (De Foucauld), avec les
+violences dont cette ville fut le théâtre après sa reprise (1903) par des
+troupes azizistes encadrées par des officiers d'artillerie de la mission
+militaire française et commandées par Mehdi Menebhi, vizir de la
+Guerre, lequel s'était fait « protégé britannique » en secret.
+
+
+Les strates supérieures des communautés juives avaient du jeune
+sultan Moulay Abdel-Aziz une perception négative largement liée aux
+mesures potentiellement préjudiciables à leurs intérêts prises par son
+grand vizir, Ba Ahmed, puis par lui-même après 1900. Les gros
+négociants n'oubliaient pas les nombreux tracas que le premier leur
+causa par les ordres donnés aux oumana de révision de leurs comptes
+avec Moulay Hassan, d'actualisation et d'indexation sur le taux de
+dépréciation de la monnaie marocaine des baux emphytéotiques dont
+ils jouissaient, de mise aux enchères de ces baux sans droit de
+préemption pour les anciens bénéficiaires et de reprise au profit du
+Makhzen des caravansérails, magasins, dépôts et locaux d'habitation
+lui appartenant et irrégulièrement occupés ou privatisés. À ces
+initiatives s'ajoutèrent la contestation systématique des montants des
+indemnités versées par l'État et les tribus au titre de ce que les
+légations appelaient les « réclamations juives », ainsi que les efforts
+déployés pour persuader les puissances de réviser le système des
+protections et des naturalisations.
+
+
+Dans ces conditions et en raison de l'accentuation de la tendance
+des maisons de commerce étrangères à se passer de leur
+intermédiation et à opérer directement sur le marché marocain ou à
+recourir à un nombre accru de marchands musulmans, les éléments
+lésés par ces remises en cause ne pouvaient que s'opposer au tertib dit
+azizi, censé instituer une fiscalité proportionnelle et générale.
+
+
+Décrété en 1901, lui aussi sans l'aval préalable des puissances, et
+précédé imprudemment de la suspension de la perception des impôts
+canoniques, le nouveau tertib ligua contre le jeune sultan aussi bien
+les musulmans que les juifs. Axée sur le caractère déclaré contraire
+aux prescriptions religieuses de cet impôt, la « bataille » contre cette «
+innovation [jugée] blamable
+>>
+mobilisa les forces conservatrices
+attachées à leurs privilèges et rejetant toute participation au fardeau
+fiscal pesant sur la masse des petits fellahs. Les chefs de la zaouïa
+d'Ouezzane, pourtant protégés français, se posèrent en l'occurrence
+en défenseurs du strict respect du chraâ. Désireux de soustraire à
+l'impôt leurs nombreux azibs et encouragés par leurs protecteurs
+français, hostiles à tout ce qui pouvait redynamiser le Makhzen, ils
+s'opposèrent à l'application du tertib en lieu et place des impôts
+canoniques qu'ils ne payaient pas en leur double qualité de chorfa et
+de protégés étrangers (depuis 1884). Le chef de la zaouïa de
+Tamesloht, protégé anglais, en fit autant.
+
+
+Les juifs ne pouvaient certes pas reprendre à leur compte, en tant
+que dhimmis, pareils arguments. La mise en échec du tertib ne les
+arrangeait pas moins dans la mesure où elle leur permettait de
+préserver les revenus que leur assuraient les mokhalatas et
+l'exploitation de leurs propres domaines.
+
+
+Situé non loin du palais, le mellah de Fès, quartier où vivaient de
+riches marchands ayant de gros intérêts en tribus et des liens étroits
+avec leurs notables et leurs caïds, fut l'un des relais des critiques
+
+
+contre le sultan. Il contribua à son dénigrement par, entre autres,
+toutes sortes de propos sur ses « fantaisies », ses amusements avec les
+Européens et ses dépenses. Grand fut aussi à cet égard l'impact de la
+reproduction par un photographe de ce quartier et de la vente d'un
+portrait montrant, dit un secrétaire de la légation de France, « la
+triste image de Moulay Abdel-Aziz vêtu d'un costume de cirque et
+regardant, hagard, l'effet produit sur ses contemporains par cette
+monstrueuse plaisanterie ».
+
+
+Le tarissement des revenus du Trésor consécutif à la levée de
+boucliers contre le tertib et au veto mis à son application par les
+puissances créa des conditions propices à l'accentuation de la mise en
+dépendance du pays par le biais de l'obligation où se trouva le
+Makhzen de contracter des emprunts et le cercle vicieux que créa son
+incapacité à les rembourser, s'enfonçant de plus en plus dans
+l'endettement et les conditions dont il était assorti. Dans ce processus,
+dominé par le tandem Quai d'Orsay-Banque de Paris et des Pays-Bas,
+les négociants-banquiers juifs marocains ne restèrent pas inactifs.
+Malgré la faiblesse de leur marge de manœuvre, ils n'en essayèrent
+pas moins d'imposer leurs services. C'est ce à quoi s'attachèrent les
+maisons Pariente, Nahon, Salvador Hassan, Haesner & Toledano.
+Pour les neutraliser, le Comptoir essaya de créer une « Banque franco-
+marocaine  et d'y associer Salvador Hassan, « négociant juif [...]
+jouissant d'une situation considérable 38
+».
+
+
+Les négociants-banquiers
+
+
+Moses Pariente, Isaac Abensur
+(naturalisé anglais), (official) bankers of British Legation et agents au
+Maroc de Stern Brothers de Londres, Pinhas Toledano (protégé
+allemand), S. Hassan (protégé portugais et coassocié d'un juif
+d'origine alsacienne établi à Tanger depuis 1875), Benjamin Baruch
+Braunschvig, et les principaux actionnaires de la Société immobilière
+du Maroc intervinrent directement auprès de Moulay Abdel-Aziz. Ils
+
+
+mirent en avant le « précédent » que représentaient les contrats de
+frappe que son père leur avait confiés, et son propre souci de
+desserrer l'emprise politico-financière des Français.
+
+
+Un ancien tajir-sultan originaire du Tafilalet, établi à Londres,
+Moïse Aflalo, leur apporta son concours. Il se servit à cet effet de la
+confiance dont il jouissait à la cour, à l'époque de Moulay Hassan et
+Ba Ahmed. Moulay Abdel-Aziz ne pouvait, par ailleurs, qu'apprécier
+ses campagnes de presse contre les « menaces que représentaient
+pour les intérêts britanniques et la route du Cap et de l'Australie les
+visées de la France sur le Maroc
+Intervenant auprès du
+gouvernement britannique en sa qualité de Confidential
+Correspondent and Adviser of His Sharifian Majesty, il essayait de
+l'inciter à réviser sa politique de désengagement au Maroc³9.
+
+
+».
+
+
+39
+
+
+Passant outre les mises en garde de l'ambassadeur Arthur
+Nicolson contre « l'imprévoyance du Makhzen et son désir de se
+procurer des fonds sans se soucier de l'avenir », Aflalo chercha, de
+concert avec des banques juives de la City, à venir à bout des
+réticences de Lansdowne envers tout projet d'emprunt n'ayant pas
+fait l'objet de concertations préalables avec Delcassé. Lui-même et les
+négociants-banquiers qualifiés de « farceurs » par le directeur du
+Contrôle de la dette (marocaine), Henri Régnault, purent ainsi
+contribuer en 1902 à un premier prêt de 300 000 livres sterling réuni
+par un groupe de banquiers juifs de Londres dirigé par les frères
+Stern. Sollicités de nouveau par le vizir des Finances, Abdeslam Tazi,
+ils essayèrent d'en réunir un second en 1903 auprès de Samuel
+Montagu & Co, de banques espagnoles et même françaises 40.
+
+
+Les efforts des banquiers tangérois et de leurs correspondants en
+Europe s'orientèrent également vers l'exploitation des possibilités
+qu'offrait le souci de l'Allemagne de contrecarrer l'avance
+déterminante donnée à la France sur la scène marocaine par l'Entente
+
+
+cordiale et les conditions dont fut assorti l'emprunt accordé par
+Paribas au Makhzen en 1904. Là aussi, ils mirent à profit leurs
+contacts avec des coreligionnaires tels que le banquier Mendelssohn
+cofondateur du Syndicat pour la protection des intérêts allemands au
+Maroc et Gershon Bleichroder, l'un des
+<<
+architectes
+>>
+de
+l'indemnité de guerre imposée à la France en 1870, « émissaire » de
+
+
+l'AIU auprès de Bismarck en 1880 et « co-sponsor » de l'Hilfsverein
+der Deutschen Juden (fondé en 1901).
+
+
+Les « Tangérois » essayèrent également de susciter l'intérêt des
+financiers israélites de New York, notamment un homme d'affaires
+américain, Langermann. Celui-ci proposa de rassembler 50 millions
+de dollars auprès d'un consortium new-yorkais en échange de
+concessions et de commandes de matériel militaire. Il s'y employa
+conjointement avec un Israélite originaire de Francfort, Thomas
+Foote.
+
+
+Les tractations autour des emprunts et le coût financier et
+politique auquel le sultan s'endettait et aliénait la souveraineté du
+pays ne passèrent pas inaperçus des populations musulmanes et des
+oulémas. Ces derniers demeuraient foncièrement hostiles à des
+emprunts qui ne faisaient qu'aggraver le « gaspillage » du Makhzen,
+préparaient l'asservissement politico-financier du pays et
+enrichissaient des vizirs, tels qu'Omar et Abdeslam Tazi
+personnages dont les opposants se plaisaient à rappeler l'origine
+juive.
+
+
+Au regard de l'alem Mohamed Kettani (d. 1909) et de ses
+homologues, la situation dans laquelle le pays se débattait était
+imputable aux ingérences étrangères. Comme rien de positif ne
+pouvait venir de l'Europe, ce fut avec force qu'ils s'opposèrent au
+programme de réformes que l'ambassadeur S.R. Taillandier essaya
+d'imposer à Fès au printemps de 1905. Pareille attitude ne les
+
+
+empêcha cependant pas de mettre en cause la responsabilité du
+Makhzen et de leurs coreligionnaires. Donnant en exemple « le
+châtiment infligé par Dieu aux enfants d'Israël », ils affirmèrent que
+les maux qui s'abattaient sur le pays étaient l'expression de la colère
+divine contre les déviations des musulmans, l'éclatement de leur
+communauté et l'adoption des « mœurs dissolues des infidèles 41
+».
+
+
+En milieu juif, des rabbins et des dayyanim, s'adonnant en sus de
+leurs fonctions religieuses et judiciaires à des activités marchandes,
+déploraient eux aussi ce qu'ils percevaient comme autant de signes
+du recul des traditions, de « déjudaïsation de la jeunesse » et
+d'atteintes à leur autorité morale. Divers rapports diplomatiques
+relevaient en effet « la tendance à l'effacement de l'autorité des
+rabbins, [leur] justice étant battue en brèche par le système de la
+protection [et les tribunaux consulaires] ». Ľattitude de ces éléments
+vis-à-vis des réformes que des puissances voulaient imposer restait
+cependant ambivalente. En témoignent, par exemple, leur statut de
+protégés étrangers et, sur un plan symbolique, leur refus de renoncer
+au costume traditionnel et de s'habiller à l'européenne comme le
+Makhzen les y incitait pour que les autorités et la population puissent
+distinguer de visu les « associés des chrétiens » des dhimmis de droit
+commun 42.
+
+
+Dans l'optique des oulémas réceptifs aux idéaux de la Nahda, du
+salafisme tel que le concevaient Mohamed Abdou, Jamal Din Afghani
+et Rachid Rida, voire du panislamisme, alors en vogue au Moyen-
+Orient et propagés par des journaux égyptiens et syro-libanais ainsi
+que par des pèlerins et des étudiants ayant fréquenté Al Azhar, le «
+relèvement » passait par le « retour au droit chemin », une étroite
+coopération avec les Ottomans, l'exploitation tant du coup porté à la
+France par la défaite de son allié russe face au Japon que de la
+
+
+rivalité franco-allemande – la visite de Guillaume II à Tanger (31
+mars 1905) en étant la manifestation la plus fracassante.
+
+
+LA « LIBERTÉ RELIGIEUSE » À LA CONFÉRENCE D'ALGÉSIRAS
+(1906) ?
+
+
+Ces convictions et ces prises de position expliquent dans une large
+mesure la véhémence des réactions suscitées au Maroc par les clauses
+de la convention que les puissances
+réunies pour éviter que le
+conflit franco-allemand ne dégénère en conflagration générale par le
+jeu des alliances – firent avaliser au Makhzen à Algésiras, notamment
+celles ayant trait aux « droits spéciaux » et aux prérogatives en
+matière de réformes reconnus à la France et à l'Espagne.
+
+
+La question de la « liberté religieuse au Maroc » ne figurait pas à
+l'ordre du jour de cette conférence. ĽAJA avait toutefois plaidé auprès
+du roi d'Espagne, Alphonse XIII, lors de sa visite d'État en Angleterre
+(juin 1905) et de l'audience qu'il accorda à une délégation de la
+Spanish and Portuguese Congregation, en faveur des juifs
+descendants d'« anciens sujets de [ses] glorieux ancêtres », dont ceux
+qui s'étaient établis au Maroc après 1492. Cette démarche semblait
+devoir aboutir d'autant plus facilement que l'Espagne suivait depuis
+peu une « stratégie séfarade » censée mobiliser tous les juifs du Bassin
+méditerranéen au service de ses intérêts.
+
+
+Toutefois, ce fut à la défense des « droits spéciaux » de son pays
+au Maroc que s'attacha le délégué espagnol à Algésiras. L'évocation
+des « principes humanitaires » échut au seul représentant des États-
+Unis. Le président Theodore Roosevelt insistait en effet pour que « la
+question de la liberté religieuse et des restrictions imposées aux juifs
+du Maroc » fût débattue. Il affirmait lui accorder autant d'importance
+qu'au principe de la « porte ouverte ». En réponse aux instructions lui
+
+
+enjoignant de coopérer avec la légation de France quand des « actes
+d'oppression contre les sujets hébreux » lui étaient signalés, le consul
+général des États-Unis à Tanger, Samuel Gummeré, avait pourtant
+précisé au Département d'État que les communautés juives
+[n'étaient] victimes d'aucune persécution ».
+
+
+Le président cherchait non seulement à infléchir la politique
+extérieure des États-Unis dans un sens interventionniste, mais aussi à
+exploiter à des fins électorales le prestige qu'il escomptait d'une
+
+
+intervention dans la
+«
+crise marocaine ». Les
+<<
+médias
+>>
+avait
+commencé à y sensibiliser l'opinion publique depuis l'envoi d'une
+escadre de l'US Navy devant Tanger et d'un ultimatum exigeant du
+sultan la libération d'un Américain enlevé par Ahmed Raïssouni
+(1904). Ces considérations l'incitèrent à abonder plutôt dans le sens
+de son ami et bailleur de fonds de son parti, le banquier Jacob H.
+Schiff, lequel lui soumit un mémoire sur les « Restrictions pesant sur
+les juifs du Maroc ».
+
+
+C'étaient l'AIU et l'UAHC qui avaient fourni une partie des
+données ayant servi à la rédaction de ce mémorandum. Son véritable
+initiateur, Schiff, menait un vaste programme de lutte contre les
+persécutions qui endeuillaient les ghettos d'Europe centrale et
+orientale et faisaient échouer des centaines de milliers d'émigrés juifs
+ukrainiens et autres sur les quais de New York. Obnubilé par les
+pogroms de Russie (i.e. Kishinev, 1903) et manifestement mal
+informé des réalités marocaines, il ne vit dans les événements
+survenus en particulier à Taza et Settat, tels qu'ils lui étaient
+rapportés, que le résultat des « iniquités que les Mahométans du
+Maroc faisaient endurer aux chrétiens et aux adeptes d'autres sectes
+», formulation rappelant celle que Montefiore avait adoptée en 1864.
+
+
+Le projet de « garantie de la tolérance religieuse et raciale » au
+Maroc, préparé par le Département d'État, ne suscita cependant
+
+
+guère d'enthousiasme parmi les gouvernements européens. Les juifs
+marocains eux-mêmes se montraient réticents. Le secrétaire de la
+délégation américaine à Algésiras, Lewis Einstein, envoyé à Tanger
+vérifier point par point le bien-fondé du mémorandum de Schiff, s'en
+fit l'écho dans un rapport détaillé basé sur des déclarations recueillies
+en particulier auprès d'éléments ayant joué auparavant un rôle décisif
+dans la « mobilisation » de l'AIU et de l'UAHC. Outre le rappel de la
+situation privilégiée de certains de leurs coreligionnaires et les
+procédés qu'ils utilisaient pour continuer de bénéficier de la prise en
+charge de leurs intérêts par les légations, ces mises au point portèrent
+notamment sur l'anachronisme de divers stéréotypes attachés à la
+condition de dhimmis et la désuétude d'un certain nombre d'usages.
+
+
+Au terme de la visite d'Einstein, le grand rabbin de Tanger,
+Mardochée Bengio, lui remit une lettre destinée à White et au
+secrétaire d'État. Il y affirma que « le gouvernement des États-Unis
+avait l'impression que les juifs marocains étaient maltraités et
+opprimés, [mais qu'il] n'en était rien en réalité [et] qu'en toute justice
+[...] il fallait reconnaître qu'ils n'avaient absolument aucune raison
+de se plaindre. [De ce fait, et] tout en remerciant S.E. le président
+Roosevelt pour l'intérêt humanitaire qu'il leur témoignait [...] les
+juifs marocains [déclaraient] n'avoir pas besoin [...] de sollicitude
+particulière et [préféraient] que fusse évitée à Algésiras toute
+intervention amicale en leur faveur 43
+
+
+».
+
+
+Le délégué américain à Algésiras n'insista pas outre mesure. Ses
+collègues européens non plus. Ľune des préoccupations majeures de
+ces derniers, principalement des Français et des Espagnols, était la
+détermination des tribus à résister à toute mainmise étrangère et
+l'accroissement de leurs capacités guerrières grâce à l'acquisition
+d'armes et de munitions de guerre de fabrication européenne et
+américaine, déversées par des contrebandiers en grosses cargaisons
+
+
+en divers points du littoral marocain. Or, des négociants israélites
+précisément étaient, avec des ressortissants européens et même des
+agents consulaires, au nombre des principaux pourvoyeurs des
+hommes de tribus en Winchester, Mauer et autres fusils à tir rapide.
+L'Espagne et la France s'inquiétaient de l'ampleur d'un tel trafic.
+D'autant que se propageaient ponctuellement des appels au djihad.
+
+
+Pareil état de fait confortait dans une certaine mesure l'attitude
+du délégué du sultan à Algésiras, Larbi Torrès. Dans des propos tenus
+aux envoyés spéciaux de grands journaux américains (New York Daily
+Tribune, New York Times), il s'interrogea en effet sur l'opportunité
+même de la tenue d'une telle réunion et « les raisons qui empêchaient
+les puissances d'envisager plutôt une conférence sur la Russie et de
+[se préoccuper de] rétablir l'ordre là-bas ».
+
+
+White dut renoncer à son projet initial. Pour ne pas décevoir
+totalement Schiff et les autres financiers juifs qui soutenaient le Parti
+républicain, il proposa un « vœu » aux autres plénipotentiaires. Dans
+la motion présentée à cet effet, et suggérée en réalité par Pimienta
+sur le modèle du « vœu exprimé en faveur de la liberté religieuse » en
+1880 à Madrid, il rappela la volonté des États-Unis de « s'associer à
+tout ce qui était de nature à contribuer au progrès des idées
+humanitaires et à assurer le respect dû à toutes les croyances », leurs
+<< sentiments d'amitié à l'égard de l'empire du Maroc et le profond
+intérêt avec lequel ils suivaient son développement ». Exprimant la
+satisfaction de son gouvernement devant
+<<
+la nette amélioration
+apportée sous le règne de feu Moulay Hassan à la condition de ses
+juifs et la volonté de Moulay Abdel-Aziz de les voir traités avec équité
+et bonté », il suggéra d'inviter « Sa Majesté à [...] rappeler à ses
+[agents] de traiter avec justice et équité les juifs de son empire, ainsi
+que tous ses sujets sans aucune distinction [d'appartenance
+religieuse]  .
+
+
+Cette motion fut adoptée comme un pis-aller. Le véritable enjeu
+de la conférence était autre. Au regard des Français et des Espagnols,
+l'essentiel était d'obtenir une reconnaissance de « droits spéciaux »,
+quitte à admettre les principes de l'égalité économique des puissances
+au Maroc.
+
+
+DE LA CONVENTION D'ALGÉSIRAS À L'INSTAURATION DU
+
+
+PROTECTORAT
+
+
+Les partisans du « bas profil » parmi les juifs marocains étaient
+d'autant plus alarmés que le sens ultime des « droits spéciaux >>
+reconnus à la France et à l'Espagne par la convention d'Algésiras (7
+avril 1906) n'échappait à personne. Au fait du surcroît d'ébullition
+provoqué par ce que les élites musulmanes percevaient comme un «
+diktat », il était évident, à leurs yeux, que les tentatives de mise en
+dépendance du pays, fût-ce sous le couvert d'un protectorat
+international ne disant pas son nom, allaient se heurter à de fortes
+résistances et provoquer sans doute des vagues de turbulences encore
+plus violentes.
+
+
+Les troubles que les juifs craignaient de voir s'étendre du fait des
+réactions suscitées en milieu musulman par l'Acte d'Algésiras, devenu
+synonyme dans le parler marocain de conditions léonines et de
+contrainte excessive, et de l'incapacité du Makhzen, commencèrent
+lorsque le gouvernement français tenta de hâter la mise en
+application des « droits spéciaux » qu'il venait de se faire reconnaître.
+À l'inverse des tribus de l'Oriental prises au dépourvu dans l « affaire
+» d'Oujda, cité occupée sans coup férir à titre de « gage » par des
+troupes envoyées d'Algérie après l'assassinat à Marrakech du Dr
+Émile Mauchamp, soupçonné d'espionnage par la foule l'ayant
+
+
+assailli, celles de la Chaouïa se montrèrent quant à elles déterminées
+à résister à toute invasion.
+
+
+Ces juifs ne furent nullement inquiétés dans la première phase de
+leur mobilisation contre la poursuite des travaux d'aménagement du
+port de Casablanca par la Compagnie marocaine laquelle <<<
+accaparait » plus de 7 000 hectares de terres agricoles dans la région
+-, contre le creusement à travers un cimetière musulman d'un
+tronçon de la voie ferrée acheminant des blocs de pierre d'une
+carrière vers les quais, et contre la prise effective de fonctions d'un
+agent français du Contrôle de la dette. Les délégués de tribus envoyés
+en ville les appelèrent simplement, au même titre que les autres
+autochtones, à boycotter les Européens. Le gouverneur de la ville,
+Boubker ben Bouzid, fut lui-même mis en demeure d'expulser ces
+derniers et de mettre le télégraphe hors d'usage.
+
+
+Au terme du délai de cinq jours fixé pour l'exécution de leurs
+exigences, des hommes de tribus s'en prirent le 30 juillet 1907 aux
+ouvriers européens et musulmans de la carrière qui refusaient de se
+plier à leurs injonctions, faisant 9 morts parmi les premiers.
+Ľagitation ne s'étendit cependant pas au reste de la ville. Le mellah
+demeura, ainsi que l'indique l'envoyé spécial du Matin, « aussi animé
+qu'aux anciens jours [avec] des rues encombrées de marchands de
+légumes, des boutiques débitant leur viande en plein vent, et des
+femmes jacassant sur le pas de portes ». Le naïb Torrès n'en pressa
+pas moins le gouverneur de prendre toutes les précautions pour «
+assurer la sécurité de tous les étrangers, des juifs et des protégés ».
+
+
+Un changement radical survint lorsque le commandant du
+bâtiment de guerre français dépêché sur place, le Galilée, fit
+débarquer des marins – conduits jusqu'au consulat de France par un
+interprète juif, Yahiya Zagouri –, et commença à bombarder la ville (5
+août). Pris de panique, dit un médecin anglais, « des centaines de
+
+
+Maures et de juifs [cherchèrent] à fuir et s'abritèrent près du
+Nouveau Mur (Soûr Jdid) », secteur que le vice-consul Roger Maigret
+s'était pourtant engagé à épargner. Ce fut sur « ces créatures sans
+défense que les canons [du croiseur] firent tomber leurs obus à la
+mélinite ». Le bombardement « ruina la ville et fit, dit-on, de 600 à 1
+500 victimes [arabes] », bilan alourdi par le pilonnage auquel se livra
+un peu plus tard un autre bâtiment, Du Chayla.
+
+
+Dans la confusion ayant résulté de l'exploitation de ce qu'un
+ancien membre de la délégation française à Algésiras, Henri Cambon,
+appela « le hasard providentiel [ayant] fourni à la France, au prix
+modique de neuf victimes [européennes] l'occasion de prendre pied
+sur un sol intangible », divers éléments se livrèrent au pillage des
+maisons abandonnées par les Européens regroupés dans les
+consulats ou réfugiés à bord de bateaux  , et à la mise à sac des
+magasins. Les déracinés vivotant dans des huttes alentour, et au
+nombre desquels figuraient de nombreux fellahs réduits à la misère
+par les extorsions de caïds et de « prêteurs à gages constamment à
+l'affût de tous les besogneux d'argent » (Lacharrière) et autres «
+aigrefins », profitèrent de l'occasion pour assouvir de vieilles
+rancunes.
+
+
+Des gens de tribus réagirent de la même manière. Bon nombre
+d'entre eux étaient animés de sentiments similaires à l'encontre des
+Européens, en raison de l'exploitation à laquelle ceux-ci se livraient
+aux dépens de leurs « mokhalets », de leur mainmise sur les terres de
+partenaires trop endettés, des réclamations excessives qu'ils
+présentaient au titre du « pillage » de troupeaux ou de silos de grains,
+et des amendes collectives imposées par les légations.
+
+
+Les correspondants du Temps (i.e. Franz Weisgerber) et du Matin
+en particulier, « aux ordres du Quai », cherchèrent à « présenter les
+événements avec un plus grand souci des réalités françaises que de
+
+
+l'exactitude des faits [et à] préparer l'opinion et le parlement » (à la
+conquête). Ils imputèrent les scènes d'horreur dont la ville fut le
+théâtre à la seule << sauvagerie des Bédouins ». D'après Christian
+Houel, « les commerçants musulmans eux-mêmes sont dévalisés ou
+mis à rançon. Mais les plus pitoyables victimes sont nécessairement
+les juifs [...]. Dans le mellah désarmé tout était à prendre, les bijoux,
+l'argent et les filles ». Ce journaliste devait cependant ajouter qu'en
+fait les « réactions [des Marocains] ne diffèrent point des nôtres
+lorsque nous subissons l'invasion des étrangers ». Même le Makhzen
+avait essayé dans un premier temps de réduire les résistants à de
+simples malfaiteurs. Ce n'est qu'après avoir appris ce qui s'était
+réellement passé qu'il déclara que « l'Acte d'Algésiras [avait] chargé
+[la France] de coopérer au [rétablissement] de la sécurité et non de
+détruire les biens et d'assassiner les gens ».
+
+
+Le quartier juif de Casablanca, pillé après que bon nombre de ses
+habitants eurent trouvé refuge à bord de navires européens ou près
+du Soûr Jdid et que des obus du Galilée l'eurent incendié, fut envahi
+par des hommes de tribus et les miséreux de la ville ayant profité du
+chaos pour se servir dans les maisons et les boutiques juives évacuées
+par leurs occupants, et en particulier les riches marchands qu'ils
+considéraient comme plus ou moins responsables de leurs maux.
+D'autant que l'opulence de certains parmi ces derniers était telle qu'ils
+possédaient des esclaves musulmans en provenance notamment du
+Draâ, du Sous et du Tadla, et que l'effervescence créée par les appels
+au djihad rendait intolérable la poursuite d'un tel état de fait,
+symbole manifeste aux yeux de fouqahas de la « déchéance de la
+communauté islamique 44
+».
+
+
+Les Bédouins ne furent cependant pas les seuls à se livrer au
+pillage. Ceux que des journaux parisiens de gauche appelèrent les «
+Apaches français du Maroc » et « les argousins criminels de la
+
+
+chevaleresque Marianne », débarqués sous le commandement du
+général Drude, participèrent eux aussi à la curée. Des Européens
+établis sur place, notamment des Espagnols, ne demeurèrent pas en
+reste eux non plus.
+
+
+Après l'occupation de la ville, les autorités françaises se
+préoccupèrent de normaliser la situation. Elles prirent pour ce faire
+des initiatives qui inaugurèrent d'une certaine manière l'un des volets
+de la « politique indigène » du protectorat. Elles assignèrent à cet
+effet à des « équipes de juifs » le déblaiement des rues, le « ramassage
+des cadavres >> et des
+<<
+déchets ménagers >> des Européens. Des
+musulmans, y compris des mokhalets et des censaux, furent eux aussi
+soumis à des corvées dans la zone conquise en Chaouïa.
+
+
+La ratification de la convention d'Algésiras par Moulay Abdel-Aziz
+et son incapacité face à l'occupation d'Oujda, de Casablanca et de la
+Chaouïa facilitèrent l'avènement de son demi-frère et khalifat à
+Marrakech, Moulay Hafid. Proclamé « sultan du djihad » le 16 août
+1907, il était censé œuvrer à l'abrogation des « conditions d'al-
+khûzirat » et à la libération des territoires nouvellement occupés par
+les Français. Certains de ses partisans dans la Chaouïa étaient juste
+de retour de la zone des confins algéro-marocains où ils venaient de
+prendre part à la résistance, notamment dans le Haut-Guir, aux
+empiétements territoriaux perpétrés par les troupes françaises
+d'Algérie sous couvert du « droit de poursuite » de « dissidents »
+algériens.
+
+
+Le nouveau sultan préparait le renversement de son frère depuis
+1902-1904. Il bénéficiait en l'occurrence des encouragements et de
+l'appui de grands caïds et de notables des provinces du Sud hostiles
+au tertib, au projet de déclaration de biens des agents du Makhzen et
+de prestation du serment de probité à leur prise de fonctions élaboré
+par Moulay Abdel-Aziz. Ces éléments s'inquiétaient aussi de la
+
+
+violence accrue que leur opposaient les hommes de tribus en révolte,
+n'hésitant pas à piller leurs biens et à incendier leurs casbahs. En
+ville, les artisans et le petit peuple, excédés par les taxes, la
+dépréciation de la monnaie et la hausse des prix, se montraient eux
+aussi particulièrement remuants et violents, ainsi que cela survint à
+Marrakech précisément en 1904. Les caïds Madani et Thami Glaoui,
+Abdelmalek Mtougui et Ayyadi Rhamni furent au cœur de la
+conjuration ayant porté Moulay Hafid au pouvoir.
+
+
+Des juifs, en relations d'affaires depuis fort longtemps déjà avec
+ces derniers et avec le chef de la zaouïa de Tamesloht, apportèrent
+leur concours financier au « sultan du djihad ». À l'inamovible chef de
+la communauté de Marrakech (forte de quelque 14 000 âmes),
+Ischoua Corcos, riche marchand appartenant à une famille ayant
+entretenu des liens étroits avec les sultans et ayant lui-même été en
+rapport avec Moulay Hassan et le grand vizir Ba Ahmed, échut la
+charge de constituer le trésor de guerre nécessaire au renversement
+du sultan régnant.
+
+
+Considéré comme le « Jacques Cœur du Haouz » et « le plus gros
+capitaliste du Sud », le personnage, souvent décrit sous les traits d'un
+<< vieillard pauvrement vêtu, la tête recouverte d'un mouchoir bleu à
+petits pois, et le corps enveloppé de vêtements noirs », exploitait
+divers monopoles (soufre, salpêtre, tabac), affermait des droits de
+marchés et était aidé dans le recouvrement de ses créances sur les
+tribus. Lorsqu'il se déplaçait pour le compte du khalifat ou des caïds,
+une escorte de cavaliers musulmans l'accompagnait. Son influence
+apparut nettement lorsqu'une manifestation éclata dans la ville le 25
+avril 1907 : ce fut auprès de lui et d'autres notables juifs que se
+réfugièrent des Européens menacés par les émeutiers et les hommes
+de tribus qui campaient aux portes de Marrakech et exigeaient <<
+
+
+l'expulsion des chrétiens et l'application aux juifs de l'interdiction de
+monter des bêtes sellées et de porter des sandales en médina ».
+
+
+À la même cause travailla aussi un autre personnage établi à
+Marrakech depuis 1898 en qualité de médecin et devenu l'« ami
+intime de Moulay Hafid » : Judah Holzman, juif d'origine syrienne,
+naturalisé allemand, prodiguant ses soins à une riche clientèle
+musulmane, disposant d'associés agricoles dans la région, considéré
+par les Français comme un « agent patenté de l'Allemagne » et
+soupçonné d'avoir été l'instigateur de l'assassinat de Mauchamp. Il se
+distingua par la recherche d'appuis à Berlin à la cause de son ami.
+Lorsque celui-ci décida de se rendre à Fès pour recueillir l'allégeance
+de ses oulémas, en passant non pas par la Chaouïa, où des hommes
+de tribus résistaient à la « pacification » entreprise par les troupes
+françaises depuis Casablanca, mais en coupant à travers le piémont
+moyen-atlasique, Holzman fit partie de sa suite.
+
+
+Plus de sept mois avant l'arrivée de Moulay Hafid (7 juin 1908),
+la capitale du Nord, que Moulay Abdel-Aziz avait quittée en
+septembre 1907 pour se rendre à Rabat et essayer de tenir en échec
+son frère, fut secouée pendant trois jours par une explosion de colère
+du petit peuple de la médina (15 au 17 décembre 1907). Des
+tanneurs, des cordonniers et des boutiquiers détruisirent en effet les
+caisses servant à la collecte des droits de portes, saccagèrent le local
+du monopole des tabacs concédé à un juif, pillèrent le magasin de
+l'un de ses riches coreligionnaires et voulurent se rendre au mellah
+pour le saccager. Des paysans des environs essayèrent d'en faire
+autant. Les uns et les autres furent dispersés par des portefaix et des
+esclaves réunis par un notable de la médina.
+
+
+Pour abréger la période de vacance du pouvoir, des notables de la
+médina, craignant que « la populace ne proclame le chérif Kettani »,
+décidèrent de mettre en place un comité révolutionnaire et investir
+
+
+Moulay Hafid, le 4 janvier 1908, sous les conditions suivantes :
+libération des territoires occupés, suppression du maks, respect des
+privilèges traditionnels des chorfa et des oulémas, stricte application
+du chraâ, annulation des dettes de son prédécesseur, abolition des
+protections étrangères.
+
+
+La sécurité du mellah fut au nombre des préoccupations dudit
+comité. Des oulémas intercédèrent à cet effet auprès des chefs de
+tribus, dont certains campaient autour de la ville avec plusieurs
+milliers de volontaires en partance pour la Chaouïa, et les
+sensibilisèrent à la priorité du djihad contre les Français et à la
+nécessité d'éviter de créer des désordres en ville. La démarche alla de
+pair avec le refus d'ouvrir les arsenaux aux hommes des tribus et le
+renforcement de la garde autour du mellah. Arguant du marasme dû
+aux troubles, les négociants juifs n'acceptèrent de prendre en charge
+qu'une dizaine de gardes sur la soixantaine affectés à la protection de
+leur quartier. Ils firent cependant parvenir au comité, qui en avait
+réuni 100 000 en médina, un don de 5 000 douros au titre de leur
+contribution aux préparatifs du djihad.
+
+
+À ces tractations, dont bénéficièrent aussi les juifs de Sefrou,
+prirent activement part les principaux notables de la médina et du
+mellah. Elles furent grandement facilitées par la cordialité des
+rapports que le grand rabbin Abner Serfaty entretenait avec les
+premiers et avec le pacha de Fès-Jdid, Ba Mhamed Chergui. Ont dû
+jouer aussi à cet effet le moratoire décrété sur les créances que les
+négociants juifs avaient sur leurs homologues musulmans, les
+présents faits à des oulémas et les mises en garde du naïb Torrès et de
+l'ancien ministre Mehdi Menebhi contre toute atteinte aux juifs et
+concernant la nécessité de les laisser descendre en médina et vaquer
+tranquillement à leurs affaires.
+
+
+La période de vacance prit fin sans incident. Même les oulémas
+radicaux qui réclamaient la stricte application de la loi islamique et
+l'expulsion des Européens firent montre de modération à l'égard des
+juifs. Ils les incitèrent à livrer les armes qu'ils détenaient et même à
+participer activement au financement du djihad. Tout en n'épargnant
+pas ceux qui étaient impliqués dans la « gabegie » imputée à Moulay
+Abdel-Aziz, ce fut plutôt à ses vizirs, notamment les frères Tazi, qu'ils
+s'en prirent le plus violemment et les mirent à l'index.
+
+
+L'agent de la poste allemande au mellah, Jacob Niddam, dont les
+Mémoires furent publiés sous le titre Un correspondant de révolution.
+Journal d'un Israélite de Fès (1908-1910), rapporte à ce sujet que «
+plusieurs Israélites ont des relations avec les Tazi ; toute la cruauté et
+le fanatisme du peuple se tournent contre [ces derniers] ». Un
+pamphlet lithographié circulant en médina faisait état des « sommes
+d'argent incalculables qu'Omar Tazi a [indûment] amassées » et
+considérait que « tout ce que celui-ci détient appartient au Trésor des
+musulmans ».
+
+
+À la veille de l'arrivée de Moulay Hafid à Fès, c'est à des artisans
+graveurs juifs, indique Niddam, que fut commandé le sceau du
+nouveau sultan. Celui-ci fit son entrée dans la cité idrisside au milieu
+d'acclamations assez nourries mais non sans qu'on se montrât, juste
+derrière lui, « son fidèle ami [...], Holzman », lequel ne tarda pas à se
+convertir à l'islam et à se voir confier la direction de la fabrique
+d'armes mise en place à Fès par Moulay Hassan avec l'appui des
+Italiens.
+
+
+Le nouveau sultan s'en tint à une ligne globalement conciliante à
+l'égard des juifs. Cette attitude s'expliquait par le soutien que lui
+apportaient Ischoua Corcos, Holzman et d'autres notables juifs, et les
+appuis qu'il comptait trouver à Paris grâce au président de l'AIU,
+Narcisse Leven. Celui-ci était soucieux d'obtenir la réouverture des
+
+
+écoles fermées à cause des troubles et avait noué des contacts avec le
+pacha Madani Glaoui – qui se présentait à lui comme « un homme de
+bonne volonté animé des meilleurs sentiments à l'égard de toutes les
+gens de bien quelle que fusse leur race ou leur religion ».
+
+
+À un stade ultérieur, Moulay Hafid se départit de son attitude
+initiale et essaya de soumettre à des réquisitions et des corvées les
+artisans, les portefaix et les indigents des mellahs. Il recula
+rapidement devant les protestations de l'AIU et l'AJA, leurs menaces
+de recours aux gouvernements étrangers, et la publication effective
+par des journaux d'Europe et d'Amérique, notamment The Jewish
+Chronicle et le New York Times, d'articles stigmatisant les abus
+perpétrés par ses vizirs et ses gouverneurs contre des juifs. Le sultan
+se hâta de faire savoir aux rabbins que « jamais les juifs n'auront à
+souffrir d'injustices aux mains du Makhzen [et qu'ils] ne seront plus
+forcés de travailler les jours de fêtes et du shabbat ».
+
+
+Les excès en tous genres commis au détriment des masses
+musulmanes s'amplifièrent et devinrent, au contraire, encore plus
+systématiques. Les grands caïds mirent en effet le pays en coupe
+réglée. Un journaliste ayant été reçu plusieurs fois par Moulay Hafid,
+Christian Houel, rapporte ainsi que, << pire que les Tazi ou les
+Menebhi, Madani [Glaoui] n'a d'autre ambition que [...] de se tailler
+la part du lion, s'enrichir, quitte à se réfugier dans ses montagnes
+quand surviendrait la catastrophe ».
+
+
+Ces abus dressèrent les tribus contre le sultan. Son aval à l'Acte
+d'Algésiras porta un coup fatal à sa légitimité. Les révoltes
+continuèrent en dépit de la capture et l'exécution de Bou Hmara, avec
+l'aide d'officiers français. Des tribus coalisées des régions de Fès et
+Meknès décidèrent même en 1911 d'assiéger Fès et d'enlever Moulay
+Hafid. Elles proclamèrent l'un de ses frères, Moulay Zine, à Meknès et
+formèrent un gouvernement insurrectionnel. Celui-ci s'empressa de
+
+
+déclarer qu'il assurait l'ordre « par commisération pour les protégés,
+les juifs et le harem makhzénien ».
+
+
+Le directeur de l'école de l'AIU rapporte, à propos des tentatives
+d'invasion et de saccage du mellah dont cette ville fut l'objet et de la
+résistance opposée par les juifs à leurs assaillants :
+
+
+Je savais qu'il y avait au mellah près de 200 fusils et 7 000 à 8
+000 cartouches [...]. On arma 150 hommes valides [...].
+Heureusement les musulmans de la médina [...] avaient eu le
+temps de se ressaisir. [L'ennemi] leur demanda la nomination
+d'un chef révolutionnaire pour gouverner la ville, dont il
+voulait faire son centre d'opérations contre le sultan Moulay
+Hafid [...]. Les rebelles s'étaient peu à peu rapprochés [du
+mellah]. Les israélites qui avaient reculé..., comprirent qu'il
+n'y avait plus une minute à perdre. Le premier coup partit
+d'une guérite [...]. Ce fut le signal d'une décharge générale.
+Six des assaillants mordirent la poussière. Les autres se
+sauvèrent rapidement.
+
+
+Une fois le calme rétabli à Meknès, Moulay Zine ordonna à ses
+partisans bloquant Fès d'épargner « la médina, le mellah et les
+étrangers », et de concentrer leurs attaques sur Fès-Jdid pour hâter
+l'élimination de Moulay Hafid qui « a renié ses engagements ». Le
+projet tourna court. Les troupes françaises dépêchées depuis la
+Chaouïa et commandées par le général Moinier, en principe pour
+éviter que les Européens de la capitale ne soient massacrés, mirent fin
+au siège de Fès. Elles obligèrent par la suite les membres du
+gouvernement de Moulay Zine à se disperser. Ľultimatum par lequel
+le général força ce dernier à abdiquer lui fut transmis par un agent
+juif de la poste française, David Sultan, et un évangéliste, le Dr
+
+
+Nathan, juif de Hambourg converti au protestantisme et membre de
+la Gospel Mission.
+
+
+De manière concomitante des opérations de ses troupes dans la
+région de Fès et de Meknès, la France essaya de résoudre la crise
+internationale ouverte par son intervention à Fès et l'envoi par
+l'Allemagne, par mesure de rétorsion, d'un croiseur, Panther, à Agadir.
+Le compromis trouvé à Berlin entre les deux parties éloigna
+provisoirement le spectre d'une guerre mondiale. Il donna à la France
+la possibilité de hâter l'instauration de son protectorat sur le Maroc.
+
+
+CHAPITRE III
+
+
+Sous le protectorat
+
+
+Des « événements de Fès » à la
+Deuxième Guerre mondiale (1912-
+1939)
+
+
+PROTECTORAT, INSURRECTION, BOMBARDEMENT, « TRITIL >>
+(MARS-AVRIL 1912)
+
+
+L'intervention militaire française à Fès en 1911 a représenté une
+étape décisive aussi bien dans le processus de mise en dépendance
+directe du Maroc que dans l'accélération de la détérioration des
+relations internationales ayant préludé au déclenchement de la
+Première Guerre mondiale. Le gouvernement français avait tenté à
+l'époque de répliquer aux protestations des Allemands, lui reprochant
+d'avoir violé la convention internationale d'Algésiras, par la mise en
+avant de considérations humanitaires. Il fit valoir à cet effet les
+secours que les troupes débarquées à Casablanca en 1907 devaient
+porter à la colonie européenne de la capitale du Nord menacée par
+les hommes de tribus assiégeant le sultan, ainsi que l'appel que lui
+
+
+aurait adressé ce dernier, le pressant de lui venir en aide contre les
+rebelles qui s'apprêtaient à envahir Fès et à le déposer.
+
+
+Les événements de 1911 précipitèrent la marche vers le
+protectorat et la signature du traité du 30 mars 1912 instaurant ce
+régime. $\hat{A}$ l'accélération de ce processus avait concouru, à partir de
+1909, le net revirement du « sultan du djihad ». Il a dû reconnaître
+l'Acte d'Algésiras, renoncer à la libération d'Oujda, de Casablanca et
+de la Chaouïa, et entériner le retour à la prééminence des Français
+sur la scène marocaine en matière d'emprunts, de concessions et
+d'instruction des troupes.
+
+
+Ce fut l'arrière-plan de l'extrême tension ayant préludé au
+déclenchement de l'insurrection dont Fès fut le théâtre les 17 et 18
+avril 1912. Une mutinerie des tabors en marqua le déclenchement
+dans la Casbah des Cherarda, sise non loin du palais. Au nombre des
+causes immédiates du mécontentement et de la révolte des soldats
+figurait le refus de leurs instructeurs français de revenir sur des
+mesures telles que l'obligation d'utiliser des cartouches (supposées)
+enduites de graisse de porc, de rester en caserne, et la retenue opérée
+sur leurs maigres soldes au titre de l'ordinaire. Or, les soldats avaient
+l'habitude de partager des repas préparés en commun ou d'apporter
+leur obole à la pitance que préparaient les concubines avec lesquelles
+ils vivaient dans le quartier malfamé Moulay Abdallah (Fès-Jdid).
+Touchées elles aussi dans leur subsistance, ces femmes, qualifiées à
+Paris d' abominables furies », se distinguèrent par leur acharnement,
+aux côtés d'autres émeutiers, contre les instructeurs. Jean Jaurès les
+compara à « celles de Sparte et de Germanie ranimant le courage des
+guerriers », ajoutant qu'il « n'y a plus [au Maroc] qu'une armée de
+conquérants aux prises avec un peuple révolté contre l'envahisseur ».
+
+
+Après s'en être pris aux instructeurs, mutins et émeutiers
+essayèrent d'envahir au cours de la même journée du 17 avril la
+
+
+résidence affectée à l'ambassadeur Régnault, dans le quartier dit du
+Deuh en médina. Les assaillants voulaient lui reprendre le traité qu'il
+avait fait signer au sultan et qu'ils considéraient comme un « acte de
+vente du pays ». Ils furent repoussés par les soldats affectés à la
+protection de l'« hôte du sultan » et non encore au courant du
+soulèvement de leurs frères d'armes. Alerté par télégraphe, le général
+Brulard, commandant les troupes restées sur place en l'absence du
+général Moinier parti vers la côte le 13 avril, s'empressa d'envoyer
+des secours aux assiégés. Il fit progresser des tirailleurs algériens à
+travers un ravin situé en contrebas du mellah. Accourus pour leur
+barrer le chemin, des mutins se postèrent sur les toits des maisons de
+ce quartier et les soumirent à un feu nourri.
+
+
+Le drame dont les populations juives de Fès furent victimes se
+noua en partie à ce moment-là. Il fut d'autant plus traumatisant que
+leur quartier n'avait subi ni violences ni pillage depuis pratiquement
+plus d'un siècle et était resté à l'abri des fortes turbulences du début
+du $XX^{e}$ siècle, y compris pendant la période de vacance du pouvoir et
+d'instabilité ayant suivi la déposition du sultan Moulay Abdel-Aziz
+(1907-1908) et marquée en particulier, en novembre-décembre 1907,
+par le campement autour de Fès de plusieurs milliers de volontaires
+des tribus en partance pour le djihad en Chaouïa¹.
+
+
+En raison de la vivacité de leurs protestations contre les
+perquisitions opérées quelques semaines plus tôt dans leur quartier
+sur ordre de Moinier, qui les soupçonnait de se livrer à de la
+contrebande d'armes, Brulard crut en effet que les juifs avaient partie
+liée avec les insurgés. Le directeur de l'école de l'AIU à Fès avait
+adressé des plaintes à ce sujet à Narcisse Leven, président de cette
+association à Paris : « Les pillages que le mellah a subis il y a plus
+d'un siècle devaient être des scènes pacifiques à côté des perquisitions
+illégales [...], véritables dragonnades [...], ordonnées par l'autorité
+
+
+militaire [française]. Je frémis d'indignation à la pensée que ce
+supplice, la bastonnade, que nous étions parvenus à faire abolir au
+Maroc soumis à la volonté despotique d'un souverain absolu, revit en
+1912, de par la volonté de chefs français, dans un pays de
+protectorat². >>
+
+
+Pour neutraliser les tirs des mutins empêchant la progression des
+sections envoyées au secours de l'ambassade, Brulard fit bombarder
+le mellah. Les obus à la mélinite y provoquèrent des incendies et de
+gros dégâts. Le total des victimes juives dénombrées fut de 51 morts
+et 72 blessés. Ce fut pendant et surtout au lendemain du
+bombardement que des mutins (dont certains avaient pris part aux
+perquisitions opérées sous la conduite d'officiers français), des
+marginaux de Fès-Jdid, des éléments de la plèbe de la médina et des
+hommes de tribus (venus en ville pour le marché hebdomadaire) se
+ruèrent sur le quartier dévasté par les obus, le pillèrent et
+rançonnèrent ses habitants. Les rapports adressés à Paris par le
+directeur de l'école de l'AIU firent état de ces faits et stigmatisèrent le
+bombardement ordonné par Brulard et la passivité de celui-ci face au
+saccage³.
+
+
+Nous étions, écrit-il, abandonnés à notre sort alors que cent
+tirailleurs [auraient suffi] à empêcher notre malheur. Nous
+avons été les victimes [expiatoires et] innocentes du
+mouvement anti-français qui a éclaté à Fès [...]. Nous avons
+été cruellement atteints tant il est vrai qu'à toute explosion de
+la colère [au] Maroc, c'est sur les mellahs que s'exercent les
+vengeances et que s'assouvissent les haines.
+
+
+Le président de l'AIU devait lui aussi insister, dans une lettre en
+date du 29 avril 1912 adressée à Raymond Poincaré, sur « les haines
+
+
+et les vengeances » suscitées, d'après lui, par l'attitude profrançaise
+de ses coreligionnaires du Maroc. Témoin des événements qu'elle a
+vécus personnellement, une juive devait préciser, pour sa part, que «
+le mellah fut envahi par des musulmans... [Ils] nous mettaient en
+joue en disant “donnez la zettata, bâtards !" [...]. Beaucoup [de juifs]
+enterrèrent leurs biens ou les jetèrent dans les puits [...]. Alors que
+nous étions dans nos maisons, nous vîmes une grande flamme monter
+jusqu'au fond du ciel [...]. Les obus firent tomber la moitié du mellah
+[...]. Les Français [tiraient] de gros obus qui atteignirent les jeunes
+gens juifs: il ne resta parmi ceux-ci ni grand ni petit ».
+
+
+Dès le début du bombardement, et une fois passé le moment de
+stupeur provoquée par les premiers obus, les habitants du mellah se
+sont rués hors de leurs maisons pour se disperser dans tous les sens.
+La majorité d'entre eux put ainsi éviter de succomber sous les
+décombres et échapper aux violences des émeutiers. Près de 2 000
+furent admis dans l'enceinte du palais (mitoyen du mellah) tard dans
+la soirée du 17 avril. Les autres y affluèrent tout au long de la
+matinée du 18. Ceux qui étaient demeurés cachés les rejoignirent
+après que le sultan eut chargé (vendredi 19) un crieur public de
+parcourir le mellah et ses environs immédiats pour les appeler à se
+réfugier au « Dar el Makhzen ».
+
+
+Les protestations des juifs bombardés, dépouillés auparavant des
+armes que cachaient certains d'entre eux, et livrés à leur sort,
+embarrassèrent Régnault. Il chercha à se justifier en expliquant au
+Quai d'Orsay que « les troupes françaises [étaient] forcées de se
+limiter à la défense du quartier où se sont réfugiés les Européens » et
+en passant sous silence le fait que « l'autorité militaire [...] avait fait
+rendre toutes les armes du mellah [et que] les juifs se sont trouvés
+sans moyens de défense » face au déchaînement des insurgés.
+
+
+Ceux-ci et d'autres éléments de la population musulmane furent à
+leur tour victimes de la répression aveugle à laquelle se livra le
+commandement français suite à l'arrivée de renforts après le 18 avril.
+Ils eurent quant à eux plusieurs centaines, voire plus d'un millier de
+morts, d'après les estimations d'un contemporain, Mohamed Hajoui
+(futur vizir sous le protectorat). Un nombre indéterminé d'habitants
+de la ville et d'hommes des tribus des environs tombèrent en effet,
+victimes d'exécutions sommaires au coin des rues ou fusillés à la suite
+de condamnations expéditives prononcées par des conseils de guerre
+hâtivement mis en place par le général Moinier. Dans un accès de
+fureur, celui-ci menaça même de bombarder la médina et de la
+réduire en cendres. En procédant de la sorte, il chercha à minimiser
+son manque de discernement face à l'ampleur de l'opposition des
+populations au traité arraché à Moulay Hafid.
+
+
+Le premier résident général de France, le général Lyautey, saisit
+pleinement, quant à lui, le sens de ce qui venait de se passer à Fès : «
+Ce n'est pas impunément que ce pays de l'indépendance et du
+fanatisme le plus irréductible s'est vu notifier le protectorat, devait-il
+écrire dans un rapport adressé au Quai d'Orsay en juillet 1912. [...]
+Les éléments jusqu'ici les plus désunis se cherchent et se rapprochent
+et rien ne prouve que demain [...], ils ne réussiront pas à s'unir pour
+vomir l'étranger. » Il convenait, devait-il ajouter, de << se rendre
+compte de la soudaineté et de la violence avec laquelle éclatent les
+mouvements au Maroc [...]. Qu'on se rappelle l'invraisemblable et
+paradoxal mouvement d'El Hiba [que l'on regardait], à sa formation à
+Agadir, comme chose absolument négligeable, alors que, trois mois
+plus tard, il était reconnu comme sultan par la moitié du Maroc et
+que je sentais, sous moi, l'autre moitié prête à m'échapper, les yeux
+tournés vers lui, enflammés d'un de ces élans de fanatisme musulman
+qui emportent tout ».
+
+
+L'entrée d'El Hiba précisément à Marrakech, avec ses « hommes
+bleus » et les cohortes hétéroclites qui le suivaient depuis le Sahara et
+le Sous, suscita toutes sortes de frayeurs parmi les quelque 15 000
+juifs de la capitale du Sud (soit près de 18 % de la population totale).
+Elle ne donna cependant lieu ni à des violences ni à des dégâts
+matériels comparables à ceux qu'a subis le quartier juif de Fès. Et ce
+en dépit de la débandade des soldats de la garnison locale et de
+l'afflux d'hommes des tribus alentour, dont certains étaient
+directement touchés par la collusion d'argentiers juifs avec de grands
+caïds.
+
+
+Ce fut surtout à des musulmans, notamment des protégés
+étrangers et des personnages religieux jugés « tièdes », que les
+hommes d'El Hiba s'en prirent. Le pillage se limita à la médina. Le
+saccage toucha en particulier des magasins appartenant à des
+Européens et des dépôts de négociants juifs. Ceux-ci pâtirent aussi de
+l'autodafé de titres de créances présentés par des débiteurs au cadi
+d'Al Hiba qui les jugea usuraires et autorisa leur destruction.
+
+
+De manière plus générale, la proclamation d'El Hiba à Tiznit (3
+mai 1912) en qualité d'imam des moujahidines, son entrée, drapeau
+rouge en tête, à Taroudant et à Agadir, et son passage aux abords de
+divers mellahs sur le chemin de Marrakech furent dépourvus de tout
+débordement contre les juifs. En dépit du climat de tension
+millénariste caractérisant son mouvement et des excès que pouvait
+susciter la misère provoquée par la sécheresse dans le Sous en
+particulier, le nouveau sultan n'en parvint pas moins à imposer la
+retenue tant à ses « troupes » qu'aux adeptes de confréries ralliés à sa
+cause, notamment des Aïssaoua et Hmadcha, habituellement
+redoutés par les juifs en raison des débordements ponctuant leurs
+danses extatiques et leurs processions.
+
+
+La retenue du fils de Ma al Aïnine semble imputable tant au
+modèle de pondération qu'il devait sans doute puiser dans la
+conduite de son père qu'à sa volonté de ne pas s'aliéner un élément
+dont il n'ignorait vraisemblablement pas l'utilité, les réminiscences de
+leur rôle dans le commerce caravanier et la puissance de la zaouïa
+voisine d'Illigh aidant. Les contacts de certains d'entre eux avec les
+Allemands, notamment les Mannesmann, et l'éventualité de les
+utiliser pour obtenir des armes l'incitaient sans doute aussi à les
+ménager. $\hat{A}$ cela s'ajoutait peut-être aussi la conduite qu'il devait
+observer, en sa qualité d'imam, à l'égard des dhimmis. Après sa rapide
+défaite et le massacre de ses partisans à Sidi Bou Othmane, fauchés
+par les mitrailleuses de la colonne Mangin, son reflux sur Marrakech
+et le Sud profond avec les survivants ne donna pas lieu non plus à des
+violences contre les juifs des localités situées sur l'itinéraire de la
+retraite.
+
+
+LA « POLITIQUE INDIGÈNE » DE LA RÉSIDENCE. VOLETS
+MUSULMAN ET JUIF
+
+
+Nommé premier résident général de France au Maroc, en lieu et
+place d'autres candidats, notamment l'ambassadeur Régnault à qui il
+était reproché d'avoir sous-estimé les réactions suscitées par le traité
+arraché au sultan, le général Lyautey arriva à Casablanca à bord du
+croiseur cuirassé Jules Ferry le 13 mai 1912. Il se posa d'emblée en
+restaurateur de la « puissance souveraine » de l'État marocain, lui qui
+avait pourtant œuvré, depuis son commandement d'Oran et d'Aïn
+Sefra, à affaiblir l'« Empire chérifien » et à grignoter au profit de la
+colonie algérienne ses territoires du Sud-Est.
+
+
+Témoin de l'afflux à Oran d'émigrés juifs marocains et de la
+virulence des réactions antisémites des Européens, il s'était imprégné
+
+
+à Aïn Sefra, au contact direct de Charles de Foucauld (pour lequel il
+devait ériger plus tard un monument à Casablanca), de ce que ce
+dernier avait appris sur le Maroc lors du périple qu'il y effectua en
+1883-1884 avec le soutien du gouverneur général d'Algérie et sous le
+déguisement d'un « rabbin de Moscovie », guidé à travers le pays par
+un supposé coreligionnaire, Mardochée Abi Serour.
+
+
+Directement aux commandes, Lyautey intériorisa les mérites d'une
+<< pénétration par les crêtes » et comprit l'intérêt de la collaboration
+avec le Makhzen. Cela signifiait a priori que rien ne devait être
+changé dans les institutions du pays ni dans le statut des sujets du
+sultan, tant musulmans que juifs. Agissant en véritable proconsul et
+déployant tout le savoir-faire appris au contact de ses mentors au
+Tonkin et à Madagascar, il se mit à façonner le protectorat selon sa
+propre philosophie et ses vues. Tirant les leçons de l'insurrection
+d'avril, il se convainquit vite que
+<<
+le fondement de la société
+marocaine [était] l'islam », qu'il fallait « conserver l'armature entière
+de la société marocaine », et tout faire pour donner aux Marocains,
+dont il voulait « gagner les cœurs », l'impression que le protectorat
+n'allait nullement porter atteinte à leur religion, leurs traditions, leurs
+mœurs et leurs hiérarchies sociales.
+
+
+Le déclenchement de la Première Guerre mondiale, deux ans à
+peine après l'instauration du protectorat et les débuts de la conquête
+(présentée comme une « pacification » entreprise au nom du sultan),
+allait renforcer cette orientation. Le résident allait rechercher
+activement la collaboration des grands caïds, pachas, caïds et
+khalifats. Leur concours était essentiel pour la mobilisation des
+hommes de tribus des régions soumises. Par leur nombre et leurs
+qualités guerrières, ces derniers furent largement mis à contribution
+dans les opérations menées en vue de l'écrasement de la résistance
+dans le Moyen-Atlas, le Haut-Atlas, le Rif, le Tafilalet et ailleurs. Dans
+
+
+les zones insoumises, les juifs étaient d'ailleurs pressés par leurs
+voisins musulmans et leurs « jmaâs » (assemblées) de ne pas quitter
+leurs localités et « les taches de dissidence » assiégées par les forces
+françaises.
+
+
+Grâce à l'aval du sultan et au concours des caïds, Lyautey put
+même, pendant la durée de la guerre en Europe et la phase dite de la
+
+
+<<
+défense active » au Maroc, envoyer des troupes marocaines en
+métropole. En contrepartie du zèle déployé par les caïds et les
+pachas, rassurés sur leur statut et les bénéfices qu'ils pouvaient tirer
+du maintien de l'ordre ancien, les autorités françaises fermèrent les
+yeux sur les accaparements, les spoliations, les extorsions, les
+brutalités et les excès sans nom perpétrés aux dépens de la masse des
+sujets.
+
+
+Les moyens accrus de coercition dont le Makhzen a bénéficié
+après 1912, dans le cadre du régime du protectorat, sont allés de pair
+avec une sorte de défense à tout prix de la tradition, voire de «
+traditionalisation ». La politique menée par la Résidence à l'égard des
+confréries représenta l'un des volets de ce processus. Elle conforta,
+voire relança des forces conservatrices, dont certaines, et non des
+moindres, avaient été discréditées à la fin du xix siècle et au début du
+$XX^{e}$ par leurs compromissions avec des puissances étrangères.
+
+
+La même politique de « conservation » et d'appui sur les « vieux
+mouchoirs », parallèlement à la politique des égards adoptée vis-à-vis
+des « vieux turbans », fut suivie en milieu juif. L'inamovible chef de la
+communauté de Marrakech, Ischoua Corcos, naguère détenteur d'une
+carte de protection française, faisait partie des notables dont la
+Résidence appréciait le concours et la docilité. Considéré comme le «
+Jacques Cœur du Haouz », le personnage était l'argentier de grands
+caïds, dont le pacha Thami Glaoui.
+
+
+Dans sa volonté de mettre fin aux anciennes franchises dont
+bénéficiaient les mellahs, telles que la gestion des affaires internes
+des communautés, la distillation de mahiya, la collecte de dons pour
+les indigents de Palestine, et l'accueil de rabbins-émissaires étrangers,
+Lyautey eut essentiellement recours aux services d'un autre notable
+juif: Yahiya Zagouri, ancien drogman du consulat de France à
+Casablanca, promu citoyen français, décoré en 1913 de la croix de
+chevalier de la Légion d'honneur pour sa « conduite héroïque lors des
+événements » d'août 1907. Le personnage fut nommé à la tête de
+l'Inspection des institutions israélites, créée en 1919, rattachée à la
+Direction des affaires chérifiennes, et associé à la réorganisation des
+comités des communautés (dahir du 22 mai 1918) et des tribunaux
+rabbiniques dans toute la zone française.
+
+
+Cette réforme fixa la composition de ces comités, définit les
+modalités de leur « élection-désignation », précisa leurs compétences,
+et leur fit obligation de soumettre leurs budgets à l'approbation du
+grand vizir. Officiellement, il s'agissait d'en moderniser le
+fonctionnement, de rationaliser l'utilisation des fonds recueillis par
+les caisses des communautés et de mettre fin aux irrégularités
+commises en la matière. Encore plus radicale fut la limitation des
+compétences des dayyanim et des possibilités d'appel des plaideurs
+qui, à l'instar de musulmans obtenant des fétouas de cadis de leur
+choix, avaient naguère la possibilité de faire appel à des juges et des «
+sages » autres que ceux de leur lieu de résidence, voire de recourir, en
+dépit du discrédit qu'ils encouraient au regard de leurs
+coreligionnaires,
+à
+la justice canonique musulmane.
+Traditionnellement compétents pour les litiges d'ordre commercial et
+autre opposant des Israélites, les dayyanim n’eurent plus à examiner
+que les affaires relevant du statut personnel.
+
+
+Le but ultime des mesures prises en milieu juif demeurait
+cependant le même que l'objectif poursuivi à travers celles appliquées
+en milieu musulman :
+<<<
+Le fonctionnement sous étroit contrôle
+gouvernemental des institutions communautaires juives.
+>>
+Ce
+contrôle était assorti de la limitation des prérogatives des comités aux
+seules affaires de culte et de bienfaisance. Il mit fin à la relative mais
+réelle autonomie dont les mellahs jouissaient naguère.
+
+
+L'orientation suivie par la Résidence en matière de << politique
+indigène » et les réalités au quotidien du joug colonial confirmèrent
+les doutes d'une minorité de juifs, formés sur les bancs des écoles de
+l'AIU
+mais demeurés sceptiques quant aux perspectives
+d'amélioration des conditions de vie de leurs coreligionnaires dans le
+cadre du protectorat. Cette politique, fondée en partie sur l'idée de «
+conservation-régénération » des structures sociales du pays et le souci
+de garder ou de tracer des lignes de séparation claires entre les
+différentes catégories ethno-religieuses et culturelles de ses
+populations, était manifeste quasiment dans tous les domaines. Son
+volet éducatif fut marqué par une orientation qualifiée d « apartheid »
+par Charles-André Julien.
+
+
+La Direction de l'instruction publique (DIP) créa en effet des
+écoles sur la base de critères malthusiens et discriminatoires (écoles
+franco-arabes, franco-berbères, arabo-berbères, franco-israélites,
+écoles de fils de notables, collèges musulmans ayant leur équivalent
+en zone espagnole : écoles hispano-arabes et hispano-hébraïques).
+Basé sur des programmes ad hoc étroitement contrôlés, un
+enseignement minimal y était dispensé à un nombre limité d'élèves «
+indigènes ». Les écoles, collèges et lycées de type français, destinés
+aux enfants de la colonie européenne, n'admettaient pour leur part
+qu'une infime minorité d'autochtones, musulmans et juifs.
+
+
+Conformément à cette politique, la DIP chercha à fixer les élèves
+berbères dans leurs tribus par des mesures devant, selon son
+directeur, Georges Hardy, « les protéger à l'époque de leur puberté
+intellectuelle de toute imprégnation arabe, de toute emprise
+islamique et même de certains contacts européens peu désirables ».
+Pour ce faire, elle établit un programme d'action dès 1914,
+réaménagé en 1923, prévoyant la suppression de l'étude de l'arabe et
+du Coran dans les écoles franco-berbères. Le recrutement de leurs
+enseignants se fit essentiellement parmi les Kabyles d'Algérie
+convertis par les Frères blancs.
+
+
+La même volonté de contrôle fut suivie par le Service de
+l'enseignement à l'égard des écoles de l'AIU. L'opération d'absorption
+par la DIP de certaines d'entre elles bénéficia des difficultés
+financières liées à la conjoncture créée par la Première Guerre
+mondiale. Aux termes d'un accord conclu en octobre 1915 entre
+l'Alliance et la Résidence, celle-ci s'engagea à fournir des subventions
+en contrepartie du contrôle des programmes et des méthodes
+pédagogiques ainsi que du choix des maîtres. Tout en gardant leurs
+effectifs d'élèves exclusivement juifs, les écoles de Safi, Azemmour,
+Rabat et Salé passèrent ainsi entre 1916 et 1917 sous l'autorité
+directe de la Résidence et furent baptisées « franco-israélites ».
+D'autres, telle celle de Sefrou, furent créées à l'initiative du
+protectorat.
+
+
+La prise de contrôle effectuée par la DIP bénéficia de la
+suppression du fardeau que les droits d'écolage représentaient pour
+les familles pauvres. D'autant que, dit un rapport, « malgré l'activité
+de l'AIU, un grand nombre d'enfants israélites [n'avaient] pu encore,
+faute de bâtiments, de maîtres, et d'argent, recevoir l'instruction
+française dont ils [étaient] si avides ». L'Alliance et les communautés
+tentèrent cependant, au lendemain de la Grande Guerre, de
+
+
+reprendre le contrôle total de leurs écoles. C'était d'ailleurs ce que
+Narcisse Leven avait déclaré à Lyautey dès l'instauration du
+protectorat, en lui faisant part de son intention de multiplier le
+nombre des écoles de l'AIU au Maroc et de « créer ainsi de nouveaux
+foyers dont l'influence ne [pouvait] manquer de servir la cause
+[française]  .
+
+
+En milieu juif, la DIP procéda avec la volonté délibérée de
+bloquer, à la base, l'ascension des jeunes générations et de contrôler
+strictement ce que l'Alliance avait été auparavant libre de dispenser
+dans ses établissements. Pour Georges Hardy, il s'agissait d' apporter
+du bleu et des roses dans les mellahs qui ne connaissent que la
+couleur de l'or » et d'éviter que ne sorte de « l'humble chrysalide
+noire un papillon que grise la lumière et qui, mal préparé à son
+bonheur, deviendrait vite [...] un très vilain et très gênant insecte ».
+
+
+Bien que faisant mine de vouloir encourager l'instruction moderne
+en milieu musulman aussi, la Résidence tenait en réalité à ne rien
+changer. Elle suivait en cela une stratégie malthusienne que reflètent
+clairement les statistiques officielles, puisque en 1925 les effectifs du
+primaire se limitaient à 5 985 élèves musulmans et devaient passer à
+7 860 en 1929 et 22 000 en 1938, soit environ moins de 8% de la
+population scolarisable. Les filles ne représentaient qu'un infime
+pourcentage du total. Le certificat d'études primaires féminines
+musulmanes ne fut d'ailleurs créé qu'en 1942. À la veille de la
+Deuxième Guerre mondiale, les écoles de l'AIU accueillaient quant à
+elles, dans le primaire, un effectif total de 18 500 élèves. Le même
+cycle européen était fréquenté par 34 000 écoliers et un nombre
+relativement consistant d'enfants israélites.
+
+
+Parallèlement à l'insignifiance du budget alloué à la scolarisation
+en milieu musulman, la DIP veillait scrupuleusement à limiter
+l'impact des idéaux démocratiques et progressistes que pouvait
+
+
+véhiculer l'enseignement moderne dispensé dans les écoles ouvertes à
+des élèves « indigènes ». Même dans ces établissements scolaires,
+destinés à propager la langue et la culture françaises, elle interdisait
+en effet, par exemple, l'affichage de la Déclaration des droits de
+l'homme et du citoyen, et des principes de 1789. Une note officielle
+rédigée en mai 1916 indique qu'il est « dangereux d'afficher dans des
+endroits publics des principes contraires à l'autorité du sultan,
+principes applicables aux seuls Français qui, en venant au Maroc,
+acceptent ipso facto de respecter la Constitution du pays dans lequel
+ils viennent vivre ».
+
+
+<<<
+
+
+Dans pareil contexte, seuls quelques rares élèves des collèges
+Moulay Idriss (Fès) et Moulay Youssef (Rabat), passés en général par
+les
+écoles de fils de notables », parvenaient à accéder à
+l'enseignement supérieur. Mais au niveau du secondaire déjà, où ils
+n'étaient que 150 pour toute la zone française en 1929, ils semblent
+avoir non seulement acquis, à l'instar de plusieurs générations
+d'élèves de l'Alliance israélite universelle, la maîtrise de la langue et
+de la littérature françaises, mais aussi assimilé les premiers éléments
+de la philosophie des Lumières. Ľusage qu'ils commencèrent à faire
+dès le milieu des années 1920 du Misanthrope de Molière, par
+exemple, en fit des « trublions » au regard de Lyautey. Celui-ci était
+alarmé par leurs critiques et celles de leurs camarades de formation
+traditionnelle influencés par le salafisme contre les « vieux turbans »,
+les chefs de confréries et d'autres forces conservatrices ralliés au
+protectorat. C'est pourquoi le résident insistait auprès du Service de
+renseignements sur la nécessité de surveiller attentivement les faits et
+gestes des jeunes musulmans, afin de prévenir toute « dissidence
+intellectuelle ».
+
+
+LES MASSES POPULAIRES : UNE CONDITION COMMUNE DE
+
+
+COLONISÉS
+
+
+Dans un discours prononcé à Tanger le 20 juillet 1913, lors du
+congrès de l'Association des anciens élèves de l'AIU, Haïm Toledano,
+homme d'affaires établi à New York et président de ladite association,
+fut l'un des rares éléments à ne pas partager la confiance de ses
+coreligionnaires francophones et francophiles dans le bien-être que le
+protectorat était supposé apporter aux populations des mellahs :
+
+
+L'ère nouvelle qui s'ouvre actuellement pour le Maroc est
+grosse d'une vie nouvelle, déclara-t-il devant ses pairs. Le rôle
+traditionnel de l'Israélite est, dans ces circonstances, frappé de
+destruction. La concurrence devient la loi de son existence ;
+mais, dans cette concurrence avec l'étranger, son insécurité
+personnelle, le manque d'appui officiel, l'inégalité devant la loi
+dont il souffre, le mettent en état d'infériorité. Sauf ceux qui se
+sont déjà taillé des situations à l'abri de tout assaut, la masse
+des Israélites indigènes va éprouver à bref délai la pression
+économique du nouveau régime. Ne bénéficiant pas de
+formation professionnelle (moderne), la classe ouvrière juive
+risque fort d'être vaincue dans la lutte et de retomber au rang
+d'un prolétariat guetté par le paupérisme [...]. Je m'abstiens
+de toucher ici aux questions d'ordre social (peut-être faudrait-
+il dire d'ordre racial) intimement liées aux faits d'ordre
+économiques.
+
+
+Les catégories bénéficiant de situations « à l'abri de tout assaut »
+purent effectivement sauvegarder leurs positions, voire les renforcer.
+Lyautey ne manqua d'ailleurs pas d'en faire part au Quai d'Orsay et
+de qualifier de << profiteurs de guerre » les marchands ayant tiré
+
+
+avantage de la « pacification ». Il indiqua de manière plus explicite à
+ce sujet que <<< les Israélites du Maroc ont, d'une façon générale,
+réalisé durant la guerre des bénéfices importants. Détenteurs d'une
+partie considérable du commerce, ils ont su tirer largement avantage
+de la raréfaction des marchandises et de la hausse générale des prix.
+Ces faits n'ont pas échappé au restant de la population qui a pu en
+concevoir quelque jalousie, d'autant que la mobilisation des
+commerçants français faisait la partie belle aux Israélites ».
+
+
+Ayant grandement bénéficié avant 1912 de protections et de
+naturalisations étrangères, les éléments appartenant à ces catégories
+ne furent pas non plus, pour la plupart, affectés par les efforts
+déployés par le Quai d'Orsay en vue de l'abrogation des privilèges
+capitulaires reconnus aux puissances au Maroc. Seuls furent replacés
+sous juridiction marocaine quelques naturalisés irréguliers sans
+envergure, porteurs de passeports portugais, brésiliens, argentins,
+vénézuéliens, uruguayens et autres.
+
+
+L'établissement de familles riches dans les quartiers européens fut
+l'un des indices de leur condition économique et sociale et de la
+différence de leur statut par rapport à la masse de leurs
+coreligionnaires vivant dans des mellahs généralement surpeuplés et
+insalubres. À Fès, par exemple, indique Doris Bensimon, « les [juifs]
+les plus aisés [de cette ville] avaient acheté une partie des terrains
+sur lesquels devaient s'ériger les immeubles de la Ville Nouvelle [...].
+De 1917 à 1943, sur 635 lots de terrain mis en adjudication [dans ce
+secteur], 155 furent adjugés à des Marocains
+dont 97 à des
+Israélites et 58 à des musulmans [...]. Avant le 3 septembre 1939, on
+comptait 21 familles musulmanes et 270 familles israélites installées
+6
+en Ville Nouvelle ».
+
+
+La paupérisation des fellahs contribua elle aussi à accentuer les
+difficultés des masses juives. Victimes du prélèvement de plus en plus
+
+
+rigoureux des impôts (notamment le tertib), de l'extension des
+périmètres de colonisation et de la mainmise de féodaux autochtones
+sur leurs terres et les terrains de parcours de leurs troupeaux, les
+paysans réduisirent drastiquement leurs achats aux colporteurs et
+artisans juifs. De leur situation pâtirent aussi les coreligionnaires de
+ces derniers ayant des associations agricoles avec des fellahs .
+
+
+La mise en place d'une infrastructure moderne (routes, voies
+ferrées) rendit ainsi caduc le colportage dont vivait une partie
+substantielle des masses juives. Le régime de la « porte ouverte »
+institué à Algésiras (1906) et la concurrence de produits
+manufacturés plongèrent les artisans, de leur côté, dans le marasme.
+Le secteur de la fabrication de fils d'or, naguère dynamique et
+assurant des revenus enviables aux maîtres artisans et des ressources
+régulières à ceux qui y travaillaient, fut affecté tant par le recours des
+fabricants de caftans à des brocarts à l'importation que par la
+mécanisation de la production. La volonté des << patrons
+>>
+de
+comprimer leurs frais généraux, et la disponibilité de la clientèle à se
+contenter d'articles de qualité moindre eurent raison de ce secteur.
+Non sans que les travailleurs tant juifs que musulmans, réduits au
+chômage, aient essayé, à l'instar de ceux d'Europe au début de la
+révolution industrielle, de casser les machines qui les privaient de
+leurs moyens de subsistance.
+
+
+Le marasme contraignit les artisans musulmans à se livrer à des
+métiers qu'ils laissaient auparavant presque entièrement aux juifs. Il
+en était ainsi du travail des métaux précieux. Le quasi-monopole que
+ces derniers exerçaient sur tout ce qui s'y rapportait était tel que
+même la fabrication d'écrins en argent pour le Coran leur était
+confiée. Les musulmans qui commencèrent à les concurrencer se
+contentèrent d'ailleurs de reproduire les mêmes articles et les mêmes
+motifs, y compris l'étoile à six branches.
+
+
+Une évolution similaire, bien que lente, compliqua les conditions
+de vie de bon nombre de tailleurs et de couturières israélites. Ayant
+été les premiers à se doter de machines Singer et s'étant spécialisés
+dans la confection de « vêtements arabes » et leur rapiéçage, ils virent
+leurs homologues musulmans (masculins) suivre leur exemple et leur
+enlever une partie de leur clientèle.
+
+
+ANTAGONISMES DES PROGRAMMES DES ÉLITES
+
+
+Les « évolués » formés sur les bancs des écoles de l'AIU espéraient
+accéder rapidement au statut de sujets ou de citoyens français au
+lendemain de l'instauration du protectorat. À leurs yeux, leur
+francophonie et leur francophilie les y prédisposaient. Le décret
+Crémieux promulgué en faveur de leurs coreligionnaires d'Algérie
+leur semblait un heureux précédent. D'autant que diverses
+personnalités parisiennes plaidaient en leur faveur et, pour
+encourager leur gouvernement à aller de l'avant en la matière,
+évoquaient l'éventualité d'une initiative fondée dans un premier
+temps sur le principe d'une naturalisation sélective – la proportion de
+juifs marocains remplissant peu ou prou les conditions linguistiques
+exigées des candidats à la citoyenneté française étant estimée à
+environ 25 % de la population juive totale.
+
+
+La Résidence prit bien acte de la francophilie des postulants, de
+leur maîtrise du français, de leur imprégnation de la culture française
+depuis des générations, des services rendus à la France par leurs
+communautés avant 1912, et de leur disponibilité à continuer de
+servir la cause française. Ceci ne l'empêcha pas d'opposer à tous ceux
+qui plaidaient leur cause en métropole (dirigeants de l'AIU, ministres,
+sénateurs, députés, journalistes) la nature du régime institué par le
+traité de Fès, la différence de statut entre le Maroc et l'Algérie,
+
+
+l'obligation incombant à la France de ne modifier en rien la condition
+juridique des sujets du sultan (lequel demeurait le chef politique et
+spirituel de l'État marocain), et la validité des dispositions des
+conventions internationales, notamment celles de Madrid (1880)
+relatives à la nationalité marocaine et au principe de l'allégeance
+perpétuelle des sujets marocains.
+
+
+Pour contourner la difficulté que représentaient ce principe et la
+condition juridique des sujets marocains, les partisans les plus
+déterminés de la naturalisation et leurs défenseurs, notamment le
+délégué de l'AIU au Maroc, Y.D. Semach, juif bulgare, mirent en avant
+la dhimma et cherchèrent à la vider de son sens canonique et à
+assimiler les sujets qu'elle régissait à des apatrides. À l'appui du
+concept d'« heimatlos » qu'ils mirent en avant, fut invoqué « le peu de
+cas que les musulmans [étaient supposés] faire du juif [même s'ils]
+ne pouvaient se passer de [lui] et continueraient à [le] rechercher,
+naturalisé français ou non ». De ce fait, c'était dans l'indifférence,
+disaient les auteurs de ces extrapolations, que pouvait intervenir « le
+changement de la situation politique des juifs [...]. [La] grande
+majorité des indigènes [...] ne s'en apercevrait [même] pas ».
+
+
+Les alliancistes n'étaient cependant pas les seuls à développer de
+telles thèses. Dans la mesure où celles-ci servaient leurs propres
+objectifs, même les sionistes abondèrent dans le sens de leur « bête
+noire », Semach : « Le juif, écrivit ainsi un émissaire du Keren
+Hayesod d'origine marocaine, Abraham el Maleh, a toujours vécu en
+marge de la société et de l'État musulmans, sans [...] nationalité
+définie [...]. Le monde musulman n'a avec [les juifs] que des rapports
+d'affaires. L'État ne les considère pas comme faisant partie de ses
+sujets. Il les laisse libres de solliciter et d'obtenir des protections des
+puissances européennes [...]. [Dans ce] Maroc [que] l'élément
+français a si merveilleusement colonisé, outillé et modernisé,
+
+
+l'évolution logique [des juifs] les porte du côté de la civilisation
+occidentale [...]. Ce qu'il faut, c'est que la France [...] facilite cette
+incorporation progressive d'éléments israélites dans le corps national
+[français]. >>
+
+
+La Résidence générale s'en tint cependant, tout au long des
+années 1920 et 1930, à la ligne défendue par Lyautey dès les
+premières années du protectorat. Elle maintint les juifs marocains
+dans leur statut de sujets du sultan. Des activistes sionistes
+abondaient d'ailleurs ponctuellement dans son sens. Ľun d'entre eux,
+Gor Arieh, écrivait ainsi, dans ĽAvenir illustré du 4 juillet 1933, que «
+les campagnes prématurées pour la naturalisation nous mènent tout
+droit au fiasco [...]. Ceux qui connaissent la navrante misère des
+prolétariats du mellah [...] sont douloureusement indignés devant
+l'inconscience de tous ces gens qui demandent pour nos miséreux des
+friandises alors qu'ils manquent de pain. Ces réclamations sont un
+facteur de discorde intercommunautaire. [Ceux qui les formulent
+espèrent obtenir] des prérogatives susceptibles de les mettre en
+mesure d'exploiter la masse tant juive que musulmane ».
+
+
+En zone nord, ceux qui aspiraient à une naturalisation espagnole
+utilisèrent fondamentalement les mêmes arguments que leurs
+coreligionnaires de la zone française. Ils s'en démarquèrent
+cependant en faisant valoir non seulement leur hispanophilie, mais
+aussi et surtout l'ascendance espagnole de leurs ancêtres expulsés de
+la péninsule Ibérique en 1492. Le haut-commissariat espagnol à
+Tétouan, notamment à l'époque du général Berenguer, fervent adepte
+des méthodes de Lyautey, prit pratiquement le contre-pied de
+pareilles déclarations et suivit une ligne comparable à celle de la
+Résidence générale à l'égard de ceux qui les formulaient et des
+associations qui les soutenaient, notamment l'Association hébréa-
+sefardi (AHS). Celle-ci menait d'incessantes campagnes en faveur de
+
+
+la promulgation d'un
+<<
+décret Crémieux espagnol » et de la
+naturalisation de ceux que des cercles madrilènes qualifiaient d'«
+Espagnols sans patrie » et de « fils dispersés de l'Espagne ».
+
+
+Pour contrer de tels milieux, le haut-commissaire argua de l'«
+hostilité des Maures à la politique philoséfarade de l'Espagne » et de
+la nécessité d'accorder la priorité à l'option promusulmane et
+proarabe de la politique méditerranéenne de l'Espagne et au discours
+axé sur « la fraternité de sang entre Espagnols et Arabes ». Il mit en
+garde son gouvernement contre « un soulèvement des musulmans
+contre les juifs à cause du favoritisme pratiqué [par l'Espagne] au
+bénéfice [de ces derniers] » et déclara qu'il ne pouvait « répondre du
+maintien de l'ordre >> si une telle éventualité se réalisait.
+
+
+>>
+
+
+:
+
+
+<<
+
+
+Les Israélites tétouanais pouvaient difficilement laisser passer la «
+thèse du Maure prenant ombrage de l'estime que l'Espagne voulait
+témoigner aux juifs ». L'un de leurs délégués, Abraham Bentata,
+s'efforça d'en démontrer l « extravagance
+[Nous] vivons
+ensemble depuis un temps plus long que l'histoire ne le précise,
+déclara-t-il. Les Maures nous traitent comme ils se traitent entre eux,
+et d'ailleurs, parce qu'ils ont besoin de nous en beaucoup d'occasions,
+ils nous apprécient. Nos demeures et nos fêtes sont toujours honorées
+de leur présence et les plus distingués prennent part à nos joies et à
+nos tristesses. >>>
+
+
+Avant la Deuxième Guerre mondiale, les partisans de la
+naturalisation française, ou espagnole en zone nord, représentaient le
+courant majoritaire parmi les « évolués » juifs. Les tenants de ce qu'ils
+appelaient eux-mêmes l'« option palestinienne
+>>
+demeuraient
+minoritaires. Des cellules propageant l'idéologie et le programme
+sionistes avaient pourtant été fondées au lendemain même du
+congrès de Bâle et au début du xx siècle, à Essaouira (Agudat Ahim),
+Tétouan (Shivat Sion), Fès et Sefrou. Dans un premier stade, ce fut
+
+
+surtout à la dénonciation de l' indifférence des riches face à la
+misère de leurs coreligionnaires », à la lutte contre la mainmise d'une
+poignée de nantis et de leurs proches sur les institutions
+communautaires, et à l'extension des mellahs que s'attelèrent des
+maskilim (réformateurs) 8.
+
+
+Pour faciliter la propagation des idées de Theodor Herzl, ils
+n'insistèrent pas sur la dimension politique de l'objectif ultime
+poursuivi par l'auteur de L'État juif, mais tentèrent plutôt de lui
+conférer un cachet religieux plus aisément compréhensible par des
+coreligionnaires peu au fait de la « question juive » et de
+l'antisémitisme tels qu'ils se posaient en Europe, et animés surtout
+par l'idéal messianique et le rapport spirituel et immémorial avec la
+Terre sainte. À cet effet, l'accent fut mis, par exemple, sur la critique
+de pratiques « hétérodoxes » telles que le culte des saints et les «
+réjouissances » marquant le 9 Ab (commémorant la destruction du
+Temple).
+
+
+La stagnation des masses juives, s'entassant dans les mellahs, et la
+révolte sourde animant bon nombre de petites gens face à la misère
+créaient des conditions propices à la propagation d'appels au « retour
+aux véritables valeurs juives » et d'autres thèmes développés par les
+premiers adeptes du sionisme politique. Cet activisme fut cependant
+un facteur additionnel de tension intracommunautaire. Aux dires des
+maskilim eux-mêmes, les réactions de leurs coreligionnaires
+fluctuaient entre les espoirs soulevés par la perspective d'« adoption
+par le [futur] État juif de la journée de sept heures en faveur des
+classes laborieuses », et « l'opposition des misérables changeurs de
+monnaie à la création d'antennes du Jewish Colonial Trust ».
+
+
+Après l'instauration du protectorat, Lyautey s'était
+catégoriquement opposé à toute reconnaissance du mouvement
+sioniste au Maroc. Il avait affirmé à ce sujet au Quai d'Orsay que «
+
+
+l'argument spécieux [faisant valoir] que le mouvement sioniste [...]
+n'a pour but que la création d'un foyer national juif et ne sert pas les
+intérêts d'une puissance particulière puisque la Grande-Bretagne
+n'exerce en Palestine qu'un mandat de la SDN est par trop naïf [...].
+Ce n'est pas [...] par pur idéalisme, que l'Angleterre s'est fait en
+quelque sorte l'apôtre du mouvement sioniste qu'elle a inspiré, c'est
+qu'elle était assurée de pouvoir [...] en faire un instrument puissant
+de ses ambitions [...]. Les sionistes du Maroc [...] ne sauraient
+échapper à [son] emprise. L'intérêt de la France est de soustraire [...]
+les communautés israélites du protectorat à des influences extérieures
+dont la direction échappe aux sionistes français [...] impuissants à
+contrecarrer [...] l'action des sionistes anglo-saxons, allemands et
+russes » (13 juillet 1921).
+
+
+Comme les partisans du sionisme en métropole revenaient à la
+charge et que son gouvernement l'invitait à reconsidérer sa position,
+Lyautey fit élaborer en 1923 une note sur le sionisme à l'intention du
+Quai d'Orsay. Il y rappela les spécificités du Maroc : « c'est un
+principe pour le protectorat de refuser la création d'associations à
+caractère politique et il n'est pas possible de déroger à cette règle en
+faveur des organisations sionistes. [Celles-ci] seraient de nature à
+gêner considérablement [notre] politique indigène car elles
+risqueraient de provoquer du côté des musulmans, que les libertés
+d'allures prises par les Israélites se reposant sur notre protection
+choquent déjà [...], un mouvement de réaction à ne pas susciter, dans
+l'intérêt même de la population juive ». Le résident mit encore plus en
+avant les limites que le régime du protectorat était censé lui imposer
+et indiqua que « le Sultan, le Makhzen et toute la classe élevée de la
+population musulmane, sur l'adhésion loyale desquels repose toute
+notre politique, voient d'un assez mauvais œil l'action sioniste. Il y a
+
+
+là un facteur politique et gouvernemental spécial dont il faut tenir le
+plus grand compte ».
+
+
+De jeunes nationalistes musulmans citadins furent les premiers à
+contester le régime d'administration directe institué par la Résidence
+générale. Influencés tant par les idéaux de la Nahda, tels que les avait
+propagés Mohamed Abdou, que par ceux de la Révolution française
+et ce qu'ils avaient appris dans les écoles de fils de notables et
+collèges musulmans, ils n'avaient cependant pas à affronter les seules
+autorités françaises. Ils avaient aussi contre eux les « vieux turbans »
+qui partageaient les vues de la Résidence quant à la nécessité de
+réduire au silence ceux que Lyautey qualifiait de « jeunes trublions ».
+
+
+Les progrès réalisés en milieu juif dans divers domaines ne
+représentaient pas un modèle à leurs yeux. En témoigne l'attitude
+d'éléments qui, bien que reconnaissant l'intérêt de l'éducation
+dispensée par l'AIU, agitaient la relative émancipation des femmes
+juives comme un épouvantail. Dans un article intitulé « Défendons la
+jeune fille (musulmane) contre les maux de la rue » paru dans le
+journal en langue arabe Ouidad, l'un d'entre eux écrit ceci : « Nous
+voyons aujourd'hui un grand nombre de jeunes filles israélites
+fréquenter les écoles publiques [...]. Elles y acquièrent toutes [...] un
+savoir non négligeable [...]. Mais nous [constatons] aussi, [en raison]
+de l'insuffisance de leur culture, une régression sensible dans leur
+morale et une anarchie dans leur vie [témoignant du fait] que le
+savoir acquis est utilisé en contradiction avec l'objectif qui lui était
+assigné et devient l'un des moyens de se livrer avec art à la débauche.
+
+
+>>
+
+
+Même si, par la force des choses, les programmes de ces
+nationalistes, issus tant de la Qarawiyine que de l'enseignement
+moderne, incluaient du
+<<
+social », leurs préoccupations et leurs
+objectifs demeuraient essentiellement politiques. Ľune de leurs
+
+
+premières manifestations publiques d'envergure dans ce domaine eut
+lieu en 1929 à Fès, au lendemain des incidents du mur de Jérusalem.
+Elle se traduisit par l'élaboration d'une pétition, destinée au Foreign
+Office, qu'ils firent circuler en médina pour protester contre l'attitude
+partisane en Palestine de la Grande-Bretagne, puissance en charge du
+mandat de la Société des Nations sur cette partie de l'Empire
+ottoman.
+
+
+La Résidence considéra cette initiative comme une sorte de «
+ballon d'essai » lancé par ces jeunes pour tester leur degré d'audience.
+La presse locale s'en fit l'écho. Le Courrier du Maroc rapporta dans
+son numéro du 13 septembre 1929 qu'une « pétition établie par les
+fils de notables fassis [...], pour protester contre la politique
+[anglaise] d'aide aux juifs, circule en ville et est actuellement revêtue
+de plusieurs milliers de signatures obtenues de tous les musulmans
+sollicités sans exception. Une collecte est également [en cours]. Une
+certaine agitation est entretenue par le colportage de nouvelles de
+sources [...] parvenant soi-disant de Jérusalem et selon lesquelles de
+nombreux Marocains résidant dans le Horm [...] auraient été
+molestés [...]. Une surexcitation sensible est constatée dans la
+médina [...]. [Bien que] purement verbale, elle témoigne néanmoins
+d'un mouvement d'opinion indubitable ».
+
+
+L'année suivante, les nationalistes acquirent encore plus de
+visibilité par l'organisation de protestations contre le dahir du 16 mai
+1930, élaboré par la Résidence dans le but de soustraire au chraâ
+(droit musulman) les régions berbérophones et de le remplacer par le
+droit coutumier (izref). Dans leur combat, notamment après la
+création du Comité d'action marocain (CAM, 1934) et l'élaboration
+d'un plan de réformes avec le concours de progressistes français, ils
+tentèrent d'associer les « évolués » juifs à leur lutte.
+
+
+Les Israélites s'offusquent des jugements expéditifs des pachas,
+écrivait à ce sujet Mohamed Kholti, l'un des principaux
+partisans d'un front commun entre juifs et musulmans, dans
+L'Action du peuple du 2 mars 1934 ; ne sommes-nous pas les
+premiers aussi à en être victimes ? Nous devons joindre nos
+efforts pour une réorganisation totale des mahkamas. Des juifs
+nous reprochent, pour étayer les raisons qui les poussent à la
+naturalisation, de jouir de droits politiques dont eux-mêmes
+sont privés. Quels droits avons-nous ? Nous avons des conseils
+municipaux fantoches nous aussi. Nous sommes privés de tous
+les droits politiques (liberté de pensée, de réunion) comme
+eux, mais viendra un moment où le protectorat fera évoluer
+tous les Marocains dans le sens du respect des droits de
+l'homme et du citoyen. Les Israélites nés et vivant au Maroc
+sont marocains [...]. Les idées religieuses [demeurent] un
+élément de pensée tout à fait personnel ne devant pas primer
+sur la volonté de tous de voir le pays uni sous le signe d'une
+tolérance réciproque et d'un libéralisme clairvoyant.
+
+
+Dans un autre éditorial paru trois ans plus tard dans La Volonté du
+peuple, le même Kholti devait écrire : « Camarades juifs, quelques-uns
+de nos jeunes s'offusquent de l'attitude de certains de vos
+[coreligionnaires] trop francisés [...]. Dites-vous bien camarades [...]
+que ce pays vous a vus naître, vous a donné à manger, vous avez
+respiré son air, vécu sous son ciel admirable, les dépouilles de vos
+ancêtres y reposent [...], vous êtes les fils de cette terre généreuse
+[...]. Mon appel [à la collaboration] n'a rien de rhétorique [...], il
+part du fond de mes entrailles. »
+
+
+Les sionistes reconnaissaient, eux aussi, la nécessité du maintien
+de l' entente judéo-musulmane ». L'éditorialiste de L'Avenir illustré,
+
+
+bimensuel animé à Casablanca par le Polonais Jonathan Thursz,
+porteur d'un passeport britannique, y insista à diverses reprises : « Le
+prétendu antisémitisme musulman n'existe pas, écrivit-il. Au Maroc,
+[l'antisémitisme] n'a pas conquis la place éminente qu'il tient en
+Algérie ; nous savons ici qu'entre juifs et musulmans il n'existera
+jamais que les malentendus qu'on suscitera artificiellement. Notre
+devoir est de resserrer toujours plus strictement notre alliance avec
+eux. »
+
+
+Un rapprochement se manifesta en particulier dans le « front >>
+que ceux-ci et ceux-là formèrent pour s'opposer aux menées fascistes.
+Les uns et les autres se retrouvèrent, aux côtés de Français de gauche
+ou libéraux, notamment les membres de différentes sections de la
+Ligue internationale contre l'antisémitisme et son président, Bernard
+Lecache, en tournée au Maroc. Allal Fassi fut l'un des principaux
+leaders nationalistes à soutenir ce dernier, avec l'espoir de le voir
+plaider la cause marocaine auprès de son ami Léon Blum, devenu
+président du Conseil après le triomphe du Front populaire (1936).
+
+
+Cette convergence se traduisit aussi par la formation d'une Union
+des musulmans et des juifs du Maroc. Ses promoteurs élaborèrent et
+signèrent une pétition commune qu'ils adressèrent au Foreign Office
+en août 1937 pour protester contre le plan de partition de la
+Palestine. Après avoir souligné les dangers d'un partage des « lieux
+saints » et le risque d'un « retour à l'époque des croisades », ils
+déclarèrent : « Arabes et Israélites du Maroc unis, nous élevons notre
+voix énergique et souhaitons vivement l'abrogation totale de ce
+rapport [du comité royal britannique] que nous considérons funeste
+[...]. Nous sommes donc fondés à espérer que vous voudriez vous
+associer à nos vœux légitimes pour la réalisation d'un État Palestine
+indépendant, régi par des institutions démocratiques
+
+
+et
+
+
+parlementaires, seul régime à nos yeux capable d'assurer aux deux
+éléments palestiniens des droits égaux dans leur cher pays. »
+
+
+Les tentatives de rapprochement furent cependant suspendues du
+fait de la répression qui s'abattit sur les dirigeants du mouvement
+nationaliste après les manifestations de Meknès (1937), l'exil de ces
+derniers ou leur mise en résidence surveillée, et l'attachement des «
+évolués » à leur espoir de naturalisation.
+
+
+Bien que faisant quasiment tous référence au « patriotisme »,
+nationalistes musulmans, tenants de l'admission à la Cité française et
+sionistes avaient en réalité des visions totalement antagonistes de
+leur avenir respectif. Le « front commun » contre le fascisme et le
+recours de travailleurs musulmans, dans les mines, les usines, les
+ports et d'autres secteurs d'activités, à des militants et des
+syndicalistes juifs pour défendre leurs intérêts n'atténuaient
+quasiment en rien une telle polarisation.
+
+
+Au moment de la crise de Munich et de la mise du protectorat sur
+le pied de guerre, il était possible de considérer que les sionistes
+avaient été les seuls à consolider leurs acquis entre 1936 et 1938. Ils
+avaient amplement tiré avantage de l'arrivée au pouvoir en France de
+Léon Blum, fervent partisan de la « Palestine nouvelle », des réactions
+suscitées parmi les juifs du pays par la brutalité des mesures
+antisémites prises par le régime nazi à partir de 1933 et de l'afflux au
+Maroc, au lendemain même de l'arrivée de Hitler au pouvoir et au
+cours des années suivantes, de réfugiés juifs allemands et autrichiens.
+En raison de ces faits, de la Nuit de cristal et de l'Anschluss, des
+doutes commencèrent à assaillir les
+alliancistes
+>>
+et à rendre
+tangible à leurs yeux ce qui ressemblait à la faillite du modèle
+d'assimilation à l'occidentale, notamment dans un pays comme
+l'Allemagne où les juifs paraissaient avoir atteint un haut degré
+d'intégration dans quasiment tous les domaines.
+
+
+<<
+
+
+Les juifs marocains pendant la
+Deuxième Guerre mondiale
+
+
+LE CHOC DE LA DÉBÂCLE DE JUIN 1940
+
+
+Ayant solennellement proclamé la solidarité du Maroc avec la
+France lors de la crise de Munich, le sultan réitéra sa disponibilité en
+septembre 1939 à se ranger aux côtés de « la puissance protectrice »,
+immédiatement après l'invasion de la Pologne et le déclenchement de
+la Deuxième Guerre mondiale. Outre les déclarations de loyalisme du
+souverain et des notables, le résident général, Noguès, eut la
+satisfaction de voir des nationalistes laissés en liberté se ranger aux
+côtés de la « nation protectrice ». Il était pourtant le responsable
+direct à leurs yeux de la sanglante répression des manifestations de
+Meknès (1937) et de l'exil ou de la mise en résidence surveillée de
+leurs principaux chefs 10.
+
+
+Des associations culturelles se situant dans leur mouvance lui
+adressèrent des télégrammes proclamant leur « amitié pour la France
+», rappelant le sacrifice des « héros marocains morts pour la France
+en 1914 », et ajoutant, dans un style auquel leurs compatriotes
+israélites étaient familiers, leur « attachement à la France de 1789 ».
+Des milliers de tirailleurs marocains, mobilisés et entraînés après la
+crise de Munich, furent d'ailleurs envoyés en France dès septembre
+1939, jusqu'à s'élever à plus de 150 000 hommes en avril 1940.
+
+
+Le résident se félicita de toutes ces prises de position et en
+déduisit que « le moral de la population musulmane [était] excellent
+». Il estima que l'impact de la propagande nazie restait limité et
+qu'elle était incapable d'imposer l'image d'invincibilité qu'elle
+cherchait à donner de l'Allemagne et d'altérer l'idée que les
+autochtones se faisaient de la France et de sa capacité à défendre tant
+
+
+son propre territoire que son empire colonial. D'après lui, cette
+propagande butait toujours sur les méfiances qu'inspiraient à la
+population musulmane l'idéologie raciale nazie, les visées du III
+Reich et le souci de Hitler d'esquiver tout engagement, même verbal,
+en faveur des Arabes du Moyen-Orient, qu'il voulait faire basculer
+dans le camp des puissances de l'Axe sans leur apporter le moindre
+appui dans leur lutte contre les Anglais.
+
+
+Les juifs marocains multiplièrent eux aussi les déclarations de
+loyalisme. Ils s'estimaient en effet directement concernés par le
+devenir de la « patrie adoptée », les menaces que l'idéologie nazie et
+la politique de Hitler faisaient peser sur tous les juifs, et les appels au
+pogrom et au saccage des mellahs que Radio-Berlin et des agents
+allemands lançaient aux
+musulmans. À l'instar de leurs
+coreligionnaires d'Algérie et ainsi qu'ils l'avaient proposé eux-mêmes
+à Lyautey entre 1914 et 1918, bon nombre d'entre eux exprimèrent
+leur disponibilité à aller se battre en France. Dès septembre 1939, des
+jeunes « se mirent [ainsi] à la disposition des autorités françaises ».
+Ce fut en particulier dans le Sud, zone où les juifs ruraux menaient la
+même vie rude que les montagnards musulmans et avaient ici et là
+gardé jusqu'en 1912 l'usage des armes, que se présentèrent les
+volontaires les plus nombreux.
+
+
+Des chansonniers se mirent en devoir d'exalter la cause des
+puissances démocratiques. Le fils du grand rabbin d'Essaouira, M.I.
+Knafo, se distingua ainsi par une série de satires et de pamphlets en
+vers intitulés Les Hitlériques. Rédigés en judéo-arabe et en français, ils
+stigmatisaient en termes véhéments Hitler, Goering et Goebbels. Son
+coreligionnaire Matiah Simhun composa quant à lui une « Qasida di
+Hitler, publiée par l'entremise du Makhzen », allant dans le même
+sens. Il la ponctua de sarcasmes raillant en particulier les prétentions
+et la misère de l'Italie fasciste 11.
+
+
+Les animateurs du mouvement sioniste tentèrent de jouer un rôle
+prééminent dans la mobilisation de leurs coreligionnaires. Ils les
+exhortèrent à ne pas demeurer « neutres dans la guerre [...] du
+nouveau Pharaon contre Israël » et évoquèrent à cet effet l'exemple
+donné par les juifs de France et d'Algérie entre 1914 et 1918. Ils
+firent valoir aussi la résistance de l'Angleterre, notamment la
+détermination de Winston Churchill face à Hitler, et les origines
+mogadoriennes du ministre britannique de la Guerre, Hore-Belisha 12.
+
+
+ĽAvenir illustré fut également à la pointe des appels au boycottage
+des produits allemands, « mouvement anti-hitlérien ayant jailli du
+fond de la conscience juive, comme arme de défense collective et
+[expression] de solidarité envers des frères traqués ». Les négociants
+juifs en relation d'affaires avec des firmes allemandes furent incités à
+mettre fin à leurs transactions et à prendre activement part à la lutte
+économique contre l'Allemagne hitlérienne.
+
+
+La Résidence se félicita de l'état d'esprit des Israélites. Elle accepta
+volontiers « les versements importants émanant de commerçants
+[juifs] notoires, désireux de contribuer avec leurs deniers à la défense
+nationale ». Leur enrôlement dans les troupes fut cependant plus
+problématique. Contrairement aux milliers de musulmans recrutés en
+tribus, quasiment tous analphabètes et sachant seulement qu'ils <<
+s'engageaient » pour aller se battre contre les Allemands, les Israélites
+comptaient en effet dans leurs rangs des
+<<
+évolués
+>>
+citadins
+n'ignorant rien des grands enjeux de la guerre. Dans l'un de ses
+rapports au Quai d'Orsay, Noguès avait indiqué à ce sujet, au moment
+de la crise de Munich, que
+<<
+dans quelques communautés, des
+Israélites ont exprimé le désir de prendre volontairement du service
+en cas de conflit mais sans dissimuler l'espoir de se voir ensuite
+attribuer la nationalité française 13
+».
+
+
+En sus de cet « espoir », le résident se trouvait également
+embarrassé par le principe même de l'envoi de juifs autochtones sous
+les drapeaux. À leur mobilisation s'opposaient des considérations de «
+politique indigène », ainsi que l'antisémitisme prévalant parmi le
+personnel français des différentes directions du protectorat, des
+officiers des Affaires indigènes et des contrôleurs civils, ainsi que
+parmi les colons. Noguès estimait de ce fait devoir s'en tenir à la ligne
+adoptée par Lyautey et aux arguments exposés au ministre des
+Affaires étrangères, Stephen Pichon, lorsque celui-ci le sonda en 1918
+sur l'éventualité du recrutement au Maroc d'éléments d'une Légion
+juive pour la Palestine. Le proconsul d'alors avait fait état du statut
+canonique des juifs marocains, exprimé des doutes quant à leurs
+capacités guerrières, indiqué que leur mobilisation risquait de porter
+atteinte au prestige français et qu'eux-mêmes n'allaient pas manquer
+de se vanter d'avoir apporté leur appui à une « France exsangue 14
+».
+
+
+À l'exception de quelques dizaines de naturalisés, les volontaires
+citadins et instruits ne furent donc pas enrôlés. Ceux du Sud furent
+retenus comme de simples « travailleurs coloniaux » et effectivement
+envoyés dans des usines de la métropole. L'humiliation ainsi infligée
+aux « évolués » ne fut cependant que le prélude des déchirements et
+du « désenchantement » dans lesquels la guerre allait les plonger. La
+débâcle de la << patrie adoptée », l'armistice et le risque d'un
+déferlement des troupes allemandes sur le protectorat accrurent leur
+désarroi. D'autant que des rumeurs, rendues vraisemblables par
+l'appui apporté par les nazis à Franco pendant la guerre civile
+d'Espagne, circulaient quant à l'éventualité d'une telle invasion
+allemande à partir de la zone nord.
+
+
+Les craintes suscitées parmi bon nombre de juifs marocains par
+une telle menace expliquent sans doute leur hostilité à l'armistice et
+leur espoir de voir les Anglais résister victorieusement aux Allemands.
+
+
+Alors que des coreligionnaires de différentes régions du Maroc établis
+en Algérie rentraient précipitamment au pays, les membres des
+familles les plus riches de Casablanca et d'autres villes cherchèrent
+quant à eux à émigrer en Amérique. Jonathan Thursz, numéro deux
+du mouvement sioniste au Maroc après S.D. Lévy, fut d'ailleurs l'un
+des premiers à s'embarquer pour les États-Unis.
+
+
+Les petites gens et les masses des mellahs n'eurent pour leur part
+d'autre alternative que de rester sur place et, disent les rapports de la
+Résidence, « prier dans les synagogues pour la victoire des Alliés » et
+écouter ce que disaient leurs coreligionnaires attentifs aux émissions
+de la BBC. Ceux-ci avaient foi en la détermination de Winston
+Churchill et les appels à la résistance lancés par le général de Gaulle.
+Ils avaient été sans doute parmi les rares Marocains à avoir entendu
+l'« appel de Londres ». Leur anglophilie devint notoire. Divers
+journaux de droite s'en firent l'écho. La Presse marocaine indiqua
+ainsi, dans l'un de ses numéros de juillet 1940, que « les indigènes
+israélites paraissent acquis au mouvement anglophile [...]. Persuadés
+que le salut ne saurait venir que de l'Angleterre, ils [s'en] font les
+propagandistes. On fait des prières dans les synagogues pour sa
+victoire 15
+».
+
+
+Le résident en déduisit, ainsi qu'il l'affirma dans l'un de ses
+rapports au gouvernement de Vichy, que « les juifs [du Maroc]
+aimeraient même plutôt que d'être livrés aux Allemands que le Maroc
+soit complètement [et même inutilement écrasé]. La propagande
+anglaise, soutenue dans l'ombre par les Israélites, redevient active et
+cherche en particulier à agiter Casablanca où elle s'attache à gagner
+les milieux d'affaires liés par des intérêts avec la Grande-Bretagne et
+à semer le trouble et la division dans la jeunesse ». D'autant que des
+avions anglais survolaient de temps à autre le territoire marocain et
+larguaient des tracts au-dessus des villes côtières.
+
+
+En raison de leur activisme, les éléments anglophiles, dont
+quelques-uns étaient porteurs de passeports britanniques
+comme
+c'était le cas de Salomon Benadi, étiqueté « suspect » par les
+Renseignements et placé en résidence surveillée  , se trouvaient en
+butte à diverses mesures de rigueur. Pour mieux suivre leurs faits et
+gestes, la Résidence fit reprendre du service à Yahiya Zagouri, alors à
+la retraite. Grâce à lui, elle sut rapidement à quoi s'en tenir sur leurs <<
+agissements ». Elle n'ignora rien non plus de l'aide financière que des
+hommes tels que l'avocat Félix Guedj, mort en prison, apportaient
+aux jeunes Français qui cherchaient à rejoindre le général de
+Gaulle 16.
+
+
+<<
+
+
+Outre le rôle des juifs en tant que relais de la
+dissidence
+gaulliste », s'ajoutait au regard de la Résidence la crainte de les voir
+inciter les musulmans à créer des troubles. Le risque n'était pas que
+ces derniers sympathisent avec les Anglais, car pareille éventualité
+était exclue du fait des ressentiments suscités en milieu musulman
+par la politique de la Grande-Bretagne en Palestine et son « agression
+» contre l'Irak en 1940, pays où s'était réfugié le mufti de Jérusalem,
+Haj Amine Husseini. Noguès appréhendait surtout la relance par les
+nationalistes de la revendication de l'indépendance et les effets de la
+propagande allemande.
+
+
+Celle-ci encourageait en effet le déclenchement de troubles. Des
+ballots de tracts en langue arabe destinés au Maroc et à l'Algérie,
+qu'apportaient presque tous les navires allemands qui abordaient à
+Ceuta et aux Canaries et distribués sur le territoire du protectorat,
+faisaient de la France une « nation juive » accordant toutes sortes de
+privilèges aux juifs autochtones. D'après Noguès, cette propagande
+était axée sur la « collusion des Français et des juifs », maniée « avec
+beaucoup de tact », et donnait l'Allemagne en exemple du sort qu'il
+convenait de réserver aux juifs 17.
+
+
+Le risque de troubles était effectivement perceptible dans de
+grands foyers urbains, notamment Casablanca, métropole
+économique où s'entassaient des ruraux, dont de nombreux juifs du
+Sud, obligés de quitter leurs campagnes, et en passe de ravir à Fès sa
+place de bastion du nationalisme. D'après le chef de région, « le
+problème juif [était] l'un des problèmes politiques importants qui se
+[posaient] dans [la] Région en raison de l'importance numérique et
+économique des Israélites et de l'influence qu'ils exercent sur les
+musulmans ».
+
+
+Le changement de comportement de ces derniers était en fait
+perceptible dès l'été 1940. Il résultait en partie du coup porté par la
+débâcle à l'image d'invincibilité de la France, du discrédit suscité par
+la politique de collaboration de Vichy avec l'occupant, du retour au
+pays de plusieurs milliers de tirailleurs démobilisés après l'armistice,
+et de la libération par les Allemands de prisonniers de guerre
+renvoyés dans leurs tribus. À Casablanca, écrit Noguès, « les
+Marocains tiennent des propos désobligeants dans les lieux publics ».
+La Direction des affaires politiques observa que quelques éléments,
+d'eux-mêmes (pour les mieux informés) ou à l'instigation de juifs
+(pour les autres), commençaient même à « observer avec attention
+l'attitude des États-Unis [...] et [voulaient] voir [dans ce pays] la
+force qui arbitrera définitivement le conflit ». La Direction de
+l'instruction publique manifesta quant à elle la crainte d'une
+<<
+agitation sournoise [et] d'une collusion d'éventuels agitateurs
+musulmans et des juifs diplômés sans emploi et aigris ».
+
+
+Surveillant de près les masses populaires, les services de
+renseignements confirmaient de leur côté que la collaboration avec
+l'occupant « désorientait les indigènes ». D'autant que ces derniers
+souffraient au quotidien de la pénurie des produits de première
+nécessité, tels que le pain, le thé et le sucre, entrant dans
+
+
+l'alimentation de base des campagnards et des fellahs prolétarisés qui
+s'agglutinaient dans les bidonvilles. La hausse des prix des tissus était
+telle que les parents de gens morts de famine ou de peste dans le Sud
+ne pouvaient plus, faute de linceuls, observer les rites d'inhumation
+de leurs proches.
+
+
+L'activisme de la Délégation allemande d'armistice établie à
+Casablanca compliquait la situation. Son chef, Theodor Auer, ne
+cacha pas qu'il considérait le Maroc comme un
+<<
+trésor aux
+possibilités infinies ». Il demanda aux généraux Goering et Guderian
+d'encourager le Führer à regarder davantage vers l'Afrique du Nord. Il
+suscita l'inquiétude de la Résidence par ses critiques contre le
+laxisme » des autorités françaises « à l'égard des juifs, notamment des
+réfugiés israélites [fortunés] qu'il [côtoyait] dans les grands hôtels »,
+l'encouragement des menées d'agents nazis arabophones, et l'accueil
+d'anciens protégés allemands qui venaient le saluer.
+
+
+<<
+
+
+Noguès nota à ce sujet, dans l'un de ses rapports à Vichy, que «
+l'inquiétude s'est glissée parmi bien des musulmans. Ce n'est pas
+seulement le prestige de la France qui est atteint [...]. C'est aussi leur
+confiance en elle. Indiscutablement, il faut voir là le résultat de
+l'action pernicieuse de la Délégation allemande d'armistice ». Il
+estima cependant que « la propagande allemande [n'a pas encore]
+réussi à convaincre les milieux nationalistes », que leurs contacts avec
+Auer ou ses agents « ne traduisaient aucun sentiment profond de
+germanophilie », et qu'eux-mêmes redoutaient
+<<<
+les méfaits [de
+l'Allemagne] en Afrique du Nord en cas de rupture de l'armistice ».
+
+
+DES LOIS DE VICHY AU MAROC
+
+
+Une surveillance encore plus étroite des Israélites anglophiles,
+voire leur internement, et la mise en application de dispositions
+
+
+devant contrecarrer les menées des agents nazis et empêcher que
+n'éclatent entre des juifs et des musulmans des incidents sur lesquels
+risquait de se « greffer » une agitation dirigée contre la France,
+devinrent autant de priorités au regard de la Résidence. Celle-ci se
+devait de rester également vigilante vis-à-vis de la fièvre pétainiste
+des éléments extrémistes qui multipliaient les slogans antisémites, les
+appels au boycottage des juifs, l'affichage de tracts sur les devantures
+de leurs magasins (« Ici, maison juive, maison de profiteurs »,
+Acheter chez les juifs, c'est ruiner le commerce français »,
+Travailleur, ton ennemi, c'est le juif, il t'exploite et édifie sa
+crapuleuse fortune sur ta misère ») et agissaient comme s'ils voulaient
+provoquer des vagues de violences et inciter les musulmans à y
+prendre part.
+
+
+<<
+
+
+<<<
+
+
+Dans leurs critiques de ce qu'ils considéraient comme autant de
+manquements de la Résidence à l'esprit de la Révolution nationale,
+des Croix-de-Feu et d'autres  patriotes » s'élevèrent contre le
+maintien à leurs postes de fonctionnaires gaullistes et les mesures
+d'amnistie prises en faveur de nationalistes musulmans. Leurs chefs
+s'adressèrent directement à Pétain, lui demandant d'ordonner au
+résident de chasser « les francs-maçons mis en place par Léon Blum ».
+Ils protestèrent aussi contre les tolérances dont bénéficiaient des
+réfugiés israélites allemands, autrichiens, est-européens et autres, et
+ceux qui leur apportaient leur appui. Ils se déchaînèrent en
+particulier contre les dotations en carburant et les permis de circuler
+accordés à l'avocate casablancaise Hélène Cazes-Benatar, présidente
+régionale de la Women's International Zionist Organization (WIZO)
+et coordinatrice, avec l'appui de l'American Joint Distribution
+Committee (AJDC), de l'assistance aux réfugiés juifs.
+
+
+Ce fut en partie sous la pression des Croix-de-Feu et d'autres
+fascistes que fut décidé le regroupement, dans des
+<<
+résidences
+
+
+imposées [et des] centres situés à bonne distance des villes », d'un
+nombre substantiel des quelque 7 700 réfugiés, israélites en majorité,
+recensés en zone française entre juin 1940 et février 1941, et «
+autorisés à séjourner provisoirement sur le territoire du protectorat
+en attendant leur exode en Amérique ou en Palestine 18
+».
+
+
+La virulence des critiques du représentant du Parti populaire
+français à Casablanca, Henri Queyrat, et la nécessité de parer au
+risque de « menées anti-françaises » auxquelles pouvaient se livrer les
+réfugiés non réembarqués, incitèrent Noguès à suggérer à Vichy
+l'évacuation de ces derniers à destination de la France. Le maintien «
+d'un important contingent d'étrangers dont l'état d'esprit est douteux,
+dans un pays où ils trouvent des affinités de race et de religion, ne
+me paraît pas désirable », affirma-t-il. Mais comme cette proposition
+était en fait irréalisable et qu'il lui fallait couper court aux attaques
+dont il était personnellement l'objet et qui risquaient de déboucher
+sur l'étalage public de l'ascendance juive de son épouse, il résolut
+d'envoyer les éléments suspects dans des camps de détention et de
+travail
+
+
+une douzaine au total, dont quelques-uns situés dans des
+zones excentriques (Bou Denib, Bou Arfa, Agdz). Cette mesure alla de
+pair avec la saisie des journaux d'extrême droite qui « enfreignaient
+les instructions de la censure [et publiaient] des articles tendant à
+provoquer une agitation antisémite dangereuse 19
+».
+
+
+La propagande antisémite n'était cependant pas le fait des seuls
+Français du Maroc. Outre Radio-Berlin et Radio-Mondial (Paris), les
+émissions de celle de Madrid n'en étaient pas non plus dépourvues.
+Même si le Caudillo s'était dérobé aux sollicitations de Hitler, la
+presse et la radio espagnoles continuèrent en effet à ponctuer leurs
+attaques contre la France de propos antijuifs. Radio-Madrid répétait
+que « les musulmans sont dégoûtés par les méthodes [de la France]
+
+
+qui s'appuie sur la supériorité concédée [de facto] aux juifs [à leurs]
+dépens ».
+
+
+Ce fut dans ce contexte que la Résidence élabora, à l'instigation
+de Vichy, des dahirs inspirés du statut des juifs promulgué en France
+le 3 octobre 1940 et auquel se sont ajoutées les dispositions de la loi
+du 3 juin 1941. Soumis au sceau du sultan, ces dahirs instituaient
+une discrimination raciale prévoyant un numerus clausus dans les
+professions libérales (2 % du nombre de médecins et d'avocats) et
+l'enseignement (10% des effectifs du secondaire), ainsi que
+l'aryanisation des biens des juifs et l'expulsion de ceux d'entre eux qui
+avaient élu résidence après le 1er septembre 1939 dans les « quartiers
+européens » 20.
+
+
+Les sujets juifs du sultan s'étaient attendus à le voir s'opposer dès
+le début à ces lois, en dépit de la faiblesse de sa marge de manœuvre
+et du << précédent » que représentait un décret de portée aussi
+désastreuse pour sa légitimité que le « dahir [dit] berbère » (16 mai
+1930). Ce n'est qu'en juin-juillet 1941 qu'ils tentèrent de le persuader
+de ne pas avaliser un second texte préparé sur la base de la loi
+française du 3 juin 1941. Un rapport des services de renseignements
+militaires indique à ce sujet que « des notables juifs ont plaidé leur
+cause [en arguant] que Sa Majesté Chérifienne enfreindrait la loi
+coranique si elle entérinait par dahir des mesures contraires à la
+lettre et à l'esprit du Coran : les chrétiens et les juifs peuvent, disent-
+ils, vivre en territoire musulman et s'y adonner à toutes les
+professions non canoniques sous la condition de payer l'impôt et de
+respecter la religion musulmane21 ».
+
+
+Dans leurs démarches, les notables juifs devaient tenir compte
+non seulement du zèle pétainiste de fonctionnaires français, mais
+aussi des surenchères de caïds et de pachas affirmant vouloir œuvrer
+à « la remise des juifs à leur place ». Du fait de leurs attaches avec la
+
+
+Résidence et de leurs fonctions au sein de l'appareil du protectorat,
+ils ne pouvaient en effet que s'inscrire dans la droite ligne des
+restrictions décidées par les autorités françaises.
+
+
+Telle fut l'orientation de l'un des piliers autochtones du
+protectorat, le pacha de Marrakech, Thami Glaoui, celui-là même
+contre lequel des tribus en révolte, et lasses de ses spoliations et de
+ses violences, s'étaient écriées en 1913 déjà : « Plutôt un juif que le
+Glaoui ! » Malgré la présence de juifs dans son entourage immédiat et
+l'importance des affaires immobilières, minières, financières et autres
+dont il leur confiait la gestion, il avait d'ailleurs tenté de faire
+diversion en soulevant dès 1937-1938 la question de l'habitat juif en
+médina. $\hat{A}$ l'époque, et alors que son implication dans des projets de
+création de maisons closes était dans toutes les mémoires, des
+graffitis vengeurs avaient fleuri sur les murs de la cité ocre : « À mort
+le pacha », « $\hat{A}$ mort [son khalifat] El Biaz ! », et « Peuple, c'est le
+moment de manifester ta volonté ! », assortis de « Vive Hitler ! » et «
+Vive Mussolini ! », manifestement orientés moins contre les juifs que
+contre l'insatiable potentat et la Résidence générale 22.
+
+
+Les bonnes relations que le pacha entretenait avec l'AIU avant
+même l'instauration du protectorat et l'étroitesse de ses liens avec des
+notables juifs de Marrakech ne l'empêchèrent pas d'édicter des
+mesures propres à complaire au régime de Vichy 23. Il fit ainsi
+propager des bruits sur l'interdiction d'emploi de domestiques
+musulmanes par les juifs et sur l'obligation de port par leurs notables
+
+
+<<
+
+
+du costume traditionnel juif, djellaba, [babouches] noires, et
+foulards ». Comme de simples rumeurs ne suffisaient pas, il saisit
+l'incident provoqué par le jet de pierres d'enfants juifs contre un
+cortège funèbre musulman pour imposer la levée sur les habitants du
+mellah, pauvres dans leur écrasante majorité, d'une « sévère amende
+de 100 000 francs ». Il essaya ce faisant de flatter ses coreligionnaires
+
+
+et d'atténuer une réputation entachée par sa collaboration avec le
+régime colonial, sa tyrannie, le racket de « maisons closes », et les
+500 000 francs qu'il venait de lever, au titre de la « fraternité de
+guerre », sur une ville exsangue, alors que son collègue de Fès, cité
+pourtant mieux nantie, n'en avait rassemblé que 50 00024.
+
+
+Des nationalistes de la zone française prirent le contre-pied des
+pachas et des caïds complaisants à l'égard de Vichy et s'élevèrent
+contre le principe même du classement des races. Conscients des
+implications et des dangers de l'idéologie raciale et du nazisme, et
+certains ayant été fouettés publiquement au début des années 1930
+par lesdits pachas, ils réitérèrent, en l'occurrence, mais de manière
+plus véhémente, ce qu'ils avaient déjà affirmé à ce propos entre 1936
+et 1939. C'est d'ailleurs ce que firent aussi leurs homologues de la
+zone espagnole. Transfuge de la zone française, Thami Ouazzani
+critiqua ainsi dans un hebdomadaire tétouanais, Rif, les lois raciales
+et le régime allemand qui, écrit-il, « prétend classer les hommes
+comme les chevaux, en selle et de course ».
+
+
+L'attitude d'Abdelkhaleq Torrès était encore plus significative. En
+août 1941, il affirma dans son journal, al-Houriya (« Liberté »), que «
+le protectorat a créé de toutes pièces la question juive. Avant
+l'intervention française, le juif était parfaitement à sa place dans l'État
+marocain. [Mais comme] les Européens, principalement les Français,
+avaient besoin de lui pour leurs affaires, ils l'ont sorti du mellah,
+protégé et même naturalisé. Voyez comment ils agissent envers eux
+maintenant ! ».
+
+
+L'un des nationalistes de la première heure, Abdellatif Sbihi,
+initialement considéré par les autorités françaises comme
+<<
+particulièrement dangereux », mais rallié à la Résidence à partir de
+1937-1938, se démarqua de ses anciens camarades et adopta quant à
+lui une phraséologie et une apologie du maréchal Pétain comparables
+
+
+à celles des antisémites français 25. Il présenta ainsi dans son journal,
+La Voix nationale, le dahir du 29 ramadan 1359 (31 octobre 1940)
+comme le prélude à une « remise des juifs à leur place 26
+».
+
+
+<<<
+
+
+Lui-même et des journalistes français se livrèrent à un
+matraquage » axé en particulier sur la place que des juifs occupaient
+dans le commerce de denrées de base, telles que le sucre et le thé.
+Leur imputer une large part de responsabilité dans la pénurie était
+d'autant plus tentant qu'il fallait trouver aux difficultés accrues de
+ravitaillement des <<< indigènes  des explications autres que la
+mobilisation des ressources du pays au profit de la « métropole », et
+l'incapacité de la Résidence face au blocus anglais. Allant jusqu'au
+bout de sa logique, Sbihi suggéra la création d'un Commissariat
+chérifien aux affaires juives 27.
+
+
+De ces campagnes et diatribes était absente toute critique contre
+le recours de l'administration aux services de grossistes juifs pour la
+distribution de produits rationnés et la discrimination instituée dans
+le rationnement entre, d'un côté, les Marocains juifs et musulmans,
+et, de l'autre, des Européens (pourvus de quotas supérieurs en sucre,
+café, farines, produits gras et savon, « justifiés » par leur seul « mode
+de vie ») 28.
+
+
+Face au danger, les juifs du pays eurent recours au sultan Sidi
+Mohammed ben Youssef (1927-1961). Ils ne négligèrent pas pour
+autant d'autres parades pour contrecarrer le numerus clausus,
+l'aryanisation des biens et l'expulsion de ceux d'entre eux qui
+résidaient dans des quartiers européens 29.
+
+
+Sachant qu'il détenait la réalité du pouvoir, ce fut d'ailleurs au
+résident qu'ils s'adressèrent en premier. Réitérant leur loyalisme à
+l'égard de la « nation protectrice » et après lui avoir rappelé « les
+marques d'attachement envers la France, toujours grande même dans
+le malheur », manifestées par leurs coreligionnaires avant même
+
+
+1912, ils lui exprimèrent leur désespoir « devant un horizon aussi
+lourd de menaces, où dominent le désœuvrement et la misère », le
+suppliant « d'écarter l'irrémédiable catastrophe qui s'annonce 30
+».
+
+
+Les présidents des communautés de Casablanca, Rabat, Salé et
+Meknès lui adressèrent une autre lettre (23 juin 1941) dans laquelle
+ils insistèrent de manière plus spécifique sur leur statut de sujets
+marocains. Ils rappelèrent à cet égard que « la tradition musulmane
+s'est toujours honorée de protéger les juifs, et les souverains du
+Maroc n'y ont jamais failli. C'est à l'ombre de leurs palais que les
+mellahs se sont édifiés. Depuis le protectorat et tout en devenant,
+comme en Orient, un élément souvent reconnu d'influence française,
+les juifs marocains n'ont cessé d'être de bons et loyaux sujets de
+l'Empire chérifien ». Que ces notables aient tenu à rappeler au sultan
+leur condition de sujets marocains et, partant, le principe de
+l'allégeance perpétuelle qui régissait le statut et son intangibilité,
+signifiait qu'ils invoquaient aussi leur condition de dhimmis³¹.
+
+
+Au palais, la présentation au sultan de leurs doléances, souvent
+avec l'appui de notables musulmans et de personnalités du Makhzen,
+alla de pair avec le rituel accompagnant traditionnellement les
+demandes de « protection » (zouag, 'ar) et le sacrifice de taureaux
+requis en pareille circonstance. Ce sacrifice conférait une signification
+symbolique considérable au rappel des obligations canoniques de
+l'imam. Celles-ci incluaient, outre le libre exercice du culte, la
+protection des personnes et des biens.
+
+
+À l'occasion de l'une de ces audiences apparut en particulier le
+décalage entre, d'une part, le sens que la Résidence donnait aux
+dispositions des lois antijuives et leur formulation initiale en français,
+et, d'autre part, ce qu'elle laissait entendre au sultan en lui présentant
+leur version en arabe. Des délégués firent ainsi observer au sultan,
+d'après un document d'archive cité par Haïm Zafrani, que
+<<<
+
+
+le
+
+
+recensement auquel [les juifs] étaient soumis comportait [...] la
+déclaration détaillée de tous leurs biens : espèces, comptes en
+banque, bijoux, meubles et propriétés ». Le souverain leur répondit
+que, dans son esprit, « la déclaration devait porter uniquement sur les
+biens immobiliers 32 ».
+
+
+Une prise de position répondant aux espoirs placés en lui
+s'imposait à Sidi Mohammed ben Youssef en sa double qualité de chef
+spirituel et politique. Elle n'était cependant guère aisée car il se
+devait de prendre en compte aussi ses déclarations de loyalisme à
+l'égard de la France, la « confiance » exprimée au maréchal Pétain, les
+constantes mises en garde que lui adressait le résident tant contre les
+visées étrangères et le chaos que risquait de créer la transformation
+du pays en champ de bataille en cas de rupture de l'armistice que
+contre les nationalistes radicaux, et le prix politique qu'il devait payer
+lui-même s'il se démarquait trop du résident général, résolument
+déterminé à garder le Maroc dans l'empire colonial français.
+
+
+Toutefois, et en sens inverse, l'image que le souverain se faisait de
+la France avant juin 1940 n'était plus la même après la débâcle et
+l'armistice, et offrait un saisissant contraste avec celle véhiculée par la
+détermination des Anglais à poursuivre la guerre, la résistance à
+laquelle appelait de Gaulle et, par la suite, l'entrée en guerre des
+Américains. La puissance économique de ces derniers était d'ailleurs
+tangible dans les villes et les campagnes grâce aux cargaisons de
+produits de première nécessité provenant d'outre-Atlantique, en
+application de l'accord Weygand-Murphy
+
+
+l'approvisionnement de l'Afrique du Nord.
+
+
+relatif
+
+
+à
+
+
+C'était d'ailleurs avec l'aval du sultan que les vice-consuls
+américains purent circuler dans le pays. Le chef de région de
+Casablanca devait écrire à ce sujet que « le rôle de [ces consuls]
+devient de plus en plus important dans la propagande hostile au
+
+
+rapprochement franco-allemand. Leur action s'intensifie en milieu
+européen et marocain à Casablanca. Ils cherchent constamment à
+entrer en contact avec le milieu européen, les éléments éclairés de la
+population musulmane et surtout israélite. L'espoir d'une aide au
+Maroc en essence, en charbon et en sucre constitue un atout efficace
+pour la propagande américaine ».
+
+
+Ces agents s'intéressaient, entre autres, à l'attitude des
+musulmans à l'égard des juifs, d'autant que la Résidence accusait les
+premiers de germanophilie et $d^{\prime}\ll$ antisémitisme rampant ». Les vice-
+consuls et leur chef, Kenneth Pendar, procédèrent à des enquêtes à cet
+effet et eurent toutes sortes de discussions avec des notables et des
+gens de catégories sociales diverses rencontrés dans les médinas et les
+souks ruraux. Le représentant personnel du président Roosevelt,
+Robert Murphy, supervisait leurs activités. Lors de son passage au
+Maroc, il visita des synagogues pour « exprimer la sympathie du
+gouvernement américain aux juifs ». Pendar lui fit savoir que « les
+Marocains écoutaient anxieusement les discours des agents de l'Axe,
+les discutaient sans fin et, finalement, y croyaient peu ou pas du tout
+
+
+».
+
+
+Les nombreux signaux envoyés par les Américains au sultan, les
+notes diplomatiques lui rappelant qu'ils considéraient
+<<
+S.M.
+chérifienne [comme] seul souverain au Maroc », et l'espoir manifesté
+par les nationalistes désireux de faire de lui le symbole de leurs
+aspirations constituaient pour Sidi Mohammed ben Youssef autant
+d'encouragements à l'adoption de positions allant dans le sens du
+plein recouvrement de ses prérogatives. Dans leurs attaques contre la
+Résidence, les nationalistes tétouanais le dépeignaient d'ailleurs
+comme « captif dans la cage française [mais] aspirant à réhabiliter
+[sa] dynastie ».
+
+
+Aux attentes des communautés, il répondit en particulier par des
+prises de position exprimant publiquement, à partir de l'été 1941 et
+au cours des six premiers mois de 1942, « son attachement aux
+traditions que [ses] ancêtres ont quasiment tous eu à cœur de
+respecter, et [sa] propre volonté de protéger [ses] sujets juifs ». Dans
+le processus de sa distanciation progressive par rapport à la
+Résidence, son attitude en la matière dépassa largement en fait, de
+par ses implications, la question des seules lois d'inspiration vichyste.
+Elle constitua, dans le cadre plus général des relations franco-
+marocaines, l'un des premiers tournants déterminants d'une
+évolution marquée depuis lors par des phases de tension entre le
+palais et la Résidence, lesquelles devaient aller crescendo après 1945
+et se terminer au début des années 1950 par un affrontement direct
+et une rupture.
+
+
+L'invitation de notables juifs aux cérémonies officielles de
+présentation des vœux, à l'occasion de fêtes religieuses ou de la fête
+du Trône, fut le prélude symbolique à ce processus. Un télégramme
+de l'Agence française d'information rapporta à cet effet, en mai 1941
+: « Les officiels français ayant montré leur étonnement [...], le sultan
+leur déclara: “Les Israélites restent sous ma protection, [et je] refuse
+qu'aucune distinction soit faite entre mes sujets, tous loyaux". » Cette
+sensationnelle déclaration fut vivement commentée par toute la
+population française et indigène 33.
+
+
+L'écho de cette déclaration se propagea rapidement. Des
+notabilités juives en informèrent le Congrès juif mondial (CJM) : «
+Sidi Mohammed [...] n'a pas hésité à déclarer [à une délégation des
+juifs de Fès] devant des chefs du Makhzen qu'il ne saurait y avoir de
+différence entre ses sujets. » Un rapport des renseignements généraux
+de Vichy, daté du 29 mai 1941, indique à ce sujet que « l'on prétend
+[en France] dans les milieux juifs [de la zone libre] que le sultan du
+
+
+Maroc s'est refusé à appliquer les lois françaises antijuives sous
+prétexte qu'il ne voyait aucune différence de loyauté dans ses sujets.
+On loue [ce] souverain et on déclare ouvertement que le
+gouvernement français pourrait lui demander des leçons de tolérance
+
+
+».
+
+
+Des délégations de notables juifs furent de nouveau reçues au
+palais en mai, juin et août 1942. Le sultan leur réaffirma leur droit à
+sa protection. Haïm Zafrani indique, à propos d'une grande réception
+donnée en juillet 1942 à Rabat, qu'une délégation « des israélites de
+Fez avait été invitée officiellement [à cette cérémonie] par l'entremise
+du pacha de cette ville. Elle comprenait des notables et deux rabbins.
+Parmi eux se trouvaient cette fois encore E. Danan, El Alouf et I.
+Cohen. Au moment où [...] la délégation s'apprêtait à quitter le
+palais, S.M. qui avait reconnu ces trois derniers notables, les fit
+appeler [...]. [Il leur déclara]: “Mon palais vous est ouvert [...]
+[venez] me trouver [en cas de nécessité]." Il eut la bonté de
+recommander lui-même à son intendant de leur faire servir du thé et
+des gâteaux traditionnels ».
+
+
+Lors d'une autre fête donnée à Casablanca en août 1942, une
+délégation israélite
+<<
+comprenant deux rabbins et trois autres
+notables, Isaâc Pinto, Mardochée Cohen et Moses Nahon, fut
+présentée [au sultan] par le pacha de la ville [...]. Après les
+félicitations et leurs souhaits d'usage formulés par la délégation, le
+rabbin Abihsera prononça une bénédiction en langue hébraïque. Le
+texte [...] traduit en langue arabe, fut ensuite remis entre les mains
+du souverain qui déclara alors aux délégués juifs : “Soyez comme vos
+ancêtres [...]. [Je] vous tiens pour égaux aux autres Marocains, sans
+aucune distinction" >».
+
+
+Dans quelle mesure la mise en œuvre des dispositions inspirées
+des lois de Vichy a-t-elle été « impactée » aussi bien par de telles
+
+
+audiences que par la prudence de Noguès ? Celui-ci devait éviter de
+brusquer les juifs plus que de raison, pour ne pas les rendre encore
+plus réceptifs à la cause des Alliés ou les pousser à susciter une
+agitation anti-française parmi les musulmans, d'autant que les
+Américains leur prêtaient une attention soutenue et que
+autre
+donnée non négligeable – les plus riches d'entre eux trouvaient appui
+auprès de l'Espagne franquiste qui, passant outre ses relations avec
+l'Allemagne, leur délivrait des certificats de naturalisation et, par le
+biais de ses consuls, les aidait à transférer leurs fonds hors de la zone
+française.
+
+
+Les visites que le Commissaire aux questions juives, Xavier Vallat,
+dut effectuer au Maroc et les constats qu'il fit, au cours de l'été 1941
+par exemple, semblent indiquer que le numerus clausus, l'aryanisation
+et d'autres dispositions antijuives souffraient de fait de dérogations,
+exceptions et retards qui ne concordaient pas tout à fait avec les
+instructions de Vichy. De fait, les écoles de l'AIU continuaient ainsi à
+fonctionner quasi normalement. Les enseignants israélites renvoyés
+des lycées français purent s'y faire recruter. Quant à l'expulsion des
+juifs des quartiers européens, elle fut limitée aux familles ayant
+acquis des maisons dans ces secteurs après le $1^{er}$ septembre 1939.
+L'obligation de déclaration de biens prévue par le dahir du 5 août
+1941 ne concerna par ailleurs que « le patrimoine dont la valeur
+dépassait 5 000 francs ». Les « meubles, effets et bijoux personnels »
+en étaient exemptés.
+
+
+Dans le même sens allait le concours que des musulmans
+apportaient à des juifs cherchant à se prémunir contre les séquestres.
+Renouant avec la tradition ayant permis naguère aux premiers
+d'éluder le paiement d'impôts ou d'échapper aux corvées imposées
+par les caïds, et aux seconds de dissimuler des biens dont ils
+appréhendaient le saccage en période de troubles, sans formalité
+
+
+autre que la « parole », des juifs procédèrent parfois à des cessions
+fictives de biens immeubles à des amis musulmans 34.
+
+
+UN TOURNANT DÉCISIF : LE DÉBARQUEMENT DU 8 NOVEMBRE
+1942
+
+
+Le débarquement du 8 novembre 1942 sur les côtes atlantiques
+du Maroc fut exclusivement américain. Le commandant en chef des
+forces alliées, le général Dwight Eisenhower, avait en effet décidé de
+ne pas y associer des troupes britanniques pour éviter les risques
+inhérents à l'hostilité suscitée parmi les Marocains musulmans à
+l'égard de l'Angleterre en raison de sa politique en Palestine.
+Commandée par le général S.D. Patton, la Western Task Force
+débarqua à Safi, Casablanca, Mohammedia (Fedala) et Kénitra (Port-
+Lyautey). Elle vint assez rapidement à bout de la résistance ordonnée
+par Noguès et ne tarda pas à faire basculer le protectorat dans le
+camp de la France Libre 35.
+
+
+Les juifs du pays célébrèrent l'événement. Au nombre de quelque
+57 000, ceux de Casablanca instituèrent à cet effet un pourim
+célébrant le « miracle » leur ayant permis d'échapper aux menaces de
+pillages et de massacres auxquelles les avaient exposés les appels à
+une « Saint-Barthélemy », prévue pour le 17 novembre, lancés par les
+doriotistes et leurs partisans. La présence de coreligionnaires parmi
+les soldats et les officiers supérieurs débarqués (tel le général Mark
+Clark) les rassura encore davantage. D'autant que ces derniers se
+mirent en devoir de protester contre les conditions de vie des masses
+juives qu'ils imputaient aux lois de Vichy.
+
+
+Les musulmans, dont les paroles d'une célèbre chanson de l'artiste
+populaire Houcine Slaoui, intitulée Les Américains, expriment sans
+doute le mieux les sentiments, virent eux aussi dans le débarquement
+
+
+et le déchargement de nouvelles cargaisons de denrées de première
+nécessité qui s'ensuivit, l'espoir d'une atténuation de la misère. Les
+nationalistes, dont certains s'empressèrent de créer à Rabat un Club
+Roosevelt, le perçurent quant à eux comme un tournant déterminant
+dans l'évolution du pays, d'autant que l'appel lancé aux Marocains
+par Roosevelt, diffusé depuis Gibraltar par radio en arabe dialectal et
+en berbère dans la nuit du 7 au 8 novembre 1942, et repris dans des
+tracts lâchés par les avions américains, présentait le débarquement en
+des termes pouvant être interprétés comme un encouragement à la
+lutte pour l'indépendance 36.
+
+
+En outre, c'est le président lui-même qui tint à informer le sultan
+des buts de guerre des États-Unis. Au fait de l'activisme des vice-
+consuls et de leurs préparatifs, c'est fort significativement que Sidi
+Mohammed ben Youssef refusa de se replier sur Fès dans la matinée
+du 8 novembre, ainsi que l'y incitait Noguès. Bien que formulée en
+termes prudents, sa réponse n'en représenta pas moins une
+ouverture » claire aux Américains :
+
+
+Nous avons été heureux de recevoir le message par lequel vous
+nous exprimez votre amitié [...], déclara ainsi le souverain.
+[Après la cessation des hostilités], lorsque les chefs de vos
+armées nous eurent affirmé qu'ils venaient [ici] non en
+conquérants mais en libérateurs et qu'ils nous en donnèrent
+des preuves tangibles [...] tous les habitants de ce pays les
+reçurent en amis [...]. Le Maroc n'a aucun désaccord avec la
+grande nation américaine dont les principes chevaleresques et
+libéraux nous sont connus. C'est dans cet esprit que nous
+avons déclaré au général-major Patton que, tant que vos
+troupes respecteront notre prestige, notre territoire, notre
+religion et nos traditions, elles pourront être assurées de ne
+
+
+<<
+
+
+rencontrer qu'amitié et coopération [...]. Il en a été ainsi de la
+collaboration franco-marocaine qui a eu d'heureux résultats au
+niveau de la prospérité et de la grandeur du Maroc. Nous
+sommes persuadés que des effets similaires naîtront du contact
+avec les États-Unis d'Amérique pour lesquels nous avons
+toujours eu la plus grande sympathie et avec lesquels nous
+avons depuis de longues années d'importantes relations
+commerciales 37.
+
+
+La Résidence savait que les chefs nationalistes allaient
+vraisemblablement suivre l'exemple du sultan et s'en tenir dans
+l'immédiat à une prudente expectative, même si des rumeurs
+incontrôlables commençaient à faire état de l'enthousiasme suscité au
+sein des élites musulmanes par l'éventualité d'un protectorat
+américain. Dans ces conditions, ce fut sur les juifs et leurs contacts
+avec les officiers et soldats, qu'ils considéraient comme des « forces
+d'invasion », que se concentra l'attention de ses services de
+renseignements. À partir du 12 novembre, elle ordonna le bouclage
+des mellahs. À Rabat, Meknès et Fès, par exemple, leurs habitants
+furent obligés de rester dans leurs quartiers, soumis à des fouilles et
+brutalisés. Il leur fut interdit de recevoir chez eux des Américains ou
+même de les saluer sous peine de prison, voire de travaux forcés. Les
+goumiers, placés autour des mellahs et en contrôlant les entrées et les
+sorties, les rançonnèrent, sous prétexte qu'il ne s'agissait que de la
+traditionnelle mouna exigée par des agents du Makhzen.
+
+
+Les fascistes européens, dont les publications antisémites
+continuèrent de proliférer – notamment un pamphlet intitulé Juifs et
+Américains, rois de l'Afrique du Nord –, ne demeurèrent pas en reste.
+Les doriotistes et des membres de la Légion des combattants du
+Maroc, qui n'avaient cessé de réclamer une application stricte du
+
+
+programme de « redressement et d'épuration >> de la Révolution
+nationale, qui juraient de lutter « contre la lèpre juive [et] pour la
+pureté française » et qui guettaient « l'occasion d'en découdre avec les
+juifs », furent du nombre de ceux qui commirent des brutalités,
+apparemment sans grand souci de la présence de troupes
+américaines.
+
+
+La presse du groupe Mas poussait à de tels agissements. Avant
+1936-1937, elle considérait les juifs comme un élément susceptible de
+servir de contrepoids aux nationalistes musulmans et, pour cette
+raison, soutenait ponctuellement le principe de leur assimilation.
+Après novembre 1942, elle se lança elle aussi dans une campagne
+antisémite dont le ton correspondait à des appels au pogrom. Son
+déchaînement rejoignit celui des animateurs de Radio-Mondial et des
+journaux de Vichy vilipendant les « agresseurs anglo-saxons » et les «
+De Gaulle, Giraud, Darlan [et] Noguès [rivalisant] dans la
+prosternation devant Roosevelt, ses juifs et ses dollars ».
+
+
+À ces diatribes s'ajoutèrent celles de la Propaganda-Abteilung et
+de ses collaborateurs qui cherchèrent eux aussi à provoquer des
+troubles en incitant les musulmans du Maroc, d'Algérie et de Tunisie
+à s'en prendre à leurs voisins juifs, en répétant que << les Nord-
+Africains savent bien qu'à l'origine de leurs malheurs se trouvent les
+juifs » et que « l'agression américaine renforce la puissance des juifs,
+accroît leur influence et leurs méfaits ».
+
+
+Les excitations antisémites ne donnèrent pas les résultats
+escomptés parmi les musulmans. Cela n'empêcha pas la Résidence de
+mettre en garde Patton contre la germanophilie des « indigènes ». Le
+général américain se laissa persuader et fit valoir auprès
+d'Eisenhower l'idée de ne pas interférer dans les affaires internes du
+protectorat, car, affirma-t-il, la situation dans le pays était plus que
+précaire et requérait le respect du prestige de la France, « autrement
+
+
+il faudrait immobiliser plus de 60 000 soldats américains pour assurer
+la pacification des tribus 38
+
+
+».
+
+
+MANIFESTE DE L'ISTIQLAL ET CONFÉRENCE D'ATLANTIC CITY
+(1944)
+
+
+Les dispositions prises par Noguès pour garder le contrôle de la
+situation n'empêchèrent pas les nationalistes musulmans de s'activer
+pour relancer leur mouvement à la faveur de la conjoncture créée par
+le débarquement, la conférence d'Anfa (janvier 1943), la rencontre
+entre le sultan et Roosevelt, et la mobilisation de plusieurs milliers
+d'hommes de tribus appelés à participer à l'effort de guerre allié.
+
+
+L'attachement de la Résidence au statu quo n'atténua en rien, non
+plus, l'impatience des juifs à son égard. Outre les marques de
+sympathie que leur témoignait le gouvernement de Washington, ils
+bénéficiaient sur place de celles d'officiers supérieurs tels que Paul P.
+Warburg, major issu d'une famille israélite de banquiers, détaché par
+Eisenhower en qualité de conseiller pour les Affaires juives auprès de
+Robert Murphy. Celui-ci estimait en réalité que les Américains ne
+devaient intervenir qu'avec une extrême discrétion en faveur des juifs
+d'Afrique du Nord, car, expliquait-il, la propagande allemande tentait
+de soulever les Arabes en insistant sur l'emprise exercée par les juifs
+sur les centres de décision à Washington et, surtout, prêtait aux Alliés
+l'intention de les porter « au pouvoir suprême en Afrique du Nord
+après la victoire ». De ce fait, disait-il, se hâter d'abroger les lois de
+Vichy équivalait à crédibiliser de telles allégations et à s'exposer à des
+« soulèvements ethniques » préjudiciables à l'effort de guerre.
+
+
+À Washington même, le secrétaire au Trésor, Henry Morgenthau,
+ne
+partageait pas cet avis. Ouvert aux doléances de ses
+coreligionnaires du Maroc, d'Algérie et de Tunisie, il imputait
+
+
+l'attitude de Murphy à la prégnance de l'antisémitisme au sein du
+Département d'État. Pour s'enquérir directement du sort de ses
+coreligionnaires d'Afrique du Nord et presser la « normalisation » de
+leur situation, il se rendit en personne à Alger. Toutefois, une fois sur
+place, il ne put qu'entériner la politique préconisée par Murphy. Les
+mesures raciales dont se plaignaient les juifs d'Afrique du Nord lui
+parurent insignifiantes par rapport à ce qui se passait dans les
+territoires d'Europe sous occupation allemande.
+
+
+Dans le cas spécifique du Maroc, le sultan tint à obtenir des
+clarifications quant à l'attitude des Américains vis-à-vis de ses sujets
+juifs et de leurs revendications. Le grand vizir, Mohammed Moqri, et
+le chambellan, Mohammed Mâameri, reçurent l'ordre de s'en
+entretenir en secret avec le conseiller spécial de Roosevelt, Harry
+Hopkins, et un officier supérieur de la suite présidentielle, le général
+Wilbur.
+
+
+Lors de la réunion tenue avec ces derniers, le 23 janvier 1943, les
+deux émissaires expliquèrent à leurs interlocuteurs qu'ils voulaient
+sonder également la vision que les États-Unis se faisaient du devenir
+du Maroc, et que « les juifs ne constituent pas [le groupe] supérieur
+au Maroc. Ils ont toujours occupé, en nombre et en influence, une
+place secondaire [...]. La situation actuelle est le résultat de plusieurs
+siècles de coexistence [car] les musulmans ont besoin des juifs et vice
+versa. Il n'y a pas de question juive au Maroc et il n'y en aura pas à
+l'avenir si la situation demeure telle qu'elle est maintenant. Des juifs
+croient que l'arrivée de troupes américaines va les placer dans des
+positions de force et d'influence par rapport aux musulmans. Cela ne
+doit pas se produire ».
+
+
+De ces entretiens, de la nécessité du maintien du statu quo
+soulignée auparavant par Noguès et, surtout, de leurs priorités
+stratégiques et militaires, les Américains déduisirent qu'il leur fallait
+
+
+éviter d'interférer dans les affaires du protectorat. Le Département
+d'État fit ainsi valoir, en réponse aux critiques du Congrès juif
+mondial, « l'absence de base légale [pour] une intervention en faveur
+des juifs du Maroc renvoyés des services publics et toujours empêchés
+de reprendre leurs activités dans le cinéma, la radio et [d'autres
+secteurs] » et la facilité avec laquelle « la propagande nazie risquait
+de faire croire aux populations musulmanes [...] que tout l'effort de
+guerre des États-Unis était entrepris à l'instigation et sous la direction
+des juifs », ajoutant que c'était là l'une des raisons pour lesquelles le
+gouvernement américain hésitait à dénoncer officiellement la
+<<<
+Solution finale » et le génocide perpétré par les nazis. C'était donc au
+sultan, « habitué comme il l'était depuis des siècles », qu'était laissé «
+le soin de gérer les réclamations des juifs de son pays
+
+
+39
+
+
+».
+
+
+La priorité était à la progression des troupes alliées vers la Tunisie
+et le sud de l'Europe. Plusieurs milliers de Marocains musulmans
+furent mobilisés à cet effet et prirent part, à compter de la fin de
+l'année 1942 et début 1943, à des batailles décisives en Tunisie, en
+Italie et, par la suite, en France et en Allemagne. Les nationalistes
+puisèrent dans les lourds sacrifices consentis sur divers fronts par
+leurs compatriotes des arguments supplémentaires à l'appui de leurs
+revendications. Allal Fassi, exilé au Gabon en 1937 et approché en
+1942 par un envoyé de De Gaulle, venu lui demander de soutenir la
+France Libre, avait exigé une reconnaissance officielle du principe de
+l'indépendance du Maroc. Le manifeste du 11 janvier 1944 officialisa
+cette revendication.
+
+
+En se référant eux aussi à la « vraie France » et aux principes au
+nom desquels « l'homme du 18 juin » s'était dressé contre Vichy et
+l'occupant allemand, les nationalistes tenaient un discours qui devait
+en principe remporter l'adhésion des élites modernistes juives. Un
+rapport des services de renseignements français indique en effet à ce
+
+
+propos que « les nationalistes veulent entraîner les juifs dans leurs
+revendications. Déjà en 1937 il y eut des tentatives dans ce sens. Mais
+[ceux-ci] ont peur de se trouver face à face avec les musulmans si les
+Français partaient. Certains [d'entre eux] ont versé [de l'argent] à la
+caisse nationaliste en s'abstenant de signer [le manifeste] ».
+
+
+Pareille attitude prévalut aussi après le déclenchement des
+manifestations provoquées entre les 29 janvier et 15 février 1944 par
+l'arrestation de chefs de l'Istiqlal, accusés d'« intelligence avec
+l'ennemi ». De Gaulle et Gabriel Puaux, nommé en juin 1943 à Rabat
+à la tête de la Résidence où pullulaient encore de
+<<
+fervents
+pétainistes et partisans de la collaboration avec l'occupant » (Ch.-A.
+Julien), ordonnèrent en effet une répression féroce, ponctuée
+d'arrestations, de rafles, de torture et de regroupement de plusieurs
+milliers de personnes dans des camps. Des tracts (« Civilisation ou
+sauvagerie ? ») distribués par les nationalistes stigmatisèrent, au nom
+des « principes de 1789 », la brutalité des méthodes utilisées contre
+les manifestants et lors des perquisitions, assimilées par Allal Fassi à
+celles de la Gestapo. Des appels à la solidarité furent de nouveau
+lancés en direction des élites juives.
+
+
+Les autorités françaises, toujours méfiantes à l'égard de ces élites,
+prirent des mesures pour neutraliser tout risque de « collusion
+>>
+pendant les deux semaines que durèrent les troubles. Ainsi, au
+moment même où, outre leur quadrillage par des troupes
+sénégalaises et le stationnement de blindés de la division Leclerc dans
+les cimetières, les médinas étaient privées d'eau, d'électricité et de
+nourriture, les mellahs étaient « protégés » par ces mêmes goumiers
+qui avaient été lâchés sur leurs habitants en novembre 1942 mais qui
+reçurent l'ordre, en février 1944, de rester à l'extérieur de ces
+quartiers.
+
+
+Au quotidien, les masses juives se préoccupaient d'abord de leur
+subsistance. $\hat{A}$ l'atténuation de leurs difficultés contribuait, depuis
+novembre 1942, l'aide alimentaire, vestimentaire et médicale fournie
+par le Joint Distribution Committee et d'autres grandes organisations
+juives américaines. Sa répartition sur place était en partie assurée par
+les responsables du mouvement sioniste.
+
+
+Ces derniers se préparaient à prendre activement part aux travaux
+de la conférence de guerre initialement prévue en mai 1944 à New
+York, mais reportée à novembre à Atlantic City. Le programme
+proprement politique de leurs délégués provoqua la résurgence des
+antagonismes les ayant opposés avant-guerre aux partisans du statu
+quo et aux alliancistes, désireux d'être présents eux aussi à Atlantic
+City.
+
+
+Les sionistes cherchaient en fait à monopoliser la représentation
+des communautés marocaines. Leurs candidats, S.D. Lévy, Prosper
+Cohen et Moshé Murciano (représentant la zone espagnole), finirent
+par s'imposer. Deux Tangérois établis à New York les rejoignirent. Il
+s'agissait de Jacques Pinto, riche négociant, et de Haïm Toledano,
+cofondateur en 1893 de l'Association des anciens élèves de l'AIU,
+ancien rédacteur du journal La Liberté, et l'un des rares « évolués »
+ayant pressenti la marginalisation à laquelle le protectorat risquait de
+condamner ses coreligionnaires. Ensemble, ils formèrent sur place
+l'American Committee for Moroccan Jews.
+
+
+Le dynamisme dont S.D. Lévy fit preuve, son élection à la vice-
+présidence de la commission politique du congrès, le thème d'Am
+Israël bé-Eretz-Israël (« le peuple juif dans la terre d'Israël ») sur
+lequel il ne cessa d'insister, et les arguments qu'il développa pour
+démontrer l'intérêt vital que revêtaient les communautés du Maroc
+pour le judaïsme après l'extermination de « cinq millions de juifs en
+Europe », eurent des retombées déterminantes dans l'accentuation de
+
+
+l'attention portée par le CJM et les organisations sionistes au
+potentiel humain que représentaient les populations des mellahs.
+
+
+À la veille même de la tenue de la conférence d'Atlantic City, Sidi
+Mohammed ben Youssef avait d'ailleurs saisi l'occasion de la fête du
+Trône (18 novembre 1944) pour rappeler aux juifs du pays leurs
+devoirs de sujets marocains et les rassurer sur leur avenir. Alors que
+le protocole se limitait habituellement à un geste de la main en guise
+de salut aux délégués des communautés israélites qui défilaient
+devant lui, « cette année, indique un rapport des services résidentiels
+daté du 20 novembre 1944, la délégation fut priée de s'approcher du
+sultan, lequel, s'étant levé, s'est approché d'elle, lui a exprimé sa
+satisfaction de la recevoir » et a déclaré à ses membres :
+
+
+Tout comme les musulmans, vous êtes mes sujets, et comme
+tels, je vous protège et vous aime [...]. Les musulmans sont et
+ont toujours été vos frères et vos amis. Consultez vos vieillards
+et vous apprendrez que mon illustre ancêtre, Moulay Hassan,
+fut un vrai ami des juifs et qu'il a manifesté à maintes reprises
+une nette sollicitude à leur égard [...]. Je puis vous assurer
+que, de mon côté, j'entends conserver vis-à-vis de vous et de
+vos coreligionnaires la même considération et vous faire
+bénéficier de la même sollicitude [...].
+
+
+Tout autre était l'état d'esprit du résident général, Gabriel Puaux,
+et de son « éminence grise », Philippe Boniface, patron de la Direction
+des affaires politiques (DAP) et l'un des maîtres d'œuvre de
+l'opération  intelligence avec l'ennemi
+>>
+montée de concert en
+janvier 1944 avec la Sécurité militaire pour briser l'Istiqlal. L'un et
+l'autre se focalisaient à l'époque sur l'élaboration de « réformes »
+censées détourner les musulmans de l'idée d'indépendance et
+
+
+examinaient les moyens de « dresser les Berbères contre les Arabes ».
+Hostiles au sultan, auquel ils reprochaient sa « collusion » avec
+l'Istiqlal, alors que, d'après eux,
+<<<
+le mot indépendance devait
+disparaître des bouches et des cœurs », ils laissaient S.D. Lévy et ses
+amis « organiser de façon [plus] méthodique le mouvement sioniste
+dans tout le Maroc » et, partant, préparer l'exode massif des juifs du
+pays.
+
+
+Premiers exodes. Lutte pour
+l'indépendance (1945-1956)
+
+
+LES JUIFS DANS LE CONTEXTE GÉNÉRAL D'APRÈS-GUERRE
+
+
+Les relations intercommunautaires évoluèrent après 1945 dans un
+contexte marqué plus particulièrement par la radicalisation de la lutte
+pour l'indépendance, le tournant que représenta à cet égard le
+discours prononcé par le sultan le 10 avril 1947 à Tanger, l'opposition
+catégorique de la France à toute remise en cause du protectorat, les
+répercussions du conflit israélo-arabe et l'influence croissante du
+sionisme parmi les populations juives. Celles-ci n'étaient plus
+appelées à se limiter à une contribution matérielle à l'édification du
+Foyer national juif, mais à accomplir leur aliya.
+
+
+Les appels dans ce sens allèrent de pair avec l'augmentation de
+l'aide du Joint. Les apports multiples de cet organisme et ses
+distributions de denrées alimentaires et de vêtements aux couches les
+plus démunies, dans les mellahs urbains et les zones rurales et
+excentriques, furent d'autant plus appréciés que leurs bénéficiaires se
+trouvaient en butte à la terrible sécheresse et à la famine qui
+ravagèrent le Maroc en 1945. Ľaccroissement du volume de ces
+secours rendit les masses encore plus perméables aux idées
+véhiculées en partie par le biais d'associations culturelles telles que
+Maghen David, Hoveve Hassafa, Nehim Zeniroth et Koutza Ben
+Yehouda, fortement dynamisées par des dons américains.
+
+
+Cette matérialisation de la solidarité juive eut un impact d'autant
+plus fort dans les mellahs que c'est sur « le retour à ces valeurs » que
+s'était focalisé le discours sioniste quasiment depuis la création des
+premières cellules secrètes, mises en place avant 1912 à Essaouira,
+Tétouan, Fès et Sefrou. Au cours des années 1920 et 1930, les
+
+
+activistes sionistes accrurent l'efficience de leur propagande en
+faisant des synagogues, avec l'appui de rabbins de renom, l'un de
+leurs relais. Leur insistance sur la dimension spirituelle de leur
+mouvement et l'assimilation de l'émigration en Palestine à une «
+montée en Terre sainte » (Aliya) conféraient une sorte de sacralité à
+leur discours, comparable dans une certaine mesure à celle que les
+nationalistes musulmans avaient imprimée au leur à partir de 1930
+par le recours à l'espace inviolable des mosquées, notamment lors de
+la commémoration chaque 16 mai du « dahir berbère ».
+
+
+Les prédispositions à l'exode furent, en tout cas, favorisées par la
+conjonction de toutes ces initiatives. Les départs des campagnes vers
+les grandes villes, surtout Casablanca, en étaient l'une des étapes,
+d'autant que les habitants de petits mellahs du Haut-Atlas, par
+exemple, avaient commencé, pendant les années 1930 déjà, à opérer
+des « sauts de puce » les ayant conduits d'Amizmiz, Imintanout et
+Demnate à Marrakech, puis à Casablanca. Sous l'impulsion de
+l'Agence juive, ce phénomène devait s'accélérer à partir de 1947-
+1948. Les populations des mellahs furent en effet appelées à effectuer
+leur aliya et à prendre directement part à l'édification de l'État
+d'Israël. La Fédération sioniste de France (FSF) exhorta ainsi, par la
+voix de Prosper Cohen, l'un des délégués à Atlantic City, « les
+Israélites marocains à s'associer à la libération de la Palestine [afin
+d'assurer] le retour des juifs au pays de leurs ancêtres ».
+
+
+Le sultan était manifestement alarmé par les courants qui
+traversaient les communautés juives, en particulier depuis novembre
+1942. Il n'avait sans doute pu que s'offusquer des démarches de
+responsables du mouvement sioniste, ayant réclamé à la Résidence,
+en mars 1945, la reconnaissance de leurs groupements au Maroc et
+souligné l'urgence de l'octroi à la communauté israélite d'un statut
+spécial de minorité « permettant aux juifs marocains d'échapper à la
+
+
+juridiction du Makhzen et de relever des tribunaux français au même
+titre que les étrangers ». Ce fut avec un tel background et dans le
+contexte de l'évolution de la situation en Palestine que le souverain
+s'empressa, à son retour de Tanger – où il avait exprimé, le 10 avril
+1947, sa solidarité avec la Ligue des États arabes et provoqué une
+vive tension dans ses rapports avec la Résidence  , de convoquer au
+palais les représentants des communautés juives et de les inciter à
+rappeler à leurs coreligionnaires leur qualité de Marocains.
+
+
+Pour sa part, l'écrasante majorité de la population musulmane, en
+butte à la sécheresse, à l'invasion acridienne, au typhus, aux
+réquisitions et aux spéculations de riches négociants et de notables
+ruraux accroissant leur patrimoine foncier à la faveur de la famine
+précisément et de la pénurie, ne prêta, avant 1947-1948, que peu
+d'attention aux profonds et rapides changements qui étaient en train
+de se produire dans les mellahs. Elle ne vit dans l'installation de «
+soupes populaires » et le déversement de ballots de friperie étrangère
+au profit des juifs qu'un effet louable (et peut-être enviable, comme
+devait l'indiquer Mohamed ben Hassan Ouazzani) de la compassion
+de philanthropes américains face au dénuement de leurs frères.
+
+
+PRIORITÉS DES NATIONALISTES ET ÉCHOS DU CONFLIT ISRAÉLO-
+ARABE
+
+
+Au lendemain de la guerre, le gouvernement français tenta de
+réduire la tension au Maroc en procédant au remplacement de
+Gabriel Puaux par l'ambassadeur Eirik Labonne. En sus du lancement
+de mesures destinées à améliorer le sort des fellahs, l'un des
+principaux gestes d'apaisement du nouveau résident fut
+l'élargissement des chefs nationalistes arrêtés en 1937.
+
+
+Le retour d'Allal Fassi et de Mohamed ben Hassan Ouazzani en
+1946, l'un de son exil au Gabon et l'autre de sa résidence surveillée
+dans le Sud, donna lieu à des cérémonies organisées en leur honneur
+par leurs partisans respectifs. Des notables juifs y prirent part, à Fès
+par exemple, pour témoigner leur sympathie aux deux zaïms. Que ces
+visiteurs n'aient agi que dans le cadre des traditions d'amitié liant les
+notables du mellah à ceux de la médina ou aient été mus par d'autres
+considérations, la conjoncture et l'envergure des deux chefs n'en
+conféraient pas moins une signification politique à leur présence
+parmi les délégations venues de diverses régions les saluer et
+réaffirmer leur détermination à poursuivre la lutte pour
+l'émancipation du pays.
+
+
+À cette lutte prenaient part surtout les juifs membres ou
+sympathisants du Parti communiste marocain (PCM), qui appelait lui
+aussi depuis 1946 à la lutte pour l'indépendance. Son engagement
+sur cette voie était facilité par sa proximité avec l'Union générale des
+syndicats confédérés du Maroc (UGSM) dont un certain nombre de
+cadres étaient des juifs marocains ou étrangers. Il était de ce fait sans
+doute mieux placé que ses rivaux, notamment le PI, pour mobiliser
+les travailleurs contre le régime colonial. Et ce dans un contexte
+général marqué, à partir d'avril 1947 précisément, par le massacre de
+civils à Casablanca perpétré par des tirailleurs sénégalais à la veille de
+la visite du sultan à Tanger, la détérioration des relations entre celui-
+ci et le résident général Juin (puis son successeur, le général
+Guillaume), la focalisation de l'attention des nationalistes sur le
+projet de cosouveraineté de la Résidence, la recherche de l'appui de
+la Ligue arabe et des États musulmans à la cause marocaine à l'ONU,
+le vote par l'ONU du plan de partition de la Palestine et le
+déchaînement des passions après la création de l'État d'Israël.
+
+
+Un tel climat et les menées tendant à créer la panique et à
+précipiter l'exode des populations juives étaient propices à la
+multiplication dans le pays d'incidents entre juifs et musulmans.
+D'autant que la Résidence, censée veiller au respect de l'ordre public,
+n'était pas mécontente de voir éclater des affrontements susceptibles
+de discréditer la cause nationaliste devant les instances onusiennes.
+Ayant soutenu la création de l'État d'Israël, le gouvernement français
+ne pouvait que se réjouir des coups qu'il portait à l'Égypte et, par
+ricochet, aux nationalistes maghrébins qu'elle soutenait.
+
+
+Pour éviter les troubles, surtout après que se furent amplifiées les
+nouvelles du Moyen-Orient et que, sur place, le colportage de
+rumeurs sur « l'empoisonnement par les juifs de puits, de boissons
+[limonades] et de pain » eut créé un climat de « grande peur », le
+sultan essaya de rétablir le calme. Il fit publier à cet effet un
+communiqué (23 mai 1948) appelant la population à préserver les
+liens traditionnels de cohabitation intercommunautaire et à ne pas se
+laisser entraîner dans le conflit qui venait d'éclater en Palestine.
+
+
+Les sujets musulmans furent mis en garde contre les dangers de l'«
+anarchie » et pressés de « ne pas [molester] les juifs marocains même
+si les sionistes ont attaqué [les] frères [arabes] de Palestine ». Après
+que le sultan eut expliqué aux Israélites que
+<<
+les Arabes n'en
+voulaient pas aux juifs [en tant que tels], ne nourrissaient aucune
+haine à leur égard, n'avaient pour but que la défense de ce qui fut la
+première Qibla (direction de la prière) », il leur rappela qu'ils <<<
+[vivaient dans le pays] depuis des siècles, [étaient] placés sous sa
+protection » et étaient « différents de ces juifs errants qui viennent de
+divers pays, convergent vers la Palestine et cherchent à en prendre
+injustement possession ». Il leur fallait, affirma-t-il, « ne pas oublier
+[...] qu'ils sont marocains, ont droit à [sa] bienveillance et ont trouvé
+[en lui] le meilleur défenseur de leurs droits en différentes
+
+
+circonstances ». En raison à la fois de leur appartenance marocaine et
+de la « totale solidarité [qu'il a lui-même exprimée] aux rois et aux
+présidents arabes », ils devaient, insista-t-il, s'abstenir de << toute
+action visant à aider les agresseurs sionistes », sous peine d'une <<<
+remise en cause de leur statut et de leur nationalité marocaine ».
+
+
+PREMIERS DÉPARTS MASSIFS ET MARCHE VERS L'INDÉPENDANCE
+
+
+Ces exhortations et ces mises en garde n'atténuèrent en rien la
+tension prévalant dans le pays. Des incidents finirent par se produire
+en juin 1948 à Oujda, plaque tournante à partir de 1947 de
+l'émigration clandestine vers l'Algérie, puis Israël. Les conditions de
+leur déclenchement demeurent obscures. En ressortent surtout
+l'absence à son poste du chef de région « pour cause d'invitation à un
+mariage », l'agression au couteau d'un musulman par un juif, le
+déchaînement d'une foule en colère contre les coreligionnaires de ce
+dernier et la lenteur de l'intervention des forces de l'ordre. En
+l'absence de réaction immédiate des autorités, la nouvelle de l'émeute
+se propagea rapidement. Elle parvint en particulier à Jerrada, où la
+tension était déjà vive du fait de menaces de grève et du renvoi
+d'ouvriers dans leurs régions d'origine, dont le Sous. D'autres juifs
+furent agressés, blessés ou tués dans ce centre minier.
+
+
+Les nationalistes furent accusés d'avoir provoqué ces incidents.
+Eux-mêmes mirent en cause des agitateurs sionistes. Ils incriminèrent
+aussi le chef de région. D'autant que les juifs d'Oujda eux-mêmes
+semblent l'avoir suspecté et que, pour couper court aux doutes dont il
+était l'objet, il prit les devants en leur proposant 5 000 visas de sortie
+en échange de leur accord pour que ne comparaissent au procès des
+émeutiers que de simples comparses et que ne soit pas exigée la
+présence des témoins les plus gênants.
+
+
+Les communautés juives du Maroc en 1950
+
+
+Tanger
+Arzila
+
+
+MER MÉDITERRANÉE
+
+
+Tétouan
+
+
+Larache
+
+
+El Ksar el Kbir
+
+
+Souk el Arba
+
+
+Quezzane
+
+
+Port Lyautey
+Rabat
+
+
+Oujda
+
+
+El Aïoun
+
+
+Meknès
+
+
+Fès
+
+
+Casablanca
+
+
+Msoun
+Guercif
+
+
+OCÉAN ATLANTIQUE
+
+
+Fedala
+
+
+Mazagan
+
+
+• Berrechid
+ Benahmed
+
+
+Sefrou
+• Boulmane
+
+
+•
+
+
+Taourirt
+
+
+Debdou Berguant
+
+
+Outat el Hadj
+
+
+Settat
+
+
+Mogador
+
+
+Marrakech
+
+
+Agadir.
+
+
+ Tiznit
+
+
+Bouizakarne
+
+
+Safi
+
+
+El Kelaa
+
+
+Oued Zem Khenifra
+• Boujad
+Kasba Tadla
+Beni Mellal
+• Quaouizert
+Rich
+Azilal
+Ait Mehammed Ksar es Souk
+Goulmima
+Aït Ourir Demnat
+Tinerhir
+Aït Ali
+• Tinjdad Erfoud
+•
+Skoura El Kelaa des Mgouna
+Rissani
+Ouarzazate
+Tazenakht Agdz
+
+
+Imi N'tanout
+•
+Amizmiz
+Amassine
+
+
+Arazan
+Tagounit Taliouine
+Tafraout
+
+
+Zagora
+
+
+Tondrara.
+
+
+• Midelt
+
+
+Talsint
+
+
+Boudenib
+
+
+100 km
+
+
+Source: André Chouraqui, Juifs d'Afrique du Nord, Paris, PUF, 1952.
+
+
+Population juive
+
+
+Plus de 20 000
+
+
+De 10 000 à 19 999
+
+
+De 5 000 à 9 999
+
+
+ De 1 000 à 4 999
+
+
+De 100 à 999
+
+
+Moins de 100
+
+
+Divers journaux, tels que La Terre retrouvée, ne retinrent que « le
+massacre d'innocents perpétré par des musulmans ». Ils en tirèrent
+argument pour justifier et encourager l'émigration, affirmant à cet
+égard qu' un pogrom comme celui d'Oujda met en lumière
+l'incertitude du sort des juifs qui ne peuvent devenir ni des Marocains
+ni des Français ». Mais comme ils focalisaient toute leur attention sur
+l'accentuation de la tension entre le sultan et le résident, ainsi que sur
+les événements du Moyen-Orient, les dirigeants des partis
+nationalistes ne réagirent pas avec suffisamment de vigueur à de
+telles prises de position. Le pacte conclu entre le PI et le PDI
+comportait pourtant une clause spécifiant qu'ils considéraient comme
+<< Marocains sujets de S.M. le sultan, les juifs qui n'avaient pas une
+nationalité étrangère et n'adhéraient pas au sionisme ».
+
+
+Le PCM, qui comptait dans ses rangs environ 500 juifs en 1948,
+ne fut d'ailleurs pas associé à ce pacte. Il y vit la volonté des partis <<<
+bourgeois » de le marginaliser et rejeta l'« ostracisme » avec d'autant
+plus de force qu'il militait lui aussi pour l'indépendance et
+représentait, de par la cohabitation en son sein de musulmans, de
+juifs et de chrétiens, une sorte d'espace modèle de l'entente
+intercommunautaire. Lorsque la répression s'accentua et s'abattit en
+1952 sur les nationalistes, il fut en effet interdit au même titre que
+l'Istiqlal. La tension atteignit son paroxysme avec la déposition et
+l'exil, le 20 août 1953, de Sidi Mohammed ben Youssef. Le complot
+ourdi par le général Guillaume avec l'appui de forces rétrogrades
+radicalisa encore plus le combat pour l'indépendance. Le recours à la
+lutte armée commença dans les villes. Dans les montagnes du Rif et
+de l'Atlas, une Armée de libération ne tarda pas à se former  les
+armes des résistants venant d'Égypte.
+
+
+La lutte pour l'indépendance, la défaite subie par les Français à
+Diên Biên Phu face aux Vietnamiens, et leur volonté de concentrer
+leurs efforts militaires sur l'Algérie à partir de novembre 1954 finirent
+par inciter le gouvernement de Paris à envisager le retour sur le trône
+du sultan exilé et à rechercher une formule d'autonomie ou «
+d'indépendance dans l'inter-dépendance » préservant l'essentiel des
+intérêts français.
+
+
+Dans la tourmente que le pays eut à traverser entre 1953 et 1955,
+les notables juifs restèrent pour la plupart dans l'expectative. Les
+masses des mellahs, quant à elles, furent activement poussées à
+l'émigration par les envoyés de l'Agence juive, laquelle avait réussi à
+obtenir du résident général Juin, nommé en remplacement de
+Labonne en 1947 immédiatement après le discours de Tanger, la
+reconnaissance de Qadima. Cet organisme était chargé de superviser
+et d'organiser la logistique des rassemblements, du transport depuis
+
+
+les localités les plus reculées et des départs, notamment ceux des
+jeunes. Juin, qui dès son arrivée à Rabat se montra déterminé à briser
+le mouvement nationaliste et à déposer le sultan en cas de nécessité,
+encouragea aussi de facto l'exode en présentant l'indépendance du
+pays comme une régression devant faire « retomber les juifs sous le
+statut de dhimmis » et annihiler les acquis de l'émancipation et du
+mieux-être auxquels le protectorat français était supposé les avoir fait
+accéder depuis 1912.
+
+
+Qadima fut d'autant plus efficiente que les chefs nationalistes
+concentraient tous leurs efforts sur la mise en échec du projet de
+cosouveraineté que la Résidence voulait imposer et sur le retour du
+sultan exilé. Ce fut dans ce contexte que près de 90 000 juifs
+quittèrent la zone française entre 1948 et 1956, principalement à
+destination d'Israël. C'est alors qu'ils s'en allaient par vagues
+successives que s'accéléra la marche vers l'indépendance. Ce
+processus fut ponctué entre novembre 1955 et mars 1956 par les
+pourparlers d'Aix-les-Bains, les négociations de La Celle-Saint-Cloud
+et le retour de Sidi Mohammed ben Youssef à Rabat, après un court
+passage par Paris où il reçut diverses délégations marocaines, dont
+celle de notables juifs. Des coreligionnaires de ces derniers firent
+explicitement le choix d'adhérer à l'édification d'un Maroc nouveau.
+Telle fut l'option retenue par de jeunes juifs poursuivant leurs études
+en France. Dès mai 1955, bon nombre d'entre eux élaborent et
+lancent à Paris un manifeste revendiquant l'indépendance.
+
+
+« De façon moins spectaculaire, écrit Simon Lévy, des contacts se
+multiplient au niveau des commerçants ou des professions libérales.
+Des services sont rendus aux nationalistes [...]. Le docteur Léon
+Benzaquen plaide la cause du Maroc devant le Congrès juif mondial.
+À mesure que la lutte populaire s'intensifie dans les derniers mois de
+1955, d'autres sortent de leur réserve, adhérant à l'Istiqlal ou au PDI.
+
+
+Au moment où tout le peuple sera dans la rue, les juifs ne seront pas
+absents. >>
+
+
+Ceux-ci partagèrent l'enthousiasme de leurs compatriotes
+musulmans lors du retour effectif du sultan à Rabat, le 16 novembre
+1955, et de l'annonce officielle par la France, le 2 mars 1956, de
+l'indépendance du pays. La présence d'un juif au sein du premier
+gouvernement et la nomination de quelques-uns de ses
+coreligionnaires à de hautes responsabilités dans divers départements
+ministériels et les directions qui en relevaient traduisirent en termes
+concrets la reconnaissance de leurs droits de citoyens et la volonté de
+les associer à la gestion des affaires de leur pays. Ces initiatives
+n'atténuèrent pas pour autant les répercussions des événements du
+Moyen-Orient, puisque avant même que la situation ne soit stabilisée
+et que l'État ne soit en mesure d'exercer un contrôle effectif sur
+l'ensemble du territoire national était déclenchée en octobre 1956 1'<<
+expédition de Suez ».
+
+
+CHAPITRE IV
+
+
+Les juifs du Maroc des années
+1950 à aujourd'hui
+
+
+De l'euphorie aux incertitudes
+
+
+Une atmosphère de véritable euphorie marque le retour d'exil du
+sultan Sidi Mohammed ben Youssef et de sa famille. Estimées à près
+de deux millions, des foules compactes venues de toutes les provinces
+à partir des 15-16 novembre 1955 envahissent l'esplanade du palais,
+les avenues de Rabat et les alentours de la tour Hassan, là
+précisément où le souverain devait prononcer le 18 novembre le
+discours du Trône annonçant l'indépendance. Dans les autres villes et
+les campagnes, l'ambiance est également à l'enthousiasme, avec
+distribution de photos du sultan en djellaba blanche et « tarbouche
+watani », force drapeaux et fantasias. La liesse se poursuit après la
+proclamation officielle de l'indépendance le 2 mars 1956. Quoique
+travaillée par toutes sortes d'incertitudes sur son devenir, la
+population juive partage l'allégresse générale. Des personnalités
+israélites avaient d'ailleurs été reçues par le sultan lors de son séjour
+en France, à Saint-Germain-en-Laye. Le secrétaire général du Conseil
+
+
+des communautés, Jacques Dahan, fit part au souverain des
+manifestations de joie spontanées qui se sont produites [parmi ses
+coreligionnaires] à l'annonce du retour de Sa Majesté ». Ce à quoi le
+sultan répondit en exprimant sa satisfaction de « l'attachement que
+les Israélites témoignaient à sa dynastie et à sa personne », et déclara
+: « Les Israélites marocains sont des citoyens de plein droit comme
+leurs compatriotes musulmans », ajoutant : << Vous vivrez dans
+l'égalité la plus absolue et dans la liberté. »
+
+
+<<
+
+
+Reçu en premier, quelques jours avant l'audience accordée à une
+délégation du Congrès juif mondial (CJM) puis à celle de l'Alliance
+israélite universelle conduite par René Cassin (9 novembre 1955), le
+fondateur du Parti national marocain (PNM), Joe Ohana, avait
+déclaré devant le sultan : « Le deuil qui a frappé tant d'Israélites au
+Maroc, à l'heure cruelle de votre départ, persistera jusqu'au jour
+prochain où nous glorifierons le retour de Votre Majesté au Maroc
+[...]. Dans nos cœurs et nos esprits à aucun moment Vous n'avez
+cessé de régner [...]. Votre retour sera [...] pour nous [...] l'aube
+d'une ère nouvelle, ère d'égalité entre vos sujets israélites et
+musulmans. » Malgré le puissant mouvement d'émigration massive
+vers Israël enclenché en 1948, et la nouvelle impulsion qu'il reçut en
+1956 par suite de l'expédition franco-anglo-israélienne de Suez, en
+dépit de la crainte d'une « régression » qu'alimentait la propagande
+d'organisations semant le doute sur l'avenir des juifs au Maroc, les
+espoirs étaient très vifs parmi les juifs, en 1955-1956, d'instauration
+d'un climat de concorde propice à la participation de tous les citoyens
+du pays, musulmans et juifs, à l'édification d'un Maroc indépendant,
+démocratique et prospère. Espoirs que nourrissait le discours
+prononcé par le sultan le 18 novembre 1955, à son retour à Rabat. Le
+souverain avait évoqué la nécessité d'une mobilisation de toutes les
+énergies, une transformation en profondeur des habitudes, des
+
+
+institutions et des méthodes de gouvernement, impliquant « une
+émancipation de l'individu, lui assurant dans la sécurité la jouissance
+de toutes les libertés ». C'était, affirmait-il, « le moyen le plus sûr de
+faire bénéficier [le peuple] à la fois de l'évolution du monde moderne
+et des avantages du régime démocratique excluant toute
+discrimination raciale et s'inspirant de la Déclaration universelle des
+droits de l'homme ». Dans la définition des missions qui devaient être
+assignées à « un gouvernement responsable et représentatif issu de la
+volonté du peuple », il fut solennellement rappelé que « les Marocains
+israélites [bénéficiaient], évidemment, des mêmes droits que les
+autres Marocains ».
+
+
+Le président du Conseil des communautés exprima dès le 19
+novembre son adhésion à ce programme et sa gratitude au sultan. Le
+fondateur du PNM, Joe Ohana, proche de Ben Barka, et qui fut au
+nombre des personnalités juives présentes à l'aéroport de Rabat-Salé
+pour accueillir le sultan à son retour d'exil, essaya quant à lui de
+provoquer un choc parmi ses coreligionnaires. Il publia dans le
+Maroc-Presse du 22 novembre un article retentissant intitulé
+<<<
+Conscience nationale » et axé sur la nécessité pour les citoyens juifs
+de dépasser le communautarisme en commençant par la remise en
+cause du Conseil et des comités de communautés, considérés comme
+non représentatifs, voire anachroniques. Il s'agissait, affirmait-il, de
+mettre en place de nouvelles conditions pour que « les Israélites
+[puissent] œuvrer dans l'union [et] aboutir rapidement à [une]
+intégration rapide, totale et définitive dans la nation marocaine, dans
+le respect de leurs traditions religieuses ».
+
+
+Le parti de l'Istiqlal approuva ces appels. Près d'un mois après le
+discours du Trône, il tint un congrès extraordinaire et adopta une
+motion rappelant ses principes et sa doctrine prévoyant
+<<
+l'instauration d'un régime de démocratie politique, économique et
+
+
+sociale, sur la base de l'égalité de tous les nationaux marocains, sans
+distinction de classe ou de confession ». Il déclara que « les Israélites
+marocains sont des nationaux du pays dans toute l'acception
+historique et juridique du terme » et qu'il importait qu'ils aient « la
+jouissance et l'exercice des droits et des libertés reconnus à leurs
+concitoyens musulmans, dans l'égalité la plus complète et qu'ils
+[devaient] en conséquence faire partie intégrante de la communauté
+marocaine » sans que cette intégration puisse « porter atteinte à
+l'exercice de leur culte, ni à leur statut personnel ». La motion
+demanda que << l'égalité de tous les citoyens marocains, sans
+distinction de classe ou de religion, soit hautement proclamée et
+consacrée dans les textes de loi ».
+
+
+La nomination du Dr Benzaquen à un poste de ministre dans le
+premier gouvernement formé après le retour d'exil du sultan
+s'inscrivait dans ce contexte. Cette initiative à forte charge
+symbolique était à destination des Marocains musulmans et juifs, des
+puissances occidentales et de l'opinion publique internationale. Le
+gouvernement fut investi le 7 décembre 1955. Après l'audience que
+lui accorda le sultan, Benzaquen déclara : « Sa Majesté a souligné que
+j'étais là en tant que ministre marocain », puis, s'adressant à ses
+coreligionnaires, il devait ajouter : « Les juifs marocains doivent
+s'atteler au travail sans délai. Ils doivent garder [...] leur foi, leur
+culture et leur éthique [...]. Il n'y a pas d'incompatibilité entre cela et
+la citoyenneté marocaine. » L'appel effectif aux compétences de
+citoyens de confession juive et leur nomination à de hauts postes au
+gouvernement et dans la fonction publique représentaient autant de
+prémices d'une intégration qui pouvait donner à réfléchir en
+comparaison de la situation prévalant à l'époque dans le reste du
+monde arabe et marquée dans certains pays du Moyen-Orient par la
+promulgation de lois de dénaturalisation des ressortissants juifs, la
+
+
+spoliation ou le séquestre de leurs biens, des poursuites pour «
+complot sioniste » et, pour ceux qui n'émigraient pas, des cartes
+d'identité distinctives. Nombre d'avocats, d'ingénieurs et d'autres
+cadres juifs marocains se retrouvèrent en 1955-1956 dans des
+cabinets ministériels, les représentations diplomatiques du royaume
+en Europe et en Amérique, ou divers autres services centraux et
+régionaux. Ils y remplirent les fonctions de conseillers ou de
+directeurs de cabinet des anciennes directions du protectorat
+transformées en ministères, ou de départements nouvellement créés,
+tel le ministère des Affaires étrangères.
+
+
+Dans le secteur économique et financier, outre la nomination de
+Raphaël Toledano en qualité de secrétaire de la Commission
+nationale des investissements et celle de David Berdugo au Service
+des fraudes du ministère de l'Agriculture, ce fut à Paul Ohana
+qu'échut la direction de la nouvelle raffinerie (Samir) construite avec
+le concours des Italiens à Mohammedia, et à Daniel Cohen que revint
+celle du Service de commercialisation de l'Office chérifien des
+phosphates. ĽOmnium nord-africain, holding hérité de l'ère coloniale,
+comptait de nombreux cadres et gestionnaires juifs. Par ailleurs, au
+moment de la création des forces armées royales, le prince Moulay
+Hassan avait appelé à Rabat des étudiants juifs, en même temps que
+des musulmans, exhortant les uns et les autres à servir leur pays dans
+l'armée. Un an plus tard (1957), ceux-ci et ceux-là se portèrent
+également volontaires pour prendre part à la construction, en sa
+présence, de la Route de l'unité, symbole de la réunification des
+anciennes zones française et espagnole.
+
+
+Des personnalités marquantes des élites musulmanes et juives
+décidèrent, au début de 1956, de fonder l'association Al Wifaq, et
+exhortèrent leurs coreligionnaires respectifs à œuvrer ensemble à
+l'édification d'un Maroc nouveau, à son développement économique
+
+
+et à l'amélioration des conditions de vie de toutes ses populations.
+Les principaux animateurs de cette association étaient pour la plupart
+des membres influents de l'Istiqlal. Ils mettaient en avant une vision
+fondée sur le sentiment de communauté de destin entre Marocains
+musulmans et juifs dans le cadre d'un État-nation garantissant la
+liberté et l'égalité à tous ses citoyens. Leur « vœu le plus cher »,
+devaient-ils déclarer, « est de bâtir un Maroc nouveau [...]. Ensemble,
+unis de cœur et d'esprit, musulmans et israélites [...] nous ferons de
+notre chère patrie une nation moderne et respectée, où règneront la
+concorde, la tolérance et la liberté [...]. Le but de Wifaq est de
+développer les contacts entre israélites et musulmans [...] pour la
+grandeur et le bonheur de notre patrie ». Le prince héritier Moulay
+Hassan, président d'honneur de l'association, leur prodiguait ses
+encouragements. Dans sa perspective, l'existence même d'Al Wifaq et
+la composition de son bureau ne pouvaient que concourir à la
+concorde intercommunautaire, à la stabilité du pays, et contribuer à
+donner du royaume en Europe occidentale et aux États-Unis l'image
+d'une  exception marocaine » dans un environnement arabe marqué
+par le déchaînement des passions provoqué par le conflit israélo-
+arabe. Ľassociation s'empressa du reste de dénoncer l « agression
+tripartite » contre l'Égypte, et de diffuser des tracts à cet effet en
+arabe, en judéo-arabe et en français rappelant qu'au « Maroc, il
+n'existe que des citoyens marocains ».
+
+
+Des initiatives concrètes prises par le gouvernement allaient dans
+le même sens. Le ministère de l'Information élargit ainsi les
+programmes de la radio nationale pour y inclure de la musique juive,
+aussi bien religieuse que profane. Des chanteurs juifs, tels Samy El
+Maghribi, Salim Hilali et Zohra Fassiya, étaient d'ailleurs populaires
+tant parmi leurs coreligionnaires que parmi les musulmans. Une autre
+mesure de grande portée symbolique fut l'introduction, sur décision
+
+
+du ministère de l'Éducation nationale, de l'enseignement de l'hébreu
+au sein du département d'arabe de la faculté des lettres de Rabat, qui
+avait pris la relève en 1957 de l'Institut des hautes études marocaines
+institution où des juifs marocains avaient préparé et obtenu leur
+diplôme d'arabe classique.
+
+
+Cela suffisait-il à infléchir l'évolution de la situation ? Plusieurs
+mouvements allaient en sens inverse des déclarations publiques des
+divers protagonistes et des objectifs d'Al Wifaq : la puissance de
+l'émigration enclenchée en 1947-1948 et les vagues successives de
+départs massifs jusqu'en 1956, les répercussions de l'expédition de
+Suez, les aléas des relations franco-marocaines, et les luttes pour le
+pouvoir entre différentes forces politiques, notamment le parti de
+l'Istiqlal et le PDI, ainsi que l'exacerbation des antagonismes au sein
+même du PI – dont l'aile gauche allait finir par créer l'Union nationale
+des forces populaires (UNFP), parti pour lequel, selon le politologue
+John Waterbury, « les jeunes juifs membres d'Al Wifaq et proches de
+Ben Barka avaient plus de sympathies qu'à l'égard de tout autre parti
+». Al Wifaq pâtissait également des divergences idéologiques et
+politiques opposant ses animateurs les plus dynamiques, ainsi que des
+tentatives déployées par les partisans de l'Istiqlal, qui cherchaient à
+en faire un instrument au service de la propagation de l'influence de
+leur parti parmi les communautés juives. Non moins problématique
+était son élitisme prononcé. Sa faible audience s'expliquait, au regard
+de Waterbury, tant par « l'indifférence et l'absence d'urgence de la
+part des membres de l'élite musulmane [que par les] hésitations et
+[les] craintes de la communauté juive ». La formation, en mai 1958,
+d'un nouveau gouvernement quasiment istiqlalien, dirigé par Ahmed
+Balafrej et ne comptant dans ses rangs aucun ministre juif, n'était pas
+de nature à atténuer de telles craintes. La mise en place, en décembre
+de la même année, d'une nouvelle équipe représentant l'aile gauche
+
+
+du PI, dirigée par Abdallah Ibrahim, qui prit la décision d'interdire les
+liaisons postales avec Israël, créa la panique parmi les juifs du pays.
+Les assurances données par le nouveau président du Conseil à leurs
+représentants et aux dirigeants d'organisations juives américaines n'y
+changèrent rien.
+
+
+Prépondérant sur la scène politique, le parti de l'Istiqlal estimait
+que les établissements de l'Alliance israélite universelle avaient servi
+la pénétration et l'influence coloniales, contribué à creuser un fossé
+culturel entre musulmans et juifs, et pratiquement aliéné ces derniers
+en créant parmi eux des conditions propices à l'émergence de
+mentalités et d'aspirations fort éloignées de celles de leurs
+compatriotes. À ces griefs s'ajoutait la coopération en matière de
+scolarisation et de formation professionnelle instaurée après la
+Deuxième Guerre mondiale entre l'AIU et les organisations sionistes.
+Du point de vue des dirigeants parisiens de l'Alliance, intégrer leur
+réseau scolaire, devenu de plus en plus dense à partir de 1945-1947,
+signifiait accepter une transformation en profondeur de la vocation
+de ces écoles. Pour eux, une telle mutation n'allait pas tarder à se
+traduire par le recul des cours portant sur la culture juive et
+nourrissant l'identité des élèves, et la réduction ou la perte des aides
+financières apportées par les grandes organisations juives américaines
+telles que l'United Jewish Appeal (UJA) qui accordait des subventions
+à l'AIU par le biais du Joint. À New York, son vice-président, A.
+Friedman, estimait qu'il « valait peut-être mieux concentrer les efforts
+sur l'émigration [dans la mesure où elle représentait] le seul moyen
+de sauver les juifs sur les plans aussi bien spirituel que physique ».
+Les dirigeants d'une autre organisation basée aux États-Unis, Ozar Ha
+Torah, dont le réseau au Maroc était supervisé par le rabbin Havivai
+Hassid Batachai, poussaient dans le même sens et cherchaient à
+concurrencer l'AIU sur son propre terrain. Financée en partie par un
+
+
+architecte et riche philanthrope, Chmouel Toledano, la yeshivah Ets
+Hayim de Tanger était dirigée par un ashkénaze, le rabbin Waltner. La
+réputation de son école fut telle que de jeunes Marocains de la
+yeshivah d'Aix-les-Bains (fondée en 1945 et dont 70 % des élèves
+étaient marocains en 1950) vinrent y poursuivre leurs études.
+D'Angleterre et des États-Unis, il était fait appel à ceux qui y avaient
+terminé leur cursus.
+
+
+Quoi qu'il en soit de l'enseignement proprement religieux, pour le
+président René Cassin, il était essentiel que les écoles de l'AIU
+puissent continuer à fonctionner sans changement majeur, car le
+Maroc était considéré comme le  bastion de l'Alliance ». Le sultan
+réitéra après mars 1956 les assurances données à cet effet à Cassin.
+Toutefois, telle n'était pas la position des dirigeants du PI, du PCM, de
+l'Union marocaine du travail (UMT) et de l'Union nationale des
+étudiants du Maroc (UNEM) qui appelaient, quant à eux, à
+l'intégration des écoles de l'AIU dans le système éducatif public
+marocain. L'AIU devait, affirmaient-ils, commencer par céder au
+ministère de l'Éducation nationale (MEN) un tiers de ses écoles et
+introduire davantage de cours d'arabe dans les deux tiers restants.
+Dans l'élaboration des programmes se posa en effet la question des
+langues. La défense du maintien de l'hébreu échut en particulier à
+Haïm Zafrani, membre de la commission royale de réforme de
+l'enseignement. Quoique en minorité, il put faire prévaloir son point
+de vue grâce au soutien du ministre de l'Éducation, Mohamed al
+Fassi, et de Mehdi Ben Barka, leader de l'aile gauche du PI autour
+duquel gravitaient un certain nombre de jeunes juifs progressistes.
+
+
+Au-delà de tous ces débats et pressions des organisations juives
+américaines, le fait essentiel est que des accords finirent par être
+conclus entre l'AIU et le MEN. Il fut en effet décidé de préserver
+l'entité AIU-Maroc (administrée par un comité constitué uniquement
+
+
+de juifs), de lui donner un « label » arabisé, Ittihad al Maghrib, de lui
+laisser les deux tiers de ses 77 écoles (comptant 28 684 élèves en
+1960), de lui verser des subventions publiques et de maintenir
+l'hébreu dans son cursus.
+
+
+Un autre problème brûlant allait surgir, celui des conversions de
+juifs à l'islam. Le Conseil des communautés israélites tint à cet effet à
+<< attirer la haute attention de [Sa] Majesté sur une question aussi
+grave que délicate, qui ne peut manquer d'émouvoir une mère de
+famille, quelle que soit sa religion : il s'agit des mariages et
+conversions de filles mineures, question qui fait ressortir une
+véritable discrimination au détriment des Israélites marocains. » Tels
+furent les termes dans lesquels fut posée la question des conversions
+dans le mémoire présenté au roi Mohammed V par une délégation du
+Conseil des communautés conduite par Léon Benzaquen et David
+Amar. Même si le nombre des jeunes juives concernées était infime,
+l'écho de leur conversion n'en fut pas moins considérable. Le parti de
+l'Istiqlal fut accusé de mener une politique systématique de
+conversion de mineures. Son chef, Allal Fassi, était alors ministre
+d'État chargé des Affaires islamiques. Son département faisait insérer
+dans les journaux des communiqués indiquant que ces jeunes mais
+aussi des chrétiens avaient embrassé l'islam. Le secrétaire général du
+Conseil des communautés, David Amar, également directeur du
+mensuel La Voix des communautés, s'éleva contre cet état de fait dans
+un éditorial de juin 1962 consacré aux « Spécial conversions ».
+Directement interpellé, Allal Fassi réaffirma à ce même périodique les
+droits des juifs marocains et déclara qu'il « n'y aura[it] jamais de
+discrimination raciale au Maroc ». Son départ après le changement de
+gouvernement survenu peu de temps après le déclenchement de
+l'affaire des  conversions » et les assurances données au Conseil par
+
+
+le roi Hassan II, sur la base des promesses faites par son père, mirent
+un terme aux alarmes des communautés.
+
+
+Le phénomène d'exode, déjà considérable entre 1948 et 1956,
+avait emporté près de 90 000 juifs avant la proclamation officielle de
+l'indépendance du pays. Un organisme, Qadima, opérant en principe
+au nom d'une association philanthropique ashkénaze servant de
+couverture à l'Agence juive avec l'aval du général Juin, y avait pris
+une part déterminante, dans un climat marqué par toutes sortes de
+spéculations alarmantes sur le devenir des juifs en cas d'accession du
+Maroc à l'indépendance. À partir de novembre 1955, des hommes tels
+que Joe Ohana, Meyer Toledano et David Berdugo appelèrent leurs
+coreligionnaires à rester dans le pays, à dépasser le cadre
+communautaire et à participer pleinement à la vie publique.
+Toutefois, et bien que s'effectuant dans des conditions difficiles, car
+considéré par le sultan, le gouvernement et les nationalistes comme
+privant le pays d'une partie du potentiel humain nécessaire à son
+développement économique et social, le mouvement d'exode massif
+se poursuivit après 1956. Il réduisit à quelque 160 000 le nombre des
+juifs du pays en 1960. Les départs étaient organisés en particulier par
+Qadima, en dépit de la fermeture officielle de ses bureaux en mars
+1956.
+
+
+Devant l'hémorragie que représentait un exode qui emportait
+chaque mois plus d'un millier de ses ressortissants, le gouvernement
+essaya de réduire le volume des départs en mobilisant les
+personnalités juives susceptibles d'intervenir auprès des instances
+supérieures qui appelaient à l'émigration et la dotaient des moyens
+logistiques. Les présidents des comités de communautés furent
+appelés à sensibiliser les grandes organisations juives, tel le Congrès
+juif mondial (CJM), censées pouvoir faire pression sur le
+gouvernement israélien, d'autant que le Conseil de ces comités avait
+
+
+adopté le 10 novembre 1957 une résolution indiquant que
+<<
+l'existence d'une émigration clandestine [était] un obstacle sérieux à
+une harmonisation complète [des] rapports [des Israélites marocains]
+avec [leurs] compatriotes musulmans et [qu'il jugeait] l'émigration
+préjudiciable tant aux intérêts de la nation qu'à ceux de la population
+juive ». Une délégation présidée par David Amar, nouveau secrétaire
+général du Conseil, se rendit à Paris à la fin novembre de la même
+année. Elle y rencontra l'ambassadeur d'Israël qui nia toute
+implication de son gouvernement dans l'émigration clandestine.
+
+
+Les dirigeants du CJM n'excluaient pas totalement le principe
+d'une suspension qui répondrait aux attentes du gouvernement
+marocain. Espérant convaincre celui-ci de légaliser les départs, ils
+mirent à profit la visite effectuée en novembre 1957 par Mohammed
+V aux États-Unis pour le convaincre de lever tous les obstacles à
+l'obtention de passeports. Nahum Goldman et ses pairs intervinrent
+directement auprès du roi. Le président Eisenhower en fit autant,
+avec tout le poids que représentaient les États-Unis sur la scène
+mondiale et au Maroc même par l'aide économique qu'ils apportaient
+au pays et les bases aéronavales et aériennes qu'ils avaient sur son
+sol. Les assurances données par le souverain à ses interlocuteurs en
+Amérique quant à « la liberté de circulation » de ses sujets juifs se
+traduisirent par une relative mais brève période d'assouplissement
+des procédures de délivrance des passeports. Dans le sens de la
+poursuite de l'émigration illégale pesaient en particulier les graves
+difficultés internes que le pays eut à traverser en 1958 et 1959, et le
+resserrement des liens avec la Ligue des États arabes. La réceptivité
+aux influences du Machreq devait s'accentuer pendant et après la
+visite effectuée en janvier et février 1959 par Mohammed Ven
+Égypte, où il eut des discussions avec le président Nasser. Au cours de
+
+
+l'étape jordanienne, le souverain se rendit à Jérusalem, y pria et offrit
+des tapis à la mosquée d'Omar.
+
+
+La présence de Nasser à Casablanca au cours de la première
+semaine de janvier 1961, à l'occasion de la tenue du sommet africain
+qui réunissait les États progressistes du continent, marqua une autre
+étape importante dans le processus de rapprochement avec le
+Machreq, de la multiplication de manifestations hostiles à Israël et
+d'une détérioration aiguë du climat intercommunautaire. Les vives
+alarmes des communautés ne disparurent qu'après l'intervention du
+Dr Benzaquen, de David Amar et David Messas (grand rabbin de
+Casablanca) auprès du prince Moulay Hassan.
+
+
+Directement prise en main par le Mossad, l'organisation de
+l'émigration clandestine était supervisée sur place par le commandant
+Alex Gatmon, premier responsable du réseau dit Misgueret et de ses
+cinq branches (autodéfense, renseignement, relations avec les
+institutions juives et les autorités, inscription et évacuation des
+émigrants). Les services marocains de sécurité n'ignoraient rien, aux
+dires de l'ambassadeur des États-Unis à Rabat, des mouvements de ce
+réseau. Dans la mesure où l'embarquement d'un nombre important
+de clandestins se faisait depuis la côte méditerranéenne, le concours
+des Espagnols était essentiel. De hautes personnalités de l'entourage
+de Franco furent sollicitées dans ce but. Gibraltar représentait aussi
+l'un des ports de transit des émigrés. Les conditions d'accueil y
+étaient encore plus favorables qu'en Espagne, en raison de la
+présence parmi la population du Rocher d'une importante
+communauté juive d'origine marocaine comprenant en particulier
+Joshua Hassan, chef du gouvernement de cette colonie britannique.
+
+
+L'émigration illégale prit dans ces conditions un rythme soutenu
+jusqu'au 10 janvier 1961, date du naufrage en Méditerranée, au large
+d'Alhucéma, d'un vieux bâtiment, le Piscès (appelé aussi Ergoz), avec
+
+
+à
+son bord une quarantaine de passagers clandestins¹. Les
+circonstances précises du drame restent difficiles à déterminer. Des
+témoignages et des rapports d'enquête invoquent, outre les
+conditions générales des départs, les erreurs d'appréciation des
+données météorologiques, les défaillances techniques du Piscès et le
+comportement de son équipage espagnol. Construit en bois, équipé
+de trois moteurs, ce bâtiment, ancienne vedette de la marine
+britannique, avait effectué plusieurs rotations entre la côte rifaine et
+Gibraltar. Toutefois, il suintait et avait un équipement radio peu sûr. À
+ces défaillances devait s'ajouter la panique des trois membres de
+l'équipage. Voyant que la coque se fendait, ils furent les premiers à se
+jeter à la mer et à utiliser pour eux-mêmes le seul canot de sauvetage
+disponible, abandonnant leurs 44 passagers à leur sort. La disparition
+de ces derniers allait marquer un tournant décisif dans l'histoire de
+l'émigration des juifs du pays à destination d'Israël. D'autant que
+survinrent au même moment le brusque décès de Mohammed V (26
+février 1961) et l'avènement de Hassan II.
+
+
+Évolution des communautés pendant
+les années 1960 et 1970
+
+
+Dans la mémoire collective des Marocains, la fin des années 1950
+et le début des années 1960 continuent de susciter toutes sortes
+d'interrogations et de conflits d'interprétations. Cette période a été
+ponctuée en particulier par la révolte du Rif, le tremblement de terre
+d'Agadir (qui fit des milliers de victimes et précipita l'émigration des
+survivants juifs) et les ravages provoqués dans le centre et le nord du
+pays par des huiles frelatées (faisant également des milliers de
+
+
+victimes). Ce fut aussi en 1961 que disparut Mohammed V, quelques
+jours seulement après l'audience qu'il avait accordée à la délégation
+conduite à la mi-février par Léon Benzaquen et David Amar. La Voix
+des Communautés exprima l'affliction générale : « Le roi Mohammed
+V n'est plus. Nous nous remémorons avec gratitude la lutte
+vigoureuse qu'il opposa à l'application au Maroc des lois [de Vichy]. Il
+y a seulement dix jours, il nous parlait de la nécessité de l'unité [...]
+de la nation, dont nous formons partie intégrante. » Des prières
+furent dites dans les synagogues pour le repos de l'âme du souverain
+défunt. Dans son message de condoléances, Saül Danan, président du
+Haut Tribunal rabbinique, formula à l'adresse de son successeur, « son
+fils bien-aimé, Hassan II », des souhaits de « bonheur, prospérité et
+longue vie », et « [le] vœu que Sa Majesté [...] soit une bénédiction
+du ciel pour notre chère patrie et pour tout le peuple marocain ».
+
+
+Après son accession au trône, le nouveau roi s'attacha à
+concrétiser les promesses de son père, portant notamment sur
+l'assouplissement des procédures de délivrance des passeports. Sa
+politique en la matière s'inscrivait dans une stratégie plus générale
+visant à mieux asseoir son pouvoir face à l'opposition et ses appuis
+extérieurs par une orientation pro-occidentale. D'autant qu'il
+mesurait pleinement la puissance des lobbies juifs en Amérique,
+ayant été lui-même, du vivant de son père, en relation avec diverses
+personnalités d'envergure, notamment Nahum Goldman, président
+du CJM.
+
+
+Dès juillet 1961, une rencontre secrète eut lieu à Paris. Y prirent
+part le commandant de la branche du Mossad au Maroc, Alex
+Gatmon, l'ambassadeur d'Israël en France, Walter Eitan, et, côté
+marocain, Abdelkader Benjelloun. La réunion avait l'aval du chef du
+gouvernement israélien, David Ben Gourion, du ministre des Affaires
+étrangères, Golda Meir, et du patron du Mossad, Issar Harel. Ľaccord
+
+
+conclu prévoyait la reprise des activités de la Hebrew Immigrant Aid
+Society (HIAS, New York) et l'autorisation de sortie de 50 000 juifs
+marocains à destination a priori uniquement de l'Europe occidentale,
+du Canada et des États-Unis. Le principe même de la légalisation de
+l'émigration demeura secret, de même que le budget, considéré du
+côté marocain comme devant couvrir les droits de timbre et les
+formalités administratives. La cadence de l'exode fut telle qu'à la fin
+de 1963 et au tout début de 1964 il restait moins de 90 000 juifs
+dans le pays.
+
+
+L'émigration allait se poursuivre à un rythme soutenu, dans une
+conjoncture difficile où l'attention du régime se portait sur
+l'opposition et l'agitation qui allait conduire aux émeutes de
+Casablanca (mars 1965), où l'état d'exception fut instauré, et où
+l'enlèvement de Ben Barka à Paris provoquait une grave crise dans les
+relations franco-marocaines. Tout aussi décisives furent les profondes
+répercussions de « la guerre des Six Jours » (juin 1967) et de la
+défaite que les Arabes, traumatisés par l'occupation par les Israéliens
+du Sinaï, du Golan et de Jérusalem-Est, qualifient de « Naqsa ».
+L'année 1967 marqua un troisième pic historique dans le mouvement
+d'émigration des quelque 65 000 juifs qui vivaient encore dans le
+pays.
+
+
+La tension fut aggravée par les appels au boycottage des services
+et des commerces tenus par des juifs. Des campagnes de presse en
+amplifièrent l'impact. Un nouveau courant de départs massifs en
+résulta. Au cours des seuls mois de juillet-octobre 1967, près de 7
+000 juifs, appartenant cette fois aux catégories socioprofessionnelles
+aisées ou riches, dont des avocats, des ingénieurs, des médecins et
+des architectes, quittèrent ainsi le pays à destination notamment du
+Canada, de la France et de l'Espagne. En peu d'années, les flux qui
+suivirent, et qui inclurent Israël, réduisirent les populations restées
+
+
+sur place à moins de 40 000 personnes. À l'instar des vagues
+antérieures, le choix de partir fut le leur, à la différence de ce qui se
+passait dans d'autres pays arabes où leurs coreligionnaires, accusés de
+« collusion avec l'ennemi sioniste », étaient expulsés.
+
+
+La « catastrophe de juin 1967 » allait radicaliser l'opposition aux
+régimes arabes. Le Maroc, secoué par le « coup » militaire de Skhirate
+(1971), l'attaque contre le Boeing royal (1972) et la tentative de
+création d'un foyer insurrectionnel dans le Moyen-Atlas (1973), se
+trouvait devant la nécessité impérieuse de rechercher l'appui des
+Occidentaux, et avec encore plus de force après la Marche verte
+organisée par le roi pour récupérer les provinces sahariennes
+occupées par l'Espagne (1975). L'ébullition qui caractérisa l'« après-
+juin 1967 », dans un pays soumis à l'état d'exception (1965-1972),
+favorisa la formation et l'activisme de mouvements clandestins,
+notamment 23 mars et Ila al Amam (En Avant). Des marxistes-
+léninistes juifs en faisaient partie. Imprégné de la doxa maoïste,
+l'ingénieur des Mines Abraham Serfaty en fut la figure emblématique.
+C'est sous son impulsion et celle du poète Abellatif Laâbi que la ligne
+éditoriale de la revue Souffles (1966-1973) subit un net
+infléchissement. Ľun et l'autre prônaient une révolution culturelle,
+conçue comme le prélude à une révolution politique. Souffles et sa
+version en arabe, Anfass, contribuèrent à élargir l'influence d'Ila al
+Amam parmi les enseignants, les étudiants et les lycéens, lesquels
+réagirent par une grève générale à leur première arrestation en
+janvier 1972. Arrêtés une deuxième fois, ils subirent le sort de bon
+nombre de militants de gauche et d'extrême gauche.
+
+
+Les juifs marocains se mobilisèrent comme les musulmans pour
+concrétiser le parachèvement de l'unité territoriale du pays. $\dot{A}$ la fois
+témoin et acteur de ce qui se passait autour de lui, Simon Lévy,
+membre du Parti du progrès et du socialisme (PPS), devait rappeler à
+
+
+ce sujet que « [les juifs qui ont choisi de rester dans leur patrie] ont
+conservé l'intégralité de leurs droits [...]. Avec la bataille du Sahara
+et le processus de démocratisation, la participation des juifs à la vie
+nationale s'est affirmée [...]. Lorsqu'il a fallu libérer le Sud marocain
+de l'occupation espagnole, [ils] se sont mobilisés, à l'unisson de tout
+un peuple [...] ». Ce fut aussi une occasion <<< historique » de
+retrouvailles avec ceux d'entre eux qui étaient établis à l'étranger et
+se ralliaient à ce qui devint depuis lors la « première cause nationale
+
+
+».
+
+
+Leur concours fut essentiel sur la scène internationale,
+principalement aux États-Unis. Hassan II sut l'apprécier et réitérer,
+comme il le fit solennellement en 1976, ses appels au retour dans
+leur pays natal de ceux qui le souhaitaient – la nationalité marocaine
+étant fondée sur le principe de l'« allégeance perpétuelle » et ne se
+perdant jamais. Ses appels et le communiqué diffusé par le
+gouvernement dans ce sens furent repris par les partis politiques et
+leurs journaux.
+
+
+Les juifs marocains dans les pays
+d'accueil
+
+
+Qu'allaient devenir les juifs marocains, ou les Marocains juifs,
+comme préférait les appeler l'écrivain Edmond Amran El Maleh, après
+leurs départs massifs et leur établissement en Israël, en Europe
+occidentale, en Amérique et ailleurs ? En vérité, leur intégration
+progressive dans divers pays d'accueil ne s'est pas déroulée selon les
+mêmes modalités et les mêmes rythmes. Les flux furent également
+différents. Israël accueillit les plus gros effectifs. Ce fut dans ce pays
+que les émigrés furent confrontés à de grosses difficultés. Les
+
+
+perceptions négatives que les Israéliens ashkénazes se faisaient de
+cette composante des « Orientaux » contribuèrent à la persistance
+d'un climat de discrimination marqué par des propos méprisants à
+l'égard des Marocains, Yéménites, Irakiens et autres Mizrayim. Cela
+commençait d'ailleurs à leur embarquement à bord de bateaux et
+avant même leur arrivée en Israël. Une fois sur place, les Olim
+(immigrants) devaient passer par des ma’barot, prétendument de
+simples camps de transit où leur séjour s'éternisait, avant qu'ils ne se
+retrouvent dans des bidonvilles de Haïfa et d'ailleurs, ou dans les
+moshav (villes de peuplement) du désert du Néguev, en lieu et place
+des logements confortables, des emplois et du mieux-être qui leur
+avaient été promis.
+
+
+Discriminés et maintenus au bas de l'échelle sociale, quelques
+degrés seulement devant les Falachas et les Palestiniens, fournissant
+de la main-d'œuvre à bon marché, et victimes du chômage, les
+marrokayim ne bénéficiaient pas non plus des possibilités que leur
+offrait la formation dispensée au Maroc par l'AIU. La démoralisation
+et la déception qui en résultèrent incitaient parfois les éléments ne
+résistant pas au découragement à supplier leurs parents, restés au
+Maroc, de les faire rentrer au pays. Plus marquantes sans doute sur la
+scène israélienne furent, de la fin des années 1950 aux années 1970,
+les réactions des immigrés, principalement ceux de la deuxième
+génération, décidés à << relever la tête
+>>
+face à l'establishment
+ashkénaze. Tel fut le cas des fondateurs du mouvement des Panthères
+noires, notamment Reuben Abergel et Saadia Marciano, tous deux
+d'origine marocaine, qui se considéraient comme solidaires non
+seulement des luttes anti-impérialistes et tiers-mondistes mais aussi
+de celle des Palestiniens. Se déclarant « juif arabe » à l'instar d'autres
+« Orientaux » (dont des Irakiens) qui se disaient « Arabes juifs », leur
+camarade Charlie Bitton, également marocain, devait déclarer que «
+
+
+depuis sa création, l'État d'Israël a[vait] aspiré à être un bastion de
+l'Occident et des États-Unis
+au Moyen-Orient. D'où
+
+
+déracinement ».
+
+
+notre
+
+
+Ailleurs dans le monde, la question de l'intégration ne se posa pas
+dans les mêmes termes et fut relativement moins ardue. En France et
+au Canada, elle fut facilitée par leur familiarité avec la langue et la
+culture françaises. Au Québec, où les émigrés commencèrent à arriver
+en nombre à partir du milieu des années 1960, à un moment de
+tensions linguistiques et de revendication d'un nouveau statut, ils
+bénéficièrent de l'appui que leur apportèrent leurs coreligionnaires
+ashkénazes installés dans le pays depuis beaucoup plus longtemps. Ils
+ne tardèrent pas à se faire une place eux aussi et à contribuer à
+l'impulsion de l'Association séfarade francophone. Ils furent
+également actifs, au début des années 1980, dans la création à
+Montréal du Rassemblement mondial du judaïsme marocain². En
+1978, les juifs marocains du Canada et leur descendance étaient au
+nombre de 20 000, ceux de France 80 000, 15 000 en Espagne,
+plusieurs milliers en Amérique du Sud, 4 000 aux États-Unis, et plus
+de 400 000 en Israël pays où leur influence sur l'issue des
+échéances électorales allait être remise en cause à partir de 1990 par
+l'afflux d'immigrés en provenance de l'ex-Union soviétique.
+
+
+Le Maroc dans le processus de paix au
+Moyen-Orient
+
+
+En décembre 1956 déjà, ce fut fort significativement que le prince
+héritier Moulay Hassan avait invité le docteur Benzaquen, qui ne
+faisait plus partie du gouvernement, à l'accompagner aux États-Unis.
+
+
+De manière tout aussi significative, il avait accepté la présidence
+d'honneur d'Al Wifaq. Après son accession au trône, ce fut à lui,
+devenu le roi Hassan II, que revint au cours de l'été 1961, c'est-à-dire
+près de six mois seulement après son intronisation, la décision de
+légaliser l'émigration. Au début des années 1970, passant outre
+l'onde de choc et les répercussions de la guerre des Six Jours, il reçut
+à Rabat et Ifrane le président du CJM, Nahum Goldman, et, quelque
+temps plus tard, successivement, les généraux Moshé Dayan et Itzhak
+Rabin. Hassan II devait rappeler dans La Mémoire d'un roi que « les
+juifs marocains installés en Israël reviennent fréquemment ici et
+[que] les messages parviennent sans qu'il soit nécessaire de les coder³
+». Il ne perdait pas de vue la centralité de la question palestinienne. Il
+rappelait souvent que c'est au Maroc, lors du sommet arabe de Rabat,
+en 1974, que l'Organisation de libération de la Palestine (OLP) avait
+été reconnue comme le représentant unique et légitime du peuple
+palestinien. Ce fut également avec son concours que des émissaires
+égyptiens et israéliens se rencontrèrent au Maroc quelque temps
+avant la visite du président égyptien à Jérusalem et son discours
+devant la Knesset.
+
+
+Dans la quête de la paix, un saut qualitatif encore plus
+déterminant fut franchi lors du sommet arabe réuni sous la
+présidence de Hassan II à Fès en 1982, dans un contexte marqué par
+l'assassinat de Sadate et l'invasion israélienne du Sud-Liban, et à un
+moment où les plans de paix proposés par le président Ronald
+Reagan et le roi Hussein de Jordanie suscitaient toutes sortes de
+réserves. Ce fut lors de ce sommet que fut adopté par les chefs d'État
+arabes, y compris le Syrien Hafez al-Assad et l'Irakien Saddam
+Hussein, le « plan de Fès » reconnaissant implicitement Israël dans les
+frontières d'avant juin 1967, confirmant le leadership de l'OLP en
+tant que
+<<
+seul représentant légitime du peuple palestinien »,
+
+
+préconisant la solution des « deux États », avec un État palestinien
+indépendant ayant Jérusalem(-Est) pour capitale, et demandant que
+la Cisjordanie et Gaza soient placées sous la supervision de l'ONU
+pour une courte période transitoire. Sur la question de Jérusalem, le
+roi était conforté par son statut de président, depuis 1979, du comité
+Al Qods créé par la Conférence islamique en 1975, à Djeddah.
+
+
+À travers le plan de Fès, le sommet essayait d'envoyer un signal
+clair montrant que les résolutions adoptées sur la base d'un
+consensus arabe, ayant pour objectif la recherche de la paix,
+présentaient une base constructive et crédible dans le processus de
+négociation. S'étant rendu à Washington pour recueillir la réaction du
+président Reagan, Hassan II remit à ses interlocuteurs américains les
+dispositions du plan ainsi qu'un mémorandum dans lequel l'OLP, dont
+les Israéliens exigeaient l'abrogation de la clause de sa charte
+prévoyant la destruction de l'État d'Israël, se déclarait disposée à
+envisager même une Confédération israélo-palestino-jordanienne.
+C'est dans la continuité de l'esprit du sommet de Fès et d'un autre
+organisé par la Ligue arabe en mars 1986 que fut reçu à Ifrane, au
+cours de la même année, le Premier ministre Shimon Peres, lequel
+n'était que trop au fait, après l'irruption du parti Shass sur la scène
+politique israélienne, du poids électoral de ses concitoyens d'origine
+marocaine et ne manqua pas de le signifier clairement à Hassan II.
+Celui-ci plaça d'emblée la discussion dans le cadre du plan de Fès.
+Comme Peres estimait ne pas avoir mandat pour donner des réponses
+précises et a fortiori prendre des engagements, la rencontre se
+termina par un simple communiqué exprimant le désaccord des deux
+4
+parties.
+
+
+La visite effectuée quelques années plus tard au Maroc par le
+Premier ministre Itzhak Rabin et Shimon Peres, ministre des Affaires
+étrangères, à leur retour de Washington où ils venaient de signer, le
+
+
+13 septembre 1993, avec le leader de l'OLP, Yasser Arafat, et en
+présence du président Bill Clinton, les accords et la déclaration de
+principes préalablement convenus à Oslo entre Israéliens et
+Palestiniens, symbolisait en tant que telle la reconnaissance du rôle
+que Hassan II avait tenu dans le processus qui aboutit à ces accords et
+la contribution qui fut la sienne, tout au long de ces années, dans « la
+recherche d'une paix juste et durable » au Moyen-Orient.
+
+
+Les juifs marocains au présent
+
+
+En ce début du xxı siècle, les communautés juives du Maroc n'ont
+plus le poids qu'elles avaient naguère sur le plan démographique,
+dans les secteurs du commerce, de l'artisanat, de l'industrie et des
+services. La réduction drastique de leurs populations et la contraction
+de leur répartition géographique en l'espace de quelques décennies,
+sous les effets conjugués de facteurs multiples, constituent autant
+d'aspects fondamentaux de l'évolution du pays dans la seconde moitié
+du $XX^{e}$ siècle. Leur condition actuelle, comme celle de leurs
+compatriotes musulmans, s'effectue dans le contexte d'un nouveau
+règne, celui du roi Mohammed VI, qui a succédé à son père, Hassan
+II, décédé le 23 juillet 1999.
+
+
+Les juifs vivant essentiellement à Casablanca, et dans une
+moindre mesure à Rabat, Fès, Meknès, Marrakech, Tanger et
+Essaouira ne sont plus de nos jours que quelques milliers (4 000 ?).
+Du fait de l'importance de la proportion des jeunes dans les exodes
+massifs de la période 1948-1973, le renouvellement des générations
+se pose avec acuité. La tendance au vieillissement est l'un des traits
+de cette population. Ceux qui restent n'en ont pas moins le sentiment
+de tenir le flambeau du judaïsme marocain et d'assumer la
+
+
+responsabilité de veiller à sa pérennité. Ils sont présents dans les
+domaines les plus divers. Leurs écoles ont une réputation
+d'excellence, notamment à Casablanca. Des familles musulmanes y
+inscrivent leurs enfants et le pourcentage de ces derniers par rapport
+à leurs camarades juifs, par exemple à l'école et au lycée Maïmonide
+de la métropole économique, a tendance à augmenter sensiblement
+au fil des ans. Ces familles, leurs enfants et d'autres musulmans
+gardant en mémoire le souvenir d'époques révolues sont sans doute
+les plus ouverts à la dimension juive de la culture marocaine. Leur
+participation au rituel de la Mimouna auquel ils sont parfois conviés
+au sortir de Pessah, quand ils ont des amis juifs, en est l'une des
+manifestations les plus tangibles et les plus festives. Elle l'était
+naguère à travers quasiment tout le Maroc, où ce moment du
+calendrier juif était celui d'une convivialité manifeste.
+
+
+Nettement plus nombreux sont les musulmans amateurs de
+musique et de chansons indissociables de noms de grands artistes
+juifs du pays. Aux « classiques » des années 1950-1960 s'ajoutent
+ceux d'une nouvelle génération ayant représenté dans les années
+1980-1990, et pour certains jusqu'à aujourd'hui, autant de « stars » et
+d'animateurs incontournables dans les fiançailles,
+mariages,
+circoncisions et autres fêtes. Leur passage à la télévision et les soirées
+d'hommage rendu par le petit écran aux maîtres d'antan battent des
+records d'audimat. Les gros succès de leur répertoire sont d'ailleurs
+repris par des chanteurs musulmans. Hautement symbolique est à cet
+égard le duo (et parfois trio) que forment des virtuoses de la musique
+andalouse qui se produisent ensemble au Maroc et à l'étranger,
+Mohamed Bajdoub, Abderrahim Souiri et Haïm Louk. Né à
+Casablanca, celui-ci a été l'élève du maître David Bouzaglou et s'est
+établi par la suite à Los Angeles en qualité de rabbin et de chef de la
+congrégation séfarade Em Habanim. Des émigrés marocains et leurs
+
+
+descendants établis en Israël ont d'ailleurs réussi à intéresser des
+ashkénazes à cette musique et même à susciter des vocations parmi
+les Russes en particulier, au point de former un orchestre de renom.
+L'un des maîtres en la matière, Avi Amzallag, originaire de Taroudant,
+arabisant distingué, consacre le plus clair de son temps à enseigner
+cet art aux États-Unis aussi.
+
+
+L'attention des Marocains ne se porte pas uniquement sur le succès
+d'artistes juifs originaires du pays. Elle inclut aussi ceux qui ont réussi
+dans d'autres domaines. Le roi Mohammed VI adressa ainsi un
+message de félicitations à Serge Haroche, dès que fut connue la
+nouvelle de l'attribution du prix Nobel de physique (2012) à ce natif
+de Casablanca, devenu depuis lors membre associé de l'Académie
+Hassan II des sciences et techniques. L'émergence sur la scène
+politique israélienne d'un certain nombre de personnalités d'origine
+marocaine et leur nomination à de hauts postes dans le
+gouvernement et dans des représentations diplomatiques ne passent
+pas non plus, bien évidemment, inaperçues. Le roi Mohammed VI
+décerna ainsi en 2008 le wissam de Grand Officier du Trône à
+Yéhouda Lancry (né à Boujad), ambassadeur à Paris, puis
+représentant permanent à l'ONU. Deux ans plus tôt, il avait reçu le
+leader de la Histadrout, Amir Peretz (également né à Boujad, promu
+ministre de la Défense), lequel était devenu le chef du parti
+travailliste avant de le quitter et de fonder son propre mouvement,
+Hatnuah.
+
+
+Les officiels ou les délégations d'hommes d'affaires, dont la venue
+suscite d'ailleurs les critiques des adversaires de toute forme de
+normalisation avec Israël, ne sont pas les seuls à être reçus dans le
+pays. Plusieurs milliers de personnes établies un peu partout dans le
+monde y viennent, en particulier à l'occasion de hilloulot et/ou en
+touristes. Leurs voyages s'articulent généralement autour du
+
+
+recueillement sur les tombes de saints vénérés et sur celles de leurs
+ancêtres, assortis de visites de leurs villes et villages d'origine, de
+celles des anciens mellahs et des maisons de leurs familles, de prières
+dans les synagogues et de la célébration du shabbat.
+
+
+La dimension juive du patrimoine matériel et immatériel du
+Maroc acquiert depuis quelques années une visibilité accrue. Ce
+phénomène est indissociable de l'évolution politique du pays, de
+l'approfondissement du processus démocratique, grâce aux luttes
+menées pour le respect des droits de l'homme et l'instauration d'un
+État de droit, luttes auxquelles ont pris part des militants juifs
+progressistes, voire révolutionnaires. Ľune des décisions majeures du
+roi Mohammed VI, deux mois à peine après son intronisation en
+juillet 1999, fut d'ailleurs d'autoriser le retour dans son pays natal
+d'Abraham Serfaty, réfugié en France après la réduction de sa peine
+de prison et son expulsion (1991) en tant que « ressortissant brésilien
+». Cette mesure, qui eut un écho considérable au sein de l'opinion
+publique marocaine et au niveau international, a été prise plus de
+quatre ans avant la mise en place de l'Instance Équité et
+Réconciliation (IER) et le lancement du processus d'auditions
+publiques des victimes de « violations graves des droits de l'homme »,
+et des réparations individuelles et collectives. Tout aussi significative
+fut la nomination à la tête de cette instance, puis du Conseil
+consultatif des droits de l'homme (CCDH), de Driss Benzekri, un
+dirigeant d'Ila al Amam également libéré en 1991 après dix-sept ans
+de prison.
+
+
+La multiplication des manifestations concrètes de la diversité des
+composantes de l'identité, de la culture et de la civilisation du pays a
+été l'un des principaux résultats du processus démocratique, marqué
+notamment par la création en 2001 de l'Institut royal de la culture
+amazighe (IRCAM). La reconnaissance officielle et solennelle de la
+
+
+composante juive de cette diversité a bénéficié quant à elle du capital
+symbolique et effectif que représentent notamment la permanence de
+la présence d'une population juive dans le royaume, son implication
+dans divers aspects de la vie du pays, le fonctionnement normal au
+quotidien de ses institutions communautaires, l'existence dans
+l'appareil judiciaire national d'un Haut Tribunal rabbinique,
+l'attachement à leur ancienne patrie de ceux qui sont partis, leur
+statut de Marocains au regard du Code marocain de la nationalité, le
+dynamisme de leurs associations, les initiatives exceptionnelles que
+constituent dans le monde arabe d'aujourd'hui la création d'un musée
+du Judaïsme marocain et celle de la Fondation du patrimoine culturel
+judéo-marocain (FPCJM), ou encore la participation de juifs vivant
+sur place ou à l'étranger dans des instances telles que le Conseil
+national des droits de l'homme (CNDH), le Conseil consultatif des
+Marocains à l'étranger (CCME), et le Conseil économique, social et
+environnemental (CESE).
+
+
+Dans un contexte général dominé par les espoirs et les
+bouleversements suscités par le déclenchement du « printemps arabe
+» en Tunisie et en Égypte et les manifestations qui s'en sont suivies au
+Maroc, en particulier sous l'impulsion du Mouvement du 20 février
+(2011), la réforme de la Constitution, annoncée dès le mois de mars
+et votée en juillet, a donné lieu à de nouvelles dispositions qui
+constituent autant d'avancées démocratiques. Son préambule stipule :
+
+
+<<
+État musulman souverain [...], le royaume du Maroc entend
+préserver son identité nationale une et indivisible. Son unité, forgée
+par la convergence de ses composantes arabo-islamique, amazighe et
+saharo-hassanie, s'est nourrie et enrichie de ses affluents africain,
+andalou, hébraïque et méditerranéen. La prééminence accordée à la
+religion musulmane dans ce référentiel national va de pair avec
+l'attachement du peuple marocain aux valeurs d'ouverture, de
+
+
+modération, de tolérance et de dialogue pour la compréhension
+mutuelle entre toutes les cultures et les civilisations du monde. »
+
+
+Concernant plus particulièrement la composante juive de la
+culture et du patrimoine du pays, l'une des initiatives se situant dans
+la droite ligne de cette disposition réside, par exemple, dans la prise
+de position à forte charge symbolique du ministère de l'Éducation
+nationale en faveur de la réhabilitation des anciennes écoles de l'AIU
+et de la pose « de plaques commémoratives pour faire connaître aux
+générations actuelles et futures l'histoire commune de partage et de
+cohésion entre les communautés juive et musulmane au Maroc ».
+
+
+Ce département a d'ailleurs pendant longtemps été sollicité pour
+que soient davantage mises en évidence, dans les programmes et les
+manuels scolaires, la diversité culturelle du pays et une image plus
+valorisée des femmes. Cette réforme a été évoquée à Rabat en
+novembre 2012 lors d'entretiens avec le président et le vice-président
+de l'AIU, Marc Eisenberg et Roger Benarrouch. Ces derniers ont
+rappelé l'importance des cent cinquante ans de présence de l'AIU au
+Maroc et indiqué qu'ils considéraient les anciennes écoles de
+l'Alliance comme des « lieux d'histoire ».
+
+
+Quant à la restauration des synagogues, elle a échu pendant
+longtemps, ainsi que l'entretien des cimetières et des mausolées de
+saints juifs, essentiellement au Conseil des communautés et à la
+persévérance du directeur du musée du Judaïsme marocain, Simon
+Lévy. S'y sont également attachées des institutions animées par des
+juifs marocains établis à l'étranger. Le Centre communautaire de Paris
+a élaboré tout un programme à cet effet. Des personnalités désireuses
+de réhabiliter des synagogues portant le nom de leurs familles s'y
+sont elles aussi consacrées. Ľune des réalisations enregistrées dans ce
+dernier cas a été la restauration d'une synagogue de Fès datant du
+milieu du XVII siècle, celle des Danan. Considérée comme « l'un des
+
+
+joyaux de la culture juive et un espace religieux privilégié du
+judaïsme marocain », elle a été, après travaux, inaugurée en février
+1999, sous le patronage du prince héritier Sidi Mohammed (actuel
+roi Mohammed VI) et en présence du conseiller du roi Hassan II,
+André Azoulay, et classée au patrimoine universel de l'Unesco. Près
+de quatorze ans plus tard, en février 2013, ce fut au tour d'une autre
+synagogue, dite Slat al Fassiyine, dont l'édifice avait subi toutes sortes
+de vicissitudes au point de devenir totalement désaffecté et délabré,
+d'être inaugurée après sa restauration par la Fondation du patrimoine
+culturel judéo-marocain. Un message du roi Mohammed VI fut lu à
+cette occasion par le chef du gouvernement, Abdelilah Benkirane
+(également secrétaire général du parti Justice et Développement
+PJD, islamiste) :
+
+
+Cette inauguration, déclare le souverain, se tient sous notre
+haut patronage eu égard à l'intérêt particulier que nous
+accordons au patrimoine culturel et spirituel de la
+communauté juive marocaine [...]. [Cette] louable initiative
+[est] le témoignage éloquent de la richesse et de la diversité
+des composantes spirituelles du royaume du Maroc et de son
+patrimoine authentique. Ce patrimoine s'apparente à un
+véritable creuset dans lequel a fusionné la spécificité judéo-
+marocaine [...]. C'est précisément cette particularité hébraïque
+qui constitue aujourd'hui, ainsi que l'a consacré la nouvelle
+Constitution du royaume, l'un des affluents séculaires de
+l'identité nationale [...]. [Les] Marocains sont profondément
+imprégnés des valeurs de coexistence, de tolérance et de
+concorde entre les différentes composantes de la nation.
+
+
+Le roi avait également affirmé qu'il appelait « à la restauration de
+tous les temples juifs dans les différentes villes du royaume, de sorte
+qu'ils ne soient pas seulement des lieux de culte, mais également un
+espace de dialogue culturel et de renouveau des valeurs fondatrices
+de la civilisation marocaine ».
+
+
+Quel pouvait être l'impact de cette inauguration et surtout du
+préambule de la Constitution, notamment parmi les jeunes
+générations n'ayant jamais directement côtoyé de juifs et ayant été
+exposées depuis l'enfance tant aux images des médias couvrant (à
+leur manière) le conflit israélo-palestinien que, dans certains cas, à
+l'idéologie et à la propagande de mouvements extrémistes ? De fait,
+deux ans après les événements du 11 Septembre à New York, c'est à
+cet extrémisme qu'ont été imputés les attentats terroristes dont
+Casablanca a été le théâtre le 16 mai 2003. Parmi les cinq cibles
+visées par les kamikazes figuraient deux sites israélites, dont un
+cercle (déserté au moment de l'attentat pour cause de shabbat) et un
+cimetière. D'importantes manifestations se déroulèrent dans la
+capitale économique en signe de protestation contre ces attentats.
+Leur commémoration en 2005 au musée du Judaïsme marocain s'est
+effectuée en présence d'intellectuels, de représentants de la société
+civile, de personnalités politiques de différents partis et de plusieurs
+dizaines de jeunes. Des enfants musulmans et juifs ont procédé
+ensemble à la levée des couleurs et chanté l'hymne national. Des
+pancartes et des banderoles indiquaient, en arabe et en français : <<
+Juifs et musulmans, nous sommes tous marocains »,
+<<
+terrorisme ».
+
+
+Non au
+
+
+En tout cas, le profond processus qui s'est esquissé depuis
+quelques années déjà et dont l'une des lignes de force majeures réside
+dans l'attention accrue portée par les Marocains musulmans aux
+composantes juives de leur histoire, de leur culture et de leur
+
+
+patrimoine, se poursuit. À la fois consacrée et impulsée par le
+préambule de la Constitution de 2011, cette tendance est aussi
+encouragée par les distinctions honorifiques que le roi décerne à des
+personnalités juives. Fort symbolique a été celle qu'il a accordée à
+Aaron Monsonego, grand rabbin du Maroc depuis 1998, formé à
+l'École talmudique d'Aix-les-Bains, et succédant dans cette fonction à
+son père, Yedidah Monsonego.
+
+
+Cette orientation inspire les initiatives d'institutions publiques. Il
+en est ainsi des agences de développement régional qui recensent,
+par exemple, les anciens espaces occupés par des juifs et leurs lieux
+saints, et en font l'objet de publications (sous forme d'albums) afin de
+mieux faire connaître cette dimension du patrimoine des provinces
+entrant dans leurs compétences territoriales. Tel est aussi le cas des
+projets de création de musées régionaux (Rif, Tafilalet, Sahara) ou
+d'une Maison de l'histoire du Maroc (Casablanca), initiés et
+supervisés par le CNDH et comportant dans leur configuration
+d'ensemble la composante juive de l'histoire et de la culture du pays.
+Au niveau de l'université et de la recherche scientifique, les thèses et
+les mémoires portant sur l'histoire du pays à différentes époques, quel
+que soit leur objet spécifique d'étude, traitent immanquablement,
+depuis les années 1970, de cette composante.
+
+
+Ayant donné une impulsion décisive à la recherche, Germain
+Ayache, professeur à Rabat, a supervisé de nombreux travaux qui
+traitaient d'une manière ou d'une autre des juifs. Haïm Zafrani,
+membre de l'Académie du royaume du Maroc, en a fait autant, depuis
+l'université Paris-8, pour ce qui relève de l'hébreu... Quant à la place
+du judéo-arabe dans les parlers marocains, c'est Simon Lévy qui s'est
+chargé de son enseignement à Rabat. Des journées d'études sont
+consacrées à ces enseignants-chercheurs, ainsi qu'à l'écrivain Edmond
+Amran El Maleh. Celui-ci rappelait, dans son évocation de la vie
+
+
+juive, qu'il y avait au Maroc « cette façon naturelle, spontanée d'être
+juif, juif d'Essaouira, Marrakech, Demnate, Taroudant, etc., aussi
+naturelle que le fait d'exister [...]. [Il y avait aussi] cet univers
+immergé dans une société fondée sur un islam ardent et rigoureux,
+cet univers tout aussi intensément imprégné de spiritualité religieuse,
+réglée dans ses moindres détails par le judaïsme marocain, un des
+plus riches de la judaïté, un univers vivant autour de la parole sacrée
+qui n'a jamais été un univers clos ».
+
+
+Dakhla
+
+
+Altitudes en mètres
+
+
+3000
+
+
+2000
+
+
+1000
+
+
+500
+
+
+200
+
+
+Le Maroc en 2016
+
+
+Archipel de Madère
+
+
+OCÉAN
+
+
+(PORTUGAL)
+
+
+ATLANTIQUE
+
+
+El Ataf
+
+
+200 km
+
+
+♡
+
+
+Îles Canaries
+(ESPAGNE)
+
+
+Boujdour
+
+
+Adrar
+Sutuf
+
+
+Tiris
+
+
+PORTUGAL
+
+
+ESPAGNE
+
+
+Mer Méditerranée
+
+
+Tanger
+
+
+Ceuta (ESP.)
+Tétouan
+
+
+Chechaouen Al-Hoceïma
+Larache
+
+
+Kenitra
+
+
+Rif
+
+
+Taounate
+
+
+Nador
+Oujda
+
+
+Rabat Meknès Fès Taza
+Casablanca
+Ifrane
+Ben Slimane
+El-Jadida Settat Khenifralas
+Aoven Boulemane
+Atlas
+Safi
+
+
+Khouribga
+
+
+El Kelaa des Srarhna
+
+
+Beni-Mellal Er-Rachidia
+Azilal
+
+
+Ouarzazate
+
+
+Essaouira, Marrakech Haut Atlas
+Djebel Toubkal 4 165 m.
+Agadir •Taroudannt
+Tizniti Atlas Tata
+
+
+Goulimine
+
+
+Tan-Tan
+
+
+Djebel Quarkziz
+
+
+Figuig
+
+
+El-Aiun
+
+
+Semara
+
+
+ALGÉRIE
+
+
+MALI
+
+
+MAURITANIE
+
+
+ Capitale du pays
+■ Chef-lieu
+
+
+Autre ville
+
+
+Dans le domaine des arts et du spectacle, si les chanteurs
+populaires juifs d'antan sont toujours appréciés, des artistes plus
+
+
+contemporains, devenus célèbres à partir des années 1980-1990 ou
+même plus tard, ont eux aussi des amateurs. Parmi les humoristes,
+par exemple, le succès de Gad Elmaleh est égal à celui de son
+homologue Jamel Debbouze, tous deux ayant également réussi dans
+le cinéma; le second a même contribué, à un certain degré, avec le
+film Indigènes, à la révision du régime des pensions des anciens
+combattants marocains de l'époque du protectorat, « cristallisées »
+pendant longtemps par le gouvernement français. En matière de
+cinéma s'impose l'évocation, à titre d'exemple, de deux films de
+réalisateurs marocains. Le premier, Marock, sorti sur les écrans en
+2005, bouscule hardiment les tabous du Maroc des années 1990 et
+traite de l'amour d'une musulmane de Casablanca pour un camarade
+de classe israélite, au grand dam de son frère, jeune bourgeois
+surnommé « Mao » avant qu'il ne devienne islamiste après un séjour
+en Angleterre. Ayant pour cadre chronologique les années 1960-
+1970, le deuxième film, Où vas-tu Moshé ?, traite de l'exode massif
+qui vida en peu de temps les mellahs de leurs populations juives, de
+la stupeur de leurs voisins musulmans les voyant partir et des
+stratagèmes imaginés par certains d'entre eux pour les retenir.
+
+
+En ce début de  siècle, tout semble donc indiquer que le
+judaïsme marocain ne dépend plus uniquement du nombre de juifs
+vivant à Casablanca et dans quelques autres grandes villes.
+$\hat{A}$ sa
+pérennité s'attachent en effet non seulement ces derniers et leurs
+coreligionnaires établis à l'étranger (au nombre de près d'un million),
+mais aussi leurs concitoyens musulmans. Ceux-ci prennent de plus en
+plus conscience de l'importance de la dimension juive de leur histoire
+et de leur culture, ainsi que du modèle de cohabitation
+intercommunautaire qui prévalut dans le pays, quelles qu'en aient été
+l'étendue et les limites.
+
+
+Conclusion
+
+
+C'est essentiellement à l'époque contemporaine que les relations
+entre juifs et musulmans au Maroc ont commencé à subir de
+profondes transformations, notamment sous les effets de la
+pénétration européenne, du régime du protectorat, des premières
+répercussions du conflit du Moyen-Orient au cours des années 1930,
+puis des bouleversements générés par la Deuxième Guerre mondiale.
+Le processus de corrosion des fondements de la cohabitation judéo-
+musulmane, amorcé au cours de la seconde moitié du xix siècle, s'est
+en effet accentué entre 1912 et 1956, période marquée par la
+précarité à laquelle les masses musulmanes et juives se sont trouvées
+confrontées du fait d'une condition commune de colonisés, de leur
+prolétarisation et de leur paupérisation, et se souciant avant tout de
+la dureté du quotidien. Leurs élites respectives avaient quant à elles
+des aspirations et des programmes politiques antagonistes, les
+musulmans réclamant, avec une minorité de progressistes juifs, des
+réformes dans le cadre du protectorat et visant in fine l'indépendance,
+alors que les coreligionnaires de ces derniers aspiraient, les uns à
+l'assimilation et nourrissaient l'espoir d'une naturalisation française
+ou espagnole (en zone nord), les autres n'ayant en vue que
+l'édification d'un État juif en Palestine.
+
+
+La Deuxième Guerre mondiale devait creuser ces divergences. Les
+nationalistes ont ainsi officiellement revendiqué l'indépendance en
+janvier 1944. Les sionistes, de leur côté, ont pris activement part à la
+conférence d'Atlantic City en décembre 1944, en insistant en
+particulier sur l'importance du réservoir démographique que
+représentaient les communautés juives du Maroc sorties indemnes de
+la guerre. Quant aux « évolués » qui aspiraient à la naturalisation
+française avant 1939, le coup porté au principe même de
+l'assimilation par la politique de collaboration suivie par Pétain, les
+lois raciales de Vichy, les déportations de juifs qui s'en sont suivies et
+la Shoah montraient à l'évidence qu'il n'y avait plus d'autre choix
+qu'entre, d'un côté, la participation à la lutte pour l'indépendance du
+pays et, par la suite, une intégration volontariste dans le Maroc
+postcolonial, et, de l'autre, l'alignement sur l'option sioniste ou, autre
+alternative, l'émigration vers des horizons autres qu'Israël.
+
+
+L'état de fait qui prévalut dans le pays, aussi bien entre 1945 et
+1956 qu'au lendemain du recouvrement de l'indépendance, exacerba
+la polarisation des positions. La focalisation de l'attention des
+nationalistes sur le régime de cosouveraineté que la Résidence
+générale voulait instaurer, l'exil du sultan Sidi Mohammed ben
+Youssef, la lutte pour son rétablissement sur le trône, la délicate
+phase d'instabilité des années 1955-1960, et les répercussions de la
+première guerre israélo-arabe (1948) et de l'expédition de Suez
+(1956) furent concomitants de la mise en place par l'Agence juive de
+plans d'émigration massive des juifs du pays. Le changement
+d'orientation survenu dans les choix stratégiques, diplomatiques et
+politiques du roi Hassan II après son avènement et, six ans plus tard,
+la défaite essuyée par les Arabes en juin 1967 accélérèrent l'exode de
+ceux qui étaient restés sur place à la fin des années 1950 et au début
+des années 1960. Les départs massifs et la contraction territoriale de
+
+
+la présence juive ne signifient cependant pas rupture de tout lien avec
+ceux qui s'installaient ailleurs.
+
+
+La continuité de cette présence est assurée par ceux qui sont
+restés sur place, les liens familiaux et autres avec les émigrés où qu'ils
+soient, la nostalgie de ces derniers pour leur ancienne patrie et les
+visites qu'ils y effectuent pour des pèlerinages sur les tombes de leurs
+saints ou le recueillement sur celles de parents, du tourisme ou pour
+des affaires contribuant à la pérennité du judaïsme marocain,
+d'autant que les émigrés demeurent marocains au regard des lois du
+Code marocain de la nationalité. En mars 1976, dans la foulée des «
+retrouvailles » suscitées par la Marche verte (novembre 1975), le
+gouvernement marocain a d'ailleurs publié une déclaration affirmant
+que « les ressortissants marocains israélites vivant actuellement à
+l'étranger peuvent regagner leur pays à tout moment ». Ayant
+vraisemblablement inspiré, voire dicté, cette déclaration, le roi
+Hassan II s'est distingué, par ailleurs, par le rôle médiateur et de «
+bâtisseur de la paix » qu'il a joué dans le conflit du Moyen-Orient.
+
+
+Dans le Maroc d'aujourd'hui, c'est sous le règne de Mohammed VI
+que se poursuit la consolidation du processus démocratique et que les
+recommandations de l'Instance Équité et Réconciliation ont été mises
+en œuvre. C'est aussi en juillet 2011 qu'une nouvelle Constitution a
+été votée. Son préambule fait une référence explicite à l'affluent
+hébraïque de la civilisation marocaine. La teneur du message qui a
+été lu, au nom du roi, lors de la cérémonie d'inauguration de la
+synagogue restaurée dite Slat al Fassiyine (février 2013) va
+également dans le sens d'une impulsion de l'attachement des juifs
+marocains, où qu'ils soient, à leur identité et à leur patrimoine. C'est
+aussi un symbole fort, encourageant leurs concitoyens musulmans à
+prendre pleinement conscience de l'importance de la composante
+juive de leur histoire et de leur culture, dans un monde marqué
+
+
+précisément par toutes sortes de rejet des différences, ainsi que par
+
+
+les répercussions au quotidien de l'actualité israélo-palestinienne.
+
+
+Notes
+
+
+CHAPITRE PREMIER
+
+
+Les communautés juives du Maroc,
+
+
+des origines au début du xıx siècle
+
+
+1. Haim Zeev Hirschberg, « The Problem of the Judaized Berbers », Journal of African
+History, t. IV, n° 3, 1963, p. 323-339.
+
+
+2. Jean Mazel, Énigmes du Maroc, Paris, Robert Laffont, 1971, p. 141, note 1.
+
+
+3. Denise Jacques-Meunié, Le Maroc saharien des origines à 1670, t. I, Paris, Librairie
+Klincksieck, 1982,  . 180-183.
+
+
+4. Ibid., p. 214.
+
+
+5. Al-Bekri, Kitab al-Massalik wa-Mamalik, t. II, texte arabe édité et annoté par A.P. Van
+Leuwen et A. Ferré, Éditions Dar Al-Arabya lil Kitab, 1992, p. 835-836.
+
+
+6. David Corcos, Studies in the History of the Jews of Morocco, Jérusalem, Rubin Mass, 1976.
+7. Simon Lévy, Essais d'histoire et de civilisation judéo-marocaines, Rabat, Centre Tarik Ibn
+Zyad, 2005, p. 37.
+
+
+8. Ibid., p. 147-168.
+
+
+9. Haïm Zafrani, Deux mille ans de vie juive au Maroc. Histoire et culture, religion et magie,
+Paris, Maisonneuve et Larose, 1983.
+
+
+10. D. Corcos, Studies in the History of the Jews of Morocco, op. cit.
+
+
+11. B.A. Mojuetan, « Myth and Legend as Functional Instruments in Politics. The
+Establishment of the Alawi Dynasty in Morocco », Journal of African History, t. XVI, 1975, р.
+17-27; Pierre de Cénival, « La légende du juif Ibn Mech'al et la fête du sultan des tolba à Fès
+ », Hespéris, t. V, 1925, p. 137-218.
+
+
+12. Mohammed Kenbib, Juifs et musulmans au Maroc (1859-1948). Contribution à l'histoire
+des relations intercommunautaires en terre d'islam, Rabat, Publications de la faculté des lettres
+et des sciences humaines, 1994,  . 50-56.
+
+
+13. Pierre Loti, Au Maroc, Paris, Calmann-Lévy, 1890.
+
+
+14. M. Kenbib, Juifs et musulmans au Maroc (1859-1948). Contribution à l'histoire des
+relations intercommunautaires en terre d'islam, op. cit., p. 50-56.
+
+
+15. William Lempriere, A Tour from Gibraltar to Tangier, Sallel, Mogadore, Santa Cruz,
+Tarudant and thence over Mount Atlas to Morocco, 1834, p. 37-38.
+
+
+16. Archives du ministère des Affaires étrangères (AEP), Paris, Série Correspondance
+consulaire, Mogador, III, 21 novembre 1865.
+
+
+17. H. Zafrani, Deux mille ans de vie juive au Maroc, op. cit., p. 70.
+
+
+18. Abraham Isaac Laredo, Les Noms des juifs du Maroc. Essai d'onomastique judéo-marocaine,
+Madrid, Institut Arias Montano, 1978.
+
+
+19. Louis Voinot, Pèlerinages judéo-musulmans au Maroc, Paris, Larose, 1948.
+
+
+20. Paul Pascon, La Maison d'Illigh et l'histoire sociale du Tazerwalt, Rabat, Société marocaine
+des éditeurs réunis, 1984, p. 121-123.
+
+
+21. S. Lévy, « Hara et mellah: les mots, l'histoire et l'institution », Essais d'histoire et de
+civilisation judéo-marocaines, op. cit., p. 177-188.
+
+
+22. Harvey E. Goldberg, « The Mimuna and the Minority Status of the Moroccan Jews »,
+Ethnology, t. XVII, 1978, p. 77-82.
+
+
+23. Georges Vajda, « Un recueil de textes historiques judéo-marocains », Hespéris, t. XXXV,
+1948, et t. XXXVI, 1949, p. 165.
+
+
+24. M. Kenbib, Les Protégés. Contribution à l'histoire contemporaine du Maroc, Rabat,
+Publications de la faculté des lettres et des sciences humaines, 1996, p. 183-202.
+
+
+25. Léon l'Africain, Description de l'Afrique, vol. I, éd. et trad. A. Épaulard, Paris, Adrien-
+Maisonneuve, 1956, p. 234.
+
+
+26. Roger Le Tourneau, Fès avant le protectorat. Étude économique et sociale d'une ville de
+l'Occident musulman, Casablanca, 1949.
+
+
+27. Louis Massignon, « Enquête sur les corporations musulmanes d'artisans et de
+commerçants au Maroc », Revue du monde musulman, t. LVIII, 1924. L'onomastique reflète la
+diversité des activités dans lesquelles les juifs se distinguaient. Il s'agit, à titre d'exemple, de
+Sayagh (bijoutier), Skali (fabricant de fil d'or), Amzallag (fabricant de colliers de perles),
+Attar (colporteur, boutiquier, parfumeur), Amar (mesureur, remplisseur), Sebbagh
+(teinturier), Assaraf (changeur), Assal (marchand de miel, apiculteur)... Des musulmans
+portaient eux aussi certains de ces noms.
+
+
+28. Mercedes Garcia-Arenal et Gerard Wiegers, << Au-dessus des frontières: Samuel Pallache
+ », Hespéris-Tamuda, t. XXXVII, 1999, p. 99-111. Sources inédites de l'histoire du Maroc
+(SIHM), France, II, p. 477-478, Descartes à Puisieux, 25 octobre 1609.
+
+
+29. SIHM, Pays-Bas, IV, p. 231-232. Dans les archives et registres des missions de
+rédemption, « quelques Morisques de Tétouan et de Salé sont identifiés comme étant des
+propriétaires d'un grand nombre de captifs. Les juifs apparaissent fréquemment eux aussi
+(dans ces documents) comme des propriétaires d'esclaves chrétiens >>.
+
+
+30. A. Maqqari, Nafh at-tib min ghoûsni al Al Andalûs ar-ratîb, t. IV, Beyrouth, Éditions I.
+Abbas, 1968, p. 528.
+
+
+31. SIHM, France, t. IV, p. 11.
+
+
+32. Samuel Aaron Romanelli, Massa Ba'rav, traduit par N. Slousch, Berlin, 1792; « Le Maroc
+au XVIII siècle », Revue du monde musulman, t. IX, 1909, p. 452-466 et 643-664; W.
+Lempriere, A Tour from Gibraltar to Tangier, Salle, Mogadore, Santa Cruz, Tarudant and
+Morocco, op. cit., p. 95.
+
+
+33. Daniel Schroeter, The Sultan's Jew. Morocco and the Sephardi World, Stanford, Stanford
+University Press, 2002 (biographie de Meir Macnin).
+
+
+34. M. Kenbib, Juifs et musulmans au Maroc (1859-1948). Contribution à l'histoire des
+relations intercommunautaires en terre d'islam, op. cit., p. 58.
+
+
+35. Jean-Louis Miège, « La communauté juive de Gibraltar et ses relations avec la
+Méditerranée au XIX siècle », Les Relations intercommunautaires juives en Méditerranée
+occidentale $(XII^{e}-XIX^{e}$ siècles), Paris, CNRS Éditions, 1984, p. 99-118.
+
+
+CHAPITRE II
+
+
+Mutations et permanences (1830-1912)
+
+
+1. Eugène Fumey, Choix de correspondances marocaines, Paris, Maisonneuve, 1904, p. 14-16.
+
+
+2. Archives de la Bibliothèque royale, Rabat, correspondance en date du 19 rabi II 1258 (30
+mai 1842).
+
+
+3. The Jewish Chronicle and Hebrew Observer (JC infra), numéro du 6 novembre 1863.
+
+
+4. Ibid., p. 6: << Now let the world see the contrast between this inhuman and barbarous
+Christian, Senor Merry y Colom, the Spanish Minister, and the God-fearing and conscientious
+Mohammedan Cadi, Mohamed Ben Abdel-khalek, the Moorish judge. >>>
+
+
+5. Ouataïq, vol. IV, p. 272-273, T. Benhima à Bargach, 25 rabi I 1280 (9 septembre 1863).
+6. JC, numéro du 16 octobre 1863. Cf. infra Archives du Foreign Office (FO), 99, 117,
+29.1863.
+
+
+7. Ibid., Manchester, 11 octobre 1863. Cf. FO, 99, 117, 29.10.1863. Hay au FO.
+
+
+8. Paul Goodman, Moses Montefiore, Philadelphie, Jewish Publication Society, 1925, р. 127-
+130.
+
+
+9. Ibid.
+
+
+10. Morning Advertiser, 18 octobre 1863.
+
+
+11. Au terme de chacune de ces << visites de courtoisie », il se faisait remettre des lettres de
+recommandation.
+
+
+12. Thomas Hodgkin, Narrative of Journey to Morocco in 1863 and 1864, Londres, 1866, p.
+24-28.
+
+
+13. FO, 99.117, Hay à Lord Russell, le 15 décembre 1863.
+
+
+14. JC, numéro du 8 janvier 1864 : <<< Circular a los consules y vice-consules de Espana en los
+puertos de Marrueccos » remis << gracieusement par Don Francisco Merry y Colom à Sir
+Moses Montefiore le samedi 10 tebet 5624 (20 décembre 1863) », Archives du Département
+d'État (Washington) (FRUS), 1864, 4, p. 427.
+
+
+15. Ibid., Montefiore à Hay, 17 décembre 1863.
+
+
+16. Ouataïq, vol. IV, Bel Yamani à Bargach, 18 rjeb 1280 (29 décembre 1863); Montefiore à
+Hay, 17 décembre 1863.
+
+
+17. Jean-Baptiste Duroselle, Tout empire périra. Une vision théorique des relations
+internationales, Paris, Publications de la Sorbonne, 1980, p. 43. « Il n'existe aucun acte de
+politique étrangère qui n'ait un aspect de politique interne », FO, 99, 123, 4 janvier 1864,
+Remerciements de Moses Montefiore à Lord Russell.
+
+
+18. Outaïq, vol. IV, 19 rjeb 1280 (30 décembre 1863), Guessous rendant compte au
+chambellan Moussa ben Ahmed de cette entrevue.
+
+
+19. Ibid., 26 rjeb 1280 (6 janvier 1864), le sultan au naïb.
+
+
+20. FO, Série 174, vol. LXXVIII, T. Reade à Bel Yamani.
+
+
+21. Abigail Green, Moses Montefiore. Jewish Liberator, Imperial Hero, Cambridge, Harvard
+University Press, 2010, p. 300-319.
+
+
+22. FO, 99, 121, Reade à Hay, Marrakech, 20 février 1864 : « The Imperial Edict... was
+brought to me by an officer of the Sultan's body guard, who had been instructed to deliver it
+into no other hands but mine. >>
+
+
+23. M.H. Picciotto, Jews of Morocco, op. cit., p. 24.
+
+
+24. M. Kenbib, Les Protégés. Contribution à l'histoire contemporaine du Maroc, op. cit., p. 42 :
+liste des premiers juifs nommés agents consulaires de diverses puissances entre 1830 et
+1850. Leur nombre proliféra par la suite.
+
+
+25. Ibid., p. 213-244.
+
+
+26. Abderrahmane Ibn Zidane, Ithaf A'lam al-nâs bi-jamal akhbar hadirat Maknas, II, Rabat,
+1929, p. 418, lettre du sultan au naïb Mhamed Bargach, 30 rjeb 1297 (8 juillet 1880).
+
+
+27. DAR, 429, ibid., 29 ramadan 1302 (12 juillet 1885), le sultan au gouverneur d'El-Jedida,
+au sujet du non-paiement de la jiziya depuis plus de sept ans  en raison du passage de la
+plupart des juifs sous protection (étrangère) ». Ibid., 12 châabane 1311 (18 février 1894), le
+
+
+gouverneur de Safi au sultan, au sujet de la requête des Juifs demandant le rééchelonnement
+de douze années d'arriérés de jiziya.
+
+
+28. AEP, CC, Mogador, VIII, 31 mars 1891, Leriche à sa légation. « Les juifs (protégés)
+achètent aux paysans pour revendre aux citadins ». DAR, Essaouira, 29 hijja 1310 (14 juillet
+1893), l'amine al mostafad, Mohamed ben Haj Mehdi, au naïb Torrès, sur les pertes infligées
+au Trésor par Ruben el-Maleh.
+
+
+29. DAR, Essaouira, 4035, 4 moharram 1301 (5 novembre 1883), le mohtasseb M.
+Abdelmalek au sultan.
+
+
+30. FO, 99, 335, Londres, 22 juin 1898, H. Gurney, délégué au Maroc d'une société anti-
+esclavagiste, Howard Association, à Lord Salisbury, sur la complicité de caïds avec des
+usuriers juifs. B.P.P., Papers Relating to the Slave Trade, Londres, 1883, Enclosure I, Tanger, 10
+mai 1883, Hay à Granville, Report of Consul Payton.
+
+
+31. AEP, NS, 180, Mogador, 20 janvier 1894, le consul de France à Casimir Périer. « À
+Marrakech, le sultan a obligé les caïds à payer les arriérés d'impôts. Ces caïds empruntent
+aux juifs... moyennant des intérêts exorbitants, 100 % dit-on. »
+
+
+32. DAR, 429, ibid., 29 ramadan 1302 (12 juillet 1885), le sultan au gouverneur d'El-Jedida,
+au sujet du non-paiement de la jiziya depuis plus de sept ans << en raison du passage de la
+plupart des juifs sous protection (étrangère) ». Ibid., 12 châabane 1311 (18 février 1894), le
+gouverneur de Safi au sultan, sur les juifs demandant le rééchelonnement de douze années
+d'arriérés de jiziya.
+
+
+33. DAR, 429, 15 ramadan 1314 (17 février 1897), Ba Ahmed répondant aux juifs de
+Meknès se plaignant d'Ohana.
+
+
+34. Robert Ricard, << Notes sur l'émigration des Israélites marocains en Amérique espagnole
+et au Brésil >», Revue africaine, 1944, p. 83-88.
+
+
+35. Blanche Bendahan, Mazaltob, Paris, Éditions du Tambourin, 1930 (roman évoquant, avec
+Tétouan pour cadre, le rôle des émigrés dans les rapports sociaux au mellah).
+
+
+36. D. Schroeter, <<< The Politics of Reform in Morocco. The Writings of Yshaq b. Ya'ish Halewi
+in Ha'sefirah (1891) », in E. Hazan (éd.), Misgav Studies in Jewish Literature, Jérusalem,
+Institute for Research on the Sephardi and Oriental Jewish Heritage, 1894; D. Schroeter et
+J. Chetrit, << The Transformation of the Jewish Community of Essaouira (Mogador) in the
+Nineteenth and Twentieth Centuries », in H.E. Goldberg (éd.), Sephardi Middle Eastern
+Jewries. History and Culture in the Modern Era, Bloomington, Indiana University Press, 1996,
+p. 106-107.
+
+
+37. FO, Londres, Confidential Print (CP), 6384, Sir West Ridgeway au comte de Rosebery,
+Tanger, 10 juillet 1893, Report on General Questions Connected with Morocco.
+
+
+38. AEP, NS, 306, 22 septembre 1902, Saint-René Taillandier à Delcassé.
+
+
+39. Depuis Londres, Aflalo servait d'agent à Moulay Hassan et l'informait en particulier de
+l'évolution des alliances en Europe. Il faisait parvenir régulièrement au Makhzen des
+bulletins de synthèse rédigés de sa main, en arabe, sur les principaux événements survenus
+sur la scène mondiale, y compris en Extrême-Orient.
+
+
+40. Moussa Aflalo, The Truth About Morocco, Londres, Lane, 1904.
+
+
+41. M. Kettani, Nassihat Ahl al Islam, Rabat, Maktabat Badr, 1989, p. 165-239 (1te éd. litho.
+Fès, 1908); Mohamed Manouni, Madahir yaqadat al-Maghrib al-hadith, I, Casablanca-
+Beyrouth, 1985, p. 422-444, projet de Constitution présenté à Moulay Abdel-Aziz par un
+alem syrien, Abdelkrim Mourad, préambule consacré au saut réalisé par le Japon et à sa
+victoire sur la Russie.
+
+
+42. FO, 174, 292, Essaouira, 11 décembre 1885, l'agent consulaire R. Johnston à J.D. Hay,
+protestations de marchands juifs de Marrakech (protégés anglais) :  Their objection to a
+forced adoption of European garb is apparently even stronger than the desire to retain their
+slippers (in the medina) », AEP, CP, 44, 12 mai 1880, conf., Vernouillet à son département.
+
+
+43. Ibid., 5 février 1906, Enclosure I, M. Bengio to L. Einstein (31 janvier 1906) : <<< We have
+absolutely no reason of complaint. >>>
+
+
+44. << À l'exception de l'Espagnol Loubaris, les chrétiens ne possèdent pas d'esclaves ici,
+devait écrire à ce propos Ben Bouzid. Quant aux juifs, ils se sont approprié un grand nombre
+de femmes hartani-es (affranchies) et draouies (du Draâ) [...]. Ils les font venir et les
+vendent en secret [...]. Il y a près de trois mois, des gens d'un douar ont intercepté de nuit
+un juif [qui conduisait] une fille arabe et qui a [prétendu] qu'un Arabe qu'il ne connaissait
+que de vue lui a demandé de la garder pour la nuit [...]. Nous continuons notre enquête. »
+
+
+CHAPITRE III
+
+
+Sous le protectorat
+
+
+1. J. Niddam,  Journal (1901-1910) », publié par Maîtrot de la Motte Capron et Dr Trenga
+sous le titre <<< Journal d'un correspondant de révolution », Bulletin de la Société de géographie
+d'Alger, $1^{\circ}$, $2^{\circ}$ et $3^{\circ}$ ter., 1936, p. 1-62, 133-192 et 261-315.
+
+
+2. Les perquisitions furent menées avec une grande brutalité sous la supervision d'officiers et
+de sous-officiers français, lesquels encourageaient les soldats marocains qui les
+accompagnaient à procéder à des fouilles systématiques des maisons et des magasins et
+offraient une prime de 50 pesetas hassani à quiconque découvrait des caches de fusils ou de
+cartouches.
+
+
+3. Hubert Jacques, Les Journées sanglantes de Fez, Paris, Chapelot, 1913, p. 67; Frédéric
+Weisgerber, Au seuil du Maroc moderne, Casablanca, Éditions La Porte, 1947, p. 287 : « La
+section d'artillerie du commandant Fellert [...] se met à bombarder les quartiers occupés par
+les émeutiers  ; AMAE, Correspondance politique, 221, Fès, 18 avril 1912, Régnault à son
+département; M. Kenbib, Juifs et musulmans au Maroc (1859-1948). Contribution à l'histoire
+des relations intercommunautaires en terre d'islam, op. cit., p. 370-394.
+
+
+4. Manuscrit aimablement communiqué par Larbi Mezzine, spécialiste de l'histoire sociale du
+Tafilalet.
+
+
+5. Haïm Toledano, Le Maroc nouveau et les Israélites, Tanger, Imprimeries marocaines, 1913,
+p. 6-9.
+
+
+6. Moïse Nahon, « Les Israélites du Maroc », Revue des études ethnographiques et sociologiques,
+2, p. 262; J. Bénéch, op. cit., p. 76 : << À l'abri des remparts (du mellah), il peut rester juif et
+pratiquer sa loi en toute liberté. >>
+
+
+7. Le Progrès de Fez, 26 novembre 1922 : « Le tertib, dira-t-on, ne touche pas les juifs ? C'est
+une erreur: presque tous les juifs de Fez font quelques cultures en association avec des
+indigènes [...] dont ils sont les commanditaires; le tertib absorbant souvent toute la récolte,
+le juif ne touche plus rien de son association, trop heureux même s'il n'y perd pas tout son
+capital. >>>
+
+
+8. FO, 881, 8879, Tanger, 8 février 1907, conf., G. Lowther à E. Grey:  The mellah of
+Mogador is overcrowded and in filthy state. This is largely the fault of Jewish landlords who
+squeeze every farthing they can out of their tenants, doing nothing in the way of
+improvements in return. >>>
+
+
+9. D. Schroeter et J. Chetrit, <<< The Transformation of the Jewish Community of Essaouira
+(Mogador) in the Nineteenth and Twentieth Centuries », op. cit., p. 106-107.
+
+
+10. Sur la période 1940-1943, voir notamment M. Abitbol, Les Juifs d'Afrique du Nord sous
+Vichy, Paris, Maisonneuve et Larose, 1983.
+
+
+11. Ibid., p. 7, « Les Hitlériques, pamphlets en vers du jeune poète M.I. Knafo », publiés à
+Casablanca. I. Ben Ami, Judaïsme au Maroc, Jérusalem, R. Mass, 1975, p. 109, « Qasida di
+Hitler, par Matiah Simhun de Mogador ».
+
+
+12. A.I., 15 janvier 1940, p. 9.
+
+
+13. AEP, NS, 491, 11 octobre 1938.
+
+
+14. Ibid., 778, Rabat, 4 novembre 1918, note du colonel Berriau sur « l'incapacité des juifs
+du Maroc à défendre par les armes leurs personnes [et] à plus forte raison leurs idées », ΑΕΡ,
+778, ibid., 22 novembre 1918, Lyautey à Pichon.
+
+
+15. AMG, 3H 159, 8 juin et 7 juillet 1940, La Presse marocaine, 30 août 1940.
+
+
+16. AEP, Série Vichy Maroc (VM infra), 3145, 6 mars 1941, n° 349, Noguès à Darlan au sujet
+de la mise en résidence forcée de ressortissants britanniques.
+
+
+17. Charles-André Julien, L'Afrique du Nord en marche. Nationalismes musulmans et
+souveraineté française, Paris, Julliard, 1952, p. 158.
+
+
+18. Haïm Zafrani indique à propos de ces réfugiés que « ceux qui avaient leurs papiers en
+règle et qui n'étaient qu'en transit étaient pris en charge par des comités locaux d'assistance
+et par les organisations internationales de secours (HIAS, AJDC, HICEM), à Casablanca et
+Tanger, jusqu'à leur départ vers les Amériques ou vers d'autres destinations plus lointaines
+(Australie, colonies anglaises de l'océan Indien). D'autres furent soustraits à l'internement
+grâce à une action de solidarité remarquable. Des maisons d'accueil furent ouvertes à Tanger.
+D'autres étaient pris en charge par les communautés de Fès, Marrakech, Mogador, Safi,
+Mazagan... Les réfugiés internés, dont le nombre dépassait le millier, étaient détenus dans
+des camps, au Maroc Oriental et aux confins du Sahara, où les conditions de vie étaient très
+
+
+dures. Eux aussi recevaient secours et assistance jusqu'à la fermeture de ces lieux
+d'internement parfois comparables à de véritables bagnes ».
+
+
+19. William Hoisington, The Casablanca Connection. French Colonial Policy in Morocco (1936-
+1943), Chapel Hill, The University of North Carolina Press, 1984: « [Noguès] wife's Jewish
+ancestry certainly did not enhance his prestige with [the upper echelons of the officer corps
+(noted) for their reactionary and anti-Semitic views] in the day of racial legislation. He was
+charged with slowness in implementing Vichy's anti-Jewish decrees. >>>
+
+
+20. Observations et commentaires de Haïm Zafrani : « Les dahirs (décrets) chérifiens, faisant
+application du statut des juifs du Maroc, ont paru au Bulletin officiel du Maroc du 9
+septembre 1940 et du 8 août 1941. Deux remarques importantes sont à faire à cet égard. La
+première concerne la procédure de publication des dahirs: le résident général détenait seul
+l'autorité effective et réelle; ses services rédigeaient en français les textes des dahirs; sa
+signature leur donnait force de loi; les textes étaient ensuite traduits en arabe et adressés au
+palais royal pour être soumis au paraphe et sceau du roi. La deuxième remarque a trait à
+l'étendue de l'application de ces lois : les juifs qui furent touchés par leur contenu étaient
+ceux qui avaient adopté les modes de vie et de pensée français, c'est-à-dire une infime
+minorité. >>
+
+
+21. H. Hirschberg,  The Problem of the Judaized Berbers », op. cit., t. II, p. 325. « [The
+Sultan] was probably not consulted before the decree was issued and not given a chance to
+protest against its publication. » AMG, 3H 159, 5-11 juillet 1941.
+
+
+22. Le personnage avait déjà été l'objet, au tout début des années 1930, d'un violent
+réquisitoire ayant fait date, publié à Paris en 1932 sous le titre <<< Le Maroc sans masque. Son
+Excellence ». Son auteur, Gustave Babin, y avait notamment recensé les abus de pouvoir du
+pacha, son implication dans un assassinat, la dénonciation par une association britannique
+de son rôle dans le trafic de Blanches.
+
+
+23. Pétain devait sans doute se rappeler le concours que les « grands caïds du Sud », dont
+Thami El Glaoui précisément, lui avaient apporté près de seize ans plus tôt par la
+mobilisation de milliers d'hommes de tribus, envoyés dans le Rif participer aux côtés des
+troupes françaises et espagnoles à l'écrasement de la résistance dirigée par Mohamed ben
+Abdelkrim Khattabi.
+
+
+24. AEP, VM, P. 3140, DAP, 3 décembre 1940, n° 250, secret, « À Fès, il est rapporté de source
+sérieuse que par représailles contre le statut des Israélites, les négociants juifs de cette ville
+s'abstiendraient de participer à l'œuvre de Secours national d'hiver. >>>
+
+
+25. S'étant déjà illustré en 1938 dans la « dénonciation de l'accaparement juif », il s'associa à
+l'Action française pour fustiger les « juifs torturés par le démon du lucre » : AEP, 3146, p. 40,
+<< ĽUnion pour la défense de l'Empire », « Parlons des juifs », 26 février 1941.
+
+
+26. VN, 25 novembre 1940.
+
+
+27. Ibid., DAP, 3 décembre 1940, secret, « À Meknès, des inscriptions antisémitiques ont été
+relevées sur les magasins de deux commerçants juifs récemment condamnés pour hausse
+illicite et refus de vente. >>>
+
+
+28. Pierre Flamand, Les Communautés israélites du Sud marocain, Casablanca, 1959, p. 220-
+221: << [Des juifs du Sud ont trouvé] de nouvelles sources de profits [...] dans la mise en
+place de l'économie de guerre; de 1939 à 1945, les administrateurs trouvent [en eux] des
+auxiliaires capables d'assurer le ravitaillement, d'acheminer et de répartir les denrées
+contingentées. >>
+
+
+29. Roger Thabault, « Le Maroc à l'heure du vichysme », Les Nouveaux Cahiers, n° 43, 1975-
+1976, p. 18.
+
+
+30. A. Guigui, op. cit., p. 40, démarches entreprises auprès du sultan par le président de la
+communauté de Meknès, Joseph Bedugo (1890-1968), avec l'appui de notables musulmans,
+dont le pacha de la ville –  citadelle vichyste  à l'époque. Robert Murphy, Diplomat Among
+Warriors, New York, Garden City, 1964, p. 147: « [I] visited several synagogues prior the
+arrival of the allied expedition, in order to express the sympathy of the American
+government for the Jews. >>>
+
+
+31. M. Abitbol, Les Juifs d'Afrique du Nord sous Vichy, op. cit., p. 186.
+
+
+32. Document cité par Haïm Zafrani, provenant des Archives nationales de Paris et
+appartenant aux << Papiers Maurice Vanikoff » (72 AJ 594 Maroc), évoquant le recensement
+des biens juifs au Maroc en 1941-1942 et les déclarations du sultan.
+
+
+33. Télégramme de l'AFI daté du 24 mai 1941, adressé par René Touraine à Vichy, intitulé <<<
+Dissidence », relatif à l'attitude du sultan à l'égard des juifs marocains.
+
+
+34. Ibid., 19-25 juin 1941. « Pendant la pacification du Tafilalet, des juifs avaient acheté des
+terres aux paysans. [Maintenant], ils cherchent à les vendre à leurs anciens propriétaires. >>>
+35. Georges Spillman, Souvenirs d'un colonialiste, Paris, Presses de la Cité, 1968, p. 154,
+témoignage sur l'état d'esprit des notables marocains face à la résistance au débarquement.
+36. <<< Louange à Dieu seul, le Clément et le Miséricordieux, vous, fils du Maghreb, que Dieu
+vous bénisse, dit cet appel, voici venir un grand jour pour vous et pour nous tous [...] qui
+aimons la liberté [...]. Nous sommes venus pour mener le jihad [...]. Nous avons traversé la
+mer à bord de plusieurs bateaux et débarqué sur les plages [...]. Rassemblez-vous pour
+souhaiter la bienvenue à vos frères [...]. Que vos femmes les accueillent avec des youyous.
+Ce sont des frères et des moujahidines [...] venus pour lutter pour le grand jihad de la
+liberté [...]. Nous ne sommes pas comme d'autres chrétiens qui vous foulent de leurs pieds
+[...]. Nous sommes venus pour vous libérer [...]. Que Dieu nous bénisse tous ! »; Anthony
+C. Brown, The Last Hero. Wild Bill Donovan, Founder of the OSS and << Father >> of the CIA,
+Londres, Times Books, 1982, p. 252-253.
+
+
+37. The Department of State Bulletin, 28 novembre 1942, vol. VII, d 179, « American Military
+Operations in French North Africa. Exchange of Messages between President Roosevelt and
+the Sultan of Morocco », p. 961-962.
+
+
+38. M. Abitbol, Les Juifs d'Afrique du Nord sous Vichy, op. cit., p. 153-155.
+
+
+39. AJC, Annual Report, New York, 1943, p. 54-55, Report on the Overseas Committee.
+
+
+CHAPITRE IV
+
+
+Les juifs du Maroc des années 1950 à aujourd'hui
+
+
+1. Michel Knafo, Le Mossad et les secrets du réseau juif au Maroc (1955-1964), Paris,
+Biblieurope, 2008, p. 378-445.
+
+
+2. Aïda Pinto, Mon passé marocain (1923-1967), Erez, Jérusalem, 2004, p. 167-168.
+
+
+3. Hassan II, La Mémoire d'un roi. Entretiens avec Éric Laurent, Paris, Plon, 1993, p. 254-282.
+
+
+4. Mark Tessler, A History of the Israeli-Palestinian Conflict, Bloomington, Indiana University
+Press, 1994, p. 606-622.
+
+
+Abréviations
+
+
+AEP : Archives du ministère français des Affaires étrangères
+
+
+(Paris).
+
+
+AIU: Alliance israélite universelle.
+
+
+AJA: Anglo-Jewish Association.
+
+
+AMG: Archives du ministère de la Guerre (château de Vincennes,
+
+
+Paris).
+
+
+BGA : Bibliothèque générale (Section Archives, Rabat).
+
+
+BR: Bibliothèque royale (Hassaniya, Rabat).
+
+
+CJM: Congrès juif mondial.
+
+
+CP : Série Correspondance politique.
+
+
+FO: Archives du Foreign Office (Londres).
+
+
+FRUS : Archives du Département d'État (Washington).
+
+
+VM: Série Vichy Maroc.
+
+
+WIZO : Women's International Zionist Organization.
+
+
+Glossaire
+
+
+Achar : impôt canonique payé par les musulmans (le dixième des
+
+
+récoltes).
+
+
+Alem (pl. oulémas) : savants en sciences religieuses.
+
+
+Amine (pl. oumana) : chef de corporation ; agent du fisc.
+
+
+Baraka: pouvoir charismatique, signe de sainteté.
+
+
+Be'ïa: allégeance.
+
+
+Beldiyyine: autochtones; juifs convertis à l'islam.
+
+
+Cadi: juge appliquant le droit musulman (chraâ).
+
+
+Cheikh al-yahoud : doyen des juifs assurant la liaison avec le
+
+
+Makhzen.
+
+
+Chérif (pl. chorfa) : descendant du Prophète.
+
+
+Chraâ: droit musulman.
+
+
+Dahir : décret, arrêté du sultan.
+
+
+Dayyanim : juges.
+
+
+Dhimma: protection canonique accordée aux juifs et aux
+
+
+chrétiens en terre d'islam.
+
+
+Dhimmis: protégés canoniques.
+
+
+Fétoua: consultation juridique.
+
+
+Habous : biens des fondations pieuses, inaliénables.
+
+
+Heder (pl. hederim) : école élémentaire juive.
+
+
+Herem : excommunication, anathème chez les juifs.
+
+
+Hilloula (pl. hilloulot) : célébration, pèlerinage autour de la tombe
+
+
+d'un saint juif.
+
+
+Jiziya: impôt canonique payé par les dhimmis.
+
+
+Kahal (pl. kehilot) : communauté juive.
+
+
+Khotba: prêche, sermon, homélie.
+
+
+Mahiya: eau-de-vie.
+
+
+Makhzen : gouvernement, État ; litt. dépôt, magasin.
+Megorashim : juifs expulsés d'Espagne et du Portugal.
+
+
+Mellah: quartier juif.
+
+
+Mohtasseb: prévôt, contrôleur des prix et de la qualité ; veille aux
+bonnes mœurs.
+
+
+Mokhalet: associé agricole.
+
+
+Nagid (pl. nagidim) : voir Cheikh al-yahoud.
+
+
+Pourim : commémoration d'un événement miraculeux.
+
+
+Séfarades: juifs d'origine espagnole, Orientaux.
+
+
+Siba : révolte, dissidence.
+
+
+Taqqanot : ordonnances.
+
+
+Tertib : impôt proportionnel.
+
+
+Toshavim : juifs autochtones, dits aussi beldiyyine (gens du pays).
+Toujjar-sultan : négociants du sultan, « facteurs de l'empereur ».
+
+
+Tritil : saccage, pillage, dévastation.
+
+
+Zakat : impôt canonique, purification des biens.
+
+
+Zaouïa : litt. angle ; confrérie religieuse, loge.
+
+
+Zettat: guide rémunéré.
+
+
+Ziyara : offrande à un saint.
+
+
+Zouag : demande rituelle de protection.
+
+
+Bibliographie sélective
+
+
+Histoire mondiale. Islam. Judaïsme
+
+
+ABITBOL, Michel, Les Juifs d'Afrique du Nord sous Vichy, Paris,
+Maisonneuve et Larose, coll. « Judaïsme en terre d'islam », 1983.
+Communautés juives des marges sahariennes du Maghreb,
+,
+Jérusalem, Institut Ben-Zvi, 1982.
+BENHARROCHE, David,
+
+
+<<
+La révolte de Wadi Salib », Perspectives
+nouvelles, numéro spécial, « Les sépharades et la paix », 1981, p.
+67-71.
+
+
+CHAGNOLLAUD, Jean-Paul, Maghreb et Palestine, Paris, Sindbad, 1977.
+GOITEIN, Shlomo Dov, A Mediterranean Society, Berkeley-Los Angeles,
+University of California Press, 1967-1973.
+
+
+GREEN, Abigail, Moses Montefiore. Jewish Liberator, Imperial Hero,
+Cambridge, Harvard University Press, 2010.
+
+
+HIRSZOWICZ, Lucasz, The Third Reich and the Arab East, Londres,
+Routledge & Keagan, 1966.
+
+
+ISRAËL, Gérard, René Cassin. La guerre hors la loi. Avec de Gaulle. Les
+droits de l'homme, Paris, Desclée de Brouwer, 1990.
+
+
+JBARA, Taysir, Palestinian Leader, Haj Amin Hussayni, Mufti of
+Jerusalem, Princeton, The Kingston Press, 1985.
+
+
+KASPI, André, Les Juifs pendant l'Occupation, Paris, Seuil, 1991.
+MURPHY, Robert, Diplomat Among Warriors, New York, Garden City,
+1964.
+
+
+PULIDO, Angel, Espanoles sin patria y la raza sefardi, Madrid, 1905.
+SCHOLEM, Gershom, Sabbatai Sevi, Mystical Messiah, Princeton,
+Princeton University Press, 1973.
+
+
+VALENSI, Lucette, WACHTEL, Nathan, Mémoires juives, Paris, Gallimard,
+1986.
+
+
+WERBLOWSKY, Zwi, « Jérusalem dans la conscience juive, chrétienne et
+musulmane », Cahiers de la Méditerranée, décembre 1984-juin
+1985, р. 189-205.
+
+
+Histoire du Maroc
+
+
+ABITBOL, Michel, Histoire du Maroc, Paris, Perrin, 2009.
+
+
+BERQUE, Jacques, Ulémas, fondateurs, insurgés du Maghreb (xvif siècle),
+Paris, Sindbad, 1982.
+
+
+BURKE, Edmund, Prelude to Protectorate in Morocco. Precolonial Protest
+and Resistance (1860-1912), Chicago, University of Chicago Press,
+1976.
+
+
+FOUCAULD, Charles (de), Reconnaissance au Maroc (1883-1884), Paris,
+Challamel, 1888.
+
+
+HOISINGTON, William, The Casablanca Connection. French Colonial
+
+
+Policy in Morocco (1936-1943), Chapel Hill, The University of
+North Carolina Press, 1984.
+
+
+KENBIB, Mohammed, Les Protégés. Contribution à l'histoire
+contemporaine du Maroc, Rabat, Publications de la faculté des
+lettres et des sciences humaines, 1996.
+
+
+MILLER, Susan G., A History of Modern Morocco, New York, Cambridge
+University Press, 2013.
+
+
+RIVET, Daniel, Lyautey et l'institution du protectorat français au Maroc
+(1912-1925), 3 vol., Paris, L'Harmattan, 1988.
+
+
+VERMEREN, Pierre, Histoire du Maroc depuis l'indépendance, Paris, La
+Découverte, 2002.
+
+
+Relations judéo-musulmanes au Maroc
+
+
+ABITBOL, Michel, Les Commerçants du roi. Tujjar Al-sultan. Une élite
+économique judéo-marocaine au xIx siècle, Paris, Maisonneuve et
+Larose, 1998.
+
+
+AMRAN EL MALEH, Edmond, Mille ans, un jour, Grenoble, La Pensée
+sauvage, 1986.
+
+
+AYACHE, Germain, Études d'histoire marocaine, Rabat, Smer, 1979.
+BEN AMI, Issachar, Culte des saints et pèlerinages judéo-musulmans au
+
+
+Maroc, Paris, Maisonneuve et Larose, 1990.
+
+
+BENDAHAN, Blanche, Mazaltov, Paris, Éditions du Janbourin, 1930.
+BENSIMON, Donath Doris, Évolution du judaïsme marocain sous le
+
+
+protectorat français (1912-1956), Paris, Mouton & Cie, 1968.
+BOURILLY, Joseph, « La réorganisation des tribunaux rabbiniques au
+Maroc », Renseignements coloniaux, 1918, p. 166-169.
+
+
+BRUNOT, Louis, Malka, Elie, Glossaire judéo-arabe de Fès, Rabat, École
+du livre, 1940.
+
+
+CÉNIVAL, Pierre (de), « La légende du juif Ibn Mech’al », Hespéris, t. V,
+1925, p. 137-218.
+
+
+CORCOS, David, Studies in the History of the Jews of Morocco,
+Jérusalem, Rubin Mass, 1976.
+
+
+FLAMAND, Pierre, Les Communautés israélites du Sud marocain,
+Casablanca, Presses des imprimeries réunies, 1959.
+
+
+GARCIA-ARENAL, Mercedes, « The Revolution of Fas in 869/1465 and
+the Death of Sultan Abdel al Haqq al-Marini », Bulletin of the
+School of Oriental and African Studies, t. XLI, p. 43-66.
+
+
+GOTTREICH, Emily, The Mellah of Marrakech, Bloomington, Indiana
+University Press, 2006.
+
+
+HIRSCHBERG, Haim, A History of the Jews in North Africa, 2 vol., Leyde,
+E.J. Brill, 1974-1982.
+
+
+KENBIB, Mohammed, Juifs et musulmans au Maroc (1859-1948).
+Contribution à l'histoire des relations intercommunautaires en terre
+d'islam, Rabat, Publications de la faculté des lettres et des sciences
+humaines, 1994.
+
+
+KNAFO, Michel, Le Mossad et les secrets du réseau juif au Maroc (1954-
+1964), Paris, Biblieurope, 2008.
+
+
+LASKIER, Michael, The Alliance Israélite Universelle and the Jewish
+Communities of Morocco (1862-1962), Albany, State University of
+New York Press, 1982.
+
+
+LÉVY, Simon, Essais d'histoire et de civilisation judéo-marocaines,
+Rabat, Centre Tarik Ibn Zyad, 2005.
+
+
+LOUPO, Yaacov, Métamorphose ultra-orthodoxe chez les juifs du Maroc.
+séfarades sont devenus ashkénazes, Paris,
+
+
+Comment
+
+
+des
+L'Harmattan, 2006.
+
+
+ORTEGA, Manuel, Los Hebreos in Marruecos, Madrid, 1919.
+
+
+PINTO, Aïda, Mon passé marocain (1923-1967), Erez, Jérusalem,
+2004.
+
+
+SCHROETER, Daniel, The Sultan's Jew. Morocco and the Sephardi World,
+Stanford, Stanford University Press, 2002.
+
+
+SERFATY, Abraham, DAURE, Christine, La Mémoire de l'autre,
+Casablanca, Tarik Éditions, 2002.
+
+
+SIKIRDJI, E., S.D. Lévy. Une belle figure du judaïsme marocain,
+Casablanca, 1955.
+
+
+TOLEDANO, Haïm, Le Maroc nouveau et les Israélites, Tanger,
+Imprimeries marocaines, 1913.
+
+
+VAJDA, Georges, « Un recueil de textes historiques judéo-marocains »,
+Hespéris, t. XXXV, 1948, et t. XXXVI, 1949.
+
+
+VOINOT, Louis, Pèlerinages judéo-musulmans au Maroc, Paris, Larose,
+1948.
+
+
+ZAFRANI, Haïm, Les Juifs du Maroc. Vie sociale, économique et religieuse,
+Paris, Geuthner, 1972.
+
+
+Index des noms de personnes
+
+
+Abbassi, Ali Bey 46
+
+
+Abdallah, Moulay 30, 114
+
+
+Abdel-Aziz, Moulay 92, 94-95, 101, 105-108, 115
+
+
+Abdelhaq, al Marini 21
+
+
+Abdelkader, émir 47-48, 55
+
+
+Abdel-Moumem 17
+
+
+Abderrahmane b. Hicham, Moulay 44, 47-48, 51, 53
+
+
+Abdou, Mohamed 97, 135
+
+
+Abensur, Isaâc 94
+
+
+Abergel, Reuben 193
+
+
+Abi Serour, Mardochée 120
+
+
+Abitbol, Michel 19
+
+
+Abou Youssef, al Mansour 19, 25
+
+
+Aflalo, Makhlouf 61
+
+
+Aflalo, Moïse 94-95
+
+
+Ajana, Mohamed 79
+
+
+Ali, Mohamed 47
+
+
+Alphonse XIII 98
+
+
+Al-Qawri, Mohammed 21
+
+
+Al Qifti 18
+
+
+Amar, David 185, 187-189
+
+
+Arafat, Yasser 196
+
+
+Arieh, Gor 131
+
+
+Attal, Jacob 44-45
+
+
+Auer, Theodor 146
+
+
+Averroès 18
+
+
+Ayache, Germain 204
+
+
+Azoulay, André
+
+
+202
+
+
+Ba Ahmed, ben Moussa 81, 83, 92, 95, 106
+
+
+Balafrej, Ahmed
+
+
+183
+
+
+Bargach, M'hamed 64-65, 73, 86
+
+
+Belisha, Moses 46
+
+
+Ben Abbas, Samuel 18
+
+
+Ben Abdallah, Mohamed 29, 38, 44, 46-47
+
+
+Ben Abdelkrim, Mohamed 21
+
+
+Benadi, Salomon 144
+
+
+Ben Aïcha, Abdallah 42
+
+
+Benarrouch, Roger 201
+
+
+Benasul, Moses 46
+
+
+Ben Attar, Moïse 44
+
+
+Ben Attar, Semtob 46
+
+
+Ben Barka, Mehdi 179, 182, 185, 190
+
+
+Ben Battas, Haroun 21
+
+
+Bengio, Mardochée 99
+
+
+Ben Gourion, David 190
+
+
+Ben Haj Mehdi, Mohamed 78
+
+
+Ben Harroche, Ischoua 92
+
+
+Benharroche, Jacob 59, 61
+
+
+Ben Hassan Ouazzani, Mohamed 170
+
+
+Ben Hofni, Samuel 16
+
+
+Benillouz, Elias 59-60, 65
+
+
+Benjelloun, Abdelkader 190
+
+
+Benjelloun, Taleb 47
+
+
+Ben Kiki, Ruben 44
+
+
+Benkirane, Abdelilah
+
+
+202
+
+
+Ben Mellouk, Mohamed 40
+
+
+Ben Moyal, Saadia 61
+
+
+Benoliel, Judah 48
+
+
+Ben Oualid, Isaac 57
+
+
+Bensimon, Doris 128
+
+
+Ben Tachfine, Yousef 16
+
+
+Bentata, Abraham 132
+
+
+Ben Youssef, Mohammed 152-153, 155, 159, 166, 174, 176-177, 208
+
+
+Benzaquen, Léon 176, 180, 185, 188-189, 194
+
+
+Benzekri, Driss 200
+
+
+Berdugo, David 180, 186
+
+
+Berger, Philippe 14
+
+
+Bitton, Charlie 194
+
+
+Blum, Léon 138-139, 147
+
+
+Boniface, Philippe 167
+
+
+Bou Hmara 91, 110
+
+
+Bou Othmane 119
+
+
+Braunschvig, Benjamin 94
+
+
+Brulard, général
+
+
+114-116
+
+
+Cabessa, Abraham 30
+
+
+Cabessa, Isaâc 30
+
+
+Cambon, Henri
+
+
+103
+
+
+Camps, Gabriel
+
+
+14
+
+
+Campton, J.F. 62
+
+
+Carsinet, Aaron 28
+
+
+Cassin, René 178, 184
+
+
+Cazes-Benatar, Hélène 147
+
+
+Cheikh, Mohamed 30
+
+
+Churchill, Winston 141, 143
+
+
+Clark, Mark
+
+
+158
+
+
+Clinton, Bill
+
+
+196
+
+
+Cohen Sqalli, David 91
+
+
+Cohen, Aït 37
+
+
+Cohen, Prosper 165, 169
+
+
+Cohn, Albert 56-57
+
+
+Corcos, Abraham 33
+
+
+Corcos, David 24
+
+
+Corcos, Ischoua 106, 109, 122
+
+
+Corcos, Meir 46
+
+
+Corcos, Salomon 46
+
+
+Couronnel, A. de 51
+
+
+Dahan, Jacques 177
+
+
+Dahan, Job 85
+
+
+Dayan, Moshé 195
+
+
+Din Afghani, Jamal 97
+
+
+Don Sebastien, roi 23
+
+
+Draï, Moussa 17
+
+
+Drumont, Édouard
+
+
+84
+
+
+Einstein, Lewis
+
+
+99
+
+
+Eisenberg, Marc 201
+
+
+Eisenhower, Dwight 158, 161-162, 187
+
+
+Eitan, Walter 190
+
+
+El Hiba 118-119
+
+
+El Maghribi, Samy 182
+
+
+El Maleh, Abraham 131
+
+
+El Maleh, Edmond Amran 192, 204
+
+
+El Maleh, Joseph 46, 83
+
+
+El Maleh, Ruben 83
+
+
+El-Qaïm, Chalom 59, 61
+
+
+Estelle, Jean-Baptiste 42
+
+
+Ezzagui, Marcos 90-91
+
+
+Fairchild, Lucius 73
+
+
+Fassi, Allal 138, 164-165, 170, 185
+
+
+Fassi, Mohamed al 184
+
+
+Fassiya, Zohra 182
+
+
+Foote, Thomas
+
+
+96
+
+
+Foucauld, Charles de 34, 80, 92, 120
+
+
+Franco, Francisco 143, 188
+
+
+Fréjus, Roland 29
+
+
+Gatmon, Alex 188, 190
+
+
+Gaulle, Charles de 143-144, 154, 161, 164
+
+
+George Ier 31
+
+
+Ginsburg, J.C. 85
+
+
+Glaoui, Madani 109-110
+
+
+Glaoui, Thami 106, 122, 150
+
+
+Goebbels, Joseph 141
+
+
+Goering, Hermann 141, 146
+
+
+Goitein, Shlomo Dov 15
+
+
+Guedalia, Haïm 46
+
+
+Guedj, Felix 144
+
+
+Guessous, Abdeslam 26
+
+
+Guessous, Saïd 65
+
+
+Guillaume II 88, 97
+
+
+Gummeré, Samuel 98
+
+
+Hafid, Moulay 105-107, 109-111, 117
+
+
+Hajoui, Mohamed 117
+
+
+Hamadi Lafquih, Nasser 35
+
+
+Hardy, Georges
+
+
+Harel, Issar 190
+
+
+124-125
+
+
+Hassan II 186, 189, 192, 194-198, 202, 208-209
+
+
+Hassan, Joshua 188
+
+
+Hassan, Moulay 32, 35, 74-76, 78, 86, 89, 92, 95, 101, 106, 109, 166, 181,
+
+
+188, 194
+
+
+Hassan, Salvador 94
+
+
+Hassid Batachai, Havivai 184
+
+
+Hayesod, Keren 131
+
+
+Hay, John H. Drummond 55, 64-65, 72, 81
+
+
+Herzl, Theodor 87, 133
+
+
+Hilali, Samil 182
+
+
+Hirschberg, Haim 14
+
+
+Hitler, Adolf 139-141, 148
+
+
+Holzman, Judah 107, 109
+
+
+Hopkins, Harry 163
+
+
+Hore-Belisha, Leslie 141
+
+
+Houel, Christian 104, 110
+
+
+Husseini, Haj Amine 144
+
+
+Ibn Danan, Saadia 28, 39
+
+
+Ibn Khaldoun 14, 16
+
+
+Ibn Mecha'al 29
+
+
+Ibn Roqqasa, Khalifa 20
+
+
+Ibn Taymiyya, Taqqi-din 20
+
+
+Ibn Toumert, Mahdi 17
+
+
+Ibrahim, Abdallah 183
+
+
+Idriss II 16, 25
+
+
+Idriss, Moulay 126
+
+
+Isabelle II 63
+
+
+Ismail, Moulay 26, 31, 41-42, 44
+
+
+Jamai, Maâti 83
+
+
+Juin, Alphonse 171, 175, 186
+
+
+Julien, Charles-André 123, 164
+
+
+Kettani, Mohamed 96, 107
+
+
+Kholti, Mohamed 136-137
+
+
+Knafo, M. I. 141
+
+
+Labonne, Eirik 170, 175
+
+
+Lancry, Yéhouda 198
+
+
+Lecache, Bernard 138
+
+
+Lempriere, William 32, 45
+
+
+Leven, Narcisse 109, 115, 124
+
+
+Lévy, Eliaho 44-45
+
+
+Lévy, Samuel D. 143, 165-167
+
+
+Lévy, Simon 176, 192, 201, 204
+
+
+Loti, Pierre 32
+
+
+Louis XIV 29, 42
+
+
+Lugasy, Moses
+
+
+82
+
+
+Lyautey, Hubert G. 118, 120-122, 124, 126-127, 131-132, 134-135, 140, 142
+
+
+Ma al Aïnine, cheikh 119
+
+
+Mâameri, Mohammed 163
+
+
+Macnin, Meir 46-47
+
+
+Maghili, Abdelkrim 21
+
+
+Maigret, Roger 103
+
+
+Maïmonide, Moïse 16, 18
+
+
+Maïmoran, Abraham 31, 39, 44
+
+
+Marciano, Saadia 193
+
+
+Mauchamp, Émile 102, 107
+
+
+Mayara, Mohamed 26
+
+
+Meakin, Edward 77
+
+
+Meir, Golda 190
+
+
+Menebhi, Mehdi 92, 108
+
+
+Merry y Colom, Francisco 59-61, 63-65
+
+
+Messas, David 188
+
+
+Messas, Youssef 90
+
+
+Miscowitch, Adolphe 85
+
+
+Mocquet, Jean 30
+
+
+Mohammed V 185, 187, 189
+
+
+Mohammed VI 197-199, 202, 209
+
+
+Moinier, général 111, 115, 117
+
+
+Monsonego, Aaron 203
+
+
+Monsonego, Yedidah 203
+
+
+Montefiore, Moses 34, 62-67, 99
+
+
+Moqri, Mohammed 163
+
+
+Morgenthau, Henry 162
+
+
+Mtougui, Abdelmalek 106
+
+
+Murciano, Moshé 165
+
+
+Murphy, Robert 154, 162
+
+
+Nahon, Menahmen 57, 61, 65
+
+
+Nahon, Moses
+
+
+156
+
+
+Nicolson, Arthur 95
+
+
+Niddam, Jacob 109
+
+
+Nion, Doré de 47-48
+
+
+Noguès, Charles 139, 142, 144-146, 148, 157-159, 161, 163
+
+
+Norallah, Mirza 85
+
+
+O'Donnell, Leopoldo 54, 63
+
+
+Ohana, Jacob 32, 79, 83
+
+
+Ohana, Joe 178-179, 186
+
+
+Ouazzani, Thami 151
+
+
+Ouriaghli, Abbel-Aziz 20
+
+
+Outmezguine, Eliahu 33
+
+
+Pallache, Isaac 43
+
+
+Pariente, Moses 61, 64, 94
+
+
+Patton, S.D. 158-159, 161
+
+
+Peres, Shimon 196
+
+
+Peretz, Amir 199
+
+
+Pétain, Philippe 147, 151, 153, 208
+
+
+Picciotto, Haim 56
+
+
+Pichon, Stephen 142
+
+
+Pinto, Isaâc 92, 156
+
+
+Pinto, Jacques 165
+
+
+Poincaré, Raymond 116
+
+
+Puaux, Gabriel 164, 167, 170
+
+
+Queyrat, Henri 148
+
+
+Rabin, Itzhak 195-196
+
+
+Rachid, Moulay 28-29, 38
+
+
+Raïssouni, Ahmed 98
+
+
+Reade, Thomas F. 65-66
+
+
+Reagan, Ronald 195-196
+
+
+Régnault, Henri 95, 114, 117, 119
+
+
+Rhamin, Ayyadi 106
+
+
+Rida, Rachid 97
+
+
+Ridgeway, West 88
+
+
+Romanelli, Samuel 45
+
+
+Roosevelt, Theodore 98, 100, 154, 159, 161, 163
+
+
+Rothschild, Edmond 65,
+
+
+Sabah, Abraham 83
+
+
+Sackville West, Lionel 73
+
+
+73
+
+
+Saint-Olon, Pidou de 32
+
+
+Sbihi, Abdellatif 151-152
+
+
+Schiff, Jacob 99-100
+
+
+Semach, Y.D.
+
+
+130
+
+
+Serfaty, Abner
+
+
+108
+
+
+Serfaty, Abraham 191, 199
+
+
+Serfaty, Judah 61
+
+
+Shriqui, Addi 46
+
+
+Shriqui, Mordechai 44
+
+
+Sicsu, Abraham 46
+
+
+Simhun, Matiah
+
+
+141
+
+
+Slimane, Moulay
+
+
+29, 32-33, 38, 46-47
+
+
+Slousch, Nahum
+
+
+18
+
+
+Stewart, Charles
+
+
+31-32
+
+
+Sultan, David
+
+
+111
+
+
+Sumbel, Samuel 45
+
+
+Taillandier, S.R. 96
+
+
+Tazi, Abdeslam 95-96, 109
+
+
+Thursz, Jonathan 137, 143
+
+
+Toledano, Chmouel 184
+
+
+Toledano, Haïm 44, 126, 166
+
+
+Toledano, Meyer 186
+
+
+Toledano, Pinhas 94
+
+
+Toledano, Raphaël
+
+
+180
+
+
+Torrès, Abdelkhaleq 151
+
+
+Torrès, Diego 30
+
+
+Torrès, Larbi 100
+
+
+Vallat, Xavier 157
+
+
+Vargas, Bastião de 23
+
+
+Warburg, Paul P. 162
+
+
+Waterbury, John
+
+
+182-183
+
+
+Weisgerber, Franz 104
+
+
+Windus, John 31
+
+
+Yazid, Moulay 29, 32, 46
+
+
+Zafrani, Haïm 36, 153, 156, 184, 204
+
+
+Zagouri, Yahiya 103, 122, 144
+
+
+Zarrouq, Ahmed 21
+
+
+Zerbib, Elie 85
+
+
+Zerhouni, Jilali 89, 91
+
+
+Zine, Moulay 110-111
+
+
+Index des noms de lieux
+
+
+Afrique 11, 14, 42
+
+
+Afrique du Nord 8, 12, 14, 91, 146, 154, 162
+
+
+Afrique subsaharienne 11, 42
+
+
+Agadir 111, 118, 189
+
+
+Aghmat 16
+
+
+Aïn Sefra 120
+
+
+Aix-les-Bains 176, 184, 203
+
+
+Akka 13
+
+
+Alexandrie 20
+
+
+Algérie 51, 53, 55, 58, 71, 75, 84-85, 91-92, 102, 105, 120, 124, 129-130,
+137, 140-141, 143, 145, 161-162, 172, 175
+
+
+Algésiras 63, 97-105, 110, 113-114, 128
+
+
+Allemagne 73, 76, 88, 95, 107, 111, 139-141, 145-146, 157
+
+
+Amazonie 84
+
+
+Amérique 64, 110, 143, 148, 159, 180, 187, 190, 192
+
+
+Amérique du Sud 55, 84, 194
+
+
+Amsterdam 43
+
+
+Andalousie 15
+
+
+Anfa 161
+
+
+Angleterre 23, 30, 42, 44, 47, 50, 53, 66-67, 72, 98, 134, 141, 144, 158,
+
+
+184, 206
+
+
+Anti-Atlas 23
+
+
+Anvers 69
+
+
+Argentine 84
+
+
+Atlantic City 165-166, 169, 208
+
+
+Atlantique, océan 11, 42-43, 45, 154
+
+
+Australie 95
+
+
+Autriche-Hongrie 78
+
+
+Azemmour 21, 23, 124
+
+
+Bagdad 15
+
+
+Bâle 87, 133
+
+
+Berrechid 90
+
+
+Bolivie 84
+
+
+Brésil 84
+
+
+Cadix 58, 63
+
+
+Canada 50, 190-191, 194
+
+
+Canaries 62, 145
+
+
+Casablanca 90, 102, 104-105, 107, 113-114, 120, 122, 137, 143-146, 148, 152,
+
+
+154, 156, 158, 168, 170, 187-188, 190, 197-198, 203-204, 206
+
+
+Castille 22, 24
+
+
+Ceuta 145
+
+
+Chaouïa 74, 90, 102, 105, 107-108, 111, 114-115
+
+
+Cisjordanie 195
+
+
+Cordoue 17-18
+
+
+Dadès 14-15
+
+
+Damas 20
+
+
+Danemark 44
+
+
+Debdou 91-92
+
+
+Demnate 34-35, 168, 204
+
+
+Dila 28
+
+
+Draâ 13-17, 38, 104
+
+
+Égypte 18, 47, 76, 171, 175, 182, 187, 200
+
+
+El Jadida 86
+
+
+Espagne 11-12, 20-24, 42-45,
+157, 188, 191, 194
+
+
+53, 59-60, 62-66, 88, 98, 100-101,
+
+
+132,
+
+
+143,
+
+
+Essaouira 32-33, 38, 41, 44,
+168, 197, 204
+
+
+46-47, 53, 66-67, 78,
+
+
+82-83, 85-87,
+
+
+133,
+
+
+141,
+
+
+États-Unis 44-45, 61, 72,
+188, 190, 192,
+194,
+
+
+91, 98, 100-101, 143, 145, 159, 163, 182,
+
+
+184,
+
+
+187-
+
+
+198
+
+
+Europe 11, 34, 42,
+
+
+46, 49-50, 56,
+
+
+64, 68-69,
+
+
+129, 133,
+
+
+162, 164, 166,
+
+
+180, 182, 190,
+
+
+73, 76-78,
+192
+
+
+95-96, 99,
+
+
+110,
+
+
+121,
+
+
+Fas-al-Bali 41
+
+
+Fas-al-Jdid 41
+
+
+Fès 12, 15-18, 20-31,
+
+
+39-41, 43,
+
+
+47,
+
+
+55, 79, 81, 88, 90,
+
+
+93, 96, 107,
+
+
+109-
+
+
+111, 113-116, 118,
+
+
+126, 128,
+
+
+130,
+
+
+133,
+
+
+136, 145, 150,
+
+
+156, 159-160,
+
+
+168,
+
+
+170, 195-197, 202
+
+
+Fès-Jdid 20, 24-25, 28, 108, 111, 114, 116
+
+
+France 9, 33-34, 44, 47, 50-51,
+
+
+94-95, 97-98, 100-
+
+
+53, 57-58, 72, 75-77, 88,
+101, 103-104, 111, 118-119, 122, 130-131, 134, 139-142, 145-149, 152-154,
+156, 158, 161, 164, 167, 169, 176-177, 190-191, 194, 199
+
+
+Gabon 164, 170
+
+
+Gaza 195
+
+
+Gharb 55, 74-75, 89
+
+
+Ghiata 14, 92
+
+
+Gibraltar 48, 53, 58, 61, 65, 69, 72, 159, 188-189
+
+
+Golan 191
+
+
+Grande-Bretagne 12, 34, 72, 76, 88, 134, 136, 144
+
+
+Haïfa 193
+
+
+Haut-Atlas 23, 34, 90, 121, 168
+
+
+Haut-Guir 105
+
+
+Hollande 42, 44
+
+
+Hongrie 85
+
+
+Ifrane 14, 195-196
+
+
+Illigh 37-38, 119
+
+
+Irak 144
+
+
+Isly 12, 49, 53
+
+
+Israël 8-9, 12, 85, 96, 141, 166, 169, 171-172, 175, 178, 183, 187-196, 198-
+199, 208
+
+
+Italie 34, 76, 141,
+
+
+Jaâfarines, îles 53
+
+
+Japon 97
+
+
+Jerrada 172
+
+
+164
+
+
+Jérusalem 14, 136, 144, 187, 195
+
+
+Jérusalem-Est 191
+
+
+Jordanie 195
+
+
+Kairouan 15
+
+
+Kénitra 158
+
+
+Larache 21, 33, 43
+
+
+Le Caire 15
+
+
+Le Cap 95
+
+
+Liverpool 69
+
+
+Livourne 44
+
+
+Londres 66, 69, 73, 77, 82, 94-95, 143
+
+
+Madagascar 120
+
+
+Madrid 34, 43, 62-63, 72-75, 101, 130, 148
+
+
+Maghreb 8, 14, 24
+
+
+Malaga 60
+
+
+Malte 65
+
+
+Marrakech 12, 16-17, 29-31, 34-35, 38, 50, 60, 64, 66, 81-82, 90, 102, 105-
+107, 118-119, 122, 150, 168, 197, 204
+
+
+Marseille 29, 69
+
+
+Maurétanie 14
+
+
+Méditerranée 11, 42-43, 45, 58,
+
+
+188
+
+
+Meknès 12, 28, 31-32, 39, 41, 44, 55-56, 79, 81, 83, 90, 110-111, 152, 160,
+
+
+197
+
+
+Melilla 42, 60, 62, 66, 89, 91-92
+
+
+M'goun 14
+
+
+Mohammedia 158, 181
+
+
+Moulouya, oued 53
+
+
+Moyen-Atlas 28, 38, 121,
+
+
+191
+
+
+Moyen-Orient 11, 42, 97,
+
+
+140, 171, 174, 176, 180, 194, 196, 207, 209
+
+
+Munich 139-140, 142
+
+
+Néguev 193
+
+
+New York 96, 99, 126, 165, 184, 190, 203
+
+
+Niger 15
+
+
+Oran 120
+
+
+Oranie 84
+
+
+Ouezzane 75, 93
+
+
+Oufrane 38
+
+
+Oujda 92, 102, 105, 114, 172, 174
+
+
+Padoue 45
+
+
+Palestine 13-14, 26, 55, 122, 134, 136, 138-139, 142, 144, 148, 158, 168-169,
+171-172, 195, 207
+
+
+Paris 58, 94, 109, 114-116, 148, 175-176, 187, 190, 198, 201
+
+
+Pays-Bas 23, 30, 43, 94
+
+
+Perse 85
+
+
+Pologne 139
+
+
+Portugal 12, 23, 43, 84
+
+
+Qarawiyine 16-17, 20, 26, 135
+
+
+Qissarya 26
+
+
+Qsar el Kébir 28, 43
+
+
+Qsar Sghir 21
+
+
+Québec 9, 194
+
+
+Rabat 8, 22, 32-33, 43, 47,
+
+
+107,
+
+
+124, 126, 152, 156, 159-160, 164, 175-179,
+
+
+181-182, 188, 195,
+
+
+197,
+
+
+201,
+
+
+204
+
+
+Rif 60, 121, 174, 189, 204
+
+
+Russie 85, 99-100
+
+
+Safi 46, 59-61, 63-66, 124, 158
+
+
+Sahara 118, 192, 204
+
+
+Salé 28, 31-32, 43-44, 124, 152, 179
+
+
+Sebta 29, 53, 62
+
+
+Sefrou 108, 124, 133, 168
+
+
+Settat 90, 99
+
+
+Sijilmassa 15-16, 19
+
+
+Sinaï 191
+
+
+Soudan 15, 88
+
+
+Sous 37-38, 90, 104, 118-119
+
+
+Suède 44-45
+
+
+Tadla 104
+
+
+Tafilalet 14, 89-90, 94, 121, 204
+
+
+Tamesloht 93, 106
+
+
+Tanger 21, 23, 33, 41-42, 46-47, 51, 55,
+
+
+97-99, 126, 167, 169, 171, 175,
+
+
+184,
+
+
+59-67, 72, 74, 77-78, 86, 88, 94,
+197
+
+
+Taroudant 119, 198, 204
+
+
+Taza 29, 31, 92, 99
+
+
+Terre-Neuve 43
+
+
+Tétouan 28, 31-33, 41, 43, 46-47, 49, 52-53, 55-56, 59, 63, 82, 87, 132-133,
+
+
+168
+
+
+Tinmel 17
+
+
+Tiylite 15
+
+
+Tiznit 119
+
+
+Tlemcen 21
+
+
+Tonkin 120
+
+
+Touat 19, 21, 90
+
+
+Turquie 7, 76
+
+
+Venezuela 84
+
+
+Venise 45
+
+
+Versailles 42
+
+
+Volubilis 14
+
+
+Washington 162, 196
+
+
+« Histoire partagée »
+collection dirigée par Michel Abitbol
+
+
+Amnon Cohen, Juifs et musulmans en Palestine et en Israël, 2016.
+Lucette Valensi, Juifs et musulmans en Algérie, 2016.
+Abdelkarim Allagui, Juifs et musulmans en Tunisie, 2016.
+
+
+Retrouvez tous nos ouvrages
+
+
+sur www.tallandier.com
