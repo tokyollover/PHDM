@@ -1,19 +1,23 @@
 #!/bin/bash
 
-# Setup script for NotebookLM MCP Server (Docker Version)
-# This script prepares the environment, builds the Docker image, and sets up data directories.
-# The MCP server source code is now embedded in servers/roomi-notebooklm-mcp (no git clone needed).
+# Setup script for MCP Servers (Docker Version)
+# This script prepares the environment, builds Docker images, and sets up data directories.
 
 set -e  # Exit on error
 
 echo "=========================================="
-echo "NotebookLM MCP Server Setup (Docker)"
+echo "MCP Servers Setup (Docker)"
 echo "=========================================="
 
-# Configuration
-TARGET_DIR="servers/roomi-notebooklm-mcp"
-IMAGE_NAME="roomi-notebooklm-mcp"
-DATA_DIR="ALL/ALLNBLM"
+# --- Configuration: NotebookLM ---
+NBLM_TARGET_DIR="servers/roomi-notebooklm-mcp"
+NBLM_IMAGE_NAME="roomi-notebooklm-mcp"
+NBLM_DATA_DIR="ALL/ALLNBLM"
+
+# --- Configuration: Qualitative Researcher ---
+QR_TARGET_DIR="servers/qualitative-researcher"
+QR_IMAGE_NAME="qualitative-researcher-mcp"
+QR_DATA_DIR="ALL/ALLQR"
 
 # 1. Check Prerequisites
 echo "🔍 Checking prerequisites..."
@@ -23,89 +27,85 @@ if ! command -v docker &> /dev/null; then
     exit 1
 fi
 echo "✓ Docker is available"
-
-# 2. Prepare Data Directory (Persistence)
-echo "📁 Setting up data directory..."
-if [ ! -d "$DATA_DIR" ]; then
-    mkdir -p "$DATA_DIR"
-    echo "✓ Created $DATA_DIR"
-fi
-
-# Set permissions for the container user (UID 999 is typical for node/notebooklm user in container)
-# We use 777 to avoid permission issues with bind mounts in various environments (DevContainers, Linux, etc.)
-chmod 777 "$DATA_DIR"
-echo "✓ Permissions set for $DATA_DIR"
 echo ""
 
-# 3. Verify source code exists (embedded in repo, no git clone needed)
-echo "📂 Verifying MCP server source code..."
-if [ ! -d "$TARGET_DIR" ]; then
-    echo "❌ Error: MCP server source code not found at $TARGET_DIR"
-    echo "   The source code should be embedded in the repository."
+# 2. Prepare Data Directories
+echo "📁 Setting up data directories..."
+
+# NotebookLM Data
+if [ ! -d "$NBLM_DATA_DIR" ]; then
+    mkdir -p "$NBLM_DATA_DIR"
+    echo "✓ Created $NBLM_DATA_DIR"
+fi
+chmod 777 "$NBLM_DATA_DIR"
+echo "✓ Permissions set for $NBLM_DATA_DIR"
+
+# Qualitative Researcher Data
+if [ ! -d "$QR_DATA_DIR" ]; then
+    mkdir -p "$QR_DATA_DIR"
+    echo "✓ Created $QR_DATA_DIR"
+fi
+chmod 777 "$QR_DATA_DIR"
+echo "✓ Permissions set for $QR_DATA_DIR"
+echo ""
+
+# 3. Build NotebookLM Server
+echo "------------------------------------------"
+echo "📦 Building NotebookLM Server..."
+echo "------------------------------------------"
+
+if [ ! -d "$NBLM_TARGET_DIR" ]; then
+    echo "❌ Error: Source code not found at $NBLM_TARGET_DIR"
     exit 1
 fi
 
-if [ ! -f "$TARGET_DIR/package.json" ]; then
-    echo "❌ Error: Invalid MCP server directory - package.json not found"
-    exit 1
-fi
-
-echo "✓ MCP server source code found at $TARGET_DIR"
-echo ""
-
-# 4. Build Application
-echo "🔨 Building application..."
-cd "$TARGET_DIR"
-
-# Install dependencies
-echo "  - Installing dependencies..."
-npm install 
-
-# Build
-echo "  - Compiling TypeScript..."
-npm run build
-
+echo "  - Building application locally..."
+cd "$NBLM_TARGET_DIR"
+# Only run install/build if dist doesn't exist or forced (skipping to save time if already built, but let's be safe)
+npm install && npm run build
 if [ $? -ne 0 ]; then
-    echo "❌ Build failed"
+    echo "❌ NBLM Build failed"
+    exit 1
+fi
+
+echo "  - Building Docker image '$NBLM_IMAGE_NAME'..."
+docker build -t "$NBLM_IMAGE_NAME" .
+cd - > /dev/null
+echo "✓ NotebookLM Server built successfully"
+echo ""
+
+# 4. Build Qualitative Researcher Server
+echo "------------------------------------------"
+echo "📦 Building Qualitative Researcher Server..."
+echo "------------------------------------------"
+
+if [ ! -d "$QR_TARGET_DIR" ]; then
+    echo "❌ Error: Source code not found at $QR_TARGET_DIR"
+    exit 1
+fi
+
+echo "  - Building Docker image '$QR_IMAGE_NAME'..."
+# We use a multi-stage Docker build, so no local npm install needed
+cd "$QR_TARGET_DIR"
+docker build -t "$QR_IMAGE_NAME" .
+if [ $? -ne 0 ]; then
+    echo "❌ QR Docker Build failed"
     exit 1
 fi
 cd - > /dev/null
-echo "✓ Application built successfully"
+echo "✓ Qualitative Researcher Server built successfully"
 echo ""
 
-# 5. Build Docker Image
-echo "🐳 Building Docker image '$IMAGE_NAME'..."
-echo "⏳ This may take a few minutes..."
-
-cd "$TARGET_DIR"
-docker build -t "$IMAGE_NAME" .
-
-if [ $? -eq 0 ]; then
-    echo "✓ Docker image built successfully"
-else
-    echo "❌ Docker build failed"
-    exit 1
-fi
-cd - > /dev/null
-echo ""
-
-# 6. Final Instructions
+# 5. Final Instructions
 echo "=========================================="
 echo "✅ Setup completed successfully!"
 echo "=========================================="
 echo ""
-echo "Available MCP tools include:"
-echo "  - ask_question: Query NotebookLM with session support"
-echo "  - list_content: List sources and generated content"
-echo "  - add_source: Add documents to notebook"
-echo "  - generate_content: Create audio, video, presentations..."
-echo ""
-echo "NOTE: get_source_text and export_all_sources are DISABLED."
-echo "Use pre-exported source files in ALL/ALLNBLM/moroccan-diplomatic-history/notebooklm-sources-[DATE]/"
+echo "Servers ready:"
+echo "  1. NotebookLM MCP ($NBLM_IMAGE_NAME)"
+echo "  2. Qualitative Researcher MCP ($QR_IMAGE_NAME)"
 echo ""
 echo "Next steps:"
-echo "1. Ensure .env contains your NOTEBOOKLM_COOKIE (optional if using VNC auth)"
-echo "2. Restart VS Code or Reload Window to start the MCP server"
-echo "3. Authenticate via VNC: http://localhost:6080/vnc.html"
+echo "1. Ensure .env contains necessary keys"
+echo "2. Restart VS Code or Reload Window to start the MCP servers"
 echo ""
-echo "For usage instructions, open NOTEBOOKLM_TOOLS_GUIDE.md"

@@ -41,3 +41,5 @@ ALL/ALLNBLM/chrome_profile_instances/
 
 # Security
 *.key
+ALL/ALLQR/memory.json
+ALL/ALLQR/sessions.json

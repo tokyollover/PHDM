@@ -28,6 +28,18 @@
         "/app/scripts/start-vnc.sh > /dev/stderr 2>&1 & sleep 5 && exec node dist/index.js"
       ],
       "description": "NotebookLM MCP Server (Docker) - Zero-hallucination answers from your NotebookLM notebooks"
+    },
+    "qualitativeresearch": {
+      "command": "docker",
+      "args": [
+        "run",
+        "-i",
+        "--rm",
+        "--init",
+        "-v", "${workspaceFolder}/ALL/ALLQR:/data",
+        "qualitative-researcher-mcp"
+      ],
+      "description": "Qualitative Research Knowledge Graph MCP Server"
     }
   }
 }

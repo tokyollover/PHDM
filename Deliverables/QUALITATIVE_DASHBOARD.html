@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qualitative Research Knowledge Graph</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; height: 100vh; display: flex; flex-direction: column; }
+        #header { padding: 10px 20px; background: #f0f2f5; border-bottom: 1px solid #ddd; display: flex; align-items: center; justify-content: space-between; }
+        #network { flex-grow: 1; background: #fff; }
+        .controls { display: flex; gap: 10px; align-items: center; }
+        #fileInput { display: none; }
+        .btn { padding: 8px 16px; background: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        .btn:hover { background: #0056b3; }
+        #status { color: #666; font-size: 0.9em; margin-left: 10px; }
+        .legend { position: absolute; bottom: 20px; right: 20px; background: rgba(255,255,255,0.9); padding: 10px; border: 1px solid #ccc; border-radius: 5px; font-size: 0.8em; }
+        .legend-item { display: flex; align-items: center; margin-bottom: 5px; }
+        .legend-color { width: 12px; height: 12px; border-radius: 50%; margin-right: 8px; }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <div style="font-weight: bold; font-size: 1.2em;">Qualitative Research Knowledge Graph</div>
+        <div class="controls">
+            <button class="btn" onclick="document.getElementById('fileInput').click()">Load Graph JSON</button>
+            <input type="file" id="fileInput" accept=".json" onchange="loadGraph(this)">
+            <span id="status">No graph loaded</span>
+        </div>
+    </div>
+    <div id="network"></div>
+    <div class="legend" id="legend"></div>
+
+    <script>
+        let network = null;
+
+        const colorMap = {
+            project: '#FF6B6B',
+            participant: '#4ECDC4',
+            interview: '#45B7D1',
+            observation: '#96CEB4',
+            document: '#FFEEAD',
+            code: '#FF9F43',
+            codeGroup: '#FF6B6B',
+            memo: '#A3CB38',
+            theme: '#6C5CE7',
+            finding: '#FD79A8',
+            quote: '#dfe6e9',
+            researchQuestion: '#0984e3'
+        };
+
+        function loadGraph(input) {
+            const file = input.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const data = JSON.parse(e.target.result);
+                    renderNetwork(data);
+                    document.getElementById('status').innerText = `Loaded: ${file.name} (${data.entities ? data.entities.length : 0} nodes)`;
+                } catch (error) {
+                    alert("Error parsing JSON: " + error.message);
+                }
+            };
+            reader.readAsText(file);
+        }
+
+        function renderNetwork(data) {
+            // Assume data format from MCP server: { entities: [...], relations: [...] }
+            // Adaptation might be needed if format differs. 
+            // Based on server code, it returns a graph object.
+            
+            const nodes = [];
+            const edges = [];
+            const nodeIds = new Set();
+
+            if (!data.entities) {
+                alert("Invalid format: " + JSON.stringify(data).substring(0, 100) + "...");
+                return;
+            }
+
+            data.entities.forEach(entity => {
+                if (!nodeIds.has(entity.name)) { // Using name as ID if no dedicated ID, typically server uses names as keys or has an id field? 
+                    // Server code usually has `name` as primary key or `id`. Visual inspection of server code suggests `name` is unique?
+                    // Let's assume `name` is the key for now.
+                    nodes.push({
+                        id: entity.name,
+                        label: entity.name,
+                        group: entity.type,
+                        title: `Type: ${entity.type}<br>Description: ${entity.description || 'N/A'}`
+                    });
+                    nodeIds.add(entity.name);
+                }
+            });
+
+            if (data.relations) {
+                data.relations.forEach((rel, index) => {
+                    // Start and end are entity names
+                    if (nodeIds.has(rel.from) && nodeIds.has(rel.to)) {
+                        edges.push({
+                            from: rel.from,
+                            to: rel.to,
+                            label: rel.type,
+                            arrows: 'to',
+                            font: { align: 'horizontal' }
+                        });
+                    }
+                });
+            }
+
+            const container = document.getElementById('network');
+            const visData = {
+                nodes: new vis.DataSet(nodes),
+                edges: new vis.DataSet(edges)
+            };
+            const options = {
+                nodes: {
+                    shape: 'dot',
+                    size: 20,
+                    font: { size: 14 }
+                },
+                groups: {
+                    useDefaultGroups: false,
+                    ...Object.keys(colorMap).reduce((acc, key) => {
+                        acc[key] = { color: { background: colorMap[key], border: colorMap[key] } };
+                        return acc;
+                    }, {})
+                },
+                physics: {
+                    stabilization: false,
+                    barnesHut: {
+                        gravitationalConstant: -2000,
+                        springConstant: 0.04,
+                        springLength: 95
+                    }
+                }
+            };
+
+            network = new vis.Network(container, visData, options);
+            renderLegend();
+        }
+
+        function renderLegend() {
+            const legend = document.getElementById('legend');
+            legend.innerHTML = '<strong>Entity Types</strong>';
+            Object.keys(colorMap).forEach(type => {
+                const div = document.createElement('div');
+                div.className = 'legend-item';
+                div.innerHTML = `<div class="legend-color" style="background: ${colorMap[type]}"></div>${type}`;
+                legend.appendChild(div);
+            });
+        }
+    </script>
+</body>
+</html>
