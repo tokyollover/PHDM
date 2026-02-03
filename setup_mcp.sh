@@ -14,10 +14,7 @@ NBLM_TARGET_DIR="servers/roomi-notebooklm-mcp"
 NBLM_IMAGE_NAME="roomi-notebooklm-mcp"
 NBLM_DATA_DIR="ALL/ALLNBLM"
 
-# --- Configuration: Qualitative Researcher ---
-QR_TARGET_DIR="servers/qualitative-researcher"
-QR_IMAGE_NAME="qualitative-researcher-mcp"
-QR_DATA_DIR="ALL/ALLQR"
+
 
 # 1. Check Prerequisites
 echo "🔍 Checking prerequisites..."
@@ -40,14 +37,7 @@ fi
 chmod 777 "$NBLM_DATA_DIR"
 echo "✓ Permissions set for $NBLM_DATA_DIR"
 
-# Qualitative Researcher Data
-if [ ! -d "$QR_DATA_DIR" ]; then
-    mkdir -p "$QR_DATA_DIR"
-    echo "✓ Created $QR_DATA_DIR"
-fi
-chmod 777 "$QR_DATA_DIR"
-echo "✓ Permissions set for $QR_DATA_DIR"
-echo ""
+
 
 # 3. Build NotebookLM Server
 echo "------------------------------------------"
@@ -74,27 +64,7 @@ cd - > /dev/null
 echo "✓ NotebookLM Server built successfully"
 echo ""
 
-# 4. Build Qualitative Researcher Server
-echo "------------------------------------------"
-echo "📦 Building Qualitative Researcher Server..."
-echo "------------------------------------------"
 
-if [ ! -d "$QR_TARGET_DIR" ]; then
-    echo "❌ Error: Source code not found at $QR_TARGET_DIR"
-    exit 1
-fi
-
-echo "  - Building Docker image '$QR_IMAGE_NAME'..."
-# We use a multi-stage Docker build, so no local npm install needed
-cd "$QR_TARGET_DIR"
-docker build -t "$QR_IMAGE_NAME" .
-if [ $? -ne 0 ]; then
-    echo "❌ QR Docker Build failed"
-    exit 1
-fi
-cd - > /dev/null
-echo "✓ Qualitative Researcher Server built successfully"
-echo ""
 
 # 5. Final Instructions
 echo "=========================================="
@@ -103,7 +73,6 @@ echo "=========================================="
 echo ""
 echo "Servers ready:"
 echo "  1. NotebookLM MCP ($NBLM_IMAGE_NAME)"
-echo "  2. Qualitative Researcher MCP ($QR_IMAGE_NAME)"
 echo ""
 echo "Next steps:"
 echo "1. Ensure .env contains necessary keys"
