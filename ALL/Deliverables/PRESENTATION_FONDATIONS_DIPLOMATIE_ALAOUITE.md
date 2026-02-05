@@ -411,6 +411,32 @@ Ces traités **formalisent juridiquement l'espace maritime** : droits de douane,
 
 ---
 
+### 4. Le Dispositif Institutionnel : La gestion de la distance
+
+Si le Sultan projette sa puissance par des traités, il protège son autorité par une **gestion rigoureuse de la distance diplomatique**. Contrairement au modèle européen qui généralise les ambassades résidentes permanentes dès le XVIIe siècle, le Makhzen maintient une structure duale visant à filtrer les influences étrangères.
+
+#### A. Le « glacis » de Tanger et l'institution du Naib
+
+Une règle d'or de la diplomatie chérifienne est le **confinement des représentants étrangers** à Tanger. Les consuls et ministres plénipotentiaires européens ne sont pas autorisés à résider dans les capitales impériales (Fès, Marrakech, Meknès), sauf lors d'ambassades extraordinaires strictement encadrées.
+
+Pour gérer ce corps diplomatique cantonné, le Sultan délègue un **Naib** (littéralement « représentant » ou « lieutenant ») :
+- **Fonction** : Interlocuteur unique et obligatoire des puissances, il agit *de facto* comme un Ministre des Affaires Étrangères délocalisé.
+- **Stratégie** : Ce système crée un « tampon » bureaucratique et géographique. Le Naib filtre les demandes, temporise et permet au Sultan de garder la haute main sur le temps diplomatique sans être exposé aux pressions directes.
+- **Figures marquantes** : Des personnalités comme **Mohammed Bargash** ou **Mohammed Torres** (à la fin du XIXe siècle) deviendront les véritables chevilles ouvrières de la résistance diplomatique, excellant dans l'art de la réponse dilatoire.
+
+#### B. Les ambassadeurs extraordinaires : Vizirs et Lettrés
+
+À l'inverse des *Tujjar* (commerçants) ou des *Renégats* (techniciens), les missions politiques de haute importance sont confiées à l'élite du Makhzen :
+- **Profil** : Vizirs, *Fqihs* (jurisconsultes) ou hauts dignitaires de la cour.
+- **Mission** : Il ne s'agit pas de résider à Paris ou Londres, mais d'effectuer des **missions ponctuelles** (négocier une alliance, racheter des captifs, porter un message solennel) puis de revenir.
+- **Exemples historiques** :
+  - **Mohammed Temim** (1682) : Envoyé à Paris pour négocier avec Louis XIV, il incarne la diplomatie culturelle et religieuse.
+  - **Mohammed al-Saffar** (1845) : Son ambassade post-Isly vise à comprendre la supériorité technique française. Son récit de voyage (*Rihla*) témoigne de la prise de conscience du retard technologique (« *l'ordre chez eux, le désordre chez nous* »).
+
+Cette structure – **confinement des étrangers / projection ponctuelle des émissaires** – a permis de préserver l'intégrité du *Bled Makhzen* des ingérences directes pendant plus de deux siècles.
+
+---
+
 ### Transition vers la Partie II
 
 À l'aube du XIXe siècle, la diplomatie alaouite a atteint un **apogée contractuel**. Le Maroc est inséré dans le droit des gens européen, reconnu comme partenaire commercial et État souverain par une douzaine de puissances. Cependant, le rapport de force va brutalement basculer : la révolution industrielle confère à l'Europe une puissance militaire et économique écrasante. La diplomatie marocaine va devoir muter, passant de la projection à la défense, du traité commercial au traité inégal.
