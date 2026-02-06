@@ -5,9 +5,6 @@
 | Plateforme | Lien | Capacités | GPU |
 |---|---|---|---|
 | **Google Colab** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tokyollover/PHDM/blob/PHDMWNB/ColabV1.ipynb) | Notebook interactif complet | T4 (15GB) |
-| **HuggingFace Spaces** | [![Run on HF Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/run-on-spaces-sm.svg)](https://huggingface.co/spaces/tokyollover/PHDM-Pipeline) | UI Web Streamlit | H100 (80GB) ⚡ |
-
-**💡 Conseil** : Utilisez HuggingFace Spaces pour **~3x plus rapide** avec H100 gratuit (ZeroGPU).
 
 Ce projet est conçu pour transformer votre environnement de développement en un outil avancé d'analyse de contenu pour les Sciences Politiques et la Data Science. Il combine l'intelligence de GitHub Copilot avec la base de connaissances vérifiée de Google NotebookLM via le protocole MCP (Model Context Protocol).
 
@@ -24,7 +21,7 @@ Exportation via plugin NotebooKLM Ultra Exporter en respectant la **Structure de
 - **GitHub Copilot** : Configuré via `.github/copilot-instructions.md` pour agir comme un Assistant de Recherche Senior (méthodologie hypothético-déductive).
 - **NotebookLM MCP (Docker)** : Connecte VS Code directement à vos carnets de notes NotebookLM pour interroger vos sources (PDF, Docs) en temps réel.
 - **Environnement Isolé** : Le serveur MCP tourne dans un conteneur Docker pour une stabilité et une sécurité maximales.
-- **PHDM Pipeline (Streamlit)** : App web moderne sur HuggingFace Spaces avec support **ZeroGPU (H100)** pour conversion PDF → Markdown rapide. Voir [README_HF.md](./README_HF.md) pour configuration.
+
 
 ## 🚀 Démarrage
 
