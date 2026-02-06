@@ -35,18 +35,20 @@ Pour répondre, notre analyse s'articulera en deux parties :
 > **Audit réalisé via NotebookLM :** Corpus documentaire BRIGNON (*Histoire du Maroc*) + TAZI (*Histoire diplomatique du Maroc*, T.7-T.9)
 >
 > **Ressources iconographiques disponibles :**
-> 
+>
 > **Cartes à récupérer :**
+>
 > - *« Carte générale des Estats du roy de Fez »* composée par Germain Mouette (1683) — **Source :** BRIGNON et al., *Histoire du Maroc*, planches cartographiques. Montre les limites tribales, zones Makhzen/Siba, ports d'Essaouira et Salé.
 > - *Carte du Maroc (sources portugaises Torre do Tombo)* — **Source :** TAZI, *Histoire diplomatique du Maroc*, T.7 ; Originaux : **Archives de Torre do Tombo (Lisbonne)**. Représentation XV-XVIIe s. des présides espagnols et routes commerciales.
 > - *Carte de la Maurétanie Tingitane (reconstitution romaine)* — **Source :** *Archives Marocaines*, T.1 (Besnier). À superposer pour montrer la continuité territoriale.
 > - *Plan de la Baie de Tanger, XVIIe-XVIIIe siècles* — **Source :** BRIGNON, *Histoire du Maroc* ; Manuscrit espagnol (ca. 1700). Localisation : Archives d'État (Valladolid).
-> 
+>
 > **Fonds d'archives recommandés :**
+>
 > - **Torre do Tombo (Lisbonne) :** Cartes marines portugaises du Maroc, XVe-XVIIe s. [Consultable en ligne : torre.org.pt]
 > - **Direction des Archives Royales (Rabat) :** Dossiers topographie et urbanisme, XVIIIe s.
 > - **British Library (Londres) :** Cartes de Tanger sous contrôle britannique (BL Add MS 16377)
-> 
+>
 > **Indices de localisation pour recherche :** Chercher « Carte Maroc Mouette 1683 » ou « Portolan Maroc XVIe » pour trouver ces ressources numérisées via Gallica (BnF) ou Archive.org.
 
 ---
@@ -80,12 +82,14 @@ Moulay Mhammed retourne l'argument contre ses interlocuteurs : en tant que desce
 > **Audit réalisé via NotebookLM :** TAZI, *Histoire diplomatique du Maroc* (T.9) + BRIGNON, *Histoire du Maroc*
 >
 > **Portraits et iconographie disponibles :**
+>
 > - *Portrait de Moulay Mhammed ben Echchérif (ca. 1631-1662)* — Fondateur de la dynastie — **Source :** TAZI, T.9. Gravures du XVIIe s. (reconstitutions modernes).
 > - *Portrait de Moulay Ismaïl (1672-1727)* — Gravure par Mouette (1683) — **Source :** BRIGNON, *Histoire du Maroc*, et TAZI, T.9. Vêtements royaux, insignes du pouvoir.
 > - *Portrait imaginé de Moulay Ismaïl par peintres européens* — Série de représentations XIXe s. — **Source :** TAZI, T.9 ; conservées dans collections privées et musées.
 > - *Armes et armures d'époque* — Sabres, boucliers, étendards — **Source :** Musée du Palais Royal (Fès ou Marrakech) ; reproductions dans BRIGNON.
 >
 > **Fonds archivistiques :**
+>
 > - **BnF (Paris), Département des Estampes :** Gravures des sultans Alaouites (Fonds Thoisy)
 > - **Gallica (bnf.fr) :** Rechercher « Moulay Ismaïl gravure » ou « Mouette Maroc »
 > - **Musées du Maroc :** Musée du Palais Royal (Rabat, Fès, Marrakech)
@@ -105,6 +109,7 @@ Cette rivalité se traduit militairement. Moulay Ismaïl (r. 1672-1727) mène pl
 > **Audit réalisé via NotebookLM :** TAZI, *Histoire diplomatique du Maroc* (T.7) + BRIGNON, *Histoire du Maroc* + *Archives Marocaines*
 >
 > **Cartes historiques et documents de délimitation :**
+>
 > - *Carte de la frontière Maroc-Algérie, XVIIe-XVIIIe siècles* — Reconstitution — **Source :** TAZI, *Histoire diplomatique*, T.7. Montre l'Oued Tafna comme démarcation entre Maroc et espace ottoman.
 > - *Carte des zones d'influence tribales (Zaïan, Zemmour, Rif)* — Évolution XVIIe-XIXe s. — **Source :** BRIGNON, *Histoire du Maroc*. Montre l'intégration progressive au Makhzen.
 > - *Carte comparée : Maroc 1660 vs Maroc 1700* — Avant/après Moulay Ismaïl — **Source :** *Archives Marocaines*, Vol. 1.
@@ -112,6 +117,7 @@ Cette rivalité se traduit militairement. Moulay Ismaïl (r. 1672-1727) mène pl
 > - *Copie du traité de délimitation avec la Régence d'Alger (1678)* — Fac-similé — **Source :** TAZI, T.7 Annexes.
 >
 > **Fonds d'archives :**
+>
 > - **Direction des Archives Royales (Rabat) :** Dossiers frontières, XVIIe-XIXe s.
 > - **Torre do Tombo (Lisbonne) :** Cartes portugaises des confins algéro-marocains
 > - **Archives du MAE (Paris) :** Correspondances sur la délimitation (XIXe s.)
@@ -154,11 +160,11 @@ Cependant, la Cour a également précisé que ces liens « ne sont nullement des
 
 Les travaux récents de Saloua El Oufir sur la mobilité diplomatique marocaine apportent un éclairage décisif sur le **verrouillage identitaire** qui structure la pratique diplomatique chérifienne.[^ElOufir] L'analyse des récits de voyages diplomatiques (1691-1919) révèle une pyramide des allégeances indissociables :
 
-| Niveau | Référent | Manifestation |
-|--------|----------|---------------|
-| **1 (Suprême)** | L'Islam (Dieu) | Le diplomate se définit avant tout comme musulman pénétrant en *dār al-kufr* (territoire de l'impiété) |
-| **2** | Le Sultan (Commandeur des Croyants) | « Puissance subjective qui subjugue l'individu » – le sultan comme point de jonction entre foi et patrie |
-| **3** | Le Territoire (Maroc) | Le Maroc survient « après l'islam de la même manière qu'après Dieu, il y a le sultan » |
+| Niveau                 | Référent                          | Manifestation                                                                                                 |
+| ---------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **1 (Suprême)** | L'Islam (Dieu)                      | Le diplomate se définit avant tout comme musulman pénétrant en*dār al-kufr* (territoire de l'impiété) |
+| **2**            | Le Sultan (Commandeur des Croyants) | « Puissance subjective qui subjugue l'individu » – le sultan comme point de jonction entre foi et patrie   |
+| **3**            | Le Territoire (Maroc)               | Le Maroc survient « après l'islam de la même manière qu'après Dieu, il y a le sultan »                  |
 
 El Oufir démontre que cette structure n'engendre **nulle contradiction** : « l'allégeance islamique et l'allégeance territoriale n'entrent point en conflit ». Le Sultan est « cet élément nodal de l'identité marocaine » qui permet la jonction parfaite entre appartenance religieuse et appartenance nationale. Les diplomates marocains sont perçus et se perçoivent comme « les hommes du sultan de l'islam ».
 
@@ -188,28 +194,31 @@ Les diplomates marocains, bien que formés dans la tradition juridique islamique
 > **Audit réalisé via NotebookLM :** TAZI, *Histoire diplomatique du Maroc* (T.9 Annexes) + BRIGNON, *Histoire du Maroc* + *Documents Diplomatiques*
 >
 > **Fac-similés disponibles et localisables :**
-> 
+>
 > **Traités complètement reproduits :**
+>
 > - *Traité maroco-danois (1753)* : Traité de paix, commerce et tribut annuel — **Fac-similé In :** BRIGNON et al., *Histoire du Maroc*. Signatures + sceaux. **Original :** Rigsarkivet (Archives royales du Danemark, Copenhague).
 > - *Traité maroco-autrichien (1783)* : Première et deuxième pages (signatures de Mohammed ben Abdelmalek) — **Fac-similé In :** TAZI, *Histoire diplomatique du Maroc*, T.9, Annexes. **Original :** Haus-, Hof- und Staatsarchiv (Vienne).
 > - *Traité maroco-américain (1786, Traité de Marrakech)* : Première page + **Lettre officielle de Mohammed III à George Washington** — **Fac-similé In :** TAZI, T.9. **Originaux :** National Archives (Washington, RG 59 : Diplomatic Posts/Morocco ; consulat de Tanger 1776-1956).
 > - *Traité bilingue maroco-aragonais (1339, parchemin de gazelle)* : Texte arabe à droite, catalan à gauche, avec sceaux pendants — **Fac-similé In :** TAZI, T.7, Annexes. **Original :** **Archives de la Couronne d'Aragon (Barcelone)**, ACA, Cancillería, Tratados con Marruecos.
 > - *Traité avec la France (1767, Paix Perpétuelle)* — **Fac-similé partial In :** TAZI, T.9. **Original :** Archives du MAE (Paris), Correspondance politique et consulaire.
-> 
+>
 > **Correspondances diplomatiques (50 lettres fac-similées) :**
+>
 > - Édition critique : Eugène FUMEY, *Choix de correspondances marocaines*, **In :** *Archives Marocaines*, Vol. 9 (1906). Lettres de sultans à rois européens (XIe-XIXe s.), avec traductions et notes diplomatiques.
-> 
+>
 > **Fonds d'archives originaux :**
+>
 > - **Rigsarkivet (Copenhague) :** Traité danois complet
 > - **Haus-, Hof- und Staatsarchiv (Vienne) :** Traité autrichien, correspondance Mohammed III-Joseph II
 > - **National Archives (Washington) :** Traité américain + all diplomatic correspondence
 > - **Archives de la Couronne d'Aragon (Barcelone) :** Traité aragonais medieval
 > - **Archives MAE (Paris) :** Traité français, correspondances
-> 
+>
 > **Ressources numériques :**
+>
 > - Gallica (BnF) : Rechercher « Tazi Histoire diplomatique Maroc T.9 » pour accès aux fac-similés
 > - Early American Foreign Service Posts : Diplomatic posts Morocco (archive.org)
-
 
 ---
 
@@ -242,6 +251,7 @@ L'utilisation de diplomates juifs, très marquée sous les Saadiens (famille Pal
 > **Audit réalisé via NotebookLM :** Archives Royales (Rabat) + KENBIB, *Juifs et Musulmans au Maroc* + *Archives Marocaines*
 >
 > **Documents authentiques :**
+>
 > - *Sceau de la famille Guedalla (intermédiaires britanniques)* — Empreinte officielle — **Source :** Archives Royales (Rabat) ou collections privées (descendants Guedalla).
 > - *Dahir accordant statut de « Tujar as-Sultan »* — Décret officiel — **Source :** Archives Royales (Rabat) ; reproductions dans *Archives Marocaines*.
 > - *Sceaux personnels de Samuel Pallache et descendants* — Gravures hébraïques-arabes — **Source :** KENBIB, *Juifs et Musulmans au Maroc* ; Musée de la Diaspora (Tel Aviv) ; Archives du Maroc.
@@ -249,10 +259,12 @@ L'utilisation de diplomates juifs, très marquée sous les Saadiens (famille Pal
 > - *Registres de douane d'Essaouira* — Noms des « Tujjar » autorisés — **Source :** Direction des Archives Royales (Rabat) ; Archives Municipales (Essaouira).
 >
 > **Iconographie et biographies :**
+>
 > - *Portrait de Samuel Pallache (XVIIe s.)* — Gravure de l'époque — **Source :** Collections juives hollandaises ; reproductions dans KENBIB.
 > - *Arbre généalogique des Guedalla et Macnin* — Reconstitution généalogique — **Source :** KENBIB, *Juifs et Musulmans*, p. 180-200.
 >
 > **Fonds complets :**
+>
 > - **KENBIB, *Juifs et Musulmans au Maroc* (1989) :** Monographie de référence avec fac-similés
 > - **Musée du Maroc (Rabat)** : Collections de documents juifs marocains
 > - **Archives communautaires juives marocaines** : Dossiers familiaux Guedalla, Corcos, Macnin
@@ -309,27 +321,30 @@ Face à la supériorité navale européenne croissante, **Moulay Slimane** (r. 1
 > **Audit réalisé via NotebookLM :** TAZI, *Histoire diplomatique du Maroc* (T.9 Annexes) + BRIGNON, *Histoire du Maroc*
 >
 > **Ressources visuelles documentées :**
-> 
+>
 > **Gravures de contexte militaire/naval :**
+>
 > - *« Dessin du siège de la ville de Salé »* — Gravure de la campagne de nationalisation (vers 1666-1672) — **Source :** TAZI, *Histoire diplomatique du Maroc*, T.9, Annexes. Montre les fortifications corsaires et les opérations d'annexion.
 > - *Portrait de Moulay Ismaïl* — Gravure extraite du récit de Germain Mouette (1683) — **Source :** BRIGNON, *Histoire du Maroc*. Costume guerrier, symboles du pouvoir.
 > - *Navires corsaires marocains du XVIIe siècle* — Gravures de la Bibliothèque Nationale (Fonds français) — **Recherche :** BnF, Galerie des Collections, « navires Salé ».
 > - *Vue de Salé au XVIIe siècle* — Gravure d'époque — **Source :** TAZI, T.9 ou Archives du MAE (Paris), collection de vues portuaires.
-> 
+>
 > **Scènes de réception (protocole et prestige) :**
+>
 > - *Réception de l'ambassadeur de Grande-Bretagne par Moulay Ismaïl à Meknès* — Gravure de cérémonie — **Source :** TAZI, T.9. Montre le protocole d'audience, le prestige du Sultan.
 > - *Audience de Saint-Olon (1693)* : « Audience donnée par l'Empereur de Maroc au Sieur de Saint-Olon » — Gravure de Sébastien Leclerc — **Source :** BRIGNON + TAZI, T.9 (reproduction modernisée). **Original :** Bibliothèque Nationale (Fonds de Réserve).
 > - *Réception d'une mission danoise par Sidi Mohammed ben Abdallah* — Gravure du XVIIIe s. — **Source :** TAZI, T.9. Échange de cadeaux, diplomatie commerciale.
-> 
+>
 > **Fonds archivistiques :**
+>
 > - **BnF (Paris), Galerie des Collections :** Gravures de navires, portraits de sultans (Fonds Thoisy, Ms. Fr. 24.000-24.500)
 > - **TAZI, T.9 Annexes :** 40+ gravures de scènes diplomatiques
 > - **Archives MAE (Paris), Collection de cartes et plans :** Vues de ports marocains
-> 
+>
 > **Ressources numériques :**
+>
 > - Gallica (bnf.fr) : Rechercher « Saint-Olon Maroc 1693 » ou « Moulay Ismaïl gravure »
 > - Museum Boijmans Van Beuningen (Rotterdam) : Gravures hollandaises des corsaires marocains
-
 
 ---
 
@@ -388,26 +403,29 @@ Ces traités **formalisent juridiquement l'espace maritime** : droits de douane,
 > **Figure 4 :** Plan d'Essaouira (Mogador) au XVIIIe siècle – Laboratoire de diplomatie multiculturelle
 >
 > **Plans architecturaux disponibles :**
+>
 > - *Plans originaux de l'ingénieur Théodore Cornut (1765)* — Fondateur de la ville pour Sidi Mohammed ben Abdallah — **Source :** Direction des Archives Royales (Rabat), **Fonds Dossiers Urbanisme XVIIIe siècle**. Plans montrant : forteresse, medina, quartier consulaire, arsenal, magasins royaux.
 > - *Plan de la Qaçba (Casbah) d'Essaouira* — Reconstitution par G. Salmon — **In :** *Archives Marocaines*, Vol. 1, p. 287-290. Détails des structures défensives et administratives.
 > - *Photographies anciennes : vue générale du port (fin XIXe s.)* — **Source :** Archives Royales ou collections photographiques du MAE (Paris).
 > - *Photographies : Musiciens juifs et communauté juive d'Essaouira (fin XIXe s.)* — **In :** KENBIB, *Juifs et Musulmans au Maroc* (1989). Témoignage de la cohabitation intercommunautaire.
 > - *Vue portuaire de la rade d'Essaouira avec navires européens* — Gravure ou photographie du XIXe s. — **Recherche :** BnF (« Essaouira port »), Archives MAE.
-> 
+>
 > **Éléments à rechercher spécifiquement :**
+>
 > - Plans d'urbanisme : fort, medina, quartier consulaire (français, britannique, hollandais)
 > - Registres douaniers : listes de navires, droits de commerce
 > - Correspondances : lettres du Sultan à ingénieurs, descriptions architecturales
-> 
+>
 > **Fonds d'archives :**
+>
 > - **Direction des Archives Royales (Rabat) :** Dossiers Essaouira/Mogador, XVIIIe-XXe s.
 > - **Archives MAE (Paris) :** Dossiers « Mogador » et « Commerce marocain »
 > - **Archives Municipales (Essaouira) :** Registres portuaires, documents locaux
-> 
+>
 > **Ressources numériques :**
+>
 > - Essaouira Mogador Foundation : Documentation photographique numérisée
 > - Google Books : Reproductions partielles de KENBIB
-
 
 ---
 
@@ -420,6 +438,7 @@ Si le Sultan projette sa puissance par des traités, il protège son autorité p
 Une règle d'or de la diplomatie chérifienne est le **confinement des représentants étrangers** à Tanger. Les consuls et ministres plénipotentiaires européens ne sont pas autorisés à résider dans les capitales impériales (Fès, Marrakech, Meknès), sauf lors d'ambassades extraordinaires strictement encadrées.
 
 Pour gérer ce corps diplomatique cantonné, le Sultan délègue un **Naib** (littéralement « représentant » ou « lieutenant ») :
+
 - **Fonction** : Interlocuteur unique et obligatoire des puissances, il agit *de facto* comme un Ministre des Affaires Étrangères délocalisé.
 - **Stratégie** : Ce système crée un « tampon » bureaucratique et géographique. Le Naib filtre les demandes, temporise et permet au Sultan de garder la haute main sur le temps diplomatique sans être exposé aux pressions directes.
 - **Figures marquantes** : Des personnalités comme **Mohammed Bargash** ou **Mohammed Torres** (à la fin du XIXe siècle) deviendront les véritables chevilles ouvrières de la résistance diplomatique, excellant dans l'art de la réponse dilatoire.
@@ -427,6 +446,7 @@ Pour gérer ce corps diplomatique cantonné, le Sultan délègue un **Naib** (li
 #### B. Les ambassadeurs extraordinaires : Vizirs et Lettrés
 
 À l'inverse des *Tujjar* (commerçants) ou des *Renégats* (techniciens), les missions politiques de haute importance sont confiées à l'élite du Makhzen :
+
 - **Profil** : Vizirs, *Fqihs* (jurisconsultes) ou hauts dignitaires de la cour.
 - **Mission** : Il ne s'agit pas de résider à Paris ou Londres, mais d'effectuer des **missions ponctuelles** (négocier une alliance, racheter des captifs, porter un message solennel) puis de revenir.
 - **Exemples historiques** :
@@ -473,17 +493,20 @@ Le traité de Lalla Maghnia impose une **frontière linéaire** étrangère à l
 > **Figure 10 :** La bataille d'Isly (1844) et ses conséquences diplomatiques
 >
 > **Iconographie et documents de bataille :**
+>
 > - *Carte de la bataille d'Isly (14 août 1844)* — Positions des troupes marocaines et françaises — **Source :** BRIGNON, *Histoire du Maroc* ; Lugan, *Histoire de l'Afrique du Nord*, p. 301-302.
 > - *Gravure de la bataille d'Isly* — Vue générale de l'engagement — **Source :** *Illustration* (revue française du XIXe s.) ; BnF Gallica.
 > - *Cartes des positions défensives marocaines (Oued Isly)* — Plans tactiques — **Source :** Archives du Maroc ou *Archives Marocaines*.
 > - *Portrait du Maréchal Bugeaud* — Commandant français — **Source :** BnF, *Galerie des portraits*.
 >
 > **Traités issus de la défaite :**
+>
 > - *Traité de Tanger (10 septembre 1844)* — Fac-similé complet — **Source :** TAZI, T.9 ; Archives MAE (Paris).
 > - *Traité de Lalla Maghnia (18 mars 1845)* — Texte avec cartes de délimitation — **Source :** Bernard Lugan, *Histoire de l'Afrique du Nord*, p. 348 ; TAZI, T.9.
 > - *Correspondances diplomatiques post-Isly (1844-1846)* — Rapports de négocia­tion — **Source :** Archives MAE (Paris) ; Archives Royales (Rabat).
 >
 > **Fonds historiques :**
+>
 > - **Archives MAE (Paris) :** Dossiers « Maroc - Traités 1844-1860 »
 > - **Archives Royales (Rabat) :** Correspondances du Sultan Mohammed IV
 > - **TAZI, T.9 :** Documentation complète avec fac-similés
@@ -538,31 +561,35 @@ Face à cette érosion, le Sultan Hassan Ier (r. 1873-1894) prend l'initiative d
 > **Figure 5 :** Le système des protections consulaires (1856-1912) – Évidement juridique de la souveraineté
 >
 > **Documents visuels et textuels localisables :**
-> 
+>
 > **Dahirs et documents officiels :**
+>
 > - *Dahir de « Respect et Sauvegarde » (Tawqir wa Ihtiram)* — Décret royal accordant protection à un rabbin de Meknès — **Fac-similé In :** KENBIB, *Juifs et Musulmans au Maroc* (1989). Montre le sceau royal, calligraphie arabe, formule officielle.
 > - *Dahirs de protection pour marchands européens et levantins* — Copies manuscrites — **Source :** Archives Royales (Rabat) ou Archives MAE (Paris), dossiers « Protégés ».
 > - *Copie du Firman du Sultan autorisant l'emprunt national de 1904* — Document avec cachet/empreinte de Moulay Abdelaziz — **Fac-similé In :** *Documents Diplomatiques - Affaires du Maroc 1901-1905*.
 > - *Listes officielles des protégés par nation* — Registres consulaires — **Source :** Public Record Office (Londres), F.O. 99/174, ou Archives MAE (Paris).
-> 
+>
 > **Correspondances et rapports diplomatiques :**
+>
 > - *Dépêches des consuls sur les abus du système des protections* — Rapports détaillant les fraudes — **Source :** Public Record Office (Londres), F.O. 99 (Morocco General) et F.O. 174 (Morocco - Tangier), 1850-1912.
 > - *Correspondance du consul britannique John Drummond Hay* (1845-1886) — 40+ lettres décrivant les mécanismes d'obtention des protections — **Consultable par :** Public Record Office, séries F.O. 99/Hay Collection.
 > - *Notes des diplomates français sur la Convention de Madrid (1880)* — **Source :** Archives du MAE (Paris), Fonds Correspondance politique et consulaire, vol. 1850-1900.
-> 
+>
 > **Listes de protégés :**
+>
 > - *« État nominatif des protégés du Maroc »* (divers états) — Registres consulaires français — **Source :** Archives MAE, dossiers « Protections ».
-> 
+>
 > **Fonds d'archives complets :**
+>
 > - **Public Record Office (Londres) :** F.O. 99/1-500 (Morocco General, 1830-1920s) ; F.O. 174/1-300 (Morocco - Tangier Legation, 1850-1912) ; Hay Collection
 > - **Archives du MAE (Paris) :** Correspondance politique et consulaire Maroc vol. 1-20 (1830-1912) ; Mémoires et Documents (Protections)
 > - **Direction des Archives Royales (Rabat) :** Dahirs, correspondance sultans-consuls
-> 
+>
 > **Ressources numériques :**
+>
 > - British History Online (bho.org.uk) : Passages de correspondances British FO
 > - Archives MAE (France) : archives.diplomatie.gouv.fr
 > - Archive.org : *Documents Diplomatiques - Affaires du Maroc* (1901-1905) numérisés
-
 
 ---
 
@@ -574,12 +601,12 @@ L'historiographie récente, notamment les travaux de Khalid Ben-Srhir sur l'amba
 
 Ce traité marque la **fin de la maîtrise marocaine** sur sa politique commerciale :
 
-| Clause                                   | Conséquence                                                             |
-| ---------------------------------------- | ------------------------------------------------------------------------ |
-| Abolition des monopoles royaux (*Kuntradat*)          | Le Sultan perd le contrôle du commerce stratégique (armes, céréales) |
-| Droits de douane fixés à 10%           | Rigidification fiscale, perte du levier douanier                         |
-| Extension des droits consulaires         | Les consuls deviennent des « potentats locaux »                        |
-| Protection des « associés agricoles » | Extension massive de l'extraterritorialité                              |
+| Clause                                         | Conséquence                                                             |
+| ---------------------------------------------- | ------------------------------------------------------------------------ |
+| Abolition des monopoles royaux (*Kuntradat*) | Le Sultan perd le contrôle du commerce stratégique (armes, céréales) |
+| Droits de douane fixés à 10%                 | Rigidification fiscale, perte du levier douanier                         |
+| Extension des droits consulaires               | Les consuls deviennent des « potentats locaux »                        |
+| Protection des « associés agricoles »       | Extension massive de l'extraterritorialité                              |
 
 **Résultat :** Des milliers de sujets marocains échappent à l'impôt et à la justice du Sultan, ruinant l'autorité de l'État.[^35]
 
@@ -590,11 +617,8 @@ Ben-Srhir démontre que c'est la Grande-Bretagne, plus que toute autre puissance
 **Le mécanisme de l'Empire Informel :**
 
 1. **Attaque contre les monopoles** : Drummond Hay mène un « assaut sur le *kuntradat* », qualifiant le système commercial marocain d'« archaïque ». Il utilise un argument spécieux auprès du Sultan : les monopoles nuiraient aux revenus du Trésor en privant les commerçants de travail.
-
 2. **Imposition par la contrainte** : Le traité n'a pas été accepté volontairement mais « *under Duress* » (sous contrainte). Drummond Hay menace explicitement : si le nouveau traité n'est pas ratifié selon ses termes, l'Angleterre exigera davantage par la force.
-
 3. **Invasion économique** : Les textiles en coton de Manchester représentent plus des **deux tiers des importations britanniques** vers le Maroc dans la seconde moitié du XIXe siècle. Cette pénétration détruit l'artisanat local et crée une dépendance structurelle aux produits manufacturés européens.
-
 4. **Instrumentalisation des protégés** : La protection consulaire n'était pas un acte humanitaire mais un outil de pénétration. Ben-Srhir qualifie l'abus croissant de cette protection de « **méthode la plus importante par laquelle la souveraineté marocaine a été minée au XIXe siècle** ». Les élites juives protégées, soustraites au statut de *dhimmi*, deviennent des « têtes de pont » de l'économie britannique.
 
 > **L'argument-choc :** « La souveraineté n'a pas été perdue militairement en 1912 ; elle a été **dissoute économiquement en 1856**. » Le Traité de Fès ne fait que formaliser juridiquement une dépossession déjà accomplie par le libre-échange.
@@ -611,7 +635,6 @@ Défaite militaire → Indemnité → Endettement → Emprunts européens
 
 ---
 
-
 ---
 
 ![FIGURE_12_ACTEURS_DIPLOMATIE_CRISE]
@@ -619,21 +642,25 @@ Défaite militaire → Indemnité → Endettement → Emprunts européens
 > **Figure 12 :** Les acteurs de la diplomatie marocaine en crise (1900-1906)
 >
 > **Portraits des sultans et ministres :**
+>
 > - *Portrait du Sultan Hassan Ier (1873-1894)* — Dessin — **Source :** TAZI, T.9. Réformateur, initiateur de la Convention de Madrid (1880).
 > - *Portrait du Sultan Moulay Abdelaziz (1894-1908)* — Portrait officiel — **Source :** TAZI, T.9 ; Archives Royales (Rabat). Confronté à la crise de 1900-1906.
 > - *Portrait du ministre Ben Jelloun* — Conseiller du Sultan — **Source :** TAZI, T.9 ; Archives MAE (Paris).
 > - *Portrait du Grand Vizir Mohammed ibn al-Aouad* — Réformateur — **Source :** Archives Royales.
 >
 > **Diplomates marocains :**
+>
 > - *Caïd Ash'ash* — Envoyé diplomatique — **Source :** TAZI, T.9 ; portrait + correspondances.
 > - *Ben Driss* — Diplomate — **Source :** TAZI, T.9.
 > - *Ambassadeur Abdallah Zarroug* — Représentant auprès des puissances — **Source :** Archives MAE (Paris) ; TAZI, T.9.
 >
 > **Correspondances diplomatiques :**
+>
 > - *Lettres du Sultan Moulay Abdelaziz demandant l'internationalisation* — 1904-1906 — **Source :** *Documents Diplomatiques - Affaires du Maroc*, p. 300-500.
 > - *Dépêches de l'ambassade française décrivant l'impasse* — Rapports Rouvier, Régnault — **Source :** Archives MAE (Paris).
 >
 > **Fonds d'archives :**
+>
 > - **Archives MAE (Paris)** : *Documents Diplomatiques - Affaires du Maroc 1900-1906*
 > - **Archives Royales (Rabat)** : Dossiers Moulay Abdelaziz, correspondances du Makhzen
 > - **TAZI, T.9** : Portraits et correspondances
@@ -682,37 +709,43 @@ Le Sultan Moulay Abdelaziz, s'appuyant sur une assemblée de notables (*Majlis a
 > **Figure 6 :** Les acteurs de la crise marocaine (1900-1912) – Sultans, diplomates et intervenants étrangers
 >
 > **Portraits de sultans et diplomates :**
+>
 > - *Portrait de Hassan Ier (1873-1894)* — Dessin — **Source :** TAZI, *Histoire diplomatique du Maroc*, T.9. Initiateur de la Convention de Madrid (1880).
 > - *Portrait de Moulay Abdelaziz (1894-1908)* — Portrait — **Source :** TAZI, T.9. Signature de l'Acte d'Algésiras (1906).
 > - *Portrait de Moulay Hafid (1908-1912)* — Dessin — **Source :** TAZI, T.9. Signataire du Traité de Fès (1912).
 > - *Dessins des ambassadeurs marocains : Caïd Ash'ash, Ben Driss, Zebdi* (XIXe-début XXe s.) — Croquis officiels — **Source :** TAZI, T.9. Représentants diplomatiques auprès des puissances européennes.
-> 
+>
 > **Documents diplomatiques critiques :**
+>
 > - *Acte d'Algésiras (7 avril 1906)* — Texte signé avec portraits des délégués — **Source :** TAZI, T.9 Annexes ou *Documents Diplomatiques - Affaires du Maroc*.
 > - *Accord Franco-Espagnol secret (3 octobre 1904)* — Texte + cartes de démembrement — **Source :** *Documents Diplomatiques*, p. 374-383.
 > - *Traité de Fès (30 mars 1912)* — Texte complet avec signatures — **Source :** TAZI, T.9 ou *Documents Diplomatiques*, p. 498-510.
-> 
+>
 > **Codes et communications cryptées :**
+>
 > - *Code de chiffrage « الضابط » (Dabit)* — Système de cryptographie diplomatique marocaine, début XXe s. — **Source :** TAZI, *Histoire diplomatique du Maroc*, T.6. Montre la sophistication administrative du Makhzen.
-> 
+>
 > **Photographies et gravures de la période critique :**
+>
 > - *Visite de l'Empereur Guillaume II à Tanger (31 mars 1905)* — Série photographique — **Source :** TAZI, T.9 Annexes. Cortège impérial, réception par Moulay Abdelmalek (oncle du Sultan), embarquement du Kaiser.
 > - *Délégués français, allemands, britanniques à Algésiras (1906)* — Photographies de groupe — **Source :** Archives MAE (Paris) ou British History Online.
-> 
+>
 > **Correspondances diplomatiques :**
+>
 > - *Lettres du Sultan Moulay Abdelaziz et du ministre Ben Jelloun* — Demandes répétées pour internationalisation (*Tadmin*) — **Source :** *Documents Diplomatiques - Affaires du Maroc*, p. 450-500.
-> 
+>
 > **Fonds d'archives majeurs :**
+>
 > - **Direction des Archives Royales (Rabat) :** Fonds Grande-Bretagne, Dossiers chronologiques 1900-1912, Dahirs et documents officiels
 > - **Archives MAE (Paris) :** *Documents Diplomatiques - Affaires du Maroc 1900-1912*, Correspondances ambassadeurs (Régnault, Rouvier)
 > - **Public Record Office (Londres) :** F.O. 99 (Morocco General), F.O. 371 (Foreign Office General Correspondence post-1906)
 > - **Auswärtiges Amt (Berlin) :** Correspondances allemandes (coup de Tanger 1905)
-> 
+>
 > **Ressources numériques :**
+>
 > - Archives MAE : *Documents Diplomatiques* sur archives.diplomatie.gouv.fr
 > - Gallica (BnF) : *Documents Diplomatiques - Affaires du Maroc* 1904-1912
 > - British History Online : Passages de correspondances FO du Maroc
-
 
 ---
 
@@ -721,19 +754,23 @@ Le Sultan Moulay Abdelaziz, s'appuyant sur une assemblée de notables (*Majlis a
 > **Figure 13 :** Acte d'Algésiras (1906) : protocoles, délégations et texture juridique
 >
 > **Document fondamental :**
+>
 > - *Acte final de la Conférence d'Algésiras (7 avril 1906)* — Texte complet — **Source :** TAZI, T.9 Annexes ou *Documents Diplomatiques - Affaires du Maroc*, p. 400-420.
 > - *Protocoles de conférence* — Procès-verbaux des séances — **Source :** Archives MAE (Paris) ; Archives Royales (Rabat).
 >
 > **Portraits des délégués :**
+>
 > - *Photographies de groupe des délégués à Algésiras (1906)* — Série officielle — **Source :** Archives MAE (Paris) ; *Documents Diplomatiques*.
 > - *Portraits individuels : délégué français (Rouvier), britannique (Monson), allemand (von Holstein), marocain (Ash'ash)* — Gravures/photos — **Source :** TAZI, T.9 Annexes.
 > - *Caricatures et dessins de presse* — Critique contemporaine — **Source :** Archives de journaux français/britanniques (BnF, British Library).
 >
 > **Correspondances diplomatiques :**
+>
 > - *Lettres du Sultan Moulay Abdelaziz décrivant les résultats* — Déception face aux promesses non tenues — **Source :** Archives Royales (Rabat) ; *Documents Diplomatiques*.
 > - *Dépêches des ambassadeurs français/britanniques analysant l'Acte* — Appréciation des victoires « formelles » — **Source :** Archives MAE (Paris) ; Public Record Office (Londres).
 >
 > **Fonds d'archives :**
+>
 > - **Archives MAE (Paris)** : *Documents Diplomatiques - Affaires du Maroc 1906*
 > - **Archives Royales (Rabat)** : Correspondances du Makhzen, réactions de Moulay Abdelaziz
 > - **British Library** : Dossiers de la Conférence (official papers)
@@ -781,31 +818,38 @@ Le Traité de Fès est un **paradoxe juridique** :
 > **Figure 14 :** Le Traité de Fès et sa signature (30 mars 1912) – Document fondateur du Protectorat
 >
 > **Fac-similés du Traité :**
+>
 > - *Traité de Fès - Texte intégral avec signatures du Sultan Moulay Hafid* — **Source :** TAZI, T.9 ou *Documents Diplomatiques - Affaires du Maroc 1912*, p. 498-510.
 > - *Pages de signature avec sceaux officiels* — Authentification — **Source :** Archives Royales (Rabat) ; Archives MAE (Paris).
 > - *Signatures des diplomates français (Régnault, Pichon) et marocains* — Comparaison des écritures — **Source :** Archives MAE.
 >
 > **Dahir de ratification :**
+>
 > - *Dahir de Moulay Hafid proclamant l'acceptation du Protectorat* — Fac-similé — **Source :** Archives Royales (Rabat) ; *Archives Marocaines*.
 >
 > **Portraits des signataires :**
+>
 > - *Portrait du Sultan Moulay Hafid (1908-1912)* — Photographie/dessin officiel — **Source :** TAZI, T.9 ; Archives Royales. Aspect de défaite après les crises 1907-1912.
 > - *Eugène Régnault (ministre de France)* — Portrait — **Source :** Archives MAE (Paris).
 > - *Pichon (ministre français des Affaires Étrangères)* — Portrait — **Source :** BnF.
 >
 > **Correspondances autour de la signature :**
+>
 > - *Lettres du Sultan Moulay Hafid justifiant la signature* — Acceptation du Protectorat comme "moyen de sauver le Maroc" — **Source :** Archives Royales (Rabat) ; *Documents Diplomatiques*.
 > - *Notifications diplomatiques aux puissances* — Déclaration officielle de l'établissement du Protectorat — **Source :** Archives MAE, circulaires diplomatiques (mai 1912).
 >
 > **Cahiers des charges du Protectorat :**
+>
 > - *Accord secret franco-espagnol (novembre 1911)* — Définition des zones d'influence — **Source :** *Documents Diplomatiques*, p. 480-495.
 > - *Accord franco-allemand (novembre 1911)* — Reconnaissance allemande du protectorat — **Source :** *Documents Diplomatiques*.
 >
 > **Comparaison avec d'autres protectorats :**
+>
 > - *Protectorat tunisien (1881)* — Traité de La Marsa — **Source :** Archives MAE (Paris), dossiers Tunisie.
 > - *Protectorat français en Indochine (1887)* — Structures administratives — **Source :** Archives des Colonies (Paris).
 >
 > **Fonds d'archives complets :**
+>
 > - **Archives MAE (Paris)** : *Documents Diplomatiques - Affaires du Maroc 1911-1912*
 > - **Archives Royales (Rabat)** : Dahirs, correspondances du Makhzen (1912)
 > - **TAZI, T.9** : Texte intégral du Traité avec annexes
@@ -836,6 +880,7 @@ Le maintien de la forme juridique de l'État pendant le Protectorat aura des con
 > **Figure 7 :** L'érosion de la souveraineté marocaine (1844-1912) — Documents d'époque
 >
 > **Correspondances diplomatiques originales :**
+>
 > - *Fac-similé lettre de Moulay Ismaïl à Louis XIV* (25 sept. 1699 / 22 nov. 1691) — **In :** TAZI, T.9
 > - *Lettre de Moulay Ismaïl* (9 Chaabane 1095 / juillet 1684) — **In :** TAZI, T.9
 > - *Lettre de Mohammed III à Louis XV et Louis XVI* — **In :** TAZI, T.9
@@ -889,51 +934,16 @@ Le résultat est le concept paradoxal de **« souveraineté amputée »** : l'É
 
 #### Limites
 
-| Dimension                                 | Manifestation                                                                       |
-| ----------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Rigidité théologique**          | La Bay'a interdit toute cession territoriale, limitant la marge de négociation     |
-| **Retard technologique**            | Incapacité à moderniser l'appareil militaire au rythme européen                  |
-| **Fragmentation interne**           | La distinction*Makhzen*/*Siba* affaiblit la capacité de mobilisation nationale |
-| **Dépendance aux intermédiaires** | Les réseaux consulaires et les protégés érodent l'autorité de l'intérieur     |
+| Dimension                                 | Manifestation                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Rigidité théologique**          | La Bay'a interdit toute cession territoriale, limitant la marge de négociation       |
+| **Retard technologique**            | Incapacité à moderniser l'appareil militaire au rythme européen                    |
+| **Fragmentation interne**           | La distinction *Makhzen*/*Siba* affaiblit la capacité de mobilisation nationale |
+| **Dépendance aux intermédiaires** | Les réseaux consulaires et les protégés érodent l'autorité de l'intérieur       |
 
 ---
 
-### 4. Ouverture : le Protectorat et les héritages contemporains
-
-Le paradoxe de la « souveraineté amputée » aura des **conséquences structurantes** pour le Maroc contemporain :
-
-**Durant le Protectorat (1912-1956)** : La forme étatique maintenue par Lyautey permettra l'émergence d'un mouvement nationaliste qui revendique non pas la création d'un État nouveau, mais la **restauration** d'une souveraineté historique. Le dahir berbère de 1930 provoquera une mobilisation précisément parce qu'il est perçu comme une atteinte à l'unité de l'État chérifien.
-
-**Après l'indépendance (1956)** : Le Maroc n'a pas à construire une identité étatique ex nihilo. Il hérite :
-
-- D'une tradition diplomatique biséculaire
-- De traités toujours en vigueur (USA 1786)
-- D'une légitimité monarchique consolidée par l'épreuve coloniale
-- De revendications territoriales fondées sur l'« intégrité » d'avant 1912
-
-#### La preuve par l'Afrique : résilience de l'ADN diplomatique alaouite
-
-Les travaux récents de Julien Durand de Sanctis et Jean-Noël Ferrié sur les relations Maroc-France et la politique africaine contemporaine (2025) démontrent que la « souveraineté amputée » de 1912 n'a pas tué l'État – la structure makhzénienne a « hiberné » sous le Protectorat pour renaître.[^DurandFerrie]
-
-La politique africaine actuelle de Mohammed VI réactive consciemment les **substrats précoloniaux** :
-
-| Outil contemporain | Résonance historique |
-|--------------------|----------------------|
-| Retour à l'Union Africaine (2017) | Affirmation d'une puissance régionale autonome (cf. contrôle du commerce transsaharien XVIe-XVIIIe s.) |
-| Diplomatie économique multisectorielle | Réseaux commerciaux précoloniaux (Sijilmassa, routes de l'or vers Tombouctou) |
-| Soft power religieux (formation des imams, Institut Mohammed VI) | Rayonnement des *zaouïas* et confréries (Qadiriyya, Tijaniyya) |
-| Confrérie Tijaniyya au Sénégal | Allégeance spirituelle transsaharienne au Commandeur des Croyants |
-| Gazoduc Maroc-Nigeria, Initiative Atlantique | Projection vers la « profondeur stratégique » africaine |
-
-Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **profondeur stratégique** » et le « **prolongement naturel** » du Maroc, mobilisant des liens humains et spirituels séculaires. Le Maroc ne se positionne plus comme un allié mécanique de la France, mais comme un **partenaire égal** développant ses propres réseaux – exactement comme Sidi Mohammed ben Abdallah diversifiait ses partenaires commerciaux au XVIIIe siècle.
-
-> **Argument de clôture :** La politique africaine actuelle de Mohammed VI est la **preuve vivante que l'ADN diplomatique alaouite a survécu à la parenthèse coloniale**. Les mêmes « logiciels » du XVIIIe siècle (réseaux commerciaux, légitimité religieuse du Commandeur des Croyants, diplomatie d'équilibre) sont réactivés et adaptés au monde globalisé.
-
-**Dans le Maroc contemporain** : La Constitution de 2011 consacre toujours le titre de *Amir al-Mouminine* et fait du Roi le garant de la « continuité de l'État ».[^43] Les concepts forgés par la diplomatie alaouite pré-coloniale – légitimité chérifienne, Bay'a, intégrité territoriale – structurent encore le discours politique et les positions diplomatiques du Royaume.
-
----
-
-### 5. Synthèse Historiographique des Pratiques Diplomatiques
+### 4. Synthèse Historiographique des Pratiques Diplomatiques
 
 L'historiographie permet de dégager les **structures profondes** de la pratique diplomatique alaouite, au-delà de la chronologie événementielle. Trois dimensions méritent une analyse synthétique : le profil des acteurs diplomatiques, l'organisation institutionnelle, et l'évolution de la nature des engagements internationaux.
 
@@ -941,11 +951,11 @@ L'historiographie permet de dégager les **structures profondes** de la pratique
 
 Contrairement au modèle européen des ambassades résidentes permanentes, la diplomatie marocaine procède par **missions extraordinaires**. L'analyse des envoyés révèle une évolution fonctionnelle marquante :
 
-| Période | Profil dominant | Mission principale | Sources |
-|---------|-----------------|-------------------|---------|
-| XVIIe s. | Corsaires et commandants (ex: Ben Aïcha, amiral) | Rachat de captifs, alliances militaires contre l'Espagne | TAZI, T.9 ; Lugan |
-| XVIIIe s. | *Tujjar as-Sultan* et élites juives (Pallache, Guedalla, Macnin) | Intermédiation commerciale, intelligence économique | KENBIB, *Juifs et Musulmans* ; Abitbol |
-| XIXe s. | Lettrés et vizirs (al-Saffar, Zebdi) | Négociations défensives, observation de la modernité européenne | El Oufir, *Identité et mobilité* |
+| Période  | Profil dominant                                                     | Mission principale                                                  | Sources                                 |
+| --------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------- |
+| XVIIe s.  | Corsaires et commandants (ex: Ben Aïcha, amiral)                   | Rachat de captifs, alliances militaires contre l'Espagne            | TAZI, T.9 ; Lugan                       |
+| XVIIIe s. | *Tujjar as-Sultan* et élites juives (Pallache, Guedalla, Macnin) | Intermédiation commerciale, intelligence économique               | KENBIB,*Juifs et Musulmans* ; Abitbol |
+| XIXe s.   | Lettrés et vizirs (al-Saffar, Zebdi)                               | Négociations défensives, observation de la modernité européenne | El Oufir,*Identité et mobilité*     |
 
 Cette évolution reflète le passage d'une **diplomatie de confrontation** (course, récupération des présides) à une **diplomatie de survie** face à la pénétration européenne. Les récits de voyage (*rihla*) des ambassadeurs du XIXe siècle témoignent de cette prise de conscience du retard technologique – al-Saffar écrit après son ambassade à Paris (1845) : « *l'ordre chez eux, le désordre chez nous* ».[^44]
 
@@ -953,11 +963,11 @@ Cette évolution reflète le passage d'une **diplomatie de confrontation** (cour
 
 L'historiographie récente (Ben-Srhir, El Oufir) met en lumière une **structure de filtrage** qui caractérise la diplomatie chérifienne :
 
-| Institution | Fonction | Effet stratégique |
-|-------------|----------|-------------------|
-| **Confinement à Tanger** | Représentants étrangers maintenus à distance des capitales impériales (Fès, Marrakech, Meknès) | Préservation de l'espace sacré du pouvoir |
-| **Le Naib (Représentant à Tanger)** | Interlocuteur unique et obligatoire des puissances | Temporisation, filtrage des demandes, maîtrise du temps diplomatique |
-| **Ambassades ponctuelles** | Missions limitées dans le temps, retour obligatoire | Prévention de l'acculturation des émissaires |
+| Institution                                 | Fonction                                                                                             | Effet stratégique                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Confinement à Tanger**             | Représentants étrangers maintenus à distance des capitales impériales (Fès, Marrakech, Meknès) | Préservation de l'espace sacré du pouvoir                           |
+| **Le Naib (Représentant à Tanger)** | Interlocuteur unique et obligatoire des puissances                                                   | Temporisation, filtrage des demandes, maîtrise du temps diplomatique |
+| **Ambassades ponctuelles**            | Missions limitées dans le temps, retour obligatoire                                                 | Prévention de l'acculturation des émissaires                        |
 
 Les figures de **Mohammed Bargash** et **Mohammed Torres** au XIXe siècle incarnent cette résistance institutionnelle : véritables « ministres des Affaires étrangères » *de facto*, ils excellaient dans l'art de la réponse dilatoire face aux pressions consulaires.[^45]
 
@@ -967,11 +977,11 @@ Cette architecture a protégé le *Bled Makhzen* des ingérences directes pendan
 
 L'historiographie juridique (Ben-Srhir, *Documents Diplomatiques*) démontre un **glissement de nature** des engagements internationaux :
 
-| Phase | Type de traité | Caractéristiques | Équilibre |
-|-------|----------------|------------------|-----------|
-| **1666-1780** | Traités de paix et rachat | Sécurité maritime, libération de captifs, réciprocité fondamentale | Égalitaire |
-| **1780-1856** | Traités de commerce et privilèges | Garanties commerciales, établissement de consulats, prémices de l'exterritorialité | Légèrement asymétrique |
-| **1856-1912** | Traités inégaux | Liberté commerciale imposée, limitation des droits de douane, juridiction consulaire élargie, protections massives | Profondément inégal |
+| Phase               | Type de traité                     | Caractéristiques                                                                                                     | Équilibre                |
+| ------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| **1666-1780** | Traités de paix et rachat          | Sécurité maritime, libération de captifs, réciprocité fondamentale                                               | Égalitaire               |
+| **1780-1856** | Traités de commerce et privilèges | Garanties commerciales, établissement de consulats, prémices de l'exterritorialité                                 | Légèrement asymétrique |
+| **1856-1912** | Traités inégaux                   | Liberté commerciale imposée, limitation des droits de douane, juridiction consulaire élargie, protections massives | Profondément inégal     |
 
 La **Convention de Madrid (1880)** incarne ce paradoxe : convoquée par le Sultan Hassan Ier pour limiter les abus du système des protections, elle aboutit à leur **légalisation internationale**. L'**Acte d'Algésiras (1906)** consacre l'internationalisation de la gestion interne du Maroc (police, banque, travaux publics), vidant la souveraineté de sa substance avant même le Protectorat.
 
@@ -995,9 +1005,7 @@ Cette lecture historiographique invite à reconceptualiser le Protectorat comme 
 L'analyse des sources (Rivet, Abitbol, Ben-Srhir, El Oufir, *Documents Diplomatiques*) permet de formuler une synthèse en trois propositions :
 
 1. **La diplomatie alaouite a longtemps reposé sur une capacité de résistance et d'adaptation**, incarnée par la figure du Sultan qui, selon Rivet, « *régnait partout mais ne gouvernait que par endroits* ».[^46]
-
 2. **L'organisation diplomatique** – confinement des étrangers à Tanger, recours aux intermédiaires (Naib, Tujjar) – **a fonctionné comme mécanisme de défense**, mais n'a pas résisté à la formalisation juridique de l'impérialisme européen au XIXe siècle.
-
 3. **Le passage des ambassades de prestige à une diplomatie de survie** illustre l'effondrement du « système impérial » décrit par Ben-Srhir et Abitbol, menant inéluctablement au Traité de Fès.
 
 ---
@@ -1011,12 +1019,48 @@ L'analyse des sources (Rivet, Abitbol, Ben-Srhir, El Oufir, *Documents Diplomati
 > **Figure 8 :** Synthèse graphique – Les deux phases de la diplomatie alaouite (1666-1912)
 >
 > **Iconographie de synthèse :**
+>
 > - *« Audience donnée par l'Empereur de Maroc au Sr de St Olon »* (1693) — Gravure **In :** BRIGNON, *Histoire du Maroc* et TAZI, T.9
 > - *Portrait « imaginé » de Moulay Ismaïl par les peintres européens* — **In :** TAZI, T.9
 > - *Portrait de Mohammed ben Abdelmalek par Loschenkohl* (Ambassadeur à Vienne, 1783) — **In :** TAZI, T.9
 > - *Dessins et signatures des ambassadeurs : Ben Aïcha (1699), Ben Haddou, Temim (1682)* — **In :** TAZI, T.9
 > - *Sceau (Tabaa) du Sultan Mohammed III* — **In :** TAZI, T.6 et T.9
 > - *Vue de la tour Hassan à Rabat* — Gravure **In :** TAZI, T.9
+
+---
+
+### 5. Ouverture : le Protectorat et les héritages contemporains
+
+Le paradoxe de la « souveraineté amputée » aura des **conséquences structurantes** pour le Maroc contemporain :
+
+**Durant le Protectorat (1912-1956)** : La forme étatique maintenue par Lyautey permettra l'émergence d'un mouvement nationaliste qui revendique non pas la création d'un État nouveau, mais la **restauration** d'une souveraineté historique. Le dahir berbère de 1930 provoquera une mobilisation précisément parce qu'il est perçu comme une atteinte à l'unité de l'État chérifien.
+
+**Après l'indépendance (1956)** : Le Maroc n'a pas à construire une identité étatique ex nihilo. Il hérite :
+
+- D'une tradition diplomatique biséculaire
+- De traités toujours en vigueur (USA 1786)
+- D'une légitimité monarchique consolidée par l'épreuve coloniale
+- De revendications territoriales fondées sur l'« intégrité » d'avant 1912
+
+#### La preuve par l'Afrique : résilience de l'ADN diplomatique alaouite
+
+Les travaux récents de Julien Durand de Sanctis et Jean-Noël Ferrié sur les relations Maroc-France et la politique africaine contemporaine (2025) démontrent que la « souveraineté amputée » de 1912 n'a pas tué l'État – la structure makhzénienne a « hiberné » sous le Protectorat pour renaître.[^DurandFerrie]
+
+La politique africaine actuelle de Mohammed VI réactive consciemment les **substrats précoloniaux** :
+
+| Outil contemporain                                               | Résonance historique                                                                                    |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Retour à l'Union Africaine (2017)                               | Affirmation d'une puissance régionale autonome (cf. contrôle du commerce transsaharien XVIe-XVIIIe s.) |
+| Diplomatie économique multisectorielle                          | Réseaux commerciaux précoloniaux (Sijilmassa, routes de l'or vers Tombouctou)                          |
+| Soft power religieux (formation des imams, Institut Mohammed VI) | Rayonnement des*zaouïas* et confréries (Qadiriyya, Tijaniyya)                                        |
+| Confrérie Tijaniyya au Sénégal                                | Allégeance spirituelle transsaharienne au Commandeur des Croyants                                       |
+| Gazoduc Maroc-Nigeria, Initiative Atlantique                     | Projection vers la « profondeur stratégique » africaine                                               |
+
+Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **profondeur stratégique** » et le « **prolongement naturel** » du Maroc, mobilisant des liens humains et spirituels séculaires. Le Maroc ne se positionne plus comme un allié mécanique de la France, mais comme un **partenaire égal** développant ses propres réseaux – exactement comme Sidi Mohammed ben Abdallah diversifiait ses partenaires commerciaux au XVIIIe siècle.
+
+> **Argument de clôture :** La politique africaine actuelle de Mohammed VI est la **preuve vivante que l'ADN diplomatique alaouite a survécu à la parenthèse coloniale**. Les mêmes « logiciels » du XVIIIe siècle (réseaux commerciaux, légitimité religieuse du Commandeur des Croyants, diplomatie d'équilibre) sont réactivés et adaptés au monde globalisé.
+
+**Dans le Maroc contemporain** : La Constitution de 2011 consacre toujours le titre de *Amir al-Mouminine* et fait du Roi le garant de la « continuité de l'État ».[^43] Les concepts forgés par la diplomatie alaouite pré-coloniale – légitimité chérifienne, Bay'a, intégrité territoriale – structurent encore le discours politique et les positions diplomatiques du Royaume.
 
 ---
 
@@ -1132,81 +1176,116 @@ L'analyse des sources (Rivet, Abitbol, Ben-Srhir, El Oufir, *Documents Diplomati
 
 #### A. Fac-similés de Traités et Correspondances Diplomatiques
 
-| Document | Date | Localisation |
-|----------|------|--------------|
-| Traité avec le Danemark | 1753 | BRIGNON et al., *Histoire du Maroc*, planches |
-| Traité maroco-autrichien (2 pages) | 1783 | TAZI, *Histoire diplomatique*, T.9 |
-| Traité avec les États-Unis + lettre à Washington | 1786 | TAZI, T.9 |
-| Traité bilingue catalan-arabe (parchemin gazelle) | 1339 | TAZI, T.7 |
-| Lettre d'Abou Youssef à Philippe III de France | 1282 | TAZI, T.7 |
-| Lettres de Moulay Ismaïl à Louis XIV | 1684, 1691, 1699 | TAZI, T.9 |
-| Lettre de Mohammed III à Louis XV/XVI | XVIIIe s. | TAZI, T.9 |
-| Lettre de Moulay Slimane à Napoléon Ier | XIXe s. | TAZI, T.9 |
-| 50 lettres officielles du Makhzen | Diverses | FUMEY, *Choix de correspondances marocaines* (*Archives Marocaines*, Vol. 9) |
-| Firman de l'emprunt 1904 (avec cachet) | 1904 | *Documents Diplomatiques 1901-1905* |
+| Document                                            | Date             | Localisation                                                                    |
+| --------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------- |
+| Traité avec le Danemark                            | 1753             | BRIGNON et al.,*Histoire du Maroc*, planches                                  |
+| Traité maroco-autrichien (2 pages)                 | 1783             | TAZI,*Histoire diplomatique*, T.9                                             |
+| Traité avec les États-Unis + lettre à Washington | 1786             | TAZI, T.9                                                                       |
+| Traité bilingue catalan-arabe (parchemin gazelle)  | 1339             | TAZI, T.7                                                                       |
+| Lettre d'Abou Youssef à Philippe III de France     | 1282             | TAZI, T.7                                                                       |
+| Lettres de Moulay Ismaïl à Louis XIV              | 1684, 1691, 1699 | TAZI, T.9                                                                       |
+| Lettre de Mohammed III à Louis XV/XVI              | XVIIIe s.        | TAZI, T.9                                                                       |
+| Lettre de Moulay Slimane à Napoléon Ier           | XIXe s.          | TAZI, T.9                                                                       |
+| 50 lettres officielles du Makhzen                   | Diverses         | FUMEY,*Choix de correspondances marocaines* (*Archives Marocaines*, Vol. 9) |
+| Firman de l'emprunt 1904 (avec cachet)              | 1904             | *Documents Diplomatiques 1901-1905*                                           |
 
 #### B. Cartes Historiques
 
-| Carte | Auteur/Date | Localisation |
-|-------|-------------|--------------|
-| « Carte générale des Estats du roy de Fez » | Mouette, XVIIe s. | BRIGNON, *Histoire du Maroc* |
-| Carte du Maroc (documents portugais) | Torre do Tombo | TAZI, T.7 |
-| Carte de la Maurétanie Tingitane | — | *Archives Marocaines*, T.1 |
-| Plan de la Bahia de Tanger | Ms. espagnol, 1700 | BRIGNON, *Histoire du Maroc* |
-| Plan de la Qaçba de Tanger | G. Salmon | *Archives Marocaines*, T.1 |
-| Croquis d'El-Qçar El-Kebir | Cpt. Larras, 1902 | *Archives Marocaines*, T.2 |
-| Plans d'Essaouira | Ing. Cornut, 1765 | Archives Royales (Rabat) |
-| Carte du Fahç (environs de Tanger) | Cpt. Larras | *Archives Marocaines*, T.1 |
+| Carte                                           | Auteur/Date        | Localisation                  |
+| ----------------------------------------------- | ------------------ | ----------------------------- |
+| « Carte générale des Estats du roy de Fez » | Mouette, XVIIe s.  | BRIGNON,*Histoire du Maroc* |
+| Carte du Maroc (documents portugais)            | Torre do Tombo     | TAZI, T.7                     |
+| Carte de la Maurétanie Tingitane               | —                 | *Archives Marocaines*, T.1  |
+| Plan de la Bahia de Tanger                      | Ms. espagnol, 1700 | BRIGNON,*Histoire du Maroc* |
+| Plan de la Qaçba de Tanger                     | G. Salmon          | *Archives Marocaines*, T.1  |
+| Croquis d'El-Qçar El-Kebir                     | Cpt. Larras, 1902  | *Archives Marocaines*, T.2  |
+| Plans d'Essaouira                               | Ing. Cornut, 1765  | Archives Royales (Rabat)      |
+| Carte du Fahç (environs de Tanger)             | Cpt. Larras        | *Archives Marocaines*, T.1  |
 
 #### C. Portraits de Sultans et Diplomates
 
-| Personnage | Type | Localisation |
-|------------|------|--------------|
-| **Moulay Ismaïl** | Gravure (Mouette) | BRIGNON, *Histoire du Maroc* |
-| **Moulay Ismaïl** | Portrait « imaginé » par peintres européens | TAZI, T.9 |
-| **Moulay Hassan Ier** | Dessin | TAZI, T.9 |
-| **Mohammed ben Abdelmalek** (amb. Vienne 1783) | Portrait par Loschenkohl | TAZI, T.9 |
-| **Abdallah ben Aïcha** (amb. France 1699) | Dessin + signature | TAZI, T.9 |
-| **Mohammed Temim** (amb. France 1682) | Portrait | TAZI, T.9 |
-| **Mohammed ben Haddou** (amb. G-B) | Peinture + signature | TAZI, T.9 |
-| **Tahar Fennich** (amb. Paris) | Portrait | TAZI, T.9 |
-| **Caïd Ash'ash, Ben Driss, Zebdi** (XIXe s.) | Dessins | TAZI, T.9 |
+| Personnage                                           | Type                                            | Localisation                  |
+| ---------------------------------------------------- | ----------------------------------------------- | ----------------------------- |
+| **Moulay Ismaïl**                             | Gravure (Mouette)                               | BRIGNON,*Histoire du Maroc* |
+| **Moulay Ismaïl**                             | Portrait « imaginé » par peintres européens | TAZI, T.9                     |
+| **Moulay Hassan Ier**                          | Dessin                                          | TAZI, T.9                     |
+| **Mohammed ben Abdelmalek** (amb. Vienne 1783) | Portrait par Loschenkohl                        | TAZI, T.9                     |
+| **Abdallah ben Aïcha** (amb. France 1699)     | Dessin + signature                              | TAZI, T.9                     |
+| **Mohammed Temim** (amb. France 1682)          | Portrait                                        | TAZI, T.9                     |
+| **Mohammed ben Haddou** (amb. G-B)             | Peinture + signature                            | TAZI, T.9                     |
+| **Tahar Fennich** (amb. Paris)                 | Portrait                                        | TAZI, T.9                     |
+| **Caïd Ash'ash, Ben Driss, Zebdi** (XIXe s.)  | Dessins                                         | TAZI, T.9                     |
 
 #### D. Sceaux, Signatures et Documents Officiels
 
-| Document | Description | Localisation |
-|----------|-------------|--------------|
-| Sceau (Tabaa) de Mohammed III | Cachet royal | TAZI, T.6 et T.9 |
-| Cachet de Moulay Abdelaziz | Empreinte sur firman 1904 | *Documents Diplomatiques* |
-| Dahir de « Respect et Sauvegarde » | Avec sceau (rabbin de Meknès) | KENBIB, *Juifs et Musulmans* |
-| Code de chiffrage « الضابط » (Dabit) | Cryptographie diplomatique XXe s. | TAZI, T.6 |
-| Signatures des ambassadeurs | Ben Aïcha, Ben Haddou, Adil | TAZI, T.9 |
+| Document                                     | Description                       | Localisation                  |
+| -------------------------------------------- | --------------------------------- | ----------------------------- |
+| Sceau (Tabaa) de Mohammed III                | Cachet royal                      | TAZI, T.6 et T.9              |
+| Cachet de Moulay Abdelaziz                   | Empreinte sur firman 1904         | *Documents Diplomatiques*   |
+| Dahir de « Respect et Sauvegarde »         | Avec sceau (rabbin de Meknès)    | KENBIB,*Juifs et Musulmans* |
+| Code de chiffrage « الضابط » (Dabit) | Cryptographie diplomatique XXe s. | TAZI, T.6                     |
+| Signatures des ambassadeurs                  | Ben Aïcha, Ben Haddou, Adil      | TAZI, T.9                     |
 
 #### E. Scènes Diplomatiques et Gravures d'Époque
 
-| Scène | Description | Localisation |
-|-------|-------------|--------------|
-| Audience de St Olon | « Audience donnée par l'Empereur de Maroc au Sr de St Olon » (1693) | BRIGNON + TAZI, T.9 |
-| Réception britannique à Meknès | Ambassadeur de G-B reçu par Moulay Ismaïl | TAZI, T.9 |
-| Mission danoise | Réception par Sidi Mohammed ben Abdallah | TAZI, T.9 |
-| Siège de Salé | « Dessin du siège de la ville de Salé » | TAZI, T.9 |
-| Tour Hassan | Vue de Rabat | TAZI, T.9 |
+| Scène                            | Description                                                            | Localisation        |
+| --------------------------------- | ---------------------------------------------------------------------- | ------------------- |
+| Audience de St Olon               | « Audience donnée par l'Empereur de Maroc au Sr de St Olon » (1693) | BRIGNON + TAZI, T.9 |
+| Réception britannique à Meknès | Ambassadeur de G-B reçu par Moulay Ismaïl                            | TAZI, T.9           |
+| Mission danoise                   | Réception par Sidi Mohammed ben Abdallah                              | TAZI, T.9           |
+| Siège de Salé                   | « Dessin du siège de la ville de Salé »                            | TAZI, T.9           |
+| Tour Hassan                       | Vue de Rabat                                                           | TAZI, T.9           |
 
 #### F. Fonds d'Archives à Consulter
 
-| Institution | Fonds | Contenu |
-|-------------|-------|---------|
-| **Bibliothèque Royale Hassaniya** (Rabat) | ms. 1275/319 et autres | Correspondances, traités arabes |
-| **Direction des Archives Royales** (Rabat) | Fonds Grande-Bretagne, Dossiers chronologiques | Documents XIXe-XXe s. |
-| **Public Record Office** (Londres) | F.O. 99, F.O. 174 | Légation de Tanger |
-| **Archives du MAE** (Paris) | Correspondance politique et consulaire | Relations franco-marocaines |
-| **Torre do Tombo** (Lisbonne) | Cartes et documents portugais | Présence portugaise au Maroc |
+| Institution                                      | Fonds                                          | Contenu                          |
+| ------------------------------------------------ | ---------------------------------------------- | -------------------------------- |
+| **Bibliothèque Royale Hassaniya** (Rabat) | ms. 1275/319 et autres                         | Correspondances, traités arabes |
+| **Direction des Archives Royales** (Rabat) | Fonds Grande-Bretagne, Dossiers chronologiques | Documents XIXe-XXe s.            |
+| **Public Record Office** (Londres)         | F.O. 99, F.O. 174                              | Légation de Tanger              |
+| **Archives du MAE** (Paris)                | Correspondance politique et consulaire         | Relations franco-marocaines      |
+| **Torre do Tombo** (Lisbonne)              | Cartes et documents portugais                  | Présence portugaise au Maroc    |
 
 ---
 
 *Document rédigé dans le cadre du Master Sciences Politiques*
 *Module : Histoire Diplomatique du Maroc*
 *30 janvier 2026*
+
+---
+### 4. Ouverture : le Protectorat et les héritages contemporains
+
+Le paradoxe de la « souveraineté amputée » aura des **conséquences structurantes** pour le Maroc contemporain :
+
+**Durant le Protectorat (1912-1956)** : La forme étatique maintenue par Lyautey permettra l'émergence d'un mouvement nationaliste qui revendique non pas la création d'un État nouveau, mais la **restauration** d'une souveraineté historique. Le dahir berbère de 1930 provoquera une mobilisation précisément parce qu'il est perçu comme une atteinte à l'unité de l'État chérifien.
+
+**Après l'indépendance (1956)** : Le Maroc n'a pas à construire une identité étatique ex nihilo. Il hérite :
+
+- D'une tradition diplomatique biséculaire
+- De traités toujours en vigueur (USA 1786)
+- D'une légitimité monarchique consolidée par l'épreuve coloniale
+- De revendications territoriales fondées sur l'« intégrité » d'avant 1912
+
+#### La preuve par l'Afrique : résilience de l'ADN diplomatique alaouite
+
+Les travaux récents de Julien Durand de Sanctis et Jean-Noël Ferrié sur les relations Maroc-France et la politique africaine contemporaine (2025) démontrent que la « souveraineté amputée » de 1912 n'a pas tué l'État – la structure makhzénienne a « hiberné » sous le Protectorat pour renaître.[^DurandFerrie]
+
+La politique africaine actuelle de Mohammed VI réactive consciemment les **substrats précoloniaux** :
+
+| Outil contemporain                                               | Résonance historique                                                                                    |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Retour à l'Union Africaine (2017)                               | Affirmation d'une puissance régionale autonome (cf. contrôle du commerce transsaharien XVIe-XVIIIe s.) |
+| Diplomatie économique multisectorielle                          | Réseaux commerciaux précoloniaux (Sijilmassa, routes de l'or vers Tombouctou)                          |
+| Soft power religieux (formation des imams, Institut Mohammed VI) | Rayonnement des*zaouïas* et confréries (Qadiriyya, Tijaniyya)                                        |
+| Confrérie Tijaniyya au Sénégal                                | Allégeance spirituelle transsaharienne au Commandeur des Croyants                                       |
+| Gazoduc Maroc-Nigeria, Initiative Atlantique                     | Projection vers la « profondeur stratégique » africaine                                               |
+
+Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **profondeur stratégique** » et le « **prolongement naturel** » du Maroc, mobilisant des liens humains et spirituels séculaires. Le Maroc ne se positionne plus comme un allié mécanique de la France, mais comme un **partenaire égal** développant ses propres réseaux – exactement comme Sidi Mohammed ben Abdallah diversifiait ses partenaires commerciaux au XVIIIe siècle.
+
+> **Argument de clôture :** La politique africaine actuelle de Mohammed VI est la **preuve vivante que l'ADN diplomatique alaouite a survécu à la parenthèse coloniale**. Les mêmes « logiciels » du XVIIIe siècle (réseaux commerciaux, légitimité religieuse du Commandeur des Croyants, diplomatie d'équilibre) sont réactivés et adaptés au monde globalisé.
+
+**Dans le Maroc contemporain** : La Constitution de 2011 consacre toujours le titre de *Amir al-Mouminine* et fait du Roi le garant de la « continuité de l'État ».[^43] Les concepts forgés par la diplomatie alaouite pré-coloniale – légitimité chérifienne, Bay'a, intégrité territoriale – structurent encore le discours politique et les positions diplomatiques du Royaume.
+---
 
 [^1]: Adage du droit public marocain, cité par Daniel Rivet, *Histoire du Maroc*, p. 45.
     
@@ -1293,17 +1372,17 @@ L'analyse des sources (Rivet, Abitbol, Ben-Srhir, El Oufir, *Documents Diplomati
 [^42]: *Documents Diplomatiques*, sur la crise de légitimité de 1912.
     
 [^43]: Constitution du Royaume du Maroc (2011), articles 41 et 42.
-
+    
 [^44]: Mohammed al-Saffar, *Rihla* (récit de voyage à Paris, 1845), cité dans Saloua El Oufir, « L'Identité à l'épreuve de la mobilité diplomatique des voyageurs marocains en Europe (1691-1919) », Université Mohammed V de Rabat.
-
+    
 [^45]: Sur le rôle du Naib et des figures comme Mohammed Bargash et Mohammed Torres, voir Khalid Ben-Srhir, *Britain and Morocco During the Embassy of John Drummond Hay*, p. 120-145 ; *Documents Diplomatiques – Affaires du Maroc*, passim.
-
+    
 [^46]: Daniel Rivet, *Histoire du Maroc de Moulay Idris à Mohammed VI*, Paris, Fayard, 2012, p. 45.
-
+    
 [^Dumont]: Paul Dumont, « L'instrumentalisation de la religion dans l'Empire ottoman », analyse le recours au titre califal comme stratégie de « containment religieux » après le traité de Küçük Kaynarca (1774). Les Ottomans maintiennent une juridiction spirituelle (notamment la *khutba*) sur les populations musulmanes des territoires perdus.
-
+    
 [^ElOufir]: Saloua El Oufir, « L'Identité à l'épreuve de la mobilité diplomatique des voyageurs marocains en Europe (1691-1919) », Université Mohammed V de Rabat. Citation clé : « dans la hiérarchie des référents identitaires, le Maroc survient après l'islam de la même manière qu'après Dieu, il y a le sultan. Celui-ci représente, en effet, le parfait point de jonction entre la patrie et la religion. »
-
+    
 [^BenSrhir]: Khalid Ben-Srhir, *Britain and Morocco During the Embassy of John Drummond Hay, 1845-1886*, London, Routledge, 2005. L'auteur soutient que c'est la Grande-Bretagne qui a « pavé la voie à la perte d'indépendance du Maroc » en ouvrant le pays à une pénétration commerciale incontrôlable et en incitant le Makhzen à des réformes coûteuses qui ont drainé le trésor bien avant l'occupation militaire.
-
+    
 [^DurandFerrie]: Julien Durand de Sanctis et Jean-Noël Ferrié, « Morocco–French Relations and Foreign Policy in Africa: Postcolonial Legacy and Disruptions », *Journal of North African Studies*, 2025. Les auteurs démontrent que la politique africaine actuelle du Maroc réactive les substrats diplomatiques précoloniaux : réseaux commerciaux transsahariens, soft power religieux via la Tijaniyya, et légitimité du Commandeur des Croyants.
