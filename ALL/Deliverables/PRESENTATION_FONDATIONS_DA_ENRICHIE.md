@@ -28,7 +28,7 @@ Pour répondre, notre analyse s'articulera en deux parties :
 
 ---
 
-![FIGURE_1_CARTE_EMPIRE_CHERIFIEN]
+![FIGURE_1_CARTE_EMPIRE_CHERIFIEN](images/FIGURE_1_CARTE_EMPIRE_CHERIFIEN_mouette_1683.jpg)
 
 > **Figure 1 :** Carte de l'Empire Chérifien au XVIIIe siècle – Zones d'influence, ports corsaires et réseaux diplomatiques
 >
@@ -59,6 +59,22 @@ La première phase de la diplomatie alaouite se caractérise par une **double dy
 
 ---
 
+## Préambule Dynastique : La Genèse Alaouite (1631-1672)
+
+Avant d'analyser les fondements théologiques et les instruments de la diplomatie, il convient de restituer le contexte d'émergence de la dynastie alaouite et les premières orientations diplomatiques de ses fondateurs.
+
+### Moulay Chérif et le berceau du Tafilalet (1631-1659)
+
+L'aventure alaouite commence dans le **Tafilalet**, carrefour du commerce transsaharien. Moulay Chérif (m. 1659), patriarche de la dynastie, entreprend l'unification des tribus du sud-est autour de la légitimité chérifienne. Son action est avant tout **interne** : sécurisation de l'axe commercial Sijilmassa-Moulouya, qui finance l'État naissant par le contrôle des routes de l'or et des caravanes. Daniel Rivet souligne que sans ce contrôle des routes commerciales, le Makhzen n'aurait pu ni négocier en position de force, ni financer une flotte capable de projeter sa puissance en Méditerranée.[^Rivet_Rachid]
+
+### Moulay Rachid (1666-1672) : le fondateur de l'État
+
+L'avènement de Moulay Rachid marque la véritable **fondation de l'État alaouite** en tant qu'entité politique unifiée. En quelques années, il conquiert Fès (1666), soumet le Souss et le Rif, et met fin à l'anarchie post-saadienne (élimination de la Zaouïa de Dila, soumission de la République corsaire de Salé). Sa diplomatie, encore embryonnaire, est déjà **pragmatique** : il accorde la liberté commerciale aux Français, posant les jalons des relations économiques qui structureront l'action extérieure du siècle suivant.
+
+Cette phase de consolidation interne est la **condition préalable** de toute politique étrangère : sans monopole fiscal et sans contrôle territorial effectif, aucune diplomatie extérieure cohérente n'est possible. L'héritage de Moulay Rachid — un État centralisé mais encore fragile — sera considérablement renforcé par son frère et successeur, Moulay Ismaïl.
+
+---
+
 ## A. Les Fondements Théologico-Politiques de la Souveraineté
 
 ### 1. La légitimité prophétique et le rejet de la suzeraineté ottomane
@@ -75,7 +91,7 @@ Moulay Mhammed retourne l'argument contre ses interlocuteurs : en tant que desce
 
 ---
 
-![FIGURE_7_PORTRAITS_FONDATEURS_ALAOUITES]
+![FIGURE_7_PORTRAITS_FONDATEURS_ALAOUITES](images/FIGURE_7_PORTRAITS_FONDATEURS_ALAOUITES_moulay_ismaeil_larmessin.jpg)
 
 > **Figure 7 :** Portraits des fondateurs de la dynastie Alaouite (1666-1727)
 >
@@ -102,7 +118,7 @@ Cette rivalité se traduit militairement. Moulay Ismaïl (r. 1672-1727) mène pl
 
 ---
 
-![FIGURE_8_CARTE_FRONTIERE_OUED_TAFNA]
+![FIGURE_8_CARTE_FRONTIERE_OUED_TAFNA](images/FIGURE_8_CARTE_FRONTIERE_OUED_TAFNA_regency_algiers_map.jpg)
 
 > **Figure 8 :** Fixation de la frontière orientale (Oued Tafna 1678) et expansion du territoire alaouite
 >
@@ -125,9 +141,31 @@ Cette rivalité se traduit militairement. Moulay Ismaïl (r. 1672-1727) mène pl
 
 ---
 
+#### La récupération des présides et la projection militaire
+
+Parallèlement à la fixation de la frontière orientale, Moulay Ismaïl poursuit une politique systématique de **reconquête des enclaves européennes** sur le littoral marocain :
+
+| Date | Préside récupéré | Puissance évincée | Signification |
+| --- | --- | --- | --- |
+| **1681** | **La Mamora (Mehdya)** | Espagne | Première reconquête majeure |
+| **1684** | **Tanger** | Angleterre | Évacuation négociée par Charles II |
+| **1689** | **Larache** | Espagne | Reconquête militaire après siège |
+
+Ces récupérations sont des actes de souveraineté majeurs : elles démontrent la capacité du Makhzen à **inverser le rapport de force** hérité de la période post-saadienne, où les puissances ibériques et anglaises contrôlaient des points stratégiques du littoral. La récupération de Tanger (1684) et de Larache (1689) met fin à près de deux siècles de présence européenne sur ces sites.
+
+#### Les ambassades en Europe : le « pair-à-pair » et ses limites
+
+Moulay Ismaïl déploie une **diplomatie active** vers l'Europe, traitant d'égal à égal avec les plus grandes puissances :
+
+- **Ambassade de Mohammed Temim à Paris (1682)** : Envoyé auprès de Louis XIV pour négocier une **alliance franco-marocaine contre l'Espagne** et le rachat de captifs. Malgré la réception fastueuse à Versailles, la mission échoue : la France refuse de s'engager militairement contre Madrid.
+- **Ambassade de Ben Aïcha à Paris (1698)** : Seconde tentative pour sceller l'alliance anti-espagnole. Nouvel échec diplomatique, la Cour de France maintenant sa position de non-engagement.
+- **Traité avec l'Angleterre (1721)** : Négocié avec le Commodore Stewart, cet accord constitue un **succès juridique notable** : il garantit la juridiction du Sultan sur les litiges impliquant des Marocains, préservant ainsi la souveraineté judiciaire du Makhzen face aux prétentions consulaires britanniques.[^Ismael_1721]
+
+L'échec des ambassades françaises révèle une **asymétrie structurelle** : le Maroc, malgré sa puissance militaire régionale, ne dispose pas des moyens de pression suffisants pour contraindre une grande puissance européenne à modifier ses alliances. Le succès du traité de 1721 avec l'Angleterre montre en revanche que la négociation juridique — plutôt que l'alliance militaire — est le terrain où la diplomatie chérifienne obtient ses meilleurs résultats.
+
 #### Conséquence diplomatique
 
-Le rejet de la suzeraineté ottomane fonde la **prétention à l'égalité souveraine** avec les grandes puissances. Moulay Ismaïl exige d'être traité en « Pair » (*Nid*) avec le Grand Turc et les monarques européens, refusant tout protocole condescendant.[^13] Cette exigence de parité statutaire structure l'ensemble des négociations diplomatiques du XVIIe-XVIIIe siècle.
+Le rejet de la suzeraineté ottomane et la récupération des présides fondent la **prétention à l'égalité souveraine** avec les grandes puissances. Moulay Ismaïl exige d'être traité en « Pair » (*Nid*) avec le Grand Turc et les monarques européens, refusant tout protocole condescendant.[^13] Cette exigence de parité statutaire structure l'ensemble des négociations diplomatiques du XVIIe-XVIIIe siècle.
 
 #### Contraste stratégique : le modèle califal ottoman vs le modèle chérifien
 
@@ -187,7 +225,7 @@ Les diplomates marocains, bien que formés dans la tradition juridique islamique
 
 ---
 
-![FIGURE_2_FACSIMILES_TRAITES]
+![FIGURE_2_FACSIMILES_TRAITES](images/FIGURE_2_FACSIMILES_TRAITES_morocco_usa_1786.jpg)
 
 > **Figure 2 :** Fac-similés des principaux traités alaouites (1666-1800) – Protocole et authenticité
 >
@@ -244,7 +282,7 @@ L'utilisation de diplomates juifs, très marquée sous les Saadiens (famille Pal
 
 ---
 
-![FIGURE_9_SCEAUX_MARCHANDS_ROYAUX]
+![FIGURE_9_SCEAUX_MARCHANDS_ROYAUX](images/FIGURE_9_SCEAUX_MARCHANDS_ROYAUX_morocco_usa_1787_page2.jpg)
 
 > **Figure 9 :** Sceaux, signatures et documents des intermédiaires diplomatiques marocains
 >
@@ -314,7 +352,7 @@ Face à la supériorité navale européenne croissante, **Moulay Slimane** (r. 1
 
 ---
 
-![FIGURE_3_DIPLOMATIE_CORSAIRE]
+![FIGURE_3_DIPLOMATIE_CORSAIRE](images/FIGURE_3_DIPLOMATIE_CORSAIRE_british_sailors_algerine_pirate.jpg)
 
 > **Figure 3 :** La diplomatie maritime et la « paix forcée » par la course corsaire
 >
@@ -345,6 +383,44 @@ Face à la supériorité navale européenne croissante, **Moulay Slimane** (r. 1
 >
 > - Gallica (bnf.fr) : Rechercher « Saint-Olon Maroc 1693 » ou « Moulay Ismaïl gravure »
 > - Museum Boijmans Van Beuningen (Rotterdam) : Gravures hollandaises des corsaires marocains
+
+---
+
+### L'Anomie Alaouite (1727-1757) : trente ans de paralysie diplomatique
+
+La mort de Moulay Ismaïl en 1727 ouvre une **crise dynastique majeure** qui paralyse l'État pendant trente ans. Cette période, qualifiée d'**« anomie alaouite »** par l'historiographie, constitue une rupture fondamentale dans la continuité diplomatique du Maroc.
+
+#### Le facteur déstabilisant : les *Abid al-Bukhari*
+
+L'armée d'esclaves noirs (*Abid al-Bukhari*), créée par Moulay Ismaïl comme contrepoids aux tribus et pilier de son pouvoir absolu, devient après sa mort le **véritable faiseur de rois**. Ces prétoriens imposent et déposent les sultans au gré de leurs intérêts, reproduisant un schéma comparable aux mamelouks d'Égypte ou aux janissaires ottomans. Le monopole de la violence, laborieusement reconquis par Moulay Ismaïl, échappe au Makhzen pour retomber entre les mains d'une faction militaire autonome.
+
+#### La succession chaotique
+
+| Période | Sultan | Caractéristiques |
+| --------- | ----------------------------------- | ---------------------------------------------------- |
+| 1727-1728 | **Moulay Ahmed** (*ad-Dhahabi*) | Éphémère, imposé par les *Abid al-Bukhari* |
+| 1728 | **Moulay Abdelmalek** | Quelques mois de règne seulement |
+| 1729-1757 | **Moulay Abdallah** | Règnes intermittents (au moins six intronisations et dépositions successives) |
+
+Moulay Abdallah, fils de Moulay Ismaïl, est le sultan qui domine cette période – mais d'un pouvoir fragile, constamment contesté. Il est intronisé, déposé, puis réintronisé à plusieurs reprises, les *Abid al-Bukhari* arbitrant chaque crise selon leurs calculs factieux. La *Bay'a* elle-même perd sa solennité : accordée et retirée au rythme des coups de force, elle se vide de sa substance contractuelle pour devenir un simple sceau de validation militaire.
+
+#### Conséquences diplomatiques de l'anomie
+
+Cette instabilité a des répercussions majeures sur la politique extérieure :
+
+1. **Paralysie de la négociation** : Sans pouvoir central stable, aucun sultan ne peut engager durablement l'État par traité. Les puissances européennes traitent de plus en plus directement avec les autorités locales (gouverneurs de ports, corsaires autonomes), contournant un Makhzen en décomposition.
+
+2. **Régression de la course** : La flotte corsaire, qui constituait le principal levier diplomatique sous Moulay Ismaïl, se fragmente. Les corsaires de Salé et de Rabat reprennent une autonomie *de facto*, affaiblissant la position de négociation collective du Maroc face aux puissances maritimes européennes.
+
+3. **Érosion du prestige international** : L'image d'un Empire puissant et unifié, forgée par Moulay Ismaïl en traitant d'égal à égal avec Louis XIV, se dissipe. Les puissances européennes commencent à percevoir le Maroc comme un État en déclin, perception qui facilitera les exigences croissantes au siècle suivant.
+
+4. **Perte de contrôle des frontières** : La frontière orientale (Oued Tafna), laborieusement fixée par Moulay Ismaïl, redevient poreuse et disputée, préfigurant les contentieux futurs avec la Régence d'Alger.
+
+#### La fin de l'anomie : l'avènement de Sidi Mohammed ben Abdallah (1757)
+
+L'arrivée au pouvoir de Sidi Mohammed ben Abdallah (Mohammed III) en 1757 met fin à cette parenthèse destructrice. Fils de Moulay Abdallah, il hérite d'un État affaibli mais intact dans ses structures fondamentales. Sa première tâche sera de **restaurer l'autorité centrale** et de **reconstruire la politique extérieure** sur des bases radicalement nouvelles – non plus la force maritime (la flotte est décimée), mais le commerce et le droit des traités.
+
+> **Leçon de l'anomie :** Cette période démontre que la légitimité chérifienne seule ne suffit pas à maintenir l'État : sans **pouvoir effectif** (contrôle de l'armée, monopole fiscal, autorité sur les provinces), la souveraineté diplomatique se vide de sa substance. C'est exactement le diagnostic que posera la CIJ en 1975 en distinguant « liens d'allégeance » et « souveraineté territoriale effective ».
 
 ---
 
@@ -398,7 +474,7 @@ Ces traités **formalisent juridiquement l'espace maritime** : droits de douane,
 
 ---
 
-![FIGURE_4_PLAN_ESSAOUIRA]
+![FIGURE_4_PLAN_ESSAOUIRA](images/FIGURE_4_PLAN_ESSAOUIRA_plan_de_mogador_btv1b53064624b.jpg)
 
 > **Figure 4 :** Plan d'Essaouira (Mogador) au XVIIIe siècle – Laboratoire de diplomatie multiculturelle
 >
@@ -426,6 +502,37 @@ Ces traités **formalisent juridiquement l'espace maritime** : droits de douane,
 >
 > - Essaouira Mogador Foundation : Documentation photographique numérisée
 > - Google Books : Reproductions partielles de KENBIB
+
+---
+
+### La Parenthèse de Moulay Slimane (1792-1822) : le repli stratégique
+
+Si Sidi Mohammed ben Abdallah incarne l'ouverture commerciale et diplomatique, son successeur Moulay Slimane (r. 1792-1822) opère une **rupture doctrinale** qui modifie profondément la posture internationale du Maroc.
+
+#### Une politique de « précaution » face aux turbulences révolutionnaires
+
+Le règne de Moulay Slimane coïncide avec les guerres de la Révolution et de l'Empire napoléonien, qui bouleversent l'équilibre européen. Face à cette instabilité, le Sultan adopte une politique de **repli défensif** (*ihtiyat*) : réduction des contacts diplomatiques, fermeture relative des ports, méfiance systématique envers les influences européennes.
+
+#### L'influence wahhabite et le rigorisme religieux
+
+Les travaux historiographiques (Abitbol, Rivet) soulignent l'influence du courant wahhabite sur Moulay Slimane. Cette orientation théologique renforce la méfiance envers l'Occident et justifie doctrinalement l'isolement. Le Sultan entretient une correspondance avec les oulémas du Najd et adopte une posture rigoriste qui contraste avec le pragmatisme commercial de son prédécesseur. Il s'oppose également aux confréries soufies (*zaouïas*), réduisant un réseau d'intermédiation qui avait souvent servi de relais diplomatique informel.
+
+#### L'arrêt de la course et le désarmement naval (1817)
+
+La décision la plus lourde de conséquences est l'**arrêt officiel de la course en 1817** et le désarmement de la flotte. Moulay Slimane offre ses navires à la Régence d'Alger et à celle de Tripoli.[^25] Ce geste, motivé par des considérations religieuses (renoncement au *jihad* maritime) et diplomatiques (pression des puissances européennes après le Congrès de Vienne), prive le Maroc de son **principal levier de contrainte** diplomatique.
+
+| Avant Moulay Slimane | Après Moulay Slimane |
+| -------------------------------------------------- | ----------------------------------------------- |
+| Flotte corsaire = outil de négociation forcée | Plus de capacité de pression maritime |
+| Captifs = monnaie d'échange diplomatique | Disparition du « dossier des captifs » |
+| Commerce ouvert = source de revenus douaniers | Fermeture partielle = appauvrissement fiscal |
+| Réseau de traités commerciaux diversifiés | Isolement relatif, perte de partenaires |
+
+#### Le legs ambivalent
+
+Le bilan de Moulay Slimane est **paradoxal** : en préservant le Maroc des turbulences révolutionnaires européennes, il évite une contamination politique dangereuse ; mais en désarmant la flotte et en fermant l'économie, il livre le pays **sans défense** face à l'expansion coloniale qui s'annonce. Lorsque Moulay Abderrahmane lui succède en 1822, le Maroc hérite d'un État intérieurement pacifié mais extérieurement **dépourvu des moyens de résistance** – ni flotte, ni alliances, ni dynamique commerciale – au moment précis où les puissances européennes, portées par la révolution industrielle, s'apprêtent à imposer leurs conditions.
+
+> **Transition :** Le passage du règne de Moulay Slimane à celui de Moulay Abderrahmane marque le basculement entre les deux parties de cette étude. L'ère de la projection souveraine (Partie I) s'achève ; celle de la résistance défensive (Partie II) commence. Le Maroc entre dans le XIXe siècle avec les institutions du XVIIIe, mais sans les armes pour les défendre.
 
 ---
 
@@ -469,6 +576,23 @@ La seconde phase de la diplomatie alaouite se caractérise par un **renversement
 
 ---
 
+### Vue synoptique : Les sultans face à l'encerclement (1822-1912)
+
+L'historiographie distingue cinq règnes successifs dans cette phase de résistance, chacun marqué par une escalade de la pression européenne et un rétrécissement des marges de manœuvre diplomatiques :
+
+| Sultan | Règne | Posture diplomatique | Événement déterminant |
+| --- | --- | --- | --- |
+| **Moulay Abderrahmane** | 1822-1859 | Soutien à Abd el-Kader, puis soumission contrainte | Défaite d'Isly (1844), Traité anglo-marocain (1856) |
+| **Sidi Mohammed IV** | 1859-1873 | Diplomatie de dette et de concessions forcées | Guerre de Tétouan (1860), Convention Béclard (1863) |
+| **Moulay Hassan Ier** | 1873-1894 | Diplomatie « pendulaire » : jouer les puissances les unes contre les autres | Conférence de Madrid (1880) |
+| **Moulay Abdelaziz** | 1894-1908 | Tentative de modernisation, puis internationalisation (*Tadmin*) | Conférence d'Algésiras (1906) |
+| **Moulay Hafid** | 1908-1912 | Proclamé sur promesse de Jihad, signe la capitulation | Traité de Fès (1912) |
+| **Moulay Youssef** | 1912-1927 | Sultan sous Protectorat, fonction symbolique et religieuse | Résidence Générale de Lyautey |
+
+La **Convention Béclard** (1863), souvent négligée par l'historiographie générale, constitue pourtant un tournant décisif : signée avec la France sous le règne de Sidi Mohammed IV, elle **institutionnalise le système des protections consulaires**, créant un véritable « État dans l'État ». Alors que le traité anglo-marocain de 1856 avait ouvert l'économie, la Convention Béclard ouvre la *juridiction* : tout Marocain employé par un étranger peut désormais échapper à l'autorité du Sultan. Ce mécanisme, conjugué à la dette écrasante de la guerre de Tétouan (20 millions de douros), prépare directement la crise des protections que la Conférence de Madrid (1880) tentera – en vain – de résoudre.[^Beclard]
+
+---
+
 ## A. Le Choc des Impérialismes et la Stratégie Défensive
 
 ### 1. D'Isly à Tétouan (1844-1860) : premiers traités inégaux
@@ -488,7 +612,7 @@ Le traité de Lalla Maghnia impose une **frontière linéaire** étrangère à l
 
 ---
 
-![FIGURE_10_BATAILLE_ISLY_TRAITES]
+![FIGURE_10_BATAILLE_ISLY_TRAITES](images/FIGURE_10_BATAILLE_ISLY_TRAITES_vernet_isly_1846.jpg)
 
 > **Figure 10 :** La bataille d'Isly (1844) et ses conséquences diplomatiques
 >
@@ -556,7 +680,7 @@ Face à cette érosion, le Sultan Hassan Ier (r. 1873-1894) prend l'initiative d
 
 ---
 
-![FIGURE_5_PROTEGES_CONSULAIRES]
+![FIGURE_5_PROTEGES_CONSULAIRES](images/FIGURE_5_PROTEGES_CONSULAIRES_madrid_conference_1880_title.jpg)
 
 > **Figure 5 :** Le système des protections consulaires (1856-1912) – Évidement juridique de la souveraineté
 >
@@ -637,7 +761,7 @@ Défaite militaire → Indemnité → Endettement → Emprunts européens
 
 ---
 
-![FIGURE_12_ACTEURS_DIPLOMATIE_CRISE]
+![FIGURE_12_ACTEURS_DIPLOMATIE_CRISE](images/FIGURE_12_ACTEURS_DIPLOMATIE_CRISE_abd_el_aziz_bicyclette_1901.jpg)
 
 > **Figure 12 :** Les acteurs de la diplomatie marocaine en crise (1900-1906)
 >
@@ -704,7 +828,7 @@ Le Sultan Moulay Abdelaziz, s'appuyant sur une assemblée de notables (*Majlis a
 
 ---
 
-![FIGURE_6_ALLIANCES_ALGESIRAS]
+![FIGURE_6_ALLIANCES_ALGESIRAS](images/FIGURE_6_ALLIANCES_ALGESIRAS_delegues_tanger_hotel_continental.jpg)
 
 > **Figure 6 :** Les acteurs de la crise marocaine (1900-1912) – Sultans, diplomates et intervenants étrangers
 >
@@ -749,7 +873,7 @@ Le Sultan Moulay Abdelaziz, s'appuyant sur une assemblée de notables (*Majlis a
 
 ---
 
-![FIGURE_13_ALGESIRAS_PROTOCOLES]
+![FIGURE_13_ALGESIRAS_PROTOCOLES](images/FIGURE_13_ALGESIRAS_PROTOCOLES_algeciras_conference_1906.jpg)
 
 > **Figure 13 :** Acte d'Algésiras (1906) : protocoles, délégations et texture juridique
 >
@@ -813,7 +937,7 @@ Le Traité de Fès est un **paradoxe juridique** :
 
 ---
 
-![FIGURE_14_PROTECTORAT_TRAITE_FES]
+![FIGURE_14_PROTECTORAT_TRAITE_FES](images/FIGURE_14_PROTECTORAT_TRAITE_FES_portion_signatures.png)
 
 > **Figure 14 :** Le Traité de Fès et sa signature (30 mars 1912) – Document fondateur du Protectorat
 >
@@ -875,7 +999,7 @@ Le maintien de la forme juridique de l'État pendant le Protectorat aura des con
 
 ---
 
-![FIGURE_7_FRISE_EROSION_SOUVERAINETE]
+![FIGURE_7_FRISE_EROSION_SOUVERAINETE](images/FIGURE_7_FRISE_EROSION_SOUVERAINETE_madrid_conference_1880_p5.jpg)
 
 > **Figure 7 :** L'érosion de la souveraineté marocaine (1844-1912) — Documents d'époque
 >
@@ -955,7 +1079,7 @@ Contrairement au modèle européen des ambassades résidentes permanentes, la di
 | --------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------- |
 | XVIIe s.  | Corsaires et commandants (ex: Ben Aïcha, amiral)                   | Rachat de captifs, alliances militaires contre l'Espagne            | TAZI, T.9 ; Lugan                       |
 | XVIIIe s. | *Tujjar as-Sultan* et élites juives (Pallache, Guedalla, Macnin) | Intermédiation commerciale, intelligence économique               | KENBIB,*Juifs et Musulmans* ; Abitbol |
-| XIXe s.   | Lettrés et vizirs (al-Saffar, Zebdi)                               | Négociations défensives, observation de la modernité européenne | El Oufir,*Identité et mobilité*     |
+| XIXe s.   | Lettrés, vizirs et grands vizirs (al-Saffar, Zebdi, Madani El Glaoui) | Négociations défensives, observation de la modernité européenne, gestion des crises | El Oufir,*Identité et mobilité*     |
 
 Cette évolution reflète le passage d'une **diplomatie de confrontation** (course, récupération des présides) à une **diplomatie de survie** face à la pénétration européenne. Les récits de voyage (*rihla*) des ambassadeurs du XIXe siècle témoignent de cette prise de conscience du retard technologique – al-Saffar écrit après son ambassade à Paris (1845) : « *l'ordre chez eux, le désordre chez nous* ».[^44]
 
@@ -1014,7 +1138,7 @@ L'analyse des sources (Rivet, Abitbol, Ben-Srhir, El Oufir, *Documents Diplomati
 
 ---
 
-![FIGURE_8_SYNTHESE_DIPLOMATIE_ALAOUITE]
+![FIGURE_8_SYNTHESE_DIPLOMATIE_ALAOUITE](images/FIGURE_8_SYNTHESE_DIPLOMATIE_ALAOUITE_said_muhammed_ben_abdul_melek_1783.jpg)
 
 > **Figure 8 :** Synthèse graphique – Les deux phases de la diplomatie alaouite (1666-1912)
 >
@@ -1132,10 +1256,18 @@ Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **prof
 
 | Année    | Événement                          | Portée diplomatique                                          |
 | --------- | ------------------------------------ | ------------------------------------------------------------- |
-| 1666      | Avènement de Moulay Rachid          | Fondation de la dynastie alaouite                             |
+| 1631-1659 | Moulay Chérif au Tafilalet           | Unification tribale, contrôle des routes commerciales         |
+| 1666      | Avènement de Moulay Rachid          | Fondation de la dynastie alaouite, unification du territoire  |
 | 1672-1727 | Règne de Moulay Ismaïl             | Centralisation de la diplomatie, récupération des présides |
-| 1684      | Récupération de Tanger             | Affirmation de la souveraineté territoriale                  |
+| 1681      | Récupération de La Mamora (Mehdya)  | Première reconquête d'un préside espagnol                    |
+| 1682      | Ambassade de Temim à Paris           | Tentative d'alliance franco-marocaine contre l'Espagne       |
+| 1684      | Récupération de Tanger              | Affirmation de la souveraineté territoriale                  |
+| 1689      | Récupération de Larache             | Reconquête militaire sur les Espagnols                        |
+| 1698      | Ambassade de Ben Aïcha à Paris      | Seconde tentative d'alliance, échec confirmé                 |
+| 1721      | Traité avec l'Angleterre (Stewart)  | Garantie de la juridiction du Sultan sur les litiges          |
+| 1727-1757 | **Anomie alaouite**                  | Crise dynastique (*Abid al-Bukhari*), paralysie diplomatique |
 | 1757-1790 | Règne de Sidi Mohammed ben Abdallah | Âge d'or de la diplomatie commerciale                        |
+| 1792-1822 | Règne de Moulay Slimane             | Repli stratégique, arrêt de la course (1817)                |
 | 1767      | Traité avec la France               | Paix perpétuelle et commerce                                 |
 | 1777      | Déclaration sur les USA             | Première reconnaissance mondiale                             |
 | 1786      | Traité de Marrakech (USA)           | Paix et amitié perpétuelles                                 |
@@ -1144,12 +1276,14 @@ Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **prof
 | 1845      | Traité de Lalla Maghnia             | Frontière algéro-marocaine                                  |
 | 1856      | Traité anglo-marocain               | Ouverture commerciale forcée                                 |
 | 1860      | Traité de Wad-Ras                   | Premier traité inégal                                       |
+| 1863      | Convention Béclard (France)          | Institutionnalisation des protections consulaires            |
 | 1880      | Convention de Madrid                 | Internationalisation du problème marocain                    |
 | 1904      | Entente Cordiale                     | Partage anglo-français                                       |
 | 1905      | Coup de Tanger                       | Intervention allemande                                        |
 | 1906      | Acte d'Algésiras                    | Tutelle internationale légalisée                            |
 | 1911      | Crise d'Agadir                       | Dernière tentative allemande                                 |
 | 1912      | Traité de Fès                      | Établissement du Protectorat                                 |
+| 1912-1927 | Règne de Moulay Youssef             | Sultan sous Protectorat, diplomatie souveraine suspendue     |
 
 ---
 
@@ -1167,6 +1301,7 @@ Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **prof
 | المصلحة            | Maslaha           | Intérêt général de la communauté                       |
 | التضامن            | Tadmin            | Garantie, internationalisation                              |
 | الفتنة              | Fitna             | Guerre civile, chaos                                        |
+| عبيد البخاري | Abid al-Bukhari   | Armée d'esclaves noirs, garde prétorienne de Moulay Ismaïl |
 | السيبة              | Siba              | Dissidence tribale (relative)                               |
 | الظهير              | Dahir             | Décret royal                                               |
 
@@ -1252,39 +1387,6 @@ Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **prof
 *Module : Histoire Diplomatique du Maroc*
 *30 janvier 2026*
 
----
-### 4. Ouverture : le Protectorat et les héritages contemporains
-
-Le paradoxe de la « souveraineté amputée » aura des **conséquences structurantes** pour le Maroc contemporain :
-
-**Durant le Protectorat (1912-1956)** : La forme étatique maintenue par Lyautey permettra l'émergence d'un mouvement nationaliste qui revendique non pas la création d'un État nouveau, mais la **restauration** d'une souveraineté historique. Le dahir berbère de 1930 provoquera une mobilisation précisément parce qu'il est perçu comme une atteinte à l'unité de l'État chérifien.
-
-**Après l'indépendance (1956)** : Le Maroc n'a pas à construire une identité étatique ex nihilo. Il hérite :
-
-- D'une tradition diplomatique biséculaire
-- De traités toujours en vigueur (USA 1786)
-- D'une légitimité monarchique consolidée par l'épreuve coloniale
-- De revendications territoriales fondées sur l'« intégrité » d'avant 1912
-
-#### La preuve par l'Afrique : résilience de l'ADN diplomatique alaouite
-
-Les travaux récents de Julien Durand de Sanctis et Jean-Noël Ferrié sur les relations Maroc-France et la politique africaine contemporaine (2025) démontrent que la « souveraineté amputée » de 1912 n'a pas tué l'État – la structure makhzénienne a « hiberné » sous le Protectorat pour renaître.[^DurandFerrie]
-
-La politique africaine actuelle de Mohammed VI réactive consciemment les **substrats précoloniaux** :
-
-| Outil contemporain                                               | Résonance historique                                                                                    |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Retour à l'Union Africaine (2017)                               | Affirmation d'une puissance régionale autonome (cf. contrôle du commerce transsaharien XVIe-XVIIIe s.) |
-| Diplomatie économique multisectorielle                          | Réseaux commerciaux précoloniaux (Sijilmassa, routes de l'or vers Tombouctou)                          |
-| Soft power religieux (formation des imams, Institut Mohammed VI) | Rayonnement des*zaouïas* et confréries (Qadiriyya, Tijaniyya)                                        |
-| Confrérie Tijaniyya au Sénégal                                | Allégeance spirituelle transsaharienne au Commandeur des Croyants                                       |
-| Gazoduc Maroc-Nigeria, Initiative Atlantique                     | Projection vers la « profondeur stratégique » africaine                                               |
-
-Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **profondeur stratégique** » et le « **prolongement naturel** » du Maroc, mobilisant des liens humains et spirituels séculaires. Le Maroc ne se positionne plus comme un allié mécanique de la France, mais comme un **partenaire égal** développant ses propres réseaux – exactement comme Sidi Mohammed ben Abdallah diversifiait ses partenaires commerciaux au XVIIIe siècle.
-
-> **Argument de clôture :** La politique africaine actuelle de Mohammed VI est la **preuve vivante que l'ADN diplomatique alaouite a survécu à la parenthèse coloniale**. Les mêmes « logiciels » du XVIIIe siècle (réseaux commerciaux, légitimité religieuse du Commandeur des Croyants, diplomatie d'équilibre) sont réactivés et adaptés au monde globalisé.
-
-**Dans le Maroc contemporain** : La Constitution de 2011 consacre toujours le titre de *Amir al-Mouminine* et fait du Roi le garant de la « continuité de l'État ».[^43] Les concepts forgés par la diplomatie alaouite pré-coloniale – légitimité chérifienne, Bay'a, intégrité territoriale – structurent encore le discours politique et les positions diplomatiques du Royaume.
 ---
 
 [^1]: Adage du droit public marocain, cité par Daniel Rivet, *Histoire du Maroc*, p. 45.
@@ -1386,3 +1488,9 @@ Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **prof
 [^BenSrhir]: Khalid Ben-Srhir, *Britain and Morocco During the Embassy of John Drummond Hay, 1845-1886*, London, Routledge, 2005. L'auteur soutient que c'est la Grande-Bretagne qui a « pavé la voie à la perte d'indépendance du Maroc » en ouvrant le pays à une pénétration commerciale incontrôlable et en incitant le Makhzen à des réformes coûteuses qui ont drainé le trésor bien avant l'occupation militaire.
     
 [^DurandFerrie]: Julien Durand de Sanctis et Jean-Noël Ferrié, « Morocco–French Relations and Foreign Policy in Africa: Postcolonial Legacy and Disruptions », *Journal of North African Studies*, 2025. Les auteurs démontrent que la politique africaine actuelle du Maroc réactive les substrats diplomatiques précoloniaux : réseaux commerciaux transsahariens, soft power religieux via la Tijaniyya, et légitimité du Commandeur des Croyants.
+
+[^Rivet_Rachid]: Daniel Rivet, *Histoire du Maroc de Moulay Idris à Mohammed VI*, Paris, Fayard, 2012, sur le rôle du contrôle des routes commerciales transsahariennes (axe Sijilmassa-Moulouya) dans le financement de l'État alaouite naissant sous Moulay Chérif et Moulay Rachid.
+
+[^Ismael_1721]: Le traité de 1721 avec l'Angleterre, négocié par le Commodore Stewart, garantit que les litiges impliquant des sujets marocains relèvent de la juridiction du Sultan et non des tribunaux consulaires britanniques. Cet accord préfigure les tensions sur la compétence juridictionnelle qui structureront les conflits de souveraineté au XIXe siècle. Voir Michel Abitbol, *Histoire du Maroc*, et TAZI, *Histoire diplomatique du Maroc*, T.9.
+
+[^Beclard]: La Convention Béclard (19 août 1863), signée entre la France et le Maroc sous le règne de Sidi Mohammed IV, étend la protection consulaire à l'ensemble des auxiliaires indigènes (*censaux*) des négociants français, institutionnalisant ainsi un système qui soustrait des milliers de sujets marocains à l'autorité fiscale et judiciaire du Sultan. Voir Michel Abitbol, *Histoire du Maroc*, et *Documents Diplomatiques – Affaires du Maroc*.

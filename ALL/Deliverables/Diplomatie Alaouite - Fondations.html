@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les Fondations de la Diplomatie Alaouite</title>
+    <style>
+        :root {
+            --font-family-display: Arial, sans-serif;
+            --font-weight-display: 600;
+            --font-family-content: Arial, sans-serif;
+            --font-weight-content: 400;
+            --font-size-content: 16px;
+            --line-height-content: 1.4;
+        }
+
+        body.theme-dark {
+            --color-bg-base: #0f172a;
+            --color-bg-elevated: #020617;
+            --color-bg-surface: #1e293b;
+            --color-bg-muted: #334155;
+            --color-text-primary: #f1f5f9;
+            --color-text-secondary: #cbd5e1;
+            --color-text-muted: #94a3b8;
+            --color-text-accent: #38bdf8;
+            --color-primary: #38bdf8;
+            --color-primary-foreground: #0f172a;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-family-content);
+            font-weight: var(--font-weight-content);
+            font-size: var(--font-size-content);
+            line-height: var(--line-height-content);
+            overflow-x: hidden;
+        }
+
+        .slide {
+            width: 960px;
+            height: 540px;
+            margin: 0 auto 20px;
+            display: flex;
+            flex-shrink: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .row { flex-direction: row; }
+        .col { flex-direction: column; }
+        .center {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .space-between { justify-content: space-between; }
+        .items-center { align-items: center; }
+        .items-start { align-items: flex-start; }
+        .fill-width { flex: 1; }
+        .fill-height { flex: 1; display: flex; flex-direction: column; }
+
+        .gap-sm { gap: 0.5rem; }
+        .gap-md { gap: 1rem; }
+        .gap-lg { gap: 1.5rem; }
+        .gap-xl { gap: 2rem; }
+
+        .p-4 { padding: 1rem; }
+        .p-6 { padding: 1.5rem; }
+        .p-8 { padding: 2rem; }
+        .p-12 { padding: 3rem; }
+        .p-16 { padding: 4rem; }
+
+        .mb-2 { margin-bottom: 0.5rem; }
+        .mb-4 { margin-bottom: 1rem; }
+        .mb-6 { margin-bottom: 1.5rem; }
+        .mb-8 { margin-bottom: 2rem; }
+        .mb-12 { margin-bottom: 3rem; }
+
+        .mt-2 { margin-top: 0.5rem; }
+        .mt-4 { margin-top: 1rem; }
+        .mt-6 { margin-top: 1.5rem; }
+        .mt-8 { margin-top: 2rem; }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: var(--font-family-display);
+            font-weight: var(--font-weight-display);
+            line-height: 1.2;
+            margin: 0;
+        }
+
+        h1 { font-size: 3rem; }
+        h2 { font-size: 2.25rem; }
+        h3 { font-size: 1.75rem; }
+        h4 { font-size: 1.5rem; }
+
+        .text-6xl { font-size: 3.75rem; }
+        .text-5xl { font-size: 3rem; }
+        .text-4xl { font-size: 2.25rem; }
+        .text-3xl { font-size: 1.875rem; }
+        .text-2xl { font-size: 1.5rem; }
+        .text-xl { font-size: 1.25rem; }
+        .text-lg { font-size: 1.125rem; }
+        .text-base { font-size: 1rem; }
+        .text-sm { font-size: 0.875rem; }
+
+        .font-bold { font-weight: 700; }
+        .font-semibold { font-weight: 600; }
+
+        .text-center { text-align: center; }
+        .text-left { text-align: left; }
+
+        ul, ol {
+            margin-left: 2rem;
+            line-height: 1.8;
+        }
+
+        ul li { list-style: disc; }
+        li { margin-bottom: 0.75rem; }
+        li:last-child { margin-bottom: 0; }
+
+        .card-rect {
+            padding: 2rem;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .opacity-80 { opacity: 0.8; }
+        .opacity-90 { opacity: 0.9; }
+    </style>
+</head>
+<body class="theme-dark">
+
+    <!-- Slide 1: Titre -->
+    <section class="slide p-16 col center" style="background-color: #020617; color: #f1f5f9;">
+        <h1 class="text-6xl mb-4" style="color: #38bdf8;">Les Fondations de la Diplomatie Alaouite</h1>
+        <p class="text-2xl mb-12" style="color: #cbd5e1;">Histoire des pratiques diplomatiques de la dynastie alaouite avant le protectorat</p>
+        <p class="text-sm" style="color: #94a3b8;">Master Sciences Politiques</p>
+    </section>
+
+    <!-- Slide 2: Plan bipartite introduction -->
+    <section class="slide p-16 col center" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-8" style="color: #38bdf8;">Plan de la présentation</h2>
+        <div class="fill-height row gap-xl">
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 2rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h3 class="mb-4" style="color: #38bdf8;">Partie I</h3>
+                <p style="color: #cbd5e1;"><strong>Les Origines et Structures</strong> de la diplomatie alaouite (XVI-XVIIe siècles)</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 2rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h3 class="mb-4" style="color: #38bdf8;">Partie II</h3>
+                <p style="color: #cbd5e1;"><strong>Les Pratiques Diplomatiques</strong> au XIXe siècle (face aux puissances européennes)</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- === PARTIE I : LES ORIGINES === -->
+
+    <!-- Slide 3: Contexte historique d'émergence -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">Partie I. Les Origines et Structures</h2>
+        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">1. L'émergence des Alaouites (1631-1672)</h3>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Montée en puissance progressive après la chute des Saadiens</li>
+                <li>Installation progressive dans le Tafilalet et le Draa</li>
+                <li>Légitimité religieuse : sharifs (descendants du Prophète)</li>
+                <li>Consolidation du contrôle territorial : du Touat à l'Atlantique</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 4: Le Makhzen comme structure fondatrice -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">2. Le Makhzen : Structure Institutionnelle et Diplomatique</h2>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Organisation centrée sur le Sultan : concentration du pouvoir exécutif et diplomatique</li>
+                <li>Réseau de caïds et pachas : relais diplomatiques dans les provinces</li>
+                <li>Dualisme Makhzen/Blad es-Siba : gestion diplomatie intérieure et extérieure</li>
+                <li>Tribunaux de cadi : exercice de la légitimité religieuse et juridique</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 5: Fonctions diplomatiques précoces -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">3. Les Premières Fonctions Diplomatiques</h2>
+        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">Négociation, représentation et protection</h3>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Émissaires royaux : délégués pour négocier traités et accords commerciaux</li>
+                <li>Représentation du prestige sultanal : légitimité religieuse et politique</li>
+                <li>Protection des caravanes et réseau commercial : diplomatie marchande</li>
+                <li>Réseau consulaire embryonnaire : agents dans villes côtières (Tanger, Essaouira)</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 6: Pratiques communicationnelles -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">4. Les Pratiques Communicationnelles Précoces</h2>
+        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">Supports de la diplomatie alaouite</h3>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Communication écrite : lettres diplomatiques, mandats (dhimma) et sauf-conduits</li>
+                <li>Sceaux et signatures : légitimation de l'autorité sultanale</li>
+                <li>Protocole cérémoniel : rituels d'accueil et présentation diplomatique</li>
+                <li>Intermédiaires : marchands, ulema et consuls étrangers comme vecteurs</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 7: Les acteurs diplomatiques -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">5. Les Acteurs et Corps Diplomatiques</h2>
+        <div class="fill-height row gap-lg">
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h4 style="color: #38bdf8;">Diplomates internes</h4>
+                <p style="color: #cbd5e1; font-size: 0.95rem;">Caïds, pachas, vizirs du Makhzen exerçant rôles diplomatiques</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h4 style="color: #38bdf8;">Acteurs marchands</h4>
+                <p style="color: #cbd5e1; font-size: 0.95rem;">Négociants, consuls européens et interprètes-médiateurs</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h4 style="color: #38bdf8;">Légitimité religieuse</h4>
+                <p style="color: #cbd5e1; font-size: 0.95rem;">Ulema et juristes : caution shari'a de diplomatie</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- === PARTIE II : LES PRATIQUES === -->
+
+    <!-- Slide 8: Transition vers le XIXe siècle -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">Partie II. Les Pratiques Diplomatiques Alaouite (XIXe siècle)</h2>
+        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">1. Contexte de transformation</h3>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Montée des puissances européennes : pression coloniale accrue</li>
+                <li>Affirmation du Maroc comme entité diplomatique autonome</li>
+                <li>Traités internationaux : première reconnaissance formelle (1856, 1860)</li>
+                <li>Réforme du Makhzen : adaptation aux normes diplomatiques internationales</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 9: Relations bilatérales -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">2. Les Relations Bilatérales Formalisées</h2>
+        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">Diplomatisation progressive</h3>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Établissement de missions : consuls et ambassadeurs résidents</li>
+                <li>Traités commerciaux et politiques avec puissances européennes</li>
+                <li>Fonctions diplomatiques clairement définies : négociation, représentation</li>
+                <li>Protocole cérémoniel renforcé : visites officielles et échanges cérémoniels</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 10: Instruments et outils -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">3. Instruments et Outils Diplomatiques</h2>
+        <div class="fill-height row gap-lg">
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h4 style="color: #38bdf8;">Communication écrite</h4>
+                <p style="color: #cbd5e1; font-size: 0.95rem;">Notes diplomatiques, lettres de créance, mandats d'extension</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h4 style="color: #38bdf8;">Protocole et représentation</h4>
+                <p style="color: #cbd5e1; font-size: 0.95rem;">Accords de siège, immunités diplomatiques</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+                <h4 style="color: #38bdf8;">Traités et conventions</h4>
+                <p style="color: #cbd5e1; font-size: 0.95rem;">Accords commerciaux, droits de douane, navigation</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide 11: Stratégies diplomatiques majeures -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">4. Grandes Stratégies Diplomatiques Alaouite</h2>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li><strong>Équilibrisme :</strong> jouer les puissances les unes contre les autres</li>
+                <li><strong>Préservation d'autonomie :</strong> résister à la domination formelle</li>
+                <li><strong>Légitimité religieuse :</strong> consolider autorité par sacralité islamique</li>
+                <li><strong>Protection commerciale :</strong> favoriser marchands marocains et européens</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 12: Caractères distinctifs -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">5. Caractères Distinctifs de la Diplomatie Alaouite</h2>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Centralité du Sultan : concentration du pouvoir décisionnel diplomatique</li>
+                <li>Légitimité religieuse : fondement de l'autorité représentée</li>
+                <li>Dualisme géographique : diplomatie côtière vs bled interior</li>
+                <li>Pluralisme d'acteurs : Makhzen, marchands, intermédiaires religieux</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 13: Les défis de transition -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">6. Défis et Transitions Diplomatiques</h2>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Inadéquation du système traditionnel face à diplomatie européenne moderne</li>
+                <li>Ressources limitées pour missions diplomatiques permanentes</li>
+                <li>Tension entre pratiques islamiques et normes diplomatiques internationales</li>
+                <li>Fragilité face à pression coloniale et compétition régionale</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 14: Frise chronologique -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-8" style="color: #38bdf8;">Repères Chronologiques Clés</h2>
+        <div class="fill-height row gap-lg">
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
+                <p style="color: #38bdf8; font-weight: bold;">1631-1672</p>
+                <p style="color: #cbd5e1; font-size: 0.9rem;">Émergence alaouite</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
+                <p style="color: #38bdf8; font-weight: bold;">1728-1757</p>
+                <p style="color: #cbd5e1; font-size: 0.9rem;">Moulay Ismail : diplomatie agressive</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
+                <p style="color: #38bdf8; font-weight: bold;">1856-1860</p>
+                <p style="color: #cbd5e1; font-size: 0.9rem;">Traités formels avec Espagne, France</p>
+            </div>
+            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
+                <p style="color: #38bdf8; font-weight: bold;">1860-1912</p>
+                <p style="color: #cbd5e1; font-size: 0.9rem;">Diplomatie défensive : avant protectorat</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide 15: Conclusion et héritage -->
+    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
+        <h2 class="mb-6" style="color: #38bdf8;">Conclusion : L'Héritage Diplomatique Alaouite</h2>
+        <div class="fill-height">
+            <ul class="text-lg" style="color: #cbd5e1;">
+                <li>Fondations durables : structures et pratiques persistent partiellement post-protectorat</li>
+                <li>Transition graduée : du système traditionnel aux normes modernes (1631-1912)</li>
+                <li>Centralité sultanale : principe directeur constant de politique étrangère marocaine</li>
+                <li>Contexte colonial : diplomatie alaouite comme résistance à domination formelle</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Slide 16: Remerciements / Sources -->
+    <section class="slide p-16 col center" style="background-color: #020617; color: #f1f5f9;">
+        <h2 class="mb-8" style="color: #38bdf8;">Références et Sources</h2>
+        <div style="text-align: left; font-size: 0.9rem; color: #cbd5e1; line-height: 1.8;">
+            <p class="mb-4"><strong>Sources consultées :</strong></p>
+            <p>• BALZACQ, T. Manuel de Diplomatie</p>
+            <p>• La communication écrite en diplomatie</p>
+            <p>• Histoire diplomatique du Maroc (Alaouites)</p>
+            <p>• Foreign Policy et Régime Politique</p>
+            <p>• MORIN, J.F. La politique étrangère : théories, méthodes, références</p>
+        </div>
+    </section>
+
+</body>
+</html>
