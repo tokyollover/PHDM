@@ -1,8 +1,7 @@
 {
   "generated": "2026-02-07",
   "project": "Diplomatie Alaouite - Fondations (1666-1912)",
-  "enrichment_note": "Manifest enrichi avec métadonnées académiques complètes.",
-  "total_images": 640,
+  "enrichment_note": "Index enrichi avec métadonnées bibliographiques, type de document, référence académique, auteur, éditeur, période, et classification iconographique.",
   "columns": [
     "id",
     "filename",
@@ -44,6 +43,7 @@
     "download_date",
     "quality_note"
   ],
+  "total_images": 640,
   "images": [
     {
       "id": 12,
