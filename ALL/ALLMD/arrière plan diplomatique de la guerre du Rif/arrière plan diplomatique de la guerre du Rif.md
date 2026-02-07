@@ -1,0 +1,226 @@
+
+
+{0}------------------------------------------------
+
+![](_page_0_Picture_1.jpeg)
+
+L'arrière plan diplomatique de la guerre du Rif Jean-Louis Miege
+
+## Citer ce document / Cite this document :
+
+Miege Jean-Louis. L'arrière plan diplomatique de la guerre du Rif. In: Revue de l'Occident musulman et de la Méditerranée, n°15-16, 1973. Mélanges Le Tourneau. II. pp. 219-230;
+
+doi: https://doi.org/10.3406/remmm.1973.1242
+
+https://www.persee.fr/doc/remmm\_0035-1474\_1973\_num\_15\_1\_1242
+
+Fichier pdf généré le 21/04/2018
+
+![](_page_0_Picture_8.jpeg)
+
+{1}------------------------------------------------
+
+## L'ARRIÈRE PLAN DIPLOMATIQUE DE LA GUERRE DU RIF (1)
+
+par J. L. MIEGE
+
+La guerre du Rif, pour nouveaux que furent certains de ses aspects s'inscrit dans un contexte diplomatique formé de l'héritage des accords internationaux ayant préparé puis entériné le protectorat de la France au Maroc et de la situation née du conflit mondial. L'ouverture des archives (2), la publication récente de documents diplomatiques (3) incitent à redéfinir cet arrière plan diplomatique sans lequel nombre d'évènements locaux demeureraient incompréhensibles.
+
+L'établissement du Protectorat de la France au Maroc fut le résultat d'un long et tenace dessein qui s'imposa de plus en plus à la diplomatie française dans le dernier tiers du XIX<sup>e</sup> siècle. Il s'intègre à une politique méditerranéenne d'ensemble, constituant une des plus anciennes traditions de la politique française, réaffirmée avec éclat par Napoléon III entre 1857 et 1863 (4) et par les gambettistes, réunis autour de l'homme politique ou se voulant ses plus fidèles héritiers (5). Il s'était — sauf pendant quelques rares moments de rémissions — heurté à un dessein non moins affirmé de la Grande Bretagne dont la politique méditerranéenne, avec des voies et des moyens différents, était également une des constantes du Foreign Office.
+
+<sup>(1)</sup> Communication au Colloque sur le Cinquantenaire de la République du Rif, Paris, 18-20 janvier 1973.
+
+<sup>(2)</sup> Sauf pour les archives des Affaires Etrangères et d'Outre-Mer de France et d'Italie.
+
+<sup>(3)</sup> Notamment les *Documenti diplomatici italiani*, 7<sup>e</sup> série sous la direction de MM. Moscati et Carocci, Rome, 1966 sq.; *Documents on British Foreign Policy*, 1919-1939, 1<sup>e</sup> série et série IA, I, sous la direction de R. Duler, D. Dakin et M.E. Lambert, Londres, 1963 sq.; les *Documents diplomatiques belges*, 1920-1940, publiés par Ch. de Visscher et F. Vanlangenhove, Bruxelles, 1961 sq.
+
+<sup>(4)</sup> Sur le "dessein méditerranéen" de Napoléon III par "l'union des races latines", Temime (E), La France et l'Espagne 1848-1868, Aix, 1973.
+
+<sup>(5)</sup> Gambetta avait à plusieurs reprises dans la République française souligné le rôle que devait assumer la France en Méditerranée.
+
+{2}------------------------------------------------
+
+I.
+
+A partir de l'été 1884 et de l'échec des tentatives de Protectorat du Ministre Ordega (6) la poussée française s'était heurtée à une hostilité plus déterminée de la Grande Bretagne à laquelle l'opposaient non seulement la rivalité méditerranéeenne (et notamment l'influence en Egypte) mais la compétition dans le Scramble. Cette opposition, s'était renforcée de celle de Bismark dont le revirement, à l'automne de 1884 marquait, tout à la fois, la fin de ses espoirs d'entente franco-allemande et son ralliement à la politique d'expansion coloniale.
+
+La diplomatie française avait rencontré également l'opposition de l'Espagne et celle, nourrie des ambitions frustrées sur la Tunisie, de l'Italie. Favorisée par Londres et Berlin une véritable "Ligue méditerranéenne" anti-française se constitue alors tirant partie des inquiétudes, des méfiances et des rancœurs. L'entrelacs des accords méditerranéens de 1887 (une dizaine) tisse un réseau de surveillance à l'égard des velléités d'entreprise française et, réaffirmant le statu quo méditerranéen lui interdit toute perspective d'action pour plus de dix ans. Ces accords, auxquels l'historiographie française n'a accordé qu'assez peu d'intérêt, — sont importants par ces résultats même mais, aussi, parce qu'ils demeureront comme une sorte de modèle de référence auquel ne penserons pas sans nostalgie dans les années 1925 nombre de fonctionnaires du Foreign Office ou de la Consultà.
+
+II.
+
+Le Gouvernement français n'avait pu triompher de ce barrage que grâce à un remarquable concours de circonstances, habilement utilisé par Delcassé, autour des années 1900.
+
+D'une part un triple échec des puissances méditerranéeennes avait remis en cause les principes même de leur politique extérieures. Le désastre d'Adoua en mars 1896, la perte de Cuba au printemps 1898, la reculade française de Fachoda (juillet-novembre 1898) avaient profondément marqué les trois pays, portés dès lors à se rapprocher. Les bons offices français entre les Etats Unis et l'Espagne avaient été appréciés à Madrid cependant que Adoua avait été suivie des premières conversations franco-italiennes mettant un terme à la guerre des tarifs.
+
+Au moment où se marquaient ainsi leur relatif effacement, la poussée allemande en Méditerranée avait commencé d'inquiéter Londres. Le voyage de Guillaume II en Syrie et en Palestine en 1898, la montée du commerce allemand dans l'Empire ottoman, le projet du Bagdadbahn amorçaient un renversement de l'équilibre en méditerranée orientale et montraient que le danger désormais venait moins de la France que du rival commercial allemand.
+
+Utilisant cette nouvelle conjoncture pour la réalisation de projets anciens, la diplomatie française avait pu nouer l'ensemble des conversations qui aboutissaient
+
+<sup>(6)</sup> Le 18 juin 1884. Sur ces antécédents, J. L. Miège, Le Maroc et l'Europe, t. III, Paris, 1962.
+
+{3}------------------------------------------------
+
+aux grands accords sur le Maroc des années 1902-1904 : accord de désistement franco-italien (réciproquement sur la Libye et le Maroc), accord franco-anglais d'avril 1904 et accord de coopération franco-espagnol d'octobre 1904.
+
+Sans doute ces instruments demeuraient-ils fragiles et n'abolissaient pas l'ancien capital de suspicions. Ils se heurtaient à une double opposition à l'extérieur et à l'intérieur de chaque pays. Dans chaque opinion publique le parti colonial dénonçait les abandons qui en étaient la contre partie. Ainsi, en Angleterre s'affirmait avec force un lobby marocain qui ne désarmait pas et dont le livre d'Aflalo, *Truth about Morocco*, résume les arguments. En Espagne, le mécontentement des africanistes s'aigrissait cependant qu'en Italie on s'inquiétait de la persistance des menées françaises en Tripolitaine.
+
+L'opposition extérieure venait de l'Allemagne avec ses coups de boutoir marqués par le débarquement de Guillaume V à Tanger, l'affaire des déserteurs de Casablanca, le coup d'Agadir. En effet, et il est important de le souligner pour l'avenir, c'est en grande partie cette offensive allemande qui, faisant taire certaines oppositions, resserrait autour de la France des amitiés d'abord vacillantes. Que la menace vint à manquer et les oppositions renaitraient.
+
+Les accords anglo-espagnols et franco-espagnols du 16 mai 1907 relatifs au maintien du statu quo en Méditerranée marquaient ainsi la formation de ce nouveau front (7). Ils semblaient être la réplique inversée des accords de 1887 auxquels ils enlevaient toute valeur : c'était bien la fin de la "quadruple alliance méditerranéenne" dirigée contre la France.
+
+Cependant localement des tensions survivaient notamment quant à la situation de Tanger, à l'application de l'Accord d'Algésiras et à la "pénétration pacifique" au Maroc.
+
+Chaque accord diplomatique avait renouvelé la garantie sur la situation spéciale de la ville et de sa banlieue : le projet de traité franco-espagnol de 1902. l'article 9 de la convention secrète franco-espagnole du 3 octobre 1904, la note de Sir Edouard Grey du 14 novembre 1911 rappelant l'obligation "de placer la ville finalement sous le controle international", le traité de Protectorat françaismarocain du 30 mars 1912 (article premier, "la ville de Tanger gardera le caractère spécial qui lui a été reconnu et qui déterminera une organisation municipale"), l'article 7 du traité franco-espagnol du 27 novembre 1912 ("la ville de Tanger et sa banlieue seront dotées d'un régime spécial qui sera déterminé ultérieurement"). Les conversations pour fixer son statut entre la France, la Grande Bretagne et l'Espagne, entamées en 1913 et poursuivies en 1914 avaient été suspendues pendant la guerre. Mais durant celle-ci, et même pour s'assurer l'appui de l'Espagne, les anglais et les français n'avaient pas accepté de transiger sur la auestion de Tanger. Aux différentes rumeurs d'intervention espagnole – fondées ou ballon d'essai pour tâter les réactions des alliés – notamment en 1915, ils avaient riposté par les mises en garde les plus énergiques.
+
+<sup>(7)</sup> Sur l'accord méditerranéen de 1907, Documents diplomatiques français, 2<sup>e</sup> série, t. X, Madrid, 2.1.1907, 18.1.1907 et sq; note du 10 avril 1912; British Documents on the origins of the war, t. VII, p. 1 sq; Hallmann (H.), Spanien und die Französisch-englische mittelmeer Rivalität, Stuttgart, 1937, p. 203-225.
+
+{4}------------------------------------------------
+
+Le Gouvernement français n'avait cessé, également, de profiter de toutes les circonstances pour renforcer son pouvoir au Maroc tantôt par la plus large interprétation des textes internationaux, tantôt par leur volontaire ignorance. La zone qu'elle avait laissée à l'Espagne était considérablement réduite (plus d'un tiers) par rapport à celle promise par les accords antérieurs. Cette réduction avait renforcé un antagonisme espagnol qui tenait le compte minutieux à la fois des empiètements des autorités françaises, de leur politique dans le Rif ainsi que du mépris avoué avec lequel elles considéraient l'œuvre militaire et coloniale de Madrid (8). Les tentatives pour tourner les stipulations d'Algésiras entrainaient également des protestations dans les milieux d'affaires anglais et aux Etats-Unis. Elle explique la réticence du Département d'Etat à reconnaitre le protectorat français malgré les pressantes démarches de l'Ambassadeur Jusserand. Ce ne sera finalement que le 20 octobre 1917 qu'il y consentira non sans réserver tous ses droits capitulaires (9).
+
+Dans le Rif se heurtent enfin les efforts de pénétration de la France et de l'Espagne.
+
+Le gouvernement français utilisait ses vieux rapports avec les confréries, les migrations des travailleurs rifains vers les chantiers d'Oranie, le recrutement des soldats pour ses régiments (10). L'Espagne s'efforçait d'agir à partir des Présides. Deux actes royaux d'octobre 1906 et mars 1907 avaient supprimé les bagnes et largement contribué au développement de Ceuta et Melilla, la première ville passant de 13 000 habitants en 1900 à près de 24 000 en 1910, la seconde de 5 600 en 1895 à près de 15 000 en 1910 (11). Les intérêts miniers, notamment ceux de la Compagnie espagnole des mines du Rif (avec des capitaux espagnols, allemands et belges et dans laquelle Romanones jouait un rôle important) et de la Compagnie de l'Afrique du Nord (aux capitaux français majoritaires et appuyés par le groupe colonial français avec à sa tête Etienne) s'étaient largement développés à partir de 1906-1907 (12). Ce rôle n'avait pas été étranger au refus renouvelé de Madrid d'envisager un échange de Ceuta avec Gibraltar, vieux projet repris périodiquement en 1902-1903, en 1917 et qui sera à nouveau envisagé en 1919 et 1922 (13).
+
+En 1919, au lendemain de la victoire alliée, la situation diplomatique retrouve certains aspects de 1887.
+
+<sup>(8)</sup> Le Bulletin du Comité de l'Afrique française, organe officieux des milieux coloniaux affiche une condescendance constante à l'égard de l'œuvre espagnole au Maroc, v. notamment mai 1922, p. 268; août 1922, p. 385 etc.
+
+<sup>(9)</sup> Hall (L.J.), The United States and Morocco, Metuchen, 1970, p. 689.
+
+<sup>(10)</sup> Sur cet aspect peu connu de l'émigration riffaine v. notamment la campagne du journal anglais de Tanger Al Maghreb al-Akça, n° des 19.2.1898, 5.3.1898, etc.
+
+<sup>(11)</sup> Sur le rôle de Ceuta dans la politique riffaine de l'Espagne, Manual Gordillo Osuña, Geografía urbana de Ceuta, Madrid, 1972.
+
+<sup>(12)</sup> Sur ces entreprises minières, l'entrelas et l'affrontement des intérêts miniers, Duchesne (A.), Léopold II et le Maroc, Bruxelles, 1965, p. 237.
+
+<sup>(13)</sup> Les réactions espagnoles au projet, à cette date, sont bien analysées par Gile Armanguè Ruis, Gibraltar y los españoles, Madrid, 1964.
+
+{5}------------------------------------------------
+
+- 1 La Méditerranée est, plus que jamais "le centre du système impérial britannique". L'influence du Royaume Uni en Méditerranée orientale est déterminante bien qu'elle se heurte aux prétentions de la France. Londres entend conserver, contre elle, son leadership, et n'accepte de concéder à la diplomatie française un rôle déterminant en Méditerranée occidentale qu'à condition que cette prépondérance politique n'altère pas son propre contrôle des routes maritimes (14). Le Foreign Office retrouve ainsi, pour limiter une possible hégémonie française, les réflexes de sa politique traditionnelle. Cette politique, notamment à l'égard de la France et du problème marocain est particulièrement bien décrite dans un rapport, légèrement postérieur aux évènements qui nous retiennent, mais qui en retrace l'historique. Il s'agit du mémorandum soumis le 10 avril 1926 par Gregory à Sir Austen Chamberlain. Il réaffirme les principes de la Balance of Power, du contrôle méditerranéen, de la sécurité. Le passage concernant le Rif mérite particulièrement d'être cité: "Nous ne sommes pas préparés à voir la côte méditerranéenne du Maroc et spécialement la rive sud du détroit de Gibraltar dans les mains d'une puissance de premier rang, et quelques appréhensions s'élevaient l'an dernier avec les succès initiaux des rifains contre les Espagnols. Les Espagnols auraient-ils été chassés finalement de la rive espagnole du Maroc qu'une très embarrassante situation serait apparue. Nous ne sommes certainement pas préparés à contrôler la côte du Rif par nous même, et nous ne sommes pas préparés à voir les Français ou les Italiens installés entre Ceuta et Melilla" (15).
+- 2 A l'ancien équilibre européen semble être substitué, en 1919, une prépondérance française. Elle s'affirme au Maroc. L'article 142 du traité de Versailles supprime tous les accords entre l'Allemagne et l'Empire chérifien. Par l'article 143, le Gouvernement allemand reconnait que le Gouvernement chérifien (mot substitué à la demande du représentant français qui pensait à Tanger, à celui "de la France") a une entière liberté d'action pour "régler le statut et les conditions de l'établissement des Allemands au Maroc". L'ampleur des ambitions françaises a été révélée lors de la réunion du bureau de la conférence les 18 et 25 février 1919. Clemenceau a fait part du désir du Gouvernement français d'abolir certaines stipulations de l'acte d'Algésiras cependant que dans un plaidoyer passionné Peretti Della Rocca, dénonçant l'attitude de l'Espagne pendant la guerre réclamait l'annexion de Tanger et envisageait le retrait "partiel ou total" de l'Espagne de sa zone (16). Sans doute les représentants français ne seront-ils pas suivis et devront accepter "que Tanger soit soumise dans l'avenir à un régime spécial". Cependant, les mois suivants le Gouvernement anglais continue de craindre — ou en partie affecte de craindre — les visées françaises sur la ville. A plusieurs reprises officielles ou officieuses des communications rappellent combien
+
+<sup>(14)</sup> Cumming (H.H.), Franco-British Rivalry in the Post war Near East: The decline of Franch influence, Londres, 1938.
+
+<sup>(15)</sup> Documents on British Foreign Policy, 1919-1939 I.A., Londres, 1966 pp. 846-881: Memorandum on the Foreign Policy of this Majesty's government, with a list of British Commitments in their relations order of Importance. Sur le Rif, p. 253.
+
+<sup>(16)</sup> Sur la politique française à l'égard du Maroc lors de la conférence de la paix, Beer (G.L.), African question at the Paris peace conference, New-York, 1923, pp. 447-451 et Hall, op. cit., p. 745.
+
+{6}------------------------------------------------
+
+Londres considère la question de Tanger comme essentielle. Un bon observateur Belge, le baron Gaiffier constatera en janvier 1922 encore que la garantie de l'Angleterre sur le Rhin sera "difficilement réalisable aussi longtemps qu'un accord franco-britannique ne sera pas intervenu au sujet de Tanger. D'après les anglais, ajoute-t-il, la résistance de la France a tout accord à ce sujet vient de l'arrière pensée de celle-ci de faire de Tanger un port de sous marins et d'avions dirigé contre Gibraltar et contre la suprématie britannique dans la Méditerranée" (17). Le Royaume Uni s'inquiète aussi des mesures prises par l'administration française pour tourner de toutes les manières possibles l'acte d'Algésiras afin de favoriser les entreprises françaises, notamment à Tanger sous le couvert de l'autorité du Sultan. Les archives de Londres mais aussi celles de Washington contiennent un nombre considérable de dépêches relatives à ces violations qui encouragent la persistance de l'opposition à la politique française d'un groupe d'affaires ayant l'oreille des officiels.
+
+3 — Enfin et, c'était sa troisième motivation, le Gouvernement anglais entendait, suivant ses propres dires, utiliser la question du Maroc comme un élément de marchandage dans l'ensemble de ses conflits avec la France — au Moyen Orient, en Tunisie, à propos de la nationalité des Maltais, quant aux réparations — Sir Eyre-Crowe sous secrétaire d'Etat l'avoue au baron Moncheur, Ambassadeur de Belgique à Londres en juin 1922 (18).
+
+Cette attitude de réserve hostile de l'Angleterre se maintiendra les années suivantes. Elle s'affirmera lors des négociations sur Tanger de l'automne 1923. En mars 1924 encore le premier Mc Donald constatera que "l'opinion publique britannique est remplie de défiance à l'égard de la France" et ne cachera pas partager son appréhension (19). Malgré la courte embellie des relations franco-britanniques avec l'arrivée de Herriot au pouvoir, le Foreign Office restera ferme sur cette attitude et ne cessera d'encourager une reconstitution tacite de "la ligue de 1887". La visite de Chamberlain à Rome en décembre 1924, la concession anglaise à Djaraboub, les ouvertures quant à l'Ethiopie marqueront l'aboutissement de ce retour aux structures de l'action diplomatique anglaise en Méditerranée (20). Un moment effacé entre 1904 et 1918 par le danger allemand sa pratique retrouve en 1924-1965 les grands moments de 1885-1887 lorsque Londres poussait l'Italie en Mer Rouge et s'aidait de sa gallophobie pour faire pièce à l'influence française. C'était avec une de ses attitudes les plus traditionnelles, un de ses procédés les plus coutumiers: celui de l'action des puissances secondaires.
+
+<sup>(17)</sup> Documents diplomatiques belges, op. cit. t. I, p. 460, Paris, 14.1.1922.
+
+<sup>(18)</sup> Ibid., Londres, 12.6.1922.
+
+<sup>(19)</sup> Ibid., Londres, 26.3.1924.
+
+<sup>(20)</sup> Sur ce rapprochement anglo-italien nombreux documents dans les *Documenti diplomatici italiani opicit*, 7<sup>e</sup> série, vol. 4, v. également les remarques du *Bulletin de l'Afrique française*, 12.1925, p. 613 et les indications de Salvemini, *Mussolini diplomate*, Paris, 1938, p. 56 et de Medlicott (M.N.), *British Foreign Policy since Versailles*, Londres, 1940.
+
+{7}------------------------------------------------
+
+IV.
+
+A la réserve américaine et à la défiance britannique correspondait une hostilité marquée de l'Espagne et de l'Italie que l'Angleterre sut utiliser pour la reconstruction de son front méditerranéen.
+
+L'Espagne traversait une des crises les plus graves de ses institutions. De 1917 à 1923, en sept ans elle connut treize crises ministérielles totales et 30 crises partielles. Dans la confusion politique l'autorité de la minorité dirigeante se perd. Syndicalisme, catalanisme, laïcisme, militarisme s'affrontent (21). Dans ce débat, une grande partie de l'opinion se désintéresse du Maroc ou dénonce le gouffre que représente pour les finances de l'Etat une entreprise stérile qui, après les trois milliards de pesetas qu'avait couté la vaine défense de Cuba avait absorbé plus de un milliard et demi, de 1908 à 1915, et plus de un milliard de 1916 à 1921 (22). Certains milieux avaient envisagé en 1919 une vente à la France. Miguel Primo de Rivera n'avait-il pas, lui-même, dans un célèbre discours prononcé à Cadix proposé, dès 1917, l'abandon de la zone espagnole (23).
+
+Par contre coup cette attitude renforçait la véhémence du groupe de la Liga Africanista. Le revif du mouvement après la perte des anciennes colonies trouvait des orateurs dans la presse, parmi les officiers, dans les cadres politiques et surtout auprès d'Alphonse XIII chef suprême de l'armée et s'occupant directement des opérations marocaines. Le gouvernement espagnol avait en 1919 considéré qu'il devait être entendu au Congrès de Versailles sur la question du Maroc comme "étant une des principales puissances intéressées". Le Ministère des Affaires Etrangères avait fait une démarche auprès des représentants américains afin qu'ils soutiennent cette demande. Alphonse XIII de son côté avait fait état, à plusieurs reprises, de son dépit de ne pas recevoir Tanger pour prix de sa neutralité pendant la guerre (24). L'animosité espagnole qui s'était d'abord tournée vers l'Angleterre - tenu pour principale responsable de la restriction de la zone espagnole lors du traité de 1912 - s'en était ensuite pris à la France. Le désastre d'Anoual, en juillet 1921, avait exaspéré ce sentiment. La Liga Africanista et sa revue, l'officieuse Rivista Hispano Africana, dont le premier numéro paru en janvier 1922, dénonçait le double jeu français. Elle soulignait les droits immémoriaux de l'Espagne sur Tanger, l'importance de la population espagnole dans la ville. Elle exaltait le développement de Mellila et de Ceuta dont les travaux portuaires
+
+<sup>(21)</sup> Vicens Vives, L'Espagne du XX<sup>e</sup> siècle, in *l'Europe du XIX et du XX<sup>e</sup> siècle*, Milan, 1959, p. 110.
+
+<sup>(22)</sup> Sur ce bilan colonial Brenan (G.), Le labyrinthe espagnol, traduction franç., Paris, 1962, p. 59; Bruguera (F.G.), Histoire contemporaine d'Espagne, Gap, 1953, p. 329 sq. "Le redressement national sacrifié à l'aventure marocaine"; Hall, op. cit., p. 754.
+
+<sup>(23)</sup> Primo de Rivera demeura anti-africaniste jusqu'à son arrivée au pouvoir. Après Anoual encore ses discours au Sénat le montent hostile à "l'aventure marocaine".
+
+<sup>(24)</sup> Cte de Saint-Aulaire, Confessions d'un vieux diplomate, p. 513. Malgré des efforts divers (Comité de rapprochement franco-espagnol créé en 1916, Semaine espagnole de Paris du 5-12 mai 1919 etc.) les rapports entre les deux pays restent marqués de méfiance.
+
+{8}------------------------------------------------
+
+étaient activement poussés depuis 1919. Elle rappelait enfin combien la France avait, sans cesse, poussé ses avantages dans le Rif depuis la fin du XIX<sup>e</sup> siècle.
+
+Ces difficultés vont peser sur les longues conversations préparatoires à la réunion de la conférence destinée à l'établissement du statut de Tanger durant l'année 1922 et le printemps 1923. Des rapports officiels espagnols affirment que les Rifains sont soutenus par des fournitures régulières d'armes, de munitions et de ravitaillement par les autorités françaises, accusées de souhaiter l'expulsion des Espagnols de leur zone au profit de la France (25). Le Ministère des Affaires Etrangères alla jusqu'à dire, pour faire pression sur l'interlocuteur français, qu'il pourrait envisager l'internationalisation de toute la zone espagnole à l'exception de Ceuta et Mellila. Les réticences de Madrid à signer le statut difficilement établi à Paris (la conférence dura du 25 octobre au 18 décembre 1923) en repoussera jusqu'au 14 mai 1924 la ratification (26). Durant toute cette période de 1919 à 1925 la méfiance entre les Gouvernements espagnol et français est constante. En Espagne seuls Romanes et l'opposition républicaine prônent le rapprochement avec Paris. En France l'hostilité à l'Espagne de Ph. Berthelot, le tout puissant secrétaire général du Ministère des Affaires Etrangères est de notoriété (27) comme à Rabat l'ironie méprisante de Lyautey. La germanophilie – qui s'accuse d'autant – de nombreux africanistes espagnols fait que, en France l'opposition à l'entente avec l'Espagne se nourrit de l'argument que toute satisfaction qui lui serait donnée au Maroc serait donnée en réalité à l'Allemagne. Les mêmes sentiments hostiles à la France dans les bureaux du Ministère des Affaires Etrangères espagnol est souligné par tous les observateurs étrangers notamment par l'Ambassadeur italien Paulucci (28).
+
+2 — Dans ce contesté l'Espagne obtenait l'appui de l'Italie, les deux puissances retrouvant leur entente méditerranéenne des années 1887-1896 contre la France.
+
+La politique italienne avait, en fait, dans le ressentiment du règlement de paix connu deux étapes. Jusqu'au début de 1923 elle avait encore entretenu l'espoir d'une possible entente avec la France. L'attitude italienne lors du conflit de la Ruhr fut la dernière invite au Gouvernement français à reconsidérer sa politique vers l'Italie. Comme l'indique Quaroni "il n'y eut pas de véritable réponse à cette avance". Le Gouvernement italien en revint alors à ce qui avait été la dominante de toute sa politique coloniale — et qu'il avait vaille que vaille sauvegardé au cours des brefs incidents de Turquie et de Grèce — c'est à dire le maintien, à tout prix pouvait on dire, des bonnes relations avec l'Angleterre. La diplomatie romaine retrouvait ainsi les ornières de la vieille rivalité à la politique française en Méditerranée suivies de 1878 jusque à la guerre.
+
+<sup>(25)</sup> Sur ces accusations venues également des milieux officiels américains, Hall, op. cit., p. 756.
+
+<sup>(26)</sup> Après que l'échange de lettres entre Poincaré et Quinones de Leon, le 7 février 1924 ait apporté à l'Espagne quelques satisfactions sur 7 articles de la convention. Le statut fût déclaré en vigueur le 1<sup>er</sup> juin 1925 mais sans l'accord de l'Italie, du Portugal et des Etats-Unis.
+
+<sup>(27)</sup> Challener (R.D.), The French foreign Office. The Era of Philipp Berthelot, in *The Diplomats*, Londres, 1970, pp. 49-85.
+
+<sup>(28)</sup> Doc. Dipl. It., op. cit. 7e série, t. II, p. 319, Madrid 12.1.1923.
+
+{9}------------------------------------------------
+
+Cet antagonisme latent s'était en fait renforcé au lendemain du conflit dont le bilan apparaissait tout négatif aux yeux des Italiens. Quaroni remarque que "l'Italie avait été non seulement frustrée des fruits de la victoire mais que cette victoire elle même avait abouti au bouleversement total du cadre politique dans lequel l'Italie s'était extérieurement agrandie et extérieurement renforcée : celui de l'équilibre européen. Il semblait que l'Italie se fut battue Ad majoren Franciae gloriam et que la France non seulement fit preuve d'ingratitude envers son alliée mais tentât en outre de la confiner dans une position de second ordre et de lui ôter toute possibilité de développement et d'expansion" (29). Giolitti s'était efforcé - de façon assez contradictoire - et d'obtenir des concessions de la France et de rétablir l'ancien équilibre en soutenant l'Allemagne, la Turquie et l'Autriche. Il n'avait cependant trouvé aucune compréhension parmi ses interlocuteurs français. Le contentieux n'avait fait que s'aigrir. L'historique en est bien décrit dans une conversation que le secrétaire général du Ministère italien des Affaires Etrangères. l'influent Contarini, aura en mai 1925 avec le comte della Faille, ambassadeur de Belgique (30). Il comprenait essentiellement le problème de la Tunisie, celui des compensations coloniales, celui de Tanger.
+
+Le problème des Italiens de Tunisie. La convention de 1896 réglant le statut de la colonie italienne dans le protectorat, valable jusqu'en 1895 et renouvelée chaque année jusqu'en septembre 1918 avait été dénoncée à cette date. Elle n'était plus depuis lors que prorogée, de trois mois en trois mois. Parallèlement se développait une politique systématique de francisation. Cette action des autorités est dénoncée par la presse officieuse italienne, elle inspire le livre *Tunisiaca*, publié en 1923 par Margerita Sarfatti, amie de Mussolini avec une préface de celui-ci sous le pseudonyme de Romanus, elle fait enfin l'objet des protestations régulières et pressantes du Ministère des Affaires Etrangères italien. Le problème des compensations coloniales promises par le traité de Londres du 26 avril 1915 restait également entier. Par sa tacite renonciation à l'héritage colonial allemand, l'Italie ne pouvait désormais envisager toute expansion qu'au détriment des possédants, c'est-à-dire essentiellement d'une France que sa victoire ne portait ni à la compréhension ni au compromis (31).
+
+Enfin, le Gouvernement italien était irrité de l'attitude générale de la France à son égard. C'est ce qui donnait au problème de Tanger sa véritable dimension. L'Italie voulait participer à l'élaboration du nouveau statut et à l'administration de la zone internationale autant pour des raisons de prestige que pour des motifs réels de politique méditerranéenne (32). Les pourparlers engagés entre l'Ambassadeur Avezzana et Poincaré se heurtaient aux arguments "légalistes" français selon lesquels les accords franco-italiens de 1902-1912 avaient entrainé de la part de l'Italie, en échange des mains libres en Libye son désintérêt dans l'ensemble du
+
+<sup>(29)</sup> Quaroni, La politique extérieure de l'Italie, in L'Europe du XIX et du XX<sup>e</sup> siècles, Milan, 1959, p. 1006.
+
+<sup>(30)</sup> Doc. Dipl. Belges, t. II, Rome, 12.5.1925.
+
+<sup>(31)</sup> Doc. Dipl. It., 7e série, Avezzana, Paris, 4.10.1923.
+
+<sup>(32)</sup> Bon exposé des thèses italiennes par Castellani (E.), Lo Statuto de Tangere et l'Italia in Nuova Antologia, 16.1.1924, p. 206 sq.
+
+{10}------------------------------------------------
+
+Maroc. Le représentant italien répliquait que Tanger était hors de ces accords, la France ayant reconnu dans différents actes internationaux sa position particulière. En fait pour la France, admettre l'Italie était risqué de voir d'autres puissances et notamment les Etats-Unis avec leur défense scrupuleuse de la politique de la porte ouverte réclamer pour elles le même droit. L'incident héroï-comique du débarquement des carabiniers italiens à Tanger, dans l'été 1923, marquait la volonté italienne de lier "révisionnisme" et expansion coloniale (33).
+
+3 – Cette volonté affrontée à l'obstination française, l'arrivée aussi au pouvoir de Primo de Rivera le 13 septembre 1923 favorisaient le rapprochement italo-espagnol. Des conversations commerciales ouvertes au printemps 1923 aboutissaient le 15 novembre à la conclusion d'une convention. A la fin du même mois le voyage du roi Alphonse XIII à Rome, en compagnie de Primo de Rivera, resserrait les liens politiques. On envisageait la formation bloc anglo-italo-hispanoportugais pour contre-balancer l'hégémonie française au Maroc : c'était très exactement la renaissance de la "ligue" de 1887 et 1891. Si le projet n'aboutit pas à un accord en forme les relations diplomatiques entre les deux puissances demeuraient des plus étroites. En juin 1924, le roi Victor-Emmanuel rendait visite à Madrid. Cette entente entre les deux pays pourrait permettre à Rome de répondre favorablement à l'invite d'Abd El Krim de servir d'intermédiaire entre l'Espagne et les Riffains (34). L'amitié espagnole, le rapprochement avec l'Angleterre solennellement affirmés favorisent les manifestations belliqueuses fascistes contre la France qui trouvent aliment dans l'hostilité des milieux cartellistes.
+
+Dans l'automne et l'hiver 1924, l'isolement diplomatique de la France parait total.
+
+V.
+
+Une dernière période s'ouvre au début de 1925 à peu près contemporaine de l'offensive d'Abd El Krim vers la zone française (avril 1925) mais sans que cette offensive semble avoir été déterminante.
+
+En fait un faisceau de causes va faire provisoirement s'affaiblir le front méditerranéen qui se reconstituera dans l'été 1926 (35).
+
+Le premier élément en est les limites du rapprochement hispano-italien. Il conviendrait de s'interroger sur les possibilités, à cette date d'une réelle liberté d'action de l'Espagne. Certains diplomates italiens constatant la répugnance de
+
+<sup>(33)</sup> Le nouveau cours de la politique italienne, annoncé par Mussolini dans son discours du Bivouac, au Parlement, le 16 novembre 1922, s'affirme après l'affaire de Corfou qui lui montre qu'il peut jouer des désaccords franco-anglais, Rumi (G.), Revisionisme fascista ed espansione coloniale 1925-1935 in *Il Movimento di Liberazione in Italia*, n° 80, juillet 1965, pp. 37-73.
+
+<sup>(34)</sup> Doc. Dipl. Ital. 7<sup>e</sup> série, vol. 3, notamment Rome 19,4,1925, 21,4,1925, 24,3,1925.
+
+<sup>(35)</sup> Avec la signature du traité italo-espagnol le 8 août 1926, répétition de celui de 1887.
+
+{11}------------------------------------------------
+
+Primo de Rivera à se lier à l'Italie par un accord formel parlaient, en 1924, de son "vasselage diplomatique" à l'égard de Paris qui dérivait de considérations économiques, stratégiques, financières et militaires.
+
+La Grande Bretagne, par ailleurs, avait obtenu, dans l'hiver 1924-1925, la promesse de l'évacuation de la Ruhr. Au début de 1925, l'attitude du Quai d'Orsay à l'égard de l'Italie se modifie dans la perspective des conversations qui conduiront à la signature des accords de Locarno (5-16 octobre 1925). Le représentant italien à Paris Avezzana souligne cette évolution qui s'affirme dans l'été de 1925 (36). Les dépêches de l'ambassadeur belge à Paris donnent la même impression d'un nouvel esprit de conciliation française (37). Le 25 septembre rompant avec toute l'attitude de rigueur des années antérieures, Aristide Briand propose à l'Italie "spontanément" en échange d'un appui dans la politique européenne, d'éliminer toute cause de tension entre les deux pays : la France reverrait la question tunisienne de manière à donner satisfaction à l'opinion italienne, reconsidèrerait dans un sens favorable le statut de Tanger, appuierait enfin les revendications italiennes sur les anciens mandats allemands au cas où l'Angleterre déciderait de les rétrocéder à Berlin, soutiendrait également l'Italie s'il se présentait pour elle une occasion d'acquérir les colonies portugaises.
+
+Ainsi, à la fin de l'été et au début de l'automne 1925, semble s'ouvrir une période de liquidation des méfiances et des contentieux. On retrouve le climat des années 1900 et on parait s'acheminer vers l'élimination du front méditerranéen anti-français.
+
+Cette accalmie diplomatique ne sera pas sans conséquence sur la conclusion de l'affaire riffaine. Elle explique notamment que les projets de médiation italienne aient tourné court, tant par la volonté de Madrid que par le désir de Rome de ne pas géner son rapprochement récent avec Paris.
+
+Il sera de courte durée. Passé le danger riffain la diplomatie française oublie ses promesses à l'Italie. Au renforcement de la position de la France en Méditerranée, l'Angleterre répond par la reprise de sa politique traditionnelle. Elle rallie dans une même attitude de méfiance à l'égard de "l'hégémonie française" les puissances méditerranéennes. Le traité italo-espagnol du 8 août 1926 est signé avec son accord. Le Foreign Office appuie les demandes de l'Italie et de l'Espagne de conférence sur le Maroc, entretient le "front méditerranéen" hostile à la France : l'entrevue de Livourne marque, à l'automne de 1926, cette quasi alliance anglo-italo-espagnole (38).
+
+Ainsi toute la période de la guerre du Rif, de 1922 à 1926, sauf les quelques mois précédents et suivant Locarno sont marqués par la remise en vigueur sinon dans la lettre du moins dans l'esprit des accords méditerranéens de 1887 (39).
+
+<sup>(36)</sup> Doc. Dipl. It. série 7, t. IV, notamment Avezzana à Mussolini, Paris 23.9.1925, 25.9.1925 sq.
+
+<sup>(37)</sup> Doc. Dipl. Belges, t. II, conversation Vandervelde-Briand, 2.2.1925.
+
+<sup>(38)</sup> Carocci (G.), La politica estera dell'Italia fascista, 1925-1928, Roma, 1965; B. de Jouvenel, D'une guerre à l'autre, Paris, 1941, t. II, p. 104.
+
+<sup>(39)</sup> Plus important que le fait est l'aspect de méfiance ou d'hostilité à l'encontre de la France : les manifestations anti-françaises multipliées en Italie en octobre et novembre 1926, la campagne de presse en Angleterre, l'attitude des publicistes espagnols, etc.
+
+{12}------------------------------------------------
+
+L'analyse de l'arrière plan diplomatique de la guerre du Rif souligne la permanence des attitudes des bureaux. A Madrid, comme à Paris, Londres et Rome les réflexes des traditions du XIX<sup>e</sup> siècle jouent. Malgré les bouleversements de la guerre, les espoirs mis dans les nouvelles instances internationales, les profonds remuements du monde arabe, malgré la montée des forces anti-colonialistes les formes les plus traditionnelles de la diplomatie de l'impérialisme triomphent et retrouvent les "recettes" des années 1887-1891. L'heure des chancelleries est de moins en moins l'heure des peuples. De ce divorce profond les conséquences locales et internationales, proches et lointaines seront lourdes.
+
+J.L. MIEGE Professeur à l'Université de Provence
