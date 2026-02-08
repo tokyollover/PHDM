@@ -1,7 +1,7 @@
 # Index des Images — Diplomatie Alaouite (1666-1912)
 
-**Généré le :** 2026-02-07  
-**Total images :** 640  
+**Généré le :** 2026-02-08  
+**Total images :** 448  
 **Colonnes complètes :** voir `index.csv` ou `index.json`
 
 ## Aperçu (60 premières entrées)
@@ -22,7 +22,7 @@
 | 7 | FIGURE_7_PORTRAITS_FONDATEURS_ALAOUITES_moulay_ismaeil_ | Portrait gravé | LARMESSIN, Nicolas de, Le Grand Cherif Mouley-Ismaël, c | Nicolas de Larmessin | Portrait / Gravure | XVIIe s. |  |  |  |
 | 9 | FIGURE_8_CARTE_FRONTIERE_OUED_TAFNA_regency_algiers_map | Carte historique | Carte de la Régence d'Alger, Gallica BnF | Cartographe non identifié | Carte | XVIIe-XVIIIe s. |  |  |  |
 | 10 | FIGURE_8_SYNTHESE_DIPLOMATIE_ALAOUITE_said_muhammed_ben | Portrait | Portrait de Saïd Mohammed ben Abdul Melek (1783) | Artiste non identifié | Portrait | XVIIIe s. |  |  |  |
-| 11 | FIGURE_9_SCEAUX_MARCHANDS_ROYAUX_morocco_usa_1787_page2 | Document diplomatique | Traité Maroc-USA, sceaux (1787), National Archives | Chancellerie chérifienne | Document diplomatique | XVIIIe s. |  |  |  |
+
 | 16 | ambassadeur_marocain_versailles.jpg | Gravure / Peinture | Réception d'un ambassadeur marocain à Versailles | Inconnu | Gravure / Peinture | XVIIe-XVIIIe s. |  |  |  |
 | 17 | ambassadeur_marocain_versailles_v2.jpg | Gravure / Peinture | Réception ambassadeur marocain à Versailles (v2) | Inconnu | Gravure / Peinture | XVIIe-XVIIIe s. |  |  |  |
 | 18 | archives_du_maroc_kitab_al_istiqsa_traduit_en_fr_v30_1_ | Chronique historique (traduction) | AL-NACIRI, Ahmed ibn Khalid, Kitab al-Istiqsa li-Akhbar | Ahmad ibn Khalid al-Naciri (trad. E. Fumey) | Figure extraite (OCR) | Origines - XIXe s. | Archives du Maroc - Kitab AL Istiqsa traduit en FR V30  | chunk_01 |  |
@@ -69,4 +69,4 @@
 | 59 | daniel_rivet_histoire_du_maroc_de_moulay_idris_a_mohamm | Monographie | RIVET, Daniel, Histoire du Maroc : de Moulay Idrîs à Mo | Daniel Rivet | Diagramme / Schéma | VIIIe s. - XXIe s. | Daniel Rivet Histoire du Maroc de Moulay Idris à Moham | chunk_013 | page_22 |
 | 60 | daniel_rivet_histoire_du_maroc_de_moulay_idris_a_mohamm | Monographie | RIVET, Daniel, Histoire du Maroc : de Moulay Idrîs à Mo | Daniel Rivet | Figure extraite (OCR) | VIIIe s. - XXIe s. | Daniel Rivet Histoire du Maroc de Moulay Idris à Moham | chunk_01 |  |
 
-*640 images au total. Voir `index.csv` pour la version complète.*
+*448 images au total. Voir `index.csv` pour la version complète.*

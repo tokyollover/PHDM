@@ -282,30 +282,8 @@ L'utilisation de diplomates juifs, très marquée sous les Saadiens (famille Pal
 
 ---
 
-![FIGURE_9_SCEAUX_MARCHANDS_ROYAUX](images/FIGURE_9_SCEAUX_MARCHANDS_ROYAUX_morocco_usa_1787_page2.jpg)
 
-> **Figure 9 :** Sceaux, signatures et documents des intermédiaires diplomatiques marocains
->
-> **Audit réalisé via NotebookLM :** Archives Royales (Rabat) + KENBIB, *Juifs et Musulmans au Maroc* + *Archives Marocaines*
->
-> **Documents authentiques :**
->
-> - *Sceau de la famille Guedalla (intermédiaires britanniques)* — Empreinte officielle — **Source :** Archives Royales (Rabat) ou collections privées (descendants Guedalla).
-> - *Dahir accordant statut de « Tujar as-Sultan »* — Décret officiel — **Source :** Archives Royales (Rabat) ; reproductions dans *Archives Marocaines*.
-> - *Sceaux personnels de Samuel Pallache et descendants* — Gravures hébraïques-arabes — **Source :** KENBIB, *Juifs et Musulmans au Maroc* ; Musée de la Diaspora (Tel Aviv) ; Archives du Maroc.
-> - *Lettres de crédit de marchands royaux* — Correspondances commerciales — **Source :** Archives MAE (Paris), Dossiers « Commerce Maroc »  ; Archives Royales (Rabat).
-> - *Registres de douane d'Essaouira* — Noms des « Tujjar » autorisés — **Source :** Direction des Archives Royales (Rabat) ; Archives Municipales (Essaouira).
->
-> **Iconographie et biographies :**
->
-> - *Portrait de Samuel Pallache (XVIIe s.)* — Gravure de l'époque — **Source :** Collections juives hollandaises ; reproductions dans KENBIB.
-> - *Arbre généalogique des Guedalla et Macnin* — Reconstitution généalogique — **Source :** KENBIB, *Juifs et Musulmans*, p. 180-200.
->
-> **Fonds complets :**
->
-> - **KENBIB, *Juifs et Musulmans au Maroc* (1989) :** Monographie de référence avec fac-similés
-> - **Musée du Maroc (Rabat)** : Collections de documents juifs marocains
-> - **Archives communautaires juives marocaines** : Dossiers familiaux Guedalla, Corcos, Macnin
+
 
 ---
 
@@ -1388,6 +1366,8 @@ Durand et Ferrié montrent que Mohammed VI définit l'Afrique comme la « **prof
 *30 janvier 2026*
 
 ---
+
+**Notes :** Voir références détaillées [^1][^6][^7][^8][^9][^10]
 
 [^1]: Adage du droit public marocain, cité par Daniel Rivet, *Histoire du Maroc*, p. 45.
     

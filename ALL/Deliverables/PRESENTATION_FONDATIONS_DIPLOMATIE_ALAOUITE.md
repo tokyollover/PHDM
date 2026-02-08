@@ -233,29 +233,8 @@ Ces marchands ne sont pas de simples commerçants : ils constituent un **réseau
 
 L'utilisation de diplomates juifs, très marquée sous les Saadiens (famille Pallache aux Pays-Bas), perdure sous les Alaouites. Samuel Pallache et son frère Joseph avaient négocié une alliance avec les Provinces-Unies contre l'Espagne au début du XVIIe siècle, établissant un précédent d'**intermédiation confessionnelle** que les Alaouites continuèrent à exploiter.[^18]
 
----
 
-![FIGURE_9_SCEAUX_MARCHANDS_ROYAUX]
 
-> **Figure 9 :** Sceaux, signatures et documents des intermédiaires diplomatiques marocains
->
-> **Audit réalisé via NotebookLM :** Archives Royales (Rabat) + KENBIB, *Juifs et Musulmans au Maroc* + *Archives Marocaines*
->
-> **Documents authentiques :**
-> - *Sceau de la famille Guedalla (intermédiaires britanniques)* — Empreinte officielle — **Source :** Archives Royales (Rabat) ou collections privées (descendants Guedalla).
-> - *Dahir accordant statut de « Tujar as-Sultan »* — Décret officiel — **Source :** Archives Royales (Rabat) ; reproductions dans *Archives Marocaines*.
-> - *Sceaux personnels de Samuel Pallache et descendants* — Gravures hébraïques-arabes — **Source :** KENBIB, *Juifs et Musulmans au Maroc* ; Musée de la Diaspora (Tel Aviv) ; Archives du Maroc.
-> - *Lettres de crédit de marchands royaux* — Correspondances commerciales — **Source :** Archives MAE (Paris), Dossiers « Commerce Maroc »  ; Archives Royales (Rabat).
-> - *Registres de douane d'Essaouira* — Noms des « Tujjar » autorisés — **Source :** Direction des Archives Royales (Rabat) ; Archives Municipales (Essaouira).
->
-> **Iconographie et biographies :**
-> - *Portrait de Samuel Pallache (XVIIe s.)* — Gravure de l'époque — **Source :** Collections juives hollandaises ; reproductions dans KENBIB.
-> - *Arbre généalogique des Guedalla et Macnin* — Reconstitution généalogique — **Source :** KENBIB, *Juifs et Musulmans*, p. 180-200.
->
-> **Fonds complets :**
-> - **KENBIB, *Juifs et Musulmans au Maroc* (1989) :** Monographie de référence avec fac-similés
-> - **Musée du Maroc (Rabat)** : Collections de documents juifs marocains
-> - **Archives communautaires juives marocaines** : Dossiers familiaux Guedalla, Corcos, Macnin
 
 ---
 

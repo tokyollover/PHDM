@@ -3,371 +3,925 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Les Fondations de la Diplomatie Alaouite</title>
+    <title>Les Fondations de la Diplomatie Alaouite (1666-1912)</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Sarabun:wght@300;400;600&display=swap">
     <style>
         :root {
-            --font-family-display: Arial, sans-serif;
-            --font-weight-display: 600;
-            --font-family-content: Arial, sans-serif;
-            --font-weight-content: 400;
-            --font-size-content: 16px;
-            --line-height-content: 1.4;
-        }
-
-        body.theme-dark {
-            --color-bg-base: #0f172a;
-            --color-bg-elevated: #020617;
-            --color-bg-surface: #1e293b;
-            --color-bg-muted: #334155;
-            --color-text-primary: #f1f5f9;
-            --color-text-secondary: #cbd5e1;
-            --color-text-muted: #94a3b8;
-            --color-text-accent: #38bdf8;
-            --color-primary: #38bdf8;
-            --color-primary-foreground: #0f172a;
-        }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+            --font-display: "Cormorant Garamond", "Times New Roman", serif;
+            --font-body: "Sarabun", "Arial", sans-serif;
+            --color-ink: #efe7d6;
+            --color-ink-soft: #d7c9af;
+            --color-gold: #c2a46d;
+            --color-iron: #8f8c86;
+            --color-obsidian: #0b0f14;
+            --color-ember: #5a2e1c;
+            --color-sand: #f0e5d0;
+            --color-slate: #1b222c;
+            --color-card: rgba(19, 25, 33, 0.88);
+            --shadow-soft: 0 18px 40px rgba(5, 8, 12, 0.45);
+            --radius-lg: 24px;
+            --radius-md: 16px;
         }
 
         body {
-            font-family: var(--font-family-content);
-            font-weight: var(--font-weight-content);
-            font-size: var(--font-size-content);
-            line-height: var(--line-height-content);
-            overflow-x: hidden;
+            background: radial-gradient(circle at top left, rgba(90, 46, 28, 0.35), transparent 55%),
+                        radial-gradient(circle at bottom right, rgba(20, 36, 55, 0.8), transparent 60%),
+                        linear-gradient(140deg, #0b0f14 0%, #141b23 60%, #1c2430 100%);
+            color: var(--color-ink);
+            font-family: var(--font-body);
         }
 
-        .slide {
-            width: 960px;
-            height: 540px;
-            margin: 0 auto 20px;
-            display: flex;
-            flex-shrink: 0;
-            position: relative;
-            overflow: hidden;
+        .reveal {
+            font-family: var(--font-body);
         }
 
-        .row { flex-direction: row; }
-        .col { flex-direction: column; }
-        .center {
-            justify-content: center;
-            align-items: center;
+        .reveal h1,
+        .reveal h2,
+        .reveal h3,
+        .reveal h4 {
+            font-family: var(--font-display);
+            letter-spacing: 0.02em;
+        }
+
+        .reveal h1 { font-size: 3.4rem; }
+        .reveal h2 { font-size: 2.4rem; }
+        .reveal h3 { font-size: 1.7rem; }
+        .reveal h4 { font-size: 1.3rem; }
+
+        .reveal section {
+            padding: 28px 40px;
+        }
+
+        .slide-title {
+            color: var(--color-sand);
+            margin-bottom: 0.8rem;
+        }
+
+        .subtitle {
+            font-size: 1.25rem;
+            color: var(--color-ink-soft);
+        }
+
+        .panel {
+            background: var(--color-card);
+            border: 1px solid rgba(194, 164, 109, 0.25);
+            border-radius: var(--radius-md);
+            padding: 1.2rem 1.4rem;
+            box-shadow: var(--shadow-soft);
+        }
+
+        .panel.soft {
+            background: rgba(33, 40, 50, 0.75);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--color-obsidian);
+            background: var(--color-gold);
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 1.2rem;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 1rem;
+        }
+
+        .tight-list {
+            margin-top: 0.5rem;
+            line-height: 1.45;
+        }
+
+        .tight-list li { margin-bottom: 0.45rem; }
+
+        blockquote {
+            font-style: italic;
+            color: var(--color-ink-soft);
+            border-left: 4px solid var(--color-gold);
+            padding-left: 1rem;
+            margin: 0.8rem 0;
+        }
+
+        .carousel {
+            display: grid;
+            grid-auto-flow: column;
+            grid-auto-columns: minmax(200px, 1fr);
+            gap: 0.8rem;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            padding-bottom: 0.2rem;
+        }
+
+        .carousel figure {
+            scroll-snap-align: start;
+            background: rgba(13, 18, 24, 0.85);
+            border-radius: 14px;
+            padding: 0.4rem;
+            border: 1px solid rgba(194, 164, 109, 0.2);
+        }
+
+        .carousel img {
+            width: 100%;
+            height: 130px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+
+        .carousel figcaption {
+            font-size: 0.75rem;
+            color: var(--color-ink-soft);
+            margin-top: 0.4rem;
+        }
+
+        .timeline {
+            display: grid;
+            grid-template-columns: repeat(6, minmax(0, 1fr));
+            gap: 0.6rem;
+        }
+
+        .timeline .panel {
             text-align: center;
-        }
-        .space-between { justify-content: space-between; }
-        .items-center { align-items: center; }
-        .items-start { align-items: flex-start; }
-        .fill-width { flex: 1; }
-        .fill-height { flex: 1; display: flex; flex-direction: column; }
-
-        .gap-sm { gap: 0.5rem; }
-        .gap-md { gap: 1rem; }
-        .gap-lg { gap: 1.5rem; }
-        .gap-xl { gap: 2rem; }
-
-        .p-4 { padding: 1rem; }
-        .p-6 { padding: 1.5rem; }
-        .p-8 { padding: 2rem; }
-        .p-12 { padding: 3rem; }
-        .p-16 { padding: 4rem; }
-
-        .mb-2 { margin-bottom: 0.5rem; }
-        .mb-4 { margin-bottom: 1rem; }
-        .mb-6 { margin-bottom: 1.5rem; }
-        .mb-8 { margin-bottom: 2rem; }
-        .mb-12 { margin-bottom: 3rem; }
-
-        .mt-2 { margin-top: 0.5rem; }
-        .mt-4 { margin-top: 1rem; }
-        .mt-6 { margin-top: 1.5rem; }
-        .mt-8 { margin-top: 2rem; }
-
-        h1, h2, h3, h4, h5, h6 {
-            font-family: var(--font-family-display);
-            font-weight: var(--font-weight-display);
-            line-height: 1.2;
-            margin: 0;
+            padding: 0.8rem 0.6rem;
         }
 
-        h1 { font-size: 3rem; }
-        h2 { font-size: 2.25rem; }
-        h3 { font-size: 1.75rem; }
-        h4 { font-size: 1.5rem; }
-
-        .text-6xl { font-size: 3.75rem; }
-        .text-5xl { font-size: 3rem; }
-        .text-4xl { font-size: 2.25rem; }
-        .text-3xl { font-size: 1.875rem; }
-        .text-2xl { font-size: 1.5rem; }
-        .text-xl { font-size: 1.25rem; }
-        .text-lg { font-size: 1.125rem; }
-        .text-base { font-size: 1rem; }
-        .text-sm { font-size: 0.875rem; }
-
-        .font-bold { font-weight: 700; }
-        .font-semibold { font-weight: 600; }
-
-        .text-center { text-align: center; }
-        .text-left { text-align: left; }
-
-        ul, ol {
-            margin-left: 2rem;
-            line-height: 1.8;
+        .footnote {
+            font-size: 0.8rem;
+            color: var(--color-iron);
         }
 
-        ul li { list-style: disc; }
-        li { margin-bottom: 0.75rem; }
-        li:last-child { margin-bottom: 0; }
-
-        .card-rect {
-            padding: 2rem;
-            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        .accent {
+            color: var(--color-gold);
+            font-weight: 600;
         }
 
-        .opacity-80 { opacity: 0.8; }
-        .opacity-90 { opacity: 0.9; }
+        .export-panel {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            background: rgba(11, 15, 20, 0.82);
+            border: 1px solid rgba(194, 164, 109, 0.35);
+            padding: 0.6rem 0.9rem;
+            border-radius: 999px;
+            font-size: 0.8rem;
+            color: var(--color-ink-soft);
+            z-index: 10;
+        }
+
+        @media (max-width: 900px) {
+            .grid-2,
+            .grid-3,
+            .timeline {
+                grid-template-columns: 1fr;
+            }
+
+            .carousel img {
+                height: 110px;
+            }
+        }
     </style>
 </head>
-<body class="theme-dark">
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <!-- Slide 1 -->
+            <section>
+                <span class="badge">Présentation Magistrale</span>
+                <h1 class="slide-title">Les Fondations de la Diplomatie Alaouite</h1>
+                <p class="subtitle">Histoire des pratiques diplomatiques (1666-1912)</p>
+                <div class="panel soft" style="margin-top: 1.4rem;">
+                    <p><strong>Problématique centrale :</strong> Comment le droit international est-il passé d'un outil de projection souveraine à un ultime rempart contre l'annexion ?</p>
+                </div>
+                <aside class="notes">
+                    Présenter la tension centrale : puissance normative au XVIIIe siècle, vulnérabilité juridique au XIXe. Annoncer l'architecture bipartite.
+                </aside>
+            </section>
 
-    <!-- Slide 1: Titre -->
-    <section class="slide p-16 col center" style="background-color: #020617; color: #f1f5f9;">
-        <h1 class="text-6xl mb-4" style="color: #38bdf8;">Les Fondations de la Diplomatie Alaouite</h1>
-        <p class="text-2xl mb-12" style="color: #cbd5e1;">Histoire des pratiques diplomatiques de la dynastie alaouite avant le protectorat</p>
-        <p class="text-sm" style="color: #94a3b8;">Master Sciences Politiques</p>
-    </section>
+            <!-- Slide 2 -->
+            <section>
+                <h2 class="slide-title">Plan bipartite</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <h3>Partie I</h3>
+                        <p>Le Dispositif Diplomatique Chérifien — Architecture et Projection (1666-1844)</p>
+                    </div>
+                    <div class="panel">
+                        <h3>Partie II</h3>
+                        <p>La Diplomatie de Résistance — Encerclement Colonial et Protectorat (1844-1912)</p>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Insister sur la césure 1844 (Isly) comme basculement stratégique.
+                </aside>
+            </section>
 
-    <!-- Slide 2: Plan bipartite introduction -->
-    <section class="slide p-16 col center" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-8" style="color: #38bdf8;">Plan de la présentation</h2>
-        <div class="fill-height row gap-xl">
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 2rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h3 class="mb-4" style="color: #38bdf8;">Partie I</h3>
-                <p style="color: #cbd5e1;"><strong>Les Origines et Structures</strong> de la diplomatie alaouite (XVI-XVIIe siècles)</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 2rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h3 class="mb-4" style="color: #38bdf8;">Partie II</h3>
-                <p style="color: #cbd5e1;"><strong>Les Pratiques Diplomatiques</strong> au XIXe siècle (face aux puissances européennes)</p>
-            </div>
+            <!-- Slide 3 -->
+            <section>
+                <h2 class="slide-title">Accroche narrative : le paradoxe</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>20 décembre 1777 : reconnaissance des États-Unis, ouverture des ports.</li>
+                            <li>1786 : traité de paix et d'amitié, plus long traité US ininterrompu.</li>
+                            <li>Basculement : d'une puissance qui fait le droit à une diplomatie de survie.</li>
+                        </ul>
+                        <blockquote>« Un oiseau sans ailes. » — En-Naciri</blockquote>
+                    </div>
+                    <div>
+                        <div class="carousel">
+                            <figure>
+                                <img src="images/FIGURE_2_FACSIMILES_TRAITES_morocco_usa_1786.jpg" alt="Traité de 1786">
+                                <figcaption>Traité de Marrakech (1786).</figcaption>
+                            </figure>
+                            <figure>
+                                <img src="images/FIGURE_1_CARTE_EMPIRE_CHERIFIEN_mouette_1683.jpg" alt="Carte chérifienne">
+                                <figcaption>Carte de l'Empire chérifien.</figcaption>
+                            </figure>
+                            <figure>
+                                <img src="images/FIGURE_7_FRISE_EROSION_SOUVERAINETE_madrid_conference_1880_p5.jpg" alt="Erosion de souveraineté">
+                                <figcaption>Érosion de la souveraineté (1844-1912).</figcaption>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Insister sur la continuité de personnalité internationale malgré la rupture de puissance. Introduire la logique du droit comme bouclier.
+                </aside>
+            </section>
+
+            <!-- Slide 4 -->
+            <section>
+                <h2 class="slide-title">Fondements théologico-politiques</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <h3>Catégories juridiques</h3>
+                        <ul class="tight-list">
+                            <li><span class="accent">Bay'a</span> : allégeance contractuelle, obligation de défense.</li>
+                            <li><span class="accent">Dar al-Islam / Dar al-Harb</span> : temporalité des accords.</li>
+                            <li>Opposition à la souveraineté territoriale westphalienne.</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <h3>Référence CIJ 1975</h3>
+                        <p>Reconnaissance de « liens juridiques d'allégeance » sans souveraineté territoriale au sens moderne.</p>
+                        <p class="footnote">Avis consultatif CIJ (Sahara Occidental), 16 octobre 1975.</p>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Mettre en relief l'impasse stratégique : interdiction théologique de céder, incapacité militaire à résister, recours au droit.
+                </aside>
+            </section>
+
+            <!-- Slide 5 -->
+            <section>
+                <h2 class="slide-title">La genèse alaouite</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Moulay Chérif : unification du Tafilalet, sécurisation Sijilmassa-Moulouya.</li>
+                        <li>Moulay Rachid : fondation de l'État, Fès (1666), soumission Dila et Salé.</li>
+                        <li>Ouverture pragmatique : liberté commerciale accordée aux Français.</li>
+                    </ul>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_7_PORTRAITS_FONDATEURS_ALAOUITES_moulay_ismaeil_larmessin.jpg" alt="Fondateurs">
+                        <figcaption>Fondateurs alaouites (gravures).</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/FIGURE_1_CARTE_EMPIRE_CHERIFIEN_mouette_1683.jpg" alt="Carte Tafilalet">
+                        <figcaption>Tafilalet et axes caravaniers.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur le contrôle des routes comme condition de la projection diplomatique (Rivet).
+                </aside>
+            </section>
+
+            <!-- Slide 6 -->
+            <section>
+                <h2 class="slide-title">Moulay Ismaïl : refus de la suzeraineté ottomane</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>Argument du <span class="accent">Nasab</span> : légitimité prophétique contre le Califat ottoman.</li>
+                            <li>Échanges avec les ambassadeurs turcs d'Alger (vers 1654).</li>
+                            <li>Fixation de la frontière orientale : Oued Tafna (1678).</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <blockquote>« Agiter le brandon de la révolte... » — correspondance turque</blockquote>
+                        <p>La réponse alaouite fonde la prétention à l'égalité souveraine.</p>
+                    </div>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_8_CARTE_FRONTIERE_OUED_TAFNA_regency_algiers_map.jpg" alt="Oued Tafna">
+                        <figcaption>Frontière Oued Tafna (1678).</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/FIGURE_7_PORTRAITS_FONDATEURS_ALAOUITES_moulay_ismaeil_larmessin.jpg" alt="Moulay Ismaïl">
+                        <figcaption>Moulay Ismaïl en gravure.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Mettre en relation la frontière orientale et l'indépendance juridique face à l'espace ottoman.
+                </aside>
+            </section>
+
+            <!-- Slide 7 -->
+            <section>
+                <h2 class="slide-title">Diplomatie du « pair à pair »</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Récupérations : La Mamora (1681), Tanger (1684), Larache (1689).</li>
+                        <li>Ambassade Mohammed Temim (Paris, 1682) : alliance anti-espagnole refusée.</li>
+                        <li>Traité de 1721 avec l'Angleterre : juridiction du Sultan sur les litiges.</li>
+                    </ul>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_3_DIPLOMATIE_CORSAIRE_british_sailors_algerine_pirate.jpg" alt="Présides">
+                        <figcaption>Présides et pression maritime.</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/ambassadeur_marocain_versailles.jpg" alt="Ambassadeur marocain">
+                        <figcaption>Ambassade marocaine a Versailles.</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/FIGURE_2_FACSIMILES_TRAITES_morocco_usa_1786.jpg" alt="Traité">
+                        <figcaption>Formalisme traité (XVIIIe).</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Rappeler l'exigence de parité statutaire et la limite structurelle des alliances européennes.
+                </aside>
+            </section>
+
+            <!-- Slide 8 -->
+            <section>
+                <h2 class="slide-title">Diplomatie corsaire : la contrainte organisée</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>Nationalisation de la course de Salé : contrôle étatique.</li>
+                            <li>Capture du <em>Betsey</em> (1784) pour forcer la négociation US.</li>
+                            <li>Tributs Danemark/Suède, fournitures militaires en échange de sécurité.</li>
+                            <li>« Dossier des captifs » : rachat, échange « tête pour tête ».</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <p>La course est une <span class="accent">diplomatie de la contrainte</span> : elle déclenche des traités et organise la paix.</p>
+                        <p class="footnote">Fin officielle en 1817 sous Moulay Slimane.</p>
+                    </div>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_3_DIPLOMATIE_CORSAIRE_british_sailors_algerine_pirate.jpg" alt="Course">
+                        <figcaption>Diplomatie maritime et corsaires.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Souligner la logique d'État : ordre de laisser passer les nations « amies », prélèvements centralisés.
+                </aside>
+            </section>
+
+            <!-- Slide 9 -->
+            <section>
+                <h2 class="slide-title">La parenthèse de l'anomie (1727-1757)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Mort de Moulay Ismaïl : trente ans de crise dynastique.</li>
+                        <li>Les <span class="accent">Abid al-Bukhari</span> deviennent faiseurs de rois.</li>
+                        <li>Succession chaotique, paralysie diplomatique.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Expliquer l'effet : perte de continuité diplomatique, fragmentation du commandement.
+                </aside>
+            </section>
+
+            <!-- Slide 10 -->
+            <section>
+                <h2 class="slide-title">Sidi Mohammed ben Abdallah : l'architecte</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>Rupture : du corsaire au traité.</li>
+                            <li>Traités : Danemark, Suède, France (1767).</li>
+                            <li>Reconnaissance américaine (1777) et traité de 1786.</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <p>Le Maroc passe d'une diplomatie d'armes à une diplomatie contractuelle fondée sur la paix perpétuelle.</p>
+                    </div>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_2_FACSIMILES_TRAITES_morocco_usa_1786.jpg" alt="Traité 1786">
+                        <figcaption>Traité maroco-américain (1786).</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur la notion de paix perpétuelle et la maîtrise du formalisme européen.
+                </aside>
+            </section>
+
+            <!-- Slide 11 -->
+            <section>
+                <h2 class="slide-title">Essaouira (Mogador) : laboratoire diplomatique</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Port-relais diplomatique et commercial.</li>
+                        <li>Concentration des douanes et ouverture aux consuls.</li>
+                        <li>Pivot de l'ouverture atlantique au XVIIIe siècle.</li>
+                    </ul>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_4_PLAN_ESSAOUIRA_plan_de_mogador_btv1b53064624b.jpg" alt="Plan de Mogador">
+                        <figcaption>Plan de Mogador (Essaouira).</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/port_mogador_xviiie.jpg" alt="Port de Mogador">
+                        <figcaption>Port de Mogador au XVIIIe siecle.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Rappeler la stratégie : commerce atlantique plutôt que guerre terrestre.
+                </aside>
+            </section>
+
+            <!-- Slide 12 -->
+            <section>
+                <h2 class="slide-title">Appareil diplomatique : la gestion de la distance</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <h3>Le Naib à Tanger</h3>
+                        <ul class="tight-list">
+                            <li>Intermédiaire obligatoire entre légations et Sultan.</li>
+                            <li>Fonction de filtrage et temporisation.</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <h3>Missions extraordinaires</h3>
+                        <ul class="tight-list">
+                            <li>Ambassadeurs ponctuels : vizirs, lettrés, corsaires.</li>
+                            <li>Absence d'ambassades résidentes permanentes.</li>
+                        </ul>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Souligner le « glacis de Tanger » comme dispositif défensif.
+                </aside>
+            </section>
+
+            <!-- Slide 13 -->
+            <section>
+                <h2 class="slide-title">Acteurs intermédiaires</h2>
+                <div class="grid-3">
+                    <div class="panel">
+                        <h4>Tujjar as-Sultan</h4>
+                        <p>Réseau marchand, intelligence économique.</p>
+                        <p class="footnote">Familles Guedalla, Corcos, Macnin.</p>
+                    </div>
+                    <div class="panel">
+                        <h4>Famille Pallache</h4>
+                        <p>Intermédiation confessionnelle héritée des Saadiens.</p>
+                    </div>
+                    <div class="panel">
+                        <h4>Renégats (Elj)</h4>
+                        <p>Connaissance linguistique et diplomatique des puissances européennes.</p>
+                    </div>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/portrait_moulay_ismail.jpg" alt="Portrait Moulay Ismail">
+                        <figcaption>Portrait de Moulay Ismail.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur la fonction d'intermédiation : commerce, traduction, négociation.
+                </aside>
+            </section>
+
+            <!-- Slide 14 -->
+            <section>
+                <h2 class="slide-title">Moulay Slimane : la politique de précaution</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Réaction aux guerres napoléoniennes : <span class="accent">Ihtiyat</span>.</li>
+                        <li>Influence wahhabite et repli diplomatique.</li>
+                        <li>Arrêt officiel de la course (1817), désarmement naval.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Montrer la transition vers une diplomatie de prudence plutôt que de projection.
+                </aside>
+            </section>
+
+            <!-- Slide 15 -->
+            <section>
+                <h2 class="slide-title">Bilan de la Partie I</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Souveraineté projetée par la course, les traités et la parité statutaire.</li>
+                        <li>Base technologique fragile face au changement d'échelle européen.</li>
+                        <li>Diplomatie structurée par la légitimité chérifienne et la Bay'a.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Préparer la césure : 1844 marque l'entrée dans une logique défensive.
+                </aside>
+            </section>
+
+            <!-- Slide 16 -->
+            <section>
+                <h2 class="slide-title">Transition</h2>
+                <div class="panel">
+                    <p>La révolution industrielle bouleverse le rapport de force : le Maroc entre dans une ère d'asymétrie structurelle.</p>
+                </div>
+                <aside class="notes">
+                    Annoncer la Partie II : la diplomatie devient un rempart juridique.
+                </aside>
+            </section>
+
+            <!-- Slide 17 -->
+            <section>
+                <h2 class="slide-title">Le choc d'Isly (1844)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Défaite face aux troupes du maréchal Bugeaud.</li>
+                        <li>Révélation du gouffre technologique.</li>
+                        <li>Début d'une diplomatie de résistance.</li>
+                    </ul>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_10_BATAILLE_ISLY_TRAITES_vernet_isly_1846.jpg" alt="Bataille d'Isly">
+                        <figcaption>Bataille d'Isly (Vernet, 1846).</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/bataille_isly_vernet_1844.jpg" alt="Isly 1844">
+                        <figcaption>Isly (1844), gravure historique.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur la rupture psychologique : fin du mythe de l'invincibilité.
+                </aside>
+            </section>
+
+            <!-- Slide 18 -->
+            <section>
+                <h2 class="slide-title">1856 : le tournant de l'Empire informel</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Traité anglo-marocain (Drummond Hay).</li>
+                        <li>Fin des monopoles royaux (<em>Kuntradat</em>).</li>
+                        <li>Droits de douane plafonnés à 10 %.</li>
+                        <li>Extension des droits consulaires : protections massives.</li>
+                    </ul>
+                    <blockquote>« La souveraineté n'a pas été perdue militairement en 1912 ; elle a été dissoute économiquement en 1856. » — Ben-Srhir</blockquote>
+                </div>
+                <aside class="notes">
+                    Souligner la logique d'« OPA hostile » sur la souveraineté économique.
+                </aside>
+            </section>
+
+            <!-- Slide 19 -->
+            <section>
+                <h2 class="slide-title">La guerre de Tétouan (1859-1860)</h2>
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>Défaite face à l'Espagne.</li>
+                        <li>Occupation de Tétouan et indemnité de 20 millions de douros.</li>
+                        <li>Mise sous tutelle des douanes, endettement durable.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Mettre en avant le cercle vicieux : indemnité → dette → contrôle douanier.
+                </aside>
+            </section>
+
+            <!-- Slide 20 -->
+            <section>
+                <h2 class="slide-title">La Convention Béclard (1863)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Institutionnalisation de la protection consulaire.</li>
+                        <li>« État dans l'État » : protégés soustraits à la justice et à l'impôt.</li>
+                        <li>Érosion de l'autorité makhzénienne.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Introduire la notion de « gangrène » des protections.
+                </aside>
+            </section>
+
+            <!-- Slide 21 -->
+            <section>
+                <h2 class="slide-title">Conférence de Madrid (1880)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Initiée par Hassan Ier pour limiter les protections.</li>
+                        <li>Résultat : internationalisation et légalisation du système.</li>
+                        <li>Conséquence : légitimation de l'extraterritorialité.</li>
+                    </ul>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_5_PROTEGES_CONSULAIRES_madrid_conference_1880_title.jpg" alt="Conference de Madrid">
+                        <figcaption>Convention de Madrid (1880).</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/FIGURE_7_FRISE_EROSION_SOUVERAINETE_madrid_conference_1880_p5.jpg" alt="Erosion souverainete">
+                        <figcaption>Protection consulaire et erosion juridique.</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur le paradoxe : réguler aboutit à consacrer l'abus.
+                </aside>
+            </section>
+
+            <!-- Slide 22 -->
+            <section>
+                <h2 class="slide-title">La stratégie du Tadmin</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Internationaliser les crises pour éviter l'hégémonie d'une puissance.</li>
+                        <li>Diplomatie pendulaire : jouer les rivalités européennes.</li>
+                        <li>Neutraliser par la concurrence des garants.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Rappeler la logique de « garantie » qui transforme le droit en arme défensive.
+                </aside>
+            </section>
+
+            <!-- Slide 23 -->
+            <section>
+                <h2 class="slide-title">Moulay Hassan Ier : la résistance</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Diplomatie de résistance pendulaire.</li>
+                        <li>Convention de Madrid (1880) pour limiter les protections.</li>
+                        <li>Internationalisation qui retourne la logique défensive contre le Makhzen.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Insister sur l'intention initiale de réguler, et le résultat inverse.
+                </aside>
+            </section>
+
+            <!-- Slide 24 -->
+            <section>
+                <h2 class="slide-title">1904 : le verrouillage diplomatique</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Entente Cordiale (8 avril 1904) : mains libres françaises au Maroc.</li>
+                        <li>Accord secret franco-espagnol (3 octobre 1904) : zones d'influence.</li>
+                        <li>Démembrement préventif négocié sans le Maroc.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Souligner la négation de la personnalité juridique marocaine.
+                </aside>
+            </section>
+
+            <!-- Slide 25 -->
+            <section>
+                <h2 class="slide-title">Le coup de Tanger (1905)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Guillaume II affirme l'indépendance du Sultan.</li>
+                        <li>Exige une conférence internationale.</li>
+                        <li>Internationalisation accélérée de la crise.</li>
+                    </ul>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_6_ALLIANCES_ALGESIRAS_delegues_tanger_hotel_continental.jpg" alt="Crise 1905">
+                        <figcaption>Acteurs de la crise (1900-1912).</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur la stratégie allemande de rupture du condominium franco-britannique.
+                </aside>
+            </section>
+
+            <!-- Slide 26 -->
+            <section>
+                <h2 class="slide-title">Conférence d'Algésiras (1906)</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>« Souveraineté et indépendance du Sultan » affirmées.</li>
+                            <li>Police des ports confiée à la France et l'Espagne.</li>
+                            <li>Banque d'État du Maroc sous capitaux majoritairement français.</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <p>Victoire formelle, défaite réelle : l'internationalisation légalise l'ingérence.</p>
+                    </div>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_13_ALGESIRAS_PROTOCOLES_algeciras_conference_1906.jpg" alt="Algésiras 1906">
+                        <figcaption>Acte d'Algésiras (1906).</figcaption>
+                    </figure>
+                    <figure>
+                        <img src="images/conference_algeciras_1906_v2.jpg" alt="Delegues a Algesiras">
+                        <figcaption>Delegues a Algesiras (1906).</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur la logique de « victoire à la Pyrrhus ».
+                </aside>
+            </section>
+
+            <!-- Slide 27 -->
+            <section>
+                <h2 class="slide-title">L'engrenage de l'endettement</h2>
+                <div class="panel">
+                    <p>La combinaison des indemnités de guerre et de la perte des recettes douanières crée un cercle vicieux :</p>
+                    <div class="panel soft" style="margin-top: 0.8rem;">
+                        <p>Défaite militaire → Indemnité → Endettement → Tutelle douanière → Affaiblissement militaire</p>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Mettre en relation Isly, Tétouan et la perte du levier fiscal.
+                </aside>
+            </section>
+
+            <!-- Slide 28 -->
+            <section>
+                <h2 class="slide-title">La crise finale (1907-1911)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Bombardement de Casablanca (1907) et occupation de la Chaouia.</li>
+                        <li>« Coup de Fès » (mai 1911) : intervention française.</li>
+                        <li>Crise d'Agadir (juillet 1911) : canonnière <em>Panther</em>.</li>
+                        <li>Accord franco-allemand (4 novembre 1911).</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Souligner la convergence des crises militaires et diplomatiques.
+                </aside>
+            </section>
+
+            <!-- Slide 29 -->
+            <section>
+                <h2 class="slide-title">Le Traité de Fès (30 mars 1912)</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <ul class="tight-list">
+                            <li>Signataires : Moulay Hafid / Eugène Regnault.</li>
+                            <li>Résident général : seul intermédiaire avec l'étranger.</li>
+                            <li>Maintien du prestige religieux du Sultan (dahirs).</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <p>Paradoxe : l'État existe juridiquement, ses attributs régaliens sont transférés.</p>
+                    </div>
+                </div>
+                <div class="carousel" style="margin-top: 1rem;">
+                    <figure>
+                        <img src="images/FIGURE_14_PROTECTORAT_TRAITE_FES_portion_signatures.png" alt="Traité de Fès">
+                        <figcaption>Traité de Fès (1912).</figcaption>
+                    </figure>
+                </div>
+                <aside class="notes">
+                    Insister sur l'article 2 : transfert de la souveraineté diplomatique.
+                </aside>
+            </section>
+
+            <!-- Slide 30 -->
+            <section>
+                <h2 class="slide-title">Analyse juridique : la souveraineté amputée</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Ce n'est pas une annexion : l'État marocain subsiste.</li>
+                        <li>La Bay'a est fragilisée, mais maintenue formellement.</li>
+                        <li>CIJ 1952 : l'État marocain n'a jamais cessé d'exister.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Souligner la continuité juridique comme ressource de restauration ultérieure.
+                </aside>
+            </section>
+
+            <!-- Slide 31 -->
+            <section>
+                <h2 class="slide-title">Tableau comparatif : Ottoman vs Alaouite</h2>
+                <div class="grid-2">
+                    <div class="panel">
+                        <h3>Modèle ottoman</h3>
+                        <ul class="tight-list">
+                            <li>Dissociation spirituel/territorial.</li>
+                            <li>Califat utilisé pour gérer le recul.</li>
+                        </ul>
+                    </div>
+                    <div class="panel">
+                        <h3>Modèle alaouite</h3>
+                        <ul class="tight-list">
+                            <li>Fusion identité/territoire.</li>
+                            <li>Bay'a interdit la cession : rigidité protectrice.</li>
+                        </ul>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Mettre en relief la différence structurelle de souveraineté religieuse.
+                </aside>
+            </section>
+
+            <!-- Slide 32 -->
+            <section>
+                <h2 class="slide-title">Frise chronologique synthétique</h2>
+                <div class="timeline">
+                    <div class="panel">
+                        <p class="accent">1666-1727</p>
+                        <p>Fondation et projection.</p>
+                    </div>
+                    <div class="panel">
+                        <p class="accent">1727-1757</p>
+                        <p>Anomie et paralysie.</p>
+                    </div>
+                    <div class="panel">
+                        <p class="accent">1757-1822</p>
+                        <p>Contrats et ouverture.</p>
+                    </div>
+                    <div class="panel">
+                        <p class="accent">1822-1860</p>
+                        <p>Chocs et pertes.</p>
+                    </div>
+                    <div class="panel">
+                        <p class="accent">1860-1906</p>
+                        <p>Encerclement juridique.</p>
+                    </div>
+                    <div class="panel">
+                        <p class="accent">1906-1912</p>
+                        <p>Chute et protectorat.</p>
+                    </div>
+                </div>
+                <aside class="notes">
+                    Rappeler que la séquence longue permet de lire le droit comme variable stratégique.
+                </aside>
+            </section>
+
+            <!-- Slide 33 -->
+            <section>
+                <h2 class="slide-title">Synthèse finale</h2>
+                <div class="panel">
+                    <p>Le droit international passe d'un <span class="accent">bouclier contre la terra nullius</span> à un instrument de domination : la souveraineté est maintenue en forme mais vidée en substance.</p>
+                    <p style="margin-top: 0.8rem;">La diplomatie alaouite révèle ainsi une trajectoire : projection → résistance → souveraineté amputée.</p>
+                </div>
+                <aside class="notes">
+                    Répondre explicitement à la problématique en reliant 1777-1786 à 1912.
+                </aside>
+            </section>
+
+            <!-- Slide 34 -->
+            <section>
+                <h2 class="slide-title">Bibliographie académique (sources du corpus)</h2>
+                <div class="panel">
+                    <ul class="tight-list">
+                        <li>Daniel Rivet, <em>Histoire du Maroc</em>.</li>
+                        <li>Michel Abitbol, <em>Histoire du Maroc</em>.</li>
+                        <li>Abdelhadi Tazi, <em>Histoire diplomatique du Maroc</em>.</li>
+                        <li>Khalid Ben-Srhir, <em>Le Maroc et la Grande-Bretagne</em>.</li>
+                        <li>En-Nasiri, <em>Kitab al-Istiqsa</em>.</li>
+                        <li><em>Documents Diplomatiques - Affaires du Maroc</em>.</li>
+                    </ul>
+                </div>
+                <aside class="notes">
+                    Proposer l'export : générer un PDF depuis Reveal.js (impression) puis convertir en PPTX via un outil de conversion local.
+                </aside>
+            </section>
         </div>
-    </section>
+    </div>
 
-    <!-- === PARTIE I : LES ORIGINES === -->
+    <div class="export-panel" aria-hidden="true">Export PPTX : imprimer en PDF puis convertir.</div>
 
-    <!-- Slide 3: Contexte historique d'émergence -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">Partie I. Les Origines et Structures</h2>
-        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">1. L'émergence des Alaouites (1631-1672)</h3>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Montée en puissance progressive après la chute des Saadiens</li>
-                <li>Installation progressive dans le Tafilalet et le Draa</li>
-                <li>Légitimité religieuse : sharifs (descendants du Prophète)</li>
-                <li>Consolidation du contrôle territorial : du Touat à l'Atlantique</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 4: Le Makhzen comme structure fondatrice -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">2. Le Makhzen : Structure Institutionnelle et Diplomatique</h2>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Organisation centrée sur le Sultan : concentration du pouvoir exécutif et diplomatique</li>
-                <li>Réseau de caïds et pachas : relais diplomatiques dans les provinces</li>
-                <li>Dualisme Makhzen/Blad es-Siba : gestion diplomatie intérieure et extérieure</li>
-                <li>Tribunaux de cadi : exercice de la légitimité religieuse et juridique</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 5: Fonctions diplomatiques précoces -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">3. Les Premières Fonctions Diplomatiques</h2>
-        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">Négociation, représentation et protection</h3>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Émissaires royaux : délégués pour négocier traités et accords commerciaux</li>
-                <li>Représentation du prestige sultanal : légitimité religieuse et politique</li>
-                <li>Protection des caravanes et réseau commercial : diplomatie marchande</li>
-                <li>Réseau consulaire embryonnaire : agents dans villes côtières (Tanger, Essaouira)</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 6: Pratiques communicationnelles -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">4. Les Pratiques Communicationnelles Précoces</h2>
-        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">Supports de la diplomatie alaouite</h3>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Communication écrite : lettres diplomatiques, mandats (dhimma) et sauf-conduits</li>
-                <li>Sceaux et signatures : légitimation de l'autorité sultanale</li>
-                <li>Protocole cérémoniel : rituels d'accueil et présentation diplomatique</li>
-                <li>Intermédiaires : marchands, ulema et consuls étrangers comme vecteurs</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 7: Les acteurs diplomatiques -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">5. Les Acteurs et Corps Diplomatiques</h2>
-        <div class="fill-height row gap-lg">
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h4 style="color: #38bdf8;">Diplomates internes</h4>
-                <p style="color: #cbd5e1; font-size: 0.95rem;">Caïds, pachas, vizirs du Makhzen exerçant rôles diplomatiques</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h4 style="color: #38bdf8;">Acteurs marchands</h4>
-                <p style="color: #cbd5e1; font-size: 0.95rem;">Négociants, consuls européens et interprètes-médiateurs</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h4 style="color: #38bdf8;">Légitimité religieuse</h4>
-                <p style="color: #cbd5e1; font-size: 0.95rem;">Ulema et juristes : caution shari'a de diplomatie</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- === PARTIE II : LES PRATIQUES === -->
-
-    <!-- Slide 8: Transition vers le XIXe siècle -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">Partie II. Les Pratiques Diplomatiques Alaouite (XIXe siècle)</h2>
-        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">1. Contexte de transformation</h3>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Montée des puissances européennes : pression coloniale accrue</li>
-                <li>Affirmation du Maroc comme entité diplomatique autonome</li>
-                <li>Traités internationaux : première reconnaissance formelle (1856, 1860)</li>
-                <li>Réforme du Makhzen : adaptation aux normes diplomatiques internationales</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 9: Relations bilatérales -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">2. Les Relations Bilatérales Formalisées</h2>
-        <h3 class="mb-4" style="color: #cbd5e1; font-size: 1.5rem;">Diplomatisation progressive</h3>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Établissement de missions : consuls et ambassadeurs résidents</li>
-                <li>Traités commerciaux et politiques avec puissances européennes</li>
-                <li>Fonctions diplomatiques clairement définies : négociation, représentation</li>
-                <li>Protocole cérémoniel renforcé : visites officielles et échanges cérémoniels</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 10: Instruments et outils -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">3. Instruments et Outils Diplomatiques</h2>
-        <div class="fill-height row gap-lg">
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h4 style="color: #38bdf8;">Communication écrite</h4>
-                <p style="color: #cbd5e1; font-size: 0.95rem;">Notes diplomatiques, lettres de créance, mandats d'extension</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h4 style="color: #38bdf8;">Protocole et représentation</h4>
-                <p style="color: #cbd5e1; font-size: 0.95rem;">Accords de siège, immunités diplomatiques</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-                <h4 style="color: #38bdf8;">Traités et conventions</h4>
-                <p style="color: #cbd5e1; font-size: 0.95rem;">Accords commerciaux, droits de douane, navigation</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Slide 11: Stratégies diplomatiques majeures -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">4. Grandes Stratégies Diplomatiques Alaouite</h2>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li><strong>Équilibrisme :</strong> jouer les puissances les unes contre les autres</li>
-                <li><strong>Préservation d'autonomie :</strong> résister à la domination formelle</li>
-                <li><strong>Légitimité religieuse :</strong> consolider autorité par sacralité islamique</li>
-                <li><strong>Protection commerciale :</strong> favoriser marchands marocains et européens</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 12: Caractères distinctifs -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">5. Caractères Distinctifs de la Diplomatie Alaouite</h2>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Centralité du Sultan : concentration du pouvoir décisionnel diplomatique</li>
-                <li>Légitimité religieuse : fondement de l'autorité représentée</li>
-                <li>Dualisme géographique : diplomatie côtière vs bled interior</li>
-                <li>Pluralisme d'acteurs : Makhzen, marchands, intermédiaires religieux</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 13: Les défis de transition -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">6. Défis et Transitions Diplomatiques</h2>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Inadéquation du système traditionnel face à diplomatie européenne moderne</li>
-                <li>Ressources limitées pour missions diplomatiques permanentes</li>
-                <li>Tension entre pratiques islamiques et normes diplomatiques internationales</li>
-                <li>Fragilité face à pression coloniale et compétition régionale</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 14: Frise chronologique -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-8" style="color: #38bdf8;">Repères Chronologiques Clés</h2>
-        <div class="fill-height row gap-lg">
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
-                <p style="color: #38bdf8; font-weight: bold;">1631-1672</p>
-                <p style="color: #cbd5e1; font-size: 0.9rem;">Émergence alaouite</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
-                <p style="color: #38bdf8; font-weight: bold;">1728-1757</p>
-                <p style="color: #cbd5e1; font-size: 0.9rem;">Moulay Ismail : diplomatie agressive</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
-                <p style="color: #38bdf8; font-weight: bold;">1856-1860</p>
-                <p style="color: #cbd5e1; font-size: 0.9rem;">Traités formels avec Espagne, France</p>
-            </div>
-            <div class="fill-width" style="background-color: #1e293b; color: #f1f5f9; padding: 1.5rem;">
-                <p style="color: #38bdf8; font-weight: bold;">1860-1912</p>
-                <p style="color: #cbd5e1; font-size: 0.9rem;">Diplomatie défensive : avant protectorat</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Slide 15: Conclusion et héritage -->
-    <section class="slide p-16 col" style="background-color: #0f172a; color: #f1f5f9;">
-        <h2 class="mb-6" style="color: #38bdf8;">Conclusion : L'Héritage Diplomatique Alaouite</h2>
-        <div class="fill-height">
-            <ul class="text-lg" style="color: #cbd5e1;">
-                <li>Fondations durables : structures et pratiques persistent partiellement post-protectorat</li>
-                <li>Transition graduée : du système traditionnel aux normes modernes (1631-1912)</li>
-                <li>Centralité sultanale : principe directeur constant de politique étrangère marocaine</li>
-                <li>Contexte colonial : diplomatie alaouite comme résistance à domination formelle</li>
-            </ul>
-        </div>
-    </section>
-
-    <!-- Slide 16: Remerciements / Sources -->
-    <section class="slide p-16 col center" style="background-color: #020617; color: #f1f5f9;">
-        <h2 class="mb-8" style="color: #38bdf8;">Références et Sources</h2>
-        <div style="text-align: left; font-size: 0.9rem; color: #cbd5e1; line-height: 1.8;">
-            <p class="mb-4"><strong>Sources consultées :</strong></p>
-            <p>• BALZACQ, T. Manuel de Diplomatie</p>
-            <p>• La communication écrite en diplomatie</p>
-            <p>• Histoire diplomatique du Maroc (Alaouites)</p>
-            <p>• Foreign Policy et Régime Politique</p>
-            <p>• MORIN, J.F. La politique étrangère : théories, méthodes, références</p>
-        </div>
-    </section>
-
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            slideNumber: true,
+            transition: "fade",
+            backgroundTransition: "fade",
+            width: 1280,
+            height: 720
+        });
+    </script>
 </body>
 </html>

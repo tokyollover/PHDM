@@ -1,0 +1,220 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap");
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+==========================================================================
+【AI HANDOVER NOTE】
+1. DESIGN PHILOSOPHY:
+   - Sovereign Academicism: This system bridges 17th-century Chérifian prestige with modern pedagogical clarity. It uses a 'Manuscript-to-Modern' approach, blending parchment-like surfaces with precise modular 'Bento' layouts for historical data.
+   - Visual Style: 'Imperial Minimalism'. High-contrast typography paired with gold rim-lights and subtle geometric patterns (Zellij-inspired grid) to signify the authority of the Moroccan State (Makhzen).
+   - Purpose: Designed for dense academic documentation where legal precision (International Law) meets narrative history.
+
+2. TYPOGRAPHY:
+   - Sans (Plus Jakarta Sans): Chosen for its geometric clarity and modern professional feel, ensuring high legibility for long-form historical analysis.
+   - Mono (JetBrains Mono): Reserved for 'Data Strips'—dates, treaty coordinates, bibliographic references, and legal citations from the CIJ 1975 advisory opinion.
+
+3. COLOR SYSTEM:
+   - Brand Palette: Built around 'Imperial Red' (Hue 28) representing the Alaouite Dynasty and 'Maghreb Gold' (Hue 85) for diplomatic prestige.
+   - Mapping: --primary uses the deep red for authority; --accent uses the gold for highlights and 'call-out' boxes; --ring uses a translucent gold to simulate a wax seal effect.
+   - Semantic Logic: Success is 'Emerald Green' (Star of the Flag); Destructive is a sharp 'Cinnabar' for colonial encroachment or treaty violations.
+
+4. USAGE GUIDE:
+   - Layout: Centered container for 'Slide' content to mimic a physical lecture hall experience, with a full-width 'Command Sidebar' for the 34-slide navigation.
+   - Special Effects: Use 'glassmorphism' with a gold tint for popovers to represent historical layers. Implementation of 'rim-light' on card borders to give a sense of physical importance to treaty documents.
+==========================================================================
+*/
+
+:root {
+  /* Typography */
+  --font-sans: Plus Jakarta Sans, ui-sans-serif, system-ui;
+  --font-mono: JetBrains Mono, ui-monospace, SFMono-Regular;
+  
+  /* Radius */
+  --radius: 0.5rem;
+
+  /* Core UI Tokens */
+  --background: oklch(0.99 0.005 80);
+  --foreground: oklch(0.15 0.02 25);
+  --card: oklch(0.97 0.01 85);
+  --card-foreground: oklch(0.2 0.02 25);
+  --popover: oklch(0.99 0.005 80);
+  --popover-foreground: oklch(0.15 0.02 25);
+  --primary: oklch(0.45 0.18 28);
+  --primary-foreground: oklch(0.98 0.01 80);
+  --secondary: oklch(0.92 0.03 85);
+  --secondary-foreground: oklch(0.3 0.05 30);
+  --muted: oklch(0.95 0.01 85);
+  --muted-foreground: oklch(0.45 0.02 25);
+  --accent: oklch(0.85 0.12 85);
+  --accent-foreground: oklch(0.3 0.05 30);
+  --destructive: oklch(0.55 0.22 25);
+  --destructive-foreground: oklch(0.98 0.01 80);
+  --border: oklch(0.88 0.02 80);
+  --input: oklch(0.88 0.02 80);
+  --ring: oklch(0.75 0.15 85);
+  
+  /* Chart Tokens */
+  --chart-1: oklch(0.45 0.18 28);
+  --chart-2: oklch(0.6 0.15 150);
+  --chart-3: oklch(0.75 0.12 85);
+  --chart-4: oklch(0.5 0.1 200);
+  --chart-5: oklch(0.65 0.1 40);
+  
+  /* Sidebar Tokens */
+  --sidebar: oklch(0.96 0.01 85);
+  --sidebar-foreground: oklch(0.25 0.02 25);
+  --sidebar-primary: oklch(0.45 0.18 28);
+  --sidebar-primary-foreground: oklch(0.98 0.01 80);
+  --sidebar-accent: oklch(0.9 0.04 85);
+  --sidebar-accent-foreground: oklch(0.3 0.05 30);
+  --sidebar-border: oklch(0.85 0.02 85);
+  --sidebar-ring: oklch(0.75 0.15 85);
+}
+
+.dark {
+  --background: oklch(0.12 0.015 260);
+  --foreground: oklch(0.95 0.01 85);
+  --card: oklch(0.16 0.02 260);
+  --card-foreground: oklch(0.95 0.01 85);
+  --popover: oklch(0.12 0.015 260);
+  --popover-foreground: oklch(0.95 0.01 85);
+  --primary: oklch(0.6 0.18 28);
+  --primary-foreground: oklch(0.1 0.02 25);
+  --secondary: oklch(0.25 0.04 28);
+  --secondary-foreground: oklch(0.95 0.02 85);
+  --muted: oklch(0.2 0.02 260);
+  --muted-foreground: oklch(0.7 0.02 85);
+  --accent: oklch(0.75 0.15 85);
+  --accent-foreground: oklch(0.15 0.05 30);
+  --destructive: oklch(0.5 0.25 25);
+  --destructive-foreground: oklch(0.95 0.02 85);
+  --border: oklch(0.25 0.02 260);
+  --input: oklch(0.25 0.02 260);
+  --ring: oklch(0.6 0.18 28);
+  
+  /* Chart Tokens */
+  --chart-1: oklch(0.6 0.18 28);
+  --chart-2: oklch(0.7 0.15 150);
+  --chart-3: oklch(0.8 0.15 85);
+  --chart-4: oklch(0.6 0.12 210);
+  --chart-5: oklch(0.7 0.12 45);
+  
+  /* Sidebar Tokens */
+  --sidebar: oklch(0.1 0.015 260);
+  --sidebar-foreground: oklch(0.9 0.01 85);
+  --sidebar-primary: oklch(0.6 0.18 28);
+  --sidebar-primary-foreground: oklch(0.1 0.02 25);
+  --sidebar-accent: oklch(0.2 0.04 28);
+  --sidebar-accent-foreground: oklch(0.95 0.02 85);
+  --sidebar-border: oklch(0.2 0.02 260);
+  --sidebar-ring: oklch(0.6 0.18 28);
+}
+
+@theme inline {
+  /* Shadcn Core Mapping */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Charts Mapping */
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  /* Sidebar Mapping */
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Typography */
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+
+  /* Radius */
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    @apply scroll-smooth antialiased;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans min-h-screen;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+
+  code, pre {
+    @apply font-mono;
+  }
+
+  ::selection {
+    @apply bg-primary/20 text-primary;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-muted-foreground/20 rounded-full hover:bg-muted-foreground/40;
+  }
+}
+
+.editable-text {
+  outline: 2px dashed oklch(0.75 0.12 85 / 0.4);
+  outline-offset: 4px;
+  border-radius: 6px;
+  padding: 2px 4px;
+  background: oklch(0.97 0.01 85 / 0.4);
+}
+
+.editable-text:focus {
+  outline-color: oklch(0.45 0.18 28 / 0.6);
+  background: oklch(0.99 0.005 80 / 0.7);
+}
+
+.editable-text:empty::before {
+  content: attr(data-placeholder);
+  color: oklch(0.45 0.02 25 / 0.6);
+}
